@@ -71,6 +71,9 @@ For quick onboarding, choose the path that matches your role.
 - `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`  
   Agent-facing constraints: workflow traps, determinism boundary in RAG, provenance requirements.
 
+- `09_PROJECT__File_Naming_Java_Style_Best_Practices_v0_1.md`  
+  Consolidated file naming rules for Java-style projects (source, tests, resources, modules).
+
 - `01_CONCEPT__HESPERIA_project_RU.txt`  
   Conceptual / narrative project description (RU).
 
