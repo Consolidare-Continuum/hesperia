@@ -1,0 +1,227 @@
+# HESPERIA Hex-Sphere Geometry Prototype
+
+Glossary references (see `ACADEMIC.md`):
+- Geometry and indexing (Areas, Families, Sides, Regions): lines 58–106
+- Truth weight and structural metrics (T(R), C(R), fragIndex, S(R)): lines 216–228, 260–273
+- Saturation/pressure and adjacency notions: lines 340–351
+
+## 1. Overview
+
+This prototype formalizes geometric structure, atomic truth representation, structural coherence, context alignment, and fragmentation for the HESPERIA hex-sphere architecture. All definitions, formulas, and calculations are expressed in plain text and in a style suitable for encoding, including Java-style math expressions.
+
+---
+
+## 2. Geometry and Lattice Structure
+
+### 2.1 Constants
+
+```
+int AREAS = 12;
+int FAMILIES_PER_AREA = 24;
+int HEXES_PER_FAMILY = 250;
+int SIDES_PER_HEX = 6;
+```
+
+### 2.2 Derived Counts
+
+```
+int TOTAL_FAMILIES = AREAS * FAMILIES_PER_AREA;                // 288
+int TOTAL_HEXES = TOTAL_FAMILIES * HEXES_PER_FAMILY;           // 72,000
+int TOTAL_SIDES = TOTAL_HEXES * SIDES_PER_HEX;                 // 432,000
+```
+
+### 2.3 Per-Region Geometry
+
+```
+int sidesPerFamily = HEXES_PER_FAMILY * SIDES_PER_HEX;         // 1500
+int sidesPerArea   = sidesPerFamily * FAMILIES_PER_AREA;       // 36,000
+```
+
+---
+
+## 3. Statement and Sentence Capacity
+
+Each side carries exactly one statement. Each statement contains 3–5 sentences.
+
+### 3.1 Capacity Per Hex
+
+```
+int minSentencesHex = SIDES_PER_HEX * 3;       // 18
+int maxSentencesHex = SIDES_PER_HEX * 5;       // 30
+```
+
+### 3.2 Capacity Per Family
+
+```
+int minSentencesFamily = sidesPerFamily * 3;   // 4,500
+int maxSentencesFamily = sidesPerFamily * 5;   // 7,500
+```
+
+### 3.3 Capacity Per Area
+
+```
+int minSentencesArea = sidesPerArea * 3;       // 108,000
+int maxSentencesArea = sidesPerArea * 5;       // 180,000
+```
+
+### 3.4 Total Sphere Capacity
+
+```
+int minSentencesSphere = TOTAL_SIDES * 3;      // 1,296,000
+int maxSentencesSphere = TOTAL_SIDES * 5;      // 2,160,000
+```
+
+---
+
+## 4. Truth Representation
+
+Truth exists only on **sides**. A side is an atomic truth unit.
+
+### 4.1 Truth Value per Side
+
+```
+double tau_s;          // tau_s in [0,1]
+```
+
+0 = false, 1 = fully true.
+
+### 4.2 Truth Magnitude for Region R
+
+```
+double T(R) = sum(tau_s for all sides s in R);
+```
+
+### 4.3 Maximum Truth Capacity
+
+```
+double T_max(R) = countSides(R);
+```
+
+### 4.4 Normalized Hex Truth
+
+```
+double T_hex_norm = T(hex) / 6.0;
+```
+
+---
+
+## 5. Adjacency and Graph Structure
+
+Sides form nodes in a graph. Edges represent adjacency.
+
+### 5.1 Adjacency Condition
+
+Two sides i and j are adjacent if:
+
+* They belong to the same hex, or
+* Their hexes share a border.
+
+Represented as:
+
+```
+int A[i][j] = (adjacent(i,j) ? 1 : 0);
+```
+
+---
+
+## 6. Connected Truth Clusters
+
+A cluster is a connected component of sides with `tau_s > 0`.
+
+### 6.1 Cluster Count
+
+```
+int K(R) = numberOfConnectedComponents(R);
+```
+
+### 6.2 Largest Cluster Size
+
+```
+int L(R) = sizeOfLargestCluster(R);
+```
+
+---
+
+## 7. Structural Metrics
+
+### 7.1 Coherence C(R)
+
+Measures how well truth is concentrated.
+
+```
+double C(R) = L(R) / countActiveSides(R);
+```
+
+Where:
+
+```
+countActiveSides(R) = number of sides in R with tau_s > 0;
+```
+
+### 7.2 Context Alignment X(R)
+
+Each side has:
+
+```
+int area(s);
+int family(s);
+```
+
+Dominant area of region R:
+
+```
+int a_star = argmax_a count(s in R where area(s) == a);
+```
+
+Alignment:
+
+```
+double X_A(R) = count(s in R where area(s) == a_star)
+                / countActiveSides(R);
+```
+
+Same logic for Families:
+
+```
+double X_F(R) = ...
+```
+
+### 7.3 Fragmentation F(R)
+
+Raw cluster count.
+
+```
+int F(R) = K(R);
+```
+
+---
+
+## 8. Composite Structural Score
+
+Combined metric for traversal or inference region R.
+
+### 8.1 Area-Level Score
+
+```
+double S(R) = T(R) * C(R) * X_A(R);
+```
+
+### 8.2 Area + Family Score
+
+```
+double S_prime(R) = T(R) * C(R) * X_A(R) * X_F(R);
+```
+
+### 8.3 Interpretation
+
+* T(R): how much truth
+* C(R): how well truth holds together
+* X_A(R): boundary cleanliness by Area
+* X_F(R): boundary cleanliness by Family
+* F(R): diagnostic for fragmentation (not included in score but used for evaluation)
+
+---
+
+## 9. Summary
+
+The HESPERIA hex-sphere lattice consists of 72,000 hexes and 432,000 sides. Each side is an atomic truth slot with one statement of 3–5 sentences. The geometry defines absolute capacity limits. Truth, coherence, alignment, and fragmentation create a complete measurable substrate for structural evaluation during traversal or context computation.

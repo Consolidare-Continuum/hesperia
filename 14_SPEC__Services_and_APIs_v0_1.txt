@@ -1,0 +1,264 @@
+HESPERIA — SERVICES & APIS SPEC v0.1
+
+Glossary references (see `ACADEMIC.md`):
+- System and input/output notions: lines 22–54
+- Semantic attribution objects (SentenceAttribution, StatementAttribution): lines 168–196
+- Geometry/indexing and Regions: lines 58–106
+- Metrics and governance decision: lines 214–258, 353–376
+
+Purpose:
+Define the conceptual services, responsibilities, and main APIs
+for implementations (Java, Python, microservices).
+This file is an integration guide for engineers.
+
+Relationships:
+- Builds on: 10_MASTER_SPEC__HESPERIA_v1_0.txt
+- Engineering view of: 11_BLUEPRINT__HESPERIA_v4_5_full.txt
+- Complements code in: sphere_rag/*
+
+============================================================
+1. CORE SERVICES (LOGICAL COMPONENTS)
+============================================================
+
+DictionaryService
+-----------------
+Responsibilities:
+- Store and serve lemma → Family/Area mappings.
+- Provide nearest-neighbor word search in embedding space.
+
+Key APIs (conceptual signatures):
+- getFamily(word: String) -> int familyId
+- getArea(word: String) -> int areaId
+- nearestWords(embedding: double[], k: int) -> List<WordNeighbor>
+- updateFamily(word: String, familyId: int)
+
+
+AttributionService
+------------------
+Responsibilities:
+- Implement the 5-stage word pipeline and sentence/statement aggregation
+  as per 12_SPEC__Semantic_Engine_v0_4.txt.
+
+Key APIs:
+- classifyWord(word: String, Ew: double[]) -> int familyId
+- classifySentence(tokens: List<String>) -> SentenceAttribution
+- classifyStatement(sentences: List<SentenceAttribution>,
+                    E_statement: double[]) -> StatementAttribution
+
+
+GeometryService
+---------------
+Responsibilities:
+- Maintain the hex sphere lattice and truth slots (sides).
+- Map StatementAttributions to concrete sides using the indexing spec.
+
+Key APIs:
+- assignSide(statementId: long,
+             familyId: int,
+             areaId: int) -> int sideId
+- updateTau(sideId: int, tau: double)
+- buildRegion(statementHits: List<long>) -> Region
+
+Notes:
+- Must follow 13_SPEC__Indexing_and_Coordinates_v1_0.txt.
+
+
+VectorSearchService
+-------------------
+Responsibilities:
+- Provide embedding-based search for words and statements.
+- Support sharded search by family/area.
+
+Key APIs:
+- searchWords(queryEmbedding: double[], k: int) -> List<WordHit>
+- searchStatements(queryEmbedding: double[],
+                   familyId: int,
+                   areaId: int,
+                   k: int) -> List<StatementHit>
+
+
+TraversalService
+----------------
+Responsibilities:
+- Run loop-based traversal on regions.
+- Compute structural metrics for reasoning and governance.
+
+Key APIs:
+- runLoop(region: Region,
+          maxPasses: int,
+          dominance: double,
+          obstacleTheta: double) -> LoopResult
+- computeStructureMetrics(region: Region) -> StructureMetrics
+
+References:
+- 40_POLICY__Loopability_and_traversal.txt
+- 21_MATH__HESPERIA_formalization_v1_java.txt
+
+
+IngestionService
+----------------
+Responsibilities:
+- Batch process corpus into fully attributed sphere structure.
+
+Key APIs:
+- processBook(file: Path) -> IngestionReport
+- processStatement(text: String) -> long statementId
+
+References:
+- 11_BLUEPRINT__HESPERIA_v4_5_full.txt (sections 12.3–12.4)
+
+
+============================================================
+2. ROLE MAPPING (WHO WORKS WHERE)
+============================================================
+
+- Backend / Systems Engineers:
+  - Own implementations of DictionaryService, AttributionService,
+    GeometryService, VectorSearchService, TraversalService, IngestionService.
+  - Use this file + 11_BLUEPRINT__HESPERIA_v4_5_full.txt as their main contract.
+
+- ML / NLP Engineers:
+  - Own embeddings, threshold calibration, and vector DB configuration.
+  - Work primarily with AttributionService and VectorSearchService.
+
+- Ontology / Domain Experts:
+  - Own family/area definitions and updates.
+  - Work primarily with docs 30/31/32 and dictionary data.
+
+- Safety / Governance Engineers:
+  - Own loopability policies, obstacle thresholds, decision mechanics.
+  - Work primarily with 40_POLICY, 41_POLICY and downstream LLM wrappers.
+
+
+============================================================
+3. RESULT STRUCTURE AND EXTERNAL LLM USAGE
+============================================================
+
+This section defines what HESPERIA **outputs** as a structured result.
+How an external LLM (e.g. OpenAI assistant) consumes this result is
+**outside** the core system, but the result format must be stable.
+
+--------------------------
+3.1 Canonical result object
+--------------------------
+
+Conceptual type (language-agnostic):
+
+```text
+HESPERIAResult {
+  input_text: String
+  statement_id: Long?          // if persisted
+
+  area_id: Int                 // dominant Area
+  family_id: Int               // dominant Family
+
+  metrics: {
+    loopability: Double
+    coverage_phi: Double
+    tension_energy: Double
+    obstacle_score: Double
+    decision_integrity: Double?   // optional composite
+    strategic_score: Double?      // optional composite
+  }
+
+  governance: {
+    allow: Boolean
+    require_correction: Boolean
+    forbid: Boolean
+    score: Double
+    reason: String
+  }
+
+  sides: [
+    {
+      side_id: Int
+      area_id: Int
+      family_id: Int
+      hex_index: Int
+      side_index: Int
+      tau: Double
+    }, ...
+  ]
+
+  supporting_statements: [
+    {
+      id: Long
+      area_id: Int
+      family_id: Int
+      text_excerpt: String
+      book: String?      // optional metadata
+      author: String?    // optional metadata
+    }, ...
+  ]
+
+  explanation: String    // human-readable summary of why
+  log_id: String?        // optional reference to persisted log entry
+}
+```
+
+Notes:
+- All IDs (area_id, family_id, side_id) follow the indexing spec.
+- `sides` and `supporting_statements` may be truncated according to
+  configuration (e.g. top-K by tau or relevance).
+
+
+--------------------------
+3.2 How services populate the result
+--------------------------
+
+- AttributionService:
+  - Provides `area_id`, `family_id`, and StatementAttribution fields.
+
+- VectorSearchService:
+  - Provides `supporting_statements` IDs and optional book/author metadata
+    (from data tables such as 50/51).
+
+- GeometryService:
+  - Builds the set of `sides` for the Region, including full coordinates
+    and tau values.
+
+- TraversalService:
+  - Computes `metrics.loopability`, `coverage_phi`, `tension_energy`,
+    `obstacle_score` and any structural metrics needed for composites.
+
+- Governance / decision layer:
+  - Computes `governance` fields and composite scores
+    (`decision_integrity`, `strategic_score`) based on metrics.
+  - Generates a concise `explanation` string tied to metrics.
+
+- Logging:
+  - Implementations may persist the entire `HESPERIAResult` (or a hash)
+    to a log table / store and set `log_id` so that external clients can
+    reference or audit the decision later.
+
+
+--------------------------
+3.3 External LLM usage (outside core system)
+--------------------------
+
+From HESPERIA’s perspective:
+- The **only contractual obligation** is to emit a valid `HESPERIAResult`
+  for each processed input (or batch of statements).
+- Any external LLM wrapper (OpenAI assistant, etc.) should:
+  - Receive `HESPERIAResult` as structured input.
+  - Use the metrics and governance flags to:
+    - accept/decline answering,
+    - request user clarification,
+    - or explain why an answer is blocked or tentative.
+- Prompt design, user-facing formatting, and additional commentary
+  belong to the wrapper layer and must not alter HESPERIA’s internal
+  metrics or logs.
+
+
+============================================================
+4. IMPLEMENTATION NOTES
+============================================================
+
+- Language bindings (Java, Python, etc.) should keep method names and
+  semantics as close as possible to this spec, even if signatures differ.
+- Microservice boundaries can follow these logical services directly
+  (e.g., one REST/gRPC service per component).
+- Any changes to service responsibilities, result shape, or contracts
+  should be reflected here and cross-checked with:
+  - 10_MASTER_SPEC__HESPERIA_v1_0.txt
+  - 11_BLUEPRINT__HESPERIA_v4_5_full.txt

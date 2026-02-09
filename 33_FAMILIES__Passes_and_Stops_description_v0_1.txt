@@ -1,0 +1,86 @@
+HESPERIA — First Families Linking (Passes and Stops) v0.1
+
+This file narrates the first explicit linking of Families across Areas
+using border passes and safety control stops.
+
+1. Starting Point
+-----------------
+
+- We began from:
+  - 30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt
+  - 31_FAMILIES__area_family_table_full.txt
+  - HESPERIA_FAMILIES_SETUP_V0.1.txt
+- The goal was to define:
+  - Semantically meaningful cross-Area passes that respect the canonical
+    ring geometry.
+  - A separate layer of safety redirects (control stops) for high-risk
+    Families.
+
+2. Geometry Passes v0.2 → v0.3
+------------------------------
+
+- v0.2 (intermediate, not kept as a primary file) introduced:
+  - 3 passes per border between neighboring Areas on the ring.
+  - CONTROL–DECEIT–TRUTH regulatory passes.
+- v0.3 (current):
+  - Extends to 4 passes per border (border_slot 0..3) while preserving
+    ring order and semantics.
+  - Uses only canonical Families as defined in the setup table.
+  - Touches 95 Families out of 288 (~ one-third of the lattice).
+
+3. Safety Control Stops v0.1
+----------------------------
+
+- We then added a distinct layer of control stops:
+  - HARM → GOOD / CREATION.
+  - DESTRUCTION → TRUTH / FREEDOM.
+  - CHAOS → ORDER.
+  - DECEIT → TRUTH.
+- Each stop edge carries a concrete safety intention:
+  - Redirecting from violence, exploitation, predation, or hatred
+    toward protection, fairness, compassion, and community.
+  - Turning destruction (damage, erasure, invasion, devastation) toward
+    evidence, traceability, rights, and exit options.
+  - Moving deceit (lies, conspiracism, forgery, gaslighting, clickbait,
+    subterfuge) into clarity, testing, verification, and consensus.
+
+4. Balancing the Lattice
+------------------------
+
+- After layering passes and stops we tuned counts so that:
+  - Exactly half of all Families (144 / 288) have at least one external
+    semantics edge (pass or stop).
+  - Exactly half remain internal-only.
+- Within the external half:
+  - ≈ 1/3 of all Families participate in neutral geometry passes.
+  - ≈ 1/5 participate in explicit safety control stops.
+  - Some Families are in both sets (e.g., border Families that also
+    carry safety responsibilities).
+
+5. Combined Matrix
+------------------
+
+- We constructed HESPERIA_FAMILIES_PASSES_matrix_v0_1.csv as a single
+  matrix-like view of all passes and stops:
+  - One row per edge (PASS or STOP).
+  - Indexed by Family global_id and Area id.
+  - With a conventional weight (1.0 for PASS, 0.2 for STOP) suitable for
+    numerical treatment.
+- Hex and side coordinates are not duplicated here; they come from
+  HESPERIA_FAMILIES_SETUP_V0.1.txt and 13_SPEC__Indexing_and_Coordinates_v1_0.txt.
+
+6. Intended Reading Order
+-------------------------
+
+For understanding the Families linking:
+
+1. 30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt
+2. 31_FAMILIES__area_family_table_full.txt
+3. 32_FAMILIES__concise_spec_v2_1.txt
+4. 16_SPEC__Families_Passes_and_Safety_v0_1.txt
+5. 33_FAMILIES__Passes_and_Stops_description_v0_1.txt
+
+Together, these describe the ontology, the geometry, and the first
+explicit wiring of Families across Areas with both traversal and safety
+in mind.
+

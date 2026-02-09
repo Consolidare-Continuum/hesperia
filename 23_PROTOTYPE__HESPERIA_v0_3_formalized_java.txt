@@ -1,0 +1,1066 @@
+// ============================================================
+// HESPERIA — PROTOTYPE v0.3
+// Unified math + comments (Java-style, not runtime-ready)
+// Legacy: superseded by 10_MASTER_SPEC__HESPERIA_v1_0.txt
+// and 11_BLUEPRINT__HESPERIA_v4_5_full.txt. Kept for history.
+// ============================================================
+//
+// Goal: one stable mathematical backbone for the HESPERIA hex-sphere lattice
+//  - 12 Areas on a ring (antipodal pairs)
+//  - 24 Families per Area
+//  - 250 hexes per Family
+//  - 6 sides per hex = 1 atomic truth slot each
+//
+// This file consolidates:
+//  - Ontology + ring loop + obstacles + metrics (v0.1 / v0.2 spec)
+//  - Geometry, truth, clusters, alignment, spectral tools
+//  - Operational additions: provenance, decision utility, causality, etc.
+//
+// Do NOT over-engineer. This is the backbone; details can be filled in
+// later with actual code and data structures.
+
+// ------------------------------------------------------------
+// 0. Basic Types (placeholders)
+// ------------------------------------------------------------
+
+class Region {
+    // Abstract handle to a set of sides (subset of the sphere).
+    // Implementation detail: could be a bitset, index range, etc.
+    int[] sides() { return new int[0]; }
+}
+
+class Graph {
+    // Placeholder static graph utilities operating on sides + adjacency.
+
+    static int countComponents(int[] nodes, int[][] A) { return 0; }
+
+    static int largestComponentSize(int[] nodes, int[][] A) { return 0; }
+
+    static int[] neighbors(int i, int[][] A) { return new int[0]; }
+}
+
+class Complex {
+    // Simple complex type for DFT on 12-point ring.
+    double re, im;
+
+    Complex(double r, double i) { this.re = r; this.im = i; }
+
+    double power() {
+        // Squared magnitude of complex value.
+        return re * re + im * im;
+    }
+}
+
+// ------------------------------------------------------------
+// 1. Core Ontology and Geometry
+// ------------------------------------------------------------
+
+class HexSphere {
+
+    // 1.1 Areas (12 macro Areas, fixed)
+    // Index convention:
+    //   0: GOOD
+    //   1: HARM
+    //   2: TRUTH
+    //   3: DECEIT
+    //   4: ORDER
+    //   5: CHAOS
+    //   6: FREEDOM
+    //   7: CONTROL
+    //   8: CARE
+    //   9: INDIFFERENCE
+    //  10: CREATION
+    //  11: DESTRUCTION
+    //
+    // Antipodes are paired by (0,1), (2,3), (4,5), (6,7), (8,9), (10,11).
+
+    static final int AREAS = 12;
+
+    // Optional: explicit labels, mostly for debugging / interpretability.
+    static final String[] AREA_NAMES = {
+        "GOOD", "HARM",
+        "TRUTH", "DECEIT",
+        "ORDER", "CHAOS",
+        "FREEDOM", "CONTROL",
+        "CARE", "INDIFFERENCE",
+        "CREATION", "DESTRUCTION"
+    };
+
+    // Ring order index sequence (C12 loop).
+    // This encodes GOOD → CARE → ORDER → CONTROL → INDIFFERENCE → HARM →
+    // DESTRUCTION → CHAOS → FREEDOM → TRUTH → CREATION → GOOD.
+    //
+    // Values are indices into AREA_NAMES.
+    static final int[] AREA_RING_ORDER = {
+        0,  // GOOD
+        8,  // CARE
+        4,  // ORDER
+        7,  // CONTROL
+        9,  // INDIFFERENCE
+        1,  // HARM
+        11, // DESTRUCTION
+        5,  // CHAOS
+        6,  // FREEDOM
+        2,  // TRUTH
+        10, // CREATION
+        0   // wrap to GOOD (logical closure)
+    };
+
+    // 1.2 Families
+    // 24 families per Area. Keep this stable; if you change it, you
+    // invalidate all static indexing and metrics.
+
+    static final int FAMILIES_PER_AREA = 24;
+    static final int TOTAL_FAMILIES = AREAS * FAMILIES_PER_AREA; // 288
+
+    // 1.3 Geometry: hexes and sides
+    // Each Family has 250 hexes, each hex has 6 sides (atomic truth units).
+
+    static final int HEXES_PER_FAMILY = 250;
+    static final int TOTAL_HEXES = TOTAL_FAMILIES * HEXES_PER_FAMILY; // 72_000
+
+    static final int SIDES_PER_HEX = 6;
+    static final int TOTAL_SIDES = TOTAL_HEXES * SIDES_PER_HEX;       // 432_000
+
+    // 1.4 Derived per-region geometry
+    // These are hard capacity numbers, not estimates.
+
+    static final int SIDES_PER_FAMILY = HEXES_PER_FAMILY * SIDES_PER_HEX; // 1_500
+    static final int SIDES_PER_AREA = SIDES_PER_FAMILY * FAMILIES_PER_AREA; // 36_000
+
+    // --------------------------------------------------------
+    // 2. Truth Model per Side
+    // --------------------------------------------------------
+
+    // 2.1 Truth value tau[s] in [0,1].
+    // tau[s] = 0   → false / unsupported / empty
+    // tau[s] = 1   → fully true / maximally supported
+    // Realistically this is a graded evidence strength.
+
+    double[] tau = new double[TOTAL_SIDES];
+
+    // High-confidence truth threshold.
+    static final double TAU_THRESHOLD = 0.8;
+
+    // 2.2 Evidence and provenance weights per side
+    // Keep these separate from tau; tau is "truth-like",
+    // these are modifiers.
+
+    double[] credibility = new double[TOTAL_SIDES]; // [0,1]
+    double[] recency = new double[TOTAL_SIDES];     // [0,1]
+    double[] consensus = new double[TOTAL_SIDES];   // [0,1]
+
+    // Combined provenance weight:
+    // provenanceWeight[s] = credibility * recency * consensus
+    double provenanceWeight(int s) {
+        return credibility[s] * recency[s] * consensus[s];
+    }
+
+    // 2.3 Side-level metadata
+    // areaOf[s] and familyOf[s] are static assignments.
+
+    int[] areaOf = new int[TOTAL_SIDES];   // 0..11
+    int[] familyOf = new int[TOTAL_SIDES]; // 0..287
+
+    // Timestamps for temporal decay.
+    // Could be epoch seconds or any monotonic time scale.
+    long[] timestamp = new long[TOTAL_SIDES];
+
+    // --------------------------------------------------------
+    // 3. Capacity and Basic Counts on a Region
+    // --------------------------------------------------------
+
+    // Helper to count sides in a Region.
+    int countSides(Region R) {
+        return R.sides().length;
+    }
+
+    // Count sides that are actually filled (tau > 0).
+    int filledSides(Region R) {
+        int c = 0;
+        for (int s : R.sides()) {
+            if (tau[s] > 0.0) c++;
+        }
+        return c;
+    }
+
+    // Filling rate = fraction of potential slots actually used.
+    double fillingRate(Region R) {
+        int total = countSides(R);
+        if (total == 0) return 0.0;
+        return (double) filledSides(R) / (double) total;
+    }
+
+    // Sentence capacity per region assuming 3–5 sentences per filled side.
+    int minSentences(Region R) {
+        return filledSides(R) * 3;
+    }
+
+    int maxSentences(Region R) {
+        return filledSides(R) * 5;
+    }
+
+    // Fixed average assumption: 4 sentences per filled side.
+    double avgSentences(Region R) {
+        final double avgPerSide = 4.0;
+        return filledSides(R) * avgPerSide;
+    }
+
+    // 3.1 Truth magnitude in a region:
+    // T(R) = Σ tau[s] over all sides in R.
+    double T(Region R) {
+        double sum = 0.0;
+        for (int s : R.sides()) {
+            sum += tau[s];
+        }
+        return sum;
+    }
+
+    // Maximum truth if all sides in R were fully true.
+    double T_max(Region R) {
+        return (double) countSides(R);
+    }
+
+    // Normalized truth density.
+    // T_norm(R) = T(R) / T_max(R) ∈ [0,1].
+    double T_norm(Region R) {
+        int total = countSides(R);
+        if (total == 0) return 0.0;
+        return T(R) / (double) total;
+    }
+
+    // Discrete "truth points": sides whose tau ≥ TAU_THRESHOLD.
+    int truthPoints(Region R) {
+        int k = 0;
+        for (int s : R.sides()) {
+            if (tau[s] >= TAU_THRESHOLD) k++;
+        }
+        return k;
+    }
+
+    // Truth point density: fraction of slots that carry strong truths.
+    double truthPointDensity(Region R) {
+        int total = countSides(R);
+        if (total == 0) return 0.0;
+        return (double) truthPoints(R) / (double) total;
+    }
+
+    // --------------------------------------------------------
+    // 4. Adjacency, Clusters, and Structural Coherence
+    // --------------------------------------------------------
+
+    // Adjacency matrix for sides.
+    // A[i][j] = 1 if sides i and j are adjacent within hex lattice.
+    int[][] A = new int[TOTAL_SIDES][TOTAL_SIDES];
+
+    // Count active sides: tau > 0.
+    int activeSides(Region R) {
+        int k = 0;
+        for (int s : R.sides()) {
+            if (tau[s] > 0.0) k++;
+        }
+        return k;
+    }
+
+    // Number of connected components K(R) among active sides.
+    int K(Region R) {
+        return Graph.countComponents(R.sides(), A);
+    }
+
+    // Size of largest connected component L(R).
+    int L(Region R) {
+        return Graph.largestComponentSize(R.sides(), A);
+    }
+
+    // Structural coherence C(R) = L(R) / activeSides(R).
+    // 1.0 = all active sides in one connected truth cluster.
+    double C(Region R) {
+        int act = activeSides(R);
+        if (act == 0) return 0.0;
+        return (double) L(R) / (double) act;
+    }
+
+    // Fragmentation index = K(R) / activeSides(R).
+    // Higher means more scattered truths, not ideal.
+    double fragIndex(Region R) {
+        int act = activeSides(R);
+        if (act == 0) return 0.0;
+        return (double) K(R) / (double) act;
+    }
+
+    // Adjacency truth correlation.
+    // Measures how smooth the truth field is across neighboring sides.
+    // We penalize large |tau[i] - tau[j]| differences.
+    double adjacencyCorrelation(Region R) {
+        double num = 0.0;
+        int edges = 0;
+
+        for (int i : R.sides()) {
+            int[] neigh = Graph.neighbors(i, A);
+            for (int j : neigh) {
+                if (i < j) { // avoid double-counting edges
+                    num += Math.abs(tau[i] - tau[j]);
+                    edges++;
+                }
+            }
+        }
+
+        if (edges == 0) return 0.0;
+        double avgDiff = num / (double) edges;
+        // Convert average difference to "smoothness" in [0,1].
+        // The actual scaling can be tuned; here we just invert.
+        return 1.0 - avgDiff; 
+    }
+
+    // --------------------------------------------------------
+    // 5. Area & Family Alignment
+    // --------------------------------------------------------
+
+    // Area alignment X_A(R).
+    // Fraction of active sides belonging to the dominant Area.
+    double X_A(Region R) {
+        int[] count = new int[AREAS];
+        int act = activeSides(R);
+        if (act == 0) return 0.0;
+
+        for (int s : R.sides()) {
+            if (tau[s] > 0.0) {
+                count[areaOf[s]]++;
+            }
+        }
+
+        int maxA = 0;
+        for (int a = 1; a < AREAS; a++) {
+            if (count[a] > count[maxA]) maxA = a;
+        }
+
+        return (double) count[maxA] / (double) act;
+    }
+
+    // Family alignment X_F(R).
+    // Fraction of active sides belonging to the dominant Family.
+    double X_F(Region R) {
+        int[] count = new int[TOTAL_FAMILIES];
+        int act = activeSides(R);
+        if (act == 0) return 0.0;
+
+        for (int s : R.sides()) {
+            if (tau[s] > 0.0) {
+                count[familyOf[s]]++;
+            }
+        }
+
+        int maxF = 0;
+        for (int f = 1; f < TOTAL_FAMILIES; f++) {
+            if (count[f] > count[maxF]) maxF = f;
+        }
+
+        return (double) count[maxF] / (double) act;
+    }
+
+    // Shannon entropy over Areas for a Region.
+    // Measures how spread the active sides are across Areas.
+    double areaEntropy(Region R) {
+        int[] count = new int[AREAS];
+        int act = activeSides(R);
+        if (act == 0) return 0.0;
+
+        for (int s : R.sides()) {
+            if (tau[s] > 0.0) {
+                count[areaOf[s]]++;
+            }
+        }
+
+        double H = 0.0;
+        for (int a = 0; a < AREAS; a++) {
+            if (count[a] == 0) continue;
+            double p = (double) count[a] / (double) act;
+            H -= p * Math.log(p); // natural log
+        }
+        return H;
+    }
+
+    // Composite structural scores for Region R.
+    // S(R) = T * C * X_A
+    double S(Region R) {
+        return T(R) * C(R) * X_A(R);
+    }
+
+    // S'(R) = T * C * X_A * X_F (stricter: penalizes mixed Families).
+    double S_prime(Region R) {
+        return T(R) * C(R) * X_A(R) * X_F(R);
+    }
+
+    // --------------------------------------------------------
+    // 6. Semantic Ring State (Areas, Families, Obstacles)
+// --------------------------------------------------------
+
+    // Area activation vector A_vec[a] ∈ [0,1], Σ A_vec[a] = 1.
+    // Represents current semantic "stance" across Areas.
+    double[] A_vec = new double[AREAS];
+
+    // Family activation vector F_vec[f] (not necessarily normalized).
+    double[] F_vec = new double[TOTAL_FAMILIES];
+
+    // Obstacle score O_obstacle ∈ [0,1].
+    // 0 = no obstacle, 1 = hard stop (absorbing).
+    double O_obstacle = 0.0;
+
+    // Generic entropy for any probability distribution p[].
+    double entropy(double[] p) {
+        double H = 0.0;
+        for (double x : p) {
+            if (x > 0.0) {
+                H -= x * Math.log(x);
+            }
+        }
+        return H;
+    }
+
+    // Coverage Φ: fraction of Areas hit at least once in a loop.
+    double coveragePhi(boolean[] areaHit) {
+        int k = 0;
+        for (boolean b : areaHit) {
+            if (b) k++;
+        }
+        return (double) k / (double) AREAS;
+    }
+
+    // Loopability L = (# hops adding a new weighted family) / (total hops).
+    // Measures how productive the loop is in discovering new context.
+    double loopability(int newHits, int hops) {
+        if (hops == 0) return 0.0;
+        return (double) newHits / (double) hops;
+    }
+
+    // Bipolar axes B[k] = A[2k] − A[2k+1] for 6 antipodal pairs.
+    double[] bipolarAxes(double[] A) {
+        double[] B = new double[6];
+        for (int k = 0; k < 6; k++) {
+            int plus = 2 * k;
+            int minus = 2 * k + 1;
+            B[k] = A[plus] - A[minus];
+        }
+        return B;
+    }
+
+    // Tension energy = Σ B[k]^2.
+    // High tension means strong polarization across several axes.
+    double tensionEnergy(double[] B) {
+        double s = 0.0;
+        for (double b : B) s += b * b;
+        return s;
+    }
+
+    // --------------------------------------------------------
+    // 7. Divergence & Similarity
+    // --------------------------------------------------------
+
+    // KL divergence KL(p || q) (non-symmetric).
+    double kl(double[] p, double[] q) {
+        double d = 0.0;
+        for (int i = 0; i < p.length; i++) {
+            if (p[i] > 0.0 && q[i] > 0.0) {
+                d += p[i] * Math.log(p[i] / q[i]);
+            }
+        }
+        return d;
+    }
+
+    // Cosine similarity between two vectors.
+    double cosine(double[] x, double[] y) {
+        double dot = 0.0;
+        double nx = 0.0;
+        double ny = 0.0;
+        for (int i = 0; i < x.length; i++) {
+            dot += x[i] * y[i];
+            nx += x[i] * x[i];
+            ny += y[i] * y[i];
+        }
+        if (nx == 0.0 || ny == 0.0) return 0.0;
+        return dot / (Math.sqrt(nx) * Math.sqrt(ny));
+    }
+
+    // --------------------------------------------------------
+    // 8. Temporal Coherence & Drift
+    // --------------------------------------------------------
+
+    // Coherence between two turns: cosine similarity between Area vectors.
+    double turnCoherence(double[] A_t, double[] A_prev) {
+        return cosine(A_t, A_prev);
+    }
+
+    // Cumulative drift between start and end of a conversation.
+    // 0 = identical, 1 = fully orthogonal.
+    double cumulativeDrift(double[] A_start, double[] A_end) {
+        return 1.0 - cosine(A_start, A_end);
+    }
+
+    // Temporal decay of tau using exponential decay.
+    // tau_t[s] = tau[s] * exp(-λ * age)
+    // age is in same time units as λ’s inverse.
+    double tauTemporal(int s, double lambda, long now) {
+        long age = now - timestamp[s];
+        double ageDouble = (double) age;
+        return tau[s] * Math.exp(-lambda * ageDouble);
+    }
+
+    // Temporal stability of Region R: 1 - variance of timestamps.
+    // Approximated via normalized variance.
+    double temporalStability(Region R) {
+        int[] sides = R.sides();
+        int n = sides.length;
+        if (n == 0) return 0.0;
+
+        double mean = 0.0;
+        for (int s : sides) mean += timestamp[s];
+        mean /= (double) n;
+
+        double var = 0.0;
+        for (int s : sides) {
+            double d = timestamp[s] - mean;
+            var += d * d;
+        }
+        var /= (double) n;
+
+        // Normalization is domain-specific; here we just invert
+        // with a simple heuristic to keep result in [0,1].
+        double normalized = var / (var + 1.0);
+        return 1.0 - normalized;
+    }
+
+    // --------------------------------------------------------
+    // 9. Obstacles and Hazard Modeling
+    // --------------------------------------------------------
+
+    // Expected time to obstacle if O_obstacle is interpreted as hazard rate.
+    double expectedTimeToObstacle(double O) {
+        if (O <= 0.0) return Double.POSITIVE_INFINITY;
+        return 1.0 / O;
+    }
+
+    // Simple obstacle check: if O_obstacle ≥ θ, we break the loop.
+    boolean shouldBreak(double obstacleScore, double theta) {
+        return obstacleScore >= theta;
+    }
+
+    // --------------------------------------------------------
+    // 10. Spectral Smoothness on the Ring C12
+    // --------------------------------------------------------
+
+    // DFT over the 12-Area ring. Real implementation omitted here.
+    Complex[] dft(double[] A) {
+        // Standard DFT; for now this is a placeholder.
+        // Implement Cooley–Tukey or naive O(n^2) if needed.
+        return new Complex[AREAS];
+    }
+
+    // Ring smoothness: fraction of energy in low-frequency components.
+    // High smoothness means the Area distribution is not ping-ponging.
+    double ringSmoothness(double[] A) {
+        Complex[] F = dft(A);
+        if (F == null || F.length == 0) return 0.0;
+
+        double total = 0.0;
+        for (Complex c : F) {
+            if (c != null) total += c.power();
+        }
+        if (total == 0.0) return 0.0;
+
+        // Treat k=0,1,11 as "low frequency" band.
+        double low = 0.0;
+        if (F[0] != null) low += F[0].power();
+        if (F[1] != null) low += F[1].power();
+        if (F[11] != null) low += F[11].power();
+
+        return low / total;
+    }
+
+    // --------------------------------------------------------
+    // 11. Evidence Quality & Provenance (Region-level)
+// --------------------------------------------------------
+
+    // Evidence quality for Region R:
+    // evidenceQuality(R) =
+    //   Σ (tau[s] * provenanceWeight[s]) / Σ tau[s]
+    double evidenceQuality(Region R) {
+        double num = 0.0;
+        double den = 0.0;
+
+        for (int s : R.sides()) {
+            num += tau[s] * provenanceWeight(s);
+            den += tau[s];
+        }
+
+        if (den == 0.0) return 0.0;
+        return num / den;
+    }
+
+    // --------------------------------------------------------
+    // 12. Multi-scale Retrieval Consistency
+    // --------------------------------------------------------
+
+    // Embeddings at side / hex / family levels.
+    // These are vectors in some embedding space of dimension D.
+    double[][] embed_side;   // [TOTAL_SIDES][D]
+    double[][] embed_hex;    // [TOTAL_HEXES][D]
+    double[][] embed_family; // [TOTAL_FAMILIES][D]
+
+    // Helper: average embedding over a given set of indices.
+    double[] avgEmbedding(double[][] vectors, int[] indices) {
+        if (indices.length == 0) return new double[0];
+        int D = vectors[0].length;
+        double[] avg = new double[D];
+
+        for (int idx : indices) {
+            double[] v = vectors[idx];
+            for (int d = 0; d < D; d++) {
+                avg[d] += v[d];
+            }
+        }
+        double inv = 1.0 / (double) indices.length;
+        for (int d = 0; d < avg.length; d++) {
+            avg[d] *= inv;
+        }
+        return avg;
+    }
+
+    // Multi-scale consistency:
+    // scaleConsistency(R) =
+    //   cosine(avg(embed_side), avg(embed_hex)) *
+    //   cosine(avg(embed_hex), avg(embed_family))
+    //
+    // The idea: side-level, hex-level, family-level semantics should
+    // not contradict each other.
+    double scaleConsistency(Region R, int[] hexIndices, int[] familyIndices) {
+        int[] sideIndices = R.sides();
+
+        double[] eSide = avgEmbedding(embed_side, sideIndices);
+        double[] eHex  = avgEmbedding(embed_hex, hexIndices);
+        double[] eFam  = avgEmbedding(embed_family, familyIndices);
+
+        if (eSide.length == 0 || eHex.length == 0 || eFam.length == 0) {
+            return 0.0;
+        }
+
+        double c1 = cosine(eSide, eHex);
+        double c2 = cosine(eHex, eFam);
+        return c1 * c2;
+    }
+
+    // --------------------------------------------------------
+    // 13. Conflict & Counterfactuals
+    // --------------------------------------------------------
+
+    // Contradiction score:
+    // contradictionScore(R) =
+    //   tensionEnergy(bipolarAxes(A_vec)) * (1 - X_A(R))
+    //
+    // High if the global Area state is polarized AND region-level Area
+    // alignment is weak.
+    double contradictionScore(Region R) {
+        double[] B = bipolarAxes(A_vec);
+        double tension = tensionEnergy(B);
+        double align = X_A(R);
+        return tension * (1.0 - align);
+    }
+
+    // Counterfactual shift: perturb Area vector by deltas and renormalize.
+    double[] counterfactualShift(double[] A, double[] delta) {
+        double[] out = new double[A.length];
+        double sum = 0.0;
+
+        for (int i = 0; i < A.length; i++) {
+            out[i] = A[i] + delta[i];
+            if (out[i] < 0.0) out[i] = 0.0;
+            sum += out[i];
+        }
+
+        if (sum == 0.0) return out;
+
+        double inv = 1.0 / sum;
+        for (int i = 0; i < out.length; i++) {
+            out[i] *= inv;
+        }
+        return out;
+    }
+
+    // --------------------------------------------------------
+    // 14. Decision Utility & Risk
+    // --------------------------------------------------------
+
+    // Goal vector over Areas, representing what we WANT the state to be.
+    double[] goalVector = new double[AREAS];
+
+    // Risk profile per Area (how dangerous emphasis on that Area is).
+    double[] riskProfile = new double[AREAS];
+
+    // Utility of current Area state relative to goal.
+    // utility(A_vec) = cosine(A_vec, goalVector)
+    double utility(double[] A) {
+        return cosine(A, goalVector);
+    }
+
+    // Action score = utility - Σ(A[a] * riskProfile[a]).
+    double actionScore(double[] A) {
+        double util = utility(A);
+        double risk = 0.0;
+        for (int a = 0; a < AREAS; a++) {
+            risk += A[a] * riskProfile[a];
+        }
+        return util - risk;
+    }
+
+    // --------------------------------------------------------
+    // 15. Causality Layer
+    // --------------------------------------------------------
+
+    // Causal influence matrix between Areas.
+    // causal[a][b] = how much Area a pushes Area b.
+    double[][] causal = new double[AREAS][AREAS];
+
+    // Causal push on each Area given current state.
+    double[] causalPush(double[] A) {
+        double[] push = new double[AREAS];
+        for (int b = 0; b < AREAS; b++) {
+            double sum = 0.0;
+            for (int a = 0; a < AREAS; a++) {
+                sum += A[a] * causal[a][b];
+            }
+            push[b] = sum;
+        }
+        return push;
+    }
+
+    // Causal coherence = cosine(A_vec, causalPush(A_vec)).
+    // Measures how self-consistent the causal dynamics are with
+    // the current semantic stance.
+    double causalCoherence(double[] A) {
+        double[] push = causalPush(A);
+        return cosine(A, push);
+    }
+
+    // --------------------------------------------------------
+    // 16. Semantic Pressure & Saturation
+    // --------------------------------------------------------
+
+    // Local gradient magnitude per side:
+    // gradient[s] = avg(|tau[s] - tau[n]|) over neighbors n.
+    double gradient(int s) {
+        int[] neigh = Graph.neighbors(s, A);
+        if (neigh.length == 0) return 0.0;
+
+        double sum = 0.0;
+        for (int n : neigh) {
+            sum += Math.abs(tau[s] - tau[n]);
+        }
+        return sum / (double) neigh.length;
+    }
+
+    // Pressure(R) = average gradient over sides in R.
+    double pressure(Region R) {
+        int[] sides = R.sides();
+        if (sides.length == 0) return 0.0;
+
+        double sum = 0.0;
+        for (int s : sides) {
+            sum += gradient(s);
+        }
+        return sum / (double) sides.length;
+    }
+
+    // Saturation(R): measure of redundancy in embeddings.
+    // Here we approximate as 1 - average pairwise cosine distance
+    // between side embeddings.
+    double saturation(Region R) {
+        int[] sides = R.sides();
+        int n = sides.length;
+        if (n < 2) return 0.0;
+
+        double sumSim = 0.0;
+        int pairs = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                double[] vi = embed_side[sides[i]];
+                double[] vj = embed_side[sides[j]];
+                sumSim += cosine(vi, vj);
+                pairs++;
+            }
+        }
+
+        if (pairs == 0) return 0.0;
+        double avgSim = sumSim / (double) pairs;
+        // Higher avgSim = more redundancy = more saturation.
+        return avgSim;
+    }
+
+    // --------------------------------------------------------
+    // 17. Retrieval Feedback & Adaptive Weights
+    // --------------------------------------------------------
+
+    // Retrieval diagnostics per Family.
+    double[] retrievalError = new double[TOTAL_FAMILIES];
+    double[] retrievalConfidence = new double[TOTAL_FAMILIES];
+
+    // Adaptive Family weights: downweight families that keep failing.
+    double[] adaptiveFamilyWeight() {
+        double[] out = new double[TOTAL_FAMILIES];
+        for (int f = 0; f < TOTAL_FAMILIES; f++) {
+            out[f] = F_vec[f] * retrievalConfidence[f];
+        }
+        return out;
+    }
+
+    // --------------------------------------------------------
+    // 18. Domain Calibration
+    // --------------------------------------------------------
+
+    // Thresholds per domain (indexed by d).
+    double[] tau_threshold_domain;      // e.g. per policy domain
+    double[] obstacle_threshold_domain; // domain-specific obstacle θ
+
+    // Domain profiles (Area distributions for each domain).
+    double[][] domainProfile; // [D][AREAS]
+
+    // domainFit(d) = -KL(A_vec || domainProfile[d])
+    // Higher = better fit.
+    double domainFit(int d, double[] A) {
+        return -kl(A, domainProfile[d]);
+    }
+
+    // --------------------------------------------------------
+    // 19. Summarization Physics (Region → summary text)
+// --------------------------------------------------------
+
+    // Summaries and embeddings are external to this file.
+    // We only define metrics over them.
+
+    // Summary fidelity: cosine(embed(summary), embed(region)).
+    double summaryFidelity(double[] summaryEmbed, double[] regionEmbed) {
+        return cosine(summaryEmbed, regionEmbed);
+    }
+
+    // Compression ratio = originalTokens / summaryTokens.
+    double compressionRatio(int originalTokens, int summaryTokens) {
+        if (summaryTokens == 0) return 0.0;
+        return (double) originalTokens / (double) summaryTokens;
+    }
+
+    // Information-preserving score:
+    // IPS = summaryFidelity * (1 - redundancyLoss)
+    double IPS(double summaryFidelity, double redundancyLoss) {
+        return summaryFidelity * (1.0 - redundancyLoss);
+    }
+
+    // --------------------------------------------------------
+    // 20. Human Alignment Hooks
+    // --------------------------------------------------------
+
+    // Rationale text per side (for auditing).
+    String[] rationale = new String[TOTAL_SIDES];
+
+    // Override per Area (policy knobs).
+    double[] override = new double[AREAS];
+
+    // Trace structure: in practice, this would be a log of
+    // (side, area, family, rationale) entries. Here just a stub.
+    void trace(Region R) {
+        for (int s : R.sides()) {
+            int areaIdx = areaOf[s];
+            int famIdx = familyOf[s];
+            String r = rationale[s];
+            // Write out or store (s, areaIdx, famIdx, r).
+        }
+    }
+
+    // --------------------------------------------------------
+    // 21. Interoperability with External Spaces
+    // --------------------------------------------------------
+
+    // Linear maps to/from external state representations.
+    // M_ext2sphere: external embedding → Area vector
+    // M_sphere2ext: Area vector → external embedding
+    double[][] M_ext2sphere; // [AREAS][D_ext]
+    double[][] M_sphere2ext; // [D_ext][AREAS]
+
+    // Apply external-to-sphere map.
+    double[] mapExtToSphere(double[] e_ext) {
+        double[] A = new double[AREAS];
+        for (int a = 0; a < AREAS; a++) {
+            double sum = 0.0;
+            for (int k = 0; k < e_ext.length; k++) {
+                sum += M_ext2sphere[a][k] * e_ext[k];
+            }
+            A[a] = sum;
+        }
+        return A;
+    }
+
+    // Compatibility loss = 1 - cosine(M_ext2sphere(e_ext), A_vec).
+    double compatibilityLoss(double[] e_ext, double[] A) {
+        double[] mapped = mapExtToSphere(e_ext);
+        return 1.0 - cosine(mapped, A);
+    }
+
+    // --------------------------------------------------------
+    // 22. Composite Metrics
+    // --------------------------------------------------------
+
+    // Decision integrity for Region R:
+    // decisionIntegrity(R) =
+    //   evidenceQuality(R) *
+    //   scaleConsistency(R) *
+    //   temporalStability(R) *
+    //   (1 - contradictionScore(R))
+    //
+    // Note: scaleConsistency requires hex/family indices; here we
+    // assume they are provided externally for the Region.
+    double decisionIntegrity(
+        Region R,
+        int[] hexIndices,
+        int[] familyIndices
+    ) {
+        double eq = evidenceQuality(R);
+        double sc = scaleConsistency(R, hexIndices, familyIndices);
+        double ts = temporalStability(R);
+        double cs = contradictionScore(R);
+
+        return eq * sc * ts * (1.0 - cs);
+    }
+
+    // Strategic score:
+    // strategicScore =
+    //   actionScore(A_vec) *
+    //   causalCoherence(A_vec) *
+    //   (1 - saturation(R)) *
+    //   evidenceQuality(R)
+    double strategicScore(Region R) {
+        double as = actionScore(A_vec);
+        double cc = causalCoherence(A_vec);
+        double sat = saturation(R);
+        double eq = evidenceQuality(R);
+
+        return as * cc * (1.0 - sat) * eq;
+    }
+
+    // --------------------------------------------------------
+    // 23. Query Coherence Score (QCS) Skeleton
+    // --------------------------------------------------------
+
+    // QCS aggregates several signals; weights are policy-tunable.
+    // S1: phase/fit to corpus centroid (omitted here, but would be
+    //     a cosine(A_vec, corpusCentroid)).
+    // S2: ring smoothness
+    // S3: tension resolved (low tensionEnergy)
+    // S4: obstacle safety (1 - O_obstacle)
+    // S5: family crispness (X_F over relevant region)
+    //
+    // QCS = w · [S1,S2,S3,S4,S5]^T
+
+    double QCS(
+        double S1_phaseFit,
+        double w1, double w2, double w3, double w4, double w5,
+        Region R
+    ) {
+        double S2 = ringSmoothness(A_vec);
+        double S3 = 1.0 / (1.0 + tensionEnergy(bipolarAxes(A_vec)));
+        double S4 = 1.0 - O_obstacle;
+        double S5 = X_F(R);
+
+        double[] S = { S1_phaseFit, S2, S3, S4, S5 };
+        double[] w = { w1, w2, w3, w4, w5 };
+
+        double sum = 0.0;
+        for (int i = 0; i < S.length; i++) {
+            sum += w[i] * S[i];
+        }
+        return sum;
+    }
+
+    // --------------------------------------------------------
+    // 24. Loop Mechanics (High-Level Sketch)
+// --------------------------------------------------------
+
+    // This is intentionally high-level: real implementation will
+    // plug in embeddings and lexicons. We just define the structure.
+
+    // Simplified loop executor:
+    //  - Start at argmax(A_vec)
+    //  - For each Area in ring order:
+    //      * score Families
+    //      * mark weighted Families
+    //      * check obstacles
+    //      * advance to next Area
+    //  - Stop on:
+    //      * obstacle break
+    //      * maxPasses
+    //      * no new weighted families
+    //
+    // This function only encodes counters and stopping logic.
+
+    int runLoop(
+        int maxPasses,
+        double dominanceThreshold,  // τ for Family dominance
+        double obstacleThreshold    // θ for obstacle break
+    ) {
+        // Start from argmax Area.
+        int startArea = 0;
+        double maxVal = A_vec[0];
+        for (int a = 1; a < AREAS; a++) {
+            if (A_vec[a] > maxVal) {
+                maxVal = A_vec[a];
+                startArea = a;
+            }
+        }
+
+        boolean[] areaHit = new boolean[AREAS];
+        boolean[] familyHit = new boolean[TOTAL_FAMILIES];
+
+        int hops = 0;
+        int newFamilyHits = 0;
+
+        // Hard cap: maxPasses * 12 Areas.
+        int maxHops = maxPasses * AREAS;
+
+        int currentArea = startArea;
+        int ringPos = indexOfRingPos(currentArea);
+
+        while (hops < maxHops) {
+            // Mark that we visited this Area.
+            areaHit[currentArea] = true;
+
+            // Family scoring and marking would be done here using
+            // embeddings + lexicon (omitted in math spec).
+
+            // Obstacle check:
+            if (shouldBreak(O_obstacle, obstacleThreshold)) {
+                break;
+            }
+
+            // Move along ring.
+            ringPos = (ringPos + 1) % AREA_RING_ORDER.length;
+            currentArea = AREA_RING_ORDER[ringPos];
+            hops++;
+        }
+
+        double Phi = coveragePhi(areaHit);
+        double L = loopability(newFamilyHits, hops);
+
+        // We don't return all metrics here; in real code you'd store them.
+        // Here we just return number of hops as a simple observable.
+        return hops;
+    }
+
+    // Helper: find index of an Area in AREA_RING_ORDER.
+    int indexOfRingPos(int areaIdx) {
+        for (int i = 0; i < AREA_RING_ORDER.length; i++) {
+            if (AREA_RING_ORDER[i] == areaIdx) return i;
+        }
+        return 0; // default fallback
+    }
+
+    // --------------------------------------------------------
+    // END OF CLASS
+    // --------------------------------------------------------
+}

@@ -1,0 +1,457 @@
+HESPERIA — DATA & SCHEMA SPEC v0.1
+
+Purpose:
+Define the relational schema and vector database layouts for HESPERIA,
+and describe how ingestion/query pipelines interact with them from
+Java/Python. This is a **DB‑centric** view: it focuses on how data is
+stored, updated, and retrieved, not on user‑facing APIs.
+
+Relationships:
+- Builds on indexing: 13_SPEC__Indexing_and_Coordinates_v1_0.txt
+- Uses ontology: 30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt,
+  31_FAMILIES__area_family_table_full.txt
+- Supports pipelines in: 11_BLUEPRINT__HESPERIA_v4_5_full.txt
+
+============================================================
+1. RELATIONAL SCHEMA (SQL)
+============================================================
+
+Conventions:
+- Types are generic SQL (adapt to concrete DB, e.g. PostgreSQL).
+- All IDs are 0‑based where consistent with indexing spec.
+- `side_id` always follows the canonical mapping in
+  13_SPEC__Indexing_and_Coordinates_v1_0.txt.
+
+--------------------------
+1.1 Core geometry tables
+--------------------------
+
+table `area`:
+- `id`           SMALLINT PRIMARY KEY    -- 0..11 (#AREAS)
+- `name`        VARCHAR(32) NOT NULL    -- GOOD, HARM, ...
+- `ring_index`  SMALLINT NOT NULL       -- position on ring (0..11)
+
+
+table `family`:
+- `id`           SMALLINT PRIMARY KEY    -- 0..287 (#TOTAL_FAMILIES)
+- `area_id`      SMALLINT NOT NULL       REFERENCES area(id)
+- `local_index`  SMALLINT NOT NULL       -- 0..23 within area
+- `name`         VARCHAR(64) NOT NULL
+- UNIQUE (`area_id`, `local_index`)
+
+
+table `hex`:
+- `id`           BIGINT PRIMARY KEY      -- internal hex id
+- `family_id`    SMALLINT NOT NULL       REFERENCES family(id)
+- `hex_index`    SMALLINT NOT NULL       -- 0..249 within family
+- UNIQUE (`family_id`, `hex_index`)
+
+
+table `side`:
+- `side_id`      INTEGER PRIMARY KEY     -- 0..TOTAL_SIDES-1
+- `area_id`      SMALLINT NOT NULL       REFERENCES area(id)
+- `family_id`    SMALLINT NOT NULL       REFERENCES family(id)
+- `hex_index`    SMALLINT NOT NULL       -- 0..249 within family
+- `side_index`   SMALLINT NOT NULL       -- 0..5 within hex
+- `tau`          DOUBLE PRECISION NOT NULL DEFAULT 0.0
+- `statement_id` BIGINT NULL             REFERENCES statement(id)
+- `last_updated` TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+
+Indexes (recommended):
+- `CREATE INDEX side_family_area_idx ON side(family_id, area_id);`
+- `CREATE INDEX side_tau_idx ON side(tau DESC);`
+
+Notes:
+- (`area_id`, `family_id`, `hex_index`, `side_index`) must be consistent
+  with `side_id` as defined in 13_SPEC__Indexing_and_Coordinates_v1_0.txt.
+- This table explicitly stores the full coordinate of each point.
+
+
+--------------------------
+1.2 Semantic content tables
+--------------------------
+
+table `statement`:
+- `id`              BIGSERIAL PRIMARY KEY
+- `raw_text`        TEXT NOT NULL
+- `area_id`         SMALLINT NOT NULL       REFERENCES area(id)
+- `family_id`       SMALLINT NOT NULL       REFERENCES family(id)
+- `created_at`      TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+- `inward_vector`   BYTEA NULL  -- serialized 12‑D double[] (or JSON/ARRAY)
+- `outward_vector`  BYTEA NULL  -- serialized 12‑D double[]
+- `f_vector`        BYTEA NULL  -- 288‑D double[] (optional)
+- `a_vector`        BYTEA NULL  -- 12‑D double[] (optional)
+
+Notes:
+- Embeddings for retrieval live in the vector DB (Section 2); `statement`
+  keeps attribution and linkage to geometry.
+
+
+table `dictionary_word`:
+- `lemma`          VARCHAR(128) PRIMARY KEY
+- `family_id`      SMALLINT NOT NULL        REFERENCES family(id)
+- `area_id`        SMALLINT NOT NULL        REFERENCES area(id)
+- `source`         VARCHAR(64) NOT NULL     -- e.g. "curated", "backward"
+- `updated_at`     TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT NOW()
+
+
+--------------------------
+1.3 Optional provenance / metrics tables
+--------------------------
+
+To support evidence and provenance from 41_POLICY__Operational_additions_v0_1.txt,
+one may add:
+
+table `side_provenance`:
+- `side_id`     INTEGER PRIMARY KEY REFERENCES side(side_id)
+- `credibility` DOUBLE PRECISION NOT NULL DEFAULT 1.0
+- `recency`     DOUBLE PRECISION NOT NULL DEFAULT 1.0
+- `consensus`   DOUBLE PRECISION NOT NULL DEFAULT 1.0
+
+table `domain_profile` (for domain calibration):
+- `id`         SERIAL PRIMARY KEY
+- `name`       VARCHAR(64) UNIQUE NOT NULL
+- `area_vec`   BYTEA NOT NULL     -- 12‑D double[]
+
+============================================================
+2. VECTOR DATABASE SCHEMA
+============================================================
+
+HESPERIA uses a vector DB to store dense embeddings for fast similarity
+search. Collections are keyed by IDs stored in SQL.
+
+--------------------------
+2.1 Collections
+--------------------------
+
+Collection `words`:
+- `lemma`        (string, primary key or unique)
+- `family_id`    (int)
+- `area_id`      (int)
+- `embedding`    (float[D])
+
+Usage:
+- Supports nearest‑neighbor lookup in the word attribution pipeline.
+
+
+Collection `statements`:
+- `statement_id` (long, primary key)
+- `family_id`    (int)
+- `area_id`      (int)
+- `side_id`      (int, optional)  -- if already placed
+- `embedding`    (float[D])
+
+Usage:
+- Core retrieval for query pipeline; always filtered or biased by
+  `family_id` / `area_id`.
+
+
+Collection `families`:
+- `family_id`  (int, primary key)
+- `area_id`    (int)
+- `embedding`  (float[D])  -- centroid
+
+Collection `areas`:
+- `area_id`    (int, primary key)
+- `embedding`  (float[D])  -- centroid
+
+
+--------------------------
+2.2 Typical vector queries
+--------------------------
+
+Word‑level (Java‑style pseudocode):
+
+```java
+List<WordHit> nearestWords(double[] Ew, int k) {
+    // vectorClient.search(collection="words", embedding=Ew, topK=k)
+}
+```
+
+Statement‑level with shard filter:
+
+```java
+List<StatementHit> nearestStatements(double[] E_stmt,
+                                     int familyId,
+                                     int areaId,
+                                     int k) {
+    // vectorClient.search(
+    //   collection="statements",
+    //   embedding=E_stmt,
+    //   filter={ "family_id": familyId, "area_id": areaId },
+    //   topK=k
+    // )
+}
+```
+
+============================================================
+3. DB‑CENTRIC PIPELINE: INGESTION
+============================================================
+
+This section describes **how** the ingestion pipeline uses the DB,
+step‑by‑step. High‑level attribution/traversal logic is defined in
+other specs; here we assume we already have a `StatementAttribution`
+object and an embedding.
+
+--------------------------
+3.1 Ingestion of a new statement
+--------------------------
+
+Given:
+- raw text `text`
+- `StatementAttribution` with:
+  - `area` (area_id), `family` (family_id)
+  - inward/outward vectors
+  - `E_statement` (embedding)
+
+Steps (DB view):
+
+1) Insert statement row
+
+```sql
+INSERT INTO statement (raw_text, area_id, family_id,
+                       inward_vector, outward_vector,
+                       f_vector, a_vector)
+VALUES (:text, :areaId, :familyId,
+        :inwardBytes, :outwardBytes,
+        :fBytes, :aBytes)
+RETURNING id;
+```
+
+In Java/Python, wrap this in `StatementRepository.insert(StatementAttribution, text)`.
+
+
+2) Insert statement embedding into vector DB
+
+```java
+vectorClient.upsert(
+    "statements",
+    new StatementVector(statementId, familyId, areaId, E_statement)
+);
+```
+
+
+3) Compute side coordinate and upsert side row
+
+Use the indexing formulas from 13_SPEC__Indexing_and_Coordinates_v1_0.txt
+to compute `side_id` and full coordinate (area_id, family_id, hex_index,
+side_index). Then:
+
+```sql
+INSERT INTO side (side_id, area_id, family_id,
+                  hex_index, side_index, tau, statement_id)
+VALUES (:sideId, :areaId, :familyId,
+        :hexIndex, :sideIndex, :tau, :statementId)
+ON CONFLICT (side_id) DO UPDATE
+SET tau = EXCLUDED.tau,
+    statement_id = EXCLUDED.statement_id,
+    last_updated = NOW();
+```
+
+In code, wrap as `SideRepository.assignStatementToSide(statementId, sideCoord, tau)`.
+
+
+4) Optional: update provenance
+
+If evidence/provenance is available:
+
+```sql
+INSERT INTO side_provenance (side_id, credibility, recency, consensus)
+VALUES (:sideId, :cred, :rec, :cons)
+ON CONFLICT (side_id) DO UPDATE
+SET credibility = EXCLUDED.credibility,
+    recency     = EXCLUDED.recency,
+    consensus   = EXCLUDED.consensus;
+```
+
+
+--------------------------
+3.2 Dictionary updates (backward pipeline)
+--------------------------
+
+When backward evolution decides to correct a lemma’s family:
+
+```sql
+INSERT INTO dictionary_word (lemma, family_id, area_id, source)
+VALUES (:lemma, :familyId, :areaId, :source)
+ON CONFLICT (lemma) DO UPDATE
+SET family_id  = EXCLUDED.family_id,
+    area_id    = EXCLUDED.area_id,
+    source     = EXCLUDED.source,
+    updated_at = NOW();
+```
+
+Optionally, update or insert the lemma’s embedding into `words` collection
+in the vector DB.
+
+============================================================
+4. DB‑CENTRIC PIPELINE: QUERY
+============================================================
+
+Given:
+- User input `text`
+- Its `StatementAttribution` and `E_statement`
+
+Goal:
+- Retrieve a Region R of sides/statements from DB, then hand off to
+  traversal and governance.
+
+--------------------------
+4.1 Sharded statement retrieval
+--------------------------
+
+1) Vector search (statements collection)
+
+```java
+List<StatementHit> hits = vectorClient.search(
+    "statements",
+    E_statement,
+    filter = { "family_id": familyId, "area_id": areaId },
+    topK = K
+);
+List<Long> statementIds = hits.map(h -> h.statementId);
+```
+
+
+2) Load statement rows from SQL
+
+```sql
+SELECT id, raw_text, area_id, family_id,
+       inward_vector, outward_vector,
+       f_vector, a_vector
+FROM statement
+WHERE id = ANY(:statementIds);
+```
+
+
+3) Load associated sides to build Region R
+
+```sql
+SELECT side_id, area_id, family_id, hex_index, side_index, tau
+FROM side
+WHERE statement_id = ANY(:statementIds);
+```
+
+In Java/Python, wrap this as:
+
+```java
+List<Side> sides = sideRepository.findByStatementIds(statementIds);
+Region R = geometry.buildRegionFromSides(sides);
+```
+
+The Region is then passed to TraversalService for loopability and
+metric computation.
+
+
+--------------------------
+4.2 Direct region queries (by family/area)
+--------------------------
+
+Some operations may need to construct a Region purely from geometry:
+
+```sql
+SELECT side_id, area_id, family_id, hex_index, side_index, tau
+FROM side
+WHERE family_id = :familyId
+  AND area_id   = :areaId
+  AND tau       >= :tauThreshold
+LIMIT :maxSides;
+```
+
+This is useful for diagnostics, visualization, or non‑embedding based
+retrieval.
+
+============================================================
+5. ACCESS PATTERNS FOR JAVA / PYTHON
+============================================================
+
+The following repository / client abstractions are recommended.
+They define **how** code interacts with the DB layer.
+
+--------------------------
+5.1 Java (repository pattern)
+--------------------------
+
+```java
+interface StatementRepository {
+    long insert(StatementAttribution sa, String text);
+    Statement load(long id);
+    List<Statement> loadMany(List<Long> ids);
+}
+
+interface SideRepository {
+    void assignStatementToSide(long statementId, SideCoord coord, double tau);
+    List<Side> findByStatementIds(List<Long> statementIds);
+    List<Side> findByFamilyArea(int familyId, int areaId,
+                                double tauThreshold, int limit);
+}
+
+interface DictionaryRepository {
+    void upsertLemma(String lemma, int familyId, int areaId, String source);
+    Optional<DictionaryEntry> findLemma(String lemma);
+}
+
+interface VectorClient {
+    List<WordHit> searchWords(double[] embedding, int k);
+    List<StatementHit> searchStatements(double[] embedding,
+                                        int familyId, int areaId, int k);
+    void upsertWord(String lemma, int familyId, int areaId, double[] embedding);
+    void upsertStatement(long statementId, int familyId, int areaId,
+                         double[] embedding);
+}
+```
+
+All SQL from Sections 3–4 should be encapsulated behind these interfaces.
+
+
+--------------------------
+5.2 Python (service wrappers)
+--------------------------
+
+In Python, follow the same ideas with lightweight service classes:
+
+```python
+class StatementStore:
+    def insert(self, sa, text) -> int: ...
+    def load_many(self, ids: list[int]) -> list[Statement]: ...
+
+
+class SideStore:
+    def assign_statement(self, statement_id: int, coord, tau: float) -> None: ...
+    def by_statement_ids(self, ids: list[int]): ...
+    def by_family_area(self, family_id: int, area_id: int,
+                       tau_threshold: float, limit: int): ...
+
+
+class DictionaryStore:
+    def upsert(self, lemma: str, family_id: int, area_id: int, source: str) -> None: ...
+    def get(self, lemma: str) -> dict | None: ...
+
+
+class VectorClient:
+    def search_words(self, embedding: list[float], k: int) -> list[dict]: ...
+    def search_statements(self, embedding: list[float],
+                          family_id: int, area_id: int, k: int) -> list[dict]: ...
+    def upsert_word(self, lemma: str, family_id: int, area_id: int,
+                    embedding: list[float]) -> None: ...
+    def upsert_statement(self, statement_id: int, family_id: int, area_id: int,
+                         embedding: list[float]) -> None: ...
+```
+
+============================================================
+6. NOTES AND GOOD PRACTICES
+============================================================
+
+- Always store the **full coordinate** of each side in SQL:
+  `side_id`, `area_id`, `family_id`, `hex_index`, `side_index`.
+- Keep vector DB collections and SQL IDs tightly synchronized:
+  - `words.lemma` ↔ `dictionary_word.lemma`
+  - `statements.statement_id` ↔ `statement.id`
+- Make all queries **filter by area/family** where possible to respect
+  HESPERIA’s geometry and sharding model.
+- Do not evolve geometry or indexing (AREAS, FAMILIES, HEXES, SIDES)
+  without updating 13_SPEC__Indexing_and_Coordinates_v1_0.txt and this
+  schema spec together.
+
+END OF FILE
+

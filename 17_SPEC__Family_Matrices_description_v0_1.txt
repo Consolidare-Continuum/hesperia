@@ -1,0 +1,167 @@
+HESPERIA — Family-Level Matrices Description v0.1
+
+Purpose:
+Describe, in purely numerical terms, how the 288 Families of the
+HESPERIA sphere are linked at the family-graph level, and how the
+current CSV matrices encode those links.
+
+============================================================
+1. Geometry Levels and Counts
+============================================================
+
+Areas:
+- Count: 12.
+
+Families:
+- Families per Area: 24.
+- Total Families: 12 × 24 = 288.
+- Global family index: 0..287.
+
+Hexes:
+- Hexes per Family: 250.
+- Total Hexes: 288 × 250 = 72,000.
+
+Sides:
+- Sides per Hex: 6.
+- Total Sides: 72,000 × 6 = 432,000.
+
+Derived per-region side counts:
+- Sides per Family: 250 × 6 = 1,500.
+- Sides per Area: 1,500 × 24 = 36,000.
+
+Important distinction:
+- 6-regular adjacency applies at the side/hex level (each hex has 6
+  neighbouring sides).
+- Family-level adjacency is sparser and defined explicitly by the
+  specification and matrices; it is not 6-regular.
+
+============================================================
+2. Base Family Links (Canonical Neighbours)
+============================================================
+
+File: HESPERIA_FAMILIES_BASE_links_v0_1.csv
+
+Construction:
+- Source: HESPERIA_FAMILIES_SETUP_V0.1.txt.
+- For each Family (288 total), four canonical neighbours are used:
+  - 2 internal neighbours (previous and next Family within its Area).
+  - 2 external neighbours (previous and next Area along the ring).
+
+Rows:
+- Link types:
+  - INTERNAL_PRE   (288 rows).
+  - INTERNAL_NEXT  (288 rows).
+  - EXTERNAL_PRE   (288 rows).
+  - EXTERNAL_NEXT  (288 rows).
+- Total data rows: 288 × 4 = 1,152.
+- Total lines including header: 1,153.
+
+Interpretation:
+- This file encodes the frozen, canonical family graph:
+  - 288 nodes (Families).
+  - 1,152 directed links (4 per node) at the Family level.
+
+============================================================
+3. External Passes and Stops (Edge Matrix)
+============================================================
+
+File: HESPERIA_FAMILIES_PASSES_matrix_v0_1.csv
+
+Construction:
+- Combines:
+  - All PASS edges from HESPERIA_FAMILIES_PASSES_v0_3.csv.
+  - All STOP edges from HESPERIA_FAMILIES_PASSES_control_stops_v0_1.csv.
+
+Counts:
+- PASS edges: 52.
+- STOP edges: 37.
+- Total external edges: 52 + 37 = 89.
+- Lines:
+  - 1 header.
+  - 89 data rows.
+  - Total = 90 lines.
+
+Distinct Families participating:
+- Families with at least one PASS edge: 95.
+- Families with at least one STOP edge: 67.
+- Families with at least one external edge of either type
+  (union of PASS and STOP): 144.
+- Families with no external edge (internal-only): 288 − 144 = 144.
+
+Resulting proportions (over Families):
+- Externally linked (PASS or STOP): 144 / 288 = 0.5.
+- Internal-only: 144 / 288 = 0.5.
+- PASS participants: 95 / 288 ≈ 0.33.
+- STOP participants: 67 / 288 ≈ 0.23.
+
+Note:
+- PASS and STOP sets overlap; their counts are not disjoint partitions.
+
+============================================================
+4. Full Family Graph (Internal + External)
+============================================================
+
+File: HESPERIA_FAMILIES_FULL_matrix_v0_1.csv
+
+Construction:
+- Internal edges:
+  - For each Family:
+    - 1 edge to its internal previous Family (same Area).
+    - 1 edge to its internal next Family (same Area).
+  - Total internal edges: 288 × 2 = 576 directed INTERNAL edges.
+- External edges:
+  - All 89 external PASS/STOP edges from the passes matrix.
+
+Total edges:
+- INTERNAL: 576.
+- PASS: 52.
+- STOP: 37.
+- Combined: 576 + 52 + 37 = 665 directed edges.
+
+Lines:
+- 1 header row.
+- 665 data rows (edges).
+- Total = 666 lines.
+
+Graph interpretation:
+- Nodes: 288 Families.
+- Edges:
+  - 576 INTERNAL edges (family-ring structure).
+  - 89 external edges (passes and safety stops).
+- This is a sparse directed graph:
+  - Theoretical maximum directed edges without self-loops:
+    288 × 287 = 82,656.
+  - Current edges: 665 << 82,656 (strong structure, low density).
+
+============================================================
+5. Summary by Level (Values Only)
+============================================================
+
+Areas:
+- Count: 12.
+
+Families:
+- Count: 288.
+- External semantics (PASS or STOP): 144.
+- Internal-only: 144.
+
+Hexes:
+- Count: 72,000.
+
+Sides:
+- Count: 432,000.
+
+Base family links (canonical):
+- Directed links: 1,152 (4 per Family: 2 internal ring, 2 area-hop neighbours).
+
+External passes and stops:
+- Directed external edges: 89 (52 PASS, 37 STOP).
+- Families touched by any external edge: 144.
+
+Full family graph:
+- Directed edges: 665 (576 INTERNAL + 89 external).
+
+These numbers encode all currently defined connectivity at the Family
+level without relying on specific Area or Family names, and they sit
+one level above the 6-regular side/hex lattice defined in the geometry
+specification.
