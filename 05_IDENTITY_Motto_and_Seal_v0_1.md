@@ -1,4 +1,4 @@
-# 05_IDENTITY__Motto and Seal (v0.1)
+# 05_IDENTITY_Motto and Seal (v0.1)
 
 This document specifies the **verbal identity** (motto) and the **symbolic identity** (seal) of HESPERIA. It defines what must be preserved even as implementations, models, and interfaces change.
 

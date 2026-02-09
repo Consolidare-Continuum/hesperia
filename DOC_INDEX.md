@@ -8,16 +8,16 @@ in this repository. Numbers are ordered reading paths, not priorities.
 For quick onboarding, choose the path that matches your role.
 
 - **All Contributors (doctrine first)**  
-  1. `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
-  2. `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`  
-  3. `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`  
-  4. `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`  
-  5. `05_IDENTITY__Motto_and_Seal_v0_1.md`  
+  1. `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
+  2. `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`  
+  3. `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`  
+  4. `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`  
+  5. `05_IDENTITY_Motto_and_Seal_v0_1.md`  
   6. `10_MASTER_SPEC__HESPERIA_v1_0.txt`  
   7. `11_BLUEPRINT__HESPERIA_v4_7_full.txt`
 
 - **Backend / Systems Engineer (Java, Python)**  
-  0. `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
+  0. `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`  
   2. `11_BLUEPRINT__HESPERIA_v4_7_full.txt`  
   3. `12_SPEC__Semantic_Engine_v0_4.txt`  
@@ -27,7 +27,7 @@ For quick onboarding, choose the path that matches your role.
   7. `sphere_rag/README.md`
 
 - **Math / Research / Formal Methods**  
-  0. `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
+  0. `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`  
   2. `21_MATH__HESPERIA_formalization_v1_java.txt`  
   3. `20_GEOMETRY__formalized_structure_java.txt`  
@@ -35,7 +35,7 @@ For quick onboarding, choose the path that matches your role.
   5. `41_POLICY__Operational_additions_v0_1.txt`
 
 - **Ontology / Knowledge Engineering**  
-  0. `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
+  0. `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`  
   2. `30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt`  
   3. `31_FAMILIES__area_family_table_full.txt` (canonical table)  
@@ -46,41 +46,41 @@ For quick onboarding, choose the path that matches your role.
   8. `50_DATA__120_books_authors_raw.txt` / `51_DATA__areas_120_authors_books.csv`
 
 - **Product / Narrative / Investment (RU)**  
-  0. `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
-  1. `01_CONCEPT__HESPERIA_project_RU.txt`  
-  2. `02_DESCRIPTION__HESPERIA_extended_RU.txt`  
-  3. `03_DESCRIPTION__HESPERIA_investment_RU.txt`
+  0. `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
+  1. `01_CONCEPT_HESPERIA_project_RU.txt`  
+  2. `02_DESCRIPTION_HESPERIA_extended_RU.txt`  
+  3. `03_DESCRIPTION_HESPERIA_investment_RU.txt`
 
 ## 1. Entry Points
 
 - `README.md`  
   High-level overview of the project and current code.
 
-- `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`  
+- `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`  
   Motto, thesis, doctrine, oath, and negative manifesto (binding constraints).
 
-- `05_IDENTITY__Motto_and_Seal_v0_1.md`  
+- `05_IDENTITY_Motto_and_Seal_v0_1.md`  
   Motto usage rules and seal specification (encoding, absences, style constraints).
 
-- `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`  
+- `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`  
   Operational properties, deliberate limitations, and known blind spots (internal decision surface).
 
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`  
+- `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`  
   Operating model for maintaining coherence: document taxonomy, change control, roles, gates, red flags, and development borders.
 
-- `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`  
+- `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`  
   Agent-facing constraints: workflow traps, determinism boundary in RAG, provenance requirements.
 
-- `09_PROJECT__File_Naming_Java_Style_Best_Practices_v0_1.md`  
+- `09_PROJECT_File_Naming_Java_Style_Best_Practices_v0_1.md`  
   Consolidated file naming rules for Java-style projects (source, tests, resources, modules).
 
-- `01_CONCEPT__HESPERIA_project_RU.txt`  
+- `01_CONCEPT_HESPERIA_project_RU.txt`  
   Conceptual / narrative project description (RU).
 
-- `02_DESCRIPTION__HESPERIA_extended_RU.txt`  
+- `02_DESCRIPTION_HESPERIA_extended_RU.txt`  
   Extended descriptive / investment-technical dossier (RU).
 
-- `03_DESCRIPTION__HESPERIA_investment_RU.txt`  
+- `03_DESCRIPTION_HESPERIA_investment_RU.txt`  
   Investment-focused description (RU).
 
 ## 2. Core System Specs

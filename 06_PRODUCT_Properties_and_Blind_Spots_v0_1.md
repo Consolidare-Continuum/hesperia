@@ -1,4 +1,4 @@
-# 06_PRODUCT__Project Properties and Blind Spots (v0.1)
+# 06_PRODUCT_Project Properties and Blind Spots (v0.1)
 
 This document translates the project’s rationale into operational product constraints: what HESPERIA is designed to preserve, what it deliberately will not do, and what can still fail.
 

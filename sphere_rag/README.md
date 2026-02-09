@@ -17,8 +17,8 @@ Some modules are intentionally placeholders. Do not build downstream authority o
 
 For agent workflow constraints and RAG determinism boundaries, see:
 
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`
-- `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`
+- `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`
+- `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`
 
 ## Mapping to Specs and Glossary
 

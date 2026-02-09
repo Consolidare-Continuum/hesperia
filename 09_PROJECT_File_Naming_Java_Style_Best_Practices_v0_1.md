@@ -1,4 +1,4 @@
-# 09_PROJECT__File Naming — Java-Style Best Practices (v0.1)
+# 09_PROJECT_File Naming — Java-Style Best Practices (v0.1)
 
 Purpose: consolidate Java project file naming conventions into a single, stable reference.
 This is a rule surface for maintainers. It is not a style suggestion.

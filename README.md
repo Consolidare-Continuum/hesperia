@@ -19,11 +19,11 @@ meaning is placed into a fixed geometry, relations are measured, contradictions 
 ## Documentation
 
 - `DOC_INDEX.md` (recommended reading paths)
-- `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md` (doctrine: the project’s binding constraints)
-- `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md` (operational properties, limitations, failure modes)
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md` (roles, change control, red flags, borders)
-- `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md` (agent workflow traps, RAG determinism boundary)
-- `05_IDENTITY__Motto_and_Seal_v0_1.md` (motto usage + seal specification)
+- `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md` (doctrine: the project’s binding constraints)
+- `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md` (operational properties, limitations, failure modes)
+- `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md` (roles, change control, red flags, borders)
+- `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md` (agent workflow traps, RAG determinism boundary)
+- `05_IDENTITY_Motto_and_Seal_v0_1.md` (motto usage + seal specification)
 - `10_MASTER_SPEC__HESPERIA_v1_0.txt` (master system spec)
 - `11_BLUEPRINT__HESPERIA_v4_7_full.txt` (integrated blueprint)
 - `12_SPEC__Semantic_Engine_v0_4.txt` (semantic attribution engine)

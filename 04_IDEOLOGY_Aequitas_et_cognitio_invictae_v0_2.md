@@ -1,4 +1,4 @@
-# 04_IDEOLOGY__Aequitas et cognitio invictae (v0.2)
+# 04_IDEOLOGY_Aequitas et cognitio invictae (v0.2)
 
 **Motto (formal)**  
 **Aequitas et cognitio invictae**  

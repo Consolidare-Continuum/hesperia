@@ -1,4 +1,4 @@
-# 08_PROJECT__Agent Workflow and RAG Reality (v0.1)
+# 08_PROJECT_Agent Workflow and RAG Reality (v0.1)
 
 Purpose: reduce misinterpretation by automated agents (LLM-based coding assistants) working in this repository by specifying:
 
@@ -20,9 +20,9 @@ This document is internal. It constrains how work is performed here.
 
 Canonical references for these rules:
 
-- `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`
-- `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`
+- `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`
+- `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`
+- `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`
 - `ACADEMIC.md`
 
 ## 1. RAG reality (what an agent must not assume)
@@ -102,8 +102,8 @@ Avoid agency/omniscience/conquest framing in:
 
 Disallowed examples are listed in:
 
-- `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`
+- `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`
+- `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`
 
 ## 3. Minimum contribution gates (what must move together)
 

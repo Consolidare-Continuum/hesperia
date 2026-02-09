@@ -1,4 +1,4 @@
-# 07_PROJECT__Operating Model and Documentation Coherence (v0.1)
+# 07_PROJECT_Operating Model and Documentation Coherence (v0.1)
 
 Purpose: maintain coherence of terms, scope, and change over time by translating doctrine into an IT-style operating model: roles, artifacts, gates, red flags, and development borders.
 
@@ -10,9 +10,9 @@ This document is internal. It is a constraint surface for maintainers.
 
 When conflicts appear, resolve by reference order:
 
-1. **Doctrine**: `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`
-2. **Product properties / blind spots**: `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`
-3. **Identity (motto + seal)**: `05_IDENTITY__Motto_and_Seal_v0_1.md`
+1. **Doctrine**: `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`
+2. **Product properties / blind spots**: `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`
+3. **Identity (motto + seal)**: `05_IDENTITY_Motto_and_Seal_v0_1.md`
 4. **Core system specs**: `10_MASTER_SPEC__HESPERIA_v1_0.txt` and `11_BLUEPRINT__HESPERIA_v4_7_full.txt`
 5. **Component specs**: `12_SPEC__Semantic_Engine_v0_4.txt`, `13_SPEC__Indexing_and_Coordinates_v1_0.txt`, `14_SPEC__Services_and_APIs_v0_1.txt`, `15_SPEC__Data_and_Schema_v0_1.txt`, `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`
 6. **Policies**: `40_POLICY__Loopability_and_traversal.txt`, `41_POLICY__Operational_additions_v0_1.txt`

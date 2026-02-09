@@ -66,7 +66,7 @@ relative to this core path.
   `15_SPEC__Data_and_Schema_v0_1.txt`,  
   `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`,  
   `sphere_rag/pipeline.py`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### RAG (retrieval-augmented generation)
 - **Academic definition**  
@@ -78,8 +78,8 @@ relative to this core path.
 - **Used in**  
   `sphere_rag/README.md`,  
   `sphere_rag/pipeline.py`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### Retriever (retrieval backend)
 - **Academic definition**  
@@ -88,7 +88,7 @@ relative to this core path.
   In HESPERIA, a retriever must return evidence with machine-resolvable provenance (IDs, paths, offsets when available). It is an interchangeable backend (vector DB, BM25, hybrid).
 - **Used in**  
   `sphere_rag/pipeline.py`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### Generator (LLM adapter; external generation)
 - **Academic definition**  
@@ -96,9 +96,9 @@ relative to this core path.
 - **Project usage**  
   In HESPERIA, the generator is external and replaceable. HESPERIA outputs structural signals and constraints that the generator must respect; it does not become a primary authority source.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### Context (retrieved context; context window)
 - **Academic definition**  
@@ -138,7 +138,7 @@ relative to this core path.
   `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
   `14_SPEC__Services_and_APIs_v0_1.txt`,  
   `15_SPEC__Data_and_Schema_v0_1.txt`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### Approximate nearest neighbor (ANN) retrieval
 - **Academic definition**  
@@ -146,8 +146,8 @@ relative to this core path.
 - **Project usage**  
   ANN retrieval can introduce non-determinism across runs (index updates, compaction, concurrency). HESPERIA treats this as a determinism boundary: for repeatability, record embedding versions, index settings, and retrieval parameters, and keep stable IDs for evidence.
 - **Used in**  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`.
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
 
 ### Provenance (source trace)
 - **Academic definition**  
@@ -157,7 +157,7 @@ relative to this core path.
 - **Used in**  
   `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`,  
   `41_POLICY__Operational_additions_v0_1.txt`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`.
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
 
 ### Grounding (evidence-linked output)
 - **Academic definition**  
@@ -165,8 +165,8 @@ relative to this core path.
 - **Project usage**  
   HESPERIA grounds downstream generation by requiring evidence-linked structure: coordinates, metrics, and provenance links. Unsupported continuity is treated as inadmissible or refused.
 - **Used in**  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT__Agent_Workflow_and_RAG_Reality_v0_1.md`.
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
 
 ### Motto (Aequitas et cognitio invictae)
 - **Academic definition**  
@@ -177,8 +177,8 @@ relative to this core path.
   It is invoked when deciding whether a feature belongs, whether a metric is acceptable, and whether a subsystem is allowed to speak with authority.
 - **Used in**  
   `README.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY__Motto_and_Seal_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
 
 ### Aequitas (equity; structural proportionality)
 - **Academic definition**  
@@ -187,8 +187,8 @@ relative to this core path.
   In HESPERIA, **aequitas** is not sentiment. It is structural proportionality enforced by geometry and metrics:
   no concept dominates without cost; no claim gains weight without evidence; polarity axes remain explicit; influence is bounded and measurable.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY__Motto_and_Seal_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
 
 ### Cognitio (understanding; testable structure)
 - **Academic definition**  
@@ -197,8 +197,8 @@ relative to this core path.
   In HESPERIA, **cognitio** means localized, testable understanding:
   meaning has coordinates; it has neighbors and boundaries; it can cohere or fragment under traversal; its stability is measured rather than asserted.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY__Motto_and_Seal_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
 
 ### Invictae (undefeated; drift resistance)
 - **Academic definition**  
@@ -207,8 +207,8 @@ relative to this core path.
   In HESPERIA, **invictae** is resistance to semantic erosion:
   conclusions must survive re-ordering, counter-context, traversal changes, and time. Drift is detected; failure is visible; refusal is allowed.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY__Motto_and_Seal_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `05_IDENTITY_Motto_and_Seal_v0_1.md`,  
   `41_POLICY__Operational_additions_v0_1.txt`.
 
 ### Custodial role (stewardship; custodianship)
@@ -219,7 +219,7 @@ relative to this core path.
   curators of structure, maintainers of balance, auditors of drift, and recorders of decisions.
   Personal imprint is minimized; continuity is maximized.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
 
 ### Time discipline (change management; slow time)
 - **Academic definition**  
@@ -228,7 +228,7 @@ relative to this core path.
   HESPERIA uses slow time: ontology and doctrine do not change rapidly.
   Updates occur only when structural inconsistency is proven, long-term drift is measured, and backward compatibility is preserved.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
 
 ### Ideological drift (principle drift; narrative drift)
 - **Academic definition**  
@@ -238,7 +238,7 @@ relative to this core path.
   emotional language, reduced refusals without metric justification, longer explanations without new structure, and increased confidence without support.
   When detected, changes are rolled back and the doctrine is re-applied.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
 
 ### Naming constraints (non-agentic language)
 - **Academic definition**  
@@ -247,9 +247,9 @@ relative to this core path.
   HESPERIA avoids names implying agency, omniscience, conquest, or intelligence claims.
   Naming should reflect constraint and measurement (not action or authority).
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY__Motto_and_Seal_v0_1.md`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `05_IDENTITY_Motto_and_Seal_v0_1.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
 
 ### Structural admissibility (admissible / inadmissible)
 - **Academic definition**  
@@ -258,8 +258,8 @@ relative to this core path.
   In HESPERIA, admissibility is a structural verdict: a claim/output is admitted only if it can be placed into the semantic geometry and remains valid under metrics (coherence, contradiction handling, evidence quality, stability).
   Admissibility is not “truth”; it is legitimacy under a declared constraint regime.
 - **Used in**  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
   `sphere_rag/governance.py`.
 
 ### Semantic invariant (meaning identity across contexts)
@@ -269,8 +269,8 @@ relative to this core path.
   HESPERIA treats meaning stability as a system property to be enforced and tested: the same claim should retain identity across traversal, ordering changes, and time, or fail visibly.
   Stability is measured rather than assumed.
 - **Used in**  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
   `41_POLICY__Operational_additions_v0_1.txt`.
 
 ### Authority (structural legitimacy)
@@ -280,8 +280,8 @@ relative to this core path.
   HESPERIA denies authority derived from fluency, repetition, or scale.
   Structural legitimacy is admitted only when a claim occupies stable coordinates, aligns with adjacent regions, and survives traversal without fragmentation; otherwise authority is denied or the system refuses.
 - **Used in**  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`.
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
 
 ### Epoch (semantic epoch; versioned reference interval)
 - **Academic definition**  
@@ -290,8 +290,8 @@ relative to this core path.
   A semantic epoch is a versioned interval where core coordinates and polarity axes remain fixed.
   Changes that would shift reference are treated as epoch boundaries and require explicit versioning and migration/interpretability support.
 - **Used in**  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`.
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
 
 ### Doctrine (binding constraints)
 - **Academic definition**  
@@ -300,8 +300,8 @@ relative to this core path.
   In HESPERIA, doctrine is the non-negotiable constraint layer that governs scope, tone, admissibility posture, refusal legitimacy, and drift handling.
   Doctrine is versioned and treated as a correctness reference for implementations.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`.
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
 
 ### Specification (spec; normative definition)
 - **Academic definition**  
@@ -313,7 +313,7 @@ relative to this core path.
   `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
   `12_SPEC__Semantic_Engine_v0_4.txt`,  
   `13_SPEC__Indexing_and_Coordinates_v1_0.txt`,  
-  `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`.
+  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
 
 ### Policy (governance policy; operational constraints)
 - **Academic definition**  
@@ -323,7 +323,7 @@ relative to this core path.
 - **Used in**  
   `40_POLICY__Loopability_and_traversal.txt`,  
   `41_POLICY__Operational_additions_v0_1.txt`,  
-  `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`.
+  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
 
 ### Change control (controlled evolution; change governance)
 - **Academic definition**  
@@ -331,9 +331,9 @@ relative to this core path.
 - **Project usage**  
   HESPERIA change control enforces slow time: ontology/reference changes are versioned; migration/interpretability notes are recorded; refusal and governance thresholds are treated as policy decisions rather than tuning knobs.
 - **Used in**  
-  `07_PROJECT__Operating_Model_and_Documentation_Coherence_v0_1.md`,  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `06_PRODUCT__Properties_and_Blind_Spots_v0_1.md`.
+  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
 
 ---
 
@@ -704,7 +704,7 @@ relative to this core path.
   In HESPERIA, refusal is a first-class correctness outcome: the system may decline to conclude when structure is insufficient, the region is contradictory, or governance thresholds are hit.
   Suppressing refusal is treated as system corruption because it replaces measurable limits with rhetorical continuity.
 - **Used in**  
-  `04_IDEOLOGY__Aequitas_et_cognitio_invictae_v0_2.md`,  
+  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
   `41_POLICY__Operational_additions_v0_1.txt`,  
   `sphere_rag/governance.py`.
 
