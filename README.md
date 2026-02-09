@@ -33,3 +33,4 @@ meaning is placed into a fixed geometry, relations are measured, contradictions 
 ## Code
 
 - `sphere_rag/README.md` (Python prototype mapping to the specs)
+# hesperia
