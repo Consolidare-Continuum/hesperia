@@ -55,13 +55,6 @@ class Family {
 
 Families never change area or position.
 
-Internal hop weighting:
-
-```java
-final double AREA_SPREAD = 1.0;  // value multiplier for internal hops (within-area movement)
-final double FAMILY_SPREAD = 1.0; // value multiplier per family hop, measured in points of truth
-```
-
 ### 2.3 Statement Activations
 
 ```java

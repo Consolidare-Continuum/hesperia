@@ -2,10 +2,10 @@ SEMANTIC ATTRIBUTION & EVOLUTION ENGINE — v0.4
 (Plain Text Specification)
 
 Glossary references (see `ACADEMIC.md`):
-- Dictionary and embeddings: Embedding, Vector database, Dictionary & Embeddings
-- Attribution objects: Sentence Attribution, Statement Attribution
-- Inward/outward semantics: inward/outward vectors and family graph context
-- Geometry context: Area, Family, Side ID, Region
+- Dictionary & embeddings, thresholds: lines 146–166
+- Word, Sentence, and Statement attribution objects: lines 168–196
+- Inward/outward semantics: lines 198–210
+- Geometry and indexing context (Areas/Families/Sides): lines 58–106
 
 ===========================================================
 0. Global Dictionary & Embedding Structures

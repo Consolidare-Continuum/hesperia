@@ -1,0 +1,391 @@
+============================================================
+SPHERE SYSTEM — BLUEPRINT v4.5 (FULL)
+Integrated Prototype v0.4 + Engineering Pipeline
+============================================================
+
+This file unifies:
+- Sphere prototype v0.4 (geometry, math, attribution engine, polarity)
+- Dictionary-driven grounding
+- Inward/outward semantics + evolution pipelines
+- Structural truth geometry
+- Full engineering pipeline: ingestion, storage, retrieval, traversal
+- Vector DB integration
+- Java-style specification with human-readable descriptions
+
+Nothing from v0.4 is removed — only added and expanded.
+
+
+////////////////////////////////////////////////////////////
+0. SYSTEM PURPOSE
+////////////////////////////////////////////////////////////
+// Purpose: establish a deterministic semantic substrate that
+// combines a fixed geometric lattice (Areas/Families/Hexes/Sides)
+// with attribution rules, embeddings, and controlled evolution.
+
+// Human description:
+// Sphere is a stable semantic “world model”. Text is classified
+// deterministically into a 12-Area × 288-Family geometry. The
+// system provides predictable retrieval (RAG), stable semantics,
+// and controlled evolution over time.
+
+
+============================================================
+1. CORE GEOMETRY (FROM v0.4, UNCHANGED)
+============================================================
+// Purpose: define a fixed semantic lattice. All truths and
+// statements occupy atomic units (sides) of hexes.
+
+final int AREAS = 12;
+final int FAMILIES_PER_AREA = 24;
+final int TOTAL_FAMILIES = AREAS * FAMILIES_PER_AREA; // 288
+
+final int HEXES_PER_FAMILY = 250;
+final int TOTAL_HEXES = TOTAL_FAMILIES * HEXES_PER_FAMILY; // 72,000
+
+final int SIDES_PER_HEX = 6;
+final int TOTAL_SIDES = TOTAL_HEXES * SIDES_PER_HEX; // 432,000
+
+final int SIDES_PER_FAMILY = HEXES_PER_FAMILY * SIDES_PER_HEX; // 1500
+final int SIDES_PER_AREA = SIDES_PER_FAMILY * FAMILIES_PER_AREA; // 36,000
+
+
+// Ring sequence (semantic traversal order)
+final int[] AREA_RING_ORDER = {
+    0, 8, 4, 7, 9, 1, 11, 5, 6, 2, 10, 0
+};
+
+
+============================================================
+2. TRUTH MODEL (FROM v0.4)
+============================================================
+// Purpose: each side is an atomic truth slot with tau in [0,1].
+
+double[] tau = new double[TOTAL_SIDES]; // truth weights
+int[] areaOf = new int[TOTAL_SIDES];    // assigned Area
+int[] familyOf = new int[TOTAL_SIDES];  // assigned Family
+long[] timestamp = new long[TOTAL_SIDES];
+
+int[][] A = new int[TOTAL_SIDES][TOTAL_SIDES]; // adjacency matrix
+
+
+============================================================
+3. DICTIONARY + EMBEDDING LAYER (FROM v0.4)
+============================================================
+// Purpose: determinstically map lemmas to Families and Areas.
+
+Map<String,Integer> dictWordToFamily;
+int[] familyToArea;
+
+Map<String,double[]> embedWord;
+double[][] embedFamily;  // 288 centroids
+double[][] embedArea;    // 12 centroids
+
+
+============================================================
+4. POLARITY ENGINE (6-AXIS) (FROM v0.4.1)
+============================================================
+// Purpose: ensure that embeddings align with antagonistic Area-pairs.
+
+double[][] axisPos = new double[6][D];
+double[][] axisNeg = new double[6][D];
+double[][] axisDir = new double[6][D];
+
+void initAxisDir() { /* normalize pos-neg */ }
+
+double[] axisPolarity(double[] e) {
+    /* compute [-1,1] polarity vector */
+}
+
+
+============================================================
+5. WORD ATTRIBUTION PIPELINE (5-STAGE) (FROM v0.4)
+============================================================
+// Purpose: map any English lemma → Family → Area deterministically.
+//
+// Stages:
+// 1. Dictionary match
+// 2. Nearest neighbor voting in vector DB
+// 3. Family centroid similarity
+// 4. Axis polarity correction
+// 5. Phrase/sentence overrides applied later
+
+int classifyWord(String w, double[] Ew) { /* full v0.4 logic */ }
+
+
+============================================================
+6. SENTENCE ATTRIBUTION (FROM v0.4)
+============================================================
+// Purpose: aggregate word families to sentence semantic weights.
+
+class SentenceAttribution {
+    double[] F = new double[TOTAL_FAMILIES];
+    double[] A = new double[AREAS];
+    int family;
+    int area;
+}
+
+SentenceAttribution classifySentence(List<String> tokens) { /* v0.4 */ }
+
+
+============================================================
+7. STATEMENT ATTRIBUTION (FROM v0.4)
+============================================================
+// Purpose: unify multiple sentences + apply centroid correction.
+// Adds inward/outward semantic dynamics.
+
+class StatementAttribution {
+    double[] F = new double[TOTAL_FAMILIES];
+    double[] A = new double[AREAS];
+    int family;
+    int area;
+    double[] inward = new double[AREAS];
+    double[] outward = new double[AREAS];
+}
+
+StatementAttribution classifyStatement(List<SentenceAttribution> Slist,
+                                       double[] E_st) { /* v0.4 */ }
+
+
+============================================================
+8. INWARD / OUTWARD SEMANTICS (FROM v0.4)
+============================================================
+// Purpose: track legitimate cross-Area references.
+
+double[][] familyInward  = new double[TOTAL_FAMILIES][AREAS];
+double[][] familyOutward = new double[TOTAL_FAMILIES][AREAS];
+
+void computeInwardOutward(StatementAttribution S, double[] E_st) {
+    /* v0.4 */
+}
+
+
+============================================================
+9. EVOLUTION PIPELINE (FORWARD + BACKWARD) (FROM v0.4)
+============================================================
+
+/////////////////////////////
+// 9.1 FORWARD PIPELINE
+/////////////////////////////
+// Purpose: convert text → semantic coordinates inside Sphere.
+
+StatementAttribution forward(String text) {
+    /* tokenize → classifySentence → classifyStatement */
+}
+
+/////////////////////////////
+// 9.2 BACKWARD PIPELINE
+/////////////////////////////
+// Purpose: correct dictionary entries slowly and safely.
+
+void backward(StatementAttribution St, List<String> tokens) {
+    /* v0.4 logic */
+}
+
+
+============================================================
+10. GEOMETRIC STRUCTURE & MATH (FROM v0.3)
+============================================================
+// Purpose: compute coherence, fragmentation, alignment, etc.
+// Used for traversal, validation, filtering, and reasoning.
+
+double T(Region R);         // truth magnitude
+double C(Region R);         // largest cluster / active
+double X_A(Region R);       // area alignment
+double X_F(Region R);       // family alignment
+double fragIndex(Region R); // fragmentation
+
+/* All v0.3 structural math remains intact */
+
+
+============================================================
+11. SPHERE TRAVERSAL ENGINE (FROM v0.4)
+============================================================
+// Purpose: perform ring traversal to expand context.
+// Used for retrieval and reasoning loops.
+
+int runLoop(int maxPasses, double dominance, double obstacleTheta) {
+    /* v0.4 logic */
+}
+
+
+============================================================
+12. ENGINEERING PIPELINE INTEGRATION (ADDED IN v4.5)
+============================================================
+// Purpose: map the prototype into a real-world, buildable system.
+// Does not alter prototype semantics; only adds engineering layers.
+
+
+////////////////////////////////////////////////////////////
+12.1 DATA SCHEMAS (SQL)
+////////////////////////////////////////////////////////////
+// Purpose: persist dictionary, statements, geometry.
+
+table dictionary_word { lemma, family_id, area_id, embedding }
+table family          { id, area_id, name, centroid }
+table area            { id, name, centroid }
+table statement       { id, text, family_id, area_id, embedding,
+                        inward_vector, outward_vector }
+table hex             { id, family_id, hex_index }
+table side            { id, hex_id, side_index, tau, statement_id }
+
+
+////////////////////////////////////////////////////////////
+12.2 VECTOR DATABASE COLLECTIONS
+////////////////////////////////////////////////////////////
+// Purpose: semantic search + sharded retrieval.
+
+collection words       { lemma, family_id, area_id, embedding }
+collection statements  { statement_id, family_id, area_id, embedding }
+collection families    { centroid }
+collection areas       { centroid }
+
+
+////////////////////////////////////////////////////////////
+12.3 PIPELINE: INGESTION (BUILD PHASE)
+////////////////////////////////////////////////////////////
+// Purpose: convert raw corpus into fully attributed Sphere structure.
+
+processBook(file):
+    - split text into statements (3–5 sentences)
+    - SA = forward(statement)
+    - store in SQL (statement table)
+    - embed text for retrieval
+    - insert embedding → vector DB
+    - assignSide(statement_id) into hex/side geometry
+    - update tau on side
+
+
+////////////////////////////////////////////////////////////
+12.4 PIPELINE: QUERY (RUNTIME)
+////////////////////////////////////////////////////////////
+// Purpose: classify user query → locate in Sphere → retrieve region.
+
+queryPipeline(text):
+    SA = forward(text)
+    region = searchShard(SA.family, SA.area)
+    hops = runLoop(region)
+    metrics = computeStructureMetrics(region)
+    return buildAnswer(SA, region, metrics)
+
+
+////////////////////////////////////////////////////////////
+12.5 PIPELINE: RETRIEVAL (SHARDING)
+////////////////////////////////////////////////////////////
+// Purpose: improve semantic relevance by restricting search space.
+
+searchShard(family, area):
+    - search vector DB for nearest statements
+      filtered by {family_id, area_id}
+    - return top-K for region construction
+
+
+////////////////////////////////////////////////////////////
+12.6 PIPELINE: REGION CONSTRUCTION
+////////////////////////////////////////////////////////////
+// Purpose: transform retrieved statements → lattice region R.
+
+buildRegion(statementHits):
+    - locate sides for each statement
+    - union sides into Region R
+    - compute structural metrics (T, C, X_A, etc.)
+
+
+////////////////////////////////////////////////////////////
+12.7 PIPELINE: LOOP-BASED REASONING
+////////////////////////////////////////////////////////////
+// Purpose: run semantic loop for controlled inference.
+
+runLoop(R):
+    - start area = argmax(A_vec)
+    - hop around ring sequence
+    - accumulate Families
+    - stop on obstacle or convergence
+
+
+////////////////////////////////////////////////////////////
+12.8 PIPELINE: SEMANTIC ANSWER GENERATION
+////////////////////////////////////////////////////////////
+// Purpose: produce structured semantic output.
+
+buildAnswer(SA, region, metrics):
+    - include top families, areas
+    - include inward/outward tendencies
+    - include structural metrics
+    - optionally provide explanation text
+
+
+============================================================
+13. MICROSERVICES ARCHITECTURE (ADDED IN v4.5)
+============================================================
+// Purpose: production deployment structure.
+
+DictionaryService:
+    - getFamily(word)
+    - updateFamily(word)
+    - nearestWords()
+
+AttributionService:
+    - classifyWord / Sentence / Statement
+
+GeometryService:
+    - assignSide
+    - updateTau
+    - region construction
+
+VectorSearchService:
+    - word search
+    - statement search
+    - centroid updates
+
+TraversalService:
+    - runLoop
+    - compute metrics
+
+IngestionService:
+    - batch process corpus
+    - populate DB + vector DB
+
+
+============================================================
+14. HUMAN-READABLE PIPELINE SUMMARY (ADDED IN v4.5)
+============================================================
+
+1. **User input arrives**
+   - Text is split, embedded, and classified.
+
+2. **Word attribution**
+   - Dictionary → NN search → centroid → polarity.
+
+3. **Sentence attribution**
+   - Word families aggregated into 288–D + 12–D distributions.
+
+4. **Statement attribution**
+   - Sentence distributions merged, embeddings applied.
+   - Assigns statement’s Family + Area.
+   - Computes inward/outward cross-Area tendencies.
+
+5. **Placement into Sphere**
+   - Statement occupies one side (atomic truth slot).
+   - tau updated.
+
+6. **Region retrieval**
+   - Query retrieves statements from same family/area shard.
+
+7. **Region construction**
+   - Sides of retrieved statements merged into a Region R.
+
+8. **Semantic loop traversal**
+   - Ring-based movement explores related Areas.
+   - Halts on obstacles or convergence.
+
+9. **Structured output**
+   - Includes region summary, metrics, dominant families/areas,
+     inward/outward semantics, loop results.
+
+10. **Optional backward correction**
+   - Dictionary updated only if inward semantics allow.
+
+
+============================================================
+END OF FILE — SPHERE BLUEPRINT v4.5 (FULL INTEGRATED)
+============================================================

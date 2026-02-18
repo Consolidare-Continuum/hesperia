@@ -1,14 +1,15 @@
 HESPERIA — MASTER SPEC v1.0
 
 Glossary references (see `ACADEMIC.md`):
-- System and pipeline: System, User Input / System Output
-- Retrieval and grounding: Retrieval, RAG, Retriever, Provenance, Grounding
-- Geometry and indexing: Area, Family, Hex, Side ID, Region
-- Metrics and governance: Loopability, Obstacle Score, Governance Decision, Refusal
+- System, input/output: lines 22–54
+- Geometry and indexing (Areas, Families, Sides, Regions): lines 58–106
+- Activation vectors and polarity axes: lines 275–299
+- Truth and structural metrics (T(R), C(R), fragIndex, entropy): lines 216–228, 260–273
+- Evidence, temporal dynamics, and composite scores (decisionIntegrity, strategicScore, governance): lines 301–362, 364–376
 
 Relationships:
 - High-level master view for: all other specs.
-- Details in: 11_BLUEPRINT__HESPERIA_v4_7_full.txt
+- Details in: 11_BLUEPRINT__HESPERIA_v4_5_full.txt
 - Math backbone: 21_MATH__HESPERIA_formalization_v1_java.txt
 
 This document provides a formal, friendly, and clear specification of HESPERIA.

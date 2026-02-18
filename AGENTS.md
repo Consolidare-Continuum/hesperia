@@ -37,7 +37,6 @@ should work with this repository.
 
 ## 4. Safety and Secrets
 
-- **OpenAI API key**: Stored in **`sphere/hesperia/.env`** as `OPENAI_API_KEY`. Used by scripts in `sphere/markdown/` (e.g. `extract_statements.py`, `classify_statements.py`, `batch_book.py`). Do not copy the value into docs, logs, or commits. Tested 2026-02-06: API responds OK.
 - `openai_python.txt` and related files may contain API keys controlled
   externally. Do not copy these values into new files or logs.
 - When writing example code that uses OpenAI or other APIs, reference

@@ -33,7 +33,7 @@ relative to this core path.
   those are implementation choices around this core.
 - **Used in**  
   `10_MASTER_SPEC__HESPERIA_v1_0.txt`,  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
+  `11_BLUEPRINT__HESPERIA_v4_5_full.txt`,  
   `14_SPEC__Services_and_APIs_v0_1.txt`.
 
 ### User Input / System Output
@@ -51,289 +51,8 @@ relative to this core path.
   all internal variables.
 - **Used in**  
   `10_MASTER_SPEC__HESPERIA_v1_0.txt` (overview),  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt` (query pipeline),  
+  `11_BLUEPRINT__HESPERIA_v4_5_full.txt` (query pipeline),  
   `sphere_rag/pipeline.py`.
-
-### Retrieval (RAG retrieval)
-- **Academic definition**  
-  Retrieval is the process of finding and selecting relevant documents, passages, or records from a corpus in response to a query, using lexical, semantic, or hybrid search methods.
-- **Project usage**  
-  In HESPERIA, retrieval is evidence selection. It returns candidates (chunks/statements) with stable identifiers and provenance so that downstream placement and governance can remain inspectable.
-  Retrieval is not meaning by itself; it is input into constraint evaluation.
-- **Used in**  
-  `10_MASTER_SPEC__HESPERIA_v1_0.txt`,  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
-  `15_SPEC__Data_and_Schema_v0_1.txt`,  
-  `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`,  
-  `sphere_rag/pipeline.py`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### RAG (retrieval-augmented generation)
-- **Academic definition**  
-  Retrieval-augmented generation (RAG) is an architecture in which a generative model conditions its output on information retrieved from an external corpus at inference time.
-- **Project usage**  
-  In HESPERIA, RAG is treated as three separable roles:
-  retrieval (evidence selection), constraint evaluation (admissibility/governance), and generation (external, replaceable LLM adapter).
-  The project avoids collapsing these roles into a single “speaking system”.
-- **Used in**  
-  `sphere_rag/README.md`,  
-  `sphere_rag/pipeline.py`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### Retriever (retrieval backend)
-- **Academic definition**  
-  A retriever is a component that implements a retrieval function from a query to a ranked list of candidates, often returning both content and metadata for scoring and traceability.
-- **Project usage**  
-  In HESPERIA, a retriever must return evidence with machine-resolvable provenance (IDs, paths, offsets when available). It is an interchangeable backend (vector DB, BM25, hybrid).
-- **Used in**  
-  `sphere_rag/pipeline.py`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### Generator (LLM adapter; external generation)
-- **Academic definition**  
-  A generator is a model or subsystem that produces natural language output conditioned on input prompts and (optionally) retrieved context.
-- **Project usage**  
-  In HESPERIA, the generator is external and replaceable. HESPERIA outputs structural signals and constraints that the generator must respect; it does not become a primary authority source.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### Context (retrieved context; context window)
-- **Academic definition**  
-  Context is information supplied alongside a query that influences interpretation or generation; a context window is the bounded amount of context a model can condition on at one time.
-- **Project usage**  
-  In HESPERIA RAG workflows, “context” refers to retrieved evidence items (chunks/statements) plus their provenance. Context is treated as inspectable input to admissibility evaluation and generation, not as implicit background.
-- **Used in**  
-  `sphere_rag/pipeline.py`,  
-  `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`.
-
-### Chunk (text chunk)
-- **Academic definition**  
-  A chunk is a segmented unit of a larger document used for indexing, retrieval, and processing (for example, a paragraph-sized passage).
-- **Project usage**  
-  In HESPERIA ingestion, chunks are stored as source text units in MySQL (`chunks` table) with stable IDs mirrored from JSON inputs. Chunks can be promoted into source-layer `statements` for attribution and placement.
-- **Used in**  
-  `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`,  
-  `sphere_rag/mysql_loader.py`,  
-  `sphere_rag/example_attribution_flow.py`.
-
-### Embedding (vector representation)
-- **Academic definition**  
-  An embedding is a mapping from objects (words, sentences, documents) to vectors in a continuous space such that similarity in vector space corresponds (approximately) to similarity in the original domain.
-- **Project usage**  
-  HESPERIA uses embeddings for deterministic lexical grounding (via fixed versions of models/thresholds) and for retrieval backends. Embeddings must be versioned; similarity is not semantic identity.
-- **Used in**  
-  `12_SPEC__Semantic_Engine_v0_4.txt`,  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
-  `14_SPEC__Services_and_APIs_v0_1.txt`.
-
-### Vector database (vector store)
-- **Academic definition**  
-  A vector database stores embeddings and supports nearest-neighbor search, often using approximate indexing structures for speed.
-- **Project usage**  
-  HESPERIA uses a vector DB as an interchangeable retrieval backend for words and statements. Stable identifiers must be mirrored between SQL and the vector store; retrieval parameters should be recorded for reproducibility.
-- **Used in**  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
-  `14_SPEC__Services_and_APIs_v0_1.txt`,  
-  `15_SPEC__Data_and_Schema_v0_1.txt`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### Approximate nearest neighbor (ANN) retrieval
-- **Academic definition**  
-  Approximate nearest neighbor search returns high-similarity candidates without guaranteeing exact nearest neighbors, trading accuracy and determinism for performance.
-- **Project usage**  
-  ANN retrieval can introduce non-determinism across runs (index updates, compaction, concurrency). HESPERIA treats this as a determinism boundary: for repeatability, record embedding versions, index settings, and retrieval parameters, and keep stable IDs for evidence.
-- **Used in**  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
-
-### Provenance (source trace)
-- **Academic definition**  
-  Provenance is metadata that records the origin, history, and transformation path of data, enabling auditability and reproducibility.
-- **Project usage**  
-  In HESPERIA, provenance binds semantic placements to source-layer items (books/chunks/statements) via stable identifiers and file paths. Provenance is required for admissibility to be auditable.
-- **Used in**  
-  `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`,  
-  `41_POLICY__Operational_additions_v0_1.txt`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
-
-### Grounding (evidence-linked output)
-- **Academic definition**  
-  Grounding is the practice of constraining outputs to be supported by referenced evidence or a defined world model, reducing unsupported generation.
-- **Project usage**  
-  HESPERIA grounds downstream generation by requiring evidence-linked structure: coordinates, metrics, and provenance links. Unsupported continuity is treated as inadmissible or refused.
-- **Used in**  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `08_PROJECT_Agent_Workflow_and_RAG_Reality_v0_1.md`.
-
-### Motto (Aequitas et cognitio invictae)
-- **Academic definition**  
-  A motto is a short phrase expressing a guiding principle, constraint, or pledge for a group, institution, or project.
-- **Project usage**  
-  The HESPERIA motto is not branding; it is a design constraint:
-  the system must preserve **structural equity** (aequitas) and **testable understanding** (cognitio) under pressure, contradiction, and time (invictae).
-  It is invoked when deciding whether a feature belongs, whether a metric is acceptable, and whether a subsystem is allowed to speak with authority.
-- **Used in**  
-  `README.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
-
-### Aequitas (equity; structural proportionality)
-- **Academic definition**  
-  Equity is the principle of fairness as proportionality: outcomes, resources, and obligations are distributed according to relevant differences, constraints, and rules (distinct from equal treatment in all cases).
-- **Project usage**  
-  In HESPERIA, **aequitas** is not sentiment. It is structural proportionality enforced by geometry and metrics:
-  no concept dominates without cost; no claim gains weight without evidence; polarity axes remain explicit; influence is bounded and measurable.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
-
-### Cognitio (understanding; testable structure)
-- **Academic definition**  
-  Cognition (and cognate terms like “cognitio”) refers to processes of knowing: perception, learning, memory, reasoning, and comprehension.
-- **Project usage**  
-  In HESPERIA, **cognitio** means localized, testable understanding:
-  meaning has coordinates; it has neighbors and boundaries; it can cohere or fragment under traversal; its stability is measured rather than asserted.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY_Motto_and_Seal_v0_1.md`.
-
-### Invictae (undefeated; drift resistance)
-- **Academic definition**  
-  “Invictus/invicta/invictae” expresses the idea of being unconquered or undefeated, i.e., not overcome by force or adversity.
-- **Project usage**  
-  In HESPERIA, **invictae** is resistance to semantic erosion:
-  conclusions must survive re-ordering, counter-context, traversal changes, and time. Drift is detected; failure is visible; refusal is allowed.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY_Motto_and_Seal_v0_1.md`,  
-  `41_POLICY__Operational_additions_v0_1.txt`.
-
-### Custodial role (stewardship; custodianship)
-- **Academic definition**  
-  Stewardship is responsible oversight and maintenance of a system or resource, focused on preservation of integrity and continuity rather than ownership or personal authorship.
-- **Project usage**  
-  In HESPERIA, contributors are defined as custodians:
-  curators of structure, maintainers of balance, auditors of drift, and recorders of decisions.
-  Personal imprint is minimized; continuity is maximized.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
-
-### Time discipline (change management; slow time)
-- **Academic definition**  
-  Change management is a governance process that controls what changes are allowed, when they occur, and how they are validated, to preserve stability and prevent uncontrolled drift.
-- **Project usage**  
-  HESPERIA uses slow time: ontology and doctrine do not change rapidly.
-  Updates occur only when structural inconsistency is proven, long-term drift is measured, and backward compatibility is preserved.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
-
-### Ideological drift (principle drift; narrative drift)
-- **Academic definition**  
-  Drift is gradual deviation from a reference state. In organizations, principle drift occurs when language, incentives, and practices slowly move away from a founding constraint set.
-- **Project usage**  
-  In HESPERIA, ideological drift is detected by changes in internal language and output posture:
-  emotional language, reduced refusals without metric justification, longer explanations without new structure, and increased confidence without support.
-  When detected, changes are rolled back and the doctrine is re-applied.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
-
-### Naming constraints (non-agentic language)
-- **Academic definition**  
-  Naming constraints are rules restricting how systems, components, and outputs may be labeled, to avoid misleading connotations and to keep a stable interpretive surface.
-- **Project usage**  
-  HESPERIA avoids names implying agency, omniscience, conquest, or intelligence claims.
-  Naming should reflect constraint and measurement (not action or authority).
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `05_IDENTITY_Motto_and_Seal_v0_1.md`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
-
-### Structural admissibility (admissible / inadmissible)
-- **Academic definition**  
-  Admissibility is whether an object (claim, argument, evidence, inference) is acceptable under a defined set of rules, constraints, and evaluation criteria.
-- **Project usage**  
-  In HESPERIA, admissibility is a structural verdict: a claim/output is admitted only if it can be placed into the semantic geometry and remains valid under metrics (coherence, contradiction handling, evidence quality, stability).
-  Admissibility is not “truth”; it is legitimacy under a declared constraint regime.
-- **Used in**  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `sphere_rag/governance.py`.
-
-### Semantic invariant (meaning identity across contexts)
-- **Academic definition**  
-  An invariant is a property that remains unchanged under a set of transformations. In semantics, an invariant is meaning that remains stable across rephrasing, context shifts, or equivalent representations.
-- **Project usage**  
-  HESPERIA treats meaning stability as a system property to be enforced and tested: the same claim should retain identity across traversal, ordering changes, and time, or fail visibly.
-  Stability is measured rather than assumed.
-- **Used in**  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `41_POLICY__Operational_additions_v0_1.txt`.
-
-### Authority (structural legitimacy)
-- **Academic definition**  
-  Authority is legitimate power or accepted right to influence beliefs or decisions; epistemic authority is authority grounded in knowledge and justification.
-- **Project usage**  
-  HESPERIA denies authority derived from fluency, repetition, or scale.
-  Structural legitimacy is admitted only when a claim occupies stable coordinates, aligns with adjacent regions, and survives traversal without fragmentation; otherwise authority is denied or the system refuses.
-- **Used in**  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
-
-### Epoch (semantic epoch; versioned reference interval)
-- **Academic definition**  
-  An epoch is a bounded interval in which a reference frame is fixed and comparable; changes across epochs are explicit and tracked.
-- **Project usage**  
-  A semantic epoch is a versioned interval where core coordinates and polarity axes remain fixed.
-  Changes that would shift reference are treated as epoch boundaries and require explicit versioning and migration/interpretability support.
-- **Used in**  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`.
-
-### Doctrine (binding constraints)
-- **Academic definition**  
-  A doctrine is a set of principles treated as authoritative within a system of practice, constraining what is permissible and providing a basis for interpretation and governance.
-- **Project usage**  
-  In HESPERIA, doctrine is the non-negotiable constraint layer that governs scope, tone, admissibility posture, refusal legitimacy, and drift handling.
-  Doctrine is versioned and treated as a correctness reference for implementations.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
-
-### Specification (spec; normative definition)
-- **Academic definition**  
-  A specification is a precise statement of requirements, interfaces, and constraints that defines expected behavior and enables consistent implementation and verification.
-- **Project usage**  
-  HESPERIA specs define normative mechanics (geometry, indexing, attribution, schema, services). Code and datasets are expected to align with specs, and changes that alter reference require explicit versioning.
-- **Used in**  
-  `10_MASTER_SPEC__HESPERIA_v1_0.txt`,  
-  `11_BLUEPRINT__HESPERIA_v4_7_full.txt`,  
-  `12_SPEC__Semantic_Engine_v0_4.txt`,  
-  `13_SPEC__Indexing_and_Coordinates_v1_0.txt`,  
-  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
-
-### Policy (governance policy; operational constraints)
-- **Academic definition**  
-  A policy is a rule or set of rules that guides decisions and actions under defined conditions, often operationalizing high-level principles into thresholds and procedures.
-- **Project usage**  
-  In HESPERIA, policy operationalizes doctrine via measurable metrics and thresholds (loopability, obstacle score, evidence quality, refusal conditions). Policy is inspectable and versioned when it changes decision behavior.
-- **Used in**  
-  `40_POLICY__Loopability_and_traversal.txt`,  
-  `41_POLICY__Operational_additions_v0_1.txt`,  
-  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`.
-
-### Change control (controlled evolution; change governance)
-- **Academic definition**  
-  Change control is a process that evaluates, approves, documents, and tracks changes to preserve integrity, traceability, and compatibility over time.
-- **Project usage**  
-  HESPERIA change control enforces slow time: ontology/reference changes are versioned; migration/interpretability notes are recorded; refusal and governance thresholds are treated as policy decisions rather than tuning knobs.
-- **Used in**  
-  `07_PROJECT_Operating_Model_and_Documentation_Coherence_v0_1.md`,  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `06_PRODUCT_Properties_and_Blind_Spots_v0_1.md`.
 
 ---
 
@@ -388,21 +107,6 @@ relative to this core path.
   `13_SPEC__Indexing_and_Coordinates_v1_0.txt`,  
   `21_MATH__HESPERIA_formalization_v1_java.txt`,  
   `sphere_rag/geometry.py`.
-
-### Family Graph and Matrices (#familyBaseLinks, #familyPassesMatrix, #familyFullMatrix)
-- **Academic definition**  
-  A graph is a set of nodes with edges between them; an adjacency matrix or edge list encodes which nodes are connected. A subgraph can represent connectivity at a higher abstraction level (here: families rather than individual hexes or sides).
-- **Project usage**  
-  - #familyBaseLinks encodes canonical family neighbours from geometry: 288 families, each with 4 directed links (2 internal ring neighbours and 2 area‑hop neighbours), for 1,152 links total.  
-  - #familyPassesMatrix encodes 89 directed external edges of type PASS or STOP between families (no internal ring links).  
-  - #familyFullMatrix encodes the full directed family graph: 576 internal ring links plus the 89 external PASS/STOP edges, for 665 links total.  
-  These matrices sit one level above the 72,000‑hex / 432,000‑side lattice and are used for traversal math, safety overlays, and diagnostics at the family level.
-- **Used in**  
-  `16_SPEC__Families_Passes_and_Safety_v0_1.txt`,  
-  `17_SPEC__Family_Matrices_description_v0_1.txt`,  
-  `HESPERIA_FAMILIES_BASE_links_v0_1.csv`,  
-  `HESPERIA_FAMILIES_PASSES_matrix_v0_1.csv`,  
-  `HESPERIA_FAMILIES_FULL_matrix_v0_1.csv`.
 
 ### Region (#Region)
 - **Academic definition**  
@@ -569,17 +273,6 @@ relative to this core path.
   `21_MATH__HESPERIA_formalization_v1_java.txt`,  
   `11_BLUEPRINT__HESPERIA_v4_5_full.txt`.
 
-### Spreads and Weights (#AREA_SPREAD, #FAMILY_SPREAD)
-- **Academic definition**  
-  A spread parameter is a scalar that scales how much influence a step or hop contributes to an aggregate metric; it is often measured in the same units as the underlying quantity (here, truth mass).
-- **Project usage**  
-  - #AREA_SPREAD is a multiplier for internal hops at the Area level; it controls how much within‑Area movement contributes to cumulative activation and loopability metrics.  
-  - #FAMILY_SPREAD is a multiplier per family hop, measured in points of truth (tau units), used to scale how much each family‑level hop contributes when aggregating or propagating activation across the family graph.  
-  Both are policy parameters: set to 1.0 in the base policy and tunable for alternative traversal behaviours.
-- **Used in**  
-  `40_POLICY__Loopability_and_traversal.txt`,  
-  `16_SPEC__Families_Passes_and_Safety_v0_1.txt`.
-
 ### Activation Vectors & Coverage (#A_vec, #F_vec, #coveragePhi)
 - **Academic definition**  
   An activation vector represents a probability or intensity distribution over a discrete set; coverage is the fraction of elements that are significantly activated or visited.
@@ -591,20 +284,6 @@ relative to this core path.
 - **Used in**  
   `10_MASTER_SPEC__HESPERIA_v1_0.txt` (Variables),  
   `21_MATH__HESPERIA_formalization_v1_java.txt` (Section 6),  
-  `40_POLICY__Loopability_and_traversal.txt`.
-
-### Hops and Link Types (#internalHop, #areaHop, #passEdge, #stopEdge)
-- **Academic definition**  
-  In graph theory, a hop is a single step along an edge; different edge types can encode different semantics (for example, neutral transitions vs safety‑critical redirects).
-- **Project usage**  
-  - #internalHop is a directed move between neighbouring families within the same Area (ring prev/next).  
-  - #areaHop is a directed move between families in neighbouring Areas on the ring (area‑hop prev/next).  
-  - #passEdge (PASS) is a semantically chosen cross‑Area edge used for normal traversal and loopability.  
-  - #stopEdge (STOP) is a safety/control edge that redirects from high‑risk families (e.g., harm, destruction, deceit) toward stabilizing families (e.g., good, truth, freedom, order).  
-  All hop and edge types share the same family‑graph geometry but have different weights and roles in traversal and safety logic.
-- **Used in**  
-  `16_SPEC__Families_Passes_and_Safety_v0_1.txt`,  
-  `17_SPEC__Family_Matrices_description_v0_1.txt`,  
   `40_POLICY__Loopability_and_traversal.txt`.
 
 ### Polarity Axes & Tension (#axisPos, #axisNeg, #bipolarAxes, #tensionEnergy)
@@ -696,17 +375,6 @@ relative to this core path.
   `41_POLICY__Operational_additions_v0_1.txt`,  
   `14_SPEC__Services_and_APIs_v0_1.txt` (roles),  
   `sphere_rag/governance.py`, `sphere_rag/pipeline.py`.
-
-### Refusal (abstention; right of refusal)
-- **Academic definition**  
-  Refusal (or abstention) is a decision outcome in which an agent declines to act or conclude due to insufficient information, unacceptable risk, invalid premises, or violated constraints.
-- **Project usage**  
-  In HESPERIA, refusal is a first-class correctness outcome: the system may decline to conclude when structure is insufficient, the region is contradictory, or governance thresholds are hit.
-  Suppressing refusal is treated as system corruption because it replaces measurable limits with rhetorical continuity.
-- **Used in**  
-  `04_IDEOLOGY_Aequitas_et_cognitio_invictae_v0_2.md`,  
-  `41_POLICY__Operational_additions_v0_1.txt`,  
-  `sphere_rag/governance.py`.
 
 ---
 

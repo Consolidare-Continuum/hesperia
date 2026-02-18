@@ -1,13 +1,13 @@
 HESPERIA — INDEXING & COORDINATE SPEC v1.0
 
 Glossary references (see `ACADEMIC.md`):
-- Geometry and indexing: Area, Family, Hex, Side ID, Region
-- Truth and metrics context: Truth Weight (#tau_s), Structural Metrics, Loopability
+- Geometry and indexing (Areas, Families, Sides, Regions): lines 58–106
+- Truth weight and structural metrics using sideId: lines 216–228, 260–273
 
 This document defines the canonical indexing and coordinate model
 for the HESPERIA hex-sphere geometry. It is aligned with:
-- geometry constants in `11_BLUEPRINT__HESPERIA_v4_7_full.txt`
-- Java-style geometry math in `20_GEOMETRY__formalized_structure_java.txt`
+- geometry constants in HISPERIA_sphere_blueprint_v4.5.txt
+- Java-style math in formalized_geometric_structure_java.txt
 - the Python reference implementation in sphere_rag/geometry.py
 
 All definitions here are normative and should be treated as the
