@@ -1,5 +1,7 @@
 # HESPERIA (HSPR)
 
+**Operational**: Single canonical repo (Team 10). Deliverables → `origin` (Atomic-Commits-Team/hesperia). See [OPERATIONAL.md](OPERATIONAL.md).
+
 **Version**: v0.4.0 (tag `hesperia-v0.4.0`)
 **Status**: v0.4 consolidation. First full L1–L9 stack; run → output → logged → reportable. Deterministic core + lexical stack. Freeze: do not change core math without version bump.
 
