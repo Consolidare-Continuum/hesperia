@@ -3,8 +3,8 @@ from __future__ import annotations
 import hashlib
 from dataclasses import dataclass
 
-from gamma_guard_v1 import GammaState, StopReason, gamma_finish, gamma_tick
-from theta_gate_v1 import theta_gate
+from scripts.gamma_guard import GammaState, StopReason, gamma_finish, gamma_tick
+from scripts.theta_gate import theta_gate
 
 from .geometry import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES, SideCoord, area_left, area_right, side_id_from_coord
 from .guards import run_sigma_preflight

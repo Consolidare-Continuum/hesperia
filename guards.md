@@ -2,9 +2,9 @@
 
 Execution order is mandatory and non-bypassable for runtime traversal:
 
-1. **Σ (sigma_guard_v3.py)** preflight at startup.
-2. **Γ (gamma_guard_v1.py)** on each traversal step.
-3. **Θ (theta_gate_v1.py)** once at the end, over the full run result.
+1. **Σ (scripts/sigma_guard.py)** preflight at startup.
+2. **Γ (scripts/gamma_guard.py)** on each traversal step.
+3. **Θ (scripts/theta_gate.py)** once at the end, over the full run result.
 
 Precedence rule with script-level `TraversalSafeguard`:
 
