@@ -1,0 +1,23 @@
+# Hesperia Analyze API — POST /hesperia/analyze (OpenAI GPT)
+# Install: sudo cp /data/workspaces/atomic-commit-hesperia/deploy/hesperia-api.service /etc/systemd/system/
+#         sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-api
+# Backend: http://127.0.0.1:9005 (nginx proxies hesperia.prichindel.com to this)
+# Chroma: CHROMA_SERVER_URL=http://127.0.0.1:8002 (prichindel production)
+[Unit]
+Description=Hesperia Analyze API (atomic-commit-hesperia)
+After=network.target chroma-new-docker.service
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/workspaces/atomic-commit-hesperia
+Environment=PYTHONPATH=/data/workspaces/cursor:/data/workspaces/atomic-commit-hesperia
+Environment=CHROMA_SERVER_URL=http://127.0.0.1:8002
+Environment=HESPERIA_DATA_DIR=/data/workspaces/atomic-commit-hesperia
+ExecStart=/data/workspaces/atomic-commit-hesperia/venv/bin/uvicorn api.main:app --host 127.0.0.1 --port 9005 --timeout-keep-alive 30
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
