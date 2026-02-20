@@ -1,0 +1,56 @@
+# HESPERIA — Guard Runtime Contract
+
+Status: Active  
+Applies to: sphere_rag runtime  
+Layers: Σ (Static) → Γ (Dynamic) → Θ (Final Gate)
+
+This file defines how guards must be executed and how Copilot / contributors
+must treat them. Guards are mandatory. No bypass allowed.
+
+---
+
+# 0. Execution Order (Never Change)
+
+Text
+→ Attribution
+→ Region Construction
+→ Σ (once at startup / load)
+→ Traversal
+→ Γ (per traversal pass)
+→ Θ (final decision gate)
+→ HESPERIAResult
+
+No shortcut.
+No silent skip.
+
+---
+
+# 1. Σ — Static Guard (sigma_guard)
+
+Purpose: Protect geometry + indexing + ontology.
+
+Run:
+- On application startup
+- On dataset ingestion
+- On schema load
+
+Must validate:
+
+- Geometry constants
+- sideId forward/inverse identity
+- Cardinality (12 / 24 / 250 / 6)
+- Canonical Area names
+- Canonical Family names
+- No orphan entities
+- tau bounds [0,1]
+
+If Σ fails:
+- Abort process.
+- Do NOT continue in degraded mode.
+
+Return object:
+```python
+{
+  "sigma_status": "PASS" | "FAIL",
+  "errors": [...]
+}

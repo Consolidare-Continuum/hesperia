@@ -1,0 +1,176 @@
+============================================================
+HESPERIA — STRUCTURAL INVARIANTS SPEC v1.0
+============================================================
+
+STATUS
+------
+Version: v1.0
+Scope: Core geometry + ontology + indexing invariants
+Layer: Σ (Static Guard)
+Non-goal: No semantic refactor, no dynamic policy logic.
+
+Dependencies:
+- 10_MASTER_SPEC__HESPERIA_v1_0.txt
+- 12_SPEC__Semantic_Engine_v0_4.txt
+- 13_SPEC__Indexing_and_Coordinates_v1_0.txt
+- 21_MATH__HESPERIA_formalization_v1_java.txt
+- 30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt
+
+============================================================
+1. GEOMETRY CONSTANT INVARIANTS
+============================================================
+
+The following constants are frozen for this version:
+
+AREAS = 12
+FAMILIES_PER_AREA = 24
+HEXES_PER_FAMILY = 250
+SIDES_PER_HEX = 6
+
+Derived:
+TOTAL_FAMILIES = 288
+TOTAL_HEXES    = 72,000
+TOTAL_SIDES    = 432,000
+SIDES_PER_FAMILY = 1,500
+SIDES_PER_AREA   = 36,000
+
+Invariant G1:
+Any deviation from these values → HARD STOP.
+
+============================================================
+2. INDEXING INVARIANTS
+============================================================
+
+2.1 sideId Forward Mapping
+
+familyGlobal = area * FAMILIES_PER_AREA + familyLocal
+
+sideId =
+(((familyGlobal * HEXES_PER_FAMILY) + hexIndex)
+  * SIDES_PER_HEX) + sideIndex
+
+Invariant I1:
+0 ≤ sideId < TOTAL_SIDES
+
+2.2 Inverse Mapping Identity
+
+coord → sideId → coord must be identity.
+
+Invariant I2:
+inverse(forward(coord)) == coord
+
+Failure → HARD STOP.
+
+============================================================
+3. CARDINALITY INVARIANTS
+============================================================
+
+C1:
+Each Area contains exactly 24 Families.
+
+C2:
+Each Family contains exactly 250 Hexes.
+
+C3:
+Each Hex contains exactly 6 Sides.
+
+C4:
+No duplicate global family IDs.
+
+C5:
+No orphan:
+- Side without Hex
+- Hex without Family
+- Family without Area
+
+Violation → DATA REJECTED.
+
+============================================================
+4. ONTOLOGY INVARIANTS
+============================================================
+
+O1:
+Area names must match canonical set.
+
+O2:
+Family names must match canonical table.
+
+O3:
+Ring order must match canonical AREA_RING_ORDER.
+
+No silent fallback.
+No auto-correction.
+
+Violation → REJECT.
+
+============================================================
+5. TRUTH STRUCTURE INVARIANTS
+============================================================
+
+T1:
+tau[sideId] ∈ [0,1]
+
+T2:
+areaOf[sideId] must match inverse mapping.
+
+T3:
+familyOf[sideId] must match inverse mapping.
+
+T4:
+timestamp length == TOTAL_SIDES.
+
+Violation → HARD STOP.
+
+============================================================
+6. STRUCTURAL HASH CONSISTENCY
+============================================================
+
+Optional but recommended:
+
+Compute:
+structHash = hash(
+  AREAS,
+  FAMILIES_PER_AREA,
+  HEXES_PER_FAMILY,
+  SIDES_PER_HEX,
+  canonicalAreaList,
+  canonicalFamilyList
+)
+
+Invariant S1:
+structHash must match stored build hash.
+
+If mismatch:
+System must refuse ingestion.
+
+============================================================
+7. FAILURE CLASSIFICATION
+============================================================
+
+Hard Stop:
+- Geometry mismatch
+- Index mismatch
+- Cardinality mismatch
+
+Data Reject:
+- Ontology mismatch
+- Orphan entities
+
+Logged Warning:
+- Non-critical metadata issues
+
+============================================================
+8. GUARANTEE PROVIDED BY Σ
+============================================================
+
+If all invariants pass:
+
+- Geometry is deterministic.
+- Indexing is bijective.
+- Ontology is canonical.
+- Data structure is consistent.
+
+Σ guarantees structural integrity only.
+No dynamic reasoning protection.
+
+END OF SPEC.
