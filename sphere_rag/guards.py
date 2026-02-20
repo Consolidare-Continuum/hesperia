@@ -4,9 +4,9 @@ from dataclasses import asdict
 
 from sphere_rag.geometry import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES
 
-from gamma_guard_v1 import GammaState, StopReason, gamma_finish, gamma_tick
-from sigma_guard_v3 import SigmaGuard
-from theta_gate_v1 import theta_gate
+from scripts.gamma_guard import GammaState, StopReason, gamma_finish, gamma_tick
+from scripts.sigma_guard import SigmaGuard
+from scripts.theta_gate import theta_gate
 
 
 def default_family_to_area() -> list[int]:
