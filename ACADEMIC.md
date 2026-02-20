@@ -362,6 +362,38 @@ relative to this core path.
   `10_MASTER_SPEC__HESPERIA_v1_0.txt` (System metrics & decision mechanics),  
   `41_POLICY__Operational_additions_v0_1.txt` (Section 13).
 
+
+### Guard Layer (ΣΓΘ)
+- **Academic definition**
+  A guard layer is a formal invariant-enforcement boundary that validates
+  whether a system state is admissible before execution continues.
+- **Project usage**
+  HESPERIA applies a three-tier guard stack: **Σ** for static topology and
+  indexing invariants, **Γ** for runtime and structure-dynamics coherence, and
+  **Θ** for governance legitimacy before publication. The ordered gate
+  `Σ → Γ → Θ` upgrades the pipeline from semantic modeling to controlled
+  semantic operation with typed failures (`HALT`, `ROLLBACK`, `CORRECT`,
+  `REQUIRE_REVIEW`).
+- **Used in**
+  `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`,
+  `40_POLICY__Loopability_and_traversal.txt`,
+  `41_POLICY__Operational_additions_v0_1.txt`.
+
+### Structural Integrity / Dynamic Stability / Governance Legitimacy
+- **Academic definition**
+  Respectively: preservation of formal structure constraints, bounded and
+  coherent temporal behavior, and procedurally authorized decision release.
+- **Project usage**
+  - **Structural integrity (Σ):** constant/cardinality/indexing/topology
+    correctness checks executed at boot, migration, and pre-traversal.
+  - **Dynamic stability (Γ):** loop-time checks for drift, fragmentation,
+    coherence, and polarization control.
+  - **Governance legitimacy (Θ):** final publish gate for hash-locked config,
+    override discipline, and non-empty publishable outputs.
+- **Used in**
+  `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`,
+  `14_SPEC__Services_and_APIs_v0_1.txt`.
+
 ### Governance Decision
 - **Academic definition**  
   A decision rule mapping observations and metrics to allowed,

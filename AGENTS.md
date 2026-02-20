@@ -35,6 +35,21 @@ should work with this repository.
     fully runnable.
   - Keep constants and formulas consistent with the master specs.
 
+
+## 3a. Guard Layer Discipline (ΣΓΘ)
+
+- Guard documentation is canonical in
+  `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`.
+- Treat guard layers as non-overlapping responsibilities:
+  - **Σ**: static geometry/indexing invariants only.
+  - **Γ**: runtime and structure-dynamics invariants only.
+  - **Θ**: governance and publishability legitimacy only.
+- For changes touching traversal, governance, or indexing, update guard-facing
+  docs so reviewers can map behavior to Σ/Γ/Θ checks explicitly.
+- Do not weaken a guard silently. If behavior changes, add versioned docs and
+  note expected failure mode (`HALT`, `ROLLBACK`, `CORRECT`, or
+  `REQUIRE_REVIEW`).
+
 ## 4. Safety and Secrets
 
 - `openai_python.txt` and related files may contain API keys controlled
