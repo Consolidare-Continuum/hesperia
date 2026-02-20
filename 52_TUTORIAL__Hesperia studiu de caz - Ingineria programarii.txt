@@ -1,16 +1,15 @@
 ============================================================
-52_TUTORIAL — Hesperia: studiu de caz (Ingineria programării)
-Ediție 1 revizuită
+52_TUTORIAL — Hesperia: studiu de caz (Ingineria programării) Ediție 1 revizuită
 ============================================================
 
 - Descrierea studiului de caz, problema formalizata și soluția propusa
 
-Studiul de caz analizează proiectul HESPERIA v0.2 ca exemplu de aplicare a principiilor ingineriei 
-programării asupra unui sistem semantic destinat integrarii cu modele de tip LLM. Contextul 
-problemei pornește de la o limitare practica a sistemelor AI generative: acestea produc text 
-coerent lingvistic, dar instabil semantic. În absența unei structuri fixe, modelele pot deriva 
-conceptual, pot genera contradicții și nu ofera mecanisme clare de audit sau reproducere a 
-raționamentului.
+Studiul de caz analizează proiectul HESPERIA v0.2 ca exemplu de aplicare a principiilor
+ingineriei programării asupra unui sistem semantic destinat integrarii cu modele de tip LLM.
+Contextul problemei pornește de la o limitare practica a sistemelor AI generative: acestea
+produc text coerent lingvistic, dar instabil semantic. În absența unei structuri fixe,
+modelele pot deriva conceptual, pot genera contradicții și nu ofera mecanisme clare de audit
+sau reproducere a raționamentului.
 
 - Problema formalizata poate fi formulata astfel:
 Se dorește procesarea textului natural într-un mod care:
@@ -18,19 +17,20 @@ Se dorește procesarea textului natural într-un mod care:
 2.	sa permita masurarea coerenței și a contradicțiilor;
 3.	sa reduca deriva semantica în interacțiuni succesive;
 4.	sa fie integrabil într-un pipeline industrial de tip RAG.
-Formal, intrarea este un text T (șir de caractere), iar sistemul trebuie sa produca o reprezentare 
+Formal, intrarea este un text T (șir de caractere), iar sistemul trebuie sa produca o
+reprezentare
 semantica structurata S(T), astfel încât:
 *	clasificarea sa fie stabila pentru aceeași intrare;
 *	rezultatul sa fie mapat într-un spațiu finit și bine definit;
 *	structura sa permita calcul de metrici și control al traversarii.
 
-În lipsa unei structuri geometrice, textul este doar un flux probabilistic. Proiectul trateaza 
-aceasta stare ca fiind insuficienta pentru aplicații critice (compliance, analiza decizionala, audit).
+În lipsa unei structuri geometrice, textul este doar un flux probabilistic. Proiectul
+trateaza aceasta stare ca fiind insuficienta pentru aplicații critice (compliance, analiza
+decizionala, audit).
 
-Soluția propusa:
-Soluția HESPERIA consta în introducerea unui substrat semantic determinist, modelat ca o 
-structura geometrica fixa (hex-sphere), în care orice afirmație este plasata într-un spațiu 
-semantic discret.
+Soluția propusa: Soluția HESPERIA consta în introducerea unui substrat semantic determinist,
+modelat ca o structura geometrica fixa (hex-sphere), în care orice afirmație este plasata
+într-un spațiu semantic discret.
 
 Structura de baza este definita prin:
 *	12 Areas (macro-domenii semantice),
@@ -45,356 +45,345 @@ Textul este procesat printr-un pipeline în etape:
 4.	Construirea unei regiuni semantice;
 5.	Traversare controlata și calcul de metrici.
 
-Astfel, textul nu mai este tratat doar ca secvența lingvistica, ci ca obiect plasat într-un spațiu 
-semantic cu coordonate explicite.
+Astfel, textul nu mai este tratat doar ca secvența lingvistica, ci ca obiect plasat într-un
+spațiu semantic cu coordonate explicite.
 
 Concepțiile fundamentale ale soluției:
 Soluția se bazeaza pe urmatoarele concepții inginerești:
-1.	Geometrie fixa - structura semantica nu este dinamica; constantele (12 Areas, 24 
+1.	Geometrie fixa - structura semantica nu este dinamica; constantele (12 Areas, 24
 Families etc.) sunt invarianti structurali.
 2.	Determinism - pentru aceeași intrare, clasificarea trebuie sa produca același rezultat.
-3.	Masurabilitate - se introduc metrici precum coerența structurala, entropie pe arii, 
+3.	Masurabilitate - se introduc metrici precum coerența structurala, entropie pe arii,
 polarizare, obstacle score.
-4.	Separarea forward/backward - procesarea textului este separata de corectarea lenta a 
+4.	Separarea forward/backward - procesarea textului este separata de corectarea lenta a
 dicționarului.
 5.	Control al traversarii - buclele semantice sunt limitate prin praguri și scoruri de obstacol.
-6.	Auditabilitate - fiecare rezultat poate fi explicat prin coordonate și valori numerice (tau, 
+6.	Auditabilitate - fiecare rezultat poate fi explicat prin coordonate și valori numerice (tau,
 activari, aliniere).
 
-Prin aceste principii, HESPERIA transforma o problema probabilistica (generare text) într-o 
+Prin aceste principii, HESPERIA transforma o problema probabilistica (generare text) într-o
 problema inginereasca de plasare și evaluare într-un spațiu finit și formalizat.
 
-Studiul de caz demonstreaza ca prin aplicarea disciplinata a ingineriei software asupra unei 
-probleme AI se poate construi o infrastructura semantica controlabila, nu doar un model 
+Studiul de caz demonstreaza ca prin aplicarea disciplinata a ingineriei software asupra unei
+probleme AI se poate construi o infrastructura semantica controlabila, nu doar un model
 generativ.
-
 
 1. SOFTWARE OVERVIEW
 
 1.1 Definirea noțiunii de software
-Software-ul reprezintă ansamblul programelor, structurilor de date și documentației asociate 
-care permit unui sistem de calcul sa realizeze funcții bine definite. În sensul ingineriei 
-programării, termenul nu se refera exclusiv la codul executabil, ci la întregul ecosistem tehnic 
-care asigura proiectarea, implementarea, utilizarea și mentenanța unei soluții informatice. 
-Astfel, software-ul include atât componentele logice (algoritmi, structuri de control, modele de 
-date), cât și documentația tehnica, regulile de utilizare, procedurile de testare și versiunile 
-controlate ale specificațiilor.
-În cadrul studiului de caz analizat, proiectul HESPERIA v0.2 este încadrat ca sistem software 
-complet deoarece îndeplinește toate aceste criterii. El nu consta doar într-un set de fițiere 
+Software-ul reprezintă ansamblul programelor, structurilor de date și documentației asociate
+care permit unui sistem de calcul sa realizeze funcții bine definite. În sensul ingineriei
+programării, termenul nu se refera exclusiv la codul executabil, ci la întregul ecosistem
+tehnic care asigura proiectarea, implementarea, utilizarea și mentenanța unei soluții
+informatice. Astfel, software-ul include atât componentele logice (algoritmi, structuri de
+control, modele de date), cât și documentația tehnica, regulile de utilizare, procedurile de
+testare și versiunile controlate ale specificațiilor. În cadrul studiului de caz analizat,
+proiectul HESPERIA v0.2 este încadrat ca sistem software complet deoarece îndeplinește toate
+aceste criterii. El nu consta doar într-un set de fițiere
 Python, ci într-o arhitectura coerenta formata din:
 *	cod executabil (motor semantic, geometrie, metrici, traversal);
-*	modele matematice formalizate (definirea spațiului 12 Areas × 24 Families × 250 hexes × 
+*	modele matematice formalizate (definirea spațiului 12 Areas × 24 Families × 250 hexes ×
 6 sides);
 *	seturi de date (dicționar semantic, mapari Families-Areas, corpus de statements);
 *	documentație tehnica versionata (MASTER_SPEC, BLUEPRINT, SPEC-uri);
 *	politici și mecanisme de control (guards, politici de traversal, obstacole);
 *	proceduri de ingestie și interogare (pipeline forward, searchShard, runLoop).
-Din perspectiva funcționala, software-ul HESPERIA are rolul de a transforma un text natural într-
-o reprezentare semantica structurata, determinista și masurabila. Intrarea sistemului este textul 
-furnizat de utilizator, iar iețirea este un obiect semantic compus din coordonate (Area, Family, 
-side), vectori de activare și metrici structurale. Aceasta iețire poate fi utilizata ulterior într-un 
-sistem RAG sau într-un proces decizional automatizat.
-Prin urmare, în cadrul acestui studiu de caz, HESPERIA este tratat ca infrastructura software 
-inginereasca, nu ca aplicație experimentala. El îndeplinește condițiile definitorii ale unui produs 
-software: are specificații, implementare, date, control al versiunilor și un scop funcțional clar 
-definit.
+Din perspectiva funcționala, software-ul HESPERIA are rolul de a transforma un text natural
+într-o reprezentare semantica structurata, determinista și masurabila. Intrarea sistemului
+este textul furnizat de utilizator, iar iețirea este un obiect semantic compus din
+coordonate (Area, Family, side), vectori de activare și metrici structurale. Aceasta iețire
+poate fi utilizata ulterior într-un sistem RAG sau într-un proces decizional automatizat.
+Prin urmare, în cadrul acestui studiu de caz, HESPERIA este tratat ca infrastructura
+software inginereasca, nu ca aplicație experimentala. El îndeplinește condițiile definitorii
+ale unui produs software: are specificații, implementare, date, control al versiunilor și un
+scop funcțional clar definit.
 
 1.2 Ingineria software (definiție IEEE / Fritz Bauer)
-Conform definiției IEEE, ingineria software reprezintă aplicarea sistematica, disciplinata și 
-cuantificabila a principiilor inginerești în dezvoltarea, operarea și mentenanța software-ului. 
-Fritz Bauer a formulat ideea centrala conform careia ingineria software presupune utilizarea 
-principiilor inginerești solide pentru a obține software fiabil, eficient și economic.
+Conform definiției IEEE, ingineria software reprezintă aplicarea sistematica, disciplinata
+și cuantificabila a principiilor inginerești în dezvoltarea, operarea și mentenanța
+software-ului. Fritz Bauer a formulat ideea centrala conform careia ingineria software
+presupune utilizarea principiilor inginerești solide pentru a obține software fiabil,
+eficient și economic.
 Elementele esențiale ale definiției sunt:
 *	caracter sistematic (proces organizat, nu improvizație),
 *	caracter disciplinat (respectarea metodologiilor și standardelor),
 *	caracter cuantificabil (posibilitatea masurarii și evaluarii),
 *	orientarea spre fiabilitate și mentenanța pe termen lung.
-Aplicarea acestor principii în proiectul HESPERIA v0.2 este vizibila în mai multe decizii 
-structurale și organizaționale.
-În primul rând, dezvoltarea nu s-a realizat prin scriere directa de cod experimental, ci prin 
-elaborarea unor specificații formale versionate (MASTER_SPEC, BLUEPRINT, SPEC-uri separate 
-pentru semantic engine, indexing, policies). Aceasta abordare reflecta caracterul sistematic al 
-dezvoltarii.
-În al doilea rând, structura semantica este definita prin invarianti clari (12 Areas, 24 Families per 
-Area, 250 hexes, 6 sides), iar aceste constante nu sunt modificate arbitrar. Stabilirea acestor 
-parametri reprezintă o decizie inginereasca menita sa asigure coerența și predictibilitate.
+Aplicarea acestor principii în proiectul HESPERIA v0.2 este vizibila în mai multe decizii
+structurale și organizaționale. În primul rând, dezvoltarea nu s-a realizat prin scriere
+directa de cod experimental, ci prin elaborarea unor specificații formale versionate
+(MASTER_SPEC, BLUEPRINT, SPEC-uri separate pentru semantic engine, indexing, policies).
+Aceasta abordare reflecta caracterul sistematic al dezvoltarii. În al doilea rând, structura
+semantica este definita prin invarianti clari (12 Areas, 24 Families per Area, 250 hexes, 6
+sides), iar aceste constante nu sunt modificate arbitrar. Stabilirea acestor parametri
+reprezintă o decizie inginereasca menita sa asigure coerența și predictibilitate.
 În al treilea rând, proiectul introduce mecanisme cuantificabile:
 *	metrici structurale (coerența, fragmentare, entropie pe arii),
 *	vectori de activare,
 *	scor de obstacol,
 *	masurarea polarizarii prin axe bipolare.
-Prin aceste instrumente, sistemul poate fi evaluat numeric, nu doar descriptiv. Aceasta 
-corespunde cerinței de cuantificabilitate din definiția IEEE.
-De asemenea, separarea între pipeline-ul forward (procesarea textului) și mecanismul backward 
-(corecția controlata a dicționarului) demonstreaza o preocupare pentru mentenanța și evoluție 
-controlata, în spiritul ingineriei software moderne.
-În concluzie, studiul de caz HESPERIA ilustreaza aplicarea principiilor ingineriei software asupra 
-unui domeniu specific - modelarea semantica. Proiectul nu este tratat ca experiment AI ad-
-hoc, ci ca sistem proiectat disciplinat, cu arhitectura definita, versiuni controlate și mecanisme 
-de masurare, ceea ce îl încadreaza în definiția clasica a ingineriei software formulata de IEEE și 
-Fritz Bauer.
+Prin aceste instrumente, sistemul poate fi evaluat numeric, nu doar descriptiv. Aceasta
+corespunde cerinței de cuantificabilitate din definiția IEEE. De asemenea, separarea între
+pipeline-ul forward (procesarea textului) și mecanismul backward (corecția controlata a
+dicționarului) demonstreaza o preocupare pentru mentenanța și evoluție controlata, în
+spiritul ingineriei software moderne. În concluzie, studiul de caz HESPERIA ilustreaza
+aplicarea principiilor ingineriei software asupra unui domeniu specific - modelarea
+semantica. Proiectul nu este tratat ca experiment AI ad-hoc, ci ca sistem proiectat
+disciplinat, cu arhitectura definita, versiuni controlate și mecanisme de masurare, ceea ce
+îl încadreaza în definiția clasica a ingineriei software formulata de IEEE și Fritz Bauer.
 
 1.3 Încadrarea tipului de software
-Din perspectiva clasificarilor clasice din ingineria software, sistemele sunt împarțite în general 
-în: system software, application software, embedded software și sisteme de tip E (conform lui 
-Lehman).
-HESPERIA nu este system software, deoarece nu gestioneaza direct resurse hardware sau sistem 
-de operare. 
-Nu este nici aplicație de utilizator final în sens clasic (GUI, aplicație business independenta).
+Din perspectiva clasificarilor clasice din ingineria software, sistemele sunt împarțite în
+general în: system software, application software, embedded software și sisteme de tip E
+(conform lui Lehman). HESPERIA nu este system software, deoarece nu gestioneaza direct
+resurse hardware sau sistem de operare. Nu este nici aplicație de utilizator final în sens
+clasic (GUI, aplicație business independenta).
 Sistemul poate fi încadrat ca:
-• infrastructura software semantica 
-• componenta middleware 
+• infrastructura software semantica
+• componenta middleware
 • sistem de tip E (E-type system)
 Încadrarea ca sistem de tip E este justificata deoarece:
 *	interacționeaza cu limbaj natural din mediul real;
 *	modeleaza procese conceptuale dinamice;
 *	trebuie sa evolueze odata cu utilizarea și integrarea în contexte reale;
 *	este influențat de schimbari externe (modele LLM, corpusuri, reglementari).
-În plus, HESPERIA funcționeaza ca strat intermediar între modele AI generative și aplicații 
-industriale, ceea ce îl plaseaza în categoria middleware semantic controlat.
-Prin urmare, din punct de vedere formal, HESPERIA poate fi clasificat ca sistem software de tip E 
-cu rol de infrastructura semantica middleware.
+În plus, HESPERIA funcționeaza ca strat intermediar între modele AI generative și aplicații
+industriale, ceea ce îl plaseaza în categoria middleware semantic controlat. Prin urmare,
+din punct de vedere formal, HESPERIA poate fi clasificat ca sistem software de tip E cu rol
+de infrastructura semantica middleware.
 
 1.4 Evoluția software-ului
-Evoluția software-ului reprezintă procesul continuu prin care un sistem informatic este modificat 
-și adaptat pentru a raspunde cerințelor noi, schimbarilor de mediu și corectarii defectelor. În 
-literatura de specialitate, evoluția este considerata inevitabila, deoarece software-ul 
-interacționeaza cu realitatea organizaționala și tehnologica, iar aceasta se schimba constant.
+Evoluția software-ului reprezintă procesul continuu prin care un sistem informatic este
+modificat și adaptat pentru a raspunde cerințelor noi, schimbarilor de mediu și corectarii
+defectelor. În literatura de specialitate, evoluția este considerata inevitabila, deoarece
+software-ul interacționeaza cu realitatea organizaționala și tehnologica, iar aceasta se
+schimba constant.
 Software-ul nu este un produs static. Dupa implementarea inițiala, apar:
 *	noi cerințe funcționale,
 *	optimizari de performanța,
 *	nevoi de integrare cu alte sisteme,
 *	cerințe de securitate sau guvernanță,
 *	corectari ale erorilor conceptuale.
-În cazul studiului de caz HESPERIA, evoluția software-ului poate fi urmarita explicit prin versiuni 
-succesive, fiecare adaugând niveluri de formalizare și control.
+În cazul studiului de caz HESPERIA, evoluția software-ului poate fi urmarita explicit prin
+versiuni succesive, fiecare adaugând niveluri de formalizare și control.
 Etapele principale ale evoluției proiectului sunt:
-*	Faza conceptuala (v0.1) - definirea ideii de sfera semantica și a împarțirii în Areas și 
+*	Faza conceptuala (v0.1) - definirea ideii de sfera semantica și a împarțirii în Areas și
 Families.
-*	Prototip inițial (v0.2) - implementarea funcționala a structurii și a motorului semantic 
+*	Prototip inițial (v0.2) - implementarea funcționala a structurii și a motorului semantic
 de baza.
-*	Formalizare matematica (v0.3) - introducerea metricilor, a modelului de regiune și a 
+*	Formalizare matematica (v0.3) - introducerea metricilor, a modelului de regiune și a
 funcțiilor cuantificabile.
-*	Extindere semantica (v0.4) - integrarea embedding-urilor, a polaritații pe axe și a 
+*	Extindere semantica (v0.4) - integrarea embedding-urilor, a polaritații pe axe și a
 procesului forward/backward.
-*	Blueprint industrial (v4.5 / v4.7) - integrarea cu SQL, vector DB, sharding și pipeline 
-complet de ingestie și query.
-Aceasta evoluție nu a implicat rescriere haotica, ci extindere incrementala pe baza unei 
-geometrii stabile. Invariantul central (12 Areas × 24 Families × 250 hexes × 6 sides) a fost 
-menținut pe parcursul versiunilor, ceea ce indica o evoluție controlata, nu restructurare radicala.
+*	Blueprint industrial (v4.5 / v4.7) - integrarea cu SQL, vector DB, sharding și pipeline
+complet de ingestie și query. Aceasta evoluție nu a implicat rescriere haotica, ci extindere
+incrementala pe baza unei geometrii stabile. Invariantul central (12 Areas × 24 Families ×
+250 hexes × 6 sides) a fost menținut pe parcursul versiunilor, ceea ce indica o evoluție
+controlata, nu restructurare radicala.
 Se observa doua direcții principale de evoluție:
 1.	Evoluție funcționala - adaugarea de capabilitați (metrici, traversal, guvernanță).
-2.	Evoluție arhitecturala - separarea clara între specificații, motor semantic, geometrie, 
-politici și integrare externa.
-Prin urmare, HESPERIA exemplifica un proces de evoluție planificata, în care fiecare versiune 
-adauga complexitate și control fara a compromite stabilitatea structurii de baza. Evoluția nu este 
-reacție la defecte accidentale, ci extindere sistematica a unei arhitecturi inițiale bine definite.
+2.	Evoluție arhitecturala - separarea clara între specificații, motor semantic, geometrie,
+politici și integrare externa. Prin urmare, HESPERIA exemplifica un proces de evoluție
+planificata, în care fiecare versiune adauga complexitate și control fara a compromite
+stabilitatea structurii de baza. Evoluția nu este reacție la defecte accidentale, ci
+extindere sistematica a unei arhitecturi inițiale bine definite.
 
 1.4 Legile evoluției software-ului (Lehman)
-Legile evoluției software-ului formulate de M. M. Lehman descriu comportamentul sistemelor 
-software de tip E (embedded in real world), adica sisteme care modeleaza sau controleaza 
-procese din lumea reala. Conform lui Lehman, astfel de sisteme trebuie sa evolueze continuu 
+Legile evoluției software-ului formulate de M. M. Lehman descriu comportamentul sistemelor
+software de tip E (embedded in real world), adica sisteme care modeleaza sau controleaza
+procese din lumea reala. Conform lui Lehman, astfel de sisteme trebuie sa evolueze continuu
 pentru a ramâne utile, iar complexitatea lor tinde sa creasca daca nu este controlata activ.
 Printre legile relevante pentru acest studiu de caz se afla:
-1.	Legea schimbarii continue - un sistem de tip E trebuie adaptat permanent, altfel devine 
+1.	Legea schimbarii continue - un sistem de tip E trebuie adaptat permanent, altfel devine
 progresiv mai puțin satisfacator.
-2.	Legea creșterii complexitații - pe masura ce sistemul evolueaza, complexitatea interna 
+2.	Legea creșterii complexitații - pe masura ce sistemul evolueaza, complexitatea interna
 crește, daca nu sunt aplicate mecanisme deliberate de simplificare.
-3.	Legea auto-reglarii - evoluția sistemului urmeaza modele relativ stabile și poate fi 
+3.	Legea auto-reglarii - evoluția sistemului urmeaza modele relativ stabile și poate fi
 observata și masurata.
-4.	Legea conservarii familiaritații - rata schimbarii este limitata de capacitatea echipei de a 
-înțelege sistemul.
-Aplicarea legilor lui Lehman în cazul HESPERIA
-HESPERIA poate fi încadrata ca sistem de tip E deoarece interacționeaza direct cu limbaj natural 
-și cu modele AI utilizate în contexte reale (RAG, analiza semantica, suport decizional). Prin 
-urmare, sistemul trebuie sa evolueze pentru a integra noi cerințe, noi corpuri de date și noi 
-constrângeri de guvernanță.
-Legea schimbarii continue este vizibila în tranziția de la versiunea conceptuala la prototip și apoi 
-la blueprint industrial. Fiecare versiune a introdus ajustari pentru a îmbunatați stabilitatea 
-semantica și integrarea cu infrastructuri externe (SQL, vector DB).
-Legea creșterii complexitații este evidenta în apariția metricilor structurale, a scorului de 
-obstacol și a mecanismelor de guard. Pentru a preveni complexitatea necontrolata, proiectul a 
-introdus invarianți structurali (numar fix de Areas și Families) și separare clara între straturi 
-(semantic, geometric, traversal, guvernanță).
-Legea auto-reglarii se reflecta în faptul ca evoluția proiectului este documentata și versionata. 
-Fiecare etapa adauga funcționalitați, dar menține arhitectura centrala. Sistemul nu se modifica 
-arbitrar, ci conform unui cadru formal definit în specificații.
-Legea conservarii familiaritații este respectata prin menținerea structurii geometrice stabile. 
-Chiar daca sunt adaugate noi politici sau metrici, modelul de baza ramâne constant, ceea ce 
-permite continuitate în dezvoltare și înțelegere.
-În concluzie, studiul de caz HESPERIA confirma aplicabilitatea legilor lui Lehman. Proiectul 
-ilustreaza faptul ca evoluția software-ului este inevitabila, dar poate fi controlata prin 
-formalizare, versionare și stabilirea de invarianți arhitecturali.
+4.	Legea conservarii familiaritații - rata schimbarii este limitata de capacitatea echipei de a
+înțelege sistemul. Aplicarea legilor lui Lehman în cazul HESPERIA HESPERIA poate fi
+încadrata ca sistem de tip E deoarece interacționeaza direct cu limbaj natural și cu modele
+AI utilizate în contexte reale (RAG, analiza semantica, suport decizional). Prin urmare,
+sistemul trebuie sa evolueze pentru a integra noi cerințe, noi corpuri de date și noi
+constrângeri de guvernanță. Legea schimbarii continue este vizibila în tranziția de la
+versiunea conceptuala la prototip și apoi la blueprint industrial. Fiecare versiune a
+introdus ajustari pentru a îmbunatați stabilitatea semantica și integrarea cu infrastructuri
+externe (SQL, vector DB). Legea creșterii complexitații este evidenta în apariția metricilor
+structurale, a scorului de obstacol și a mecanismelor de guard. Pentru a preveni
+complexitatea necontrolata, proiectul a introdus invarianți structurali (numar fix de Areas
+și Families) și separare clara între straturi (semantic, geometric, traversal, guvernanță).
+Legea auto-reglarii se reflecta în faptul ca evoluția proiectului este documentata și
+versionata. Fiecare etapa adauga funcționalitați, dar menține arhitectura centrala. Sistemul
+nu se modifica arbitrar, ci conform unui cadru formal definit în specificații. Legea
+conservarii familiaritații este respectata prin menținerea structurii geometrice stabile.
+Chiar daca sunt adaugate noi politici sau metrici, modelul de baza ramâne constant, ceea ce
+permite continuitate în dezvoltare și înțelegere. În concluzie, studiul de caz HESPERIA
+confirma aplicabilitatea legilor lui Lehman. Proiectul ilustreaza faptul ca evoluția
+software-ului este inevitabila, dar poate fi controlata prin formalizare, versionare și
+stabilirea de invarianți arhitecturali.
 
-1.5 Paradigme software
-Paradigmele software reprezintă modele fundamentale de gândire și organizare a programării, 
-care definesc modul în care sunt structurate datele, logica și interacțiunea dintre componentele 
-unui sistem. În literatura de specialitate sunt recunoscute mai multe paradigme majore, dintre 
-care cele mai relevante sunt: paradigma procedurala, paradigma orientata pe obiect, paradigma 
-funcționala și paradigma declarativa.
+1.5 Paradigme software Paradigmele software reprezintă modele fundamentale de gândire și
+organizare a programării, care definesc modul în care sunt structurate datele, logica și
+interacțiunea dintre componentele unui sistem. În literatura de specialitate sunt
+recunoscute mai multe paradigme majore, dintre care cele mai relevante sunt: paradigma
+procedurala, paradigma orientata pe obiect, paradigma funcționala și paradigma declarativa.
 
-Paradigma procedurala organizeaza programul în jurul funcțiilor și secvențelor de instrucțiuni. 
-Accentul este pus pe pați de execuție și pe fluxul de control. Paradigma orientata pe obiect 
-(OOP) structureaza sistemul în clase și obiecte care combina datele cu comportamentul. 
-Paradigma funcționala trateaza calculul ca evaluare de funcții matematice, evitând starea 
-globala modificabila. Paradigma declarativa descrie "ce" trebuie obținut, nu "cum" se realizeaza 
-pas cu pas execuția.
+Paradigma procedurala organizeaza programul în jurul funcțiilor și secvențelor de
+instrucțiuni. Accentul este pus pe pați de execuție și pe fluxul de control. Paradigma
+orientata pe obiect (OOP) structureaza sistemul în clase și obiecte care combina datele cu
+comportamentul. Paradigma funcționala trateaza calculul ca evaluare de funcții matematice,
+evitând starea globala modificabila. Paradigma declarativa descrie "ce" trebuie obținut, nu
+"cum" se realizeaza pas cu pas execuția.
 
 ### Aplicarea paradigmelor în HESPERIA
 
-Proiectul HESPERIA nu se limiteaza la o singura paradigma, ci utilizeaza o combinație controlata, 
-adaptata naturii problemei.
+Proiectul HESPERIA nu se limiteaza la o singura paradigma, ci utilizeaza o combinație
+controlata, adaptata naturii problemei.
 
 1. Paradigma orientata pe obiect
- Structura sistemului este organizata în concepte clar delimitate: Region, StatementAttribution, 
-HexSphere, engine-uri de traversal și guard. Fiecare entitate are responsabilitați bine definite. 
-Aceasta abordare faciliteaza extensibilitatea și mentenanța.
+Structura sistemului este organizata în concepte clar delimitate: Region,
+StatementAttribution, HexSphere, engine-uri de traversal și guard. Fiecare entitate are
+responsabilitați bine definite. Aceasta abordare faciliteaza extensibilitatea și mentenanța.
 
 2. Paradigma procedurala
- Pipeline-ul de procesare urmeaza o succesiune clara de pați: tokenizare → clasificare cuvânt 
-→ clasificare propoziție → clasificare statement → construire regiune → traversare → generare 
-rezultat. Fluxul este determinist și explicit, ceea ce reflecta o abordare procedurala controlata.
+Pipeline-ul de procesare urmeaza o succesiune clara de pați: tokenizare → clasificare cuvânt
+→ clasificare propoziție → clasificare statement → construire regiune → traversare →
+generare rezultat. Fluxul este determinist și explicit, ceea ce reflecta o abordare
+procedurala controlata.
 
 3. Paradigma declarativa
- Specificațiile (MASTER_SPEC, BLUEPRINT, politici de traversal) descriu regulile sistemului la 
-nivel conceptual. De exemplu, definirea constantelor (12 Areas, 24 Families etc.) sau a pragurilor 
-de clasificare este declarativa. Se definește cadrul, iar implementarea îl respecta.
+Specificațiile (MASTER_SPEC, BLUEPRINT, politici de traversal) descriu regulile sistemului
+la nivel conceptual. De exemplu, definirea constantelor (12 Areas, 24 Families etc.) sau a
+pragurilor de clasificare este declarativa. Se definește cadrul, iar implementarea îl
+respecta.
 
 4. Model matematic formal
- Pe lânga paradigmele clasice, HESPERIA introduce un nivel formalizat matematic. Metricile 
-precum coerența, entropie, polarizare sau obstacleScore sunt definite prin formule, nu doar prin 
-convenții. Aceasta reprezintă o extensie a paradigmei inginerești catre un model formal.
+Pe lânga paradigmele clasice, HESPERIA introduce un nivel formalizat matematic. Metricile
+precum coerența, entropie, polarizare sau obstacleScore sunt definite prin formule, nu doar
+prin convenții. Aceasta reprezintă o extensie a paradigmei inginerești catre un model
+formal.
 
 ### Concluzie
 
-Din perspectiva studiului de caz, HESPERIA este un sistem hibrid care combina OOP pentru 
-structura, procedural pentru fluxul de execuție, declarativ pentru reguli și formal matematic 
-pentru evaluare. Alegerea acestei combinații nu este accidentala, ci rezulta din necesitatea de a 
-construi un sistem semantic stabil, masurabil și extensibil.
+Din perspectiva studiului de caz, HESPERIA este un sistem hibrid care combina OOP pentru
+structura, procedural pentru fluxul de execuție, declarativ pentru reguli și formal
+matematic pentru evaluare. Alegerea acestei combinații nu este accidentala, ci rezulta din
+necesitatea de a construi un sistem semantic stabil, masurabil și extensibil.
 
 1.6 Necesitatea ingineriei software
-Necesitatea ingineriei software deriva din complexitatea tot mai mare a sistemelor informatice 
-moderne și din impactul acestora asupra proceselor reale. În lipsa unei abordari disciplinate, 
-dezvoltarea software devine imprevizibila, dificil de întreținut și predispusa la erori structurale. 
-Ingineria software introduce metode, standarde și mecanisme de control care reduc riscul 
-tehnic și cresc fiabilitatea sistemelor.
-În special în domeniul inteligenței artificiale, unde sistemele opereaza pe baza probabilistica, 
+Necesitatea ingineriei software deriva din complexitatea tot mai mare a sistemelor
+informatice moderne și din impactul acestora asupra proceselor reale. În lipsa unei abordari
+disciplinate, dezvoltarea software devine imprevizibila, dificil de întreținut și predispusa
+la erori structurale. Ingineria software introduce metode, standarde și mecanisme de control
+care reduc riscul tehnic și cresc fiabilitatea sistemelor. În special în domeniul
+inteligenței artificiale, unde sistemele opereaza pe baza probabilistica,
 lipsa unei structuri inginerești poate conduce la:
 *	rezultate inconsistente,
 *	imposibilitatea auditarii deciziilor,
 *	deriva semantica în interacțiuni succesive,
 *	integrare dificila în sisteme industriale.
-Necesitatea aplicarii în cazul HESPERIA
-Proiectul HESPERIA apare tocmai ca raspuns la o problema de instabilitate semantica a 
-modelelor generative. Modelele LLM pot produce text coerent, dar nu ofera o structura 
-determinista a sensului. Fara o infrastructura inginereasca suplimentara, utilizarea lor în medii 
-critice (compliance, analiza juridica, suport decizional) implica risc.
+Necesitatea aplicarii în cazul HESPERIA Proiectul HESPERIA apare tocmai ca raspuns la o
+problema de instabilitate semantica a modelelor generative. Modelele LLM pot produce text
+coerent, dar nu ofera o structura determinista a sensului. Fara o infrastructura
+inginereasca suplimentara, utilizarea lor în medii critice (compliance, analiza juridica,
+suport decizional) implica risc.
 Aplicarea principiilor ingineriei software în HESPERIA se justifica prin:
-1.	Stabilirea de invarianți structurali 
-Structura semantica (12 Areas × 24 Families × 250 hexes × 6 sides) este fixa și 
-documentata. Aceasta decizie reduce ambiguitatea și asigura consistența între versiuni.
-2.	Formalizarea regulilor de clasificare 
-Pipeline-ul semantic este definit în etape clare, cu praguri și reguli explicite. Nu se 
+1.	Stabilirea de invarianți structurali
+Structura semantica (12 Areas × 24 Families × 250 hexes × 6 sides) este fixa și documentata.
+Aceasta decizie reduce ambiguitatea și asigura consistența între versiuni.
+2.	Formalizarea regulilor de clasificare
+Pipeline-ul semantic este definit în etape clare, cu praguri și reguli explicite. Nu se
 bazeaza pe ajustari empirice necontrolate.
-3.	Introducerea metricilor cuantificabile 
-Sistemul nu produce doar etichete, ci calculeaza coerența, entropie, polarizare și scoruri 
+3.	Introducerea metricilor cuantificabile
+Sistemul nu produce doar etichete, ci calculeaza coerența, entropie, polarizare și scoruri
 de obstacol. Acestea permit evaluarea numerica a starii semantice.
-4.	Separarea responsabilitaților 
-Stratul semantic, stratul geometric, motorul de traversare și mecanismele de guvernanță 
-sunt distincte. Aceasta modularizare faciliteaza mentenanța și extinderea.
-5.	Controlul evoluției 
-Versionarea specificațiilor și separarea între procesarea forward și corecția backward 
-arata o abordare planificata, nu improvizata.
-Concluzie
-În cadrul studiului de caz, necesitatea ingineriei software este justificata prin natura problemei 
-abordate: stabilizarea semantica a unui proces AI probabilistic. Fara aplicarea principiilor 
-inginerești, sistemul ar ramâne la nivel experimental. Prin formalizare, structurare și masurare, 
-HESPERIA devine infrastructura tehnica controlabila și reproductibila, nu doar model de 
-generare textuala.
+4.	Separarea responsabilitaților
+Stratul semantic, stratul geometric, motorul de traversare și mecanismele de guvernanță sunt
+distincte. Aceasta modularizare faciliteaza mentenanța și extinderea.
+5.	Controlul evoluției
+Versionarea specificațiilor și separarea între procesarea forward și corecția backward arata
+o abordare planificata, nu improvizata. Concluzie În cadrul studiului de caz, necesitatea
+ingineriei software este justificata prin natura problemei abordate: stabilizarea semantica
+a unui proces AI probabilistic. Fara aplicarea principiilor inginerești, sistemul ar ramâne
+la nivel experimental. Prin formalizare, structurare și masurare, HESPERIA devine
+infrastructura tehnica controlabila și reproductibila, nu doar model de generare textuala.
 
 1.7 Caracteristicile unui software bun:
-În ingineria programării, un software bun este definit printr-un set de caracteristici care reflecta 
-atât calitatea funcționarii sale, cât și capacitatea de adaptare și mentenanța în timp. În mod 
-clasic, aceste caracteristici sunt grupate în trei categorii: operaționale, tranzitorii și de 
-mentenanța.
-Caracteristici operaționale
-Acestea se refera la comportamentul sistemului în execuție.
-1.	Corectitudine 
-Software-ul trebuie sa realizeze exact funcțiile pentru care a fost proiectat. 
-În cazul HESPERIA, corectitudinea înseamna clasificare determinista și respectarea 
-invariantelor structurale (numar fix de Areas și Families, tau → [0,1], indexare 
-consistenta).
-2.	Fiabilitate 
-Sistemul trebuie sa funcționeze stabil în condiții normale de utilizare. 
-HESPERIA introduce structuri fixe și metrici de control (coerența, obstacleScore), 
-reducând riscul de comportament imprevizibil.
-3.	Eficiența 
-Utilizarea resurselor trebuie sa fie proporționala cu funcționalitatea oferita. 
-Prin sharding pe Family și Area și utilizarea vector DB, sistemul limiteaza spațiul de 
-cautare și optimizeaza procesarea.
-Caracteristici tranzitorii
-Acestea descriu capacitatea sistemului de a se adapta.
-1.	Portabilitate 
-Software-ul trebuie sa poata fi utilizat pe diferite medii. 
-Implementarea în Python și utilizarea tehnologiilor standard (SQL, vector DB) permit 
-integrare multiplatforma.
-2.	Scalabilitate 
-Sistemul trebuie sa gestioneze creșteri de volum de date sau cereri. 
-Structura discreta pe 432.000 de unitați atomice permite extindere controlata fara 
-modificarea arhitecturii de baza.
-3.	Interoperabilitate 
-Capacitatea de integrare cu alte sisteme. 
-HESPERIA este conceput explicit pentru integrare cu LLM externe și pipeline-uri RAG.
-Caracteristici de mentenanța
-1.	Modificabilitate 
-Codul și structura trebuie sa permita actualizari controlate. 
-Separarea între specificații și implementare susține acest obiectiv.
-2.	Testabilitate 
-Sistemul trebuie sa permita verificarea comportamentului. 
-Existența invariantelor matematice și a constantelor fixe faciliteaza testarea automata.
-3.	Reproductibilitate 
-Pentru aceeași intrare, rezultatul trebuie sa fie identic. 
-Determinismul clasificarii este o cerința centrala în proiect.
-Concluzie
-Din perspectiva studiului de caz, HESPERIA urmărește explicit caracteristicile unui software bun 
-prin formalizare, modularizare și introducerea de metrici cuantificabile. Accentul este pus pe 
-stabilitate și control, ceea ce diferențiază sistemul de soluții AI pur probabilistice.
+În ingineria programării, un software bun este definit printr-un set de caracteristici care
+reflecta atât calitatea funcționarii sale, cât și capacitatea de adaptare și mentenanța în
+timp. În mod clasic, aceste caracteristici sunt grupate în trei categorii: operaționale,
+tranzitorii și de mentenanța. Caracteristici operaționale Acestea se refera la
+comportamentul sistemului în execuție.
+1.	Corectitudine
+Software-ul trebuie sa realizeze exact funcțiile pentru care a fost proiectat. În cazul
+HESPERIA, corectitudinea înseamna clasificare determinista și respectarea invariantelor
+structurale (numar fix de Areas și Families, tau → [0,1], indexare consistenta).
+2.	Fiabilitate
+Sistemul trebuie sa funcționeze stabil în condiții normale de utilizare. HESPERIA introduce
+structuri fixe și metrici de control (coerența, obstacleScore), reducând riscul de
+comportament imprevizibil.
+3.	Eficiența
+Utilizarea resurselor trebuie sa fie proporționala cu funcționalitatea oferita. Prin
+sharding pe Family și Area și utilizarea vector DB, sistemul limiteaza spațiul de cautare și
+optimizeaza procesarea. Caracteristici tranzitorii Acestea descriu capacitatea sistemului de
+a se adapta.
+1.	Portabilitate
+Software-ul trebuie sa poata fi utilizat pe diferite medii. Implementarea în Python și
+utilizarea tehnologiilor standard (SQL, vector DB) permit integrare multiplatforma.
+2.	Scalabilitate
+Sistemul trebuie sa gestioneze creșteri de volum de date sau cereri. Structura discreta pe
+432.000 de unitați atomice permite extindere controlata fara modificarea arhitecturii de
+baza.
+3.	Interoperabilitate
+Capacitatea de integrare cu alte sisteme. HESPERIA este conceput explicit pentru integrare
+cu LLM externe și pipeline-uri RAG. Caracteristici de mentenanța
+1.	Modificabilitate
+Codul și structura trebuie sa permita actualizari controlate. Separarea între specificații
+și implementare susține acest obiectiv.
+2.	Testabilitate
+Sistemul trebuie sa permita verificarea comportamentului. Existența invariantelor matematice
+și a constantelor fixe faciliteaza testarea automata.
+3.	Reproductibilitate
+Pentru aceeași intrare, rezultatul trebuie sa fie identic. Determinismul clasificarii este o
+cerința centrala în proiect. Concluzie Din perspectiva studiului de caz, HESPERIA urmărește
+explicit caracteristicile unui software bun prin formalizare, modularizare și introducerea
+de metrici cuantificabile. Accentul este pus pe stabilitate și control, ceea ce diferențiază
+sistemul de soluții AI pur probabilistice.
 
 2.0 Modelul SDLC adoptat în proiectul HESPERIA:
-În literatura de specialitate sunt definite mai multe modele ale ciclului de viața al dezvoltarii 
-software (SDLC), dintre care cele mai cunoscute sunt modelul Waterfall, modelul Iterativ, 
-modelul Incremental și modelele Agile. Alegerea modelului influențează modul de planificare, 
-implementare și evoluție a sistemului.
-Analizând evoluția proiectului HESPERIA, se poate concluziona ca dezvoltarea nu urmeaza un 
-model Waterfall clasic. Specificațiile nu au fost complet definite o singura data și apoi 
-implementate rigid. În schimb, structura de baza a fost stabilita timpuriu, iar ulterior sistemul 
-a evoluat prin extinderi controlate.
+În literatura de specialitate sunt definite mai multe modele ale ciclului de viața al
+dezvoltarii software (SDLC), dintre care cele mai cunoscute sunt modelul Waterfall, modelul
+Iterativ, modelul Incremental și modelele Agile. Alegerea modelului influențează modul de
+planificare, implementare și evoluție a sistemului. Analizând evoluția proiectului HESPERIA,
+se poate concluziona ca dezvoltarea nu urmeaza un model Waterfall clasic. Specificațiile nu
+au fost complet definite o singura data și apoi implementate rigid. În schimb, structura de
+baza a fost stabilita timpuriu, iar ulterior sistemul a evoluat prin extinderi controlate.
 Modelul aplicat în practica este un model incremental-iterativ controlat, caracterizat prin:
-• stabilirea unui nucleu arhitectural fix (geometria 12 × 24 × 250 × 6); 
-• dezvoltarea succesiva pe versiuni (v0.1, v0.2, v0.3, v0.4 etc.); 
-• adaugarea graduala de funcționalitați (metrici, traversal, guvernanță); 
-• menținerea invariantelor structurale între versiuni; 
+• stabilirea unui nucleu arhitectural fix (geometria 12 × 24 × 250 × 6);
+• dezvoltarea succesiva pe versiuni (v0.1, v0.2, v0.3, v0.4 etc.);
+• adaugarea graduala de funcționalitați (metrici, traversal, guvernanță);
+• menținerea invariantelor structurale între versiuni;
 • validare și ajustare dupa fiecare etapa majora.
-Componenta incrementala este vizibila în faptul ca fiecare versiune adauga capabilitați fara a 
-modifica arhitectura de baza. Componenta iterativa consta în revenirea asupra unor 
+Componenta incrementala este vizibila în faptul ca fiecare versiune adauga capabilitați fara
+a modifica arhitectura de baza. Componenta iterativa consta în revenirea asupra unor
 mecanisme (clasificare, metrici, traversal) pentru rafinare și formalizare suplimentara.
 
-Nu este un model Agile în sensul adaptarii rapide la cerințe externe fluctuante, deoarece 
-structura semantica este deliberat rigida. De asemenea, nu este un model pur exploratoriu, 
-deoarece fiecare etapa este documentata prin specificații versionate.
-Prin urmare, proiectul HESPERIA poate fi încadrat formal ca dezvoltare incremental-iterativa 
-cu nucleu arhitectural fix. Aceasta alegere susține obiectivele de stabilitate, auditabilitate și 
-evoluție controlata ale sistemului.
+Nu este un model Agile în sensul adaptarii rapide la cerințe externe fluctuante, deoarece
+structura semantica este deliberat rigida. De asemenea, nu este un model pur exploratoriu,
+deoarece fiecare etapa este documentata prin specificații versionate. Prin urmare, proiectul
+HESPERIA poate fi încadrat formal ca dezvoltare incremental-iterativa cu nucleu arhitectural
+fix. Aceasta alegere susține obiectivele de stabilitate, auditabilitate și evoluție
+controlata ale sistemului.
 
 1. Communication (Identificarea problemei):
-Procesul începe prin definirea problemei. 
-În cazul HESPERIA, problema identificata a fost instabilitatea semantica a sistemelor LLM și lipsa 
-unei structuri deterministe pentru reprezentarea sensului.
+Procesul începe prin definirea problemei. În cazul HESPERIA, problema identificata a fost
+instabilitatea semantica a sistemelor LLM și lipsa unei structuri deterministe pentru
+reprezentarea sensului.
 S-a constatat ca:
 *	modelele generative nu ofera auditabilitate,
 *	sensul deriva între interacțiuni,
 *	nu exista coordonate fixe pentru evaluarea coerenței.
-Aceasta etapa a condus la definirea obiectivului: construirea unei infrastructuri semantice 
+Aceasta etapa a condus la definirea obiectivului: construirea unei infrastructuri semantice
 stabile.
 2. Requirement Gathering (Colectarea cerințelor)
 Au fost definite cerințe funcționale și nefuncționale.
@@ -411,7 +400,7 @@ Cerințe nefuncționale:
 *	stabilitate structurala.
 3. System Analysis (Analiza sistemului)
 În aceasta etapa a fost modelata structura conceptuala:
-Text → Word Attribution → Sentence Attribution → Statement Attribution → Region → Traversal 
+Text → Word Attribution → Sentence Attribution → Statement Attribution → Region → Traversal
 și Governance.
 S-au definit datele centrale:
 *	tau[s] pentru unitați atomice,
@@ -421,7 +410,7 @@ S-au definit datele centrale:
 Analiza a condus la definirea unei geometrii fixe, considerata invariant arhitectural.
 4. Design (Proiectare)
 Proiectarea a fost realizata pe doua niveluri:
-a) Design conceptual - definirea hex-sphere, a celor 12 Areas și a structurii 4D (Area, Family, 
+a) Design conceptual - definirea hex-sphere, a celor 12 Areas și a structurii 4D (Area, Family,
 Hex, Side).
 b) Design arhitectural - separarea în straturi:
 *	motor semantic,
@@ -443,29 +432,28 @@ Testarea se concentreaza pe:
 *	respectarea pragurilor de obstacol.
 Caracterul cuantificabil al metricilor faciliteaza testarea automata.
 7. Deployment și Integrare
-Sistemul este conceput pentru integrare în pipeline RAG: 
+Sistemul este conceput pentru integrare în pipeline RAG:
 text → forward() → searchShard() → runLoop() → rezultat structurat.
 Integrarea presupune colaborare cu:
 *	baze de date SQL,
 *	vector DB,
 *	modele LLM externe.
 
-Concluzie
-Aplicarea SDLC în cazul HESPERIA demonstreaza trecerea de la idee conceptuala la arhitectura 
-formalizata și implementare controlata. Fiecare etapa este reflectata în artefacte concrete 
-(specificații, cod, politici, versiuni), ceea ce confirma caracterul inginerec al dezvoltarii 
-sistemului.
+Concluzie Aplicarea SDLC în cazul HESPERIA demonstreaza trecerea de la idee conceptuala la
+arhitectura formalizata și implementare controlata. Fiecare etapa este reflectata în
+artefacte concrete (specificații, cod, politici, versiuni), ceea ce confirma caracterul
+inginerec al dezvoltarii sistemului.
 
 2.1 Communication
-Faza de Communication în cadrul SDLC presupune identificarea problemei, definirea contextului 
-și clarificarea obiectivelor sistemului. În aceasta etapa sunt analizate nevoile reale, limitarile 
-existente și scopul soluției software ce urmeaza a fi dezvoltata. Communication nu înseamna 
-doar dialog între persoane, ci procesul de formalizare a unei probleme tehnice într-o cerința 
-clara și implementabila.
-În studiul de caz HESPERIA, etapa de Communication a avut ca punct de plecare observarea unei 
-limitari fundamentale a sistemelor AI generative: lipsa stabilitații semantice. Modelele LLM 
-produc text coerent lingvistic, dar nu garanteaza consistența conceptuala între raspunsuri și nu 
-ofera mecanisme interne de masurare a coerenței sau a contradicțiilor.
+Faza de Communication în cadrul SDLC presupune identificarea problemei, definirea
+contextului și clarificarea obiectivelor sistemului. În aceasta etapa sunt analizate nevoile
+reale, limitarile existente și scopul soluției software ce urmeaza a fi dezvoltata.
+Communication nu înseamna doar dialog între persoane, ci procesul de formalizare a unei
+probleme tehnice într-o cerința clara și implementabila. În studiul de caz HESPERIA, etapa
+de Communication a avut ca punct de plecare observarea unei limitari fundamentale a
+sistemelor AI generative: lipsa stabilitații semantice. Modelele LLM produc text coerent
+lingvistic, dar nu garanteaza consistența conceptuala între raspunsuri și nu ofera mecanisme
+interne de masurare a coerenței sau a contradicțiilor.
 Problema identificata poate fi sintetizata astfel:
 *	nu exista coordonate semantice fixe;
 *	sensul poate deriva între interacțiuni;
@@ -481,106 +469,103 @@ Stakeholderii implicați în aceasta faza sunt:
 *	utilizatorul tehnic (care integreaza soluția),
 *	sistemele AI externe (LLM) care vor interacționa cu substratul semantic.
 
-Rezultatul fazei de Communication în cazul HESPERIA a fost formularea clara a conceptului de 
-"hex-sphere" - o structura semantica fixa în care orice text trebuie sa fie plasat determinist. 
-Astfel, problema a fost transformata dîntr-o nemulțumire generala privind instabilitatea AI într-o 
-specificație inginereasca: definirea unui spațiu semantic finit, masurabil și controlabil.
-Prin aceasta formalizare, etapa de Communication a oferit baza pentru definirea cerințelor și 
-pentru proiectarea ulterioara a sistemului.
+Rezultatul fazei de Communication în cazul HESPERIA a fost formularea clara a conceptului de
+"hex-sphere" - o structura semantica fixa în care orice text trebuie sa fie plasat
+determinist. Astfel, problema a fost transformata dîntr-o nemulțumire generala privind
+instabilitatea AI într-o specificație inginereasca: definirea unui spațiu semantic finit,
+masurabil și controlabil. Prin aceasta formalizare, etapa de Communication a oferit baza
+pentru definirea cerințelor și pentru proiectarea ulterioara a sistemului.
 
 2.2 Requirement Gathering:
-Faza de Requirement Gathering are rolul de a transforma problema identificata în cerințe clare, 
-documentate și verificabile. În aceasta etapa sunt stabilite funcționalitațile pe care sistemul 
-trebuie sa le ofere, precum și constrângerile de performanța, stabilitate și integrare. Cerințele 
-trebuie sa fie suficient de precise pentru a putea fi implementate și ulterior testate.
-În cazul studiului de caz HESPERIA, colectarea cerințelor a fost realizata pornind de la obiectivul 
-principal: stabilizarea semantica a procesarii textului natural într-un context AI.
-Cerințe funcționale
-1.	Clasificarea determinista a textului 
-Sistemul trebuie sa mapeze orice text de intrare într-o structura semantica fixa, 
+Faza de Requirement Gathering are rolul de a transforma problema identificata în cerințe
+clare, documentate și verificabile. În aceasta etapa sunt stabilite funcționalitațile pe
+care sistemul trebuie sa le ofere, precum și constrângerile de performanța, stabilitate și
+integrare. Cerințele trebuie sa fie suficient de precise pentru a putea fi implementate și
+ulterior testate. În cazul studiului de caz HESPERIA, colectarea cerințelor a fost realizata
+pornind de la obiectivul principal: stabilizarea semantica a procesarii textului natural
+într-un context AI. Cerințe funcționale
+1.	Clasificarea determinista a textului
+Sistemul trebuie sa mapeze orice text de intrare într-o structura semantica fixa,
 identificând Area și Family dominante.
-2.	Agregare semantica pe niveluri 
+2.	Agregare semantica pe niveluri
 Procesarea trebuie sa fie ierarhica:
 *	Word Attribution,
 *	Sentence Attribution,
 *	Statement Attribution.
-3.	Construirea unei regiuni semantice 
-Rezultatul clasificarii trebuie sa permita formarea unei regiuni în cadrul geometriei hex-
-sphere.
-4.	Calculul de metrici structurale 
+3.	Construirea unei regiuni semantice
+Rezultatul clasificarii trebuie sa permita formarea unei regiuni în cadrul geometriei
+hex-sphere.
+4.	Calculul de metrici structurale
 Sistemul trebuie sa calculeze valori cuantificabile precum:
 *	coerența structurala,
 *	entropie pe arii,
 *	polarizare pe axe bipolare,
 *	obstacleScore.
-5.	Traversare controlata 
-Trebuie sa existe un mecanism de extindere a regiunii semantice prin bucle controlate, 
-cu praguri de oprire.
-6.	Integrare cu sisteme externe 
-Sistemul trebuie sa poata funcționa într-un pipeline RAG, colaborând cu baze de date 
-SQL și vector DB.
-Cerințe nefuncționale
-1.	Determinism 
+5.	Traversare controlata
+Trebuie sa existe un mecanism de extindere a regiunii semantice prin bucle controlate, cu
+praguri de oprire.
+6.	Integrare cu sisteme externe
+Sistemul trebuie sa poata funcționa într-un pipeline RAG, colaborând cu baze de date SQL și
+vector DB. Cerințe nefuncționale
+1.	Determinism
 Pentru aceeași intrare, rezultatul trebuie sa fie identic.
-2.	Stabilitate structurala 
+2.	Stabilitate structurala
 Invarianții (12 Areas, 24 Families, 250 hexes, 6 sides) nu pot fi modificați arbitrar.
-3.	Auditabilitate 
+3.	Auditabilitate
 Orice rezultat trebuie sa fie explicabil prin coordonate și valori numerice.
-4.	Scalabilitate 
-Sistemul trebuie sa suporte creșterea volumului de date fara modificarea arhitecturii de 
+4.	Scalabilitate
+Sistemul trebuie sa suporte creșterea volumului de date fara modificarea arhitecturii de
 baza.
-5.	Modularitate 
-Straturile semantic, geometric, traversal și guvernanță trebuie sa fie separate.
-Concluzie
-În cadrul studiului de caz, faza de Requirement Gathering a transformat o problema conceptuala 
-(instabilitatea semantica a AI) într-un set structurat de cerințe funcționale și nefuncționale. 
-Aceste cerințe au stat la baza proiectarii geometriei fixe și a arhitecturii modulare din HESPERIA 
+5.	Modularitate
+Straturile semantic, geometric, traversal și guvernanță trebuie sa fie separate. Concluzie
+În cadrul studiului de caz, faza de Requirement Gathering a transformat o problema
+conceptuala (instabilitatea semantica a AI) într-un set structurat de cerințe funcționale și
+nefuncționale. Aceste cerințe au stat la baza proiectarii geometriei fixe și a arhitecturii
+modulare din
+HESPERIA
 v0.2.
 
 2.3 Feasibility Study (Studiu de fezabilitate):
-Studiul de fezabilitate are rolul de a determina daca soluția propusa poate fi implementata în 
-mod realist, utilizând resursele disponibile și tehnologiile existente. În cazul proiectului 
-HESPERIA, fezabilitatea a fost analizata pe patru dimensiuni: tehnica, economica, operaționala 
-și temporala.
+Studiul de fezabilitate are rolul de a determina daca soluția propusa poate fi implementata
+în mod realist, utilizând resursele disponibile și tehnologiile existente. În cazul
+proiectului HESPERIA, fezabilitatea a fost analizata pe patru dimensiuni: tehnica,
+economica, operaționala și temporala.
 1. Fezabilitate tehnica
-Din punct de vedere tehnic, sistemul este implementabil utilizând tehnologii mature și larg 
+Din punct de vedere tehnic, sistemul este implementabil utilizând tehnologii mature și larg
 disponibile:
 *	limbaj de programare Python;
 *	baze de date relaționale (SQL);
 *	baze de date vectoriale pentru embedding;
 *	modele LLM existente;
 *	infrastructura standard de versionare și deployment.
-Structura semantica fixa (12 Areas × 24 Families × 250 hexes × 6 sides) poate fi reprezentata 
-prin structuri de date standard. Nu este necesara dezvoltarea unui algoritm fundamental nou 
-sau a unei tehnologii hardware dedicate.
-Complexitatea principala consta în menținerea determinismului și în controlul traversal-ului. 
-Aceste riscuri sunt atenuate prin introducerea invariantelor și a pragurilor de oprire.
-Concluzie: soluția este fezabila tehnic.
+Structura semantica fixa (12 Areas × 24 Families × 250 hexes × 6 sides) poate fi
+reprezentata prin structuri de date standard. Nu este necesara dezvoltarea unui algoritm
+fundamental nou sau a unei tehnologii hardware dedicate. Complexitatea principala consta în
+menținerea determinismului și în controlul traversal-ului. Aceste riscuri sunt atenuate prin
+introducerea invariantelor și a pragurilor de oprire. Concluzie: soluția este fezabila
+tehnic.
 2. Fezabilitate economica
-Implementarea utilizeaza tehnologii open-source și infrastructura standard, ceea ce reduce 
+Implementarea utilizeaza tehnologii open-source și infrastructura standard, ceea ce reduce
 costurile inițiale.
 Beneficiul economic potențial consta în:
 *	creșterea auditabilitații proceselor AI;
 *	reducerea riscului semantic în sisteme decizionale;
 *	posibilitatea utilizarii în contexte reglementate (compliance, analiza juridica, banking).
-Costurile principale sunt asociate dezvoltarii și mentenanței, nu licențelor sau infrastructurii 
-speciale.
-Concluzie: proiectul este justificabil economic în contexte unde stabilitatea semantica are 
-valoare critica.
+Costurile principale sunt asociate dezvoltarii și mentenanței, nu licențelor sau
+infrastructurii speciale. Concluzie: proiectul este justificabil economic în contexte unde
+stabilitatea semantica are valoare critica.
 
 3. Fezabilitate operaționala:
 Sistemul este conceput pentru integrare într-un pipeline existent:
-text → clasificare → construire regiune → metrici → integrare RAG.
-Nu necesita înlocuirea modelelor LLM, ci funcționeaza ca strat suplimentar de control 
-semantic.
-Arhitectura modulara permite integrarea incrementala fara întreruperea sistemelor existente.
-Concluzie: integrarea operaționala este realista.
+text → clasificare → construire regiune → metrici → integrare RAG. Nu necesita înlocuirea
+modelelor LLM, ci funcționeaza ca strat suplimentar de control semantic. Arhitectura
+modulara permite integrarea incrementala fara întreruperea sistemelor existente. Concluzie:
+integrarea operaționala este realista.
 4. Fezabilitate temporala
-Dezvoltarea incrementala pe versiuni (v0.1 - v0.2 - v0.3 etc.) demonstreaza ca sistemul poate 
-fi extins progresiv fara rescriere completa.
-Stabilirea nucleului arhitectural fix reduce riscul de întârzieri cauzate de schimbari 
-fundamentale.
-Concluzie: evoluția în timp este controlabila.
+Dezvoltarea incrementala pe versiuni (v0.1 - v0.2 - v0.3 etc.) demonstreaza ca sistemul
+poate fi extins progresiv fara rescriere completa. Stabilirea nucleului arhitectural fix
+reduce riscul de întârzieri cauzate de schimbari fundamentale. Concluzie: evoluția în timp
+este controlabila.
 5. Analiza riscurilor
 Riscurile identificate includ:
 *	creșterea complexitații metricilor;
@@ -591,75 +576,72 @@ Aceste riscuri sunt gestionate prin:
 *	introducerea mecanismelor de guard;
 *	limitarea traversal-ului prin praguri;
 *	menținerea invariantelor structurale.
-Concluzie generala
-Analiza multidimensionala arata ca soluția HESPERIA este fezabila tehnic, justificabila 
-economic, integrabila operațional și sustenabila temporal, cu riscuri controlabile prin 
-mecanisme arhitecturale.
+Concluzie generala Analiza multidimensionala arata ca soluția HESPERIA este fezabila tehnic,
+justificabila economic, integrabila operațional și sustenabila temporal, cu riscuri
+controlabile prin mecanisme arhitecturale.
 
 2.3.1 Analiza riscurilor:
-Analiza riscurilor are rolul de a identifica factorii care pot afecta negativ dezvoltarea, 
-implementarea sau exploatarea sistemului.
-În cazul HESPERIA, riscurile pot fi clasificate în patru categorii principale.
+Analiza riscurilor are rolul de a identifica factorii care pot afecta negativ dezvoltarea,
+implementarea sau exploatarea sistemului. În cazul HESPERIA, riscurile pot fi clasificate în
+patru categorii principale.
 1. Riscuri tehnice
-• Complexitate excesiva a metricilor matematice 
-• Posibila explozie combinatoriala în traversal 
-• Dependenta de calitatea embedding-urilor externe 
+• Complexitate excesiva a metricilor matematice
+• Posibila explozie combinatoriala în traversal
+• Dependenta de calitatea embedding-urilor externe
 • Erori în menținerea invariantelor structurale
 Masuri de reducere:
 *	introducerea mecanismelor de guard (Sigma, Gamma);
 *	limitarea traversal-ului prin praguri;
 *	validare automata a invariantelor.
 2. Riscuri de performanța
-• Creșterea timpului de procesare pentru texte lungi 
+• Creșterea timpului de procesare pentru texte lungi
 • Încarcare excesiva a bazei vectoriale
 Reducere:
 *	sharding pe Family;
 *	limitarea regiunii active;
 *	praguri de oprire.
 3. Riscuri operaționale
-• Integrare incorecta în pipeline RAG 
+• Integrare incorecta în pipeline RAG
 • Interpretare grețita a metricilor de catre utilizatori
 Reducere:
 *	documentație formala;
 *	separare clara între semantic și guvernanță.
 4. Riscuri conceptuale
-• Supraformalizare care reduce flexibilitatea 
-• Rigiditate excesiva a geometriei 
+• Supraformalizare care reduce flexibilitatea
+• Rigiditate excesiva a geometriei
 • Dependența de structura fixa pe termen lung
 Reducere:
 *	menținerea posibilitații de evoluție controlata;
 *	separarea între nucleu și extensii.
 
 2.4 System Analysis:
-Faza de System Analysis are rolul de a transforma cerințele colectate într-un model conceptual și 
-logic al sistemului. În aceasta etapa se definesc entitațile principale, relațiile dintre ele, fluxurile 
-de date și modul în care sistemul va funcționa intern. Analiza nu înseamna înca scrierea codului, 
-ci modelarea structurii și comportamentului sistemului la nivel abstract.
-În cazul studiului de caz HESPERIA, analiza sistemului a fost centrata pe definirea unui model 
-semantic determinist capabil sa proceseze text natural și sa îl plaseze într-un spațiu geometric 
-finit.
-Modelul conceptual
+Faza de System Analysis are rolul de a transforma cerințele colectate într-un model
+conceptual și logic al sistemului. În aceasta etapa se definesc entitațile principale,
+relațiile dintre ele, fluxurile de date și modul în care sistemul va funcționa intern.
+Analiza nu înseamna înca scrierea codului, ci modelarea structurii și comportamentului
+sistemului la nivel abstract. În cazul studiului de caz HESPERIA, analiza sistemului a fost
+centrata pe definirea unui model semantic determinist capabil sa proceseze text natural și
+sa îl plaseze într-un spațiu geometric finit. Modelul conceptual
 Modelul conceptual rezultat poate fi descris prin urmatorul flux logic:
-Text → Word Attribution → Sentence Attribution → Statement Attribution → Region 
-Construction → Traversal → Governance → Output Structurat
-Fiecare etapa are un rol bine definit și produce un obiect intermediar utilizabil în etapa 
-urmatoare.
-Entitați principale identificate
-1.	Area 
+Text → Word Attribution → Sentence Attribution → Statement Attribution → Region Construction
+→ Traversal → Governance → Output Structurat Fiecare etapa are un rol bine definit și
+produce un obiect intermediar utilizabil în etapa urmatoare. Entitați principale
+identificate
+1.	Area
 Reprezinta un macro-domeniu semantic (12 în total), organizate în perechi antagonice.
-2.	Family 
+2.	Family
 Subdiviziune semantica (24 per Area), unitatea principala de clasificare.
-3.	Hex și Side 
+3.	Hex și Side
 Unitați geometrice discrete; fiecare side reprezintă un slot atomic de adevar.
-4.	StatementAttribution 
+4.	StatementAttribution
 Obiect semantic agregat care conține:
 *	distribuție pe Families,
 *	distribuție pe Areas,
 *	valori dominante,
 *	vectori inward/outward.
-5.	Region 
+5.	Region
 Submulțime de sides active, utilizata pentru calculul metricilor structurale.
-6.	Metrici structurale 
+6.	Metrici structurale
 Funcții matematice definite asupra regiunii:
 *	T(R) - magnitudine de adevar,
 *	C(R) - coerența,
@@ -672,8 +654,8 @@ Din analiza sistemului au rezultat urmatoarele structuri centrale:
 *	areaOf[s] și familyOf[s] pentru mapare statica;
 *	A_vec și F_vec pentru activari globale;
 *	matrice de adiacența pentru conectivitate.
-Aceste structuri permit calcul numeric, nu doar clasificare simbolica.
-Analiza comportamentala
+Aceste structuri permit calcul numeric, nu doar clasificare simbolica. Analiza
+comportamentala
 Sistemul trebuie sa îndeplineasca urmatoarele comportamente:
 *	determinism la clasificare;
 *	menținerea invariantelor structurale;
@@ -684,52 +666,52 @@ Analiza a evidențiat necesitatea separarii clare a straturilor:
 *	geometric (model spațial),
 *	traversal (explorare controlata),
 *	guvernanță (validare și oprire).
-Concluzie
-În cadrul studiului de caz, System Analysis a condus la definirea unei arhitecturi conceptuale 
-clare, în care textul este transformat într-un obiect semantic plasat într-un spațiu finit și 
-masurabil. Aceasta etapa a fost esențiala pentru a asigura ca implementarea ulterioara respecta 
-cerințele de determinism, auditabilitate și control.
+Concluzie În cadrul studiului de caz, System Analysis a condus la definirea unei arhitecturi
+conceptuale clare, în care textul este transformat într-un obiect semantic plasat într-un
+spațiu finit și masurabil. Aceasta etapa a fost esențiala pentru a asigura ca implementarea
+ulterioara respecta cerințele de determinism, auditabilitate și control.
 
 2.5 Software Design:
-Faza de Software Design presupune transformarea modelului conceptual rezultat din analiza 
-sistemului într-o arhitectura tehnica concreta. În aceasta etapa se definesc structura interna a 
-aplicației, organizarea modulelor, responsabilitațile fiecarui strat și modul de interacțiune dintre 
-componente. Design-ul are rolul de a asigura coerența, extensibilitate și mentenanța pe termen 
-lung.
-În cazul studiului de caz HESPERIA, proiectarea software a fost realizata pe doua niveluri: design 
-conceptual (structural) și design arhitectural (implementare modulara).
+Faza de Software Design presupune transformarea modelului conceptual rezultat din analiza
+sistemului într-o arhitectura tehnica concreta. În aceasta etapa se definesc structura
+interna a aplicației, organizarea modulelor, responsabilitațile fiecarui strat și modul de
+interacțiune dintre componente. Design-ul are rolul de a asigura coerența, extensibilitate
+și mentenanța pe termen lung. În cazul studiului de caz HESPERIA, proiectarea software a
+fost realizata pe doua niveluri: design conceptual (structural) și design arhitectural
+(implementare modulara).
 1. Design conceptual
-La nivel conceptual, sistemul este organizat în jurul unei geometrii fixe denumite hex-sphere, 
+La nivel conceptual, sistemul este organizat în jurul unei geometrii fixe denumite
+hex-sphere,
 definita prin:
 *	12 Areas (macro-domenii semantice),
 *	24 Families per Area,
 *	250 hexagoane per Family,
 *	6 sides per hexagon (unitați atomice).
-Aceasta structura reprezintă nucleul sistemului și este tratata ca invariant arhitectural. Design-ul 
-a impus explicit ca aceste constante sa nu fie modificate dinamic, pentru a asigura stabilitate și 
-comparabilitate între versiuni.
+Aceasta structura reprezintă nucleul sistemului și este tratata ca invariant arhitectural.
+Design-ul a impus explicit ca aceste constante sa nu fie modificate dinamic, pentru a
+asigura stabilitate și comparabilitate între versiuni.
 2. Design arhitectural (stratificat)
 Arhitectura sistemului este organizata modular, cu separarea clara a responsabilitaților:
-1.	Strat semantic 
+1.	Strat semantic
 Responsabil pentru clasificarea textului. Include:
 *	Word Attribution,
 *	Sentence Attribution,
 *	Statement Attribution,
 *	integrarea embedding-urilor.
-2.	Strat geometric 
+2.	Strat geometric
 Gestioneaza structura hex-sphere și maparea catre sides. Conține:
 *	structuri de date pentru tau, areaOf, familyOf,
 *	mecanisme de indexare și conectivitate.
-3.	Motor de traversare 
-Permite explorarea regiunii semantice prin bucle controlate, utilizând praguri și scoruri 
-de obstacol.
-4.	Strat de guvernanță 
+3.	Motor de traversare
+Permite explorarea regiunii semantice prin bucle controlate, utilizând praguri și scoruri de
+obstacol.
+4.	Strat de guvernanță
 Evalueaza rezultatul traversarii prin metrici precum:
 *	coerența,
 *	entropie,
 *	polarizare,
 *	obstacleScore.
-5.	Strat de integrare 
+5.	Strat de integrare
 Asigura conectarea cu:
 *	baze de date SQL,
 *	vector DB,
@@ -740,28 +722,28 @@ Design-ul include definirea explicita a structurilor:
 *	vectori de activare A_vec și F_vec,
 *	matrice de adiacența pentru conectivitate,
 *	obiecte agregate pentru rezultate.
-Modelul de date este gândit pentru calcul numeric eficient și pentru posibilitatea testarii 
+Modelul de date este gândit pentru calcul numeric eficient și pentru posibilitatea testarii
 automate a invariantelor.
 4. Principii de design aplicate
 *	Modularitate - separarea clara între straturi.
 *	Determinism - evitarea comportamentului stochastic intern.
-*	Extensibilitate controlata - posibilitatea adaugarii de metrici fara modificarea structurii 
+*	Extensibilitate controlata - posibilitatea adaugarii de metrici fara modificarea structurii
 de baza.
 *	Trasabilitate - legatura între specificații și implementare.
-Concluzie
-Software Design-ul în cadrul HESPERIA reflecta o abordare inginereasca disciplinata. Arhitectura 
-este modulara, stratificata și centrata pe o geometrie semantica fixa. Design-ul susține cerințele 
-de stabilitate, auditabilitate și integrare industriala, pregatind sistemul pentru implementare și 
-testare controlata.
+Concluzie Software Design-ul în cadrul HESPERIA reflecta o abordare inginereasca
+disciplinata. Arhitectura este modulara, stratificata și centrata pe o geometrie semantica
+fixa. Design-ul susține cerințele de stabilitate, auditabilitate și integrare industriala,
+pregatind sistemul pentru implementare și testare controlata.
 
 2.6 Coding:
-Faza de Coding reprezintă etapa în care design-ul software este transpus în cod executabil. În 
-aceasta faza sunt implementate clasele, funcțiile și structurile de date definite anterior, 
-respectând arhitectura și principiile stabilite în etapele de analiza și proiectare. Implementarea 
-trebuie sa fie coerenta cu specificațiile și sa permita testare, mentenanța și extindere ulterioara.
-În cazul studiului de caz HESPERIA, etapa de Coding a fost realizata cu o preocupare clara pentru 
-alinierea dintre specificații și implementare. Codul nu a fost scris izolat, ci în corelație directa cu 
-documentele de tip MASTER_SPEC și BLUEPRINT.
+Faza de Coding reprezintă etapa în care design-ul software este transpus în cod executabil.
+În aceasta faza sunt implementate clasele, funcțiile și structurile de date definite
+anterior, respectând arhitectura și principiile stabilite în etapele de analiza și
+proiectare. Implementarea trebuie sa fie coerenta cu specificațiile și sa permita testare,
+mentenanța și extindere ulterioara. În cazul studiului de caz HESPERIA, etapa de Coding a
+fost realizata cu o preocupare clara pentru alinierea dintre specificații și implementare.
+Codul nu a fost scris izolat, ci în corelație directa cu documentele de tip MASTER_SPEC și
+BLUEPRINT.
 1. Limbaj și organizare
 Implementarea runtime este realizata în Python, datorita:
 *	simplitații sintactice,
@@ -775,7 +757,8 @@ Codul este organizat modular, reflectând structura arhitecturala:
 *	scripturi pentru execuție și testare.
 Aceasta organizare respecta principiul separarii responsabilitaților.
 2. Transpunerea modelului geometric în cod
-Structura fixa (12 Areas × 24 Families × 250 hexes × 6 sides) este implementata prin constante și 
+Structura fixa (12 Areas × 24 Families × 250 hexes × 6 sides) este implementata prin
+constante și
 structuri de date statice. De exemplu:
 *	constante numerice pentru dimensiuni;
 *	array-uri pentru tau[s];
@@ -803,28 +786,27 @@ Implementarea permite verificarea directa a unor condiții:
 *	respectarea domeniului tau → [0,1];
 *	integritatea maparilor Family-Area;
 *	validarea pragurilor de traversal.
-Aceste verificari reduc riscul erorilor structurale.
-Concluzie
-În cadrul studiului de caz, etapa de Coding nu a fost tratata ca simpla programare, ci ca 
-materializare controlata a unui model formal. Codul reflecta arhitectura stabilita anterior și 
-susține obiectivul principal al proiectului: transformarea procesarii semantice într-un sistem 
-determinist, masurabil și integrabil industrial.
+Aceste verificari reduc riscul erorilor structurale. Concluzie În cadrul studiului de caz,
+etapa de Coding nu a fost tratata ca simpla programare, ci ca materializare controlata a
+unui model formal. Codul reflecta arhitectura stabilita anterior și susține obiectivul
+principal al proiectului: transformarea procesarii semantice într-un sistem determinist,
+masurabil și integrabil industrial.
 
 2.7 Testing:
-Faza de Testing are rolul de a verifica daca software-ul implementat respecta cerințele definite și 
-funcționeaza conform specificațiilor. Testarea nu înseamna doar identificarea erorilor de cod, ci 
-validarea corectitudinii logice, a stabilitații și a comportamentului sistemului în diverse scenarii. 
-În ingineria software, testarea este esențiala pentru asigurarea calitații și pentru reducerea 
-riscului în exploatare.
-În cazul studiului de caz HESPERIA, testarea are un caracter particular: pe lânga verificarea 
-funcționalitații clasice, este necesara validarea invariantelor matematice și structurale.
+Faza de Testing are rolul de a verifica daca software-ul implementat respecta cerințele
+definite și funcționeaza conform specificațiilor. Testarea nu înseamna doar identificarea
+erorilor de cod, ci validarea corectitudinii logice, a stabilitații și a comportamentului
+sistemului în diverse scenarii. În ingineria software, testarea este esențiala pentru
+asigurarea calitații și pentru reducerea riscului în exploatare. În cazul studiului de caz
+HESPERIA, testarea are un caracter particular: pe lânga verificarea funcționalitații
+clasice, este necesara validarea invariantelor matematice și structurale.
 1. Testarea invariantelor structurale
 Un prim nivel de testare vizeaza corectitudinea structurii de baza:
 *	verificarea ca numarul total de Families este 12 × 24;
 *	verificarea ca numarul total de sides este 12 × 24 × 250 × 6;
 *	verificarea corectitudinii maparilor areaOf și familyOf;
 *	validarea faptului ca tau[s] → [0,1].
-Aceste teste sunt deterministe și pot fi automatizate. Ele garanteaza ca geometria semantica 
+Aceste teste sunt deterministe și pot fi automatizate. Ele garanteaza ca geometria semantica
 ramâne stabila între versiuni.
 2. Testarea funcționala
 La nivel funcțional, testarea urmărește:
@@ -832,8 +814,8 @@ La nivel funcțional, testarea urmărește:
 *	stabilitatea rezultatului pentru aceeași intrare;
 *	corectitudinea agregarii la nivel de propoziție și statement;
 *	comportamentul traversal-ului în condiții controlate.
-Se pot utiliza texte standard pentru a verifica daca sistemul identifica Area și Family dominante 
-în mod consistent.
+Se pot utiliza texte standard pentru a verifica daca sistemul identifica Area și Family
+dominante în mod consistent.
 3. Testarea metricilor
 Un element specific HESPERIA este testarea metricilor structurale:
 *	coerența C(R),
@@ -841,8 +823,8 @@ Un element specific HESPERIA este testarea metricilor structurale:
 *	entropie pe arii,
 *	polarizare pe axe,
 *	obstacleScore.
-Se verifica daca valorile sunt în intervalele așteptate și daca reacționează logic la modificarea 
-datelor de intrare.
+Se verifica daca valorile sunt în intervalele așteptate și daca reacționează logic la
+modificarea datelor de intrare.
 4. Testarea integrarii
 Sistemul este conceput pentru integrare cu:
 *	baze de date SQL,
@@ -851,25 +833,23 @@ Sistemul este conceput pentru integrare cu:
 Testarea integrarii verifica:
 *	corectitudinea fluxului de date;
 *	stabilitatea conexiunilor;
-*	consistența rezultatelor în pipeline complet (text → forward → search → traversal → 
+*	consistența rezultatelor în pipeline complet (text → forward → search → traversal →
 output).
 5. Testarea determinismului
-Un criteriu central este determinismul. Pentru aceeași intrare, rezultatul trebuie sa fie identic în 
-condiții identice de mediu. Aceasta este o diferența esențiala fața de sistemele pur 
-probabilistice.
-Concluzie
-În cadrul studiului de caz, testarea nu este doar verificare tehnica, ci validare structurala și 
-matematica a unui model semantic. Prin combinarea testelor de integritate, funcționale și de 
-integrare, HESPERIA urmărește sa asigure stabilitate și reproductibilitate, consolidând caracterul 
-sau de infrastructura inginereasca.
+Un criteriu central este determinismul. Pentru aceeași intrare, rezultatul trebuie sa fie
+identic în condiții identice de mediu. Aceasta este o diferența esențiala fața de sistemele
+pur probabilistice. Concluzie În cadrul studiului de caz, testarea nu este doar verificare
+tehnica, ci validare structurala și matematica a unui model semantic. Prin combinarea
+testelor de integritate, funcționale și de integrare, HESPERIA urmărește sa asigure
+stabilitate și reproductibilitate, consolidând caracterul sau de infrastructura
+inginereasca.
 
 2.7.1 Quality Assurance vs Testing:
-În ingineria software exista o diferența clara între Quality Assurance (QA) și Testing, deți în 
-practica termenii sunt adesea confundați. Testing reprezintă activitatea tehnica de verificare a 
-funcționarii sistemului, în timp ce Quality Assurance reprezintă cadrul procesual care garanteaza 
-ca dezvoltarea respecta standarde, metodologii și bune practici.
-Testing este orientat pe produs. 
-QA este orientat pe proces.
+În ingineria software exista o diferența clara între Quality Assurance (QA) și Testing, deți
+în practica termenii sunt adesea confundați. Testing reprezintă activitatea tehnica de
+verificare a funcționarii sistemului, în timp ce Quality Assurance reprezintă cadrul
+procesual care garanteaza ca dezvoltarea respecta standarde, metodologii și bune practici.
+Testing este orientat pe produs. QA este orientat pe proces.
 1. Testing în cadrul HESPERIA
 Testing-ul vizeaza verificarea directa a comportamentului sistemului:
 *	validarea invariantelor structurale (numar total de Families și sides);
@@ -889,27 +869,24 @@ Quality Assurance în proiectul HESPERIA se manifesta prin:
 QA asigura ca sistemul este construit disciplinat, nu doar ca funcționeaza.
 3. Diferența conceptuala aplicata
 În contextul studiului de caz:
-Testing raspunde la întrebarea: 
+Testing raspunde la întrebarea:
 "Funcționeaza corect implementarea?"
-Quality Assurance raspunde la întrebarea: 
-"Este procesul de dezvoltare controlat și capabil sa produca un software de calitate în mod 
-repetat?"
-În HESPERIA, QA este vizibil prin formalizarea matematica, prin documentație versionata și prin 
-decizii arhitecturale stabilite explicit înaintea implementarii. Testing-ul valideaza aceste decizii la 
-nivel executabil.
-Concluzie
-Separarea dintre QA și Testing consolideaza caracterul inginerec al proiectului. HESPERIA nu este 
-doar un sistem testat, ci un sistem dezvoltat într-un cadru procesual controlat. Testing-ul 
-garanteaza corectitudinea funcționala, iar Quality Assurance garanteaza sustenabilitatea și 
-consistența dezvoltarii pe termen lung.
+Quality Assurance raspunde la întrebarea:
+"Este procesul de dezvoltare controlat și capabil sa produca un software de calitate în mod
+repetat?" În HESPERIA, QA este vizibil prin formalizarea matematica, prin documentație
+versionata și prin decizii arhitecturale stabilite explicit înaintea implementarii.
+Testing-ul valideaza aceste decizii la nivel executabil. Concluzie Separarea dintre QA și
+Testing consolideaza caracterul inginerec al proiectului. HESPERIA nu este doar un sistem
+testat, ci un sistem dezvoltat într-un cadru procesual controlat. Testing-ul garanteaza
+corectitudinea funcționala, iar Quality Assurance garanteaza sustenabilitatea și consistența
+dezvoltarii pe termen lung.
 
- 
 2.8 Integration:
-Faza de Integration în cadrul SDLC presupune combinarea tuturor componentelor dezvoltate 
-într-un sistem funcțional unitar și conectarea acestuia la infrastructura externa. Integrarea are 
-rolul de a verifica daca modulele dezvoltate separat funcționeaza coerent împreuna și daca 
-sistemul poate opera în mediul real pentru care a fost proiectat.
-În cazul studiului de caz HESPERIA, integrarea are doua dimensiuni: integrarea interna (între 
+Faza de Integration în cadrul SDLC presupune combinarea tuturor componentelor dezvoltate
+într-un sistem funcțional unitar și conectarea acestuia la infrastructura externa.
+Integrarea are rolul de a verifica daca modulele dezvoltate separat funcționeaza coerent
+împreuna și daca sistemul poate opera în mediul real pentru care a fost proiectat. În cazul
+studiului de caz HESPERIA, integrarea are doua dimensiuni: integrarea interna (între
 modulele proprii) și integrarea externa (cu alte sisteme).
 1. Integrarea interna
 Integrarea interna presupune conectarea urmatoarelor straturi:
@@ -919,58 +896,55 @@ Integrarea interna presupune conectarea urmatoarelor straturi:
 *	strat de guvernanță (metrici și praguri);
 *	strat de output structurat.
 Fluxul complet poate fi descris astfel:
-text → forward() → clasificare → construire regiune → traversal controlat → calcul metrici → 
-rezultat structurat.
-Aceasta integrare verifica faptul ca datele produse într-un modul sunt corect preluate și 
-procesate de urmatorul, fara pierderi sau inconsecvențe.
+text → forward() → clasificare → construire regiune → traversal controlat → calcul metrici →
+rezultat structurat. Aceasta integrare verifica faptul ca datele produse într-un modul sunt
+corect preluate și procesate de urmatorul, fara pierderi sau inconsecvențe.
 2. Integrarea cu baze de date
 Sistemul este proiectat pentru a utiliza:
 *	baze de date relaționale (SQL) pentru stocarea structurii și a maparilor;
 *	baze de date vectoriale pentru embedding și cautare semantica.
-Integrarea presupune sincronizarea corecta a datelor între reprezentarea interna și baza de 
-date, precum și optimizarea interogarilor (de exemplu, limitarea cautarii la anumite Families sau 
-Areas).
+Integrarea presupune sincronizarea corecta a datelor între reprezentarea interna și baza de
+date, precum și optimizarea interogarilor (de exemplu, limitarea cautarii la anumite
+Families sau Areas).
 3. Integrarea cu modele LLM (RAG)
 Un obiectiv central al proiectului este integrarea în pipeline-uri de tip RAG (Retrieval-
-Augmented Generation). În acest context, HESPERIA nu înlocuiește LLM-ul, ci îl completeaza 
+Augmented Generation). În acest context, HESPERIA nu înlocuiește LLM-ul, ci îl completeaza
 prin:
 *	furnizarea unei structuri semantice deterministe;
 *	filtrarea și organizarea informației înainte de generare;
 *	validarea structurala a rezultatului.
 Pipeline-ul integrat poate fi reprezentat astfel:
-input utilizator → HESPERIA (clasificare și structurare) → cautare controlata → context pentru 
-LLM → generare → evaluare metrica.
+input utilizator → HESPERIA (clasificare și structurare) → cautare controlata → context
+pentru LLM → generare → evaluare metrica.
 4. Integrarea la nivel de guvernanță
 Integrarea include și mecanisme de control:
 *	aplicarea pragurilor de obstacol;
 *	limitarea buclelor de traversal;
 *	validarea coerenței înainte de returnarea rezultatului.
-Aceste mecanisme asigura ca sistemul nu produce iețiri instabile sau incoerente în mediul 
-operațional.
-Concluzie
-În cadrul studiului de caz, integrarea confirma maturitatea arhitecturii HESPERIA. Sistemul este 
-capabil sa funcționeze ca modul autonom și sa fie conectat la infrastructuri externe fara 
-modificari fundamentale. Integrarea nu este un pas secundar, ci o condiție esențiala pentru 
-transformarea proiectului într-o soluție aplicabila industrial.
+Aceste mecanisme asigura ca sistemul nu produce iețiri instabile sau incoerente în mediul
+operațional. Concluzie În cadrul studiului de caz, integrarea confirma maturitatea
+arhitecturii HESPERIA. Sistemul este capabil sa funcționeze ca modul autonom și sa fie
+conectat la infrastructuri externe fara modificari fundamentale. Integrarea nu este un pas
+secundar, ci o condiție esențiala pentru transformarea proiectului într-o soluție aplicabila
+industrial.
 
 2.9 Maintenance (Mentenanța sistemului):
-Mentenanța reprezintă etapa post-implementare a ciclului de viața software și include toate 
-activitațile necesare pentru corectarea erorilor, adaptarea la schimbari și îmbunatațirea 
-performanței sistemului. În ingineria software, mentenanța este clasificata în mod tradițional în 
-patru tipuri: corectiva, adaptiva, perfectiva și preventiva.
-În cazul proiectului HESPERIA, mentenanța este planificata și structurata conform acestor 
-categorii.
+Mentenanța reprezintă etapa post-implementare a ciclului de viața software și include toate
+activitațile necesare pentru corectarea erorilor, adaptarea la schimbari și îmbunatațirea
+performanței sistemului. În ingineria software, mentenanța este clasificata în mod
+tradițional în patru tipuri: corectiva, adaptiva, perfectiva și preventiva. În cazul
+proiectului HESPERIA, mentenanța este planificata și structurata conform acestor categorii.
 1. Mentenanța corectiva
-Aceasta presupune corectarea defectelor descoperite dupa implementare. 
+Aceasta presupune corectarea defectelor descoperite dupa implementare.
 În HESPERIA, mentenanța corectiva poate include:
 *	ajustarea maparilor incorecte între Family și Area;
 *	corectarea erorilor de indexare a side-urilor;
 *	remedierea bug-urilor în calculul metricilor structurale;
 *	corectarea pragurilor de traversal daca genereaza comportament instabil.
-Datorita existenței invariantelor (TOTAL_SIDES, domeniul tau, cardinalitați fixe), identificarea 
-erorilor este facilitata prin testare determinista.
+Datorita existenței invariantelor (TOTAL_SIDES, domeniul tau, cardinalitați fixe),
+identificarea erorilor este facilitata prin testare determinista.
 2. Mentenanța adaptiva
-Aceasta presupune modificari determinate de schimbari externe. 
+Aceasta presupune modificari determinate de schimbari externe.
 În cazul HESPERIA, mentenanța adaptiva poate aparea în situații precum:
 *	schimbarea modelului de embedding utilizat;
 *	integrarea cu o noua versiune de LLM;
@@ -978,7 +952,7 @@ Aceasta presupune modificari determinate de schimbari externe.
 *	integrarea în noi pipeline-uri industriale.
 Structura modulara a sistemului permite adaptare fara afectarea nucleului geometric.
 3. Mentenanța perfectiva
-Aceasta urmărește îmbunatațirea performanței sau extinderea funcționalitaților fara 
+Aceasta urmărește îmbunatațirea performanței sau extinderea funcționalitaților fara
 modificarea scopului principal.
 Exemple în HESPERIA:
 *	introducerea unor metrici suplimentare;
@@ -987,41 +961,40 @@ Exemple în HESPERIA:
 *	îmbunatațirea mecanismelor de guard.
 Aceasta categorie este dominanta în evoluția versiunilor succesive ale proiectului.
 4. Mentenanța preventiva
-Aceasta are rolul de a reduce riscul de erori viitoare. 
+Aceasta are rolul de a reduce riscul de erori viitoare.
 În HESPERIA, mentenanța preventiva include:
 *	menținerea invariantelor structurale fixe;
 *	separarea stricta forward/backward;
 *	versionarea specificațiilor;
 *	introducerea mecanismelor de guard (Sigma, Gamma).
 Prin aceste masuri, complexitatea este controlata înainte de a deveni problematica.
-Concluzie
-În cadrul studiului de caz, mentenanța nu este tratata ca reacție la defecte, ci ca proces continuu 
-planificat. Datorita arhitecturii modulare și a invariantelor structurale, HESPERIA permite 
-corectare, adaptare și extindere controlata fara destabilizarea nucleului semantic. Aceasta 
-abordare consolideaza caracterul inginerec și sustenabil al sistemului pe termen lung.
-
+Concluzie În cadrul studiului de caz, mentenanța nu este tratata ca reacție la defecte, ci
+ca proces continuu planificat. Datorita arhitecturii modulare și a invariantelor
+structurale, HESPERIA permite corectare, adaptare și extindere controlata fara
+destabilizarea nucleului semantic. Aceasta abordare consolideaza caracterul inginerec și
+sustenabil al sistemului pe termen lung.
 
 3. DECIZII INGINEREȘTI MAJORE
-În cadrul studiului de caz HESPERIA, dezvoltarea sistemului a implicat o serie de decizii 
-inginerești fundamentale care au influențat arhitectura, stabilitatea și direcția de evoluție a 
-proiectului. Aceste decizii nu sunt simple alegeri de implementare, ci opțiuni structurale care 
-definesc comportamentul și limitele sistemului.
+În cadrul studiului de caz HESPERIA, dezvoltarea sistemului a implicat o serie de decizii
+inginerești fundamentale care au influențat arhitectura, stabilitatea și direcția de
+evoluție a proiectului. Aceste decizii nu sunt simple alegeri de implementare, ci opțiuni
+structurale care definesc comportamentul și limitele sistemului.
 1. Adoptarea unei geometrii semantice fixe
 Cea mai importanta decizie a fost definirea unei structuri semantice finite și invariabile:
 *	12 Areas,
 *	24 Families per Area,
 *	250 hexes per Family,
 *	6 sides per hexagon.
-Aceasta geometrie nu este generata dinamic și nu se modifica în funcție de datele de intrare. 
-Decizia impune stabilitate structurala și permite comparabilitate între execuții și versiuni. S-a 
-preferat rigiditatea controlata în locul flexibilitații nelimitate.
+Aceasta geometrie nu este generata dinamic și nu se modifica în funcție de datele de
+intrare. Decizia impune stabilitate structurala și permite comparabilitate între execuții și
+versiuni. S-a preferat rigiditatea controlata în locul flexibilitații nelimitate.
 2. Determinism în clasificare
-S-a stabilit ca pentru aceeași intrare textuala, sistemul trebuie sa produca același rezultat. 
-Aceasta decizie exclude comportamente aleatorii interne și reduce dependența de variații 
-stochastice. Determinismul permite auditabilitate și testare reproductibila.
+S-a stabilit ca pentru aceeași intrare textuala, sistemul trebuie sa produca același
+rezultat. Aceasta decizie exclude comportamente aleatorii interne și reduce dependența de
+variații stochastice. Determinismul permite auditabilitate și testare reproductibila.
 3. Separarea forward / backward
-Procesarea textului (forward pipeline) este separata de ajustarea lenta a dicționarului și a 
-regulilor (backward). Aceasta separare previne modificarea spontana a structurii în timpul 
+Procesarea textului (forward pipeline) este separata de ajustarea lenta a dicționarului și a
+regulilor (backward). Aceasta separare previne modificarea spontana a structurii în timpul
 execuției și asigura control asupra evoluției sistemului.
 4. Introducerea metricilor cuantificabile
 Sistemul nu returneaza doar etichete, ci calculeaza valori numerice:
@@ -1029,271 +1002,195 @@ Sistemul nu returneaza doar etichete, ci calculeaza valori numerice:
 *	entropie pe arii,
 *	polarizare pe axe,
 *	obstacleScore.
-Aceasta decizie transforma sistemul dintr-un clasificator simbolic într-un model evaluabil 
+Aceasta decizie transforma sistemul dintr-un clasificator simbolic într-un model evaluabil
 matematic.
 5. Limitarea traversarii prin praguri
-Traversal-ul semantic este controlat prin scoruri și praguri de oprire. Nu este permisa explorarea 
-nelimitata a spațiului semantic. Aceasta decizie previne creșterea necontrolata a complexitații și 
-reduce riscul de instabilitate.
+Traversal-ul semantic este controlat prin scoruri și praguri de oprire. Nu este permisa
+explorarea nelimitata a spațiului semantic. Aceasta decizie previne creșterea necontrolata a
+complexitații și reduce riscul de instabilitate.
 6. Modularizarea arhitecturala
-Sistemul este împarțit în straturi distincte: semantic, geometric, traversal, guvernanță și 
-integrare. Aceasta decizie faciliteaza mentenanța și permite extinderea fara afectarea nucleului 
-structural.
-Concluzie
-Deciziile inginerești majore din HESPERIA reflecta o orientare clara spre stabilitate, control și 
-masurabilitate. S-a ales deliberat o arhitectura rigida și formalizata în locul unei soluții flexibile, 
-dar imprevizibile. Prin aceste opțiuni, proiectul se poziționează ca infrastructura semantica 
-disciplinata, nu ca experiment AI deschis.
+Sistemul este împarțit în straturi distincte: semantic, geometric, traversal, guvernanță și
+integrare. Aceasta decizie faciliteaza mentenanța și permite extinderea fara afectarea
+nucleului structural. Concluzie Deciziile inginerești majore din HESPERIA reflecta o
+orientare clara spre stabilitate, control și masurabilitate. S-a ales deliberat o
+arhitectura rigida și formalizata în locul unei soluții flexibile, dar imprevizibile. Prin
+aceste opțiuni, proiectul se poziționează ca infrastructura semantica disciplinata, nu ca
+experiment AI deschis.
 
 3.1 Limitările sistemului
 
-Orice sistem software proiectat riguros implică și constrângeri deliberate. În cazul HESPERIA, limitările nu sunt accidente, ci consecințe directe ale deciziilor inginerești asumate.
+Orice sistem software proiectat riguros implică și constrângeri deliberate. În cazul
+HESPERIA, limitările nu sunt accidente, ci consecințe directe ale deciziilor inginerești
+asumate.
 1. Rigiditatea geometrică
-Structura fixă (12 Areas × 24 Families × 250 hexes × 6 sides) oferă stabilitate și comparabilitate între execuții, dar limitează flexibilitatea semantică.
-Concepte emergente sau domenii noi trebuie forțate într-un cadru predefinit. Sistemul nu poate genera dinamic noi Areas fără refactorizare structurală majoră.
+Structura fixă (12 Areas × 24 Families × 250 hexes × 6 sides) oferă stabilitate și
+comparabilitate între execuții, dar limitează flexibilitatea semantică. Concepte emergente
+sau domenii noi trebuie forțate într-un cadru predefinit. Sistemul nu poate genera dinamic
+noi Areas fără refactorizare structurală majoră.
 2. Dependența de clasificarea inițială
-Atribuirea lexicală (Word Attribution) influențează întreaga construcție a regiunii semantice.
-Erorile sau ambiguitățile la nivel de token pot produce deviații cumulative în metrici și traversal. Determinismul nu înseamnă infailibilitate.
+Atribuirea lexicală (Word Attribution) influențează întreaga construcție a regiunii
+semantice. Erorile sau ambiguitățile la nivel de token pot produce deviații cumulative în
+metrici și traversal. Determinismul nu înseamnă infailibilitate.
 3. Dependența de embedding extern
-Sistemul utilizează modele externe pentru similaritate semantică.
-Calitatea embedding-urilor nu este controlată intern. Schimbarea modelului poate modifica distribuțiile semantice fără schimbare de cod în HESPERIA.
+Sistemul utilizează modele externe pentru similaritate semantică. Calitatea embedding-urilor
+nu este controlată intern. Schimbarea modelului poate modifica distribuțiile semantice fără
+schimbare de cod în HESPERIA.
 4. Complexitate conceptuală ridicată
-Metricile structurale (coerență, entropie, polarizare, obstacleScore) necesită înțelegere tehnică pentru interpretare corectă.
-Sistemul nu este destinat utilizatorului non-tehnic fără strat suplimentar de abstractizare.
+Metricile structurale (coerență, entropie, polarizare, obstacleScore) necesită înțelegere
+tehnică pentru interpretare corectă. Sistemul nu este destinat utilizatorului non-tehnic
+fără strat suplimentar de abstractizare.
 5. Cost computațional potențial
-Traversal-ul, dacă nu este controlat strict prin praguri, poate genera creșteri de timp de procesare.
-Sistemul trebuie calibrat atent pentru a evita explorarea excesivă a spațiului semantic.
+Traversal-ul, dacă nu este controlat strict prin praguri, poate genera creșteri de timp de
+procesare. Sistemul trebuie calibrat atent pentru a evita explorarea excesivă a spațiului
+semantic.
 6. Stabilizare, nu control total al LLM
-HESPERIA stabilizează structura semantică a contextului, dar nu controlează direct generarea textului produs de un LLM extern.
-Componenta generativă rămâne probabilistică.
+HESPERIA stabilizează structura semantică a contextului, dar nu controlează direct generarea
+textului produs de un LLM extern. Componenta generativă rămâne probabilistică.
 7. Risc de supraformalizare
-Formalizarea excesivă poate reduce adaptabilitatea în contexte unde flexibilitatea conceptuală este necesară.
-Rigiditatea este o alegere inginerească, dar are costul ei.
+Formalizarea excesivă poate reduce adaptabilitatea în contexte unde flexibilitatea
+conceptuală este necesară. Rigiditatea este o alegere inginerească, dar are costul ei.
 
-Concluzie privind limitările
-Limitările HESPERIA sunt în principal consecința deciziei de a privilegia stabilitatea și determinismul în detrimentul flexibilității dinamice.
-Sistemul este conceput ca infrastructură semantică controlată, nu ca model generativ deschis.
+Concluzie privind limitările Limitările HESPERIA sunt în principal consecința deciziei de a
+privilegia stabilitatea și determinismul în detrimentul flexibilității dinamice. Sistemul
+este conceput ca infrastructură semantică controlată, nu ca model generativ deschis.
 
 3.2 Posibilitățile de dezvoltare a sistemului în viitor
-Dezvoltarea viitoare a sistemului HESPERIA trebuie realizată fără compromiterea nucleului arhitectural fix. Extinderea trebuie să fie controlată, incrementală și compatibilă cu invarianții structurali existenți.
+Dezvoltarea viitoare a sistemului HESPERIA trebuie realizată fără compromiterea nucleului
+arhitectural fix. Extinderea trebuie să fie controlată, incrementală și compatibilă cu
+invarianții structurali existenți.
 1. Extinderea stratului de metrici
 Sistemul poate integra metrici suplimentare pentru analiză semantică avansată, precum:
-indicatori de stabilitate longitudinală (compararea regiunilor în timp);
-metrici de deviație față de un profil semantic de referință;
-măsurarea consistenței între multiple interogări succesive.
-Aceste extensii nu afectează geometria de bază, ci doar stratul de evaluare.
+indicatori de stabilitate longitudinală (compararea regiunilor în timp); metrici de deviație
+față de un profil semantic de referință; măsurarea consistenței între multiple interogări
+succesive. Aceste extensii nu afectează geometria de bază, ci doar stratul de evaluare.
 2. Introducerea unui strat de învățare controlată (backward supervised)
-Fără a modifica structura 12 × 24 × 250 × 6, sistemul poate integra:
-ajustări controlate ale ponderilor lexicale;
-rafinarea regulilor de atribuire pe baza feedback-ului validat;
-mecanisme de calibrare statistică a distribuțiilor.
-Această evoluție trebuie menținută separată de pipeline-ul forward pentru a conserva determinismul execuției.
+Fără a modifica structura 12 × 24 × 250 × 6, sistemul poate integra: ajustări controlate ale
+ponderilor lexicale; rafinarea regulilor de atribuire pe baza feedback-ului validat;
+mecanisme de calibrare statistică a distribuțiilor. Această evoluție trebuie menținută
+separată de pipeline-ul forward pentru a conserva determinismul execuției.
 3. Optimizarea performanței și a traversal-ului
 Se pot dezvolta:
-algoritmi mai eficienți de explorare a regiunii;
-strategii adaptive de oprire bazate pe energie semantică;
-optimizări de indexare și caching.
-Obiectivul este reducerea costului computațional fără reducerea controlului.
+algoritmi mai eficienți de explorare a regiunii; strategii adaptive de oprire bazate pe
+energie semantică; optimizări de indexare și caching. Obiectivul este reducerea costului
+computațional fără reducerea controlului.
 4. Extinderea integrării industriale
 HESPERIA poate evolua către:
-integrare cu sisteme de compliance automat;
-utilizare în audit decizional;
-conectare la sisteme BI sau motoare de analiză juridică;
-utilizare ca modul de validare semantică în sisteme enterprise.
-Această direcție consolidează rolul de middleware semantic.
+integrare cu sisteme de compliance automat; utilizare în audit decizional; conectare la
+sisteme BI sau motoare de analiză juridică; utilizare ca modul de validare semantică în
+sisteme enterprise. Această direcție consolidează rolul de middleware semantic.
 5. Vizualizare și interfață analitică
 Dezvoltarea unui strat de vizualizare ar permite:
-reprezentarea grafică a regiunilor active;
-afișarea polarizării pe axe;
-urmărirea evoluției în timp a metricilor.
-Aceasta ar crește accesibilitatea sistemului fără a altera structura internă.
+reprezentarea grafică a regiunilor active; afișarea polarizării pe axe; urmărirea evoluției
+în timp a metricilor. Aceasta ar crește accesibilitatea sistemului fără a altera structura
+internă.
 6. Formalizare matematică suplimentară
 Modelul poate fi aprofundat prin:
-definirea explicită a spațiului ca structură topologică;
-introducerea operatorilor algebrici asupra regiunilor;
-modelarea dinamicii ca sistem controlat cu feedback.
-Această direcție ar consolida caracterul științific al sistemului.
+definirea explicită a spațiului ca structură topologică; introducerea operatorilor algebrici
+asupra regiunilor; modelarea dinamicii ca sistem controlat cu feedback. Această direcție ar
+consolida caracterul științific al sistemului.
 7. Implementarea completă a mecanismelor de guard (Sigma, Gamma)
 Dezvoltarea completă a stratului de validare structurală și relațională poate:
-preveni degradarea datelor;
-detecta anomalii;
-asigura coerență la nivel industrial.
-Concluzie privind dezvoltarea viitoare
-Posibilitățile de evoluție ale sistemului HESPERIA sunt semnificative, însă trebuie realizate fără modificarea nucleului geometric. 
-Strategia corectă este extinderea stratificată: mai mult control, mai multă măsurare, mai multă integrare — fără flexibilizare structurală excesivă.
-Direcția viitoare nu este „mai mare”, ci „mai controlat și mai matur industrial”.
+preveni degradarea datelor; detecta anomalii; asigura coerență la nivel industrial.
+Concluzie privind dezvoltarea viitoare Posibilitățile de evoluție ale sistemului HESPERIA
+sunt semnificative, însă trebuie realizate fără modificarea nucleului geometric. Strategia
+corectă este extinderea stratificată: mai mult control, mai multă măsurare, mai multă
+integrare — fără flexibilizare structurală excesivă. Direcția viitoare nu este „mai mare”,
+ci „mai controlat și mai matur industrial”.
 
 3.3 Ramurile economiei pentru aplicație imediată și dezvoltare ulterioară
-HESPERIA este concepută ca infrastructură semantică deterministă. Nu este o aplicație de consum, ci un strat de control și audit semantic. Prin urmare, aplicabilitatea sa este relevantă în domenii unde coerența, trasabilitatea și controlul decizional sunt critice.
-I. Ramuri cu aplicație imediată
-Aceste domenii pot utiliza sistemul în forma actuală sau cu adaptări minime.
+HESPERIA este concepută ca infrastructură semantică deterministă. Nu este o aplicație de
+consum, ci un strat de control și audit semantic. Prin urmare, aplicabilitatea sa este
+relevantă în domenii unde coerența, trasabilitatea și controlul decizional sunt critice. I.
+Ramuri cu aplicație imediată Aceste domenii pot utiliza sistemul în forma actuală sau cu
+adaptări minime.
 1. Juridic și compliance
-analiză de coerență a documentelor contractuale;
-detectarea contradicțiilor interne;
-evaluarea polarizării în opinii legale;
-suport pentru audit intern.
-În aceste contexte, stabilitatea semantică este esențială. Un LLM simplu este insuficient fără un strat de validare structurală.
+analiză de coerență a documentelor contractuale; detectarea contradicțiilor interne;
+evaluarea polarizării în opinii legale; suport pentru audit intern. În aceste contexte,
+stabilitatea semantică este esențială. Un LLM simplu este insuficient fără un strat de
+validare structurală.
 2. Banking și sector financiar
-analiză a riscului narativ (rapoarte, justificări, documentații);
-verificare coerență între declarații și politici interne;
-suport pentru reglementare și conformitate.
-Sistemul poate funcționa ca filtru semantic înaintea deciziilor automate.
+analiză a riscului narativ (rapoarte, justificări, documentații); verificare coerență între
+declarații și politici interne; suport pentru reglementare și conformitate. Sistemul poate
+funcționa ca filtru semantic înaintea deciziilor automate.
 3. Administrație publică
-analiză de consistență în politici publice;
-verificare de coerență între acte normative;
-suport în procese de consultare și evaluare documentară.
-Instituțiile publice necesită auditabilitate, ceea ce corespunde exact design-ului HESPERIA.
+analiză de consistență în politici publice; verificare de coerență între acte normative;
+suport în procese de consultare și evaluare documentară. Instituțiile publice necesită
+auditabilitate, ceea ce corespunde exact design-ului HESPERIA.
 4. Audit și consultanță
-evaluarea discursului strategic al companiilor;
-analiză de aliniere între obiective declarate și acțiuni descrise;
-măsurarea entropiei tematice în documentație corporativă.
-Aici valoarea este măsurabilitatea, nu generarea de text.
-II. Domenii cu potențial după dezvoltare moderată
-Acestea necesită strat suplimentar de integrare sau rafinare metrică.
+evaluarea discursului strategic al companiilor; analiză de aliniere între obiective
+declarate și acțiuni descrise; măsurarea entropiei tematice în documentație corporativă.
+Aici valoarea este măsurabilitatea, nu generarea de text. II. Domenii cu potențial după
+dezvoltare moderată Acestea necesită strat suplimentar de integrare sau rafinare metrică.
 1. Inteligență de business (BI semantic)
 Prin integrare cu dashboard-uri și sisteme analitice, HESPERIA poate:
-analiza rapoarte manageriale;
-detecta deviații conceptuale;
-evalua consistența comunicării organizaționale.
-Necesită dezvoltare de interfață și vizualizare.
+analiza rapoarte manageriale; detecta deviații conceptuale; evalua consistența comunicării
+organizaționale. Necesită dezvoltare de interfață și vizualizare.
 2. Educație și evaluare academică
-analiză a coerenței lucrărilor academice;
-detectarea inconsistențelor argumentative;
-evaluare structurată a discursului.
-Necesită calibrare a regulilor de clasificare pentru domenii academice.
+analiză a coerenței lucrărilor academice; detectarea inconsistențelor argumentative;
+evaluare structurată a discursului. Necesită calibrare a regulilor de clasificare pentru
+domenii academice.
 3. Asigurări și analiză de dosare
-evaluarea coerenței declarațiilor;
-detectarea conflictelor narative;
-suport în evaluarea fraudei.
-Aici sistemul poate funcționa ca modul auxiliar de validare semantică.
+evaluarea coerenței declarațiilor; detectarea conflictelor narative; suport în evaluarea
+fraudei. Aici sistemul poate funcționa ca modul auxiliar de validare semantică.
 4. Media și analiză discursivă
-măsurarea polarizării;
-detectarea radicalizării;
-analiză de propagandă sau manipulare.
-Necesită adaptări de optimizare pentru volum mare de date.
-III. Domenii strategice pe termen mediu
-Cu dezvoltare formală suplimentară (guard complet, topologie avansată, operatori algebraici):
-sisteme de suport decizional guvernamental;
-infrastructură semantică pentru AI reglementată;
-audit automat în sisteme autonome;
-control semantic în sisteme militare sau de securitate.
-Aceste domenii necesită maturitate industrială ridicată.
-Concluzie
+măsurarea polarizării; detectarea radicalizării; analiză de propagandă sau manipulare.
+Necesită adaptări de optimizare pentru volum mare de date. III. Domenii strategice pe termen
+mediu Cu dezvoltare formală suplimentară (guard complet, topologie avansată, operatori
+algebraici):
+sisteme de suport decizional guvernamental; infrastructură semantică pentru AI reglementată;
+audit automat în sisteme autonome; control semantic în sisteme militare sau de securitate.
+Aceste domenii necesită maturitate industrială ridicată. Concluzie
 Aplicația imediată a HESPERIA este în domenii unde:
-auditabilitatea este critică;
-stabilitatea semantică este obligatorie;
-deciziile trebuie justificate numeric.
-După dezvoltare moderată, sistemul poate deveni infrastructură transversală pentru analiză semantică controlată în multiple ramuri economice.
+auditabilitatea este critică; stabilitatea semantică este obligatorie; deciziile trebuie
+justificate numeric. După dezvoltare moderată, sistemul poate deveni infrastructură
+transversală pentru analiză semantică controlată în multiple ramuri economice.
 
-3.4 Modelele posibile de vânzare și integrare ulterioară
-HESPERIA nu este un produs de tip aplicație finală, ci infrastructură semantică. 
-Prin urmare, modelele de monetizare trebuie alese realist: B2B, tehnic, orientat pe valoare și risc redus pentru client.
-I. Model 1 – Licențiere software (on-premise)
-Descriere
-Clientul instalează sistemul în infrastructura proprie (server intern sau cloud privat).
-Caracteristici
-licență anuală sau perpetuală;
-acces la cod compilat sau containerizat;
-suport tehnic și actualizări contra cost.
-Domenii potrivite
-bancar;
-juridic;
-instituții publice;
-companii cu cerințe de securitate ridicate.
-Avantaj
-Control total al datelor (important în compliance).
-Dezavantaj
-Ciclu de vânzare lung, necesită maturitate tehnică.
-II. Model 2 – API semantic (SaaS controlat)
-Descriere
-HESPERIA este oferit ca serviciu API securizat.
-Clientul trimite text → primește:
-coordonate semantice;
-metrici structurale;
-scoruri de coerență.
-Monetizare
-cost per request;
-pachete lunare;
-tarif pe volum procesat.
-Avantaj
-Scalabil, rapid de adoptat.
-Risc
-Necesită infrastructură stabilă și SLA clar.
-III. Model 3 – Middleware integrat în sisteme existente
-Descriere
-HESPERIA este integrat ca modul în:
-sisteme RAG enterprise;
-soluții de compliance;
-software juridic;
-sisteme BI.
-Monetizare
-licență OEM;
-parteneriate tehnologice;
-revenue share.
-Avantaj
-Penetrare indirectă a pieței prin integratori.
-Observație
-Acesta este probabil modelul cel mai realist inițial.
-IV. Model 4 – Soluție verticală dedicată
-Descriere
-Se dezvoltă o versiune specializată pentru un sector:
-„HESPERIA Compliance Edition”
-„HESPERIA Legal Audit”
-„HESPERIA Banking Risk Layer”
-Monetizare
-contracte enterprise;
-customizare contra cost;
-mentenanță anuală.
-Avantaj
-Valoare clară pentru client.
-Nu se vinde „tehnologie”, se vinde „rezultat”.
-V. Model 5 – Servicii de consultanță + implementare
-Descriere
-HESPERIA este oferit împreună cu:
-audit semantic al companiei;
-integrare în pipeline existent;
-calibrare metrici.
-Monetizare
-proiecte fixe;
-pachete de implementare;
-training tehnic.
-Acest model este potrivit în faza incipientă.
-VI. Model 6 – Platformă analitică (după dezvoltare moderată)
-Necesită:
-interfață vizuală;
-dashboard-uri;
-istoric longitudinal.
-Monetizare:
-abonament enterprise;
-utilizatori licențiați;
-add-on pentru sisteme BI.
-VII. Strategie de integrare etapizată
-Realist, integrarea ar trebui să urmeze pașii:
-Middleware tehnic în proiecte pilot.
-Verticalizare pe un domeniu (ex: compliance).
-API stabil cu SLA.
-Extindere în parteneriate OEM.
-Concluzie strategică
-HESPERIA nu este produs „de masă”.
-Este tehnologie de control semantic pentru organizații care:
-gestionează risc decizional;
-au obligații de audit;
-folosesc LLM în procese critice.
+3.4 Modelele posibile de vânzare și integrare ulterioară HESPERIA nu este un produs de tip
+aplicație finală, ci infrastructură semantică. Prin urmare, modelele de monetizare trebuie
+alese realist: B2B, tehnic, orientat pe valoare și risc redus pentru client. I. Model 1 –
+Licențiere software (on-premise) Descriere Clientul instalează sistemul în infrastructura
+proprie (server intern sau cloud privat). Caracteristici licență anuală sau perpetuală;
+acces la cod compilat sau containerizat; suport tehnic și actualizări contra cost. Domenii
+potrivite bancar; juridic; instituții publice; companii cu cerințe de securitate ridicate.
+Avantaj Control total al datelor (important în compliance). Dezavantaj Ciclu de vânzare
+lung, necesită maturitate tehnică. II. Model 2 – API semantic (SaaS controlat) Descriere
+HESPERIA este oferit ca serviciu API securizat. Clientul trimite text → primește: coordonate
+semantice; metrici structurale; scoruri de coerență. Monetizare cost per request; pachete
+lunare; tarif pe volum procesat. Avantaj Scalabil, rapid de adoptat. Risc Necesită
+infrastructură stabilă și SLA clar. III. Model 3 – Middleware integrat în sisteme existente
+Descriere HESPERIA este integrat ca modul în: sisteme RAG enterprise; soluții de compliance;
+software juridic; sisteme BI. Monetizare licență OEM; parteneriate tehnologice; revenue
+share. Avantaj Penetrare indirectă a pieței prin integratori. Observație Acesta este
+probabil modelul cel mai realist inițial. IV. Model 4 – Soluție verticală dedicată Descriere
+Se dezvoltă o versiune specializată pentru un sector: „HESPERIA Compliance Edition”
+„HESPERIA Legal Audit” „HESPERIA Banking Risk Layer” Monetizare contracte enterprise;
+customizare contra cost; mentenanță anuală. Avantaj Valoare clară pentru client. Nu se vinde
+„tehnologie”, se vinde „rezultat”. V. Model 5 – Servicii de consultanță + implementare
+Descriere HESPERIA este oferit împreună cu: audit semantic al companiei; integrare în
+pipeline existent; calibrare metrici. Monetizare proiecte fixe; pachete de implementare;
+training tehnic. Acest model este potrivit în faza incipientă. VI. Model 6 – Platformă
+analitică (după dezvoltare moderată) Necesită: interfață vizuală; dashboard-uri; istoric
+longitudinal. Monetizare: abonament enterprise; utilizatori licențiați; add-on pentru
+sisteme BI. VII. Strategie de integrare etapizată Realist, integrarea ar trebui să urmeze
+pașii: Middleware tehnic în proiecte pilot. Verticalizare pe un domeniu (ex: compliance).
+API stabil cu SLA. Extindere în parteneriate OEM. Concluzie strategică HESPERIA nu este
+produs „de masă”. Este tehnologie de control semantic pentru organizații care: gestionează
+risc decizional; au obligații de audit; folosesc LLM în procese critice.
 
-Modelul optim inițial:
-→ consultanță + integrare middleware
-→ apoi licențiere enterprise sau API controlat.
-Scalarea trebuie făcută prin integrare industrială, nu prin marketing de volum.
+Modelul optim inițial: → consultanță + integrare middleware → apoi licențiere enterprise sau
+API controlat. Scalarea trebuie făcută prin integrare industrială, nu prin marketing de
+volum.
 
 4. CONCLUZIE
-Studiul de caz HESPERIA v0.2 demonstreaza aplicarea coerenta a principiilor ingineriei 
-programării asupra unui sistem semantic destinat integrarii cu modele AI generative. Proiectul 
-pornește de la o problema reala - instabilitatea semantica și lipsa de auditabilitate a sistemelor 
-LLM - și propune o soluție inginereasca bazata pe structura fixa, determinism și masurabilitate.
-Prin definirea unei geometrii semantice invariabile (12 Areas × 24 Families × 250 hexes × 6 
-sides), sistemul introduce un cadru finit și controlabil pentru reprezentarea sensului. Aceasta 
-decizie transforma procesarea textului dîntr-o activitate probabilistica într-un proces plasabil 
-într-un spațiu discret, cu coordonate explicite și metrici cuantificabile.
+Studiul de caz HESPERIA v0.2 demonstreaza aplicarea coerenta a principiilor ingineriei
+programării asupra unui sistem semantic destinat integrarii cu modele AI generative.
+Proiectul pornește de la o problema reala - instabilitatea semantica și lipsa de
+auditabilitate a sistemelor LLM - și propune o soluție inginereasca bazata pe structura
+fixa, determinism și masurabilitate. Prin definirea unei geometrii semantice invariabile (12
+Areas × 24 Families × 250 hexes × 6 sides), sistemul introduce un cadru finit și controlabil
+pentru reprezentarea sensului. Aceasta decizie transforma procesarea textului dîntr-o
+activitate probabilistica într-un proces plasabil într-un spațiu discret, cu coordonate
+explicite și metrici cuantificabile.
 Aplicarea etapelor SDLC este evidenta în dezvoltarea proiectului:
 *	problema a fost formalizata în faza de Communication;
 *	cerințele funcționale și nefuncționale au fost clar definite;
@@ -1302,13 +1199,11 @@ Aplicarea etapelor SDLC este evidenta în dezvoltarea proiectului:
 *	implementarea a respectat specificațiile;
 *	testarea a vizat atât corectitudinea funcționala, cât și invarianta structurala;
 *	integrarea a confirmat compatibilitatea cu infrastructuri RAG și baze de date externe.
-Un element distinctiv al proiectului este accentul pus pe metrici și control. Sistemul nu doar 
-clasifica, ci evalueaza numeric coerența și polarizarea semantica, introduce praguri de oprire și 
-permite auditarea rezultatelor.
-În concluzie, HESPERIA v0.2 poate fi considerat un exemplu de infrastructura semantica 
-dezvoltata prin abordare inginereasca disciplinata. Studiul de caz arata ca, prin aplicarea 
-metodica a principiilor ingineriei software, un domeniu dominat de modele probabilistice poate 
-fi stabilizat prin structura, formalizare și control.
-
-
+Un element distinctiv al proiectului este accentul pus pe metrici și control. Sistemul nu
+doar clasifica, ci evalueaza numeric coerența și polarizarea semantica, introduce praguri de
+oprire și permite auditarea rezultatelor. În concluzie, HESPERIA v0.2 poate fi considerat un
+exemplu de infrastructura semantica dezvoltata prin abordare inginereasca disciplinata.
+Studiul de caz arata ca, prin aplicarea metodica a principiilor ingineriei software, un
+domeniu dominat de modele probabilistice poate fi stabilizat prin structura, formalizare și
+control.
 
