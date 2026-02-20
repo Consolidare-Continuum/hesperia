@@ -1,256 +1,319 @@
-# Tutorial de Inginerie Software aplicat pe proiectul HESPERIA (v0.1)
+# 52_TUTORIAL__Software_Engineering_Plan_for_HESPERIA_v0_1
 
-Acest document descrie, punct cu punct, planul cerut și îl mapează pe artefactele, codul și guvernanța existente în repository-ul HESPERIA.
+## Scopul documentului
+Acest document livrează un **plan complet de Software Engineering** aplicat pe proiectul existent **HESPERIA**, în format academic, fără programare, folosind artefactele deja prezente în repository.
 
-## 1. Software Overview
-
-### 1.1 Definitions
-- **Definiția software-ului**: ansamblu de programe, date, configurații, procese și documentație care rulează împreună pentru a oferi comportament util.
-- **Inginerie software (IEEE)**: aplicarea sistematică, disciplinată și cuantificabilă a dezvoltării, operării și mentenanței software.
-- **Inginerie software (Fritz Bauer)**: stabilirea și utilizarea principiilor solide de inginerie pentru a obține software economic, fiabil și eficient.
-- **În HESPERIA**: software-ul nu este doar cod Python (`sphere_rag/`), ci și specificații numerotate, politici de guard, documente de proiect și fluxuri operaționale.
-
-### 1.2 Software Evolution
-- **Concept**: software-ul evoluează continuu pentru a rămâne util într-un context în schimbare.
-- **Etape tipice**: inițializare concept → formalizare spec → implementare minimă → hardening/observability → guvernanță și extindere.
-- **În HESPERIA**: traseul este explicit prin versiuni (`v0.1`, `v0.2`, fixed-point V1, extensii observability).
-
-### 1.3 Software Evolution Laws
-- **Legile lui Lehman** descriu cum sistemele reale cresc în complexitate și necesită adaptare permanentă.
-- **Aplicat la HESPERIA**: există mecanisme de control al complexității (fixed point, guard layer ΣΓΘ, schimbări prin documente versionate) pentru a evita deriva haotică.
-
-### 1.4 E-Type Software Evolution
-- **Software E-type**: sisteme care modelează o lume reală și trebuie actualizate odată cu aceasta.
-- **Caracteristici**: feedback continuu, creștere funcțională, risc de degradare fără guvernanță.
-- **În HESPERIA**: componenta semantică și guvernanța îl apropie de E-type; de aceea sunt definite reguli stricte pentru evoluție și publishability (Θ guard).
-
-### 1.5 Software Paradigms
-- **Clasificare**: procedural, orientat obiect, funcțional, declarativ, data-driven.
-- **Relație dezvoltare-design-programare**:
-  - paradigma de dezvoltare (ex. iterativ) controlează procesul,
-  - paradigma de design (ex. modular/OO) controlează arhitectura,
-  - paradigma de programare controlează implementarea concretă.
-- **În HESPERIA**: dezvoltare iterativă + design determinist pe specificații + implementare Python modulară.
-
-### 1.6 Need of Software Engineering
-- Necesitatea vine din: risc de complexitate, nevoia de trasabilitate, calitate, securitate, cost predictibil.
-- **În HESPERIA**: nevoia este acoperită prin charter, context-packet gate-bound, schedule/risk/security baseline, politici ΣΓΘ.
-
-### 1.7 Characteristics of Good Software
-- **Operaționale**: corectitudine, fiabilitate, eficiență, securitate.
-- **Tranzitorii**: portabilitate, reutilizare, interoperabilitate.
-- **Mentenanță**: modificabilitate, testabilitate, lizibilitate, auditabilitate.
-- **În HESPERIA**: accent pe determinism, invariants, documentație versionată, scripturi de self-test.
-
-## 2. Software Development Life Cycle (SDLC)
-
-### 2.1 SDLC Activities
-- **Communication**: realizată prin documente governance/project.
-- **Requirement Gathering**: prin master spec, blueprint și politici.
-- **Feasibility Study**: evaluări de scope și limitări în context/schedule.
-- **System Analysis**: analiză de stare și boundaries în documente “state-now”/arch-decision.
-- **Software Design**: geometry/indexing/semantic engine în specificații dedicate.
-- **Coding**: implementare în `sphere_rag/` și `scripts/`.
-- **Testing**: self-tests, stress tests, validări de guard.
-- **Integration**: legătură între atribuție semantică, geometrie, traversare, metrics.
-- **Implementation**: scripturi CLI și flux deterministic de faze.
-- **Operation & Maintenance**: fixed-point, evoluție controlată, issue-closure docs.
-
-### 2.2 Software Development Paradigm
-- **Waterfall**: util pentru secvența de formalizare a spec-urilor.
-- **Iterative**: dominant în repo (v0.x → v1 fixed point → extensii).
-- **Spiral**: prezent implicit prin risc + validări + iterații.
-- **V-Model**: mapare între specificații și teste/self-tests.
-- **Big Bang**: nerecomandat; evitat prin baseline-uri și guard discipline.
-
-## 3. Software Project Management
-
-### 3.1 Software Project
-- Proiectul HESPERIA este un produs semantic-substrate cu ownership explicit, scope și artefacte de guvernanță.
-
-### 3.2 Need of Software Project Management
-- Fără management, un sistem complex semantic devine dificil de sincronizat, estimat și operat.
-- În repo există procese clare pentru gates, scope, ownership și change control.
-
-### 3.3 Software Project Manager
-- **Managing People**: roluri clar definite (Grace, Ethan, Daniel, Sophia etc.).
-- **Managing Project**: charter, context packet, WBS approval, handoff checklist.
-
-### 3.4 Software Management Activities
-- **Project Planning**: charter + context packet.
-- **Scope Management**: `SCOPE-AND-SYNC.md`.
-- **Project Estimation**: schedule baseline (durate/dev/infra).
-- **Estimation Techniques**: placeholders pentru completare per task.
-- **Project Scheduling**: baseline + ferestre de deploy/rollback când e cazul.
-- **Resource Management**: assignment pe roluri.
-- **Risk Management**: risk register.
-- **Execution & Monitoring**: gates + rapoarte + release fixed point.
-- **Communication Management**: artefact index + documente de stare.
-- **Configuration Management**: baseline/fixed-point și reguli de schimbare.
-- **Baseline**: release V1 fixed point.
-- **Change Control**: CCB menționat în charter.
-- **Project Management Tools**:
-  - **Gantt Chart**: concept aplicabil (nu este încă completat în repo).
-  - **PERT Chart**: concept aplicabil pentru dependențe.
-  - **Resource Histogram**: derivabil din roluri și workload.
-  - **Critical Path Analysis**: util când apar work packages concrete.
-
-## 4. Software Requirements
-
-### 4.1 Requirement Engineering
-- Capturare, formalizare, validare și management al cerințelor.
-- În HESPERIA, cerințele sunt exprimate în spec-urile numerotate și politici.
-
-### 4.2 Requirement Engineering Process
-- **Feasibility Study**: definită prin scope curent și constrângeri.
-- **Requirement Gathering**: master spec + blueprint + specs tematice.
-- **SRS**: familia de documente numerotate funcționează ca SRS distribuit.
-- **Requirement Validation**: self-tests, guard checks, review de governance.
-
-### 4.3 Requirement Elicitation Process
-- În practică: owner/architecture/governance formulează cerințe, apoi sunt convertite în artefacte versionate.
-
-### 4.4 Requirement Elicitation Techniques
-- **Interviews / Surveys / Questionnaires**: reflectate indirect prin task-uri și rapoarte interne.
-- **Task Analysis / Domain Analysis**: foarte puternice în specs geometrice/semantice.
-- **Brainstorming**: vizibil în documentele de direcție și propuneri.
-- **Prototyping**: `sphere_rag/` este prototip de referință determinist.
-- **Observation**: rapoarte de stare și stress-test.
-
-### 4.5 Software Requirements Characteristics
-- Cerințele bune trebuie să fie clare, testabile, consistente, trasabile și prioritizate.
-- HESPERIA folosește numerotare și versiuni pentru trasabilitate.
-
-### 4.6 Functional Requirements
-- Mapare text → arie/familie,
-- Construire regiune semantică,
-- Traversare de faze,
-- Calcul metrici,
-- Aplicare guard/gating.
-
-### 4.7 Non-Functional Requirements
-- Determinism, auditabilitate, consistență structurală, securitate și guvernanță a publicării.
-
-### 4.8 User Interface Requirements
-- UI principală actuală este orientată pe CLI/scripturi și output JSON.
-
-### 4.9 Software System Analyst
-- Rolul analistului este distribuit între architecture/governance și autorii de spec.
-
-### 4.10 Software Metrics and Measures
-- Metrici interne: entropy, coherence, tension, fragmentation, coverage, obstacle, decision integrity.
-
-## 5. Software Design Basics
-
-### 5.1 Software Design Levels
-- **High-level**: model semantic geometric + servicii logice.
-- **Low-level**: module Python, funcții și structuri de date deterministe.
-
-### 5.2 Modularization
-- Repo-ul e modular: specs, governance, project, scripts, `sphere_rag`.
-
-### 5.3 Concurrency
-- Nu este focus major în implementarea minimală curentă; designul favorizează determinismul secvențial.
-
-### 5.4 Coupling and Cohesion
-- Coeziune bună pe module tematice; coupling redus prin separarea clară pe responsabilități.
-
-### 5.5 Design Verification
-- Verificare prin aliniere cu specs, self-tests, guard checks și release baselines.
-
-## 6. Software Analysis and Design Tools
-
-- **DFD**: poate modela fluxul input → attribution → region → traversal → output.
-- **Structure Charts**: aplicabile pe modulele `sphere_rag` + scripturi.
-- **HIPO Diagram**: util pentru vizualizarea ierarhiei proceselor.
-- **Structured English / Pseudo-code**: deja folosit frecvent în documentele spec.
-- **Decision Tables**: potrivite pentru reguli guard (Σ/Γ/Θ).
-- **ER Model / Data Dictionary**: aplicabile pentru schema de date statements/families/areas.
-
-## 7. Software Design Strategies
-
-- **Structured Design**: puternic prezent prin separarea pe fluxuri și specificații.
-- **Function Oriented Design**: dominant în scripturi și pipeline procedural.
-- **Object Oriented Design**: prezent moderat (tipuri/structuri), fără heavy OOP.
-
-## 8. Software Design Approaches
-
-- **Top-Down**: de la master spec la implementare.
-- **Bottom-Up**: de la scripturi/prototip către consolidare în blueprint și politici.
-- HESPERIA folosește un hibrid controlat între cele două.
-
-## 9. Software User Interface Design
-
-- **CLI**: interfața principală curentă (`scripts/*.py`).
-- **GUI**: nu este focus în faza actuală.
-- **UI Design Activities**: acum orientate pe operator interface textual și outputs structurate.
-- **GUI Implementation Tools**: neaplicabil momentan.
-- **UI Golden Rules**: consistență, feedback clar, control al erorilor, minimizarea ambiguității.
-
-## 10. Software Design Complexity
-
-- **Halstead**: aplicabil pentru evaluarea complexității implementării Python.
-- **Cyclomatic Complexity**: relevant pentru traversal/guards/scripts.
-- **Function Point**: util pentru estimarea livrabilelor funcționale viitoare.
-- În prezent, repo-ul prioritizează complexitatea semantică + guvernanță, nu doar complexitatea de cod.
-
-## 11. Software Implementation
-
-- **Structured Programming**: implementare clar secvențială pe pași deterministici.
-- **Functional Programming**: folosit parțial prin funcții pure/transformări.
-- **Programming Style**: orientat pe claritate și mapare directă la specificații.
-- **Coding Guidelines**: dictate de specs + AGENTS + politici.
-- **Software Documentation**: foarte extinsă și versionată.
-- **Implementation Challenges**: sincronizarea între spec, cod, guard discipline și scope curent.
-
-## 12. Software Testing Overview
-
-- **Validation vs Verification**:
-  - Verification: „am construit corect conform spec?”
-  - Validation: „construim ce este util și publicabil?”
-- **Manual vs Automated**: ambele sunt necesare; repo-ul include scripturi de auto-validare.
-- **Black-box / White-box**:
-  - Black-box pe CLI/output,
-  - White-box pe metrici și invariants.
-- **Testing Levels**:
-  - Unit: module individuale,
-  - Integration: flux semantic + traversal,
-  - System: rulare end-to-end,
-  - Acceptance: gates de governance,
-  - Regression: comparare față de fixed point.
-- **Testing Documentation**: rapoarte, issue-closure, release docs.
-- **Testing vs QC & QA**:
-  - Testing = execuție verificări,
-  - QC = controlul artefactelor,
-  - QA = sistemul de procese și standarde.
-
-## 13. Software Maintenance Overview
-
-- **Tipuri de mentenanță**: corectivă, adaptivă, perfectivă, preventivă.
-- **Costul mentenanței**: crește fără discipline de baseline/versioning.
-- **Maintenance Activities**: update spec, sincronizare cod, retestare, documentare.
-- **Software Re-Engineering**: posibil în jurul nucleului traversal/guard.
-- **Reverse Engineering**: repo-ul permite reconstrucția logicii din docs + cod.
-- **Forward Engineering**: din spec-uri numerotate către implementări noi.
-- **Component Reusability**: modulele geometry/metrics/semantic_engine pot fi reutilizate.
-
-## 14. Software CASE Tools Overview
-
-- **CASE Tools**: ansamblu de unelte pentru analiză, design, cod, testare, management.
-- **Components / Scope**: în HESPERIA includ documentație, scripturi, validări, guvernanță.
-- **Diagram Tools / Modeling Tools**: recomandate pentru formalizarea fluxurilor.
-- **Project Management Tools**: charter/context/schedule/risk ca bază.
-- **Documentation Tools**: markdown/txt versionate și indexate.
-- **Analysis / Design Tools**: specs numerotate + politici guard.
-- **Configuration Management Tools**: git + baseline/fixed-point discipline.
-- **Programming Tools**: Python scripts + module.
-- **Prototyping Tools**: implementarea de referință din `sphere_rag`.
-- **Web Development Tools**: neaplicabil în faza curentă.
-- **Quality Assurance Tools**: checks, reviews, security baseline.
-- **Maintenance Tools**: issue closure, release docs, evoluție versionată.
+Planul urmează structura clasică din tutorialele universitare de inginerie software (overview → SDLC → management → requirements → design → implementation → testing → maintenance → CASE), dar este **instanțiat concret** pe HESPERIA.
 
 ---
 
-## Concluzie
+## 0) Fundamentul proiectului HESPERIA
 
-Planul de „Software Engineering Tutorial” se poate aplica complet pe HESPERIA deoarece proiectul are deja toate elementele-cheie: specificații formale, implementare minimă, guvernanță, baseline-uri de proiect, politici de risc/securitate și disciplină de evoluție controlată.
+### 0.1 Ce stă la bază
+HESPERIA este construit pe un nucleu triplu:
+1. **Formalism semantic-geometric** (arie/familie/hex/side + coordonate și indici canonici).
+2. **Engine semantic determinist** (atribuire lexicală/sentențială și agregări controlabile).
+3. **Guvernanță operațională** (policy, guard layers ΣΓΘ, gates de publicare).
+
+Acest fundament este specificat în lanțul de documente numerotate (master spec, blueprint, semantic engine, indexing), completat de politici operaționale și artefacte de proiect.
+
+### 0.2 Necesitatea
+Necesitatea proiectului apare în contexte cu volum mare de afirmații/text, unde este nevoie de:
+- clasificare semantică stabilă,
+- trasabilitate a deciziilor,
+- controlul conflictelor și al derivației semantice,
+- guvernanță explicită pentru publishability.
+
+### 0.3 Valorile proiectului
+Valorile centrale pe care le operationalizează repository-ul:
+- **determinism** (același input are traseu explicabil),
+- **auditabilitate** (artefacte versionate, baseline-uri),
+- **siguranță logică** (invariante ΣΓΘ),
+- **evoluție controlată** (fixed-point + change control),
+- **interoperabilitate academică** (specificații explicite + glosar de termeni).
+
+### 0.4 Aplicații posibile
+- **Scară îngustă (narrow scope):**
+  - asistent intern de analiză pentru seturi mici/medii de afirmații,
+  - suport pentru echipe de policy/compliance,
+  - instrument de verificare semantică în proiecte de cercetare.
+- **Scară largă (large scope):**
+  - strat semantic pentru platforme multi-agent,
+  - guvernanță de conținut în ecosisteme enterprise,
+  - infrastructură de reasoning asistat pentru fluxuri cu risc reputațional/etic.
+
+---
+
+## 1) Software Overview (teorie + instanțiere HESPERIA)
+
+### 1.1 Definiții de bază
+- **Software**: programe + date + configurații + documentație + procese operaționale.
+- **Inginerie software**: aplicare disciplinată, măsurabilă și repetabilă pentru dezvoltare, operare și mentenanță.
+- **În HESPERIA**: software-ul include atât codul (`sphere_rag/`, `scripts/`), cât și corpusul formal de specificații/politici/proiect.
+
+### 1.2 Evoluția software
+Teoretic, orice produs software util evoluează în timp (cerințe, context, risc).
+Practic, HESPERIA arată această evoluție prin secvența: concept → v0.x prototipuri → formalizare v1/fixed-point → extensii operaționale.
+
+### 1.3 Legile evoluției (Lehman, interpretare aplicată)
+- Complexitatea tinde să crească fără control explicit.
+- Calitatea scade fără mentenanță sistematică.
+- Evoluția trebuie guvernată, nu doar codată.
+
+În HESPERIA, răspunsul este: baseline-uri, politici de guard, issue closure, release discipline.
+
+### 1.4 E-type software
+HESPERIA are caracteristici E-type: modelarea unei realități semantice în schimbare, cu feedback continuu și necesar de recalibrare.
+
+### 1.5 Paradigme software
+- proces: iterativ-incremental;
+- design: modular, spec-driven;
+- implementare: predominant procedural/funcțional în Python.
+
+### 1.6 De ce este necesară ingineria software aici
+Fără disciplină de inginerie, un sistem semantic complex devine opac și instabil. HESPERIA folosește această disciplină pentru a păstra coerența între specificații, cod și guvernanță.
+
+### 1.7 Caracteristici de software bun (mapare)
+- corectitudine, fiabilitate, securitate,
+- modificabilitate și testabilitate,
+- trasabilitate și auditabilitate,
+- consistență semantică inter-versiuni.
+
+---
+
+## 2) SDLC aplicat
+
+### 2.1 Activități SDLC
+1. **Communication**: documente governance/project.
+2. **Requirements**: master spec + blueprint + spec-uri specializate.
+3. **Feasibility**: evaluări de context, risc, securitate, schedule.
+4. **Analysis**: state assessments, scope sync.
+5. **Design**: semantic engine + indexing + traversal + guard model.
+6. **Implementation**: module Python și scripturi operaționale.
+7. **Testing**: self-tests, stress-tests, checks de gardă.
+8. **Deployment/Operations**: release fixed-point + handoff.
+9. **Maintenance**: issue closure + iterații controlate.
+
+### 2.2 Modelul de dezvoltare predominant
+Modelul real este **hibrid**:
+- waterfall pentru formalizarea de spec;
+- iterativ pentru evoluția repository-ului;
+- elemente V-model prin maparea spec ↔ verificare.
+
+---
+
+## 3) Software Project Management
+
+### 3.1 Proiectul
+HESPERIA este tratat explicit ca proiect software, nu doar colecție de scripturi.
+
+### 3.2 De ce management de proiect
+Coordonarea între semnificație, logică, risc, securitate și release necesită management formal.
+
+### 3.3 Roluri și responsabilități
+Rolurile sunt explicitate în charter, task-uri de guvernanță și documente de handoff.
+
+### 3.4 Activități de management observabile în repo
+- project charter,
+- scope and sync,
+- schedule baseline,
+- risk register,
+- security baseline,
+- artifact index,
+- release fixed-point,
+- handoff checklist,
+- issue closure.
+
+### 3.5 Baseline și change control
+Practica de baseline + fixed-point stabilizează evoluția și reduce regresiile conceptuale.
+
+---
+
+## 4) Software Requirements Engineering
+
+### 4.1 Ce sunt cerințele
+Cerințele descriu ce trebuie să facă sistemul și în ce limite de calitate/riscuri.
+
+### 4.2 Clasificare
+- **Funcționale**: atribuire semantică, construcție de regiune, traversare, metrici, decizie.
+- **Non-funcționale**: determinism, explainability, auditability, siguranță operațională.
+
+### 4.3 Elicitation (aplicat)
+În HESPERIA, elicitation este realizat prin:
+- specificații numerotate,
+- documente de task/direcție,
+- rapoarte de stare,
+- convergență în blueprint și politici.
+
+### 4.4 Calitatea cerințelor
+Cerințele trebuie să fie clare, coerente, verificabile, versionabile și trasabile.
+
+### 4.5 SRS practic HESPERIA
+SRS-ul nu este un singur fișier, ci un **set orchestrat** de documente canonice + extensii operaționale.
+
+---
+
+## 5) Software Design Basics
+
+### 5.1 Niveluri
+- **High-level**: model semantic-geometric + guvernanță.
+- **Low-level**: module Python + structuri + pipeline.
+
+### 5.2 Modularizare
+Separare pe domenii: specs / governance / project / scripts / engine.
+
+### 5.3 Coupling & cohesion
+- coeziune bună pe module tematice,
+- cuplare redusă prin specificații canonice și interfețe logice clare.
+
+### 5.4 Concurență
+Concurența nu este încă focală; prioritatea actuală este determinismul secvențial.
+
+### 5.5 Verificarea designului
+Se face prin aliniere la spec, checks de guard și artefacte de release.
+
+---
+
+## 6) Instrumente de analiză și design
+
+Aplicabile în contextul curent:
+- DFD pentru pipeline semantic,
+- decision tables pentru ΣΓΘ,
+- structured pseudo-code pentru formule și reguli,
+- data dictionary pentru entități (areas/families/sides/statements),
+- structuri de trasabilitate între requirement și artefact.
+
+---
+
+## 7) Strategii și abordări de design
+
+- **Structured design**: dominant în descompunerea pipeline-ului.
+- **Function-oriented**: dominant în scripts și calcule.
+- **Top-down**: de la master spec la implementare.
+- **Bottom-up**: validări din prototip spre consolidare de policy.
+
+HESPERIA folosește un **hibrid controlat** între aceste abordări.
+
+---
+
+## 8) User Interface (stadiul actual)
+
+- Interfața principală este CLI + document-driven operation.
+- UI rules relevante: consistență output, feedback explicit, minimizarea ambiguității.
+- GUI poate fi etapă ulterioară, după stabilizarea semantic-governance core.
+
+---
+
+## 9) Software Complexity
+
+### 9.1 Teorie minimă
+- complexitate structurală (cod),
+- complexitate semantică (model),
+- complexitate organizațională (guvernanță).
+
+### 9.2 În HESPERIA
+Complexitatea critică este semantică + guvernanță, nu doar algoritmică.
+
+Metrici clasice (cyclomatic/Halstead/FP) pot completa evaluarea când nucleul devine produs extins.
+
+---
+
+## 10) Implementare (fără cod nou)
+
+Implementarea existentă respectă principiul:
+**specificație formală → mapare modulară → rulare controlată → output auditabil**.
+
+Provocarea principală nu este „cum scriem cod”, ci „cum menținem sincronizarea între semantică, indexare, traversal și policy”.
+
+---
+
+## 11) Testing & Quality
+
+### 11.1 Cadru teoretic
+- Verification: „built right?”.
+- Validation: „right thing?”.
+- QA: sistemul de procese;
+- QC: controlul livrabilelor;
+- Testing: execuția verificărilor.
+
+### 11.2 În HESPERIA
+- self-test/stress-test pentru robustețe,
+- verificări pe integrarea semantică,
+- gates de guvernanță pentru decizie finală.
+
+Niveluri acoperite: unit/integration/system + acceptance prin governance.
+
+---
+
+## 12) Maintenance & Evolution
+
+### 12.1 Tipuri
+- corectivă,
+- adaptivă,
+- perfectivă,
+- preventivă.
+
+### 12.2 Practică recomandată pentru HESPERIA
+- schimbările mari să apară în fișiere versionate noi,
+- menținerea disciplinei fixed-point,
+- actualizare simultană spec + project docs + governance impact.
+
+---
+
+## 13) CASE Tools și ecosistemul de lucru
+
+În formă actuală, ecosistemul CASE este compus din:
+- git + discipline de release/baseline,
+- corpus documentar versionat,
+- scripturi de verificare,
+- artefacte de management proiect,
+- rapoarte de guvernanță.
+
+---
+
+## 14) Mapare directă la artefacte existente (exemple concrete)
+
+### 14.1 Nucleu semantic și geometric
+- `10_MASTER_SPEC__HESPERIA_v1_0.txt`
+- `11_BLUEPRINT__HESPERIA_v4_5_full.txt`
+- `12_SPEC__Semantic_Engine_v0_4.txt`
+- `13_SPEC__Indexing_and_Coordinates_v1_0.txt`
+- `20_GEOMETRY__formalized_structure_java.txt`
+- `21_MATH__HESPERIA_formalization_v1_java.txt`
+- `30_FAMILIES__HESPERIA_hex_canonical_v1_0.txt`
+- `31_FAMILIES__area_family_table_full.txt`
+
+### 14.2 Guard și policy
+- `40_POLICY__Loopability_and_traversal.txt`
+- `41_POLICY__Operational_additions_v0_1.txt`
+- `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`
+
+### 14.3 Implementare existentă
+- `sphere_rag/geometry.py`
+- `sphere_rag/semantic_engine.py`
+- `sphere_rag/phase_engine.py`
+- `sphere_rag/metrics.py`
+- `sphere_rag/guards.py`
+- `scripts/phase_traversal_selftest.py`
+- `scripts/hesperia_safeguard_stress_test.py`
+
+### 14.4 Management proiect și operaționalizare
+- `project/PROJECT-CHARTER.md`
+- `project/SCOPE-AND-SYNC.md`
+- `project/SCHEDULE-BASELINE.md`
+- `project/RISK-REGISTER.md`
+- `project/SECURITY-BASELINE.md`
+- `project/ARTIFACT-INDEX.md`
+- `project/RELEASE-V1-FIXED-POINT-2026-02-18.md`
+- `project/HANDOFF-CHECKLIST.md`
+
+### 14.5 Cadru academic și glosar de concepte
+- `ACADEMIC.md`
+
+---
+
+## 15) Concluzie
+
+HESPERIA are deja baza necesară pentru un parcurs complet de software engineering: specificații canonice, implementare minimă funcțională, guvernanță structurată și management de proiect formalizat.
+
+Acest plan transformă repository-ul într-un **studiu de caz aplicat** pentru disciplina de inginerie software, cu utilitate atât academică, cât și practică, la scară îngustă și largă.
