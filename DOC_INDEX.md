@@ -135,6 +135,9 @@ For quick onboarding, choose the path that matches your role.
 - `41_POLICY__Operational_additions_v0_1.txt`
   Operational metrics: evidence quality, provenance, multi-scale retrieval, etc.
 
+- `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`
+  Guard-layer technical spec for invariant enforcement (Σ static, Γ dynamic, Θ governance) and release gating.
+
 ## 6. Data / Experiments / Mappings
 
 - `50_DATA__120_books_authors_raw.txt`
