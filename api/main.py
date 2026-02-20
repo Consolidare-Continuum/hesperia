@@ -6,7 +6,7 @@ import logging
 from contextlib import asynccontextmanager
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, JSONResponse
@@ -43,7 +43,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["GET", "POST", "OPTIONS", "HEAD"],
     allow_headers=["*"],
     expose_headers=["*"],
@@ -130,7 +130,14 @@ def validation_exception_handler(request, exc: RequestValidationError):
     return _error_json(400, str(msg))
 
 
-@app.post("/hesperia/analyze")
+@app.exception_handler(Exception)
+def unhandled_exception_handler(request: Request, exc: Exception):
+    """Last-resort JSON errors so clients never receive HTML on failures."""
+    _log.error('"%s %s" 500 unhandled_error=%s', request.method, request.url.path, json.dumps(str(exc)))
+    return _error_json(500, "Internal server error")
+
+
+@app.post("/hesperia/analyze", response_model=HesperiaAnalyzeResponse)
 def hesperia_analyze(req: HesperiaAnalyzeRequest):
     """POST only. Content-Type: application/json. Body: {"text": "..."}. Returns 200 JSON or stable error JSON."""
     asked = _trunc(req.text)
@@ -138,21 +145,15 @@ def hesperia_analyze(req: HesperiaAnalyzeRequest):
         _log.warning('"POST /hesperia/analyze" 413 asked_len=%d', len(req.text))
         return _error_json(413, "Request text too large")
     try:
+        options = req.options
         out = build_analyze_response(
             req.text,
-            include_supporting_statements=False,
-            max_supporting_statements=0,
-            return_region_coordinates=False,
-            return_metrics=False,
+            include_supporting_statements=options.include_supporting_statements if options else True,
+            max_supporting_statements=options.max_supporting_statements if options else 10,
+            return_region_coordinates=options.return_region_coordinates if options else True,
+            return_metrics=options.return_metrics if options else True,
         )
-        result_dict = {
-            "dominant_area": out["dominant_area"],
-            "dominant_family": out["dominant_family"],
-            "governance": out["governance"],
-            "loopability": out["loopability"],
-            "tension_energy": out["tension_energy"],
-            "obstacle_score": out["obstacle_score"],
-        }
+        result_dict = HesperiaAnalyzeResponse.model_validate(out).model_dump()
         _log.info(
             '"POST /hesperia/analyze" 200 asked=%s returned=%s',
             json.dumps(asked),
