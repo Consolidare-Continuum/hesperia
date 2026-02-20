@@ -3,7 +3,11 @@ from __future__ import annotations
 import hashlib
 from dataclasses import dataclass
 
+from gamma_guard_v1 import GammaState, StopReason, gamma_finish, gamma_tick
+from theta_gate_v1 import theta_gate
+
 from .geometry import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES, SideCoord, area_left, area_right, side_id_from_coord
+from .guards import run_sigma_preflight
 from .metrics import RegionMetrics, bridge_retention_ratio, intersection_matrix, region_metrics
 from .semantic_engine import SeedResult
 
@@ -52,6 +56,7 @@ class PhaseIResult:
     metrics_history: list[dict]
     flood: FloodEvent
     pass_paths: list[dict]
+    gamma_status: dict
 
 
 @dataclass(frozen=True, slots=True)
@@ -82,6 +87,11 @@ class PhaseRunResult:
     cut: CutResult
     phase_ii: PhaseIIResult
     invariants: dict
+    sigma_status: dict
+    gamma_status: dict
+    theta_decision: dict
+    dynamic_failure_class: str
+    metrics: dict
 
 
 def _direction_for_pass(pass_idx_1based: int, novelty_cw: int, novelty_ccw: int) -> int:
@@ -117,6 +127,7 @@ def _add_side(region: dict[int, float], side_id: int, delta_tau: float) -> bool:
 
 
 def run_phase_i(seed: SeedResult, policy: PhasePolicy) -> PhaseIResult:
+    sigma_status = run_sigma_preflight(strict=True)
     region: dict[int, float] = {s.side_id: s.w for s in seed.seed_sides}
     metrics_history: list[dict] = []
     pass_paths: list[dict] = []
@@ -131,6 +142,8 @@ def run_phase_i(seed: SeedResult, policy: PhasePolicy) -> PhaseIResult:
     flood_at_step: int | None = None
     flood_metrics: RegionMetrics | None = None
     flood_loopability: float = 1.0
+    gamma_state = GammaState()
+    prev_area: int | None = None
 
     for p in range(1, max(1, policy.max_passes) + 1):
         direction = _direction_for_pass(p, novelty_cw, novelty_ccw)
@@ -197,6 +210,9 @@ def run_phase_i(seed: SeedResult, policy: PhasePolicy) -> PhaseIResult:
             # Metrics + flood check at each step.
             m2 = region_metrics(region)
             loopability = (new_hits_this_pass / (t + 1)) if (t + 1) else 0.0
+            delta_a = 0.0 if prev_area is None else (1.0 if current_area != prev_area else 0.0)
+            prev_area = current_area
+            obstacle = max(0.0, m2.frag_index + m2.tension_energy - m2.coherence)
             metrics_history.append(
                 {
                     "pass": p,
@@ -215,21 +231,24 @@ def run_phase_i(seed: SeedResult, policy: PhasePolicy) -> PhaseIResult:
             )
             prev_ent, prev_coh = m2.entropy_a, m2.coherence
 
-            if (
-                loopability < policy.theta_loopability
-                or m2.tension_energy > policy.theta_tension
-                or m2.coherence < policy.theta_coherence
-                or ent_incr_coh_decr
-            ):
+            gamma_reason = gamma_tick(
+                gamma_state,
+                new_hits=step_new,
+                delta_a=delta_a,
+                obstacle=obstacle,
+                loopability=loopability,
+                frag_index=m2.frag_index,
+                tension_energy=m2.tension_energy,
+                coherence=m2.coherence,
+                theta_loopability=policy.theta_loopability,
+                theta_tension=policy.theta_tension,
+                theta_coherence=policy.theta_coherence,
+                ent_incr_coh_decr=ent_incr_coh_decr,
+            )
+
+            if gamma_reason != StopReason.NONE:
                 if flood_reason is None:
-                    if loopability < policy.theta_loopability:
-                        flood_reason = "loopability_below_threshold"
-                    elif m2.tension_energy > policy.theta_tension:
-                        flood_reason = "tension_energy_above_threshold"
-                    elif m2.coherence < policy.theta_coherence:
-                        flood_reason = "coherence_below_threshold"
-                    else:
-                        flood_reason = "entropy_increasing_while_coherence_decreasing"
+                    flood_reason = gamma_state.stop_detail or gamma_reason.value
                     flood_at_pass = p
                     flood_at_step = t
                     flood_metrics = m2
@@ -259,7 +278,15 @@ def run_phase_i(seed: SeedResult, policy: PhasePolicy) -> PhaseIResult:
         metrics=flood_metrics,
         loopability=flood_loopability,
     )
-    return PhaseIResult(region_weights=region, metrics_history=metrics_history, flood=flood, pass_paths=pass_paths)
+    gamma_status = gamma_finish(gamma_state, gamma_state.stop_reason)
+    gamma_status["sigma_preflight_ok"] = sigma_status["ok"]
+    return PhaseIResult(
+        region_weights=region,
+        metrics_history=metrics_history,
+        flood=flood,
+        pass_paths=pass_paths,
+        gamma_status=gamma_status,
+    )
 
 
 def waterline_cut(
@@ -376,6 +403,7 @@ def run_phase_ii_with_reverts(phase_i: PhaseIResult, policy: PhasePolicy) -> tup
 
 def run_phases(seed: SeedResult, policy: PhasePolicy | None = None) -> PhaseRunResult:
     policy = policy or PhasePolicy()
+    sigma_status = run_sigma_preflight(strict=True)
     p1 = run_phase_i(seed, policy)
     cut, p2 = run_phase_ii_with_reverts(p1, policy)
 
@@ -397,5 +425,35 @@ def run_phases(seed: SeedResult, policy: PhasePolicy | None = None) -> PhaseRunR
         "family_count_non_increasing": len(after_fams) <= len(before_fams),
         "phase2_loopability_core": 0.0,
     }
-    return PhaseRunResult(seed=seed, phase_i=p1, cut=cut, phase_ii=p2, invariants=invariants)
-
+    gamma_status = p1.gamma_status
+    stop_reason = gamma_status.get("stop_reason", StopReason.NONE.value)
+    dynamic_failure_class = stop_reason
+    metrics = {
+        "phase_i_tail": p1.metrics_history[-20:],
+        "phase_ii": {
+            "coherence": p2.metrics_core.coherence,
+            "tension_energy": p2.metrics_core.tension_energy,
+            "entropy_a": p2.metrics_core.entropy_a,
+        },
+    }
+    theta_decision = theta_gate(
+        {
+            "gamma_status": gamma_status,
+            "invariants": invariants,
+            "metrics": metrics,
+        },
+        evidence_quality=None,
+        contradiction_score=None,
+    )
+    return PhaseRunResult(
+        seed=seed,
+        phase_i=p1,
+        cut=cut,
+        phase_ii=p2,
+        invariants=invariants,
+        sigma_status=sigma_status,
+        gamma_status=gamma_status,
+        theta_decision=theta_decision,
+        dynamic_failure_class=dynamic_failure_class,
+        metrics=metrics,
+    )

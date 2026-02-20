@@ -15,12 +15,14 @@ import subprocess
 import sys
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_DIR = Path(__file__).resolve().parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
+
+from sphere_rag.guards import run_sigma_preflight
 
 # Canonical areas for coherence_hints (must match matrix_run)
 CANONICAL_AREAS = [
@@ -272,6 +274,7 @@ def _query_books_chunks(
 
 
 def main() -> int:
+    sigma_status = run_sigma_preflight(strict=True)
     ap = argparse.ArgumentParser(
         description="Context RAG: return context packet (calculable + optional retrieval + coherence hints)"
     )
@@ -359,6 +362,7 @@ def main() -> int:
     # 4. Assemble packet
     packet = {
         "matrix_source": matrix_source,
+        "sigma_status": sigma_status,
         "calculable": calculable,
         "coherence_hints": coherence_hints,
         "observability": observability,

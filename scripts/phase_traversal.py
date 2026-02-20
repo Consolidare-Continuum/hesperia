@@ -11,11 +11,13 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
+from sphere_rag.guards import run_sigma_preflight  # noqa: E402
 from sphere_rag.phase_engine import PhasePolicy, run_phases  # noqa: E402
 from sphere_rag.semantic_engine import keywords_to_seed  # noqa: E402
 
 
 def main() -> int:
+    sigma_status = run_sigma_preflight(strict=True)
     ap = argparse.ArgumentParser(description="Deterministic Phase I/II traversal with waterline cut (keywords → seed → paths)")
     ap.add_argument("--keywords", type=str, default="", help="Comma-separated keywords (preferred) or empty to read --keyword")
     ap.add_argument("--keyword", action="append", default=[], help="Repeatable keyword flag")
@@ -62,6 +64,7 @@ def main() -> int:
         return dataclasses.asdict(x) if dataclasses.is_dataclass(x) else x
 
     out = {
+        "sigma_status": sigma_status,
         "input_keywords": kws,
         "semantic_seed": {
             "start_area_id": result.seed.start_area_id,
@@ -109,6 +112,10 @@ def main() -> int:
             "bridge_retention_ratio": result.phase_ii.bridge_retention_ratio,
         },
         "invariants": result.invariants,
+        "gamma_status": result.gamma_status,
+        "theta_decision": result.theta_decision,
+        "dynamic_failure_class": result.dynamic_failure_class,
+        "metrics": result.metrics,
     }
 
     print(json.dumps(out, indent=2))
