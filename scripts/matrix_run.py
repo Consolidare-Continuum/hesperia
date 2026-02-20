@@ -16,12 +16,14 @@ import os
 import sys
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+REPO_ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_DIR = Path(__file__).resolve().parent
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
+
+from sphere_rag.guards import run_sigma_preflight
 
 # Geometry constants per schema §6.1 (20_GEOMETRY, 13_SPEC)
 AREA_COUNT = 12
@@ -136,6 +138,7 @@ def run_traversal(
 
 
 def main() -> int:
+    sigma_status = run_sigma_preflight(strict=True)
     ap = argparse.ArgumentParser(description="Matrix run: return calculable-for-model results")
     ap.add_argument("--start", type=int, default=0, help="Start area_id 0..11 (default 0)")
     ap.add_argument("--direction", type=int, default=1, choices=[1, -1], help="1=CW, -1=CCW (default 1)")
@@ -216,6 +219,7 @@ def main() -> int:
 
     out = {
         "matrix_source": matrix_source,
+        "sigma_status": sigma_status,
         "geometry": geometry,
         "hex_unit": hex_unit,
         "truth_unit": truth_unit,
