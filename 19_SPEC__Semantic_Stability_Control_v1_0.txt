@@ -1,0 +1,155 @@
+============================================================
+19_SPEC__Semantic_Stability_Control_v1_0.txt HESPERIA — Semantic
+Stability Control Layer Status: Additive (Non-breaking) Version: v1.0
+Depends on: 11_BLUEPRINT__HESPERIA_v4_7_full.txt
+21_MATH__HESPERIA_formalization_v1_java.txt
+41_POLICY__Operational_additions_v0_1.txt
+============================================================
+
+0. PURPOSE
+
+This specification formalizes HESPERIA as a deterministic semantic
+feedback control system.
+
+Goals: - Quantify semantic stability - Detect degradation trends -
+Forecast context integrity decay - Provide structured stabilization
+advice - Support governance profiles without modifying geometry
+
+This layer is strictly additive. No geometry, indexing, or ontology
+changes are permitted.
+
+1. SYSTEM INTERPRETATION AS CONTROL MODEL
+
+HESPERIA is modeled as:
+
+Input Text ↓ Attribution ↓ Region Construction ↓ Metric Computation ↓
+State Vector S ↓ Control Evaluation ↓ Governance Output + Stabilization
+Advice
+
+State S is fully deterministic. No probabilistic or neural estimation is
+introduced.
+
+2. STATE VECTOR DEFINITION
+
+2.1 Structural Components - A_vec[12] - F_vec[288] - T_R - C_R -
+fragIndex - areaEntropy
+
+2.2 Traversal Components - loopability - coveragePhi - obstacleScore -
+tensionEnergy
+
+2.3 Evidence Components - evidenceQuality - temporalStability -
+causalCoherence - strategicScore
+
+All values must be clamped to valid ranges.
+
+3. STABILITY COMPONENTS
+
+3.1 regionReliability
+
+regionReliability(R) = C_R * alignment_A * (1.0 - fragIndex)
+
+Clamp to [0,1].
+
+3.2 polarityBalance
+
+Let bipolar axes: B[k] = A_vec[2k] - A_vec[2k+1]
+
+polarityBalance = 1.0 - (Σ B[k]^2 / B_MAX)
+
+Clamp to [0,1].
+
+3.3 stabilityVector
+
+STABILITY_VECTOR = { coherence alignment loopability evidence_quality
+polarity_balance }
+
+4. CONTEXT INTEGRITY
+
+contextIntegrity(R) =
+
+    regionReliability(R)
+    * loopability
+    * (1.0 - obstacleScore)
+    * (1.0 - normalizedTension)
+    * evidenceQuality
+
+normalizedTension = clamp(tensionEnergy / TENSION_MAX)
+
+Clamp final result to [0,1].
+
+5. DECAY MODEL (FORECAST)
+
+decayRate =
+
+    α * obstacleScore
+
+-   β * normalizedTension
+-   γ * fragIndex
+-   δ * loopability
+
+Clamp decayRate to [0,1].
+
+forecastIntegrity(I_now, k) = I_now * (1.0 - decayRate)^k
+
+Default k = 3.
+
+6. DELTA ANALYSIS (CAUSE DIAGNOSTICS)
+
+6.1 Family Emphasis Delta deltaF[f] = F_next[f] - F_current[f]
+
+6.2 Area Mass Shift deltaA[a] = A_next[a] - A_current[a]
+
+6.3 Axis Tension Delta deltaB[k] = B_next[k] - B_current[k]
+
+6.4 Fragmentation Trend deltaFrag = fragIndex_next - fragIndex_current
+
+6.5 Loopability Trend deltaLoop = loopability_next - loopability_current
+
+7. STABILIZATION ADVICE GENERATION
+
+If obstacle rising: Increase ORDER / TRUTH families
+
+If tension rising: Inject balancing family on opposing axis
+
+If fragmentation rising: Increase alignment-heavy families
+
+If loopability falling: Reduce extreme concentration
+
+Advice must be structural, not normative.
+
+8. GOVERNANCE PROFILE INTEGRATION
+
+class GovernanceProfile { double theta_forbid_obstacle; double
+theta_require_correction; double theta_min_integrity; double
+theta_max_tension; double theta_min_loopability; double
+theta_min_evidence; double theta_max_decayRate; }
+
+Decision rule:
+
+if obstacleScore >= θ_forbid_obstacle: FORBID else if contextIntegrity <
+θ_min_integrity: REQUIRE_CORRECTION else if decayRate > θ_max_decayRate:
+REQUIRE_CORRECTION else: ALLOW
+
+9. OUTPUT EXTENSION (HESPERIAResult)
+
+Add fields: - context_integrity_now - context_integrity_forecast_3 -
+stability_vector - delta_analysis - stabilization_advice
+
+10. INVARIANTS
+
+-   Σ A_vec = 1
+-   Σ F_vec = 1
+-   0 ≤ contextIntegrity ≤ 1
+-   0 ≤ decayRate ≤ 1
+-   0 ≤ forecastIntegrity ≤ 1
+
+Violation triggers runtime guard.
+
+11. NON-GOALS
+
+-   No geometry modification
+-   No indexing modification
+-   No ontology changes
+-   No neural correction layers
+
+END OF SPEC
