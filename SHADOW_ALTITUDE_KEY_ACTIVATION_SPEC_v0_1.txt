@@ -1,0 +1,142 @@
+============================================================ HESPERIA —
+SHADOW ALTITUDE KEY ACTIVATION SPEC v0.1
+============================================================
+
+STATUS
+
+Layer: ShadowTraversalEngine extension Scope: One-step shadow deviation
+via synonym altitude switching Constraints: No LLM weights. Only math
+weights derived from synonym altitude. Compatibility: Indexing v1.0,
+Geometry v0.3+, Operational additions.
+
+  ------------
+  1. PURPOSE
+  ------------
+
+This spec formalizes how Shadow may select a different synonym
+(candidate family activation) during one-step traversal and how that
+deviation becomes measurable and explainable.
+
+Shadow does NOT change semantics. Shadow selects a different synonym
+path with a different altitude, which changes anchor strength and
+therefore patch activation.
+
+This reveals which word was structurally decisive.
+
+  --------------
+  2. CORE IDEA
+  --------------
+
+For a given key word w in the current step context:
+
+Baseline selects: family_base = argmin alt(w, f)
+
+Shadow may select: family_shadow = argmin alt(w, f) over f !=
+family_base
+
+Condition: alt_shadow > alt_base
+
+Meaning: Shadow intentionally selects a weaker (higher altitude) synonym
+to test structural sensitivity.
+
+  -------------------
+  3. ALTITUDE MODEL
+  -------------------
+
+alt(w, f) >= 0 0 = direct dictionary anchor >0 = graded synonym distance
+
+Altitude weight:
+
+    wAlt(alt) = 1 / (1 + alt)
+
+Anchor quality per family:
+
+    anchorQ(f) = average over tokens t of wAlt(alt(t, f))
+
+Shadow anchor is always <= baseline anchor.
+
+  ---------------------
+  4. PATCH ACTIVATION
+  ---------------------
+
+Let next side s belong to family f.
+
+Define shadow truth projection:
+
+    tau_shadow[s] = tau[s] * anchorQ(f)
+
+No amplification allowed. Shadow only attenuates via weaker anchoring.
+
+  -----------------------
+  5. KEY WORD DETECTION
+  -----------------------
+
+During one-step evaluation of 6 neighbors:
+
+For each candidate next_i:
+
+    compute anchorQ_i
+    compute SensitivityGain_i
+
+ShadowScore_i = anchorQ_i * SensitivityGain_i
+
+If shadow selects next_k != baselineNext, identify decisive token w* as:
+
+    w* = argmax over tokens of
+         | wAlt(alt(w, f_shadow)) - wAlt(alt(w, f_base)) |
+
+This word produced maximal anchor shift.
+
+This word is logged as:
+
+    shadowKeyWord
+
+  -------------------
+  6. DEVIATION RULE
+  -------------------
+
+Shadow deviates only if:
+
+    ShadowScore_shadow >=
+    BaseScore_baseline * (1 + DELTA_MIN)
+
+Where DELTA_MIN is policy constant.
+
+  ------------------
+  7. LOG EXTENSION
+  ------------------
+
+Add fields to traversal log:
+
+    "family_base": int
+    "family_shadow": int
+    "alt_base": double
+    "alt_shadow": double
+    "shadowKeyWord": string
+    "anchorQ_base": double
+    "anchorQ_shadow": double
+
+This makes deviation mathematically auditable.
+
+  ---------------
+  8. INVARIANTS
+  ---------------
+
+Shadow MUST NOT: - change dictionary mapping - increase tau - bypass
+hard obstacle threshold
+
+Shadow MAY: - select weaker synonym (higher altitude) - expose
+structural gradient
+
+  -------------------
+  9. INTERPRETATION
+  -------------------
+
+Shadow deviation is not semantic mutation.
+
+It is structural stress testing by controlled synonym weakening.
+
+If deviation exposes large structural delta, the logged shadowKeyWord is
+the real driver of meaning.
+
+This provides explainable causal anchor tracing.
