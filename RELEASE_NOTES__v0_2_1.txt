@@ -1,0 +1,28 @@
+HESPERIA Release Notes — v0.2.1
+
+Status: ACTIVE
+Compatibility: Backward compatible
+
+Semantic Stability Control (v0.2.1)
+- HESPERIA now computes context integrity.
+- Provides deterministic 3-turn degradation forecast.
+- Exposes structural cost of semantic drift.
+- No geometry changes.
+- Fully backward compatible.
+
+Changes in this release
+- Added Semantic Stability Control Layer specification:
+  - 19_SPEC__Semantic_Stability_Control_v1_0.txt
+- Added context-integrity and decay formalization:
+  - 21_MATH__HESPERIA_formalization_v1_1_java.txt
+- Extended integrated blueprint governance layer:
+  - 11_BLUEPRINT__HESPERIA_v4_8_full.txt
+- Extended operational policy with GovernanceProfile stability parameters:
+  - 41_POLICY__Operational_additions_v0_2.txt
+- Updated glossary for new stability terms:
+  - ACADEMIC.md
+
+Non-changes (explicit)
+- No modifications to canonical indexing or geometry specifications.
+- No changes to ontology/family definitions.
+- No breaking API contract changes.
