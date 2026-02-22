@@ -5,6 +5,8 @@ university‑style (academic) definitions and then explaining how each term
 is used inside this project. This file is for everyone: researchers,
 engineers, and AI assistants.
 
+Version note: updated for Semantic Stability Control integration (v0.2.1).
+
 - Each entry has:
   - **Academic definition** — neutral, textbook‑style meaning.
 - **Project usage** — how the term is instantiated in HESPERIA.
@@ -426,3 +428,43 @@ specs. Remaining useful additions would be:
 If you list new terms, domains, or variables you introduce,
 they should be added here with the same pattern:
 academic definition + project usage + “Used in” references.
+
+### Context Integrity (#contextIntegrity)
+- **Academic definition**  
+  Context integrity is the degree to which a semantic state remains coherent, complete, and resistant to drift under current constraints.
+- **Project usage**  
+  #contextIntegrity is a bounded [0,1] control metric combining region reliability, loopability, obstacle pressure, normalized tension, and evidence quality. It is used as a governance signal for correction thresholds.
+- **Used in**  
+  `19_SPEC__Semantic_Stability_Control_v1_0.txt`,  
+  `21_MATH__HESPERIA_formalization_v1_1_java.txt`,  
+  `41_POLICY__Operational_additions_v0_2.txt`.
+
+### Stability Vector (#stabilityVector)
+- **Academic definition**  
+  A stability vector is a compact state representation grouping control-relevant indicators for monitoring and decisioning.
+- **Project usage**  
+  #stabilityVector aggregates regionReliability, contextIntegrity, decayRate, and short-horizon forecast integrity values. It is logged for governance replay and release-quality diagnostics.
+- **Used in**  
+  `19_SPEC__Semantic_Stability_Control_v1_0.txt`,  
+  `41_POLICY__Operational_additions_v0_2.txt`.
+
+### Decay Rate (#decayRate)
+- **Academic definition**  
+  Decay rate is the per-step loss factor in a dynamic system that quantifies expected degradation over time.
+- **Project usage**  
+  #decayRate models expected semantic degradation per turn from obstacle pressure, tension, fragmentation, and loopability compensation. It powers deterministic k-step integrity forecasts.
+- **Used in**  
+  `19_SPEC__Semantic_Stability_Control_v1_0.txt`,  
+  `21_MATH__HESPERIA_formalization_v1_1_java.txt`,  
+  `41_POLICY__Operational_additions_v0_2.txt`.
+
+### Semantic Control Layer
+- **Academic definition**  
+  A semantic control layer is a supervisory component that monitors semantic state variables and adjusts decision policy without altering foundational representation geometry.
+- **Project usage**  
+  The Semantic Stability Control Layer is a non-blocking advisory module that computes reliability, integrity, and decay forecasts, then maps them into governance outcomes (`ALLOW`, `REQUIRE_CORRECTION`, `FORBID`).
+- **Used in**  
+  `11_BLUEPRINT__HESPERIA_v4_8_full.txt`,  
+  `19_SPEC__Semantic_Stability_Control_v1_0.txt`,  
+  `41_POLICY__Operational_additions_v0_2.txt`.
+

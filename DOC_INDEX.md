@@ -73,8 +73,11 @@ For quick onboarding, choose the path that matches your role.
 - `10_MASTER_SPEC__HESPERIA_v1_0.docx`
   Same content in Word format (for editing/printing).
 
+- `11_BLUEPRINT__HESPERIA_v4_8_full.txt`
+  Blueprint v4.8 — integrated system blueprint with Semantic Stability Control extension.
+
 - `11_BLUEPRINT__HESPERIA_v4_7_full.txt`
-  Blueprint v4.7 — best-practices, human-oriented description of the whole system.
+  Blueprint v4.7 — prior best-practices baseline, kept for historical continuity.
 
 - `11_BLUEPRINT__HESPERIA_v4_5_full.txt`
   Earlier integrated prototype v0.4 + engineering pipeline (kept for history).
@@ -87,6 +90,9 @@ For quick onboarding, choose the path that matches your role.
 
 - `15_SPEC__Data_and_Schema_v0_1.txt`
   Relational schema and vector DB layout; DB‑centric ingestion/query view.
+
+- `19_SPEC__Semantic_Stability_Control_v1_0.txt`
+  Semantic stability control layer spec: reliability, integrity, decay, and forecast logic.
 
 - `14_SPEC__Services_and_APIs_v0_1.txt`
   Service/API surfaces for implementations (main contract
@@ -104,8 +110,11 @@ For quick onboarding, choose the path that matches your role.
 - `20_GEOMETRY__formalized_structure_java.txt`
   Formalized geometric structure and lattice (Java-style math).
 
+- `21_MATH__HESPERIA_formalization_v1_1_java.txt`
+  Full mathematical formalization (v1.1) with semantic stability control equations.
+
 - `21_MATH__HESPERIA_formalization_v1_java.txt`
-  Full mathematical formalization of the HESPERIA dynamics (Java-style).
+  Earlier mathematical formalization baseline (v1), kept unchanged for history.
 
 - `22_PROTOTYPE__HESPERIA_v0_2_spec.txt`
   Prototype spec v0.2 (text + math). Superseded by 10 + 11 but kept for history.
@@ -132,11 +141,19 @@ For quick onboarding, choose the path that matches your role.
 - `40_POLICY__Loopability_and_traversal.txt`
   Loopability reasoning, ring traversal, multi-pass logic.
 
+- `41_POLICY__Operational_additions_v0_2.txt`
+  Operational policy extensions including GovernanceProfile stability parameters and stability vector.
+
 - `41_POLICY__Operational_additions_v0_1.txt`
-  Operational metrics: evidence quality, provenance, multi-scale retrieval, etc.
+  Earlier operational metrics baseline (v0.1), kept for history.
 
 - `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`
   Guard-layer technical spec for invariant enforcement (Σ static, Γ dynamic, Θ governance) and release gating.
+
+## 5a. Releases
+
+- `RELEASE_NOTES__v0_2_1.txt`
+  Release notes for v0.2.1 (semantic stability control integration, backward-compatible).
 
 ## 6. Data / Experiments / Mappings
 
