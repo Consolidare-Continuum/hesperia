@@ -12,7 +12,7 @@
 
 ## Infra Duration Estimate (Sophia fills before execution)
 
-- **Environment prep**: N/A for current scope. Hesperia project = governance + CLIENTS/hesperia + workspace `/data/workspaces/hesperia/`; no dedicated service or new environment. Workspace already on prichindel; no infra change required unless a future task introduces deploy (e.g. service, Chroma).
+- **Environment prep**: N/A for current scope. Hesperia project = governance + CLIENTS/hesperia + workspace `/data/workspaces/atomic-commit-hesperia/`; no dedicated service or new environment. Workspace already on prichindel; no infra change required unless a future task introduces deploy (e.g. service, Chroma).
 - **Deployment window**: N/A unless a release/deploy task is added; then Sophia estimates.
 - **Rollback window**: N/A for current scope.
 

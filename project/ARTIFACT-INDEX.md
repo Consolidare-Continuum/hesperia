@@ -16,4 +16,4 @@
 | SCOPE-AND-SYNC.md | Grace | Sync and scope rules: docs/scripting only; exclude syzif book .md; no semantic layer yet. |
 | (Others as needed) | — | BACKEND-TEST-REPORT, RELEASE-NOTICE, etc. |
 
-Design and code artifacts live in **CLIENTS/hesperia/** and **/data/workspaces/hesperia/**; this folder holds governance only.
+Design and code artifacts live in **CLIENTS/hesperia/** and **/data/workspaces/atomic-commit-hesperia/**; this folder holds governance only.

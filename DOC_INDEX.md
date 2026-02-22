@@ -9,7 +9,7 @@ For quick onboarding, choose the path that matches your role.
 
 - **Backend / Systems Engineer (Java, Python)**
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`
-  2. `11_BLUEPRINT__HESPERIA_v4_8_full.txt`
+  2. `11_BLUEPRINT__HESPERIA_v4_5_full.txt`
   3. `12_SPEC__Semantic_Engine_v0_4.txt`
   4. `13_SPEC__Indexing_and_Coordinates_v1_0.txt`
   5. `15_SPEC__Data_and_Schema_v0_1.txt`
@@ -18,10 +18,10 @@ For quick onboarding, choose the path that matches your role.
 
 - **Math / Research / Formal Methods**
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`
-  2. `21_MATH__HESPERIA_formalization_v1_1_java.txt`
+  2. `21_MATH__HESPERIA_formalization_v1_java.txt`
   3. `20_GEOMETRY__formalized_structure_java.txt`
   4. `40_POLICY__Loopability_and_traversal.txt`
-  5. `41_POLICY__Operational_additions_v0_2.txt`
+  5. `41_POLICY__Operational_additions_v0_1.txt`
 
 - **Ontology / Knowledge Engineering**
   1. `10_MASTER_SPEC__HESPERIA_v1_0.txt`
@@ -150,6 +150,9 @@ For quick onboarding, choose the path that matches your role.
 - `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`
   Guard-layer technical spec for invariant enforcement (Σ static, Γ dynamic, Θ governance) and release gating.
 
+- `24_SPEC__Shadow_Layer_v1_0.txt`
+  Shadow Layer v1.0 (Core + ΓΘ Addon): degraded-mode traversal plane, topology-preserving, risk R, mass decay, constrained hops, abuse detection, failure codes. v0.4 remains read-only diagnostic.
+
 ## 5a. Releases
 
 - `RELEASE_NOTES__v0_2_1.txt`
@@ -169,6 +172,7 @@ For quick onboarding, choose the path that matches your role.
   Python prototype package:
   - geometry, indexing, and coordinates (aligned with `13_SPEC__Indexing_and_Coordinates_v1_0.txt`)
   - attribution, traversal, and governance pipeline for RAG.
+  - `shadow_layer.py`: Shadow Layer v1.0 (Γ enter/exit, Θ gate, failure codes; spec `24_SPEC__Shadow_Layer_v1_0.txt`).
 
 ## 8. Legacy / Drafts
 

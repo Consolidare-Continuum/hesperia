@@ -1,0 +1,246 @@
+============================================================
+HESPERIA — SHADOW LAYER v1.0 (Core + ΓΘ Addon)
+============================================================
+
+Status: Active (degraded-mode traversal plane)
+Version: v1.0
+Scope: Topology-preserving, reversible, mass-reducing, invariant-bound, metric-logged.
+Supersedes: 24_SPEC__Shadow_Layer_v0_4.txt (v0.4 remains read-only diagnostic; v1.0 adds operational shadow traversal).
+Aligns with: 42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt (Γ = enter/exit; Θ = gate, penalties, failure codes).
+
+============================================================
+0. SCOPE
+============================================================
+
+Shadow Layer is a degraded-mode traversal plane that activates only under defined failure risk, to stabilize routing without changing ontology topology.
+
+It must be:
+- topology-preserving
+- reversible
+- mass-reducing
+- invariant-bound
+- metric-logged
+
+============================================================
+1. ENTITIES AND NOTATION
+============================================================
+
+Areas: A
+Families: F
+Hexes: H
+Sides: S (atomic statements)
+Base state: x
+Shadow state: x̂ (x-hat)
+
+Scores (existing):
+- governance ∈ [0,1] (higher = better)
+- loopability ∈ [0,1]
+- tension_energy ≥ 0
+- obstacle_score ≥ 0
+
+New shadow metrics:
+- shadow_active ∈ {0,1}
+- shadow_mass ∈ (0,1]
+- shadow_time_ratio ∈ [0,1]
+- shadow_hop_count ∈ ℕ
+- shadow_exit_success ∈ {0,1}
+- shadow_abuse_flag ∈ {0,1}
+
+============================================================
+2. CORE PRINCIPLE (LAYER DEFINITION)
+============================================================
+
+Shadow layer defines a mirror mapping of the base topology:
+
+  φ: F → F   (family mirror map)
+  ψ: H → H   (hex mirror map, optional; can be identity if not implemented)
+  χ: S → S   (side mirror map, optional)
+
+Minimum viable: φ only.
+
+Constraints:
+- φ is total (defined for every family).
+- φ is idempotent or involutive (choose one):
+  - Involutive (recommended): φ(φ(F)) = F
+  - Idempotent: φ(φ(F)) = φ(F)
+- No topology expansion: |A|, |F|, |H|, |S| unchanged.
+
+Interpretation rule:
+  Shadow does not invent new facts; it re-reads the same structural neighborhood under reduced authority.
+
+============================================================
+3. ACTIVATION (ENTERING SHADOW)
+============================================================
+
+Shadow activates when a failure risk exceeds threshold.
+
+Normalized risk components:
+  r_g = 1 - governance
+  r_t = clamp01(tension_energy / T_ref)
+  r_o = clamp01(obstacle_score / O_ref)
+  r_l = 1 - loopability
+
+Combined risk:
+  R = w_g*r_g + w_t*r_t + w_o*r_o + w_l*r_l
+
+Defaults:
+  w_g = 0.40, w_t = 0.25, w_o = 0.25, w_l = 0.10
+  T_ref, O_ref are calibration constants from observed distributions.
+
+Activation rule:
+- Enter shadow if R ≥ θ_enter
+- Hard-stop if R ≥ θ_hard and shadow already failed in this run.
+
+Defaults:
+  θ_enter = 0.62
+  θ_hard  = 0.88
+
+============================================================
+4. SHADOW MASS (AUTHORITY REDUCTION)
+============================================================
+
+Mass initialization:
+  shadow_mass_0 = 1 - sinkage
+
+Sinkage default: sinkage = 0.45  (≈ "40–50% instantly")
+  → shadow_mass_0 = 0.55
+
+Mass decay with shadow usage:
+  shadow_mass(k) = shadow_mass_0 * exp(-λ*k)
+  where k = shadow_hop_count, λ default 0.18
+
+Hard lower bound: shadow_mass ≥ m_min, default m_min = 0.20 (m_min > 0 so shadow_mass ∈ (0,1] per §1).
+
+Meaning: shadow never becomes "full authority".
+
+============================================================
+5. SHADOW TRAVERSAL RULE (CONSTRAINED HOPS)
+============================================================
+
+Allowed moves from current family F:
+- Base-neighbor moves (base layer): N_base(F)
+- Shadow mirror: φ(F)
+- Shadow bridge: N_shadow(F) = N_base(F) ∩ N_base(φ(F))
+
+Candidate set in shadow:
+  C = N_shadow(F) ∪ {φ(F)}
+
+Disallow:
+- any move that violates existing structural invariants
+- any move that increases contradiction class severity (if contradiction classing exists)
+
+============================================================
+6. SCORING IN SHADOW (PENALTY-CORRECTED)
+============================================================
+
+Shadow-adjusted scores (degraded-mode discount; must not inflate governance):
+
+  governancê  = governance * shadow_mass
+  loopabilitŷ = loopability * sqrt(shadow_mass)
+  tension̂     = tension_energy * (1 + α*(1 - shadow_mass))
+  obstaclê     = obstacle_score * (1 + β*(1 - shadow_mass))
+
+Defaults: α = 0.35, β = 0.20
+
+============================================================
+7. EXIT CONDITIONS (RETURNING TO BASE)
+============================================================
+
+Improvement test: ΔR = R_prev - R_now
+
+Exit if:
+  R_now ≤ θ_exit  and  ΔR ≥ δ_min
+
+Defaults: θ_exit = 0.52, δ_min = 0.06
+
+Also exit if: shadow_hop_count ≥ K_max (cap). Default K_max = 7.
+
+On cap or R ≥ θ_hard: exit shadow (return to base) and set failure code; do not remain in shadow.
+
+Exit outcomes:
+- success: return to base traversal at selected family/hex (same topology)
+- fail: hard-stop or degraded answer with explicit failure code
+
+============================================================
+8. ABUSE DETECTION (PREVENTS SHADOW AS CHEAT)
+============================================================
+
+Flag abuse if any:
+- shadow_time_ratio > 0.35 in a run
+- shadow_hop_count > K_max
+- repeated shadow entry loops: enter_count ≥ 3
+- governance rises in shadow beyond base: governancê > governance + ε (should not happen)
+- too many cross-family hops without evidence anchor (if evidence tracked)
+
+Default: ε = 0.02
+
+On abuse:
+- Apply governance penalty: governance_final *= (1 - p_abuse), p_abuse = 0.15
+- Force hard-stop if abuse persists across runs for same query signature.
+
+============================================================
+9. FAILURE CLASSES (RETURN CODES)
+============================================================
+
+Shadow never hides failure. Return one of:
+
+- SHADOW_OK_EXIT
+- SHADOW_FAIL_NO_STABLE_PATH
+- SHADOW_FAIL_INVARIANT_VIOLATION
+- SHADOW_FAIL_HARD_RISK
+- SHADOW_ABORT_ABUSE
+
+============================================================
+ΓΘ ADDON: "SHADOW STABILIZER" v1.0
+============================================================
+
+A) Placement
+  Γ (Gamma): computes R and decides enter/exit.
+  Θ (Theta): final gate that rejects shadow-inflated outputs and enforces penalties + failure classes.
+
+B) Inputs/Outputs
+
+  Inputs:
+  - base traversal candidate set + scores
+  - current family/hex
+  - invariant check results
+  - metrics: governance, loopability, tension_energy, obstacle_score
+
+  Outputs:
+  - updated candidate set (shadow-constrained if active)
+  - adjusted scores (governancê, loopabilitŷ, tension̂, obstaclê)
+  - shadow metrics + failure code
+
+C) Deterministic procedure (pseudo-algorithm)
+
+  1. Compute R.
+  2. If R ≥ θ_enter and shadow_active == 0:
+       shadow_active = 1, shadow_mass = 1 - sinkage, shadow_hop_count = 0
+  3. If shadow_active == 1:
+       Build C = N_shadow(F) ∪ {φ(F)}
+       Filter C through structural invariants (must-pass; may be done by caller if per-candidate checks exist)
+       Select next move using existing selection rule with shadow-adjusted metrics
+       Increment shadow_hop_count
+       Update shadow_mass(k)
+       Recompute R_now and ΔR
+       If exit condition met → shadow_active = 0, shadow_exit_success = 1
+       If shadow_hop_count ≥ K_max or R ≥ θ_hard → fail code
+  4. Θ applies: abuse detection, final penalties, hard-stop vs degraded-state decision.
+
+============================================================
+MINIMAL IMPLEMENTATION REQUIREMENTS (MVP)
+============================================================
+
+Ship v1.0 with:
+- φ(F) mapping table (even if simplistic at first)
+- R risk function
+- shadow mass + decay
+- constrained candidate set C
+- exit + cap + metrics logging
+- Theta penalties and failure codes
+
+Do not ship shadow without metrics + caps.
+
+============================================================
+END OF SPEC
+============================================================

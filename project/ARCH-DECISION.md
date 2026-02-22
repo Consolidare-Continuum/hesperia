@@ -4,11 +4,11 @@
 
 ---
 
-**Decision**: Hesperia project boundary = governance (projects/hesperia/) + design anchor (CLIENTS/hesperia/) + canonical codebase (/data/workspaces/hesperia/). No new service boundary, DB, or API model in this project — specs and code live in brain and workspace; project folder holds charter, context, and task linkage only. Task division (Grace) may proceed for work on specs, doc sync, or code in CLIENTS/hesperia and workspace.
+**Decision**: Hesperia project boundary = governance (projects/hesperia/) + design anchor (CLIENTS/hesperia/) + canonical codebase (/data/workspaces/atomic-commit-hesperia/). No new service boundary, DB, or API model in this project — specs and code live in brain and workspace; project folder holds charter, context, and task linkage only. Task division (Grace) may proceed for work on specs, doc sync, or code in CLIENTS/hesperia and workspace.
 
 **Reason**: Hesperia is prichindel.com product (charter); execution = doc updates, spec alignment, or code per assigned leads; no separate deployable service boundary in repo.
 
-**Impact**: Leads work in CLIENTS/hesperia/ or /data/workspaces/hesperia/ as assigned; ARCH-DECISION does not introduce DB/API/integration scope unless a later change adds it.
+**Impact**: Leads work in CLIENTS/hesperia/ or /data/workspaces/atomic-commit-hesperia/ as assigned; ARCH-DECISION does not introduce DB/API/integration scope unless a later change adds it.
 
 **Approved**: Ethan  2026-02-16
 

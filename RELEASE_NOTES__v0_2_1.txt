@@ -22,6 +22,12 @@ Changes in this release
 - Updated glossary for new stability terms:
   - ACADEMIC.md
 
+Shadow Layer v1.0 (Core + ΓΘ Addon) — v0.2.0.1 → v0.2.1
+- Added 24_SPEC__Shadow_Layer_v1_0.txt: degraded-mode traversal plane, topology-preserving, risk-based activation (Γ), Θ gate (abuse, penalties, failure codes).
+- Added sphere_rag/shadow_layer.py: R risk function, shadow mass + decay, candidate set C = N_shadow(F) ∪ {φ(F)}, shadow-adjusted scores, process_step() for integration in phase_engine / Γ runtime.
+- Failure codes: SHADOW_OK_EXIT, SHADOW_FAIL_NO_STABLE_PATH, SHADOW_FAIL_INVARIANT_VIOLATION, SHADOW_FAIL_HARD_RISK, SHADOW_ABORT_ABUSE.
+- Integrate: call process_step(ShadowLayerState(), ShadowLayerInput(...), phi=..., n_base=...) per step; use out.candidates and shadow-adjusted metrics.
+
 Non-changes (explicit)
 - No modifications to canonical indexing or geometry specifications.
 - No changes to ontology/family definitions.

@@ -1,29 +1,39 @@
-# Hesperia workspace — canonical repo
+# Hesperia workspace — canonical path and sync
 
 **Updated**: 2026-02-22
 
-**Formal project**: Hesperia is onboarded as prichindel.com development under prichindel.com brand; author and owner Platonov Igor (igareosh); idea and implementation rights reserved by prichindel.com and igareosh. Governance: [project/](project/) (PROJECT-CHARTER, CONTEXT-PACKET, etc.).
+**Formal project**: Hesperia is onboarded as prichindel.com development under prichindel.com brand; author and owner Platonov Igor (igareosh); idea and implementation rights reserved by prichindel.com and igareosh. Governance: [projects/hesperia/](../../projects/hesperia/) (PROJECT-CHARTER, CONTEXT-PACKET, etc.).
 
 ---
 
-## This repo = canonical
+## Canonical repo and workspace
 
-| What | Where |
-|------|--------|
-| **GitHub** | **`git@github.com:Atomic-Commits-Team/hesperia.git`** |
-| **Local (prichindel)** | **`/data/workspaces/atomic-commit-hesperia`** |
-| **Role** | Single source for specs, sphere_rag, API. Cursor brain (CLIENTS/hesperia) synced from here (replace same name, add new). |
+| What | Path / URL |
+|------|------------|
+| **GitHub (source of truth)** | **`git@github.com:Atomic-Commits-Team/hesperia.git`** |
+| **hesperia workspace** | **`/data/workspaces/atomic-commit-hesperia`** (prichindel) |
+| **Role** | Single source for specs, sphere_rag, API. Hesperia Analyze API (hesperia.prichindel.com) runs from here. |
+| **Cursor brain** | **CLIENTS/hesperia/** in this repo — design anchor, numbered specs; synced from workspace (replace same name, add new). |
 
-- **Sync to cursor**: Copy specs/docs from this repo into cursor repo `CLIENTS/hesperia/`. Exclude: `.git`, `venv`, `logs`, `api/` code. Ref: [project/SCOPE-AND-SYNC.md](project/SCOPE-AND-SYNC.md).
+- **Old repo** `https://github.com/igareosh/hesperia` is **unlinked** and will be deleted; do not use.
 
 ---
 
-## Archive
+## Sync (prichindel)
 
-- **archive/** — Dated snapshots when needed. See [archive/README.md](archive/README.md).
+- **Pull from GitHub**: `cd /data/workspaces/atomic-commit-hesperia && git pull`.
+- **Update cursor brain**: Copy specs/docs from workspace into **CLIENTS/hesperia/** (same naming → replace; new files → add). Exclude: `.git`, `venv`, `logs`, `api/` (code stays in hesperia repo). Ref: [projects/hesperia/SCOPE-AND-SYNC.md](../../projects/hesperia/SCOPE-AND-SYNC.md) for scope.
+
+---
+
+## Archive (Proton text)
+
+- **CLIENTS/hesperia/archive/** — archived Proton text. See [archive/README.md](archive/README.md).
 
 ---
 
 ## References
 
-- **Cursor**: CLIENTS/hesperia, .cursor/rules/gena-hesperia.mdc, cluster/GITHUB-REPOS.md (in cursor repo).
+- [CLIENTS.md](../../CLIENTS.md) — clients list, hesperia path.
+- [.cursor/rules/gena-hesperia.mdc](../../.cursor/rules/gena-hesperia.mdc) — Gena when assigned to hesperia.
+- [cluster/GITHUB-REPOS.md](../../cluster/GITHUB-REPOS.md) — hesperia path, OpenAI key location.

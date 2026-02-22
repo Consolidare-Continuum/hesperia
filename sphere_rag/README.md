@@ -14,6 +14,7 @@ This package is a small, deterministic Python reference aligned with:
 - `sphere_rag/phase_engine.py` — deterministic two-phase flow:
   - **Phase I (exploration)**: builds an active region from the keyword seed, traversing around the Area ring and allowing cross-area and new-family discovery.
   - **Phase II (core half-sphere reasoning)**: performs a deterministic **waterline cut** by side weight, keeping the smallest set of sides whose cumulative truth mass reaches `alpha · T_total` (default `alpha=0.50`).
+- `sphere_rag/shadow_layer.py` — **Shadow Layer v1.0** (degraded-mode traversal): risk-based activation (Γ), constrained candidate set C = N_shadow(F) ∪ {φ(F)}, mass decay, shadow-adjusted scores, Θ gate (abuse detection, penalties, failure codes). Spec: `24_SPEC__Shadow_Layer_v1_0.txt`. Integrate by calling `process_step(state, ShadowLayerInput(...), phi=..., n_base=...)` per traversal step; use `out.candidates` and shadow-adjusted scores for selection.
 
 ## CLI usage
 
@@ -28,4 +29,3 @@ Self-test (determinism + ≥50% mass invariant):
 ```bash
 python3 scripts/phase_traversal_selftest.py
 ```
-

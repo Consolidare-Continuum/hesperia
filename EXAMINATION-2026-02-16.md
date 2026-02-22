@@ -2,7 +2,7 @@
 
 **Context**: Grace. Examination in hesperia workspace requested by boss.
 **Date**: 2026-02-16.
-**Scope**: Brain (CLIENTS/hesperia/), canonical workspace (/data/workspaces/hesperia/), alignment and gaps.
+**Scope**: Brain (CLIENTS/hesperia/), canonical workspace (/data/workspaces/atomic-commit-hesperia/), alignment and gaps.
 
 ---
 
@@ -11,7 +11,7 @@
 | Item | Status |
 |------|--------|
 | **Brain (CLIENTS/hesperia/)** | Present; 51 files; v0.1 legacy + numbered specs 01–03, 10–51. DOC_INDEX, AGENTS.md, WORKSPACE.md in place. |
-| **Workspace (/data/workspaces/hesperia/)** | Present; git repo; last modified Feb 2026. Specs, sphere_rag, markdown (book files), statements, syzif, text_chunks, legacy, images. |
+| **Workspace (/data/workspaces/atomic-commit-hesperia/)** | Present; git repo; last modified Feb 2026. Specs, sphere_rag, markdown (book files), statements, syzif, text_chunks, legacy, images. |
 | **active.md** | No OPEN hesperia task. |
 | **prichindel subfolder** | **Absent** in workspace. Docs say “ingest from …/hesperia/prichindel”; prichindel content was moved to cursor repo (prichindel/) on 2026-02-09 — ingest path likely obsolete. |
 | **Doc drift (brain vs workspace)** | Brain DOC_INDEX **does not list** workspace-only docs: 04_IDEOLOGY–09_PROJECT, 16_SPEC–18_SPEC, 33_FAMILIES. Brain is behind. |
@@ -26,13 +26,13 @@
 
 ---
 
-## 3. Workspace (/data/workspaces/hesperia/)
+## 3. Workspace (/data/workspaces/atomic-commit-hesperia/)
 
 - **Path**: `/data/workspaces/hesperia` (prichindel; canonical).
 - **Git**: Yes; remote TBD (see cluster/GITHUB-REPOS.md).
 - **Root**: Specs 01–23, 30–33, 40–41, 50–51; **04_IDEOLOGY–09_PROJECT** (ideology, identity, product, operating model, agent workflow, file naming); ACADEMIC.md, DOC_INDEX.md, AGENTS.md, README.md, VARIABLES.md; .env; CSV matrices; tools script; HISPERIDES.png.
 - **Dirs**: markdown/ (book-named .md), sphere_rag/, statements/, syzif/, text_chunks/, legacy/, images/.
-- **prichindel**: Not present. Ingest note in WORKSPACE.md/CLIENTS.md refers to `/data/workspaces/hesperia/prichindel`; prichindel was moved into cursor repo 2026-02-09 — update or drop that ingest note.
+- **prichindel**: Not present. Ingest note in WORKSPACE.md/CLIENTS.md refers to `/data/workspaces/atomic-commit-hesperia`; prichindel was moved into cursor repo 2026-02-09 — update or drop that ingest note.
 
 ---
 

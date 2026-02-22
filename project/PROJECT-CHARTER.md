@@ -21,7 +21,7 @@ Hesperia is the semantic-substrate product (HESPERIA specs, sphere, RAG, indexin
 
 ## Scope (high-level)
 
-- **In scope**: Hesperia specs, codebase, and artifacts; design anchor in CLIENTS/hesperia/; canonical workspace /data/workspaces/hesperia/; project governance under projects/hesperia/; execution via team/leads when tasks are assigned.
+- **In scope**: Hesperia specs, codebase, and artifacts; design anchor in CLIENTS/hesperia/; canonical workspace /data/workspaces/atomic-commit-hesperia/; project governance under projects/hesperia/; execution via team/leads when tasks are assigned.
 - **Out of scope**: Transfer of rights to third parties; use of prichindel.com brand by others for Hesperia without authorization.
 
 ## Success criteria
@@ -41,7 +41,7 @@ Hesperia is the semantic-substrate product (HESPERIA specs, sphere, RAG, indexin
 
 ## Assumptions / constraints
 
-- Hesperia design and code remain in CLIENTS/hesperia/ (brain) and /data/workspaces/hesperia/ (canonical workspace). This project folder holds governance and task linkage only.
+- Hesperia design and code remain in CLIENTS/hesperia/ (brain) and /data/workspaces/atomic-commit-hesperia/ (canonical workspace). This project folder holds governance and task linkage only.
 - No task division until CONTEXT-PACKET approved and Infra Duration filled (OPERATIONAL-LAYER).
 
 ## Approval

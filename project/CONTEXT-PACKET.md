@@ -13,7 +13,7 @@
 
 ## 2. Scope (what's in / out)
 
-- **In scope**: Specs and codebase in CLIENTS/hesperia/ and /data/workspaces/hesperia/; project governance in projects/hesperia/; task rows in active.md when Grace assigns; delivery and IP under prichindel.com / igareosh.
+- **In scope**: Specs and codebase in CLIENTS/hesperia/ and /data/workspaces/atomic-commit-hesperia/; project governance in projects/hesperia/; task rows in active.md when Grace assigns; delivery and IP under prichindel.com / igareosh.
 - **Out of scope**: Transfer of ownership or brand rights; external client handover without explicit approval.
 
 ### 2.1 Sync in repo (current phase)
@@ -29,7 +29,7 @@
 - **ARCH-DECISION**: [ARCH-DECISION.md](ARCH-DECISION.md) — added 2026-02-16; WBS = APPROVED.
 - **Day context (2026-02-17)**: [governance/NARRATIVE-HESPERIA-TASKS-2026-02-17.md](../../governance/NARRATIVE-HESPERIA-TASKS-2026-02-17.md) — narrative of wire-to-FPF, apple scripts, multiple loop runs, self-analysis, informatics plan, boundaries.
 - **INTEGRATION-CONTRACT**: N/A unless external integration introduced.
-- **Design/code**: [CLIENTS/hesperia/](../../CLIENTS/hesperia/) (brain), [CLIENTS/hesperia/WORKSPACE.md](../../CLIENTS/hesperia/WORKSPACE.md), workspace `/data/workspaces/hesperia/`.
+- **Design/code**: [CLIENTS/hesperia/](../../CLIENTS/hesperia/) (brain), [CLIENTS/hesperia/WORKSPACE.md](../../CLIENTS/hesperia/WORKSPACE.md), workspace `/data/workspaces/atomic-commit-hesperia/`.
 
 ## 4. Roles / owners (this project)
 
@@ -60,7 +60,7 @@ Execution starts only after gates (CONTEXT-PACKET approved, Infra Duration fille
 - Charter: [PROJECT-CHARTER.md](PROJECT-CHARTER.md)
 - Handoff: [HANDOFF-CHECKLIST.md](HANDOFF-CHECKLIST.md)
 - Brain: [CLIENTS/hesperia/](../../CLIENTS/hesperia/)
-- Workspace: /data/workspaces/hesperia/ (prichindel)
+- Workspace: /data/workspaces/atomic-commit-hesperia/ (prichindel)
 - **Agents-oriented path (Ethan)**: [governance/TASK-ETHAN-HESPERIA-AGENTS-PATH.md](../../governance/TASK-ETHAN-HESPERIA-AGENTS-PATH.md) — address Gena developments, consolidate opinion, propose realistic deployable agents path per foundations.
 
 ---
