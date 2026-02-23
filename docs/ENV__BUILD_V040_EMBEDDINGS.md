@@ -1,41 +1,77 @@
 # Environment hardening notes — `sphere_rag.build_v040`
 
-This note documents deterministic environment setup constraints for the optional v0.4.0 embedding/surface build.
+This document defines a deterministic, build-only environment for generating v0.4.0 embedding artifacts (`dict_b_v040`, `surface_map_v040`, reports, and manifest).
 
-## Observed failure
+## Observed failure before hardening
 
-Current environment failure (as observed in build attempts):
+In an unpinned environment, `transformers` initialization could fail with:
 
-- `transformers` backend dispatch error with TensorFlow backend path
-- message fragment: **"Offending backend: tf"**
+- `ValueError: Backend should be defined in the BACKENDS_MAPPING. Offending backend: tf`
 
-This blocks embedding-based artifact generation such as `surface_map_v040.json`.
+This blocked `python3 -m sphere_rag.build_v040` and therefore blocked generation of `surface_map_v040.json`.
 
-## Deterministic hardening guidance
+## What is now implemented
 
-> Important: these are known fix paths and repo-aligned constraints, not a claim that every host is identical.
+### 1) Pinned build-only dependency set
 
-1. **Pin compatible embedding stack versions together**
-   - Use coordinated pins for:
-     - `sentence-transformers`
-     - `transformers`
-     - `torch`
-   - Source of truth should be a lockfile or dedicated build requirements file.
-   - This repo currently includes broad ranges in `requirements_v041.txt`; a build-specific lock is recommended.
+A dedicated requirements file now pins the embedding stack used only for build tasks:
 
-2. **Isolate build dependencies from runtime dependencies**
-   - Create a dedicated file such as `requirements-build-embeddings.txt` (or use uv/poetry lock if preferred).
-   - Install build deps into a clean virtual environment before running `python -m sphere_rag.build_v040`.
+- `requirements-build-embeddings.txt`
+  - `sentence-transformers==2.7.0`
+  - `transformers==4.41.2`
+  - `torch==2.2.2`
+  - `numpy==1.26.4`
+  - `huggingface-hub==0.23.5`
 
-3. **Backend selection hardening**
-   - If TensorFlow import paths trigger backend mismatch, run build with explicit environment backend restrictions only when validated by local tooling policy.
-   - Do not add ad-hoc hacks in code; keep backend policy in environment/bootstrap docs/scripts.
+This avoids broad version ranges and keeps the build reproducible.
 
-4. **Fail loudly with actionable errors**
-   - Preserve exact dependency/backend errors in build logs.
-   - Treat missing embedding env as a build-time artifact issue, not runtime engine corruption.
+### 2) Deterministic runner script
 
-## Scope impact
+Use:
 
-- This environment issue affects optional build artifacts (`dict_b_v040`, `surface_map_v040`, related reports).
-- Runtime attribution/traversal remains deterministic and functional with frozen artifacts (Dict A + B0 fallback + legacy assets).
+- `scripts/run_build_v040_embeddings.sh`
+
+The runner:
+
+- creates/uses a dedicated virtualenv (`.venv_v040_build` by default)
+- installs pinned versions from `requirements-build-embeddings.txt`
+- sets backend guards:
+  - `USE_TF=0`
+  - `TRANSFORMERS_NO_TF=1`
+  - `TRANSFORMERS_NO_FLAX=1`
+- runs `python -m sphere_rag.build_v040` with an explicit Dict A input:
+  - `hesperia_lex/curated/A_CORE_STAR_MAP_v0_4_1_3.json`
+- writes artifacts under `assets/v040` by default
+- fails loudly if required inputs or expected outputs are missing
+- prints `sha256` checksums for key artifacts
+
+### 3) TensorFlow backend issue resolution strategy
+
+The fix is environment-level, not code-hack based:
+
+- deterministic package pins with a known good `sentence-transformers` + `transformers` + `torch` combination
+- explicit runtime env vars to keep transformers on the PyTorch path and avoid TF backend registration/import
+
+No runtime engine behavior is changed, and no TensorFlow dependency is required.
+
+## Verification commands
+
+Run from repository root:
+
+```bash
+scripts/run_build_v040_embeddings.sh
+```
+
+Expected outputs:
+
+- `assets/v040/surface_map_v040.json`
+- `assets/v040/dict_b_v040.json`
+- `assets/v040/build_manifest_v040.json`
+
+The runner prints checksums; verify explicitly if needed:
+
+```bash
+sha256sum assets/v040/surface_map_v040.json \
+          assets/v040/dict_b_v040.json \
+          assets/v040/build_manifest_v040.json
+```
