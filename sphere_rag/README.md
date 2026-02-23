@@ -1,31 +1,54 @@
 # `sphere_rag/` — HESPERIA reference implementation (minimal)
 
-This package is a small, deterministic Python reference aligned with:
+Deterministic Python reference aligned with 12_SPEC, 13_SPEC, 22_SPEC, 24_SPEC, 26_SPEC (v0.3.2), and guard/shadow policy.
 
-- `12_SPEC__Semantic_Engine_v0_4.txt` (semantic attribution intent)
-- `13_SPEC__Indexing_and_Coordinates_v1_0.txt` (canonical indexing)
-- `governance/ETHAN-HESPERIA-WATERLINE-PRINCIPLE.md` (waterline/cut doctrine)
+## What exists today (repo-accurate)
 
-## What exists today
+**Geometry and invariants (single source)**
+- `invariant_catalog.py` — Frozen constants (12/24/250/6), TOTAL_SIDES 432k, CANONICAL_AREA_SET, AREA_FAMILY_MAP, `forward`/`inverse`, `validate_coord`/`validate_side_id`. Replaces standalone geometry.py; use this for all geometry.
+- `invariant_enforcer.py` — Σ enforcer: geometry check, bijection check, output contract (exactly 6 keys), domain clamp. No bypass.
+- `failure_classes.py` — HARD_STOP, DATA_REJECT, DEGRADED_STATE, WARN.
 
-- `sphere_rag/geometry.py` — canonical constants + `SideCoord` + `sideId` mappings.
-- `sphere_rag/semantic_engine.py` — deterministic **keywords → (Area, Family) → seed sides** using `31_FAMILIES__area_family_table_full.txt` (name-based + hashed fallback).
-- `sphere_rag/metrics.py` — region metrics: entropy(A), coherence C(R), tension energy, fragmentation, intersection matrix.
-- `sphere_rag/phase_engine.py` — deterministic two-phase flow:
-  - **Phase I (exploration)**: builds an active region from the keyword seed, traversing around the Area ring and allowing cross-area and new-family discovery.
-  - **Phase II (core half-sphere reasoning)**: performs a deterministic **waterline cut** by side weight, keeping the smallest set of sides whose cumulative truth mass reaches `alpha · T_total` (default `alpha=0.50`).
-- `sphere_rag/shadow_layer.py` — **Shadow Layer v1.0** (degraded-mode traversal): risk-based activation (Γ), constrained candidate set C = N_shadow(F) ∪ {φ(F)}, mass decay, shadow-adjusted scores, Θ gate (abuse detection, penalties, failure codes). Spec: `24_SPEC__Shadow_Layer_v1_0.txt`. Integrate by calling `process_step(state, ShadowLayerInput(...), phi=..., n_base=...)` per traversal step; use `out.candidates` and shadow-adjusted scores for selection.
+**Guards and pipeline**
+- `gamma_guard.py` — Γ: traversal stability; gammaPenalty ∈ [0,1].
+- `theta_gate.py` — Θ: governance gate; G_DEGRADED_MAX, LOOP_DEGRADED_MAX.
+- `guard_pipeline.py` — Strict order Sigma → Gamma → Theta; guard coverage logged.
+- `safeguard_state_machine.py` — 25_SPEC: TraversalSafeguard, run_traversal_with_safeguard (three consecutive fail → STOP).
 
-## CLI usage
+**Core math and API**
+- `hesperia_v03_core_math.py` — v0.3 core math (22_SPEC): fusion, centroid, base step, aggregation, penalties, metrics. `run_api()` and `run_api_with_guards()` — both pass Sigma; no bypass. Config: `guard_config_v1.json`. Tests: `python3 sphere_rag/hesperia_v03_core_math.py test`.
+- `output_contracts_v032.py` — v0.3.2 §2: `to_minimal_operational_result()` (6 keys), `make_error_result()` (3 keys).
+- `serve_v033.py` — v0.3.3 §6: GET /health, POST /hesperia/analyze (minimal result or error). Run: `python3 sphere_rag/serve_v033.py [port]` or `python3 sphere_rag/run_simulation.py serve [port]`.
 
-Run deterministic seeding + Phase I/II and print JSON:
+**Simulations and tooling**
+- `full_run_simulation.py` — Full v0.3 run (stub topology); optional --S/--L.
+- `chroma_books_validation_run.py` — Stub + Chroma books I-Q2.
+- `run_simulation.py` — Single entry: `full`, `chroma`, or `serve`.
+- `lexical_loader.py` — Dict A/B loader; Spec 20 validation; `_canonical_side_count()` from invariant_catalog.
+
+**Shadow**
+- `shadow_layer.py` — Shadow Layer v1.0 (24_SPEC): risk-based activation, candidate set C, mass decay, shadow-adjusted scores, Θ abuse detection. Geometry constants imported from invariant_catalog.
+
+**Not present in repo**
+- Dedicated `geometry.py`, `semantic_engine.py`, `metrics.py`, `phase_engine.py` — geometry and metrics are in invariant_catalog + hesperia_v03_core_math; text→attribution (semantic_engine) and phase_engine are future.
+- `scripts/phase_traversal.py`, `scripts/phase_traversal_selftest.py` — not in this tree; use run_simulation.py modes or core_math tests.
+
+## CLI / API (v0.3.2) and pre-test
+
+**Pre-test (whole run, small builds):** From repo root (`CLIENTS/hesperia`):
+`python scripts/run_hesperia_pre_test.py` or `python sphere_rag/run_simulation.py pretest`
+See [RUNNABLE.md](../RUNNABLE.md) for all runnable entry points.
 
 ```bash
-python3 scripts/phase_traversal.py --keywords "Altruism,Truth,Order"
-```
+# Demo run
+python3 sphere_rag/hesperia_v03_core_math.py
 
-Self-test (determinism + ≥50% mass invariant):
+# Tests
+python3 sphere_rag/hesperia_v03_core_math.py test
 
-```bash
-python3 scripts/phase_traversal_selftest.py
+# Full simulation (stub topology)
+python3 sphere_rag/run_simulation.py full [--S path] [--L path] [--out path]
+
+# v0.3.2 API server (GET /health, POST /hesperia/analyze)
+python3 sphere_rag/run_simulation.py serve [port]
 ```

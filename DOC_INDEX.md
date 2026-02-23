@@ -94,6 +94,9 @@ For quick onboarding, choose the path that matches your role.
 - `19_SPEC__Semantic_Stability_Control_v1_0.txt`
   Semantic stability control layer spec: reliability, integrity, decay, and forecast logic.
 
+- `22_SPEC__V0_3_Core_Math_Contract_v1_0.md`
+  **v0.3 canonical (implementation contract)**: SurfaceEnergy fusion, traversal (base + shadow), resolution (dominant family/area), metrics, penalties, invariants (I-R2, I-R3), books non-voting. Refs: 19 (two-dictionary), 20 (authority separation), 21 (books evidence non-voting). Config: `guard_config_v1.json`.
+
 - `14_SPEC__Services_and_APIs_v0_1.txt`
   Service/API surfaces for implementations (main contract
   for microservices and module boundaries).
@@ -153,6 +156,17 @@ For quick onboarding, choose the path that matches your role.
 - `24_SPEC__Shadow_Layer_v1_0.txt`
   Shadow Layer v1.0 (Core + ΓΘ Addon): degraded-mode traversal plane, topology-preserving, risk R, mass decay, constrained hops, abuse detection, failure codes. v0.4 remains read-only diagnostic.
 
+- `25_SPEC__Safeguard_State_Machine_v0_1.txt`
+  **Locked (Grace 2026-02-18).** Safeguard State Machine v0.1: three consecutive logical-fail (hop_result=0) → SAFEGUARD_STOP; fail_count, valid_streak per traversal context; CONSECUTIVE_FAIL_THRESHOLD=3, VALID_STREAK_RESET=2. Canonical: ETHAN-HESPERIA-LOOP-SAFEGUARD.md; stress-test: GENA-HESPERIA-SAFEGUARD-STRESS-TEST-RESULTS.md.
+
+- `28_SPEC__v0_4_0_Embedding_Based_DictB_and_Surface_Siding.txt`
+  **Normative (v0.4.0).** Full build stack: Dict A → embedding model → Dict B (frozen) → Surface Map (hybrid terrain L/T/S/R, lexical sides, token buckets). Covers normalization, candidate filtering, anchor construction, similarity (τ, δ, μ, K), κ/F_min_covered, surface siding quotas and hex constraints (L≤3, T≥1), reports, failure conditions, §18 common traps. Runtime uses only frozen artifacts.
+- `28_SPEC__EBFCL_v0_4_0_draft.txt`
+  Superseded by 28_SPEC__v0_4_0_Embedding_Based_DictB_and_Surface_Siding.txt (kept for history).
+
+- `29_SPEC__HESPERIA_v0_4_1_DictB_Embedding_Classification.txt`
+  **Normative (build-time only).** v0.4.1 Dict B: token → preferred_family + possible_relaxed_family (optional). Similarity vs family vectors (mean of Dict A anchors); τ, δ_min_primary, τ_relaxed, δ_max_secondary, FCS_min, family_overlap_cap; density governance (κ, secondary caps); runtime dict_b_v041.json + audit; surface uses preferred only; possible_relaxed runtime-inert. Depends: 27 (attribution), 28 (embedding/surface), surface role spec.
+
 ## 5a. Releases
 
 - `RELEASE_NOTES__v0_2_1.txt`
@@ -168,11 +182,16 @@ For quick onboarding, choose the path that matches your role.
 
 ## 7. Code and Reference Implementation
 
+- `RUNNABLE.md`
+  All runnable entry points: one-shot pre-test, v0.4.0/v0.4.1 builds, core_math, run_simulation modes, pytest. Cursor-traversable.
+- `scripts/run_hesperia_pre_test.py`
+  Pre-test whole run (small): v0.4.0 build → v0.4.1 build → core_math test → pytest (if installed). Use from repo root: `python scripts/run_hesperia_pre_test.py` or `python sphere_rag/run_simulation.py pretest`.
 - `sphere_rag/`
   Python prototype package:
   - geometry, indexing, and coordinates (aligned with `13_SPEC__Indexing_and_Coordinates_v1_0.txt`)
   - attribution, traversal, and governance pipeline for RAG.
   - `shadow_layer.py`: Shadow Layer v1.0 (Γ enter/exit, Θ gate, failure codes; spec `24_SPEC__Shadow_Layer_v1_0.txt`).
+  - `run_simulation.py`: modes `full`, `chroma`, `serve`, `pretest`.
 
 ## 8. Legacy / Drafts
 

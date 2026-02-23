@@ -13,12 +13,12 @@ from enum import Enum
 from typing import Callable, Optional, Sequence
 
 # ---------------------------------------------------------------------------
-# Constants (spec defaults)
+# Constants (geometry from single source: invariant_catalog)
 # ---------------------------------------------------------------------------
-
-TOTAL_FAMILIES = 288
-AREAS = 12
-FAMILIES_PER_AREA = 24
+try:
+    from .invariant_catalog import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES
+except ImportError:
+    from invariant_catalog import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES
 
 # Risk weights (sum = 1.0)
 W_G = 0.40

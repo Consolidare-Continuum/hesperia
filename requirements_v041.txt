@@ -1,0 +1,9 @@
+# HESPERIA v0.4.1 Dict B build (29_SPEC)
+# Pin versions for deterministic builds. Install: pip install -r requirements_v041.txt
+# Model: sentence-transformers/all-mpnet-base-v2 (frozen revision in build_manifest_v041.json)
+
+sentence-transformers>=2.7.0,<3
+torch>=2.0.0,<3
+numpy>=1.24.0,<2
+transformers>=4.30.0,<5
+huggingface-hub>=0.17.0,<1

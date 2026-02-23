@@ -1,1 +1,5 @@
 __pycache__/
+*.pyc
+.venv_v040/
+assets/v040/
+assets/v041/
