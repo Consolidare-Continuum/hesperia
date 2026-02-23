@@ -1,0 +1,4 @@
+B1 Dict B Validation Report v0.4.1.4
+status: HARD_FAIL
+missing_b1_file: hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json
+message: Build B1 first after committing a real surface map source.
