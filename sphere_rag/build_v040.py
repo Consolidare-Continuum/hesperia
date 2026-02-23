@@ -439,6 +439,111 @@ def check_coverage(per_family_counts: dict[int, int], f_min: int = C.F_MIN_COVER
     return len(per_family_counts) >= f_min
 
 
+def _normalize_lemma(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "_", s.lower().strip()).strip("_") or "family"
+
+
+def _load_family_labels(repo_root: Path) -> list[str]:
+    """Load 31_FAMILIES, return list of 288 normalized family labels (index = family_global)."""
+    table = repo_root / "31_FAMILIES__area_family_table_full.txt"
+    if not table.exists():
+        return []
+    lines = table.read_text(encoding="utf-8").strip().splitlines()
+    out = []
+    for line in lines[1:]:
+        if not line.strip():
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 3:
+            out.append(_normalize_lemma(parts[2]))
+    return out[:288]
+
+
+def _semantic_audit(
+    anchor_records: list[dict],
+    raw_dict_a: dict[str, Any],
+    family_labels: list[str],
+    out_dir: Path,
+) -> None:
+    """v0.4.1.1: per-family label count, real count, weight tiers; write semantic_density_report.txt; raise if gates fail."""
+    if len(family_labels) != C.TOTAL_FAMILIES:
+        return
+    # key -> weight from raw Dict A (first seed)
+    key_to_weight: dict[str, float] = {}
+    for k, v in raw_dict_a.items():
+        if k.startswith("_") or not isinstance(v, list) or not v:
+            continue
+        w = v[0].get("weight", 0.5)
+        if isinstance(w, (int, float)):
+            key_to_weight[k] = float(w)
+    # per family: list of (key, weight)
+    by_fg: dict[int, list[tuple[str, float]]] = {fg: [] for fg in range(C.TOTAL_FAMILIES)}
+    for r in anchor_records:
+        key = r["lemma"]
+        fg = r["familyGlobal"]
+        w = key_to_weight.get(key, 0.5)
+        by_fg.setdefault(fg, []).append((key, w))
+    # classify key: lemma part vs family label. Key format lemma_normalized_N_slot
+    def is_label_anchor(key: str, fg: int) -> bool:
+        parts = key.rsplit("_", 2)
+        if len(parts) != 3:
+            return False
+        try:
+            n = int(parts[1])
+            if n != fg + 1:
+                return False
+        except ValueError:
+            return False
+        lemma_part = parts[0]
+        return lemma_part == family_labels[fg]
+
+    lines = ["Semantic density report (v0.4.1.1)", "=" * 50, ""]
+    per_family_real = []
+    per_family_label = []
+    per_family_tiers = []
+    for fg in range(C.TOTAL_FAMILIES):
+        pairs = by_fg.get(fg, [])
+        label_count = sum(1 for (key, _) in pairs if is_label_anchor(key, fg))
+        real_count = len(pairs) - label_count
+        weights = [w for (_, w) in pairs]
+        tiers = len(set(round(w, 2) for w in weights))
+        per_family_real.append(real_count)
+        per_family_label.append(label_count)
+        per_family_tiers.append(tiers)
+        lines.append(f"family {fg}: total={len(pairs)} real={real_count} structural={label_count} weight_tiers={tiers}")
+    lines.append("")
+    total_anchors = sum(len(by_fg.get(fg, [])) for fg in range(C.TOTAL_FAMILIES))
+    mean_real = sum(per_family_real) / len(per_family_real) if per_family_real else 0
+    mean_label = sum(per_family_label) / len(per_family_label) if per_family_label else 0
+    lines.append(f"Global: total_anchors={total_anchors} mean_real={mean_real:.2f} mean_structural={mean_label:.2f}")
+    if per_family_real:
+        var = sum((x - mean_real) ** 2 for x in per_family_real) / len(per_family_real)
+        lines.append(f"  std_dev real anchors={var ** 0.5:.2f}")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "semantic_density_report.txt").write_text("\n".join(lines), encoding="utf-8")
+
+    # Gates (only when not allow_small_build are checked earlier; here we enforce v0.4.1.1)
+    for fg in range(C.TOTAL_FAMILIES):
+        label_count = per_family_label[fg]
+        real_count = per_family_real[fg]
+        tiers = per_family_tiers[fg]
+        if label_count >= 5:
+            raise SystemExit(
+                f"FAIL: family {fg} has {label_count} label (structural) anchors (max {C.MAX_LABEL_ANCHORS_PER_FAMILY}). "
+                "Replace with real semantic anchors (v0.4.1.1)."
+            )
+        if real_count < C.MIN_REAL_ANCHORS_PER_FAMILY:
+            raise SystemExit(
+                f"FAIL: family {fg} has {real_count} real anchors (min {C.MIN_REAL_ANCHORS_PER_FAMILY}). "
+                "Add real semantic anchors (v0.4.1.1)."
+            )
+        if tiers < C.MIN_WEIGHT_TIERS_PER_FAMILY:
+            raise SystemExit(
+                f"FAIL: family {fg} has {tiers} weight tiers (min {C.MIN_WEIGHT_TIERS_PER_FAMILY}). "
+                "Use at least 3 distinct weight tiers per family."
+            )
+
+
 # ---------- Surface: role mask (deterministic L/T/S/R per family) ----------
 def _seed_for_family(family_global: int, version: str = "v040") -> int:
     h = hashlib.sha256(f"{version}:{family_global}".encode()).digest()
@@ -660,6 +765,53 @@ def run_build(
 
     # Anchors
     anchor_records, _, model = build_anchor_embeddings(dict_a)
+    # Precheck: Dict A must cover enough families (unless allow_small_build)
+    dict_a_covered_families = len(set(r["familyGlobal"] for r in anchor_records))
+    if dict_a_covered_families < C.MIN_DICT_A_COVERED_FAMILIES and not allow_small_build:
+        raise SystemExit(
+            f"FAIL: Dict A covered families ({dict_a_covered_families}) < MIN_DICT_A_COVERED_FAMILIES ({C.MIN_DICT_A_COVERED_FAMILIES}). "
+            "Expand Dict A anchors across families or use --allow-small-build for sandbox."
+        )
+    # Collision detection: full build requires 288/288 (no key collisions)
+    if dict_a_covered_families < C.TOTAL_FAMILIES and not allow_small_build:
+        raise SystemExit(
+            f"FAIL: Dict A key collision — {dict_a_covered_families} families covered (expected {C.TOTAL_FAMILIES}). "
+            "Use deterministic keying (e.g. lemma_number) to disambiguate duplicate lemma names."
+        )
+    # v0.4.1 distribution audit: per-family anchor counts and total
+    by_family: dict[int, int] = {}
+    for r in anchor_records:
+        fg = r["familyGlobal"]
+        by_family[fg] = by_family.get(fg, 0) + 1
+    total_anchors = len(anchor_records)
+    if not allow_small_build:
+        if total_anchors < C.MIN_TOTAL_ANCHORS:
+            raise SystemExit(
+                f"FAIL: total anchors ({total_anchors}) < MIN_TOTAL_ANCHORS ({C.MIN_TOTAL_ANCHORS}). "
+                "Expand Dict A to ≥12 anchors per family (288×12 = 3456)."
+            )
+        counts = list(by_family.values()) if by_family else []
+        for fg in range(C.TOTAL_FAMILIES):
+            c = by_family.get(fg, 0)
+            if c < C.MIN_ANCHORS_PER_FAMILY:
+                raise SystemExit(
+                    f"FAIL: family {fg} has {c} anchors (min {C.MIN_ANCHORS_PER_FAMILY}). "
+                    "Meet MIN_ANCHORS_PER_FAMILY for every family or use --allow-small-build."
+                )
+            if c > C.MAX_ANCHORS_PER_FAMILY:
+                raise SystemExit(
+                    f"FAIL: family {fg} has {c} anchors (max {C.MAX_ANCHORS_PER_FAMILY}). "
+                    "Reduce skew or use --allow-small-build."
+                )
+        if len(counts) >= 2:
+            mean_c = sum(counts) / len(counts)
+            var_c = sum((x - mean_c) ** 2 for x in counts) / len(counts)
+            std_c = var_c ** 0.5
+            if std_c > C.MAX_ANCHOR_STD_DEV:
+                raise SystemExit(
+                    f"FAIL: anchor count std dev ({std_c:.2f}) > MAX_ANCHOR_STD_DEV ({C.MAX_ANCHOR_STD_DEV}). "
+                    "Balance distribution across families or use --allow-small-build."
+                )
     anchors_path = out_dir / "dict_a_anchors_v040.json"
     # Save without full vectors for size; or save with vectors for rebuild. Spec says "embedding vector (or vector index reference)"
     to_save = [{"lemma": r["lemma"], "familyGlobal": r["familyGlobal"], "altitude": r["altitude"], "embedding": r["embedding"]} for r in anchor_records]  # noqa: E501
@@ -689,6 +841,13 @@ def run_build(
         for r in rejected_audit:
             f.write(json.dumps({"token": r["token"], "reason": r["reason"], "best_score": r.get("best_score"), "best_anchor_lemma": r.get("best_anchor_lemma")}, ensure_ascii=False) + "\n")
 
+    # Precheck: Dict B must have enough tokens before running κ (unless allow_small_build)
+    if len(dict_b) < C.MIN_DICT_B_TOKENS and not allow_small_build:
+        raise SystemExit(
+            f"FAIL: Dict B total tokens ({len(dict_b)}) < MIN_DICT_B_TOKENS ({C.MIN_DICT_B_TOKENS}). "
+            "Expand Dict A / candidates so Dict B has at least MIN_DICT_B_TOKENS tokens, or use --allow-small-build for sandbox."
+        )
+
     # Imbalance and coverage (§15)
     imbalance_ok, per_family_counts = check_imbalance(dict_b)
     if not imbalance_ok and not allow_small_build:
@@ -696,6 +855,15 @@ def run_build(
     coverage_ok = check_coverage(per_family_counts)
     if not coverage_ok and not allow_small_build:
         raise SystemExit("FAIL: covered families < F_min_covered (240). Use --allow-small-build for tiny Dict A.")
+
+    # v0.4.1.1 semantic audit (default Dict A = v0.4.1.1; v0.4.1/v1 deprecated)
+    effective_dict_a_path = dict_a_path if dict_a_path is not None else (assets_root or Path(__file__).resolve().parent.parent / "assets") / "A_CORE_STAR_MAP_v0_4_1_1.json"
+    if "v0_4_1_1" in str(effective_dict_a_path) and effective_dict_a_path.exists():
+        raw_dict_a = json.loads(effective_dict_a_path.read_text(encoding="utf-8"))
+        repo_root = effective_dict_a_path.resolve().parent.parent.parent
+        family_labels = _load_family_labels(repo_root)
+        if family_labels:
+            _semantic_audit(anchor_records, raw_dict_a, family_labels, out_dir)
 
     # Reports
     write_report_dict_a_coverage(anchor_records, out_dir / "report_dictA_coverage_v040.txt")

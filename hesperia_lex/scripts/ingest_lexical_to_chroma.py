@@ -69,10 +69,12 @@ def main() -> int:
         print("CHROMA_SERVER_URL not set; skip ingest.", file=sys.stderr)
         return 0
 
-    a_path = CURATED / "A_CORE_STAR_MAP_v1.json"
+    a_path = CURATED / "A_CORE_STAR_MAP_v0_4_1_1.json"
+    if not a_path.exists():
+        a_path = CURATED / "A_CORE_STAR_MAP_v1.json"
     b_path = CURATED / "B_SURFACE_LEX_FIELD_v1.json"
     if not a_path.exists() or not b_path.exists():
-        print("Curated A/B not found; run validation first.", file=sys.stderr)
+        print("Curated A/B not found (default A: A_CORE_STAR_MAP_v0_4_1_1.json); run validation first.", file=sys.stderr)
         return 1
 
     with open(a_path, encoding="utf-8") as f:

@@ -35,8 +35,8 @@ _ASSETS_REQUIRED_MSG = "Lexical assets missing. Run sync_curated_to_assets.sh fr
 
 
 def load_dict_a(path: Path | None = None) -> dict[str, list[dict[str, Any]]]:
-    """Load A_CORE_STAR_MAP. Returns lemma -> list of {side_id, weight, map_code}. Fails if default assets path missing."""
-    default = _assets_root() / "A_CORE_STAR_MAP_v1.json"
+    """Load A_CORE_STAR_MAP. Returns lemma -> list of {side_id, weight, map_code}. Fails if default assets path missing. Default: v0.4.1.1 (v0.4.1/v1 deprecated)."""
+    default = _assets_root() / "A_CORE_STAR_MAP_v0_4_1_1.json"
     path = path or default
     if not path.exists():
         if path.resolve() == default.resolve():

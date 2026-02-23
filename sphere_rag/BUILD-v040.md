@@ -16,7 +16,7 @@ Build pipeline: Dict A → anchor embeddings → Dict B → surface (roles + map
 
 ## Inputs
 
-- **Dict A**: `hesperia_lex/curated/A_CORE_STAR_MAP_v1.json` (or `assets/A_CORE_STAR_MAP_v1.json`). Native or legacy (lemma → familyGlobal + altitude).
+- **Dict A**: default `A_CORE_STAR_MAP_v0_4_1_1.json` (v0.4.1.1 semantic, gates). v0.4.1 (`A_CORE_STAR_MAP_v1.json`) deprecated; use `--dict-a` to override.
 - **Candidates**: optional file (one token per line or JSON list/dict keys). If omitted, build uses Dict A lemmas + B_SURFACE aliases.
 
 ## Run

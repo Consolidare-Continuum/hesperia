@@ -127,13 +127,16 @@ def main() -> int:
     canonical = load_canonical_side_set(args.canonical_max)
     all_errs = []
 
-    a_path = args.curated / "A_CORE_STAR_MAP_v1.json"
+    # Default Dict A: v0.4.1.1; fallback v0.4.1 (v1) deprecated
+    a_path = args.curated / "A_CORE_STAR_MAP_v0_4_1_1.json"
+    if not a_path.exists():
+        a_path = args.curated / "A_CORE_STAR_MAP_v1.json"
     b_path = args.curated / "B_SURFACE_LEX_FIELD_v1.json"
 
     if a_path.exists():
         all_errs.extend(validate_dict_a(a_path, canonical, side_id_format=args.side_id_format, weight_cap=args.weight_cap))
     else:
-        all_errs.append("A_CORE_STAR_MAP_v1.json not found")
+        all_errs.append("A_CORE_STAR_MAP_v0_4_1_1.json (or A_CORE_STAR_MAP_v1.json) not found")
     if b_path.exists():
         all_errs.extend(validate_dict_b(b_path, canonical, side_id_format=args.side_id_format))
     else:
@@ -144,9 +147,9 @@ def main() -> int:
             print("VALIDATE_ERR:", e, file=sys.stderr)
         return 1
 
-    # Checksums
+    # Checksums (Dict A: v0.4.1.1 preferred, v1 deprecated)
     checksums = {}
-    for name in ("A_CORE_STAR_MAP_v1.json", "B_SURFACE_LEX_FIELD_v1.json"):
+    for name in ("A_CORE_STAR_MAP_v0_4_1_1.json", "A_CORE_STAR_MAP_v1.json", "B_SURFACE_LEX_FIELD_v1.json"):
         p = args.curated / name
         if p.exists():
             h = hashlib.sha256(p.read_bytes()).hexdigest()
@@ -174,6 +177,7 @@ def main() -> int:
         "frozen_at": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "repo_commit": repo_commit,
         "sha256": {
+            "A_CORE_STAR_MAP_v0_4_1_1.json": checksums.get("A_CORE_STAR_MAP_v0_4_1_1.json"),
             "A_CORE_STAR_MAP_v1.json": checksums.get("A_CORE_STAR_MAP_v1.json"),
             "B_SURFACE_LEX_FIELD_v1.json": checksums.get("B_SURFACE_LEX_FIELD_v1.json"),
             "guard_config_v1.json": hashlib.sha256(guard_path.read_bytes()).hexdigest() if guard_path.exists() else None,

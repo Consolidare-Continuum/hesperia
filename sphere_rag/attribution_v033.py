@@ -85,7 +85,8 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
-    default = root / "A_CORE_STAR_MAP_v1.json"
+    # Default: v0.4.1.1 (semantic, gates). v0.4.1 (A_CORE_STAR_MAP_v1) deprecated for builds.
+    default = root / "A_CORE_STAR_MAP_v0_4_1_1.json"
     path = path or default
     if not path.exists():
         return {}

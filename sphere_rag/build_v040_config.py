@@ -10,6 +10,17 @@ TOTAL_SIDES = 432_000
 # §8 Anchor
 A_MIN = 12
 
+# §8b Dict A: default v0.4.1.1 (semantic, gates); v0.4.1 (12×288 complete) deprecated
+MIN_ANCHORS_PER_FAMILY = 12   # fail if any family has fewer (unless allow_small_build)
+MAX_ANCHORS_PER_FAMILY = 18   # fail if any family has more (excessive skew)
+MAX_ANCHOR_STD_DEV = 2.5      # fail if std dev of per-family anchor count > this
+MIN_TOTAL_ANCHORS = 3456      # 288 * 12 minimum (unless allow_small_build)
+
+# §8c v0.4.1.1 semantic correction
+MAX_LABEL_ANCHORS_PER_FAMILY = 4   # fail if ≥5 anchors match normalized family label
+MIN_REAL_ANCHORS_PER_FAMILY = 8    # fail if real (non-label) anchors < 8 per family
+MIN_WEIGHT_TIERS_PER_FAMILY = 3    # fail if unique weight tiers per family < 3
+
 # §9 Similarity
 TAU_DEFAULT = 0.35
 DELTA_DEFAULT = 0.05
@@ -19,6 +30,10 @@ K_TOP = 5
 # §10 Anti-collapse
 KAPPA_MAX_SHARE = 0.06
 F_MIN_COVERED = 240
+
+# §10a Build-time sanity prechecks (fail before κ on tiny builds)
+MIN_DICT_B_TOKENS = 240  # hard fail if Dict B total tokens below this (unless allow_small_build)
+MIN_DICT_A_COVERED_FAMILIES = 240  # hard fail if Dict A anchors cover fewer families (unless allow_small_build)
 
 # §11 Build modes
 MODE_STRICT = {"tau": 0.40, "delta": 0.06, "mu": "flag_and_reject"}
