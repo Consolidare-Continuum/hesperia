@@ -1,0 +1,162 @@
+{
+  "audit": "HESPERIA_v0.4.1_structural_audit",
+  "baseline_ref": "6879a68",
+  "target_ref": "edeedd4",
+  "DELTA_FILES": {
+    "added": [
+      "28_SPEC__EBFCL_v0_4_0_draft.txt",
+      "28_SPEC__v0_4_0_Embedding_Based_DictB_and_Surface_Siding.txt",
+      "29_SPEC__HESPERIA_v0_4_1_DictB_Embedding_Classification.txt",
+      "RELEASE_NOTES__v0_3_3.txt",
+      "RUNNABLE.md",
+      "assets/README.md",
+      "hesperia_lex/curated/A_CORE_STAR_MAP_v1.json",
+      "hesperia_lex/curated/B_SURFACE_LEX_FIELD_v1.json",
+      "requirements_v040.txt",
+      "requirements_v041.txt",
+      "scripts/run_hesperia_pre_test.py",
+      "sphere_rag/BUILD-v040.md",
+      "sphere_rag/BUILD-v041.md",
+      "sphere_rag/__init__.py",
+      "sphere_rag/analyze_v033.py",
+      "sphere_rag/attribution_v033.py",
+      "sphere_rag/build_v040.py",
+      "sphere_rag/build_v040_config.py",
+      "sphere_rag/build_v041.py",
+      "sphere_rag/build_v041_config.py",
+      "sphere_rag/chroma_books_validation_run.py",
+      "sphere_rag/failure_classes.py",
+      "sphere_rag/full_run_simulation.py",
+      "sphere_rag/gamma_guard.py",
+      "sphere_rag/guard_pipeline.py",
+      "sphere_rag/hesperia_v03_core_math.py",
+      "sphere_rag/invariant_catalog.py",
+      "sphere_rag/invariant_enforcer.py",
+      "sphere_rag/lexical_loader.py",
+      "sphere_rag/output_contracts_v032.py",
+      "sphere_rag/run_simulation.py",
+      "sphere_rag/safeguard_state_machine.py",
+      "sphere_rag/serve_v033.py",
+      "sphere_rag/tests/energy_invariants_stress.py",
+      "sphere_rag/tests/test_adversarial_v03.py",
+      "sphere_rag/tests/test_attribution_v033.py",
+      "sphere_rag/tests/test_guard_pipeline_v031.py",
+      "sphere_rag/tests/test_invariant_v03.py",
+      "sphere_rag/tests/test_safeguard_25_spec.py",
+      "sphere_rag/theta_gate.py"
+    ],
+    "modified": [
+      ".gitignore",
+      "DOC_INDEX.md",
+      "sphere_rag/README.md",
+      "sphere_rag/shadow_layer.py"
+    ],
+    "removed": [],
+    "renamed": []
+  },
+  "delta_contracts_and_entrypoints": {
+    "api_contract_changes": [
+      "Operational output contract codified in sphere_rag/output_contracts_v032.py with exactly 6 keys and 3-key error schema"
+    ],
+    "new_config_variables": [
+      "requirements_v040.txt",
+      "requirements_v041.txt",
+      "sphere_rag/build_v040_config.py constants",
+      "sphere_rag/build_v041_config.py constants"
+    ],
+    "new_constants": [
+      "sphere_rag/gamma_guard.py::DEGRADED_GAMMA_THRESHOLD",
+      "sphere_rag/theta_gate.py::G_DEGRADED_MAX",
+      "sphere_rag/theta_gate.py::LOOP_DEGRADED_MAX",
+      "sphere_rag/shadow_layer.py risk/threshold/penalty constants"
+    ],
+    "new_environment_flags": [],
+    "serve_entrypoint_changes": [
+      "sphere_rag/serve_v033.py introduced",
+      "sphere_rag/run_simulation.py serve mode introduced"
+    ],
+    "pipeline_entry_changes": [
+      "sphere_rag/guard_pipeline.py::run_pipeline introduced as single guard entrypoint",
+      "sphere_rag/analyze_v033.py introduced as v0.3.3 runtime pipeline"
+    ]
+  },
+  "STRUCTURAL_CLASS": {
+    "28_SPEC__EBFCL_v0_4_0_draft.txt": ["DOCUMENTATION_ONLY"],
+    "28_SPEC__v0_4_0_Embedding_Based_DictB_and_Surface_Siding.txt": ["DOCUMENTATION_ONLY", "RETRIEVAL_LAYER", "ATTRIBUTION_LAYER"],
+    "29_SPEC__HESPERIA_v0_4_1_DictB_Embedding_Classification.txt": ["DOCUMENTATION_ONLY", "RETRIEVAL_LAYER", "ATTRIBUTION_LAYER"],
+    "DOC_INDEX.md": ["DOCUMENTATION_ONLY"],
+    "RUNNABLE.md": ["DOCUMENTATION_ONLY", "PIPELINE_FLOW"],
+    "scripts/run_hesperia_pre_test.py": ["PIPELINE_FLOW", "TEST_ONLY"],
+    "sphere_rag/analyze_v033.py": ["PIPELINE_FLOW", "ATTRIBUTION_LAYER", "API_CONTRACT"],
+    "sphere_rag/attribution_v033.py": ["ATTRIBUTION_LAYER", "RETRIEVAL_LAYER"],
+    "sphere_rag/build_v040.py": ["RETRIEVAL_LAYER", "PIPELINE_FLOW"],
+    "sphere_rag/build_v040_config.py": ["RETRIEVAL_LAYER"],
+    "sphere_rag/build_v041.py": ["RETRIEVAL_LAYER", "PIPELINE_FLOW"],
+    "sphere_rag/build_v041_config.py": ["RETRIEVAL_LAYER"],
+    "sphere_rag/chroma_books_validation_run.py": ["TEST_ONLY", "RETRIEVAL_LAYER"],
+    "sphere_rag/failure_classes.py": ["GOVERNANCE_LAYER", "API_CONTRACT"],
+    "sphere_rag/full_run_simulation.py": ["PIPELINE_FLOW"],
+    "sphere_rag/gamma_guard.py": ["GOVERNANCE_LAYER"],
+    "sphere_rag/guard_pipeline.py": ["GOVERNANCE_LAYER", "PIPELINE_FLOW"],
+    "sphere_rag/hesperia_v03_core_math.py": ["GEOMETRY_INVARIANT", "PIPELINE_FLOW"],
+    "sphere_rag/invariant_catalog.py": ["GEOMETRY_INVARIANT"],
+    "sphere_rag/invariant_enforcer.py": ["GEOMETRY_INVARIANT", "GOVERNANCE_LAYER"],
+    "sphere_rag/lexical_loader.py": ["RETRIEVAL_LAYER"],
+    "sphere_rag/output_contracts_v032.py": ["API_CONTRACT"],
+    "sphere_rag/run_simulation.py": ["PIPELINE_FLOW"],
+    "sphere_rag/safeguard_state_machine.py": ["GOVERNANCE_LAYER", "PIPELINE_FLOW"],
+    "sphere_rag/serve_v033.py": ["API_CONTRACT", "PIPELINE_FLOW"],
+    "sphere_rag/shadow_layer.py": ["SHADOW_LAYER", "GOVERNANCE_LAYER"],
+    "sphere_rag/tests/energy_invariants_stress.py": ["TEST_ONLY", "GEOMETRY_INVARIANT"],
+    "sphere_rag/tests/test_adversarial_v03.py": ["TEST_ONLY", "GOVERNANCE_LAYER"],
+    "sphere_rag/tests/test_attribution_v033.py": ["TEST_ONLY", "ATTRIBUTION_LAYER"],
+    "sphere_rag/tests/test_guard_pipeline_v031.py": ["TEST_ONLY", "GOVERNANCE_LAYER"],
+    "sphere_rag/tests/test_invariant_v03.py": ["TEST_ONLY", "GEOMETRY_INVARIANT"],
+    "sphere_rag/tests/test_safeguard_25_spec.py": ["TEST_ONLY", "GOVERNANCE_LAYER"],
+    "sphere_rag/theta_gate.py": ["GOVERNANCE_LAYER"]
+  },
+  "INVARIANT_STATUS": {
+    "passed": [
+      "Output contract exactly 6 keys (minimal operational result)",
+      "Sigma is first guard in run_pipeline",
+      "Gamma penalty clamped to [0,1]",
+      "Governance cap in degraded mode present (G_DEGRADED_MAX=0.30)",
+      "Dict A has precedence over Dict B in attribution",
+      "Tie-break deterministic: hits desc, meanAltitude asc, familyGlobal asc",
+      "No stochastic operations in v0.3.3/v0.4.1 runtime paths",
+      "No shadow traversal active by default (shadow_enabled default False)",
+      "No semantic weighting beyond altitude/seed formula defined in attribution"
+    ],
+    "violated": [],
+    "uncertain": [
+      "No geometry mutation globally across all possible runtime integrations outside audited path"
+    ]
+  },
+  "GOVERNANCE_DRIFT": {
+    "formula_changed": false,
+    "old_formula": "governance' = governance * (1 - gammaPenalty); if degraded governance' <= G_DEGRADED_MAX",
+    "new_formula": "governance' = governance * (1 - gammaPenalty); if degraded governance' <= G_DEGRADED_MAX",
+    "inputs_added": [],
+    "inputs_removed": [],
+    "monotonicity_preserved": "Yes",
+    "deterministic": "Yes"
+  },
+  "SHADOW_STATUS": {
+    "classification": "additive",
+    "checks": {
+      "non_creative": true,
+      "non_structural": true,
+      "cannot_influence_dominant_family_in_default_pipeline": true,
+      "not_mutating_area_layer": true
+    }
+  },
+  "RELEASE_CLASS": "structural_extension",
+  "optional_strict_fail_check": {
+    "output_schema_changed": false,
+    "non_determinism_introduced": false,
+    "area_family_geometry_changed": false,
+    "shadow_affects_dominance": false,
+    "contract_keys_increased": false,
+    "audit_fail": false
+  }
+}
