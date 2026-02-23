@@ -136,6 +136,9 @@ For quick onboarding, choose the path that matches your role.
 - `docs/TASK__v0412_FAMILIES_DEFINITION_CANONICAL_FILE.md` + `hesperia_lex/definitions/v0412/families.yaml`
   **v0.4.1.2.** Single canonical definition source (no pool semantics). Validate/build: see `hesperia_lex/definitions/v0412/README.md`.
 
+- `docs/TASK__v0413_FAMILIES_SEMANTIC_CANONICALIZATION.md` + `hesperia_lex/definitions/v0413/families.yaml`
+  **v0.4.1.3.** Semantic canonicalization layer (single YAML, overlap controls, mirror checks, semantic audit report). Validate/build: see `hesperia_lex/definitions/v0413/README.md`.
+
 - `32_FAMILIES__concise_spec_v2_1.txt`
   Concise family spec v2.1 with borders and edge families.
 
