@@ -1,9 +1,9 @@
-HESPERIA v0.4.0 canonical surface governance note
+HESPERIA v0.4.0 canonical surface — frozen ownership
 
-canonical_git_commit: UNSET
-surface_map_sha256: UNSET
+canonical_git_commit: 13c6ca96f89e7f9967c6c788d68259126e7c9838
+surface_map_sha256: 0e3a3a172ac2271726fc7deee74b3e58bd56ecf6caff58cc9731b8fb9e1bc21d
 model_name: sentence-transformers/all-mpnet-base-v2
-model_revision: UNSET
-dict_a_sha256: UNSET
+model_revision: 12e86a3c702fc3c50205a8db88f0ec7c0b6b94a0
+dict_a_sha256: c698bc6679351519f84048c8ee50dcb187857f87211ef0574f234d004abd8dad
 
-Set these values only after running scripts/canonicalize_surface_v040.sh and committing the checksum update.
+Surface is immutable. Any hash change = version bump. No silent rebuilds.
