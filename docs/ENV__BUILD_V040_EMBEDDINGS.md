@@ -75,3 +75,55 @@ sha256sum assets/v040/surface_map_v040.json \
           assets/v040/dict_b_v040.json \
           assets/v040/build_manifest_v040.json
 ```
+
+
+## Deterministic artifact controls (v0.4.0)
+
+The build now enforces deterministic serialization for `surface_map_v040.json`:
+
+- writer: `sphere_rag.io_deterministic_json.write_json_deterministic`
+- JSON policy: `ensure_ascii=False`, `sort_keys=True`, `separators=(",", ":")`, newline at EOF
+- no default `json.dump/json.dumps` path is used for this artifact
+
+### Checksum + provenance outputs
+
+On successful build, the output directory includes:
+
+- `surface_map_v040.json`
+- `surface_map_v040.json.sha256` (format: `<sha256>  surface_map_v040.json`)
+- `BUILD_PROVENANCE_v040.json` (deterministic JSON; separate governance record that does not define the surface artifact hash)
+
+`BUILD_PROVENANCE_v040.json` captures:
+
+- git commit, python/platform/machine
+- `USE_TF`, `TRANSFORMERS_NO_TF`, `TRANSFORMERS_NO_FLAX`
+- `pip freeze`
+- versions for `torch`, `transformers`, `sentence_transformers`, `huggingface_hub`, `numpy`
+- input Dict A path + SHA256 + model metadata
+- output artifact paths + SHA256 values
+
+### Checksum verification gate
+
+Expected checksum file (repo-tracked):
+
+- `assets/v040/surface_map_v040.json.sha256`
+
+Placeholder value in clean environments may be:
+
+- `UNSET  surface_map_v040.json`
+
+In that state, verification intentionally fails until the canonical checksum is set.
+
+Verify locally:
+
+```bash
+scripts/verify_surface_map_v040_checksum.sh
+```
+
+Or verify an explicit generated artifact path:
+
+```bash
+scripts/verify_surface_map_v040_checksum.sh assets/v040/surface_map_v040.json assets/v040/surface_map_v040.json.sha256
+```
+
+Policy: if checksum changes, treat it as an artifact contract change and bump the artifact version (`v0.4.1+`) with release notes before updating `assets/v040/surface_map_v040.json.sha256`.
