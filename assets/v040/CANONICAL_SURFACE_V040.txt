@@ -1,0 +1,9 @@
+HESPERIA v0.4.0 canonical surface governance note
+
+canonical_git_commit: UNSET
+surface_map_sha256: UNSET
+model_name: sentence-transformers/all-mpnet-base-v2
+model_revision: UNSET
+dict_a_sha256: UNSET
+
+Set these values only after running scripts/canonicalize_surface_v040.sh and committing the checksum update.

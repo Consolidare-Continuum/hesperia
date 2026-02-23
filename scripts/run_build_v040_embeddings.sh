@@ -8,6 +8,7 @@ OUT_DIR="${OUT_DIR:-${ROOT_DIR}/assets/v040}"
 DICT_A_PATH="${DICT_A_PATH:-${ROOT_DIR}/hesperia_lex/curated/A_CORE_STAR_MAP_v0_4_1_3.json}"
 CANDIDATES_PATH="${CANDIDATES_PATH:-}"
 MODE="${MODE:-balanced}"
+MODEL_REVISION="${MODEL_REVISION:-}"
 
 if [[ ! -f "${DICT_A_PATH}" ]]; then
   echo "ERROR: Dict A file not found: ${DICT_A_PATH}" >&2
@@ -16,6 +17,11 @@ fi
 
 if [[ -n "${CANDIDATES_PATH}" ]] && [[ ! -f "${CANDIDATES_PATH}" ]]; then
   echo "ERROR: Candidates file not found: ${CANDIDATES_PATH}" >&2
+  exit 1
+fi
+
+if [[ -z "${MODEL_REVISION}" ]]; then
+  echo "ERROR: MODEL_REVISION must be set (exact commit/tag pin; no floating latest)." >&2
   exit 1
 fi
 
@@ -38,7 +44,8 @@ CMD=(python -m sphere_rag.build_v040
   --dict-a "${DICT_A_PATH}"
   --assets-root "${ROOT_DIR}/hesperia_lex/curated"
   --out-dir "${OUT_DIR}"
-  --mode "${MODE}")
+  --mode "${MODE}"
+  --model-revision "${MODEL_REVISION}")
 
 if [[ -n "${CANDIDATES_PATH}" ]]; then
   CMD+=(--candidates "${CANDIDATES_PATH}")
