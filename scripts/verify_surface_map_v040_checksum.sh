@@ -18,7 +18,12 @@ fi
 expected_hash="$(awk '{print $1}' "${EXPECTED_FILE}")"
 actual_hash="$(sha256sum "${GENERATED_PATH}" | awk '{print $1}')"
 
-if [[ "${expected_hash}" == "UNSET" ]] || [[ "${expected_hash}" != "${actual_hash}" ]]; then
+if [[ "${expected_hash}" == "UNSET" ]]; then
+  echo "Expected checksum is UNSET — run canonicalize_surface_v040.sh to set it." >&2
+  exit 1
+fi
+
+if [[ "${expected_hash}" != "${actual_hash}" ]]; then
   echo "surface_map_v040 hash changed — bump version and update expected checksum" >&2
   echo "expected=${expected_hash}" >&2
   echo "actual=${actual_hash}" >&2

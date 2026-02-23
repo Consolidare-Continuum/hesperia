@@ -19,6 +19,7 @@ from .invariant_catalog import SIDES_PER_FAMILY, TOTAL_SIDES
 
 from .build_provenance_v040 import sha256_file, write_build_provenance_v040
 from .io_deterministic_json import write_json_deterministic
+from .validate_surface_map_v040 import validate_surface_map_file
 
 # Lazy import heavy deps
 _sentence_transformers = None
@@ -82,24 +83,28 @@ def load_dict_a_for_build(path: Path | None = None, assets_root: Path | None = N
 
 
 # ---------- Embedding model and anchors ----------
-def get_model_revision() -> str:
-    """Try to get pinned revision for MODEL_NAME from Hugging Face."""
-    try:
-        from huggingface_hub import model_info
-        info = model_info(C.MODEL_NAME)
-        return info.sha or info.id or "unknown"
-    except Exception:
-        return "unknown"
+def normalize_model_revision(model_revision: str | None) -> str:
+    """Validate model revision pin for deterministic builds."""
+    if model_revision is None:
+        raise SystemExit("FAIL: --model-revision is required; refusing floating model revision.")
+    revision = model_revision.strip()
+    if not revision or revision.lower() in {"unknown", "unset", "latest"}:
+        raise SystemExit(
+            f"FAIL: invalid model revision '{model_revision}'. Provide an exact commit/tag revision pin."
+        )
+    return revision
 
 
 def build_anchor_embeddings(
     dict_a: dict[str, dict[str, Any]],
     model_name: str = C.MODEL_NAME,
+    model_revision: str | None = None,
 ) -> tuple[list[dict[str, Any]], list[tuple[str, int, float]], object]:
     """Embed all Dict A lemmas. Returns (anchor_records, list of (lemma, familyGlobal, altitude), model)."""
     st = _get_st()
     np = _get_np()
-    model = st.SentenceTransformer(model_name)
+    revision = normalize_model_revision(model_revision)
+    model = st.SentenceTransformer(model_name, revision=revision)
     lemmas = sorted(dict_a.keys())
     if not lemmas:
         return [], [], model
@@ -725,8 +730,10 @@ def run_build(
     out_dir: Path | None = None,
     mode: str = "balanced",
     allow_small_build: bool = False,
+    model_revision: str | None = None,
 ) -> None:
     """Full pipeline: load Dict A, load candidates, build anchors → Dict B → surface → reports + manifest."""
+    pinned_model_revision = normalize_model_revision(model_revision)
     if out_dir is None:
         out_dir = Path(__file__).resolve().parent.parent / "assets" / "v040"
     out_dir = Path(out_dir)
@@ -767,7 +774,11 @@ def run_build(
         tau, delta, mu = C.MODE_BALANCED["tau"], C.MODE_BALANCED["delta"], C.MODE_BALANCED["mu"]
 
     # Anchors
-    anchor_records, _, model = build_anchor_embeddings(dict_a)
+    anchor_records, _, model = build_anchor_embeddings(
+        dict_a,
+        model_name=C.MODEL_NAME,
+        model_revision=pinned_model_revision,
+    )
     # Precheck: Dict A must cover enough families (unless allow_small_build)
     dict_a_covered_families = len(set(r["familyGlobal"] for r in anchor_records))
     if dict_a_covered_families < C.MIN_DICT_A_COVERED_FAMILIES and not allow_small_build:
@@ -897,6 +908,7 @@ def run_build(
     map_out = {str(sid): sorted(bucket) for sid, bucket in sorted(surface_map.items(), key=lambda x: x[0])}
     surface_map_path = out_dir / "surface_map_v040.json"
     write_json_deterministic(surface_map_path, map_out)
+    validate_surface_map_file(surface_map_path)
     surface_map_sha256 = sha256_file(surface_map_path)
     checksum_path = out_dir / "surface_map_v040.json.sha256"
     checksum_path.write_text(f"{surface_map_sha256}  surface_map_v040.json\n", encoding="utf-8")
@@ -908,7 +920,7 @@ def run_build(
     import platform
     manifest = {
         "model_name": C.MODEL_NAME,
-        "model_revision": get_model_revision(),
+        "model_revision": pinned_model_revision,
         "torch_version": torch.__version__,
         "python_version": platform.python_version(),
         "tau": tau,
@@ -948,6 +960,7 @@ if __name__ == "__main__":
     p.add_argument("--out-dir", type=Path, default=None, help="Output directory")
     p.add_argument("--mode", choices=["strict", "balanced", "exploratory"], default="balanced")
     p.add_argument("--allow-small-build", action="store_true", help="Allow build when covered families < 240 (tiny Dict A)")
+    p.add_argument("--model-revision", type=str, required=True, help="Exact model revision pin (commit/tag), required")
     args = p.parse_args()
     run_build(
         dict_a_path=args.dict_a,
@@ -956,4 +969,5 @@ if __name__ == "__main__":
         out_dir=args.out_dir,
         mode=args.mode,
         allow_small_build=args.allow_small_build,
+        model_revision=args.model_revision,
     )

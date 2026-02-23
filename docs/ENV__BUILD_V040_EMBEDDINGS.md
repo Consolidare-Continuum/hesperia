@@ -41,6 +41,7 @@ The runner:
   - `TRANSFORMERS_NO_FLAX=1`
 - runs `python -m sphere_rag.build_v040` with an explicit Dict A input:
   - `hesperia_lex/curated/A_CORE_STAR_MAP_v0_4_1_3.json`
+  - and an explicit `--model-revision` pin (required)
 - writes artifacts under `assets/v040` by default
 - fails loudly if required inputs or expected outputs are missing
 - prints `sha256` checksums for key artifacts
@@ -53,6 +54,15 @@ The fix is environment-level, not code-hack based:
 - explicit runtime env vars to keep transformers on the PyTorch path and avoid TF backend registration/import
 
 No runtime engine behavior is changed, and no TensorFlow dependency is required.
+
+## Model revision pinning (mandatory)
+
+`sphere_rag.build_v040` now requires:
+
+- `--model-revision <exact_sha_or_tag>`
+
+Build execution fails fast if revision is missing or floating (`UNKNOWN`, `UNSET`, `latest`).
+This ensures provenance and manifest records are truthful and reproducible.
 
 ## Verification commands
 
@@ -127,3 +137,70 @@ scripts/verify_surface_map_v040_checksum.sh assets/v040/surface_map_v040.json as
 ```
 
 Policy: if checksum changes, treat it as an artifact contract change and bump the artifact version (`v0.4.1+`) with release notes before updating `assets/v040/surface_map_v040.json.sha256`.
+
+## Surface schema validation
+
+Schema validator module:
+
+- `sphere_rag.validate_surface_map_v040`
+
+Validation gates:
+
+- artifact file exists
+- top-level is a JSON object
+- top-level keys are side ids (`str`/`int`)
+- each value is a list (non-empty)
+- each list item is either:
+  - token string (non-empty), or
+  - `[anchor_id, score]` where `anchor_id` is `str/int` and `score` is finite numeric
+- no NaN/Infinity float values are accepted
+
+Build integration: the v0.4.0 build now validates `surface_map_v040.json` immediately after writing it and fails non-zero on schema error.
+
+## Float policy
+
+Current `surface_map_v040.json` schema is token lists (`side_id -> [token, ...]`), so no floats are present in canonical output. Quantization is therefore not applicable for the surface artifact at this time.
+
+## Canonical surface workflow
+
+Use:
+
+```bash
+MODEL_REVISION=<exact_revision> scripts/canonicalize_surface_v040.sh
+```
+
+Workflow behavior:
+
+- runs v0.4.0 surface build with explicit `--dict-a`, `--assets-root`, `--out-dir`, and `--model-revision`
+- runs strict schema validator
+- applies checksum gate behavior:
+  - if expected checksum is `UNSET`, writes generated SHA into `assets/v040/surface_map_v040.json.sha256` and prints: **"Expected checksum set. Commit this change."**
+  - if expected checksum is already set, verifies exact match and fails on mismatch
+
+## Repeatability check (same machine)
+
+Use:
+
+```bash
+MODEL_REVISION=<exact_revision> scripts/check_repeatability_surface_v040.sh
+```
+
+The check builds surface artifacts twice in clean temp output directories and compares SHA256 values. Failure message is:
+
+- `Non-deterministic surface build detected: sha differs across two runs.`
+
+## Go/No-Go for Dict B generation
+
+### GO (all required)
+
+- `surface_map_v040.json` exists (real artifact, not placeholder)
+- `sphere_rag.validate_surface_map_v040` passes
+- expected checksum is set (non-`UNSET`) and `scripts/verify_surface_map_v040_checksum.sh` passes
+- repeatability check passes (two clean runs produce same SHA)
+- provenance records include:
+  - non-`UNKNOWN` `model_revision`
+  - correct Dict A SHA256
+
+### NO-GO
+
+If any GO criterion fails, do **not** proceed with Dict B governance/release generation. Surface must be canonical first.
