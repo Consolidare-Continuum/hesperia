@@ -1,0 +1,99 @@
+============================================================
+HESPERIA — SAFEGUARD STATE MACHINE SPEC v0.1
+============================================================
+
+Status: Locked (Grace 2026-02-18). No drift on threshold, valid_streak reset, or SAFEGUARD_STOP behaviour until Phase D or explicit change control.
+Version: v0.1
+Scope: Logic-based structural stability; three consecutive logical failures → stop traversal.
+Canonical source: governance/ETHAN-HESPERIA-LOOP-SAFEGUARD.md, governance/ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md §3.4.
+Refs: GRACE-HESPERIA-NEXT-DIRECTION.md, GENA-HESPERIA-SAFEGUARD-STRESS-TEST-RESULTS.md.
+
+============================================================
+1. HOP RESULT
+============================================================
+
+hop_result ∈ { 1, 0 }
+  1 = valid (hop satisfied; traversal may continue)
+  0 = invalid (logical failure)
+
+Logical failure (0) when any of:
+- UNSAT() — statement set unsatisfiable (c2p)
+- CONTRADICTION() — Area.detect_contradiction or p ∧ ¬p in state
+- ENTAILMENT_FAIL() — ENTAILS(Σ, φ) required but Σ ⊭ φ
+- POLARITY_CONFLICT() — polarity drift between axes
+- No satisfiable semantic continuation — SATISFY(constraints) returns None
+
+This is not a runtime error; it is a logical failure state.
+
+============================================================
+2. STATE (PER TRAVERSAL CONTEXT)
+============================================================
+
+fail_count   : integer ≥ 0 (consecutive logical-fail counter)
+valid_streak : integer ≥ 0 (consecutive valid hops)
+
+One (fail_count, valid_streak) per traversal context:
+- Hex traversal (per-hex hop sequence)
+- Family traversal (per-family hop sequence)
+- Area cross-polarity jump
+
+NOT global. Each context has its own counters.
+
+============================================================
+3. CONSTANTS (DO NOT CHANGE)
+============================================================
+
+CONSECUTIVE_FAIL_THRESHOLD = 3
+VALID_STREAK_RESET        = 2
+
+============================================================
+4. UPDATE RULE (PER HOP)
+============================================================
+
+if hop_result == 1:
+    valid_streak += 1
+    if valid_streak >= VALID_STREAK_RESET:
+        fail_count = 0
+else:
+    fail_count += 1
+    valid_streak = 0
+
+============================================================
+5. TRIGGER
+============================================================
+
+if fail_count >= CONSECUTIVE_FAIL_THRESHOLD:
+    SAFEGUARD_STOP(state, context)
+
+============================================================
+6. SAFEGUARD_STOP — BEHAVIOUR
+============================================================
+
+1. Freeze traversal (no further hops in this context).
+2. Mark region as LOGICAL_OBSTACLE_CLUSTER (hazard map: UNSAFE or equivalent).
+3. Store last 3 states (fail_trace for diagnosis or backtrack).
+4. Return STOP (caller may backtrack or report).
+
+Output: Traversal returns status = SAFEGUARD_STOP; optional fail_trace (last 3 hop states); obstacle_region marked.
+
+============================================================
+7. STATES SUMMARY
+============================================================
+
+CLEAR         : traversing; fail_count 0..2
+SAFEGUARD_STOP: fail_count ≥ 3; traversal frozen; region marked LOGICAL_OBSTACLE_CLUSTER
+
+============================================================
+8. IMPLEMENTATION REFERENCE
+============================================================
+
+sphere_rag (CLIENTS/hesperia):
+  - sphere_rag/safeguard_state_machine.py: TraversalSafeguard, run_traversal_with_safeguard, SafeguardStopPayload.
+  - sphere_rag/tests/test_safeguard_25_spec.py: stress tests (three_failures_trigger_stop, valid_streak_resets_fail_count).
+
+Cluster (when present): cluster/chroma-server/hesperia_safeguard_stress_test.py.
+Results: governance/GENA-HESPERIA-SAFEGUARD-STRESS-TEST-RESULTS.md.
+
+============================================================
+END OF SPEC.
+============================================================

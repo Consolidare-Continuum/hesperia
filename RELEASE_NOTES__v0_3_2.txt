@@ -1,0 +1,45 @@
+============================================================
+HESPERIA — RELEASE NOTES v0.3.2
+============================================================
+
+Version: 0.3.2
+Date: 2026-02-23
+Spec: 26_SPEC__v0_3_2_Repo_State_Accurate.txt
+
+------------------------------------------------------------
+What changed (additive, non-breaking vs v0.3 math)
+------------------------------------------------------------
+
+- Normative spec v0.3.2 added: deterministic geometry + metrics core, guard/shadow integration, canonical output contracts (§2), pipeline (§3), API surface (§6), repo alignment checklist (§7).
+- Minimal operational result: exactly 6 keys (dominant_area, dominant_family, governance, loopability, tension_energy, obstacle_score); int ranges 0..11 and 0..287 for area/family; finite floats only. Implemented in output_contracts_v032.to_minimal_operational_result().
+- Minimal error result: exactly 3 keys (error, message, code). Implemented in output_contracts_v032.make_error_result().
+- API server: GET /health and POST /hesperia/analyze (serve_v032.py); run_simulation.py serve [port]. Result path always passes Σ; no bypass.
+- README aligned with repo: lists actual modules (invariant_catalog, enforcer, guard_pipeline, core_math, serve_v032, etc.); notes missing geometry.py, semantic_engine.py, metrics.py, phase_engine.py and points to invariant_catalog + hesperia_v03_core_math.
+
+------------------------------------------------------------
+What is still missing (per 26_SPEC §7)
+------------------------------------------------------------
+
+- text → (dominant Area, dominant Family): Step 1 attribution (Dictionary A/B → seed sides) is not wired into POST /hesperia/analyze; endpoint runs deterministic core only. When attribution is added, same 6-key contract applies.
+- Full pipeline Steps 0–2: normalize/tokenize/length-cap and region seed from attribution are not implemented in the server path.
+- Shadow as first-class in the HTTP path: shadow_layer.py exists and is integrable; server currently returns base-plane result only.
+- scripts/phase_traversal.py and phase_traversal_selftest.py: not in repo; run_simulation full/chroma/serve and core_math tests cover runnable entry points and determinism.
+
+------------------------------------------------------------
+Compliance summary
+------------------------------------------------------------
+
+- §1 Constants: Implemented (invariant_catalog.py); frozen.
+- §2.1 Minimal result: Implemented (output_contracts_v032 + run_api → to_minimal_operational_result).
+- §2.2 Error result: Implemented (make_error_result; used on 400/413/500).
+- §4 Shadow: shadow_layer.py present; integration in HTTP path optional for v0.3.2.
+- §5 Guard discipline: Σ non-bypassable (run_api/serve use Sigma); bounds enforced.
+- §6 API: GET /health and POST /hesperia/analyze implemented; OPTIONS for CORS.
+- §7.1 README: Updated to match repo.
+- §7.2 Entry point: run_simulation.py full | chroma | serve; serve_v032.py.
+- §7.3 Tests: Determinism and Σ enforcement covered in test_invariant_v03, test_guard_pipeline_v031, test_adversarial_v03, hesperia_v03_core_math.py test.
+- §7.4 Versioning: This file (RELEASE_NOTES__v0_3_2.txt).
+
+============================================================
+END OF RELEASE NOTES v0.3.2
+============================================================
