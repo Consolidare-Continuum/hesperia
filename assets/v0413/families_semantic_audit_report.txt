@@ -1,0 +1,324 @@
+Families v0.4.1.3 semantic audit report
+====================================================
+families_count=288 errors=0 warnings=0
+
+Per-area max overlap summary (central/boundary):
+area 01: max_central_overlap=0 max_boundary_overlap=0
+area 02: max_central_overlap=0 max_boundary_overlap=0
+area 03: max_central_overlap=0 max_boundary_overlap=0
+area 04: max_central_overlap=0 max_boundary_overlap=0
+area 05: max_central_overlap=0 max_boundary_overlap=0
+area 06: max_central_overlap=0 max_boundary_overlap=0
+area 07: max_central_overlap=0 max_boundary_overlap=0
+area 08: max_central_overlap=0 max_boundary_overlap=0
+area 09: max_central_overlap=0 max_boundary_overlap=0
+area 10: max_central_overlap=0 max_boundary_overlap=0
+area 11: max_central_overlap=0 max_boundary_overlap=0
+area 12: max_central_overlap=0 max_boundary_overlap=0
+
+Top duplicated central tokens:
+
+Top duplicated boundary tokens:
+
+Mirror pairs:
+  2<->199
+  8<->208
+  12<->210
+  15<->196
+  19<->204
+  21<->188
+  23<->193
+  52<->161
+  56<->147
+  57<->120
+  63<->107
+
+Per-family counts (real + structural-ready):
+  family 001: central=6 boundary=4 structural=2 real=10
+  family 002: central=6 boundary=4 structural=2 real=10
+  family 003: central=6 boundary=4 structural=2 real=10
+  family 004: central=6 boundary=4 structural=2 real=10
+  family 005: central=6 boundary=4 structural=2 real=10
+  family 006: central=6 boundary=4 structural=2 real=10
+  family 007: central=6 boundary=4 structural=2 real=10
+  family 008: central=6 boundary=4 structural=2 real=10
+  family 009: central=6 boundary=4 structural=2 real=10
+  family 010: central=6 boundary=4 structural=2 real=10
+  family 011: central=6 boundary=4 structural=2 real=10
+  family 012: central=6 boundary=4 structural=2 real=10
+  family 013: central=6 boundary=4 structural=2 real=10
+  family 014: central=6 boundary=4 structural=2 real=10
+  family 015: central=6 boundary=4 structural=2 real=10
+  family 016: central=6 boundary=4 structural=2 real=10
+  family 017: central=6 boundary=4 structural=2 real=10
+  family 018: central=6 boundary=4 structural=2 real=10
+  family 019: central=6 boundary=4 structural=2 real=10
+  family 020: central=6 boundary=4 structural=2 real=10
+  family 021: central=6 boundary=4 structural=2 real=10
+  family 022: central=6 boundary=4 structural=2 real=10
+  family 023: central=6 boundary=4 structural=2 real=10
+  family 024: central=6 boundary=4 structural=2 real=10
+  family 025: central=6 boundary=4 structural=2 real=10
+  family 026: central=6 boundary=4 structural=2 real=10
+  family 027: central=6 boundary=4 structural=2 real=10
+  family 028: central=6 boundary=4 structural=2 real=10
+  family 029: central=6 boundary=4 structural=2 real=10
+  family 030: central=6 boundary=4 structural=2 real=10
+  family 031: central=6 boundary=4 structural=2 real=10
+  family 032: central=6 boundary=4 structural=2 real=10
+  family 033: central=6 boundary=4 structural=2 real=10
+  family 034: central=6 boundary=4 structural=2 real=10
+  family 035: central=6 boundary=4 structural=2 real=10
+  family 036: central=6 boundary=4 structural=2 real=10
+  family 037: central=6 boundary=4 structural=2 real=10
+  family 038: central=6 boundary=4 structural=2 real=10
+  family 039: central=6 boundary=4 structural=2 real=10
+  family 040: central=6 boundary=4 structural=2 real=10
+  family 041: central=6 boundary=4 structural=2 real=10
+  family 042: central=6 boundary=4 structural=2 real=10
+  family 043: central=6 boundary=4 structural=2 real=10
+  family 044: central=6 boundary=4 structural=2 real=10
+  family 045: central=6 boundary=4 structural=2 real=10
+  family 046: central=6 boundary=4 structural=2 real=10
+  family 047: central=6 boundary=4 structural=2 real=10
+  family 048: central=6 boundary=4 structural=2 real=10
+  family 049: central=6 boundary=4 structural=2 real=10
+  family 050: central=6 boundary=4 structural=2 real=10
+  family 051: central=6 boundary=4 structural=2 real=10
+  family 052: central=6 boundary=4 structural=2 real=10
+  family 053: central=6 boundary=4 structural=2 real=10
+  family 054: central=6 boundary=4 structural=2 real=10
+  family 055: central=6 boundary=4 structural=2 real=10
+  family 056: central=6 boundary=4 structural=2 real=10
+  family 057: central=6 boundary=4 structural=2 real=10
+  family 058: central=6 boundary=4 structural=2 real=10
+  family 059: central=6 boundary=4 structural=2 real=10
+  family 060: central=6 boundary=4 structural=2 real=10
+  family 061: central=6 boundary=4 structural=2 real=10
+  family 062: central=6 boundary=4 structural=2 real=10
+  family 063: central=6 boundary=4 structural=2 real=10
+  family 064: central=6 boundary=4 structural=2 real=10
+  family 065: central=6 boundary=4 structural=2 real=10
+  family 066: central=6 boundary=4 structural=2 real=10
+  family 067: central=6 boundary=4 structural=2 real=10
+  family 068: central=6 boundary=4 structural=2 real=10
+  family 069: central=6 boundary=4 structural=2 real=10
+  family 070: central=6 boundary=4 structural=2 real=10
+  family 071: central=6 boundary=4 structural=2 real=10
+  family 072: central=6 boundary=4 structural=2 real=10
+  family 073: central=6 boundary=4 structural=2 real=10
+  family 074: central=6 boundary=4 structural=2 real=10
+  family 075: central=6 boundary=4 structural=2 real=10
+  family 076: central=6 boundary=4 structural=2 real=10
+  family 077: central=6 boundary=4 structural=2 real=10
+  family 078: central=6 boundary=4 structural=2 real=10
+  family 079: central=6 boundary=4 structural=2 real=10
+  family 080: central=6 boundary=4 structural=2 real=10
+  family 081: central=6 boundary=4 structural=2 real=10
+  family 082: central=6 boundary=4 structural=2 real=10
+  family 083: central=6 boundary=4 structural=2 real=10
+  family 084: central=6 boundary=4 structural=2 real=10
+  family 085: central=6 boundary=4 structural=2 real=10
+  family 086: central=6 boundary=4 structural=2 real=10
+  family 087: central=6 boundary=4 structural=2 real=10
+  family 088: central=6 boundary=4 structural=2 real=10
+  family 089: central=6 boundary=4 structural=2 real=10
+  family 090: central=6 boundary=4 structural=2 real=10
+  family 091: central=6 boundary=4 structural=2 real=10
+  family 092: central=6 boundary=4 structural=2 real=10
+  family 093: central=6 boundary=4 structural=2 real=10
+  family 094: central=6 boundary=4 structural=2 real=10
+  family 095: central=6 boundary=4 structural=2 real=10
+  family 096: central=6 boundary=4 structural=2 real=10
+  family 097: central=6 boundary=4 structural=2 real=10
+  family 098: central=6 boundary=4 structural=2 real=10
+  family 099: central=6 boundary=4 structural=2 real=10
+  family 100: central=6 boundary=4 structural=2 real=10
+  family 101: central=6 boundary=4 structural=2 real=10
+  family 102: central=6 boundary=4 structural=2 real=10
+  family 103: central=6 boundary=4 structural=2 real=10
+  family 104: central=6 boundary=4 structural=2 real=10
+  family 105: central=6 boundary=4 structural=2 real=10
+  family 106: central=6 boundary=4 structural=2 real=10
+  family 107: central=6 boundary=4 structural=2 real=10
+  family 108: central=6 boundary=4 structural=2 real=10
+  family 109: central=6 boundary=4 structural=2 real=10
+  family 110: central=6 boundary=4 structural=2 real=10
+  family 111: central=6 boundary=4 structural=2 real=10
+  family 112: central=6 boundary=4 structural=2 real=10
+  family 113: central=6 boundary=4 structural=2 real=10
+  family 114: central=6 boundary=4 structural=2 real=10
+  family 115: central=6 boundary=4 structural=2 real=10
+  family 116: central=6 boundary=4 structural=2 real=10
+  family 117: central=6 boundary=4 structural=2 real=10
+  family 118: central=6 boundary=4 structural=2 real=10
+  family 119: central=6 boundary=4 structural=2 real=10
+  family 120: central=6 boundary=4 structural=2 real=10
+  family 121: central=6 boundary=4 structural=2 real=10
+  family 122: central=6 boundary=4 structural=2 real=10
+  family 123: central=6 boundary=4 structural=2 real=10
+  family 124: central=6 boundary=4 structural=2 real=10
+  family 125: central=6 boundary=4 structural=2 real=10
+  family 126: central=6 boundary=4 structural=2 real=10
+  family 127: central=6 boundary=4 structural=2 real=10
+  family 128: central=6 boundary=4 structural=2 real=10
+  family 129: central=6 boundary=4 structural=2 real=10
+  family 130: central=6 boundary=4 structural=2 real=10
+  family 131: central=6 boundary=4 structural=2 real=10
+  family 132: central=6 boundary=4 structural=2 real=10
+  family 133: central=6 boundary=4 structural=2 real=10
+  family 134: central=6 boundary=4 structural=2 real=10
+  family 135: central=6 boundary=4 structural=2 real=10
+  family 136: central=6 boundary=4 structural=2 real=10
+  family 137: central=6 boundary=4 structural=2 real=10
+  family 138: central=6 boundary=4 structural=2 real=10
+  family 139: central=6 boundary=4 structural=2 real=10
+  family 140: central=6 boundary=4 structural=2 real=10
+  family 141: central=6 boundary=4 structural=2 real=10
+  family 142: central=6 boundary=4 structural=2 real=10
+  family 143: central=6 boundary=4 structural=2 real=10
+  family 144: central=6 boundary=4 structural=2 real=10
+  family 145: central=6 boundary=4 structural=2 real=10
+  family 146: central=6 boundary=4 structural=2 real=10
+  family 147: central=6 boundary=4 structural=2 real=10
+  family 148: central=6 boundary=4 structural=2 real=10
+  family 149: central=6 boundary=4 structural=2 real=10
+  family 150: central=6 boundary=4 structural=2 real=10
+  family 151: central=6 boundary=4 structural=2 real=10
+  family 152: central=6 boundary=4 structural=2 real=10
+  family 153: central=6 boundary=4 structural=2 real=10
+  family 154: central=6 boundary=4 structural=2 real=10
+  family 155: central=6 boundary=4 structural=2 real=10
+  family 156: central=6 boundary=4 structural=2 real=10
+  family 157: central=6 boundary=4 structural=2 real=10
+  family 158: central=6 boundary=4 structural=2 real=10
+  family 159: central=6 boundary=4 structural=2 real=10
+  family 160: central=6 boundary=4 structural=2 real=10
+  family 161: central=6 boundary=4 structural=2 real=10
+  family 162: central=6 boundary=4 structural=2 real=10
+  family 163: central=6 boundary=4 structural=2 real=10
+  family 164: central=6 boundary=4 structural=2 real=10
+  family 165: central=6 boundary=4 structural=2 real=10
+  family 166: central=6 boundary=4 structural=2 real=10
+  family 167: central=6 boundary=4 structural=2 real=10
+  family 168: central=6 boundary=4 structural=2 real=10
+  family 169: central=6 boundary=4 structural=2 real=10
+  family 170: central=6 boundary=4 structural=2 real=10
+  family 171: central=6 boundary=4 structural=2 real=10
+  family 172: central=6 boundary=4 structural=2 real=10
+  family 173: central=6 boundary=4 structural=2 real=10
+  family 174: central=6 boundary=4 structural=2 real=10
+  family 175: central=6 boundary=4 structural=2 real=10
+  family 176: central=6 boundary=4 structural=2 real=10
+  family 177: central=6 boundary=4 structural=2 real=10
+  family 178: central=6 boundary=4 structural=2 real=10
+  family 179: central=6 boundary=4 structural=2 real=10
+  family 180: central=6 boundary=4 structural=2 real=10
+  family 181: central=6 boundary=4 structural=2 real=10
+  family 182: central=6 boundary=4 structural=2 real=10
+  family 183: central=6 boundary=4 structural=2 real=10
+  family 184: central=6 boundary=4 structural=2 real=10
+  family 185: central=6 boundary=4 structural=2 real=10
+  family 186: central=6 boundary=4 structural=2 real=10
+  family 187: central=6 boundary=4 structural=2 real=10
+  family 188: central=6 boundary=4 structural=2 real=10
+  family 189: central=6 boundary=4 structural=2 real=10
+  family 190: central=6 boundary=4 structural=2 real=10
+  family 191: central=6 boundary=4 structural=2 real=10
+  family 192: central=6 boundary=4 structural=2 real=10
+  family 193: central=6 boundary=4 structural=2 real=10
+  family 194: central=6 boundary=4 structural=2 real=10
+  family 195: central=6 boundary=4 structural=2 real=10
+  family 196: central=6 boundary=4 structural=2 real=10
+  family 197: central=6 boundary=4 structural=2 real=10
+  family 198: central=6 boundary=4 structural=2 real=10
+  family 199: central=6 boundary=4 structural=2 real=10
+  family 200: central=6 boundary=4 structural=2 real=10
+  family 201: central=6 boundary=4 structural=2 real=10
+  family 202: central=6 boundary=4 structural=2 real=10
+  family 203: central=6 boundary=4 structural=2 real=10
+  family 204: central=6 boundary=4 structural=2 real=10
+  family 205: central=6 boundary=4 structural=2 real=10
+  family 206: central=6 boundary=4 structural=2 real=10
+  family 207: central=6 boundary=4 structural=2 real=10
+  family 208: central=6 boundary=4 structural=2 real=10
+  family 209: central=6 boundary=4 structural=2 real=10
+  family 210: central=6 boundary=4 structural=2 real=10
+  family 211: central=6 boundary=4 structural=2 real=10
+  family 212: central=6 boundary=4 structural=2 real=10
+  family 213: central=6 boundary=4 structural=2 real=10
+  family 214: central=6 boundary=4 structural=2 real=10
+  family 215: central=6 boundary=4 structural=2 real=10
+  family 216: central=6 boundary=4 structural=2 real=10
+  family 217: central=6 boundary=4 structural=2 real=10
+  family 218: central=6 boundary=4 structural=2 real=10
+  family 219: central=6 boundary=4 structural=2 real=10
+  family 220: central=6 boundary=4 structural=2 real=10
+  family 221: central=6 boundary=4 structural=2 real=10
+  family 222: central=6 boundary=4 structural=2 real=10
+  family 223: central=6 boundary=4 structural=2 real=10
+  family 224: central=6 boundary=4 structural=2 real=10
+  family 225: central=6 boundary=4 structural=2 real=10
+  family 226: central=6 boundary=4 structural=2 real=10
+  family 227: central=6 boundary=4 structural=2 real=10
+  family 228: central=6 boundary=4 structural=2 real=10
+  family 229: central=6 boundary=4 structural=2 real=10
+  family 230: central=6 boundary=4 structural=2 real=10
+  family 231: central=6 boundary=4 structural=2 real=10
+  family 232: central=6 boundary=4 structural=2 real=10
+  family 233: central=6 boundary=4 structural=2 real=10
+  family 234: central=6 boundary=4 structural=2 real=10
+  family 235: central=6 boundary=4 structural=2 real=10
+  family 236: central=6 boundary=4 structural=2 real=10
+  family 237: central=6 boundary=4 structural=2 real=10
+  family 238: central=6 boundary=4 structural=2 real=10
+  family 239: central=6 boundary=4 structural=2 real=10
+  family 240: central=6 boundary=4 structural=2 real=10
+  family 241: central=6 boundary=4 structural=2 real=10
+  family 242: central=6 boundary=4 structural=2 real=10
+  family 243: central=6 boundary=4 structural=2 real=10
+  family 244: central=6 boundary=4 structural=2 real=10
+  family 245: central=6 boundary=4 structural=2 real=10
+  family 246: central=6 boundary=4 structural=2 real=10
+  family 247: central=6 boundary=4 structural=2 real=10
+  family 248: central=6 boundary=4 structural=2 real=10
+  family 249: central=6 boundary=4 structural=2 real=10
+  family 250: central=6 boundary=4 structural=2 real=10
+  family 251: central=6 boundary=4 structural=2 real=10
+  family 252: central=6 boundary=4 structural=2 real=10
+  family 253: central=6 boundary=4 structural=2 real=10
+  family 254: central=6 boundary=4 structural=2 real=10
+  family 255: central=6 boundary=4 structural=2 real=10
+  family 256: central=6 boundary=4 structural=2 real=10
+  family 257: central=6 boundary=4 structural=2 real=10
+  family 258: central=6 boundary=4 structural=2 real=10
+  family 259: central=6 boundary=4 structural=2 real=10
+  family 260: central=6 boundary=4 structural=2 real=10
+  family 261: central=6 boundary=4 structural=2 real=10
+  family 262: central=6 boundary=4 structural=2 real=10
+  family 263: central=6 boundary=4 structural=2 real=10
+  family 264: central=6 boundary=4 structural=2 real=10
+  family 265: central=6 boundary=4 structural=2 real=10
+  family 266: central=6 boundary=4 structural=2 real=10
+  family 267: central=6 boundary=4 structural=2 real=10
+  family 268: central=6 boundary=4 structural=2 real=10
+  family 269: central=6 boundary=4 structural=2 real=10
+  family 270: central=6 boundary=4 structural=2 real=10
+  family 271: central=6 boundary=4 structural=2 real=10
+  family 272: central=6 boundary=4 structural=2 real=10
+  family 273: central=6 boundary=4 structural=2 real=10
+  family 274: central=6 boundary=4 structural=2 real=10
+  family 275: central=6 boundary=4 structural=2 real=10
+  family 276: central=6 boundary=4 structural=2 real=10
+  family 277: central=6 boundary=4 structural=2 real=10
+  family 278: central=6 boundary=4 structural=2 real=10
+  family 279: central=6 boundary=4 structural=2 real=10
+  family 280: central=6 boundary=4 structural=2 real=10
+  family 281: central=6 boundary=4 structural=2 real=10
+  family 282: central=6 boundary=4 structural=2 real=10
+  family 283: central=6 boundary=4 structural=2 real=10
+  family 284: central=6 boundary=4 structural=2 real=10
+  family 285: central=6 boundary=4 structural=2 real=10
+  family 286: central=6 boundary=4 structural=2 real=10
+  family 287: central=6 boundary=4 structural=2 real=10
+  family 288: central=6 boundary=4 structural=2 real=10
