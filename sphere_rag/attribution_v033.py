@@ -21,6 +21,22 @@ from pathlib import Path
 from typing import Any
 
 try:
+    from hesperia_lex.definitions.v0414.explain_landing import explain_landing
+except ImportError:
+    def explain_landing(
+        token: str,
+        dict_a: dict[str, dict[str, Any]],
+        b0: dict[str, int],
+        b1_optional: dict[str, int] | None,
+    ) -> dict[str, Any]:
+        t = token.strip().lower()
+        if t in dict_a:
+            return {"landing_source": "A", "familyGlobal": int(dict_a[t].get("familyGlobal", -1))}
+        if t in b0:
+            return {"landing_source": "B0", "familyGlobal": int(b0[t])}
+        return {"landing_source": "NONE", "familyGlobal": None}
+
+try:
     from .invariant_catalog import (
         FAMILIES_PER_AREA,
         SIDES_PER_FAMILY,
@@ -87,7 +103,8 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
     # Default: v0.4.1.1 (semantic, gates). v0.4.1 (A_CORE_STAR_MAP_v1) deprecated for builds.
     default = root / "A_CORE_STAR_MAP_v0_4_1_1.json"
-    path = path or default
+    legacy_default = root / "A_CORE_STAR_MAP_v1.json"
+    path = path or (default if default.exists() else legacy_default)
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as f:
@@ -126,29 +143,66 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
     Returns dict: token_lower -> familyGlobal (0..287).
     """
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
-    default = root / "B_SURFACE_LEX_FIELD_v1.json"
-    path = path or default
-    if not path.exists():
-        return {}
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
-    out: dict[str, int] = {}
-    for sid_str, entry in data.items():
-        if not isinstance(entry, dict):
-            continue
-        try:
-            sid_int = int(sid_str)
-        except (TypeError, ValueError):
-            continue
-        if sid_int < 0 or sid_int >= TOTAL_SIDES:
-            continue
-        fg = sid_int // SIDES_PER_FAMILY
-        lemma = entry.get("canonical_lemma") or entry.get("lemma")
-        if isinstance(lemma, str) and lemma.strip():
-            out[lemma.strip().lower()] = fg
-        for alias in entry.get("aliases") or []:
-            if isinstance(alias, str) and alias.strip():
-                out[alias.strip().lower()] = fg
+    repo_root = Path(__file__).resolve().parent.parent
+    b0_path = repo_root / "hesperia_lex/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
+    legacy_b0_path = repo_root / "hesperia_lex/frozen/dict_b_v040_from_a_v0413.json"
+    b1_path = repo_root / "hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json"
+    token_to_side_path = root / "token_to_side_id_v040.json"
+    legacy_path = path or (root / "B_SURFACE_LEX_FIELD_v1.json")
+
+    b0: dict[str, int] = {}
+    for candidate in (b0_path, legacy_b0_path):
+        if candidate.exists():
+            with open(candidate, encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                b0 = {str(k).strip().lower(): int(v) for k, v in data.items() if isinstance(k, str)}
+                break
+
+    b1: dict[str, int] = {}
+    if b1_path.exists():
+        with open(b1_path, encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            b1 = {str(k): int(v) for k, v in data.items() if isinstance(k, str)}
+
+    token_to_side: dict[str, int] = {}
+    if token_to_side_path.exists():
+        with open(token_to_side_path, encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            token_to_side = {str(k).strip().lower(): int(v) for k, v in data.items() if isinstance(k, str)}
+
+    legacy: dict[str, int] = {}
+    if legacy_path.exists():
+        with open(legacy_path, encoding="utf-8") as f:
+            data = json.load(f)
+        for sid_str, entry in data.items():
+            if not isinstance(entry, dict):
+                continue
+            try:
+                sid_int = int(sid_str)
+            except (TypeError, ValueError):
+                continue
+            if sid_int < 0 or sid_int >= TOTAL_SIDES:
+                continue
+            fg = sid_int // SIDES_PER_FAMILY
+            lemma = entry.get("canonical_lemma") or entry.get("lemma")
+            if isinstance(lemma, str) and lemma.strip():
+                legacy[lemma.strip().lower()] = fg
+            for alias in entry.get("aliases") or []:
+                if isinstance(alias, str) and alias.strip():
+                    legacy[alias.strip().lower()] = fg
+
+    # Token landing fallback map used by existing callers:
+    # B1 token->side->family when mapping exists; then B0; then legacy.
+    out = dict(legacy)
+    out.update(b0)
+    if token_to_side and b1:
+        for token, side_id in token_to_side.items():
+            family = b1.get(str(side_id))
+            if family is not None:
+                out[token] = family
     return out
 
 
@@ -165,17 +219,29 @@ def attribute(
     default_altitude_b = _clamp_altitude(default_altitude_b)
     matched: list[tuple[int, float]] = []
     total = len(tokens)
+    landing_counts = {"A": 0, "B0": 0, "B1": 0, "NONE": 0}
     for t in tokens:
-        if t in dict_a:
-            e = dict_a[t]
-            fg = int(e["familyGlobal"])
-            alt = _clamp_altitude(e.get("altitude", 0.5))
+        # For v0.3.3 compatibility, dict_b is already a merged deterministic fallback map.
+        # explain_landing is used as a minimal logging helper (A/B0/NONE here; B1 when token->side map is provided).
+        explained = explain_landing(t, dict_a=dict_a, b0=dict_b, b1_optional=None)
+        source = explained["landing_source"]
+        if source == "A":
+            fg = int(explained["familyGlobal"])
+            alt = _clamp_altitude(dict_a[t].get("altitude", 0.5))
             if 0 <= fg < 288:
                 matched.append((fg, alt))
-        elif t in dict_b:
-            fg = dict_b[t]
+                landing_counts[source] += 1
+            else:
+                landing_counts["NONE"] += 1
+        elif source in ("B0", "B1"):
+            fg = int(explained["familyGlobal"])
             if 0 <= fg < 288:
                 matched.append((fg, default_altitude_b))
+                landing_counts[source] += 1
+            else:
+                landing_counts["NONE"] += 1
+        else:
+            landing_counts["NONE"] += 1
     unmatched = total - len(matched)
     coverage = (len(matched) / total) if total > 0 else 0.0
     mean_alt_global = (sum(m[1] for m in matched) / len(matched)) if matched else 0.0
@@ -185,6 +251,7 @@ def attribute(
         "unmatched_tokens": unmatched,
         "attribution_coverage": coverage,
         "meanAltitude_global": mean_alt_global,
+        "landing_source_counts": landing_counts,
     }
     return matched, metrics
 

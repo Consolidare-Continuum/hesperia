@@ -139,6 +139,9 @@ For quick onboarding, choose the path that matches your role.
 - `docs/TASK__v0413_FAMILIES_SEMANTIC_CANONICALIZATION.md` + `hesperia_lex/definitions/v0413/families.yaml`
   **v0.4.1.3.** Semantic canonicalization layer (single YAML, overlap controls, mirror checks, semantic audit report). Validate/build: see `hesperia_lex/definitions/v0413/README.md`.
 
+- `docs/DICT-B-FREEZE-v0_4_1_4.md`
+  Dict B v0.4.1.4 freeze split: B0 token fallback vs B1 surface alignment (hard-gated by surface source).
+
 - `32_FAMILIES__concise_spec_v2_1.txt`
   Concise family spec v2.1 with borders and edge families.
 
@@ -187,6 +190,9 @@ For quick onboarding, choose the path that matches your role.
   Mapping of books/authors into Areas (CSV).
 
 ## 7. Code and Reference Implementation
+
+- `docs/ENV__BUILD_V040_EMBEDDINGS.md`
+  Deterministic environment hardening guidance for optional embedding/surface build path (`sphere_rag.build_v040`).
 
 - `RUNNABLE.md`
   All runnable entry points: one-shot pre-test, v0.4.0/v0.4.1 builds, core_math, run_simulation modes, pytest. Cursor-traversable.
