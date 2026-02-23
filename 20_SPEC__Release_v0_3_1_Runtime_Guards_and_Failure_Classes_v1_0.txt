@@ -1,0 +1,141 @@
+============================================================
+HESPERIA — RELEASE SCOPE SPEC v0.3.1
+Runtime Guards Integration (ΣΓΘ) + Failure Classes
+============================================================
+
+STATUS
+------
+Target Release: v0.3.1
+Scope Type: Wiring + containment
+Primary Goal: Turn guard concepts into an execution pipeline with clear failure rules.
+Non-goal: No new geometry, no new features beyond minimal bounded adjustments.
+
+Dependencies (normative):
+- 16_SPEC__Structural_Invariants_v1_0.txt (Σ invariants)
+- v0.3 enforcement layer (Σ implemented)
+- Existing API contract (6 success keys, 3 error keys)
+
+============================================================
+1. GUARD PIPELINE (NORMATIVE ORDER)
+============================================================
+
+Every analysis request MUST execute guards in this order:
+
+1) Σ (Sigma) — Structural / Ontological Integrity
+   - If Σ fails with HARD_STOP -> return error (code 500 or 400 depending on fault)
+   - If Σ yields DATA_REJECT at retrieval stage -> continue with reduced evidence set
+   - Σ performs domain clamping
+
+2) Γ (Gamma) — Traversal Stability Guard (bounded, non-semantic)
+   Purpose: detect unstable runs and prevent runaway confidence.
+
+   Gamma checks (minimum):
+   - traversal_length (if available)
+   - excessive area-hopping frequency
+   - “star-run” signature: low loopability + high spread
+
+   Gamma outputs:
+   - gammaPenalty ∈ [0,1] (0 = stable, 1 = unstable)
+
+3) Θ (Theta) — Final Output Gate (governance & confidence gate)
+   Purpose: ensure the response cannot claim stability when evidence is thin.
+
+   Theta applies:
+   - governance := governance * (1 - gammaPenalty)
+   - governance cap under degraded conditions (see Section 3)
+
+No other ordering is allowed.
+
+============================================================
+2. FAILURE CLASSES (REQUIRED AND EXPLICIT)
+============================================================
+
+v0.3.1 requires standardized failure classes:
+
+HARD_STOP:
+- Structural impossibility
+- Indexing mismatch
+- Broken output contract
+Action: return error response (3 keys).
+
+DATA_REJECT:
+- Individual item invalid (document, side, family label mismatch)
+Action: drop item, continue if remaining evidence exists.
+
+DEGRADED_STATE:
+- Valid structure, but stability or evidence is insufficient
+Action: return success response (6 keys) with conservative constraints.
+
+WARN:
+- Non-critical: missing metadata, partial fields, minor performance issues
+Action: log only.
+
+============================================================
+3. DEGRADED_STATE RULES (NO API SHAPE CHANGE)
+============================================================
+
+Because success response keys are frozen, DEGRADED_STATE must be expressed
+only through existing numeric fields:
+
+Define constants:
+- G_DEGRADED_MAX = 0.25 (default)
+- LOOP_DEGRADED_MAX = 0.35 (default)
+
+Trigger degraded state if ANY:
+- evidence_count == 0
+- dominant_area is chosen from fallback logic
+- gammaPenalty >= 0.60
+- loopability <= LOOP_DEGRADED_MAX
+
+On degraded state:
+- governance := min(governance, G_DEGRADED_MAX)
+- loopability := min(loopability, LOOP_DEGRADED_MAX)
+- tension_energy := tension_energy + (1 - governance)  // bounded increase
+- obstacle_score := obstacle_score + gammaPenalty      // bounded increase
+
+All values must still respect Σ domain clamps.
+
+============================================================
+4. MINIMAL BOUNDED MECHANICS (ALLOWED IN v0.3.1)
+============================================================
+
+Only “bounded nudges” are permitted (no new semantics):
+
+4.1 Drag (length-based governance decay)
+If traversal_length is available:
+- if traversal_length > L0:
+    governance := governance - α * (traversal_length - L0)
+Where:
+- α > 0
+- governance is clamped to [0,1] by Σ
+
+4.2 Sinkage trigger (loop failure increases energy)
+If loopability < β:
+- tension_energy := tension_energy + γ
+All clamped / non-negative via Σ.
+
+Values α, β, γ, L0 MUST be stored as constants with documented defaults.
+
+============================================================
+5. ACCEPTANCE CRITERIA
+============================================================
+
+A) Guard order is enforced: Σ then Γ then Θ.
+B) Each failure class produces the correct action (hard-stop vs degrade vs reject).
+C) Success response remains EXACTLY 6 keys.
+D) Degraded conditions reduce governance deterministically (<= G_DEGRADED_MAX).
+E) GammaPenalty is bounded [0,1] and cannot increase governance.
+F) All domain clamps from Σ still hold after Γ/Θ.
+
+============================================================
+6. REQUIRED ARTIFACTS (FILES)
+============================================================
+
+v0.3.1 must include:
+- guard_pipeline.*            (or equivalent wiring module)
+- failure_classes.*           (enum / constants / mapping)
+- gamma_guard.*               (stability checks)
+- theta_gate.*                (final governance gate)
+- tests_guards.*              (pipeline + failure class tests)
+
+END OF SPEC v0.3.1

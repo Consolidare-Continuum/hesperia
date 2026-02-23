@@ -1,0 +1,133 @@
+============================================================
+HESPERIA — RELEASE SCOPE SPEC v0.3
+Structural Enforcement Layer (Σ Runtime Enforcement)
+============================================================
+
+STATUS
+------
+Target Release: v0.3
+Scope Type: Stabilization (no feature expansion)
+Primary Goal: Enforce structural invariants at runtime (not just “spec-only”)
+Non-goal: No geometry redesign, no new traversal mechanics, no shadow layer.
+
+Inputs / Dependencies (normative):
+- 13_SPEC__Indexing_and_Coordinates_v1_0.txt
+- 16_SPEC__Structural_Invariants_v1_0.txt
+- 10_MASTER_SPEC__HESPERIA_v1_0.txt
+- Current API contract (6-field success; 3-field error)
+
+============================================================
+1. PROBLEM STATEMENT
+============================================================
+
+HESPERIA currently risks “silent corruption”:
+- ontology drift (area/family typos, non-canonical labels)
+- indexing mismatch (sideId mapping, off-by-one errors)
+- output shape drift (extra keys, missing keys, type changes)
+- invalid metric domains (negative energies, governance out of bounds)
+
+v0.3 introduces enforced invariants so corruption becomes:
+- hard-stop errors (structural impossibility)
+or
+- deterministic degraded outputs (mathematically valid but low confidence)
+
+============================================================
+2. SCOPE (WHAT v0.3 MUST DELIVER)
+============================================================
+
+2.1 Σ Runtime Enforcement Gate
+A single enforcement gate MUST exist and MUST be called:
+- at ingestion (data load / precompute)
+- before any API success response is emitted
+
+Σ enforces:
+- Geometry constants (AREAS=12, FAMILIES_PER_AREA=24, HEXES_PER_FAMILY=250, SIDES_PER_HEX=6)
+- Indexing bijection (forward/inverse identity)
+- Canonical ontology presence (area and family sets)
+- Metric domains (bounded constraints)
+- Output contract shape (exact keys)
+
+2.2 Failure Classification Contract (internal)
+Σ must classify violations into:
+- HARD_STOP (abort request / abort load)
+- DATA_REJECT (reject item / reject document)
+- WARN (log + continue)
+
+Note: v0.3 only requires internal classification. Public error shape remains unchanged.
+
+2.3 Deterministic “Degraded Success” Rule
+When Σ detects non-fatal instability, engine MAY still return success,
+but MUST force conservative outputs via clamping rules:
+
+- governance := clamp(governance, 0, 1)
+- loopability := clamp(loopability, 0, 1)
+- tension_energy := max(tension_energy, 0)
+- obstacle_score := max(obstacle_score, 0)
+
+Additionally, the implementation MUST provide a single constant:
+G_DEGRADED_MAX (default 0.25)
+
+If degraded condition is triggered:
+- governance := min(governance, G_DEGRADED_MAX)
+
+No additional output keys are allowed.
+
+============================================================
+3. OUT OF SCOPE (EXPLICIT)
+============================================================
+
+The following are NOT allowed in v0.3:
+- new semantics (shadow traversal, synonym altitude, weight systems)
+- geometry refactor (no changes to sideId mapping or constants)
+- new API keys (success response remains 6 keys; error remains 3 keys)
+- probabilistic rewrites (Bayesian, MCMC, etc.)
+
+============================================================
+4. ACCEPTANCE CRITERIA (DONE MEANS DONE)
+============================================================
+
+A) Enforcement Coverage
+- Any non-canonical area/family name causes DATA_REJECT or HARD_STOP.
+- Any geometry constant mismatch causes HARD_STOP.
+- Any indexing bijection failure causes HARD_STOP.
+
+B) Output Contract
+- Success returns exactly 6 keys; no more, no less.
+- Error returns exactly 3 keys: {error, message, code}.
+- Types are stable:
+  governance, loopability, tension_energy, obstacle_score are numbers.
+
+C) Domain Safety
+- No negative values for tension_energy or obstacle_score.
+- governance, loopability always within [0,1] after enforcement.
+
+D) No Silent Correction
+- No auto-correction of ontology strings (no “GOOOD” → “GOOD”).
+- Either reject or hard-stop (per invariant spec).
+
+============================================================
+5. REQUIRED ARTIFACTS (FILES)
+============================================================
+
+v0.3 MUST introduce (names may vary, but roles are mandatory):
+- invariant_enforcer.*         (Σ gate implementation)
+- invariant_catalog.*          (canonical sets / constraints)
+- enforcement_report.*         (standard log/report format)
+
+Recommended:
+- tests_invariants.*           (unit tests for invariants)
+
+============================================================
+6. TEST MATRIX (MINIMUM)
+============================================================
+
+T1. Ontology typo in area name -> reject/hard-stop (no silent fix)
+T2. familyLocal out of range -> hard-stop
+T3. sideId out of range -> hard-stop
+T4. forward/inverse mismatch -> hard-stop
+T5. negative tension_energy -> clamped to 0
+T6. governance > 1 -> clamped to 1
+T7. degraded trigger -> governance <= G_DEGRADED_MAX
+T8. output keys drift -> hard-stop during response assembly
+
+END OF SPEC v0.3
