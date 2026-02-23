@@ -17,6 +17,9 @@ from . import build_v040_config as C
 from .attribution_v033 import load_dict_a_v033, load_dict_b_v033
 from .invariant_catalog import SIDES_PER_FAMILY, TOTAL_SIDES
 
+from .build_provenance_v040 import sha256_file, write_build_provenance_v040
+from .io_deterministic_json import write_json_deterministic
+
 # Lazy import heavy deps
 _sentence_transformers = None
 _np = None
@@ -748,8 +751,8 @@ def run_build(
             b_path = root / "B_SURFACE_LEX_FIELD_v1.json"
             if b_path.exists():
                 dict_b_legacy = load_dict_b_v033(path=b_path)
-                cand_list = list(set(cand_list) | set(dict_b_legacy.keys()))
-        cand_list = list(set(cand_list))
+                cand_list = sorted(set(cand_list) | set(dict_b_legacy.keys()))
+        cand_list = sorted(set(cand_list))
 
     candidates = filter_candidates(cand_list)
     if not candidates:
@@ -858,6 +861,16 @@ def run_build(
 
     # v0.4.1.1 semantic audit (default Dict A = v0.4.1.1; v0.4.1/v1 deprecated)
     effective_dict_a_path = dict_a_path if dict_a_path is not None else (assets_root or Path(__file__).resolve().parent.parent / "assets") / "A_CORE_STAR_MAP_v0_4_1_1.json"
+    dict_a_for_provenance = effective_dict_a_path
+    if not dict_a_for_provenance.exists():
+        fallback_candidates = [
+            (assets_root or Path(__file__).resolve().parent.parent / "assets") / "A_CORE_STAR_MAP_v1.json",
+            Path(__file__).resolve().parent.parent / "assets" / "A_CORE_STAR_MAP_v1.json",
+        ]
+        for candidate in fallback_candidates:
+            if candidate.exists():
+                dict_a_for_provenance = candidate
+                break
     if "v0_4_1_1" in str(effective_dict_a_path) and effective_dict_a_path.exists():
         raw_dict_a = json.loads(effective_dict_a_path.read_text(encoding="utf-8"))
         repo_root = effective_dict_a_path.resolve().parent.parent.parent
@@ -877,12 +890,16 @@ def run_build(
     roles_out: dict[str, Any] = {"version": "v040", "per_family": {}}
     for fg in range(C.TOTAL_FAMILIES):
         roles_out["per_family"][str(fg)] = role_masks[fg]
-    (out_dir / "surface_roles_v040.json").write_text(json.dumps(roles_out), encoding="utf-8")
+    write_json_deterministic(out_dir / "surface_roles_v040.json", roles_out)
 
     surface_map = place_tokens_on_surface_v2(dict_b, role_masks)
     # surface_map: side_id → list of tokens. Save as side_id (str) → list for JSON
-    map_out = {str(sid): bucket for sid, bucket in surface_map.items()}
-    (out_dir / "surface_map_v040.json").write_text(json.dumps(map_out), encoding="utf-8")
+    map_out = {str(sid): sorted(bucket) for sid, bucket in sorted(surface_map.items(), key=lambda x: x[0])}
+    surface_map_path = out_dir / "surface_map_v040.json"
+    write_json_deterministic(surface_map_path, map_out)
+    surface_map_sha256 = sha256_file(surface_map_path)
+    checksum_path = out_dir / "surface_map_v040.json.sha256"
+    checksum_path.write_text(f"{surface_map_sha256}  surface_map_v040.json\n", encoding="utf-8")
 
     write_report_surface_stats(role_masks, surface_map, out_dir / "report_surface_stats_v040.txt")
 
@@ -903,6 +920,22 @@ def run_build(
     }
     (out_dir / "build_manifest_v040.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
+    provenance_path = out_dir / "BUILD_PROVENANCE_v040.json"
+    write_build_provenance_v040(
+        provenance_path,
+        dict_a_path=dict_a_for_provenance,
+        model_name=C.MODEL_NAME,
+        model_revision=manifest["model_revision"],
+        outputs_dict={
+            "surface_map_v040": surface_map_path,
+            "surface_map_v040_sha256": checksum_path,
+            "surface_roles_v040": out_dir / "surface_roles_v040.json",
+            "dict_b_v040": out_dir / "dict_b_v040.json",
+            "build_manifest_v040": out_dir / "build_manifest_v040.json",
+        },
+    )
+
+    print("surface_map_v040.json sha256:", surface_map_sha256)
     print("DONE. Artifacts in", out_dir)
 
 
