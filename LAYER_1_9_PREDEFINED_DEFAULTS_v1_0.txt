@@ -1,0 +1,70 @@
+LAYER_1_9_PREDEFINED_DEFAULTS_v1_0
+
+Project: HESPERIA
+Target: v0.4.x baseline (L1-L9)
+Date: 2026-02-24
+Status: Canonical
+
+Purpose: Predefined values for variables that require inputs before calculation. System normal state, actual existent state, born with state. Cursor and code can compute any L1-L9 formula using Dict A/B frozen state + this list; no need to ask for thresholds.
+
+References: 34_SPEC through 42_SPEC.
+
+----------------------------------------------------------------------
+TOPOLOGY (born with state)
+----------------------------------------------------------------------
+F                    288
+A                    12
+FAMILIES_PER_AREA    24
+FPA                  24
+
+----------------------------------------------------------------------
+NUMERIC TOLERANCES
+----------------------------------------------------------------------
+eps                  1e-9     (L1, L2, L3, L5 formulae)
+EPS                  1e-12    (L6, L8)
+EPS_INT              1e-6     (L7 accounting equality)
+
+----------------------------------------------------------------------
+LAYER-2 (35_SPEC)
+----------------------------------------------------------------------
+MAX_ALLOWED_DEPTH    8
+
+----------------------------------------------------------------------
+LAYER-3 (36_SPEC)
+----------------------------------------------------------------------
+SHADOW_MAX_DEVIATION           0.25
+SHADOW_MAX_CROSS_AREA_DELTA    0.10
+SHADOW_ALLOW_AREA_FLIP         false
+
+----------------------------------------------------------------------
+LAYER-4 (37_SPEC)
+----------------------------------------------------------------------
+RETRIEVAL_MODE_ID    LEX_BM25_V1
+TOP_K                20
+MAX_SHORTFALL        2
+MIN_SUPPORT          0.30
+MAX_DUP_BOOK_CONC    0.70
+
+----------------------------------------------------------------------
+LAYER-5 (38_SPEC)
+----------------------------------------------------------------------
+MAX_CONTRADICTION    0.50
+
+----------------------------------------------------------------------
+LAYER-7 (40_SPEC)
+----------------------------------------------------------------------
+MIN_COVERAGE_RATIO   0.10
+MAX_CROSS_AREA_RATIO 0.50
+MAX_LYAPUNOV         2.0
+HIGH_CONF            0.70
+MED_CONF             0.40
+
+----------------------------------------------------------------------
+DERIVED (from above; do not set separately)
+----------------------------------------------------------------------
+MAX_ALLOWABLE_SHADOW_DEVIATION  = SHADOW_MAX_DEVIATION
+MAX_ALLOWABLE_CONTRADICTION     = MAX_CONTRADICTION
+MAX_AREA_LEAKAGE                = MAX_CROSS_AREA_RATIO
+MAX_CHAOS_LEVEL                 = MAX_LYAPUNOV
+
+END LAYER_1_9_PREDEFINED_DEFAULTS_v1_0

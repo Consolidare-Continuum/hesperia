@@ -1,6 +1,8 @@
 # Hesperia workspace — canonical path and sync
 
-**Updated**: 2026-02-22
+**Updated**: 2026-02-24
+
+**Mode**: **Behaviour** (testing phase). Build mode complete; canonical surface and Dict B (B1) frozen. Focus: behaviour testing (Atomic Commits Team hesperia repo).
 
 **Formal project**: Hesperia is onboarded as prichindel.com development under prichindel.com brand; author and owner Platonov Igor (igareosh); idea and implementation rights reserved by prichindel.com and igareosh. Governance: [projects/hesperia/](../../projects/hesperia/) (PROJECT-CHARTER, CONTEXT-PACKET, etc.).
 

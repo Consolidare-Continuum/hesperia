@@ -85,6 +85,12 @@ python sphere_rag/run_simulation.py serve 8080
 
 ---
 
+## Layer stack (L1–L9, v0.4.x)
+
+- **L1–L9** implemented: `sphere_rag/layers/layer_1.py` … `layer_9.py` (34_SPEC … 42_SPEC). Use `sphere_rag.layers.load_defaults()` for F, A, eps and predefined config.
+- **Full pass**: `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json` (from CLIENTS/hesperia; `mkdir -p docs/layer_runs` first). Output log dir: [docs/layer_runs/](docs/layer_runs/).
+- **L1+L2**: `python3 -m sphere_rag.layers.run_l1_l2`; **L1+L2+L3**: `python3 -m sphere_rag.layers.run_l1_l2_l3`. See [docs/NEXT_STEPS_MATH_INTEGRATION.md](docs/NEXT_STEPS_MATH_INTEGRATION.md).
+
 ## Traversal order (Cursor)
 
 1. `scripts/run_hesperia_pre_test.py` — whole pre-test.
@@ -92,4 +98,5 @@ python sphere_rag/run_simulation.py serve 8080
 3. `sphere_rag/build_v041.py` — v0.4.1 Dict B.
 4. `sphere_rag/hesperia_v03_core_math.py test` — core math.
 5. `sphere_rag/run_simulation.py` — full/chroma/serve.
-6. `sphere_rag/tests/` — pytest.
+6. `sphere_rag/layers/run_l1_through_l9.py` — full L1–L9 pass; L1/L1+L2/L1+L2+L3 runners in same package.
+7. `sphere_rag/tests/` — pytest.

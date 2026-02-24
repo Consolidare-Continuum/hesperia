@@ -1,0 +1,234 @@
+HESPERIA GOVERNANCE CHARTER v1.0
+Purpose · Position · Ethics · Constraints
+
+Status: Canonical
+Version: v1.0
+Date: 2026-02-24
+Applies to: All code, specs, integrations, and strategy
+
+1. Foundational Principle
+
+HESPERIA exists to:
+
+  Provide deterministic semantic control and measurement for autonomous systems.
+
+  Not to dominate.
+  Not to replace.
+  Not to compete.
+
+  To stabilize.
+
+2. Strategic Non-Competition Doctrine
+
+We formally adopt:
+
+  Non-Competition Policy
+
+  HESPERIA does not compete with:
+    - Foundation models
+    - Platform providers
+    - Cloud vendors
+    - Enterprise AI stacks
+    - Major tooling ecosystems
+
+  We integrate with them.
+  We ride on them.
+  We do not fight them.
+
+  Because fighting infrastructure giants is irrational.
+
+3. Bicycle Rule (Anti-Reinvention Policy)
+
+We do not reinvent working systems.
+
+If a reliable tool exists:
+  We use it.
+  We wrap it.
+  We stabilize it.
+  We audit it.
+  We do not duplicate it.
+
+Reinvention is allowed only when:
+  - Existing tools are structurally unsafe, or
+  - They violate determinism, or
+  - They cannot be audited.
+
+Otherwise: reuse.
+
+4. Enhancer Doctrine
+
+HESPERIA is an enhancer.
+Not a substitute.
+Not a competitor.
+Not a replacement.
+
+We exist to:
+  - Improve reliability
+  - Increase control
+  - Reduce entropy
+  - Add governance
+
+If removing HESPERIA breaks a system, that system was misdesigned.
+We are optional, but valuable.
+
+5. Wisdom-of-Avoidance Policy
+
+We formally recognize:
+
+  Winning fights is expensive.
+  Even "justified" conflicts cost: time, reputation, focus, stability.
+
+Therefore:
+  - We avoid unnecessary confrontation.
+  - We do not seek dominance.
+  - We do not seek validation through conflict.
+  - We walk away.
+
+6. Power Restraint Doctrine
+
+Even if:
+  - Technically superior
+  - Structurally stronger
+  - Mathematically cleaner
+
+We do not weaponize superiority.
+Capability does not justify aggression.
+Restraint is policy.
+
+7. Relationship to Existing Systems
+
+We treat existing systems as:
+  - Assets
+  - Platforms
+  - Substrates
+
+Not enemies.
+We assume coexistence.
+We design for compatibility.
+
+8. Epistemic Integrity Rule
+
+HESPERIA must always be:
+  - Truth-preserving
+  - Traceable
+  - Auditable
+  - Reproducible
+
+No hidden layers.
+No silent drift.
+No manipulation.
+
+We do not "optimize truth".
+We measure it.
+
+9. Value Alignment Policy
+
+We rely on real values:
+  - Accuracy
+  - Stability
+  - Transparency
+  - Responsibility
+  - Continuity
+
+Not trends.
+Not ideology.
+Not narratives.
+
+We build on what works.
+We preserve what lasts.
+
+10. Integration-First Strategy
+
+Default approach:
+  1. Find existing solution
+  2. Evaluate reliability
+  3. Wrap with governance
+  4. Add metrics
+  5. Expose to agents
+
+Build only when forced.
+
+11. Behind-the-Curtain Posture
+
+We operate as:
+  - Infrastructure
+  - Middleware
+  - Control layer
+  - Safety mesh
+
+Not as a "brand".
+If users notice us, it's usually because something broke.
+That's normal.
+
+12. Ego Suppression Rule
+
+No design decision may be driven by:
+  - Pride
+  - Competition
+  - Prestige
+  - Public image
+  - Personal validation
+
+Only by system benefit.
+
+13. Long-Term Orientation
+
+We optimize for:
+  - 10-year usability
+  - Backward compatibility
+  - Archival readability
+  - Institutional memory
+
+Not short-term wins.
+
+14. Conflict Resolution Policy
+
+When conflict arises, priority order:
+  1. De-escalation
+  2. Technical separation
+  3. Compatibility layer
+  4. Exit
+
+Litigation, PR battles, and public fights are last resort.
+
+15. Canonical Mission Statement
+
+Internal:
+  HESPERIA builds deterministic semantic governance layers that enhance,
+  stabilize, and audit autonomous systems without competing with them.
+
+External:
+  We provide reliability tooling for AI systems.
+  No embellishment.
+
+16. Compliance Requirement
+
+All major artifacts must reference this charter.
+Every roadmap must align.
+Every major feature must justify compliance.
+Non-compliant work is invalid.
+
+17. Cultural Rule
+
+Inside HESPERIA:
+  - No hero culture
+  - No cult leaders
+  - No saviors
+  - No prophets
+
+Only engineers and stewards.
+
+18. Closing Principle
+
+We choose:
+  - Wisdom over victory.
+  - Stability over glory.
+  - Longevity over hype.
+  - Structure over ego.
+
+Because systems that last are built by people who know when not to fight.
+
+---
+Recommended file name: 00_GOVERNANCE_CHARTER__HESPERIA_v1_0.txt
+Root of HESPERIA tree. Read-only.
+Everything else follows.

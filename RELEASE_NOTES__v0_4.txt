@@ -1,0 +1,100 @@
+============================================================
+HESPERIA — RELEASE NOTES v0.4 (Consolidation)
+============================================================
+
+Version: 0.4.0
+Date: 2026-02-24
+Scope: v0.4 consolidation — first full L1–L9 stack; run → output → logged → reportable.
+
+------------------------------------------------------------
+What changed (v0.4 consolidation)
+------------------------------------------------------------
+
+- **Full layer stack L1–L9** (34_SPEC … 42_SPEC). All nine layers implemented: L1 instrumentation, L2 geometric traversal, L3 shadow divergence, L4 book evidence, L5 counter-evidence + trig reality, L6 conceptual math & dynamic function, L7 cross-layer limits/aggregates, L8 units/normalization/i18n, L9 human reference & brand. Standard: run layer math X → output → logged → reportable.
+- **L10 removed.** No 43_SPEC, no ritual backdoor, no “fun mode”. Stack is L1–L9 only.
+- **First full stack run frozen.** Script: run_l1_through_l9.py. Output log dir: docs/layer_runs/. First run artifact: latest_L1_L9_output.json + REPORT__L1_L9_Full_Pass.md.
+- **Predefined defaults.** LAYER_1_9_PREDEFINED_DEFAULTS_v1_0 (TXT + JSON) — system normal state for thresholds, topology (F=288, A=12, FPA=24), L2–L7 config. Used by all layers.
+- **Interop & i18n.** L1→…→L9 data flow; L8 SI_* report units; L9 bands/pillars/BRAND_WORD_*/ACTION_*; cross-check via single full-pass script.
+
+------------------------------------------------------------
+How to build
+------------------------------------------------------------
+
+From CLIENTS/hesperia (repo root for Hesperia):
+
+1. **Python env**: Python 3.9+. For v0.4.0/v0.4.1 lexical builds: `pip install -r requirements_v040.txt` (or use .venv_v040). Model downloaded on first run.
+
+2. **v0.4.0 build** (Dict A → anchors → Dict B → surface):
+   python -m sphere_rag.build_v040 --assets-root hesperia_lex/curated --out-dir assets/v040 --allow-small-build
+
+3. **v0.4.1 Dict B** (needs v0.4.0 artifacts):
+   python -m sphere_rag.build_v041 --assets-root assets --out-dir assets/v041 --allow-small-build
+
+4. **Layer stack**: No separate build. Layers are Python modules in sphere_rag/layers/; use load_defaults() and run_l1_through_l9 for full pass.
+
+5. **Pre-test** (optional): python scripts/run_hesperia_pre_test.py or python sphere_rag/run_simulation.py pretest
+
+------------------------------------------------------------
+How to use
+------------------------------------------------------------
+
+- **Full L1–L9 pass** (canonical): From CLIENTS/hesperia, ensure docs/layer_runs exists (mkdir -p docs/layer_runs), then:
+  python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json
+
+- **L1 only** (after attribution): Use sphere_rag.layers.layer_1.compute_L1(total_tokens, matched, F, A, eps) with sphere_rag.layers.load_defaults().
+
+- **L1+L2**: python3 -m sphere_rag.layers.run_l1_l2 (writes to stdout or --out).
+- **L1+L2+L3**: python3 -m sphere_rag.layers.run_l1_l2_l3.
+
+- **Core math (v0.3)**: python sphere_rag/hesperia_v03_core_math.py [test].
+- **Simulation**: python sphere_rag/run_simulation.py full|chroma|serve [options].
+- **API**: python sphere_rag/serve_v033.py or run_simulation.py serve [port].
+
+------------------------------------------------------------
+What's expected
+------------------------------------------------------------
+
+- **Determinism**: Same inputs (attribution counts, topology, defaults) → same L1–L9 outputs. No LLM in layer math.
+- **Output**: Full pass produces one JSON (all layer outputs) and can be summarized in a report (L7 DECISION_STATUS_CODE, OUTPUT_TRUST_TAG; L9 BRAND_WORD_*).
+- **Stub run**: Without real retrieval (R_B/R_S empty), L4/L5 evidence metrics are zero; L9 may show FRAGILE/UNSUPPORTED — expected. With real Dict A/B and optional Chroma retrieval, values populate.
+- **Logging**: Output log dir is docs/layer_runs/; overwrite latest_L1_L9_output.json each run. Keep copies if you need history.
+
+------------------------------------------------------------
+Files added
+------------------------------------------------------------
+
+- sphere_rag/layers/layer_1.py … layer_9.py — L1–L9 compute per 34_SPEC … 42_SPEC.
+- sphere_rag/layers/defaults.py, __init__.py — load_defaults, layer exports.
+- sphere_rag/layers/run_l1_l2.py, run_l1_l2_l3.py, run_l1_through_l9.py — runners.
+- LAYER_1_9_PREDEFINED_DEFAULTS_v1_0.txt, layer_1_9_predefined_defaults_v1_0.json.
+- 34_SPEC … 42_SPEC (Layer1–Layer9 specs).
+- docs/layer_runs/README.md, latest_L1_L9_output.json, REPORT__L1_L9_Full_Pass.md.
+- docs/FREEZE__First_Full_Stack_Run_L1_L9.md.
+- docs/NEXT_STEPS_MATH_INTEGRATION.md (interop, i18n, cross-check).
+- 00_GOVERNANCE_CHARTER__HESPERIA_v1_0.txt.
+
+------------------------------------------------------------
+Files removed
+------------------------------------------------------------
+
+- 43_SPEC (Layer10) — deleted. All mentions of L10, 43_SPEC, ritual backdoor, fun mode removed from docs and code.
+
+------------------------------------------------------------
+Invariants
+------------------------------------------------------------
+
+- familyGlobal ∈ [0,287]. F=288 families, A=12 areas, FPA=24. Layer math uses predefined defaults unless overridden; no runtime override of contract parameters without version bump.
+- Stack is L1–L9 only. Output → logged → reportable.
+
+------------------------------------------------------------
+Reference
+------------------------------------------------------------
+
+- Freeze: docs/FREEZE__First_Full_Stack_Run_L1_L9.md
+- Output log dir: docs/layer_runs/ (README, path, script)
+- Next steps / interop: docs/NEXT_STEPS_MATH_INTEGRATION.md
+- Runnable entry points: RUNNABLE.md
+
+============================================================
+END OF RELEASE NOTES v0.4
+============================================================

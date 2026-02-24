@@ -4,3 +4,6 @@ __pycache__/
 .venv_v040_build/
 assets/v040/
 assets/v041/
+hesperia_lex/raw/
+hesperia_lex/processed/
+hesperia_lex/logs/

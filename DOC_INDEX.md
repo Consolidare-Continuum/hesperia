@@ -38,8 +38,17 @@ For quick onboarding, choose the path that matches your role.
 
 ## 1. Entry Points
 
+- `00_GOVERNANCE_CHARTER__HESPERIA_v1_0.txt`
+  **Canonical.** Governance charter v1.0 — purpose, position, ethics, constraints. Read-only. All major artifacts must reference it.
+
 - `README.md`
   High-level overview of the project and current code.
+
+- `docs/CORE_CONSOLIDATION.md`
+  **Canonical.** Single definition of the core: 22_SPEC + 34–43 + predefined defaults + frozen Dict A/B; two config surfaces (guard_config vs LAYER_1_9_PREDEFINED_DEFAULTS); topology single source; frozen state manifest; code path.
+
+- `docs/NEXT_STEPS_MATH_INTEGRATION.md`
+  Next steps for scripting layers: L1 implemented in `sphere_rag/layers`; L2–L9 order and pipeline wiring; run L1 after attribution.
 
 - `01_CONCEPT__HESPERIA_project_RU.txt`
   Conceptual / narrative project description (RU).
@@ -95,7 +104,37 @@ For quick onboarding, choose the path that matches your role.
   Semantic stability control layer spec: reliability, integrity, decay, and forecast logic.
 
 - `22_SPEC__V0_3_Core_Math_Contract_v1_0.md`
-  **v0.3 canonical (implementation contract)**: SurfaceEnergy fusion, traversal (base + shadow), resolution (dominant family/area), metrics, penalties, invariants (I-R2, I-R3), books non-voting. Refs: 19 (two-dictionary), 20 (authority separation), 21 (books evidence non-voting). Config: `guard_config_v1.json`.
+  **v0.3 canonical (implementation contract)**: SurfaceEnergy fusion, traversal (base + shadow), resolution (dominant family/area), metrics, penalties, invariants (I-R2, I-R3), books non-voting. Refs: 19 (two-dictionary), 20 (authority separation), 21 (books evidence non-voting). Config: `guard_config_v1.json`. Instrumentation: see 34_SPEC (Layer-1).
+
+- `34_SPEC__V0_4_Layer1_Instrumentation_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-1 instrumentation: 25 variables, deterministic, reproducible, input-bound. No LLM, no shadow, no books. Defines TOTAL_TOKENS through STRUCTURAL_STABILITY_INDEX; Gini, variance, secondMax; Java-style pseudocode. Observes attribution outputs; does not replace 22_SPEC resolution.
+
+- `35_SPEC__V0_4_Layer2_Geometric_Traversal_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-2 geometric traversal: 25 variables, deterministic, topology-bound. No semantics, no books, no shadow. Measures movement inside geometry (BFS on frozen family adjacency). Uses Layer-1 dominant family; defines TRAVERSAL_START_FAMILY through GEOMETRIC_STABILITY_INDEX; clustering, centrality, loop count; Java-style pseudocode.
+
+- `36_SPEC__V0_4_Layer3_Shadow_Divergence_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-3 shadow divergence: 25 variables, deterministic. Compares baseline (B) vs shadow (S) runs; no semantics, no books. Deltas on Layer-1/Layer-2 outputs; VISITED_JACCARD, HIT_VECTOR_COSINE_SIMILARITY, TOP_K_OVERLAP; SHADOW_DEVIATION_SCORE and SHADOW_ACCEPTABILITY_GATE for governance. Ref: 24_SPEC (Shadow Layer).
+
+- `37_SPEC__V0_4_Layer4_Book_Evidence_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-4 book intersection & evidence: 25 variables, deterministic. Not "book says I'm right"; measures whether retrieval (R_B, R_S) returns evidence whose frozen labels intersect activated region and store is intact. Retrieval shortfall, unique books, duplicate ratio, family/area match, evidence entropy/Gini, rank-weighted alignment, hit–evidence overlap, evidence Jaccard B/S, integrity, EVIDENCE_SUPPORT_INDEX_BASELINE, EVIDENCE_ACCEPTABILITY_GATE. Ref: 21_SPEC, 22_SPEC §13.
+
+- `38_SPEC__V0_4_Layer5_Counter_Evidence_Trig_Reality_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-5: (5A) Counter-evidence pressure — R_pos vs R_neg, antiFamilies, NEG metrics, CONTRADICTION_PRESSURE_SCORE, REALITY_GATE_COUNTER_EVIDENCE. (5B) Trigonometry reality checks — dot symmetry/self-nonneg, norm consistency, cos clamp, angle range, law of cosines, sin²+cos², rotation norm preservation, orthonormality Frobenius, triangle inequality, metric symmetry/identity, REALITY_GATE_TRIG. Prove geometry behaves like real math; no fake precision. Ref: 37_SPEC.
+
+- `39_SPEC__V0_4_Layer6_Conceptual_Math_Dynamic_Function_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-6 conceptual math & dynamic function: 25 variables. I Functional response (perturbation response, dominant stability, coverage/entropy gradient, stability radius). II Second order (second-order response, dominance/entropy curvature). III Matrix (HIT_VECTOR_RANK, PC1_ENERGY_RATIO, CONDITION_NUMBER, SPECTRAL_GAP). IV Depth growth (DEPTH_GROWTH_RATIO, FIBONACCI_DEVIATION, EXPONENTIAL/POWER_LAW_FIT_ERROR). V Newtonian (POTENTIAL_GRADIENT, ESCAPE_ENERGY_THRESHOLD, FORCE_ANALOG_MAGNITUDE). VI Functional (MONOTONICITY_CHECK, FIXED_POINT, FUNCTIONAL_CYCLE, LYAPUNOV_ESTIMATE, GLOBAL_STABILITY_SCORE, CONCEPTUAL_COHERENCE_INDEX). Real systems analysis. Ref: 34_SPEC, 35_SPEC.
+
+- `40_SPEC__V0_4_Layer7_Cross_Layer_Interactions_Limits_Aggregates_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-7 cross-layer: 25 variables. A Consistency (10). B Limits (8): TRUST_TIER, SHADOW_WITHIN_LIMITS, CONTRADICTION_WITHIN_LIMITS, AREA_LEAKAGE_WITHIN_LIMITS, etc. C Alignment (4): STRUCTURE_EVIDENCE_ALIGNMENT, SHADOW_EVIDENCE_ALIGNMENT_DELTA, SHADOW_JUSTIFICATION_SCORE, CONTRADICTION_ADJUSTED_SUPPORT. D Aggregates (3): SYSTEM_CONFIDENCE_SCORE, DECISION_STATUS_CODE, OUTPUT_TRUST_TAG. Ref: 34–39_SPEC.
+
+- `41_SPEC__V0_4_Layer8_Units_Normalization_I18n_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-8 units, normalization, i18n: UnitType/ScalePolicy, EPS, clamp, rounding; conversion functions (ratioToPct, ratioToU1000, etc.); SI_* report units for L1–L7. Ref: 34–40_SPEC.
+
+- `42_SPEC__V0_4_Layer9_Human_Reference_Brand_Treatment_25_Variables_v1_0.txt`
+  **v0.4.x baseline.** Layer-9 human reference & brand: U1000 bands, direction maps, pillars, BRAND_WORD_*, ACTION_* flags. Ref: 41_SPEC, 40_SPEC, L3, L4.
+
+- `LAYER_1_9_PREDEFINED_DEFAULTS_v1_0.txt` + `layer_1_9_predefined_defaults_v1_0.json`
+  **v0.4.x baseline.** Predefined default values for L1–L9 inputs (thresholds, config) required before calculation. System normal state, born with state. Use with Dict A/B frozen state to compute any L1–L9 formula without asking for thresholds. Ref: 34–42_SPEC.
 
 - `14_SPEC__Services_and_APIs_v0_1.txt`
   Service/API surfaces for implementations (main contract
@@ -181,6 +220,8 @@ For quick onboarding, choose the path that matches your role.
 
 ## 5a. Releases
 
+- `RELEASE_NOTES__v0_4.txt`
+  Release notes for v0.4 consolidation: first full L1–L9 stack, how to build/use/expected, output log dir, L10 removed. See also `releases/hesperia-v0.4.md`.
 - `RELEASE_NOTES__v0_2_1.txt`
   Release notes for v0.2.1 (semantic stability control integration, backward-compatible).
 

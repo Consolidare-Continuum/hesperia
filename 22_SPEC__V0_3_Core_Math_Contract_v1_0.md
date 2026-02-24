@@ -197,4 +197,10 @@ Pipeline must validate:
 
 Invariant tests: I-R2 (conservation on D), I-R3 (shadow non-creation), I-Q2 (books removal does not change resolution or metrics).
 
+---
+
+## 17. Layer-1 instrumentation (v0.4.x)
+
+For deterministic observability: **34_SPEC** (Layer-1) … **38_SPEC** (Layer-5), **39_SPEC** (Layer-6), **40_SPEC** (Layer-7), **41_SPEC** (Layer-8 units), **42_SPEC** (Layer-9). None replace resolution or metrics above.
+
 END

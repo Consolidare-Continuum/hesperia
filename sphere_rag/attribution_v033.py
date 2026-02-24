@@ -101,10 +101,9 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
-    # Default: v0.4.1.1 (semantic, gates). v0.4.1 (A_CORE_STAR_MAP_v1) deprecated for builds.
-    default = root / "A_CORE_STAR_MAP_v0_4_1_1.json"
-    legacy_default = root / "A_CORE_STAR_MAP_v1.json"
-    path = path or (default if default.exists() else legacy_default)
+    # Default: last frozen A (v0.4.1.3).
+    default = root / "A_CORE_STAR_MAP_v0_4_1_3.json"
+    path = path or default
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as f:
@@ -145,10 +144,10 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
     repo_root = Path(__file__).resolve().parent.parent
     b0_path = repo_root / "hesperia_lex/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
-    legacy_b0_path = repo_root / "hesperia_lex/frozen/dict_b_v040_from_a_v0413.json"
+    legacy_b0_path = repo_root / "hesperia_lex/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
     b1_path = repo_root / "hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json"
     token_to_side_path = root / "token_to_side_id_v040.json"
-    legacy_path = path or (root / "B_SURFACE_LEX_FIELD_v1.json")
+    legacy_path = path or (root / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json")
 
     b0: dict[str, int] = {}
     for candidate in (b0_path, legacy_b0_path):
