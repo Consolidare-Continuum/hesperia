@@ -139,6 +139,9 @@ For quick onboarding, choose the path that matches your role.
 - `docs/TASK__v0413_FAMILIES_SEMANTIC_CANONICALIZATION.md` + `hesperia_lex/definitions/v0413/families.yaml`
   **v0.4.1.3.** Semantic canonicalization layer (single YAML, overlap controls, mirror checks, semantic audit report). Validate/build: see `hesperia_lex/definitions/v0413/README.md`.
 
+- `docs/CANONICAL_SURFACE_V040_PROCEDURE.md`
+  **Canonical surface v0.4.0.** Procedure: produce surface (explicit MODEL_REVISION + Dict A) → prove determinism (two builds, same SHA) → freeze ownership (CANONICAL_SURFACE_V040.txt) → lock (surface immutable). Dict B B1 fails if surface checksum mismatches. No UNSET; no silent rebuilds.
+
 - `docs/DICT-B-FREEZE-v0_4_1_4.md`
   Dict B v0.4.1.4 freeze split: B0 token fallback vs B1 surface alignment (hard-gated by surface source).
 

@@ -1,0 +1,46 @@
+HESPERIA Dict B v0.4.1.4 — sanity summary (prevents 'built but garbage')
+
+topology_truth:
+  topology: sparse semantic activation layer (selective anchor mesh); not full geometric surface.
+  claim_whole_sphere: false
+
+runtime:
+  b1_runtime_enabled: false
+
+surface_coverage:
+  side_count_meaning: surface subset produced by v0.4.0 embedding pass (sides with at least one placed token or role)
+  b1_side_count: 5473
+  total_sides_expected: 432000
+  coverage_ratio: 5473/432000 = 0.012669
+
+counts:
+  total_tokens_considered: 6654
+  mapped_a_hit: 3456
+  mapped_b0_hit: 3198
+  mapped_b1_hit: 0
+  skipped_unknown: 0
+  collisions: 0
+
+per_family_top10: (familyGlobal count)
+  24 24
+  33 24
+  96 24
+  48 24
+  51 24
+  55 24
+  62 24
+  144 24
+  155 24
+  0 24
+
+per_area_top10: (area count)
+  0 560
+  2 557
+  10 556
+  1 554
+  6 554
+  8 554
+  7 554
+  9 553
+  4 553
+  11 553

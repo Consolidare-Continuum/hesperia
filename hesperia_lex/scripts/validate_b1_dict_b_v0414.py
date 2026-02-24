@@ -7,6 +7,13 @@ import argparse
 import json
 from pathlib import Path
 
+# Full taxonomy surface (sphere_rag.invariant_catalog.TOTAL_SIDES)
+try:
+    from sphere_rag.invariant_catalog import TOTAL_SIDES as TOTAL_SIDES_EXPECTED
+except ImportError:
+    TOTAL_SIDES_EXPECTED = 432_000
+SIDE_COUNT_MEANING = "surface subset produced by v0.4.0 embedding pass (sides with at least one placed token or role)"
+
 
 def main() -> int:
     parser = argparse.ArgumentParser()
@@ -65,12 +72,17 @@ def main() -> int:
         if expected_count is not None and expected_count != len(data):
             errors.append(f"side_count mismatch: b1={len(data)} expected={expected_count}")
 
+    side_count = len(data) if isinstance(data, dict) else 0
+    coverage_ratio = side_count / TOTAL_SIDES_EXPECTED if TOTAL_SIDES_EXPECTED else 0.0
     lines = [
         "B1 Dict B Validation Report v0.4.1.4",
         "status: OK" if not errors else "status: FAIL",
         f"source_b1: {args.b1}",
         f"surface_source: {args.surface_source}",
-        f"side_count: {len(data) if isinstance(data, dict) else 0}",
+        f"side_count: {side_count}",
+        f"side_count_meaning: {SIDE_COUNT_MEANING}",
+        f"total_sides_expected: {TOTAL_SIDES_EXPECTED}",
+        f"coverage_ratio: {side_count}/{TOTAL_SIDES_EXPECTED} = {coverage_ratio:.6f}",
     ]
     if expected_count is not None:
         lines.append(f"expected_side_count_from_surface: {expected_count}")

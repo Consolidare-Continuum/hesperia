@@ -13,6 +13,29 @@ from pathlib import Path
 CANONICAL_JSON = "B1_SIDE_TO_FAMILY_v0_4_1_4.json"
 CANONICAL_SHA = "B1_SIDE_TO_FAMILY_v0_4_1_4.sha256"
 AUDIT_REPORT = Path("assets/v0414/b1_surface_alignment_audit_report.txt")
+# Full taxonomy surface: 12 areas × 24 families × 250 hex × 6 sides (sphere_rag.invariant_catalog.TOTAL_SIDES)
+try:
+    from sphere_rag.invariant_catalog import TOTAL_SIDES as TOTAL_SIDES_EXPECTED
+except ImportError:
+    TOTAL_SIDES_EXPECTED = 432_000
+SIDE_COUNT_MEANING = "surface subset produced by v0.4.0 embedding pass (sides with at least one placed token or role)"
+
+
+def get_expected_surface_sha(repo_root: Path) -> str | None:
+    """Read expected surface_map sha from canonical record or .sha256 file. None if not locked."""
+    canonical = repo_root / "assets/v040/CANONICAL_SURFACE_V040.txt"
+    sha_file = repo_root / "assets/v040/surface_map_v040.json.sha256"
+    if canonical.exists():
+        for line in canonical.read_text(encoding="utf-8").splitlines():
+            if line.startswith("surface_map_sha256:"):
+                val = line.split(":", 1)[1].strip()
+                if val and val != "UNSET":
+                    return val
+    if sha_file.exists():
+        val = sha_file.read_text(encoding="utf-8").split()[0]
+        if val and val != "UNSET":
+            return val
+    return None
 
 
 def discover_surface_sources(repo_root: Path) -> list[Path]:
@@ -106,6 +129,26 @@ def main() -> int:
         return fail_with_report("No committed surface source found.", attempted, args.report)
 
     surface_path = sources[0]
+    # Checksum gate: if canonical/expected sha is recorded, current file must match (surface is immutable).
+    expected_sha = get_expected_surface_sha(repo_root)
+    if expected_sha:
+        actual_sha = hashlib.sha256(surface_path.read_bytes()).hexdigest()
+        if actual_sha != expected_sha:
+            args.report.parent.mkdir(parents=True, exist_ok=True)
+            args.report.write_text(
+                "\n".join([
+                    "B1 Surface Alignment Audit Report v0.4.1.4",
+                    "status: HARD_FAIL_SURFACE_CHECKSUM_MISMATCH",
+                    "reason: surface_map_v040.json checksum does not match canonical/expected; surface is locked.",
+                    f"expected_sha256: {expected_sha}",
+                    f"actual_sha256: {actual_sha}",
+                    "required: Do not rebuild surface silently. Any hash change = version bump.",
+                ]) + "\n",
+                encoding="utf-8",
+            )
+            print("ERROR: surface checksum mismatches expected; surface is immutable.", file=sys.stderr)
+            print(f"expected={expected_sha} actual={actual_sha}", file=sys.stderr)
+            return 1
     data = json.loads(surface_path.read_text(encoding="utf-8"))
     side_to_family = extract_side_to_family(data)
     if not side_to_family:
@@ -122,11 +165,16 @@ def main() -> int:
     digest = hashlib.sha256(out_json.read_bytes()).hexdigest()
     out_sha.write_text(f"{digest}  {out_json.name}\n", encoding="utf-8")
 
+    side_count = len(side_to_family)
+    coverage_ratio = side_count / TOTAL_SIDES_EXPECTED if TOTAL_SIDES_EXPECTED else 0.0
     lines = [
         "B1 Surface Alignment Audit Report v0.4.1.4",
         "status: OK",
         f"surface_source: {surface_path}",
-        f"side_count: {len(side_to_family)}",
+        f"side_count: {side_count}",
+        f"side_count_meaning: {SIDE_COUNT_MEANING}",
+        f"total_sides_expected: {TOTAL_SIDES_EXPECTED}",
+        f"coverage_ratio: {side_count}/{TOTAL_SIDES_EXPECTED} = {coverage_ratio:.6f}",
         f"output_json: {out_json}",
         f"output_sha256: {out_sha}",
     ]

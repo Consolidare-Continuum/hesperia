@@ -1,4 +1,10 @@
 B1 Dict B Validation Report v0.4.1.4
-status: HARD_FAIL
-missing_b1_file: hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json
-message: Build B1 first after committing a real surface map source.
+status: OK
+source_b1: hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json
+surface_source: assets/v040/surface_map_v040.json
+side_count: 5473
+side_count_meaning: surface subset produced by v0.4.0 embedding pass (sides with at least one placed token or role)
+total_sides_expected: 432000
+coverage_ratio: 5473/432000 = 0.012669
+expected_side_count_from_surface: 5473
+error_count: 0

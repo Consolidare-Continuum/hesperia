@@ -55,6 +55,8 @@ fi
 
 for artifact in \
   "${OUT_DIR}/surface_map_v040.json" \
+  "${OUT_DIR}/surface_map_v040.json.sha256" \
+  "${OUT_DIR}/BUILD_PROVENANCE_v040.json" \
   "${OUT_DIR}/dict_b_v040.json" \
   "${OUT_DIR}/build_manifest_v040.json"
 do
@@ -62,5 +64,8 @@ do
     echo "ERROR: Expected artifact missing: ${artifact}" >&2
     exit 1
   fi
-  sha256sum "${artifact}"
+  if [[ "${artifact}" == *.json ]]; then
+    sha256sum "${artifact}"
+  fi
 done
+echo "Canonical surface artifacts OK. Next: run check_repeatability_surface_v040.sh then freeze_canonical_surface_v040.sh"

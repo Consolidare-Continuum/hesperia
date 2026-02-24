@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
 .venv_v040/
+.venv_v040_build/
 assets/v040/
 assets/v041/
