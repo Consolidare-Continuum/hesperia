@@ -31,10 +31,19 @@
 
 ---
 
-## After self-organization
+## Nuke done (2026-02-26)
 
-- This repo is the **single variant**.
-- **Nuke the rest**: Remove or archive `/data/workspaces/cursor/CLIENTS/hesperia`, `/data/workspaces/hesperia`, `/data/workspaces/atomic-commit-hesperia` once you are happy with this outcome and have pushed to origin.
+**Removed server-wide** (authorized by user; single variant = this folder only):
+
+- `/data/workspaces/cursor/CLIENTS/hesperia` — nuked
+- `/data/workspaces/hesperia` — nuked
+- `/data/workspaces/atomic-commit-hesperia` — nuked
+- `/data/backups/prichindel/hesperia-20260222` — nuked
+- `/data/proton_backup/cursor/CLIENTS/hesperia` — nuked (may have run in background)
+
+**Kept:** Only `/data/hesperia/hesperia` (this repo). Anything else hesperia on prichindel is gone or is inside this folder.
+
+**Cluster (deploy):** Canonical config is `cluster/` in this repo (`hesperia.prichindel.com.conf`, `hesperia-api.service`). If prichindel still references cursor repo’s `cluster/` for these files, point nginx/systemd at this repo’s `cluster/` (or copy from here), then remove the two hesperia files from cursor’s cluster.
 
 ---
 
@@ -55,5 +64,13 @@ git push origin main   # after commit
 - **GitHub key**: Uses `~/.ssh/github_key` (no sudo needed).
 - **Large file**: GitHub warned `assets/v040/dict_a_anchors_v040.json` (71.59 MB). Consider Git LFS or keeping `assets/v040/` gitignored for future commits; current push went through.
 - **Next**: Nuke other copies when ready (see TEAM10-PROJECT.md). This folder = single variant.
+
+---
+
+## End of day (2026-02-26)
+
+- **Sync:** `main` = `origin/main` (9d29378). One canonical repo; all other hesperia copies nuked.
+- **Deliverables:** Atomic-Commits-Team/hesperia. Release v0.4 zip uploaded by user; repo is single variant.
+- **Next:** Continue from here; cluster deploy can point at this repo’s `cluster/` when convenient.
 
 **Signed: Cursor (Team 10 adoption) | 2026-02-26 | operational**
