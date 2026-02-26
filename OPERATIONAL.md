@@ -47,4 +47,13 @@ git fetch origin
 git push origin main   # after commit
 ```
 
+---
+
+## Report: operational (2026-02-26)
+
+- **Origin**: `git@github.com:Atomic-Commits-Team/hesperia.git` — push **succeeded**. Main is rebased on origin and pushed.
+- **GitHub key**: Uses `~/.ssh/github_key` (no sudo needed).
+- **Large file**: GitHub warned `assets/v040/dict_a_anchors_v040.json` (71.59 MB). Consider Git LFS or keeping `assets/v040/` gitignored for future commits; current push went through.
+- **Next**: Nuke other copies when ready (see TEAM10-PROJECT.md). This folder = single variant.
+
 **Signed: Cursor (Team 10 adoption) | 2026-02-26 | operational**
