@@ -1,6 +1,6 @@
 # HESPERIA — Runnable entry points (Cursor / pre-test)
 
-All commands assume **current directory = `CLIENTS/hesperia`** (this repo root). Use `.venv_v040/bin/python` if you use the v040 venv.
+All commands assume **current directory = this repo root**. Use `.venv_v040/bin/python` if you use the v040 venv.
 
 ---
 
@@ -100,3 +100,44 @@ python sphere_rag/run_simulation.py serve 8080
 5. `sphere_rag/run_simulation.py` — full/chroma/serve.
 6. `sphere_rag/layers/run_l1_through_l9.py` — full L1–L9 pass; L1/L1+L2/L1+L2+L3 runners in same package.
 7. `sphere_rag/tests/` — pytest.
+
+## v0.6 calibration (optional)
+
+```bash
+PYTHONPATH=. python scripts/run_calibration_v06.py
+PYTHONPATH=. python scripts/verify_v06_operational.py
+PYTHONPATH=. python scripts/calibration_metrics_v06.py [--output path] [--csv path]
+```
+
+Use `.venv_v040_build/bin/python` for scripts that need sentence-transformers (e.g. build).
+
+## Build Dict A (v0.6)
+
+```bash
+PYTHONPATH=. .venv_v040_build/bin/python sphere_rag/build_dict_a.py [--assets hesperia_lex/frozen] [--save-calibration-stats] [--stability-guards]
+PYTHONPATH=. python sphere_rag/validate_dict_a.py
+PYTHONPATH=. python sphere_rag/audit_dict_a_runtime.py [--v06-dir assets/v06]
+```
+
+## API
+
+```bash
+# From repo root or CLIENTS/hesperia; ensure PYTHONPATH includes CLIENTS/hesperia
+uvicorn api.main:app --host 0.0.0.0 --port 8000
+```
+
+## Core math (no attribution)
+
+```bash
+python sphere_rag/core_math.py
+python sphere_rag/core_math.py test
+```
+
+## Layer math (L1–L9)
+
+Code: `sphere_rag/layers/layer_1.py` … `layer_9.py`. Use `from sphere_rag.layers import compute_L1, …`.  
+Runner scripts (L1–L9 full pass, L1+L2, etc.) are in [archive/layer_runners/](archive/layer_runners/).
+
+## Archive
+
+Deprecated entry points: [archive/ARCHIVE_MANIFEST.md](archive/ARCHIVE_MANIFEST.md).

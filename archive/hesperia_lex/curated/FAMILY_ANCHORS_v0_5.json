@@ -1,0 +1,5152 @@
+{
+  "0": {
+    "label": "Altruism",
+    "positive": [
+      "altruism",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "1": {
+    "label": "Generosity",
+    "positive": [
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "2": {
+    "label": "Compassion",
+    "positive": [
+      "compassion",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "3": {
+    "label": "Mercy",
+    "positive": [
+      "mercy",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "4": {
+    "label": "Forgiveness",
+    "positive": [
+      "forgiveness",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "5": {
+    "label": "Gratitude",
+    "positive": [
+      "gratitude",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "6": {
+    "label": "Integrity",
+    "positive": [
+      "integrity",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "7": {
+    "label": "Reliability",
+    "positive": [
+      "reliability",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "8": {
+    "label": "Courage",
+    "positive": [
+      "courage",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "9": {
+    "label": "Loyalty",
+    "positive": [
+      "loyalty",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "10": {
+    "label": "Solidarity",
+    "positive": [
+      "solidarity",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "11": {
+    "label": "Fairness",
+    "positive": [
+      "fairness",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "12": {
+    "label": "Justice",
+    "positive": [
+      "justice",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "13": {
+    "label": "Respect",
+    "positive": [
+      "respect",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "14": {
+    "label": "Trust-building",
+    "positive": [
+      "trust building",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "15": {
+    "label": "Service",
+    "positive": [
+      "service",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "16": {
+    "label": "Stewardship",
+    "positive": [
+      "stewardship",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "17": {
+    "label": "Responsibility",
+    "positive": [
+      "responsibility",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "18": {
+    "label": "Reconciliation",
+    "positive": [
+      "reconciliation",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "19": {
+    "label": "Inclusion",
+    "positive": [
+      "inclusion",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "20": {
+    "label": "Community-building",
+    "positive": [
+      "community building",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "21": {
+    "label": "Mentorship",
+    "positive": [
+      "mentorship",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "22": {
+    "label": "Protection",
+    "positive": [
+      "protection",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "23": {
+    "label": "Care-giving",
+    "positive": [
+      "care giving",
+      "generosity",
+      "benevolence",
+      "kindness",
+      "virtue",
+      "goodwill"
+    ],
+    "negative": [
+      "selfishness",
+      "greed",
+      "exploitation",
+      "harm",
+      "neglect"
+    ]
+  },
+  "24": {
+    "label": "Nurturing",
+    "positive": [
+      "nurturing",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "25": {
+    "label": "Compassionate-response",
+    "positive": [
+      "compassionate response",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "26": {
+    "label": "Comfort-and-soothing",
+    "positive": [
+      "comfort and soothing",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "27": {
+    "label": "De-escalation",
+    "positive": [
+      "de escalation",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "28": {
+    "label": "Listening-and-attention",
+    "positive": [
+      "listening and attention",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "29": {
+    "label": "Emotional-support",
+    "positive": [
+      "emotional support",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "30": {
+    "label": "Practical-assistance",
+    "positive": [
+      "practical assistance",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "31": {
+    "label": "Shelter-and-safety-net",
+    "positive": [
+      "shelter and safety net",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "32": {
+    "label": "Health-support",
+    "positive": [
+      "health support",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "33": {
+    "label": "Recovery-support",
+    "positive": [
+      "recovery support",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "34": {
+    "label": "Accessibility-support",
+    "positive": [
+      "accessibility support",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "35": {
+    "label": "Inclusion-support",
+    "positive": [
+      "inclusion support",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "36": {
+    "label": "Guardianship-and-trusteeship",
+    "positive": [
+      "guardianship and trusteeship",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "37": {
+    "label": "Ongoing-check-ins",
+    "positive": [
+      "ongoing check ins",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "38": {
+    "label": "Hospitality-and-welcome",
+    "positive": [
+      "hospitality and welcome",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "39": {
+    "label": "Relational-repair",
+    "positive": [
+      "relational repair",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "40": {
+    "label": "Mentoring-and-guidance",
+    "positive": [
+      "mentoring and guidance",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "41": {
+    "label": "Community-care",
+    "positive": [
+      "community care",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "42": {
+    "label": "Volunteerism",
+    "positive": [
+      "volunteerism",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "43": {
+    "label": "Protection-of-vulnerable",
+    "positive": [
+      "protection of vulnerable",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "44": {
+    "label": "Responsibility-taking",
+    "positive": [
+      "responsibility taking",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "45": {
+    "label": "Safeguarding-duties",
+    "positive": [
+      "safeguarding duties",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "46": {
+    "label": "Restoration-care",
+    "positive": [
+      "restoration care",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "47": {
+    "label": "End-of-life-and-grief-care",
+    "positive": [
+      "end of life and grief care",
+      "support",
+      "nurture",
+      "comfort",
+      "safety",
+      "attention"
+    ],
+    "negative": [
+      "neglect",
+      "coldness",
+      "abandonment",
+      "indifference",
+      "harm"
+    ]
+  },
+  "48": {
+    "label": "Structure",
+    "positive": [
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "49": {
+    "label": "Stability",
+    "positive": [
+      "stability",
+      "structure",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "50": {
+    "label": "Predictability",
+    "positive": [
+      "predictability",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "51": {
+    "label": "Coordination",
+    "positive": [
+      "coordination",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "52": {
+    "label": "Role-clarity",
+    "positive": [
+      "role clarity",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "53": {
+    "label": "Governance",
+    "positive": [
+      "governance",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "54": {
+    "label": "Compliance",
+    "positive": [
+      "compliance",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "55": {
+    "label": "Procedures",
+    "positive": [
+      "procedures",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "56": {
+    "label": "Protocols",
+    "positive": [
+      "protocols",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "57": {
+    "label": "Standards",
+    "positive": [
+      "standards",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "58": {
+    "label": "Risk-management",
+    "positive": [
+      "risk management",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "59": {
+    "label": "Capacity-planning",
+    "positive": [
+      "capacity planning",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "60": {
+    "label": "Quality-assurance",
+    "positive": [
+      "quality assurance",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "61": {
+    "label": "Documentation-discipline",
+    "positive": [
+      "documentation discipline",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "62": {
+    "label": "Record-keeping",
+    "positive": [
+      "record keeping",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "63": {
+    "label": "Scheduling",
+    "positive": [
+      "scheduling",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "64": {
+    "label": "Prioritization",
+    "positive": [
+      "prioritization",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "65": {
+    "label": "Escalation-paths",
+    "positive": [
+      "escalation paths",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "66": {
+    "label": "Monitoring-routines",
+    "positive": [
+      "monitoring routines",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "67": {
+    "label": "Redundancy-and-backups",
+    "positive": [
+      "redundancy and backups",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "68": {
+    "label": "Budget-discipline",
+    "positive": [
+      "budget discipline",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "69": {
+    "label": "Access-structure",
+    "positive": [
+      "access structure",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "70": {
+    "label": "Version-control",
+    "positive": [
+      "version control",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "71": {
+    "label": "Change-management",
+    "positive": [
+      "change management",
+      "structure",
+      "stability",
+      "rules",
+      "discipline",
+      "organization"
+    ],
+    "negative": [
+      "chaos",
+      "disorder",
+      "instability",
+      "neglect",
+      "arbitrariness"
+    ]
+  },
+  "72": {
+    "label": "Oversight",
+    "positive": [
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "73": {
+    "label": "Enforcement",
+    "positive": [
+      "enforcement",
+      "oversight",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "74": {
+    "label": "Gatekeeping",
+    "positive": [
+      "gatekeeping",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "75": {
+    "label": "Licensing",
+    "positive": [
+      "licensing",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "76": {
+    "label": "Monitoring",
+    "positive": [
+      "monitoring",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "77": {
+    "label": "Takedowns-and-removals",
+    "positive": [
+      "takedowns and removals",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "78": {
+    "label": "Quarantine-and-isolation",
+    "positive": [
+      "quarantine and isolation",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "79": {
+    "label": "Centralization",
+    "positive": [
+      "centralization",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "80": {
+    "label": "Access-restrictions",
+    "positive": [
+      "access restrictions",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "81": {
+    "label": "Permission-systems",
+    "positive": [
+      "permission systems",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "82": {
+    "label": "Revocation",
+    "positive": [
+      "revocation",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "83": {
+    "label": "Sanctions",
+    "positive": [
+      "sanctions",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "84": {
+    "label": "Curfews-and-limits",
+    "positive": [
+      "curfews and limits",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "85": {
+    "label": "Price-and-rate-controls",
+    "positive": [
+      "price and rate controls",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "86": {
+    "label": "Censorship",
+    "positive": [
+      "censorship",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "87": {
+    "label": "Moderation",
+    "positive": [
+      "moderation",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "88": {
+    "label": "Blocklists-and-allowlists",
+    "positive": [
+      "blocklists and allowlists",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "89": {
+    "label": "Inspection-and-audit",
+    "positive": [
+      "inspection and audit",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "90": {
+    "label": "Registration",
+    "positive": [
+      "registration",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "91": {
+    "label": "Supervision",
+    "positive": [
+      "supervision",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "92": {
+    "label": "Statutory-rules",
+    "positive": [
+      "statutory rules",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "93": {
+    "label": "Eligibility-criteria",
+    "positive": [
+      "eligibility criteria",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "94": {
+    "label": "Priority-queues",
+    "positive": [
+      "priority queues",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "95": {
+    "label": "Safety-constraints",
+    "positive": [
+      "safety constraints",
+      "oversight",
+      "enforcement",
+      "authority",
+      "compliance",
+      "regulation"
+    ],
+    "negative": [
+      "freedom",
+      "anarchy",
+      "evasion",
+      "rebellion",
+      "disorder"
+    ]
+  },
+  "96": {
+    "label": "Neglect",
+    "positive": [
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "97": {
+    "label": "Bystanding",
+    "positive": [
+      "bystanding",
+      "neglect",
+      "apathy",
+      "detachment",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "98": {
+    "label": "Callousness",
+    "positive": [
+      "callousness",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "99": {
+    "label": "Withholding-help",
+    "positive": [
+      "withholding help",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "100": {
+    "label": "Buckpassing",
+    "positive": [
+      "buckpassing",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "101": {
+    "label": "Ghosting-and-avoidance",
+    "positive": [
+      "ghosting and avoidance",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "102": {
+    "label": "Stonewalling",
+    "positive": [
+      "stonewalling",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "103": {
+    "label": "Tokenism",
+    "positive": [
+      "tokenism",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "104": {
+    "label": "Cynicism",
+    "positive": [
+      "cynicism",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "105": {
+    "label": "Burnout-numbness",
+    "positive": [
+      "burnout numbness",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "106": {
+    "label": "Complacency",
+    "positive": [
+      "complacency",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "107": {
+    "label": "Apathy",
+    "positive": [
+      "apathy",
+      "neglect",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "108": {
+    "label": "Stalling",
+    "positive": [
+      "stalling",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "109": {
+    "label": "Exclusion",
+    "positive": [
+      "exclusion",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "110": {
+    "label": "Detachment",
+    "positive": [
+      "detachment",
+      "neglect",
+      "apathy",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "111": {
+    "label": "Ignorance-maintained",
+    "positive": [
+      "ignorance maintained",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "112": {
+    "label": "Information-dumping",
+    "positive": [
+      "information dumping",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "113": {
+    "label": "Dehumanization",
+    "positive": [
+      "dehumanization",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "114": {
+    "label": "Nonchalance",
+    "positive": [
+      "nonchalance",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "115": {
+    "label": "Fatalism",
+    "positive": [
+      "fatalism",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "116": {
+    "label": "Moral-disengagement",
+    "positive": [
+      "moral disengagement",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "117": {
+    "label": "Instrumentalization-of-people",
+    "positive": [
+      "instrumentalization of people",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "118": {
+    "label": "Indifference-to-risk",
+    "positive": [
+      "indifference to risk",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "119": {
+    "label": "Indifference-to-harm",
+    "positive": [
+      "indifference to harm",
+      "neglect",
+      "apathy",
+      "detachment",
+      "bystanding",
+      "withholding"
+    ],
+    "negative": [
+      "care",
+      "attention",
+      "engagement",
+      "responsibility",
+      "concern"
+    ]
+  },
+  "120": {
+    "label": "Violence",
+    "positive": [
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "121": {
+    "label": "Exploitation",
+    "positive": [
+      "exploitation",
+      "violence",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "122": {
+    "label": "Corruption",
+    "positive": [
+      "corruption",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "123": {
+    "label": "Betrayal",
+    "positive": [
+      "betrayal",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "124": {
+    "label": "Negligence",
+    "positive": [
+      "negligence",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "125": {
+    "label": "Oppression",
+    "positive": [
+      "oppression",
+      "violence",
+      "exploitation",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "126": {
+    "label": "Sabotage",
+    "positive": [
+      "sabotage",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "127": {
+    "label": "Fraud",
+    "positive": [
+      "fraud",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "128": {
+    "label": "Defamation",
+    "positive": [
+      "defamation",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "129": {
+    "label": "Harassment",
+    "positive": [
+      "harassment",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "130": {
+    "label": "Hatred",
+    "positive": [
+      "hatred",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "131": {
+    "label": "Vengeance",
+    "positive": [
+      "vengeance",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "132": {
+    "label": "Coercion",
+    "positive": [
+      "coercion",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "133": {
+    "label": "Intimidation",
+    "positive": [
+      "intimidation",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "134": {
+    "label": "Injury",
+    "positive": [
+      "injury",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "135": {
+    "label": "Predation",
+    "positive": [
+      "predation",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "136": {
+    "label": "Hazard",
+    "positive": [
+      "hazard",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "137": {
+    "label": "Ruthlessness",
+    "positive": [
+      "ruthlessness",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "138": {
+    "label": "Abuse of power",
+    "positive": [
+      "abuse of power",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "139": {
+    "label": "Systemic harm",
+    "positive": [
+      "systemic harm",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "140": {
+    "label": "Resource stripping",
+    "positive": [
+      "resource stripping",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "141": {
+    "label": "Environmental harm",
+    "positive": [
+      "environmental harm",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "142": {
+    "label": "Self-harm patterns",
+    "positive": [
+      "self harm patterns",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "143": {
+    "label": "Social breakdown",
+    "positive": [
+      "social breakdown",
+      "violence",
+      "exploitation",
+      "oppression",
+      "abuse",
+      "coercion"
+    ],
+    "negative": [
+      "care",
+      "protection",
+      "healing",
+      "safety",
+      "goodwill"
+    ]
+  },
+  "144": {
+    "label": "Decommissioning",
+    "positive": [
+      "decommissioning",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "145": {
+    "label": "Pruning",
+    "positive": [
+      "pruning",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "146": {
+    "label": "Culling",
+    "positive": [
+      "culling",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "147": {
+    "label": "Dismantling",
+    "positive": [
+      "dismantling",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "148": {
+    "label": "Disassembly",
+    "positive": [
+      "disassembly",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "149": {
+    "label": "Erasure-of-records",
+    "positive": [
+      "erasure of records",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "150": {
+    "label": "Neutralization-of-threats",
+    "positive": [
+      "neutralization of threats",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "151": {
+    "label": "Demolition",
+    "positive": [
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "152": {
+    "label": "Aggression",
+    "positive": [
+      "aggression",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "153": {
+    "label": "Eradication",
+    "positive": [
+      "eradication",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "154": {
+    "label": "Damage",
+    "positive": [
+      "damage",
+      "demolition",
+      "erasure",
+      "collapse",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "155": {
+    "label": "Collapse",
+    "positive": [
+      "collapse",
+      "demolition",
+      "erasure",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "156": {
+    "label": "Devastation",
+    "positive": [
+      "devastation",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "157": {
+    "label": "Shredding-and-wiping",
+    "positive": [
+      "shredding and wiping",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "158": {
+    "label": "Partition-and-splitting",
+    "positive": [
+      "partition and splitting",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "159": {
+    "label": "Controlled-burns",
+    "positive": [
+      "controlled burns",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "160": {
+    "label": "Sunsetting-systems",
+    "positive": [
+      "sunsetting systems",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "161": {
+    "label": "Recall-and-withdrawal",
+    "positive": [
+      "recall and withdrawal",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "162": {
+    "label": "Unlearning-harmful-patterns",
+    "positive": [
+      "unlearning harmful patterns",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "163": {
+    "label": "Asset-stripping",
+    "positive": [
+      "asset stripping",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "164": {
+    "label": "Sabotage-destruction",
+    "positive": [
+      "sabotage destruction",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "165": {
+    "label": "Scorched-earth-actions",
+    "positive": [
+      "scorched earth actions",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "166": {
+    "label": "Decay-and-erosion",
+    "positive": [
+      "decay and erosion",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "167": {
+    "label": "Abandonment",
+    "positive": [
+      "abandonment",
+      "demolition",
+      "erasure",
+      "collapse",
+      "damage",
+      "removal"
+    ],
+    "negative": [
+      "creation",
+      "preservation",
+      "repair",
+      "building",
+      "growth"
+    ]
+  },
+  "168": {
+    "label": "Unpredictability",
+    "positive": [
+      "unpredictability",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "169": {
+    "label": "Instability",
+    "positive": [
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "170": {
+    "label": "Flux",
+    "positive": [
+      "flux",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "171": {
+    "label": "Turbulence",
+    "positive": [
+      "turbulence",
+      "instability",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "172": {
+    "label": "Overload",
+    "positive": [
+      "overload",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "173": {
+    "label": "Conflict-swarms",
+    "positive": [
+      "conflict swarms",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "174": {
+    "label": "Uncoordinated-change",
+    "positive": [
+      "uncoordinated change",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "175": {
+    "label": "Cascading-failure",
+    "positive": [
+      "cascading failure",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "176": {
+    "label": "Breakdown-of-rules",
+    "positive": [
+      "breakdown of rules",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "177": {
+    "label": "Signal-noise",
+    "positive": [
+      "signal noise",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "178": {
+    "label": "Information-overflow",
+    "positive": [
+      "information overflow",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "179": {
+    "label": "Rumor-spread",
+    "positive": [
+      "rumor spread",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "180": {
+    "label": "Spontaneous-mobilization",
+    "positive": [
+      "spontaneous mobilization",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "181": {
+    "label": "Crowd-dynamics",
+    "positive": [
+      "crowd dynamics",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "182": {
+    "label": "Volatility",
+    "positive": [
+      "volatility",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "183": {
+    "label": "Fragmentation",
+    "positive": [
+      "fragmentation",
+      "instability",
+      "turbulence",
+      "conflict",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "184": {
+    "label": "Strife",
+    "positive": [
+      "strife",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "185": {
+    "label": "Subversion-of-order",
+    "positive": [
+      "subversion of order",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "186": {
+    "label": "Hijacking-processes",
+    "positive": [
+      "hijacking processes",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "187": {
+    "label": "Manias-and-panics",
+    "positive": [
+      "manias and panics",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "188": {
+    "label": "Ad-hoc-workarounds",
+    "positive": [
+      "ad hoc workarounds",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "189": {
+    "label": "Rogue-actors",
+    "positive": [
+      "rogue actors",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "190": {
+    "label": "System-drift",
+    "positive": [
+      "system drift",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "191": {
+    "label": "Entropy-build-up",
+    "positive": [
+      "entropy build up",
+      "instability",
+      "turbulence",
+      "conflict",
+      "fragmentation",
+      "flux"
+    ],
+    "negative": [
+      "order",
+      "stability",
+      "coordination",
+      "predictability",
+      "control"
+    ]
+  },
+  "192": {
+    "label": "Autonomy",
+    "positive": [
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "193": {
+    "label": "Consent",
+    "positive": [
+      "consent",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "194": {
+    "label": "Expression",
+    "positive": [
+      "expression",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "195": {
+    "label": "Privacy",
+    "positive": [
+      "privacy",
+      "autonomy",
+      "liberty",
+      "choice",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "196": {
+    "label": "Mobility",
+    "positive": [
+      "mobility",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "197": {
+    "label": "Association",
+    "positive": [
+      "association",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "198": {
+    "label": "Choice",
+    "positive": [
+      "choice",
+      "autonomy",
+      "liberty",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "199": {
+    "label": "Pluralism",
+    "positive": [
+      "pluralism",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "200": {
+    "label": "Tolerance",
+    "positive": [
+      "tolerance",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "201": {
+    "label": "Experimentation",
+    "positive": [
+      "experimentation",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "202": {
+    "label": "Innovation-space",
+    "positive": [
+      "innovation space",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "203": {
+    "label": "Decentralization",
+    "positive": [
+      "decentralization",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "204": {
+    "label": "Interoperability",
+    "positive": [
+      "interoperability",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "205": {
+    "label": "Open-access",
+    "positive": [
+      "open access",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "206": {
+    "label": "Whistleblowing-space",
+    "positive": [
+      "whistleblowing space",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "207": {
+    "label": "Dissent-protection",
+    "positive": [
+      "dissent protection",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "208": {
+    "label": "Minority-protection",
+    "positive": [
+      "minority protection",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "209": {
+    "label": "Due-process",
+    "positive": [
+      "due process",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "210": {
+    "label": "Non-discrimination",
+    "positive": [
+      "non discrimination",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "211": {
+    "label": "Information-access",
+    "positive": [
+      "information access",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "212": {
+    "label": "Transparency-claims",
+    "positive": [
+      "transparency claims",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "213": {
+    "label": "Exit-options",
+    "positive": [
+      "exit options",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "214": {
+    "label": "Entry-opportunities",
+    "positive": [
+      "entry opportunities",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "215": {
+    "label": "Sandboxing",
+    "positive": [
+      "sandboxing",
+      "autonomy",
+      "liberty",
+      "choice",
+      "privacy",
+      "consent"
+    ],
+    "negative": [
+      "coercion",
+      "restriction",
+      "control",
+      "oppression",
+      "captivity"
+    ]
+  },
+  "216": {
+    "label": "Accuracy",
+    "positive": [
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "217": {
+    "label": "Evidence",
+    "positive": [
+      "evidence",
+      "accuracy",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "218": {
+    "label": "Reasoning",
+    "positive": [
+      "reasoning",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "219": {
+    "label": "Objectivity",
+    "positive": [
+      "objectivity",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "220": {
+    "label": "Clarity",
+    "positive": [
+      "clarity",
+      "accuracy",
+      "evidence",
+      "verification",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "221": {
+    "label": "Disclosure",
+    "positive": [
+      "disclosure",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "222": {
+    "label": "Scrutiny",
+    "positive": [
+      "scrutiny",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "223": {
+    "label": "Verification",
+    "positive": [
+      "verification",
+      "accuracy",
+      "evidence",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "224": {
+    "label": "Reliability-of-sources",
+    "positive": [
+      "reliability of sources",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "225": {
+    "label": "Coherence",
+    "positive": [
+      "coherence",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "226": {
+    "label": "Completeness",
+    "positive": [
+      "completeness",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "227": {
+    "label": "Honesty-in-reporting",
+    "positive": [
+      "honesty in reporting",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "228": {
+    "label": "Traceability",
+    "positive": [
+      "traceability",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "229": {
+    "label": "Transparency-of-methods",
+    "positive": [
+      "transparency of methods",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "230": {
+    "label": "Uncertainty-awareness",
+    "positive": [
+      "uncertainty awareness",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "231": {
+    "label": "Plural-evidence",
+    "positive": [
+      "plural evidence",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "232": {
+    "label": "Error-correction",
+    "positive": [
+      "error correction",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "233": {
+    "label": "Review-and-critique",
+    "positive": [
+      "review and critique",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "234": {
+    "label": "Methodological-soundness",
+    "positive": [
+      "methodological soundness",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "235": {
+    "label": "Replicability",
+    "positive": [
+      "replicability",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "236": {
+    "label": "Open-debate",
+    "positive": [
+      "open debate",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "237": {
+    "label": "Grounded-definitions",
+    "positive": [
+      "grounded definitions",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "238": {
+    "label": "Classification-discipline",
+    "positive": [
+      "classification discipline",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "239": {
+    "label": "Measurement-discipline",
+    "positive": [
+      "measurement discipline",
+      "accuracy",
+      "evidence",
+      "verification",
+      "clarity",
+      "honesty"
+    ],
+    "negative": [
+      "lies",
+      "deceit",
+      "obfuscation",
+      "misinformation",
+      "fraud"
+    ]
+  },
+  "240": {
+    "label": "Lies",
+    "positive": [
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "241": {
+    "label": "Propaganda",
+    "positive": [
+      "propaganda",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "242": {
+    "label": "Misinformation",
+    "positive": [
+      "misinformation",
+      "lies",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "243": {
+    "label": "Disinformation",
+    "positive": [
+      "disinformation",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "244": {
+    "label": "Concealment",
+    "positive": [
+      "concealment",
+      "lies",
+      "misinformation",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "245": {
+    "label": "Forgery",
+    "positive": [
+      "forgery",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "246": {
+    "label": "Scapegoating",
+    "positive": [
+      "scapegoating",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "247": {
+    "label": "Gaslighting",
+    "positive": [
+      "gaslighting",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "248": {
+    "label": "Statistical-abuse",
+    "positive": [
+      "statistical abuse",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "249": {
+    "label": "Plagiarism",
+    "positive": [
+      "plagiarism",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "250": {
+    "label": "Manipulative-framing",
+    "positive": [
+      "manipulative framing",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "251": {
+    "label": "Scams",
+    "positive": [
+      "scams",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "252": {
+    "label": "Imposture",
+    "positive": [
+      "imposture",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "253": {
+    "label": "Subterfuge",
+    "positive": [
+      "subterfuge",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "254": {
+    "label": "Conspiracism",
+    "positive": [
+      "conspiracism",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "255": {
+    "label": "Mislabeling",
+    "positive": [
+      "mislabeling",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "256": {
+    "label": "Duplicity",
+    "positive": [
+      "duplicity",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "257": {
+    "label": "Fraudulence",
+    "positive": [
+      "fraudulence",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "258": {
+    "label": "Misattribution",
+    "positive": [
+      "misattribution",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "259": {
+    "label": "Hoaxes",
+    "positive": [
+      "hoaxes",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "260": {
+    "label": "Astroturfing",
+    "positive": [
+      "astroturfing",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "261": {
+    "label": "False-balance",
+    "positive": [
+      "false balance",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "262": {
+    "label": "Selective-disclosure",
+    "positive": [
+      "selective disclosure",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "263": {
+    "label": "Data-fabrication",
+    "positive": [
+      "data fabrication",
+      "lies",
+      "misinformation",
+      "concealment",
+      "fraud",
+      "manipulation"
+    ],
+    "negative": [
+      "truth",
+      "transparency",
+      "honesty",
+      "disclosure",
+      "integrity"
+    ]
+  },
+  "264": {
+    "label": "Imagination",
+    "positive": [
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "265": {
+    "label": "Ideation",
+    "positive": [
+      "ideation",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "266": {
+    "label": "Design-thinking",
+    "positive": [
+      "design thinking",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "267": {
+    "label": "Invention",
+    "positive": [
+      "invention",
+      "imagination",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "268": {
+    "label": "Prototyping",
+    "positive": [
+      "prototyping",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "269": {
+    "label": "Craft-and-making",
+    "positive": [
+      "craft and making",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "270": {
+    "label": "Engineering-solutions",
+    "positive": [
+      "engineering solutions",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "271": {
+    "label": "System-design",
+    "positive": [
+      "system design",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "272": {
+    "label": "Synthesis",
+    "positive": [
+      "synthesis",
+      "imagination",
+      "invention",
+      "design",
+      "building"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "273": {
+    "label": "Integration",
+    "positive": [
+      "integration",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "274": {
+    "label": "Refinement",
+    "positive": [
+      "refinement",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "275": {
+    "label": "Pattern-finding",
+    "positive": [
+      "pattern finding",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "276": {
+    "label": "Renovation-and-upgrades",
+    "positive": [
+      "renovation and upgrades",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "277": {
+    "label": "Entrepreneurial-building",
+    "positive": [
+      "entrepreneurial building",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "278": {
+    "label": "Collaboration-in-making",
+    "positive": [
+      "collaboration in making",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "279": {
+    "label": "Co-creation-with-users",
+    "positive": [
+      "co creation with users",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "280": {
+    "label": "Artistic-expression",
+    "positive": [
+      "artistic expression",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "281": {
+    "label": "Music-and-rhythm",
+    "positive": [
+      "music and rhythm",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "282": {
+    "label": "Storytelling-and-writing",
+    "positive": [
+      "storytelling and writing",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "283": {
+    "label": "Research-and-discovery",
+    "positive": [
+      "research and discovery",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "284": {
+    "label": "Experiment-design",
+    "positive": [
+      "experiment design",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "285": {
+    "label": "Tool-building",
+    "positive": [
+      "tool building",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "286": {
+    "label": "Production-systems",
+    "positive": [
+      "production systems",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  },
+  "287": {
+    "label": "Growth-and-expansion",
+    "positive": [
+      "growth and expansion",
+      "imagination",
+      "invention",
+      "design",
+      "building",
+      "synthesis"
+    ],
+    "negative": [
+      "destruction",
+      "erasure",
+      "demolition",
+      "neglect",
+      "stagnation"
+    ]
+  }
+}

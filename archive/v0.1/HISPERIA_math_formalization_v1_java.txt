@@ -1,0 +1,330 @@
+// Sphere Mathematical Formalization
+// Java-style specification file (not executable runtime code)
+// Consolidates all structural, geometric, semantic-ring, activation, and dynamic formulas
+// Derived from prototype.txt, geometric structure, and extended definitions.
+
+// ------------------------------------------------------------
+// 1. Basic Constants (Sphere Geometry)
+// ------------------------------------------------------------
+final int AREAS = 12;
+final int FAMILIES_PER_AREA = 24;     // 24 families per area → 288 families
+final int TOTAL_FAMILIES = AREAS * FAMILIES_PER_AREA;
+
+final int HEXES_PER_FAMILY = 250;     // 250 hexes per family → 72,000 hexes
+final int TOTAL_HEXES = TOTAL_FAMILIES * HEXES_PER_FAMILY;
+
+final int SIDES_PER_HEX = 6;          // Each hex has 6 sides
+final int TOTAL_SIDES = TOTAL_HEXES * SIDES_PER_HEX;
+
+// Derived per-unit capacities
+final int SIDES_PER_FAMILY = HEXES_PER_FAMILY * SIDES_PER_HEX;
+final int SIDES_PER_AREA = SIDES_PER_FAMILY * FAMILIES_PER_AREA;
+
+
+// ------------------------------------------------------------
+// 2. Truth Values and Sentence Capacity
+// ------------------------------------------------------------
+// Each side s has a truth value tau[s] in [0,1]
+double tau[]; // length = TOTAL_SIDES
+
+// Count sides in region R: countSides(R)
+// Count filled sides: filledSides(R)
+// Filling rate
+double fillingRate(Region R) {
+    return (double) filledSides(R) / (double) countSides(R);
+}
+
+// Sentence capacity (3–5 per side)
+int minSentences(Region R) {
+    return filledSides(R) * 3;
+}
+
+int maxSentences(Region R) {
+    return filledSides(R) * 5;
+}
+
+// Average (select fixed assumption ≈4)
+double avgSentences(Region R) {
+    final double avgPerSide = 4.0;
+    return filledSides(R) * avgPerSide;
+}
+
+// Total truth magnitude
+// T(R) = Σ_s tau[s]
+double T(Region R) {
+    double sum = 0.0;
+    for (int s : R.sides()) sum += tau[s];
+    return sum;
+}
+
+// Maximum truth
+// T_max(R) = countSides(R)
+// Normalized truth density: T_norm(R) = T(R) / T_max(R)
+double T_norm(Region R) {
+    return T(R) / (double) countSides(R);
+}
+
+// Discrete truth points threshold
+final double TAU_THRESHOLD = 0.8;
+int truthPoints(Region R) {
+    int k = 0;
+    for (int s : R.sides()) if (tau[s] >= TAU_THRESHOLD) k++;
+    return k;
+}
+
+double truthPointDensity(Region R) {
+    return (double) truthPoints(R) / (double) countSides(R);
+}
+
+
+// ------------------------------------------------------------
+// 3. Basic Statistics across Sides
+// ------------------------------------------------------------
+double meanTau(Region R) {
+    return T(R) / (double) countSides(R);
+}
+
+double varTau(Region R) {
+    double m = meanTau(R);
+    double v = 0.0;
+    for (int s : R.sides()) {
+        double d = tau[s] - m;
+        v += d * d;
+    }
+    return v / (double) countSides(R);
+}
+
+double stdTau(Region R) {
+    return Math.sqrt(varTau(R));
+}
+
+
+// ------------------------------------------------------------
+// 4. Adjacency, Graph Measures, Clusters
+// ------------------------------------------------------------
+// A[i][j] = 1 if sides i and j are adjacent; else 0
+int A[][]; // adjacency matrix
+
+// Count connected components K(R) and largest cluster L(R)
+int K(Region R) { return Graph.countComponents(R.sides(), A); }
+int L(Region R) { return Graph.largestComponentSize(R.sides(), A); }
+
+// Active sides = sides with tau > 0
+int activeSides(Region R) {
+    int k = 0;
+    for (int s : R.sides()) if (tau[s] > 0.0) k++;
+    return k;
+}
+
+// Structural coherence: C(R) = L(R) / activeSides(R)
+double C(Region R) {
+    int act = activeSides(R);
+    if (act == 0) return 0.0;
+    return (double) L(R) / (double) act;
+}
+
+// Fragmentation: fragIndex(R) = K(R) / activeSides(R)
+double fragIndex(Region R) {
+    int act = activeSides(R);
+    if (act == 0) return 0.0;
+    return (double) K(R) / (double) act;
+}
+
+// Adjacency truth correlation
+// Returns [0,1], higher = smoother truth field
+double adjacencyCorrelation(Region R) {
+    double num = 0.0;
+    int edges = 0;
+
+    for (int i : R.sides()) {
+        for (int j : Graph.neighbors(i, A)) {
+            if (i < j) {
+                num += Math.abs(tau[i] - tau[j]);
+                edges++;
+            }
+        }
+    }
+
+    if (edges == 0) return 0.0;
+    return 1.0 - (num / (double) edges);
+}
+
+
+// ------------------------------------------------------------
+// 5. Area & Family Alignment
+// ------------------------------------------------------------
+// area(s) ∈ {0..11}, family(s) ∈ {0..287}
+int areaOf[];
+int familyOf[];
+
+// Area alignment X_A(R)
+double X_A(Region R) {
+    int[] count = new int[AREAS];
+    int act = activeSides(R);
+    if (act == 0) return 0.0;
+
+    for (int s : R.sides()) if (tau[s] > 0.0) count[areaOf[s]]++;
+
+    int maxA = 0;
+    for (int a = 1; a < AREAS; a++) if (count[a] > count[maxA]) maxA = a;
+
+    return (double) count[maxA] / (double) act;
+}
+
+// Family alignment X_F(R)
+double X_F(Region R) {
+    int[] count = new int[TOTAL_FAMILIES];
+    int act = activeSides(R);
+    if (act == 0) return 0.0;
+
+    for (int s : R.sides()) if (tau[s] > 0.0) count[familyOf[s]]++;
+
+    int maxF = 0;
+    for (int f = 1; f < TOTAL_FAMILIES; f++) if (count[f] > count[maxF]) maxF = f;
+
+    return (double) count[maxF] / (double) act;
+}
+
+// Composite structural scores
+double S(Region R) {
+    return T(R) * C(R) * X_A(R);
+}
+
+double S_prime(Region R) {
+    return T(R) * C(R) * X_A(R) * X_F(R);
+}
+
+// Area entropy
+// H = − Σ p_a ln p_a, p_a = fraction of active sides in Area a
+double areaEntropy(Region R) {
+    int[] count = new int[AREAS];
+    int act = activeSides(R);
+    if (act == 0) return 0.0;
+
+    for (int s : R.sides()) if (tau[s] > 0.0) count[areaOf[s]]++;
+
+    double H = 0.0;
+    for (int a = 0; a < AREAS; a++) {
+        if (count[a] == 0) continue;
+        double p = (double) count[a] / (double) act;
+        H -= p * Math.log(p);
+    }
+    return H;
+}
+
+
+// ------------------------------------------------------------
+// 6. Semantic Ring Activations (Areas & Families)
+// ------------------------------------------------------------
+double A_vec[] = new double[AREAS];       // Area activation, Σ A[a] = 1
+double F_vec[] = new double[TOTAL_FAMILIES]; // Family activation
+
+double O_obstacle;  // [0,1]
+
+// Shannon entropy for any distribution
+double entropy(double[] p) {
+    double H = 0.0;
+    for (double x : p) if (x > 0.0) H -= x * Math.log(x);
+    return H;
+}
+
+// Coverage Φ: fraction of Areas hit
+// areaHit[a] = true if Area a touched in loop
+double coveragePhi(boolean[] areaHit) {
+    int k = 0;
+    for (boolean b : areaHit) if (b) k++;
+    return (double) k / (double) AREAS;
+}
+
+// Loopability L = (# hops adding new weighted family) / (total hops)
+double loopability(int newHits, int hops) {
+    if (hops == 0) return 0.0;
+    return (double) newHits / (double) hops;
+}
+
+// Bipolar axes B[k] = A[2k] − A[2k+1]
+double[] bipolarAxes(double[] A_vec) {
+    double[] B = new double[6];
+    for (int k = 0; k < 6; k++) {
+        int plus = 2*k;
+        int minus = 2*k + 1;
+        B[k] = A_vec[plus] - A_vec[minus];
+    }
+    return B;
+}
+
+// Tension energy = Σ B[k]^2
+double tensionEnergy(double[] B) {
+    double s = 0.0;
+    for (double b : B) s += b * b;
+    return s;
+}
+
+
+// ------------------------------------------------------------
+// 7. Divergence & Similarity Measures
+// ------------------------------------------------------------
+double kl(double[] p, double[] q) {
+    double d = 0.0;
+    for (int i = 0; i < p.length; i++) {
+        if (p[i] > 0 && q[i] > 0) d += p[i] * Math.log(p[i] / q[i]);
+    }
+    return d;
+}
+
+double cosine(double[] x, double[] y) {
+    double dot = 0.0, nx = 0.0, ny = 0.0;
+    for (int i = 0; i < x.length; i++) {
+        dot += x[i] * y[i];
+        nx  += x[i] * x[i];
+        ny  += y[i] * y[i];
+    }
+    return dot / (Math.sqrt(nx) * Math.sqrt(ny));
+}
+
+
+// ------------------------------------------------------------
+// 8. Temporal Coherence & Drift
+// ------------------------------------------------------------
+double turnCoherence(double[] A_t, double[] A_prev) {
+    return cosine(A_t, A_prev);
+}
+
+double cumulativeDrift(double[] A_start, double[] A_end) {
+    return 1.0 - cosine(A_start, A_end);
+}
+
+
+// ------------------------------------------------------------
+// 9. Obstacle Modeling
+// ------------------------------------------------------------
+// Expected time to obstacle if O_obstacle is hazard rate
+double expectedTimeToObstacle(double O) {
+    if (O <= 0.0) return Double.POSITIVE_INFINITY;
+    return 1.0 / O;
+}
+
+
+// ------------------------------------------------------------
+// 10. Fourier / Spectral Smoothness on Ring C12
+// ------------------------------------------------------------
+// dft() returns complex array of length 12
+class Complex {
+    double re, im;
+    Complex(double r, double i) { re=r; im=i; }
+    double power() { return re*re + im*im; }
+}
+
+Complex[] dft(double[] A) { /* Implement standard DFT */ return null; }
+
+double ringSmoothness(double[] A) {
+    Complex[] F = dft(A);
+    double total = 0.0;
+    for (Complex c : F) total += c.power();
+
+    double low = F[0].power() + F[1].power() + F[11].power();
+    return low / total;
+}
+
+// ------------------------------------------------------------
+// END OF FILE

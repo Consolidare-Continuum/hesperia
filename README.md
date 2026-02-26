@@ -1,5 +1,6 @@
 # HESPERIA (HSPR)
 
+<<<<<<< HEAD
 **Operational**: Single canonical repo (Team 10). Deliverables → `origin` (Atomic-Commits-Team/hesperia). See [OPERATIONAL.md](OPERATIONAL.md).
 
 **Version**: v0.4.0 (tag `hesperia-v0.4.0`)

@@ -1,0 +1,33 @@
+Dict B statistics
+==================================================
+candidates total: 6656
+accepted: 6656 (100.0%)
+rejected: 0
+ambiguous (flagged): 2967
+mean similarity: 0.8373
+median similarity: 0.8537
+
+Per-family token counts (first 20):
+  family 0: 24
+  family 1: 22
+  family 2: 20
+  family 3: 25
+  family 4: 22
+  family 5: 23
+  family 6: 23
+  family 7: 22
+  family 8: 26
+  family 9: 22
+  family 10: 27
+  family 11: 21
+  family 12: 22
+  family 13: 22
+  family 14: 25
+  family 15: 24
+  family 16: 23
+  family 17: 22
+  family 18: 24
+  family 19: 22
+  ... and 268 more
+
+imbalance check (κ): PASS

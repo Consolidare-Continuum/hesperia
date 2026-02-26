@@ -1,5 +1,7 @@
 # HESPERIA (HSPR) — Documentation Index
 
+**Operational v0.6:** See [OPERATIONAL_INDEX_v0_6.md](OPERATIONAL_INDEX_v0_6.md). Deprecated docs are in [archive/](archive/ARCHIVE_MANIFEST.md).
+
 This index explains the structure and naming of the documentation files
 in this repository. Numbers are ordered reading paths, not priorities.
 
@@ -36,24 +38,19 @@ For quick onboarding, choose the path that matches your role.
   3. `03_DESCRIPTION__HESPERIA_investment_RU.txt`
   4. `04_IDEOLOGY__*` through `09_PROJECT__*` (ideology, identity, product, operating model, agent workflow, file naming — see §1a).
 
-## 0a. Deterministic Reading Mode (Available Docs)
-
-For a single, fixed order that only uses files present in this repo:
-- `00_GUIDE__Deterministic_Reading_Mode_v1_0.md`
-
 ## 1. Entry Points
 
 - `00_GOVERNANCE_CHARTER__HESPERIA_v1_0.txt`
   **Canonical.** Governance charter v1.0 — purpose, position, ethics, constraints. Read-only. All major artifacts must reference it.
 
 - `README.md`
-  High-level overview and quick links for the repo.
+  High-level overview of the project and current code.
 
-- `00_GUIDE__Deterministic_Reading_Mode_v1_0.md`
-  Fixed, deterministic reading order for all available docs.
+- `docs/CORE_CONSOLIDATION.md`
+  **Canonical.** Single definition of the core: 22_SPEC + 34–43 + predefined defaults + frozen Dict A/B; two config surfaces (guard_config vs LAYER_1_9_PREDEFINED_DEFAULTS); topology single source; frozen state manifest; code path.
 
-- `README-REPO-STRUCTURE.md`
-  Repo layout and source provenance for key directories.
+- `docs/NEXT_STEPS_MATH_INTEGRATION.md`
+  Next steps for scripting layers: L1 implemented in `sphere_rag/layers`; L2–L9 order and pipeline wiring; run L1 after attribution.
 
 - `docs/CORE_CONSOLIDATION.md`
   **Canonical.** Single definition of the core: 22_SPEC + 34–43 + predefined defaults + frozen Dict A/B; two config surfaces (guard_config vs LAYER_1_9_PREDEFINED_DEFAULTS); topology single source; frozen state manifest; code path.
@@ -266,18 +263,3 @@ For a single, fixed order that only uses files present in this repo:
 - `61_LEGACY__prototype_notes_v0_2.txt`
 - `legacy/` directory
   Contains older or duplicated formalization drafts kept for reference.
-
-## 9. Availability Notes (Missing in Repo Snapshot)
-
-The following files are referenced above or in other docs but are not present in this repo snapshot:
-- `04_IDEOLOGY__Aequitas_et_cognitio_invictae_*.md`
-- `05_IDENTITY__Motto_and_Seal_*.md`
-- `06_PRODUCT__Properties_and_Blind_Spots_*.md`
-- `07_PROJECT__Operating_Model_and_Documentation_Coherence_*.md`
-- `08_PROJECT__Agent_Workflow_and_RAG_Reality_*.md`
-- `09_PROJECT__File_Naming_Java_Style_Best_Practices_*.md`
-- `10_MASTER_SPEC__HESPERIA_v1_0.docx`
-- `16_SPEC__Families_Passes_and_Safety_v0_1.txt`
-- `17_SPEC__Family_Matrices_description_v0_1.txt`
-- `18_SPEC__MySQL_integration_and_ingestion_v0_1.txt`
-- `33_FAMILIES__Passes_and_Stops_description_v0_1.txt`

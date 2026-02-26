@@ -1,0 +1,31 @@
+# Hesperia Analyze API — GET /health, POST /hesperia/analyze (v0.6), GPT Actions compliant
+# Bearer auth via HESPERIA_API_KEY. Source: cursor repo.
+# Create /etc/hesperia/hesperia-api.env with: HESPERIA_API_KEY=<secret>
+# Install: sudo cp /data/workspaces/cursor/cluster/hesperia-api.service /etc/systemd/system/
+#          sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-api
+[Unit]
+Description=Hesperia Analyze API (cursor CLIENTS/hesperia) v0.6
+After=network.target chroma-new-docker.service
+Wants=chroma-new-docker.service
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/workspaces/cursor/CLIENTS/hesperia
+# HESPERIA_API_KEY required; HESPERIA_API_KEY_NEXT optional (rotation: set NEXT, update GPT, swap keys, clear NEXT)
+EnvironmentFile=-/etc/hesperia/hesperia-api.env
+Environment=PYTHONPATH=/data/workspaces/cursor/CLIENTS/hesperia
+Environment=CHROMA_SERVER_URL=http://127.0.0.1:8002
+Environment=HESPERIA_DATA_DIR=/data/workspaces/cursor/CLIENTS/hesperia
+# v0.6: Dict A v0.6 + Dict B v0.6 (no dense/sparse legacy)
+Environment=HESPERIA_ATTRIBUTION_MODE=v06
+ExecStart=/data/chroma/venv/bin/uvicorn api.main:app --host 127.0.0.1 --port 9005 --timeout-keep-alive 30
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=hesperia-api
+
+[Install]
+WantedBy=multi-user.target

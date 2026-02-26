@@ -1,9 +1,36 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.venv/
 .venv_v040/
 .venv_v040_build/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env and secrets (deliverables repo = no internals)
+.env
+.env.*
+!.env.example
+*.key
+keys/
+
+# Cursor / local dev (not for origin)
+.cursor/
+*.cursor*
+
+# Data and logs
 assets/v040/
 assets/v041/
 hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/
+
+# OS and editors
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db

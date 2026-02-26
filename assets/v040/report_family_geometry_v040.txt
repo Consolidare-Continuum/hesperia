@@ -1,0 +1,17 @@
+Family geometry report (§8A)
+==================================================
+Inter-family cosine (family vector vs family vector):
+  Mean off-diagonal: 0.5771
+Most similar family pairs (top 10):
+  (37, 43): 0.9360
+  (34, 42): 0.9324
+  (145, 154): 0.9295
+  (234, 238): 0.9234
+  (154, 165): 0.9228
+  (276, 286): 0.9224
+  (124, 143): 0.9187
+  (145, 150): 0.9182
+  (234, 236): 0.9166
+  (216, 234): 0.9163
+Most isolated family (lowest mean sim to others): 63 (mean=0.3882)
+Off-diagonal similarity histogram (10 bins): 0, 0, 0, 0, 0, 0, 1350, 23486, 15737, 755

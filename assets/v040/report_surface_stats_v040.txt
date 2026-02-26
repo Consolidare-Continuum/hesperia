@@ -1,0 +1,6 @@
+Surface statistics
+==================================================
+per-hex constraint violations (L≤3, T≥1): 0
+
+lexical sides with ≥1 token: 5473
+bucket size min/max/mean: 1 / 15 / 1.22

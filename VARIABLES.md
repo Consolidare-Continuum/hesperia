@@ -13,11 +13,15 @@ This file now covers two scopes:
 
 ## 1) Runtime environment variables (code + deploy)
 
+**API auth (Hesperia Action)**: `HESPERIA_API_KEY`, `HESPERIA_API_KEY_NEXT` — see [api/GPT-ACTIONS-SETUP.md](api/GPT-ACTIONS-SETUP.md) and [api/README_ACTIONS.md](api/README_ACTIONS.md).
+
 | Variable | Purpose | Default / Example | Used by |
 |---|---|---|---|
-| `CHROMA_SERVER_URL` | Base URL for Chroma retrieval server. | `http://127.0.0.1:8002` | `api/analyze.py`, `deploy/hesperia-api.service` |
-| `HESPERIA_DATA_DIR` | Base directory for local Hesperia data assets consumed by scripts and API flows. | Fallback to repo data paths when unset. Deploy example: `/data/workspaces/atomic-commit-hesperia` | `api/analyze.py`, `scripts/context_rag.py`, `scripts/ingest_hesperia_families.py`, `scripts/matrix_run.py`, `deploy/hesperia-api.service` |
-| `PYTHONPATH` | Python import search path; used to include cursor workspace modules and local repo package roots. | Set dynamically by helpers or explicitly in service unit. | `api/analyze.py`, `scripts/context_rag.py`, `deploy/hesperia-api.service` |
+| `CHROMA_SERVER_URL` | Base URL for Chroma retrieval server. | `http://127.0.0.1:8002` | `api/main.py`, `cluster/hesperia-api.service` |
+| `HESPERIA_DATA_DIR` | Base directory for local Hesperia data assets. | Fallback to repo; deploy = this repo root. | `api/main.py`, `scripts/context_rag.py`, `scripts/ingest_hesperia_families.py`, `scripts/matrix_run.py`, `cluster/hesperia-api.service` |
+| `HESPERIA_API_KEY` | Bearer token for POST /hesperia/analyze. If unset, analyze returns 503. | No default; set in env or EnvironmentFile. | `api/main.py`, `cluster/hesperia-api.service` |
+| `HESPERIA_API_KEY_NEXT` | Optional second token for rotation. | Unset | `api/main.py` |
+| `PYTHONPATH` | Python import search path; include repo root. | Set by helpers or in service unit. | `api/main.py`, `scripts/context_rag.py`, `cluster/hesperia-api.service` |
 | `OPENAI_API_KEY` | API key for OpenAI-powered statement extraction/classification utilities. | No embedded default; must come from environment. | `statements/extract_statements.py`, `statements/classify_statements.py` |
 
 ### Runtime notes

@@ -1,0 +1,181 @@
+HESPERIA — STRUCTURAL DEFECT REGISTRY v1.0
+Status: Accepted Critical Issues
+Scope: Structural / Ontological / Epistemic
+No mitigation included.
+
+I. DATA STRUCTURE INTEGRITY DEFECTS
+Area Name Corruption (e.g. "GOOOD")
+Definition:
+area_name ∉ CANONICAL_AREA_SET
+
+Consequence:
+orphan_families = 24
+TOTAL_FAMILIES_eff = TOTAL_FAMILIES - 24
+TOTAL_FAMILIES_eff ≠ AREAS * FAMILIES_PER_AREA
+
+Effect:
+Macro-axis collapses. Ring topology degraded.
+Traversal still executes.
+
+Duplicate global_id
+Definition:
+∃ i ≠ j : global_id_i = global_id_j
+
+Consequence:
+Indexing function becomes non-injective.
+familyOf[sideId] ambiguous.
+
+Structural violation:
+|unique(global_id)| < |rows|
+
+No detection layer.
+
+Families per Area ≠ 24
+Constraint:
+∀ area:
+count(families(area)) = 24
+
+Violation:
+count ≠ 24
+
+Consequence:
+TOTAL_FAMILIES ≠ AREAS * 24
+familyLocal ∈ [0..23] invalid
+sideId projection distorted
+
+Null / Garbage Columns
+Constraint:
+Required columns must be non-null.
+
+If null:
+Row silently skipped.
+
+Consequence:
+filledSides(R) < expectedSides(R)
+No integrity flag.
+
+Families Table Size ≠ 288
+Expected:
+|families| = 288
+
+If violated:
+Constants frozen, lattice incomplete.
+
+Geometric inconsistency:
+SIDES_PER_AREA formula invalid in real dataset.
+
+II. VECTOR / RETRIEVAL FAILURE
+Vector DB Returns Garbage / Empty
+Behavior:
+Exception → return []
+
+Consequence:
+|R| = 0
+T(R) = 0
+C(R) = 0
+X_A(R) = 0
+
+Silent epistemic vacuum.
+
+III. SEMANTIC INTEGRITY VIOLATIONS
+Duplicate family_name Within Area
+Constraint:
+∀ area: unique(family_name)
+
+Violation:
+P(family | word) ambiguous
+Centroid non-unique.
+
+Cross-Area Family Collision
+Definition:
+family_name appears in multiple Areas.
+
+Result:
+Ontology injectivity undefined.
+Polysemy vs structural collision unresolved.
+
+Polarity Axis Imbalance
+Constraint:
+Σ tau_s(Area_pos) ≈ Σ tau_s(Area_neg)
+
+If imbalance:
+Structural bias hidden.
+tensionEnergy may remain low.
+Epistemic skew undetected.
+
+IV. RUNTIME STRUCTURAL GUARD DEFECTS
+coveragePhi < 1 Not Flagged
+Invariant expected:
+coveragePhi = 1
+
+If < 1:
+System degraded.
+No degradation flag emitted.
+
+Empty Area Not Fatal
+Constraint:
+∀ area:
+∃ side with tau > 0
+
+If false:
+Topology broken.
+System continues silently.
+
+Partial Corruption Undetected
+Only hard stop:
+matrix_run failure
+
+But:
+valid JSON ∧ invalid ontology possible.
+
+Externally valid, internally meaningless.
+
+V. LOGIC / STRUCTURE DISCONNECT
+Logical Guards Ignore Sphere Geometry
+Safeguard / UNSAT / ENTAILS operate on:
+state: dict[str,int]
+
+They validate formula logic,
+not sphere structure.
+
+Thus:
+logical_valid ∧ geometric_invalid possible.
+
+VI. EPISTEMIC FAILURE MODES
+Deterministic Falsehood Risk
+System ensures:
+internal_consistency = high
+
+Does NOT ensure:
+correspondence_to_reality
+
+Internal coherence ≠ truth.
+
+Paradigm Lock Bias
+If dataset skewed:
+A_vec biased
+
+LLM confidence high
+because metrics stable.
+
+Structural bias legitimized numerically.
+
+Missing Epistemic Humility Metric
+Entropy:
+H = - Σ p(A_i) log p(A_i)
+
+If H → 0:
+System fully confident.
+
+Low entropy may indicate overfitting.
+No uncertainty guard present.
+
+VII. CORE CRITICAL STATEMENT
+HESPERIA reduces stochastic hallucination.
+
+But introduces risk of deterministic structural error.
+
+Determinism ≠ validity.
+Internal consistency ≠ epistemic correctness.
+
+End of registry.

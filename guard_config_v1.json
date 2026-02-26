@@ -35,7 +35,8 @@
     "max_shadow_hops": 2,
     "shadow_penalty_k": 0.40,
     "require_trigger_condition": true,
-    "non_creation_enforced": true
+    "non_creation_enforced": true,
+    "k_shadow_perturb": 0.06
   },
 
   "ambiguity": {
