@@ -35,4 +35,5 @@ def _fallback_defaults() -> dict[str, Any]:
         "RETRIEVAL_MODE_ID": "LEX_BM25_V1", "TOP_K": 20, "MAX_SHORTFALL": 2, "MIN_SUPPORT": 0.30, "MAX_DUP_BOOK_CONC": 0.70,
         "MAX_CONTRADICTION": 0.50,
         "MIN_COVERAGE_RATIO": 0.10, "MAX_CROSS_AREA_RATIO": 0.50, "MAX_LYAPUNOV": 2.0, "HIGH_CONF": 0.70, "MED_CONF": 0.40,
+        "MIN_PCS": 0.0,  # when > 0 and L1 has profile, L7 gates on PROFILE_CONFORMANCE_SCORE (34_SPEC N1)
     }

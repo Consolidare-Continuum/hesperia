@@ -1,13 +1,25 @@
 """
-HESPERIA v0.4.x Layer-1 instrumentation (34_SPEC).
-25 variables, deterministic, input-bound. No LLM, no shadow, no books.
-Inputs: total_tokens, matched list of (family_id, altitude), F, A, eps.
+HESPERIA v0.4.x Layer-1 instrumentation (34_SPEC) + Normative Structure Profile (34_SPEC N1).
+25 variables base; when profile supplied, adds FPD, APD, FMP, ALTD, BVS, PCS.
+Deterministic, input-bound. No LLM, no shadow, no books.
+Inputs: total_tokens, matched list of (family_id, altitude), F, A, eps; optional profile_id, profile.
 """
 
 from __future__ import annotations
 
 import math
 from typing import Any
+
+from .structure_profile import StructureProfile, profile_checksum, validate_profile
+
+# Fixed normalization constants for profile deviation (deterministic per spec)
+# Distance metric = L2 only; no future metric swapping. Valid when P and FEDV/Q and AEDV are valid distributions.
+FPD_MAX = math.sqrt(2.0)  # max L2 distance between two probability vectors
+APD_MAX = math.sqrt(2.0)
+# Altitude domain frozen: 0.0 <= altitude <= 1.0 (global invariant)
+ALT_MIN = 0.0
+ALT_MAX = 1.0
+ALT_NORM = ALT_MAX - ALT_MIN  # 1.0
 
 
 def _hits_and_altitude_sum(
@@ -43,18 +55,192 @@ def _second_max(hits: list[int]) -> int:
     return second if second > 0 else M  # if all equal, secondMax = M (ratio 1.0)
 
 
+def _area_hits(hits: list[int], F: int, A: int) -> list[int]:
+    """Derive area_hits[a] from hits[f]. FAMILIES_PER_AREA = F // A."""
+    if not A:
+        return []
+    fpa = F // A
+    area_hits = [0] * A
+    for f in range(F):
+        if f < F and hits[f] > 0:
+            a = f // fpa
+            if a < A:
+                area_hits[a] += hits[f]
+    return area_hits
+
+
+def _clamp01(x: float) -> float:
+    return max(0.0, min(1.0, x))
+
+
+def _compute_profile_metrics(
+    base: dict[str, Any],
+    hits: list[int],
+    altitude_sum: list[float],
+    profile_id: str,
+    profile: StructureProfile,
+    F: int,
+    A: int,
+    eps: float,
+) -> dict[str, Any]:
+    """
+    Compute 34_SPEC N1 profile metrics: FPD, APD, FMP, ALTD, BVS, PCS.
+    Uses base L1 output for attributed, coverage, dominance, area_spread, etc.
+    Zero-weight families (FEDV[f]=0) contribute to FPD normally; only DENY_FAMILIES defines hard prohibition.
+    """
+    attributed = base["ATTRIBUTED_TOKENS"]
+    mean_altitude_global = base["MEAN_ALTITUDE_GLOBAL"]
+    dominance_ratio = base["DOMINANCE_RATIO"]
+    area_dominance_ratio = base["AREA_DOMINANCE_RATIO"]
+    area_spread = base["AREA_SPREAD"]
+    coverage = base["COVERAGE_RATIO"]
+
+    FEDV = profile["FEDV"]
+    AEDV = profile["AEDV"]
+    deny = set(profile.get("DENY_FAMILIES") or [])
+
+    # Deterministic empty case: attributed == 0 → FPD=1, APD=1, PCS=0 (no division-by-eps bias)
+    if attributed == 0:
+        out_empty: dict[str, Any] = {
+            "PROFILE_MODE_ACTIVE": True,
+            "PROFILE_ID": profile_id,
+            "PROFILE_VERSION": profile.get("profile_version", ""),
+            "PROFILE_CHECKSUM": profile_checksum(profile),
+            "FAMILY_PROFILE_DEVIATION": 1.0,
+            "AREA_PROFILE_DEVIATION": 1.0,
+            "PROFILE_CONFORMANCE_SCORE": 0.0,
+        }
+        if deny:
+            out_empty["FORBIDDEN_MASS_PENALTY"] = 0.0
+        alt_band = profile.get("ALT_BAND")
+        alt_target = profile.get("ALT_TARGET")
+        if alt_band is not None or alt_target is not None:
+            out_empty["ALTITUDE_DEVIATION"] = 1.0
+        out_empty["BUDGET_VIOLATION_SCORE"] = 1.0 if any(
+            profile.get(k) is not None for k in ("MAX_AREA_DOMINANCE", "MAX_FAMILY_DOMINANCE", "MIN_AREA_SPREAD", "MIN_COVERAGE_RATIO")
+        ) else 0.0
+        return out_empty
+
+    fpa = F // A if A else 24
+    area_hits = _area_hits(hits, F, A)
+    denom = attributed + eps
+    P = [hits[f] / denom for f in range(F)]
+    Q = [area_hits[a] / denom for a in range(A)] if A else []
+
+    # 7.1 Family Profile Deviation (L2 only; FEDV[f]=0 is not forbidden, contributes to FPD normally)
+    fpd_raw = math.sqrt(sum((P[f] - FEDV[f]) ** 2 for f in range(F)))
+    FPD = _clamp01(fpd_raw / FPD_MAX)
+
+    # 7.2 Area Profile Deviation (L2 only)
+    APD = 0.0
+    if A and len(AEDV) == A:
+        apd_raw = math.sqrt(sum((Q[a] - AEDV[a]) ** 2 for a in range(A)))
+        APD = _clamp01(apd_raw / APD_MAX)
+
+    # 7.3 Forbidden Mass Penalty
+    FMP = 0.0
+    if deny:
+        fmp_raw = sum(hits[f] for f in deny if 0 <= f < F)
+        FMP = fmp_raw / denom
+
+    # 7.4 Altitude Deviation (altitude domain 0 ≤ alt ≤ 1 per invariant)
+    ALTD = 0.0
+    alt_band = profile.get("ALT_BAND")
+    alt_target = profile.get("ALT_TARGET")
+    if alt_band is not None and len(alt_band) == 2:
+        lo, hi = alt_band[0], alt_band[1]
+        if lo <= mean_altitude_global <= hi:
+            ALTD = 0.0
+        else:
+            dist = (lo - mean_altitude_global) if mean_altitude_global < lo else (mean_altitude_global - hi)
+            ALTD = _clamp01(dist / ALT_NORM)
+    elif alt_target is not None and len(alt_target) == 2:
+        mu_t, tau = alt_target[0], alt_target[1]
+        if abs(mean_altitude_global - mu_t) <= tau:
+            ALTD = 0.0
+        else:
+            dist = abs(mean_altitude_global - mu_t) - tau
+            ALTD = _clamp01(dist / (ALT_NORM + 1e-9))
+
+    # 7.5 Budget Violation Score: max(v_i) — governance-grade; a single cap breach is not diluted
+    violations: list[float] = []
+    if "MAX_AREA_DOMINANCE" in profile and profile["MAX_AREA_DOMINANCE"] is not None:
+        cap = profile["MAX_AREA_DOMINANCE"]
+        v = max(0.0, area_dominance_ratio - cap) / (1.0 - cap + eps)
+        violations.append(min(1.0, v))
+    if "MAX_FAMILY_DOMINANCE" in profile and profile["MAX_FAMILY_DOMINANCE"] is not None:
+        cap = profile["MAX_FAMILY_DOMINANCE"]
+        v = max(0.0, dominance_ratio - cap) / (1.0 - cap + eps)
+        violations.append(min(1.0, v))
+    if "MIN_AREA_SPREAD" in profile and profile["MIN_AREA_SPREAD"] is not None:
+        floor = profile["MIN_AREA_SPREAD"]
+        v = max(0.0, floor - area_spread) / (floor + eps)
+        violations.append(min(1.0, v))
+    if "MIN_COVERAGE_RATIO" in profile and profile["MIN_COVERAGE_RATIO"] is not None:
+        floor = profile["MIN_COVERAGE_RATIO"]
+        v = max(0.0, floor - coverage) / (floor + eps)
+        violations.append(min(1.0, v))
+    BVS = _clamp01(max(violations)) if violations else 0.0
+
+    # 7.6 Profile Conformance Score
+    w_f, w_a, w_forbid, w_alt, w_budget = (
+        float(profile.get("w_family", 1.0)),
+        float(profile.get("w_area", 1.0)),
+        float(profile.get("w_forbid", 1.0)),
+        float(profile.get("w_alt", 1.0)),
+        float(profile.get("w_budget", 1.0)),
+    )
+    pen = w_f * FPD + w_a * APD
+    weight_sum = w_f + w_a
+    if deny:
+        pen += w_forbid * FMP
+        weight_sum += w_forbid
+    if alt_band is not None or alt_target is not None:
+        pen += w_alt * ALTD
+        weight_sum += w_alt
+    if violations:
+        pen += w_budget * BVS
+        weight_sum += w_budget
+    PCS = 1.0 - _clamp01(pen / (weight_sum + eps))
+
+    out: dict[str, Any] = {
+        "PROFILE_MODE_ACTIVE": True,
+        "PROFILE_ID": profile_id,
+        "PROFILE_VERSION": profile.get("profile_version", ""),
+        "PROFILE_CHECKSUM": profile_checksum(profile),
+        "FAMILY_PROFILE_DEVIATION": FPD,
+        "AREA_PROFILE_DEVIATION": APD,
+        "PROFILE_CONFORMANCE_SCORE": PCS,
+    }
+    if deny:
+        out["FORBIDDEN_MASS_PENALTY"] = FMP
+    if alt_band is not None or alt_target is not None:
+        out["ALTITUDE_DEVIATION"] = ALTD
+    if violations:
+        out["BUDGET_VIOLATION_SCORE"] = BVS
+    return out
+
+
 def compute_L1(
     total_tokens: int,
     matched: list[tuple[int, float]],
     F: int = 288,
     A: int = 12,
     eps: float = 1e-9,
+    profile_id: str | None = None,
+    profile: StructureProfile | None = None,
 ) -> dict[str, Any]:
     """
-    Compute Layer-1 25 variables (34_SPEC).
+    Compute Layer-1 25 variables (34_SPEC). If profile_id and profile are supplied,
+    also compute profile metrics (FPD, APD, FMP, ALTD, BVS, PCS) per 34_SPEC N1.
     matched = list of (familyGlobal, altitude) per attributed token.
-    Returns dict with keys TOTAL_TOKENS, ATTRIBUTED_TOKENS, COVERAGE_RATIO, ... STRUCTURAL_STABILITY_INDEX.
+    Returns dict with 34_SPEC keys; when profile present, adds PROFILE_ID, FAMILY_PROFILE_DEVIATION, etc.
     """
+    if profile is not None and profile_id is None:
+        profile_id = profile.get("profile_name") or profile.get("profile_version") or "profile"
+    elif profile_id is None:
+        profile_id = ""
+
     FAMILIES_PER_AREA = F // A if A else 24
     hits, altitude_sum = _hits_and_altitude_sum(matched, F)
 
@@ -120,7 +306,9 @@ def compute_L1(
     )
     structural_stability = dominance_ratio * (1.0 - normalized_family_entropy)
 
-    return {
+    # PROFILE_MODE_ACTIVE set explicitly from input; never infer from PCS presence
+    result: dict[str, Any] = {
+        "PROFILE_MODE_ACTIVE": profile is not None,
         "TOTAL_TOKENS": total_tokens,
         "ATTRIBUTED_TOKENS": attributed,
         "COVERAGE_RATIO": coverage,
@@ -148,3 +336,9 @@ def compute_L1(
         "ALTITUDE_WEIGHTED_MASS": altitude_weighted_mass,
         "STRUCTURAL_STABILITY_INDEX": structural_stability,
     }
+    if profile is not None:
+        validate_profile(profile, F=F, A=A)
+        result.update(
+            _compute_profile_metrics(result, hits, altitude_sum, profile_id, profile, F, A, eps)
+        )
+    return result

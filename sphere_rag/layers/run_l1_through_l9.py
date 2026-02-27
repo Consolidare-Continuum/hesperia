@@ -24,6 +24,7 @@ from sphere_rag.layers import (
     compute_L8,
     compute_L9,
     load_defaults,
+    load_structure_profile,
 )
 
 
@@ -31,6 +32,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--text", default="justice lie fairness truth good order harm freedom")
     ap.add_argument("--out", type=Path, default=None)
+    ap.add_argument("--profile", type=Path, default=None, help="Path to STRUCTURE_PROFILE__*.json (L1 profile mode)")
     args = ap.parse_args()
     assets = _HESPERIA / "hesperia_lex" / "curated"
     dict_a = load_dict_a_v033(assets_root=assets) or {}
@@ -41,9 +43,15 @@ def main():
     eps = float(defaults.get("eps", 1e-9))
     D = int(defaults.get("MAX_ALLOWED_DEPTH", 8))
 
+    profile_id = None
+    profile = None
+    if args.profile and args.profile.exists():
+        profile, _ = load_structure_profile(args.profile, F=F, A=A)
+        profile_id = profile.get("profile_name") or profile.get("profile_version") or args.profile.stem
+
     tokens = tokenize(normalize(args.text))
     matched, _ = attribute(tokens, dict_a, dict_b)
-    L1 = compute_L1(len(tokens), matched, F=F, A=A, eps=eps)
+    L1 = compute_L1(len(tokens), matched, F=F, A=A, eps=eps, profile_id=profile_id, profile=profile)
     hits = [0] * F
     for fg, _ in matched:
         if 0 <= fg < F:
@@ -58,7 +66,7 @@ def main():
     L4 = compute_L4(L1, L1_S, hits, hits_S, R_B, R_S, F=F, A=A, **{k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults})
     L5 = compute_L5(L1, L4, R_B, [], F=F, A=A, TOP_K=defaults.get("TOP_K", 20), MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2), MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50))
     L6 = compute_L6(L1, L2, F=F)
-    L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF") if k in defaults})
+    L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults})
     L8 = compute_L8(L1, L2, L3, L4, L5, L6, L7)
     L9 = compute_L9(L3, L4, L7, L8, MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2))
 

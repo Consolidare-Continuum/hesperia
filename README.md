@@ -1,6 +1,5 @@
 # HESPERIA (HSPR)
 
-<<<<<<< HEAD
 **Operational**: Single canonical repo (Team 10). Deliverables → `origin` (Atomic-Commits-Team/hesperia). See [OPERATIONAL.md](OPERATIONAL.md).
 
 **Version**: v0.4.0 (tag `hesperia-v0.4.0`)
@@ -34,6 +33,7 @@ See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4
 
 - **Full L1–L9 pass**: `mkdir -p docs/layer_runs` then  
   `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json`
+- **With L1 structure profile**: add `--profile profiles/STRUCTURE_PROFILE__UNIFORM_ENVELOPE__v1.json` (see [profiles/README.md](profiles/README.md), [profiles/TAXONOMY_v1.md](profiles/TAXONOMY_v1.md)).
 - **L1+L2 / L1+L2+L3**: `python3 -m sphere_rag.layers.run_l1_l2` / `run_l1_l2_l3` (see RUNNABLE.md).
 - **Core math**: `python sphere_rag/hesperia_v03_core_math.py` or `... test`
 - **Simulation / API**: `python sphere_rag/run_simulation.py full|chroma|serve [options]`; serve: `python sphere_rag/serve_v033.py`
@@ -57,6 +57,7 @@ See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4
 | Core math contract | [22_SPEC__V0_3_Core_Math_Contract_v1_0.md](22_SPEC__V0_3_Core_Math_Contract_v1_0.md) |
 | L1–L9 predefined defaults (thresholds, topology) | [LAYER_1_9_PREDEFINED_DEFAULTS_v1_0.txt](LAYER_1_9_PREDEFINED_DEFAULTS_v1_0.txt), [layer_1_9_predefined_defaults_v1_0.json](layer_1_9_predefined_defaults_v1_0.json) |
 | Layer-1 instrumentation (v0.4.x) | [34_SPEC__V0_4_Layer1_Instrumentation_25_Variables_v1_0.txt](34_SPEC__V0_4_Layer1_Instrumentation_25_Variables_v1_0.txt) |
+| L1 normative structure profiles (34_SPEC N1) | [34_SPEC_N1__L1_Normative_Structure_Profile_Extension_v0_4.txt](34_SPEC_N1__L1_Normative_Structure_Profile_Extension_v0_4.txt), [profiles/README.md](profiles/README.md), [profiles/TAXONOMY_v1.md](profiles/TAXONOMY_v1.md) |
 | Layer-2 geometric traversal (v0.4.x) | [35_SPEC__V0_4_Layer2_Geometric_Traversal_25_Variables_v1_0.txt](35_SPEC__V0_4_Layer2_Geometric_Traversal_25_Variables_v1_0.txt) |
 | Layer-3 shadow divergence (v0.4.x) | [36_SPEC__V0_4_Layer3_Shadow_Divergence_25_Variables_v1_0.txt](36_SPEC__V0_4_Layer3_Shadow_Divergence_25_Variables_v1_0.txt) |
 | Layer-4 book evidence (v0.4.x) | [37_SPEC__V0_4_Layer4_Book_Evidence_25_Variables_v1_0.txt](37_SPEC__V0_4_Layer4_Book_Evidence_25_Variables_v1_0.txt) |

@@ -117,6 +117,12 @@ For quick onboarding, choose the path that matches your role.
 - `34_SPEC__V0_4_Layer1_Instrumentation_25_Variables_v1_0.txt`
   **v0.4.x baseline.** Layer-1 instrumentation: 25 variables, deterministic, reproducible, input-bound. No LLM, no shadow, no books. Defines TOTAL_TOKENS through STRUCTURAL_STABILITY_INDEX; Gini, variance, secondMax; Java-style pseudocode. Observes attribution outputs; does not replace 22_SPEC resolution.
 
+- `34_SPEC_N1__L1_Normative_Structure_Profile_Extension_v0_4.txt`
+  **L1 Profile Extension (34_SPEC N1).** Normative structure profiles: optional profile_id + profile input; when supplied, L1 computes FPD, APD, FMP, ALTD, BVS, PCS (PROFILE_MODE_ACTIVE, PROFILE_VERSION, PROFILE_CHECKSUM). Deterministic; profile selection external. Empty-case rule; BVS = max(v_i); zero-weight clarification; altitude domain 0–1. L7 code 75 = PROFILE_CONFORMANCE_FAILURE. Ref: 34_SPEC.
+
+- `profiles/README.md`, `profiles/TAXONOMY_v1.md`
+  **L1 structure profiles.** Versioned profile artifacts (STRUCTURE_PROFILE__*__v*.json). Taxonomy v1.0: canonical set (UNIFORM_ENVELOPE, BROAD_ANALYSIS_ENVELOPE, FOCUSED_DOMAIN_ENVELOPE, LOW_ALTITUDE_ENVELOPE, HIGH_ALTITUDE_ENVELOPE, HARD_BOUNDARY); primary_axis and strictness_level for canonical profiles. Ref: 34_SPEC N1.
+
 - `35_SPEC__V0_4_Layer2_Geometric_Traversal_25_Variables_v1_0.txt`
   **v0.4.x baseline.** Layer-2 geometric traversal: 25 variables, deterministic, topology-bound. No semantics, no books, no shadow. Measures movement inside geometry (BFS on frozen family adjacency). Uses Layer-1 dominant family; defines TRAVERSAL_START_FAMILY through GEOMETRIC_STABILITY_INDEX; clustering, centrality, loop count; Java-style pseudocode.
 
