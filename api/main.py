@@ -99,9 +99,10 @@ app.add_middleware(
 
 
 class AnalyzeBody(BaseModel):
-    """Request body: only 'text'. No instructions, URLs, or extra fields (GPT-safe)."""
+    """Request body: text (required); r1_r4 (optional) to include R1–R4 reading-scale pipeline in extended."""
     model_config = ConfigDict(extra="forbid")
     text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP, description="Input text for semantic attribution")
+    r1_r4: bool = Field(default=False, description="If true, run R1–R4 pipeline and include units + book_profile in extended")
 
 
 class ErrorBody(BaseModel):
@@ -133,12 +134,12 @@ def health() -> dict[str, Any]:
     response_model=None,
     status_code=200,
     summary="Semantic attribution",
-    description="Requires Authorization: Bearer <key>. Returns 6-key result or error.",
+    description="Requires Authorization: Bearer <key>. Returns result (6-key) and extended (second output). Set body.r1_r4=true to include R1–R4 units and book_profile in extended.",
     operation_id="hesperiaAnalyze",
     responses={
-        200: {"description": "Success", "content": {"application/json": {"example": {
-            "dominant_area": 0, "dominant_family": 0,
-            "governance": 0.0, "loopability": 0.0, "tension_energy": 0.0, "obstacle_score": 0.0,
+        200: {"description": "Success. Body: { result: 6-key, extended: { total_tokens, ... optional r1_r4 } }", "content": {"application/json": {"example": {
+            "result": {"dominant_area": 0, "dominant_family": 0, "governance": 0.0, "loopability": 0.0, "tension_energy": 0.0, "obstacle_score": 0.0},
+            "extended": {"total_tokens": 0, "matched_tokens": 0, "unmatched_tokens": 0},
         }}}},
         400: {"description": "Bad request (text missing, no tokens matched, etc.)", "model": ErrorBody},
         401: {"description": "Missing or invalid Bearer token", "model": ErrorBody},
@@ -156,8 +157,13 @@ async def hesperia_analyze(
     try:
         from sphere_rag.analyze import analyze
 
-        minimal, _extended = analyze(body.text, text_cap=DEFAULT_TEXT_CAP, assets_root=_ASSETS_ROOT)
-        return JSONResponse(content=minimal)
+        minimal, extended = analyze(
+            body.text,
+            text_cap=DEFAULT_TEXT_CAP,
+            assets_root=_ASSETS_ROOT,
+            r1_r4=body.r1_r4,
+        )
+        return JSONResponse(content={"result": minimal, "extended": extended})
     except ValueError as e:
         msg = str(e)
         if "text_missing" in msg:

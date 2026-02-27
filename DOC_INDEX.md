@@ -123,6 +123,12 @@ For quick onboarding, choose the path that matches your role.
 - `profiles/README.md`, `profiles/TAXONOMY_v1.md`
   **L1 structure profiles.** Versioned profile artifacts (STRUCTURE_PROFILE__*__v*.json). Taxonomy v1.0: canonical set (UNIFORM_ENVELOPE, BROAD_ANALYSIS_ENVELOPE, FOCUSED_DOMAIN_ENVELOPE, LOW_ALTITUDE_ENVELOPE, HIGH_ALTITUDE_ENVELOPE, HARD_BOUNDARY); primary_axis and strictness_level for canonical profiles. Ref: 34_SPEC N1.
 
+- `docs/SPEC__Reading_Scale_Levels_R1_R4_Structural_Audit_v1_0.md`
+  **R1–R4 reading-scale structural audit.** Multi-pass structural analysis (sentence→paragraph→chapter→book). Part A: namespace (R vs L), unit schema, expected smoothing, turning points, R3 typing, SCI, trap avoidance, guard integration (Σ/Γ/Θ). Part B: SI_metrics equations. Part B Addenda: token→family contract, Top-N, secondary metrics, similarity, compression loss, drift, magnitude. Part C: JSON Schema set (Unit, BookProfile, SI_metrics). **Part D: Expected Smoothing Model (ESM) v1.0** — Δ_expected (corpus median or H2 bootstrap), ε_M (α·MAD), deviation classification, drift model, guard integration; closes gap between metrics and calibrated structural instrument.
+
+- `schema/SI_metrics.schema.json`, `schema/Unit.schema.json`, `schema/BookProfile.schema.json`
+  **JSON Schema 2020-12 (R1–R4).** SI_metrics (bounds [0,1], trust_tier T0–T3); Unit (unit_id pattern ^R[1-4]:.+, level, top_areas/top_families, SI_metrics, flags); BookProfile (level_averages with SI_means/SI_variances bounds, scale_deltas, turning_points, structural_signature). Validate pipeline outputs before LLM. Ref: docs/SPEC__Reading_Scale_Levels_R1_R4_Structural_Audit_v1_0.md Part C.
+
 - `35_SPEC__V0_4_Layer2_Geometric_Traversal_25_Variables_v1_0.txt`
   **v0.4.x baseline.** Layer-2 geometric traversal: 25 variables, deterministic, topology-bound. No semantics, no books, no shadow. Measures movement inside geometry (BFS on frozen family adjacency). Uses Layer-1 dominant family; defines TRAVERSAL_START_FAMILY through GEOMETRIC_STABILITY_INDEX; clustering, centrality, loop count; Java-style pseudocode.
 

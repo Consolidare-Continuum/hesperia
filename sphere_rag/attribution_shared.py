@@ -90,6 +90,38 @@ def _clamp_altitude(a: float) -> float:
     return max(0.0, min(1.0, float(a)))
 
 
+def load_dict_a_v06(assets_root: Path) -> dict[str, dict[str, Any]]:
+    """
+    Load Dict A from v06 JSONL (token -> topk). Convert to v033 shape: lemma -> { familyGlobal, altitude }.
+    Uses first topk entry: familyGlobal = family_id, altitude = 1 - w (strength semantics).
+    Returns dict suitable for attribute(); empty if file missing.
+    """
+    v06_dir = Path(assets_root) / "v06"
+    path = v06_dir / "dict_a_v06.jsonl"
+    if not path.exists():
+        return {}
+    out: dict[str, dict[str, Any]] = {}
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            rec = json.loads(line)
+            token = (rec.get("token") or "").strip().lower()
+            if not token:
+                continue
+            topk = rec.get("topk") or []
+            if not topk:
+                continue
+            first = topk[0]
+            fg = int(first.get("family_id", 0))
+            w = float(first.get("w", 0.5))
+            if 0 <= fg < 288:
+                alt = _clamp_altitude(1.0 - w) if LEGACY_WEIGHT_IS_STRENGTH else _clamp_altitude(w)
+                out[token] = {"familyGlobal": fg, "altitude": alt}
+    return out
+
+
 def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) -> dict[str, dict[str, Any]]:
     """
     Load Dict A for v0.3.3 attribution.
@@ -165,14 +197,22 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
     """
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
     repo_root = Path(__file__).resolve().parent.parent
-    b0_path = repo_root / "hesperia_lex/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
-    legacy_b0_path = repo_root / "hesperia_lex/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
-    b1_path = repo_root / "hesperia_lex/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json"
+    b0_name = "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
+    b1_name = "B1_SIDE_TO_FAMILY_v0_4_1_4.json"
+    # When assets_root is provided (e.g. hesperia_lex/curated), try frozen alongside it so run sees Dict B after surface.
+    b0_candidates: list[Path] = []
+    b1_candidates: list[Path] = []
+    if assets_root:
+        ax = Path(assets_root)
+        b0_candidates.append(ax.parent / "frozen" / b0_name)
+        b1_candidates.append(ax.parent / "frozen" / b1_name)
+    b0_candidates.append(repo_root / "hesperia_lex" / "frozen" / b0_name)
+    b1_candidates.append(repo_root / "hesperia_lex" / "frozen" / b1_name)
     token_to_side_path = root / "token_to_side_id_v040.json"
     legacy_path = path or (root / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json")
 
     b0: dict[str, int] = {}
-    for candidate in (b0_path, legacy_b0_path):
+    for candidate in b0_candidates:
         if candidate.exists():
             with open(candidate, encoding="utf-8") as f:
                 data = json.load(f)
@@ -181,11 +221,13 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
                 break
 
     b1: dict[str, int] = {}
-    if b1_path.exists():
-        with open(b1_path, encoding="utf-8") as f:
-            data = json.load(f)
-        if isinstance(data, dict):
-            b1 = {str(k): int(v) for k, v in data.items() if isinstance(k, str)}
+    for candidate in b1_candidates:
+        if candidate.exists():
+            with open(candidate, encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                b1 = {str(k): int(v) for k, v in data.items() if isinstance(k, str)}
+                break
 
     token_to_side: dict[str, int] = {}
     if token_to_side_path.exists():

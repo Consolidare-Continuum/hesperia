@@ -62,6 +62,7 @@ Execution starts only after gates (CONTEXT-PACKET approved, Infra Duration fille
 - Brain: [CLIENTS/hesperia/](../../CLIENTS/hesperia/)
 - Workspace: /data/workspaces/atomic-commit-hesperia/ (prichindel)
 - **Agents-oriented path (Ethan)**: [governance/TASK-ETHAN-HESPERIA-AGENTS-PATH.md](../../governance/TASK-ETHAN-HESPERIA-AGENTS-PATH.md) — address Gena developments, consolidate opinion, propose realistic deployable agents path per foundations.
+- **Active tasks (Grace)**: [active.md](active.md) — task rows; R1–R4 reading spec triage: [governance/TASK-GRACE-R1-R4-READING-SPEC-TRIAGE.md](../../governance/TASK-GRACE-R1-R4-READING-SPEC-TRIAGE.md).
 
 ---
 

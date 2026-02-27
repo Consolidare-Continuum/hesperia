@@ -45,10 +45,17 @@ def analyze(
     text_cap: int = DEFAULT_TEXT_CAP,
     shadow_enabled: bool | None = None,
     assets_root: Path | None = None,
+    r1_r4: bool = False,
+    r1_r4_book_id: str = "book",
+    r1_r4_levels: list[str] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     """
     Run pipeline: normalize → tokenize → attribution → core → Sigma.
     Returns (minimal_6key_result, extended_metrics).
+
+    When r1_r4=True, runs R1–R4 reading-scale pipeline and attaches
+    extended["r1_r4"] = {"units": [...], "book_profile": {...}}.
+    Ref: docs/R1_R4_INTEGRATION_CONTRACT.md (I2).
     """
     if not text or not str(text).strip():
         raise ValueError("text_missing")
@@ -126,4 +133,17 @@ def analyze(
             "coherence_index": b_result["coherence_index"],
             "entropy_area": b_result["entropy_area"],
         }
+    if r1_r4:
+        try:
+            from .r1_r4_pipeline import run_full_pipeline
+            levels = r1_r4_levels or ["R1", "R2", "R3", "R4"]
+            units, book_profile = run_full_pipeline(
+                text,
+                book_id=r1_r4_book_id,
+                assets_root=assets_root,
+                levels=levels,
+            )
+            extended_out["r1_r4"] = {"units": units, "book_profile": book_profile}
+        except Exception as e:
+            extended_out["r1_r4"] = {"error": str(e), "units": [], "book_profile": None}
     return minimal, extended_out

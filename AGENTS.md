@@ -57,7 +57,18 @@ should work with this repository.
 - When writing example code that uses OpenAI or other APIs, reference
   environment variables or configuration files rather than hardcoding keys.
 
-## 5. Scope for This AGENTS File
+## 5a. R1–R4 and sphere_math — reason isolated, mitigated (usual mode)
+
+**Background:** A Cursor decoding/formatting loop was tied to R1–R4 spec (table-fill) and large sphere_math output in context. Reason isolated; mitigations in place with common efforts (Ethan deliverable fix, Grace triage/tasking). See `docs/FINDINGS__Cursor_Decoding_Loop_2026-02-27.md`.
+
+**When working with R1–R4 or sphere_math, follow the deliverable fix:**
+
+- **R1–R4:** Pipeline outputs = **JSON per schema only** (Unit, BookProfile, SI_metrics). Do not ask the model to “output in this format” or “fill this table” from the spec; spec tables are reference only. Generate tables from JSON if needed (script/tool).
+- **sphere_math 100-sentence run:** Do not attach the full ~28k-line output as context. Use `--limit N` (e.g. `--limit 5`), single-sentence run (`run_sphere_math_values`), or a summary artifact.
+
+**Full rule:** `governance/ETHAN-HESPERIA-R1-R4-DELIVERABLE-CONTEXT-FIX.md`. Team tasking: `governance/TASK-GRACE-R1-R4-READING-SPEC-TRIAGE.md`, `project/active.md`.
+
+## 6. Scope for This AGENTS File
 
 - These guidelines apply to the entire repository rooted at this directory.
 - If nested directories later introduce their own `AGENTS.md`, those files

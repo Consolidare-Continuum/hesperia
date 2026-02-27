@@ -121,7 +121,6 @@ def _compute_profile_metrics(
         ) else 0.0
         return out_empty
 
-    fpa = F // A if A else 24
     area_hits = _area_hits(hits, F, A)
     denom = attributed + eps
     P = [hits[f] / denom for f in range(F)]
