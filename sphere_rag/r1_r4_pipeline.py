@@ -1,16 +1,26 @@
 # R1–R4 pipeline: segment → L1–L9 → Unit → aggregation → BookProfile. Ref: spec §Implementation Plan item 5.
+#
+# Notes (spec alignment):
+# - Single tokenizer: unit tokens = slice of global tokenize(normalize(text)); segment by token
+#   offsets (normalized space), not re-tokenize per segment. Invariant: sum(R1 token_count) == total_tokens.
+# - Scale deltas: delta_expected from ESM only when token_count(Rk+1) > token_count(Rk); else 0.
+# - book_profile.smoothing_model = "bootstrap_zero_expected_v0" (explicit when expected is zero).
+#
 from __future__ import annotations
 
 import json
 from pathlib import Path
 from typing import Any
 
-from .attribution_shared import load_dict_a_surface_map_v033, load_dict_a_v06
+from .attribution_shared import (
+    load_dict_a_surface_map_v033,
+    load_dict_a_v06,
+    normalize,
+    tokenize,
+)
 from .attribution_v033 import (
     load_dict_a_v033,
     load_dict_b_v033,
-    normalize,
-    tokenize,
 )
 from .attribution_v033 import attribute as _attribute_v033
 from .attribution_shared import attribute as attribute_with_surface
@@ -38,8 +48,22 @@ from .r1_r4_segmenters import (
 from .r1_r4_unit import build_unit
 
 
-def _run_layers_for_text(
-    text: str,
+def _get_token_offsets(normalized_text: str, tokens: list[str]) -> list[tuple[int, int]]:
+    """Return (start, end) character offsets for each token in normalized_text. Order-preserving, non-overlapping."""
+    out: list[tuple[int, int]] = []
+    pos = 0
+    for t in tokens:
+        idx = normalized_text.find(t, pos)
+        if idx < 0:
+            idx = pos  # fallback
+        end = idx + len(t)
+        out.append((idx, end))
+        pos = end
+    return out
+
+
+def _run_layers_for_tokens(
+    tokens: list[str],
     dict_a: dict,
     dict_b: dict,
     defaults: dict,
@@ -48,16 +72,14 @@ def _run_layers_for_text(
     eps: float,
     D: int,
     surface_map: dict[str, str] | None = None,
-) -> tuple[list[int], dict, dict, dict, dict, dict, dict, dict]:
-    """Tokenize, attribute, run L1–L9; return (hits, L1, L2, L3, L4, L5, L6, L7).
-    When surface_map is provided, tokens are resolved to structural keys before Dict A lookup (avoids token_count 0 for lemma-keyed input).
-    """
-    tokens = tokenize(normalize(text))
+) -> tuple[list[int], int, dict, dict, dict, dict, dict, dict]:
+    """Run attribution + L1–L9 on a token list (no re-tokenize). Same return as _run_layers_for_text."""
+    token_count = len(tokens)
     if surface_map:
         matched, _ = attribute_with_surface(tokens, dict_a, dict_b, surface_map=surface_map)
     else:
         matched, _ = _attribute_v033(tokens, dict_a, dict_b)
-    L1 = compute_L1(len(tokens), matched, F=F, A=A, eps=eps)
+    L1 = compute_L1(token_count, matched, F=F, A=A, eps=eps)
     hits = [0] * F
     for fg, _ in matched:
         if 0 <= fg < F:
@@ -78,7 +100,52 @@ def _run_layers_for_text(
     L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{
         k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults
     })
-    return hits, L1, L2, L3, L4, L5, L6, L7
+    return hits, token_count, L1, L2, L3, L4, L5, L6, L7
+
+
+def _run_layers_for_text(
+    text: str,
+    dict_a: dict,
+    dict_b: dict,
+    defaults: dict,
+    F: int,
+    A: int,
+    eps: float,
+    D: int,
+    surface_map: dict[str, str] | None = None,
+) -> tuple[list[int], int, dict, dict, dict, dict, dict, dict]:
+    """Tokenize, attribute, run L1–L9; return (hits, token_count, L1, L2, L3, L4, L5, L6, L7).
+    token_count = len(tokens) from the single shared tokenizer (same as extended.total_tokens).
+    When surface_map is provided, tokens are resolved to structural keys before Dict A lookup.
+    """
+    tokens = tokenize(normalize(text))
+    token_count = len(tokens)
+    if surface_map:
+        matched, _ = attribute_with_surface(tokens, dict_a, dict_b, surface_map=surface_map)
+    else:
+        matched, _ = _attribute_v033(tokens, dict_a, dict_b)
+    L1 = compute_L1(token_count, matched, F=F, A=A, eps=eps)
+    hits = [0] * F
+    for fg, _ in matched:
+        if 0 <= fg < F:
+            hits[fg] += 1
+    adj = build_canonical_stub_adjacency(F, A)
+    L2 = compute_L2(L1, hits, adjacency=adj, F=F, A=A, MAX_ALLOWED_DEPTH=D, eps=eps)
+    visited_B = set(L2.get("VISITED_IDS", []))
+    L1_S, L2_S, hits_S = L1, L2, hits[:]
+    L3 = compute_L3(L1, L2, hits, L1_S, L2_S, hits_S, F=F, A=A, eps=1e-12, **{
+        k: defaults.get(k) for k in ("SHADOW_MAX_DEVIATION", "SHADOW_MAX_CROSS_AREA_DELTA", "SHADOW_ALLOW_AREA_FLIP", "TOP_K") if k in defaults
+    })
+    R_B, R_S = [], []
+    L4 = compute_L4(L1, L1_S, hits, hits_S, R_B, R_S, F=F, A=A, **{
+        k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults
+    })
+    L5 = compute_L5(L1, L4, R_B, [], F=F, A=A, TOP_K=defaults.get("TOP_K", 20), MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2), MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50))
+    L6 = compute_L6(L1, L2, F=F)
+    L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{
+        k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults
+    })
+    return hits, token_count, L1, L2, L3, L4, L5, L6, L7
 
 
 def _weighted_mean(values: list[float], weights: list[float], eps: float = 1e-9) -> float:
@@ -119,6 +186,8 @@ def _aggregate_level(units: list[dict[str, Any]], metric_keys: list[str]) -> dic
         - si_means.get("leakage", 0.0) - si_means.get("contradiction_pressure", 0.0)
     )
     sci = round(min(1.0, max(0.0, (sci_raw + 1.0) / 2.0)), 6)
+    if not (0 <= sci <= 1):
+        raise AssertionError(f"SCI must be in [0,1], got {sci}")
     return {
         "token_count_total": sum(weights),
         "SI_means": si_means,
@@ -136,7 +205,7 @@ def _compute_scale_deltas(
     metric_keys: list[str],
     esm_defaults: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
-    """Compute scale_deltas: delta_observed (Rk+1 mean − Rk mean), delta_expected from ESM, delta_deviation = observed − expected."""
+    """Compute scale_deltas: delta_observed (Rk+1 mean − Rk mean), delta_expected from ESM (only when token_count(Rk+1) > token_count(Rk)), delta_deviation = observed − expected."""
     esm = esm_defaults or load_r1_r4_esm_defaults() or {}
     delta_expected_by_transition = esm.get("delta_expected", {})
     transitions = [("R1", "R2", "R1_to_R2"), ("R2", "R3", "R2_to_R3"), ("R3", "R4", "R3_to_R4")]
@@ -144,9 +213,14 @@ def _compute_scale_deltas(
     for r_lo, r_hi, key in transitions:
         sum_lo = level_averages.get(r_lo, {}).get("SI_means", {})
         sum_hi = level_averages.get(r_hi, {}).get("SI_means", {})
-        exp = delta_expected_by_transition.get(key, {}) if isinstance(delta_expected_by_transition, dict) else {}
+        token_lo = level_averages.get(r_lo, {}).get("token_count_total", 0)
+        token_hi = level_averages.get(r_hi, {}).get("token_count_total", 0)
         delta_observed = {k: round((sum_hi.get(k, 0.0) - sum_lo.get(k, 0.0)), 6) for k in metric_keys}
-        delta_expected = {k: round(float(exp.get(k, 0.0)), 6) for k in metric_keys}
+        if token_hi > token_lo:
+            exp = delta_expected_by_transition.get(key, {}) if isinstance(delta_expected_by_transition, dict) else {}
+            delta_expected = {k: round(float(exp.get(k, 0.0)), 6) for k in metric_keys}
+        else:
+            delta_expected = {k: 0.0 for k in metric_keys}
         delta_deviation = {k: round(delta_observed[k] - delta_expected[k], 6) for k in metric_keys}
         scale_deltas[key] = {
             "delta_observed": delta_observed,
@@ -170,18 +244,31 @@ def _run_units_for_spans(
     eps: float,
     D: int,
     surface_map: dict[str, str] | None = None,
+    tokens_full: list[str] | None = None,
+    token_offsets: list[tuple[int, int]] | None = None,
 ) -> list[dict[str, Any]]:
-    """Run L1–L9 for each span and return list of Units."""
+    """Run L1–L9 for each span and return list of Units.
+    When tokens_full and token_offsets are provided, unit tokens are derived from the global token stream (slice by span), not re-tokenized.
+    """
     units = []
-    metric_keys = ["coverage", "dominance", "entropy", "leakage", "contradiction_pressure", "stability", "shadow_deviation"]
+    use_token_offsets = tokens_full is not None and token_offsets is not None and len(tokens_full) == len(token_offsets)
     for i, span in enumerate(spans):
-        segment_text = get_text_span(text, span)
-        if not segment_text.strip():
-            continue
-        hits, L1, L2, L3, L4, L5, L6, L7 = _run_layers_for_text(
-            segment_text, dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
-        )
-        token_count = sum(hits)
+        s_start, s_end = span[0], span[1]
+        if use_token_offsets:
+            indices = [j for j in range(len(tokens_full)) if token_offsets[j][0] < s_end and token_offsets[j][1] > s_start]
+            tokens_seg = [tokens_full[j] for j in indices]
+            if not tokens_seg:
+                continue
+            hits, token_count, L1, L2, L3, L4, L5, L6, L7 = _run_layers_for_tokens(
+                tokens_seg, dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
+            )
+        else:
+            segment_text = get_text_span(text, span)
+            if len(segment_text.strip()) == 0:
+                continue
+            hits, token_count, L1, L2, L3, L4, L5, L6, L7 = _run_layers_for_text(
+                segment_text, dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
+            )
         unit_id = f"{unit_id_prefix}_{i + 1}"
         unit = build_unit(unit_id, level, parent_id, token_count, hits, L1, L2, L3, L4, L5, L6, L7, F=F, A=A)
         units.append(unit)
@@ -220,41 +307,51 @@ def run_full_pipeline(
     if levels is None:
         levels = ["R1", "R2", "R3", "R4"]
 
+    # Single source tokenizer: unit tokens from global stream (slice by span), not re-tokenized per segment.
+    normalized_text = normalize(text)
+    tokens_full = tokenize(normalized_text)
+    total_tokens = len(tokens_full)
+    token_offsets = _get_token_offsets(normalized_text, tokens_full)
+
     all_units = []
     by_level = {"R1": [], "R2": [], "R3": [], "R4": []}
 
-    if "R1" in levels:
-        spans = segment_by_sentences(text)
-        units_r1 = _run_units_for_spans(
-            text, spans, "R1", None, "R1:sent", dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
+    def run_spans(spans: list[tuple[int, int]], prefix: str):
+        return _run_units_for_spans(
+            normalized_text, spans, prefix.split(":")[0], None, prefix, dict_a, dict_b, defaults, F, A, eps, D,
+            surface_map=surface_map, tokens_full=tokens_full, token_offsets=token_offsets,
         )
+
+    # Spans in normalized character space so token_offsets (also normalized) match.
+    if "R1" in levels:
+        spans = segment_by_sentences(normalized_text)
+        units_r1 = run_spans(spans, "R1:sent")
         by_level["R1"] = units_r1
         all_units.extend(units_r1)
+        r1_token_sum = sum(u["token_count"] for u in units_r1)
+        if r1_token_sum != total_tokens:
+            raise ValueError(
+                f"R1 token_count sum ({r1_token_sum}) != total_tokens ({total_tokens}); abort run."
+            )
 
     if "R2" in levels:
-        spans = segment_by_paragraphs(text)
+        spans = segment_by_paragraphs(normalized_text)
         if spans:
-            units_r2 = _run_units_for_spans(
-                text, spans, "R2", None, "R2:para", dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
-            )
+            units_r2 = run_spans(spans, "R2:para")
             by_level["R2"] = units_r2
             all_units.extend(units_r2)
 
     if "R3" in levels:
-        spans = segment_by_chapters(text)
+        spans = segment_by_chapters(normalized_text)
         if spans:
-            units_r3 = _run_units_for_spans(
-                text, spans, "R3", None, "R3:ch", dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
-            )
+            units_r3 = run_spans(spans, "R3:ch")
             by_level["R3"] = units_r3
             all_units.extend(units_r3)
 
     if "R4" in levels:
-        spans = segment_by_book(text)
+        spans = segment_by_book(normalized_text)
         if spans:
-            units_r4 = _run_units_for_spans(
-                text, spans, "R4", None, "R4:book", dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
-            )
+            units_r4 = run_spans(spans, "R4:book")
             by_level["R4"] = units_r4
             all_units.extend(units_r4)
 
@@ -275,6 +372,7 @@ def run_full_pipeline(
                 stable_families.append(fid)
     book_profile = {
         "book_id": book_id,
+        "smoothing_model": "bootstrap_zero_expected_v0",
         "level_averages": level_averages,
         "scale_deltas": scale_deltas,
         "turning_points": [],
@@ -316,12 +414,12 @@ def run_r1_pipeline(
 
     for i, span in enumerate(spans):
         segment_text = get_text_span(text, span)
-        if not segment_text.strip():
+        text_stripped = segment_text.strip()
+        if len(text_stripped) == 0:
             continue
-        hits, L1, L2, L3, L4, L5, L6, L7 = _run_layers_for_text(
+        hits, token_count, L1, L2, L3, L4, L5, L6, L7 = _run_layers_for_text(
             segment_text, dict_a, dict_b, defaults, F, A, eps, D, surface_map=surface_map
         )
-        token_count = sum(hits)
         unit_id = f"R1:sent_{i + 1}"
         unit = build_unit(unit_id, "R1", None, token_count, hits, L1, L2, L3, L4, L5, L6, L7, F=F, A=A)
         units.append(unit)

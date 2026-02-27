@@ -25,6 +25,82 @@ def _round_floats(obj, ndigits=6):
     return obj
 
 
+def _format_txt_report(out: dict) -> str:
+    """Build a .txt report: header, per-phrase (R1), per-paragraph (R2), scale/smooth, then full JSON."""
+    lines = []
+    r1_r4 = (out.get("extended") or {}).get("r1_r4") or {}
+    units = r1_r4.get("units") or []
+    book_profile = r1_r4.get("book_profile") or {}
+
+    lines.append("=" * 60)
+    lines.append("E2E RUN OUTPUT — full math (per phrase, per paragraph, scale & smooth)")
+    lines.append("=" * 60)
+    lines.append("")
+    inp = out.get("input") or {}
+    lines.append("INPUT: length={}  preview={}".format(inp.get("length", 0), (inp.get("text_preview") or "")[:80]))
+    lines.append("")
+    res = out.get("result") or {}
+    lines.append("RESULT (6-key): dominant_area={} dominant_family={} governance={} loopability={} tension_energy={} obstacle_score={}".format(
+        res.get("dominant_area"), res.get("dominant_family"), res.get("governance"),
+        res.get("loopability"), res.get("tension_energy"), res.get("obstacle_score")))
+    lines.append("")
+
+    r1_units = [u for u in units if (u.get("level") or "") == "R1"]
+    lines.append("--- PER PHRASE (R1) ---")
+    for u in r1_units:
+        lines.append("  {}  token_count={}  band={}  decision_code={}".format(
+            u.get("unit_id", ""), u.get("token_count", 0),
+            (u.get("flags") or {}).get("band", ""), (u.get("flags") or {}).get("decision_code", "")))
+        si = u.get("SI_metrics") or {}
+        lines.append("    SI_metrics: coverage={} dominance={} entropy={} leakage={} stability={} trust_tier={}".format(
+            si.get("coverage"), si.get("dominance"), si.get("entropy"),
+            si.get("leakage"), si.get("stability"), si.get("trust_tier")))
+    lines.append("")
+
+    r2_units = [u for u in units if (u.get("level") or "") == "R2"]
+    lines.append("--- PER PARAGRAPH (R2) ---")
+    for u in r2_units:
+        lines.append("  {}  token_count={}  band={}  decision_code={}".format(
+            u.get("unit_id", ""), u.get("token_count", 0),
+            (u.get("flags") or {}).get("band", ""), (u.get("flags") or {}).get("decision_code", "")))
+        si = u.get("SI_metrics") or {}
+        lines.append("    SI_metrics: coverage={} dominance={} entropy={} leakage={} stability={} trust_tier={}".format(
+            si.get("coverage"), si.get("dominance"), si.get("entropy"),
+            si.get("leakage"), si.get("stability"), si.get("trust_tier")))
+    lines.append("")
+
+    lines.append("--- SCALE & SMOOTH (level_averages, scale_deltas) ---")
+    la = book_profile.get("level_averages") or {}
+    for level in ("R1", "R2", "R3", "R4"):
+        if level not in la:
+            continue
+        L = la[level]
+        lines.append("  {}: token_count_total={}  SCI={}".format(
+            level, L.get("token_count_total", 0), L.get("SCI", 0)))
+        sm = (L.get("SI_means") or {})
+        lines.append("    SI_means: coverage={} dominance={} entropy={} leakage={} stability={}".format(
+            sm.get("coverage"), sm.get("dominance"), sm.get("entropy"), sm.get("leakage"), sm.get("stability")))
+    sd = book_profile.get("scale_deltas") or {}
+    for band in ("R1_to_R2", "R2_to_R3", "R3_to_R4"):
+        if band not in sd:
+            continue
+        d = sd[band]
+        obs = d.get("delta_observed") or {}
+        exp = d.get("delta_expected") or {}
+        dev = d.get("delta_deviation") or {}
+        lines.append("  {}: delta_observed(coverage={}, dominance={})  delta_expected(dominance={})  delta_deviation(coverage={})".format(
+            band, obs.get("coverage"), obs.get("dominance"), exp.get("dominance"), dev.get("coverage")))
+    lines.append("")
+    lines.append("structural_signature.stable_families: {}".format(
+        (book_profile.get("structural_signature") or {}).get("stable_families", [])))
+    lines.append("")
+    lines.append("=" * 60)
+    lines.append("FULL JSON")
+    lines.append("=" * 60)
+    lines.append(json.dumps(out, indent=2))
+    return "\n".join(lines)
+
+
 def main() -> int:
     import argparse
     ap = argparse.ArgumentParser(
@@ -102,11 +178,14 @@ def main() -> int:
 
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    if out_path.suffix.lower() == ".txt":
+        out_path.write_text(_format_txt_report(out), encoding="utf-8")
+    else:
+        out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
     if sys.stdout.isatty():
         print(out_path.resolve(), file=sys.stderr)
     else:
-        print(json.dumps(out, indent=2))
+        print(out_path.read_text(encoding="utf-8"))
     return 0
 
 

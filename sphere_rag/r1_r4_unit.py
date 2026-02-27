@@ -1,4 +1,13 @@
 # Map L1–L9 outputs to R1–R4 Unit schema. Ref: schema/Unit.schema.json, Part C.
+#
+# Notes (spec alignment):
+# - Empty unit (token_count==0): fixed SI, band=spiky, decision_code=INVALID_EMPTY_UNIT; no guards.
+# - Coverage/leakage from TopN: coverage = sum(p_f), leakage = 1 - coverage; coverage+leakage == 1.
+# - stability = 1 - entropy; if coverage==0 then stability=0 (signal gate).
+# - Trust tier: T0 if token_count<12; T3 if token_count>=60 and shadow<=0.35 and leakage<=0.40 and entropy<=0.70; else T2.
+# - Band: if coverage==0 → spiky (hard override). Else T0→spiky; then coherent/fragmented/stable from SI.
+# - Decision: no top_families → ATTR_FAIL_NO_FAMILIES; SIGMA_FAIL_LEAK only if leakage>0.75 and token_count>=12.
+#
 from __future__ import annotations
 
 from typing import Any
@@ -55,17 +64,56 @@ def _si_metrics_from_layers(
     l5: dict[str, Any],
     l6: dict[str, Any],
     l7: dict[str, Any],
+    *,
+    token_count: int,
+    top_families: list[dict[str, Any]],
+    coverage_override: float | None = None,
+    leakage_override: float | None = None,
 ) -> dict[str, Any]:
-    """Build SI_metrics dict for Unit schema (all [0,1], trust_tier T0–T3)."""
-    coverage = _clamp01(l1.get("COVERAGE_RATIO", 0.0))
+    """Build SI_metrics dict for Unit schema (all [0,1], trust_tier T0–T3).
+    When token_count==0 returns fixed empty-unit SI; no guards run.
+    Coverage/leakage from TopN: coverage = sum(p_f for f in TopN), leakage = 1 - coverage.
+    Trust tier: T0 if token_count < 12; T3 only if token_count >= 60 and shadow_deviation <= 0.35; else T1/T2.
+    Stability = 1 - entropy (locked).
+    """
+    if token_count == 0:
+        return {
+            "coverage": 0.0,
+            "dominance": 0.0,
+            "entropy": 0.0,
+            "leakage": 1.0,
+            "contradiction_pressure": 0.0,
+            "stability": 0.0,
+            "shadow_deviation": 0.0,
+            "trust_tier": "T0",
+        }
     dominance = _clamp01(l1.get("DOMINANCE_RATIO", 0.0))
     entropy = _clamp01(l1.get("NORMALIZED_FAMILY_ENTROPY", 0.0))
-    leakage = _clamp01(1.0 - coverage)
+    if coverage_override is not None and leakage_override is not None:
+        coverage = _clamp01(coverage_override)
+        leakage = _clamp01(leakage_override)
+    else:
+        coverage = _clamp01(sum(tf.get("coverage", 0.0) for tf in top_families))
+        leakage = _clamp01(1.0 - coverage)
+    err = abs((coverage + leakage) - 1.0)
+    if err >= 1e-6:
+        raise AssertionError(f"coverage + leakage != 1 (err={err})")
     contradiction_pressure = _clamp01(l5.get("CONTRADICTION_PRESSURE_SCORE", 0.0))
-    stability = _clamp01(l6.get("GLOBAL_STABILITY_SCORE", 1.0 - entropy))
+    # Signal gate: stability = 0 when coverage == 0 (no "perfect stability" on empty attribution)
+    if coverage <= 0:
+        stability = 0.0
+    else:
+        stability = _clamp01(1.0 - entropy)
+        if abs(stability - (1.0 - entropy)) >= 1e-6:
+            raise AssertionError(f"stability must equal 1 - entropy (stability={stability}, entropy={entropy})")
     shadow_deviation = _clamp01(l3.get("SHADOW_DEVIATION_SCORE", 0.0))
-    tier = int(l7.get("TRUST_TIER", 0))
-    trust_tier = f"T{min(3, max(0, tier))}"
+    # Trust tier: same rule for all R-levels. T0 if <12; T3 if >=60 and shadow/leakage/entropy within bounds; else T2 (T1 when shadow missing)
+    if token_count < 12:
+        trust_tier = "T0"
+    elif token_count >= 60 and shadow_deviation <= 0.35 and leakage <= 0.40 and entropy <= 0.70:
+        trust_tier = "T3"
+    else:
+        trust_tier = "T2"
     return {
         "coverage": round(coverage, 6),
         "dominance": round(dominance, 6),
@@ -79,7 +127,11 @@ def _si_metrics_from_layers(
 
 
 def _band_from_si(si: dict[str, Any]) -> str:
-    """Band from SI_metrics per spec B.9: spiky | fragmented | coherent | stable."""
+    """Band from SI_metrics per spec B.9: spiky | fragmented | coherent | stable.
+    Hard override: coverage == 0 → spiky (no-attribution units cannot be stable).
+    """
+    if si.get("coverage", 0.0) == 0:
+        return "spiky"
     tt = si.get("trust_tier", "T2")
     if tt == "T0":
         return "spiky"
@@ -93,15 +145,27 @@ def _band_from_si(si: dict[str, Any]) -> str:
     return "stable"
 
 
-def _decision_code_from_l7(l7: dict[str, Any]) -> str:
-    """Map L7 DECISION_STATUS_CODE to R1–R4 decision_code string. Ref: R1_R4_BAND_DECISION_CODE_MAPPING."""
+def _decision_code_from_l7(
+    l7: dict[str, Any],
+    *,
+    token_count: int,
+    top_families: list[dict[str, Any]],
+    leakage: float,
+    leak_fail_threshold: float = 0.75,
+    t_min_valid: int = 12,
+) -> str:
+    """Decision code: ATTR_FAIL_NO_FAMILIES when no matches; SIGMA_FAIL_LEAK only when leakage > threshold and token_count >= T_min."""
+    if token_count > 0 and not top_families:
+        return "ATTR_FAIL_NO_FAMILIES"
     code = int(l7.get("DECISION_STATUS_CODE", 0))
     if code == 0:
         return "OK"
     if code == 75:
         return "GAMMA_DRIFT"  # profile conformance
-    if code == 10:
-        return "SIGMA_FAIL_LEAK"
+    if code == 10:  # L7 leak gate
+        if leakage > leak_fail_threshold and token_count >= t_min_valid:
+            return "SIGMA_FAIL_LEAK"
+        return "OK"  # leak not applicable below threshold / T_min
     if code == 20:
         return "SIGMA_FAIL_ENTROPY"
     if code in (30, 40, 50, 60, 70):
@@ -126,14 +190,34 @@ def build_unit(
     A: int = 12,
     top_n: int | None = None,
 ) -> dict[str, Any]:
-    """Build a Unit dict conforming to schema/Unit.schema.json from L1–L7 and hits."""
+    """Build a Unit dict conforming to schema/Unit.schema.json from L1–L7 and hits.
+    When token_count==0 returns fixed SI (no guards); decision_code INVALID_EMPTY_UNIT.
+    """
     if top_n is None:
         top_n = get_top_n()
-    si = _si_metrics_from_layers(l1, l3, l5, l6, l7)
     top_families = _top_families_from_hits(hits, top_n, F)
     top_areas = _top_areas_from_hits(hits, F, A, top_n=12)
-    band = _band_from_si(si)
-    decision_code = _decision_code_from_l7(l7)
+    if token_count == 0:
+        si = _si_metrics_from_layers(l1, l3, l5, l6, l7, token_count=0, top_families=[])
+        band = "spiky"
+        decision_code = "INVALID_EMPTY_UNIT"
+    else:
+        coverage_si = _clamp01(sum(tf.get("coverage", 0.0) for tf in top_families))
+        leakage_si = _clamp01(1.0 - coverage_si)
+        si = _si_metrics_from_layers(
+            l1, l3, l5, l6, l7,
+            token_count=token_count,
+            top_families=top_families,
+            coverage_override=coverage_si,
+            leakage_override=leakage_si,
+        )
+        band = _band_from_si(si)
+        decision_code = _decision_code_from_l7(
+            l7,
+            token_count=token_count,
+            top_families=top_families,
+            leakage=si.get("leakage", 0.0),
+        )
     return {
         "unit_id": unit_id,
         "level": level,
