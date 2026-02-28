@@ -114,7 +114,7 @@ def main() -> int:
     ap.add_argument(
         "--out",
         type=Path,
-        default=_HERE.parent / "docs" / "run_output_e2e_sentence.json",
+        default=_HERE.parent.parent / "artifacts" / "e2e" / "run_output_e2e_sentence.json",
         help="Output JSON path",
     )
     ap.add_argument(

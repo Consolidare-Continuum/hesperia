@@ -31,8 +31,8 @@ See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4
 
 ## How to use
 
-- **Full L1–L9 pass**: `mkdir -p docs/layer_runs` then  
-  `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json`
+- **Full L1–L9 pass**: `mkdir -p artifacts/layer_runs` then  
+  `python3 -m sphere_rag.layers.run_l1_through_l9 --out artifacts/layer_runs/latest_L1_L9_output.json`
 - **With L1 structure profile**: add `--profile profiles/STRUCTURE_PROFILE__UNIFORM_ENVELOPE__v1.json` (see [profiles/README.md](profiles/README.md), [profiles/TAXONOMY_v1.md](profiles/TAXONOMY_v1.md)).
 - **L1+L2 / L1+L2+L3**: `python3 -m sphere_rag.layers.run_l1_l2` / `run_l1_l2_l3` (see RUNNABLE.md).
 - **Core math**: `python sphere_rag/hesperia_v03_core_math.py` or `... test`
@@ -41,7 +41,7 @@ See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4
 ## What's expected
 
 - **Determinism**: Same inputs (attribution, topology, defaults) → same L1–L9 outputs. No LLM in layer math.
-- **Output**: Full pass → one JSON (all layers) in `docs/layer_runs/`; L7 status/tag and L9 brand words are reportable.
+- **Output**: Full pass → one JSON (all layers) in `artifacts/layer_runs/`; L7 status/tag and L9 brand words are reportable.
 - **Stub run**: Without retrieval (R_B/R_S empty), L4/L5 evidence zero, L9 may show FRAGILE/UNSUPPORTED — expected. With Dict A/B and Chroma, values populate.
 
 ## Core (consolidated)

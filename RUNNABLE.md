@@ -88,7 +88,7 @@ python sphere_rag/run_simulation.py serve 8080
 ## Layer stack (L1–L9, v0.4.x)
 
 - **L1–L9** implemented: `sphere_rag/layers/layer_1.py` … `layer_9.py` (34_SPEC … 42_SPEC). Use `sphere_rag.layers.load_defaults()` for F, A, eps and predefined config.
-- **Full pass**: `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json` (from CLIENTS/hesperia; `mkdir -p docs/layer_runs` first). Output log dir: [docs/layer_runs/](docs/layer_runs/).
+- **Full pass**: `python3 -m sphere_rag.layers.run_l1_through_l9 --out artifacts/layer_runs/latest_L1_L9_output.json` (from repo root; `mkdir -p artifacts/layer_runs` first). Output log dir: [artifacts/layer_runs/](artifacts/layer_runs/).
 - **With L1 profile**: `--profile profiles/STRUCTURE_PROFILE__UNIFORM_ENVELOPE__v1.json` (or any canonical profile from [profiles/](profiles/); see [profiles/TAXONOMY_v1.md](profiles/TAXONOMY_v1.md)).
 - **L1+L2**: `python3 -m sphere_rag.layers.run_l1_l2`; **L1+L2+L3**: `python3 -m sphere_rag.layers.run_l1_l2_l3`. See [docs/NEXT_STEPS_MATH_INTEGRATION.md](docs/NEXT_STEPS_MATH_INTEGRATION.md).
 

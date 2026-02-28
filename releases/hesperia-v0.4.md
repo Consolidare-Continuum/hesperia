@@ -7,8 +7,8 @@ v0.4 consolidates the **first full L1–L9 stack**: all nine layers (34_SPEC …
 ## What’s in v0.4
 
 - **L1–L9**: Instrumentation → geometric traversal → shadow divergence → book evidence → counter-evidence + trig reality → conceptual math & dynamic function → cross-layer limits/aggregates → units/i18n → human reference & brand. Standard: run → output → logged → reportable.
-- **Script**: `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json`
-- **Output log dir**: `docs/layer_runs/` — latest JSON + report. See [docs/FREEZE__First_Full_Stack_Run_L1_L9.md](../docs/FREEZE__First_Full_Stack_Run_L1_L9.md).
+- **Script**: `python3 -m sphere_rag.layers.run_l1_through_l9 --out artifacts/layer_runs/latest_L1_L9_output.json`
+- **Output log dir**: `artifacts/layer_runs/` — latest JSON + report. See [docs/FREEZE__First_Full_Stack_Run_L1_L9.md](../docs/FREEZE__First_Full_Stack_Run_L1_L9.md).
 - **Predefined defaults**: LAYER_1_9_PREDEFINED_DEFAULTS_v1_0 (TXT + JSON) for thresholds and topology.
 
 ## How to build
@@ -17,7 +17,7 @@ From `CLIENTS/hesperia`: install deps (`pip install -r requirements_v040.txt` if
 
 ## How to use
 
-Full pass: `python3 -m sphere_rag.layers.run_l1_through_l9 --out docs/layer_runs/latest_L1_L9_output.json`. L1-only/L1+L2/L1+L2+L3 runners available. Core math and simulation: see RUNNABLE.md.
+Full pass: `python3 -m sphere_rag.layers.run_l1_through_l9 --out artifacts/layer_runs/latest_L1_L9_output.json`. L1-only/L1+L2/L1+L2+L3 runners available. Core math and simulation: see RUNNABLE.md.
 
 ## What’s expected
 

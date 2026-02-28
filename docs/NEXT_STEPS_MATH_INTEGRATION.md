@@ -19,7 +19,7 @@ L1 is the reference: run → dict of 25 vars → can be logged and reported. L2�
 
 - **L1** implemented: `sphere_rag/layers/layer_1.py` — `compute_L1(...)` returns 25 variables (34_SPEC).
 - **L2–L9** implemented: `sphere_rag/layers/layer_2.py` … `layer_9.py`. Each layer: run → output (25 vars) → logged → reportable.
-- **Full stack run**: `python3 -m sphere_rag.layers.run_l1_through_l9 [--out path.json]` — L1..L9 in one pipeline; output JSON + reportable summary (L7 DECISION_STATUS_CODE, OUTPUT_TRUST_TAG; L9 BRAND_WORD_*). **Output log dir (canonical path)**: [docs/layer_runs/](docs/layer_runs/) — latest run: `docs/layer_runs/latest_L1_L9_output.json`; report: `docs/layer_runs/REPORT__L1_L9_Full_Pass.md`.
+- **Full stack run**: `python3 -m sphere_rag.layers.run_l1_through_l9 [--out path.json]` — L1..L9 in one pipeline; output JSON + reportable summary (L7 DECISION_STATUS_CODE, OUTPUT_TRUST_TAG; L9 BRAND_WORD_*). **Output log dir (canonical path)**: [artifacts/layer_runs/](../artifacts/layer_runs/) — latest run: `artifacts/layer_runs/latest_L1_L9_output.json`; report: `artifacts/layer_runs/REPORT__L1_L9_Full_Pass.md`.
 - L2: stub adjacency `build_canonical_stub_adjacency(F,A)`; L3: B vs S (same run twice = zero divergence); L4/L5: empty R_B/R_S and R_neg → deterministic; L6: no perturbation → stub stability; L7–L9: aggregate and SI_*.
 ## Pipeline wiring
 

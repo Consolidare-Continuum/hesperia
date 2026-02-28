@@ -1,5 +1,7 @@
 # HESPERIA (HSPR) — Documentation Index
 
+**Repo-wide ORDER:** [ORDER.md](ORDER.md) — file naming (4 words + version), specs at root, artifacts in subfolders.
+
 **Operational v0.6:** See [OPERATIONAL_INDEX_v0_6.md](OPERATIONAL_INDEX_v0_6.md). Deprecated docs are in [archive/](archive/ARCHIVE_MANIFEST.md).
 
 This index explains the structure and naming of the documentation files

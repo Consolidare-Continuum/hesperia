@@ -6,13 +6,12 @@
 
 ## Output log dir (link path)
 
-**Path**: [CLIENTS/hesperia/docs/layer_runs/](.)
+**Path**: [artifacts/layer_runs/](.)
 
 - **Latest run JSON**: [latest_L1_L9_output.json](latest_L1_L9_output.json)
 - **This report**: [REPORT__L1_L9_Full_Pass.md](REPORT__L1_L9_Full_Pass.md)
 
-From repo root: `CLIENTS/hesperia/docs/layer_runs/`
-From CLIENTS/hesperia: `docs/layer_runs/`
+From repo root: `artifacts/layer_runs/`
 
 ## One full pass summary
 

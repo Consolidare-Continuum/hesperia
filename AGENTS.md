@@ -3,6 +3,8 @@
 This file describes how automated agents (like LLM-based assistants)
 should work with this repository.
 
+**Repo-wide ORDER:** See **[ORDER.md](ORDER.md)** — file naming (up to 4 words + version), specs at root, Python in one place, all artifacts in subfolders.
+
 ## 1. Documentation Structure
 
 - Prefer the numbered documentation files when seeking specs:
@@ -17,7 +19,7 @@ should work with this repository.
 ## 2. Naming and New Docs
 
 - When adding new documentation:
-  - Use the pattern: `NN_CATEGORY__Short_title_and_version.txt` (or `.md`).
+  - Use the pattern: `NN_CATEGORY__Short_title_and_version.txt` (or `.md`). **Title: up to 4 words** (human-readable), version `_vX_Y` (see ORDER.md).
   - Choose `NN` to keep logical ordering with existing docs.
   - Keep Java-style pseudocode when describing core math or geometry.
 - When updating an existing spec:
