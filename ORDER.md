@@ -27,7 +27,7 @@
 | **Governance / project** | `governance/`, `project/` | Policy, tasks, handoffs. Names: readable, versioned where relevant. |
 | **Docs (narrative)** | `docs/` | Prose, findings, procedures. No run outputs here. |
 | **Archive** | `archive/` | Old versions, deprecated. Do not use for new work. |
-| **MRT (12×8=96 fork)** | **`HESPERIA_MRT/`** | On branch `hesperia-mrt-fork` only. Relative path from repo root: `HESPERIA_MRT/`. |
+| **MRT (12×8=96 fork)** | **`HESPERIA_MRT/`** | On branch `hesperia-mrt-fork` here; standalone repo: **`mrt`** → `git@github.com:igareosh/hesperia_mrt.git` (branch `main`). |
 
 ---
 
