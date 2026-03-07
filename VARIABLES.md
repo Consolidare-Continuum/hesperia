@@ -17,12 +17,20 @@ This file now covers two scopes:
 
 | Variable | Purpose | Default / Example | Used by |
 |---|---|---|---|
-| `CHROMA_SERVER_URL` | Base URL for Chroma retrieval server. | `http://127.0.0.1:8002` | `api/main.py`, `cluster/hesperia-api.service` |
 | `HESPERIA_DATA_DIR` | Base directory for local Hesperia data assets. | Fallback to repo; deploy = this repo root. | `api/main.py`, `scripts/context_rag.py`, `scripts/ingest_hesperia_families.py`, `scripts/matrix_run.py`, `cluster/hesperia-api.service` |
 | `HESPERIA_API_KEY` | Bearer token for POST /hesperia/analyze. If unset, analyze returns 503. | No default; set in env or EnvironmentFile. | `api/main.py`, `cluster/hesperia-api.service` |
 | `HESPERIA_API_KEY_NEXT` | Optional second token for rotation. | Unset | `api/main.py` |
 | `PYTHONPATH` | Python import search path; include repo root. | Set by helpers or in service unit. | `api/main.py`, `scripts/context_rag.py`, `cluster/hesperia-api.service` |
 | `OPENAI_API_KEY` | API key for OpenAI-powered statement extraction/classification utilities. | No embedded default; must come from environment. | `statements/extract_statements.py`, `statements/classify_statements.py` |
+| `HESPERIA_ATTRIBUTION_MODE` | Selects attribution profile used by runtime analysis/calibration (`v06` expected for current operational line). | `v06` in calibration helpers; analyze fallback uses `v06`. | `sphere_rag/analyze.py`, `scripts/calibration_metrics_v06.py`, `scripts/run_calibration_v06.py` |
+| `HESPERIA_V06_MODEL_REVISION` | Optional model revision pin for deterministic Dict-A builds. | Unset by default; set to exact revision/hash when freezing. | `sphere_rag/build_dict_a.py` |
+| `CHROMA_SERVER_URL` | Base URL for Chroma retrieval server. | `http://127.0.0.1:8002` or explicit runtime value. | `api/main.py`, `hesperia_lex/scripts/ingest_lexical_to_chroma.py`, `sphere_rag/chroma_books_validation_run.py` |
+| `OEWN_TAG` | Provenance tag for Open English WordNet source snapshots. | `v2023.1` | `hesperia_lex/scripts/validate_lexical.py` |
+| `SCOWL_VERSION` | Provenance version for SCOWL lexical source. | `2020.12.07` | `hesperia_lex/scripts/validate_lexical.py` |
+| `WIKT_DUMP_DATE` | Provenance identifier for Wiktionary dump used during lexical validation. | `latest` | `hesperia_lex/scripts/validate_lexical.py` |
+| `TRANSFORMERS_NO_TF` | Build-time toggle to prevent TensorFlow backend loading in provenance/build scripts. | Optional toggle (`1`/`true`). | `sphere_rag/build_provenance_v040.py` |
+| `TRANSFORMERS_NO_FLAX` | Build-time toggle to prevent Flax/JAX backend loading in provenance/build scripts. | Optional toggle (`1`/`true`). | `sphere_rag/build_provenance_v040.py` |
+| `USE_TF` | Build-time override for transformer backend selection in provenance records. | Optional; generally unset in deterministic runs. | `sphere_rag/build_provenance_v040.py` |
 
 ### Runtime notes
 
@@ -139,7 +147,9 @@ These constants define the frozen lattice geometry and are treated as invariants
 
 ## 9) Academic hashtag aliases (from `ACADEMIC.md`)
 
-The following aliases are intentionally duplicated in the academic glossary to keep naming stable across natural-language docs:
+The following aliases are intentionally duplicated in the academic glossary to keep naming stable across natural-language docs.
+
+Core aliases:
 
 - `#AREAS`
 - `#FAMILIES_PER_AREA`
@@ -150,5 +160,69 @@ The following aliases are intentionally duplicated in the academic glossary to k
 - `#tau_s`
 - `#loopability`
 - `#tensionEnergy`
+
+Additional aliases currently present in Markdown specs/docs (keep for cross-reference even when not all are runtime fields yet):
+
+- `#C_R`
+- `#T_R`
+- `#T_norm`
+- `#A_vec`
+- `#F_vec`
+- `#Region`
+- `#SentenceAttribution`
+- `#StatementAttribution`
+- `#actionScore`
+- `#areaEntropy`
+- `#areaId`
+- `#axisNeg`
+- `#axisPos`
+- `#bipolarAxes`
+- `#causal`
+- `#causalCoherence`
+- `#causalPush`
+- `#consensus`
+- `#consensus_s`
+- `#contextIntegrity`
+- `#contradictionScore`
+- `#coveragePhi`
+- `#credibility`
+- `#credibility_s`
+- `#cumulativeDrift`
+- `#decayRate`
+- `#decisionIntegrity`
+- `#dictWordToFamily`
+- `#embedArea`
+- `#embedFamily`
+- `#embedWord`
+- `#evidenceQuality`
+- `#evidenceQuality_R`
+- `#familyId`
+- `#familyInward`
+- `#familyOutward`
+- `#familyToArea`
+- `#fragIndex`
+- `#goalVector`
+- `#gradient`
+- `#gradient_s`
+- `#obstacleScore`
+- `#O_obstacle`
+- `#pressure`
+- `#pressure_R`
+- `#provenanceWeight_s`
+- `#recency`
+- `#recency_s`
+- `#riskProfile`
+- `#saturation`
+- `#saturation_R`
+- `#scaleConsistency`
+- `#stabilityVector`
+- `#strategicScore`
+- `#tau_t`
+- `#tau_t_s`
+- `#temporalStability`
+- `#temporalStability_R`
+- `#timestamp`
+- `#timestamp_s`
+- `#utility`
 
 Use these tags when writing explanatory docs so formal variables and prose stay aligned.
