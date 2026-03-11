@@ -6,7 +6,10 @@ Final layer: L1–L9 metrics become human-facing labels (no locale here; i18n ca
 
 from __future__ import annotations
 
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 
 def _clamp(u: int | float, lo: int | float, hi: int | float) -> int:
@@ -96,3 +99,27 @@ def compute_L9(
         "ACTION_REQUIRE_GOVERNANCE_REVIEW": ACTION_REQUIRE_GOVERNANCE_REVIEW,
         "ACTION_ALLOW_HUMAN_SUMMARY": ACTION_ALLOW_HUMAN_SUMMARY,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-9 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l3 = layers.get(3)
+    l4 = layers.get(4)
+    l7 = layers.get(7)
+    l8 = layers.get(8)
+    if not all([l3, l4, l7, l8]):
+        raise ValueError("Layer 9 requires layers 3, 4, 7, 8 results in input.metadata['layers']")
+    defaults = meta.get("defaults", {})
+    result = compute_L9(
+        l3, l4, l7, l8,
+        MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2),
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=9,
+        result=result,
+        diagnostics={"layer_id": 9, "execution_time_ms": round(elapsed_ms, 6)},
+    )

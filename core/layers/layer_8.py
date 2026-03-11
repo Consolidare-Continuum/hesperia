@@ -4,6 +4,12 @@ Single taxonomy: COUNT, RATIO, PERCENT, U1000, BOOLEAN. All 9 layers flow to i18
 """
 from __future__ import annotations
 
+import time
+from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
+
+
 def _clamp(v, lo, hi): return max(lo, min(hi, v))
 def _ratio_to_pct(r): return _clamp(r, 0.0, 1.0) * 100.0
 def _ratio_to_u1000(r): return round(_clamp(r, 0.0, 1.0) * 1000.0)
@@ -38,3 +44,44 @@ def compute_L8(l1, l2, l3, l4, l5, l6, l7):
         "SI_SYSTEM_CONFIDENCE_U1000": _ratio_to_u1000(l7["SYSTEM_CONFIDENCE_SCORE"]),
         "SI_SYSTEM_CONFIDENCE_PCT": _ratio_to_pct(l7["SYSTEM_CONFIDENCE_SCORE"]),
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-8 public entry point. Consumes LayerInput, returns LayerOutput. Respects Π interpretation policy."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1 = layers.get(1)
+    l2 = layers.get(2)
+    l3 = layers.get(3)
+    l4 = layers.get(4)
+    l5 = layers.get(5)
+    l6 = layers.get(6)
+    l7 = layers.get(7)
+    if not all([l1, l2, l3, l4, l5, l6, l7]):
+        raise ValueError("Layer 8 requires layers 1–7 results in input.metadata['layers']")
+    result = compute_L8(l1, l2, l3, l4, l5, l6, l7)
+
+    # Π interpretation policy: record constraints so interpretation layers (e.g. L9, reporting) respect them
+    policy = meta.get("policy")
+    if isinstance(policy, dict):
+        result["POLICY_MODE"] = policy.get("policy_mode", "STRUCTURE_PLUS_CONTEXT")
+        result["INTERPRETATION_CONSTRAINTS"] = dict(policy.get("interpretation_constraints", {}))
+        # If text/context disallowed, interpretation must ignore raw text
+        if not policy.get("interpretation_constraints", {}).get("allow_text", True):
+            result["INTERPRETATION_SCOPE"] = "structure_only"
+        elif not policy.get("interpretation_constraints", {}).get("allow_context", True):
+            result["INTERPRETATION_SCOPE"] = "structure_only"
+        else:
+            result["INTERPRETATION_SCOPE"] = "structure_and_context"
+    else:
+        result["POLICY_MODE"] = "STRUCTURE_PLUS_CONTEXT"
+        result["INTERPRETATION_CONSTRAINTS"] = {"allow_text": True, "allow_context": True, "allow_structure": True}
+        result["INTERPRETATION_SCOPE"] = "structure_and_context"
+
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=8,
+        result=result,
+        diagnostics={"layer_id": 8, "execution_time_ms": round(elapsed_ms, 6)},
+    )

@@ -6,8 +6,11 @@ Inputs: L1 output (DOMINANT_FAMILY_ID, DOMINANT_AREA_ID), hits[], adjacency, are
 
 from __future__ import annotations
 
+import time
 from collections import deque
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 
 def build_canonical_stub_adjacency(F: int, A: int) -> list[set[int]]:
@@ -211,3 +214,38 @@ def compute_L2(
         "VISITED_IDS": visited_ids,
         "MASS_AT_DEPTH": mass_at_depth_list,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-2 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1_output = layers.get(1)
+    if not l1_output:
+        raise ValueError("Layer 2 requires layer 1 result in input.metadata['layers'][1]")
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    eps = float(meta.get("eps", 1e-9))
+    MAX_ALLOWED_DEPTH = int(meta.get("MAX_ALLOWED_DEPTH", meta.get("defaults", {}).get("MAX_ALLOWED_DEPTH", 8)))
+    hits = meta.get("hits")
+    if hits is None or len(hits) != F:
+        raise ValueError(f"Layer 2 requires metadata['hits'] of length F={F}")
+    adjacency = meta.get("adjacency")
+    if adjacency is None:
+        adjacency = build_canonical_stub_adjacency(F, A)
+    result = compute_L2(
+        l1_output,
+        hits,
+        adjacency=adjacency,
+        F=F,
+        A=A,
+        MAX_ALLOWED_DEPTH=MAX_ALLOWED_DEPTH,
+        eps=eps,
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=2,
+        result=result,
+        diagnostics={"layer_id": 2, "execution_time_ms": round(elapsed_ms, 6)},
+    )

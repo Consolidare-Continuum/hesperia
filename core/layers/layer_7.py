@@ -5,7 +5,12 @@ Consumes L1..L6; downstream: L8 (SI_SYSTEM_CONFIDENCE), L9 (pillars, BRAND_WORD_
 Decision code 75 = PROFILE_CONFORMANCE_FAILURE (34_SPEC N1); reserved permanently.
 """
 from __future__ import annotations
+
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
+from core.stability.stability_delta import ANOMALY_SCORE_THRESHOLD_LOW_CONFIDENCE
 
 # Decision registry: 75 → PROFILE_CONFORMANCE_FAILURE (never reuse)
 DECISION_CODE_PROFILE_CONFORMANCE_FAILURE = 75
@@ -47,3 +52,39 @@ def compute_L7(l1,l2,l3,l4,l5,l6,visited_B=None,F=288,A=12,MIN_COVERAGE_RATIO=0.
         if l1.get("PROFILE_CHECKSUM") is not None:
             out["PROFILE_CHECKSUM"] = l1["PROFILE_CHECKSUM"]
     return out
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-7 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1, l2, l3, l4, l5, l6 = layers.get(1), layers.get(2), layers.get(3), layers.get(4), layers.get(5), layers.get(6)
+    if not all([l1, l2, l3, l4, l5, l6]):
+        raise ValueError("Layer 7 requires layers 1–6 results in input.metadata['layers']")
+    visited_B = meta.get("visited_B")
+    if visited_B is None:
+        visited_B = set(l2.get("VISITED_IDS", []))
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    defaults = meta.get("defaults", {})
+    result = compute_L7(
+        l1, l2, l3, l4, l5, l6,
+        visited_B=visited_B,
+        F=F,
+        A=A,
+        **{k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults},
+    )
+    # Δ stability layer: optionally demote OUTPUT_TRUST_TAG when structural anomaly score is high
+    stability = meta.get("stability")
+    if isinstance(stability, dict):
+        anomaly_score = float(stability.get("anomaly_score", 0.0))
+        if anomaly_score > ANOMALY_SCORE_THRESHOLD_LOW_CONFIDENCE:
+            result["OUTPUT_TRUST_TAG"] = "LOW_CONFIDENCE"
+            result["STABILITY_ANOMALY_SCORE"] = anomaly_score
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=7,
+        result=result,
+        diagnostics={"layer_id": 7, "execution_time_ms": round(elapsed_ms, 6)},
+    )

@@ -8,7 +8,10 @@ Downstream: L7 (CONSIST_STABILITY_REGIME_VALID, MAX_CHAOS_LEVEL), L8 (SI_GLOBAL_
 from __future__ import annotations
 
 import math
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 eps = 1e-12
 
@@ -95,3 +98,22 @@ def compute_L6(
         "GLOBAL_STABILITY_SCORE": GLOBAL_STABILITY_SCORE,
         "CONCEPTUAL_COHERENCE_INDEX": CONCEPTUAL_COHERENCE_INDEX,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-6 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1 = layers.get(1)
+    l2 = layers.get(2)
+    if not l1 or not l2:
+        raise ValueError("Layer 6 requires layer 1 and 2 results in input.metadata['layers']")
+    F = int(meta.get("F", 288))
+    result = compute_L6(l1, l2, F=F)
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=6,
+        result=result,
+        diagnostics={"layer_id": 6, "execution_time_ms": round(elapsed_ms, 6)},
+    )

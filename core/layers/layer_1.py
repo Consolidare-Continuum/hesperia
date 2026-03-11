@@ -8,8 +8,10 @@ Inputs: total_tokens, matched list of (family_id, altitude), F, A, eps; optional
 from __future__ import annotations
 
 import math
+import time
 from typing import Any
 
+from core.contracts.layer_contract import LayerInput, LayerOutput
 from .structure_profile import StructureProfile, profile_checksum, validate_profile
 
 # Fixed normalization constants for profile deviation (deterministic per spec)
@@ -341,3 +343,31 @@ def compute_L1(
             _compute_profile_metrics(result, hits, altitude_sum, profile_id, profile, F, A, eps)
         )
     return result
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-1 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    eps = float(meta.get("eps", 1e-9))
+    matched = meta.get("matched", [])
+    profile_id = meta.get("profile_id")
+    profile = meta.get("profile")
+    total_tokens = len(input.tokens)
+    result = compute_L1(
+        total_tokens,
+        matched,
+        F=F,
+        A=A,
+        eps=eps,
+        profile_id=profile_id,
+        profile=profile,
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=1,
+        result=result,
+        diagnostics={"layer_id": 1, "execution_time_ms": round(elapsed_ms, 6)},
+    )

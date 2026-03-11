@@ -8,7 +8,10 @@ When R_B/R_S empty: deterministic zeros/shortfall; gate fails when shortfall > M
 from __future__ import annotations
 
 import math
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 # Chunk type: dict with keys bookId, familyId, chunkId; optional "checksum_ok" (default True)
 
@@ -176,3 +179,33 @@ def compute_L4(
         "EVIDENCE_SUPPORT_INDEX_BASELINE": EVIDENCE_SUPPORT_INDEX_BASELINE,
         "EVIDENCE_ACCEPTABILITY_GATE": EVIDENCE_ACCEPTABILITY_GATE,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-4 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1_B = layers.get(1)
+    l1_S = meta.get("l1_shadow", l1_B)
+    hits_B = meta.get("hits", [])
+    hits_S = meta.get("hits_shadow", hits_B)
+    R_B = meta.get("R_B", [])
+    R_S = meta.get("R_S", [])
+    if not l1_B:
+        raise ValueError("Layer 4 requires layer 1 result in input.metadata['layers'][1]")
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    defaults = meta.get("defaults", {})
+    result = compute_L4(
+        l1_B, l1_S, hits_B, hits_S, R_B, R_S,
+        F=F,
+        A=A,
+        **{k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults},
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=4,
+        result=result,
+        diagnostics={"layer_id": 4, "execution_time_ms": round(elapsed_ms, 6)},
+    )

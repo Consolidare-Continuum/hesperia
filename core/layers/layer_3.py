@@ -7,7 +7,10 @@ Inputs: L1_B, L2_B, hits_B, L1_S, L2_S, hits_S, F, A, governance params, eps. Do
 from __future__ import annotations
 
 import math
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 
 def _top_k_families(hits: list[int], F: int, K: int) -> set[int]:
@@ -133,3 +136,35 @@ def compute_L3(
         "SHADOW_DEVIATION_SCORE": SHADOW_DEVIATION_SCORE,
         "SHADOW_ACCEPTABILITY_GATE": SHADOW_ACCEPTABILITY_GATE,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-3 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1_B = layers.get(1)
+    l2_B = layers.get(2)
+    if not l1_B or not l2_B:
+        raise ValueError("Layer 3 requires layer 1 and 2 results in input.metadata['layers']")
+    hits_B = meta.get("hits", [])
+    hits_S = meta.get("hits_shadow", hits_B)
+    l1_S = meta.get("l1_shadow", l1_B)
+    l2_S = meta.get("l2_shadow", l2_B)
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    defaults = meta.get("defaults", {})
+    result = compute_L3(
+        l1_B, l2_B, hits_B,
+        l1_S, l2_S, hits_S,
+        F=F,
+        A=A,
+        eps=1e-12,
+        **{k: defaults.get(k) for k in ("SHADOW_MAX_DEVIATION", "SHADOW_MAX_CROSS_AREA_DELTA", "SHADOW_ALLOW_AREA_FLIP", "TOP_K") if k in defaults},
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=3,
+        result=result,
+        diagnostics={"layer_id": 3, "execution_time_ms": round(elapsed_ms, 6)},
+    )

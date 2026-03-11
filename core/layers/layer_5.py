@@ -6,7 +6,10 @@ HESPERIA v0.4.x Layer-5 counter-evidence + trig reality (38_SPEC).
 from __future__ import annotations
 
 import math
+import time
 from typing import Any
+
+from core.contracts.layer_contract import LayerInput, LayerOutput
 
 EPS = 1e-9
 
@@ -122,3 +125,36 @@ def compute_L5(
         "METRIC_IDENTITY_RESIDUAL": METRIC_IDENTITY_RESIDUAL,
         "REALITY_GATE_TRIG": REALITY_GATE_TRIG,
     }
+
+
+def run(input: LayerInput) -> LayerOutput:
+    """Layer-5 public entry point. Consumes LayerInput, returns LayerOutput. No other public entry points."""
+    t0 = time.perf_counter()
+    meta = input.metadata
+    layers = meta.get("layers", {})
+    l1_B = layers.get(1)
+    l4 = layers.get(4)
+    if not l1_B or not l4:
+        raise ValueError("Layer 5 requires layer 1 and 4 results in input.metadata['layers']")
+    R_pos = meta.get("R_B", [])
+    R_neg = meta.get("R_neg", [])
+    F = int(meta.get("F", 288))
+    A = int(meta.get("A", 12))
+    defaults = meta.get("defaults", {})
+    result = compute_L5(
+        l1_B,
+        l4,
+        R_pos,
+        R_neg,
+        F=F,
+        A=A,
+        TOP_K=defaults.get("TOP_K", 20),
+        MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2),
+        MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50),
+    )
+    elapsed_ms = (time.perf_counter() - t0) * 1000.0
+    return LayerOutput(
+        layer_id=5,
+        result=result,
+        diagnostics={"layer_id": 5, "execution_time_ms": round(elapsed_ms, 6)},
+    )
