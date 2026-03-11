@@ -7,7 +7,7 @@ import argparse
 import json
 from pathlib import Path
 
-# Full taxonomy surface (sphere_rag.invariant_catalog.TOTAL_SIDES)
+# Full taxonomy surface (core.topology.invariant_catalog.TOTAL_SIDES)
 try:
     from core.topology.invariant_catalog import TOTAL_SIDES as TOTAL_SIDES_EXPECTED
 except ImportError:

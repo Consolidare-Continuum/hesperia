@@ -1,17 +1,17 @@
 # Report — L1–L9 full pass (script math)
 
 **Date**: 2026-02-24
-**Script**: `python3 -m sphere_rag.layers.run_l1_through_l9`
+**Script**: `python3 -m runtime.pipeline.run_l1_through_l9`
 **Owner**: Gena
 
 ## Output log dir (link path)
 
-**Path**: [artifacts/layer_runs/](.)
+**Path**: [assets/artifacts/layer_runs/](.)
 
 - **Latest run JSON**: [latest_L1_L9_output.json](latest_L1_L9_output.json)
 - **This report**: [REPORT__L1_L9_Full_Pass.md](REPORT__L1_L9_Full_Pass.md)
 
-From repo root: `artifacts/layer_runs/`
+From repo root: `assets/artifacts/layer_runs/`
 
 ## One full pass summary
 

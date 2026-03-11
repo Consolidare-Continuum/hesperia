@@ -1,4 +1,4 @@
-# Deterministic build-only embedding environment for sphere_rag.build_v040
+# Deterministic build-only embedding environment for legacy v0.4 build workflows
 # CPU-first, PyTorch backend, TensorFlow intentionally excluded.
 
 sentence-transformers==2.7.0

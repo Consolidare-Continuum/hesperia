@@ -1,4 +1,4 @@
-# sphere_rag/shadow_layer.py — HESPERIA Shadow Layer v1.0 (Core + ΓΘ Addon)
+# core/propagation/shadow_layer.py — HESPERIA Shadow Layer v1.0 (Core + ΓΘ Addon)
 # Spec: 24_SPEC__Shadow_Layer_v1_0.txt
 # Version: v0.2.1 (integrated as v0.2.0.1 → v0.2.1)
 #
@@ -358,7 +358,7 @@ def process_step(
 # Integration: call from phase_engine / gamma_guard. Example usage:
 # ---------------------------------------------------------------------------
 #
-# from sphere_rag.shadow_layer import (
+# from core.propagation.shadow_layer import (
 #     ShadowLayerState, ShadowLayerInput, ShadowLayerOutput, process_step,
 #     risk, shadow_mass_at_hop, shadow_adjusted_scores, candidate_set_shadow,
 #     phi_identity, phi_area_reflect, ShadowFailureCode,

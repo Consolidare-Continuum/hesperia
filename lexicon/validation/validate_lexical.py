@@ -5,7 +5,7 @@ Phase 5 — Validate Dict A and Dict B before freeze.
 - No family_id or area_id inside Dict A.
 - All aliases resolve to exactly one side_id (no duplicate alias across sides).
 - Optional: checksum output to curated/checksums_v1.json.
-Run: python3 lexicon/scripts/validate_lexical.py [--curated dir] [--canonical-max N]
+Run: python3 lexicon/validation/validate_lexical.py [--curated dir] [--canonical-max N]
 """
 
 from __future__ import annotations

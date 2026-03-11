@@ -10,7 +10,7 @@ import uuid
 from pathlib import Path
 from typing import Any
 
-# Hesperia root (parent of api/); v0.6 assets at root/lexicon/frozen/v06
+# Hesperia root (parent of runtime/api); v0.6 assets at root/lexicon/frozen/v06
 _HESPERIA_ROOT = Path(__file__).resolve().parents[2]
 _ASSETS_ROOT = _HESPERIA_ROOT / "lexicon" / "frozen"
 

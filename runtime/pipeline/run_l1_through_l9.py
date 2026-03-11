@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run L1..L9: attribution→L1→…→L9. L8 = SI_* units; L9 = branding. Output logged and reportable. Usage: python3 -m runtime.pipeline.layers.run_l1_through_l9 [--out path.json]"""
+"""Run L1..L9: attribution→L1→…→L9. L8 = SI_* units; L9 = branding. Output logged and reportable. Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]"""
 from __future__ import annotations
 import argparse
 import json
