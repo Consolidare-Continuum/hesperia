@@ -2,17 +2,23 @@
 """
 HESPERIA pre-test / whole run (small, no big builds).
 Runs: v0.4.0 build (small) → v0.4.1 Dict B build (small) → core_math test → pytest sphere_rag/tests.
-Use from CLIENTS/hesperia with: python scripts/run_hesperia_pre_test.py
+Use from repository root with: python scripts/run_hesperia_pre_test.py
 Or: .venv_v040/bin/python scripts/run_hesperia_pre_test.py
 """
 from __future__ import annotations
 
+import importlib.util
 import subprocess
 import sys
 from pathlib import Path
 
 def _root() -> Path:
     return Path(__file__).resolve().parent.parent
+
+
+
+def _has_module(name: str) -> bool:
+    return importlib.util.find_spec(name) is not None
 
 def _run(cmd: list[str], cwd: Path, label: str) -> bool:
     print(f"\n--- {label} ---")
@@ -29,29 +35,32 @@ def main() -> int:
     if venv_py.exists():
         py = str(venv_py)
 
-    # 1. v0.4.0 build (small)
-    ok = _run(
-        [py, "-m", "sphere_rag.build_v040",
-         "--assets-root", "hesperia_lex/curated",
-         "--out-dir", "assets/v040",
-         "--allow-small-build"],
-        root,
-        "v0.4.0 build (Dict A → anchors → Dict B → surface)",
-    )
-    if not ok:
-        return 1
+    # 1. v0.4.0/v0.4.1 lexical builds (small)
+    if not _has_module("sentence_transformers"):
+        print("\n--- lexical builds skipped (missing dependency: sentence-transformers) ---")
+    else:
+        ok = _run(
+            [py, "build_v040.py",
+             "--assets-root", "hesperia_lex/curated",
+             "--out-dir", "artifacts/build_v040",
+             "--model-revision", "v040",
+             "--allow-small-build"],
+            root,
+            "v0.4.0 build (Dict A → anchors → Dict B → surface)",
+        )
+        if not ok:
+            return 1
 
-    # 2. v0.4.1 Dict B build (small)
-    ok = _run(
-        [py, "-m", "sphere_rag.build_v041",
-         "--assets-root", "assets",
-         "--out-dir", "assets/v041",
-         "--allow-small-build"],
-        root,
-        "v0.4.1 Dict B build (preferred + possible_relaxed)",
-    )
-    if not ok:
-        return 1
+        ok = _run(
+            [py, "-m", "sphere_rag.build_v041",
+             "--assets-root", "assets",
+             "--out-dir", "artifacts/build_v041",
+             "--allow-small-build"],
+            root,
+            "v0.4.1 Dict B build (preferred + possible_relaxed)",
+        )
+        if not ok:
+            return 1
 
     # 3. Core math test
     ok = _run(

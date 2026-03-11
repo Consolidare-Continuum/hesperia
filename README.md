@@ -2,8 +2,8 @@
 
 **Operational**: Single canonical repo (Team 10). Deliverables → `origin` (Atomic-Commits-Team/hesperia). See [OPERATIONAL.md](OPERATIONAL.md).
 
-**Version**: v0.4.0 (tag `hesperia-v0.4.0`)
-**Status**: v0.4 consolidation. First full L1–L9 stack; run → output → logged → reportable. Deterministic core + lexical stack. Freeze: do not change core math without version bump.
+**Version**: v0.4.x (canonical PoC baseline; tag lineage starts at `hesperia-v0.4.0`)
+**Status**: v0.4 consolidation baseline. Repository may contain historical code lines, but operational boot/runtime is pinned to v0.4.x.
 
 **Release notes**: [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4.txt) | [releases/hesperia-v0.4.md](releases/hesperia-v0.4.md)
 
@@ -21,13 +21,13 @@ No big dict files in repo: `raw/`, `processed/`, `assets/` are gitignored. Curat
 
 ## How to build
 
-From `CLIENTS/hesperia` (this directory). Python 3.9+. For v0.4.0/v0.4.1 lexical builds: `pip install -r requirements_v040.txt` (or use `.venv_v040`). Layer stack needs no separate build.
+From repo root. Python 3.10+ recommended. Install baseline dependencies with `pip install -r requirements.txt` (which pins to v0.4 requirements).
 
-- **v0.4.0**: `python -m sphere_rag.build_v040 --assets-root hesperia_lex/curated --out-dir assets/v040 --allow-small-build`
+- **v0.4.0**: `python build_v040.py --model-revision v040 --assets-root hesperia_lex/curated --out-dir artifacts/build_v040 --allow-small-build`
 - **v0.4.1**: `python -m sphere_rag.build_v041 --assets-root assets --out-dir assets/v041 --allow-small-build`
 - **Pre-test**: `python scripts/run_hesperia_pre_test.py` or `python sphere_rag/run_simulation.py pretest`
 
-See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4.txt).
+See [docs/BOOT_SEQUENCE.md](docs/BOOT_SEQUENCE.md), [RUNNABLE.md](RUNNABLE.md), and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4.txt).
 
 ## How to use
 
@@ -37,6 +37,15 @@ See [RUNNABLE.md](RUNNABLE.md) and [RELEASE_NOTES__v0_4.txt](RELEASE_NOTES__v0_4
 - **L1+L2 / L1+L2+L3**: `python3 -m sphere_rag.layers.run_l1_l2` / `run_l1_l2_l3` (see RUNNABLE.md).
 - **Core math**: `python sphere_rag/hesperia_v03_core_math.py` or `... test`
 - **Simulation / API**: `python sphere_rag/run_simulation.py full|chroma|serve [options]`; serve: `python sphere_rag/serve_v033.py`
+
+
+## Repository structure status
+
+- `/sphere_rag` → canonical runtime
+- `/hesperia_lex` → frozen lexical assets
+- `/scripts` → operational orchestration
+- `/assets` → large data artifacts
+- `/legacy` → deprecated code (reserved)
 
 ## What's expected
 
