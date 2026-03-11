@@ -10,7 +10,7 @@ import uuid
 from pathlib import Path
 from typing import Any
 
-# Hesperia root (parent of api/); v0.6 assets at root/assets/v06
+# Hesperia root (parent of api/); canonical PoC baseline uses v0.4.x assets.
 _HESPERIA_ROOT = Path(__file__).resolve().parent.parent
 _ASSETS_ROOT = _HESPERIA_ROOT / "assets"
 
@@ -22,7 +22,7 @@ from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from pydantic import BaseModel, ConfigDict, Field
 
 DEFAULT_TEXT_CAP = 10_000
-API_VERSION = "0.6.0"
+API_VERSION = "0.4.0"
 
 # Bearer token: GPT Actions uses Authentication = API Key, Key type = Bearer.
 # HESPERIA_API_KEY = required. HESPERIA_API_KEY_NEXT = optional for rotation (accept either; swap then clear NEXT).

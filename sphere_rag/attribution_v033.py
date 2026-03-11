@@ -101,9 +101,17 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
     root = assets_root or Path(__file__).resolve().parent.parent / "assets"
-    # Default: last frozen A (v0.4.1.3).
-    default = root / "A_CORE_STAR_MAP_v0_4_1_3.json"
-    path = path or default
+    # Resolve Dict A deterministically with legacy compatibility.
+    # Priority order:
+    #  1) explicit path
+    #  2) v0.4.1.3 frozen map
+    #  3) legacy v1 fixture/build name (used by tests and older assets)
+    if path is None:
+        candidates = [
+            root / "A_CORE_STAR_MAP_v0_4_1_3.json",
+            root / "A_CORE_STAR_MAP_v1.json",
+        ]
+        path = next((c for c in candidates if c.exists()), candidates[0])
     if not path.exists():
         return {}
     with open(path, encoding="utf-8") as f:
