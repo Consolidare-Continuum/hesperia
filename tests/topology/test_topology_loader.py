@@ -1,0 +1,29 @@
+"""
+Tests for topology loader (load_area_adjacency, load_family_area_mapping, build_topology_graph).
+"""
+
+from __future__ import annotations
+
+import sys
+from pathlib import Path
+
+_REPO = Path(__file__).resolve().parents[2]
+if str(_REPO) not in sys.path:
+    sys.path.insert(0, str(_REPO))
+
+
+def test_load_all_returns_three_artifacts() -> None:
+    """load_all returns adjacency_matrix, family_to_area, topology_graph."""
+    from sphere.topology import load_all
+    adj, f2a, graph = load_all()
+    assert adj.shape == (12, 12)
+    assert len(f2a) == 288
+    assert graph["areas"] == 12
+    assert "neighbors" in graph
+
+
+def test_build_topology_graph_ring() -> None:
+    """Ring topology: area 0 neighbors are 1 and 11."""
+    from sphere.topology import build_topology_graph
+    graph = build_topology_graph()
+    assert set(graph["neighbors"][0]) == {1, 11}
