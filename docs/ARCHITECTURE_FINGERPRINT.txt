@@ -34,9 +34,14 @@ Verification:
   git show HESPERIA_RAD_FREEZE --no-patch
 
 ---
-Optional — maximum proof (public ledger)
+Maximum proof (public ledger) — created
 
-To anchor the SHA256 in a public ledger for the strongest timestamp:
-  ots stamp docs/HESPERIA_SYSTEM_SPEC_v1.md
-(OpenTimestamps produces a .ots proof tied to the Bitcoin blockchain.
- Requires: https://opentimestamps.org / pip install opentimestamps-client)
+OpenTimestamps proof file (tied to Bitcoin blockchain):
+  docs/HESPERIA_SYSTEM_SPEC_v1.md.ots
+
+Created with: ots stamp docs/HESPERIA_SYSTEM_SPEC_v1.md
+Reference: https://opentimestamps.org
+Client: pip install opentimestamps-client
+
+To verify the proof (after upgrade to blockchain):
+  ots verify docs/HESPERIA_SYSTEM_SPEC_v1.md docs/HESPERIA_SYSTEM_SPEC_v1.md.ots
