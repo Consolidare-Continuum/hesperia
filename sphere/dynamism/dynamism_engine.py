@@ -10,7 +10,14 @@ from typing import Any
 
 import numpy as np
 
-from . import curvature, jump_rate, stability, trajectory, transition_matrix
+from core.math import (
+    build_trajectory,
+    compress_trajectory,
+    compute_curvature,
+    compute_jump_rate,
+    compute_stability_index,
+    compute_transition_matrix,
+)
 
 
 def _validate_inputs(
@@ -54,14 +61,14 @@ def compute_dynamism(
     """
     _validate_inputs(area_sequence, adjacency_matrix)
 
-    raw = trajectory.build_trajectory(area_sequence)
-    compressed = trajectory.compress_trajectory(area_sequence, segment_form=False)
-    segments = trajectory.compress_trajectory(area_sequence, segment_form=True)
+    raw = build_trajectory(area_sequence)
+    compressed = compress_trajectory(area_sequence, segment_form=False)
+    segments = compress_trajectory(area_sequence, segment_form=True)
 
-    trans = transition_matrix.compute_transition_matrix(area_sequence, num_areas=12)
-    curv = curvature.compute_curvature(area_sequence, adjacency_matrix)
-    jump = jump_rate.compute_jump_rate(area_sequence, adjacency_matrix)
-    stab = stability.compute_stability_index(area_sequence)
+    trans = compute_transition_matrix(area_sequence, num_areas=12)
+    curv = compute_curvature(area_sequence, adjacency_matrix)
+    jump = compute_jump_rate(area_sequence, adjacency_matrix)
+    stab = compute_stability_index(area_sequence)
 
     return {
         "trajectory": {

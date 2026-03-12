@@ -34,3 +34,23 @@ def build_structural_diagnostics(
     Deterministic and traceable to triggering facts.
     """
     return [build_diagnostic(tr, facts) for tr in triggered_rules]
+
+
+def build_logic_diagnostics(
+    *,
+    rules_evaluated_count: int = 0,
+    rules_triggered_count: int = 0,
+    dominant_area: int = 0,
+    entropy_after_shadow: float = 0.0,
+    tension_after_shadow: float = 0.0,
+    propagation_spread: int = 0,
+) -> dict[str, Any]:
+    """Build logic_metrics diagnostics dict for Layer-9."""
+    return {
+        "rules_evaluated_count": rules_evaluated_count,
+        "rules_triggered_count": rules_triggered_count,
+        "dominant_area": dominant_area,
+        "entropy_after_shadow": entropy_after_shadow,
+        "tension_after_shadow": tension_after_shadow,
+        "propagation_spread": propagation_spread,
+    }

@@ -1,46 +1,12 @@
 """
-Layer-6 transition matrix.
-Generate deterministic 12×12 area transition count matrix from ordered area_sequence.
+Layer-6 transition matrix — orchestration only; math lives in core.math.
 """
 
 from __future__ import annotations
 
-import numpy as np
+from core.math.transition_matrix import (
+    compute_transition_matrix,
+    compute_transition_probabilities,
+)
 
-
-def compute_transition_matrix(
-    area_sequence: list[int] | np.ndarray,
-    num_areas: int = 12,
-) -> np.ndarray:
-    """
-    Build the area-to-area transition count matrix from consecutive pairs.
-
-    Rule: for each pair (a_t, a_{t+1}), increment transition_matrix[a_t, a_{t+1}].
-    Shape is always (num_areas, num_areas). Integer counts only.
-    Deterministic ordering. No normalization.
-    """
-    arr = np.asarray(area_sequence, dtype=np.int64)
-    matrix = np.zeros((num_areas, num_areas), dtype=np.int64)
-    if arr.size < 2:
-        return matrix
-    for i in range(len(arr) - 1):
-        a, b = int(arr[i]), int(arr[i + 1])
-        if 0 <= a < num_areas and 0 <= b < num_areas:
-            matrix[a, b] += 1
-    return matrix
-
-
-def compute_transition_probabilities(
-    area_sequence: list[int] | np.ndarray,
-    num_areas: int = 12,
-) -> np.ndarray:
-    """
-    Row-normalize the transition count matrix so each row sums to 1.
-    Rows with no outgoing transitions remain zero (no division).
-    Raw count matrix remains canonical; this is an optional secondary output.
-    """
-    counts = compute_transition_matrix(area_sequence, num_areas=num_areas)
-    row_sums = counts.sum(axis=1, keepdims=True)
-    with np.errstate(divide="ignore", invalid="ignore"):
-        probs = np.where(row_sums > 0, counts / row_sums, 0.0)
-    return np.asarray(probs, dtype=np.float64)
+__all__ = ["compute_transition_matrix", "compute_transition_probabilities"]

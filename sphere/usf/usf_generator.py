@@ -107,13 +107,16 @@ def build_usf_object(
     logic_outputs: dict[str, Any],
     provenance: dict[str, Any],
     usf_version: str = "1.0",
+    interpretation_metrics: dict[str, Any] | None = None,
+    shadow_metrics: dict[str, Any] | None = None,
+    logic_metrics: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
-    Build canonical USF dict with architecture-ordered keys.
-    Does not validate; call validate_usf_inputs first.
+    Build canonical USF dict. When interpretation_metrics is provided, canonical
+    structural meaning comes from it; logic_outputs remains for compatibility only.
     """
     jump_rate_val = _normalize_jump_rate(dynamism_metrics.get("jump_rate", 0.0))
-    return {
+    base: dict[str, Any] = {
         "usf_version": usf_version,
         "document_id": document_id,
         "source_metadata": dict(source_metadata),
@@ -147,6 +150,29 @@ def build_usf_object(
             "deterministic": True,
         },
     }
+    if interpretation_metrics:
+        base["schema_version"] = usf_version
+        base["dominant_area_id"] = interpretation_metrics.get("dominant_area_id")
+        base["structural_state"] = interpretation_metrics.get("structural_state", "distributed_balanced")
+        base["dominance_strength"] = interpretation_metrics.get("dominance_strength")
+        base["entropy_state"] = interpretation_metrics.get("entropy_state", "stable")
+        base["tension_state"] = interpretation_metrics.get("tension_state", "normal")
+        base["propagation_state"] = interpretation_metrics.get("propagation_state", "minimal_spread")
+        base["active_events"] = list(interpretation_metrics.get("active_events", []))
+        base["interpretation_flags"] = list(interpretation_metrics.get("interpretation_flags", []))
+        base["event_summary"] = dict(interpretation_metrics.get("event_summary", {}))
+        base["diagnostics"] = dict(interpretation_metrics.get("interpretation_diagnostics", {}))
+        base["fingerprint"] = {
+            "structural_state": base["structural_state"],
+            "dominant_area_id": base["dominant_area_id"],
+            "active_events": base["active_events"],
+            "interpretation_flags": base["interpretation_flags"],
+        }
+        base["compatibility"] = {
+            "legacy_logic_outputs_present": bool(logic_outputs),
+            "legacy_logic_bridge_used": False,
+        }
+    return base
 
 
 def generate_usf(
@@ -158,11 +184,14 @@ def generate_usf(
     logic_outputs: dict[str, Any],
     provenance: dict[str, Any],
     usf_version: str = "1.0",
+    interpretation_metrics: dict[str, Any] | None = None,
+    shadow_metrics: dict[str, Any] | None = None,
+    logic_metrics: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
-    Assemble and validate a canonical USF artifact from layer outputs.
-    Validates required sections then builds with deterministic field order.
-    Raises ValueError on malformed or missing required fields.
+    Assemble and validate a canonical USF artifact. When interpretation_metrics
+    is provided, it is the canonical source for structural_state, active_events,
+    interpretation_flags, etc.; logic_outputs is compatibility-only.
     """
     validate_usf_inputs(
         raw_metrics,
@@ -180,4 +209,7 @@ def generate_usf(
         logic_outputs=logic_outputs,
         provenance=provenance,
         usf_version=usf_version,
+        interpretation_metrics=interpretation_metrics,
+        shadow_metrics=shadow_metrics,
+        logic_metrics=logic_metrics,
     )

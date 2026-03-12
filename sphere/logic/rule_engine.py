@@ -9,8 +9,72 @@ from pathlib import Path
 from typing import Any
 
 from . import diagnostics, rule_runtime, trigger_registry
+from .rule_evaluator import evaluate_structural_rules
+from .rule_registry import STRUCTURAL_RULES
 
 _DEFAULT_SPEC = Path(__file__).resolve().parents[2] / "spec" / "logic_rules.yaml"
+
+
+def compute_logic_metrics(
+    shadow_metrics: dict[str, Any],
+    propagation_metrics: dict[str, Any],
+    dynamism_metrics: dict[str, Any],
+    *,
+    previous_state: dict[str, Any] | None = None,
+) -> dict[str, Any]:
+    """
+    Layer-9 structural logic entrypoint. Consumes Layer-8 (shadow) and Layer-7 (propagation) signals.
+    Returns logic_metrics: triggered_rules, dominance_events, entropy_events, tension_events,
+    anomaly_flags, logic_diagnostics. Uses core/math only for dominance; no math implementation here.
+    """
+    corrected_area = shadow_metrics.get("corrected_area_vector") or []
+    shadow_diag = shadow_metrics.get("shadow_diagnostics") or {}
+    prop_diag = propagation_metrics.get("propagation_diagnostics") or {}
+
+    from core.math.vector_ops import detect_dominant_area
+    import numpy as np
+    av = np.asarray(corrected_area, dtype=np.float64) if corrected_area else np.zeros(12)
+    if av.size != 12:
+        av = np.resize(av, 12) if av.size < 12 else av[:12]
+    dominant_area_id = int(detect_dominant_area(av, num_areas=12))
+
+    state: dict[str, Any] = {
+        "corrected_area_vector": list(av),
+        "corrected_family_counts": shadow_metrics.get("corrected_family_counts") or [],
+        "area_vector": list(av),
+        "shadow_diagnostics": shadow_diag,
+        "propagation_diagnostics": prop_diag,
+        "dominant_area_id": dominant_area_id,
+        "stability_index": dynamism_metrics.get("stability_index"),
+        "jump_rate": dynamism_metrics.get("jump_rate"),
+        "curvature": dynamism_metrics.get("curvature"),
+    }
+
+    events = evaluate_structural_rules(state, previous_state)
+    triggered = events["triggered_rules"]
+    rules_evaluated = len(STRUCTURAL_RULES)
+    rules_triggered = len(triggered)
+    entropy_after = float(shadow_diag.get("entropy_after", 0.0))
+    tension_after = float(shadow_diag.get("tension_after", 0.0))
+    propagation_spread = int(prop_diag.get("active_edges_count") or prop_diag.get("changed_areas_count") or 0)
+
+    logic_diagnostics = diagnostics.build_logic_diagnostics(
+        rules_evaluated_count=rules_evaluated,
+        rules_triggered_count=rules_triggered,
+        dominant_area=dominant_area_id,
+        entropy_after_shadow=entropy_after,
+        tension_after_shadow=tension_after,
+        propagation_spread=propagation_spread,
+    )
+
+    return {
+        "triggered_rules": events["triggered_rules"],
+        "dominance_events": events["dominance_events"],
+        "entropy_events": events["entropy_events"],
+        "tension_events": events["tension_events"],
+        "anomaly_flags": events["anomaly_flags"],
+        "logic_diagnostics": logic_diagnostics,
+    }
 
 
 def _collect_matched_facts(rule: dict[str, Any], facts: dict[str, Any]) -> dict[str, Any]:

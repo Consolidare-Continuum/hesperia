@@ -136,14 +136,17 @@ def run_pipeline(
         area_sequence = [0]
 
     try:
-        from sphere.topology.topology_loader import load_area_adjacency
-        adj_matrix = load_area_adjacency(config.get("topology_data_root"))
+        from sphere.topology.topology_loader import load_area_adjacency, load_family_area_mapping
+        topology_root = config.get("topology_data_root")
+        adj_matrix = load_area_adjacency(topology_root)
+        family_to_area = load_family_area_mapping(topology_root)
     except Exception:
         import numpy as np
         adj_matrix = np.zeros((12, 12), dtype=np.int64)
         for i in range(12):
             adj_matrix[i, (i - 1) % 12] = 1
             adj_matrix[i, (i + 1) % 12] = 1
+        family_to_area = np.array([f // 24 for f in range(288)], dtype=np.int64)
 
     try:
         from sphere.dynamism import compute_dynamism
@@ -249,15 +252,125 @@ def run_pipeline(
         "jump_rate": dynamism_out.get("jump_rate", 0.0),
         "stability_index": dynamism_out.get("stability_index", 0.0),
     }
-    propagation_metrics = {
-        "propagated_area_vector": list(area_vector),
-        "propagated_family_counts": [float(x) for x in hits],
-    }
+    # Layer-7: real propagation via sphere.propagation (topology-driven diffusion + family projection)
+    try:
+        from sphere.propagation.engine import compute_propagation
+        import numpy as np
+        propagation_steps = max(1, int(config.get("propagation_steps", 1)))
+        prop_out = compute_propagation(
+            area_vector,
+            list(hits),
+            adj_matrix,
+            family_to_area,
+            base_alpha=0.5,
+            normalize_output=True,
+            stability_index=dynamism_out.get("stability_index"),
+            jump_rate=dynamism_out.get("jump_rate"),
+            num_steps=propagation_steps,
+        )
+        propagation_metrics = {
+            "propagated_area_vector": prop_out["propagated_area_vector"],
+            "propagated_family_counts": prop_out["propagated_family_counts"],
+            "propagation_diagnostics": prop_out["propagation_diagnostics"],
+        }
+    except Exception:
+        propagation_metrics = {
+            "propagated_area_vector": list(area_vector),
+            "propagated_family_counts": [float(x) for x in hits],
+            "propagation_diagnostics": {"_fallback": "compute_propagation failed; pass-through"},
+        }
+
+    # Layer-8 Shadow Correction: filter propagation noise, reinforce dominance
+    try:
+        from sphere.shadow.engine import compute_shadow_correction
+        shadow_out = compute_shadow_correction(
+            propagation_metrics["propagated_area_vector"],
+            propagation_metrics["propagated_family_counts"],
+            propagation_metrics.get("propagation_diagnostics"),
+            family_to_area=family_to_area,
+        )
+        shadow_metrics = {
+            "corrected_area_vector": shadow_out["corrected_area_vector"],
+            "corrected_family_counts": shadow_out["corrected_family_counts"],
+            "shadow_diagnostics": shadow_out["shadow_diagnostics"],
+        }
+    except Exception:
+        shadow_metrics = {
+            "corrected_area_vector": propagation_metrics["propagated_area_vector"],
+            "corrected_family_counts": propagation_metrics["propagated_family_counts"],
+            "shadow_diagnostics": {"_fallback": "compute_shadow_correction failed; pass-through"},
+        }
+
+    # Layer-9 Structural Logic: evaluate rules on shadow + propagation + dynamism
+    try:
+        from sphere.logic.rule_engine import compute_logic_metrics
+        logic_metrics = compute_logic_metrics(
+            shadow_metrics,
+            propagation_metrics,
+            dynamism_metrics,
+            previous_state=None,
+        )
+    except Exception:
+        logic_metrics = {
+            "triggered_rules": [],
+            "dominance_events": [],
+            "entropy_events": [],
+            "tension_events": [],
+            "anomaly_flags": [],
+            "logic_diagnostics": {"_fallback": "compute_logic_metrics failed"},
+        }
+
     logic_outputs = {
         "triggered_rules": logic_out.get("triggered_rules", []),
         "logic_flags": [r.get("diagnostic_code", "") for r in logic_out.get("triggered_rules", []) if r.get("diagnostic_code")],
         "structural_diagnostics": logic_out.get("structural_diagnostics", []),
     }
+
+    # Layer-10 structured interpretation (canonical consumer of L7/L8/L9)
+    try:
+        from sphere.interpretation.engine import compute_interpretation_metrics
+        interpretation_metrics = compute_interpretation_metrics(
+            logic_metrics=logic_metrics,
+            shadow_metrics=shadow_metrics,
+            propagation_metrics=propagation_metrics,
+            dynamism_metrics=dynamism_metrics,
+            legacy_logic_outputs=logic_outputs,
+        )
+    except Exception:
+        interpretation_metrics = {
+            "structural_state": "distributed_balanced",
+            "dominant_area_id": None,
+            "dominance_strength": None,
+            "entropy_state": "stable",
+            "tension_state": "normal",
+            "propagation_state": "minimal_spread",
+            "active_events": [],
+            "interpretation_flags": [],
+            "event_summary": {},
+            "interpretation_diagnostics": {"_fallback": "compute_interpretation_metrics failed"},
+        }
+
+    # L9b optional Prolog reasoning (separate from logic_metrics)
+    prolog_logic: dict[str, Any] = {
+        "derived_facts": [],
+        "rule_traces": [],
+        "prolog_diagnostics": {},
+    }
+    if config.get("enable_prolog"):
+        try:
+            from sphere.prolog_logic.engine import compute_prolog_inference
+            prolog_logic = compute_prolog_inference(
+                logic_metrics=logic_metrics,
+                interpretation_metrics=interpretation_metrics,
+                shadow_metrics=shadow_metrics,
+            )
+        except Exception as e:
+            prolog_logic = {
+                "derived_facts": [],
+                "rule_traces": [],
+                "prolog_diagnostics": {"error": str(e)},
+            }
+
     provenance = {
         "created_at": config.get("created_at", ""),
         "pipeline_version": str(config.get("pipeline_version", "v1")),
@@ -276,6 +389,9 @@ def run_pipeline(
             logic_outputs=logic_outputs,
             provenance=provenance,
             usf_version="1.0",
+            interpretation_metrics=interpretation_metrics,
+            shadow_metrics=shadow_metrics,
+            logic_metrics=logic_metrics,
         )
     except Exception as e:
         usf = {"_usf_error": str(e), "document_id": document_id}
@@ -295,6 +411,11 @@ def run_pipeline(
         "layer_outputs": layer_outputs,
         "usf": usf,
         "pipeline_metadata": pipeline_metadata,
+        "diagnostics": dict(state.diagnostics),
+        "shadow_metrics": shadow_metrics,
+        "logic_metrics": logic_metrics,
+        "interpretation_metrics": interpretation_metrics,
+        "prolog_logic": prolog_logic,
     }
 
     try:

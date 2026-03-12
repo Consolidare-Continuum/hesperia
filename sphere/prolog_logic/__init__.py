@@ -1,4 +1,4 @@
-# Prolog-style Logic Layer: symbolic inference (future phase).
+# Prolog-style Logic Layer: symbolic inference (optional L9b).
 from sphere.prolog_logic.rule_compiler import (
     parse_rule,
     parse_fact,
@@ -15,6 +15,7 @@ from sphere.prolog_logic.inference_executor import (
     evaluate_rule,
     derive_new_facts,
 )
+from sphere.prolog_logic.engine import compute_prolog_inference
 
 __all__ = [
     "parse_rule",
@@ -27,4 +28,5 @@ __all__ = [
     "infer",
     "evaluate_rule",
     "derive_new_facts",
+    "compute_prolog_inference",
 ]

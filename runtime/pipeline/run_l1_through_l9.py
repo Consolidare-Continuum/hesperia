@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Run L1..L9 via layer contract: attribution → LayerInput → L1→…→L9. State in PipelineState. Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]"""
+"""
+LEGACY: Compatibility wrapper for L1..L9-style output.
+Canonical pipeline is sphere.pipeline.run_pipeline (see runtime/runners/run_reference_pipeline.py).
+
+When profile is not used, run_pipeline_for_text delegates to sphere and maps result to L1..L9 shape.
+When profile is provided, this module runs the legacy L1..L9 loop locally.
+Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]
+"""
 from __future__ import annotations
 
 import argparse
@@ -12,23 +19,40 @@ _HESPERIA = _HERE.parents[1]
 if str(_HESPERIA) not in sys.path:
     sys.path.insert(0, str(_HESPERIA))
 
-from core.attribution.structural import (
-    attribute,
-    load_dict_a,
-    load_dict_b,
-    normalize,
-    tokenize,
-)
-from core.contracts.layer_contract import LayerInput
-from core.layers import build_canonical_stub_adjacency, load_defaults, load_structure_profile
-from core.policy import apply_interpretation_policy
-from core.stability import run_stability
-from runtime.dossier import validate_dossier_schema, write_dossier_json
-from runtime.dossier.index_manager import update_dossier_index
-from runtime.provenance import build_run_manifest, get_engine_provenance
 
-from .layer_registry import LAYERS
-from .pipeline_state import PipelineState
+def _run_via_sphere(
+    text: str,
+    assets_root: Path,
+    defaults: dict,
+    policy_mode: str | None,
+) -> dict:
+    """Delegate to canonical sphere.pipeline.run_pipeline and map to L1..L9 format."""
+    from sphere.pipeline.pipeline_runner import run_pipeline
+
+    config = {
+        "pipeline_version": "v1",
+        "deterministic": True,
+        "assets_root": assets_root,
+        "defaults": defaults,
+    }
+    if policy_mode is not None:
+        config["interpretation_policy_mode"] = policy_mode
+    result = run_pipeline(text, config, document_id="legacy_wrapper")
+    layer_outputs = result.get("layer_outputs", {})
+    return {
+        "run": "L1_through_L9",
+        "text_preview": text[:80],
+        "L1": layer_outputs.get("layer_1", {}),
+        "L2": layer_outputs.get("layer_2", {}),
+        "L3": layer_outputs.get("layer_3", {}),
+        "L4": layer_outputs.get("layer_4", {}),
+        "L5": layer_outputs.get("layer_5", {}),
+        "L6": layer_outputs.get("layer_6", {}),
+        "L7": layer_outputs.get("layer_7", {}),
+        "L8": layer_outputs.get("layer_8", {}),
+        "L9": layer_outputs.get("layer_9", {}),
+        "diagnostics": result.get("diagnostics", {}),
+    }
 
 
 def run_pipeline_for_text(
@@ -41,12 +65,30 @@ def run_pipeline_for_text(
 ) -> dict:
     """
     Run L1→L9 + Δ stability layer on a single text. Returns full pipeline output dict
-    (L1..L9, diagnostics) for use by multiscale or other callers.
+    (L1..L9, diagnostics). When profile is not used, delegates to sphere.pipeline.run_pipeline.
     """
     assets = assets_root if assets_root is not None else _HESPERIA / "lexicon" / "curated"
     if defaults is None:
         from core.layers import load_defaults
         defaults = load_defaults()
+    # Canonical path: no profile → delegate to sphere and map to L1..L9 shape
+    if profile_id is None and profile is None:
+        return _run_via_sphere(text, assets, defaults, policy_mode)
+    # Legacy path: profile provided → run local L1..L9 loop
+    from core.attribution.structural import (
+        attribute,
+        load_dict_a,
+        load_dict_b,
+        normalize,
+        tokenize,
+    )
+    from core.contracts.layer_contract import LayerInput
+    from core.layers import build_canonical_stub_adjacency, load_structure_profile
+    from core.policy import apply_interpretation_policy
+    from core.stability import run_stability
+    from .layer_registry import LAYERS
+    from .pipeline_state import PipelineState
+
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()
     F = int(defaults.get("F", 288))
@@ -110,6 +152,12 @@ def run_pipeline_for_text(
 
 
 def main() -> None:
+    from core.attribution.structural import load_dict_a, load_dict_b
+    from core.layers import load_defaults, load_structure_profile
+    from runtime.dossier import validate_dossier_schema, write_dossier_json
+    from runtime.dossier.index_manager import update_dossier_index
+    from runtime.provenance import build_run_manifest, get_engine_provenance
+
     ap = argparse.ArgumentParser()
     ap.add_argument("--text", default="justice lie fairness truth good order harm freedom")
     ap.add_argument("--out", type=Path, default=None)

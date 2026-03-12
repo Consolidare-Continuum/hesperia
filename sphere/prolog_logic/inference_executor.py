@@ -7,7 +7,8 @@ from __future__ import annotations
 
 from typing import Any
 
-MAX_INFERENCE_ITERATIONS = 100
+# Iteration guard: no exception on cap; diagnostics["error"] = "iteration_cap_reached", then break.
+MAX_INFERENCE_ITERATIONS = 16
 
 
 def _fact_key(f: dict[str, Any]) -> tuple[str, tuple[Any, ...]]:
@@ -80,6 +81,8 @@ def infer(kb: dict[str, Any]) -> dict[str, Any]:
                 rules_ordered.append(r)
 
     iteration = 0
+    rules_fired = 0
+    cap_reached = False
     while iteration < MAX_INFERENCE_ITERATIONS:
         iteration += 1
         added_any = False
@@ -94,30 +97,42 @@ def infer(kb: dict[str, Any]) -> dict[str, Any]:
             derived_list.append(new_fact)
             known_keys.add(key)
             added_any = True
+            rules_fired += 1
             body_matched = [
                 f"{g['predicate']}({','.join(str(a) for a in g.get('args', []))})"
                 for g in rule["body"]
             ]
+            body_premises = [g["predicate"] for g in rule["body"]]
             args = head.get("args", [])
             derived_str = head["predicate"] if not args else f"{head['predicate']}({','.join(str(a) for a in args)})"
             inference_steps.append({
                 "rule_head": head["predicate"],
                 "body_matched": body_matched,
+                "body_premises": body_premises,
                 "derived": derived_str,
+                "iteration": iteration,
             })
         if not added_any:
             break
-
-    if iteration >= MAX_INFERENCE_ITERATIONS:
-        raise RuntimeError(
-            f"Inference did not reach fixed point within {MAX_INFERENCE_ITERATIONS} iterations"
-        )
+        if iteration >= MAX_INFERENCE_ITERATIONS:
+            cap_reached = True
+            break
 
     all_facts = initial_list + derived_list
+    diagnostics: dict[str, Any] = {
+        "iterations": iteration,
+        "facts_initial": len(initial_list),
+        "facts_final": len(all_facts),
+        "rules_fired": rules_fired,
+    }
+    if cap_reached:
+        diagnostics["error"] = "iteration_cap_reached"
+
     return {
         "initial_facts": initial_list,
         "derived_facts": derived_list,
         "all_facts": all_facts,
         "inference_steps": inference_steps,
         "iterations": iteration,
+        "diagnostics": diagnostics,
     }
