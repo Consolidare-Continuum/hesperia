@@ -9,3 +9,10 @@ Date: 2026-03-12
 
 This fingerprint proves the architecture specification document existed in this form at the stated date.
 Verify with: sha256sum docs/HESPERIA_SYSTEM_SPEC_v1.md
+
+---
+Git proof (RAD freeze)
+Tag: HESPERIA_RAD_FREEZE
+Commit SHA: c6bcf14c222bc6a85c34f7fadc0f0c3217b0a5b9
+Tag object SHA: 0bb3f4e64f0b563baedbeb8fbc79ba5b880a4902
+Pushed to: origin/main, origin/HESPERIA_RAD_FREEZE
