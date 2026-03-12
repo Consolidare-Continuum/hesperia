@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Fingerprint drift metric: formula and thresholds as in docs/refactor/fingerprint_validation.md.
 Consistent float precision (no rounding surprises).

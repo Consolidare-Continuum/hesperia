@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — next direction and locked spec (Grace)
 
 **Purpose**: Record chosen direction and one locked formal spec per ETHAN-HESPERIA-STATE-NOW-ASSESSMENT §VIII–IX. **Owner**: Grace. **Date**: 2026-02-18.

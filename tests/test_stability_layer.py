@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Δ (Delta) stability layer tests.
 Deterministic structural correction: clean pipeline → low anomaly_score;
@@ -109,8 +115,8 @@ def test_stability_passed_to_l7() -> None:
     from core.contracts.layer_contract import LayerInput
     from core.layers import build_canonical_stub_adjacency, load_defaults
     from core.stability import run_stability
-    from runtime.pipeline.layer_registry import LAYERS
-    from runtime.pipeline.pipeline_state import PipelineState
+    from sphere.pipeline.layer_registry import LAYERS
+    from sphere.pipeline.pipeline_state import PipelineState
 
     text = "justice fairness order"
     assets = _REPO / "lexicon" / "curated"

@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # HESPERIA — Primary contrast and core controls
 
 Single reference for dense-layer sharpness, shadow, core energy, tension, and reduction. Tweak in order; do not change everything at once.

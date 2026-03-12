@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # `sphere_rag/` — HESPERIA reference implementation (minimal)
 
 Deterministic Python reference aligned with 12_SPEC, 13_SPEC, 22_SPEC, 24_SPEC, 26_SPEC (v0.3.2), and guard/shadow policy.

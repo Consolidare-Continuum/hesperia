@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Note — 2026-02-24 Math day: Layer-1 and Layer-2 instrumentation
 
 **Session**: Math day; Cursor take-off.

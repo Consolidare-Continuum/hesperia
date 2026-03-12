@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia operator interface spec — propositional logic and traversal (Ethan)
 
 **Purpose**: Formal operator interface spec for connecting propositional logic (c1–c5) with Hesperia geometry. Gate for Gena implementation. **Owner**: Ethan. **Task**: [HESPERIA-PROPOSITIONAL-LOGIC-TRAVERSAL-PROPOSAL.md](HESPERIA-PROPOSITIONAL-LOGIC-TRAVERSAL-PROPOSAL.md). **Date**: 2026-02-18.

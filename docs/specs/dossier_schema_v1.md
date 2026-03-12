@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # HESPERIA Dossier Schema v1.0 (HSD_v1.0)
 
 This document defines the canonical structure of HESPERIA dossier artifacts. Dossiers are deterministic, checksummed JSON outputs suitable for reproducibility, comparison, and audit.

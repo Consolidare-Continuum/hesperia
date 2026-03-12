@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Pipeline execution integration test.
 Runs L1→L9 on a short sample sentence via the layer contract; verifies all layers execute and state is populated.
@@ -24,8 +30,8 @@ from core.contracts.layer_contract import LayerInput
 from core.layers import build_canonical_stub_adjacency, load_defaults, load_structure_profile
 from core.policy import apply_interpretation_policy
 from core.stability import run_stability
-from runtime.pipeline.layer_registry import LAYERS
-from runtime.pipeline.pipeline_state import PipelineState
+from sphere.pipeline.layer_registry import LAYERS
+from sphere.pipeline.pipeline_state import PipelineState
 
 
 def test_pipeline_execution_all_nine_layers() -> None:

@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — propositional logic and traversal (team tasks)
 
 **Purpose**: Connect formal propositional logic (c1–c5 material) with Hesperia geometry. Operators inside the sphere; no classification-only. Direction for dev: Area as meta-operator, Family as logical operator set, Hex as constraint node, obstacle mode, Wumpus inference layer; logical operators embedded in traversal hops. **Triage**: Grace. **Date**: 2026-02-18.

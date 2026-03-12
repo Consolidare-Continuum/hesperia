@@ -1,7 +1,15 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Run L1+L2 for baseline (B) and shadow (S), then L3. Output logged and reportable.
-Usage: python3 -m runtime.pipeline.layers.run_l1_l2_l3 [--text_b "base"] [--text_s "shadow"] [--out path.json]
+Optional runner (L1–L2–L3 comparison). Canonical: run_l1_through_l9 / run_reference_pipeline.
+Usage: python3 -m runtime.pipeline.run_l1_l2_l3 [--text_b "base"] [--text_s "shadow"] [--out path.json]
 If only --text_b given, S uses same text (zero divergence expected).
 """
 

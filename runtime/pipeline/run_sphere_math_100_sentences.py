@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Run sphere math (L1–L9) on each of the 100 calibration sentences; write one JSON file with all outputs.
-Usage: python3 -m runtime.pipeline.layers.run_sphere_math_100_sentences [--out path.json] [--sentences path.json] [--limit N]
+Usage: python3 -m runtime.pipeline.run_sphere_math_100_sentences [--out path.json] [--sentences path.json] [--limit N]
   --limit N: process only first N sentences (for safe small output; do not attach full 100-sentence file as agent context).
 """
 
@@ -91,7 +98,7 @@ def main():
     import argparse
     ap = argparse.ArgumentParser(description="Run sphere math on 100 calibration sentences, one .txt output.")
     ap.add_argument("--out", type=Path, default=_HESPERIA / "sphere_math_100_sentences.txt")
-    ap.add_argument("--sentences", type=Path, default=_HESPERIA / "calibration" / "data" / "calibration_100_sentences.json")
+    ap.add_argument("--sentences", type=Path, default=_HESPERIA / "tools" / "calibration" / "data" / "calibration_100_sentences.json")
     ap.add_argument("--limit", type=int, default=None, help="Process only first N sentences (safe for agent context)")
     args = ap.parse_args()
 

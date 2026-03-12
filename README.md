@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia
 
 Deterministic semantic engine: text → attribution → layers L1–L9 → reading scales R1–R4 → operational outputs. Single version **v0.5** end-to-end.
@@ -61,7 +69,7 @@ hesperia/
   Normalize → tokenize → attribute (Dict A / Dict B). Structural path: `core.attribution.structural` (`load_dict_a`, `load_dict_b`, `attribute`, `run_attribution_pipeline`). Optional v06 path via `core.attribution.attribution` and shared helpers in `attribution_shared`.
 
 - **Layers 1–9**  
-  L1 (topology/tokens) → L2 (propagation) → L3 (shadow) → L4 (retrieval) → L5 (shortfall) → L6 (metrics) → L7 (decision/trust) → L8 (interpretation) → L9 (branding). Contract: `LayerInput` → layer `run()` → result + diagnostics. Registry: `runtime.pipeline.layer_registry`.
+  L1 (topology/tokens) → L2 (propagation) → L3 (shadow) → L4 (retrieval) → L5 (shortfall) → L6 (metrics) → L7 (decision/trust) → L8 (interpretation) → L9 (branding). Contract: `LayerInput` → layer `run()` → result + diagnostics. Registry: `sphere.pipeline.layer_registry`.
 
 - **Propagation**  
   Guard pipeline (sigma/gamma), output contracts (6-key minimal result), R1–R4 segmenters, unit builder, ESM defaults, safeguard state machine, invariant enforcer.

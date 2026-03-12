@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # HESPERIA v0.4.1 Dict B build (29_SPEC)
 
 Build pipeline: token → { preferred, possible_relaxed } using similarity vs **family vectors** (mean of Dict A anchors). Build-time only; runtime loads only dict_b_v041.json.

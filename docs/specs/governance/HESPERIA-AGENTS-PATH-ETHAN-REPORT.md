@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — agents-oriented path: assessment, opinion, and further path (Ethan)
 
 **Purpose**: Address Gena's developments, consolidate opinion, and propose a realistic deployable agents-oriented path for Hesperia per project foundations. **Owner**: Ethan. **Task**: [TASK-ETHAN-HESPERIA-AGENTS-PATH.md](TASK-ETHAN-HESPERIA-AGENTS-PATH.md). **Added**: 2026-02-17.

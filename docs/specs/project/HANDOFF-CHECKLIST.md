@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Handoff checklist — hesperia
 
 **Purpose**: No handoff without artifact + stored + READY + **signed** + approved. Ref: [OPERATIONAL-LAYER.md](../../OPERATIONAL-LAYER.md) §I, [governance/ARTIFACT-SIGNATURE-POLICY.md](../../governance/ARTIFACT-SIGNATURE-POLICY.md).

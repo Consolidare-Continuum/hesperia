@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # R1–R4 Band and decision_code mapping v1.0 (locked per deployment)
 
 **Purpose:** Locked mapping for `Unit.flags.band` and `Unit.flags.decision_code` per spec §B.9 and Gaps table. **Owner:** Ethan (task 7). **Spec:** [SPEC__Reading_Scale_Levels_R1_R4_Structural_Audit_v1_0.md](SPEC__Reading_Scale_Levels_R1_R4_Structural_Audit_v1_0.md).

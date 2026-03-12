@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — Observability extension v0.1 (safe evolution from fixed point)
 
 **Purpose**: Define the **only acceptable** post–fixed-point evolution: observability and soft gates only. No geometry, no traversal rewrite, no safeguard changes, no Hesperia core refactor. **Baseline**: [RELEASE-V1-FIXED-POINT-2026-02-18.md](RELEASE-V1-FIXED-POINT-2026-02-18.md). **Ownership**: Ethan (direction); implementation per Grace/Gena handoff. **Version**: v0.1. **Date**: 2026-02-18.

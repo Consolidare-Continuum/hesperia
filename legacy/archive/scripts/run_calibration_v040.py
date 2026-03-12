@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 HESPERIA v0.4.0 — Calibration autorun. One parsable JSONL file.
 Protocol: 100 sentences × 2 (base + shadow) = 200 runs; then 5 random × 10 (determinism) = 50 runs.

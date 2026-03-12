@@ -1,0 +1,142 @@
+#!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
+"""
+Corpus benchmark: run pipeline over philosophy, economics, law, psychology corpora.
+Output: benchmark_results.json with average_entropy, dominant_area_distribution,
+propagation_depth, structural_tension_mean, fingerprint_variance.
+Usage: python3 -m runtime.pipeline.run_corpus_benchmark [--out path] [--corpora-root path]
+"""
+
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+from collections import defaultdict
+
+_HERE = Path(__file__).resolve().parent
+_HESPERIA = _HERE.parents[1]
+if str(_HESPERIA) not in sys.path:
+    sys.path.insert(0, str(_HESPERIA))
+
+DEFAULT_CORPORA_ROOT = _HESPERIA / "tools" / "calibration" / "corpora"
+DOMAINS = ("philosophy", "economics", "law", "psychology")
+
+
+def _load_corpus(path: Path) -> list[dict]:
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    if isinstance(data, list):
+        return data
+    return data.get("documents", data.get("items", []))
+
+
+def _run_domain(corpora_root: Path, domain: str, config: dict) -> list[dict]:
+    from sphere.pipeline import run_pipeline
+
+    path = corpora_root / domain / "corpus.json"
+    if not path.exists():
+        return []
+    corpus = _load_corpus(path)
+    results = []
+    for item in corpus:
+        text = item.get("text", item) if isinstance(item, dict) else str(item)
+        if not text or not str(text).strip():
+            continue
+        doc_id = f"bench_{domain}_{item.get('id', len(results))}"
+        try:
+            result = run_pipeline(text, config, document_id=doc_id)
+            results.append(result)
+        except Exception:
+            results.append({})
+    return results
+
+
+def _aggregate(results: list[dict]) -> dict:
+    entropies = []
+    dominant_areas = []
+    propagation_depths = []
+    tensions = []
+    fingerprint_hashes = []
+
+    for r in results:
+        if not r:
+            continue
+        raw = (r.get("usf") or {}).get("raw_metrics") or {}
+        dyn = (r.get("usf") or {}).get("dynamism_metrics") or {}
+        prop = (r.get("layer_outputs") or {}).get("layer_7") or {}
+        if isinstance(prop, dict):
+            prop_diag = prop.get("propagation_diagnostics") or {}
+        else:
+            prop_diag = {}
+
+        if "entropy" in raw:
+            entropies.append(float(raw["entropy"]))
+        if "dominant_area" in raw:
+            dominant_areas.append(int(raw["dominant_area"]))
+        elif "dominant_area_id" in (r.get("usf") or {}):
+            dominant_areas.append(int((r["usf"])["dominant_area_id"]))
+        # propagation_depth: use num_steps or 1
+        propagation_depths.append(1)
+        if "tension" in raw:
+            tensions.append(float(raw["tension"]))
+        if "structural_tension" in dyn:
+            tensions.append(float(dyn["structural_tension"]))
+        fp = (r.get("usf") or {}).get("fingerprint")
+        if fp is not None:
+            fingerprint_hashes.append(hash(json.dumps(fp, sort_keys=True)))
+
+    # Dominant area distribution
+    dist = defaultdict(int)
+    for a in dominant_areas:
+        dist[a] += 1
+    dominant_area_distribution = dict(dist)
+
+    # Fingerprint variance: variance of hash values (as proxy for diversity)
+    if len(fingerprint_hashes) >= 2:
+        mean_h = sum(fingerprint_hashes) / len(fingerprint_hashes)
+        fingerprint_variance = sum((h - mean_h) ** 2 for h in fingerprint_hashes) / len(fingerprint_hashes)
+    else:
+        fingerprint_variance = 0.0
+
+    return {
+        "average_entropy": sum(entropies) / len(entropies) if entropies else 0.0,
+        "dominant_area_distribution": dominant_area_distribution,
+        "propagation_depth": sum(propagation_depths) / len(propagation_depths) if propagation_depths else 0,
+        "structural_tension_mean": sum(tensions) / len(tensions) if tensions else 0.0,
+        "fingerprint_variance": fingerprint_variance,
+        "n_documents": len(results),
+    }
+
+
+def main() -> int:
+    import argparse
+    ap = argparse.ArgumentParser(description="Run corpus benchmark across domains")
+    ap.add_argument("--out", type=Path, default=_HESPERIA / "assets" / "artifacts" / "benchmark_results.json")
+    ap.add_argument("--corpora-root", type=Path, default=DEFAULT_CORPORA_ROOT)
+    args = ap.parse_args()
+
+    config = {"pipeline_version": "v1", "deterministic": True, "allow_placeholder_layer10": True}
+    all_aggregates = {}
+    for domain in DOMAINS:
+        results = _run_domain(args.corpora_root, domain, config)
+        all_aggregates[domain] = _aggregate(results)
+
+    out_path = Path(args.out)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(all_aggregates, f, indent=2)
+    print("Summary report:", out_path.resolve(), file=sys.stderr)
+    for domain, agg in all_aggregates.items():
+        print(f"  {domain}: n={agg['n_documents']} entropy={agg['average_entropy']:.4f}", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

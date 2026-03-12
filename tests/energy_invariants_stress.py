@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 TASK 5 — Energy invariants stress test. Five synthetic S/L vectors; verify conservation, no negative energy,
 no energy > E_cap, shadow never increases energy, degrade flags trigger correctly.

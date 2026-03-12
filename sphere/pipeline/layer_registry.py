@@ -1,7 +1,13 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 HESPERIA central layer registry.
 Pipeline runner imports layers from here only; no hardcoded layer imports elsewhere.
-Deterministic ordering: L1 → L2 → … → L9.
+Deterministic ordering: L1 → L2 → … → L9. RAD: registry lives in sphere (sphere → core only).
 """
 
 from __future__ import annotations

@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia families — Chroma schema (Gena)
 
 **Purpose**: Schema and discovery for the hesperia families table in Chroma. **Layer**: `hesperia_families`. **Main dev**: Gena (books layer + matrix + compressed world view, loopability/traversal preset, variables). **Ref**: [TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md](TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md). **Compressed world view**: [BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md](BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md) — general description of books layer and matrix (12 areas, families preset, hexagons, loopability/traversal, variables; loopability/traversal preset and variables to be programmed by Gena; refs Hesperia docs). **Schema extension §6**: Hex unit, truth unit, traversal length, paths, borders, loops, loopability, output road traversal in coordinates (families, border passings) — defined and calculable per §6; task [TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md](TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md). **Code run (agents context)**: [TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md](TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md) — implement run on matrix returning calculable-for-model results; Gena lead.

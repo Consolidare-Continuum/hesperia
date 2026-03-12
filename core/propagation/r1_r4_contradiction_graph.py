@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # Load R1-R4 contradiction graph C (Part B.5). Ref: r1_r4_contradiction_graph_v1_0.json
 from __future__ import annotations
 

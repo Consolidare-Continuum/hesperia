@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 HESPERIA v0.4.x Layer-8 units (41_SPEC). SI_* report units from L1..L7.
 Single taxonomy: COUNT, RATIO, PERCENT, U1000, BOOLEAN. All 9 layers flow to i18n via L8→L9.

@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Run R1–R4 pipeline: segment text at R1–R4 → L1–L9 → Unit → BookProfile.
 Usage: python3 -m runtime.pipeline.run_r1_r4_pipeline [--text "..." | --file path] [--book-id id] [--out-dir dir] [--levels R1,R2,R3,R4] [--validate]

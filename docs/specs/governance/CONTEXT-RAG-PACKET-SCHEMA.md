@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Context RAG — packet JSON schema
 
 **Purpose**: Contract for the **context packet** returned by `cluster/chroma-server/context_rag.py`. Cursor and automation can rely on this shape. **Ref**: [HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md](HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md). **Core mode (areas and families only)**: [ETHAN-HESPERIA-CORE-MODE-MVP.md](ETHAN-HESPERIA-CORE-MODE-MVP.md) — no retrieval, no statements/books; outputs for logic tests.

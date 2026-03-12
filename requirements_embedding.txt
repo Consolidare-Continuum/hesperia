@@ -1,0 +1,9 @@
+# HESPERIA — Dict B embedding build (RAD: no version in filename)
+# Install: pip install -r requirements_embedding.txt
+# Model: sentence-transformers/all-mpnet-base-v2 (frozen revision in build_manifest)
+
+sentence-transformers>=2.7.0,<3
+torch>=2.0.0,<3
+numpy>=1.24.0,<2
+transformers>=4.30.0,<5
+huggingface-hub>=0.17.0,<1

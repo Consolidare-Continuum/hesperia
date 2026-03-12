@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 HESPERIA v0.5 — Deterministic 288-family dense projection engine.
 project_token(token) -> list of 288 floats. Uses frozen FAMILY_CENTROIDS_v0_5.json; embeds token only.

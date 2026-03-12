@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — Release V1 fixed point (2026-02-18)
 
 **Purpose**: Draw a line. Consolidated state as of this date; **Cursor is the main invoker of Hesperia** in the cursor repo. This is a **fixed point** in state. Backup taken; **Hesperia project starts all over from here**. **Version**: V1 fixed point. **Date**: 2026-02-18.

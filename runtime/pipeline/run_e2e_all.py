@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 E2E: run all Hesperia flows and write multiple planned outputs to assets/artifacts/e2e/.
 Flows: analyze (sentence), L1–L9, R1–R4, sphere_math_values, sphere_math_100 (limited).
@@ -179,6 +186,7 @@ def main() -> int:
     for name, path in written.items():
         print(path.resolve(), file=sys.stderr)
     print("e2e_run_ok", len(written), "outputs", file=sys.stderr)
+    print("Manifest: assets/artifacts/e2e/E2E_OUTPUTS.md", file=sys.stderr)
     return 0
 
 

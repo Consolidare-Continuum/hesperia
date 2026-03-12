@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # Historical reference (pre-refactor)
 # Freeze ownership: write assets/v040/CANONICAL_SURFACE_V040.txt from BUILD_PROVENANCE and git.
 # Run only after: (1) canonical build produced surface_map_v040.json + .sha256 + BUILD_PROVENANCE_v040.json,

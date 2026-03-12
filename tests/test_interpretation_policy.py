@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Π (Pi) interpretation policy layer tests.
 Verify STRUCTURE_ONLY, STRUCTURE_PLUS_CONTEXT, FULL_INTERPRETATION modes and L8 behavior.
@@ -87,8 +93,8 @@ def test_l8_receives_policy_and_sets_scope() -> None:
     from core.layers import build_canonical_stub_adjacency, load_defaults
     from core.policy import apply_interpretation_policy
     from core.stability import run_stability
-    from runtime.pipeline.layer_registry import LAYERS
-    from runtime.pipeline.pipeline_state import PipelineState
+    from sphere.pipeline.layer_registry import LAYERS
+    from sphere.pipeline.pipeline_state import PipelineState
 
     text = "Justice and order."
     assets = _REPO / "lexicon" / "curated"

@@ -1,7 +1,14 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Run all sphere math (L1–L9) and write one clean output file: values only, no commentary.
-Usage: python3 -m runtime.pipeline.layers.run_sphere_math_values [--out path.json] [--profile path] [--text "input"]
+Usage: python3 -m runtime.pipeline.run_sphere_math_values [--out path.json] [--profile path] [--text "input"]
 """
 
 from __future__ import annotations

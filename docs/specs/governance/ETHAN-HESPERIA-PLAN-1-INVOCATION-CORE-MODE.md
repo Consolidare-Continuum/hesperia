@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia Plan 1 — internal calibration invocation (Ethan)
 
 **Purpose**: Define **one internal invocation** that runs **all** core-mode functions and scripts on the **existing matrix**, with **no books** and **no statements**, and logs **all outputs** (every variable, every result) for **calibration** and **general sense of state**. **Owner**: Ethan. **Date**: 2026-02-18.

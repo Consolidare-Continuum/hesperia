@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # L1 Profile Taxonomy v1.0 (Canonical Set)
 
 Profiles are grouped by **structural geometry intent**, not human function. Each canonical profile is a stable envelope across four axes: Concentration vs Distribution, Altitude Band, Domain Compression, Constraint Strictness.

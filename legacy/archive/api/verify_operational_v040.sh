@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # HESPERIA Action v0.4.0 — operational verification harness
 # Usage: API_KEY=<secret> [BASE_URL=https://hesperia.prichindel.com] [BAD_HOST=...] ./verify_operational_v040.sh
 # Exits non-zero if any check fails.

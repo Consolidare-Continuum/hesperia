@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia safeguard stress-test — results (Gena)
 
 **Purpose**: Document that the loop safeguard was forced to fire; stress-test passed. Per ETHAN-HESPERIA-STATE-NOW-ASSESSMENT §VII and active.md Gena task. **Owner**: Gena. **Date**: 2026-02-18.

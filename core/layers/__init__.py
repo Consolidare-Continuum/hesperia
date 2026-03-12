@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # HESPERIA v0.4.x layer stack (L1-L9). Specs 34-42; L1 profile extension 34_SPEC N1.
 from .defaults import load_defaults
 from .layer_1 import compute_L1

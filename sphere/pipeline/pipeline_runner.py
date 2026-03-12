@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Full L1–L10 pipeline runner. Single canonical entrypoint; strict order; contract and isolation validation.
 Orchestrates core layers and sphere modules; produces USF. No layer logic here.
@@ -21,8 +27,8 @@ from core.layers import build_canonical_stub_adjacency, load_defaults
 from core.stability import run_stability
 from core.policy.interpretation_policy import apply_interpretation_policy
 
-from runtime.pipeline.layer_registry import LAYERS
-from runtime.pipeline.pipeline_state import PipelineState
+from sphere.pipeline.layer_registry import LAYERS
+from sphere.pipeline.pipeline_state import PipelineState
 
 from . import contract_validation, isolation_validation
 

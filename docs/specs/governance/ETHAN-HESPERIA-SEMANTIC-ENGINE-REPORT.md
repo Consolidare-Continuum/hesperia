@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Ethan report: Semantic engine integration in Hesperia — Chroma vs tech investigation
 
 **Task**: [TASK-ETHAN-HESPERIA-SEMANTIC-ENGINE-INTEGRATION.md](TASK-ETHAN-HESPERIA-SEMANTIC-ENGINE-INTEGRATION.md)

@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # Layer-6 Dynamism Layer: trajectory, transition matrix, curvature, jump rate, stability.
 from sphere.dynamism.dynamism_engine import compute_dynamism
 from sphere.dynamism.trajectory import build_trajectory, compress_trajectory

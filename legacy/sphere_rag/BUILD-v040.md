@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # HESPERIA v0.4.0 build (28_SPEC)
 
 Build pipeline: Dict A → anchor embeddings → Dict B → surface (roles + map). Build-time only; runtime uses frozen artifacts.

@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — Post v0.1 checkpoint: formal definitions (Ethan)
 
 **Purpose**: After observability extension v0.1 checkpoint, define **formal governance equation**, **obstacleScore composition**, **decision state machine**, or **analyze risks of premature control**. Definition and analysis only; no implementation or behaviour change until approved. **Owner**: Ethan. **Baseline**: [projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md](../projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md) (done). **Date**: 2026-02-18.

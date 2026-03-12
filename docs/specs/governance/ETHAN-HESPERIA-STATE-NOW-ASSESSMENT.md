@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Hesperia — state now: what it is, what it does, what it does not (Ethan)
 
 **Purpose**: Make sense of current Hesperia baseline; state formally what it **is** and what it **does**; add notes, strategic fork, and next-step discipline. **Owner**: Ethan. **Date**: 2026-02-18.

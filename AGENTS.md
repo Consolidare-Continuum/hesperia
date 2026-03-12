@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # AGENT GUIDELINES — HESPERIA (v0.5)
 
 This repository is in the Reference Architecture state. **Single version: v0.5** end-to-end. Version suffixes stripped from active code; versioned tools/calibration/validation moved to `legacy/deprecated/`. Agents must align all work with the current top-level layout and avoid legacy-era paths.

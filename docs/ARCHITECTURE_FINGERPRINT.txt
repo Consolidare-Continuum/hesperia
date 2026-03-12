@@ -1,0 +1,11 @@
+HESPERIA Reference Architecture Definition (RAD)
+SHA256 fingerprint (docs/HESPERIA_SYSTEM_SPEC_v1.md):
+
+fd8327997f992aa96a4f245498a69efea396253bb36e8e3f6ba2ac94f39929be
+
+Author: Platonov Igor (@igareosh)
+Website: https://igareosh.com
+Date: 2026-03-12
+
+This fingerprint proves the architecture specification document existed in this form at the stated date.
+Verify with: sha256sum docs/HESPERIA_SYSTEM_SPEC_v1.md

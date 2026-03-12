@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 LEGACY: Compatibility wrapper for L1..L9-style output.
 Canonical pipeline is sphere.pipeline.run_pipeline (see runtime/runners/run_reference_pipeline.py).
@@ -39,7 +46,7 @@ def _run_via_sphere(
         config["interpretation_policy_mode"] = policy_mode
     result = run_pipeline(text, config, document_id="legacy_wrapper")
     layer_outputs = result.get("layer_outputs", {})
-    return {
+    out = {
         "run": "L1_through_L9",
         "text_preview": text[:80],
         "L1": layer_outputs.get("layer_1", {}),
@@ -53,6 +60,22 @@ def _run_via_sphere(
         "L9": layer_outputs.get("layer_9", {}),
         "diagnostics": result.get("diagnostics", {}),
     }
+    # Persist interpretation and other non-math artifacts so e2e run includes all logic
+    if result.get("usf") is not None:
+        out["usf"] = result["usf"]
+    if result.get("interpretation_metrics") is not None:
+        out["interpretation_metrics"] = result["interpretation_metrics"]
+    if result.get("prolog_logic") is not None:
+        out["prolog_logic"] = result["prolog_logic"]
+    if result.get("guards") is not None:
+        out["guards"] = result["guards"]
+    if result.get("pipeline_metadata") is not None:
+        out["pipeline_metadata"] = result["pipeline_metadata"]
+    if result.get("shadow_metrics") is not None:
+        out["shadow_metrics"] = result["shadow_metrics"]
+    if result.get("logic_metrics") is not None:
+        out["logic_metrics"] = result["logic_metrics"]
+    return out
 
 
 def run_pipeline_for_text(
@@ -86,8 +109,8 @@ def run_pipeline_for_text(
     from core.layers import build_canonical_stub_adjacency, load_structure_profile
     from core.policy import apply_interpretation_policy
     from core.stability import run_stability
-    from .layer_registry import LAYERS
-    from .pipeline_state import PipelineState
+    from sphere.pipeline.layer_registry import LAYERS
+    from sphere.pipeline.pipeline_state import PipelineState
 
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()

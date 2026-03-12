@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Task: Ethan — address Gena developments, consolidate opinion, provide agents-oriented Hesperia path
 
 **Purpose**: **Address** Gena's developments (matrix, schema §6, compressed world view, matrix_run, families table/ingest); **consolidate opinion** (Ethan's synthesis and assessment); **provide a further path** of **agents-oriented development** of the Hesperia project that is **realistic, deployable, and addressable** as per Hesperia documentation and project foundations. **Owner**: Ethan. **Triage**: Grace. **Added**: 2026-02-17. **Status**: DONE (2026-02-17) — deliverable: [HESPERIA-AGENTS-PATH-ETHAN-REPORT.md](HESPERIA-AGENTS-PATH-ETHAN-REPORT.md).

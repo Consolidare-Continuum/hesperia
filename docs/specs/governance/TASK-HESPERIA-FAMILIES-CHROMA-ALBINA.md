@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Task: Hesperia families → Chroma operational table for Albina
 
 **Purpose**: Make sense of Hesperia family/area sources; produce an operational Chroma table (scriptable, fast access) mapping family names → concept and books; for Albina AI agent scopes enhancement. **Owner (triage)**: Grace. **Next step**: Wire table to FPF as additional pylon in Albina construction (separate task).

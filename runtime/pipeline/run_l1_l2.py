@@ -1,7 +1,15 @@
 #!/usr/bin/env python3
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 Run L1 then L2 — output logged and reportable (standard: run layer math X → output → logged → reportable).
-From CLIENTS/hesperia: python -m runtime.pipeline.run_l1_l2 [--text "input"] [--out path.json]
+Optional runner. Canonical L1–L9: python3 -m runtime.pipeline.run_l1_through_l9 or runtime.runners.run_reference_pipeline.
+Usage: python3 -m runtime.pipeline.run_l1_l2 [--text "input"] [--out path.json]
 """
 
 from __future__ import annotations

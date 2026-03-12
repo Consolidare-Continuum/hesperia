@@ -1,3 +1,11 @@
+<!--
+HESPERIA — Reference Architecture Definition (RAD)
+Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+Restricted Research Disclosure License. Inspection and reference only.
+No reproduction, redistribution, or use without explicit written permission.
+See LEGAL_NOTICE.md for full terms.
+-->
+
 # Task: Grace + Ethan — Hesperia multiple loop runs, self-analysis by traversal deviations, informatics logic integration, co-create boundaries
 
 **Purpose**: (1) **Multiple loop runs**: Run matrix/traversal in loops (vary start, direction, steps); capture per-run outputs. (2) **Self-analysis**: Analyse traversal deviations by run (compare runs, derive deviation metrics from road_coordinates, border_passings, path). (3) **Plans**: Informatica logic integration — how informatics/logic layer plugs into matrix and traversal (specs, schema, agents context). (4) **Co-create boundaries**: Define boundaries (scope, interfaces, guardrails) from the previous two — deviation-based analysis + informatics logic integration. **Owners**: Grace (triage, scope, self-task), Ethan (delivery: runs, analysis, plans, boundaries). **Added**: 2026-02-17. **Status**: DONE (2026-02-17).

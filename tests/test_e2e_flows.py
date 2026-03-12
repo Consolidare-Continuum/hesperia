@@ -1,3 +1,9 @@
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 """
 E2E flow tests: run all Hesperia entrypoints and assert output exists (no calibration).
 Covers: analyze (sentence), L1–L9, R1–R4, sphere_math_values, sphere_math_100, and unified run_e2e_all.

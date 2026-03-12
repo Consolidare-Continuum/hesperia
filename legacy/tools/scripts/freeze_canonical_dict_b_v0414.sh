@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
+
 # Historical reference (pre-refactor)
 # Freeze Dict B (B1) v0.4.1.4: write assets/v0414/CANONICAL_DICT_B_V0414.txt.
 # Run only after: (1) B1 build succeeded (frozen surface matched), (2) validation OK.
