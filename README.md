@@ -6,213 +6,113 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# Hesperia
+# HESPERIA
 
-Deterministic semantic engine: text → attribution → layers L1–L9 → reading scales R1–R4 → operational outputs. Single version **v0.5** end-to-end.
+**Deterministic semantic engine.** Text in → attribution and layered analysis → reading scales and operational outputs. Config-driven, reproducible, no learning. The repository is in **Reference Architecture Definition (RAD) freeze**: one canonical snapshot, as-is.
 
----
-
-## Version and status
-
-| Item | Value |
-|------|--------|
-| **Version** | v0.5 |
-| **Status** | Reference architecture: deterministic `core` + orchestrated `runtime`. Version suffixes stripped from active modules; legacy versioned tools live under `legacy/deprecated/`. |
-| **Active stack** | `core/`, `runtime/`, `lexicon/` |
+**Author:** Platonov Igor ([@igareosh](https://github.com/igareosh)) · <https://igareosh.com>
 
 ---
 
-## Repository layout
+## Status
 
-```text
-hesperia/
-├── core/                    # Deterministic computation
-│   ├── attribution/         # Tokenize, attribute, structural + v06 paths
-│   ├── contracts/          # Layer I/O contracts
-│   ├── layers/             # layer_1 … layer_9
-│   ├── math/               # core_math, dict_b, core_math_legacy
-│   ├── policy/             # Interpretation policy
-│   ├── propagation/        # Guard pipeline, R1–R4, output contracts
-│   ├── stability/          # Stability deltas
-│   └── topology/           # Invariant catalog, family/area
-├── runtime/
-│   ├── api/                # HTTP API (e.g. uvicorn)
-│   ├── dossier/            # HSD schema, writer, index
-│   ├── pipeline/           # analyze, run_* entrypoints, batch
-│   ├── provenance/         # Run manifest, engine provenance
-│   └── runners/            # Reference pipeline CLI
-├── lexicon/
-│   ├── curated/            # Dict A/B sources, family spec
-│   ├── frozen/             # Built/frozen dicts, v06
-│   ├── build/              # Build definitions
-│   └── validation/         # validate_lexical, etc.
-├── tools/
-│   ├── calibration/        # Calibration data (e.g. 100 sentences)
-│   ├── diagnostics/        # Checksum/operational checks
-│   └── scripts/            # Service/deploy configs
-├── assets/
-│   ├── artifacts/          # All produced outputs (e2e, layer_runs, …)
-│   ├── models/
-│   └── data/
-├── tests/                   # Pytest unit + integration + e2e
-├── docs/                    # Architecture, specs, boot
-└── legacy/                  # Archive + deprecated (not on boot path)
-```
+| | |
+| --- | --- |
+| **State** | **RAD freeze** — architecture stable, boundaries enforced |
+| **Proof** | [docs/ARCHITECTURE_FINGERPRINT.txt](docs/ARCHITECTURE_FINGERPRINT.txt) (SHA256 → commit → tag `HESPERIA_RAD_FREEZE` + OpenTimestamps) |
+| **License** | Restricted Research Disclosure — inspection and reference only. See [LEGAL_NOTICE.md](LEGAL_NOTICE.md). |
 
 ---
 
-## Elements
+## Capabilities
 
-### Core
+The engine analyzes text deterministically and produces structured outputs:
 
-- **Attribution**  
-  Normalize → tokenize → attribute (Dict A / Dict B). Structural path: `core.attribution.structural` (`load_dict_a`, `load_dict_b`, `attribute`, `run_attribution_pipeline`). Optional v06 path via `core.attribution.attribution` and shared helpers in `attribution_shared`.
+- **Attribution** — Map text to a fixed conceptual space (lexicon-driven; no training). Tokens are attributed to families and areas; the result feeds all downstream layers.
+- **Layered analysis** — A fixed pipeline (L1–L9) runs on attributed input: coverage and dominance, traversal and propagation, shadow comparison, retrieval and evidence, consistency and trust, then interpretation and branding. Each layer adds diagnostics; no learning, full reproducibility.
+- **Reading scales (R1–R4)** — Segment text by sentence, paragraph, chapter, or full document and get per-segment metrics plus an aggregate book-style profile (scale deltas, structural signature).
+- **Interpretation & fingerprint** — Structural state, tension and propagation summaries, event-style interpretation, and a Universal Structural Fingerprint (USF) for comparison or versioning. Optional logic and Prolog-style explanation outputs.
+- **Guards & contracts** — Pipeline enforces invariants and output contracts; stability checks and safeguards keep outputs within defined bounds.
 
-- **Layers 1–9**  
-  L1 (topology/tokens) → L2 (propagation) → L3 (shadow) → L4 (retrieval) → L5 (shortfall) → L6 (metrics) → L7 (decision/trust) → L8 (interpretation) → L9 (branding). Contract: `LayerInput` → layer `run()` → result + diagnostics. Registry: `sphere.pipeline.layer_registry`.
-
-- **Propagation**  
-  Guard pipeline (sigma/gamma), output contracts (6-key minimal result), R1–R4 segmenters, unit builder, ESM defaults, safeguard state machine, invariant enforcer.
-
-- **Math**  
-  `core_math`: config, analyze, fusion; `dict_b`: family-vector pipeline; `core_math_legacy`: legacy 22_SPEC reference (optional).
-
-- **Topology**  
-  Invariant catalog (families, areas, sides), forward mapping, validation.
-
-### Runtime
-
-- **Pipeline**  
-  `analyze`: single entry for “text → 6-key + extended (attribution, dict_b, optional R1–R4)”.  
-  `run_l1_through_l9`: full L1–L9 for one text; optional `--write-dossier`, `--validate-dossier`, `--profile`, `--policy-mode`.  
-  `run_e2e_all`: runs all flows and writes planned e2e artifacts.  
-  `run_e2e_sentence`, `run_r1_r4_pipeline`, `run_sphere_math_values`, `run_sphere_math_100_sentences`, `run_l1_l2`, `run_l1_l2_l3`, `batch_runner`, `reading_scales`.
-
-- **API**  
-  `uvicorn runtime.api.main:app` for HTTP (e.g. `/health`, analyze endpoint).
-
-- **Dossier**  
-  HSD schema (HSD_v1.0), writer, index, validation.
-
-### Lexicon
-
-- **curated**  
-  Dict A/B sources, family spec, optional surface map.
-- **frozen**  
-  Built dicts (e.g. B0/B1, A_CORE_STAR_MAP), v06 dir (`dict_a_v06.jsonl`, `family_prior_v06.json`).
-- **validation**  
-  `validate_lexical.py` and related; versioned validators moved to `legacy/deprecated/lexicon_validation/`.
-
-### Tools
-
-- **calibration**  
-  Data (e.g. `calibration_100_sentences.json`) used by sphere_math_100 and e2e. Versioned calibration scripts → `legacy/deprecated/tools/calibration/`.
-- **diagnostics**  
-  Checksum/operational scripts; versioned ones → `legacy/deprecated/tools/diagnostics/`.
-- **scripts**  
-  Service/config (e.g. nginx, systemd).
+All behavior is config-driven (structure profile, policy mode, propagation and guard settings). Same input and config yield the same output.
 
 ---
 
-## Outcomes and outputs
+## Use
 
-### E2E (unified run)
+- **Inspection and reference** — The repo is for study and technical evaluation. See [LEGAL_NOTICE.md](LEGAL_NOTICE.md) for allowed use and restrictions.
+- **Running pipelines** — Pass raw text (or a file) into the E2E flow or L1–L9 pipeline; artifacts are written to `assets/artifacts/` (e2e, layer runs, etc.). Use `--out` or `--out-dir` to choose paths.
+- **API** — Run the HTTP server for health checks or to call the analyze endpoint (e.g. from another service). Responses are JSON.
+- **Calibration and benchmarks** — Use the bundled calibration data and corpus/benchmark runners to reproduce runs or compare behavior; outputs are JSON/JSONL.
+- **Validation** — Lexical validation (Dict A/B, family spec) and optional dossier validation ensure inputs and outputs match the expected schema.
 
-One command produces all planned e2e artifacts under `assets/artifacts/e2e/`:
+For implementation, reproduction, or derivative use, explicit written permission from the author is required.
+
+---
+
+## What's in the repo
+
+- **core/** — Deterministic computation (layers, attribution, contracts, policy, propagation).
+- **runtime/** — Pipelines, API server, dossier, provenance.
+- **lexicon/** — Dictionary systems (Dict A/B), build, validation.
+- **tools/** — Calibration data, diagnostics, scripts.
+- **assets/** — Artifacts (e2e outputs, layer runs, etc.).
+- **tests/** — Pytest unit, integration, and e2e.
+- **docs/** — Specs, architecture, governance.
+- **legacy/** — Archive only; not part of the active stack.
+
+---
+
+## Run it
+
+**Full E2E (all flows, 5 artifacts):**
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all
 ```
 
-Optional: `--out-dir PATH`, `--text "..."`.
+Outputs under `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."`.
 
-| Output file | Flow | Description |
-|-------------|------|-------------|
-| `run_output_e2e_sentence.json` | analyze | 6-key result + attribution + dict_b + R1–R4 units & book_profile |
-| `run_output_e2e_l1_l9.json` | L1–L9 | Full layer stack (L1…L9 + diagnostics) for one text |
-| `run_output_e2e_r1_r4.json` | R1–R4 | Units + book_profile (scale deltas, structural signature) |
-| `run_output_e2e_sphere_math_values.json` | Sphere math | L1–L9 values for single text (no commentary) |
-| `run_output_e2e_sphere_math_100.json` | Sphere math 100 | L1–L9 for first N calibration sentences |
+**L1–L9 pipeline (single run):**
 
-No calibration of result values; outputs assert existence and shape only.
+```bash
+python3 -m runtime.pipeline.run_l1_through_l9 --out /path/out.json
+```
 
-### Other pipeline outputs
+**API server:**
 
-- **L1–L9 only**  
-  `python3 -m runtime.pipeline.run_l1_through_l9 --out /path/out.json`  
-  Writes JSON with `L1`…`L9`, `diagnostics`, `run`; optional dossier write/validate.
+```bash
+python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
+```
 
-- **Single-sentence analyze**  
-  `python3 -m runtime.pipeline.run_e2e_sentence [--text "…"] [--out path.json]`  
-  Same as e2e sentence flow; default out: `assets/artifacts/e2e/run_output_e2e_sentence.json`.
+**Tests:**
 
-- **R1–R4 only**  
-  `python3 -m runtime.pipeline.run_r1_r4_pipeline [--text "…" \| --file path] [--out-dir dir] [--levels R1,R2,R3,R4]`  
-  Writes `units.json`, `book_profile.json` (and optional JSONL) under `--out-dir`.
-
-- **Sphere math**  
-  `run_sphere_math_values.py` → one JSON (L1–L9 values).  
-  `run_sphere_math_100_sentences.py` → JSON for N sentences (`--sentences`, `--limit`).
-
-- **Artifacts layout**  
-  All generated outputs under `assets/artifacts/`: `e2e/`, `layer_runs/`, `calibration/`, `lex/` (see `assets/artifacts/README.md`).
+```bash
+python3 -m pytest tests/ -q
+# E2E flows only:
+python3 -m pytest tests/test_e2e_flows.py -v
+```
 
 ---
 
-## Commands (quick reference)
+## Quick reference
 
 | Action | Command |
-|--------|---------|
-| E2E (all flows, 5 outputs) | `python3 -m runtime.pipeline.run_e2e_all` |
-| L1–L9 pipeline | `python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]` |
-| Analyze (library) | `from runtime.pipeline.analyze import analyze` |
-| API server | `python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000` |
-| Full test suite | `python3 -m pytest tests/ -q` |
-| E2E tests only | `python3 -m pytest tests/test_e2e_flows.py -v` |
-| Lexical validation | `python3 lexicon/validation/validate_lexical.py` |
+| --- | --- |
+| E2E (all) | `python3 -m runtime.pipeline.run_e2e_all` |
+| L1–L9 | `python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]` |
+| API | `python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000` |
+| Tests | `python3 -m pytest tests/ -q` |
 
 ---
 
-## Tests
+## Further reading
 
-- **Location**  
-  `tests/`: unit, integration, e2e (e.g. pipeline execution, attribution, guard pipeline, invariant, adversarial, dossier, batch, e2e flows).
-
-- **E2E flows**  
-  `tests/test_e2e_flows.py`: one test per flow (analyze sentence, L1–L9, R1–R4, sphere_math_values, sphere_math_100) plus one that runs `run_e2e_all` and checks all planned artifacts exist.
-
-- **Run**  
-  `python3 -m pytest tests/ -v` (optionally `--ignore=tests/energy_invariants_stress.py`).
+- **Evidence chain & timestamp** — [docs/ARCHITECTURE_FINGERPRINT.txt](docs/ARCHITECTURE_FINGERPRINT.txt)
+- **Legal terms** — [LEGAL_NOTICE.md](LEGAL_NOTICE.md)
+- **Architecture & specs** — [docs/](docs/) (system spec, boundaries, topology invariants, layer order, USF schema)
+- **Agent/contributor rules** — [AGENTS.md](AGENTS.md)
 
 ---
 
-## Governance and docs
-
-- **Agent rules**  
-  `AGENTS.md`: layout, v0.5, no legacy paths in active work, path/command hygiene.
-
-- **Architecture**  
-  `docs/architecture/` (e.g. ENGINE_BOUNDARIES.md, SYSTEM_OVERVIEW.md).
-
-- **Specs / boot**  
-  `docs/specs/`, `docs/boot/`.
-
-- **Legacy**  
-  `legacy/`: archive and deprecated (versioned calibration, validation, build scripts). Do not modify unless doing explicit archival work.
-
----
-
-## Data flow (high level)
-
-```text
-lexicon (curated/frozen) ──► core/attribution (structural or v06)
-                                    │
-                                    ▼
-core/layers L1→…→L9  ◄── contracts, topology, math, propagation
-                                    │
-                                    ▼
-runtime/pipeline (analyze, run_*, batch) ──► artifacts (e2e, layer_runs, …)
-                                    │
-                                    ▼
-runtime/api (optional) ──► HTTP responses
-```
+HESPERIA RAD · © 2026 Platonov Igor / igareosh.com · Restricted Research Disclosure
