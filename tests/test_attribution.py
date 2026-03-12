@@ -1,5 +1,5 @@
 """
-HESPERIA v0.3.3 — attribution and pipeline tests.
+HESPERIA — attribution and pipeline tests (structural path).
 Uses stub dicts when assets not present. Deterministic.
 """
 
@@ -10,22 +10,22 @@ import tempfile
 from pathlib import Path
 
 try:
-    from core.attribution.attribution_v033 import (
+    from core.attribution.structural import (
         normalize,
         tokenize,
-        load_dict_a_v033,
-        load_dict_b_v033,
+        load_dict_a,
+        load_dict_b,
         attribute,
         aggregate_dominant,
         build_region_seed,
         run_attribution_pipeline,
     )
 except ImportError:
-    from attribution_v033 import (
+    from structural import (
         normalize,
         tokenize,
-        load_dict_a_v033,
-        load_dict_b_v033,
+        load_dict_a,
+        load_dict_b,
         attribute,
         aggregate_dominant,
         build_region_seed,
@@ -114,11 +114,11 @@ def test_legacy_dict_a_multi_side_same_family_stable():
             encoding="utf-8",
         )
         (root / "B_SURFACE_LEX_FIELD_v1.json").write_text("{}", encoding="utf-8")
-        dict_a = load_dict_a_v033(assets_root=root)
+        dict_a = load_dict_a(assets_root=root)
         assert "alpha" in dict_a
         assert dict_a["alpha"]["familyGlobal"] == 0
         # Deterministic: repeated load same
-        dict_a2 = load_dict_a_v033(assets_root=root)
+        dict_a2 = load_dict_a(assets_root=root)
         assert dict_a2["alpha"]["familyGlobal"] == dict_a["alpha"]["familyGlobal"]
         assert dict_a2["alpha"]["altitude"] == dict_a["alpha"]["altitude"]
 
@@ -138,7 +138,7 @@ def test_legacy_dict_a_multi_side_across_families_first_entry_wins():
             encoding="utf-8",
         )
         (root / "B_SURFACE_LEX_FIELD_v1.json").write_text("{}", encoding="utf-8")
-        dict_a = load_dict_a_v033(assets_root=root)
+        dict_a = load_dict_a(assets_root=root)
         assert "beta" in dict_a
         assert dict_a["beta"]["familyGlobal"] == 0
         # Explicit rule: first entry wins
@@ -151,7 +151,7 @@ def test_legacy_dict_a_multi_side_across_families_first_entry_wins():
             }),
             encoding="utf-8",
         )
-        dict_a = load_dict_a_v033(assets_root=root)
+        dict_a = load_dict_a(assets_root=root)
         assert dict_a["gamma"]["familyGlobal"] == 1
 
 
@@ -181,10 +181,10 @@ def test_sigma_required_for_valid_minimal():
     """Prove minimal 6-key result is only valid when result passed through Sigma."""
     try:
         from core.propagation.invariant_enforcer import enforce as sigma_enforce
-        from core.propagation.output_contracts_v032 import to_minimal_operational_result
+        from core.propagation.output_contracts import to_minimal_operational_result
     except ImportError:
         from invariant_enforcer import enforce as sigma_enforce
-        from output_contracts_v032 import to_minimal_operational_result
+        from output_contracts import to_minimal_operational_result
     raw_out_of_domain = {
         "governance": 1.5,
         "loopability": -0.1,

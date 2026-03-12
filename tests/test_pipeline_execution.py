@@ -13,10 +13,10 @@ _REPO = Path(__file__).resolve().parents[1]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
-from core.attribution.attribution_v033 import (
+from core.attribution.structural import (
     attribute,
-    load_dict_a_v033,
-    load_dict_b_v033,
+    load_dict_a,
+    load_dict_b,
     normalize,
     tokenize,
 )
@@ -32,8 +32,8 @@ def test_pipeline_execution_all_nine_layers() -> None:
     """Run pipeline on a short sample sentence; verify all 9 layers executed and state contains 9 layer outputs."""
     text = "justice lie fairness truth good order harm freedom"
     assets = _REPO / "lexicon" / "curated"
-    dict_a = load_dict_a_v033(assets_root=assets) or {}
-    dict_b = load_dict_b_v033()
+    dict_a = load_dict_a(assets_root=assets) or {}
+    dict_b = load_dict_b()
     defaults = load_defaults()
     F = int(defaults.get("F", 288))
     A = int(defaults.get("A", 12))
@@ -93,8 +93,8 @@ def test_pipeline_l7_l9_reportable_keys() -> None:
     """After full run, L7 and L9 contain expected reportable keys."""
     text = "justice fairness order"
     assets = _REPO / "lexicon" / "curated"
-    dict_a = load_dict_a_v033(assets_root=assets) or {}
-    dict_b = load_dict_b_v033()
+    dict_a = load_dict_a(assets_root=assets) or {}
+    dict_b = load_dict_b()
     defaults = load_defaults()
     F = int(defaults.get("F", 288))
     A = int(defaults.get("A", 12))

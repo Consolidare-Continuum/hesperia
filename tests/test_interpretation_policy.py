@@ -76,10 +76,10 @@ def test_policy_structure() -> None:
 
 def test_l8_receives_policy_and_sets_scope() -> None:
     """Pipeline run: policy applied before L8, L8 result contains POLICY_MODE and INTERPRETATION_SCOPE."""
-    from core.attribution.attribution_v033 import (
+    from core.attribution.structural import (
         attribute,
-        load_dict_a_v033,
-        load_dict_b_v033,
+        load_dict_a,
+        load_dict_b,
         normalize,
         tokenize,
     )
@@ -92,8 +92,8 @@ def test_l8_receives_policy_and_sets_scope() -> None:
 
     text = "Justice and order."
     assets = _REPO / "lexicon" / "curated"
-    dict_a = load_dict_a_v033(assets_root=assets) or {}
-    dict_b = load_dict_b_v033()
+    dict_a = load_dict_a(assets_root=assets) or {}
+    dict_b = load_dict_b()
     defaults = load_defaults()
     F = int(defaults.get("F", 288))
     A = int(defaults.get("A", 12))

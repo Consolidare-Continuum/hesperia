@@ -18,11 +18,11 @@ from core.attribution.attribution_shared import (
     normalize,
     tokenize,
 )
-from core.attribution.attribution_v033 import (
-    load_dict_a_v033,
-    load_dict_b_v033,
+from core.attribution.structural import (
+    load_dict_a,
+    load_dict_b,
+    attribute as _attribute_structural,
 )
-from core.attribution.attribution_v033 import attribute as _attribute_v033
 from core.attribution.attribution_shared import attribute as attribute_with_surface
 from core.layers import (
     build_canonical_stub_adjacency,
@@ -78,7 +78,7 @@ def _run_layers_for_tokens(
     if surface_map:
         matched, _ = attribute_with_surface(tokens, dict_a, dict_b, surface_map=surface_map)
     else:
-        matched, _ = _attribute_v033(tokens, dict_a, dict_b)
+        matched, _ = _attribute_structural(tokens, dict_a, dict_b)
     L1 = compute_L1(token_count, matched, F=F, A=A, eps=eps)
     hits = [0] * F
     for fg, _ in matched:
@@ -123,7 +123,7 @@ def _run_layers_for_text(
     if surface_map:
         matched, _ = attribute_with_surface(tokens, dict_a, dict_b, surface_map=surface_map)
     else:
-        matched, _ = _attribute_v033(tokens, dict_a, dict_b)
+        matched, _ = _attribute_structural(tokens, dict_a, dict_b)
     L1 = compute_L1(token_count, matched, F=F, A=A, eps=eps)
     hits = [0] * F
     for fg, _ in matched:
@@ -295,8 +295,8 @@ def run_full_pipeline(
     if v06_path and v06_path.exists():
         dict_a = dict_a or load_dict_a_v06(assets) or {}
     else:
-        dict_a = dict_a or load_dict_a_v033(assets_root=assets) or {}
-    dict_b = dict_b or load_dict_b_v033(assets_root=assets) or {}
+        dict_a = dict_a or load_dict_a(assets_root=assets) or {}
+    dict_b = dict_b or load_dict_b(assets_root=assets) or {}
     surface_map = load_dict_a_surface_map_v033(assets_root=assets) or None
     defaults = load_defaults()
     F = int(defaults.get("F", 288))
@@ -399,8 +399,8 @@ def run_r1_pipeline(
     _here = Path(__file__).resolve().parent
     root = _here.parents[1]
     assets = assets_root or root / "lexicon" / "curated"
-    dict_a = dict_a or load_dict_a_v033(assets_root=assets) or {}
-    dict_b = dict_b or load_dict_b_v033(assets_root=assets) or {}
+    dict_a = dict_a or load_dict_a(assets_root=assets) or {}
+    dict_b = dict_b or load_dict_b(assets_root=assets) or {}
     surface_map = load_dict_a_surface_map_v033(assets_root=assets) or None
     defaults = load_defaults()
     F = int(defaults.get("F", 288))

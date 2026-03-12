@@ -99,10 +99,10 @@ def test_stability_output_structure() -> None:
 
 def test_stability_passed_to_l7() -> None:
     """Full pipeline run: Δ stability runs after L6, stored in diagnostics and L7 can demote tag."""
-    from core.attribution.attribution_v033 import (
+    from core.attribution.structural import (
         attribute,
-        load_dict_a_v033,
-        load_dict_b_v033,
+        load_dict_a,
+        load_dict_b,
         normalize,
         tokenize,
     )
@@ -114,8 +114,8 @@ def test_stability_passed_to_l7() -> None:
 
     text = "justice fairness order"
     assets = _REPO / "lexicon" / "curated"
-    dict_a = load_dict_a_v033(assets_root=assets) or {}
-    dict_b = load_dict_b_v033()
+    dict_a = load_dict_a(assets_root=assets) or {}
+    dict_b = load_dict_b()
     defaults = load_defaults()
     F = int(defaults.get("F", 288))
     A = int(defaults.get("A", 12))

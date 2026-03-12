@@ -23,7 +23,7 @@ else:
 
 sys.path.insert(0, str(_HESPERIA_ROOT))
 
-from core.math.hesperia_v03_core_math import (
+from core.math.core_math_legacy import (
     load_config,
     validate_config,
     fusion,
@@ -45,7 +45,7 @@ from core.math.hesperia_v03_core_math import (
 )
 
 try:
-    from core.math.hesperia_v03_core_math import HAS_NUMPY
+    from core.math.core_math_legacy import HAS_NUMPY
 except Exception:
     HAS_NUMPY = False
 

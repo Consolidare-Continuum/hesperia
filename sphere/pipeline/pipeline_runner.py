@@ -9,10 +9,10 @@ import hashlib
 from pathlib import Path
 from typing import Any
 
-from core.attribution.attribution_v033 import (
+from core.attribution.structural import (
     attribute,
-    load_dict_a_v033,
-    load_dict_b_v033,
+    load_dict_a,
+    load_dict_b,
     normalize,
     tokenize,
 )
@@ -69,8 +69,8 @@ def run_pipeline(
     D = int(defaults.get("MAX_ALLOWED_DEPTH", 8))
 
     # Attribution
-    dict_a = load_dict_a_v033(assets_root=assets_root) or {}
-    dict_b = load_dict_b_v033() or {}
+    dict_a = load_dict_a(assets_root=assets_root) or {}
+    dict_b = load_dict_b() or {}
     tokens = tokenize(normalize(raw_text))
     matched, _ = attribute(tokens, dict_a, dict_b)
     hits = [0] * F

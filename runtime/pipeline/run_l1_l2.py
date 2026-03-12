@@ -17,10 +17,10 @@ _HESPERIA = _HERE.parents[1]
 if str(_HESPERIA) not in sys.path:
     sys.path.insert(0, str(_HESPERIA))
 
-from core.attribution.attribution_v033 import (
+from core.attribution.structural import (
     attribute,
-    load_dict_a_v033,
-    load_dict_b_v033,
+    load_dict_a,
+    load_dict_b,
     normalize,
     tokenize,
 )
@@ -41,8 +41,8 @@ def main() -> None:
     out_path = args.out or args.write
 
     assets = _HESPERIA / "lexicon" / "curated"
-    dict_a = load_dict_a_v033(assets_root=assets)
-    dict_b = load_dict_b_v033()
+    dict_a = load_dict_a(assets_root=assets)
+    dict_b = load_dict_b()
     if not dict_a:
         dict_a = {}
 

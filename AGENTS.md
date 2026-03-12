@@ -1,6 +1,6 @@
-# AGENT GUIDELINES — HESPERIA (Post-Refactor)
+# AGENT GUIDELINES — HESPERIA (v0.5)
 
-This repository is in the Reference Architecture state. Agents must align all work with the current top-level layout and avoid legacy-era paths.
+This repository is in the Reference Architecture state. **Single version: v0.5** end-to-end. Version suffixes stripped from active code; versioned tools/calibration/validation moved to `legacy/deprecated/`. Agents must align all work with the current top-level layout and avoid legacy-era paths.
 
 ## Canonical Top-Level Structure
 
