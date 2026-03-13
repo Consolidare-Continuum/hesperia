@@ -119,3 +119,25 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert len(content) > 0
             if path.suffix == ".json":
                 json.loads(content)
+
+
+def test_e2e_domain_metrics_stage_in_pipeline() -> None:
+    """Main pipeline with enable_domain_metrics returns domain_metrics (41 signals, hash)."""
+    from sphere.pipeline.pipeline_runner import run_pipeline
+
+    config = {
+        "pipeline_version": "v1",
+        "deterministic": True,
+        "enable_domain_metrics": True,
+    }
+    result = run_pipeline("Justice and fairness support order.", config, document_id="e2e_metrics")
+    assert "domain_metrics" in result
+    dm = result["domain_metrics"]
+    assert dm.get("sourceId") == "e2e_metrics"
+    assert "_error" not in dm, f"domain_metrics stage failed: {dm.get('_error')}"
+    assert len(dm.get("primitives", {})) == 6
+    assert len(dm.get("derived", {})) == 35
+    fp = dm.get("fingerprint", {})
+    assert len(fp.get("metricValues", [])) == 41
+    assert fp.get("vectorHash")
+    assert fp.get("fingerprintVersion") == "hesperia_fp_v0_1"

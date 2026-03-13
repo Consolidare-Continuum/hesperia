@@ -442,4 +442,58 @@ def run_pipeline(
             "theta": {"approved": False, "status": "quarantined", "violations": [], "warnings": [], "governance_flags": ["NON_CANONICAL_OUTPUT"]},
         }
 
+    # Domain metrics stage: primitives → derived → fingerprint (41 signals). Runs when enable_domain_metrics.
+    if config.get("enable_domain_metrics"):
+        try:
+            _inject_domain_metrics(result, document_id=document_id, matched=matched, F=F, config=config)
+        except Exception as e:
+            result["domain_metrics"] = {
+                "_error": str(e),
+                "sourceId": document_id,
+                "primitives": {},
+                "derived": {},
+                "fingerprint": {"fingerprintVersion": "", "vectorHash": "", "vectorSize": 41},
+            }
+
     return result
+
+
+def _inject_domain_metrics(
+    result: dict[str, Any],
+    *,
+    document_id: str,
+    matched: list[tuple[int, str]],
+    F: int,
+    config: dict[str, Any],
+) -> None:
+    """Compute domain metrics from pipeline state and set result['domain_metrics']."""
+    from pathlib import Path
+
+    from core.domain.bridge import pipeline_matched_to_hits_relations, synthetic_domain_graph_for_topology
+    from core.domain.loader import load_frozen_constants
+    from core.domain.pipeline import metric_report_to_dict, run_document
+
+    domain_constants_path = config.get("domain_constants_path")
+    if domain_constants_path and Path(domain_constants_path).exists():
+        constants = load_frozen_constants(domain_constants_path)
+    else:
+        from core.domain.models import DomainConstants
+        constants = DomainConstants(
+            domain_node_count=max(1, F),
+            domain_degree_p95=1.0,
+            domain_distance_p95=1.0,
+        )
+
+    domain_graph = synthetic_domain_graph_for_topology(num_families=F)
+    hits, relations = pipeline_matched_to_hits_relations(matched, num_families=F)
+    domain_release = config.get("domain_release", "")
+
+    report = run_document(
+        domain_graph,
+        constants,
+        document_id,
+        hits,
+        relations,
+        domain_release=domain_release,
+    )
+    result["domain_metrics"] = metric_report_to_dict(report)

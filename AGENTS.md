@@ -15,6 +15,7 @@ This repository is in the Reference Architecture state. **Single version: v0.5**
 Active repository structure:
 
 - `core/`
+- `hesperia/` (engine: `hesperia.engine.kme` — Knowledge Metrics Engine)
 - `runtime/`
 - `lexicon/`
 - `tools/`
@@ -60,6 +61,13 @@ Do not use or reintroduce old roots such as `sphere_rag/`, `hesperia_lex/`, `scr
 - `legacy/`
   - Archived historical code and references.
   - Not part of the active execution stack.
+
+## Knowledge Metrics Engine (KME)
+
+- **Short identifier:** KME. **Module path:** `hesperia.engine.kme`.
+- **Purpose:** Deterministic structural knowledge metrics and fingerprints (6 primitives, 35 derived, 41-value fingerprint, domain profile). Integrated into main E2E pipeline.
+- **Structure:** `hesperia/engine/kme/` with subpackages `primitives/`, `derived/`, `fingerprint/`, `profiling/`, `validation/`; plus `models`, `extractor`, `loader`, `active_graph`, `bridge`, `pipeline`.
+- **Legacy entry point:** `core.domain` re-exports from `hesperia.engine.kme`. Prefer `from hesperia.engine.kme import ...` for new code.
 
 ## Active Execution Stack
 
