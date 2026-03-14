@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "git_commit": "5f64eef60f7bbff8ff465121dfcd44fe2a02a12e",
+  "build_timestamp": "2026-03-14T18:55:12Z",
+  "included_artifacts": [
+    "dist/hesperia-cli/",
+    "dist/hesperia-cli.bin",
+    "release/hesperia-api-image.tar"
+  ],
+  "checksums_file": "release/checksums.txt",
+  "entry_points": ["analyze", "compare", "batch-analyze", "serve", "health"]
+}
