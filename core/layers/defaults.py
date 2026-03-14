@@ -13,9 +13,7 @@ from typing import Any
 def load_defaults(path: Path | None = None) -> dict[str, Any]:
     if path is None:
         here = Path(__file__).resolve().parent
-        # JSON in repo root (CLIENTS/hesperia)
-        p = here.parents[2] / "layer_1_9_predefined_defaults_v1_0.json"
-        path = p if p.exists() else here.parent / "layer_1_9_predefined_defaults_v1_0.json"
+        path = here / "layer_1_9_predefined_defaults_v1_0.json"
     if not path or not Path(path).exists():
         return _fallback_defaults()
     with open(path, encoding="utf-8") as f:

@@ -11,7 +11,7 @@ Implements: fusion (Dict A + Dict B → E0), centroid selection, base traversal 
 shadow step (skeleton), penalties (ambiguity, thin-core, dispersion, guard, shadow),
 metrics (governance, loopability, tension_energy, obstacle_score), invariant checks.
 No full side graph; uses small row-stochastic W for demo.
-Config: guard_config_v1.json (same directory or parent).
+Config: assets/config/guard_config_v1.json (fallback: repo root).
 """
 
 from __future__ import annotations
@@ -60,7 +60,9 @@ DEFAULT_CONFIG = {
 def load_config(path: Path | None = None) -> dict[str, Any]:
     if path is None:
         base = Path(__file__).resolve().parents[2]
-        path = base / "guard_config_v1.json"
+        path = base / "assets" / "config" / "guard_config_v1.json"
+        if not path.exists():
+            path = base / "guard_config_v1.json"  # legacy root fallback
     if not path.exists():
         return dict(DEFAULT_CONFIG)
     with open(path, encoding="utf-8") as f:

@@ -167,7 +167,7 @@ def main() -> int:
 
     # Freeze record (cryptographic): SHA256 of A, B, guard_config; source refs; repo commit
     hesperia_root = LEX_ROOT.parent
-    guard_path = hesperia_root / "guard_config_v1.json"
+    guard_path = hesperia_root / "assets" / "config" / "guard_config_v1.json"
     repo_commit = None
     try:
         import subprocess

@@ -29,7 +29,7 @@ from core.math.core_math_legacy import (
 )
 
 def main() -> int:
-    cfg = load_config(ROOT / "guard_config_v1.json")
+    cfg = load_config(ROOT / "assets" / "config" / "guard_config_v1.json")
     n = 72
     W = make_demo_W(n)
     E_cap = cfg["E_cap"]
