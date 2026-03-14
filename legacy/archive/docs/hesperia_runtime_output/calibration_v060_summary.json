@@ -1,8 +1,0 @@
-{
-  "n_sentences": 100,
-  "n_ok": 100,
-  "n_error": 0,
-  "errors": [],
-  "attribution_mode": "v060",
-  "run_jsonl": "/data/workspaces/cursor/CLIENTS/hesperia/docs/hesperia_runtime_output/calibration_v060_run.jsonl"
-}

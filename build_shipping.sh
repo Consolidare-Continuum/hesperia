@@ -108,6 +108,9 @@ EOF
 
 target="${1:-all}"
 case "$target" in
+  manifest)
+    write_manifest
+    ;;
   cli)
     run_checks
     build_cli
