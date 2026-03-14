@@ -44,12 +44,15 @@ def write_dossier_json(dossier: Dict[str, Any], output_path: Path | str) -> str:
     """
     Write dossier to path with canonical JSON, dossier_checksum, and meta.dossier_id.
     Checksum is computed over payload without checksum and without meta.dossier_id.
+    Public projection is applied so no internal structure leaks.
     Returns dossier_id (first 12 chars of checksum).
     """
+    from core.projection import apply_public_projection
+
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    payload = dict(dossier)
+    payload = apply_public_projection(dict(dossier))
     payload[SCHEMA_VERSION_KEY] = SCHEMA_VERSION
     payload[CHECKSUM_KEY] = ""
     if "meta" not in payload:

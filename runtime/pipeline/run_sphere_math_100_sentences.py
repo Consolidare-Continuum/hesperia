@@ -1,17 +1,11 @@
 #!/usr/bin/env python3
-
-# HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
-# Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
-# See LEGAL_NOTICE.md for full terms.
+# HESPERIA — Thin wrapper over analysis service. No direct layer import.
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Run sphere math (L1–L9) on each of the 100 calibration sentences; write one JSON file with all outputs.
+Public entry point: structural analysis on multiple texts; write one JSON. Delegates to core.services.analysis_service only.
 Usage: python3 -m runtime.pipeline.run_sphere_math_100_sentences [--out path.json] [--sentences path.json] [--limit N]
-  --limit N: process only first N sentences (for safe small output; do not attach full 100-sentence file as agent context).
 """
-
 from __future__ import annotations
 
 import json
@@ -23,124 +17,38 @@ _HESPERIA = _HERE.parents[1]
 if str(_HESPERIA) not in sys.path:
     sys.path.insert(0, str(_HESPERIA))
 
-from core.attribution.structural import (
-    attribute,
-    load_dict_a,
-    load_dict_b,
-    normalize,
-    tokenize,
-)
-from core.layers import (
-    build_canonical_stub_adjacency,
-    compute_L1,
-    compute_L2,
-    compute_L3,
-    compute_L4,
-    compute_L5,
-    compute_L6,
-    compute_L7,
-    compute_L8,
-    compute_L9,
-    load_defaults,
-)
 
-
-def _round_floats(obj, ndigits=6):
-    if isinstance(obj, float):
-        return round(obj, ndigits)
-    if isinstance(obj, dict):
-        return {k: _round_floats(v, ndigits) for k, v in obj.items()}
-    if isinstance(obj, list):
-        return [_round_floats(x, ndigits) for x in obj]
-    return obj
-
-
-def run_one(text: str, dict_a: dict, dict_b: dict, defaults: dict, F: int, A: int, eps: float, D: int):
-    tokens = tokenize(normalize(text))
-    matched, _ = attribute(tokens, dict_a, dict_b)
-    L1 = compute_L1(len(tokens), matched, F=F, A=A, eps=eps)
-    hits = [0] * F
-    for fg, _ in matched:
-        if 0 <= fg < F:
-            hits[fg] += 1
-    adj = build_canonical_stub_adjacency(F, A)
-    L2 = compute_L2(L1, hits, adjacency=adj, F=F, A=A, MAX_ALLOWED_DEPTH=D, eps=eps)
-    visited_B = set(L2.get("VISITED_IDS", []))
-    L1_S, L2_S, hits_S = L1, L2, hits[:]
-    L3 = compute_L3(L1, L2, hits, L1_S, L2_S, hits_S, F=F, A=A, eps=1e-12, **{
-        k: defaults.get(k) for k in ("SHADOW_MAX_DEVIATION", "SHADOW_MAX_CROSS_AREA_DELTA", "SHADOW_ALLOW_AREA_FLIP", "TOP_K") if k in defaults
-    })
-    R_B, R_S = [], []
-    L4 = compute_L4(L1, L1_S, hits, hits_S, R_B, R_S, F=F, A=A, **{
-        k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults
-    })
-    L5 = compute_L5(L1, L4, R_B, [], F=F, A=A, TOP_K=defaults.get("TOP_K", 20), MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2), MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50))
-    L6 = compute_L6(L1, L2, F=F)
-    L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{
-        k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults
-    })
-    L8 = compute_L8(L1, L2, L3, L4, L5, L6, L7)
-    L9 = compute_L9(L3, L4, L7, L8, MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2))
-    return {
-        "L1": _round_floats(L1),
-        "L2": _round_floats(L2),
-        "L3": _round_floats(L3),
-        "L4": _round_floats(L4),
-        "L5": _round_floats(L5),
-        "L6": _round_floats(L6),
-        "L7": _round_floats(L7),
-        "L8": _round_floats(L8),
-        "L9": _round_floats(L9),
-    }
-
-
-def main():
+def main() -> None:
     import argparse
-    ap = argparse.ArgumentParser(description="Run sphere math on 100 calibration sentences, one .txt output.")
+    from core.services.analysis_service import run_structural_analysis_batch
+    from runtime.artifact_writer import write_public_json
+
+    ap = argparse.ArgumentParser(description="Run structural analysis on calibration sentences.")
     ap.add_argument("--out", type=Path, default=_HESPERIA / "sphere_math_100_sentences.txt")
     ap.add_argument("--sentences", type=Path, default=_HESPERIA / "tools" / "calibration" / "data" / "calibration_100_sentences.json")
-    ap.add_argument("--limit", type=int, default=None, help="Process only first N sentences (safe for agent context)")
+    ap.add_argument("--limit", type=int, default=None)
     args = ap.parse_args()
 
-    sentences_path = Path(args.sentences)
-    if not sentences_path.exists():
-        print(f"Sentences file not found: {sentences_path}", file=sys.stderr)
+    if not args.sentences.exists():
+        print(f"Sentences file not found: {args.sentences}", file=sys.stderr)
         sys.exit(1)
-
-    with open(sentences_path, encoding="utf-8") as f:
+    with open(args.sentences, encoding="utf-8") as f:
         sentences = json.load(f)
     if args.limit is not None:
         sentences = sentences[: args.limit]
-
-    assets = _HESPERIA / "lexicon" / "curated"
-    dict_a = load_dict_a(assets_root=assets) or {}
-    dict_b = load_dict_b()
-    defaults = load_defaults()
-    F = int(defaults.get("F", 288))
-    A = int(defaults.get("A", 12))
-    eps = float(defaults.get("eps", 1e-9))
-    D = int(defaults.get("MAX_ALLOWED_DEPTH", 8))
-
-    results = []
-    for s in sentences:
-        sid = s.get("id", len(results) + 1)
-        domain = s.get("domain", "")
-        text = s.get("text", "")
-        layers = run_one(text, dict_a, dict_b, defaults, F, A, eps, D)
-        tokens = tokenize(normalize(text))
-        results.append({
-            "id": sid,
-            "domain": domain,
-            "text_preview": text[:80],
-            "token_count": len(tokens),
-            **layers,
+    texts = [s.get("text", "") for s in sentences]
+    results = run_structural_analysis_batch(texts, assets_root=_HESPERIA / "lexicon" / "curated")
+    out_list = []
+    for i, (s, res) in enumerate(zip(sentences, results)):
+        out_list.append({
+            "id": s.get("id", i + 1),
+            "domain": s.get("domain", ""),
+            "text_preview": (s.get("text", ""))[:80],
+            **res,
         })
-
-    out_path = Path(args.out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(results, indent=2), encoding="utf-8")
+    write_public_json(args.out, out_list)
     if sys.stdout.isatty():
-        print(out_path.resolve(), file=sys.stderr)
+        print(Path(args.out).resolve(), file=sys.stderr)
 
 
 if __name__ == "__main__":

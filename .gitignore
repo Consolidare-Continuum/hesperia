@@ -10,6 +10,11 @@ __pycache__/
 .eggs/
 dist/
 build/
+release/*.tar
+release/*.tar.gz
+release/*.bin
+*.log
+*.tmp
 
 # Env and secrets (deliverables repo = no internals)
 .env

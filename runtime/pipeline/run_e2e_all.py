@@ -70,6 +70,8 @@ def run_e2e_sentence(out_path: Path, text: str) -> None:
             "_truncated": True,
         }
     out = _round_floats(out)
+    from core.projection import apply_public_projection
+    out = apply_public_projection(out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
 
@@ -80,6 +82,8 @@ def run_e2e_l1_l9(out_path: Path, text: str) -> None:
 
     assets = _HESPERIA / "lexicon" / "curated"
     out = run_pipeline_for_text(text, assets_root=assets)
+    from core.projection import apply_public_projection
+    out = apply_public_projection(out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
 
@@ -89,6 +93,8 @@ def run_e2e_r1_r4(out_path: Path, text: str) -> None:
     from runtime.pipeline.r1_r4_pipeline import run_full_pipeline_to_json
 
     result = run_full_pipeline_to_json(text, book_id="e2e", levels=["R1", "R2", "R3", "R4"])
+    from core.projection import apply_public_projection
+    result = apply_public_projection(result)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(result, indent=2), encoding="utf-8")
 
@@ -106,25 +112,23 @@ def run_e2e_sphere_math_values(out_path: Path, text: str) -> None:
 
 
 def run_e2e_domain_metrics(out_path: Path, text: str) -> None:
-    """Run main pipeline with domain metrics stage; write domain_metrics (41 signals, hash) to JSON."""
-    from sphere.pipeline.pipeline_runner import run_pipeline
+    """Run structural analysis with domain metrics; write domain_metrics to JSON via service."""
+    from core.services.analysis_service import run_structural_analysis
+    from runtime.artifact_writer import write_public_json
 
     assets = _HESPERIA / "lexicon" / "curated"
     domain_constants_path = _HESPERIA / "assets" / "data" / "domain_constants.json"
-    config = {
-        "pipeline_version": "v1",
-        "deterministic": True,
-        "assets_root": assets,
-        "enable_domain_metrics": True,
-        "domain_constants_path": str(domain_constants_path) if domain_constants_path.exists() else None,
-        "domain_release": "",
-    }
-    result = run_pipeline(text, config, document_id="e2e_domain_metrics")
+    result = run_structural_analysis(
+        text,
+        assets_root=assets,
+        stages="full",
+        enable_domain_metrics=True,
+        domain_constants_path=domain_constants_path if domain_constants_path.exists() else None,
+    )
     out_data = result.get("domain_metrics")
     if not out_data:
         out_data = {"_error": "domain_metrics not in result", "sourceId": "e2e_domain_metrics"}
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out_data, indent=2, sort_keys=True), encoding="utf-8")
+    write_public_json(out_path, out_data)
 
 
 def run_e2e_sphere_math_100(out_path: Path, limit: int = 3) -> None:

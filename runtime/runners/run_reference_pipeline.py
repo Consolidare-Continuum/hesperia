@@ -1,18 +1,10 @@
 #!/usr/bin/env python3
+# HESPERIA — Thin wrapper over analysis service. No direct pipeline import.
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-# HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
-# Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
-# See LEGAL_NOTICE.md for full terms.
-
-"""
-Canonical pipeline CLI: delegates to sphere.pipeline.run_pipeline.
-Use this as the reference entrypoint for L1–L10 + USF + propagation + guards.
-"""
+"""Public entry point: structural analysis. Delegates to core.services.analysis_service only."""
 from __future__ import annotations
 
-import argparse
 import json
 import sys
 from pathlib import Path
@@ -23,55 +15,28 @@ if str(ROOT) not in sys.path:
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(
-        description="Run canonical HESPERIA pipeline (sphere.pipeline.run_pipeline)"
-    )
-    ap.add_argument(
-        "--text",
-        default="justice lie fairness truth good order harm freedom",
-        help="Input text to process",
-    )
-    ap.add_argument("--out", type=Path, default=None, help="Write full result JSON to path")
-    ap.add_argument(
-        "--document-id",
-        default="reference",
-        help="Document ID for USF",
-    )
-    ap.add_argument(
-        "--assets-root",
-        type=Path,
-        default=None,
-        help="Lexicon/curated assets root (default: repo/lexicon/curated)",
-    )
-    ap.add_argument(
-        "--topology-data-root",
-        type=Path,
-        default=None,
-        help="Topology data root for adjacency and family→area (optional)",
-    )
+    import argparse
+    from core.services.analysis_service import run_structural_analysis
+    from runtime.artifact_writer import write_public_json
+
+    ap = argparse.ArgumentParser(description="Run structural analysis (canonical entry point).")
+    ap.add_argument("--text", default="justice lie fairness truth good order harm freedom")
+    ap.add_argument("--out", type=Path, default=None)
+    ap.add_argument("--document-id", default="reference")
+    ap.add_argument("--assets-root", type=Path, default=None)
+    ap.add_argument("--policy-mode", dest="policy_mode", default=None)
     args = ap.parse_args()
 
-    config = {
-        "pipeline_version": "v1",
-        "deterministic": True,
-        "assets_root": args.assets_root or (ROOT / "lexicon" / "curated"),
-    }
-    if args.topology_data_root is not None:
-        config["topology_data_root"] = args.topology_data_root
-
-    from sphere.pipeline.pipeline_runner import run_pipeline
-
-    result = run_pipeline(
+    out = run_structural_analysis(
         args.text,
-        config,
-        document_id=args.document_id,
+        assets_root=args.assets_root or (ROOT / "lexicon" / "curated"),
+        policy_mode=args.policy_mode,
+        stages="full",
     )
-
-    j = json.dumps(result, indent=2)
     if args.out:
-        args.out.write_text(j, encoding="utf-8")
+        write_public_json(args.out, out)
         print("Output written to", args.out, file=sys.stderr)
-    print(j)
+    print(json.dumps(out, indent=2))
 
 
 if __name__ == "__main__":

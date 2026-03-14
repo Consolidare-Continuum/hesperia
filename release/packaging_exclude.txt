@@ -1,0 +1,8 @@
+# HESPERIA sealed runtime — paths to exclude from public package (see RELEASE_CONTENT_POLICY_v1)
+docs/internal/
+docs/specs/history/
+legacy/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
