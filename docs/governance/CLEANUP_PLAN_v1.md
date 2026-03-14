@@ -14,6 +14,11 @@
 
 ## Phase 2 — Remove duplicate data files ✓
 
+## Phase 2b — Repo root cleanup ✓
+- **Moved:** `guard_config_v1.json` → `assets/config/guard_config_v1.json`
+- **Moved:** `layer_1_9_predefined_defaults_v1_0.json` → `core/layers/`
+- Root no longer holds guard/layer config; all references updated.
+
 - **Remove:** `assets/data/A_CORE_STAR_MAP_v1.json` — identical to `lexicon/curated/A_CORE_STAR_MAP_v1.json`; no code references the assets path.
 - **Keep:** Single source of truth for lexical maps in `lexicon/curated` (and `lexicon/frozen` where build output is required). Do not add copies under `assets/data` for these.
 
