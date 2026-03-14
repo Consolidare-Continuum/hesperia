@@ -108,19 +108,21 @@ If something breaks later, recovery is trivial (move back or restore from backup
 
 ## 5. After verification, remove legacy
 
-Once the system builds and runs correctly:
+Keep the quarantine (e.g. `legacy/docs_archive`) for a short observation window (a few development cycles, until the next tagged release). Once the sealed runtime build succeeds:
 
 ```bash
-./release_sealed_runtime.sh   # must pass
+./release_sealed_runtime.sh   # must end with HESPERIA SEALED RUNTIME: PASS
 pytest tests/test_sealed_runtime_regression.py -q
 ```
 
-Then:
+Then remove the legacy folder:
 
 ```bash
 git rm -r legacy
 git commit -m "cleanup: remove legacy artifacts"
 ```
+
+At that point the repo is structurally minimal.
 
 ---
 

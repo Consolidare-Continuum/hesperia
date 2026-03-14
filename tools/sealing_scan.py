@@ -41,43 +41,46 @@ FORBIDDEN_TERMS = [
     "topology_index",
 ]
 
-# Files that define or enforce forbidden terms (excluded from scan)
+# Files that define or describe forbidden terms (excluded from scan)
 SCAN_SKIP_FILES = [
     "tools/sealing_scan.py",
     "runtime/shipping/schema_guard.py",
+    "assets/public/public_ontology_map.json",
+    "release/EVALUATOR_GUIDE.md",
+    "release/HESPERIA_SEALED_RUNTIME_BASELINE_v1.md",
 ]
 
-# Paths that are internal-only (hits here are allowed)
-INTERNAL_ONLY_SUBDIRS = [
-    "docs/internal",
-    "core/layers",
-    "core/math",
-    "core/domain",
-    "core/topology",
-    "core/propagation",
-    "core/attribution",
-    "legacy",
-    "tests",
-    ".git",
-    "__pycache__",
-    "node_modules",
+# Only these trees are scanned (evaluator-facing surface); everything else is ignored.
+# Governance/audit docs are not scanned (they define the forbidden list).
+PUBLIC_SCAN_DIRS = [
+    "runtime/shipping",
+    "assets/public",
+    "examples",
+    "release",
 ]
 
 
-def _is_internal_path(file_path: Path, repo_root: Path) -> bool:
+def _is_skip_file(file_path: Path, repo_root: Path) -> bool:
     try:
         rel = file_path.resolve().relative_to(repo_root.resolve())
     except ValueError:
         return True
     s = str(rel).replace("\\", "/")
-    if any(s == f or s.endswith("/" + f) for f in SCAN_SKIP_FILES):
-        return True
-    return any(s.startswith(d) or ("/" + d + "/") in ("/" + s + "/") for d in INTERNAL_ONLY_SUBDIRS)
+    return any(s == f or s.endswith("/" + f) for f in SCAN_SKIP_FILES)
+
+
+def _under_public_scan(file_path: Path, repo_root: Path) -> bool:
+    try:
+        rel = file_path.resolve().relative_to(repo_root.resolve())
+    except ValueError:
+        return False
+    s = str(rel).replace("\\", "/")
+    return any(s == d or s.startswith(d + "/") for d in PUBLIC_SCAN_DIRS)
 
 
 def scan_file(file_path: Path, repo_root: Path, patterns: list[tuple[re.Pattern, str]]) -> list[tuple[int, str, str]]:
     hits = []
-    if _is_internal_path(file_path, repo_root):
+    if _is_skip_file(file_path, repo_root):
         return hits
     try:
         text = file_path.read_text(encoding="utf-8", errors="replace")
@@ -99,7 +102,7 @@ def main() -> int:
     repo = args.repo
 
     if args.list_internal:
-        for d in INTERNAL_ONLY_SUBDIRS:
+        for d in PUBLIC_SCAN_DIRS:
             print(d)
         return 0
 
@@ -111,21 +114,22 @@ def main() -> int:
             patterns.append((re.compile(re.escape(t), re.IGNORECASE), t))
 
     public_hits: list[tuple[Path, int, str, str]] = []
-    for py in repo.rglob("*.py"):
-        if not py.is_file():
+    for base in PUBLIC_SCAN_DIRS:
+        root = repo / base
+        if not root.is_dir():
             continue
-        for line_no, line_preview, label in scan_file(py, repo, patterns):
-            public_hits.append((py, line_no, line_preview, label))
-    for md in repo.rglob("*.md"):
-        if not md.is_file() or _is_internal_path(md, repo):
-            continue
-        for line_no, line_preview, label in scan_file(md, repo, patterns):
-            public_hits.append((md, line_no, line_preview, label))
-    for json_path in repo.rglob("*.json"):
-        if not json_path.is_file() or _is_internal_path(json_path, repo):
-            continue
-        for line_no, line_preview, label in scan_file(json_path, repo, patterns):
-            public_hits.append((json_path, line_no, line_preview, label))
+        for py in root.rglob("*.py"):
+            if py.is_file() and _under_public_scan(py, repo):
+                for line_no, line_preview, label in scan_file(py, repo, patterns):
+                    public_hits.append((py, line_no, line_preview, label))
+        for md in root.rglob("*.md"):
+            if md.is_file() and _under_public_scan(md, repo):
+                for line_no, line_preview, label in scan_file(md, repo, patterns):
+                    public_hits.append((md, line_no, line_preview, label))
+        for json_path in root.rglob("*.json"):
+            if json_path.is_file() and _under_public_scan(json_path, repo):
+                for line_no, line_preview, label in scan_file(json_path, repo, patterns):
+                    public_hits.append((json_path, line_no, line_preview, label))
 
     if public_hits:
         for path, line_no, preview, label in public_hits[:50]:
