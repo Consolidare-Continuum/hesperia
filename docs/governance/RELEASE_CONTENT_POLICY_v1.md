@@ -12,7 +12,7 @@ The following must **never** be included in the packaged/runtime-distributed art
 - **Internal docs:** docs/internal/ (MATH_LAYER_REGISTRY, PIPELINE_LAYER_REGISTRY, etc.)
 - **Internal registries:** assets/reserve/ (reserved_areas, reserved_families, reserved_hex) — or ship only as data with no schema that reveals structure
 - **Debug tooling:** Any script or module whose sole purpose is to dump layer state, propagation path, or bridge internals
-- **Reflective specs:** Specs that describe layer order, formulas, topology geometry (e.g. legacy specs under docs/specs/history that teach the model)
+- **Reflective specs:** Specs that describe layer order, formulas, topology geometry (e.g. legacy specs under docs/archive/specs_history that teach the model)
 - **Raw topology helpers:** core/topology/invariant_catalog.py — or ship only in a form that does not export AREA_FAMILY_MAP, CANONICAL_AREA_SET to public
 - **Development-only scripts:** One-off migration scripts, internal calibration builders (unless explicitly needed for operator)
 
@@ -37,7 +37,7 @@ Use an exclusion list (e.g. in packaging script or pyproject.tools):
 ```
 exclude:
   - docs/internal/
-  - docs/specs/history/
+  - docs/archive/specs_history/
   - assets/reserve/   # or include with no schema doc
   - legacy/
   - tools/sealing_scan.py  # optional: dev-only

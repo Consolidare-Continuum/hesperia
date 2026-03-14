@@ -14,7 +14,7 @@
 | Bridge helpers | core/domain/bridge.py, hesperia/engine/kme/bridge.py | Internal. No public import. |
 | Topology helpers | core/topology/invariant_catalog.py | Internal. reserve_loader used only behind projection. |
 | Debug writers | (any future layer-dump writers) | Must live under internal_debug guard; write via write_internal_json only. |
-| Spec-heavy docs | docs/specs/history, docs/specs/schema (internal-facing) | **Exclude from release bundle.** docs/internal/ and docs/specs/ (selected) = internal. |
+| Spec-heavy docs | docs/archive/specs_history, docs/specs/schema (internal-facing) | **Exclude from release bundle.** docs/internal/ and docs/specs/ (selected) = internal. |
 
 ---
 

@@ -1,0 +1,43 @@
+# Repository cleanup plan v1
+
+**Goal:** Reduce duplication and clutter; keep one canonical copy of each asset; archive historical docs.
+
+---
+
+## Phase 1 — Archive historical specs ✓
+
+- **Move:** `docs/specs/history/` → `docs/archive/specs_history/`
+- **Why:** Dozens of old numbered specs (00_, 10_, 11_, …) are reference-only; not needed in active specs tree. Governance docs already treat this content as internal/excluded from bundle.
+- **Refs:** Update any paths that point to `docs/specs/history` to `docs/archive/specs_history`.
+
+---
+
+## Phase 2 — Remove duplicate data files ✓
+
+- **Remove:** `assets/data/A_CORE_STAR_MAP_v1.json` — identical to `lexicon/curated/A_CORE_STAR_MAP_v1.json`; no code references the assets path.
+- **Keep:** Single source of truth for lexical maps in `lexicon/curated` (and `lexicon/frozen` where build output is required). Do not add copies under `assets/data` for these.
+
+---
+
+## Phase 3 — Consolidate run scripts (later)
+
+- **Canonical entrypoint:** `python3 -m runtime.pipeline.run_l1_through_l9` (and sealed CLI/API).
+- **Review:** `runtime/pipeline/run_*.py`, `runtime/provenance/run_manifest.py`, `runtime/runners/run_reference_pipeline.py` — keep only those that are entrypoints or used by CI; document or merge the rest.
+
+---
+
+## Phase 4 — Lexicon frozen vs curated (document only for now)
+
+- **curated:** Source-of-truth JSON built by lexicon build.
+- **frozen:** Copy used at runtime; synced via `lexicon/build/sync_curated_to_assets.sh` or similar. Avoid adding duplicate copies elsewhere.
+
+---
+
+## Phase 5 — Large / legacy code (optional)
+
+- **core_math_legacy.py:** Still used by `tests/energy_invariants_stress.py` and `core_math_compat.py`. Leave in place until migration.
+- **debug_interface.py:** Move to `sphere/interfaces/` or remove if unused; confirm with tests.
+
+---
+
+*Run `./tools/detect_unused.sh` periodically. Prefer archiving (move) over delete so history stays in git.*

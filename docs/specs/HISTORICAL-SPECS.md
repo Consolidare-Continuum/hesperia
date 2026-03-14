@@ -6,10 +6,10 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# Historical specs (pre-refactor)
+# Historical specs
 
-Specification and governance/project documents that still referenced legacy paths were moved to:
+Older numbered specs and release notes (00_, 10_, 11_, …) are under:
 
-- `legacy/docs/specs/pre-refactor/`
+- `docs/archive/specs_history/`
 
-Use these only as historical context.
+Use for reference only. Active specs live in `docs/specs/` (schema, profiles, governance, releases).

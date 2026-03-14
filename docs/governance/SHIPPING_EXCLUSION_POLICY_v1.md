@@ -12,7 +12,7 @@ The following must **never** be included in the shipped runtime (binary or conta
 | Category | Must exclude | Reason |
 |----------|--------------|--------|
 | **Internal docs** | docs/internal/ (MATH_LAYER_REGISTRY, PIPELINE_LAYER_REGISTRY, internal-only specs) | Reveals layer count, transformation chain, method. |
-| **Specs history** | docs/specs/history/, draft governance that describes internal geometry or formulas | Teaches the model; not for operators. |
+| **Specs history** | docs/archive/specs_history/, draft governance that describes internal geometry or formulas | Teaches the model; not for operators. |
 | **Debug scripts** | Any script or entry point whose purpose is to dump layer state, propagation path, bridge internals, or raw traces | Debug is not part of shipping surface. |
 | **Topology helpers** | core/topology/invariant_catalog (or any module that exports AREA_FAMILY_MAP, CANONICAL_AREA_SET, area/family counts to public callers) | Reveals internal structure. reserve_loader may be included only in a form used by projection filtering and not exposed to CLI/API. |
 | **Internal registries** | docs/internal/*.md registries, assets/reserve/*.json (or ship only as opaque data with no schema that reveals 12 areas, 288 families, reserved indices) | Reveals structural counts and reserve layout. |
@@ -29,7 +29,7 @@ Use this list in packaging and Docker multi-stage builds to exclude from the fin
 ```
 # Docs and specs
 docs/internal/
-docs/specs/history/
+docs/archive/specs_history/
 *.internal.md
 
 # Internal registries and reserve layout (or ship as opaque-only)

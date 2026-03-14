@@ -10,7 +10,7 @@
 | Category | Path / content | Rule |
 |----------|----------------|------|
 | **Internal docs** | docs/internal/ | No MATH_LAYER_REGISTRY, PIPELINE_LAYER_REGISTRY, or any doc under docs/internal/. |
-| **Specs history** | docs/specs/history/, any draft or historical spec that describes internal geometry, formulas, or pipeline order | No specs history in bundle. |
+| **Specs history** | docs/archive/specs_history/, any draft or historical spec that describes internal geometry, formulas, or pipeline order | No specs history in bundle. |
 | **Internal review runners** | Scripts/modules: analyze.py, r1_r4_pipeline.py, batch_runner.py, reading_scales.py, run_corpus_benchmark.py, run_e2e_all, run_l1_l2, run_l1_l2_l3, run_sphere_math_values, run_reference_pipeline | Not advertised; not present as primary entry points in bundle. CLI binary has no source; image has no advertised entry point for these. |
 | **Debug tools** | Layer dumps, propagation path export, internal trace scripts, *_dump_*.py, debug_*.py | None in bundle. |
 | **Raw dictionaries** | Unprojected Dict A / Dict B or build artifacts that expose family placement, ontology construction | None in bundle. |
