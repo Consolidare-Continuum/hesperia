@@ -63,9 +63,19 @@ For implementation, reproduction, or derivative use, explicit written permission
 
 ---
 
+## From scratch (memo)
+
+| Step | Doc |
+|------|-----|
+| **1. Run** | [docs/RUN_FROM_SCRATCH.md](docs/RUN_FROM_SCRATCH.md) — clone, venv, install, run pipeline & tests |
+| **2. Build** | [docs/BUILD_FROM_SCRATCH.md](docs/BUILD_FROM_SCRATCH.md) — CLI binary, Docker API image, manifest |
+| **3. Deploy** | [docs/DEPLOY_FROM_SCRATCH.md](docs/DEPLOY_FROM_SCRATCH.md) — copy artifacts, run CLI or container |
+
+---
+
 ## Run it
 
-**Full E2E (all flows, 5 artifacts):**
+**Full E2E (all flows, 6 artifacts):**
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all
