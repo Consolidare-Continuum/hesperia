@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Public entry point: structural analysis on multiple texts; write one JSON. Delegates to core.services.analysis_service only.
+Public entry point: structural analysis on multiple texts; write one JSON. Delegates to runtime.services.analysis_service only.
 Usage: python3 -m runtime.pipeline.run_sphere_math_100_sentences [--out path.json] [--sentences path.json] [--limit N]
 """
 from __future__ import annotations
@@ -20,7 +20,7 @@ if str(_HESPERIA) not in sys.path:
 
 def main() -> None:
     import argparse
-    from core.services.analysis_service import run_structural_analysis_batch
+    from runtime.services.analysis_service import run_structural_analysis_batch
     from runtime.artifact_writer import write_public_json
 
     ap = argparse.ArgumentParser(description="Run structural analysis on calibration sentences.")

@@ -7,6 +7,7 @@
 """
 Analysis service façade. Public runtime must not orchestrate internal math/pipeline step by step.
 Single entry into structural analysis; supports single-text, reduced stages (L1+L2, L1+L2+L3), and optional profile.
+Lives in runtime so dependency is runtime → sphere → core (no core → sphere).
 """
 
 from __future__ import annotations
@@ -135,6 +136,7 @@ def _run_full(
         "L9": layer_outputs.get("layer_9", {}),
         "usf": result.get("usf"),
         "interpretation_metrics": result.get("interpretation_metrics"),
+        "diagnostics": result.get("diagnostics", {}),
     }
     if enable_domain_metrics and result.get("domain_metrics") is not None:
         raw["domain_metrics"] = result["domain_metrics"]

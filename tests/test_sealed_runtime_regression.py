@@ -62,7 +62,7 @@ def test_analyze_deterministic(sample_texts, assets_root):
     """Same input → same output (analyze)."""
     if not sample_texts:
         pytest.skip("no sealed_runtime_inputs")
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     text = sample_texts[0]
     r1 = run_structural_analysis(text, assets_root=assets_root, stages="full")
     r2 = run_structural_analysis(text, assets_root=assets_root, stages="full")
@@ -73,7 +73,7 @@ def test_analyze_schema_valid(sample_texts, assets_root):
     """Analysis output passes schema_guard (no forbidden keys)."""
     if not sample_texts:
         pytest.skip("no sealed_runtime_inputs")
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     from runtime.shipping.schema_guard import validate_against_public_schema
     for text in sample_texts[:5]:
         result = run_structural_analysis(text, assets_root=assets_root, stages="full")
@@ -84,7 +84,7 @@ def test_analyze_no_forbidden_in_output(sample_texts, assets_root):
     """Serialized analysis output contains no forbidden terms."""
     if not sample_texts:
         pytest.skip("no sealed_runtime_inputs")
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     out = run_structural_analysis(sample_texts[0], assets_root=assets_root, stages="full")
     s = json.dumps(out).lower()
     for bad in FORBIDDEN_OUTPUT:
@@ -95,7 +95,7 @@ def test_compare_deterministic(sample_texts, assets_root):
     """Compare on same pair twice → same output."""
     if len(sample_texts) < 2:
         pytest.skip("need at least 2 texts")
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     t1, t2 = sample_texts[0], sample_texts[1]
     r1a = run_structural_analysis(t1, assets_root=assets_root, stages="full")
     r2a = run_structural_analysis(t2, assets_root=assets_root, stages="full")
@@ -142,7 +142,7 @@ def test_batch_deterministic(sample_texts, assets_root):
     """Batch analyze same list twice → same outputs."""
     if not sample_texts:
         pytest.skip("no sealed_runtime_inputs")
-    from core.services.analysis_service import run_structural_analysis_batch
+    from runtime.services.analysis_service import run_structural_analysis_batch
     batch = sample_texts[:5]
     r1 = run_structural_analysis_batch(batch, assets_root=assets_root)
     r2 = run_structural_analysis_batch(batch, assets_root=assets_root)
@@ -153,7 +153,7 @@ def test_batch_schema_valid(sample_texts, assets_root):
     """Batch output passes schema_guard."""
     if not sample_texts:
         pytest.skip("no sealed_runtime_inputs")
-    from core.services.analysis_service import run_structural_analysis_batch
+    from runtime.services.analysis_service import run_structural_analysis_batch
     from runtime.shipping.schema_guard import validate_against_public_schema
     results = run_structural_analysis_batch(sample_texts[:5], assets_root=assets_root)
     validate_against_public_schema(results)

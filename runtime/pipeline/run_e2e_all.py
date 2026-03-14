@@ -113,7 +113,7 @@ def run_e2e_sphere_math_values(out_path: Path, text: str) -> None:
 
 def run_e2e_domain_metrics(out_path: Path, text: str) -> None:
     """Run structural analysis with domain metrics; write domain_metrics to JSON via service."""
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import write_public_json
 
     assets = _HESPERIA / "lexicon" / "curated"

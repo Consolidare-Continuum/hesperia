@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Public entry point: structural analysis, write one JSON. Delegates to core.services.analysis_service only.
+Public entry point: structural analysis, write one JSON. Delegates to runtime.services.analysis_service only.
 Usage: python3 -m runtime.pipeline.run_sphere_math_values [--out path.json] [--profile path] [--text "input"]
 """
 from __future__ import annotations
@@ -19,7 +19,7 @@ if str(_HESPERIA) not in sys.path:
 
 def main() -> None:
     import argparse
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import get_runtime_mode, write_public_json
 
     ap = argparse.ArgumentParser(description="Run structural analysis, write one JSON.")

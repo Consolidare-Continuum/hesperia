@@ -4,7 +4,7 @@
 
 """
 Sealed CLI entry point. Commands: analyze, compare, batch-analyze.
-Uses only core.services (analysis_service); no internal layers or topology.
+Uses only runtime.services (analysis_service); no internal layers or topology.
 """
 
 from __future__ import annotations
@@ -29,7 +29,7 @@ def _cmd_analyze(args: object) -> int:
     assets = getattr(args, "assets", None)
     assets_path = Path(assets) if assets else _assets_root(Path(__file__).resolve().parents[2])
 
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
 
     result = run_structural_analysis(text, assets_root=assets_path, stages="full")
     from runtime.shipping.schema_guard import validate_against_public_schema
@@ -49,7 +49,7 @@ def _cmd_compare(args: object) -> int:
     assets = getattr(args, "assets", None)
     assets_path = Path(assets) if assets else _assets_root(Path(__file__).resolve().parents[2])
 
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
 
     r1 = run_structural_analysis(text1, assets_root=assets_path, stages="full")
     r2 = run_structural_analysis(text2, assets_root=assets_path, stages="full")
@@ -116,7 +116,7 @@ def _cmd_batch_analyze(args: object) -> int:
         print("No input texts. Use --input path.json or --texts '...' '...'", file=sys.stderr)
         return 1
 
-    from core.services.analysis_service import run_structural_analysis_batch
+    from runtime.services.analysis_service import run_structural_analysis_batch
 
     results = run_structural_analysis_batch(texts, assets_root=assets_path)
     from runtime.shipping.schema_guard import validate_against_public_schema

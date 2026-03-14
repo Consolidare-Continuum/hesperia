@@ -7,24 +7,20 @@
       "token_count": 6,
       "top_areas": [
         {
-          "area_id": "A1",
           "coverage": 0.5,
           "rank": 1
         },
         {
-          "area_id": "A9",
           "coverage": 0.5,
           "rank": 2
         }
       ],
       "top_families": [
         {
-          "family_id": "F16",
           "coverage": 0.5,
           "rank": 1
         },
         {
-          "family_id": "F200",
           "coverage": 0.5,
           "rank": 2
         }
@@ -51,14 +47,12 @@
       "token_count": 5,
       "top_areas": [
         {
-          "area_id": "A1",
           "coverage": 1.0,
           "rank": 1
         }
       ],
       "top_families": [
         {
-          "family_id": "F22",
           "coverage": 1.0,
           "rank": 1
         }
@@ -85,29 +79,24 @@
       "token_count": 11,
       "top_areas": [
         {
-          "area_id": "A1",
           "coverage": 0.666667,
           "rank": 1
         },
         {
-          "area_id": "A9",
           "coverage": 0.333333,
           "rank": 2
         }
       ],
       "top_families": [
         {
-          "family_id": "F16",
           "coverage": 0.333333,
           "rank": 1
         },
         {
-          "family_id": "F22",
           "coverage": 0.333333,
           "rank": 2
         },
         {
-          "family_id": "F200",
           "coverage": 0.333333,
           "rank": 3
         }
@@ -134,29 +123,24 @@
       "token_count": 11,
       "top_areas": [
         {
-          "area_id": "A1",
           "coverage": 0.666667,
           "rank": 1
         },
         {
-          "area_id": "A9",
           "coverage": 0.333333,
           "rank": 2
         }
       ],
       "top_families": [
         {
-          "family_id": "F16",
           "coverage": 0.333333,
           "rank": 1
         },
         {
-          "family_id": "F22",
           "coverage": 0.333333,
           "rank": 2
         },
         {
-          "family_id": "F200",
           "coverage": 0.333333,
           "rank": 3
         }
@@ -183,29 +167,24 @@
       "token_count": 11,
       "top_areas": [
         {
-          "area_id": "A1",
           "coverage": 0.666667,
           "rank": 1
         },
         {
-          "area_id": "A9",
           "coverage": 0.333333,
           "rank": 2
         }
       ],
       "top_families": [
         {
-          "family_id": "F16",
           "coverage": 0.333333,
           "rank": 1
         },
         {
-          "family_id": "F22",
           "coverage": 0.333333,
           "rank": 2
         },
         {
-          "family_id": "F200",
           "coverage": 0.333333,
           "rank": 3
         }

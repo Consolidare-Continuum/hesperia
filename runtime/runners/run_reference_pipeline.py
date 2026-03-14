@@ -2,7 +2,7 @@
 # HESPERIA — Thin wrapper over analysis service. No direct pipeline import.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-"""Public entry point: structural analysis. Delegates to core.services.analysis_service only."""
+"""Public entry point: structural analysis. Delegates to runtime.services.analysis_service only."""
 from __future__ import annotations
 
 import json
@@ -16,7 +16,7 @@ if str(ROOT) not in sys.path:
 
 def main() -> None:
     import argparse
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import write_public_json
 
     ap = argparse.ArgumentParser(description="Run structural analysis (canonical entry point).")

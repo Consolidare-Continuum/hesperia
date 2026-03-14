@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Sealed API entry point. No internal endpoints. Uses only core.services.
+Sealed API entry point. No internal endpoints. Uses only runtime.services (analysis_service).
 """
 
 from __future__ import annotations
@@ -158,7 +158,7 @@ def create_app():
     def analyze(body: AnalyzeBody):
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
-        from core.services.analysis_service import run_structural_analysis
+        from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
         result = run_structural_analysis(body.text, assets_root=assets, stages="full")
         return _safe_response(result)
@@ -167,7 +167,7 @@ def create_app():
     def compare(body: CompareBody):
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
-        from core.services.analysis_service import run_structural_analysis
+        from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
         r1 = run_structural_analysis(body.text1, assets_root=assets, stages="full")
         r2 = run_structural_analysis(body.text2, assets_root=assets, stages="full")
@@ -192,7 +192,7 @@ def create_app():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         if len(body.texts) > 100:
             raise HTTPException(status_code=400, detail="Maximum 100 texts per request")
-        from core.services.analysis_service import run_structural_analysis_batch
+        from runtime.services.analysis_service import run_structural_analysis_batch
         assets = _assets_root()
         results = run_structural_analysis_batch(body.texts, assets_root=assets)
         return _safe_response(results)

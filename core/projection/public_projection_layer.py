@@ -192,6 +192,9 @@ def sanitize_public_trace(trace: dict[str, Any] | list[Any]) -> dict[str, Any] |
     for k, v in trace.items():
         if _is_internal_revealing_key(k):
             continue
+        # Omit timing for deterministic public output (sealed regression)
+        if k == "execution_time_ms":
+            continue
         if k in ("area_vector", "family_counts", "propagated_area_vector", "propagated_family_counts",
                  "corrected_area_vector", "corrected_family_counts") and isinstance(v, (list, tuple)):
             # Replace with projected public slice
@@ -229,12 +232,24 @@ def _trace_item_safe(item: Any) -> bool:
     """Filter trace list items that reference reserved structures (e.g. side_id in range)."""
     if isinstance(item, dict):
         sid = item.get("side_id")
-        if sid is not None and reserve_loader.is_reserved_side_id(int(sid)):
-            return False
+        if sid is not None:
+            try:
+                if reserve_loader.is_reserved_side_id(int(sid)):
+                    return False
+            except (TypeError, ValueError):
+                pass  # non-numeric side_id (e.g. 'A1') — allow item
         fid = item.get("family_id")
-        if fid is not None and reserve_loader.is_reserved_family(int(fid)):
-            return False
+        if fid is not None:
+            try:
+                if reserve_loader.is_reserved_family(int(fid)):
+                    return False
+            except (TypeError, ValueError):
+                pass
         aid = item.get("area_id")
-        if aid is not None and reserve_loader.is_reserved_area(int(aid)):
-            return False
+        if aid is not None:
+            try:
+                if reserve_loader.is_reserved_area(int(aid)):
+                    return False
+            except (TypeError, ValueError):
+                pass  # non-numeric area_id (e.g. 'A1') — allow item
     return True

@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Public entry point: structural analysis (full pipeline). Delegates to core.services.analysis_service only.
+Public entry point: structural analysis (full pipeline). Delegates to runtime.services.analysis_service only.
 Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json] [--profile path] [--write-dossier path]
 """
 from __future__ import annotations
@@ -28,9 +28,9 @@ def run_pipeline_for_text(
     profile_path: Path | None = None,
 ) -> dict:
     """Thin wrapper: run structural analysis and return projected result. For e2e and callers."""
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     assets = assets_root or _HESPERIA / "lexicon" / "curated"
-    return run_structural_analysis(
+    out = run_structural_analysis(
         text,
         assets_root=assets,
         profile_id=profile_id,
@@ -39,11 +39,14 @@ def run_pipeline_for_text(
         policy_mode=policy_mode,
         stages="full",
     )
+    # Preserve L1_through_L9 contract for e2e and callers
+    out["run"] = "L1_through_L9"
+    return out
 
 
 def main() -> None:
     import argparse
-    from core.services.analysis_service import run_structural_analysis
+    from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import write_public_json
     from runtime.dossier import validate_dossier_schema, write_dossier_json
     from runtime.dossier.index_manager import update_dossier_index
