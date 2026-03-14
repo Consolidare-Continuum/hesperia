@@ -154,14 +154,36 @@ This becomes the recovery point.
 
 ## 8. Secondary GitHub mirror (disaster recovery)
 
-Create a private repo (e.g. `hesperia-dev-backup`) and add a mirror remote:
+**On GitHub:** Create a new repository:
+
+- **Name:** `hesperia-dev-backup`
+- **Visibility:** private
+- **Initialize:** NO (no README, no license, no .gitignore)
+
+**Locally:**
 
 ```bash
-git remote add backup https://github.com/.../hesperia-dev-backup.git
+git remote add backup git@github.com:igareosh/hesperia-dev-backup.git
 git push backup --mirror
 ```
 
-Push regularly (or via CI) for offsite storage and protection against repo corruption.
+This copies branches, tags, refs, and full history. **Optional:** Disable force pushes on the mirror so it stays a read-only recovery archive.
+
+**Ongoing sync:** After significant releases, run:
+
+```bash
+./tools/push_mirrors.sh
+```
+
+That script pushes `main` and tags to `origin`, then does a full `git push backup --mirror`.
+
+**Verify remotes:**
+
+```bash
+git remote -v
+# origin   github.com/Atomic-Commits-Team/hesperia
+# backup   github.com/igareosh/hesperia-dev-backup
+```
 
 ---
 
@@ -205,4 +227,37 @@ Everything else should be gone (or under `legacy/` until removed after verificat
 
 ---
 
-*See tools/backup_hesperia_full.sh, tools/sync_backup_to_remotes.sh, tools/detect_unused.sh.*
+## 11. Repository lifecycle and protection layers
+
+```
+Development repo
+        │
+        ├── release_sealed_runtime.sh
+        │
+        ├── sealed evaluator bundle
+        │
+        ├── origin (GitHub main repo)
+        │
+        └── backup mirror (GitHub + fulgusor)
+```
+
+**Three protection layers:**
+
+1. **GitHub origin** — primary development repo (Atomic-Commits-Team/hesperia).
+2. **GitHub mirror** — private `hesperia-dev-backup`; full mirror via `./tools/push_mirrors.sh`.
+3. **Fulgusor archival** — `./tools/backup_hesperia_full.sh` + `./tools/sync_backup_to_remotes.sh` to heimdall/arc.
+
+**CLI binary:** If Nuitka is not installed, only the API artifact is built. For the full evaluator bundle:
+
+```bash
+pip install nuitka
+./release_sealed_runtime.sh
+```
+
+Then the bundle contains: `hesperia-cli.bin`, `hesperia-api-image.tar`, `manifest.json`, `checksums.txt`, `schema_sha256.txt`.
+
+**Current baseline:** `v0.4.1_clean` — structure normalized, legacy removed, sealed runtime validated, deterministic pipeline and backup strategy in place.
+
+---
+
+*See tools/backup_hesperia_full.sh, tools/sync_backup_to_remotes.sh, tools/push_mirrors.sh, tools/detect_unused.sh.*
