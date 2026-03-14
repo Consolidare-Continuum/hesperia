@@ -10,6 +10,9 @@ HESPERIA v0.3 — canonical ontology and geometry lock.
 Frozen constants only. No dynamic generation. No auto-correction.
 Source: 16_SPEC Structural Invariants, 18_SPEC Indexing and Coordinates,
 30_FAMILIES canonical.
+
+Operational split (10+2): 10 areas (0–9) and 240 families are public; 2 areas (10, 11)
+and 48 families are reserved service areas (stateless). See docs/TOPOLOGY_INVARIANTS.md.
 """
 
 from __future__ import annotations

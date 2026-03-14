@@ -6,8 +6,9 @@
 
 """
 Public projection layer — map full internal structure to safe public structure.
-Exposes only public areas 0–9, public families 0–239; excludes reserved areas/families/side_ids.
+Exposes only public areas 0–9, public families 0–239; excludes reserved (service) areas/families/side_ids.
 All public reports, responses, exports, and traces must pass through this layer.
+10+2 decision: 10 operational, 2 reserved service areas (stateless); see docs/TOPOLOGY_INVARIANTS.md.
 """
 
 from __future__ import annotations
@@ -16,7 +17,7 @@ from typing import Any
 
 from core.topology import reserve_loader
 
-# Public counts (internal has 12 areas, 288 families; 2 areas and 48 families are reserved)
+# Public counts (internal 12 areas, 288 families; 2 reserved service areas, 48 reserved families)
 PUBLIC_AREA_COUNT = 10
 PUBLIC_FAMILY_COUNT = 240
 

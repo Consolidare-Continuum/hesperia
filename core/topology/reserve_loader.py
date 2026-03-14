@@ -5,9 +5,10 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Reserve loader — structural reserve lock (Area 11, Area 12).
+Reserve loader — structural reserve lock for 2 service areas (internal indices 10, 11).
 Loads reserved_areas.json, reserved_families_registry.json, reserved_hex_registry.json.
-Internal use only. Used to exclude reserved indices from population, propagation, and output.
+Reserved (service) areas: space for special purposes; stateless for now (math unchanged).
+Internal use only. Used to exclude reserved indices from population and public output.
 """
 
 from __future__ import annotations
@@ -30,7 +31,7 @@ def _load_json(dir_path: Path, filename: str) -> dict:
 
 
 def load_reserved_area_indices(reserve_dir: Path | None = None) -> frozenset[int]:
-    """Return set of internal area indices that are permanently reserved (Area 11, 12)."""
+    """Return set of internal area indices that are permanently reserved (service areas 10, 11)."""
     dir_path = reserve_dir or _DEFAULT_RESERVE_DIR
     data = _load_json(dir_path, "reserved_areas.json")
     indices = data.get("reserved_indices")
@@ -79,7 +80,7 @@ def _ensure_loaded() -> None:
 
 
 def is_reserved_area(area_index: int) -> bool:
-    """True if area_index is one of the two reserved areas (internal indices 10, 11)."""
+    """True if area_index is one of the two reserved service areas (internal indices 10, 11)."""
     _ensure_loaded()
     return area_index in _reserved_areas if _reserved_areas else False
 

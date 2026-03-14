@@ -32,6 +32,7 @@ Do not use or reintroduce old roots such as `sphere_rag/`, `hesperia_lex/`, `scr
   - Deterministic computation layers.
   - `layer_1` through `layer_9`.
   - Topology, math, propagation.
+  - **Topology (10+2):** 10 operational areas (240 families, 60k hexes); 2 reserved service areas (48 families, 12k hexes). Reserved areas are stateless; full 12-area geometry used internally; public outputs expose only 10 areas. See `docs/TOPOLOGY_INVARIANTS.md`.
 
 - `runtime/`
   - Execution pipelines.

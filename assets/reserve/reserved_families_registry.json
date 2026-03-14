@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "description": "Families under reserved areas 11 and 12. Inert placeholders: zero anchors, dict mappings, graph nodes, graph edges, public labels, calibration hooks. Internal use only.",
+  "description": "Families under reserved (service) areas 11 and 12. Inert placeholders; stateless. Zero anchors, dict mappings, graph nodes, graph edges, public labels, calibration hooks. Internal use only.",
   "reserved_area_internal_indices": [10, 11],
   "reserved_family_global_indices": [240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287],
   "ranges_by_reserved_area": [
