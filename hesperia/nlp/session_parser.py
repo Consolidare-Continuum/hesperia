@@ -28,6 +28,17 @@ def _get_concept_to_af():
     return build_concept_to_area_family()
 
 
+def _get_merged_marker_index() -> dict[str, list[tuple[str, float]]]:
+    """Lexical + colloquial markers for enhanced Russian activation (token/lemma weight 1.0, colloquial 1.2)."""
+    from hesperia.ontology.dictA import build_marker_to_concepts, build_colloquial_marker_index
+    main = build_marker_to_concepts()
+    coll = build_colloquial_marker_index()
+    out = dict(main)
+    for k, v in coll.items():
+        out.setdefault(k, []).extend(v)
+    return out
+
+
 def tokenize_text(text: str) -> list[str]:
     """
     Разбить текст на токены (слова). Сохраняются буквы (кириллица, латиница), цифры, дефис.
@@ -227,4 +238,210 @@ def analyze_session(
         activation["families"] = prop["families"]
         activation["areas"] = prop["areas"]
         activation["propagation_trace"] = prop.get("propagation_trace", [])
+    return activation
+
+
+def analyze_session_enhanced(
+    text: str,
+    marker_index: dict[str, list[tuple[str, float]]] | None = None,
+    concept_to_area_family: dict[str, tuple[str, str]] | None = None,
+    phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None = None,
+    normalize_scores: bool = True,
+    ngram_n: int = 2,
+    embedding: dict[str, Any] | None = None,
+    use_lemmatizer: bool = True,
+    use_colloquial: bool = True,
+    use_phrase_patterns: bool = True,
+) -> dict[str, Any]:
+    """
+    Russian activation enhancement: lemmatize → token+lemma lookup (merged + colloquial) → phrase_patterns.
+
+    Pipeline: text → tokenize → normalize → [lemmatize] → detect_markers(tokens) + detect_markers(lemmas)
+    → detect_phrase_patterns(text) → phrase_markers (bigrams/trigrams) → activation → [propagation].
+
+    Weights: token/lemma from dict (1.0), colloquial from dict (1.2), phrase pattern from dict (1.5).
+    """
+    from hesperia.nlp.lemmatizer import lemmatize_tokens
+    from hesperia.nlp.phrase_detector import detect_phrase_patterns as detect_regex_patterns
+
+    tokens = tokenize_text(text)
+    normalized = normalize_tokens(tokens)
+    if use_lemmatizer:
+        try:
+            lemmas = lemmatize_tokens(normalized)
+        except Exception:
+            lemmas = normalized
+    else:
+        lemmas = normalized
+
+    if use_colloquial:
+        midx = _get_merged_marker_index()
+        if marker_index is not None:
+            midx = dict(midx)
+            for k, v in marker_index.items():
+                midx.setdefault(k, []).extend(v)
+    else:
+        midx = marker_index if marker_index is not None else _get_marker_index()
+    pidx = phrase_index if phrase_index is not None else _get_phrase_index()
+    af = concept_to_area_family if concept_to_area_family is not None else _get_concept_to_af()
+
+    phrase_concepts: set[str] = set()
+    markers: list[tuple[str, float]] = []
+
+    if use_phrase_patterns:
+        pattern_matches = detect_regex_patterns(text)
+        markers.extend(pattern_matches)
+        phrase_concepts |= {c for c, _ in pattern_matches}
+
+    if pidx and len(normalized) >= 2:
+        phrase_matches = detect_phrase_markers(tokens=normalized, phrase_index=pidx)
+        markers.extend((c, w) for c, w in phrase_matches if c not in phrase_concepts)
+        phrase_concepts |= {c for c, _ in phrase_matches}
+    if ngram_n >= 1 and len(normalized) >= ngram_n:
+        ngrams = build_ngrams(normalized, n=ngram_n)
+        string_phrase = detect_phrase_markers(ngrams=ngrams, marker_index=midx)
+        markers.extend((c, w) for c, w in string_phrase if c not in phrase_concepts)
+        phrase_concepts |= {c for c, _ in string_phrase}
+
+    token_matches = detect_markers(normalized, marker_index=midx)
+    markers.extend((c, w) for c, w in token_matches if c not in phrase_concepts)
+    phrase_concepts |= {c for c, _ in token_matches}
+    if lemmas != normalized:
+        lemma_matches = detect_markers(lemmas, marker_index=midx)
+        markers.extend((c, w) for c, w in lemma_matches if c not in phrase_concepts)
+
+    activation = activate_concepts(markers, concept_to_area_family=af, normalize_scores=normalize_scores)
+    if embedding is not None:
+        from sphere.topology.activation_propagation import propagate_activation
+        prop = propagate_activation(activation, embedding, propagation_trace=True)
+        activation["families"] = prop["families"]
+        activation["areas"] = prop["areas"]
+        activation["propagation_trace"] = prop.get("propagation_trace", [])
+    return activation
+
+
+# LEVEL 15: speaker-weighted activation (patient = mental dynamics, therapist = intervention)
+PATIENT_MARKER_WEIGHT = 1.0
+THERAPIST_MARKER_WEIGHT = 0.5
+
+
+def _markers_for_tokens(
+    tokens: list[str],
+    marker_index: dict[str, list[tuple[str, float]]] | None,
+    phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None,
+    ngram_n: int,
+) -> list[tuple[str, float]]:
+    """Collect (concept_id, weight) from phrase + ngram + token detection for one utterance."""
+    phrase_concepts: set[str] = set()
+    markers: list[tuple[str, float]] = []
+    if phrase_index and len(tokens) >= 2:
+        phrase_matches = detect_phrase_markers(tokens=tokens, phrase_index=phrase_index)
+        markers.extend(phrase_matches)
+        phrase_concepts = {c for c, _ in phrase_matches}
+    if ngram_n >= 1 and len(tokens) >= ngram_n:
+        ngrams = build_ngrams(tokens, n=ngram_n)
+        string_phrase = detect_phrase_markers(ngrams=ngrams, marker_index=marker_index)
+        markers.extend((c, w) for c, w in string_phrase if c not in phrase_concepts)
+        phrase_concepts |= {c for c, _ in string_phrase}
+    token_matches = detect_markers(tokens, marker_index=marker_index)
+    markers.extend((c, w) for c, w in token_matches if c not in phrase_concepts)
+    return markers
+
+
+def analyze_session_speaker_aware(
+    text: str,
+    marker_index: dict[str, list[tuple[str, float]]] | None = None,
+    concept_to_area_family: dict[str, tuple[str, str]] | None = None,
+    phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None = None,
+    normalize_scores: bool = True,
+    ngram_n: int = 2,
+    embedding: dict[str, Any] | None = None,
+    patient_weight: float = PATIENT_MARKER_WEIGHT,
+    therapist_weight: float = THERAPIST_MARKER_WEIGHT,
+) -> dict[str, Any]:
+    """
+    LEVEL 15: Speaker-aware session analysis.
+
+    Pipeline: text → parse_session_dialogue → tokenize per utterance → detect_markers
+    → speaker-weighted activation (patient=1.0, therapist=0.5) → propagation (optional).
+
+    Returns:
+    {
+      "areas": {}, "families": {}, "concepts": {},   # combined weighted
+      "speaker_activation": {
+        "patient":  { "areas": {}, "families": {}, "concepts": {} },
+        "therapist": { "areas": {}, "families": {}, "concepts": {} }
+      }
+    }
+    """
+    from hesperia.nlp.session_structure import parse_session_dialogue
+
+    utterances = parse_session_dialogue(text)
+    pidx = phrase_index if phrase_index is not None else _get_phrase_index()
+    midx = marker_index if marker_index is not None else _get_marker_index()
+    af = concept_to_area_family if concept_to_area_family is not None else _get_concept_to_af()
+
+    combined_markers: list[tuple[str, float]] = []
+    patient_markers: list[tuple[str, float]] = []
+    therapist_markers: list[tuple[str, float]] = []
+    direction_markers: dict[str, list[tuple[str, float]]] = {
+        "patient_to_therapist": [],
+        "therapist_to_patient": [],
+        "patient_to_third": [],
+    }
+
+    for u in utterances:
+        raw = _markers_for_tokens(u.tokens, midx, pidx, ngram_n)
+        w = patient_weight if u.speaker == "patient" else therapist_weight
+        direction_key = f"{u.speaker}_to_{u.target}"
+        if direction_key not in direction_markers:
+            direction_markers[direction_key] = []
+        for cid, weight in raw:
+            scaled = weight * w
+            combined_markers.append((cid, scaled))
+            direction_markers[direction_key].append((cid, scaled))
+            if u.speaker == "patient":
+                patient_markers.append((cid, weight * patient_weight))
+            else:
+                therapist_markers.append((cid, weight * therapist_weight))
+
+    activation = activate_concepts(
+        combined_markers,
+        concept_to_area_family=af,
+        normalize_scores=normalize_scores,
+    )
+    activation["speaker_activation"] = {
+        "patient": activate_concepts(
+            patient_markers,
+            concept_to_area_family=af,
+            normalize_scores=normalize_scores,
+        ),
+        "therapist": activate_concepts(
+            therapist_markers,
+            concept_to_area_family=af,
+            normalize_scores=normalize_scores,
+        ),
+    }
+    activation["activation_by_direction"] = {
+        key: activate_concepts(
+            markers,
+            concept_to_area_family=af,
+            normalize_scores=normalize_scores,
+        )
+        for key, markers in direction_markers.items()
+        if markers
+    }
+    activation["role_direction"] = {
+        "patient_to_therapist": {"speaker": "patient", "target": "therapist"},
+        "therapist_to_patient": {"speaker": "therapist", "target": "patient"},
+        "patient_to_third": {"speaker": "patient", "target": "third"},
+    }
+
+    if embedding is not None:
+        from sphere.topology.activation_propagation import propagate_activation
+        prop = propagate_activation(activation, embedding, propagation_trace=True)
+        activation["families"] = prop["families"]
+        activation["areas"] = prop["areas"]
+        activation["propagation_trace"] = prop.get("propagation_trace", [])
+
     return activation

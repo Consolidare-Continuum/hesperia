@@ -73,3 +73,15 @@ Use for: patient similarity, therapy progress, cluster detection.
 - **get_patient_text_only(text):** concatenated patient turns for analysis.
 
 Improves detection when input is turn-segmented TFP transcripts.
+
+## 8. Speaker-aware session parsing (LEVEL 15)
+
+**Module:** `hesperia.nlp.session_structure` + `hesperia.nlp.session_parser`
+
+- **Utterance(speaker, text, tokens):** single turn; `speaker` is `"patient"` or `"therapist"`.
+- **parse_session_dialogue(text):** split by "Patient:" / "Therapist:" lines; unlabeled lines default to patient. Each utterance gets tokenize + normalize → `tokens`.
+- **analyze_session_speaker_aware(text, ...):** pipeline: parse_session_dialogue → tokenize per utterance → detect_markers → speaker-weighted activation → optional propagation.
+- **Weights:** patient markers = 1.0 (mental dynamics), therapist markers = 0.5 (intervention). Constants: `PATIENT_MARKER_WEIGHT`, `THERAPIST_MARKER_WEIGHT`.
+- **Result shape:** `areas`, `families`, `concepts` (combined weighted) + `speaker_activation`: `{ "patient": { areas, families, concepts }, "therapist": { ... } }`.
+
+Pipeline: text → parse_session_dialogue → tokenize → detect_markers → speaker-weighted activation → propagation → Clinical ActiveGraph → KME. Prepares for transference/countertransference/role induction.

@@ -4,6 +4,10 @@
 **Language:** Russian  
 **Scope:** Run session transcripts through the model and receive structural analysis results.
 
+**See also:**
+- **[TFP_TESTING_STATUS.md](TFP_TESTING_STATUS.md)** — What’s implemented (speaker parsing, transference, temporal dynamics, session summary, etc.) and how to run TFP-related tests.
+- **[TASK_LIST_TFP_SESSION.md](TASK_LIST_TFP_SESSION.md)** — Task list (17–20 items) from the TFP testing session.
+
 ---
 
 ## 1. Input format: session transcripts

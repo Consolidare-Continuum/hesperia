@@ -14,6 +14,8 @@ import yaml
 
 _DICT_A_DIR = Path(__file__).resolve().parent
 _MARKERS_PATH = _DICT_A_DIR / "lexical_markers.yaml"
+_COLLOQUIAL_PATH = _DICT_A_DIR / "dictA_colloquial.yaml"
+_STOPWORDS_PATH = _DICT_A_DIR / "dictA_stopwords.yaml"
 
 
 def load_lexical_markers(path: Path | str | None = None) -> dict[str, Any]:
@@ -130,3 +132,38 @@ def build_phrase_marker_index(
             out[key][tkey] = []
         out[key][tkey].append((str(concept_id), weight))
     return out
+
+
+def build_colloquial_marker_index(path: Path | str | None = None) -> dict[str, list[tuple[str, float]]]:
+    """
+    Построить индекс разговорных/аффективных маркеров (dictA_colloquial.yaml).
+    Формат тот же: marker → [(concept_id, weight)]. Веса в файле обычно 1.2–1.3.
+    """
+    p = Path(path) if path is not None else _COLLOQUIAL_PATH
+    entries = _entries_from_path(p)
+    out: dict[str, list[tuple[str, float]]] = {}
+    for e in entries:
+        if not isinstance(e, dict):
+            continue
+        marker = e.get("marker")
+        concept_id = e.get("concept_id")
+        weight = float(e.get("weight", 1.2))
+        if not marker or not concept_id:
+            continue
+        key = str(marker).strip().lower()
+        if key not in out:
+            out[key] = []
+        out[key].append((str(concept_id), weight))
+    return out
+
+
+def load_stopwords(path: Path | str | None = None) -> set[str]:
+    """Загрузить clinical stopwords из dictA_stopwords.yaml (нормализованные, lowercase)."""
+    import yaml
+    p = Path(path) if path is not None else _STOPWORDS_PATH
+    if not p.exists():
+        return set()
+    with open(p, encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    words = data.get("stopwords") or []
+    return {str(w).strip().lower() for w in words if w}

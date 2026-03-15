@@ -280,3 +280,50 @@ def generate_report_text(report: dict[str, Any]) -> str:
         "Клинические флаги: " + ", ".join(report.get("clinical_flags") or ["нет"]),
     ]
     return "\n".join(parts)
+
+
+def generate_clinical_report_readable(
+    session_summary: dict[str, Any] | None = None,
+    analysis_result: dict[str, Any] | None = None,
+    interpretation: dict[str, Any] | None = None,
+    include_confidence: bool = True,
+) -> str:
+    """
+    Читаемый клинический отчёт в формате:
+    Dominant affect: ...
+    Primary defense: ...
+    Object representation: ...
+    Transference pattern: ...
+    С опциональным confidence после анализа.
+    """
+    if session_summary:
+        affects = session_summary.get("dominant_affects") or []
+        defense = session_summary.get("defense_pattern") or ""
+        obj_rel = session_summary.get("object_relations_pattern") or ""
+        trans = session_summary.get("transference_indicators") or []
+        coupling = session_summary.get("affect_defense_coupling") or {}
+        dom_affect = affects[0] if affects else (coupling.get("affect") or "—")
+    else:
+        interp = interpretation or {}
+        dom_affect = "—"
+        defense = interp.get("defense_pattern") or ""
+        obj_rel = interp.get("object_relation_pattern") or ""
+        trans = []
+
+    trans_str = ", ".join(trans) if trans else "—"
+    lines = [
+        f"Dominant affect: {dom_affect}",
+        f"Primary defense: {defense or '—'}",
+        f"Object representation: {obj_rel or '—'}",
+        f"Transference pattern: {trans_str}",
+    ]
+    if include_confidence and (session_summary or interpretation):
+        interp = interpretation or {}
+        ca = (session_summary or {}).get("affect_defense_coupling") or {}
+        def_conf = interp.get("defense_confidence") or ca.get("coupling_strength")
+        obj_conf = interp.get("object_relation_confidence")
+        if def_conf is not None:
+            lines.append(f"Defense confidence: {def_conf:.2f}")
+        if obj_conf is not None:
+            lines.append(f"Object relation confidence: {obj_conf:.2f}")
+    return "\n".join(lines)
