@@ -1,0 +1,49 @@
+// HESPERIA icosahedral surface graph (12 nodes, 30 edges, degree 5)
+// Meta nodes: A6, A12
+graph icosahedron {
+  layout=neato;
+  overlap=false;
+  splines=true;
+  node0 [label="A1"];
+  node1 [label="A2"];
+  node2 [label="A3"];
+  node3 [label="A4"];
+  node4 [label="A5"];
+  node5 [label="A6", shape=doubleoctagon, style=filled, fillcolor=lightgray];
+  node6 [label="A7"];
+  node7 [label="A8"];
+  node8 [label="A9"];
+  node9 [label="A10"];
+  node10 [label="A11"];
+  node11 [label="A12", shape=doubleoctagon, style=filled, fillcolor=lightgray];
+  node0 -- node1;
+  node0 -- node2;
+  node0 -- node5;
+  node0 -- node8;
+  node0 -- node11;
+  node1 -- node2;
+  node1 -- node3;
+  node1 -- node6;
+  node1 -- node9;
+  node2 -- node3;
+  node2 -- node4;
+  node2 -- node10;
+  node3 -- node4;
+  node3 -- node5;
+  node3 -- node8;
+  node4 -- node5;
+  node4 -- node6;
+  node4 -- node9;
+  node5 -- node7;
+  node5 -- node10;
+  node6 -- node7;
+  node6 -- node8;
+  node6 -- node11;
+  node7 -- node8;
+  node7 -- node9;
+  node7 -- node11;
+  node8 -- node10;
+  node9 -- node10;
+  node9 -- node11;
+  node10 -- node11;
+}

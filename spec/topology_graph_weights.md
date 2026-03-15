@@ -12,7 +12,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## Scope
 
-This specification defines the **propagation weights** used when computing influence between areas on the Layer-4 topology graph (12 areas, area adjacency from `data/topology/area_adjacency_matrix.json`).
+This specification defines the **propagation weights** used when computing influence between areas on the Layer-4 topology graph. The graph is an **icosahedral surface graph** (12 areas, 30 edges, degree 5 per node); adjacency from `data/topology/area_adjacency_matrix.json` (must satisfy icosahedral invariants). Meta nodes A6, A12 (indices 5, 11) use reduced propagation weight on incident edges.
 
 ## Weight Constants
 

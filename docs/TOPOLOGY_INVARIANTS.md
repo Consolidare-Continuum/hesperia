@@ -10,13 +10,36 @@ See LEGAL_NOTICE.md for full terms.
 
 This document is the **single source of truth** for topology geometry. Any change to these constants must be reflected here and reviewed.
 
+## Topology type: icosahedral surface graph
+
+The area topology is a **closed spheroid surface graph** with icosahedral adjacency:
+
+- **Nodes:** 12 (A1–A12, indices 0–11).
+- **Edges:** 30.
+- **Degree:** every node has exactly 5 neighbors.
+- **Structure:** skeleton of a regular icosahedron (12 vertices, 20 triangular faces).
+
+Validation (enforced at load time):
+
+- `degree(node) == 5` for every node.
+- `total_edges == 30`.
+- Graph is a single connected component.
+
+## Meta reference nodes (A6, A12)
+
+- **A6** (index 5) and **A12** (index 11) are **meta reference nodes** (semantic control anchors).
+- They remain **fully connected** in the graph (same 5 neighbors each); no geometric links are removed.
+- **Propagation:** `propagation_weight` is **reduced** on edges incident to meta nodes (default scale 0.5). They receive propagation normally but emit filtered propagation; they may act as calibration references.
+
 ## Invariants
 
 | Constant | Value | Description |
 |----------|--------|-------------|
 | **AREAS** | 12 | Number of topological areas (indices 0–11). |
 | **FAMILIES** | 288 | Number of families (indices 0–287). |
-| **ADJACENCY** | 12×12 symmetric matrix | Area adjacency: binary, symmetric, diagonal 0. No isolated nodes; graph connected. |
+| **ADJACENCY** | 12×12 symmetric, binary | Icosahedral: degree 5 per node, 30 edges, connected. |
+| **ICOSAHEDRAL_DEGREE** | 5 | Every node has exactly 5 neighbors. |
+| **ICOSAHEDRAL_EDGES** | 30 | Total edge count. |
 
 ## Public vs reserved (10+2) — project-wide decision
 
@@ -33,10 +56,42 @@ This document is the **single source of truth** for topology geometry. Any chang
 | Hexes | 72 000 | 60 000 | 12 000 |
 | Sides | 432 000 | 360 000 | 72 000 |
 
+## Icosahedral adjacency (canonical)
+
+Canonical adjacency equals the **geometric icosahedron** (unit-sphere embedding). Each node has exactly 5 neighbors (A1=0 … A12=11):
+
+- A1 → A2, A6, A8, A11, A12
+- A2 → A1, A6, A8, A9, A10
+- A3 → A4, A5, A7, A11, A12
+- A4 → A3, A5, A7, A9, A10
+- A5 → A3, A4, A6, A10, A12
+- A6 (meta) → A1, A2, A5, A10, A12
+- A7 → A3, A4, A8, A9, A11
+- A8 → A1, A2, A7, A9, A11
+- A9 → A2, A4, A7, A8, A10
+- A10 → A2, A4, A5, A6, A9
+- A11 → A1, A3, A7, A8, A12
+- A12 (meta) → A1, A3, A5, A6, A11
+
+## 3-D embedding (aligned)
+
+The 3-D unit-sphere embedding is **canonically aligned** to the topology graph via deterministic graph isomorphism (see `sphere/topology/embedding_alignment.py`). All exported coordinates and Graphviz layout use this aligned mapping. Topology and embedding describe the same labeled icosahedron; all graph edges have near-equal angular length (strict validation with tolerance 0.05).
+
+## Family embedding (two-scale geometry)
+
+Families are **not** placed directly on the icosahedron. The correct model is hierarchical:
+
+- **Icosahedron vertex** → **Area** (area-to-area topology).
+- **Inside each area** → **Local family lattice** (24 families: 1 center + 6 inner + 8 middle + 9 outer).
+- **Inside each family** → Concepts / hexes.
+
+Cross-area traversal uses **bridge families** only (see `spec/family_embedding_tfp.yaml` and `docs/specs/FAMILY_EMBEDDING.md`). Loader: `sphere.topology.family_embedding`.
+
 ## Data locations
 
-- Area adjacency: `data/topology/area_adjacency_matrix.json` (or configurable `topology_data_root`).
+- Area adjacency: `data/topology/area_adjacency_matrix.json` (or configurable `topology_data_root`). Must satisfy icosahedral invariants (degree 5, 30 edges, connected).
 - Family → area mapping: `data/topology/family_to_area_map.json` (canonical order `family_001` … `family_288` → area index 0–11).
+- Family embedding (local lattices + bridges): `spec/family_embedding_tfp.yaml`.
 - Reserved (service) areas and families: `assets/reserve/reserved_areas.json`, `reserved_families_registry.json`, `reserved_hex_registry.json`. See **Public vs reserved (10+2)** above.
 
 ## Rules

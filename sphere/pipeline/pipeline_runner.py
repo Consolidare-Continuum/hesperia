@@ -142,16 +142,18 @@ def run_pipeline(
         area_sequence = [0]
 
     try:
-        from sphere.topology.topology_loader import load_area_adjacency, load_family_area_mapping
+        from sphere.topology.topology_loader import (
+            load_area_adjacency,
+            load_family_area_mapping,
+            get_icosahedral_adjacency,
+        )
         topology_root = config.get("topology_data_root")
         adj_matrix = load_area_adjacency(topology_root)
         family_to_area = load_family_area_mapping(topology_root)
     except Exception:
+        from sphere.topology.topology_loader import get_icosahedral_adjacency
         import numpy as np
-        adj_matrix = np.zeros((12, 12), dtype=np.int64)
-        for i in range(12):
-            adj_matrix[i, (i - 1) % 12] = 1
-            adj_matrix[i, (i + 1) % 12] = 1
+        adj_matrix = get_icosahedral_adjacency()
         family_to_area = np.array([f // 24 for f in range(288)], dtype=np.int64)
 
     try:

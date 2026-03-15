@@ -47,3 +47,34 @@ def test_adjacency_matrix_binary() -> None:
     import numpy as np
     matrix = load_area_adjacency()
     assert np.all((matrix == 0) | (matrix == 1))
+
+
+def test_icosahedral_degree_five() -> None:
+    """Icosahedral rule: every node has degree 5."""
+    from sphere.topology import load_area_adjacency, ICOSAHEDRAL_DEGREE
+    matrix = load_area_adjacency()
+    for i in range(12):
+        assert matrix[i, :].sum() == ICOSAHEDRAL_DEGREE, f"node {i} must have degree {ICOSAHEDRAL_DEGREE}"
+
+
+def test_icosahedral_edge_count() -> None:
+    """Icosahedral rule: total edges == 30 (symmetric, so sum/2)."""
+    from sphere.topology import load_area_adjacency, ICOSAHEDRAL_EDGES
+    matrix = load_area_adjacency()
+    total_edges = int(matrix.sum()) // 2
+    assert total_edges == ICOSAHEDRAL_EDGES, f"expected {ICOSAHEDRAL_EDGES} edges, got {total_edges}"
+
+
+def test_validate_icosahedral_rejects_ring() -> None:
+    """validate_icosahedral raises when matrix has degree != 5 (e.g. ring)."""
+    import numpy as np
+    from sphere.topology import validate_icosahedral
+    ring = np.zeros((12, 12), dtype=np.int64)
+    for i in range(12):
+        ring[i, (i - 1) % 12] = 1
+        ring[i, (i + 1) % 12] = 1
+    try:
+        validate_icosahedral(ring)
+        assert False, "expected ValueError for ring (degree 2)"
+    except ValueError as e:
+        assert "degree" in str(e).lower() or "5" in str(e)

@@ -32,7 +32,7 @@ SIDES_PER_FAMILY = HEXES_PER_FAMILY * SIDES_PER_HEX  # 1_500
 SIDES_PER_AREA = FAMILIES_PER_AREA * SIDES_PER_FAMILY  # 36_000
 
 # -----------------------------------------------------------------------------
-# Canonical area set (12 names, ring order)
+# Canonical area set (12 names; topology is icosahedral surface graph)
 # -----------------------------------------------------------------------------
 CANONICAL_AREA_SET: frozenset[str] = frozenset({
     "GOOD", "CARE", "ORDER", "CONTROL", "INDIFFERENCE", "HARM",

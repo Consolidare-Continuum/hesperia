@@ -96,6 +96,36 @@ def _confidence_delta(d1: dict, d2: dict) -> str:
     return "different"
 
 
+def _parse_batch_input(data: object) -> tuple[list[str], list[str] | None]:
+    """Parse JSON input. Returns (texts, session_ids or None). session_ids only when 'sessions' format."""
+    if isinstance(data, list):
+        if not data:
+            return [], None
+        if isinstance(data[0], dict):
+            return [t.get("text", "") or "" for t in data], [
+                t.get("session_id", f"session_{i}") for i, t in enumerate(data)
+            ]
+        return [str(x) if x is not None else "" for x in data], None
+    if isinstance(data, dict):
+        if "sessions" in data:
+            sessions = data["sessions"]
+            if not sessions:
+                return [], None
+            return [
+                s.get("text", "") or "" for s in sessions
+            ], [
+                s.get("session_id", f"session_{i}") for i, s in enumerate(sessions)
+            ]
+        if "texts" in data:
+            texts = data["texts"]
+            if not texts:
+                return [], None
+            if isinstance(texts[0], dict):
+                return [t.get("text", "") or "" for t in texts], None
+            return [str(x) if x is not None else "" for x in texts], None
+    return [], None
+
+
 def _cmd_batch_analyze(args: object) -> int:
     input_path = getattr(args, "input", None)
     texts_argv = getattr(args, "texts", None) or []
@@ -106,11 +136,10 @@ def _cmd_batch_analyze(args: object) -> int:
     if input_path:
         with open(input_path, encoding="utf-8") as f:
             data = json.load(f)
-        texts = data if isinstance(data, list) else data.get("texts", [])
-        if isinstance(texts[0], dict):
-            texts = [t.get("text", "") for t in texts]
+        texts, session_ids = _parse_batch_input(data)
     else:
         texts = list(texts_argv) if texts_argv else []
+        session_ids = None
 
     if not texts:
         print("No input texts. Use --input path.json or --texts '...' '...'", file=sys.stderr)
@@ -119,6 +148,9 @@ def _cmd_batch_analyze(args: object) -> int:
     from runtime.services.analysis_service import run_structural_analysis_batch
 
     results = run_structural_analysis_batch(texts, assets_root=assets_path)
+    if session_ids is not None and len(session_ids) == len(results):
+        for i, sid in enumerate(session_ids):
+            results[i]["session_id"] = sid
     from runtime.shipping.schema_guard import validate_against_public_schema
     validate_against_public_schema(results)
     out = json.dumps(results, indent=2, ensure_ascii=False, sort_keys=True)
@@ -157,7 +189,7 @@ def main() -> int:
 
     # batch-analyze
     p_batch = sub.add_parser("batch-analyze", help="Run structural analysis on multiple texts.")
-    p_batch.add_argument("--input", type=str, default=None, help="JSON file: list of strings or object with 'texts' key.")
+    p_batch.add_argument("--input", type=str, default=None, help="JSON file: list of strings, or {texts: [...]}, or {sessions: [{session_id, text}, ...]}.")
     p_batch.add_argument("--texts", type=str, nargs="*", default=[], help="Texts as arguments.")
     p_batch.add_argument("--out", type=str, default=None, help="Write results JSON to this path.")
     p_batch.set_defaults(_run=_cmd_batch_analyze)
@@ -172,7 +204,7 @@ def main() -> int:
             print(f"build: {BUILD or 'unknown'}")
         except Exception:
             print("HESPERIA Runtime")
-            print("version: 0.4.1")
+            print("version: 0.4.2")
             print("commit: unknown")
             print("build: unknown")
         return 0

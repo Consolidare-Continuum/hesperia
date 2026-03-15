@@ -28,8 +28,11 @@ def test_load_all_returns_three_artifacts() -> None:
     assert "neighbors" in graph
 
 
-def test_build_topology_graph_ring() -> None:
-    """Ring topology: area 0 neighbors are 1 and 11."""
-    from sphere.topology import build_topology_graph
+def test_build_topology_graph_icosahedral() -> None:
+    """Icosahedral topology: area 0 (A1) has 5 neighbors (geometric icosahedron)."""
+    from sphere.topology import build_topology_graph, ICOSAHEDRAL_DEGREE, ICOSAHEDRAL_EDGES
     graph = build_topology_graph()
-    assert set(graph["neighbors"][0]) == {1, 11}
+    assert set(graph["neighbors"][0]) == {1, 5, 7, 10, 11}
+    assert graph["edges"] == ICOSAHEDRAL_EDGES
+    for i in range(12):
+        assert len(graph["neighbors"][i]) == ICOSAHEDRAL_DEGREE, f"area {i} must have degree 5"

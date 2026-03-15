@@ -50,7 +50,11 @@ def test_uniform_weights_symmetric_flow():
     fa = _family_to_area()
     v = np.zeros(12)
     v[0] = 1.0
-    out = compute_propagation(v, np.zeros(288), adj, fa, base_alpha=1.0, normalize_output=False)
+    # use_meta_filter=False so meta nodes (5, 11) don't get reduced weight; test expects uniform flow
+    out = compute_propagation(
+        v, np.zeros(288), adj, fa,
+        base_alpha=1.0, normalize_output=False, use_meta_filter=False,
+    )
     p = out["propagated_area_vector"]
     # Neighbors of 0 are 1 and 11; with uniform weights they get equal mass
     assert abs(p[1] - p[11]) < 1e-9

@@ -22,8 +22,12 @@ from sphere.propagation.diffusion import (
     propagate_area_vector as _propagate_area_vector,
 )
 from sphere.propagation.family_projection import propagate_family_counts
-from sphere.propagation.weighting import compute_effective_diffusion_rate
+from sphere.propagation.weighting import (
+    compute_effective_diffusion_rate,
+    build_meta_filtered_edge_weights,
+)
 from sphere.propagation.diagnostics import build_propagation_diagnostics
+from sphere.topology import META_AREA_INDICES
 
 NUM_AREAS = 12
 NUM_FAMILIES = 288
@@ -37,6 +41,7 @@ def compute_propagation(
     *,
     base_alpha: float = 0.5,
     edge_weights: np.ndarray | None = None,
+    use_meta_filter: bool = True,
     normalize_output: bool = True,
     stability_index: float | None = None,
     jump_rate: float | None = None,
@@ -54,7 +59,7 @@ def compute_propagation(
       adjacency: 12×12 from sphere/topology
       family_to_area: length 288 from sphere/topology
       base_alpha: diffusion strength [0,1]
-      edge_weights: optional 12×12; if None, uniform over neighbors
+      edge_weights: optional 12×12; if None and use_meta_filter True, meta nodes (A6, A12) get reduced weight
       normalize_output: if True, L1-normalize propagated area (and family) output
       stability_index, jump_rate: optional dynamism signals for alpha modulation
 
@@ -82,6 +87,8 @@ def compute_propagation(
     stability_mod = stability_index is not None
     jump_mod = jump_rate is not None
 
+    if edge_weights is None and use_meta_filter:
+        edge_weights = build_meta_filtered_edge_weights(adj, META_AREA_INDICES, scale=0.5)
     W = build_propagation_matrix(adj, edge_weights)
     active_edges = int(vector_sum((adj > 0).astype(np.float64)))
 
