@@ -58,6 +58,7 @@ Do not use or reintroduce old roots such as `sphere_rag/`, `hesperia_lex/`, `scr
   - Specs.
   - Architecture documentation.
   - Governance rules that remain active documentation.
+  - **`docs/HESPERIA_SYSTEM_AWARENESS.md`** — end-to-end system & product awareness for agents (placement engine, projection, GTM, risks). **`docs/research/`** — deep research archive.
 
 - `legacy/`
   - Archived historical code and references.
@@ -81,6 +82,17 @@ Treat the following as the active runtime stack:
 ## Legacy Safety Rule
 
 Agents must never modify code under `legacy/` unless explicitly instructed to perform archival maintenance.
+
+## System awareness (further development)
+
+- **`docs/HESPERIA_SYSTEM_AWARENESS.md`** — placement inspector, public projection, evidence/trust, TRIZ/KME; TFP/clinical as domain plug-in.
+- **`docs/research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md`** — long-form synthesis.
+- **`docs/HESPERIA_*.md`** — repository map, dependency graph, variable catalog, product lines/stack.
+- **`docs/specs/README.md`** — spec hub (Ethan dynamics, calibration, Grace triage).
+- **Dynamics:** **`PHASE2`–`PHASE4`** (L5/L4/L8) + **`HEX_CAP`**; proceed log `ETHAN-OPEN-WORKFLOW-PROCEED.md`.
+- **Calibration:** `docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md`.
+- **Grace triage:** `docs/specs/TRIAGE_TASK_GRACE.md` → output `docs/specs/triage/GRACE_TRIAGE_REPORT.md`.
+- **Cursor open workflow (this repo):** `docs/CURSOR_OPEN_WORKFLOW.md` — OPEN queue + proceed order; global orchestrator may live on another host.
 
 ## Path/Command Hygiene
 

@@ -52,6 +52,10 @@ For implementation, reproduction, or derivative use, explicit written permission
 
 ## What's in the repo
 
+**System awareness (agents, product boundary, integration):** [docs/HESPERIA_SYSTEM_AWARENESS.md](docs/HESPERIA_SYSTEM_AWARENESS.md)  
+**Semantic field dynamics (Ethan spec, hex layer, H1–H9):** [docs/specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](docs/specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md)  
+**Dynamics calibration (v0.1):** [docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md)
+
 **Full map (layers, directories, pipeline):** [docs/HESPERIA_REPOSITORY_MAP.md](docs/HESPERIA_REPOSITORY_MAP.md)  
 **Dependency graph (testing order, frozen vs tunable):** [docs/HESPERIA_DEPENDENCY_GRAPH.md](docs/HESPERIA_DEPENDENCY_GRAPH.md)  
 **Variable & signal catalog (~176 measurable variables, KME/TRIZ keys):** [docs/HESPERIA_VARIABLE_CATALOG.md](docs/HESPERIA_VARIABLE_CATALOG.md)  
@@ -81,7 +85,7 @@ For implementation, reproduction, or derivative use, explicit written permission
 
 ## Run it
 
-**Full E2E (all flows, 9 artifacts — see [docs/E2E_RUN_ORDER.md](docs/E2E_RUN_ORDER.md)):**  
+**Full E2E (9 artifacts; optional 10th with `HESPERIA_FIELD_DYNAMICS=1` — [docs/E2E_RUN_ORDER.md](docs/E2E_RUN_ORDER.md)):**  
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

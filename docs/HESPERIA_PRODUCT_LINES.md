@@ -7,7 +7,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # HESPERIA — product lines (as of now)
 
-Commercial **product lines** mapped to engine signals. Variable names are **product vocabulary** where applicable; canonical keys: [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Layered stack (text → product signals):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). TRIZ commercial bundles: [COMMERCIAL_TRIZ_PRODUCTS.md](COMMERCIAL_TRIZ_PRODUCTS.md). Implementation surface: `hesperia/product/`, `runtime/api/`.
+Commercial **product lines** mapped to engine signals. Variable names are **product vocabulary** where applicable; canonical keys: [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Layered stack (text → product signals):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **Placement engine & boundaries:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md). TRIZ commercial bundles: [COMMERCIAL_TRIZ_PRODUCTS.md](COMMERCIAL_TRIZ_PRODUCTS.md). Implementation surface: `hesperia/product/`, `runtime/api/`.
 
 ---
 

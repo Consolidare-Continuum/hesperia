@@ -9,7 +9,7 @@ See LEGAL_NOTICE.md for full terms.
 
 This is **not** a directory tree. It is the **runtime dependency graph**: what feeds what, what to treat as frozen during testing, and where failures propagate.
 
-**Companion:** [HESPERIA_REPOSITORY_MAP.md](HESPERIA_REPOSITORY_MAP.md) (what lives where). **Signals:** [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Product lines:** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md). **Product stack:** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **Geometry truth:** [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
+**Companion:** [HESPERIA_REPOSITORY_MAP.md](HESPERIA_REPOSITORY_MAP.md) (what lives where). **Signals:** [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Product lines:** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md). **Product stack:** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **Field dynamics (L0–L10 wire, H0–H9 + Part B hex):** [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md). **Geometry truth:** [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
 
 ---
 
@@ -28,6 +28,24 @@ The current repository provides:
 | **Product-ready analytics** | `hesperia/product`, `runtime/api`, reports |
 
 **Next depth:** this document is the **structural dependency map** (~core modules). For a finer import-level graph, generate from static analysis (e.g. `pydeps`, `importlab`) on `hesperia/`, `sphere/`, `runtime/`.
+
+### Dynamics pipeline vs dependency layers (crosswalk)
+
+**Two views:** Layers **0–11** here are **code / change-impact**. **[Ethan spec](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) Part A L0–L10** is the **temporal** discrete-time field pipeline. Approximate mapping:
+
+| L (Ethan) | Dependency-layer focus |
+|-----------|-------------------------|
+| L0 | Input text, session envelope |
+| L1–L2 | NLP, lexicon (Dict A/B) |
+| L3 | Activation & weights |
+| L4 | Matrix / family–area, graph construction |
+| L5 | Sphere topology & propagation (L1–L9 numeric pipeline) |
+| L6 | KME / fingerprint |
+| L7 | TRIZ |
+| L8 | Domain projections (e.g. clinical) |
+| L9–L10 | Reports, API, product surfaces |
+
+Authoritative L-layer list: Ethan §A.
 
 ---
 

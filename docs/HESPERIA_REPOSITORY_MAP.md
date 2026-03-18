@@ -7,6 +7,8 @@ See LEGAL_NOTICE.md for full terms.
 
 # HESPERIA — repository map (canonical description)
 
+**End-to-end awareness (product + integration):** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md) · [research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md](research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md)
+
 **Purpose:** Single document describing what the archive is, how top-level directories map to layers, and how execution flows. Use this as the **long-form repo description** (GitHub’s short “Description” field is ~350 characters — link here or paste a one-line summary).
 
 **Suggested GitHub short description (paste into repo Settings → Description):**  
