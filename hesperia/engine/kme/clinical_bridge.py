@@ -168,11 +168,35 @@ def run_kme_from_activation(
         domain_release=domain_release,
         source_id=source_id,
     )
+    from hesperia.engine.triz.kme_bridge import run_triz_for_kme
+
+    topo: dict[str, Any] | None = None
+    c2a = activation_result.get("concept_to_area")
+    c2f = activation_result.get("concept_to_family")
+    if isinstance(c2a, dict) and isinstance(c2f, dict):
+
+        def _ival(x: Any) -> int | None:
+            try:
+                return int(x)
+            except (TypeError, ValueError):
+                try:
+                    return int(float(x))
+                except (TypeError, ValueError):
+                    return None
+
+        ca = {str(k): v for k, v in c2a.items() if str(k) in active_graph.nodes and _ival(v) is not None}
+        cf = {str(k): v for k, v in c2f.items() if str(k) in active_graph.nodes and _ival(v) is not None}
+        ca = {k: _ival(v) for k, v in ca.items()}
+        cf = {k: _ival(v) for k, v in cf.items()}
+        if ca and cf:
+            topo = {"concept_to_area": dict(sorted(ca.items())), "concept_to_family": dict(sorted(cf.items()))}
+    triz_signals = run_triz_for_kme(active_graph, topo)
     return MetricReport(
         source_id=source_id,
         primitive_map=primitives.to_dict(),
         derived_map=derived.to_dict(),
         fingerprint=fingerprint,
+        triz_signals=triz_signals,
     )
 
 

@@ -27,6 +27,7 @@ from hesperia.engine.kme.models import (
     PrimitiveMetrics,
     RelationCandidate,
 )
+from hesperia.engine.triz.models import TRIZSignals
 from hesperia.engine.kme.active_graph import build_active_graph
 from hesperia.engine.kme.derived.calculator import (
     compute,
@@ -107,6 +108,7 @@ __all__ = [
     "MetricReport",
     "PrimitiveMetrics",
     "RelationCandidate",
+    "TRIZSignals",
     "build_active_graph",
     "build_fingerprint",
     "build_profile",

@@ -10,7 +10,8 @@ See LEGAL_NOTICE.md for full terms.
 
 Single manifest of all outputs produced by the canonical E2E run.  
 **Entrypoint:** `python3 -m runtime.pipeline.run_e2e_all [--out-dir path]`  
-**Default out-dir:** `assets/artifacts/e2e/`
+**Default out-dir:** `assets/artifacts/e2e/`  
+**Run order (modules, dependencies):** `docs/E2E_RUN_ORDER.md`
 
 ## Output files (all under `assets/artifacts/e2e/`)
 
@@ -22,17 +23,13 @@ Single manifest of all outputs produced by the canonical E2E run.
 | 4 | `run_output_e2e_sphere_math_values.json` | Sphere math (L1–L9 values only) for default text |
 | 5 | `run_output_e2e_sphere_math_100.json` | Sphere math on first N calibration sentences (limit 3) |
 | 6 | `run_output_e2e_domain_metrics.json` | Domain metrics stage: 6 primitives, 35 derived, 41-signal fingerprint, vectorHash |
+| 7 | `run_output_e2e_session_kme.json` | Session NLP → KME + TRIZ (`run_session_kme_pipeline`) |
+| 8 | `run_output_e2e_triz_complete.json` | TRIZ complete report (`run_triz_analysis_complete`; CSV as byte lengths) |
+| 9 | `run_output_e2e_session_topology.json` | Clinical session topology (segmented windows; segments may be truncated) |
 
 ## Absolute paths (default run)
 
-```
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_sentence.json
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_l1_l9.json
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_r1_r4.json
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_sphere_math_values.json
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_sphere_math_100.json
-/data/hesperia/hesperia/assets/artifacts/e2e/run_output_e2e_domain_metrics.json
-```
+Paths follow `$REPO/assets/artifacts/e2e/run_output_e2e_*.json` for basenames 1–9 above.
 
 ## Verify
 

@@ -108,6 +108,22 @@ class ActiveGraph:
 
     nodes: dict[str, ActiveNode]
     edges: list[ActiveEdge]
+    # Optional matrix placement per concept (area_id, family_id); TRIZ / explainability read-only.
+    concept_coordinates: dict[str, dict[str, int]] | None = None
+
+    @property
+    def node_weights(self) -> dict[str, float]:
+        """Normalized activation weights in [0,1] from hit counts (same signal as TRIZ engines)."""
+        if not self.nodes:
+            return {}
+        mx = max((n.hit_count for n in self.nodes.values()), default=1)
+        mx = max(mx, 1)
+        return {cid: min(1.0, float(n.hit_count) / float(mx)) for cid, n in sorted(self.nodes.items())}
+
+    @property
+    def coordinates(self) -> dict[str, dict[str, int]]:
+        """Alias for concept_coordinates (empty dict if unset)."""
+        return dict(self.concept_coordinates) if self.concept_coordinates else {}
 
     def to_dict(self) -> dict[str, object]:
         """JSON-serializable dict; nodes by conceptId, edges sorted."""
@@ -126,7 +142,12 @@ class ActiveGraph:
                 key=lambda x: (x.source_concept_id, x.target_concept_id, x.relation_type),
             )
         ]
-        return {"nodes": nodes_out, "edges": edges_out}
+        out: dict[str, object] = {"nodes": nodes_out, "edges": edges_out}
+        if self.concept_coordinates:
+            out["conceptCoordinates"] = {
+                k: dict(v) for k, v in sorted(self.concept_coordinates.items())
+            }
+        return out
 
 
 # ---------------------------------------------------------------------------
@@ -287,16 +308,18 @@ class DocumentInput:
     source_id: str
     hits: list[ConceptHit]
     relations: list[RelationCandidate]
+    concept_to_area_family: dict[str, tuple[str, str]] | None = None
 
 
 @dataclass
 class MetricReport:
-    """Full pipeline output: 41 metrics, fingerprint vector, hash, and maps for JSON report."""
+    """Full pipeline output: 41 metrics, fingerprint vector, hash, TRIZ signals (optional), JSON maps."""
 
     source_id: str
     primitive_map: dict[str, float]
     derived_map: dict[str, float]
     fingerprint: DomainFingerprint
+    triz_signals: object | None = None  # hesperia.engine.triz.models.TRIZSignals when set
 
 
 # ---------------------------------------------------------------------------

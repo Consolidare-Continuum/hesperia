@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Hesperia Analyze API — FastAPI. GET /health, POST /hesperia/analyze.
+Hesperia Analyze API — FastAPI. GET /health, POST /hesperia/analyze, POST /analysis/triz.
 GPT Actions compliant: Bearer auth, OpenAPI 3.x, strict body (text only), rate limit + hardening via nginx.
 """
 from __future__ import annotations
@@ -111,6 +111,16 @@ class AnalyzeBody(BaseModel):
     r1_r4: bool = Field(default=False, description="If true, run R1–R4 pipeline and include units + book_profile in extended")
 
 
+class TrizBody(BaseModel):
+    """TRIZ layer: active graph + optional topology (adjacency, concept_matrix, …)."""
+    model_config = ConfigDict(extra="forbid")
+    active_graph: dict[str, Any] = Field(..., description="KME-style { nodes, edges }")
+    topology: dict[str, Any] | None = Field(default=None)
+    narrative_id: str = Field(default="narrative_primary", max_length=256)
+    run_id: str | None = Field(default=None, max_length=256, description="Optional history key for persistence filters")
+    topology_mode: bool = Field(default=True, description="Use canonical area propagation when area+family maps exist")
+
+
 class ErrorBody(BaseModel):
     error: bool = True
     message: str
@@ -189,6 +199,36 @@ async def hesperia_analyze(
         )
 
 
+@app.post(
+    "/analysis/triz",
+    response_model=None,
+    status_code=200,
+    summary="TRIZ analytics layer",
+    description="Contradictions, innovation clusters, narrative propagation. Requires Bearer.",
+)
+async def analysis_triz(
+    body: TrizBody,
+    _: None = Depends(verify_bearer),
+) -> JSONResponse:
+    try:
+        from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+
+        ag = active_graph_from_payload(body.active_graph)
+        content = run_triz_analysis_complete(
+            ag,
+            body.topology,
+            narrative_id=body.narrative_id,
+            run_id=body.run_id,
+            topology_mode=body.topology_mode,
+        )
+        return JSONResponse(content=content)
+    except Exception:
+        return JSONResponse(
+            status_code=500,
+            content={"error": True, "message": "Internal error", "code": 500},
+        )
+
+
 @app.exception_handler(PermissionError)
 async def permission_handler(_request: Request, exc: PermissionError) -> JSONResponse:
     msg = str(exc)
@@ -213,6 +253,14 @@ async def validation_handler(_request: Request, exc: RequestValidationError) -> 
         content={"error": True, "message": msg, "code": 422},
     )
 
+
+# TRIZ MVP API v1 (schema-validated envelope)
+try:
+    from runtime.api.triz_mvp_v1 import router as triz_mvp_router
+
+    app.include_router(triz_mvp_router)
+except Exception:
+    pass
 
 # 413 from body size is handled by FastAPI when body > max_length (Pydantic); larger payloads may hit nginx first.
 # 401 from HTTPBearer (missing/invalid header) is automatic; we override only for wrong key via PermissionError.

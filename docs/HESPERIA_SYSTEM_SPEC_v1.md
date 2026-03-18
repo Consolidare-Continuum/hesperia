@@ -120,7 +120,7 @@ Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `L
 11. run_all_guards(result, …).
 12. Return document_id, layer_outputs, usf, pipeline_metadata, diagnostics, shadow_metrics, logic_metrics, interpretation_metrics, prolog_logic, guards.
 
-**Entrypoints:** sphere.pipeline.run_pipeline (canonical); runtime.pipeline.run_l1_through_l9 (delegates to sphere, maps to L1..L9 + USF/interpretation/guards); runtime.runners.run_reference_pipeline (CLI); runtime.pipeline.run_e2e_all (sentence, L1–L9, R1–R4, sphere_math_values, sphere_math_100).
+**Entrypoints:** sphere.pipeline.run_pipeline (canonical); runtime.pipeline.run_l1_through_l9 (delegates to sphere, maps to L1..L9 + USF/interpretation/guards); runtime.runners.run_reference_pipeline (CLI); runtime.pipeline.run_e2e_all (sentence, L1–L9, R1–R4, sphere_math, domain_metrics, session KME, TRIZ complete, session topology — see docs/E2E_RUN_ORDER.md).
 
 ---
 

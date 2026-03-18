@@ -30,6 +30,7 @@ keys/
 # Data and logs
 assets/v040/
 assets/v041/
+noone/
 hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/

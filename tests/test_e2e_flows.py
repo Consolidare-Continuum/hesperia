@@ -6,7 +6,8 @@
 
 """
 E2E flow tests: run all Hesperia entrypoints and assert output exists (no calibration).
-Covers: analyze (sentence), L1–L9, R1–R4, sphere_math_values, sphere_math_100, and unified run_e2e_all.
+Covers: analyze (sentence), L1–L9, R1–R4, sphere_math, domain_metrics, session KME, TRIZ complete,
+session topology, and unified run_e2e_all.
 """
 
 from __future__ import annotations
@@ -15,9 +16,12 @@ import json
 import sys
 from pathlib import Path
 
+# Repo root must precede tests/ so `import runtime` resolves to runtime/, not tests/runtime/.
 _REPO = Path(__file__).resolve().parents[1]
-if str(_REPO) not in sys.path:
-    sys.path.insert(0, str(_REPO))
+_rs = str(_REPO)
+if _rs in sys.path:
+    sys.path.remove(_rs)
+sys.path.insert(0, _rs)
 
 
 def test_e2e_analyze_sentence_output_exists() -> None:
@@ -119,6 +123,28 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert len(content) > 0
             if path.suffix == ".json":
                 json.loads(content)
+
+
+def test_e2e_session_kme_and_triz_artifacts_shape() -> None:
+    """Session engine stages produce report or triz_complete (or _error), never empty file."""
+    from runtime.pipeline.run_e2e_all import run_e2e_session_kme, run_e2e_triz_complete, run_e2e_session_topology
+
+    text = "Терапевт интерпретирует перенос и границы сессии."
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        base = Path(d)
+        sk = base / "session_kme.json"
+        run_e2e_session_kme(sk, text)
+        data = json.loads(sk.read_text(encoding="utf-8"))
+        assert "report" in data or "_error" in data
+        tc = base / "triz.json"
+        run_e2e_triz_complete(tc, text)
+        tdata = json.loads(tc.read_text(encoding="utf-8"))
+        assert "triz_complete" in tdata or "_error" in tdata
+        st = base / "topo.json"
+        run_e2e_session_topology(st, text)
+        sdata = json.loads(st.read_text(encoding="utf-8"))
+        assert "session_topology" in sdata or "_error" in sdata
 
 
 def test_e2e_domain_metrics_stage_in_pipeline() -> None:

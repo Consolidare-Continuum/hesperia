@@ -61,16 +61,54 @@ class HesperiaPipelineRunner:
         hits: list,
         relations: list,
         domain_release: str = "",
+        *,
+        concept_to_area_family: dict[str, tuple[str, str]] | None = None,
     ) -> "MetricReport":
-        """Run pipeline and return full metric report (primitives, derived, fingerprint)."""
-        from hesperia.engine.kme.models import MetricReport
+        """
+        Run pipeline and return full metric report (primitives, derived, fingerprint, TRIZ signals).
 
-        fp = self.run_pipeline(source_id, hits, relations, domain_release)
+        Optional ``concept_to_area_family`` (concept_id → (area, family) strings) feeds
+        explainability ``build_activation_trace`` → topology for TRIZ binding and routes.
+        """
+        from hesperia.engine.explainability import build_activation_trace
+        from hesperia.engine.kme.active_graph import build_active_graph
+        from hesperia.engine.kme.derived.calculator import compute_derived_metrics
+        from hesperia.engine.kme.fingerprint.builder import build_fingerprint
+        from hesperia.engine.kme.models import MetricReport
+        from hesperia.engine.kme.primitives.calculator import compute_primitives
+        from hesperia.engine.triz.kme_bridge import (
+            build_topology_from_activation_trace,
+            run_triz_for_kme,
+            topology_from_graph_coordinates,
+        )
+
+        active_graph = build_active_graph(hits, relations, self.domain_graph)
+        primitives = compute_primitives(active_graph, self.domain_constants)
+        derived = compute_derived_metrics(primitives)
+        fingerprint = build_fingerprint(
+            primitives,
+            derived,
+            domain_release=domain_release,
+            source_id=source_id,
+        )
+
+        topo: dict | None = None
+        if concept_to_area_family:
+            markers = [(cid, float(n.hit_count)) for cid, n in sorted(active_graph.nodes.items())]
+            trace = build_activation_trace(markers, concept_to_area_family)
+            topo = build_topology_from_activation_trace(trace) or None
+        elif active_graph.concept_coordinates:
+            topo = topology_from_graph_coordinates(active_graph)
+
+        # TRIZ: hesperia.engine.triz.triz_pipeline.run_triz_analysis (via run_triz_layer)
+        triz_signals = run_triz_for_kme(active_graph, topo)
+
         return MetricReport(
             source_id=source_id,
-            primitive_map=fp.primitive_map,
-            derived_map=fp.derived_map,
-            fingerprint=fp,
+            primitive_map=fingerprint.primitive_map,
+            derived_map=fingerprint.derived_map,
+            fingerprint=fingerprint,
+            triz_signals=triz_signals,
         )
 
 
@@ -94,10 +132,16 @@ def run_document(
     hits: list,
     relations: list,
     domain_release: str = "",
+    **kwargs: object,
 ) -> "MetricReport":
-    """One-shot: domain + document inputs → MetricReport."""
+    """One-shot: domain + document inputs → MetricReport (optional ``concept_to_area_family`` for TRIZ topology)."""
     runner = HesperiaPipelineRunner(domain_graph, domain_constants)
-    return runner.run_document(source_id, hits, relations, domain_release)
+    caf = kwargs.pop("concept_to_area_family", None)
+    if kwargs:
+        raise TypeError(f"run_document: unexpected kwargs {set(kwargs)}")
+    return runner.run_document(
+        source_id, hits, relations, domain_release, concept_to_area_family=caf
+    )
 
 
 def run_corpus(
@@ -118,6 +162,7 @@ def run_corpus(
                 doc.hits,
                 doc.relations,
                 domain_release=domain_release,
+                concept_to_area_family=doc.concept_to_area_family,
             )
         else:
             raise TypeError("Each document must be DocumentInput")
@@ -126,13 +171,16 @@ def run_corpus(
 
 
 def metric_report_to_dict(report: "MetricReport") -> dict:
-    """Return JSON-serializable dict: sourceId, primitives, derived, fingerprint (stable for deterministic export)."""
-    return {
+    """Return JSON-serializable dict: sourceId, primitives, derived, fingerprint, triz (optional)."""
+    out = {
         "sourceId": report.source_id,
         "primitives": report.primitive_map,
         "derived": report.derived_map,
         "fingerprint": report.fingerprint.to_dict(),
     }
+    if report.triz_signals is not None:
+        out["triz"] = report.triz_signals.to_dict()
+    return out
 
 
 def export_metric_report_json(path: str | Path, report: "MetricReport") -> None:

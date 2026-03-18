@@ -53,7 +53,7 @@ This pulls `requirements_surface.txt` (sentence-transformers, torch, etc.). Firs
 
 All commands below are run with the repo root as current directory (so `core`, `runtime`, `sphere`, etc. are on the path).
 
-**Full E2E (all flows, 6 artifacts):**
+**Full E2E (all flows, 9 artifacts; order: `docs/E2E_RUN_ORDER.md`):**
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all
