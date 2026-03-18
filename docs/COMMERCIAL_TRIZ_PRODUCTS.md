@@ -1,5 +1,7 @@
 # Commercial TRIZ products (decision intelligence)
 
+**Broader product taxonomy (structural, narrative, fingerprint, domain topology):** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md).
+
 Raw engine outputs (`contradictions`, `innovation_clusters`, `narratives`, `atomic_metrics`) are extended with **`commercial_intelligence`** on every `run_triz_analysis_complete` response.
 
 ## Core customer signals (`core_signals`)

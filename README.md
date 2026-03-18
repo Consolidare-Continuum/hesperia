@@ -52,6 +52,12 @@ For implementation, reproduction, or derivative use, explicit written permission
 
 ## What's in the repo
 
+**Full map (layers, directories, pipeline):** [docs/HESPERIA_REPOSITORY_MAP.md](docs/HESPERIA_REPOSITORY_MAP.md)  
+**Dependency graph (testing order, frozen vs tunable):** [docs/HESPERIA_DEPENDENCY_GRAPH.md](docs/HESPERIA_DEPENDENCY_GRAPH.md)  
+**Variable & signal catalog (~176 measurable variables, KME/TRIZ keys):** [docs/HESPERIA_VARIABLE_CATALOG.md](docs/HESPERIA_VARIABLE_CATALOG.md)  
+**Product lines A–G (commercial map):** [docs/HESPERIA_PRODUCT_LINES.md](docs/HESPERIA_PRODUCT_LINES.md)  
+**Product stack (input → product signals):** [docs/HESPERIA_PRODUCT_STACK_MAP.md](docs/HESPERIA_PRODUCT_STACK_MAP.md)
+
 - **core/** — Deterministic computation (layers, attribution, contracts, policy, propagation).
 - **runtime/** — Pipelines, API server, dossier, provenance.
 - **lexicon/** — Dictionary systems (Dict A/B), build, validation.
@@ -75,7 +81,7 @@ For implementation, reproduction, or derivative use, explicit written permission
 
 ## Run it
 
-**Full E2E (all flows, 6 artifacts):**
+**Full E2E (all flows, 9 artifacts — see [docs/E2E_RUN_ORDER.md](docs/E2E_RUN_ORDER.md)):**  
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all
