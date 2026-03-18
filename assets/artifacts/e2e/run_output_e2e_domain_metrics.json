@@ -181,5 +181,143 @@
     "PR": 0.0,
     "PV": 2e-06
   },
-  "sourceId": "analysis_service"
+  "sourceId": "analysis_service",
+  "triz": {
+    "atomic_metrics": {
+      "activation_energy": 3.0,
+      "area_activation": {
+        "0": 0.0,
+        "1": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      },
+      "concept_mass": 1.0,
+      "contradiction_count": 0,
+      "contradiction_density": 0.0,
+      "contradiction_hotspots": [],
+      "contradiction_scores": [],
+      "cross_area_contradiction_rate": 0.0,
+      "domain_coupling": {
+        "aggregate_cross_area_edge_rate": 0.0
+      },
+      "family_activation": {},
+      "innovation_cluster_count": 3,
+      "innovation_clusters_detail": [
+        {
+          "cluster_id": "c0000",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "concept_count": 1,
+          "innovation_score": 0.0
+        },
+        {
+          "cluster_id": "c0001",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "concept_count": 1,
+          "innovation_score": 0.0
+        },
+        {
+          "cluster_id": "c0002",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "concept_count": 1,
+          "innovation_score": 0.0
+        }
+      ],
+      "innovation_pressure": 0.0,
+      "innovation_score": 0.0,
+      "innovation_score_mean": 0.0,
+      "narrative_penetration": 0.0,
+      "narrative_route_length": 0,
+      "narrative_stability": 1.0,
+      "propagation_resistance": 1.0,
+      "propagation_velocity": 0.0,
+      "semantic_pressure": 0.0,
+      "spillover_strength": 0.0,
+      "triz_class_distribution": {
+        "counterbalance": 0.0,
+        "dynamic_adaptation": 0.0,
+        "parameter_change": 0.0,
+        "segmentation": 0.0
+      }
+    },
+    "contradictions": [],
+    "innovation_clusters": [
+      {
+        "cluster_id": "c0000",
+        "concepts": [
+          "f_15"
+        ],
+        "contradiction_density": 0.0,
+        "innovation_score": 0.0,
+        "propagation_reach": 0.333333,
+        "rarity": 1.0
+      },
+      {
+        "cluster_id": "c0001",
+        "concepts": [
+          "f_199"
+        ],
+        "contradiction_density": 0.0,
+        "innovation_score": 0.0,
+        "propagation_reach": 0.333333,
+        "rarity": 1.0
+      },
+      {
+        "cluster_id": "c0002",
+        "concepts": [
+          "f_21"
+        ],
+        "contradiction_density": 0.0,
+        "innovation_score": 0.0,
+        "propagation_reach": 0.333333,
+        "rarity": 1.0
+      }
+    ],
+    "narrative_routes": [],
+    "narratives": [
+      {
+        "activated_areas": [],
+        "narrative_id": "narrative_primary",
+        "penetration": 0.0,
+        "stability": 0.0,
+        "velocity": 0.333333
+      }
+    ],
+    "primary_signals": {
+      "activation_energy": 3.0,
+      "area_activation": {
+        "0": 0.0,
+        "1": 0.0,
+        "10": 0.0,
+        "11": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0
+      },
+      "contradiction_count": 0,
+      "contradiction_density": 0.0,
+      "contradiction_score_peak": 0.0,
+      "domain_coupling_aggregate": 0.0,
+      "innovation_pressure": 0.0,
+      "innovation_score": 0.0,
+      "narrative_penetration": 0.0,
+      "propagation_velocity": 0.0,
+      "semantic_pressure": 0.0
+    }
+  }
 }

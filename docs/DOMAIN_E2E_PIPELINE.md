@@ -132,7 +132,7 @@ Metrics run as a **stage of the normal E2E run**, not a separate tool.
 
 **Config:** Set `enable_domain_metrics=True`. Optionally set `domain_constants_path` (e.g. `assets/data/domain_constants.json`); if missing, defaults to constants for F nodes. Optionally set `domain_release`.
 
-**run_e2e_all:** The unified E2E runner now includes **run_e2e_domain_metrics**: it runs the main pipeline with `enable_domain_metrics=True` and writes **run_output_e2e_domain_metrics.json** with the full domain_metrics payload. So every `python3 -m runtime.pipeline.run_e2e_all` produces **9** artifacts (see `docs/E2E_RUN_ORDER.md`), including domain_metrics and session KME / TRIZ / topology.
+**run_e2e_all:** The unified E2E runner now includes **run_e2e_domain_metrics**: it runs the main pipeline with `enable_domain_metrics=True` and writes **run_output_e2e_domain_metrics.json** with the full domain_metrics payload. So every `python3 -m runtime.pipeline.run_e2e_all` produces **13** base JSON artifacts (see `docs/E2E_RUN_ORDER.md`), including **calibration batch** structural + summary (default **100** sentences), domain_metrics, session stack, TFP smoke, and **capability_matrix**.
 
 **Determinism:** Same input (same text, document_id, config) → same domain_metrics (same primitives, derived, fingerprint, vectorHash).
 

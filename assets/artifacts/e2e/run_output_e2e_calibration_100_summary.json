@@ -1,0 +1,27 @@
+{
+  "run": "e2e_calibration_batch_summary",
+  "sentence_count": 100,
+  "limit_applied": 100,
+  "source_file": "tools/calibration/data/calibration_100_sentences.json",
+  "by_input_domain": {
+    "conflict_power": 20,
+    "economic_exchange": 20,
+    "identity_culture": 20,
+    "social_cohesion": 20,
+    "technical_systems": 20
+  },
+  "dominant_area_histogram": {
+    "0": 100
+  },
+  "dominant_family_top": {
+    "0": 100
+  },
+  "dominant_area_top": {
+    "0": 100
+  },
+  "mean_L1_coverage_ratio": 0.097762,
+  "mean_L1_structural_stability": 0.333641,
+  "total_tokens_min": 4,
+  "total_tokens_max": 8,
+  "total_tokens_mean": 5.56
+}

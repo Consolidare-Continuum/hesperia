@@ -1,0 +1,25 @@
+{
+  "input": {
+    "text_preview": "Justice and fairness support social order. Harm and conflict reduce trust.",
+    "length": 74
+  },
+  "session_topology": {
+    "segments": [
+      {
+        "areas": {},
+        "families": {},
+        "concepts": {}
+      }
+    ],
+    "transitions": [],
+    "aggression_curve": [
+      0.0
+    ],
+    "state_sequence": [
+      ""
+    ],
+    "defense_timeline": [
+      ""
+    ]
+  }
+}

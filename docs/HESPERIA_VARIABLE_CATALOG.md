@@ -9,7 +9,7 @@ See LEGAL_NOTICE.md for full terms.
 
 Catalog of **signal families** across the pipeline. Many names are **semantic / product labels**; **canonical JSON keys** differ (especially KME derived: **35 codes** `KDI`…`KVI`, not English names). Coordinate grid: [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md) (10+2 areas, 240+48 families, 60k+12k hexes).
 
-**Producers:** `runtime.pipeline.analyze`, sphere math, R1–R4, KME, TRIZ, session topology. **E2E index:** [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md). **Stack view (raw input → commercial):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md).
+**Producers:** `runtime.pipeline.analyze`, sphere math, R1–R4, KME, TRIZ, session topology. **E2E index:** [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md). **Stack view (raw input → commercial):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **System & product awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md).
 
 **Legend:** **E2E** = in named artifact JSON · **Engine** = stable engine keys · **Derived** = computable from payloads · **Product** = dashboard / commercial label.
 
@@ -197,6 +197,38 @@ Also: `innovation_pressure`, `propagation_velocity`, `narrative_stability`, `sem
 **Domain patterns:** `domain_pattern_count`, `domain_pattern_entropy`, `domain_cluster_interaction`, `domain_transition_rate`.
 
 **Raw E2E keys** include `segments`, `transitions`, `aggression_curve`, `state_sequence`, `defense_timeline`; domain_* names are **Derived** product views on those structures (clinical / psychodynamic grid).
+
+---
+
+### Dynamics layer (Phase 1 wired behind flag)
+
+Discrete-time semantic field: **Concept → Hex → Family → Area**. **H0–H9** compact wire (Part A) plus **Part B extended** IDs (hex resolution, gradients, cluster gravity) including **hex activation** \(x_h\), **hex contradiction pressure** \(p_h\), hex diffusion on \(H_{hk}\), family from hex aggregate \(\hat{X}_f\), gradients/fronts/turbulence, **hex cluster gravity**. Implement on **active hex subgraph** first (Phase C), not full 72k cells. See [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md).
+
+**Phase 1 runtime (opt-in):**
+
+| Symbol / key | Role |
+|----------------|------|
+| `HESPERIA_E2E_CALIBRATION_BATCH_N` | E2E artifacts **5b–5c**: sentence count for calibration structural + summary (default **100**, max 500; pytest uses 5) |
+| `HESPERIA_FIELD_DYNAMICS` | Enable E2E step + state persistence |
+| `HESPERIA_FIELD_DYNAMICS_PHASE2` | `1`: **Phase 2** L5 + L6 blend |
+| `HESPERIA_FIELD_DYNAMICS_PHASE3` | `1`: **Phase 3** L4 — sparse **hex_x** / **hex_p** (family-proxy active subgraph, not full 72k) |
+| `HESPERIA_FIELD_DYNAMICS_HEX_CAP` | Max active L4 cells (default 128, max 288) |
+| `HESPERIA_FIELD_DYNAMICS_PHASE4` | `1`: **L8** narrative cluster gravity + injection bias + `l8_clusters` artifact |
+| `HESPERIA_FIELD_DYNAMICS_TRIZ` | `1` (default): TRIZ → **contradiction_signal_12** / family pressure; `0` skips |
+| `HESPERIA_FIELD_DYNAMICS_XI` | `1` (default): **Ξ proxy** — boost `c_sig` from TRIZ row topology (`xi_proxy_global` in artifact meta); `0` disables |
+| `HESPERIA_FIELD_DYNAMICS_XI_SCALE` | Max boost scale per area (default **0.14**, clamped [0, 0.5]); registry **xi_scale** |
+| `HESPERIA_FIELD_DYNAMICS_STATE_PATH` | Optional override for `field_dynamics_state.json` |
+| `area_a` (state) | 12-vector L6 area mass (internal icosahedron indices) |
+| `p_a` | 12-vector area contradiction pressure |
+| `stab` | Compact **H9**-style stability vs prior `area_a` |
+| `concept_mass` | L2 scalar stub |
+| **Θ Phase 1** | `Phase1Theta`: area L6–L9 knobs |
+| **Θ Phase 2** | `Phase2Theta` — **H4/H5** |
+| **Θ Phase 3** | `Phase3Theta` |
+| **Θ Phase 4** | `Phase4Theta` — `gravity_epsilon`, `tau_front`, `ephemeral_cap` |
+| **L8 state** | `l8_cluster_mass_prev` — prior-step cluster masses for velocity |
+| **Registry** | [assets/calibration/dynamics_parameter_registry.yaml](../assets/calibration/dynamics_parameter_registry.yaml) |
+| **TRIZ bridge** | `contradiction_signal_12` drives `p_a` via `δ_a`; meta: `triz_contradiction_meta` on E2E artifact |
 
 ---
 

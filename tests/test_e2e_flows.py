@@ -7,7 +7,7 @@
 """
 E2E flow tests: run all Hesperia entrypoints and assert output exists (no calibration).
 Covers: analyze (sentence), L1–L9, R1–R4, sphere_math, domain_metrics, session KME, TRIZ complete,
-session topology, and unified run_e2e_all.
+session topology, TFP smoke batch + stages, and unified run_e2e_all.
 """
 
 from __future__ import annotations
@@ -107,22 +107,67 @@ def test_e2e_sphere_math_100_output_exists() -> None:
 
 
 def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
-    """Unified run_e2e_all writes all planned outputs; each file exists."""
-    from runtime.pipeline.run_e2e_all import run_all, E2E_OUTPUTS
+    """Unified run_e2e_all with field dynamics: 13 base + field_dynamics; second run bumps state_t."""
+    import os
+    from runtime.pipeline.run_e2e_all import (
+        E2E_OUTPUTS_WITH_FIELD_DYNAMICS,
+        run_all,
+    )
 
     import tempfile
-    with tempfile.TemporaryDirectory() as d:
-        out_dir = Path(d)
-        written = run_all(out_dir=out_dir)
-        assert len(written) == len(E2E_OUTPUTS)
-        for name in E2E_OUTPUTS:
-            assert name in written
-            path = written[name]
-            assert path.exists(), f"E2E output missing: {name}"
-            content = path.read_text(encoding="utf-8")
-            assert len(content) > 0
-            if path.suffix == ".json":
-                json.loads(content)
+
+    old_fd = os.environ.get("HESPERIA_FIELD_DYNAMICS")
+    old_triz = os.environ.get("HESPERIA_FIELD_DYNAMICS_TRIZ")
+    old_cal = os.environ.get("HESPERIA_E2E_CALIBRATION_BATCH_N")
+    try:
+        os.environ["HESPERIA_FIELD_DYNAMICS"] = "1"
+        os.environ["HESPERIA_FIELD_DYNAMICS_TRIZ"] = "0"
+        os.environ["HESPERIA_E2E_CALIBRATION_BATCH_N"] = "5"
+
+        def _assert_all(written: dict) -> None:
+            assert len(written) == len(E2E_OUTPUTS_WITH_FIELD_DYNAMICS)
+            for name in E2E_OUTPUTS_WITH_FIELD_DYNAMICS:
+                assert name in written
+                path = written[name]
+                assert path.exists(), f"E2E output missing: {name}"
+                content = path.read_text(encoding="utf-8")
+                assert len(content) > 0
+                if path.suffix == ".json":
+                    json.loads(content)
+
+        with tempfile.TemporaryDirectory() as d:
+            out_dir = Path(d)
+            written = run_all(out_dir=out_dir, text="justice fairness order")
+            _assert_all(written)
+            summ = json.loads(
+                written["run_output_e2e_calibration_100_summary.json"].read_text(encoding="utf-8")
+            )
+            assert summ.get("sentence_count") == 5
+            assert summ.get("run") == "e2e_calibration_batch_summary"
+            fd_path = written[E2E_OUTPUTS_WITH_FIELD_DYNAMICS[-1]]
+            fd = json.loads(fd_path.read_text(encoding="utf-8"))
+            assert fd.get("HESPERIA_FIELD_DYNAMICS") is True
+            assert fd.get("state_t") == 1
+            assert len(fd.get("area_state") or []) == 12
+            assert fd.get("triz_contradiction_meta", {}).get("triz_skipped") is True
+
+            written2 = run_all(out_dir=out_dir, text="harm conflict trust")
+            _assert_all(written2)
+            fd2 = json.loads(written2[E2E_OUTPUTS_WITH_FIELD_DYNAMICS[-1]].read_text(encoding="utf-8"))
+            assert fd2.get("state_t") == 2
+    finally:
+        if old_fd is None:
+            os.environ.pop("HESPERIA_FIELD_DYNAMICS", None)
+        else:
+            os.environ["HESPERIA_FIELD_DYNAMICS"] = old_fd
+        if old_triz is None:
+            os.environ.pop("HESPERIA_FIELD_DYNAMICS_TRIZ", None)
+        else:
+            os.environ["HESPERIA_FIELD_DYNAMICS_TRIZ"] = old_triz
+        if old_cal is None:
+            os.environ.pop("HESPERIA_E2E_CALIBRATION_BATCH_N", None)
+        else:
+            os.environ["HESPERIA_E2E_CALIBRATION_BATCH_N"] = old_cal
 
 
 def test_e2e_session_kme_and_triz_artifacts_shape() -> None:
@@ -145,6 +190,63 @@ def test_e2e_session_kme_and_triz_artifacts_shape() -> None:
         run_e2e_session_topology(st, text)
         sdata = json.loads(st.read_text(encoding="utf-8"))
         assert "session_topology" in sdata or "_error" in sdata
+
+
+def test_e2e_capability_matrix_wires_blocks() -> None:
+    """Capability matrix artifact lists cross-stack blocks; most succeed without _error."""
+    from runtime.pipeline.run_e2e_all import run_e2e_capability_matrix
+
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "cap.json"
+        run_e2e_capability_matrix(p, "justice fairness order harm crisis")
+        data = json.loads(p.read_text(encoding="utf-8"))
+        assert data.get("run") == "e2e_capability_matrix"
+        blocks = data.get("blocks") or {}
+        assert len(blocks) >= 22
+        for key in (
+            "structural_L1_L2",
+            "shipping_compare",
+            "interpret_session",
+            "run_triz_analysis_core",
+            "propagate_activation",
+            "kme_run_document_and_corpus",
+            "batch_runner_dossiers",
+            "mvp_acceptance",
+            "experiment_runner",
+        ):
+            assert key in blocks
+            assert "_error" not in blocks[key], f"{key}: {blocks[key]}"
+        kme = blocks["kme_run_document_and_corpus"]
+        assert kme["run_document"]["primitives_n"] == 6
+        assert kme["run_corpus"]["report_count"] == 2
+        assert blocks["batch_runner_dossiers"]["dossiers_written"] == 2
+        assert blocks["mvp_acceptance"]["passed"] is True
+        assert blocks["experiment_runner"]["sessions"] == 2
+        rm = blocks.get("reading_multiscale") or {}
+        assert "_skipped" in rm or "_error" not in rm
+
+
+def test_e2e_tfp_smoke_artifact_shape() -> None:
+    """TFP E2E artifact: structural batch + tfp_stage per session + speaker-aware smoke."""
+    from hesperia.clinical.stage_detection import TFP_STAGES
+    from runtime.pipeline.run_e2e_all import run_e2e_tfp_smoke
+
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "tfp_smoke.json"
+        run_e2e_tfp_smoke(p)
+        data = json.loads(p.read_text(encoding="utf-8"))
+        assert data.get("run") == "e2e_tfp_smoke"
+        assert data.get("tfp_stages_enum") == list(TFP_STAGES)
+        assert isinstance(data.get("structural_batch"), list)
+        assert len(data["structural_batch"]) >= 1
+        assert isinstance(data.get("session_tfp_stages"), list)
+        for row in data["session_tfp_stages"]:
+            assert "session_id" in row
+            assert row.get("tfp_stage") in TFP_STAGES or "_error" in row
+        sas = data.get("speaker_aware_smoke") or {}
+        assert sas.get("tfp_stage") in TFP_STAGES or "_error" in sas
 
 
 def test_e2e_domain_metrics_stage_in_pipeline() -> None:

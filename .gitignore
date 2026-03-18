@@ -30,6 +30,10 @@ keys/
 # Data and logs
 assets/v040/
 assets/v041/
+
+# E2E: commit assets/artifacts/e2e/run_output_e2e_*.json after run (see docs/E2E_RUN_ORDER.md).
+# Local-only full dynamics bundle:
+assets/artifacts/e2e_full_deliverables/
 noone/
 hesperia_lex/raw/
 hesperia_lex/processed/
