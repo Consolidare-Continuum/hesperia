@@ -218,6 +218,8 @@ Discrete-time semantic field: **Concept → Hex → Family → Area**. **H0–H9
 | `HESPERIA_FIELD_DYNAMICS_XI` | `1` (default): **Ξ proxy** — boost `c_sig` from TRIZ row topology (`xi_proxy_global` in artifact meta); `0` disables |
 | `HESPERIA_FIELD_DYNAMICS_XI_SCALE` | Max boost scale per area (default **0.14**, clamped [0, 0.5]); registry **xi_scale** |
 | `HESPERIA_FIELD_DYNAMICS_STATE_PATH` | Optional override for `field_dynamics_state.json` |
+| `HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1` | When `1`/`true`, E2E field-dynamics artifact includes **SEMANTIC_FIELD_EQUATIONS_v1** bundle (`semantic_field_v1` JSON). See [specs/SEMANTIC_FIELD_EQUATIONS_v1.md](specs/SEMANTIC_FIELD_EQUATIONS_v1.md). |
+| `HESPERIA_SEMANTIC_FIELD_V1_STEPS` | Optional multi-step count for the v1 semantic field integrator in E2E (default `1`). |
 | `area_a` (state) | 12-vector L6 area mass (internal icosahedron indices) |
 | `p_a` | 12-vector area contradiction pressure |
 | `stab` | Compact **H9**-style stability vs prior `area_a` |

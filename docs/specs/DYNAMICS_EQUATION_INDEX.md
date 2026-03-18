@@ -6,6 +6,8 @@ HESPERIA — RAD. Companion to ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md
 
 **Canonical spec:** [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) (v3). This file is the **single cheat sheet** for implementers.
 
+**Family-field closed form (parallel spine):** [SEMANTIC_FIELD_EQUATIONS_v1.md](SEMANTIC_FIELD_EQUATIONS_v1.md) — single \(\mathbf{F}\in\mathbb{R}^{288}\) equation with \(L_F,R_F,C,\mathbf{S}\); calibration `assets/calibration/semantic_field_equations_v1.json`; module `hesperia.engine.field_dynamics.semantic_field_v1`.
+
 ---
 
 ## Compact wire (Part A §A.4) — implementation order

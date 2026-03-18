@@ -98,6 +98,8 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 
 - Keep examples and commands aligned to active modules.
 - Use `python3 -m runtime.pipeline.run_l1_through_l9` for the L1→L9 pipeline entrypoint.
+- Use `python3 -m runtime.semantic_field.run_semantic_field --config … --output …` for **semantic field equations** (see `configs/semantic_field_example.json`, `runtime/semantic_field/README.md`).
+- Use `python3 -m runtime.semantic_field.run_field_calibration --config … --output …/run_output_e2e_field_calibration.json` for **HCI parameter grid calibration** (writes `*_best.json`, `*_topk.json`; see `configs/field_calibration_example.json`, `docs/specs/HSPR_CALIBRATION_INDEX_v1.md`).
 - Keep pytest references pointed at `tests/`.
 
 ## Scope

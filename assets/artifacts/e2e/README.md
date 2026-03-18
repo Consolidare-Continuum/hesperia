@@ -24,9 +24,12 @@ Planned outputs from the unified e2e run. No calibration of results; existence o
 | `run_output_e2e_triz_complete.json` | TRIZ full stack (API parity) |
 | `run_output_e2e_session_topology.json` | Clinical session topology |
 | `run_output_e2e_tfp_smoke.json` | TFP smoke: batch structural + `detect_tfp_stage` + speaker-aware |
-| `run_output_e2e_capability_matrix.json` | Cross-stack capability sweep (see `docs/E2E_RUN_ORDER.md`) |
+| `run_output_e2e_capability_matrix.json` | Cross-stack capability sweep + **semantic_field_and_hci** |
+| `run_output_e2e_semantic_field.json` | Ontology → matrix_builders → semantic field (`configs/semantic_field_ontology_example.json`) |
+| `run_output_e2e_field_calibration.json` | HCI grid (mini); also `_best.json`, `_topk.json` |
+| `run_output_e2e_field_dynamics.json` | With `HESPERIA_FIELD_DYNAMICS=1`: Ethan phases + **semantic_field_v1** |
 
-**Order:** `docs/E2E_RUN_ORDER.md`
+**Order:** `docs/E2E_RUN_ORDER.md` · **Manifest:** `E2E_OUTPUTS.md`
 
 **Regenerate all:**
 

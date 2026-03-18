@@ -32,38 +32,38 @@ Default text is shared across stages (unless overridden). Default artifact dir: 
 | 8 | `run_output_e2e_triz_complete.json` | Same session activation → **TRIZ complete** (contradictions, topology, reports, commercial_intel); `csv_exports` stored as byte lengths only | `hesperia.engine.triz.pipeline.run_triz_analysis_complete` |
 | 9 | `run_output_e2e_session_topology.json` | **Clinical session topology**: windowed segments, area transitions, aggression curve, defense timeline (segments capped in JSON). Raw engine shape — not passed through public projection. | `hesperia.clinical.session_topology.run_session_topology` |
 | 10 | `run_output_e2e_tfp_smoke.json` | **TFP testing stack (Gena wiring):** batch structural (CLI `batch-analyze` parity) on smoke sessions + `analyze_session` + propagation + **`detect_tfp_stage`** + **`analyze_session_speaker_aware`** on English dialogue. Input: `assets/testing/tfp_kernberg/session_transcripts_smoke_english.json` (inline fallback if missing). | `runtime.services.analysis_service` · `hesperia.nlp.session_parser` · `hesperia.clinical.stage_detection` |
-| 11 | `run_output_e2e_capability_matrix.json` | **Gena full-picture sweep:** structural stages, shipping compare, clinical + enhanced NLP, transcript parse, evaluation baselines, TRIZ direct/corpora + **`run_triz_analysis`**, **`propagate_activation`**, product compare, ontology, temporal timeline; **KME** **`run_document`** + **`run_corpus`** (toy `DomainGraph`); **`batch_runner`** (2 dossiers, temp index); **`mvp_acceptance`** (benchmarks under `benchmarks/triz/`); **`experiment_runner`**. Multiscale if `HESPERIA_E2E_MULTISCALE=1`. | `run_e2e_capability_matrix` in `run_e2e_all.py` |
-| **12** | `run_output_e2e_field_dynamics.json` | **Optional** (`HESPERIA_FIELD_DYNAMICS=1`). Full stack: **L4+L8+L5+L6**; **`l8_clusters`**, **`PHASE4`**. | `hesperia.engine.field_dynamics` |
+| 11 | `run_output_e2e_capability_matrix.json` | **Gena full-picture sweep** + **`semantic_field_and_hci`** (ontology semantic field smoke + HCI scalar); structural stages, shipping compare, clinical + enhanced NLP, transcript parse, evaluation baselines, TRIZ, **KME** **`run_document`** + **`run_corpus`**; **`batch_runner`**, **`mvp_acceptance`**, **`experiment_runner`**. Multiscale if `HESPERIA_E2E_MULTISCALE=1`. | `run_e2e_capability_matrix` |
+| 11a | `run_output_e2e_semantic_field.json` | **Semantic field engine:** ontology → `matrix_builders` → `equations` → convergence; `configs/semantic_field_ontology_example.json` (timeline truncated in artifact). | `runtime.semantic_field.run_semantic_field` |
+| 11b | `run_output_e2e_field_calibration.json` | **HCI grid calibration** (mini 2×2×… grid, ontology matrices). | `runtime.semantic_field.run_field_calibration` |
+| 11c | `run_output_e2e_field_calibration_best.json` | Best candidate + `area_field_final`. | same |
+| 11d | `run_output_e2e_field_calibration_topk.json` | Top-k ranked rows. | same |
+| **12** | `run_output_e2e_field_dynamics.json` | **Optional** (`HESPERIA_FIELD_DYNAMICS=1`). Ethan phases + **`semantic_field_v1`** bundle (`HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1` set during run). | `hesperia.engine.field_dynamics` |
 
 ## Dependency mental model
 
 ```
 Steps 1–4 + 5–5c: runtime + sphere; step 5 is 3-sentence smoke, **5b–5c** full calibration batch (default 100 sentences).
 Step 6:     sphere structural match → synthetic domain graph → KME fingerprint.
-Steps 7–9:  hesperia NLP session parse → engine (KME/TRIZ/clinical) — independent of step order
-            among themselves but placed after sphere batch for a clear “runtime first, engine second” story.
+Steps 7–9:  hesperia NLP session parse → engine (KME/TRIZ/clinical).
+Steps 11a–11d: semantic field stack (ontology matrices, HCI) — always on.
+Step 12:    optional Ethan field dynamics + v1 semantic field equation artifact.
 ```
-
-Steps 7–8 both call `analyze_session` on the same text (duplicate parse acceptable for clarity and isolation). Step 10 exercises TFP collateral without changing the main `--text` session story.
 
 ## Machine-readable list
 
-Tuple `E2E_OUTPUTS` mirrors steps 1–11 (includes 5b–5c). Step 12 uses `E2E_OUTPUT_FIELD_DYNAMICS` when the env flag is set.
+Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**17** files). Step 12 uses **`E2E_OUTPUT_FIELD_DYNAMICS`** when the env flag is set → **18** files with dynamics.
 
 ## Full stack (all dynamics deliverables)
 
-Steps **1–12** (1–11 always; 12 with dynamics) with **L4+L8+L5+L6**, TRIZ → `c_sig`, Ξ proxy, optional multiscale:
-
 ```bash
 ./tools/e2e_full_deliverables.sh
-# or see docs/specs/governance/GENA-DYNAMICS-INTEGRATION-ANALYSIS.md §8
 ```
 
-Writes e.g. `assets/artifacts/e2e_full_deliverables/` (11 JSON incl. TFP smoke + field dynamics + state sidecars as applicable).
+Writes e.g. `assets/artifacts/e2e_full_deliverables/` (17+ JSON incl. semantic field, HCI calibration, TFP smoke, field dynamics when flag set).
 
 ## Verify
 
-`test_e2e_run_e2e_all_produces_all_artifacts` enables field dynamics and checks **14** artifacts (13 base + field_dynamics); calibration batch **N=5** in test via env.
+`test_e2e_run_e2e_all_produces_all_artifacts` enables field dynamics and checks **18** artifacts (17 base + field_dynamics); calibration batch **N=5** in test via env.
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

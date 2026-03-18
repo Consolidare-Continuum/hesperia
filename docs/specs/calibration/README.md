@@ -14,4 +14,4 @@ Planned files (see spec §9):
 - `calibration_objectives.yaml`  
 - `approved_profiles/`  
 
-**Authoritative Phase 1 registry (runtime assets):** [../../assets/calibration/dynamics_parameter_registry.yaml](../../assets/calibration/dynamics_parameter_registry.yaml) · [../../assets/calibration/README.md](../../assets/calibration/README.md). Further scenario/constraint YAMLs remain planned below.
+**Authoritative Phase 1 registry (runtime assets):** [../../assets/calibration/dynamics_parameter_registry.yaml](../../assets/calibration/dynamics_parameter_registry.yaml) · [../../assets/calibration/semantic_field_equations_v1.json](../../assets/calibration/semantic_field_equations_v1.json) · [../../assets/calibration/README.md](../../assets/calibration/README.md). Further scenario/constraint YAMLs remain planned below.

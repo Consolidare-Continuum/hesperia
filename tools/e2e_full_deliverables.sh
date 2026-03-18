@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # HESPERIA — Full E2E with all dynamics deliverables (Gena + Ethan stack).
-# Steps 1–10 (incl. TFP smoke) + field_dynamics: L4+L8+L5+L6, TRIZ→c_sig, Ξ proxy when rows exist.
+# Steps 1–11d (incl. semantic field + HCI calibration + TFP smoke) + field_dynamics (Ethan + semantic_field_v1).
 # Usage: ./tools/e2e_full_deliverables.sh [OUT_DIR] ["session text..."]
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"

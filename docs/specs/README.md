@@ -20,6 +20,9 @@ See LEGAL_NOTICE.md for full terms.
 | Doc | Role |
 |-----|------|
 | [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) | **Part A:** L0–L10 pipeline wire, **H0–H9** compact equations, phases 1–4, artifact map. **Part B:** hex lattice, extended IDs, active subgraph doctrine. |
+| [FIELD_MATRIX_BUILDERS_v1.md](FIELD_MATRIX_BUILDERS_v1.md) | Ontology → `W_F`, `C_F`, `R`; runners accept `ontology` JSON block. |
+| [HSPR_CALIBRATION_INDEX_v1.md](HSPR_CALIBRATION_INDEX_v1.md) | **HCI:** single bounded calibration score (stability, alignment, energy, contradiction, diffusion, resistance). Grid search: `runtime.semantic_field.run_field_calibration`. |
+| [SEMANTIC_FIELD_EQUATIONS_v1.md](SEMANTIC_FIELD_EQUATIONS_v1.md) | **Canonical family-field PDE:** diffusion (\(L_F\)), resistance (\(R_F\)), contradiction pressure (\(F\odot CF\)), source \(\mathbf{S}\), Euler + clip, energy, observables, area projection. **Runtime:** `python3 -m runtime.semantic_field.run_semantic_field` · [runtime/semantic_field/README.md](../../runtime/semantic_field/README.md) · `configs/semantic_field_example.json`. |
 | [DYNAMICS_EQUATION_INDEX.md](DYNAMICS_EQUATION_INDEX.md) | **Implementer cheat sheet:** compact H0–H9 ↔ extended IDs ↔ L-layers ↔ phased rollout. |
 | [governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | **Grace + team:** phased implementation of Ethan dynamics (Phases 1–4), roles, acceptance, deliverables. |
 | [governance/ETHAN-OPEN-WORKFLOW-PROCEED.md](governance/ETHAN-OPEN-WORKFLOW-PROCEED.md) | **Ethan:** open-workflow proceed (Phase 2+ shipped items). |

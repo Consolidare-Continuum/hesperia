@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import json
+
+import numpy as np
 from dataclasses import replace
 from pathlib import Path
 from typing import Any
@@ -235,4 +237,21 @@ def run_field_dynamics_e2e_artifact(
         out["l8_fronts_per_area"] = fronts_12
         out["l8_cluster_count"] = len(l8_rows)
         out["dominant_l8_cluster"] = l8_rows[0]["id"] if l8_rows else None
+
+    if __import__("os").environ.get("HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1", "").strip() in (
+        "1",
+        "true",
+        "yes",
+    ):
+        from hesperia.engine.field_dynamics.semantic_field_v1 import semantic_field_e2e_bundle
+
+        prev_ff = np.asarray(state.f_f, dtype=np.float64).reshape(F_FAMILIES)
+        bundle = semantic_field_e2e_bundle(
+            f0=prev_ff,
+            source_288=fam_inj,
+            hits_as_source=False,
+            n_steps=int(__import__("os").environ.get("HESPERIA_SEMANTIC_FIELD_V1_STEPS", "1") or "1"),
+        )
+        out["SEMANTIC_FIELD_EQUATIONS_v1"] = True
+        out["semantic_field_v1"] = bundle
     return out

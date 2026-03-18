@@ -9,7 +9,7 @@
 """
 E2E: single session run — runtime sphere stack + Hesperia engine (KME, TRIZ, clinical session).
 
-Writes planned outputs under assets/artifacts/e2e/ (13 JSON + optional field_dynamics).
+Writes planned outputs under assets/artifacts/e2e/ (17 JSON + optional field_dynamics): semantic field + HCI calibration bundle + base stack.
 Order: docs/E2E_RUN_ORDER.md.
 Capability matrix (step 11) bundles many secondary entrypoints; set HESPERIA_E2E_MULTISCALE=1 for R1–R4 multiscale (also set in tools/e2e_full_deliverables.sh).
 No calibration of results; existence of output only (large payloads truncated where noted).
@@ -47,10 +47,14 @@ E2E_OUTPUTS = (
     "run_output_e2e_session_topology.json",
     "run_output_e2e_tfp_smoke.json",
     "run_output_e2e_capability_matrix.json",
+    "run_output_e2e_semantic_field.json",
+    "run_output_e2e_field_calibration.json",
+    "run_output_e2e_field_calibration_best.json",
+    "run_output_e2e_field_calibration_topk.json",
 )
 # Optional artifact when HESPERIA_FIELD_DYNAMICS=1
 E2E_OUTPUT_FIELD_DYNAMICS = "run_output_e2e_field_dynamics.json"
-# Full manifest for pytest / CI when dynamics flag is set (13 base + field_dynamics)
+# Full manifest when dynamics flag is set (17 base + field_dynamics)
 E2E_OUTPUTS_WITH_FIELD_DYNAMICS = E2E_OUTPUTS + (E2E_OUTPUT_FIELD_DYNAMICS,)
 
 
@@ -868,6 +872,46 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     else:
         blocks["reading_multiscale"] = {"_skipped": "HESPERIA_E2E_MULTISCALE=1 for R1–R4 reading_scales.run_multiscale"}
 
+    def _semantic_field_capability() -> dict[str, Any]:
+        from hesperia.engine.field_dynamics.calibration import compute_hspr_calibration_index
+        from runtime.semantic_field.run_semantic_field import run_semantic_field
+
+        r = run_semantic_field(
+            {
+                "family_count": 2,
+                "families_per_area": 1,
+                "area_count": 2,
+                "ontology": {
+                    "family_ids": ["cap_x", "cap_y"],
+                    "relations": [["cap_x", "cap_y"]],
+                    "contradictions": [],
+                    "resistance_default": 0.1,
+                },
+                "alpha": 0.09,
+                "beta": 0.05,
+                "gamma": 0.0,
+                "delta": 0.28,
+                "initial_mode": "uniform",
+                "documents": [{"source_family_id": "cap_x"}],
+                "max_steps": 8,
+            }
+        )
+        hci = compute_hspr_calibration_index(
+            stability_score=0.75,
+            source_alignment=0.5,
+            energy_value=0.2,
+            contradiction_load=0.1,
+            diffusion_load=0.15,
+            resistance_load=0.12,
+        )
+        return {
+            "semantic_field_matrices_provenance": r.get("matrices_provenance"),
+            "semantic_field_steps": r.get("steps"),
+            "hspr_calibration_index_smoke": hci.get("hspr_calibration_index"),
+        }
+
+    _put("semantic_field_and_hci", _semantic_field_capability)
+
     out = _round_floats(
         {
             "run": "e2e_capability_matrix",
@@ -877,6 +921,98 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+
+
+def run_e2e_semantic_field(out_path: Path) -> None:
+    """
+    Ontology → matrix_builders → semantic field engine (configs/semantic_field_ontology_example.json).
+    Timeline truncated in artifact for size; full numeric endpoints retained.
+    """
+    cfg_path = _HESPERIA / "configs" / "semantic_field_ontology_example.json"
+    if cfg_path.exists():
+        cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+    else:
+        cfg = {
+            "family_count": 4,
+            "families_per_area": 2,
+            "area_count": 2,
+            "ontology": {
+                "family_ids": ["A01", "A02", "A03", "A04"],
+                "relations": [["A01", "A02"], ["A02", "A03"], ["A03", "A04"]],
+                "contradictions": [["A01", "A04", 0.2]],
+                "resistance_default": 0.1,
+            },
+            "alpha": 0.1,
+            "beta": 0.05,
+            "gamma": 0.1,
+            "delta": 0.3,
+            "initial_mode": "uniform",
+            "documents": [{"source_family_id": "A02", "source_strength": 1.0}],
+            "max_steps": 20,
+        }
+    cfg = dict(cfg)
+    cfg["max_steps"] = min(int(cfg.get("max_steps", 25)), 25)
+
+    from runtime.semantic_field.run_semantic_field import run_semantic_field
+
+    out = run_semantic_field(cfg)
+    tl = out.get("timeline")
+    if isinstance(tl, list) and len(tl) > 6:
+        out["timeline"] = {
+            "run": "e2e_semantic_field_truncated",
+            "steps_total": len(tl),
+            "head": tl[:2],
+            "tail": tl[-2:],
+        }
+    out["run"] = "e2e_semantic_field"
+    out = _round_floats(out)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+
+
+def run_e2e_field_calibration_bundle(out_dir: Path) -> dict[str, Path]:
+    """
+    Mini HCI grid (ontology matrices); writes run_output_e2e_field_calibration*.json (3 files).
+    """
+    from runtime.semantic_field.run_field_calibration import run_field_calibration, write_field_calibration_artifacts
+
+    cfg = {
+        "family_count": 2,
+        "families_per_area": 1,
+        "area_count": 2,
+        "ontology": {
+            "family_ids": ["sf_a", "sf_b"],
+            "relations": [["sf_a", "sf_b"]],
+            "contradictions": [["sf_a", "sf_b", 0.15]],
+            "resistance_default": 0.08,
+        },
+        "initial_mode": "uniform",
+        "documents": [{"source_family_id": "sf_a", "weight": 1.0, "quality": 1.0}],
+        "parameter_grid": {
+            "alpha": [0.07, 0.11],
+            "beta": [0.04],
+            "gamma": [0.02],
+            "delta": [0.22, 0.32],
+            "mu": [0.0],
+            "dt": [1.0],
+        },
+        "max_steps": 14,
+        "epsilon": 1e-5,
+        "tau": 1e-5,
+        "top_k": 4,
+        "include_all_results": False,
+    }
+    result = run_field_calibration(cfg)
+    base = out_dir / "run_output_e2e_field_calibration.json"
+    p_main, p_best, p_topk = write_field_calibration_artifacts(result, base)
+    meta = json.loads(p_main.read_text(encoding="utf-8"))
+    meta["run"] = "e2e_field_calibration"
+    p_main.write_text(json.dumps(_round_floats(meta), indent=2), encoding="utf-8")
+    return {
+        "run_output_e2e_field_calibration.json": p_main,
+        "run_output_e2e_field_calibration_best.json": p_best,
+        "run_output_e2e_field_calibration_topk.json": p_topk,
+    }
 
 
 def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, Path]:
@@ -951,11 +1087,25 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     run_e2e_capability_matrix(p, text)
     written["run_output_e2e_capability_matrix.json"] = p
 
+    # 11a–11d. Semantic field (ontology → matrices) + HCI calibration artifacts
+    p_sf = out_dir / "run_output_e2e_semantic_field.json"
+    run_e2e_semantic_field(p_sf)
+    written["run_output_e2e_semantic_field.json"] = p_sf
+    written.update(run_e2e_field_calibration_bundle(out_dir))
+
     from hesperia.engine.field_dynamics.e2e_bridge import field_dynamics_enabled, run_field_dynamics_e2e_artifact
 
     if field_dynamics_enabled():
         assets = _HESPERIA / "lexicon" / "curated"
-        fd = run_field_dynamics_e2e_artifact(text, assets, out_dir)
+        _prev_sf = os.environ.get("HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1")
+        try:
+            os.environ["HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1"] = "1"
+            fd = run_field_dynamics_e2e_artifact(text, assets, out_dir)
+        finally:
+            if _prev_sf is None:
+                os.environ.pop("HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1", None)
+            else:
+                os.environ["HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1"] = _prev_sf
         pfd = out_dir / E2E_OUTPUT_FIELD_DYNAMICS
         pfd.parent.mkdir(parents=True, exist_ok=True)
         pfd.write_text(json.dumps(_round_floats(fd), indent=2), encoding="utf-8")

@@ -107,7 +107,7 @@ def test_e2e_sphere_math_100_output_exists() -> None:
 
 
 def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
-    """Unified run_e2e_all with field dynamics: 13 base + field_dynamics; second run bumps state_t."""
+    """Unified run_e2e_all with field dynamics: 17 base + field_dynamics; second run bumps state_t."""
     import os
     from runtime.pipeline.run_e2e_all import (
         E2E_OUTPUTS_WITH_FIELD_DYNAMICS,
@@ -150,6 +150,13 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert fd.get("state_t") == 1
             assert len(fd.get("area_state") or []) == 12
             assert fd.get("triz_contradiction_meta", {}).get("triz_skipped") is True
+            assert "semantic_field_v1" in fd
+
+            sf = json.loads(written["run_output_e2e_semantic_field.json"].read_text(encoding="utf-8"))
+            assert sf.get("matrices_provenance") == "ontology"
+            cal = json.loads(written["run_output_e2e_field_calibration.json"].read_text(encoding="utf-8"))
+            assert cal.get("schema") == "hspr_field_calibration_v1"
+            assert cal.get("best") is not None
 
             written2 = run_all(out_dir=out_dir, text="harm conflict trust")
             _assert_all(written2)
