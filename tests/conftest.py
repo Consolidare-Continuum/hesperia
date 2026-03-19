@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import os
 import sys
 from pathlib import Path
 
@@ -43,6 +44,12 @@ _ensure_repo_runtime_importable()
 def pytest_configure(config) -> None:  # noqa: ARG001
     # Run after built-in plugins (e.g. pythonpath) adjust sys.path.
     _ensure_repo_runtime_importable()
+    # Legacy sphere.pipeline.run_pipeline remains available for unit tests only.
+    os.environ["HESPERIA_SPHERE_PIPELINE_DEV"] = "1"
+    # Legacy semantic_field_v1 stub matrices (build_default_matrices) for equation unit tests only.
+    os.environ["HESPERIA_SEMANTIC_FIELD_STUB_MATRICES"] = "1"
+    # Uniform hex injection (family_source_to_hex_uniform / concept_family_weights_to_hex_source) for legacy hex tests only.
+    os.environ["HESPERIA_PCH_UNIFORM_INJECTION_DEV"] = "1"
 
 
 def pytest_runtest_setup(item) -> None:  # noqa: ARG001

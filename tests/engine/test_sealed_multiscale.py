@@ -39,9 +39,13 @@ def test_run_sealed_multiscale_stack_smoke():
     assets = root / "lexicon" / "curated"
     out = run_sealed_multiscale_stack("justice fairness order care trust", assets, use_triz_contradiction=False)
     assert out["pipeline"] == "sealed_multiscale_v1"
+    assert out.get("pch_bundle_version") == "v1"
     assert len(out["family_activation_vector"]) == 288
     assert len(out["area_activation_vector"]) == 12
     assert "hspr_index" in out
     assert out["hspr_index"] >= 0
     assert "contradiction_pressure" in out
     assert "hotspot_map" in out
+    assert out.get("hex_energy_mode") == "soft"
+    assert len(out.get("hex_energy_trace", [])) == 2
+    assert out["hex_energy_trace"][1] <= out["hex_energy_trace"][0] + 1e-3

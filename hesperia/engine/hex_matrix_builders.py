@@ -12,9 +12,11 @@ Geometry: core.topology.invariant_catalog
 
 from __future__ import annotations
 
+import os
 from typing import Sequence
 
 import numpy as np
+from scipy.sparse import issparse
 
 from core.topology.invariant_catalog import (
     FAMILIES_PER_AREA,
@@ -31,6 +33,7 @@ __all__ = [
     "family_and_local_from_linear",
     "build_ring_laplacian",
     "build_uniform_hex_resistance",
+    "apply_pch_to_concept_activation",
     "family_source_to_hex_uniform",
     "concept_family_weights_to_hex_source",
 ]
@@ -72,6 +75,44 @@ def build_ring_laplacian(n_hex: int) -> np.ndarray:
     return d - w
 
 
+_UNIFORM_INJECTION_ENV = "HESPERIA_PCH_UNIFORM_INJECTION_DEV"
+
+
+def _uniform_injection_dev_only() -> bool:
+    return os.environ.get(_UNIFORM_INJECTION_ENV) == "1"
+
+
+def apply_pch_to_concept_activation(
+    a_concept: np.ndarray | Sequence[float],
+    pch,
+    *,
+    n_families: int | None = None,
+    n_hex_per_family: int | None = None,
+) -> np.ndarray:
+    """
+    **Production path:** ``A_hex.flat = P_CH @ a_concept`` then reshape ``(n_families, n_hex_per_family)``.
+
+    ``a_concept`` length must match ``P_CH.shape[1]`` (pad/truncate internally to ``n_concepts``).
+    """
+    if not issparse(pch):
+        raise TypeError("pch must be a scipy.sparse sparse matrix")
+    a = np.maximum(0.0, np.asarray(a_concept, dtype=np.float64).reshape(-1))
+    n_c = int(pch.shape[1])
+    n_hex_tot = int(pch.shape[0])
+    if a.size < n_c:
+        a = np.pad(a, (0, n_c - int(a.size)))
+    elif a.size > n_c:
+        a = a[:n_c].copy()
+    flat = pch @ a
+    nf = int(n_families) if n_families is not None else NUM_FAMILIES_HEX
+    nh = int(n_hex_per_family) if n_hex_per_family is not None else (n_hex_tot // nf)
+    if nf * nh != flat.size:
+        raise ValueError(
+            f"P_CH @ a_concept length {flat.size} does not match n_families*n_hex = {nf}*{nh}"
+        )
+    return np.asarray(flat).reshape(nf, nh)
+
+
 def build_uniform_hex_resistance(
     n_families: int,
     n_hex_per_family: int,
@@ -85,9 +126,14 @@ def build_uniform_hex_resistance(
 
 def family_source_to_hex_uniform(s_family: np.ndarray | Sequence[float]) -> np.ndarray:
     """
-    S_H[m, j] = S_f[m] / N_hex — deterministic P_CH-style spread when only family injection exists.
-    s_family length = n_families (first k components; pad or slice to match n_families).
+    **DEV / tests only:** uniform spread. Production must use ``apply_pch_to_concept_activation``.
     """
+    if not _uniform_injection_dev_only():
+        raise RuntimeError(
+            "Uniform hex injection is forbidden in production. "
+            "Use apply_pch_to_concept_activation(..., load_pch()). "
+            f"Set {_UNIFORM_INJECTION_ENV}=1 for legacy unit tests."
+        )
     sf = np.asarray(s_family, dtype=np.float64).reshape(-1)
     n = sf.shape[0]
     out = np.zeros((n, HEXES_PER_FAMILY_CANON), dtype=np.float64)
@@ -103,10 +149,16 @@ def concept_family_weights_to_hex_source(
     n_hex_per_family: int | None = None,
 ) -> np.ndarray:
     """
-    **S_H** for **S_H = P_CH A** when **P_CH = D P_CF** (D = per-family uniform spread over hexes).
+    **DEPRECATED / DEV-only:** uniform ``1/n_hex`` per family row.
 
-    Here ``weights_by_family`` ≡ **P_CF A** (length Nf). Returns shape (Nf, n_hex_per_family).
+    Production uses ``apply_pch_to_concept_activation`` with governed ``P_CH``.
     """
+    if not _uniform_injection_dev_only():
+        raise RuntimeError(
+            "concept_family_weights_to_hex_source (uniform injection) is forbidden in production. "
+            "Use hesperia.engine.pch_loader.load_pch and apply_pch_to_concept_activation. "
+            f"Set {_UNIFORM_INJECTION_ENV}=1 for legacy unit tests."
+        )
     nh = n_hex_per_family or HEXES_PER_FAMILY_CANON
     wf = np.maximum(0.0, np.asarray(weights_by_family, dtype=np.float64).reshape(-1))
     n_f = wf.shape[0]

@@ -478,6 +478,19 @@ def main() -> int:
         print(f"determinism-only: ok sha256={primary_hash}")
         return 0
 
+    # --- SYSTEM SEAL GO/NO-GO (TASK_11): all Tasks 1–10 must be simultaneously satisfied ---
+    sys.path.insert(0, str(_REPO))
+    from hesperia.system.system_seal import run_system_seal_gate
+
+    seal_report = run_system_seal_gate(_REPO)
+    (_RELEASE_DIR / "system_seal.json").write_text(
+        json.dumps(seal_report, indent=2, sort_keys=True) + "\n", encoding="utf-8"
+    )
+    if seal_report.get("status") != "PASS":
+        reasons_fail.append("system_seal_gate_failed")
+        print("RELEASE SEAL ABORT: system_seal", seal_report.get("status"), file=sys.stderr)
+        print(json.dumps(seal_report.get("checks"), indent=2), file=sys.stderr)
+
     ref_payload = _canonical_analyze_dict(canonical_text)
     ref_path = _RELEASE_DIR / "e2e_reference_output.json"
     ref_path.write_text(
@@ -500,7 +513,8 @@ def main() -> int:
     )
 
     # --- Schema validation (analyze / compare / batch / e2e) ---
-    sys.path.insert(0, str(_REPO))
+    if str(_REPO) not in sys.path:
+        sys.path.insert(0, str(_REPO))
     from runtime.services.analysis_service import run_structural_analysis, run_structural_analysis_batch
     from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
 
@@ -681,6 +695,12 @@ def main() -> int:
             "report_file": "schema_validation_report.json",
         },
         "pytest": {"pass": test_report["exit_code"] == 0, "report_file": "test_report.json"},
+        "system_seal": {
+            "pass": seal_report.get("status") == "PASS",
+            "status": seal_report.get("status"),
+            "checks": seal_report.get("checks"),
+            "report_file": "system_seal.json",
+        },
         "seal_decision": {
             "may_tag_v0_5_0": may_tag,
             "reasons_fail": reasons_fail,
@@ -740,6 +760,7 @@ def main() -> int:
         "audit_artifacts": {
             "audit_report": "audit_report.json",
             "determinism_report": "determinism_report.json",
+            "system_seal": "system_seal.json",
             "schema_validation_report": "schema_validation_report.json",
             "test_report": "test_report.json",
             "final_gate_status": "final_gate_status.json",
@@ -793,6 +814,7 @@ def main() -> int:
                 if test_report["exit_code"] != 0
                 else "quick_subset_only"
             ),
+            "system_seal": "pass" if seal_report.get("status") == "PASS" else "fail",
         },
         "reasons_fail": reasons_fail,
         "note": (

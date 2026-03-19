@@ -2,7 +2,7 @@
 # HESPERIA — Thin wrapper over analysis service. No direct layer import.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-"""Public entry point: structural analysis (L1+L2+L3 only). Delegates to runtime.services.analysis_service only."""
+"""Deprecated alias: runs **full** canonical multiscale analysis. L1–L3-only shortcuts removed."""
 from __future__ import annotations
 
 import json
@@ -20,7 +20,7 @@ def main() -> None:
     from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import write_public_json
 
-    ap = argparse.ArgumentParser(description="Run structural analysis (L1+L2+L3 stages).")
+    ap = argparse.ArgumentParser(description="Run canonical multiscale analysis (legacy name: L1+L2+L3).")
     ap.add_argument("--text", type=str, default="justice lie fairness truth good order harm freedom")
     ap.add_argument("--text-s", type=str, default=None)
     ap.add_argument("--out", type=Path, default=None)
@@ -28,7 +28,8 @@ def main() -> None:
     text_s = args.text_s or args.text
 
     assets = _HESPERIA / "lexicon" / "curated"
-    out = run_structural_analysis(args.text, assets_root=assets, stages="L1_L2_L3")
+    print("Note: L1_L2_L3 entry now maps to full sealed multiscale path (hex unavoidable).", file=sys.stderr)
+    out = run_structural_analysis(args.text, assets_root=assets, stages="full")
     if args.out:
         write_public_json(args.out, out)
         print("L1+L2+L3 output written to", args.out, file=sys.stderr)

@@ -1,18 +1,17 @@
 #!/usr/bin/env bash
-# HESPERIA — Full E2E with all dynamics deliverables (Gena + Ethan stack).
-# Steps 1–11d (incl. semantic field + HCI calibration + TFP smoke) + field_dynamics (Ethan + semantic_field_v1).
+# HESPERIA — Full encompassing E2E (Gena + Ethan stack + product + physics + system seal + manifest).
+# Runs: run_e2e_all (dynamics env set by Python) + product surface JSON + tests.physics_validation +
+#       system_seal (skips duplicate physics pytest when validation passed) → run_output_e2e_full_stack_manifest.json
 # Usage: ./tools/e2e_full_deliverables.sh [OUT_DIR] ["session text..."]
+# Fast iteration (no physics / seal): HESPERIA_E2E_FULL_DELIVERABLES_FAST=1 ./tools/e2e_full_deliverables.sh ...
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
-export HESPERIA_FIELD_DYNAMICS=1
-export HESPERIA_FIELD_DYNAMICS_PHASE2=1
-export HESPERIA_FIELD_DYNAMICS_PHASE3=1
-export HESPERIA_FIELD_DYNAMICS_PHASE4=1
-export HESPERIA_FIELD_DYNAMICS_TRIZ=1
-export HESPERIA_FIELD_DYNAMICS_XI=1
-export HESPERIA_E2E_MULTISCALE=1
 OUT="${1:-assets/artifacts/e2e_full_deliverables}"
 shift || true
 TEXT="${*:-Patient reports severe anxiety when considering work deadlines but also feels guilty resting. The team demands faster delivery while quality must not slip. Internal conflict between autonomy and compliance.}"
-python3 -m runtime.pipeline.run_e2e_all --out-dir "$OUT" --text "$TEXT"
+EXTRA=()
+if [[ "${HESPERIA_E2E_FULL_DELIVERABLES_FAST:-}" == "1" ]]; then
+  EXTRA+=(--skip-physics --skip-seal --no-dynamics)
+fi
+python3 -m runtime.pipeline.run_e2e_full_stack --out-dir "$OUT" --text "$TEXT" "${EXTRA[@]}"

@@ -77,7 +77,7 @@ Concept evidence **must not** be the sole input to a freestanding family field i
 
 **Legacy / non-structural path:** injecting **S** = **P_CF A** only at family level skips local hex structure; acceptable only when explicitly documented as **legacy** or fast proxy.
 
-Minimal deterministic **P_CH** when concepts map to families: factor **P_CH** = **D P_CF** where **D** spreads each family’s incoming mass uniformly over its 250 hexes. Then **S_H** = **P_CH A** = spread(**P_CF A**). Implementation: `hex_matrix_builders.concept_family_weights_to_hex_source`, `family_source_to_hex_uniform`, and `hex_dynamics.hex_source_from_concept_family_injection` / `run_option_a_hex_primary`.
+**Production (v0.5+):** governed sparse **P_CH** (`assets/matrices/pch/P_CH_v1.npz`, manifest `P_CH_manifest.json`), loaded via `hesperia.engine.pch_loader.load_pch`, applied with `hesperia.engine.hex_matrix_builders.apply_pch_to_concept_activation` and `hex_dynamics.hex_source_from_concept_family_injection` / `run_option_a_hex_primary`. Columns are L1-normalized; uniform per-family spread is **forbidden** in production (dev-only behind `HESPERIA_PCH_UNIFORM_INJECTION_DEV=1`: `concept_family_weights_to_hex_source`, `family_source_to_hex_uniform`).
 
 ---
 

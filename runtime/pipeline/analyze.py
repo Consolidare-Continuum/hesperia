@@ -16,7 +16,7 @@ from typing import Any
 
 try:
     from core.attribution.attribution_shared import DEFAULT_TEXT_CAP, run_attribution_pipeline
-    from core.propagation.guard_pipeline import run_pipeline
+    from core.propagation.guard_pipeline import run_pipeline as run_propagation_guard_pipeline
     from core.math.core_math import load_config, analyze as _core_analyze
     from core.propagation.output_contracts import to_minimal_operational_result
     import os
@@ -32,7 +32,7 @@ except ImportError:
     from attribution_shared import DEFAULT_TEXT_CAP, run_attribution_pipeline
     attribution = None  # type: ignore[assignment]
     _MODE = "sparse"  # noqa: F811
-    from guard_pipeline import run_pipeline
+    from guard_pipeline import run_pipeline as run_propagation_guard_pipeline
     from core_math import load_config, analyze as _core_analyze
     from output_contracts import to_minimal_operational_result
 
@@ -110,7 +110,7 @@ def analyze(
         raw = _core_analyze(initial_S=initial_S, initial_L=initial_L)
         raw["dominant_family"] = dominant_family
         raw["dominant_area"] = dominant_area
-    result = run_pipeline(
+    result = run_propagation_guard_pipeline(
         raw,
         traversal_length=0,
         area_hop_count=0,

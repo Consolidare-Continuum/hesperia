@@ -19,6 +19,8 @@ def test_manifest_has_required_task5_fields() -> None:
     assert m.get("determinism_verified") is True
     assert m.get("determinism_e2e_sha256")
     assert m.get("calibration_profile_default")
+    aa = m.get("audit_artifacts") or {}
+    assert aa.get("system_seal") == "system_seal.json"
     assert "modules" in m
     assert m["modules"].get("research") == "excluded"
     routes = m.get("shipping_api_routes") or []
@@ -79,5 +81,6 @@ def test_final_gate_status_shape() -> None:
         "determinism",
         "schema_validation",
         "release_audit",
+        "system_seal",
     ):
         assert k in fg["critical_checks"]

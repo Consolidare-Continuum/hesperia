@@ -48,11 +48,21 @@ Thin wrappers (same builder): `tools/release/run_release_audit.py`, `run_determi
 
 Fixture: `tests/fixtures/release_v0_5_0/canonical_input.txt` (alias: `examples/release_fixture_input.txt`).
 
-Required under `release/v0.5.0/`: README, manifest, build_info, checksums, capabilities copy, specs_index, test_report, audit_report, determinism_report, schema_validation_report, e2e_reference_output, schema.json, **final_gate_status.json**.
+Required under `release/v0.5.0/`: README, manifest, build_info, checksums, capabilities copy, specs_index, test_report, audit_report, determinism_report, schema_validation_report, **system_seal.json** (Task 11 GO/NO-GO), e2e_reference_output, schema.json, **final_gate_status.json** (`critical_checks.system_seal`).
+
+## Phase 6b: System seal (optional standalone)
+
+Before or after the full builder, you can run the physics/integration gate alone:
+
+```bash
+python3 -m tools.system_seal.run_system_seal
+```
+
+Exit **0** only if `status == PASS`. See `tools/system_seal/README.md` and `docs/ENGINE_TASKS_1_11_INTEGRATION.md`.
 
 ## Phase 7: Final gate
 
-- Read `final_gate_status.json`: `sealed` must be **true** for tag.
+- Read `final_gate_status.json`: `sealed` must be **true** for tag; `critical_checks.system_seal` must be **`pass`**.
 - `release_audit` must be **pass** (run builder **without** `--quick`).
 - Working tree must be **clean** (no `git_worktree_dirty` in reasons_fail).
 - Then: `git tag -a v0.5.0 -m "..."` and `git push origin v0.5.0`.

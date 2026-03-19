@@ -287,7 +287,7 @@
     "PILLAR_STABILITY_U1000": 500
   },
   "build_id": "hesperia_0.5.0_af41d9e88234_2026-03-19T07:52:55Z",
-  "calibration_profile": "v0_5_0",
+  "calibration_profile": "default_v1",
   "diagnostics": {
     "1": {},
     "2": {},

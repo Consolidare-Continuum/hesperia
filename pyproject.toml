@@ -9,6 +9,10 @@ description = "Hesperia Engine Dynamics — sealed multiscale semantic physics (
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "Restricted Research Disclosure — see LEGAL_NOTICE.md" }
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+]
 
 [project.urls]
 Documentation = "https://github.com/igareosh/hesperia/blob/main/docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md"

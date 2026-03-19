@@ -206,7 +206,7 @@ def evaluate_candidate(
     if f0.shape[0] != family_count:
         raise ValueError(f"field_init length {f0.shape[0]} != family_count {family_count}")
 
-    field_final, timeline = run_until_convergence(
+    outcome = run_until_convergence(
         field_init=f0,
         source_t=source_vector,
         laplacian=laplacian,
@@ -215,6 +215,7 @@ def evaluate_candidate(
         params=params,
         max_steps=max_steps,
     )
+    field_final, timeline = outcome
 
     last_step = timeline[-1].result
     energy_final = compute_energy(

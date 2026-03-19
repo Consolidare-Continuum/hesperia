@@ -8,10 +8,20 @@
 
 from __future__ import annotations
 
+import dataclasses
+import warnings
 from dataclasses import dataclass
 from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
 
 import numpy as np
+
+from hesperia.engine.energy import (
+    EnergyControlParams,
+    EnergyMode,
+    apply_clip_01_with_stats,
+    compute_energy_family_1d,
+    energy_acceptable,
+)
 
 ArrayLike = np.ndarray
 
@@ -82,6 +92,10 @@ class FieldStepResult:
     converged_numerical: bool
     converged_contradiction: bool
     observables: Dict[str, float]
+    dt_effective: float = 1.0
+    n_dt_retries: int = 0
+    clip_fraction: float = 0.0
+    energy_descent_satisfied: bool = True
 
     def to_json_dict(self, *, digits: int = 6) -> Dict[str, Any]:
         return {
@@ -95,6 +109,10 @@ class FieldStepResult:
             "converged_numerical": self.converged_numerical,
             "converged_contradiction": self.converged_contradiction,
             "observables": {k: _round_scalar(v, digits) for k, v in self.observables.items()},
+            "dt_effective": _round_scalar(self.dt_effective, digits),
+            "n_dt_retries": self.n_dt_retries,
+            "clip_fraction": _round_scalar(self.clip_fraction, digits),
+            "energy_descent_satisfied": self.energy_descent_satisfied,
         }
 
 
@@ -107,6 +125,25 @@ class TimelineStep:
         payload = self.result.to_json_dict(digits=digits)
         payload["step_index"] = self.step_index
         return payload
+
+
+@dataclass
+class RunUntilConvergenceOutcome:
+    """
+    Result of ``run_until_convergence`` (unpackable as ``field_final, timeline``).
+
+    When ``energy_control`` is set, ``energy_trace`` is populated and ``convergence_flag``
+    may include energy delta criteria.
+    """
+
+    field_final: np.ndarray
+    timeline: List[TimelineStep]
+    energy_trace: List[float]
+    convergence_flag: bool
+    steps_to_convergence: int
+
+    def __iter__(self) -> Any:
+        return iter((self.field_final, self.timeline))
 
 
 def build_family_laplacian(
@@ -308,7 +345,7 @@ def compute_energy(
     params: SemanticFieldParams,
 ) -> float:
     """
-    Canonical linearized energy:
+    Canonical linearized energy (delegates to ``hesperia.engine.energy``):
         E(F) = (alpha/2) F^T L F + (beta/2) F^T R F + (gamma/2) F^T C F - delta S^T F
     """
     params.validate()
@@ -324,13 +361,37 @@ def compute_energy(
         if mat.shape != (n, n):
             raise ValueError(f"{name} shape mismatch: expected {(n, n)}, got {mat.shape}")
 
-    energy = (
-        0.5 * params.alpha * float(f.T @ l @ f)
-        + 0.5 * params.beta * float(f.T @ r @ f)
-        + 0.5 * params.gamma * float(f.T @ c @ f)
-        - params.delta * float(s.T @ f)
+    return compute_energy_family_1d(
+        f,
+        s,
+        l,
+        r,
+        c,
+        alpha=params.alpha,
+        beta=params.beta,
+        gamma=params.gamma,
+        delta=params.delta,
     )
-    return float(energy)
+
+
+def _propose_field_euler_step(
+    f_t: np.ndarray,
+    s_t: np.ndarray,
+    l: np.ndarray,
+    r: np.ndarray,
+    c: np.ndarray,
+    params: SemanticFieldParams,
+    dt: float,
+) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
+    """One Euler proposal with explicit ``dt`` (unclipped if clip_mode False for staging)."""
+    diffusion_term = -params.alpha * (l @ f_t)
+    resistance_term = -params.beta * (r @ f_t)
+    pressure_vector = compute_pressure_vector(f_t, c)
+    contradiction_term = -params.gamma * pressure_vector
+    source_term = params.delta * s_t
+    delta_vector = dt * (diffusion_term + resistance_term + contradiction_term + source_term)
+    f_next = f_t + delta_vector
+    return f_next, delta_vector, pressure_vector
 
 
 def compute_observables(
@@ -426,6 +487,8 @@ def step_field(
     resistance_matrix: Sequence[Sequence[float]] | np.ndarray,
     contradiction_matrix: Sequence[Sequence[float]] | np.ndarray,
     params: SemanticFieldParams,
+    *,
+    energy_control: EnergyControlParams | None = None,
 ) -> FieldStepResult:
     """
     Single explicit Euler field step:
@@ -437,7 +500,8 @@ def step_field(
             +delta S_t
         ]
 
-    Production-safe mode clips to [0, 1].
+    Clipping to [0, 1] is a **safeguard** only; with ``energy_control``, steps that increase
+    energy (beyond soft tolerance) trigger ``dt`` reduction and retry.
     """
     params.validate()
 
@@ -452,20 +516,79 @@ def step_field(
         if mat.shape != (n, n):
             raise ValueError(f"{name} shape mismatch: expected {(n, n)}, got {mat.shape}")
 
-    diffusion_term = -params.alpha * (l @ f_t)
-    resistance_term = -params.beta * (r @ f_t)
     pressure_vector = compute_pressure_vector(f_t, c)
-    contradiction_term = -params.gamma * pressure_vector
-    source_term = params.delta * s_t
-
-    delta_vector = params.dt * (diffusion_term + resistance_term + contradiction_term + source_term)
-    f_next = f_t + delta_vector
-
-    if params.clip_mode:
-        f_next = _clip01(f_next)
-
     energy_prev = compute_energy(f_t, s_t, l, r, c, params)
-    energy_next = compute_energy(f_next, s_t, l, r, c, params)
+
+    if energy_control is None:
+        f_next, delta_vector, pressure_vector = _propose_field_euler_step(
+            f_t, s_t, l, r, c, params, params.dt
+        )
+        clip_frac = 0.0
+        if params.clip_mode:
+            f_next, clip_frac = apply_clip_01_with_stats(f_next, clip=True)
+        energy_next = compute_energy(f_next, s_t, l, r, c, params)
+        observables = compute_observables(f_t, f_next, s_t, l, r, c, params)
+        convergence = compute_convergence_metrics(f_t, f_next, c, params)
+        return FieldStepResult(
+            field_prev=f_t.copy(),
+            field_next=f_next.copy(),
+            source_vector=s_t.copy(),
+            pressure_vector=pressure_vector.copy(),
+            delta_vector=delta_vector.copy(),
+            energy_prev=energy_prev,
+            energy_next=energy_next,
+            converged_numerical=bool(convergence["converged_numerical"]),
+            converged_contradiction=bool(convergence["converged_contradiction"]),
+            observables=observables,
+            dt_effective=float(params.dt),
+            n_dt_retries=0,
+            clip_fraction=clip_frac,
+            energy_descent_satisfied=True,
+        )
+
+    dt = float(params.dt)
+    n_retries = 0
+    f_next = f_t.copy()
+    delta_vector = np.zeros_like(f_t)
+    energy_next = energy_prev
+    clip_frac = 0.0
+    descent_ok = True
+
+    while True:
+        f_prop, delta_vector, pressure_vector = _propose_field_euler_step(
+            f_t, s_t, l, r, c, params, dt
+        )
+        if params.clip_mode:
+            f_prop, clip_frac = apply_clip_01_with_stats(f_prop, clip=True)
+        else:
+            clip_frac = 0.0
+        energy_next = compute_energy(f_prop, s_t, l, r, c, params)
+        if energy_acceptable(energy_prev, energy_next, energy_control):
+            f_next = f_prop
+            break
+        n_retries += 1
+        dt *= energy_control.dt_decay
+        if dt < energy_control.dt_min or n_retries > energy_control.max_dt_halving_retries:
+            if energy_control.mode == EnergyMode.strict:
+                raise RuntimeError(
+                    "Energy-controlled family step: could not achieve non-increasing energy "
+                    f"after {n_retries} dt reductions (dt={dt})."
+                )
+            descent_ok = False
+            f_next = f_prop
+            break
+
+    if clip_frac >= energy_control.clip_fail_threshold:
+        raise RuntimeError(
+            f"Excessive [0,1] clipping ({clip_frac:.3f}); instability masked by clip safeguard."
+        )
+    if clip_frac >= energy_control.clip_warn_threshold:
+        warnings.warn(
+            f"High clip fraction {clip_frac:.3f} in energy-controlled field step (check dt / params).",
+            RuntimeWarning,
+            stacklevel=2,
+        )
+
     observables = compute_observables(f_t, f_next, s_t, l, r, c, params)
     convergence = compute_convergence_metrics(f_t, f_next, c, params)
 
@@ -480,6 +603,10 @@ def step_field(
         converged_numerical=bool(convergence["converged_numerical"]),
         converged_contradiction=bool(convergence["converged_contradiction"]),
         observables=observables,
+        dt_effective=float(dt),
+        n_dt_retries=n_retries,
+        clip_fraction=clip_frac,
+        energy_descent_satisfied=descent_ok,
     )
 
 
@@ -492,33 +619,107 @@ def run_until_convergence(
     params: SemanticFieldParams,
     *,
     max_steps: int = 100,
-) -> Tuple[np.ndarray, List[TimelineStep]]:
+    energy_control: EnergyControlParams | None = None,
+) -> RunUntilConvergenceOutcome:
     """
-    Iteratively step the field until both convergence conditions hold,
-    or max_steps is reached.
+    Iteratively step the field until convergence or ``max_steps``.
+
+    With ``energy_control``, uses adaptive ``dt`` (growth after stable energy descent) and
+    records ``energy_trace``. Convergence requires numerical + contradiction flags and
+    ``ΔA``, ``ΔE`` below ``energy_control`` thresholds when ``energy_control`` is set.
     """
     if max_steps <= 0:
         raise ValueError("max_steps must be > 0")
 
     f = _as_float_array(field_init, ndim=1, name="field_init").copy()
-    timeline: List[TimelineStep] = []
+    timeline = []
+    l = _ensure_square_matrix(laplacian, name="laplacian")
+    r = _ensure_square_matrix(resistance_matrix, name="resistance_matrix")
+    c = _ensure_square_matrix(contradiction_matrix, name="contradiction_matrix")
+    s_t = _ensure_vector_length(source_t, n=f.shape[0], name="source_t")
+
+    energy_trace: List[float] = [
+        float(
+            compute_energy_family_1d(
+                f,
+                s_t,
+                l,
+                r,
+                c,
+                alpha=params.alpha,
+                beta=params.beta,
+                gamma=params.gamma,
+                delta=params.delta,
+            )
+        )
+    ]
+
+    current_dt = float(params.dt)
+    stable_energy_steps = 0
+    converged = False
+    steps_run = 0
 
     for step_idx in range(max_steps):
+        p_step = dataclasses.replace(params, dt=current_dt)
         result = step_field(
             field_t=f,
             source_t=source_t,
             laplacian=laplacian,
             resistance_matrix=resistance_matrix,
             contradiction_matrix=contradiction_matrix,
-            params=params,
+            params=p_step,
+            energy_control=energy_control,
         )
         timeline.append(TimelineStep(step_index=step_idx, result=result))
+        f_prev = f.copy()
         f = result.field_next.copy()
+        steps_run = step_idx + 1
 
-        if result.converged_numerical and result.converged_contradiction:
+        energy_trace.append(
+            float(
+                compute_energy_family_1d(
+                    f,
+                    s_t,
+                    l,
+                    r,
+                    c,
+                    alpha=params.alpha,
+                    beta=params.beta,
+                    gamma=params.gamma,
+                    delta=params.delta,
+                )
+            )
+        )
+
+        if energy_control is not None:
+            if result.energy_descent_satisfied and energy_acceptable(
+                result.energy_prev, result.energy_next, energy_control
+            ):
+                stable_energy_steps += 1
+            else:
+                stable_energy_steps = 0
+            current_dt = result.dt_effective
+            if stable_energy_steps >= energy_control.stable_steps_for_growth:
+                current_dt = min(current_dt * energy_control.dt_growth, energy_control.dt_max)
+                stable_energy_steps = 0
+
+            delta_a = float(np.linalg.norm(f - f_prev, ord=2))
+            delta_e = abs(result.energy_next - result.energy_prev)
+            energy_ok = delta_a < energy_control.epsilon_delta_a and delta_e < energy_control.epsilon_delta_e
+        else:
+            energy_ok = True
+
+        if result.converged_numerical and result.converged_contradiction and energy_ok:
+            converged = True
             break
 
-    return f, timeline
+    return RunUntilConvergenceOutcome(
+        field_final=f,
+        timeline=timeline,
+        energy_trace=energy_trace,
+        convergence_flag=converged,
+        steps_to_convergence=steps_run,
+    )
 
 
 def aggregate_family_to_area(
@@ -581,6 +782,8 @@ __all__ = [
     "SemanticFieldParams",
     "FieldStepResult",
     "TimelineStep",
+    "RunUntilConvergenceOutcome",
+    "EnergyControlParams",
     "build_family_laplacian",
     "build_resistance_matrix",
     "build_contradiction_matrix",

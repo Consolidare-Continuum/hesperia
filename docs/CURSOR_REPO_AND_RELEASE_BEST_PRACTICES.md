@@ -25,6 +25,9 @@ python3 tools/audit_public_surface.py
 # 2.3 Tests (adjust scope if needed; full suite before merge to main)
 python3 -m pytest tests/ -q --tb=no
 
+# 2.3b Optional: full physics + integration GO/NO-GO (Tasks 1–11; unset HESPERIA_SEMANTIC_FIELD_STUB_MATRICES)
+# python3 -m tools.system_seal.run_system_seal
+
 # 2.4 Optional: Phase 0 inventory (large repo scan)
 # python3 tools/seal_phase0_inventory.py
 ```
@@ -46,6 +49,7 @@ Verify:
 
 - `release/v0.5.0/final_gate_status.json` → `sealed: true`
 - `critical_checks.release_audit` → `pass` (not `quick_subset_only`)
+- `critical_checks.system_seal` → `pass`
 - `git status` → **clean** (no uncommitted release artifacts unless you intend to commit them)
 
 **Do not** `git tag v0.5.0` if `sealed` is false or the tree is dirty.

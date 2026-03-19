@@ -34,18 +34,79 @@ A_AREAS = 12
 FAMILIES_PER_AREA = F_FAMILIES // A_AREAS  # 24
 
 
-def _hits_288(text: str, assets_root: Path) -> list[int]:
-    from core.attribution.structural import attribute, load_dict_a, load_dict_b, normalize, tokenize
+def markers_to_concept_activation(text: str, assets_root: Path) -> dict[str, Any]:
+    """
+    Canonical path: **markers → concepts → A_concept** (hit counts per concept_index).
+
+    Dict A/B resolve to **concept_index** (v0.5: same channel as structural family index).
+    Use ``a_concept_to_family_hits`` for the explicit family projection — do not attribute
+    tokens directly to family totals in sealed physics code without this concept stage.
+    """
+    from core.attribution.structural import (
+        attribute,
+        explain_landing,
+        load_dict_a,
+        load_dict_b,
+        normalize,
+        tokenize,
+    )
+    from hesperia.ontology.concept_registry import concept_id_for_index, concepts_registry_version, n_concept_canon
+
+    nc = n_concept_canon()
+    if nc != F_FAMILIES:
+        raise RuntimeError(f"concept registry n_concept={nc} must match F_FAMILIES={F_FAMILIES}")
 
     dict_a = load_dict_a(assets_root=assets_root) or {}
     dict_b = load_dict_b()
     tokens = tokenize(normalize(text))
-    matched, _ = attribute(tokens, dict_a, dict_b)
-    hits = [0] * F_FAMILIES
-    for fg, _ in matched:
-        if 0 <= fg < F_FAMILIES:
-            hits[fg] += 1
-    return hits
+    matched, metrics = attribute(tokens, dict_a, dict_b)
+
+    hits = [0] * nc
+    for ci, _alt in matched:
+        if 0 <= ci < nc:
+            hits[ci] += 1
+
+    trace: list[dict[str, Any]] = []
+    for t in tokens:
+        ex = explain_landing(t, dict_a=dict_a, b0=dict_b, b1_optional=None)
+        fg = ex.get("familyGlobal")
+        if fg is None:
+            continue
+        ix = int(fg)
+        if not (0 <= ix < nc):
+            continue
+        trace.append(
+            {
+                "token": t,
+                "concept_id": concept_id_for_index(ix),
+                "concept_index": ix,
+                "linked_family": ix,
+                "landing_source": ex.get("landing_source"),
+            }
+        )
+
+    return {
+        "a_concept_counts": hits,
+        "n_concept": nc,
+        "registry_version": concepts_registry_version(),
+        "tokens": tokens,
+        "concept_matches": matched,
+        "attribution_metrics": metrics,
+        "marker_concept_trace": trace,
+    }
+
+
+def a_concept_to_family_hits(a_concept_counts: list[int]) -> list[int]:
+    """Explicit projection **A_concept → family hit vector** (v0.5 structural identity)."""
+    if len(a_concept_counts) != F_FAMILIES:
+        raise ValueError(f"a_concept_counts length {len(a_concept_counts)} != {F_FAMILIES}")
+    return [int(x) for x in a_concept_counts]
+
+
+def _hits_288(text: str, assets_root: Path) -> list[int]:
+    """Backward-compatible name: family hit counts via concept registry path."""
+    act = markers_to_concept_activation(text, assets_root)
+    return a_concept_to_family_hits(act["a_concept_counts"])
 
 
 def area_injection_12_from_hits(hits: list[int]) -> list[float]:

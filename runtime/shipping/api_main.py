@@ -9,6 +9,7 @@ Sealed API entry point. No internal endpoints. Uses only runtime.services (analy
 from __future__ import annotations
 
 import os
+import sys
 import time
 from pathlib import Path
 from typing import Any
@@ -79,6 +80,17 @@ def create_app():
         redoc_url=None,
         openapi_url=None,
     )
+
+    if os.environ.get("HESPERIA_REQUIRE_SYSTEM_SEAL", "").strip().lower() in ("1", "true", "yes"):
+        repo = Path(__file__).resolve().parents[2]
+        sys.path.insert(0, str(repo))
+        from hesperia.system.system_seal import run_system_seal_gate
+
+        rep = run_system_seal_gate(repo)
+        if rep.get("status") != "PASS":
+            raise RuntimeError(
+                "HESPERIA system seal FAILED — refusing to serve (set HESPERIA_REQUIRE_SYSTEM_SEAL=0 to disable)."
+            )
 
     def _safe_response(data: dict | list):
         from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile

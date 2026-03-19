@@ -6,23 +6,22 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# runtime/pipeline — Legacy Pipeline Modules
+# runtime/pipeline — Execution helpers & E2E
 
-**Canonical entrypoint:** `sphere.pipeline.run_pipeline`  
-**Reference CLI:** `runtime/runners/run_reference_pipeline.py` (calls sphere)
+**Canonical structural path:** `runtime.services.analysis_service.run_structural_analysis` →
+`hesperia.engine.sealed_multiscale_stack.run_sealed_multiscale_stack` → `hesperia.engine.projection.project_to_public`.
 
-This package is **legacy**. New code should use:
+**Reference CLI:** `python3 -m runtime.runners.run_reference_pipeline` (wraps `run_structural_analysis`).
 
-- **Run the pipeline:** `from sphere.pipeline import run_pipeline` then `run_pipeline(raw_text, config, ...)`
-- **CLI:** `python3 -m runtime.runners.run_reference_pipeline [--text ...] [--out path.json]`
+Legacy `sphere.pipeline.run_pipeline` is **dev/test only** (`HESPERIA_SPHERE_PIPELINE_DEV=1`); do not use for shipping.
 
-## What lives here (legacy)
+## Entrypoints
 
-- **run_l1_through_l9.py** — Compatibility wrapper. `run_pipeline_for_text()` delegates to `sphere.pipeline.run_pipeline` when no profile is used; when a profile is provided, runs the legacy L1→L9 loop locally. `main()` remains for `python3 -m runtime.pipeline.run_l1_through_l9`.
-- **layer_registry.py** — Still used by the canonical sphere pipeline runner (L1–L9 module list). Do not remove; it is shared infrastructure.
-- **pipeline_state.py** — Still used by the canonical sphere pipeline runner. Do not remove; it is shared infrastructure.
-- **batch_runner.py**, **reading_scales.py**, **run_e2e_all.py**, **analyze.py**, etc. — Legacy scripts; they may call `run_pipeline_for_text` or other entrypoints.
+- **run_l1_through_l9.py** — `run_pipeline_for_text()` calls `run_structural_analysis(..., stages="full")` and tags `run` as `L1_through_L9` for E2E contracts.
+- **run_sphere_math_values.py** — writes one public JSON via `run_structural_analysis`.
+- **run_e2e_all.py**, **batch_runner.py**, **reading_scales.py**, **run_corpus_benchmark.py**, **analyze.py** — batch, calibration, benchmarks, and sentence-level flows.
+- **run_e2e_full_stack.py** — one encompassing run: `run_e2e_all` + product JSON + physics validation + system seal + **`run_output_e2e_full_stack_manifest.json`** (artifact index). See `docs/E2E_RUN_ORDER.md` § “Full encompassing pipe”.
 
-## Contract validation
+## Sphere pipeline (archived / dev)
 
-Pipeline contract validation runs inside `sphere.pipeline.pipeline_runner` (contract_validation, isolation_validation). The canonical pipeline enforces layer contracts and isolation.
+Layer orchestration for `sphere.pipeline.pipeline_runner` lives under `sphere/pipeline/` (`layer_registry`, `pipeline_state`). It is gated off in production; pytest sets `HESPERIA_SPHERE_PIPELINE_DEV=1` for determinism tests that still import it.

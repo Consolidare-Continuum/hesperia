@@ -118,8 +118,9 @@ plus **schema_guard** tree walk (forbidden internal key terms).
 | `test_report.json` | Pytest command, exit code, summary. |
 | `audit_report.json` | **Master pass/fail:** projection, leaks, endpoints, modules, specs, calibration, security, **seal_decision**. |
 | `determinism_report.json` | Triplicate hash proof. |
+| `system_seal.json` | **Task 11:** GO/NO-GO over pipeline, matrices, P_CH, energy, concepts, topology, calibration, physics_validation, schema. |
 | `schema_validation_report.json` | Per-artifact schema + leak scan. |
-| `final_gate_status.json` | **Phase 7 summary:** `sealed`, per-domain `critical_checks`, `reasons_fail`. |
+| `final_gate_status.json` | **Phase 7 summary:** `sealed`, per-domain `critical_checks` (includes **`system_seal`**), `reasons_fail`. |
 | `e2e_reference_output.json` | **Regression anchor** for post-0.5.0 comparison. |
 | `schema.json` | Frozen public JSON Schema used for validation. |
 
@@ -140,4 +141,4 @@ git push origin v0.5.0
 
 ---
 
-*See also: `docs/PUBLIC_PRODUCT_SURFACE.md`, `docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`, `AGENTS.md`.*
+*See also: `docs/PUBLIC_PRODUCT_SURFACE.md`, `docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`, `docs/ENGINE_TASKS_1_11_INTEGRATION.md`, `AGENTS.md`.*

@@ -63,13 +63,28 @@ Step 12:    optional Ethan field dynamics + v1 semantic field equation artifact.
 
 Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**19** files incl. hex microstructure TFP + **sealed multiscale**). Step 12 uses **`E2E_OUTPUT_FIELD_DYNAMICS`** when the env flag is set → **20** files with dynamics.
 
-## Full stack (all dynamics deliverables)
+## Full encompassing pipe (all E2E artifacts + product + physics + system seal)
+
+Single orchestrator — **same directory** for every JSON + **manifest** with SHA256 index:
+
+```bash
+python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
+#   [--no-dynamics] [--skip-physics] [--skip-seal]
+```
+
+- Runs **`run_e2e_all`** (with dynamics + multiscale env by default — Ethan field bundle when applicable).
+- Writes **`run_output_e2e_full_product_surface.json`** (`run_structural_analysis` + schema guard).
+- Runs **`python3 -m tests.physics_validation.run_all`** then **`run_system_seal_gate`** (skips duplicate physics pytest if validation already passed).
+- Emits **`run_output_e2e_full_stack_manifest.json`** (`artifacts[]` with `path`, `bytes`, `sha256`, plus `system_seal`, `steps`, `ok`).
+
+Shell wrapper (same defaults; fast mode skips physics/seal/dynamics env):
 
 ```bash
 ./tools/e2e_full_deliverables.sh
+# HESPERIA_E2E_FULL_DELIVERABLES_FAST=1 ./tools/e2e_full_deliverables.sh   # smaller / no seal
 ```
 
-Writes e.g. `assets/artifacts/e2e_full_deliverables/` (18+ JSON incl. semantic field, HCI, TFP smoke, **hex microstructure TFP**, field dynamics when flag set).
+Writes e.g. `assets/artifacts/e2e_full_deliverables/` (all `run_output_e2e_*.json` from `run_e2e_all` + product + manifest; **20+** files when field dynamics on).
 
 ## Verify
 

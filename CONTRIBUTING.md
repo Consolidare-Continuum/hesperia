@@ -7,6 +7,7 @@ This repository is released under a **Restricted Research Disclosure** license. 
 1. Read [AGENTS.md](AGENTS.md) for repository rules and command hygiene.
 2. Run the **pre-push checklist** in [docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md](docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md).
 3. For changes that touch the **v0.5.0 seal** or `release/v0.5.0/`, follow [docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md](docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md).
+4. **Tasks 1–11 integration map:** [docs/ENGINE_TASKS_1_11_INTEGRATION.md](docs/ENGINE_TASKS_1_11_INTEGRATION.md) — how engine physics wiring maps to `system_seal.json` checks.
 
 ## Cursor / IDE
 

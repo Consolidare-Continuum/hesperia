@@ -12,6 +12,7 @@ Orchestrates core layers and sphere modules; produces USF. No layer logic here.
 from __future__ import annotations
 
 import hashlib
+import os
 from pathlib import Path
 from typing import Any
 
@@ -60,6 +61,13 @@ def run_pipeline(
     Execute full L1–L10 pipeline in strict order. Validate contracts after each layer;
     verify isolation (no upstream mutation). Produce canonical USF.
     """
+    if os.environ.get("HESPERIA_SPHERE_PIPELINE_DEV") != "1":
+        raise RuntimeError(
+            "sphere.pipeline.run_pipeline is deprecated for production. "
+            "Use hesperia.engine.sealed_multiscale_stack.run_sealed_multiscale_stack (via "
+            "runtime.services.analysis_service). For legacy tests/tools only, set "
+            "HESPERIA_SPHERE_PIPELINE_DEV=1."
+        )
     if not raw_text or not raw_text.strip():
         raise ValueError("raw_text must be non-empty")
     _validate_config(config)

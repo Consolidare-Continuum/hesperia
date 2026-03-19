@@ -55,6 +55,7 @@
   "audit_artifacts": {
     "audit_report": "audit_report.json",
     "determinism_report": "determinism_report.json",
+    "system_seal": "system_seal.json",
     "schema_validation_report": "schema_validation_report.json",
     "test_report": "test_report.json",
     "final_gate_status": "final_gate_status.json"

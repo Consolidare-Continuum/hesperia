@@ -111,6 +111,7 @@ def test_e2e_bundle_keys():
     hits[5] = 10
     b = semantic_field_e2e_bundle(source_288=hits, hits_as_source=True, n_steps=2)
     assert b["spec_id"] == SPEC_ID
+    assert str(b.get("matrices_provenance", "")).startswith("production_bundle")
     assert "field_state" in b and "field_state_next" in b
     assert b["field_timeline"] is not None
     assert len(b["field_timeline"]) == 2

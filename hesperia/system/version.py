@@ -79,6 +79,18 @@ def get_schema_versions() -> dict[str, str]:
     return {str(k): str(v) for k, v in sch.items()}
 
 
+def production_matrix_bundle_id() -> str:
+    """Bundle id for ``assets/matrices/production`` (must match on-disk manifest ``version``)."""
+    m = load_version_document().get("matrices") or {}
+    return str(m.get("production_bundle", "v1"))
+
+
+def pch_bundle_id() -> str:
+    """Bundle id for ``assets/matrices/pch`` (must match ``P_CH_manifest.json`` ``version``)."""
+    m = load_version_document().get("matrices") or {}
+    return str(m.get("pch_bundle", "v1"))
+
+
 def get_build_id() -> str:
     """Deterministic-ish id: system_version + commit + timestamp (or override)."""
     doc = load_version_document()
@@ -92,9 +104,22 @@ def get_build_id() -> str:
     return f"hesperia_{sv}_{commit}_{ts}"
 
 
-def default_calibration_profile() -> str:
+def calibration_profile_bundle_id() -> str:
+    c = load_version_document().get("calibration") or {}
+    return str(c.get("profile_bundle", "v1"))
+
+
+def calibration_active_profile_id() -> str:
+    c = load_version_document().get("calibration") or {}
+    if c.get("active_profile"):
+        return str(c["active_profile"])
     d = load_version_document().get("defaults") or {}
-    return str(d.get("calibration_profile") or "v0_5_0")
+    return str(d.get("calibration_profile") or "default_v1")
+
+
+def default_calibration_profile() -> str:
+    """Public metadata string: active governed calibration profile."""
+    return calibration_active_profile_id()
 
 
 def attach_version_metadata(output: dict[str, Any]) -> dict[str, Any]:

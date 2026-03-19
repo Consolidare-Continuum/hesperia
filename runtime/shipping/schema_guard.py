@@ -5,6 +5,10 @@
 
 from __future__ import annotations
 
+import json
+import os
+from pathlib import Path
+
 
 FORBIDDEN_KEY_SUBSTRINGS = (
     "sphere", "hex", "topology", "bridge", "side_id", "area_id", "family_id",
@@ -48,3 +52,36 @@ def validate_against_public_schema(output: dict | list) -> None:
     (including nested in lists) contains a forbidden substring.
     """
     _walk(output)
+
+
+def _repo_root() -> Path:
+    return Path(__file__).resolve().parents[2]
+
+
+def load_public_output_top_level_allowlist() -> frozenset[str]:
+    """Keys declared under ``schemas/public/public_output_schema.json`` ``properties``."""
+    path = _repo_root() / "schemas" / "public" / "public_output_schema.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    props = data.get("properties") or {}
+    return frozenset(str(k) for k in props.keys())
+
+
+def validate_public_top_level_keys_allowlisted(output: dict) -> None:
+    """
+    **Product truth (strict):** reject unknown top-level keys on projected public dict.
+
+    Enable with ``HESPERIA_PUBLIC_SCHEMA_STRICT_KEYS=1``. Nested ``payload`` is not recursed
+    (schema allows arbitrary payload); only envelope keys are checked.
+    """
+    allowed = load_public_output_top_level_allowlist()
+    for k in output.keys():
+        if k not in allowed:
+            raise ValueError(f"public_schema_violation: unknown top-level key {k!r} (not in public schema properties)")
+
+
+def validate_public_schema_strict(output: dict | list) -> None:
+    """Forbidden-substring walk + optional allowlisted top-level keys (env-gated)."""
+    validate_against_public_schema(output)
+    if os.environ.get("HESPERIA_PUBLIC_SCHEMA_STRICT_KEYS", "").strip() in ("1", "true", "yes"):
+        if isinstance(output, dict):
+            validate_public_top_level_keys_allowlisted(output)

@@ -235,7 +235,7 @@ def run_semantic_field(config: Dict[str, Any]) -> Dict[str, Any]:
         now_t=config.get("time_now"),
     )
 
-    final_field, timeline = run_until_convergence(
+    outcome = run_until_convergence(
         field_init,
         source_vector,
         laplacian,
@@ -244,6 +244,7 @@ def run_semantic_field(config: Dict[str, Any]) -> Dict[str, Any]:
         params,
         max_steps=int(config.get("max_steps", 50)),
     )
+    final_field, timeline = outcome
 
     fpa = int(config.get("families_per_area", 24))
     ac = int(config.get("area_count", 12))
@@ -275,6 +276,9 @@ def run_semantic_field(config: Dict[str, Any]) -> Dict[str, Any]:
         "timeline": timeline_json,
         "energy_prev_trajectory": energy_prev,
         "energy_next_trajectory": energy_next,
+        "energy_trace": [round(float(x), 8) for x in outcome.energy_trace],
+        "convergence_flag": outcome.convergence_flag,
+        "steps_to_convergence": outcome.steps_to_convergence,
     }
     if id_map is not None:
         result["family_id_index"] = dict(sorted(id_map.items(), key=lambda x: x[1]))

@@ -217,11 +217,11 @@ def attach_hex_product_outputs(
 
     Call after concept→family hits are known, before/ alongside family export.
     """
-    from hesperia.extensions.dynamics.semantic_field_v1 import build_default_matrices
+    from hesperia.engine.matrix_loader import load_production_matrices
 
     h = list(hits_by_family[:F]) + [0] * max(0, F - len(hits_by_family))
-    mats = build_default_matrices()
-    C_F = np.asarray(mats["C"], dtype=np.float64)
+    mats = load_production_matrices()
+    C_F = np.asarray(mats["C_F"], dtype=np.float64)
     scene = build_sparse_hex_scene(
         h, C_F, nh_per_family=nh_per_family, max_families=max_families, params=params
     )

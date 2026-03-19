@@ -13,7 +13,7 @@ See LEGAL_NOTICE.md for full terms.
 
 **Release narrative:** [specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md)  
 **Agents:** [AGENTS.md](../AGENTS.md) · **Awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md)  
-**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.0/README.md](../release/v0.5.0/README.md)
+**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.0/README.md](../release/v0.5.0/README.md) · **Tasks 1–11 wiring:** [ENGINE_TASKS_1_11_INTEGRATION.md](ENGINE_TASKS_1_11_INTEGRATION.md)
 
 ---
 

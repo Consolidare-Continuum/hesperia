@@ -115,7 +115,9 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 - **Builder:** `python3 tools/release/build_release_audit_v0_5_0.py` (exit **0** only if all gates pass, including **clean git**). Set `HESPERIA_RELEASE_BUILD_TIMESTAMP` for bitwise-stable `e2e_reference_output.json`.
 - **Tag:** `git tag -a v0.5.0 -m "…"` only when `audit_report.json` → `seal_decision.may_tag_v0_5_0` is **true** (automation does not tag).
 - **Task 6 execution order:** `docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md` (Phase 0 inventory: `tools/seal_phase0_inventory.py`; validators: `tools/validate_version_consistency.py`, `tools/audit_public_surface.py`, `tools/build_specs_index.py`, `tools/doc_authority_scan.py`).
-- **Final gate file:** `release/v0.5.0/final_gate_status.json` (`sealed`, `critical_checks`).
+- **Final gate file:** `release/v0.5.0/final_gate_status.json` (`sealed`, `critical_checks` including **`system_seal`**).
+- **System seal (Task 11):** `python3 -m tools.system_seal.run_system_seal` — GO/NO-GO over Tasks 1–10 wiring; artifact `release/v0.5.0/system_seal.json` (release builder runs this after determinism). Optional API: `HESPERIA_REQUIRE_SYSTEM_SEAL=1` on shipping app startup.
+- **Task integration map:** `docs/ENGINE_TASKS_1_11_INTEGRATION.md` — one table: tasks → code → seal keys.
 
 ## System awareness (further development)
 
@@ -142,6 +144,7 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 
 - Keep examples and commands aligned to active modules.
 - Use `python3 -m runtime.pipeline.run_l1_through_l9` for the L1→L9 pipeline entrypoint.
+- Use `python3 -m runtime.pipeline.run_e2e_full_stack` for the **single encompassing E2E** (all `run_e2e_all` outputs + product surface + physics validation + system seal + manifest); `docs/E2E_RUN_ORDER.md`.
 - Use `python3 -m runtime.semantic_field.run_semantic_field --config … --output …` for **semantic field equations** (see `runtime/configs/semantic_field_example.json`, `runtime/semantic_field/README.md`).
 - Use `python3 -m runtime.semantic_field.run_field_calibration --config … --output …/run_output_e2e_field_calibration.json` for **HCI parameter grid calibration** (writes `*_best.json`, `*_topk.json`; see `runtime/configs/field_calibration_example.json`, `specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md`).
 - Keep pytest references pointed at `tests/`.

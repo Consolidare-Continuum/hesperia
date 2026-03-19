@@ -3,8 +3,8 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Public entry point: structural analysis (full pipeline). Delegates to runtime.services.analysis_service only.
-Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json] [--profile path] [--write-dossier path]
+Public entry point: canonical multiscale structural analysis. Delegates to runtime.services.analysis_service only.
+Usage: python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json] [--write-dossier path]
 """
 from __future__ import annotations
 
@@ -27,15 +27,13 @@ def run_pipeline_for_text(
     policy_mode: str | None = None,
     profile_path: Path | None = None,
 ) -> dict:
-    """Thin wrapper: run structural analysis and return projected result. For e2e and callers."""
+    """Thin wrapper: run canonical multiscale analysis and return projected result. For e2e and callers."""
+    _ = (defaults, profile_id, profile, profile_path)  # deprecated; rejected if passed to service
     from runtime.services.analysis_service import run_structural_analysis
     assets = assets_root or _HESPERIA / "lexicon" / "curated"
     out = run_structural_analysis(
         text,
         assets_root=assets,
-        profile_id=profile_id,
-        profile=profile,
-        profile_path=profile_path,
         policy_mode=policy_mode,
         stages="full",
     )
@@ -55,7 +53,12 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Run structural analysis (public entry point).")
     ap.add_argument("--text", default="justice lie fairness truth good order harm freedom")
     ap.add_argument("--out", type=Path, default=None)
-    ap.add_argument("--profile", type=Path, default=None, help="Path to STRUCTURE_PROFILE__*.json (optional)")
+    ap.add_argument(
+        "--profile",
+        type=Path,
+        default=None,
+        help="Removed: canonical path is sealed multiscale only. If set, execution fails.",
+    )
     ap.add_argument("--policy-mode", dest="policy_mode", default=None, choices=("STRUCTURE_ONLY", "STRUCTURE_PLUS_CONTEXT", "FULL_INTERPRETATION"))
     ap.add_argument("--write-dossier", type=Path, default=None, metavar="PATH")
     ap.add_argument("--validate-dossier", action="store_true")
@@ -65,7 +68,7 @@ def main() -> None:
     out = run_structural_analysis(
         args.text,
         assets_root=assets,
-        profile_path=getattr(args, "profile", None),
+        profile_path=args.profile,
         policy_mode=getattr(args, "policy_mode", None),
         stages="full",
     )

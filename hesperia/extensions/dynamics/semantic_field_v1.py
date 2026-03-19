@@ -5,6 +5,7 @@
 from __future__ import annotations
 
 import json
+import os
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable, Mapping, Sequence
@@ -21,6 +22,13 @@ SPEC_ID = "SEMANTIC_FIELD_EQUATIONS_v1"
 
 # When True, bundle output notes that matrices were not caller-supplied.
 STUB_MATRICES_PROVENANCE = "stub_canonical_ring_DEV_ONLY_explicit_registry_required_for_production"
+
+# Legacy unit tests only — production must use ``hesperia.engine.matrix_loader.load_production_matrices``.
+_STUB_MATRICES_ENV = "HESPERIA_SEMANTIC_FIELD_STUB_MATRICES"
+
+
+def _stub_matrices_allowed() -> bool:
+    return os.environ.get(_STUB_MATRICES_ENV) == "1"
 
 
 def _repo_root() -> Path:
@@ -412,9 +420,15 @@ def build_stub_matrices_dev_only(
 ) -> dict[str, np.ndarray]:
     """
     **DEV / tests only.** Builds L_F, R_F, C from the canonical ring stub adjacency unless
-    caller passes explicit adjacency. Production must load W_F, R_F, C from topology +
-    calibration/registry — do not rely on this helper for governed runs.
+    caller passes explicit adjacency. Production must load matrices via
+    ``hesperia.engine.matrix_loader.load_production_matrices``.
     """
+    if not _stub_matrices_allowed():
+        raise RuntimeError(
+            "Stub matrices are forbidden outside dev/tests. "
+            "Use hesperia.engine.matrix_loader.load_production_matrices(). "
+            f"For legacy tests only, set {_STUB_MATRICES_ENV}=1."
+        )
     from core.layers.layer_2 import build_canonical_stub_adjacency
 
     adj = adjacency or build_canonical_stub_adjacency(NUM_FAMILIES, NUM_AREAS)
@@ -435,7 +449,17 @@ def build_default_matrices(
     *,
     resistance_diag: np.ndarray | float | None = None,
 ) -> dict[str, np.ndarray]:
-    """Alias for :func:`build_stub_matrices_dev_only` (backward compat)."""
+    """
+    **Forbidden in production** — alias for :func:`build_stub_matrices_dev_only`.
+
+    Governed runs must call ``load_production_matrices`` instead.
+    """
+    if not _stub_matrices_allowed():
+        raise RuntimeError(
+            "build_default_matrices() is not allowed in production. "
+            "Use hesperia.engine.matrix_loader.load_production_matrices(). "
+            f"For legacy tests only, set {_STUB_MATRICES_ENV}=1."
+        )
     return build_stub_matrices_dev_only(
         adjacency=adjacency, contradiction=contradiction, resistance_diag=resistance_diag
     )
@@ -454,15 +478,22 @@ def semantic_field_e2e_bundle(
 ) -> dict[str, Any]:
     """
     E2E JSON bundle. Pass ``matrices`` with keys ``L_F``, ``R_F``, ``C`` from registry.
-    If omitted, stub matrices are used and ``matrices_provenance`` is set to warn operators.
+    If omitted, production matrices are loaded from ``assets/matrices/production/``.
     """
     p = params or load_semantic_field_params_v1()
     if matrices is not None:
         mats = dict(matrices)
         prov = "caller_supplied"
     else:
-        mats = build_stub_matrices_dev_only()
-        prov = STUB_MATRICES_PROVENANCE
+        from hesperia.engine.matrix_loader import load_production_matrices
+
+        loaded = load_production_matrices()
+        mats = {
+            "L_F": loaded["L_F"],
+            "R_F": loaded["R_F"],
+            "C": loaded["C_F"],
+        }
+        prov = f"production_bundle_{loaded['bundle_version']}"
     l_f, r_f, c = mats["L_F"], mats["R_F"], mats["C"]
 
     if documents is not None:

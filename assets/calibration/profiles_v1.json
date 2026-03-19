@@ -1,0 +1,26 @@
+{
+  "bundle_version": "v1",
+  "description": "Governed dynamics parameters (semantic field family step + reference hex coefficients).",
+  "profiles": {
+    "default_v1": {
+      "alpha": 0.1,
+      "beta": 0.05,
+      "gamma": 0.2,
+      "delta": 0.1,
+      "dt": 0.05,
+      "epsilon": 1e-6,
+      "tau": 1e-6,
+      "clip_mode": true,
+      "hex_field_reference": {
+        "alpha_H": 0.12,
+        "beta_H": 0.06,
+        "gamma_H": 0.1,
+        "delta_H": 0.22,
+        "dt": 0.05
+      }
+    },
+    "v0_5_0": {
+      "alias_of": "default_v1"
+    }
+  }
+}

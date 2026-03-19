@@ -37,8 +37,8 @@ def _load_corpus(path: Path) -> list[dict]:
     return data.get("documents", data.get("items", []))
 
 
-def _run_domain(corpora_root: Path, domain: str, config: dict) -> list[dict]:
-    from sphere.pipeline import run_pipeline
+def _run_domain(corpora_root: Path, domain: str, assets: Path) -> list[dict]:
+    from runtime.services.analysis_service import run_structural_analysis
 
     path = corpora_root / domain / "corpus.json"
     if not path.exists():
@@ -49,9 +49,8 @@ def _run_domain(corpora_root: Path, domain: str, config: dict) -> list[dict]:
         text = item.get("text", item) if isinstance(item, dict) else str(item)
         if not text or not str(text).strip():
             continue
-        doc_id = f"bench_{domain}_{item.get('id', len(results))}"
         try:
-            result = run_pipeline(text, config, document_id=doc_id)
+            result = run_structural_analysis(str(text), assets_root=assets, attach_version=False)
             results.append(result)
         except Exception:
             results.append({})
@@ -69,28 +68,26 @@ def _aggregate(results: list[dict]) -> dict:
         if not r:
             continue
         raw = (r.get("usf") or {}).get("raw_metrics") or {}
-        dyn = (r.get("usf") or {}).get("dynamism_metrics") or {}
-        prop = (r.get("layer_outputs") or {}).get("layer_7") or {}
-        if isinstance(prop, dict):
-            prop_diag = prop.get("propagation_diagnostics") or {}
-        else:
-            prop_diag = {}
+        ms = r.get("multiscale_signals") or {}
 
         if "entropy" in raw:
             entropies.append(float(raw["entropy"]))
+        if "narrative_density" in ms:
+            entropies.append(float(ms["narrative_density"]))
         if "dominant_area" in raw:
             dominant_areas.append(int(raw["dominant_area"]))
-        elif "dominant_area_id" in (r.get("usf") or {}):
-            dominant_areas.append(int((r["usf"])["dominant_area_id"]))
-        # propagation_depth: use num_steps or 1
+        if "dominant_macro_domain" in raw:
+            dominant_areas.append(int(raw["dominant_macro_domain"]))
         propagation_depths.append(1)
         if "tension" in raw:
             tensions.append(float(raw["tension"]))
-        if "structural_tension" in dyn:
-            tensions.append(float(dyn["structural_tension"]))
+        if "contradiction_pressure" in ms:
+            tensions.append(float(ms["contradiction_pressure"]))
         fp = (r.get("usf") or {}).get("fingerprint")
         if fp is not None:
             fingerprint_hashes.append(hash(json.dumps(fp, sort_keys=True)))
+        if ms:
+            fingerprint_hashes.append(hash(json.dumps(ms.get("hspr_index"), sort_keys=True)))
 
     # Dominant area distribution
     dist = defaultdict(int)
@@ -122,10 +119,10 @@ def main() -> int:
     ap.add_argument("--corpora-root", type=Path, default=DEFAULT_CORPORA_ROOT)
     args = ap.parse_args()
 
-    config = {"pipeline_version": "v1", "deterministic": True, "allow_placeholder_layer10": True}
+    assets = _HESPERIA / "lexicon" / "curated"
     all_aggregates = {}
     for domain in DOMAINS:
-        results = _run_domain(args.corpora_root, domain, config)
+        results = _run_domain(args.corpora_root, domain, assets)
         all_aggregates[domain] = _aggregate(results)
 
     out_path = Path(args.out)

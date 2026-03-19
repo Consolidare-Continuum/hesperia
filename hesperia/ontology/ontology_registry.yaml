@@ -8,6 +8,8 @@ dictB_version: "1.0"
 relations_version: "1.0"
 families_version: "1.0"
 areas_version: "1.0"
+# Canonical concept axis (markers → A_concept): hesperia/ontology/concepts_registry.yaml
+concepts_registry_version: "1"
 
 # Change tracking: list of changes (optional)
 # change_log:

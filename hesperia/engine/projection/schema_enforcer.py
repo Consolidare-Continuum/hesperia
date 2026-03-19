@@ -17,6 +17,6 @@ from typing import Any
 
 def enforce_public_schema(output: dict[str, Any] | list[Any]) -> None:
     """Raise ``ValueError`` if any key in the JSON tree exposes forbidden internal terms."""
-    from runtime.shipping.schema_guard import validate_against_public_schema
+    from runtime.shipping.schema_guard import validate_public_schema_strict
 
-    validate_against_public_schema(output)
+    validate_public_schema_strict(output)

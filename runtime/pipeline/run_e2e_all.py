@@ -662,12 +662,13 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
         lambda: (
             lambda r: {
                 "run": r.get("run"),
-                "L1_dominant_area": (r.get("L1") or {}).get("DOMINANT_AREA_ID"),
+                "L1_total_tokens": (r.get("L1") or {}).get("total_tokens"),
                 "L2_present": "L2" in r,
+                "hspr_present": (r.get("multiscale_signals") or {}).get("hspr_index") is not None,
             }
         )(
             __import__("runtime.services.analysis_service", fromlist=["run_structural_analysis"]).run_structural_analysis(
-                text_s[:800], assets_root=assets, stages="L1_L2"
+                text_s[:800], assets_root=assets, stages="full"
             )
         ),
     )
@@ -677,11 +678,12 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
             lambda r: {
                 "run": r.get("run"),
                 "L3_present": "L3" in r,
-                "L1_tokens": len((r.get("L1") or {}).get("normalized_tokens") or []),
+                "L1_total_tokens": (r.get("L1") or {}).get("total_tokens"),
+                "hspr_present": (r.get("multiscale_signals") or {}).get("hspr_index") is not None,
             }
         )(
             __import__("runtime.services.analysis_service", fromlist=["run_structural_analysis"]).run_structural_analysis(
-                text_s[:800], assets_root=assets, stages="L1_L2_L3"
+                text_s[:800], assets_root=assets, stages="full"
             )
         ),
     )

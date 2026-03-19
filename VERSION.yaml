@@ -22,8 +22,19 @@ pipelines:
   api: "api_v1"
   triz: "triz_v1"
 
+# Governed interaction matrices (L_F, C_F, R_F) under assets/matrices/production/
+# Concept→Hex P_CH under assets/matrices/pch/
+matrices:
+  production_bundle: "v1"
+  pch_bundle: "v1"
+
+# Governed calibration profiles: assets/calibration/profiles_{bundle}.json
+calibration:
+  profile_bundle: "v1"
+  active_profile: "default_v1"
+
 defaults:
-  calibration_profile: "v0_5_0"
+  calibration_profile: "default_v1"
 
 # Filled at runtime by hesperia.system.version (never commit secrets here)
 build:

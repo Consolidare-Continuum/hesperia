@@ -10,7 +10,9 @@ from hesperia.extensions.dynamics.calibration import (
     generate_candidate_grid,
 )
 from hesperia.extensions.dynamics.equations import (
+    EnergyControlParams,
     FieldStepResult,
+    RunUntilConvergenceOutcome,
     SemanticFieldParams,
     TimelineStep,
     aggregate_family_to_area,
@@ -31,6 +33,7 @@ from hesperia.extensions.dynamics.xi_proxy import (
     field_dynamics_xi_enabled,
     xi_proxy_from_triz_rows,
 )
+from hesperia.engine.matrix_loader import load_production_matrices
 from hesperia.extensions.dynamics.semantic_field_v1 import (
     SPEC_ID as SEMANTIC_FIELD_EQUATIONS_SPEC_ID,
     SemanticFieldParamsV1,
@@ -53,6 +56,8 @@ __all__ = [
     "SemanticFieldParams",
     "FieldStepResult",
     "TimelineStep",
+    "RunUntilConvergenceOutcome",
+    "EnergyControlParams",
     "build_family_laplacian",
     "build_resistance_matrix",
     "build_contradiction_matrix",
@@ -84,6 +89,7 @@ __all__ = [
     "SEMANTIC_FIELD_EQUATIONS_SPEC_ID",
     "SemanticFieldParamsV1",
     "load_semantic_field_params_v1",
+    "load_production_matrices",
     "build_default_matrices",
     "build_stub_matrices_dev_only",
     "semantic_field_e2e_bundle",

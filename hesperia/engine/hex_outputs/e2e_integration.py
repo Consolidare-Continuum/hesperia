@@ -78,30 +78,30 @@ def hex_microstructure_bundle_for_text(
     )
     micro_slim = slim_microstructure_for_json(micro, list_cap=list_cap)
 
-    hex_primary: dict[str, Any] = {}
-    try:
-        from hesperia.extensions.dynamics.semantic_field_v1 import build_default_matrices
-        from hesperia.engine.hex_dynamics import HexFieldParams, run_option_a_hex_primary
+    from hesperia.engine.hex_dynamics import HexFieldParams, run_option_a_hex_primary
+    from hesperia.engine.matrix_loader import load_production_matrices
+    from hesperia.system.version import pch_bundle_id
 
-        C_F = np.asarray(build_default_matrices()["C"], dtype=np.float64)
-        hp = run_option_a_hex_primary(
-            harr,
-            C_F,
-            n_steps=hex_primary_steps,
-            params=HexFieldParams(alpha_H=0.1, beta_H=0.05, gamma_H=0.08, delta_H=0.2, dt=0.04),
-        )
-        obs = hp["hex_observables_final"]
-        hex_primary = {
-            "closure": hp["closure"],
-            "F_canonical_total": float(np.sum(hp["F_canonical"])),
-            "E_H": round(obs.E_H, 6),
-            "K_H": round(obs.K_H, 6),
-            "G_H": round(obs.G_H, 6),
-            "compactness": round(obs.compactness, 6),
-            "G_F": round(obs.G_F, 6),
-        }
-    except Exception as e:
-        hex_primary = {"_error": str(e)}
+    mats = load_production_matrices()
+    C_F = np.asarray(mats["C_F"], dtype=np.float64)
+    hp = run_option_a_hex_primary(
+        harr,
+        C_F,
+        n_steps=hex_primary_steps,
+        params=HexFieldParams(alpha_H=0.1, beta_H=0.05, gamma_H=0.08, delta_H=0.2, dt=0.04),
+    )
+    obs = hp["hex_observables_final"]
+    hex_primary = {
+        "closure": hp["closure"],
+        "matrix_bundle_version": mats["bundle_version"],
+        "pch_bundle_version": pch_bundle_id(),
+        "F_canonical_total": float(np.sum(hp["F_canonical"])),
+        "E_H": round(obs.E_H, 6),
+        "K_H": round(obs.K_H, 6),
+        "G_H": round(obs.G_H, 6),
+        "compactness": round(obs.compactness, 6),
+        "G_F": round(obs.G_F, 6),
+    }
 
     tfp: dict[str, Any] = {}
     try:
