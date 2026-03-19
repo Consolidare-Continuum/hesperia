@@ -20,7 +20,8 @@ FORBIDDEN_TERMS = [
     "sphere",
     "hexagon",
     r"\bhex\b",
-    "3D",
+    # Word-boundary only: plain "3D" false-positives on hex (e.g. …8123d…) and commit ids.
+    r"\b3d\b",
     "lattice",
     "side_id",
     "adjacency path",
@@ -50,6 +51,14 @@ SCAN_SKIP_FILES = [
     "release/HESPERIA_SEALED_RUNTIME_BASELINE_v1.md",
 ]
 
+# Directory prefixes (repo-relative, forward slashes) excluded from scan.
+# - release/v0.5.0: versioned audit bundle (spec index paths, hashes, E2E blobs) — not shipping surface.
+# - examples/triz_demo: internal TRIZ narrative demos; uses graph payloads and forbidden vocabulary by design.
+SCAN_SKIP_DIR_PREFIXES = [
+    "release/v0.5.0",
+    "examples/triz_demo",
+]
+
 # Only these trees are scanned (evaluator-facing surface); everything else is ignored.
 # Governance/audit docs are not scanned (they define the forbidden list).
 PUBLIC_SCAN_DIRS = [
@@ -66,7 +75,9 @@ def _is_skip_file(file_path: Path, repo_root: Path) -> bool:
     except ValueError:
         return True
     s = str(rel).replace("\\", "/")
-    return any(s == f or s.endswith("/" + f) for f in SCAN_SKIP_FILES)
+    if any(s == f or s.endswith("/" + f) for f in SCAN_SKIP_FILES):
+        return True
+    return any(s == p or s.startswith(p + "/") for p in SCAN_SKIP_DIR_PREFIXES)
 
 
 def _under_public_scan(file_path: Path, repo_root: Path) -> bool:
