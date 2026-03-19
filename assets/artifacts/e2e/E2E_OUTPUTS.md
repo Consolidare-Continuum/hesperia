@@ -17,7 +17,7 @@ Single manifest of all outputs produced by the canonical E2E run.
 | # | Basename | Description |
 |---|----------|-------------|
 | 1 | `run_output_e2e_sentence.json` | Analyze (6-key + attribution + dict_b + R1–R4); result + extended |
-| 2 | `run_output_e2e_l1_l9.json` | L1–L9 + USF + interpretation_metrics + prolog_logic + guards + diagnostics |
+| 2 | `run_output_e2e_l1_l9.json` | L1–L9 + USF + … + **`narrative_microstructure_e2e`** (hex maps + Option A + TFP slice) |
 | 3 | `run_output_e2e_r1_r4.json` | R1–R4 pipeline; units + book_profile |
 | 4 | `run_output_e2e_sphere_math_values.json` | Sphere math (L1–L9 values only) for default text |
 | 5 | `run_output_e2e_sphere_math_100.json` | Sphere math on first **3** calibration sentences (smoke) |
@@ -27,19 +27,21 @@ Single manifest of all outputs produced by the canonical E2E run.
 | 7 | `run_output_e2e_session_kme.json` | Session NLP → KME + TRIZ (`run_session_kme_pipeline`) |
 | 8 | `run_output_e2e_triz_complete.json` | TRIZ complete report (`run_triz_analysis_complete`; CSV as byte lengths) |
 | 9 | `run_output_e2e_session_topology.json` | Clinical session topology (segmented windows; segments may be truncated) |
-| 10 | `run_output_e2e_tfp_smoke.json` | TFP smoke: structural batch + session stages + speaker-aware (`detect_tfp_stage`) |
+| 10 | `run_output_e2e_tfp_smoke.json` | TFP smoke: structural batch + session stages + speaker-aware + **session_hex_microstructure_tfp** |
+| 10b | `run_output_e2e_hex_microstructure_tfp.json` | Hex microstructure + Option A closure + TFP provenance (primary text + smoke sessions) |
+| 10c | `run_output_e2e_sealed_multiscale.json` | **Sealed multiscale:** hex map sample, **family_activation_vector**, **area_activation_vector**, **hotspot_map**, contradiction/propagation/density, **innovation_index**, **hspr_index** |
 | 11 | `run_output_e2e_capability_matrix.json` | Gena sweep + **semantic_field_and_hci**; KME run_document/run_corpus, batch_runner, mvp_acceptance, experiment_runner; multiscale if `HESPERIA_E2E_MULTISCALE=1` |
-| 11a | `run_output_e2e_semantic_field.json` | **Semantic field:** ontology → matrix_builders → equations (see `configs/semantic_field_ontology_example.json`) |
+| 11a | `run_output_e2e_semantic_field.json` | **Semantic field:** ontology → matrix_builders → equations (see `runtime/configs/semantic_field_ontology_example.json`) |
 | 11b–d | `run_output_e2e_field_calibration.json` (+ `_best`, `_topk`) | **HCI calibration** mini-grid (ontology-derived matrices) |
 | 12 | `run_output_e2e_field_dynamics.json` | With `HESPERIA_FIELD_DYNAMICS=1`: Ethan phases + optional **`semantic_field_v1`** |
 
 ## Counts
 
-**17** base JSON files (incl. calibration 5b–5c and semantic field + HCI trio); **field_dynamics** = **18th** when flag set.
+**19** base JSON files (incl. **10c** sealed multiscale); **field_dynamics** = **20th** when flag set.
 
 ## Verify
 
-`test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **18** files; calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
+`test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **20** files; calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

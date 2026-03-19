@@ -24,7 +24,7 @@ Raw engine outputs (`contradictions`, `innovation_clusters`, `narratives`, `atom
 2. **innovation_intelligence_products** — innovation radar ranking, pressure, cross-domain bridging clusters, idea novelty scores  
 3. **narrative_intelligence_products** — penetration, propagation speed, spillover, stability, route length  
 4. **system_stability_products** — system tension, domain coupling map, structural instability flag  
-5. **comparative_intelligence_products** — pointer to `/api/v1/triz/compare`; use `hesperia.engine.triz.compare_triz_corpora(dm_a, dm_b)` for deltas  
+5. **comparative_intelligence_products** — pointer to `/api/v1/triz/compare`; use `hesperia.extensions.triz.compare_triz_corpora(dm_a, dm_b)` for deltas  
 6. **monitoring_products_schema** — fields to track in time-series dashboards  
 
 ## Data API (Bearer), POST body `{ "triz": <analyze response triz> }`
@@ -36,4 +36,4 @@ Raw engine outputs (`contradictions`, `innovation_clusters`, `narratives`, `atom
 | `/api/v1/triz/signals/innovation-clusters` | commercial radar + raw clusters |
 | `/api/v1/triz/signals/narrative-penetration` | narrative intelligence slice |
 
-Module: `hesperia.engine.triz.commercial_intelligence`.
+Module: `hesperia.extensions.triz.commercial_intelligence`.

@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-3 shadow divergence (36_SPEC).
+Engine 0.5.0 — Layer-3 (36_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: comparison of baseline (B) vs shadow (S) runs. Deterministic.
 Inputs: L1_B, L2_B, hits_B, L1_S, L2_S, hits_S, F, A, governance params, eps. Downstream: L4, L7, L8.
 """

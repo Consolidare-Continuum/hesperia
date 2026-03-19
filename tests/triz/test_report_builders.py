@@ -5,8 +5,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
-from hesperia.engine.triz.report_builders import build_all_reports, build_contradiction_report
+from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+from hesperia.extensions.triz.report_builders import build_all_reports, build_contradiction_report
 
 
 def test_build_contradiction_report_shape() -> None:

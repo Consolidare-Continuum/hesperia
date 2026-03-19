@@ -1,13 +1,13 @@
 from __future__ import annotations
 
 from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
-from hesperia.engine.triz.commercial_intelligence import (
+from hesperia.extensions.triz.commercial_intelligence import (
     build_commercial_intelligence_bundle,
     compare_triz_corpora,
     extract_core_commercial_signals,
 )
-from hesperia.engine.triz.direct_outputs import TRIZDirectMetrics
-from hesperia.engine.triz.pipeline import run_triz_layer
+from hesperia.extensions.triz.direct_outputs import TRIZDirectMetrics
+from hesperia.extensions.triz.pipeline import run_triz_layer
 
 
 def test_commercial_bundle_core_signals() -> None:

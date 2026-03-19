@@ -4,7 +4,7 @@
 
 - **Inputs**: `benchmarks/triz/corpus_policy_coherent` vs `corpus_policy_polarized`.
 - **Show**: side-by-side **Policy Tension Score**, family hotspots, dominant TRIZ patterns.
-- **Artifacts**: `demo/triz/outputs/demo1_*` (JSON, CSV, executive markdown).
+- **Artifacts**: `examples/triz_demo/triz/outputs/demo1_*` (JSON, CSV, executive markdown).
 
 ## 2. Innovation discovery (sparse cross-sector)
 
@@ -21,7 +21,7 @@
 ## Running demos
 
 ```bash
-python3 demo/triz/make_demo_reports.py
+python3 examples/triz_demo/triz/make_demo_reports.py
 ```
 
 ## CLI (single product)

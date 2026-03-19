@@ -5,8 +5,8 @@ from __future__ import annotations
 import numpy as np
 import pytest
 
-from hesperia.engine.field_dynamics.phase2 import step_phase2
-from hesperia.engine.field_dynamics.state import FieldDynamicsState, Phase2Theta
+from hesperia.extensions.dynamics.phase2 import step_phase2
+from hesperia.extensions.dynamics.state import FieldDynamicsState, Phase2Theta
 
 
 def test_step_phase2_updates_family_and_area():

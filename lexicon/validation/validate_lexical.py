@@ -134,7 +134,7 @@ def main() -> int:
     canonical = load_canonical_side_set(args.canonical_max)
     all_errs = []
 
-    # Default Dict A: v0.4.1.1; fallback v0.4.1 (v1) deprecated
+    # Default Dict A filenames: v0.4.1.1 (LEGACY label); fallback v0.4.1 (v1) deprecated — not system_version.
     a_path = args.curated / "A_CORE_STAR_MAP_v0_4_1_1.json"
     if not a_path.exists():
         a_path = args.curated / "A_CORE_STAR_MAP_v1.json"
@@ -154,7 +154,7 @@ def main() -> int:
             print("VALIDATE_ERR:", e, file=sys.stderr)
         return 1
 
-    # Checksums (Dict A: v0.4.1.1 preferred, v1 deprecated)
+    # Checksums (Dict A file v0.4.1.1 preferred, v1 deprecated — LEGACY asset naming)
     checksums = {}
     for name in ("A_CORE_STAR_MAP_v0_4_1_1.json", "A_CORE_STAR_MAP_v1.json", "B_SURFACE_LEX_FIELD_v1.json"):
         p = args.curated / name

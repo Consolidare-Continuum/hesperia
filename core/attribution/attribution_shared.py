@@ -102,7 +102,7 @@ def load_dict_a_v06(assets_root: Path) -> dict[str, dict[str, Any]]:
     Uses first topk entry: familyGlobal = family_id, altitude = 1 - w (strength semantics).
     Returns dict suitable for attribute(); empty if file missing.
     """
-    v06_dir = Path(assets_root) / "v06"
+    v06_dir = Path(assets_root) / "v0_5_0"
     path = v06_dir / "dict_a_v06.jsonl"
     if not path.exists():
         return {}
@@ -139,7 +139,7 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
     root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
-    # Default: last frozen A (v0.4.1.3).
+    # Default: last frozen A (v0.4.1.3 filename lineage — LEGACY asset label; bundle path v0_5_0).
     default = root / "A_CORE_STAR_MAP_v0_4_1_3.json"
     path = path or default
     if not path.exists():

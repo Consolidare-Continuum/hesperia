@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-1 instrumentation (34_SPEC) + Normative Structure Profile (34_SPEC N1).
+Engine 0.5.0 — Layer-1 (34_SPEC + 34_SPEC N1); “v0.4.x” = legacy SPEC-era label only.
 25 variables base; when profile supplied, adds FPD, APD, FMP, ALTD, BVS, PCS.
 Deterministic, input-bound. No LLM, no shadow, no books.
 Inputs: total_tokens, matched list of (family_id, altitude), F, A, eps; optional profile_id, profile.

@@ -1,5 +1,12 @@
 # HESPERIA release bundle
 
+## v0.5.0 sealed audit package (Task 5)
+
+The **canonical audit tree** for Engine Dynamics v0.5.0 is **`release/v0.5.0/`** (manifest, checksums, frozen schema, capabilities copy, specs index, pytest report, E2E reference JSON).  
+Build/regenerate: `python3 tools/release/build_release_audit_v0_5_0.py` — see **`release/v0.5.0/README.md`**.
+
+---
+
 After running `./release_sealed_runtime.sh` or `./build_shipping.sh all` (or `cli` / `api`), this directory may contain:
 
 - **hesperia-api-image.tar** — Docker image for the API (load with `docker load -i hesperia-api-image.tar`).
@@ -18,7 +25,7 @@ Frozen bundle layout: see `docs/governance/RELEASE_ARTIFACT_LAYOUT_v1.md`. No ot
 ### API
 - Load image: `docker load -i release/hesperia-api-image.tar`
 - Run: `docker run -p 8000:8000 -e HESPERIA_LICENSE_SKIP=1 hesperia-api:latest`
-- Endpoints: `POST /analyze`, `POST /compare`, `POST /batch-analyze`, `GET /health`, `GET /version`.
+- Endpoints: `POST /analyze`, `POST /compare`, `POST /batch` (alias `batch-analyze`), `GET /health`. Optional `GET /version` when enabled (see `docs/PUBLIC_PRODUCT_SURFACE.md`). OpenAPI/docs are **disabled** on the shipping app (sealed surface).
 
 ### Limitations
 - No internal endpoints. No debug or layer views. Outputs are projected only (public vocabulary).

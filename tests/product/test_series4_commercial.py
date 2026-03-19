@@ -36,7 +36,7 @@ def test_compare_policy() -> None:
     bench = Path(__file__).resolve().parents[2] / "benchmarks" / "triz"
     a = json.loads((bench / "corpus_policy_coherent" / "graph.json").read_text())
     b = json.loads((bench / "corpus_policy_polarized" / "graph.json").read_text())
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 
     ta = run_triz_analysis_complete(active_graph_from_payload(a["active_graph"]), a.get("topology"))
     tb = run_triz_analysis_complete(active_graph_from_payload(b["active_graph"]), b.get("topology"))
@@ -57,7 +57,7 @@ def test_tenant_isolation_raises() -> None:
 def test_api_wraps() -> None:
     bench = Path(__file__).resolve().parents[2] / "benchmarks" / "triz" / "corpus_policy_polarized"
     spec = json.loads((bench / "graph.json").read_text(encoding="utf-8"))
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 
     triz = run_triz_analysis_complete(active_graph_from_payload(spec["active_graph"]), spec.get("topology"))
     w = wrap_triz_analyze_response("x", triz)

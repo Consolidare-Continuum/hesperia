@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.field_dynamics.equations import (
+from hesperia.extensions.dynamics.equations import (
     SemanticFieldParams,
     aggregate_family_to_area,
     build_contradiction_matrix,

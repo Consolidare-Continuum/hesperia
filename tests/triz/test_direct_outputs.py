@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.triz.direct_outputs import TRIZDirectMetrics, compare_triz_direct
+from hesperia.extensions.triz.direct_outputs import TRIZDirectMetrics, compare_triz_direct
 
 
 def test_compare_triz_direct_deterministic() -> None:

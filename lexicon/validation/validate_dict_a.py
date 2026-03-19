@@ -25,7 +25,7 @@ if str(REPO) not in sys.path:
 
 TOTAL_FAMILIES = 288
 SUM_TOL = 1e-6
-OUT_DIR = REPO / "lexicon" / "frozen" / "v06"
+OUT_DIR = REPO / "lexicon" / "frozen" / "v0_5_0"
 DICT_A_JSONL = "dict_a_v06.jsonl"
 FAMILY_PRIOR = "family_prior_v06.json"
 FAMILY_SPEC = REPO / "lexicon" / "curated" / "FAMILY_SPEC_v0_6.json"

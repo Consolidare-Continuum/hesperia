@@ -45,7 +45,7 @@ def _topology(transitions=None, aggression_curve=None, state_sequence=None):
 
 
 def test_report_fields_generated() -> None:
-    from hesperia.clinical.report_generator import generate_clinical_report
+    from research.clinical_tfp.report_generator import generate_clinical_report
 
     analysis = _analysis(
         areas={"A3": 0.7, "A2": 0.5, "A4": 0.6},
@@ -77,7 +77,7 @@ def test_report_fields_generated() -> None:
 
 
 def test_aggression_description_correct() -> None:
-    from hesperia.clinical.report_generator import describe_aggression_profile
+    from research.clinical_tfp.report_generator import describe_aggression_profile
 
     # rising curve → нарастание
     analysis = _analysis(areas={"A4": 0.8})
@@ -93,7 +93,7 @@ def test_aggression_description_correct() -> None:
 
 
 def test_transitions_described_correctly() -> None:
-    from hesperia.clinical.report_generator import describe_session_trajectory
+    from research.clinical_tfp.report_generator import describe_session_trajectory
 
     topo = _topology(state_sequence=["A2", "A3", "A3", "A4", "A7"])
     traj = describe_session_trajectory(topo)
@@ -106,7 +106,7 @@ def test_transitions_described_correctly() -> None:
 
 
 def test_clinical_flags_detected() -> None:
-    from hesperia.clinical.report_generator import detect_clinical_flags
+    from research.clinical_tfp.report_generator import detect_clinical_flags
 
     analysis = _analysis(areas={"A4": 0.7, "A5": 0.4}, families={"A3_F1": 0.6, "A3_F5": 0.6})
     interp = _interpretation(aggression_level="high", defense_pattern="projective_identification")
@@ -119,7 +119,7 @@ def test_clinical_flags_detected() -> None:
 
 
 def test_generate_report_markdown() -> None:
-    from hesperia.clinical.report_generator import generate_clinical_report, generate_report_markdown
+    from research.clinical_tfp.report_generator import generate_clinical_report, generate_report_markdown
 
     report = generate_clinical_report(
         _analysis(areas={"A3": 0.5}, families={"A3_F1": 0.5}),
@@ -134,7 +134,7 @@ def test_generate_report_markdown() -> None:
 
 
 def test_generate_report_json() -> None:
-    from hesperia.clinical.report_generator import generate_clinical_report, generate_report_json
+    from research.clinical_tfp.report_generator import generate_clinical_report, generate_report_json
 
     report = generate_clinical_report(
         _analysis(areas={"A2": 0.5}),
@@ -148,7 +148,7 @@ def test_generate_report_json() -> None:
 
 
 def test_generate_report_text() -> None:
-    from hesperia.clinical.report_generator import generate_clinical_report, generate_report_text
+    from research.clinical_tfp.report_generator import generate_clinical_report, generate_report_text
 
     report = generate_clinical_report(
         _analysis(areas={"A4": 0.5}),

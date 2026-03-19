@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-4 book evidence (37_SPEC).
+Engine 0.5.0 — Layer-4 (37_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: retrieval counts, family/area match, integrity, support index, gate.
 Chunk: dict with bookId, familyId, chunkId; optional checksum_ok (default True).
 When R_B/R_S empty: deterministic zeros/shortfall; gate fails when shortfall > MAX_SHORTFALL. Downstream: L5, L7, L8, L9.

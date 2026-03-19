@@ -59,7 +59,7 @@ def test_analyze_session_speaker_aware_activation_by_direction() -> None:
 
 def test_detect_transference() -> None:
     """detect_transference returns positive/negative/projective/idealization/devaluation."""
-    from hesperia.clinical.transference_detection import detect_transference
+    from research.clinical_tfp.transference_detection import detect_transference
 
     activation = {
         "activation_by_direction": {
@@ -77,7 +77,7 @@ def test_detect_transference() -> None:
 
 def test_transference_summary() -> None:
     """transference_summary returns per-direction detection."""
-    from hesperia.clinical.transference_detection import transference_summary
+    from research.clinical_tfp.transference_detection import transference_summary
 
     activation = {"activation_by_direction": {"patient_to_therapist": {"families": {}, "areas": {}}}}
     out = transference_summary(activation)
@@ -112,7 +112,7 @@ def test_build_activation_timeline() -> None:
 
 def test_detect_tfp_stage() -> None:
     """detect_tfp_stage returns one of chaotic/defense_clarification/interpretation/integration."""
-    from hesperia.clinical.stage_detection import detect_tfp_stage, TFP_STAGES
+    from research.clinical_tfp.stage_detection import detect_tfp_stage, TFP_STAGES
 
     assert detect_tfp_stage({"A4": 0.7, "A3": 0.5, "A7": 0.1}) in TFP_STAGES
     assert detect_tfp_stage({"A7": 0.6, "A4": 0.2}) == "integration"
@@ -120,7 +120,7 @@ def test_detect_tfp_stage() -> None:
 
 def test_stage_from_timeline() -> None:
     """stage_from_timeline computes stage from last N windows."""
-    from hesperia.clinical.stage_detection import stage_from_timeline
+    from research.clinical_tfp.stage_detection import stage_from_timeline
 
     timeline = [{"areas": {"A7": 0.6, "A4": 0.1}}, {"areas": {"A7": 0.5}}]
     stage = stage_from_timeline(timeline, last_n=2)

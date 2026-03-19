@@ -37,7 +37,11 @@ def main() -> None:
     if args.limit is not None:
         sentences = sentences[: args.limit]
     texts = [s.get("text", "") for s in sentences]
-    results = run_structural_analysis_batch(texts, assets_root=_HESPERIA / "lexicon" / "curated")
+    results = run_structural_analysis_batch(
+        texts,
+        assets_root=_HESPERIA / "lexicon" / "curated",
+        attach_version=False,
+    )
     out_list = []
     for i, (s, res) in enumerate(zip(sentences, results)):
         out_list.append({

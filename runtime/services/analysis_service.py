@@ -28,13 +28,15 @@ def run_structural_analysis(
     stages: str = "full",
     enable_domain_metrics: bool = False,
     domain_constants_path: str | Path | None = None,
+    attach_version: bool = True,
 ) -> dict[str, Any]:
     """
     Run structural analysis on text. Returns public-safe result only (projected).
     stages: "full" | "L1_L2" | "L1_L2_L3". When "full", runs full pipeline; otherwise only the given stages.
     When profile_path or profile is provided, uses profile-based path; otherwise sphere pipeline.
+    attach_version: when False, skip VERSION.yaml envelope (for rows embedded in a parent E2E artifact).
     """
-    from core.projection import apply_public_projection
+    from hesperia.engine.projection import project_to_public
 
     assets = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
     if stages == "L1_L2":
@@ -43,16 +45,31 @@ def run_structural_analysis(
         raw = _run_l1_l2_l3(text, assets)
     else:
         raw = _run_full(text, assets, profile_path, profile_id, profile, policy_mode, enable_domain_metrics, domain_constants_path)
-    return apply_public_projection(raw)
+    out = project_to_public(raw, validate_schema=True)
+    if not attach_version:
+        return out
+    from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, structural_pipeline_version
+
+    prof = calibration_profile_id
+    if prof is None:
+        prof = default_calibration_profile()
+    return attach_public_output_metadata(
+        out,
+        calibration_profile=prof,
+        pipeline_version=structural_pipeline_version(),
+    )
 
 
 def run_structural_analysis_batch(
     texts: list[str],
     assets_root: Path | None = None,
     policy_mode: str | None = None,
+    attach_version: bool = True,
 ) -> list[dict[str, Any]]:
-    """Run structural analysis on each text. Returns list of public-safe projected results."""
-    from core.projection import apply_public_projection
+    """Run structural analysis on each text. Returns list of public-safe projected results.
+    attach_version=False for rows that will be wrapped by a single parent envelope (E2E batch files).
+    """
+    from hesperia.engine.projection import project_to_public
     from core.layers import load_defaults
     from sphere.pipeline.pipeline_runner import run_pipeline
 
@@ -83,7 +100,19 @@ def run_structural_analysis_batch(
             "L8": layer_outputs.get("layer_8", {}),
             "L9": layer_outputs.get("layer_9", {}),
         }
-        results.append(apply_public_projection(raw))
+        proj = project_to_public(raw, validate_schema=True)
+        if attach_version:
+            from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, structural_pipeline_version
+
+            results.append(
+                attach_public_output_metadata(
+                    proj,
+                    calibration_profile=default_calibration_profile(),
+                    pipeline_version=structural_pipeline_version(),
+                )
+            )
+        else:
+            results.append(proj)
     return results
 
 
@@ -194,7 +223,7 @@ def _run_full_with_profile(
         output = layer_module.run(input_data)
         state.layers[layer_id] = output.result
         state.diagnostics[str(layer_id)] = output.diagnostics
-    return {
+    out = {
         "run": "structural_analysis",
         "text_preview": text[:80],
         "L1": state.layers[1], "L2": state.layers[2], "L3": state.layers[3],
@@ -202,6 +231,18 @@ def _run_full_with_profile(
         "L7": state.layers[7], "L8": state.layers[8], "L9": state.layers[9],
         "diagnostics": state.diagnostics,
     }
+    # Engine Dynamics v0.5: profile-path product maps (sparse hex scene). Silent fail = profile analyses still return.
+    try:
+        from hesperia.engine.hex_outputs.hex_output_engine import (
+            attach_microstructure_analytics_public,
+        )
+
+        out["microstructure_analytics"] = attach_microstructure_analytics_public(
+            hits, F=F, nh_per_family=12, max_families=36
+        )
+    except Exception:
+        pass
+    return out
 
 
 def _run_l1_l2(text: str, assets: Path) -> dict[str, Any]:

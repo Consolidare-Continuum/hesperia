@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from hesperia.engine.field_dynamics.xi_proxy import (
+from hesperia.extensions.dynamics.xi_proxy import (
     apply_xi_to_contradiction_signal,
     field_dynamics_xi_enabled,
     xi_proxy_from_triz_rows,

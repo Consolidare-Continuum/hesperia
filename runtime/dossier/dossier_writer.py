@@ -47,12 +47,12 @@ def write_dossier_json(dossier: Dict[str, Any], output_path: Path | str) -> str:
     Public projection is applied so no internal structure leaks.
     Returns dossier_id (first 12 chars of checksum).
     """
-    from core.projection import apply_public_projection
+    from hesperia.engine.projection import project_to_public
 
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    payload = apply_public_projection(dict(dossier))
+    payload = project_to_public(dict(dossier), validate_schema=True)
     payload[SCHEMA_VERSION_KEY] = SCHEMA_VERSION
     payload[CHECKSUM_KEY] = ""
     if "meta" not in payload:

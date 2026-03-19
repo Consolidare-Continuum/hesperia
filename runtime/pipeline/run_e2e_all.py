@@ -9,10 +9,12 @@
 """
 E2E: single session run — runtime sphere stack + Hesperia engine (KME, TRIZ, clinical session).
 
-Writes planned outputs under assets/artifacts/e2e/ (17 JSON + optional field_dynamics): semantic field + HCI calibration bundle + base stack.
-Order: docs/E2E_RUN_ORDER.md.
-Capability matrix (step 11) bundles many secondary entrypoints; set HESPERIA_E2E_MULTISCALE=1 for R1–R4 multiscale (also set in tools/e2e_full_deliverables.sh).
-No calibration of results; existence of output only (large payloads truncated where noted).
+Engine Dynamics v0.5 (docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md):
+  Canonical release proof: steps 1–9, 10b–10c, 11–11d (+ optional field_dynamics). TFP smoke (step 10) =
+  Kernberg testing collateral — runs for CI parity, not the generic v0.5 product definition.
+
+Writes ~19 JSON (+ optional field_dynamics): sealed multiscale, hex microstructure, semantic field, HCI, …
+Order: docs/E2E_RUN_ORDER.md. Swampy: sphere vs core.layers dual paths — refactor target.
 Usage: python3 -m runtime.pipeline.run_e2e_all [--out-dir path]
 """
 from __future__ import annotations
@@ -20,6 +22,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import uuid
 from pathlib import Path
 from typing import Any
 
@@ -46,6 +49,8 @@ E2E_OUTPUTS = (
     "run_output_e2e_triz_complete.json",
     "run_output_e2e_session_topology.json",
     "run_output_e2e_tfp_smoke.json",
+    "run_output_e2e_hex_microstructure_tfp.json",
+    "run_output_e2e_sealed_multiscale.json",
     "run_output_e2e_capability_matrix.json",
     "run_output_e2e_semantic_field.json",
     "run_output_e2e_field_calibration.json",
@@ -54,8 +59,49 @@ E2E_OUTPUTS = (
 )
 # Optional artifact when HESPERIA_FIELD_DYNAMICS=1
 E2E_OUTPUT_FIELD_DYNAMICS = "run_output_e2e_field_dynamics.json"
-# Full manifest when dynamics flag is set (17 base + field_dynamics)
+# Full manifest when dynamics flag is set (19 base + field_dynamics)
 E2E_OUTPUTS_WITH_FIELD_DYNAMICS = E2E_OUTPUTS + (E2E_OUTPUT_FIELD_DYNAMICS,)
+
+
+def _ensure_e2e_run_id() -> str:
+    rid = os.environ.get("HESPERIA_E2E_RUN_ID", "").strip()
+    if not rid:
+        rid = str(uuid.uuid4())
+        os.environ["HESPERIA_E2E_RUN_ID"] = rid
+    return rid
+
+
+def _finalize_e2e_payload(data: dict[str, Any], modules_used: list[str]) -> dict[str, Any]:
+    from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, e2e_pipeline_version
+
+    rid = os.environ.get("HESPERIA_E2E_RUN_ID", "").strip() or None
+    return attach_public_output_metadata(
+        data,
+        calibration_profile=default_calibration_profile(),
+        pipeline_version=e2e_pipeline_version(),
+        run_id=rid,
+        modules_used=modules_used,
+    )
+
+
+def _write_e2e_json(path: Path, data: dict[str, Any], modules_used: list[str]) -> None:
+    merged = _finalize_e2e_payload(data, modules_used)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(_round_floats(merged), indent=2), encoding="utf-8")
+
+
+def _post_envelope_e2e_file(path: Path, modules_used: list[str]) -> None:
+    """Attach E2E envelope to an existing JSON file (dict or list root)."""
+    if not path.exists():
+        return
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    if isinstance(raw, dict) and raw.get("run_id") and raw.get("system_version"):
+        return
+    if isinstance(raw, list):
+        body = {"payload": raw}
+    else:
+        body = raw
+    path.write_text(json.dumps(_round_floats(_finalize_e2e_payload(body, modules_used)), indent=2), encoding="utf-8")
 
 
 def _round_floats(obj, ndigits=6):
@@ -93,8 +139,7 @@ def run_e2e_sentence(out_path: Path, text: str) -> None:
     out = _round_floats(out)
     from core.projection import apply_public_projection
     out = apply_public_projection(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["runtime.pipeline.analyze", "core.projection"])
 
 
 def run_e2e_l1_l9(out_path: Path, text: str) -> None:
@@ -103,10 +148,17 @@ def run_e2e_l1_l9(out_path: Path, text: str) -> None:
 
     assets = _HESPERIA / "lexicon" / "curated"
     out = run_pipeline_for_text(text, assets_root=assets)
+    try:
+        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+
+        out["narrative_microstructure_e2e"] = hex_microstructure_bundle_for_text(
+            text, assets, list_cap=64
+        )
+    except Exception as e:
+        out["narrative_microstructure_e2e"] = {"_error": str(e)}
     from core.projection import apply_public_projection
     out = apply_public_projection(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["runtime.pipeline.run_l1_through_l9", "hesperia.engine.hex_outputs"])
 
 
 def run_e2e_r1_r4(out_path: Path, text: str) -> None:
@@ -116,8 +168,7 @@ def run_e2e_r1_r4(out_path: Path, text: str) -> None:
     result = run_full_pipeline_to_json(text, book_id="e2e", levels=["R1", "R2", "R3", "R4"])
     from core.projection import apply_public_projection
     result = apply_public_projection(result)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(result, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, result, ["runtime.pipeline.r1_r4_pipeline"])
 
 
 def run_e2e_sphere_math_values(out_path: Path, text: str) -> None:
@@ -130,6 +181,7 @@ def run_e2e_sphere_math_values(out_path: Path, text: str) -> None:
         run_sphere_math_values.main()
     finally:
         sys.argv = old_argv
+    _post_envelope_e2e_file(out_path, ["runtime.pipeline.run_sphere_math_values"])
 
 
 def run_e2e_domain_metrics(out_path: Path, text: str) -> None:
@@ -173,6 +225,7 @@ def run_e2e_sphere_math_100(out_path: Path, limit: int = 3) -> None:
         finally:
             sys.argv = old_argv
             Path(tmp_path).unlink(missing_ok=True)
+        _post_envelope_e2e_file(out_path, ["runtime.pipeline.run_sphere_math_100_sentences"])
         return
     old_argv = list(sys.argv)
     try:
@@ -180,6 +233,7 @@ def run_e2e_sphere_math_100(out_path: Path, limit: int = 3) -> None:
         run_sphere_math_100_sentences.main()
     finally:
         sys.argv = old_argv
+    _post_envelope_e2e_file(out_path, ["runtime.pipeline.run_sphere_math_100_sentences"])
 
 
 def run_e2e_calibration_batch_artifacts(
@@ -211,7 +265,7 @@ def run_e2e_calibration_batch_artifacts(
         sentences = sentences[:limit]
 
     texts = [str(s.get("text") or "") for s in sentences]
-    results = run_structural_analysis_batch(texts, assets_root=assets)
+    results = run_structural_analysis_batch(texts, assets_root=assets, attach_version=False)
 
     out_list: list[dict[str, Any]] = []
     area_h: Counter[int] = Counter()
@@ -272,9 +326,14 @@ def run_e2e_calibration_batch_artifacts(
     summary = _round_floats(summary)
 
     out_structural.parent.mkdir(parents=True, exist_ok=True)
-    write_public_json(out_structural, _round_floats(out_list))
+    write_public_json(
+        out_structural,
+        _round_floats({"run": "e2e_calibration_structural", "rows": out_list}),
+    )
     out_summary.parent.mkdir(parents=True, exist_ok=True)
-    out_summary.write_text(json.dumps(summary, indent=2), encoding="utf-8")
+    write_public_json(out_summary, summary)
+    _post_envelope_e2e_file(out_structural, ["run_e2e_calibration_batch_artifacts"])
+    _post_envelope_e2e_file(out_summary, ["run_e2e_calibration_batch_artifacts"])
 
 
 def _text_preview(text: str, n: int = 200) -> dict[str, Any]:
@@ -334,14 +393,13 @@ def run_e2e_session_kme(out_path: Path, text: str) -> None:
     from core.projection import apply_public_projection
 
     out = apply_public_projection(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["hesperia.engine.kme.clinical_bridge", "hesperia.engine.kme.pipeline"])
 
 
 def run_e2e_triz_complete(out_path: Path, text: str) -> None:
     """Session activation → ActiveGraph → run_triz_analysis_complete (API /analysis/triz parity)."""
     from hesperia.engine.kme.clinical_bridge import build_clinical_active_graph
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
     from hesperia.nlp.session_parser import analyze_session
 
     try:
@@ -385,13 +443,12 @@ def run_e2e_triz_complete(out_path: Path, text: str) -> None:
     from core.projection import apply_public_projection
 
     out = apply_public_projection(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["hesperia.extensions.triz.pipeline", "hesperia.nlp.session_parser"])
 
 
 def run_e2e_session_topology(out_path: Path, text: str) -> None:
     """Clinical session topology: segmented activation, transitions, aggression curve, defenses."""
-    from hesperia.clinical.session_topology import run_session_topology
+    from research.clinical_tfp.session_topology import run_session_topology
 
     max_segments = 12
     try:
@@ -409,18 +466,17 @@ def run_e2e_session_topology(out_path: Path, text: str) -> None:
         body = {"_error": str(e)}
     out = _round_floats({"input": _text_preview(text), **body})
     # Not apply_public_projection: clinical topology keys are not on the public allowlist.
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["research.clinical_tfp.session_topology"])
 
 
 def run_e2e_tfp_smoke(out_path: Path) -> None:
     """
-    TFP testing collateral in one artifact: shipping batch-analyze parity + clinical stack.
-    - Structural batch on `session_transcripts_smoke_english.json` (or inline fallback).
-    - Per session: analyze_session + topology propagation + detect_tfp_stage.
-    - Speaker-aware dialogue smoke (Patient:/Therapist:).
+    TFP / Kernberg TESTING GROUNDS — excluded from Engine Dynamics canonical release (v0.5)
+    (see docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md §2). CI + clinical regression only.
+
+    Structural batch on smoke sessions; analyze_session + detect_tfp_stage; speaker-aware smoke.
     """
-    from hesperia.clinical.stage_detection import TFP_STAGES, detect_tfp_stage
+    from research.clinical_tfp.stage_detection import TFP_STAGES, detect_tfp_stage
     from hesperia.nlp.session_parser import analyze_session, analyze_session_speaker_aware
     from runtime.services.analysis_service import run_structural_analysis_batch
 
@@ -449,7 +505,7 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
 
     structural_batch: list[dict[str, Any]] = []
     try:
-        batch = run_structural_analysis_batch(texts, assets_root=assets)
+        batch = run_structural_analysis_batch(texts, assets_root=assets, attach_version=False)
         for i, row in enumerate(batch):
             sid = sids[i] if i < len(sids) else f"batch_{i}"
             one = dict(row)
@@ -487,6 +543,22 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
         "Patient: I hate waiting; you always leave me alone in the room.\n"
         "Therapist: Say more about what alone feels like for you right now."
     )
+    session_hex_microstructure_tfp: list[dict[str, Any]] = []
+    try:
+        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+
+        for sid, t in zip(sids, texts):
+            if not (t or "").strip():
+                continue
+            try:
+                session_hex_microstructure_tfp.append(
+                    {"session_id": sid, **hex_microstructure_bundle_for_text(t, assets, list_cap=48)}
+                )
+            except Exception as ex:
+                session_hex_microstructure_tfp.append({"session_id": sid, "_error": str(ex)})
+    except Exception:
+        pass
+
     speaker_aware_smoke: dict[str, Any] = {}
     try:
         sa = analyze_session_speaker_aware(dialogue_smoke, embedding=embedding or None)
@@ -505,11 +577,69 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
         "structural_batch_sessions": len(structural_batch),
         "structural_batch": structural_batch,
         "session_tfp_stages": session_tfp_stages,
+        "session_hex_microstructure_tfp": session_hex_microstructure_tfp,
         "speaker_aware_smoke": speaker_aware_smoke,
     }
     out = _round_floats(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["runtime.services.analysis_service", "research.clinical_tfp.stage_detection", "hesperia.nlp.session_parser"])
+
+
+def run_e2e_sealed_multiscale(out_path: Path, text: str) -> None:
+    """Sealed multiscale: hex → family bridge → area → product signals → hspr_index."""
+    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+
+    assets = _HESPERIA / "lexicon" / "curated"
+    use_triz = os.environ.get("HESPERIA_SEALED_E2E_TRIZ", "").strip() in ("1", "true", "yes")
+    out = run_sealed_multiscale_stack(
+        text.strip() or "justice order fairness care",
+        assets,
+        use_triz_contradiction=use_triz,
+    )
+    out = _round_floats({"run": "e2e_sealed_multiscale", **out})
+    _write_e2e_json(out_path, out, ["hesperia.engine.sealed_multiscale_stack"])
+
+
+def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
+    """
+    Dedicated artifact: hex microstructure + Option A closure + TFP topology provenance
+    for primary E2E text and each TFP smoke session transcript.
+    """
+    from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+
+    assets = _HESPERIA / "lexicon" / "curated"
+    smoke_path = _HESPERIA / "assets" / "testing" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
+    if smoke_path.exists():
+        payload = json.loads(smoke_path.read_text(encoding="utf-8"))
+        sessions = list(payload.get("sessions") or [])
+    else:
+        sessions = [
+            {"session_id": "inline_01", "text": "Patient: emptiness and rage. Therapist: say more."},
+            {"session_id": "inline_02", "text": "Boundaries trust transference integration."},
+        ]
+
+    primary = hex_microstructure_bundle_for_text(text.strip() or "justice order fairness truth", assets)
+    session_bundles: list[dict[str, Any]] = []
+    for s in sessions:
+        sid = str(s.get("session_id") or "s")
+        t = str(s.get("text") or "")
+        if not t.strip():
+            continue
+        try:
+            session_bundles.append(
+                {"session_id": sid, **hex_microstructure_bundle_for_text(t, assets, list_cap=56)}
+            )
+        except Exception as e:
+            session_bundles.append({"session_id": sid, "_error": str(e)})
+
+    out = _round_floats(
+        {
+            "run": "e2e_hex_microstructure_tfp",
+            "input_text_preview": (text or "")[:160],
+            "primary_bundle": primary,
+            "tfp_smoke_session_bundles": session_bundles,
+        }
+    )
+    _write_e2e_json(out_path, out, ["hesperia.engine.hex_outputs.e2e_integration"])
 
 
 def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
@@ -587,7 +717,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put("shipping_compare", _compare)
 
     def _interpret() -> dict[str, Any]:
-        from hesperia.clinical.interpretation import interpret_session
+        from research.clinical_tfp.interpretation import interpret_session
         from hesperia.nlp.session_parser import analyze_session
 
         try:
@@ -600,6 +730,26 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
         return interpret_session(act)
 
     _put("interpret_session", _interpret)
+
+    def _micro_hex_tfp() -> dict[str, Any]:
+        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+
+        return hex_microstructure_bundle_for_text(text_s[:2000], assets, list_cap=40)
+
+    _put("narrative_microstructure_tfp_wire", _micro_hex_tfp)
+
+    def _sealed_stack() -> dict[str, Any]:
+        from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+
+        r = run_sealed_multiscale_stack(text_s[:1500], assets, use_triz_contradiction=False)
+        av = r.get("area_activation_vector") or []
+        return {
+            "hspr_index": r.get("hspr_index"),
+            "propagation_strength": r.get("propagation_strength"),
+            "area_max": max(av) if av else None,
+        }
+
+    _put("sealed_multiscale_hspr", _sealed_stack)
 
     _put(
         "session_enhanced",
@@ -653,12 +803,12 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put(
         "compare_triz_direct",
         lambda: __import__(
-            "hesperia.engine.triz.direct_outputs", fromlist=["TRIZDirectMetrics", "compare_triz_direct"]
+            "hesperia.extensions.triz.direct_outputs", fromlist=["TRIZDirectMetrics", "compare_triz_direct"]
         ).compare_triz_direct(
-            __import__("hesperia.engine.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
+            __import__("hesperia.extensions.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
                 contradiction_count=2, innovation_score=0.3
             ),
-            __import__("hesperia.engine.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
+            __import__("hesperia.extensions.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
                 contradiction_count=5, innovation_score=0.7
             ),
         ),
@@ -667,12 +817,12 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put(
         "compare_triz_corpora",
         lambda: __import__(
-            "hesperia.engine.triz.commercial_intelligence", fromlist=["compare_triz_corpora"]
+            "hesperia.extensions.triz.commercial_intelligence", fromlist=["compare_triz_corpora"]
         ).compare_triz_corpora(
-            __import__("hesperia.engine.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
+            __import__("hesperia.extensions.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
                 contradiction_count=1
             ),
-            __import__("hesperia.engine.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
+            __import__("hesperia.extensions.triz.direct_outputs", fromlist=["TRIZDirectMetrics"]).TRIZDirectMetrics(
                 contradiction_count=4
             ),
         ),
@@ -706,17 +856,17 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
                 "narratives": len(sig.narratives),
             }
         )(
-            __import__("hesperia.engine.triz.triz_pipeline", fromlist=["run_triz_analysis"]).run_triz_analysis(
+            __import__("hesperia.extensions.triz.triz_pipeline", fromlist=["run_triz_analysis"]).run_triz_analysis(
                 [
-                    __import__("hesperia.engine.triz.models", fromlist=["ConceptActivation", "MatrixCoordinate"]).ConceptActivation(
-                        "cap_c1", 1.0, __import__("hesperia.engine.triz.models", fromlist=["MatrixCoordinate"]).MatrixCoordinate(2, 1, None)
+                    __import__("hesperia.extensions.triz.models", fromlist=["ConceptActivation", "MatrixCoordinate"]).ConceptActivation(
+                        "cap_c1", 1.0, __import__("hesperia.extensions.triz.models", fromlist=["MatrixCoordinate"]).MatrixCoordinate(2, 1, None)
                     ),
-                    __import__("hesperia.engine.triz.models", fromlist=["ConceptActivation", "MatrixCoordinate"]).ConceptActivation(
-                        "cap_c2", 0.85, __import__("hesperia.engine.triz.models", fromlist=["MatrixCoordinate"]).MatrixCoordinate(3, 2, None)
+                    __import__("hesperia.extensions.triz.models", fromlist=["ConceptActivation", "MatrixCoordinate"]).ConceptActivation(
+                        "cap_c2", 0.85, __import__("hesperia.extensions.triz.models", fromlist=["MatrixCoordinate"]).MatrixCoordinate(3, 2, None)
                     ),
                 ],
                 [
-                    __import__("hesperia.engine.triz.models", fromlist=["ConceptRelation"]).ConceptRelation(
+                    __import__("hesperia.extensions.triz.models", fromlist=["ConceptRelation"]).ConceptRelation(
                         "cap_c1", "cap_c2", "opposes", 1.0
                     )
                 ],
@@ -873,7 +1023,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
         blocks["reading_multiscale"] = {"_skipped": "HESPERIA_E2E_MULTISCALE=1 for R1–R4 reading_scales.run_multiscale"}
 
     def _semantic_field_capability() -> dict[str, Any]:
-        from hesperia.engine.field_dynamics.calibration import compute_hspr_calibration_index
+        from hesperia.extensions.dynamics.calibration import compute_hspr_calibration_index
         from runtime.semantic_field.run_semantic_field import run_semantic_field
 
         r = run_semantic_field(
@@ -919,16 +1069,15 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
             "block_names": sorted(blocks.keys()),
         }
     )
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["runtime.pipeline.run_e2e_capability_matrix"])
 
 
 def run_e2e_semantic_field(out_path: Path) -> None:
     """
-    Ontology → matrix_builders → semantic field engine (configs/semantic_field_ontology_example.json).
+    Ontology → matrix_builders → semantic field engine (runtime/configs/semantic_field_ontology_example.json).
     Timeline truncated in artifact for size; full numeric endpoints retained.
     """
-    cfg_path = _HESPERIA / "configs" / "semantic_field_ontology_example.json"
+    cfg_path = _HESPERIA / "runtime" / "configs" / "semantic_field_ontology_example.json"
     if cfg_path.exists():
         cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
     else:
@@ -966,8 +1115,7 @@ def run_e2e_semantic_field(out_path: Path) -> None:
         }
     out["run"] = "e2e_semantic_field"
     out = _round_floats(out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
+    _write_e2e_json(out_path, out, ["runtime.semantic_field.run_semantic_field"])
 
 
 def run_e2e_field_calibration_bundle(out_dir: Path) -> dict[str, Path]:
@@ -1020,6 +1168,7 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     out_dir = out_dir or DEFAULT_E2E_DIR
     out_dir = Path(out_dir)
     text = (text or "Justice and fairness support social order. Harm and conflict reduce trust.").strip()
+    _ensure_e2e_run_id()
 
     written: dict[str, Path] = {}
 
@@ -1082,6 +1231,16 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     run_e2e_tfp_smoke(p)
     written["run_output_e2e_tfp_smoke.json"] = p
 
+    # 10b. Hex microstructure + Option A + TFP provenance (primary text + smoke sessions)
+    p_hex = out_dir / "run_output_e2e_hex_microstructure_tfp.json"
+    run_e2e_hex_microstructure_tfp(p_hex, text)
+    written["run_output_e2e_hex_microstructure_tfp.json"] = p_hex
+
+    # 10c. Sealed stack: hex bridge + local microphysics + F/area + product signals + HSPR index
+    p_sealed = out_dir / "run_output_e2e_sealed_multiscale.json"
+    run_e2e_sealed_multiscale(p_sealed, text)
+    written["run_output_e2e_sealed_multiscale.json"] = p_sealed
+
     # 11. Capability matrix: shipping stages, clinical, NLP, TRIZ core, product, baselines, topology
     p = out_dir / "run_output_e2e_capability_matrix.json"
     run_e2e_capability_matrix(p, text)
@@ -1092,8 +1251,15 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     run_e2e_semantic_field(p_sf)
     written["run_output_e2e_semantic_field.json"] = p_sf
     written.update(run_e2e_field_calibration_bundle(out_dir))
+    for _fc in (
+        "run_output_e2e_field_calibration.json",
+        "run_output_e2e_field_calibration_best.json",
+        "run_output_e2e_field_calibration_topk.json",
+    ):
+        if _fc in written:
+            _post_envelope_e2e_file(written[_fc], ["runtime.semantic_field.run_field_calibration"])
 
-    from hesperia.engine.field_dynamics.e2e_bridge import field_dynamics_enabled, run_field_dynamics_e2e_artifact
+    from hesperia.extensions.dynamics.e2e_bridge import field_dynamics_enabled, run_field_dynamics_e2e_artifact
 
     if field_dynamics_enabled():
         assets = _HESPERIA / "lexicon" / "curated"
@@ -1108,7 +1274,7 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
                 os.environ["HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1"] = _prev_sf
         pfd = out_dir / E2E_OUTPUT_FIELD_DYNAMICS
         pfd.parent.mkdir(parents=True, exist_ok=True)
-        pfd.write_text(json.dumps(_round_floats(fd), indent=2), encoding="utf-8")
+        _write_e2e_json(pfd, _round_floats(fd), ["hesperia.extensions.dynamics"])
         written[E2E_OUTPUT_FIELD_DYNAMICS] = pfd
 
     return written
@@ -1140,7 +1306,7 @@ def main() -> int:
     for name, path in written.items():
         print(path.resolve(), file=sys.stderr)
     print("e2e_run_ok", len(written), "outputs", file=sys.stderr)
-    from hesperia.engine.field_dynamics.e2e_bridge import field_dynamics_enabled as _fd_on
+    from hesperia.extensions.dynamics.e2e_bridge import field_dynamics_enabled as _fd_on
 
     extra = " + field_dynamics" if _fd_on() else ""
     print(

@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-6 conceptual math & dynamic function (39_SPEC).
+Engine 0.5.0 — Layer-6 (39_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: sensitivity, curvature, rank, depth growth, Lyapunov, stability.
 Inputs: L1, L2 (with MASS_AT_DEPTH); when no perturbation, stub with 0/1.0.
 Downstream: L7 (CONSIST_STABILITY_REGIME_VALID, MAX_CHAOS_LEVEL), L8 (SI_GLOBAL_STABILITY), L9.

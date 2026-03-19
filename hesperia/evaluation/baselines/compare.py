@@ -8,7 +8,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 from hesperia.evaluation.baselines.graph_baseline import run_graph_baseline
 from hesperia.evaluation.baselines.keyword_baseline import run_keyword_baseline
 from hesperia.evaluation.baselines.tfidf_baseline import run_tfidf_style_baseline

@@ -24,7 +24,7 @@ if str(REPO) not in sys.path:
     sys.path.insert(0, str(REPO))
 
 TOTAL_FAMILIES = 288
-V06_DIR = REPO / "lexicon" / "frozen" / "v06"
+V06_DIR = REPO / "lexicon" / "frozen" / "v0_5_0"
 # Spec list (surface); if all OOV we also sample in-dict tokens for token-level variation
 AUDIT_TOKENS_SPEC = [
     "altruism", "power", "trade", "ritual", "feedback",

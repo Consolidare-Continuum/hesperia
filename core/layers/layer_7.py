@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-7 cross-layer (40_SPEC).
+Engine 0.5.0 — Layer-7 (40_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: consistency gates, limits, alignment, SYSTEM_CONFIDENCE_SCORE, DECISION_STATUS_CODE, OUTPUT_TRUST_TAG.
 Consumes L1..L6; downstream: L8 (SI_SYSTEM_CONFIDENCE), L9 (pillars, BRAND_WORD_*, ACTION_*).
 Decision code 75 = PROFILE_CONFORMANCE_FAILURE (34_SPEC N1); reserved permanently.

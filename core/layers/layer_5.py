@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-5 counter-evidence + trig reality (38_SPEC).
+Engine 0.5.0 — Layer-5 (38_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: 5A counter-evidence pressure, 5B trig sanity checks. Downstream: L7, L8, L9.
 """
 

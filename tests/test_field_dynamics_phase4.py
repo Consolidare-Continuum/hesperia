@@ -2,12 +2,12 @@
 
 import pytest
 
-from hesperia.engine.field_dynamics.phase4 import (
+from hesperia.extensions.dynamics.phase4 import (
     apply_cluster_gravity_to_area_injection,
     compute_l8_clusters,
     ephemeral_hex_from_hits,
 )
-from hesperia.engine.field_dynamics.state import Phase4Theta
+from hesperia.extensions.dynamics.state import Phase4Theta
 
 
 def test_l8_clusters_consecutive_run():

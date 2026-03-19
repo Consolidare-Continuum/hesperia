@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 from hesperia.product.package_builder import PRODUCT_SKUS, build_policy_package, package_to_json
 
 

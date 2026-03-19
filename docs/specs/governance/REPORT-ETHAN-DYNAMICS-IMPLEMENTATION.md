@@ -10,7 +10,7 @@ One-page summary of what shipped in-code vs A.6 phases and known gaps.
 
 | Item | Status |
 |------|--------|
-| Module | `hesperia.engine.field_dynamics` — `FieldDynamicsState`, `Phase1Theta`, `step_phase1` |
+| Module | `hesperia.extensions.dynamics` — `FieldDynamicsState`, `Phase1Theta`, `step_phase1` |
 | Topology | Icosahedral neighbor diffusion (`sphere.topology`) |
 | Flag | `HESPERIA_FIELD_DYNAMICS=1` |
 | Tests | `tests/test_field_dynamics_phase1.py` |

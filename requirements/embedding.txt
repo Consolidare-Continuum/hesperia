@@ -1,0 +1,6 @@
+# Dict B embedding build (frozen revision in build_manifest)
+sentence-transformers>=2.7.0,<3
+torch>=2.0.0,<3
+numpy>=1.24.0,<2
+transformers>=4.30.0,<5
+huggingface-hub>=0.17.0,<1

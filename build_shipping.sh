@@ -15,7 +15,7 @@ REPO="$(cd "$(dirname "$0")" && pwd)"
 cd "$REPO"
 RELEASE="$REPO/release"
 DIST="$REPO/dist"
-VERSION="${HESPERIA_VERSION:-1.0.0}"
+VERSION="${HESPERIA_VERSION:-0.5.0}"
 GIT_COMMIT="$(git rev-parse HEAD 2>/dev/null || echo "nogit")"
 BUILD_TS="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 

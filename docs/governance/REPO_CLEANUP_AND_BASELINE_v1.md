@@ -53,7 +53,7 @@ docs/governance/
 docs/audit/
 build_shipping.sh
 release_sealed_runtime.sh
-requirements*.txt
+`requirements.txt` + `requirements/*.txt`
 Dockerfile.shipping
 README.md
 ```

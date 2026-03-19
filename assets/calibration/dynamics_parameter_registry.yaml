@@ -1,12 +1,12 @@
 # HESPERIA field dynamics — Class B registry (Phase 1 + Phase 2).
-# Spec: docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md
+# Spec: specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md
 
 version: "0.5"
 modules:
-  phase1: hesperia.engine.field_dynamics.state.Phase1Theta
-  phase2: hesperia.engine.field_dynamics.state.Phase2Theta
-  phase3: hesperia.engine.field_dynamics.state.Phase3Theta
-  phase4: hesperia.engine.field_dynamics.state.Phase4Theta
+  phase1: hesperia.extensions.dynamics.state.Phase1Theta
+  phase2: hesperia.extensions.dynamics.state.Phase2Theta
+  phase3: hesperia.extensions.dynamics.state.Phase3Theta
+  phase4: hesperia.extensions.dynamics.state.Phase4Theta
 
 parameters:
   lambda_a:
@@ -64,7 +64,7 @@ parameters:
     default: 0.25
     code_field: alpha_in
 
-  # --- Phase 2 (L5) hesperia.engine.field_dynamics.phase2.Phase2Theta ---
+  # --- Phase 2 (L5) hesperia.extensions.dynamics.phase2.Phase2Theta ---
   lambda_f:
     symbol: "λ_f"
     meaning: "Family field decay (H4)"

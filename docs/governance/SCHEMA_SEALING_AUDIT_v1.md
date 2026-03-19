@@ -9,10 +9,10 @@
 
 | Artifact | Role | Geometry-revealing? | Action |
 |----------|------|----------------------|--------|
-| `spec/usf_schema.json` | Internal USF shape (raw metrics) | Yes: area_vector, family_counts, dominant_area, dominant_family, propagated_*, max lengths imply 12/288 | **Internal-only.** Do not expose to public API. Public output must conform to `assets/public/public_output_schema.json` instead. |
-| `docs/specs/schema/Unit.schema.json` | R1–R4 unit output | Yes: top_areas, top_families, area_id (A\d+), family_id (F\d+), maxItems 12, 288 | **Internal / protected.** For public API use public vocabulary: top_macro_domains, top_policy_families, macro_domain_id, policy_family_id, maxItems 10, 240. |
-| `docs/specs/schema/BookProfile.schema.json` | Book profile composite | Partial: structural_signature.stable_families pattern F\d+ | For public: use policy_family_id or opaque labels; cap at 240. |
-| `docs/specs/schema/SI_metrics.schema.json` | Scalar metrics | No | **Safe.** No topology; keep as-is for public. |
+| `specs/canon/usf_schema.json` | Internal USF shape (raw metrics) | Yes: area_vector, family_counts, dominant_area, dominant_family, propagated_*, max lengths imply 12/288 | **Internal-only.** Do not expose to public API. Public output must conform to `assets/public/public_output_schema.json` instead. |
+| `specs/schemas/r1_r4/Unit.schema.json` | R1–R4 unit output | Yes: top_areas, top_families, area_id (A\d+), family_id (F\d+), maxItems 12, 288 | **Internal / protected.** For public API use public vocabulary: top_macro_domains, top_policy_families, macro_domain_id, policy_family_id, maxItems 10, 240. |
+| `specs/schemas/r1_r4/BookProfile.schema.json` | Book profile composite | Partial: structural_signature.stable_families pattern F\d+ | For public: use policy_family_id or opaque labels; cap at 240. |
+| `specs/schemas/r1_r4/SI_metrics.schema.json` | Scalar metrics | No | **Safe.** No topology; keep as-is for public. |
 
 ---
 

@@ -1,0 +1,18 @@
+{
+  "system_version": "0.5.0",
+  "sealed": false,
+  "pytest_full_suite_ran": false,
+  "critical_checks": {
+    "version_authority": "pass",
+    "repo_topology": "pass",
+    "spec_consolidation": "pass",
+    "product_boundary": "pass",
+    "determinism": "pass",
+    "schema_validation": "pass",
+    "release_audit": "quick_subset_only"
+  },
+  "reasons_fail": [
+    "git_worktree_dirty"
+  ],
+  "note": "sealed=true matches audit_report.seal_decision.may_tag_v0_5_0; run without --quick before git tag v0.5.0."
+}

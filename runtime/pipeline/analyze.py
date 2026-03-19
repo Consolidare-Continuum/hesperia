@@ -5,8 +5,8 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.6 — analyze: text → attribution → guards → 6-key result.
-Single entry point. Dict A v0.6 + Dict B v0.6 structural layer.
+HESPERIA Engine Dynamics — analyze: text → attribution → guards → 6-key result.
+Single entry point. Dict A/B via lexicon frozen bundle v0_5_0 (see VERSION.yaml).
 """
 from __future__ import annotations
 
@@ -24,7 +24,7 @@ try:
         from core.attribution import attribution
         _MODE = os.environ.get("HESPERIA_ATTRIBUTION_MODE", "v06").lower()
         if _MODE not in ("sparse", "v06"):
-            _MODE = "v06"
+            _MODE = "v06"  # legacy mode name: dense bundle loader (path v0_5_0)
     except Exception:
         attribution = None  # type: ignore[assignment]
         _MODE = "sparse"
@@ -69,7 +69,7 @@ def analyze(
     cap = int(cfg.get("text_cap", text_cap))
     shadow = shadow_enabled if shadow_enabled is not None else bool(cfg.get("shadow_enabled", False))
     if _MODE == "v06" and attribution is not None:
-        v06_dir = (assets_root / "v06") if assets_root else None
+        v06_dir = (assets_root / "v0_5_0") if assets_root else None
         dominant_family, dominant_area, seed, attr_metrics, extended = attribution.run_attribution_pipeline(
             text, cap=cap, assets_root=assets_root, v06_dir=v06_dir
         )

@@ -1,8 +1,0 @@
-# Deterministic build-only embedding environment for legacy v0.4 build workflows
-# CPU-first, PyTorch backend, TensorFlow intentionally excluded.
-
-sentence-transformers==2.7.0
-transformers==4.41.2
-torch==2.2.2
-numpy==1.26.4
-huggingface-hub==0.23.5

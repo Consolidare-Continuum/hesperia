@@ -16,7 +16,7 @@ def main() -> None:
     p.add_argument("--out", type=Path, default=None)
     args = p.parse_args()
 
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
     from hesperia.product.package_builder import PRODUCT_SKUS, build_narrative_package
     from hesperia.product.release_gate import run_release_gate
 

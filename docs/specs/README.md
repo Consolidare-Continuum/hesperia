@@ -2,34 +2,46 @@
 HESPERIA — Reference Architecture Definition (RAD)
 Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
 Restricted Research Disclosure License. Inspection and reference only.
-No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# Specs — findable from root
+# Specs hub (under `docs/specs/`)
 
-**Canonical specs** live at **repo root** with the pattern:
+**Task 2 split:** **binding** specifications now live under repo-root **`specs/`** (`specs/canon/`, `specs/dynamics/`, `specs/release/`, …).  
+This directory keeps **process, triage, governance, and project** notes (descriptive / workflow — not core math canon).
 
-- `NN_CATEGORY__Title_vX_Y.txt` (or `.md`)
-- Example: `10_MASTER_SPEC__HESPERIA_v1_0.txt`, `42_POLICY__Guard_Layer_Sigma_Gamma_Theta_v1_0.txt`
+## Where to look first
 
-**Naming rule (see [ORDER.md](../ORDER.md)):** Human-readable, **up to 4 words** in the title part, plus version `_vX_Y`.
+| Need | Location |
+|------|-----------|
+| v0.5 normative canon (math + YAML) | **[specs/canon/](../../specs/canon/README.md)** |
+| Dynamics / calibration long-form | **[specs/dynamics/](../../specs/dynamics/)** |
+| Release narratives | **[specs/release/](../../specs/release/)** |
+| R1–R4 JSON schemas | **[specs/schemas/r1_r4/](../../specs/schemas/r1_r4/)** |
+| Calibration examples | **[specs/calibration/](../../specs/calibration/)** |
+| Repo topology policy | **[REPO_STRUCTURE_POLICY.md](../../REPO_STRUCTURE_POLICY.md)** |
 
-**This folder** can hold future specs if you want them under one tree; same naming rule. Do not add specs without a version.
+**Engine Dynamics v0.5 index:** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](../HESPERIA_v0_5_ENGINE_DYNAMICS.md) · [canonical naming](../ENGINE_DYNAMICS_CANONICAL_NAMING_v0.5.md).
+
+## Moved dynamics docs (same filenames)
+
+| Doc | New path |
+|-----|----------|
+| ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md | [specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) |
+| FIELD_MATRIX_BUILDERS_v1.md | [specs/dynamics/FIELD_MATRIX_BUILDERS_v1.md](../../specs/dynamics/FIELD_MATRIX_BUILDERS_v1.md) |
+| HSPR_CALIBRATION_INDEX_v1.md | [specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md](../../specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md) |
+| semantic_field_dynamics.md (canonical) | [specs/dynamics/semantic_field_dynamics.md](../../specs/dynamics/semantic_field_dynamics.md) |
+| DYNAMICS_EQUATION_INDEX.md | [specs/dynamics/DYNAMICS_EQUATION_INDEX.md](../../specs/dynamics/DYNAMICS_EQUATION_INDEX.md) |
+| HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md | [specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../../specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) |
+
+## Still under `docs/specs/` (workflow / triage / governance)
 
 | Doc | Role |
 |-----|------|
-| [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) | **Part A:** L0–L10 pipeline wire, **H0–H9** compact equations, phases 1–4, artifact map. **Part B:** hex lattice, extended IDs, active subgraph doctrine. |
-| [FIELD_MATRIX_BUILDERS_v1.md](FIELD_MATRIX_BUILDERS_v1.md) | Ontology → `W_F`, `C_F`, `R`; runners accept `ontology` JSON block. |
-| [HSPR_CALIBRATION_INDEX_v1.md](HSPR_CALIBRATION_INDEX_v1.md) | **HCI:** single bounded calibration score (stability, alignment, energy, contradiction, diffusion, resistance). Grid search: `runtime.semantic_field.run_field_calibration`. |
-| [SEMANTIC_FIELD_EQUATIONS_v1.md](SEMANTIC_FIELD_EQUATIONS_v1.md) | **Canonical family-field PDE:** diffusion (\(L_F\)), resistance (\(R_F\)), contradiction pressure (\(F\odot CF\)), source \(\mathbf{S}\), Euler + clip, energy, observables, area projection. **Runtime:** `python3 -m runtime.semantic_field.run_semantic_field` · [runtime/semantic_field/README.md](../../runtime/semantic_field/README.md) · `configs/semantic_field_example.json`. |
-| [DYNAMICS_EQUATION_INDEX.md](DYNAMICS_EQUATION_INDEX.md) | **Implementer cheat sheet:** compact H0–H9 ↔ extended IDs ↔ L-layers ↔ phased rollout. |
-| [governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | **Grace + team:** phased implementation of Ethan dynamics (Phases 1–4), roles, acceptance, deliverables. |
-| [governance/ETHAN-OPEN-WORKFLOW-PROCEED.md](governance/ETHAN-OPEN-WORKFLOW-PROCEED.md) | **Ethan:** open-workflow proceed (Phase 2+ shipped items). |
-| [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) | **Calibration by design:** Class A/B/C, ranges, constraints, objectives, scenario suite, staged search, sensitivity, release profiles; automation proposes, governance accepts. |
-| [calibration/](calibration/) | Example registry fragment + README for future YAML suites. |
-| [TRIAGE_TASK_GRACE.md](TRIAGE_TASK_GRACE.md) | **Grace:** triage task for the spec corpus (dynamics, calibration, product maps, awareness). |
-| [triage/](triage/) | Triage report landing — [GRACE_TRIAGE_REPORT.md](triage/GRACE_TRIAGE_REPORT.md). |
-| [TRIAGE_CHECKLIST.md](TRIAGE_CHECKLIST.md) | Optional checkbox tracker for the Grace corpus. |
+| [governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | Grace + team implementation notes |
+| [governance/ETHAN-OPEN-WORKFLOW-PROCEED.md](governance/ETHAN-OPEN-WORKFLOW-PROCEED.md) | Ethan open-workflow proceed |
+| [TRIAGE_TASK_GRACE.md](TRIAGE_TASK_GRACE.md) | Grace triage task |
+| [triage/GRACE_TRIAGE_REPORT.md](triage/GRACE_TRIAGE_REPORT.md) | Triage report |
+| [TRIAGE_CHECKLIST.md](TRIAGE_CHECKLIST.md) | Optional checklist |
 
-**Hub:** [HESPERIA_SYSTEM_AWARENESS.md](../HESPERIA_SYSTEM_AWARENESS.md) — system & product awareness. **Root numbered specs:** [ORDER.md](../ORDER.md). **Cursor proceed:** [CURSOR_OPEN_WORKFLOW.md](../CURSOR_OPEN_WORKFLOW.md).
+**Hub:** [HESPERIA_SYSTEM_AWARENESS.md](../HESPERIA_SYSTEM_AWARENESS.md) · **Cursor proceed:** [CURSOR_OPEN_WORKFLOW.md](../CURSOR_OPEN_WORKFLOW.md).

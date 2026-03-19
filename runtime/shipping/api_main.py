@@ -8,7 +8,6 @@ Sealed API entry point. No internal endpoints. Uses only runtime.services (analy
 
 from __future__ import annotations
 
-import json
 import os
 import time
 from pathlib import Path
@@ -26,6 +25,7 @@ def _license_ok() -> bool:
 _RATE: dict[str, list[float]] = {}
 _RATE_LIMIT = int(os.environ.get("HESPERIA_RATE_LIMIT", "60"))  # requests per minute
 _RATE_WINDOW = 60.0
+_MAX_INPUT_CHARS = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
 
 def _rate_limit(key: str = "default") -> bool:
     now = time.monotonic()
@@ -67,21 +67,38 @@ def _confidence_delta(d1: dict, d2: dict) -> str:
 def create_app():
     from fastapi import FastAPI, HTTPException, Request
     from fastapi.responses import JSONResponse
-    from pydantic import BaseModel
+    from pydantic import BaseModel, Field, field_validator
+
+    from hesperia.system.capabilities import expose_version_endpoint, public_capability
 
     app = FastAPI(
         title="HESPERIA API",
-        description="Structural analysis. Endpoints: analyze, compare, batch-analyze.",
+        description="Product surface: POST /analyze, /compare, /batch (alias /batch-analyze). GET /health.",
         version="1.0",
+        docs_url=None,
+        redoc_url=None,
+        openapi_url=None,
     )
 
     def _safe_response(data: dict | list):
+        from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
         from runtime.shipping.schema_guard import validate_against_public_schema
-        validate_against_public_schema(data)
-        return JSONResponse(
-            content=json.dumps(data, indent=2, sort_keys=True, ensure_ascii=False),
-            media_type="application/json",
-        )
+
+        if isinstance(data, dict):
+            merged = attach_public_output_metadata(
+                data,
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=api_pipeline_version(),
+            )
+        else:
+            merged = attach_public_output_metadata(
+                {},
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=api_pipeline_version(),
+            )
+            merged["payload"] = data
+        validate_against_public_schema(merged)
+        return JSONResponse(content=merged, media_type="application/json")
 
     def _neutral_500() -> JSONResponse:
         return JSONResponse(
@@ -127,35 +144,48 @@ def create_app():
             from runtime.shipping.version_info import VERSION
             ver = VERSION
         except Exception:
-            ver = "0.4.2"
+            ver = "0.5.0"
         print("HESPERIA runtime initialized", file=sys.stderr)
         print(f"version: {ver}", file=sys.stderr)
         print("mode: sealed_evaluator", file=sys.stderr)
 
     class AnalyzeBody(BaseModel):
-        text: str = ""
+        text: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
 
     class CompareBody(BaseModel):
-        text1: str = ""
-        text2: str = ""
+        text1: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+        text2: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
 
     class BatchAnalyzeBody(BaseModel):
-        texts: list[str] = []
+        texts: list[str] = Field(..., min_length=1, max_length=100)
+
+        @field_validator("texts")
+        @classmethod
+        def _cap_each(cls, v: list[str]) -> list[str]:
+            for i, t in enumerate(v):
+                if len(t) > _MAX_INPUT_CHARS:
+                    raise ValueError(f"texts[{i}] exceeds max length {_MAX_INPUT_CHARS}")
+            return v
 
     @app.get("/health")
     def health() -> dict[str, str]:
         return {"status": "ok"}
 
-    @app.get("/version")
-    def version() -> dict[str, str]:
-        try:
-            from runtime.shipping.version_info import VERSION, COMMIT, BUILD
-            return {"version": VERSION, "commit": COMMIT, "build": BUILD or "unknown"}
-        except Exception:
-            return {"version": "0.4.2", "commit": "unknown", "build": "unknown"}
+    if expose_version_endpoint():
+
+        @app.get("/version")
+        def version() -> dict[str, str]:
+            try:
+                from runtime.shipping.version_info import VERSION, COMMIT, BUILD
+
+                return {"version": VERSION, "commit": COMMIT, "build": BUILD or "unknown"}
+            except Exception:
+                return {"version": "0.5.0", "commit": "unknown", "build": "unknown"}
 
     @app.post("/analyze")
     def analyze(body: AnalyzeBody):
+        if not public_capability("analyze"):
+            raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis
@@ -165,6 +195,8 @@ def create_app():
 
     @app.post("/compare")
     def compare(body: CompareBody):
+        if not public_capability("compare"):
+            raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis
@@ -187,11 +219,12 @@ def create_app():
         return _safe_response(out)
 
     @app.post("/batch-analyze")
+    @app.post("/batch")
     def batch_analyze(body: BatchAnalyzeBody):
+        if not public_capability("batch"):
+            raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
-        if len(body.texts) > 100:
-            raise HTTPException(status_code=400, detail="Maximum 100 texts per request")
         from runtime.services.analysis_service import run_structural_analysis_batch
         assets = _assets_root()
         results = run_structural_analysis_batch(body.texts, assets_root=assets)

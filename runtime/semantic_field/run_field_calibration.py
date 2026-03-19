@@ -20,8 +20,8 @@ _HESPERIA_ROOT = Path(__file__).resolve().parents[2]
 if str(_HESPERIA_ROOT) not in sys.path:
     sys.path.insert(0, str(_HESPERIA_ROOT))
 
-from hesperia.engine.field_dynamics.calibration import calibrate_parameter_grid
-from hesperia.engine.field_dynamics.equations import aggregate_family_to_area, build_identity_family_mapping
+from hesperia.extensions.dynamics.calibration import calibrate_parameter_grid
+from hesperia.extensions.dynamics.equations import aggregate_family_to_area, build_identity_family_mapping
 from runtime.semantic_field.run_semantic_field import (
     _expand_documents,
     _initial_field_from_config,

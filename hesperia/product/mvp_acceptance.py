@@ -11,8 +11,8 @@ import json
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from hesperia.engine.triz.guards import TrizStructuralViolation, guard_no_meta_lexical_activation
-from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+from hesperia.extensions.triz.guards import TrizStructuralViolation, guard_no_meta_lexical_activation
+from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 from hesperia.product.api_contracts.triz_analysis_v1 import wrap_triz_analyze_response
 from hesperia.product.api_contracts.triz_export_v1 import wrap_triz_export_response
 from hesperia.product.comparison_engine import compare_reports_unified

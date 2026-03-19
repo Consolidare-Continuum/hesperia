@@ -4,7 +4,7 @@ Gena — TRIZ / session graph → field dynamics. Analysis of wiring (what’s n
 
 # Gena — dynamics integration analysis (TRIZ → L4/L5/L6/L7)
 
-**Owner lens:** session → clinical graph → **TRIZ complete** → area-level **contradiction drive** consumed by `hesperia.engine.field_dynamics`.  
+**Owner lens:** session → clinical graph → **TRIZ complete** → area-level **contradiction drive** consumed by `hesperia.extensions.dynamics`.  
 **Related:** [GENA-OPEN-WORKFLOW-PROCEED.md](GENA-OPEN-WORKFLOW-PROCEED.md) · [ETHAN-OPEN-WORKFLOW-PROCEED.md](ETHAN-OPEN-WORKFLOW-PROCEED.md) · [E2E_RUN_ORDER.md](../../E2E_RUN_ORDER.md) · [HESPERIA_VARIABLE_CATALOG.md](../../HESPERIA_VARIABLE_CATALOG.md)
 
 ---
@@ -62,11 +62,11 @@ flowchart LR
 | Step | Module | Function |
 |------|--------|----------|
 | Session → graph | `hesperia.engine.kme.clinical_bridge` | `build_clinical_active_graph` |
-| TRIZ | `hesperia.engine.triz.pipeline` | `active_graph_from_payload`, `run_triz_analysis_complete` |
+| TRIZ | `hesperia.extensions.triz.pipeline` | `active_graph_from_payload`, `run_triz_analysis_complete` |
 | Topology maps | `runtime.pipeline.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
-| Rows → L7 vector | `hesperia.engine.field_dynamics.triz_signal` | `contradiction_signal_12_from_con_rows` |
-| Ξ boost | `hesperia.engine.field_dynamics.xi_proxy` | `apply_xi_to_contradiction_signal` |
-| Orchestration | `hesperia.engine.field_dynamics.e2e_bridge` | `run_field_dynamics_e2e_artifact` |
+| Rows → L7 vector | `hesperia.extensions.dynamics.triz_signal` | `contradiction_signal_12_from_con_rows` |
+| Ξ boost | `hesperia.extensions.dynamics.xi_proxy` | `apply_xi_to_contradiction_signal` |
+| Orchestration | `hesperia.extensions.dynamics.e2e_bridge` | `run_field_dynamics_e2e_artifact` |
 | Entry from runner | `runtime.pipeline.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
 
 ---

@@ -11,7 +11,7 @@ _REPO = Path(__file__).resolve().parent.parent
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
-from hesperia.engine.field_dynamics.matrix_builders import (
+from hesperia.extensions.dynamics.matrix_builders import (
     build_contradiction_matrix,
     build_family_adjacency_matrix,
     build_family_index,

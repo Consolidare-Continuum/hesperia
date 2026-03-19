@@ -4,15 +4,15 @@ HESPERIA — RAD
 
 # Semantic field runtime
 
-Executes **`hesperia.engine.field_dynamics.equations`** from JSON config and writes measurable outputs (family field, area projection, timeline, energy trajectories).
+Executes **`hesperia.extensions.dynamics.equations`** from JSON config and writes measurable outputs (family field, area projection, timeline, energy trajectories).
 
 ## Ontology-driven matrices
 
-If the config includes **`ontology`** (`family_ids`, `relations`, `contradictions`, `resistance_priors`), **W_F, C_F, R** are built by **`hesperia.engine.field_dynamics.matrix_builders`** ([FIELD_MATRIX_BUILDERS_v1](../../docs/specs/FIELD_MATRIX_BUILDERS_v1.md)). Documents may use **`source_family_id`**. Example: `configs/semantic_field_ontology_example.json`. Calibration runner uses the same resolution.
+If the config includes **`ontology`** (`family_ids`, `relations`, `contradictions`, `resistance_priors`), **W_F, C_F, R** are built by **`hesperia.extensions.dynamics.matrix_builders`** ([FIELD_MATRIX_BUILDERS_v1](../../specs/dynamics/FIELD_MATRIX_BUILDERS_v1.md)). Documents may use **`source_family_id`**. Example: `runtime/configs/semantic_field_ontology_example.json`. Calibration runner uses the same resolution.
 
 ```bash
 python3 -m runtime.semantic_field.run_semantic_field \
-  --config configs/semantic_field_ontology_example.json \
+  --config runtime/configs/semantic_field_ontology_example.json \
   --output out/semantic_field_ontology_run.json
 ```
 
@@ -22,7 +22,7 @@ From repository root:
 
 ```bash
 python3 -m runtime.semantic_field.run_semantic_field \
-  --config configs/semantic_field_example.json \
+  --config runtime/configs/semantic_field_example.json \
   --output out/semantic_field_run.json
 ```
 
@@ -50,11 +50,11 @@ python3 -m runtime.semantic_field.run_semantic_field \
 
 ## Field calibration (HCI grid search)
 
-**HSPR Calibration Index (HCI):** one bounded score \([0,1]\) for stable, source-aligned, low-contradiction fields. Spec: [docs/specs/HSPR_CALIBRATION_INDEX_v1.md](../../docs/specs/HSPR_CALIBRATION_INDEX_v1.md).
+**HSPR Calibration Index (HCI):** one bounded score \([0,1]\) for stable, source-aligned, low-contradiction fields. Spec: [specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md](../../specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md).
 
 ```bash
 python3 -m runtime.semantic_field.run_field_calibration \
-  --config configs/field_calibration_example.json \
+  --config runtime/configs/field_calibration_example.json \
   --output out/run_output_e2e_field_calibration.json
 ```
 
@@ -80,4 +80,4 @@ Document → Dict A → Dict B → family activation → **this runner** → KME
 - Full pipeline integration
 - Calibration layer for α, β, γ, δ from corpora
 
-See [docs/specs/SEMANTIC_FIELD_EQUATIONS_v1.md](../../docs/specs/SEMANTIC_FIELD_EQUATIONS_v1.md).
+See [specs/dynamics/semantic_field_dynamics.md](../../specs/dynamics/semantic_field_dynamics.md).

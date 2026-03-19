@@ -1,0 +1,64 @@
+{
+  "system_version": "0.5.0",
+  "release_stage": "dynamic_integration",
+  "git_commit": "af41d9e882345b659c446d7ea7d589e28494fc74",
+  "build_timestamp": "2026-03-19T08:27:02.703295+00:00",
+  "envelope_timestamp_utc": "2026-03-19T12:00:00Z",
+  "git_dirty": true,
+  "schema_version": "v1",
+  "calibration_profile_default": "v0_5_0",
+  "modules": {
+    "core": "included",
+    "engine": "included",
+    "projection": "included",
+    "api": "included",
+    "cli": "included",
+    "schemas": "included",
+    "version_system_support": "included",
+    "dynamics": "included_internal",
+    "triz": "optional",
+    "calibration": "internal",
+    "clinical": "excluded",
+    "research": "excluded",
+    "notebooks": "excluded",
+    "demos": "excluded"
+  },
+  "determinism_expected": true,
+  "determinism_verified": true,
+  "determinism_e2e_sha256": "766b814c93f3a696ce9e2157266baaef281608cfd71535e013efabaed39ea26f",
+  "extensions": {
+    "dynamics": {
+      "status": "canonical_extension",
+      "product_surface": "internal",
+      "python_package": "hesperia.extensions.dynamics"
+    },
+    "triz": {
+      "status": "canonical_extension",
+      "product_surface": "optional",
+      "python_package": "hesperia.extensions.triz"
+    },
+    "clinical_tfp": {
+      "status": "experimental",
+      "product_surface": "none",
+      "python_package": "research.clinical_tfp",
+      "note": "TFP / clinical test collateral \u2014 not baseline Engine Dynamics product."
+    }
+  },
+  "canonical_statement": "v0.5.0 is the canonical baseline for dynamic HESPERIA (Engine Dynamics sealed multiscale semantic physics).",
+  "shipping_api_routes": [
+    "GET /health",
+    "POST /analyze",
+    "POST /batch",
+    "POST /batch-analyze",
+    "POST /compare"
+  ],
+  "audit_artifacts": {
+    "audit_report": "audit_report.json",
+    "determinism_report": "determinism_report.json",
+    "schema_validation_report": "schema_validation_report.json",
+    "test_report": "test_report.json",
+    "final_gate_status": "final_gate_status.json"
+  },
+  "seal_status": "FAIL",
+  "pytest_quick_subset": true
+}

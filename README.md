@@ -6,11 +6,11 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# HESPERIA
+# Hesperia Engine Dynamics
 
-**Deterministic semantic engine.** Text in → attribution and layered analysis → reading scales and operational outputs. Config-driven, reproducible, no learning. The repository is in **Reference Architecture Definition (RAD) freeze**: one canonical snapshot, as-is.
+**Canonical release: v0.5.0** — deterministic multiscale semantic physics: **concept → hex → family → area → product signals → HSPR**, with a sealed **L1–L9** structural pipeline, **KME**, and optional **TRIZ** (not on the minimal product HTTP surface by default). Same input and configuration yield the same output (no learning in the core path).
 
-**Author:** Platonov Igor ([@igareosh](https://github.com/igareosh)) · <https://igareosh.com>
+**Author:** Platonov Igor ([@igareosh](https://github.com/igareosh)) · [igareosh.com](https://igareosh.com)
 
 ---
 
@@ -18,121 +18,151 @@ See LEGAL_NOTICE.md for full terms.
 
 | | |
 | --- | --- |
-| **State** | **RAD freeze** — architecture stable, boundaries enforced |
-| **Proof** | [docs/ARCHITECTURE_FINGERPRINT.txt](docs/ARCHITECTURE_FINGERPRINT.txt) (SHA256 → commit → tag `HESPERIA_RAD_FREEZE` + OpenTimestamps) |
-| **License** | Restricted Research Disclosure — inspection and reference only. See [LEGAL_NOTICE.md](LEGAL_NOTICE.md). |
+| **Product line** | **Hesperia Engine Dynamics** (Engine Dynamics v0.5) |
+| **Version authority** | Root [`VERSION.yaml`](VERSION.yaml) (also [`hesperia/VERSION.yaml`](hesperia/VERSION.yaml) → symlink) + [`pyproject.toml`](pyproject.toml) `version` |
+| **Sealed public surface** | Mandatory projection via [`hesperia.engine.projection`](hesperia/engine/projection/); see [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md) |
+| **Release audit** | [`release/v0.5.0/`](release/v0.5.0/) — regenerate with `python3 tools/release/build_release_audit_v0_5_0.py` ([`final_gate_status.json`](release/v0.5.0/final_gate_status.json) must allow tag) |
+| **License** | **Restricted Research Disclosure** — inspection and reference only. See [`LEGAL_NOTICE.md`](LEGAL_NOTICE.md). |
 
 ---
 
-## Capabilities
+## What you get
 
-The engine analyzes text deterministically and produces structured outputs:
-
-- **Attribution** — Map text to a fixed conceptual space (lexicon-driven; no training). Tokens are attributed to families and areas; the result feeds all downstream layers.
-- **Layered analysis** — A fixed pipeline (L1–L9) runs on attributed input: coverage and dominance, traversal and propagation, shadow comparison, retrieval and evidence, consistency and trust, then interpretation and branding. Each layer adds diagnostics; no learning, full reproducibility.
-- **Reading scales (R1–R4)** — Segment text by sentence, paragraph, chapter, or full document and get per-segment metrics plus an aggregate book-style profile (scale deltas, structural signature).
-- **Interpretation & fingerprint** — Structural state, tension and propagation summaries, event-style interpretation, and a Universal Structural Fingerprint (USF) for comparison or versioning. Optional logic and Prolog-style explanation outputs.
-- **Guards & contracts** — Pipeline enforces invariants and output contracts; stability checks and safeguards keep outputs within defined bounds.
-
-All behavior is config-driven (structure profile, policy mode, propagation and guard settings). Same input and config yield the same output.
+- **Structural analysis** — Lexicon-driven attribution → full **L1–L9** sphere pipeline → **public-safe** JSON (macro domains, families, trust, evidence where applicable; no raw hex/adjacency/calibration dumps on product paths).
+- **Reading scales (R1–R4)** — Optional segment-level and book-style profiles (internal / extended pipelines).
+- **Dynamics & calibration** — Spec-driven; named profiles in `VERSION.yaml`. Research and clinical/TFP collateral are **out of the product image** boundary.
+- **KME / TRIZ** — Available in-repo; TRIZ HTTP routes only when explicitly exposed (strict product surface disables them).
 
 ---
 
-## Use
+## Repository layout (active stack)
 
-- **Inspection and reference** — The repo is for study and technical evaluation. See [LEGAL_NOTICE.md](LEGAL_NOTICE.md) for allowed use and restrictions.
-- **Running pipelines** — Pass raw text (or a file) into the E2E flow or L1–L9 pipeline; artifacts are written to `assets/artifacts/` (e2e, layer runs, etc.). Use `--out` or `--out-dir` to choose paths.
-- **API** — Run the HTTP server for health checks or to call the analyze endpoint (e.g. from another service). Responses are JSON.
-- **Calibration and benchmarks** — Use the bundled calibration data and corpus/benchmark runners to reproduce runs or compare behavior; outputs are JSON/JSONL.
-- **Validation** — Lexical validation (Dict A/B, family spec) and optional dossier validation ensure inputs and outputs match the expected schema.
+| Path | Role |
+|------|------|
+| [`core/`](core/) | Deterministic math, layers, attribution, contracts, propagation |
+| [`hesperia/`](hesperia/) | Engine: **KME**, hex outputs, **projection** (`hesperia/engine/projection/`), extensions |
+| [`runtime/`](runtime/) | Pipelines, **shipping API/CLI**, `analysis_service` façade, semantic-field runners |
+| [`lexicon/`](lexicon/) | Dict A/B and lexical assets |
+| [`schemas/`](schemas/) | Public JSON Schema (e.g. `schemas/public/public_output_schema.json`) |
+| [`specs/`](specs/), [`spec/`](spec/) | Canonical specs and canon fragments |
+| [`docs/`](docs/) | Architecture, governance, **Cursor / release** guides |
+| [`tests/`](tests/) | Pytest (unit, integration, E2E) |
+| [`tools/`](tools/) | Validators, seal inventory, **release audit** (`tools/release/`) |
+| [`release/v0.5.0/`](release/v0.5.0/) | Sealed audit bundle (manifest, determinism, schema, audit, **final gate**) |
+| [`legacy/`](legacy/) | Archive — **not** part of the active execution stack |
 
-For implementation, reproduction, or derivative use, explicit written permission from the author is required.
+Policies: [`REPO_STRUCTURE_POLICY.md`](REPO_STRUCTURE_POLICY.md) · [`EXTENSION_STATUS.yaml`](EXTENSION_STATUS.yaml) · [`GENERATED_ARTIFACT_POLICY.md`](GENERATED_ARTIFACT_POLICY.md)
 
----
-
-## What's in the repo
-
-**System awareness (agents, product boundary, integration):** [docs/HESPERIA_SYSTEM_AWARENESS.md](docs/HESPERIA_SYSTEM_AWARENESS.md)  
-**Semantic field dynamics (Ethan spec, hex layer, H1–H9):** [docs/specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](docs/specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md)  
-**Dynamics calibration (v0.1):** [docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](docs/specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md)
-
-**Full map (layers, directories, pipeline):** [docs/HESPERIA_REPOSITORY_MAP.md](docs/HESPERIA_REPOSITORY_MAP.md)  
-**Dependency graph (testing order, frozen vs tunable):** [docs/HESPERIA_DEPENDENCY_GRAPH.md](docs/HESPERIA_DEPENDENCY_GRAPH.md)  
-**Variable & signal catalog (~176 measurable variables, KME/TRIZ keys):** [docs/HESPERIA_VARIABLE_CATALOG.md](docs/HESPERIA_VARIABLE_CATALOG.md)  
-**Product lines A–G (commercial map):** [docs/HESPERIA_PRODUCT_LINES.md](docs/HESPERIA_PRODUCT_LINES.md)  
-**Product stack (input → product signals):** [docs/HESPERIA_PRODUCT_STACK_MAP.md](docs/HESPERIA_PRODUCT_STACK_MAP.md)
-
-- **core/** — Deterministic computation (layers, attribution, contracts, policy, propagation).
-- **runtime/** — Pipelines, API server, dossier, provenance.
-- **lexicon/** — Dictionary systems (Dict A/B), build, validation.
-- **tools/** — Calibration data, diagnostics, scripts.
-- **assets/** — Artifacts (e2e outputs, layer runs, etc.).
-- **tests/** — Pytest unit, integration, and e2e.
-- **docs/** — Specs, architecture, governance.
-- **legacy/** — Archive only; not part of the active stack.
+**Master index (v0.5):** [`docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)
 
 ---
 
-## From scratch (memo)
-
-| Step | Doc |
-|------|-----|
-| **1. Run** | [docs/RUN_FROM_SCRATCH.md](docs/RUN_FROM_SCRATCH.md) — clone, venv, install, run pipeline & tests |
-| **2. Build** | [docs/BUILD_FROM_SCRATCH.md](docs/BUILD_FROM_SCRATCH.md) — CLI binary, Docker API image, manifest |
-| **3. Deploy** | [docs/DEPLOY_FROM_SCRATCH.md](docs/DEPLOY_FROM_SCRATCH.md) — copy artifacts, run CLI or container |
-
----
-
-## Run it
-
-**Full E2E (9 artifacts; optional 10th with `HESPERIA_FIELD_DYNAMICS=1` — [docs/E2E_RUN_ORDER.md](docs/E2E_RUN_ORDER.md)):**  
+## Quick start
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+git clone <repo-url>
+cd hesperia
+python3 -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+pip install -e .    # installs console script: hesperia → runtime.shipping.cli_main
+python3 tools/validate_version_consistency.py
+python3 -m pytest tests/ -q --tb=no
 ```
 
-Outputs under `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."`.
+---
 
-**L1–L9 pipeline (single run):**
+## Sealed product CLI & API
+
+**CLI** (mirrors shipping API semantics):
 
 ```bash
-python3 -m runtime.pipeline.run_l1_through_l9 --out /path/out.json
+hesperia analyze --text "Your text here"
+hesperia compare --text1 "..." --text2 "..."
+hesperia batch --texts "a" "b"          # alias: batch-analyze
+hesperia --version
 ```
 
-**API server:**
+**Shipping API** (Docker / production-style — no OpenAPI UI on app):
+
+```bash
+python3 -m uvicorn runtime.shipping.api_main:app --host 127.0.0.1 --port 8000
+# POST /analyze, /compare, /batch (and /batch-analyze), GET /health
+```
+
+**GPT / OpenAPI-style app** (Bearer auth, `/hesperia/analyze` etc.):
 
 ```bash
 python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
 ```
 
-**Tests:**
-
-```bash
-python3 -m pytest tests/ -q
-# E2E flows only:
-python3 -m pytest tests/test_e2e_flows.py -v
-```
+All product analysis responses go through **`run_structural_analysis`** → **`project_to_public`**. Details: [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md).
 
 ---
 
-## Quick reference
+## Running pipelines
+
+| Goal | Command |
+|------|---------|
+| **Full internal E2E** (many artifacts) | `python3 -m runtime.pipeline.run_e2e_all` — order: [`docs/E2E_RUN_ORDER.md`](docs/E2E_RUN_ORDER.md) |
+| **Product E2E** (minimal seal proof) | `python3 -m runtime.pipeline.run_e2e_product` |
+| **L1–L9 single run** | `python3 -m runtime.pipeline.run_l1_through_l9 --out /path/out.json` |
+
+Artifacts default under `assets/artifacts/e2e/` unless overridden.
+
+---
+
+## Release, seal, and GitHub sync
+
+**Before claiming a sealed v0.5.0 or pushing release-audit changes:**
+
+1. Follow [`docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md`](docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md).
+2. Use [`docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md`](docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md) for **pre-push validation** and GitHub hygiene.
+3. Regenerate audit (full pytest, clean tree, fixed timestamp optional):
+
+   ```bash
+   export HESPERIA_RELEASE_BUILD_TIMESTAMP=2026-03-19T12:00:00Z
+   python3 tools/release/build_release_audit_v0_5_0.py
+   ```
+
+4. Confirm `release/v0.5.0/final_gate_status.json` → `"sealed": true` before `git tag v0.5.0`.
+
+**Docker (product slice):** `Dockerfile.shipping` / `Dockerfile.product` — see [`release/README.md`](release/README.md).
+
+---
+
+## Contributing & Cursor workflow
+
+- **Agent rules:** [`AGENTS.md`](AGENTS.md)
+- **Pre-push / sync:** [`docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md`](docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md)
+- **Open task queue (this repo):** [`docs/CURSOR_OPEN_WORKFLOW.md`](docs/CURSOR_OPEN_WORKFLOW.md)
+
+For implementation or redistribution beyond inspection/reference, **explicit written permission** is required ([`LEGAL_NOTICE.md`](LEGAL_NOTICE.md)).
+
+---
+
+## Documentation map
+
+| Topic | Doc |
+|-------|-----|
+| v0.5 engine index | [`docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md) |
+| System / product awareness | [`docs/HESPERIA_SYSTEM_AWARENESS.md`](docs/HESPERIA_SYSTEM_AWARENESS.md) |
+| Repository map | [`docs/HESPERIA_REPOSITORY_MAP.md`](docs/HESPERIA_REPOSITORY_MAP.md) |
+| From scratch: run / build / deploy | [`docs/RUN_FROM_SCRATCH.md`](docs/RUN_FROM_SCRATCH.md), [`docs/BUILD_FROM_SCRATCH.md`](docs/BUILD_FROM_SCRATCH.md), [`docs/DEPLOY_FROM_SCRATCH.md`](docs/DEPLOY_FROM_SCRATCH.md) |
+| Changelog | [`CHANGELOG.md`](CHANGELOG.md) |
+| Evidence / fingerprint | [`docs/ARCHITECTURE_FINGERPRINT.txt`](docs/ARCHITECTURE_FINGERPRINT.txt) |
+
+---
+
+## Quick command reference
 
 | Action | Command |
-| --- | --- |
-| E2E (all) | `python3 -m runtime.pipeline.run_e2e_all` |
-| L1–L9 | `python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]` |
-| API | `python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000` |
+|--------|---------|
 | Tests | `python3 -m pytest tests/ -q` |
+| Version check | `python3 tools/validate_version_consistency.py` |
+| Public surface audit | `python3 tools/audit_public_surface.py` |
+| Full E2E | `python3 -m runtime.pipeline.run_e2e_all` |
+| L1–L9 | `python3 -m runtime.pipeline.run_l1_through_l9 [--out path.json]` |
 
 ---
 
-## Further reading
-
-- **Evidence chain & timestamp** — [docs/ARCHITECTURE_FINGERPRINT.txt](docs/ARCHITECTURE_FINGERPRINT.txt)
-- **Legal terms** — [LEGAL_NOTICE.md](LEGAL_NOTICE.md)
-- **Architecture & specs** — [docs/](docs/) (system spec, boundaries, topology invariants, layer order, USF schema)
-- **Agent/contributor rules** — [AGENTS.md](AGENTS.md)
-
----
-
-HESPERIA RAD · © 2026 Platonov Igor / igareosh.com · Restricted Research Disclosure
+**Hesperia Engine Dynamics** · © 2026 Platonov Igor / igareosh.com · Restricted Research Disclosure

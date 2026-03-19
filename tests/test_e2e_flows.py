@@ -16,7 +16,7 @@ import json
 import sys
 from pathlib import Path
 
-# Repo root must precede tests/ so `import runtime` resolves to runtime/, not tests/runtime/.
+# Repo root first on path (see tests/conftest.py). Do not add a `tests/runtime/` package — it shadows `runtime/`.
 _REPO = Path(__file__).resolve().parents[1]
 _rs = str(_REPO)
 if _rs in sys.path:
@@ -88,6 +88,8 @@ def test_e2e_sphere_math_values_output_exists() -> None:
         data = json.loads(out_path.read_text(encoding="utf-8"))
         for key in ("L1", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9"):
             assert key in data, f"sphere_math_values missing {key}"
+        assert data.get("system_version") == "0.5.0"
+        assert data.get("build_id")
 
 
 def test_e2e_sphere_math_100_output_exists() -> None:
@@ -100,14 +102,16 @@ def test_e2e_sphere_math_100_output_exists() -> None:
         run_e2e_sphere_math_100(out_path, limit=2)
         assert out_path.exists()
         data = json.loads(out_path.read_text(encoding="utf-8"))
-        assert isinstance(data, list)
-        assert len(data) >= 1
-        for item in data:
+        assert data.get("system_version") == "0.5.0"
+        payload = data.get("payload")
+        assert isinstance(payload, list)
+        assert len(payload) >= 1
+        for item in payload:
             assert "L1" in item or "text_preview" in item
 
 
 def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
-    """Unified run_e2e_all with field dynamics: 17 base + field_dynamics; second run bumps state_t."""
+    """Unified run_e2e_all with field dynamics: 19 base + field_dynamics; second run bumps state_t."""
     import os
     from runtime.pipeline.run_e2e_all import (
         E2E_OUTPUTS_WITH_FIELD_DYNAMICS,
@@ -142,6 +146,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             summ = json.loads(
                 written["run_output_e2e_calibration_100_summary.json"].read_text(encoding="utf-8")
             )
+            assert summ.get("system_version") == "0.5.0"
             assert summ.get("sentence_count") == 5
             assert summ.get("run") == "e2e_calibration_batch_summary"
             fd_path = written[E2E_OUTPUTS_WITH_FIELD_DYNAMICS[-1]]
@@ -153,6 +158,8 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert "semantic_field_v1" in fd
 
             sf = json.loads(written["run_output_e2e_semantic_field.json"].read_text(encoding="utf-8"))
+            assert sf.get("system_version") == "0.5.0"
+            assert sf.get("pipeline_version") == "e2e_v2"
             assert sf.get("matrices_provenance") == "ontology"
             cal = json.loads(written["run_output_e2e_field_calibration.json"].read_text(encoding="utf-8"))
             assert cal.get("schema") == "hspr_field_calibration_v1"
@@ -236,7 +243,7 @@ def test_e2e_capability_matrix_wires_blocks() -> None:
 
 def test_e2e_tfp_smoke_artifact_shape() -> None:
     """TFP E2E artifact: structural batch + tfp_stage per session + speaker-aware smoke."""
-    from hesperia.clinical.stage_detection import TFP_STAGES
+    from research.clinical_tfp.stage_detection import TFP_STAGES
     from runtime.pipeline.run_e2e_all import run_e2e_tfp_smoke
 
     import tempfile
@@ -254,6 +261,46 @@ def test_e2e_tfp_smoke_artifact_shape() -> None:
             assert row.get("tfp_stage") in TFP_STAGES or "_error" in row
         sas = data.get("speaker_aware_smoke") or {}
         assert sas.get("tfp_stage") in TFP_STAGES or "_error" in sas
+        hx = data.get("session_hex_microstructure_tfp") or []
+        assert isinstance(hx, list) and len(hx) >= 1
+        for row in hx:
+            assert "session_id" in row
+            if "_error" not in row:
+                assert "microstructure_analytics" in row
+                assert "hex_option_a_summary" in row
+
+
+def test_e2e_hex_microstructure_tfp_artifact() -> None:
+    from runtime.pipeline.run_e2e_all import run_e2e_hex_microstructure_tfp
+
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "hex_tfp.json"
+        run_e2e_hex_microstructure_tfp(p, "justice order fairness care trust")
+        data = json.loads(p.read_text(encoding="utf-8"))
+        assert data.get("run") == "e2e_hex_microstructure_tfp"
+        pb = data.get("primary_bundle") or {}
+        assert "microstructure_analytics" in pb or "_error" in pb
+        assert "hex_option_a_summary" in pb or "_error" in pb.get("hex_option_a_summary", {})
+        assert "tfp_topology" in pb
+        assert isinstance(data.get("tfp_smoke_session_bundles"), list)
+
+
+def test_e2e_sealed_multiscale_artifact() -> None:
+    from runtime.pipeline.run_e2e_all import run_e2e_sealed_multiscale
+
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "sealed.json"
+        run_e2e_sealed_multiscale(p, "justice fairness order boundaries trust")
+        data = json.loads(p.read_text(encoding="utf-8"))
+        assert data.get("run") == "e2e_sealed_multiscale"
+        assert data.get("pipeline") == "sealed_multiscale_v1"
+        assert len(data.get("family_activation_vector") or []) == 288
+        assert len(data.get("area_activation_vector") or []) == 12
+        assert "hspr_index" in data
+        assert "hotspot_map" in data
+        assert "innovation_index" in data
 
 
 def test_e2e_domain_metrics_stage_in_pipeline() -> None:

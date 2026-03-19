@@ -9,7 +9,7 @@ See LEGAL_NOTICE.md for full terms.
 
 This is **not** a directory tree. It is the **runtime dependency graph**: what feeds what, what to treat as frozen during testing, and where failures propagate.
 
-**Companion:** [HESPERIA_REPOSITORY_MAP.md](HESPERIA_REPOSITORY_MAP.md) (what lives where). **Signals:** [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Product lines:** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md). **Product stack:** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **Field dynamics (L0–L10 wire, H0–H9 + Part B hex):** [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md). **Geometry truth:** [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
+**Companion:** [HESPERIA_REPOSITORY_MAP.md](HESPERIA_REPOSITORY_MAP.md) (what lives where). **Signals:** [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md). **Product lines:** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md). **Product stack:** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **Field dynamics (L0–L10 wire, H0–H9 + Part B hex):** [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md). **Geometry truth:** [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
 
 ---
 
@@ -23,7 +23,7 @@ The current repository provides:
 | **Structured knowledge graph** | `hesperia/graph`, KME `ActiveGraph`, Dict-B relations |
 | **Topology-based propagation** | `sphere/topology`, `sphere/propagation`, L1–L9 pipeline |
 | **Domain metrics** | `hesperia/engine/kme`, structural bridge → fingerprint |
-| **Contradiction analysis** | `hesperia/engine/triz` |
+| **Contradiction analysis** | `hesperia/extensions/triz` |
 | **Clinical ontology projection** | `hesperia/clinical`, session topology |
 | **Product-ready analytics** | `hesperia/product`, `runtime/api`, reports |
 
@@ -31,7 +31,7 @@ The current repository provides:
 
 ### Dynamics pipeline vs dependency layers (crosswalk)
 
-**Two views:** Layers **0–11** here are **code / change-impact**. **[Ethan spec](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) Part A L0–L10** is the **temporal** discrete-time field pipeline. Approximate mapping:
+**Two views:** Layers **0–11** here are **code / change-impact**. **[Ethan spec](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) Part A L0–L10** is the **temporal** discrete-time field pipeline. Approximate mapping:
 
 | L (Ethan) | Dependency-layer focus |
 |-----------|-------------------------|
@@ -88,7 +88,7 @@ Failures **downstream** of a broken layer are unreliable until that layer is fix
 
 ### Layer 1 — Structural definitions
 
-| Modules | `data/`, `spec/`, `sphere/topology/` |
+| Modules | `data/`, `specs/canon/`, `sphere/topology/` |
 |---------|--------------------------------------|
 | **Role** | Area adjacency, icosahedron structure, family geometry, embedding constants |
 | **Invariant** | See [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md): **12 areas**, **288 families**, **72 000 hexes** (10+2 areas / 240+48 families / 60k+12k hexes for public vs reserved) |
@@ -176,7 +176,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 
 ### Layer 9 — TRIZ reasoning engine
 
-| Modules | `hesperia/engine/triz/` |
+| Modules | `hesperia/extensions/triz/` |
 |---------|-------------------------|
 | **Role** | Contradictions, propagation narrative, innovation signals |
 | **Depends on** | KME-style graph, topology maps from activation trace / coordinates |
@@ -187,7 +187,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 
 ### Layer 10 — Domain projection
 
-| Modules | `hesperia/clinical/` |
+| Modules | `research/clinical_tfp/` |
 |---------|---------------------|
 | **Role** | TFP-oriented signals, session topology, defenses, transference, etc. |
 | **Depends on** | NLP activation, graph/session structures |
@@ -211,7 +211,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 
 | Location | `assets/artifacts/` (e.g. `e2e/`) |
 |----------|-----------------------------------|
-| **Typical outputs** | sentence analyze, L1–L9, R1–R4, sphere math, domain metrics, session KME, TRIZ complete, session topology (**9** E2E files — [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md)) |
+| **Typical outputs** | Full `run_e2e_all`: **19** baseline JSON (+ optional field dynamics) — [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md), [E2E_OUTPUTS.md](../assets/artifacts/e2e/E2E_OUTPUTS.md) |
 
 ---
 
@@ -246,7 +246,7 @@ core
 
 ## 17. Safe vs risky modules
 
-| **Must stay frozen (RAD)** | `core` (contract math), `sphere/topology` geometry, `spec/` + frozen `data/`, alignment **structure** |
+| **Must stay frozen (RAD)** | `core` (contract math), `sphere/topology` geometry, `specs/canon/` + frozen `data/`, alignment **structure** |
 | **Calibration-heavy** | Dict A/B, NLP tuning, relation weights, KME normalization, TRIZ thresholds |
 | **Domain extend** | `hesperia/clinical`, corpus loaders, domain configs, `hesperia/product` |
 

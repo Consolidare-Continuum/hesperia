@@ -13,7 +13,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from core.projection import apply_public_projection
+from hesperia.engine.projection import project_to_public
 
 
 def build_public_report(
@@ -25,7 +25,7 @@ def build_public_report(
     Build a public report from analysis result. Result must already be projected or will be projected here.
     Returns report dict with only public metric profile and public vocabulary.
     """
-    out = apply_public_projection(analysis_result)
+    out = project_to_public(analysis_result, validate_schema=True)
     out["report_profile_id"] = report_profile_id or ""
     out["public_metric_profile_id"] = public_metric_profile_id
     return out

@@ -319,7 +319,7 @@ class MetricReport:
     primitive_map: dict[str, float]
     derived_map: dict[str, float]
     fingerprint: DomainFingerprint
-    triz_signals: object | None = None  # hesperia.engine.triz.models.TRIZSignals when set
+    triz_signals: object | None = None  # hesperia.extensions.triz.models.TRIZSignals when set
 
 
 # ---------------------------------------------------------------------------

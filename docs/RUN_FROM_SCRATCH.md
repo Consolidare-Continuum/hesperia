@@ -45,7 +45,7 @@ From the repo root:
 pip install -r requirements.txt
 ```
 
-This pulls `requirements_surface.txt` (sentence-transformers, torch, etc.). First run may download the embedding model.
+This pulls `requirements/runtime.txt` (includes `requirements/surface.txt`: sentence-transformers, torch, etc.). First run may download the embedding model.
 
 ---
 
@@ -53,7 +53,7 @@ This pulls `requirements_surface.txt` (sentence-transformers, torch, etc.). Firs
 
 All commands below are run with the repo root as current directory (so `core`, `runtime`, `sphere`, etc. are on the path).
 
-**Full E2E (all flows, 9 artifacts; order: `docs/E2E_RUN_ORDER.md`):**
+**Full E2E** (19 baseline JSON + optional field dynamics): `docs/E2E_RUN_ORDER.md` · `assets/artifacts/e2e/E2E_OUTPUTS.md`
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

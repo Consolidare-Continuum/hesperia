@@ -4,7 +4,7 @@
 # Restricted Research Disclosure License. Inspection and reference only.
 # See LEGAL_NOTICE.md for full terms.
 #
-# Executes hesperia.engine.field_dynamics.equations from explicit or shortcut config.
+# Executes hesperia.extensions.dynamics.equations from explicit or shortcut config.
 # Full matrices may be supplied; for 288 families use adjacency_mode / contradiction_zero
 # to avoid huge JSON. Optional ontology block → matrix_builders (FIELD_MATRIX_BUILDERS_v1).
 
@@ -22,8 +22,8 @@ _HESPERIA_ROOT = Path(__file__).resolve().parents[2]
 if str(_HESPERIA_ROOT) not in sys.path:
     sys.path.insert(0, str(_HESPERIA_ROOT))
 
-from hesperia.engine.field_dynamics import matrix_builders as _mb
-from hesperia.engine.field_dynamics.equations import (
+from hesperia.extensions.dynamics import matrix_builders as _mb
+from hesperia.extensions.dynamics.equations import (
     SemanticFieldParams,
     aggregate_family_to_area,
     aggregate_sources_with_params,

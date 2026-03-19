@@ -48,7 +48,7 @@ See LEGAL_NOTICE.md for full terms.
 
 | # | Path | What to check |
 |---|------|----------------|
-| 14 | [E2E_RUN_ORDER.md](../E2E_RUN_ORDER.md) | Still 9 artifacts; matches `run_e2e_all` |
+| 14 | [E2E_RUN_ORDER.md](../E2E_RUN_ORDER.md) | **19** baseline E2E JSON (+ optional 20th); matches `run_e2e_all` / `E2E_OUTPUTS` |
 | 15 | [TOPOLOGY_INVARIANTS.md](../TOPOLOGY_INVARIANTS.md) | Any dynamics spec contradicts 10+2 / hex counts |
 | 16 | [AGENTS.md](../../AGENTS.md) | Awareness + calibration + dynamics pointers — one paragraph too long? |
 
@@ -79,7 +79,7 @@ Use **P0 / P1 / P2** or **Keep / Merge / Split / Deprecate**.
 
 1. **Equation indices:** Part A **H0–H9** (compact wire) vs Part B **extended H1–H9** (resolution, hex gradients). Recommend: one **master glossary** table in ETHAN spec or separate `DYNAMICS_EQUATION_INDEX.md`?
 2. **Dependency graph layers** (0–11) vs **L0–L10** — same story or two views? Merge diagram or crosswalk table?
-3. **Calibration registry location:** `docs/specs/calibration/` vs `assets/calibration/` — pick canonical when first YAML lands.
+3. **Calibration registry location:** `specs/calibration/` vs `assets/calibration/` — pick canonical when first YAML lands.
 4. **“24 families per area”** in user drafts vs **240 public families / 10 areas** — ensure all specs use TOPOLOGY language.
 
 ---

@@ -1,9 +1,0 @@
-# HESPERIA — embedding-based Dict B and surface siding (RAD: no version in filename)
-# Install: pip install -r requirements_surface.txt
-# Model: sentence-transformers/all-mpnet-base-v2 (downloaded at build time)
-
-sentence-transformers>=2.7.0,<3
-torch>=2.0.0,<3
-numpy>=1.24.0,<2
-transformers>=4.30.0,<5
-huggingface-hub>=0.17.0,<1

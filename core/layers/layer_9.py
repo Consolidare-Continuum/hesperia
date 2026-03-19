@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-9 human reference & brand treatment (42_SPEC).
+Engine 0.5.0 — Layer-9 (42_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables: bands, pillars, BRAND_WORD_*, ACTION_* from L3, L4, L7, L8 SI_*.
 Final layer: L1–L9 metrics become human-facing labels (no locale here; i18n can wrap L9 output).
 """

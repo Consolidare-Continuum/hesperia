@@ -76,7 +76,7 @@ class HesperiaPipelineRunner:
         from hesperia.engine.kme.fingerprint.builder import build_fingerprint
         from hesperia.engine.kme.models import MetricReport
         from hesperia.engine.kme.primitives.calculator import compute_primitives
-        from hesperia.engine.triz.kme_bridge import (
+        from hesperia.extensions.triz.kme_bridge import (
             build_topology_from_activation_trace,
             run_triz_for_kme,
             topology_from_graph_coordinates,
@@ -100,7 +100,7 @@ class HesperiaPipelineRunner:
         elif active_graph.concept_coordinates:
             topo = topology_from_graph_coordinates(active_graph)
 
-        # TRIZ: hesperia.engine.triz.triz_pipeline.run_triz_analysis (via run_triz_layer)
+        # TRIZ: hesperia.extensions.triz.triz_pipeline.run_triz_analysis (via run_triz_layer)
         triz_signals = run_triz_for_kme(active_graph, topo)
 
         return MetricReport(

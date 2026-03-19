@@ -10,7 +10,7 @@ from pathlib import Path
 
 import numpy as np
 
-from hesperia.engine.field_dynamics.calibration import (
+from hesperia.extensions.dynamics.calibration import (
     calibrate_parameter_grid,
     compute_hspr_calibration_index,
 )

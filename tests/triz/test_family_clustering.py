@@ -3,13 +3,13 @@
 from __future__ import annotations
 
 from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
-from hesperia.engine.triz.contradiction_engine import detect_contradictions
-from hesperia.engine.triz.family_clustering import (
+from hesperia.extensions.triz.contradiction_engine import detect_contradictions
+from hesperia.extensions.triz.family_clustering import (
     cluster_contradictions_by_area_family,
     cluster_contradictions_by_family,
     get_conflict_hotspots,
 )
-from hesperia.engine.triz.triz_classifier import classify_contradictions
+from hesperia.extensions.triz.triz_classifier import classify_contradictions
 
 
 def _graph_and_mapping():

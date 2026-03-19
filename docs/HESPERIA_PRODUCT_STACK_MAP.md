@@ -202,7 +202,7 @@ Product packaging: [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md).
 
 ## 14. Full stack overview
 
-**Future dynamics step (Ethan):** **Concept→Hex→Family→Area** time evolution on hex lattice + area graph — [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) (Phases A–D; active hex subgraph before full grid).
+**Future dynamics step (Ethan):** **Concept→Hex→Family→Area** time evolution on hex lattice + area graph — [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) (Phases A–D; active hex subgraph before full grid).
 
 ```text
 TEXT

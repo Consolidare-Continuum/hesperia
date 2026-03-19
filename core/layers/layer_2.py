@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-2 geometric traversal (35_SPEC).
+Engine 0.5.0 — Layer-2 (35_SPEC); “v0.4.x” = legacy SPEC-era label only.
 25 variables, deterministic, topology-bound. No semantics, no books, no shadow.
 Inputs: L1 output (DOMINANT_FAMILY_ID, DOMINANT_AREA_ID), hits[], adjacency, area, F, A, MAX_ALLOWED_DEPTH, eps.
 """

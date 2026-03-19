@@ -1,0 +1,17 @@
+# Maps logical asset tracks to repo paths. Do not infer version from folder names alone — use this registry.
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+
+active:
+  lexicon_frozen: "v0_5_0"
+  calibration: "v0_5_0"
+  dynamics: "v0_5_0"
+
+legacy:
+  lexicon_frozen:
+    - id: "v06"
+      note: "Physical bundle id; symlink target of active v0_5_0"
+      path: "lexicon/frozen/v06"
+  calibration:
+    - id: "v0_4"
+      note: "Dict A/B JSON era; filenames may retain v0_4_1_x — see lexicon/frozen/*.json"
+      path: "lexicon/frozen"

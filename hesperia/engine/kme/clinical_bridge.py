@@ -168,7 +168,7 @@ def run_kme_from_activation(
         domain_release=domain_release,
         source_id=source_id,
     )
-    from hesperia.engine.triz.kme_bridge import run_triz_for_kme
+    from hesperia.extensions.triz.kme_bridge import run_triz_for_kme
 
     topo: dict[str, Any] | None = None
     c2a = activation_result.get("concept_to_area")

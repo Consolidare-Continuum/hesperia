@@ -17,7 +17,7 @@
 ## Размещение
 
 - Транскрипты: `assets/validation/tfp_transcripts/` (добавить вручную или через инструмент).
-- Конфиг калибровки после прогона: `spec/activation_calibration.yaml`.
+- Конфиг калибровки после прогона: `specs/canon/activation_calibration.yaml`.
 
 ## Формат транскриптов
 

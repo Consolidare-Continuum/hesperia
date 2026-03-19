@@ -5,41 +5,59 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Hesperia Analyze API — FastAPI. GET /health, POST /hesperia/analyze, POST /analysis/triz.
-GPT Actions compliant: Bearer auth, OpenAPI 3.x, strict body (text only), rate limit + hardening via nginx.
+Hesperia product API — FastAPI.
+
+Product surface (Task 4): GET /health; POST /hesperia/analyze, /hesperia/compare, /hesperia/batch
+with Bearer auth. All analysis outputs pass through ``run_structural_analysis`` (mandatory projection).
+
+When ``HESPERIA_PRODUCT_SURFACE`` is true (default), TRIZ and TRIZ MVP routers are not registered.
+Set ``HESPERIA_PRODUCT_SURFACE=0`` and ``HESPERIA_EXPOSE_TRIZ=1`` for dev-only TRIZ HTTP exposure.
 """
 from __future__ import annotations
 
 import logging
 import os
+import time
 import uuid
 from pathlib import Path
 from typing import Any
 
-# Hesperia root (parent of runtime/api); v0.6 assets at root/lexicon/frozen/v06
 _HESPERIA_ROOT = Path(__file__).resolve().parents[2]
-_ASSETS_ROOT = _HESPERIA_ROOT / "lexicon" / "frozen"
+_LEXICON_CURATED = _HESPERIA_ROOT / "lexicon" / "curated"
 
 from fastapi import Depends, FastAPI, Request, Security
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
-DEFAULT_TEXT_CAP = 10_000
-API_VERSION = "0.4.0"
+DEFAULT_TEXT_CAP = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
+API_VERSION = "0.5.0"
 
-# Bearer token: GPT Actions uses Authentication = API Key, Key type = Bearer.
-# HESPERIA_API_KEY = required. HESPERIA_API_KEY_NEXT = optional for rotation (accept either; swap then clear NEXT).
-# If both unset, /hesperia/analyze returns 503 (no open-by-default).
 API_KEY = os.environ.get("HESPERIA_API_KEY", "").strip()
 API_KEY_NEXT = os.environ.get("HESPERIA_API_KEY_NEXT", "").strip()
 HTTP_BEARER = HTTPBearer(auto_error=False)
 
+_RATE: dict[str, list[float]] = {}
+_RATE_LIMIT = int(os.environ.get("HESPERIA_RATE_LIMIT", "60"))
+_RATE_WINDOW = 60.0
+
+
+def _rate_allow(key: str = "default") -> bool:
+    now = time.monotonic()
+    if key not in _RATE:
+        _RATE[key] = []
+    times = _RATE[key]
+    times[:] = [t for t in times if now - t < _RATE_WINDOW]
+    if len(times) >= _RATE_LIMIT:
+        return False
+    times.append(now)
+    return True
+
 
 def verify_bearer(credentials: HTTPAuthorizationCredentials | None = Security(HTTP_BEARER)) -> None:
-    """Only /hesperia/analyze uses this; /health and /openapi.json have no auth."""
+    """Bearer auth for product POST routes."""
     if not API_KEY and not API_KEY_NEXT:
         raise PermissionError("Server not configured with HESPERIA_API_KEY")
     if not credentials:
@@ -51,6 +69,7 @@ def verify_bearer(credentials: HTTPAuthorizationCredentials | None = Security(HT
 
 def custom_openapi():
     from fastapi.openapi.utils import get_openapi
+
     openapi_schema = get_openapi(
         title=app.title,
         version=app.version,
@@ -64,15 +83,16 @@ def custom_openapi():
         "bearerFormat": "JWT",
         "description": "API Key as Bearer token (GPT Actions: API Key → Bearer)",
     }
-    # Only /hesperia/analyze has security; /health and /openapi.json do not. List nginx-emitted codes so builder doesn't treat as unexpected.
+    secured_paths = ("/hesperia/analyze", "/hesperia/compare", "/hesperia/batch", "/analysis/triz")
     for path, methods in openapi_schema.get("paths", {}).items():
-        if "/hesperia/analyze" in path and "post" in methods:
-            methods["post"]["operationId"] = "hesperiaAnalyze"
-            methods["post"]["security"] = [{"bearerAuth": []}]
-            r = methods["post"].setdefault("responses", {})
-            r["403"] = {"description": "Method not allowed (nginx limit_except)", "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ErrorBody"}}}}
-            r["415"] = {"description": "Content-Type must be application/json", "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ErrorBody"}}}}
-            r["429"] = {"description": "Too Many Requests (rate limit)", "content": {"application/json": {"schema": {"$ref": "#/components/schemas/ErrorBody"}}}}
+        if not any(sp in path for sp in secured_paths):
+            continue
+        for method_name, op in methods.items():
+            if method_name != "post":
+                continue
+            op["security"] = [{"bearerAuth": []}]
+            r = op.setdefault("responses", {})
+            r.setdefault("429", {"description": "Too Many Requests (rate limit)"})
     app.openapi_schema = openapi_schema
     return app.openapi_schema
 
@@ -80,7 +100,7 @@ def custom_openapi():
 app = FastAPI(
     title="Hesperia Analyze API",
     version=API_VERSION,
-    description="Semantic attribution: POST /hesperia/analyze with Bearer token. GPT Actions: use API Key → Bearer.",
+    description="Product surface: analyze / compare / batch (Bearer). Projection enforced; no internal graph exposure.",
     servers=[{"url": "https://hesperia.prichindel.com", "description": "Production"}],
     openapi_url="/openapi.json",
     docs_url=None,
@@ -91,7 +111,6 @@ app.openapi = custom_openapi
 
 @app.on_event("startup")
 def _startup_warn_next() -> None:
-    """Warn if NEXT key is set so ops don't leave dual-key forever."""
     if API_KEY_NEXT:
         logging.warning("HESPERIA_API_KEY_NEXT is set; rotate then clear it to avoid permanent two-key drift.")
 
@@ -105,20 +124,38 @@ app.add_middleware(
 
 
 class AnalyzeBody(BaseModel):
-    """Request body: text (required); r1_r4 (optional) to include R1–R4 reading-scale pipeline in extended."""
+    """Single-text analysis (public L1–L9 projection + version envelope)."""
+
     model_config = ConfigDict(extra="forbid")
-    text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP, description="Input text for semantic attribution")
-    r1_r4: bool = Field(default=False, description="If true, run R1–R4 pipeline and include units + book_profile in extended")
+    text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
+
+
+class CompareBody(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    text1: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
+    text2: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
+
+
+class BatchBody(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    texts: list[str] = Field(..., min_length=1, max_length=100)
+
+    @field_validator("texts")
+    @classmethod
+    def _each_text_cap(cls, v: list[str]) -> list[str]:
+        for i, t in enumerate(v):
+            if len(t) > DEFAULT_TEXT_CAP:
+                raise ValueError(f"texts[{i}] exceeds max length {DEFAULT_TEXT_CAP}")
+        return v
 
 
 class TrizBody(BaseModel):
-    """TRIZ layer: active graph + optional topology (adjacency, concept_matrix, …)."""
     model_config = ConfigDict(extra="forbid")
-    active_graph: dict[str, Any] = Field(..., description="KME-style { nodes, edges }")
+    active_graph: dict[str, Any] = Field(...)
     topology: dict[str, Any] | None = Field(default=None)
     narrative_id: str = Field(default="narrative_primary", max_length=256)
-    run_id: str | None = Field(default=None, max_length=256, description="Optional history key for persistence filters")
-    topology_mode: bool = Field(default=True, description="Use canonical area propagation when area+family maps exist")
+    run_id: str | None = Field(default=None, max_length=256)
+    topology_mode: bool = Field(default=True)
 
 
 class ErrorBody(BaseModel):
@@ -135,51 +172,34 @@ async def request_id_middleware(request: Request, call_next):
     return response
 
 
-@app.get(
-    "/health",
-    response_model=None,
-    summary="Health check",
-    description="No auth required. Returns service and version.",
-)
+@app.get("/health", response_model=None, summary="Health check")
 def health() -> dict[str, Any]:
     return {"ok": True, "service": "hesperia", "version": API_VERSION}
 
 
-@app.post(
-    "/hesperia/analyze",
-    response_model=None,
-    status_code=200,
-    summary="Semantic attribution",
-    description="Requires Authorization: Bearer <key>. Returns result (6-key) and extended (second output). Set body.r1_r4=true to include R1–R4 units and book_profile in extended.",
-    operation_id="hesperiaAnalyze",
-    responses={
-        200: {"description": "Success. Body: { result: 6-key, extended: { total_tokens, ... optional r1_r4 } }", "content": {"application/json": {"example": {
-            "result": {"dominant_area": 0, "dominant_family": 0, "governance": 0.0, "loopability": 0.0, "tension_energy": 0.0, "obstacle_score": 0.0},
-            "extended": {"total_tokens": 0, "matched_tokens": 0, "unmatched_tokens": 0},
-        }}}},
-        400: {"description": "Bad request (text missing, no tokens matched, etc.)", "model": ErrorBody},
-        401: {"description": "Missing or invalid Bearer token", "model": ErrorBody},
-        413: {"description": "Request body too large", "model": ErrorBody},
-        500: {"description": "Internal error (no stack trace)", "model": ErrorBody},
-        503: {"description": "Service not configured (HESPERIA_API_KEY unset)", "model": ErrorBody},
-        422: {"description": "Validation error (e.g. extra fields, invalid body)", "model": ErrorBody},
-    },
-)
+def _assets_curated() -> Path:
+    return _LEXICON_CURATED if _LEXICON_CURATED.is_dir() else _HESPERIA_ROOT / "lexicon" / "curated"
+
+
+@app.post("/hesperia/analyze", response_model=None, operation_id="hesperiaAnalyze")
 async def hesperia_analyze(
     body: AnalyzeBody,
-    request: Request,
+    _request: Request,
     _: None = Depends(verify_bearer),
 ) -> JSONResponse:
-    try:
-        from runtime.pipeline.analyze import analyze
+    from hesperia.system.capabilities import public_capability
 
-        minimal, extended = analyze(
-            body.text,
-            text_cap=DEFAULT_TEXT_CAP,
-            assets_root=_ASSETS_ROOT,
-            r1_r4=body.r1_r4,
-        )
-        return JSONResponse(content={"result": minimal, "extended": extended})
+    if not public_capability("analyze"):
+        return JSONResponse(status_code=403, content={"error": True, "message": "Capability disabled", "code": 403})
+    if not _rate_allow():
+        return JSONResponse(status_code=429, content={"error": True, "message": "Too many requests", "code": 429})
+    try:
+        from runtime.services.analysis_service import run_structural_analysis
+        from runtime.shipping.schema_guard import validate_against_public_schema
+
+        result = run_structural_analysis(body.text, assets_root=_assets_curated(), stages="full")
+        validate_against_public_schema(result)
+        return JSONResponse(content=result)
     except ValueError as e:
         msg = str(e)
         if "text_missing" in msg:
@@ -189,44 +209,135 @@ async def hesperia_analyze(
                 status_code=400,
                 content={"error": True, "message": "No tokens matched any dictionary", "code": 400},
             )
-        if "metric_nan_inf" in msg:
-            return JSONResponse(status_code=500, content={"error": True, "message": "Internal metric error", "code": 500})
+        if "public_schema_violation" in msg:
+            return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
         return JSONResponse(status_code=400, content={"error": True, "message": msg[:500], "code": 400})
     except Exception:
-        return JSONResponse(
-            status_code=500,
-            content={"error": True, "message": "Internal error", "code": 500},
-        )
+        return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
 
 
-@app.post(
-    "/analysis/triz",
-    response_model=None,
-    status_code=200,
-    summary="TRIZ analytics layer",
-    description="Contradictions, innovation clusters, narrative propagation. Requires Bearer.",
-)
-async def analysis_triz(
-    body: TrizBody,
+@app.post("/hesperia/compare", response_model=None, operation_id="hesperiaCompare")
+async def hesperia_compare(
+    body: CompareBody,
     _: None = Depends(verify_bearer),
 ) -> JSONResponse:
-    try:
-        from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.system.capabilities import public_capability
+    from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
+    from runtime.services.analysis_service import run_structural_analysis
+    from runtime.shipping.schema_guard import validate_against_public_schema
 
-        ag = active_graph_from_payload(body.active_graph)
-        content = run_triz_analysis_complete(
-            ag,
-            body.topology,
-            narrative_id=body.narrative_id,
-            run_id=body.run_id,
-            topology_mode=body.topology_mode,
+    if not public_capability("compare"):
+        return JSONResponse(status_code=403, content={"error": True, "message": "Capability disabled", "code": 403})
+    if not _rate_allow():
+        return JSONResponse(status_code=429, content={"error": True, "message": "Too many requests", "code": 429})
+    try:
+        assets = _assets_curated()
+        r1 = run_structural_analysis(body.text1, assets_root=assets, stages="full")
+        r2 = run_structural_analysis(body.text2, assets_root=assets, stages="full")
+        d1 = (r1.get("L7") or {}) if isinstance(r1, dict) else {}
+        d2 = (r2.get("L7") or {}) if isinstance(r2, dict) else {}
+        dom1 = (r1.get("usf") or {}).get("raw_metrics") or {} if isinstance(r1, dict) else {}
+        dom2 = (r2.get("usf") or {}).get("raw_metrics") or {} if isinstance(r2, dict) else {}
+
+        def _same_dominant(m1: dict, m2: dict) -> bool:
+            v1 = m1.get("macro_domain_vector") or m1.get("dominant_macro_domain")
+            v2 = m2.get("macro_domain_vector") or m2.get("dominant_macro_domain")
+            if isinstance(v1, list) and isinstance(v2, list):
+                i1 = max(range(len(v1)), key=lambda i: v1[i]) if v1 else -1
+                i2 = max(range(len(v2)), key=lambda i: v2[i]) if v2 else -1
+                return i1 == i2
+            return False
+
+        def _conf_delta(x: dict, y: dict) -> str:
+            c1 = x.get("TRUST_TIER") or x.get("OUTPUT_TRUST_TAG") or ""
+            c2 = y.get("TRUST_TIER") or y.get("OUTPUT_TRUST_TAG") or ""
+            return "same" if c1 == c2 else "different"
+
+        comparison = {
+            "run": "compare",
+            "text1_preview": body.text1[:80],
+            "text2_preview": body.text2[:80],
+            "result1_trust": d1.get("OUTPUT_TRUST_TAG"),
+            "result2_trust": d2.get("OUTPUT_TRUST_TAG"),
+            "dominant_match": _same_dominant(dom1, dom2),
+            "confidence_delta": _conf_delta(d1, d2),
+        }
+        wrapped = attach_public_output_metadata(
+            comparison,
+            calibration_profile=default_calibration_profile(),
+            pipeline_version=api_pipeline_version(),
         )
-        return JSONResponse(content=content)
+        validate_against_public_schema(wrapped)
+        return JSONResponse(content=wrapped)
     except Exception:
-        return JSONResponse(
-            status_code=500,
-            content={"error": True, "message": "Internal error", "code": 500},
+        return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
+
+
+@app.post("/hesperia/batch", response_model=None, operation_id="hesperiaBatch")
+async def hesperia_batch(
+    body: BatchBody,
+    _: None = Depends(verify_bearer),
+) -> JSONResponse:
+    from hesperia.system.capabilities import public_capability
+    from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
+    from runtime.services.analysis_service import run_structural_analysis_batch
+    from runtime.shipping.schema_guard import validate_against_public_schema
+
+    if not public_capability("batch"):
+        return JSONResponse(status_code=403, content={"error": True, "message": "Capability disabled", "code": 403})
+    if not _rate_allow():
+        return JSONResponse(status_code=429, content={"error": True, "message": "Too many requests", "code": 429})
+    try:
+        assets = _assets_curated()
+        results = run_structural_analysis_batch(body.texts, assets_root=assets)
+        wrapped = attach_public_output_metadata(
+            {},
+            calibration_profile=default_calibration_profile(),
+            pipeline_version=api_pipeline_version(),
         )
+        wrapped["payload"] = results
+        validate_against_public_schema(wrapped)
+        return JSONResponse(content=wrapped)
+    except Exception:
+        return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
+
+
+from hesperia.system.capabilities import expose_triz_api
+
+if expose_triz_api():
+
+    @app.post("/analysis/triz", response_model=None, summary="TRIZ (dev only when exposed)")
+    async def analysis_triz(
+        body: TrizBody,
+        _: None = Depends(verify_bearer),
+    ) -> JSONResponse:
+        try:
+            from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+            from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, triz_pipeline_version
+
+            ag = active_graph_from_payload(body.active_graph)
+            content = run_triz_analysis_complete(
+                ag,
+                body.topology,
+                narrative_id=body.narrative_id,
+                run_id=body.run_id,
+                topology_mode=body.topology_mode,
+            )
+            wrapped = attach_public_output_metadata(
+                content if isinstance(content, dict) else {"triz_payload": content},
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=triz_pipeline_version(),
+            )
+            return JSONResponse(content=wrapped)
+        except Exception:
+            return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
+
+    try:
+        from runtime.api.triz_mvp_v1 import router as triz_mvp_router
+
+        app.include_router(triz_mvp_router)
+    except Exception:
+        pass
 
 
 @app.exception_handler(PermissionError)
@@ -242,7 +353,6 @@ async def permission_handler(_request: Request, exc: PermissionError) -> JSONRes
 
 @app.exception_handler(RequestValidationError)
 async def validation_handler(_request: Request, exc: RequestValidationError) -> JSONResponse:
-    """Stable 422: single boring message. No user input, no Pydantic internals."""
     msg = "Invalid request body"
     for e in exc.errors() or []:
         if e.get("type") == "extra_forbidden" or "extra" in (e.get("msg") or "").lower():
@@ -252,15 +362,3 @@ async def validation_handler(_request: Request, exc: RequestValidationError) -> 
         status_code=422,
         content={"error": True, "message": msg, "code": 422},
     )
-
-
-# TRIZ MVP API v1 (schema-validated envelope)
-try:
-    from runtime.api.triz_mvp_v1 import router as triz_mvp_router
-
-    app.include_router(triz_mvp_router)
-except Exception:
-    pass
-
-# 413 from body size is handled by FastAPI when body > max_length (Pydantic); larger payloads may hit nginx first.
-# 401 from HTTPBearer (missing/invalid header) is automatic; we override only for wrong key via PermissionError.

@@ -12,7 +12,7 @@ if str(_REPO) not in sys.path:
 
 
 def test_segmentation_works() -> None:
-    from hesperia.clinical.session_topology import segment_session
+    from research.clinical_tfp.session_topology import segment_session
 
     # empty
     assert segment_session("") == []
@@ -40,7 +40,7 @@ def test_segmentation_works() -> None:
 
 
 def test_segment_analysis_returns_results() -> None:
-    from hesperia.clinical.session_topology import analyze_session_segments
+    from research.clinical_tfp.session_topology import analyze_session_segments
 
     text = "Пациент сначала говорит спокойно. Затем обвиняет терапевта."
     results = analyze_session_segments(text, window_size=20)
@@ -56,7 +56,7 @@ def test_segment_analysis_returns_results() -> None:
 
 
 def test_transitions_detected_correctly() -> None:
-    from hesperia.clinical.session_topology import detect_state_transitions
+    from research.clinical_tfp.session_topology import detect_state_transitions
 
     # no transition
     segs = [{"areas": {"A2": 0.5}}, {"areas": {"A2": 0.6}}]
@@ -82,7 +82,7 @@ def test_transitions_detected_correctly() -> None:
 
 
 def test_aggression_curve_produced() -> None:
-    from hesperia.clinical.session_topology import detect_aggression_escalation
+    from research.clinical_tfp.session_topology import detect_aggression_escalation
 
     segs = [
         {"areas": {"A4": 0.10}},
@@ -99,7 +99,7 @@ def test_aggression_curve_produced() -> None:
 
 
 def test_build_session_state_sequence() -> None:
-    from hesperia.clinical.session_topology import build_session_state_sequence
+    from research.clinical_tfp.session_topology import build_session_state_sequence
 
     segs = [
         {"areas": {"A2": 0.9}},
@@ -113,7 +113,7 @@ def test_build_session_state_sequence() -> None:
 
 
 def test_detect_defense_shifts() -> None:
-    from hesperia.clinical.session_topology import detect_defense_shifts
+    from research.clinical_tfp.session_topology import detect_defense_shifts
 
     segs = [
         {"families": {"A3_F1": 0.9}},
@@ -128,7 +128,7 @@ def test_detect_defense_shifts() -> None:
 
 
 def test_run_session_topology_output_structure() -> None:
-    from hesperia.clinical.session_topology import run_session_topology
+    from research.clinical_tfp.session_topology import run_session_topology
 
     text = (
         "Пациент сначала говорит спокойно, затем начинает обвинять терапевта, "

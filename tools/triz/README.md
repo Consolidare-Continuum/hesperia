@@ -11,7 +11,7 @@ python3 tools/triz/run_narrative_monitor.py --corpus benchmarks/triz/corpus_narr
 Demo pack generation:
 
 ```bash
-python3 demo/triz/make_demo_reports.py
+python3 examples/triz_demo/triz/make_demo_reports.py
 ```
 
 SKUs: `HSP-TRIZ-P1` (policy), `HSP-TRIZ-I1` (innovation), `HSP-TRIZ-N1` (narrative).

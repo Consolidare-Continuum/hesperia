@@ -29,7 +29,7 @@ def test_build_turns_and_interaction_pairs() -> None:
 
 def test_classify_intervention() -> None:
     """Intervention classifier returns clarification, confrontation, interpretation, limit_setting, support."""
-    from hesperia.clinical.intervention_classifier import classify_intervention, classify_intervention_with_scores
+    from research.clinical_tfp.intervention_classifier import classify_intervention, classify_intervention_with_scores
 
     assert classify_intervention("Что вы чувствуете?") == "clarification"
     assert classify_intervention("I notice a contradiction.") == "confrontation"
@@ -43,7 +43,7 @@ def test_classify_intervention() -> None:
 
 def test_estimate_affect_intensity() -> None:
     """Affect intensity in [0..1] from lexical and exclamation."""
-    from hesperia.clinical.affect_intensity import estimate_affect_intensity, estimate_affect_intensity_with_breakdown
+    from research.clinical_tfp.affect_intensity import estimate_affect_intensity, estimate_affect_intensity_with_breakdown
 
     assert 0 <= estimate_affect_intensity("я злюсь") <= 1
     assert estimate_affect_intensity("я в бешенстве") >= 0.5
@@ -54,7 +54,7 @@ def test_estimate_affect_intensity() -> None:
 
 def test_track_object_representations() -> None:
     """Object representation tracking returns therapist/self/third."""
-    from hesperia.clinical.object_representation_tracking import track_object_representations
+    from research.clinical_tfp.object_representation_tracking import track_object_representations
 
     activation = {
         "families": {"A2_F1": 0.3, "A2_F3": 0.5},
@@ -71,7 +71,7 @@ def test_track_object_representations() -> None:
 
 def test_detect_interaction_loops() -> None:
     """Interaction loop detection finds accusation → escalation."""
-    from hesperia.clinical.interaction_loop_detection import detect_interaction_loops
+    from research.clinical_tfp.interaction_loop_detection import detect_interaction_loops
 
     timeline = [
         {"areas": {"A4": 0.5}, "families": {"A2_F3": 0.4}},
@@ -83,7 +83,7 @@ def test_detect_interaction_loops() -> None:
 
 def test_couple_affect_defense() -> None:
     """Affect-defense coupling returns affect, expected_defense, coupling_strength."""
-    from hesperia.clinical.affect_defense_coupling import couple_affect_defense, infer_affect_from_areas
+    from research.clinical_tfp.affect_defense_coupling import couple_affect_defense, infer_affect_from_areas
 
     activation = {"areas": {"A4": 0.6}, "families": {"A3_F1": 0.4}}
     out = couple_affect_defense(activation)
@@ -93,7 +93,7 @@ def test_couple_affect_defense() -> None:
 
 def test_build_session_summary() -> None:
     """Session summary contains dominant affects, defenses, object relations, transference."""
-    from hesperia.clinical.session_summary import build_session_summary
+    from research.clinical_tfp.session_summary import build_session_summary
 
     activation = {
         "areas": {"A2": 0.4, "A3": 0.3, "A4": 0.2},

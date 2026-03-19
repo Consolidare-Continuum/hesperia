@@ -18,7 +18,7 @@ def _session(session_id: str, areas: dict, families: dict | None = None):
 
 
 def test_two_sessions_compared() -> None:
-    from hesperia.clinical.longitudinal import compare_session_activations
+    from research.clinical_tfp.longitudinal import compare_session_activations
 
     a = _session("S01", {"A2": 0.5, "A3": 0.8, "A4": 0.9})
     b = _session("S02", {"A2": 0.6, "A3": 0.5, "A4": 0.4})
@@ -32,7 +32,7 @@ def test_two_sessions_compared() -> None:
 
 
 def test_longitudinal_curves_built_correctly() -> None:
-    from hesperia.clinical.longitudinal import build_longitudinal_curves
+    from research.clinical_tfp.longitudinal import build_longitudinal_curves
 
     sessions = [
         _session("S01", {"A2": 0.2, "A3": 0.92, "A4": 0.81, "A7": 0.10}),
@@ -53,7 +53,7 @@ def test_longitudinal_curves_built_correctly() -> None:
 
 
 def test_aggression_trend_detected_correctly() -> None:
-    from hesperia.clinical.longitudinal import detect_aggression_trend
+    from research.clinical_tfp.longitudinal import detect_aggression_trend
 
     sessions = [
         _session("S01", {"A4": 0.84}),
@@ -75,7 +75,7 @@ def test_aggression_trend_detected_correctly() -> None:
 
 
 def test_relational_capacity_trend_detected_correctly() -> None:
-    from hesperia.clinical.longitudinal import detect_relational_capacity_trend
+    from research.clinical_tfp.longitudinal import detect_relational_capacity_trend
 
     sessions = [
         _session("S01", {"A7": 0.12}),
@@ -91,7 +91,7 @@ def test_relational_capacity_trend_detected_correctly() -> None:
 
 
 def test_structural_change_summary_produced() -> None:
-    from hesperia.clinical.longitudinal import analyze_treatment_trajectory
+    from research.clinical_tfp.longitudinal import analyze_treatment_trajectory
 
     # Example from spec: S01–S04 with A3 down, A4 down, A7 up → moderate_positive
     sessions = [
@@ -115,7 +115,7 @@ def test_structural_change_summary_produced() -> None:
 
 
 def test_export_trajectory_json() -> None:
-    from hesperia.clinical.longitudinal import analyze_treatment_trajectory, export_trajectory_json
+    from research.clinical_tfp.longitudinal import analyze_treatment_trajectory, export_trajectory_json
 
     sessions = [
         _session("S01", {"A3": 0.8, "A4": 0.7, "A7": 0.2}),
@@ -129,7 +129,7 @@ def test_export_trajectory_json() -> None:
 
 
 def test_export_trajectory_markdown() -> None:
-    from hesperia.clinical.longitudinal import analyze_treatment_trajectory, export_trajectory_markdown
+    from research.clinical_tfp.longitudinal import analyze_treatment_trajectory, export_trajectory_markdown
 
     sessions = [_session("S01", {"A4": 0.5})]
     result = analyze_treatment_trajectory(sessions)

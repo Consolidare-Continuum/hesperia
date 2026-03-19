@@ -27,19 +27,45 @@ def _is_internal_mode(mode: str) -> bool:
     return mode in ("internal_debug", "internal_review")
 
 
+def _has_full_public_envelope(d: dict[str, Any]) -> bool:
+    return bool(
+        d.get("system_version")
+        and d.get("build_id")
+        and d.get("schema_version") is not None
+        and d.get("calibration_profile") is not None
+    )
+
+
 def write_public_json(path: Path | str, data: dict[str, Any] | list[Any], *, indent: int = 2) -> None:
     """
     Write JSON that will be visible to operators/API. Applies public projection before write.
-    Allowed in any mode. Use for reports, dossiers, e2e outputs, audit manifest.
+    Injects canonical version envelope (VERSION.yaml) when not already present.
+    List roots are wrapped as {"payload": [...], ...envelope} for schema-safe tracing.
     """
-    from core.projection.public_projection_layer import sanitize_public_trace
+    from hesperia.engine.projection import project_to_public, sanitize_public_trace
+    from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, structural_pipeline_version
+
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     if isinstance(data, dict):
-        from core.projection import apply_public_projection
-        data = apply_public_projection(data)
+        data = project_to_public(data, validate_schema=True)
+        if not _has_full_public_envelope(data):
+            data = attach_public_output_metadata(
+                data,
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=structural_pipeline_version(),
+            )
     else:
         data = sanitize_public_trace(data)
+        base = attach_public_output_metadata(
+            {},
+            calibration_profile=default_calibration_profile(),
+            pipeline_version=structural_pipeline_version(),
+        )
+        data = {**base, "payload": data}
+    from runtime.shipping.schema_guard import validate_against_public_schema
+
+    validate_against_public_schema(data)
     path.write_text(json.dumps(data, indent=indent, ensure_ascii=False, sort_keys=True), encoding="utf-8")
 
 

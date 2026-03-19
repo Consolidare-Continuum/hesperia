@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.4.x Layer-8 units (41_SPEC). SI_* report units from L1..L7.
+Engine 0.5.0 — Layer-8 (41_SPEC); SI_* report units from L1..L7. “v0.4.x” = legacy SPEC-era label only.
 Single taxonomy: COUNT, RATIO, PERCENT, U1000, BOOLEAN. All 9 layers flow to i18n via L8→L9.
 """
 from __future__ import annotations

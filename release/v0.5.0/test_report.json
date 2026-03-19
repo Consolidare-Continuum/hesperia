@@ -1,0 +1,19 @@
+{
+  "command": [
+    "/usr/bin/python3",
+    "-m",
+    "pytest",
+    "tests/engine/test_projection_product_surface.py",
+    "tests/test_sealed_runtime_regression.py",
+    "tests/test_release_v0_5_0_audit_package.py",
+    "-q",
+    "--tb=no"
+  ],
+  "exit_code": 0,
+  "summary_line": "",
+  "started_utc": "2026-03-19T08:27:03.195523+00:00",
+  "ended_utc": "2026-03-19T08:27:05.420611+00:00",
+  "stdout_tail": "..................s                                                      [100%]\n",
+  "quick_subset": true,
+  "spec_compliance_reference": "audit_report.json \u2192 spec_compliance.tier1_specs"
+}

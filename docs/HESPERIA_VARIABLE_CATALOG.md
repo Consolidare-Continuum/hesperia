@@ -202,7 +202,7 @@ Also: `innovation_pressure`, `propagation_velocity`, `narrative_stability`, `sem
 
 ### Dynamics layer (Phase 1 wired behind flag)
 
-Discrete-time semantic field: **Concept → Hex → Family → Area**. **H0–H9** compact wire (Part A) plus **Part B extended** IDs (hex resolution, gradients, cluster gravity) including **hex activation** \(x_h\), **hex contradiction pressure** \(p_h\), hex diffusion on \(H_{hk}\), family from hex aggregate \(\hat{X}_f\), gradients/fronts/turbulence, **hex cluster gravity**. Implement on **active hex subgraph** first (Phase C), not full 72k cells. See [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md).
+Discrete-time semantic field: **Concept → Hex → Family → Area**. **H0–H9** compact wire (Part A) plus **Part B extended** IDs (hex resolution, gradients, cluster gravity) including **hex activation** \(x_h\), **hex contradiction pressure** \(p_h\), hex diffusion on \(H_{hk}\), family from hex aggregate \(\hat{X}_f\), gradients/fronts/turbulence, **hex cluster gravity**. Implement on **active hex subgraph** first (Phase C), not full 72k cells. See [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md).
 
 **Phase 1 runtime (opt-in):**
 
@@ -218,7 +218,7 @@ Discrete-time semantic field: **Concept → Hex → Family → Area**. **H0–H9
 | `HESPERIA_FIELD_DYNAMICS_XI` | `1` (default): **Ξ proxy** — boost `c_sig` from TRIZ row topology (`xi_proxy_global` in artifact meta); `0` disables |
 | `HESPERIA_FIELD_DYNAMICS_XI_SCALE` | Max boost scale per area (default **0.14**, clamped [0, 0.5]); registry **xi_scale** |
 | `HESPERIA_FIELD_DYNAMICS_STATE_PATH` | Optional override for `field_dynamics_state.json` |
-| `HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1` | When `1`/`true`, E2E field-dynamics artifact includes **SEMANTIC_FIELD_EQUATIONS_v1** bundle (`semantic_field_v1` JSON). See [specs/SEMANTIC_FIELD_EQUATIONS_v1.md](specs/SEMANTIC_FIELD_EQUATIONS_v1.md). |
+| `HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1` | When `1`/`true`, E2E field-dynamics artifact includes **SEMANTIC_FIELD_EQUATIONS_v1** bundle (`semantic_field_v1` JSON). Binding spec: [specs/dynamics/semantic_field_dynamics.md](../specs/dynamics/semantic_field_dynamics.md). |
 | `HESPERIA_SEMANTIC_FIELD_V1_STEPS` | Optional multi-step count for the v1 semantic field integrator in E2E (default `1`). |
 | `area_a` (state) | 12-vector L6 area mass (internal icosahedron indices) |
 | `p_a` | 12-vector area contradiction pressure |

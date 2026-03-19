@@ -30,7 +30,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 
 | Date | Note |
 |------|------|
-| 2026-03-18 | **Phase 1 core:** `hesperia.engine.field_dynamics` — `FieldDynamicsState`, `Phase1Theta`, `step_phase1()` (L6+L7+L9 + L2 stub). Icosahedral diffusion via `sphere.topology`. Tests: `tests/test_field_dynamics_phase1.py`. Opt-in: `HESPERIA_FIELD_DYNAMICS=1` (helper `field_dynamics_enabled()`). |
+| 2026-03-18 | **Phase 1 core:** `hesperia.extensions.dynamics` — `FieldDynamicsState`, `Phase1Theta`, `step_phase1()` (L6+L7+L9 + L2 stub). Icosahedral diffusion via `sphere.topology`. Tests: `tests/test_field_dynamics_phase1.py`. Opt-in: `HESPERIA_FIELD_DYNAMICS=1` (helper `field_dynamics_enabled()`). |
 | 2026-03-18 | **E2E wire:** With flag set, `run_e2e_all` writes `run_output_e2e_field_dynamics.json` + persists `field_dynamics_state.json` in out-dir. See `docs/E2E_RUN_ORDER.md` step 10. |
 | 2026-03-18 | **Gena:** TRIZ → `contradiction_signal_12`; registry + VARIABLE_CATALOG. |
 | 2026-03-18 | **Ethan proceed:** **Phase 2** — `step_phase2`, `Phase2Theta`, `f_f`/`p_family` (288), L6 blend; **`HESPERIA_FIELD_DYNAMICS_PHASE2=1`**. |
@@ -47,7 +47,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 
 | Source | Accepted as delivered |
 |--------|------------------------|
-| **Ethan / implementation** | A.6 **Phases 1–4** in `hesperia.engine.field_dynamics`; E2E optional artifact; state persistence; **Ξ proxy** (TRIZ-row tension → boosted L7 drive); [REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md](REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md); [ETHAN-OPEN-WORKFLOW-PROCEED.md](ETHAN-OPEN-WORKFLOW-PROCEED.md); [DYNAMICS_EQUATION_INDEX.md](../DYNAMICS_EQUATION_INDEX.md) updated. |
+| **Ethan / implementation** | A.6 **Phases 1–4** in `hesperia.extensions.dynamics`; E2E optional artifact; state persistence; **Ξ proxy** (TRIZ-row tension → boosted L7 drive); [REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md](REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md); [ETHAN-OPEN-WORKFLOW-PROCEED.md](ETHAN-OPEN-WORKFLOW-PROCEED.md); [DYNAMICS_EQUATION_INDEX.md](../DYNAMICS_EQUATION_INDEX.md) updated. |
 | **Gena** | TRIZ → `contradiction_signal_12` + `fetch_triz_contradiction_rows`; wiring in `e2e_bridge`; **VARIABLE_CATALOG** + calibration registry (incl. **xi_scale**); [GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](GENA-DYNAMICS-INTEGRATION-ANALYSIS.md); [GENA-OPEN-WORKFLOW-PROCEED.md](GENA-OPEN-WORKFLOW-PROCEED.md). |
 
 **Grace notes:** Hard rules (topology cap, determinism, flag-gated E2E) respected. **Explicit non-goals for this tranche:** full-graph Ξ from KME; full 72k hex; L10 production API projection — remain **next program items**, not blockers on receipt.
@@ -62,7 +62,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 |---|-------------|-------|
 | 0.1 | Read **Ethan v3** Part A + Part B §9–§13 | All |
 | 0.2 | **[DYNAMICS_EQUATION_INDEX.md](../DYNAMICS_EQUATION_INDEX.md)** — maintained alongside code (update if equations move) | Ethan + impl lead |
-| 0.3 | Module home agreed: e.g. `hesperia/engine/field_dynamics/` (or `core/` subpackage) — **new**, no legacy edits | Grace + impl |
+| 0.3 | Module home agreed: e.g. `hesperia/extensions/dynamics/` (or `core/` subpackage) — **new**, no legacy edits | Grace + impl |
 | 0.4 | Stub **registry** path documented; expand from [dynamics_parameter_registry.example.yaml](../calibration/dynamics_parameter_registry.example.yaml) as phases land | Calibration steward |
 
 ---
@@ -119,7 +119,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 |--------|------|
 | **L10 schema** | Time-aware JSON fields: `state_t`, `delta_t`, windows (Ethan §A.3 L10) |
 | **L3** | Feed \(\Xi\) / graph tension into L7/L9 where Phase 1 already uses **H8**-style scalars |
-| **TRIZ** | L7 resolution term \(R_a\) — real TRIZ signals from `hesperia/engine/triz` when Phase 1–2 touch contradiction |
+| **TRIZ** | L7 resolution term \(R_a\) — real TRIZ signals from `hesperia/extensions/triz` when Phase 1–2 touch contradiction |
 | **Docs** | Update [HESPERIA_VARIABLE_CATALOG.md](../../HESPERIA_VARIABLE_CATALOG.md), [E2E_RUN_ORDER.md](../../E2E_RUN_ORDER.md) when dynamics artifact ships |
 
 ---

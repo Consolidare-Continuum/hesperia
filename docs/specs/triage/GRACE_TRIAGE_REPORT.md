@@ -28,11 +28,11 @@ Grace — spec triage workflow complete.
 | 11 | HESPERIA_PRODUCT_LINES.md | **OK** | P2 | Complements COMMERCIAL_TRIZ; intentional overlap |
 | 12 | HESPERIA_PRODUCT_STACK_MAP.md | **OK** | P2 | Static stack + future dynamics — fingerprint present; L0–L10 noted |
 | 13 | COMMERCIAL_TRIZ_PRODUCTS.md | **OK** | P2 | API-oriented; product lines are market-oriented |
-| 14 | E2E_RUN_ORDER.md | **OK** | P0 | Matches `run_e2e_all` **9** outputs (verified vs `E2E_OUTPUTS`) |
+| 14 | E2E_RUN_ORDER.md | **OK** | P0 | Matches `run_e2e_all` **19** baseline JSON (+ optional field dynamics; `E2E_OUTPUTS`) |
 | 15 | TOPOLOGY_INVARIANTS.md | **OK** | P0 | No dynamics spec contradicts 12/288/72k; Ethan uses same |
 | 16 | AGENTS.md | **needs edit** | P2 | Awareness + dynamics + calibration + **Grace triage** in one block — **split** into bullet list or “See docs/specs/README.md” hub |
 | 17 | specs/README.md | **needs edit** | P1 | **[DOC_INDEX.md](../DOC_INDEX.md) link broken** — file absent at `docs/DOC_INDEX.md` |
-| 18 | README.md (root) | **OK** | P2 | Many links; still readable — consider “Docs hub” subsection if it grows |
+| 18 | README.md (root) | **OK** | P2 | v0.5 + CHANGELOG + 19-artifact E2E; docs hub via HESPERIA_v0_5 |
 
 **Legend:** OK = no mandatory change this pass · needs edit = small fix recommended · merge candidate = add crosswalk, don’t delete.
 
@@ -42,9 +42,9 @@ Grace — spec triage workflow complete.
 
 | Conflict | Decision |
 |----------|----------|
-| **H0–H9 vs extended H1–H9** | **Add** `docs/specs/DYNAMICS_EQUATION_INDEX.md` (single table: compact ID, extended ID, name, section) **or** expand ETHAN §A.4 + §13 into one printable matrix. Prefer **separate index file** ≤80 lines to keep ETHAN readable. |
+| **H0–H9 vs extended H1–H9** | **Add** `specs/dynamics/DYNAMICS_EQUATION_INDEX.md` (single table: compact ID, extended ID, name, section) **or** expand ETHAN §A.4 + §13 into one printable matrix. Prefer **separate index file** ≤80 lines to keep ETHAN readable. |
 | **Dependency layers vs L0–L10** | **Two views:** Dependency graph = **testing / change-impact** (what breaks if you edit X). L0–L10 = **temporal dynamics pipeline**. Add **crosswalk table** in DEPENDENCY_GRAPH appendix **or** one row in new equation index doc. |
-| **Calibration registry path** | **Canonical when implemented:** `assets/calibration/dynamics_parameter_registry.yaml` (runtime-adjacent). **Authoring / review:** copy or symlink note from `docs/specs/calibration/` — document in calibration spec §9. |
+| **Calibration registry path** | **Canonical when implemented:** `assets/calibration/dynamics_parameter_registry.yaml` (runtime-adjacent). **Authoring / review:** copy or symlink note from `specs/calibration/` — document in calibration spec §9. |
 | **24 families per area** | **Not asserted** in committed Ethan/calibration specs as fixed constant; VARIABLE_CATALOG uses TOPOLOGY language. **Rule:** any future draft mentioning “24 per area” must say **~24 mean / 240÷10 operational**. |
 
 ---
@@ -63,7 +63,7 @@ Grace — spec triage workflow complete.
 
 | Artifact | Purpose |
 |----------|---------|
-| **docs/specs/DYNAMICS_EQUATION_INDEX.md** | Single glossary: H0–H9 ↔ extended IDs ↔ layer (L2/L4/L5…) |
+| **specs/dynamics/DYNAMICS_EQUATION_INDEX.md** | Single glossary: H0–H9 ↔ extended IDs ↔ layer (L2/L4/L5…) |
 | **docs/specs/DYNAMICS_L_LAYER_CROSSWALK.md** *(optional merge into DEPENDENCY_GRAPH)* | L0–L10 ↔ dependency layers 0–11 |
 | **assets/calibration/dynamics_parameter_registry.yaml** *(when seeded)* | Authoritative Class B registry; keep example in specs/calibration as mirror |
 

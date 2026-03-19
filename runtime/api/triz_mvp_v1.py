@@ -28,7 +28,7 @@ async def triz_analyze_v1(
     credentials: HTTPAuthorizationCredentials | None = Security(HTTP_BEARER),
 ) -> JSONResponse:
     verify_bearer(credentials)
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
     from hesperia.product.api_contracts.triz_analysis_v1 import TrizAnalyzeRequestV1, wrap_triz_analyze_response
 
     req = TrizAnalyzeRequestV1.model_validate(body)
@@ -113,7 +113,7 @@ async def triz_signals_core(
 ) -> JSONResponse:
     """Core commercial signals (policy tension, coherence drivers, innovation, narrative, system)."""
     verify_bearer(credentials)
-    from hesperia.engine.triz.commercial_intelligence import extract_core_commercial_signals
+    from hesperia.extensions.triz.commercial_intelligence import extract_core_commercial_signals
 
     triz = body.get("triz") if isinstance(body.get("triz"), dict) else body
     if not isinstance(triz, dict):

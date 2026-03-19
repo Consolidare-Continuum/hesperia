@@ -11,8 +11,8 @@ from hesperia.engine.kme.models import (
     RelationCandidate,
 )
 from hesperia.engine.kme.pipeline import metric_report_to_dict, run_document
-from hesperia.engine.triz.report_extractors import extract_triz_summary
-from hesperia.engine.triz.topology_metrics import get_area_adjacency
+from hesperia.extensions.triz.report_extractors import extract_triz_summary
+from hesperia.extensions.triz.topology_metrics import get_area_adjacency
 
 
 def _domain() -> DomainGraph:

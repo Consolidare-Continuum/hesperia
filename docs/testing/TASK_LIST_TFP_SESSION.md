@@ -23,7 +23,7 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 
 ## 4. Transference detection layer
 
-- **Module:** `hesperia/clinical/transference_detection.py`
+- **Module:** `research/clinical_tfp/transference_detection.py`
 - `detect_transference()`, `transference_summary()` — positive/negative transference, projective identification, idealization, devaluation, persecutory object.
 - **Tests:** in `test_role_direction_and_temporal.py`
 
@@ -35,7 +35,7 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 
 ## 6. TFP stage detection
 
-- **Module:** `hesperia/clinical/stage_detection.py`
+- **Module:** `research/clinical_tfp/stage_detection.py`
 - `detect_tfp_stage()`, `stage_from_timeline()` — chaotic, defense_clarification, interpretation, integration.
 - **Tests:** in `test_role_direction_and_temporal.py`
 
@@ -47,37 +47,37 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 
 ## 8. Therapist intervention classification
 
-- **Module:** `hesperia/clinical/intervention_classifier.py`
+- **Module:** `research/clinical_tfp/intervention_classifier.py`
 - `classify_intervention()` — clarification, confrontation, interpretation, limit_setting, support (Area 9).
 - **Tests:** in `test_operational_analytics.py`
 
 ## 9. Affect intensity estimation
 
-- **Module:** `hesperia/clinical/affect_intensity.py`
+- **Module:** `research/clinical_tfp/affect_intensity.py`
 - `estimate_affect_intensity(text, tokens)` → [0..1]; lexical + exclamation.
 - **Tests:** in `test_operational_analytics.py`
 
 ## 10. Object representation tracking
 
-- **Module:** `hesperia/clinical/object_representation_tracking.py`
+- **Module:** `research/clinical_tfp/object_representation_tracking.py`
 - `track_object_representations()` — therapist_representation, self_representation, third_objects (A2).
 - **Tests:** in `test_operational_analytics.py`
 
 ## 11. Interaction loop detection
 
-- **Module:** `hesperia/clinical/interaction_loop_detection.py`
+- **Module:** `research/clinical_tfp/interaction_loop_detection.py`
 - `detect_interaction_loops(timeline, therapist_utterances)` — accusation → escalation, projective_identification_signal.
 - **Tests:** in `test_operational_analytics.py`
 
 ## 12. Affect–defense coupling
 
-- **Module:** `hesperia/clinical/affect_defense_coupling.py`
+- **Module:** `research/clinical_tfp/affect_defense_coupling.py`
 - `couple_affect_defense()`, `infer_affect_from_areas()` — anger→splitting, shame→projection, etc. (A1, A3, A4).
 - **Tests:** in `test_operational_analytics.py`
 
 ## 13. Session summary generator
 
-- **Module:** `hesperia/clinical/session_summary.py`
+- **Module:** `research/clinical_tfp/session_summary.py`
 - `build_session_summary()`, `build_session_summary_with_timeline()` — dominant affects, defenses, object relations, transference indicators.
 - **Tests:** in `test_operational_analytics.py`
 
@@ -101,12 +101,12 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 
 ## 17. Activation calibration + config + stopwords
 
-- **Modules:** `hesperia/engine/calibration/activation_calibration.py`, `spec/activation_calibration.yaml`, `hesperia/ontology/dictA/dictA_stopwords.yaml`, `load_stopwords()`.
+- **Modules:** `hesperia/engine/calibration/activation_calibration.py`, `specs/canon/activation_calibration.yaml`, `hesperia/ontology/dictA/dictA_stopwords.yaml`, `load_stopwords()`.
 - **Tests:** smoke in session; calibration tests in `test_governance_explainability_benchmark.py`.
 
 ## 18. Session segmentation + confidence + clinical report
 
-- **Modules:** `hesperia/nlp/session_segmentation.py`, `hesperia/clinical/confidence_scoring.py`, `generate_clinical_report_readable()` in report_generator.
+- **Modules:** `hesperia/nlp/session_segmentation.py`, `research/clinical_tfp/confidence_scoring.py`, `generate_clinical_report_readable()` in report_generator.
 - **Tests:** in `test_text_norm_negation_ngram.py` and operational/benchmark tests.
 
 ## 19. Ontology governance + explainability + logging + corpus + experiments + graph + benchmark + safety
@@ -119,7 +119,7 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 - **Graph:** `hesperia/graph/graph_store.py` (JSON, GraphML).
 - **Config:** `hesperia/config/clinical_config.yaml`, `config_loader.py`.
 - **Benchmark:** `tests/clinical/benchmark_sessions.yaml`.
-- **Safety:** `hesperia/clinical/safety_layer.py` (minimum evidence threshold).
+- **Safety:** `research/clinical_tfp/safety_layer.py` (minimum evidence threshold).
 - **Tests:** `tests/clinical/test_governance_explainability_benchmark.py`.
 
 ## 20. Validation corpus and TFP testing docs

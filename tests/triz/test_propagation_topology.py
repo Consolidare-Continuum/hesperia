@@ -6,12 +6,12 @@ import json
 from pathlib import Path
 
 from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
-from hesperia.engine.triz.contradiction_engine import detect_contradictions
-from hesperia.engine.triz.propagation_engine import (
+from hesperia.extensions.triz.contradiction_engine import detect_contradictions
+from hesperia.extensions.triz.propagation_engine import (
     META_AREAS,
     propagate_topology_mode,
 )
-from hesperia.engine.triz.topology_metrics import get_area_neighbors
+from hesperia.extensions.triz.topology_metrics import get_area_neighbors
 
 
 def test_meta_areas_no_lexical_base() -> None:
@@ -27,7 +27,7 @@ def test_meta_areas_no_lexical_base() -> None:
 
 
 def test_propagate_area_activation_step_clamped() -> None:
-    from hesperia.engine.triz.propagation_engine import propagate_area_activation
+    from hesperia.extensions.triz.propagation_engine import propagate_area_activation
 
     neighbors = get_area_neighbors()
     base = [0.2] * 12
@@ -42,7 +42,7 @@ def test_propagate_area_activation_step_clamped() -> None:
 def test_topology_mode_fixture_coherent() -> None:
     fix = Path(__file__).resolve().parent / "fixtures" / "coherent.json"
     d = json.loads(fix.read_text(encoding="utf-8"))
-    from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+    from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 
     ag = active_graph_from_payload(d["active_graph"])
     out = run_triz_analysis_complete(ag, d["topology"], topology_mode=True)

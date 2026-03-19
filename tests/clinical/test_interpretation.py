@@ -12,7 +12,7 @@ if str(_REPO) not in sys.path:
 
 
 def test_dominant_area_detected() -> None:
-    from hesperia.clinical.interpretation import get_dominant_area, interpret_session
+    from research.clinical_tfp.interpretation import get_dominant_area, interpret_session
     assert get_dominant_area({}) == ""
     assert get_dominant_area({"A2": 0.3, "A3": 0.8, "A4": 0.5}) == "A3"
     act = {"areas": {"A3": 0.67, "A2": 0.54}, "families": {}, "concepts": {}}
@@ -21,7 +21,7 @@ def test_dominant_area_detected() -> None:
 
 
 def test_aggression_level_classification() -> None:
-    from hesperia.clinical.interpretation import classify_aggression_level
+    from research.clinical_tfp.interpretation import classify_aggression_level
     assert classify_aggression_level({"A4": 0.1}) == "low"
     assert classify_aggression_level({"A4": 0.25}) == "moderate"
     assert classify_aggression_level({"A4": 0.5}) == "moderate"
@@ -31,7 +31,7 @@ def test_aggression_level_classification() -> None:
 
 
 def test_defense_pattern_mapping() -> None:
-    from hesperia.clinical.interpretation import detect_defense_pattern, DEFENSE_MAP
+    from research.clinical_tfp.interpretation import detect_defense_pattern, DEFENSE_MAP
     assert detect_defense_pattern({}) == ""
     assert detect_defense_pattern({"A2_F1": 0.5}) == ""  # no A3
     assert detect_defense_pattern({"A3_F1": 0.9}) == "splitting"
@@ -40,7 +40,7 @@ def test_defense_pattern_mapping() -> None:
 
 
 def test_object_relation_pattern_mapping() -> None:
-    from hesperia.clinical.interpretation import detect_object_relation_pattern
+    from research.clinical_tfp.interpretation import detect_object_relation_pattern
     assert detect_object_relation_pattern({}) == ""
     assert detect_object_relation_pattern({"A3_F1": 0.5}) == ""  # no A2
     assert detect_object_relation_pattern({"A2_F3": 0.9}) == "persecutory_object"
@@ -48,7 +48,7 @@ def test_object_relation_pattern_mapping() -> None:
 
 
 def test_relational_capacity_classification() -> None:
-    from hesperia.clinical.interpretation import estimate_relational_capacity
+    from research.clinical_tfp.interpretation import estimate_relational_capacity
     assert estimate_relational_capacity({}) == "low"
     assert estimate_relational_capacity({"A7": 0.2}) == "low"
     assert estimate_relational_capacity({"A7": 0.3}) == "moderate"
@@ -58,7 +58,7 @@ def test_relational_capacity_classification() -> None:
 
 
 def test_interpret_session_full() -> None:
-    from hesperia.clinical.interpretation import interpret_session
+    from research.clinical_tfp.interpretation import interpret_session
     act = {
         "areas": {"A3": 0.9, "A4": 0.7, "A2": 0.2},
         "families": {"A3_F1": 0.9, "A3_F2": 0.3, "A4_F1": 0.5},
@@ -77,7 +77,7 @@ def test_interpret_session_full() -> None:
 def test_interpretation_example_splitting_aggression() -> None:
     """Example: text about blaming therapist, good then bad, strong anger → A3 splitting, high aggression."""
     from hesperia.nlp import analyze_session
-    from hesperia.clinical.interpretation import interpret_session
+    from research.clinical_tfp.interpretation import interpret_session
     text = (
         "Пациент обвиняет терапевта, говорит что тот сначала был хорошим, "
         "а теперь плохим, и выражает сильную злость."

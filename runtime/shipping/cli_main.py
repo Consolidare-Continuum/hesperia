@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
-Sealed CLI entry point. Commands: analyze, compare, batch-analyze.
+Sealed CLI entry point. Commands: analyze, compare, batch (alias batch-analyze).
 Uses only runtime.services (analysis_service); no internal layers or topology.
 """
 
@@ -68,12 +68,19 @@ def _cmd_compare(args: object) -> int:
         "dominant_match": _same_dominant(dom1, dom2),
         "confidence_delta": _confidence_delta(d1, d2),
     }
+    from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
     from runtime.shipping.schema_guard import validate_against_public_schema
-    validate_against_public_schema(comparison)
-    out = json.dumps(comparison, indent=2, ensure_ascii=False, sort_keys=True)
+
+    wrapped = attach_public_output_metadata(
+        comparison,
+        calibration_profile=default_calibration_profile(),
+        pipeline_version=api_pipeline_version(),
+    )
+    validate_against_public_schema(wrapped)
+    out = json.dumps(wrapped, indent=2, ensure_ascii=False, sort_keys=True)
     if out_path:
         from runtime.artifact_writer import write_public_json
-        write_public_json(Path(out_path), comparison)
+        write_public_json(Path(out_path), wrapped)
     print(out)
     return 0
 
@@ -151,9 +158,17 @@ def _cmd_batch_analyze(args: object) -> int:
     if session_ids is not None and len(session_ids) == len(results):
         for i, sid in enumerate(session_ids):
             results[i]["session_id"] = sid
+    from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
     from runtime.shipping.schema_guard import validate_against_public_schema
-    validate_against_public_schema(results)
-    out = json.dumps(results, indent=2, ensure_ascii=False, sort_keys=True)
+
+    wrapped = attach_public_output_metadata(
+        {},
+        calibration_profile=default_calibration_profile(),
+        pipeline_version=api_pipeline_version(),
+    )
+    wrapped["payload"] = results
+    validate_against_public_schema(wrapped)
+    out = json.dumps(wrapped, indent=2, ensure_ascii=False, sort_keys=True)
     if out_path:
         from runtime.artifact_writer import write_public_json
         write_public_json(Path(out_path), results)
@@ -168,7 +183,7 @@ def main() -> int:
 
     ap = argparse.ArgumentParser(
         prog="hesperia",
-        description="Structural analysis. Commands: analyze, compare, batch-analyze.",
+        description="Structural analysis. Commands: analyze, compare, batch | batch-analyze.",
     )
     ap.add_argument("--version", action="store_true", help="Show runtime version and build info.")
     ap.add_argument("--assets", type=str, default=None, help="Path to lexicon assets (default: repo/lexicon/curated)")
@@ -187,12 +202,18 @@ def main() -> int:
     p_compare.add_argument("--out", type=str, default=None, help="Write comparison JSON to this path.")
     p_compare.set_defaults(_run=_cmd_compare)
 
-    # batch-analyze
+    def _add_batch_args(p: argparse.ArgumentParser) -> None:
+        p.add_argument("--input", type=str, default=None, help="JSON file: list of strings, or {texts: [...]}, or {sessions: [{session_id, text}, ...]}.")
+        p.add_argument("--texts", type=str, nargs="*", default=[], help="Texts as arguments.")
+        p.add_argument("--out", type=str, default=None, help="Write results JSON to this path.")
+
     p_batch = sub.add_parser("batch-analyze", help="Run structural analysis on multiple texts.")
-    p_batch.add_argument("--input", type=str, default=None, help="JSON file: list of strings, or {texts: [...]}, or {sessions: [{session_id, text}, ...]}.")
-    p_batch.add_argument("--texts", type=str, nargs="*", default=[], help="Texts as arguments.")
-    p_batch.add_argument("--out", type=str, default=None, help="Write results JSON to this path.")
+    _add_batch_args(p_batch)
     p_batch.set_defaults(_run=_cmd_batch_analyze)
+
+    p_batch_alias = sub.add_parser("batch", help="Alias for batch-analyze.")
+    _add_batch_args(p_batch_alias)
+    p_batch_alias.set_defaults(_run=_cmd_batch_analyze)
 
     args = ap.parse_args()
     if getattr(args, "version", False):
@@ -204,7 +225,7 @@ def main() -> int:
             print(f"build: {BUILD or 'unknown'}")
         except Exception:
             print("HESPERIA Runtime")
-            print("version: 0.4.2")
+            print("version: 0.5.0")
             print("commit: unknown")
             print("build: unknown")
         return 0

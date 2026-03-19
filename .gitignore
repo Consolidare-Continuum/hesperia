@@ -27,6 +27,10 @@ keys/
 .cursor/
 *.cursor*
 
+# Generated run trees (Task 2 — see GENERATED_ARTIFACT_POLICY.md)
+outputs/*
+!outputs/.gitkeep
+
 # Data and logs
 assets/v040/
 assets/v041/
@@ -34,10 +38,15 @@ assets/v041/
 # E2E: commit assets/artifacts/e2e/run_output_e2e_*.json after run (see docs/E2E_RUN_ORDER.md).
 # Local-only full dynamics bundle:
 assets/artifacts/e2e_full_deliverables/
-noone/
+# Local session notes (relocate from repo root if present)
+docs/research/_noone_local/
 hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/
+
+# Task 6 seal inventory (regenerate: python3 tools/seal_phase0_inventory.py)
+tmp/*
+!tmp/.gitkeep
 
 # OS and editors
 .DS_Store

@@ -1,0 +1,8 @@
+# HESPERIA — embedding-based Dict B and surface siding (RAD)
+# Model: sentence-transformers/all-mpnet-base-v2 (downloaded at first use)
+
+sentence-transformers>=2.7.0,<3
+torch>=2.0.0,<3
+numpy>=1.24.0,<2
+transformers>=4.30.0,<5
+huggingface-hub>=0.17.0,<1

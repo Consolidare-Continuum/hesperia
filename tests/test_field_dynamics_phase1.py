@@ -5,7 +5,7 @@ from __future__ import annotations
 import numpy as np
 import pytest
 
-from hesperia.engine.field_dynamics import (
+from hesperia.extensions.dynamics import (
     FieldDynamicsState,
     Phase1Theta,
     step_phase1,

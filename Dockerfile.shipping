@@ -15,11 +15,13 @@ WORKDIR /build
 RUN apt-get update && apt-get install -y --no-install-recommends gcc \
     && rm -rf /var/lib/apt/lists/*
 
-COPY requirements.txt requirements-api.txt requirements_surface.txt ./
-RUN pip install --no-cache-dir -r requirements.txt -r requirements-api.txt
+COPY requirements.txt ./
+COPY requirements/ ./requirements/
+RUN pip install --no-cache-dir -r requirements.txt -r requirements/api.txt
 
 COPY runtime/   /build/runtime
 COPY core/      /build/core
+COPY hesperia/  /build/hesperia
 COPY lexicon/   /build/lexicon
 COPY assets/    /build/assets
 
@@ -36,6 +38,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends curl \
 COPY --from=builder /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
 COPY --from=builder /build/runtime   /app/runtime
 COPY --from=builder /build/core      /app/core
+COPY --from=builder /build/hesperia  /app/hesperia
 COPY --from=builder /build/lexicon   /app/lexicon
 COPY --from=builder /build/assets    /app/assets
 

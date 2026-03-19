@@ -2,16 +2,16 @@
 
 from __future__ import annotations
 
-from hesperia.engine.triz.contradiction_engine import (
+from hesperia.extensions.triz.contradiction_engine import (
     build_contradiction_signals,
     enumerate_contradiction_pairs,
 )
-from hesperia.engine.triz.models import ConceptActivation, ConceptRelation, MatrixCoordinate
-from hesperia.engine.triz.novelty_engine import detect_concept_clusters, score_innovation_clusters
-from hesperia.engine.triz.propagation_engine import aggregate_area_activation, propagate_activation
-from hesperia.engine.triz.topology_binding import bind_concepts_to_coordinates
-from hesperia.engine.triz.topology_metrics import neighbors_from_adjacency
-from hesperia.engine.triz.triz_pipeline import run_triz_analysis
+from hesperia.extensions.triz.models import ConceptActivation, ConceptRelation, MatrixCoordinate
+from hesperia.extensions.triz.novelty_engine import detect_concept_clusters, score_innovation_clusters
+from hesperia.extensions.triz.propagation_engine import aggregate_area_activation, propagate_activation
+from hesperia.extensions.triz.topology_binding import bind_concepts_to_coordinates
+from hesperia.extensions.triz.topology_metrics import neighbors_from_adjacency
+from hesperia.extensions.triz.triz_pipeline import run_triz_analysis
 
 
 def test_contradiction_two_opposite_concepts() -> None:
@@ -48,7 +48,7 @@ def test_innovation_rare_cluster_higher_score() -> None:
 
 
 def test_narrative_propagation_adjacent_areas_only() -> None:
-    from hesperia.engine.triz.topology_metrics import canonical_area_adjacency
+    from hesperia.extensions.triz.topology_metrics import canonical_area_adjacency
 
     neighbors = neighbors_from_adjacency(canonical_area_adjacency())
     acts = [
@@ -64,7 +64,7 @@ def test_narrative_propagation_adjacent_areas_only() -> None:
 
 
 def test_run_triz_analysis_sorted_and_rounded() -> None:
-    from hesperia.engine.triz.topology_metrics import canonical_area_adjacency
+    from hesperia.extensions.triz.topology_metrics import canonical_area_adjacency
 
     neighbors = neighbors_from_adjacency(canonical_area_adjacency())
     acts = [

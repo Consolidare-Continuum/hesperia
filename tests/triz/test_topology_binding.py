@@ -2,9 +2,9 @@
 
 from __future__ import annotations
 
-from hesperia.engine.triz.models import ContradictionSignal, MatrixCoordinate
-from hesperia.engine.triz.topology_binding import bind_concept_to_matrix, bind_contradiction_to_topology
-from hesperia.engine.triz.topology_metrics import area_distance, canonical_area_adjacency, contradiction_locality_score
+from hesperia.extensions.triz.models import ContradictionSignal, MatrixCoordinate
+from hesperia.extensions.triz.topology_binding import bind_concept_to_matrix, bind_contradiction_to_topology
+from hesperia.extensions.triz.topology_metrics import area_distance, canonical_area_adjacency, contradiction_locality_score
 
 
 def test_bind_concept_read_only() -> None:

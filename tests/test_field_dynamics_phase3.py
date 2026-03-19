@@ -5,12 +5,12 @@ from __future__ import annotations
 import numpy as np
 import pytest
 
-from hesperia.engine.field_dynamics.phase3 import (
+from hesperia.extensions.dynamics.phase3 import (
     area_vector_from_hex,
     step_phase3,
     family_vector_from_hex,
 )
-from hesperia.engine.field_dynamics.state import FieldDynamicsState, Phase3Theta
+from hesperia.extensions.dynamics.state import FieldDynamicsState, Phase3Theta
 
 
 def test_step_phase3_creates_sparse_hex():

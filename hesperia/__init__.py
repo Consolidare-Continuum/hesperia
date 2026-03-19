@@ -4,4 +4,11 @@
 # No reproduction, redistribution, or use without explicit written permission from the author.
 # See LEGAL_NOTICE.md for full terms.
 
-"""HESPERIA top-level package. Engine: hesperia.engine.kme (Knowledge Metrics Engine)."""
+"""HESPERIA package — Engine Dynamics (KME: hesperia.engine.kme)."""
+
+try:
+    from hesperia.system.version import get_system_version
+
+    __version__ = get_system_version()
+except Exception:  # import-order / packaging without VERSION.yaml
+    __version__ = "0.5.0"

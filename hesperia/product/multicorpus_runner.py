@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Literal
 
-from hesperia.engine.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 from hesperia.product.package_builder import PRODUCT_SKUS, build_innovation_package, build_narrative_package, build_policy_package
 from hesperia.product.tenant_context import TenantContext, validate_tenant_context
 from hesperia.product.tenant_guard import assert_tenant_output_path

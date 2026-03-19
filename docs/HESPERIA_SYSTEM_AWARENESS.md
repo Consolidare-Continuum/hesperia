@@ -9,7 +9,9 @@ See LEGAL_NOTICE.md for full terms.
 
 **Single page for “what the system is end-to-end.”** Synthesized from RAD archive + deep research (2026-03-18). **Full narrative:** [research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md](research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md).
 
-**Dynamics (target math, phased implementation):** [specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](specs/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) — **L0–L10** full wire; **H0–H9**; Phase 1 = minimal L0+L2+L6+area contradiction+L9. **Calibration by design:** [specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](specs/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) (bounded params, constraint-first, layered search, named release profiles).
+**Dynamics (target math, phased implementation):** [specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) — **L0–L10** full wire; **H0–H9**; Phase 1 = minimal L0+L2+L6+area contradiction+L9. **Calibration by design:** [specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) (bounded params, constraint-first, layered search, named release profiles).
+
+**Hesperia Engine Dynamics v0.5 (canonical release):** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md) · [release note](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md)
 
 **Technical maps:** [HESPERIA_REPOSITORY_MAP.md](HESPERIA_REPOSITORY_MAP.md) · [HESPERIA_DEPENDENCY_GRAPH.md](HESPERIA_DEPENDENCY_GRAPH.md) · [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md) · [HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md) · [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md)
 
@@ -30,7 +32,7 @@ See LEGAL_NOTICE.md for full terms.
 | Sealed runtime + **mandatory projection** before any public JSON | Leaking reserved indices (10+2 areas, 48 reserved families) |
 | Topology-aware propagation (icosahedral 12-node graph, degree 5) | “Objective reality” from structural scores |
 
-**TFP / clinical layer:** treated as **domain plug-in & test collateral** for psychodynamic ontology — **not** the generic definition of “Hesperia” for all markets. See `hesperia/clinical/`, session topology E2E.
+**TFP / clinical layer:** treated as **domain plug-in & test collateral** for psychodynamic ontology — **not** the generic definition of “Hesperia” for all markets. See `research/clinical_tfp/`, session topology E2E.
 
 ---
 
@@ -133,4 +135,4 @@ Hesperia competes on **determinism + sealed projection + topology-aware structur
 
 ---
 
-*Maintainers: keep this file aligned with RAD freeze and E2E contracts; deep-dive updates go to `docs/research/HESPERIA_RAD_DEEP_RESEARCH_*.md`.*
+*Maintainers: align with **Engine Dynamics v0.5** ([HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md)) and E2E contracts; deep-dive archive: `docs/research/HESPERIA_RAD_DEEP_RESEARCH_*.md`.*

@@ -9,7 +9,7 @@ import numpy as np
 import pytest
 
 from core.layers.layer_2 import build_canonical_stub_adjacency
-from hesperia.engine.field_dynamics.semantic_field_v1 import (
+from hesperia.extensions.dynamics.semantic_field_v1 import (
     NUM_AREAS,
     NUM_FAMILIES,
     SPEC_ID,

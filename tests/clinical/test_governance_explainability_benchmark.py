@@ -99,7 +99,7 @@ def test_benchmark_run_one() -> None:
 
 
 def test_safety_filter() -> None:
-    from hesperia.clinical.safety_layer import apply_safety_filter, get_minimum_evidence_threshold
+    from research.clinical_tfp.safety_layer import apply_safety_filter, get_minimum_evidence_threshold
 
     act = {"concepts": {"c1": 0.001}, "families": {"A3_F1": 0.001}, "areas": {"A3": 0.001}}
     out = apply_safety_filter(act, min_evidence=0.01, min_markers=1)

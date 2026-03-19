@@ -1,6 +1,6 @@
 # HESPERIA — RAD. TRIZ → 12-area contradiction drive.
 
-from hesperia.engine.field_dynamics.triz_signal import contradiction_signal_12_from_con_rows
+from hesperia.extensions.dynamics.triz_signal import contradiction_signal_12_from_con_rows
 
 
 def test_contradiction_signal_from_rows_two_areas():

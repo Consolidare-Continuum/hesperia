@@ -77,7 +77,7 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 | Check | Status |
 |-------|--------|
-| `python3 -m runtime.pipeline.run_e2e_all` | OK, 9 artifacts under `assets/artifacts/e2e/` (`docs/E2E_RUN_ORDER.md`) |
+| `python3 -m runtime.pipeline.run_e2e_all` | OK, **19** baseline JSON under `assets/artifacts/e2e/` (+ optional field dynamics); `docs/E2E_RUN_ORDER.md`, `E2E_OUTPUTS.md` |
 
 ---
 

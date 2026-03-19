@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
-from hesperia.engine.triz.contradiction_engine import CONFLICT_TYPES, detect_contradictions
+from hesperia.extensions.triz.contradiction_engine import CONFLICT_TYPES, detect_contradictions
 
 
 def test_no_contradiction_without_conflict_relation() -> None:

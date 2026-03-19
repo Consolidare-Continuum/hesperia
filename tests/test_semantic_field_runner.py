@@ -1,5 +1,5 @@
 # HESPERIA — RAD. runtime.semantic_field runner smoke tests.
-# Load runner by file path: tests/runtime/ shadows top-level `runtime` on pytest path.
+# Load runner by file path (avoid importing as tests.* package).
 
 from __future__ import annotations
 

@@ -85,13 +85,13 @@ Families are **not** placed directly on the icosahedron. The correct model is hi
 - **Inside each area** → **Local family lattice** (24 families: 1 center + 6 inner + 8 middle + 9 outer).
 - **Inside each family** → Concepts / hexes.
 
-Cross-area traversal uses **bridge families** only (see `spec/family_embedding_tfp.yaml` and `docs/specs/FAMILY_EMBEDDING.md`). Loader: `sphere.topology.family_embedding`.
+Cross-area traversal uses **bridge families** only (see `specs/canon/family_embedding_tfp.yaml` and `docs/specs/FAMILY_EMBEDDING.md`). Loader: `sphere.topology.family_embedding`.
 
 ## Data locations
 
 - Area adjacency: `data/topology/area_adjacency_matrix.json` (or configurable `topology_data_root`). Must satisfy icosahedral invariants (degree 5, 30 edges, connected).
 - Family → area mapping: `data/topology/family_to_area_map.json` (canonical order `family_001` … `family_288` → area index 0–11).
-- Family embedding (local lattices + bridges): `spec/family_embedding_tfp.yaml`.
+- Family embedding (local lattices + bridges): `specs/canon/family_embedding_tfp.yaml`.
 - Reserved (service) areas and families: `assets/reserve/reserved_areas.json`, `reserved_families_registry.json`, `reserved_hex_registry.json`. See **Public vs reserved (10+2)** above.
 
 ## Rules

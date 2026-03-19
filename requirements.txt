@@ -1,4 +1,2 @@
--r requirements_surface.txt
-networkx>=3.0
-pymorphy2>=0.9
-pymorphy2-dicts-ru>=2.4
+# Delegates to requirements/ — keep root file for pip -r requirements.txt
+-r requirements/runtime.txt

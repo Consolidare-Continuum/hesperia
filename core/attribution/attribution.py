@@ -23,7 +23,8 @@ TOP_K = 32
 EPS = 1e-9
 
 _REPO = Path(__file__).resolve().parents[2]
-_DEFAULT_V06_DIR = _REPO / "lexicon" / "frozen" / "v06"
+# Canonical frozen bundle id (v0.5.0): physical dir v0_5_0 → symlink to legacy v06 payload layout.
+_DEFAULT_LEXICON_FROZEN_BUNDLE = _REPO / "lexicon" / "frozen" / "v0_5_0"
 _dict_a: dict[str, dict[str, Any]] | None = None
 _family_prior: list[float] | None = None
 _surface_map: dict[str, str] | None = None
@@ -37,7 +38,7 @@ def load_dict_a(
 ) -> tuple[dict[str, dict[str, Any]], list[float]]:
     """Load dict_a_v06.jsonl and family_prior_v06.json. Optionally load surface map."""
     global _dict_a, _family_prior, _surface_map
-    base = v06_dir or _DEFAULT_V06_DIR
+    base = v06_dir or _DEFAULT_LEXICON_FROZEN_BUNDLE
     dict_path = dict_a_path or base / "dict_a_v06.jsonl"
     prior_file = prior_path or base / "family_prior_v06.json"
     if not dict_path.exists():
@@ -158,9 +159,12 @@ def run_attribution_pipeline(
     tokens = tokenize(normalized)
     if not tokens:
         raise ValueError("semantic_vacuum: no tokens after tokenize")
-    base = v06_dir or (assets_root and assets_root / "v06") or _DEFAULT_V06_DIR
+    base = v06_dir or (assets_root and assets_root / "v0_5_0") or _DEFAULT_LEXICON_FROZEN_BUNDLE
     if _dict_a is None or _family_prior is None:
-        load_dict_a(v06_dir=base, assets_root=assets_root or _REPO / "lexicon" / "frozen")
+        load_dict_a(
+            v06_dir=base,
+            assets_root=assets_root or (_REPO / "lexicon" / "frozen"),
+        )
     sentence_vector = _sentence_vector(tokens)
     dominant_family, dominant_area = _dominant_from_vector(sentence_vector)
     seed = _build_seed_weighted(sentence_vector, eps=EPS)
