@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 # HESPERIA — repository map (canonical description)
 
 **Hesperia Engine Dynamics v0.5 (canonical release, closed):** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md) · [release narrative](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md) · [CHANGELOG.md](../CHANGELOG.md) · [canonical naming](ENGINE_DYNAMICS_CANONICAL_NAMING_v0.5.md)  
-**Awareness + research archive:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md) · [research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md](research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md)
+**Awareness + research archive:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md) · [research/reports/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md](../research/reports/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md)
 
 **Purpose:** Single document describing what the archive is, how top-level directories map to layers, and how execution flows. Use this as the **long-form repo description** (GitHub’s short “Description” field is ~350 characters — link here or paste a one-line summary).
 
@@ -27,10 +27,11 @@ See LEGAL_NOTICE.md for full terms.
 | `benchmarks/` | Algorithm / corpus benchmarks (e.g. TRIZ) |
 | `core/` | Deterministic computation, shared primitives |
 | `data/` | Frozen structural inputs (topology, constants) |
-| `examples/` | Runnable demos (e.g. **`examples/triz_demo/`** TRIZ report scripts) |
+| `examples/` | Runnable demos (e.g. **`examples/extensions/triz_demo/`** TRIZ report scripts) |
 | `deploy/` | Docker, compose, deployment (e.g. TRIZ MVP) |
 | `docs/` | Explanatory docs, governance, maps (**binding specs → `specs/`**) |
 | `hesperia/` | Engine package: KME, hex stack, `extensions/` (dynamics, TRIZ), ontology, NLP, product helpers |
+| `legacy/` | **Quarantine:** deprecated code, frozen data dumps (`legacy/assets/data/`), historical specs (`legacy/docs/specs_history/`), refactor notes |
 | `lexicon/` | Lexical resources, Dict A/B tooling |
 | `outputs/` | **Generated** run artifacts (default gitignored); see `GENERATED_ARTIFACT_POLICY.md` |
 | `research/` | **Experimental** material — e.g. **`research/clinical_tfp/`** (TFP/clinical; non-product) |
@@ -184,7 +185,7 @@ Policy/innovation/narrative packaging, investor demo, MVP acceptance, tenant con
 
 **Tier-1 index (Task 3):** [`specs/CANONICAL_INDEX.md`](../specs/CANONICAL_INDEX.md) · inventory [`specs/INVENTORY.md`](../specs/INVENTORY.md).  
 **Core pipeline (binding):** `specs/core/*.md`. **Family-field dynamics (single file):** `specs/dynamics/semantic_field_dynamics.md`. **`spec/canon` YAML** via `spec/` symlink; markdown there is mostly **redirect** to `core/`.  
-**Master narrative index:** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md). Long-form **Tier-2** dynamics / calibration: `specs/dynamics/` (Ethan, equation index). Release notes: `specs/release/`. Workflow / triage: `docs/specs/`. Geometry lock: `docs/TOPOLOGY_INVARIANTS.md`.
+**Master narrative index:** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md). Long-form **Tier-2** dynamics / calibration: `specs/dynamics/` (Ethan, equation index). Release notes: `specs/release/`. Workflow / triage: `docs/specs/`; governance task memos: `docs/governance/working/`, `docs/governance/project/`. Geometry lock: `docs/TOPOLOGY_INVARIANTS.md`.
 
 ---
 
@@ -192,15 +193,15 @@ Policy/innovation/narrative packaging, investor demo, MVP acceptance, tenant con
 
 | Path | Use |
 |------|-----|
-| `benchmarks/` | Corpus fixtures, TRIZ benchmarks |
-| `examples/triz_demo/` | Scripted TRIZ demo reports (`triz/make_demo_reports.py`) |
+| `benchmarks/extensions/triz/` | TRIZ corpus fixtures (optional extension) |
+| `examples/extensions/triz_demo/` | Scripted TRIZ demo reports (`triz/make_demo_reports.py`) |
 | `examples/` | Other sample I/O as added |
 
 ---
 
 ### 8. Deployment — `deploy/`
 
-Dockerfiles, compose, env examples (e.g. `deploy/triz_mvp/`).
+Dockerfiles, compose, env examples (e.g. `deploy/extensions/triz_mvp/`).
 
 ---
 
@@ -212,7 +213,7 @@ Versioned registries + **reviewed frozen** E2E exemplars: `assets/artifacts/e2e/
 
 ### 10. Testing — `tests/`
 
-Unit, integration, domain, product, TRIZ suites. **E2E:** `tests/test_e2e_flows.py`.
+Unit, integration, domain, product, TRIZ suites; **experimental** clinical/TFP under `tests/experimental/clinical_tfp/`. **E2E:** `tests/test_e2e_flows.py`.
 
 ---
 

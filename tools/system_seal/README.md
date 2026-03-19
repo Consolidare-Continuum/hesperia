@@ -8,7 +8,7 @@ Authoritative **GO/NO-GO** gate: `hesperia.system.system_seal.run_system_seal_ga
 python3 -m tools.system_seal.run_system_seal
 ```
 
-Writes `release/v0.5.0/system_seal.json` and prints the report. Exit **0** iff `status == PASS`.
+Writes `release/v{VERSION.yaml system_version}/system_seal.json` (e.g. `release/v0.5.1/system_seal.json`) and prints the report. Exit **0** iff `status == PASS`.
 
 ## Checks
 

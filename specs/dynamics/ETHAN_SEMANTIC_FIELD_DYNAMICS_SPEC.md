@@ -16,7 +16,7 @@ system_version: "0.5.0"
 
 **Status:** **Tier 2 — derived wire / target architecture.** Binding family-field equations live only in **[semantic_field_dynamics.md](semantic_field_dynamics.md)**. This document **must not** be used to introduce alternate \(\mathbf{F}\) dynamics.
 
-**Related:** [DYNAMICS_EQUATION_INDEX.md](DYNAMICS_EQUATION_INDEX.md) (compact ↔ extended ↔ phases) · **[semantic_field_dynamics.md](semantic_field_dynamics.md)** (\(\mathbf{F}\) PDE + discrete step + observables) · [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](../../docs/specs/governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) · [ETHAN-OPEN-WORKFLOW-PROCEED.md](../../docs/specs/governance/ETHAN-OPEN-WORKFLOW-PROCEED.md) · [TOPOLOGY_INVARIANTS.md](../../docs/TOPOLOGY_INVARIANTS.md) · [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) · [HESPERIA_VARIABLE_CATALOG.md](../../docs/HESPERIA_VARIABLE_CATALOG.md) · [HESPERIA_SYSTEM_AWARENESS.md](../../docs/HESPERIA_SYSTEM_AWARENESS.md)
+**Related:** [DYNAMICS_EQUATION_INDEX.md](DYNAMICS_EQUATION_INDEX.md) (compact ↔ extended ↔ phases) · **[semantic_field_dynamics.md](semantic_field_dynamics.md)** (\(\mathbf{F}\) PDE + discrete step + observables) · [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](../../docs/governance/working/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) · [ETHAN-OPEN-WORKFLOW-PROCEED.md](../../docs/governance/working/ETHAN-OPEN-WORKFLOW-PROCEED.md) · [TOPOLOGY_INVARIANTS.md](../../docs/TOPOLOGY_INVARIANTS.md) · [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) · [HESPERIA_VARIABLE_CATALOG.md](../../docs/HESPERIA_VARIABLE_CATALOG.md) · [HESPERIA_SYSTEM_AWARENESS.md](../../docs/HESPERIA_SYSTEM_AWARENESS.md)
 
 ---
 

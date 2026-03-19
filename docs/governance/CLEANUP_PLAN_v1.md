@@ -6,9 +6,9 @@
 
 ## Phase 1 — Archive historical specs ✓
 
-- **Move:** `docs/specs/history/` → `docs/archive/specs_history/`
-- **Why:** Dozens of old numbered specs (00_, 10_, 11_, …) are reference-only; not needed in active specs tree. Governance docs already treat this content as internal/excluded from bundle.
-- **Refs:** Update any paths that point to `docs/specs/history` to `docs/archive/specs_history`.
+- **Move:** `docs/specs/history/` → `docs/archive/specs_history/` → **`legacy/docs/specs_history/`** (v0.5.1: quarantine under `legacy/`).
+- **Why:** Dozens of old numbered specs (00_, 10_, 11_, …) are reference-only; not needed in active specs tree. Governance docs treat this content as internal/excluded from bundle.
+- **Refs:** Use **`legacy/docs/specs_history/`** in new docs and policies.
 
 ---
 

@@ -19,7 +19,11 @@ This repo uses a **pragmatic** layout aligned with Python import roots (`core`, 
 | **`specs/`** | **Binding** specifications — see **`specs/CANONICAL_INDEX.md`** | Tier-1 definitions (`core/`, `dynamics/semantic_field_dynamics.md`, `calibration/`, `triz/`, `schema/`, `system/`) | Duplicating equations in `docs/` |
 | **`spec/`** | Symlink → **`specs/canon/`** | Back-compat path only | New docs should link to `specs/canon/` explicitly |
 | **`docs/`** | Explanatory documentation | Guides, maps, governance prose | Sole copy of normative math (must live under `specs/`) |
-| **`examples/`** | Small runnable demos / sample I/O | `examples/triz_demo`, minimal scripts | Production pipelines |
+| **`examples/`** | Small runnable demos / sample I/O | `examples/extensions/triz_demo`, minimal scripts | Production pipelines |
+| **`benchmarks/`** | Evaluation corpora (optional extensions) | `benchmarks/extensions/triz` | Shipping runtime |
+| **`deploy/`** | Compose / Docker samples | `deploy/extensions/triz_mvp` | Core engine code |
+| **`sphere/`** | Internal structural / USF compute | Pipeline helpers, prolog-adjacent modules | Public product API surface |
+| **`release/`** | Frozen seal bundles | `release/v0.5.0/` audit package | Mutable application code |
 | **`outputs/`** | Generated artifacts (default: gitignored) | Local E2E/smoke/benchmark dumps | Silent commit of unreviewed blobs |
 | **`tests/`** | Pytest only | Tests, fixtures | Business logic |
 | **`tools/`** | Dev utilities | Validators, one-off maintainers | Core runtime |

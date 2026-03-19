@@ -13,6 +13,8 @@ import json
 import sys
 from pathlib import Path
 
+import yaml
+
 
 def main() -> int:
     repo = Path(__file__).resolve().parents[2]
@@ -20,7 +22,9 @@ def main() -> int:
     from hesperia.system.system_seal import run_system_seal_gate
 
     report = run_system_seal_gate(repo)
-    out_path = repo / "release" / "v0.5.0" / "system_seal.json"
+    ver_doc = yaml.safe_load((repo / "VERSION.yaml").read_text(encoding="utf-8")) or {}
+    sys_ver = str(ver_doc.get("system_version", "0.5.1"))
+    out_path = repo / "release" / f"v{sys_ver}" / "system_seal.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(report, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     print(json.dumps(report, indent=2, sort_keys=True))

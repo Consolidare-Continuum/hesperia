@@ -33,7 +33,7 @@ Anything built manually (e.g. `./build_shipping.sh all` without running the gate
 ## Enforcement
 
 - Release checklist and release process documents reference this policy.
-- **CI:** `.github/workflows/sealed-runtime-gate.yml` runs `tools/check_import_boundary.py` and `tools/sealing_scan.py` on push/PR to `main`. If either fails, merges are blocked. This prevents reflective terms or boundary violations from landing. The sealing scan targets evaluator-facing trees (`runtime/shipping`, `assets/public`, `examples`, `release`); it excludes the versioned audit bundle under `release/v0.5.0/` and `examples/triz_demo/` (see `tools/sealing_scan.py` → `SCAN_SKIP_DIR_PREFIXES`).
+- **CI:** `.github/workflows/sealed-runtime-gate.yml` runs `tools/check_import_boundary.py` and `tools/sealing_scan.py` on push/PR to `main`. If either fails, merges are blocked. This prevents reflective terms or boundary violations from landing. The sealing scan targets evaluator-facing trees (`runtime/shipping`, `assets/public`, `examples`, `release`); it excludes the versioned audit bundle under `release/v0.5.0/` and `examples/extensions/triz_demo/` (see `tools/sealing_scan.py` → `SCAN_SKIP_DIR_PREFIXES`).
 - Distributable bundles (tarballs, images) must be built from a run of `release_sealed_runtime.sh` that resulted in PASS.
 
 ---

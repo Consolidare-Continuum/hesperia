@@ -206,7 +206,7 @@ See LEGAL_NOTICE.md for full terms.
 
 - **docs/architecture:** propagation_layer, math_layer, interpretation_layer, logic_layer, shadow_layer, ENGINE_BOUNDARIES, SYSTEM_OVERVIEW.
 - **docs/specs:** schema, profiles (TAXONOMY_v1), project (charter, risk, schedule, security, observability, handoff, ARTIFACT-INDEX), governance tasks, history (CONCEPTS, SPECs, REPORTs), releases.
-- **docs/refactor:** propagation_design, prolog_extension, interpretation_usf_consolidation, logic_engine_design, math_reintegration_audit, fingerprint_validation, multistep_propagation, prolog_fact_schema.
+- **legacy/docs/refactor_notes:** propagation_design, prolog_extension, interpretation_usf_consolidation, logic_engine_design, math_reintegration_audit, fingerprint_validation, multistep_propagation, prolog_fact_schema.
 - **docs:** R1_R4_BAND_DECISION_CODE_MAPPING, FREEZE_v0_6, DICT-A-SCAFFOLD-NOTE, REPORT math consolidation, etc.
 
 ---

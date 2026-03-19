@@ -9,8 +9,8 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
-GENERATED_PATH="${1:-${ROOT_DIR}/assets/data/v040/surface_map_v040.json}"
-EXPECTED_FILE="${2:-${ROOT_DIR}/assets/data/v040/surface_map_v040.json.sha256}"
+GENERATED_PATH="${1:-${ROOT_DIR}/legacy/assets/data/v040/surface_map_v040.json}"
+EXPECTED_FILE="${2:-${ROOT_DIR}/legacy/assets/data/v040/surface_map_v040.json.sha256}"
 
 if [[ ! -f "${GENERATED_PATH}" ]]; then
   echo "missing generated artifact: ${GENERATED_PATH}" >&2

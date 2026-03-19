@@ -23,9 +23,9 @@ HESPERIA — RAD. Cursor agent entry: what is OPEN and how to proceed.
 
 | Priority | Item | Location | Next action |
 |----------|------|----------|-------------|
-| **P1** | Ethan **post-A.6** | [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](specs/governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | Feed **Ξ** into L7; `REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md`; optional full-hex H7/H8 |
+| **P1** | Ethan **post-A.6** | [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/working/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | Feed **Ξ** into L7; `REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md`; optional full-hex H7/H8 |
 | **P2** | Calibration registry | [assets/calibration/dynamics_parameter_registry.yaml](assets/calibration/dynamics_parameter_registry.yaml) | Expand when Phase 2 Θ added |
-| **P2** | Observability extension | [TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md](specs/governance/TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md) | Rows in external `active.md` if used |
+| **P2** | Observability extension | [TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md](governance/working/TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md) | Rows in external `active.md` if used |
 | **P3** | Context RAG §4.6 (L_full) | Other clone / chroma stack | Blocked on activation data unless stubbed |
 
 **Done / reference:** Grace triage → [GRACE_TRIAGE_REPORT.md](specs/triage/GRACE_TRIAGE_REPORT.md); equation index → [DYNAMICS_EQUATION_INDEX.md](../specs/dynamics/DYNAMICS_EQUATION_INDEX.md).

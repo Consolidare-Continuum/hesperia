@@ -21,7 +21,7 @@ Programmatic runner: `python3 -c "from hesperia.product.mvp_acceptance import ru
 
 - Every product report has **summary text**.
 - JSON + CSV export paths (see Series 3 demo outputs).
-- Benchmark-backed demo: `benchmarks/triz/corpus_policy_polarized` etc.
+- Benchmark-backed demo: `benchmarks/extensions/triz/corpus_policy_polarized` etc.
 
 ## Operational
 

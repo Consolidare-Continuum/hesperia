@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Fingerprint drift metric: formula and thresholds as in docs/refactor/fingerprint_validation.md.
+Fingerprint drift metric: formula and thresholds as in legacy/docs/refactor_notes/fingerprint_validation.md.
 Consistent float precision (no rounding surprises).
 """
 

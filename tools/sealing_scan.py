@@ -53,10 +53,11 @@ SCAN_SKIP_FILES = [
 
 # Directory prefixes (repo-relative, forward slashes) excluded from scan.
 # - release/v0.5.0: versioned audit bundle (spec index paths, hashes, E2E blobs) — not shipping surface.
-# - examples/triz_demo: internal TRIZ narrative demos; uses graph payloads and forbidden vocabulary by design.
+# - examples/extensions/triz_demo: internal TRIZ narrative demos; uses graph payloads and forbidden vocabulary by design.
 SCAN_SKIP_DIR_PREFIXES = [
     "release/v0.5.0",
-    "examples/triz_demo",
+    "release/v0.5.1",
+    "examples/extensions/triz_demo",
 ]
 
 # Only these trees are scanned (evaluator-facing surface); everything else is ignored.

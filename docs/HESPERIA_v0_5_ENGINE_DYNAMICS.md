@@ -13,7 +13,7 @@ See LEGAL_NOTICE.md for full terms.
 
 **Release narrative:** [specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md)  
 **Agents:** [AGENTS.md](../AGENTS.md) · **Awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md)  
-**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.0/README.md](../release/v0.5.0/README.md) · **Tasks 1–11 wiring:** [ENGINE_TASKS_1_11_INTEGRATION.md](ENGINE_TASKS_1_11_INTEGRATION.md)
+**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.1/README.md](../release/v0.5.1/README.md) (historical [v0.5.0](../release/v0.5.0/README.md)) · **Tasks 1–11 wiring:** [ENGINE_TASKS_1_11_INTEGRATION.md](ENGINE_TASKS_1_11_INTEGRATION.md)
 
 ---
 
@@ -35,7 +35,7 @@ See LEGAL_NOTICE.md for full terms.
 
 | Item | Note |
 |------|------|
-| **TFP testing grounds** | `assets/testing/tfp_kernberg/` — clinical regression collateral; E2E step 10; **not** part of Engine Dynamics v0.5 spec. |
+| **TFP testing grounds** | `tests/fixtures/clinical_tfp/tfp_kernberg/` — clinical regression collateral; E2E step 10; **not** part of Engine Dynamics v0.5 spec. |
 | **legacy/** | Archived only |
 
 ---
@@ -92,7 +92,7 @@ Future refactors (v0.5.1+): sphere vs `core.layers`; sparse hex weights; project
 
 ## 7. Release closure
 
-**Canonical Dynamics Release v0.5** is documented in-repo: [CHANGELOG.md](../CHANGELOG.md), [HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md). **Tags:** **`v0.5.0`** + **`hesperia-engine-dynamics-v0.5.0`** (same commit; sync: `git push origin v0.5.0 hesperia-engine-dynamics-v0.5.0`). Resume R&D on the next minor.
+**Canonical Dynamics Release v0.5** is documented in-repo: [CHANGELOG.md](../CHANGELOG.md), [HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md). **Current enforcement seal:** **`v0.5.1`** / **`hesperia-engine-dynamics-v0.5.1`** · **Historical baseline:** **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`**. Resume R&D on the next minor after the v0.5.1 gate is green.
 
 ---
 

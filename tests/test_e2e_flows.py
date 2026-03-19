@@ -88,7 +88,7 @@ def test_e2e_sphere_math_values_output_exists() -> None:
         data = json.loads(out_path.read_text(encoding="utf-8"))
         for key in ("L1", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9"):
             assert key in data, f"sphere_math_values missing {key}"
-        assert data.get("system_version") == "0.5.0"
+        assert data.get("system_version") == "0.5.1"
         assert data.get("build_id")
 
 
@@ -102,7 +102,7 @@ def test_e2e_sphere_math_100_output_exists() -> None:
         run_e2e_sphere_math_100(out_path, limit=2)
         assert out_path.exists()
         data = json.loads(out_path.read_text(encoding="utf-8"))
-        assert data.get("system_version") == "0.5.0"
+        assert data.get("system_version") == "0.5.1"
         payload = data.get("payload")
         assert isinstance(payload, list)
         assert len(payload) >= 1
@@ -146,7 +146,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             summ = json.loads(
                 written["run_output_e2e_calibration_100_summary.json"].read_text(encoding="utf-8")
             )
-            assert summ.get("system_version") == "0.5.0"
+            assert summ.get("system_version") == "0.5.1"
             assert summ.get("sentence_count") == 5
             assert summ.get("run") == "e2e_calibration_batch_summary"
             fd_path = written[E2E_OUTPUTS_WITH_FIELD_DYNAMICS[-1]]
@@ -158,7 +158,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert "semantic_field_v1" in fd
 
             sf = json.loads(written["run_output_e2e_semantic_field.json"].read_text(encoding="utf-8"))
-            assert sf.get("system_version") == "0.5.0"
+            assert sf.get("system_version") == "0.5.1"
             assert sf.get("pipeline_version") == "e2e_v2"
             assert sf.get("matrices_provenance") == "ontology"
             cal = json.loads(written["run_output_e2e_field_calibration.json"].read_text(encoding="utf-8"))

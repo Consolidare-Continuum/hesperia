@@ -10,6 +10,6 @@ See LEGAL_NOTICE.md for full terms.
 
 Older numbered specs and release notes (00_, 10_, 11_, …) are under:
 
-- `docs/archive/specs_history/`
+- `legacy/docs/specs_history/`
 
 Use for reference only. Active specs live in `docs/specs/` (schema, profiles, governance, releases).

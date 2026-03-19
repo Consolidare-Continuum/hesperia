@@ -2,15 +2,15 @@
 # All public outputs MUST trace to these fields + build_id (injected at runtime).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-system_version: "0.5.0"
+system_version: "0.5.1"
 release_stage: "dynamic_integration"
 
 components:
-  core_engine: "0.5.0"
-  dynamics: "0.5.0"
-  triz: "0.5.0"
-  clinical: "0.5.0-experimental"
-  calibration: "0.5.0"
+  core_engine: "0.5.1"
+  dynamics: "0.5.1"
+  triz: "0.5.1"
+  clinical: "0.5.1-experimental"
+  calibration: "0.5.1"
 
 schema:
   public_output: "v1"

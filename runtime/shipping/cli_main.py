@@ -225,7 +225,7 @@ def main() -> int:
             print(f"build: {BUILD or 'unknown'}")
         except Exception:
             print("HESPERIA Runtime")
-            print("version: 0.5.0")
+            print("version: 0.5.1")
             print("commit: unknown")
             print("build: unknown")
         return 0

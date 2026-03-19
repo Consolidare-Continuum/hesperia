@@ -2,9 +2,9 @@
 
 ## 1. Policy contradiction (coherent vs polarized)
 
-- **Inputs**: `benchmarks/triz/corpus_policy_coherent` vs `corpus_policy_polarized`.
+- **Inputs**: `benchmarks/extensions/triz/corpus_policy_coherent` vs `corpus_policy_polarized`.
 - **Show**: side-by-side **Policy Tension Score**, family hotspots, dominant TRIZ patterns.
-- **Artifacts**: `examples/triz_demo/triz/outputs/demo1_*` (JSON, CSV, executive markdown).
+- **Artifacts**: `examples/extensions/triz_demo/triz/outputs/demo1_*` (JSON, CSV, executive markdown).
 
 ## 2. Innovation discovery (sparse cross-sector)
 
@@ -21,11 +21,11 @@
 ## Running demos
 
 ```bash
-python3 examples/triz_demo/triz/make_demo_reports.py
+python3 examples/extensions/triz_demo/triz/make_demo_reports.py
 ```
 
 ## CLI (single product)
 
 ```bash
-python3 tools/triz/run_policy_detector.py --corpus benchmarks/triz/corpus_policy_polarized
+python3 tools/triz/run_policy_detector.py --corpus benchmarks/extensions/triz/corpus_policy_polarized
 ```

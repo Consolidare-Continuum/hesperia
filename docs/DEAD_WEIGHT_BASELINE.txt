@@ -1,0 +1,14 @@
+# Hesperia — dead-weight budget (unreferenced .py under hesperia/, core/, sphere/)
+# BFS seeds: runtime/ + tests/  (see tools/find_unreferenced_files.py)
+#
+# CI: python3 tools/check_dead_weight_budget.py
+#
+# RECORDED_COUNT: last audited steady-state count (update when drift budget is consumed).
+# MAX_INCREASE_FROM_RECORDED: fail if (current - RECORDED) exceeds this without bumping RECORDED_COUNT.
+# MAX_UNREFERENCED: hard ceiling (absolute cap).
+#
+# After removing dead code, lower RECORDED_COUNT to match the new count.
+
+MAX_UNREFERENCED=75
+RECORDED_COUNT=61
+MAX_INCREASE_FROM_RECORDED=5

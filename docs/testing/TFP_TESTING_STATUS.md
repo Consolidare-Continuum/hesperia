@@ -61,7 +61,7 @@ session text
 | Explainability (activation_trace) | `hesperia.engine.explainability` | `test_governance_explainability_benchmark.py` |
 | Session logging (JSONL) | `hesperia.logging.session_log` | `test_governance_explainability_benchmark.py` |
 | Graph persistence | `hesperia.graph.graph_store` | `test_governance_explainability_benchmark.py` |
-| Benchmark sessions | `tests/clinical/benchmark_sessions.yaml` | `test_governance_explainability_benchmark.py` (load + run one) |
+| Benchmark sessions | `tests/experimental/clinical_tfp/benchmark_sessions.yaml` | `test_governance_explainability_benchmark.py` (load + run one) |
 | Safety (min evidence) | `research.clinical_tfp.safety_layer` | `test_governance_explainability_benchmark.py` |
 | Corpus + experiments | `hesperia.corpus`, `hesperia.experiments` | — |
 
@@ -79,19 +79,19 @@ pytest tests/nlp/test_session_structure.py tests/nlp/test_role_direction_and_tem
 pytest tests/nlp/test_activation_enhanced.py -v
 
 # Operational analytics (dialogue, intervention, affect, object, loops, coupling, summary)
-pytest tests/clinical/test_operational_analytics.py -v
+pytest tests/experimental/clinical_tfp/test_operational_analytics.py -v
 
 # Text norm, negation, n-grams, segmentation
 pytest tests/nlp/test_text_norm_negation_ngram.py -v
 
 # Governance, explainability, logging, graph, benchmark, safety, config
-pytest tests/clinical/test_governance_explainability_benchmark.py -v
+pytest tests/experimental/clinical_tfp/test_governance_explainability_benchmark.py -v
 ```
 
 Single batch:
 
 ```bash
-pytest tests/nlp/test_session_structure.py tests/nlp/test_role_direction_and_temporal.py tests/nlp/test_activation_enhanced.py tests/clinical/test_operational_analytics.py tests/nlp/test_text_norm_negation_ngram.py tests/clinical/test_governance_explainability_benchmark.py -v
+pytest tests/nlp/test_session_structure.py tests/nlp/test_role_direction_and_temporal.py tests/nlp/test_activation_enhanced.py tests/experimental/clinical_tfp/test_operational_analytics.py tests/nlp/test_text_norm_negation_ngram.py tests/experimental/clinical_tfp/test_governance_explainability_benchmark.py -v
 ```
 
 ---

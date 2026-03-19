@@ -30,4 +30,4 @@ Paths are **gitignored** by default (see `.gitignore`).
 
 ## Demo outputs
 
-TRIZ demo artifacts live under **`examples/triz_demo/triz/outputs/`** (committed small samples). Full reruns should go to `outputs/reports/` locally.
+TRIZ demo artifacts live under **`examples/extensions/triz_demo/triz/outputs/`** (committed small samples). Full reruns should go to `outputs/reports/` locally.

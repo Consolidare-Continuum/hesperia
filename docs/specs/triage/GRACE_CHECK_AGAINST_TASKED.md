@@ -4,7 +4,7 @@ Grace — compliance check: implementation vs tasked program.
 
 # Grace check — tasked vs delivered
 
-**Against:** [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](../governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) · Ethan v3 · [GRACE_TRIAGE_REPORT.md](GRACE_TRIAGE_REPORT.md)  
+**Against:** [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](../governance/working/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) · Ethan v3 · [GRACE_TRIAGE_REPORT.md](GRACE_TRIAGE_REPORT.md)  
 **Last updated:** 2026-03-18 (Grace receipt — Ethan + Gena tranche)
 
 ---
@@ -27,8 +27,8 @@ Program task status remains **OPEN** only for **follow-on scope** (full Ξ, L10 
 | **Phase 2** | **Met** | L5/L6 blend, 288 families, tests. |
 | **Phase 3** | **Met** | L4 family-proxy subgraph, hex cap, tests. |
 | **Phase 4** | **Met** | L8 clusters, gravity, fronts, tests. |
-| **Cross-cutting TRIZ / Gena** | **Met for tranche** | Rows → `c_sig`; optional TRIZ off; **Ξ proxy** documented; [GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](../governance/GENA-DYNAMICS-INTEGRATION-ANALYSIS.md). Full-graph Ξ **deferred**. |
-| **Deliverable 6 (close-out)** | **Met** | [REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md](../governance/REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md). |
+| **Cross-cutting TRIZ / Gena** | **Met for tranche** | Rows → `c_sig`; optional TRIZ off; **Ξ proxy** documented; [GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](../governance/working/GENA-DYNAMICS-INTEGRATION-ANALYSIS.md). Full-graph Ξ **deferred**. |
+| **Deliverable 6 (close-out)** | **Met** | [REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md](../governance/working/REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md). |
 
 ---
 

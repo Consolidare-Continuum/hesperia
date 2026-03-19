@@ -480,7 +480,7 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
     from hesperia.nlp.session_parser import analyze_session, analyze_session_speaker_aware
     from runtime.services.analysis_service import run_structural_analysis_batch
 
-    smoke_path = _HESPERIA / "assets" / "testing" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
+    smoke_path = _HESPERIA / "tests" / "fixtures" / "clinical_tfp" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
     if smoke_path.exists():
         payload = json.loads(smoke_path.read_text(encoding="utf-8"))
         sessions = list(payload.get("sessions") or [])
@@ -607,7 +607,7 @@ def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
     from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
 
     assets = _HESPERIA / "lexicon" / "curated"
-    smoke_path = _HESPERIA / "assets" / "testing" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
+    smoke_path = _HESPERIA / "tests" / "fixtures" / "clinical_tfp" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
     if smoke_path.exists():
         payload = json.loads(smoke_path.read_text(encoding="utf-8"))
         sessions = list(payload.get("sessions") or [])

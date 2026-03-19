@@ -18,7 +18,7 @@ from hesperia.product.api_contracts.triz_export_v1 import wrap_triz_export_respo
 
 
 def test_multicorpus_batch(tmp_path: Path) -> None:
-    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "triz" / "corpus_policy_coherent"
+    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "extensions" / "triz" / "corpus_policy_coherent"
     spec = json.loads((bench / "graph.json").read_text(encoding="utf-8"))
     tenant = TenantContext(tenant_id="t_batch", project_id="p1")
     r = run_corpus_batch(
@@ -33,7 +33,7 @@ def test_multicorpus_batch(tmp_path: Path) -> None:
 
 
 def test_compare_policy() -> None:
-    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "triz"
+    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "extensions" / "triz"
     a = json.loads((bench / "corpus_policy_coherent" / "graph.json").read_text())
     b = json.loads((bench / "corpus_policy_polarized" / "graph.json").read_text())
     from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
@@ -55,7 +55,7 @@ def test_tenant_isolation_raises() -> None:
 
 
 def test_api_wraps() -> None:
-    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "triz" / "corpus_policy_polarized"
+    bench = Path(__file__).resolve().parents[2] / "benchmarks" / "extensions" / "triz" / "corpus_policy_polarized"
     spec = json.loads((bench / "graph.json").read_text(encoding="utf-8"))
     from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
 

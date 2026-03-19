@@ -33,8 +33,8 @@ Transcripts can be supplied as JSON in one of these forms:
   ```
 
 Example files:
-- `assets/testing/tfp_kernberg/session_transcripts_example.json` — Russian TFP sessions (use with Russian lexicon when available).
-- `assets/testing/tfp_kernberg/session_transcripts_smoke_english.json` — English snippets for smoke test with default assets.
+- `tests/fixtures/clinical_tfp/tfp_kernberg/session_transcripts_example.json` — Russian TFP sessions (use with Russian lexicon when available).
+- `tests/fixtures/clinical_tfp/tfp_kernberg/session_transcripts_smoke_english.json` — English snippets for smoke test with default assets.
 
 ---
 
@@ -46,7 +46,7 @@ From repo root, with default assets (lexicon/curated). Use the **English smoke**
 
 ```bash
 python3 -m runtime.shipping.cli_main batch-analyze \
-  --input assets/testing/tfp_kernberg/session_transcripts_smoke_english.json \
+  --input tests/fixtures/clinical_tfp/tfp_kernberg/session_transcripts_smoke_english.json \
   --out results/tfp_kernberg_sessions.json
 ```
 
@@ -54,7 +54,7 @@ For Russian transcripts (once Russian assets are under `--assets`):
 
 ```bash
 python3 -m runtime.shipping.cli_main batch-analyze \
-  --input assets/testing/tfp_kernberg/session_transcripts_example.json \
+  --input tests/fixtures/clinical_tfp/tfp_kernberg/session_transcripts_example.json \
   --out results/tfp_kernberg_sessions.json
 ```
 
@@ -115,7 +115,7 @@ python3 -m runtime.shipping.cli_main analyze \
 ## 6. File layout (suggested)
 
 ```
-assets/testing/tfp_kernberg/
+tests/fixtures/clinical_tfp/tfp_kernberg/
   session_transcripts_example.json   # example input
   (optional) ru_lexicon/             # when Russian assets are added
 

@@ -28,7 +28,7 @@ Run this checklist against the unpacked bundle or the contents of the zip/tarbal
 | **Internal docs** | No docs/internal/; no MATH_LAYER_REGISTRY, PIPELINE_LAYER_REGISTRY. |
 | **Mixed runners** | No scripts named run_l1_l2, run_e2e_all, run_sphere_math_values, etc. as part of the bundle. (If a tarball includes repo copy by mistake, those must not be advertised.) |
 | **Debug tools** | No layer dumps, trace scripts, *_dump_*.py, debug_*.py. |
-| **Specs history** | No docs/archive/specs_history/ or internal method specs in bundle. |
+| **Specs history** | No legacy/docs/specs_history/ or internal method specs in bundle. |
 | **Raw dictionaries** | No unprojected Dict A/B or ontology build artifacts. |
 | **Topology helpers as public API** | No doc or schema that exposes AREA_FAMILY_MAP, area/family counts. |
 | **Math registries** | No doc that lists layer formulas or transformation chain. |

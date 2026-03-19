@@ -34,14 +34,16 @@ This directory keeps **process, triage, governance, and project** notes (descrip
 | DYNAMICS_EQUATION_INDEX.md | [specs/dynamics/DYNAMICS_EQUATION_INDEX.md](../../specs/dynamics/DYNAMICS_EQUATION_INDEX.md) |
 | HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md | [specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../../specs/dynamics/HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) |
 
-## Still under `docs/specs/` (workflow / triage / governance)
+## Still under `docs/specs/` (workflow / triage only)
+
+Governance task logs and project memos were moved to **`docs/governance/working/`** and **`docs/governance/project/`** so this tree stays triage-centric.
 
 | Doc | Role |
 |-----|------|
-| [governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | Grace + team implementation notes |
-| [governance/ETHAN-OPEN-WORKFLOW-PROCEED.md](governance/ETHAN-OPEN-WORKFLOW-PROCEED.md) | Ethan open-workflow proceed |
 | [TRIAGE_TASK_GRACE.md](TRIAGE_TASK_GRACE.md) | Grace triage task |
 | [triage/GRACE_TRIAGE_REPORT.md](triage/GRACE_TRIAGE_REPORT.md) | Triage report |
 | [TRIAGE_CHECKLIST.md](TRIAGE_CHECKLIST.md) | Optional checklist |
+
+**Ethan / Grace working docs:** [docs/governance/working/](../governance/working/) (e.g. `TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md`, `ETHAN-OPEN-WORKFLOW-PROCEED.md`).
 
 **Hub:** [HESPERIA_SYSTEM_AWARENESS.md](../HESPERIA_SYSTEM_AWARENESS.md) · **Cursor proceed:** [CURSOR_OPEN_WORKFLOW.md](../CURSOR_OPEN_WORKFLOW.md).

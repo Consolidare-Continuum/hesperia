@@ -10,14 +10,26 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 import pytest
 
-# Forbidden terms that must not appear in any serialized output (keys or values)
-FORBIDDEN_OUTPUT = (
-    "sphere", "hex", "topology", "bridge", "area11", "family240",
-    "coordinates", "vector3", "side_id", "layer_", "internal_layer",
+# Forbidden terms in serialized output. Use word-boundary patterns where a substring would
+# false-positive on approved public tokens (e.g. "hex_microcell" must not trip "hex").
+_FORBIDDEN_SUBSTRINGS = (
+    "topology",
+    "area11",
+    "family240",
+    "coordinates",
+    "vector3",
+    "side_id",
+    "layer_",
+    "internal_layer",
+)
+_FORBIDDEN_WORD_RE = re.compile(
+    r"\b(?:sphere|hex|bridge)\b",
+    re.IGNORECASE,
 )
 
 
@@ -86,9 +98,11 @@ def test_analyze_no_forbidden_in_output(sample_texts, assets_root):
         pytest.skip("no sealed_runtime_inputs")
     from runtime.services.analysis_service import run_structural_analysis
     out = run_structural_analysis(sample_texts[0], assets_root=assets_root, stages="full")
-    s = json.dumps(out).lower()
-    for bad in FORBIDDEN_OUTPUT:
-        assert bad not in s, f"forbidden term '{bad}' in output"
+    s = json.dumps(out)
+    assert _FORBIDDEN_WORD_RE.search(s) is None, "forbidden word (sphere|hex|bridge) in output"
+    sl = s.lower()
+    for bad in _FORBIDDEN_SUBSTRINGS:
+        assert bad not in sl, f"forbidden term '{bad}' in output"
 
 
 def test_compare_deterministic(sample_texts, assets_root):

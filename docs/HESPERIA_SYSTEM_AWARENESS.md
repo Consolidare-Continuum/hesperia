@@ -135,4 +135,4 @@ Hesperia competes on **determinism + sealed projection + topology-aware structur
 
 ---
 
-*Maintainers: align with **Engine Dynamics v0.5** ([HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md)) and E2E contracts; deep-dive archive: `docs/research/HESPERIA_RAD_DEEP_RESEARCH_*.md`.*
+*Maintainers: align with **Engine Dynamics v0.5** ([HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md)) and E2E contracts; deep-dive archive: `research/reports/HESPERIA_RAD_DEEP_RESEARCH_*.md`.*

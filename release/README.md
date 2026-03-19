@@ -1,9 +1,12 @@
 # HESPERIA release bundle
 
-## v0.5.0 sealed audit package (Task 5)
+## v0.5.1 sealed audit package (current enforcement baseline)
 
-The **canonical audit tree** for Engine Dynamics v0.5.0 is **`release/v0.5.0/`** (manifest, checksums, frozen schema, capabilities copy, specs index, pytest report, E2E reference JSON).  
-Build/regenerate: `python3 tools/release/build_release_audit_v0_5_0.py` — see **`release/v0.5.0/README.md`**.
+The **current** sealed audit tree is **`release/v0.5.1/`**. Regenerate: `python3 tools/release/build_release_audit_v0_5_1.py` — see **`release/v0.5.1/README.md`**.
+
+## v0.5.0 sealed audit package (historical)
+
+Frozen **v0.5.0** baseline remains under **`release/v0.5.0/`** (do not overwrite). Builder history: `python3 tools/release/build_release_audit_v0_5_0.py` — **`release/v0.5.0/README.md`**.
 
 ---
 

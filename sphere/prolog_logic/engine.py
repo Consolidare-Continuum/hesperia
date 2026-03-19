@@ -18,7 +18,7 @@ from sphere.prolog_logic.rule_compiler import compile_knowledge_base
 from sphere.prolog_logic.knowledge_base import build_knowledge_base
 from sphere.prolog_logic.inference_executor import infer
 
-# Frozen input fact schema (docs/refactor/prolog_fact_schema.md)
+# Frozen input fact schema (legacy/docs/refactor_notes/prolog_fact_schema.md)
 # Emission rule: emitted_fact ∈ ALLOWED_INPUT_FACTS ∪ OPTIONAL_DIAGNOSTIC_FACTS. Everything else ignored.
 ALLOWED_INPUT_FACTS = frozenset({
     "dominant_area",

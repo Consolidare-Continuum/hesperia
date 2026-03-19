@@ -43,7 +43,7 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 
 - **Module:** `hesperia/nlp/dialogue_structure.py`
 - Turn, Response, InteractionPair (patient → therapist → patient reaction); `build_turns()`, `build_interaction_pairs()`.
-- **Tests:** `tests/clinical/test_operational_analytics.py`
+- **Tests:** `tests/experimental/clinical_tfp/test_operational_analytics.py`
 
 ## 8. Therapist intervention classification
 
@@ -118,9 +118,9 @@ Session summary: tasks completed for TFP (Transference-Focused Psychotherapy) / 
 - **Experiments:** `hesperia/experiments/experiment_runner.py` (compare ontology versions).
 - **Graph:** `hesperia/graph/graph_store.py` (JSON, GraphML).
 - **Config:** `hesperia/config/clinical_config.yaml`, `config_loader.py`.
-- **Benchmark:** `tests/clinical/benchmark_sessions.yaml`.
+- **Benchmark:** `tests/experimental/clinical_tfp/benchmark_sessions.yaml`.
 - **Safety:** `research/clinical_tfp/safety_layer.py` (minimum evidence threshold).
-- **Tests:** `tests/clinical/test_governance_explainability_benchmark.py`.
+- **Tests:** `tests/experimental/clinical_tfp/test_governance_explainability_benchmark.py`.
 
 ## 20. Validation corpus and TFP testing docs
 

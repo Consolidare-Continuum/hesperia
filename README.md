@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia Engine Dynamics
 
-**Canonical release: v0.5.0** — deterministic multiscale semantic physics: **concept → hex → family → area → product signals → HSPR**, with a sealed **L1–L9** structural pipeline, **KME**, and optional **TRIZ** (not on the minimal product HTTP surface by default). Same input and configuration yield the same output (no learning in the core path).
+**Canonical release: v0.5.1** — deterministic multiscale semantic physics: **concept → hex → family → area → product signals → HSPR**, with a sealed **L1–L9** structural pipeline, **KME**, and optional **TRIZ** (not on the minimal product HTTP surface by default). Same input and configuration yield the same output (no learning in the core path).
 
 **Author:** Platonov Igor ([@igareosh](https://github.com/igareosh)) · [igareosh.com](https://igareosh.com)
 
@@ -21,7 +21,7 @@ See LEGAL_NOTICE.md for full terms.
 | **Product line** | **Hesperia Engine Dynamics** (Engine Dynamics v0.5) |
 | **Version authority** | Root [`VERSION.yaml`](VERSION.yaml) (also [`hesperia/VERSION.yaml`](hesperia/VERSION.yaml) → symlink) + [`pyproject.toml`](pyproject.toml) `version` |
 | **Sealed public surface** | Mandatory projection via [`hesperia.engine.projection`](hesperia/engine/projection/); see [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md) |
-| **Release audit** | [`release/v0.5.0/`](release/v0.5.0/) — regenerate with `python3 tools/release/build_release_audit_v0_5_0.py` ([`final_gate_status.json`](release/v0.5.0/final_gate_status.json) must allow tag) |
+| **Release audit** | [`release/v0.5.1/`](release/v0.5.1/) — `python3 tools/release/build_release_audit_v0_5_1.py` ([`final_gate_status.json`](release/v0.5.1/final_gate_status.json) → `sealed: true` on clean tree). Historical: [`release/v0.5.0/`](release/v0.5.0/). |
 | **License** | **Restricted Research Disclosure** — inspection and reference only. See [`LEGAL_NOTICE.md`](LEGAL_NOTICE.md). |
 
 ---
@@ -48,7 +48,7 @@ See LEGAL_NOTICE.md for full terms.
 | [`docs/`](docs/) | Architecture, governance, **Cursor / release** guides |
 | [`tests/`](tests/) | Pytest (unit, integration, E2E) |
 | [`tools/`](tools/) | Validators, seal inventory, **release audit** (`tools/release/`) |
-| [`release/v0.5.0/`](release/v0.5.0/) | Sealed audit bundle (manifest, determinism, schema, audit, **final gate**) |
+| [`release/v0.5.1/`](release/v0.5.1/) | **Current** sealed audit bundle · [`release/v0.5.0/`](release/v0.5.0/) historical |
 | [`legacy/`](legacy/) | Archive — **not** part of the active execution stack |
 
 Policies: [`REPO_STRUCTURE_POLICY.md`](REPO_STRUCTURE_POLICY.md) · [`EXTENSION_STATUS.yaml`](EXTENSION_STATUS.yaml) · [`GENERATED_ARTIFACT_POLICY.md`](GENERATED_ARTIFACT_POLICY.md)
@@ -113,18 +113,18 @@ Artifacts default under `assets/artifacts/e2e/` unless overridden.
 
 ## Release, seal, and GitHub sync
 
-**Before claiming a sealed v0.5.0 or pushing release-audit changes:**
+**Before claiming a sealed v0.5.1 or pushing release-audit changes:**
 
-1. Follow [`docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md`](docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md).
+1. Follow [`docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md`](docs/CODEX_EXECUTION_CHECKLIST_v0_5_0_SEAL.md) (same discipline).
 2. Use [`docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md`](docs/CURSOR_REPO_AND_RELEASE_BEST_PRACTICES.md) for **pre-push validation** and GitHub hygiene.
-3. Regenerate audit (full pytest, clean tree, fixed timestamp optional):
+3. Regenerate audit (full pytest, **clean git tree**, fixed timestamp recommended):
 
    ```bash
-   export HESPERIA_RELEASE_BUILD_TIMESTAMP=2026-03-19T12:00:00Z
-   python3 tools/release/build_release_audit_v0_5_0.py
+   export HESPERIA_RELEASE_BUILD_TIMESTAMP=2026-03-19T18:00:00Z
+   python3 tools/release/build_release_audit_v0_5_1.py
    ```
 
-4. Confirm `release/v0.5.0/final_gate_status.json` → `"sealed": true` before `git tag v0.5.0`.
+4. Confirm `release/v0.5.1/final_gate_status.json` → `"sealed": true` before `git tag v0.5.1`.
 
 **Docker (product slice):** `Dockerfile.shipping` / `Dockerfile.product` — see [`release/README.md`](release/README.md).
 

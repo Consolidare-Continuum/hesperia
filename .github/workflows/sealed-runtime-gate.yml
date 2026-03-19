@@ -2,8 +2,15 @@
 # Runs on main and on PRs targeting main. Blocks merge if checks fail.
 #
 # Checks:
-#   - tools/check_import_boundary.py  (no forbidden imports in public runtime)
-#   - tools/sealing_scan.py           (no reflective terms in public tree)
+#   - tools/check_import_boundary.py      (no forbidden imports in public runtime)
+#   - tools/sealing_scan.py               (no reflective terms in public tree)
+#   - tools/verify_public_api_snapshot.py (canonical schema == frozen snapshot)
+#   - tools/gen_import_graph_doc.py       (IMPORT_GRAPH docs must match generator)
+#   - tools/check_forbidden_zone_imports.py (no research/legacy in strict trees)
+#   - tools/validate_shipping_surface.py    (runtime/shipping import allowlist)
+#   - tools/check_dead_weight_budget.py       (unreferenced .py count cap)
+#   - tools/audit_shipping_allowlist.py       (allowlist prefixes used + creep cap)
+#   - tools/check_engine_projection_boundary.py (no core.projection outside engine/projection/)
 #
 # See docs/governance/SHIPPING_PATH_POLICY_v1.md and SEALED_RUNTIME_RELEASE_GATE_v1.md.
 
@@ -37,5 +44,50 @@ jobs:
 
       - name: Sealing scan
         run: python3 tools/sealing_scan.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Public API schema snapshot (no drift)
+        run: python3 tools/verify_public_api_snapshot.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Import graph doc drift check (public + engine)
+        run: |
+          python3 tools/gen_import_graph_doc.py | diff -q docs/IMPORT_GRAPH_v0_5_0.md -
+          python3 tools/gen_import_graph_doc.py --profile engine | diff -q docs/IMPORT_GRAPH_ENGINE_v0_5_0.md -
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Forbidden zone imports (research / legacy)
+        run: python3 tools/check_forbidden_zone_imports.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Shipping surface allowlist
+        run: python3 tools/validate_shipping_surface.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Dead-weight budget (unreferenced modules)
+        run: python3 tools/check_dead_weight_budget.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Shipping allowlist audit (strict + creep cap)
+        run: python3 tools/audit_shipping_allowlist.py --strict-unused --max-total-prefixes 12
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Engine projection boundary (layer rule)
+        run: python3 tools/check_engine_projection_boundary.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Pytest integrity (spine trace, semantic, guards, schema snapshot)
+        run: |
+          python3 -m pytest tests/test_runtime_spine_integrity.py \
+            tests/test_semantic_output_signature.py tests/test_guard_invariants_locked.py \
+            tests/test_tool_contracts_locked.py tests/test_public_api_snapshot.py -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}

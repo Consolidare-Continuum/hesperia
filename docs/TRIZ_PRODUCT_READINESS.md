@@ -22,7 +22,7 @@
 
 ## Benchmark behavior
 
-- Corpora under `benchmarks/triz/` with `corpus.txt` + `graph.json`.
+- Corpora under `benchmarks/extensions/triz/` with `corpus.txt` + `graph.json`.
 - Manifest defines expected **qualitative profiles** (low/medium/high tension, etc.).
 - **Profile fit score** is a stability/demo metric, not ground truth.
 

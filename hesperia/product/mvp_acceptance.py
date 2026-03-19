@@ -39,7 +39,7 @@ def run_mvp_acceptance(
     passed: list[str] = []
     artifacts: list[str] = []
     root = Path(__file__).resolve().parents[2]
-    bench = benchmark_root or root / "benchmarks" / "triz"
+    bench = benchmark_root or root / "benchmarks" / "extensions" / "triz"
     tmp = tmp_output or root / "outputs" / "_mvp_acceptance_test" / "proj1"
 
     # Functional: analyze end-to-end

@@ -31,15 +31,13 @@ keys/
 outputs/*
 !outputs/.gitkeep
 
-# Data and logs
-assets/v040/
-assets/v041/
+# Data and logs (tracked: legacy/assets/data/* historical dumps; active: assets/data/*)
 
 # E2E: commit assets/artifacts/e2e/run_output_e2e_*.json after run (see docs/E2E_RUN_ORDER.md).
 # Local-only full dynamics bundle:
 assets/artifacts/e2e_full_deliverables/
 # Local session notes (relocate from repo root if present)
-docs/research/_noone_local/
+research/reports/_noone_local/
 hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/
