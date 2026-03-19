@@ -33,9 +33,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies (if needed for imports)
+      - name: Install dependencies (if needed for imports + pytest)
         run: |
           if [ -f requirements.txt ]; then pip install --quiet -r requirements.txt; fi
+          pip install --quiet pytest
 
       - name: Import boundary check
         run: python3 tools/check_import_boundary.py
