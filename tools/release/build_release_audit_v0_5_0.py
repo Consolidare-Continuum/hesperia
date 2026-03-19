@@ -430,6 +430,11 @@ def main() -> int:
         print(e, file=sys.stderr)
         return 1
 
+    # Snapshot before writing under release/v0.5.0/ (those writes would otherwise look "dirty").
+    dirty = _git_dirty()
+    if dirty:
+        reasons_fail.append("git_worktree_dirty")
+
     commit = _git_commit()
     now = datetime.now(timezone.utc)
     seal_ts = os.environ.get("HESPERIA_RELEASE_BUILD_TIMESTAMP", "").strip()
@@ -593,10 +598,6 @@ def main() -> int:
     test_report = _run_pytest(args.quick)
     if test_report["exit_code"] != 0:
         reasons_fail.append("pytest_failed")
-
-    dirty = _git_dirty()
-    if dirty:
-        reasons_fail.append("git_worktree_dirty")
 
     ver = _version_authority_check()
     if not ver["pass"]:
