@@ -70,13 +70,23 @@ def main() -> int:
 
     shutil.copytree(SRC, TMP, ignore=_ignore)
 
+    # Deterministic entry order: collect, sort by archive-relative name, then write.
+    entries: list[tuple[str, str]] = []
+    for root, _, files in os.walk(tmp_root):
+        for f in files:
+            full = os.path.join(root, f)
+            rel = os.path.relpath(full, tmp_root)
+            rel_n = _norm_rel(rel)
+            # Skip excluded prefixes (keeps bundle contents aligned with copytree ignore).
+            if should_exclude(rel_n):
+                continue
+            entries.append((rel_n, full))
+
+    entries.sort(key=lambda x: x[0])
+
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-        for root, _, files in os.walk(tmp_root):
-            for f in files:
-                full = os.path.join(root, f)
-                rel = os.path.relpath(full, tmp_root)
-                rel_n = _norm_rel(rel)
-                z.write(full, rel_n)
+        for rel_n, full in entries:
+            z.write(full, rel_n)
 
     shutil.rmtree(TMP)
     print(f"build_release_bundle: wrote {zip_path}")

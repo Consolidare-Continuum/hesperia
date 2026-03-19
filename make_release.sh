@@ -15,5 +15,8 @@ python3 tools/validate_version_consistency.py
 echo "[4/4] Building portable release bundle (zip)"
 python3 tools/build_release_bundle.py
 
+echo "[5/5] Verifying bundle integrity + determinism"
+python3 tools/verify_release_bundle.py
+
 echo "[OK] Release v0.5.1 ready"
 
