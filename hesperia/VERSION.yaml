@@ -1,1 +1,42 @@
-../VERSION.yaml
+# Hesperia Engine Dynamics — canonical system version (single source of truth).
+# All public outputs MUST trace to these fields + build_id (injected at runtime).
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+
+system_version: "0.5.1"
+release_stage: "dynamic_integration"
+
+components:
+  core_engine: "0.5.1"
+  dynamics: "0.5.1"
+  triz: "0.5.1"
+  clinical: "0.5.1-experimental"
+  calibration: "0.5.1"
+
+schema:
+  public_output: "v1"
+  internal_graph: "v1"
+
+pipelines:
+  e2e: "e2e_v2"
+  structural: "structural_v1"
+  api: "api_v1"
+  triz: "triz_v1"
+
+# Governed interaction matrices (L_F, C_F, R_F) under assets/matrices/production/
+# Concept→Hex P_CH under assets/matrices/pch/
+matrices:
+  production_bundle: "v1"
+  pch_bundle: "v1"
+
+# Governed calibration profiles: assets/calibration/profiles_{bundle}.json
+calibration:
+  profile_bundle: "v1"
+  active_profile: "default_v1"
+
+defaults:
+  calibration_profile: "default_v1"
+
+# Filled at runtime by hesperia.system.version (never commit secrets here)
+build:
+  timestamp: null
+  git_commit: null

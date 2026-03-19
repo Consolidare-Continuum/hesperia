@@ -35,12 +35,16 @@ def main() -> int:
     if sys_v != pp_v:
         errs.append(f"VERSION.yaml system_version ({sys_v!r}) != pyproject version ({pp_v!r})")
 
-    hesperia_link = _REPO / "hesperia" / "VERSION.yaml"
-    if hesperia_link.is_file():
-        if hesperia_link.resolve() != _VERSION_YAML.resolve():
-            errs.append("hesperia/VERSION.yaml does not resolve to root VERSION.yaml")
+    # Hard requirement: no filesystem/symlink dependency.
+    # `hesperia/VERSION.yaml` must be a real file with the same content as the root `VERSION.yaml`.
+    hesperia_path = _REPO / "hesperia" / "VERSION.yaml"
+    if hesperia_path.is_file():
+        root_text = _VERSION_YAML.read_text(encoding="utf-8").strip()
+        hesperia_text = hesperia_path.read_text(encoding="utf-8").strip()
+        if root_text != hesperia_text:
+            errs.append("hesperia/VERSION.yaml content differs from root VERSION.yaml")
     else:
-        errs.append("hesperia/VERSION.yaml missing (expected symlink to ../VERSION.yaml)")
+        errs.append("hesperia/VERSION.yaml missing (expected identical copy of ../VERSION.yaml)")
 
     sch = doc.get("schema") or {}
     if not sch.get("public_output"):

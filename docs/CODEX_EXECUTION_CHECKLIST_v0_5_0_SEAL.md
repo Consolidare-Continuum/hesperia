@@ -13,7 +13,7 @@ Execute phases in order. If a gate fails, stop and fix before continuing.
 
 ## Phase 1: Version authority
 
-- Canonical file: **repository root** `VERSION.yaml`. Symlink: `hesperia/VERSION.yaml` -> `../VERSION.yaml`.
+- Canonical file: **repository root** `VERSION.yaml`. `hesperia/VERSION.yaml` must be a real file copy (content-identical), not a symlink.
 - Loader: `hesperia.system.version`.
 - Validate: `python3 tools/validate_version_consistency.py`
 
