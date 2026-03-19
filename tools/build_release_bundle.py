@@ -13,6 +13,7 @@ import zipfile
 
 
 SRC = "."
+TMP = "_release_tmp"
 
 EXCLUDE_PREFIXES = [
     ".git",
@@ -46,24 +47,38 @@ def main() -> int:
     version = _version_from_env_or_default()
     out_base = f"release_bundle_v{version}"
 
-    # Fast path: zip directly from SRC while excluding known problematic trees.
-    # This keeps the bundle portable (normalized entry paths) without the heavy
-    # cost of copying the entire repository to a temp directory.
-    src_root = os.path.abspath(SRC)
     zip_path = f"{out_base}.zip"
+    if os.path.exists(TMP):
+        shutil.rmtree(TMP)
+
     if os.path.exists(zip_path):
         os.remove(zip_path)
 
-    # ZIP_STORED avoids expensive compression and keeps the bundle portable.
-    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_STORED) as z:
-        for root, _, files in os.walk(src_root):
+    src_root = os.path.abspath(SRC)
+    tmp_root = os.path.abspath(TMP)
+
+    # Copy repo into a temp dir so the produced zip does not depend on any
+    # on-disk quirks (paths/encoding) from the original working tree.
+    def _ignore(dir_path: str, names: list[str]) -> set[str]:
+        ignored: set[str] = set()
+        for name in names:
+            full = os.path.join(dir_path, name)
+            rel = os.path.relpath(full, src_root)
+            if should_exclude(rel):
+                ignored.add(name)
+        return ignored
+
+    shutil.copytree(SRC, TMP, ignore=_ignore)
+
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
+        for root, _, files in os.walk(tmp_root):
             for f in files:
                 full = os.path.join(root, f)
-                rel = os.path.relpath(full, src_root)
+                rel = os.path.relpath(full, tmp_root)
                 rel_n = _norm_rel(rel)
-                if should_exclude(rel_n):
-                    continue
                 z.write(full, rel_n)
+
+    shutil.rmtree(TMP)
     print(f"build_release_bundle: wrote {zip_path}")
     return 0
 
