@@ -15,3 +15,9 @@ This repository is released under a **Restricted Research Disclosure** license. 
 - Task queue for this repo: [docs/CURSOR_OPEN_WORKFLOW.md](docs/CURSOR_OPEN_WORKFLOW.md).
 
 For any use beyond the license terms, contact the author.
+
+## DLCR / Dict bumps (Ethan PO-29)
+
+Changing ``assets/data/engine_dynamics_v060/dict_a`` or ``dict_b`` (or resolver scoring) requires
+``python3 tools/check_dlcr_regression.py`` clean and, for release lines, a pinned note in the
+change log or audit bundle. See [ETHAN-DLCR-INTEGRATION-RUNBOOK.md](docs/governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md).

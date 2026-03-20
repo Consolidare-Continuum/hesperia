@@ -20,6 +20,7 @@ import json
 import math
 import re
 import unicodedata
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -209,24 +210,52 @@ def attribute(
     dict_a: dict[str, dict[str, Any]],
     dict_b: dict[str, int],
     default_altitude_b: float = 0.5,
+    *,
+    exclude_landing_sources: frozenset[str] | None = None,
 ) -> tuple[list[tuple[int, float]], dict[str, Any]]:
     """
     For each token: Dict A exact match -> (familyGlobal, altitude); else Dict B -> (familyGlobal, default_altitude_b); else ignore.
     Returns (list of (familyGlobal, altitude) for matched tokens), extended_metrics dict.
+
+    Ethan PO-11/12: when ``exclude_landing_sources`` contains ``\"A\"``, Dict-A **direct family** hits
+    are skipped (word→family bypass excluded). If the same token exists in **Dict B** (``dict_b`` /
+    b0 map), apply a deterministic **B0 fallback** (same as normal B path). Metrics:
+    ``excluded_by_guard``, ``b_fallback_after_a_excluded``.
     """
     default_altitude_b = _clamp_altitude(default_altitude_b)
     matched: list[tuple[int, float]] = []
     total = len(tokens)
-    landing_counts = {"A": 0, "B0": 0, "B1": 0, "NONE": 0}
+    landing_counts: dict[str, int] = {"A": 0, "B0": 0, "B1": 0, "B0_fallback": 0, "NONE": 0}
+    excluded_by_guard = 0
+    b_fallback_after_a = 0
+    excl = exclude_landing_sources or frozenset()
+    unfiltered = Counter[str]()
     for t in tokens:
         explained = explain_landing(t, dict_a=dict_a, b0=dict_b, b1_optional=None)
-        source = explained["landing_source"]
+        source = str(explained["landing_source"])
+        unfiltered[source] += 1
+        if source in excl:
+            excluded_by_guard += 1
+            if source == "A" and t in dict_b:
+                try:
+                    fg = int(dict_b[t])
+                except (TypeError, ValueError):
+                    fg = -1
+                if 0 <= fg < 288:
+                    matched.append((fg, default_altitude_b))
+                    landing_counts["B0_fallback"] += 1
+                    b_fallback_after_a += 1
+                else:
+                    landing_counts["NONE"] += 1
+            else:
+                landing_counts["NONE"] += 1
+            continue
         if source == "A":
             fg = int(explained["familyGlobal"])
             alt = _clamp_altitude(dict_a[t].get("altitude", 0.5))
             if 0 <= fg < 288:
                 matched.append((fg, alt))
-                landing_counts[source] += 1
+                landing_counts["A"] += 1
             else:
                 landing_counts["NONE"] += 1
         elif source in ("B0", "B1"):
@@ -241,7 +270,7 @@ def attribute(
     unmatched = total - len(matched)
     coverage = (len(matched) / total) if total > 0 else 0.0
     mean_alt_global = (sum(m[1] for m in matched) / len(matched)) if matched else 0.0
-    metrics = {
+    metrics: dict[str, Any] = {
         "total_tokens": total,
         "matched_tokens": len(matched),
         "unmatched_tokens": unmatched,
@@ -249,6 +278,11 @@ def attribute(
         "meanAltitude_global": mean_alt_global,
         "landing_source_counts": landing_counts,
     }
+    if exclude_landing_sources:
+        metrics["excluded_by_guard"] = excluded_by_guard
+        metrics["guard_exclude_sources"] = sorted(exclude_landing_sources)
+        metrics["unfiltered_landing_counts"] = dict(unfiltered)
+        metrics["b_fallback_after_a_excluded"] = b_fallback_after_a
     return matched, metrics
 
 

@@ -15,6 +15,7 @@ All **binding** system definitions for Hesperia Engine Dynamics **v0.5.0** are l
 | HES-SPEC-CAL-HSPR | [calibration/hspr_index.md](calibration/hspr_index.md) | HSPR_sys + HCI |
 | HES-SPEC-TRIZ-CONTRADICTION | [triz/contradiction_engine.md](triz/contradiction_engine.md) | Typed relations, pair score, ordering |
 | HES-SPEC-TRIZ-INNOVATION | [triz/innovation_metrics.md](triz/innovation_metrics.md) | \(I = C_d \cdot N\) |
+| HES-SPEC-DLCR-HP | [canon/lexical_concept/SPEC__DLCR_HP_Master_v0_6_0.md](canon/lexical_concept/SPEC__DLCR_HP_Master_v0_6_0.md) | Deterministic lexical-concept bridge + hex projection; **§ fragments + scale:** [canon/lexical_concept/README.md](canon/lexical_concept/README.md) |
 | HES-SPEC-SCHEMA-PUBLIC-OUT | [schema/public_output_schema.md](schema/public_output_schema.md) | Public JSON shape (mirror of `.json`) |
 | HES-SPEC-SYSTEM-GOV | [system/versioning_and_governance.md](system/versioning_and_governance.md) | Version + structure + spec tiers |
 

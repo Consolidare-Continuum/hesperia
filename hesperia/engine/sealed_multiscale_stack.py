@@ -18,6 +18,7 @@ Specs: hex_family_bridge.md, hex_microphysics_canon §7b, product_signal_layer.m
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 from typing import Any
 
@@ -147,7 +148,7 @@ def run_sealed_multiscale_stack(
         "marker_concept_sample": mtrace[:trace_cap],
     }
 
-    return {
+    out: dict[str, Any] = {
         "pipeline": "sealed_multiscale_v1",
         "matrix_bundle_version": matrix_bundle_version,
         "pch_bundle_version": pch_bundle_version,
@@ -175,3 +176,19 @@ def run_sealed_multiscale_stack(
         "hspr_components": hspr["components_hat"],
         "product_signals": {k: round(float(v), 8) if isinstance(v, (int, float)) else v for k, v in sig.items()},
     }
+    if os.environ.get("HESPERIA_SEALED_DLCR_SIDECAR", "").strip().lower() in ("1", "true", "yes", "on"):
+        try:
+            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+            repo = Path(__file__).resolve().parents[2]
+            d_bundle = run_dlcr_pipeline(text, repo_root=repo)
+            cw = d_bundle.get("concept_weights") or {}
+            top_c = sorted(cw.items(), key=lambda x: -float(x[1]))[:12]
+            out["clinical_resolution_sidecar"] = {
+                "matched_span_count": d_bundle.get("lexical_hits_accepted"),
+                "resource_versions": d_bundle.get("resource_versions"),
+                "top_concepts": [{"concept_id": k, "weight": round(float(v), 6)} for k, v in top_c],
+            }
+        except Exception as ex:  # noqa: BLE001
+            out["clinical_resolution_sidecar"] = {"_error": str(ex)}
+    return out

@@ -1,15 +1,21 @@
 # HESPERIA — Real transcript ingestion: speaker parsing and turn segmentation
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 """
-Parse TFP-style transcripts with "Пациент:" and "Терапевт:" (or "Patient:", "Therapist:").
-Returns turn segmentation for downstream detection.
+Parse TFP-style transcripts with Russian or English speaker labels.
+
+Surface forms and regex live in ``transcript_speaker_labels`` (single source of truth).
 """
 
 from __future__ import annotations
 
-import re
 from dataclasses import dataclass
 from typing import Any
+
+from hesperia.nlp.transcript_speaker_labels import (
+    SPEAKER_ALIASES,
+    SPEAKER_PATTERN,
+    resolve_speaker_token,
+)
 
 
 @dataclass
@@ -17,21 +23,6 @@ class Turn:
     speaker: str
     text: str
     turn_index: int
-
-
-# Patterns: "Пациент:" / "Терапевт:" at start of line (optional whitespace)
-SPEAKER_PATTERN = re.compile(
-    r"^\s*(Пациент|Терапевт|Patient|Therapist|П|Т)\s*[:\s]",
-    re.IGNORECASE | re.MULTILINE,
-)
-SPEAKER_ALIASES = {
-    "пациент": "patient",
-    "терапевт": "therapist",
-    "patient": "patient",
-    "therapist": "therapist",
-    "п": "patient",
-    "т": "therapist",
-}
 
 
 def parse_speaker_turns(text: str) -> list[Turn]:
@@ -55,8 +46,8 @@ def parse_speaker_turns(text: str) -> list[Turn]:
                     turn_index=len(turns),
                 ))
                 current_lines = []
-            raw = m.group(1).strip().lower()
-            current_speaker = SPEAKER_ALIASES.get(raw, raw)
+            raw = m.group(1).strip()
+            current_speaker = resolve_speaker_token(raw)
             rest = line[m.end() :].strip()
             if rest:
                 current_lines.append(rest)

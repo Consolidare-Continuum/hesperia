@@ -5,6 +5,11 @@ active:
   lexicon_frozen: "v0_5_0"
   calibration: "v0_5_0"
   dynamics: "v0_5_0"
+  # DLCR-HP v0.6.0 packs + anchors (INT-002); authoritative pins also in VERSION.yaml under tree
+  dlcr: "engine_dynamics_v060"
+
+paths:
+  dlcr_engine_dynamics_v060: "assets/data/engine_dynamics_v060"
 
 legacy:
   lexicon_frozen:

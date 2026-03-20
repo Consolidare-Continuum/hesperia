@@ -31,7 +31,7 @@ Planned outputs from the unified e2e run. No calibration of results; existence o
 | `run_output_e2e_field_calibration.json` | HCI grid (mini); also `_best.json`, `_topk.json` |
 | `run_output_e2e_field_dynamics.json` | With `HESPERIA_FIELD_DYNAMICS=1`: Ethan phases + **semantic_field_v1** |
 
-**Baseline count:** **19** JSON files (+ optional `run_output_e2e_field_dynamics.json`). **Order:** `docs/E2E_RUN_ORDER.md` · **Manifest:** `E2E_OUTPUTS.md`
+**Baseline count:** **19** JSON files (+ optional `run_output_e2e_field_dynamics.json`; + optional `run_output_e2e_dlcr.json` when `HESPERIA_E2E_DLCR=1`). **Order:** `docs/E2E_RUN_ORDER.md` · **Manifest:** `E2E_OUTPUTS.md`
 
 **Regenerate all:**
 

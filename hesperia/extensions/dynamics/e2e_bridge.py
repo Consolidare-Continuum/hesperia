@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 
 import numpy as np
+import os
 from dataclasses import replace
 from pathlib import Path
 from typing import Any
@@ -59,33 +60,74 @@ def markers_to_concept_activation(text: str, assets_root: Path) -> dict[str, Any
     dict_a = load_dict_a(assets_root=assets_root) or {}
     dict_b = load_dict_b()
     tokens = tokenize(normalize(text))
-    matched, metrics = attribute(tokens, dict_a, dict_b)
+    guard = os.environ.get("HESPERIA_CONCEPT_EVIDENCE_GUARD", "").strip().lower()
+    exclude = frozenset({"A"}) if guard == "strict" else None
+    matched, metrics = attribute(tokens, dict_a, dict_b, exclude_landing_sources=exclude)
 
     hits = [0] * nc
     for ci, _alt in matched:
         if 0 <= ci < nc:
             hits[ci] += 1
 
+    def _effective_family_for_trace(token: str, ex: dict[str, Any]) -> tuple[int | None, str, str]:
+        """
+        Align trace with ``attribute()`` semantics: raw landing from explain_landing,
+        effective family index for L1, and effective_landing_source label.
+        """
+        raw_src = str(ex.get("landing_source") or "NONE")
+        eff_src = raw_src
+        use_fg: int | None = None
+        raw_fg = ex.get("familyGlobal")
+
+        if raw_src == "A":
+            if guard == "strict":
+                if token in dict_b:
+                    try:
+                        use_fg = int(dict_b[token])
+                        eff_src = "B0_fallback"
+                    except (TypeError, ValueError):
+                        use_fg = None
+                        eff_src = "A_excluded_unmatched"
+                else:
+                    use_fg = None
+                    eff_src = "A_excluded_unmatched"
+            else:
+                if raw_fg is not None:
+                    try:
+                        use_fg = int(raw_fg)
+                    except (TypeError, ValueError):
+                        use_fg = None
+        elif raw_src in ("B0", "B1"):
+            if raw_fg is not None:
+                try:
+                    use_fg = int(raw_fg)
+                except (TypeError, ValueError):
+                    use_fg = None
+        else:
+            use_fg = None
+
+        if use_fg is not None and not (0 <= use_fg < nc):
+            use_fg = None
+        return use_fg, raw_src, eff_src
+
     trace: list[dict[str, Any]] = []
     for t in tokens:
         ex = explain_landing(t, dict_a=dict_a, b0=dict_b, b1_optional=None)
-        fg = ex.get("familyGlobal")
-        if fg is None:
+        ix, raw_src, eff_src = _effective_family_for_trace(t, ex)
+        if ix is None:
             continue
-        ix = int(fg)
-        if not (0 <= ix < nc):
-            continue
-        trace.append(
-            {
-                "token": t,
-                "concept_id": concept_id_for_index(ix),
-                "concept_index": ix,
-                "linked_family": ix,
-                "landing_source": ex.get("landing_source"),
-            }
-        )
+        row: dict[str, Any] = {
+            "token": t,
+            "concept_id": concept_id_for_index(ix),
+            "concept_index": ix,
+            "linked_family": ix,
+            "landing_source": raw_src,
+        }
+        if guard in ("observe", "strict"):
+            row["effective_landing_source"] = eff_src if guard == "strict" else raw_src
+        trace.append(row)
 
-    return {
+    out: dict[str, Any] = {
         "a_concept_counts": hits,
         "n_concept": nc,
         "registry_version": concepts_registry_version(),
@@ -94,6 +136,19 @@ def markers_to_concept_activation(text: str, assets_root: Path) -> dict[str, Any
         "attribution_metrics": metrics,
         "marker_concept_trace": trace,
     }
+    if guard in ("observe", "strict"):
+        unf = metrics.get("unfiltered_landing_counts") or {}
+        direct_a = int(unf.get("A", metrics["landing_source_counts"].get("A", 0)))
+        lc = metrics["landing_source_counts"]
+        out["semantic_evidence"] = {
+            "guard_mode": guard,
+            "direct_dict_a_family_tokens": direct_a,
+            "degraded_word_to_family": direct_a > 0,
+            "b_path_tokens_matched": lc.get("B0", 0) + lc.get("B1", 0) + lc.get("B0_fallback", 0),
+            "b_fallback_after_a_excluded": int(metrics.get("b_fallback_after_a_excluded", 0)),
+            "excluded_by_guard": int(metrics.get("excluded_by_guard", 0)),
+        }
+    return out
 
 
 def a_concept_to_family_hits(a_concept_counts: list[int]) -> list[int]:
@@ -167,11 +222,36 @@ def run_field_dynamics_e2e_artifact(
     else:
         state = FieldDynamicsState.initial_uniform()
 
+    import os
+
     hits = _hits_288(text, assets_root)
     injection = area_injection_12_from_hits(hits)
     fam_inj = family_injection_288_from_hits(hits)
 
-    import os
+    dlcr_blend_meta: dict[str, Any] = {"dlcr_merged": False}
+    if os.environ.get("HESPERIA_FIELD_DYNAMICS_DLCR", "").strip().lower() in ("1", "true", "yes", "on"):
+        try:
+            from pathlib import Path
+
+            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+            rr = Path(__file__).resolve().parents[3]
+            dlcr = run_dlcr_pipeline(text, repo_root=rr)
+            hdl = dlcr.get("family_hits_288") or []
+            if len(hdl) == F_FAMILIES:
+                alpha = 0.22
+                s_hit = sum(fam_inj) or 1.0
+                s_d = sum(hdl) or 1.0
+                fam_inj = [
+                    (1.0 - alpha) * float(fam_inj[i]) / s_hit + alpha * float(hdl[i]) / s_d
+                    for i in range(F_FAMILIES)
+                ]
+                sm = sum(fam_inj)
+                if sm > 0:
+                    fam_inj = [x / sm for x in fam_inj]
+                dlcr_blend_meta = {"dlcr_merged": True, "dlcr_alpha": round(alpha, 4)}
+        except Exception as ex:  # noqa: BLE001
+            dlcr_blend_meta = {"dlcr_merged": False, "dlcr_error": str(ex)}
 
     use_triz = os.environ.get("HESPERIA_FIELD_DYNAMICS_TRIZ", "1").strip().lower() not in (
         "0",
@@ -185,16 +265,33 @@ def run_field_dynamics_e2e_artifact(
             fetch_triz_contradiction_rows,
         )
 
-        rows, triz_meta = fetch_triz_contradiction_rows(text)
+        rows, triz_meta, kme_ag = fetch_triz_contradiction_rows(text)
         c_sig = contradiction_signal_12_from_con_rows(rows)
         from hesperia.extensions.dynamics.xi_proxy import (
             apply_xi_to_contradiction_signal,
             field_dynamics_xi_enabled,
+            field_dynamics_xi_kme_enabled,
         )
 
         xi_meta: dict[str, Any] = {}
-        if field_dynamics_xi_enabled() and rows:
-            c_sig, xi_meta = apply_xi_to_contradiction_signal(c_sig, rows)
+        if field_dynamics_xi_enabled():
+            use_kme = (
+                field_dynamics_xi_kme_enabled()
+                and kme_ag is not None
+                and bool(kme_ag.nodes)
+            )
+            c2af = None
+            if use_kme:
+                from hesperia.ontology.dictB import build_concept_to_area_family
+
+                c2af = build_concept_to_area_family()
+            if rows or use_kme:
+                c_sig, xi_meta = apply_xi_to_contradiction_signal(
+                    c_sig,
+                    rows,
+                    kme_active_graph=kme_ag if use_kme else None,
+                    concept_to_area_family=c2af,
+                )
         triz_meta = {**triz_meta, **xi_meta}
     else:
         c_sig = [0.0] * A_AREAS
@@ -281,6 +378,7 @@ def run_field_dynamics_e2e_artifact(
         "injection_12": [round(float(x), 6) for x in injection],
         "contradiction_signal_12": [round(float(x), 6) for x in c_sig],
         "triz_contradiction_meta": triz_meta,
+        "dlcr_blend": dlcr_blend_meta,
         "state_path": str(state_path.resolve()),
     }
     if p3:

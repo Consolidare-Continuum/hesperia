@@ -9,4 +9,6 @@ Long-form research and deep-dive synthesis now live under **`research/reports/`*
 - Index: [`research/reports/ARCHIVE_README.md`](../../research/reports/ARCHIVE_README.md)
 - Main synthesis: [`research/reports/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md`](../../research/reports/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md)
 
+Tracked clinical / TFP note corpus: **`research/_noone_local/`** (`2/`, `background/`, dated session `.md`).
+
 Local-only scratch (gitignored): **`research/reports/_noone_local/`**

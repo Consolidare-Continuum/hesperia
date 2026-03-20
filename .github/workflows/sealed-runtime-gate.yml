@@ -85,6 +85,16 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
 
+      - name: DLCR regression gate
+        run: python3 tools/check_dlcr_regression.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: DLCR test pack
+        run: python3 -m pytest tests/lexical_concept -q --tb=short
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
       - name: Pytest integrity (spine trace, semantic, guards, schema snapshot)
         run: |
           python3 -m pytest tests/test_runtime_spine_integrity.py \

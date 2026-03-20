@@ -31,6 +31,8 @@ from hesperia.extensions.dynamics.phase4 import field_dynamics_phase4_enabled
 from hesperia.extensions.dynamics.xi_proxy import (
     apply_xi_to_contradiction_signal,
     field_dynamics_xi_enabled,
+    field_dynamics_xi_kme_enabled,
+    xi_proxy_from_kme_active_graph,
     xi_proxy_from_triz_rows,
 )
 from hesperia.engine.matrix_loader import load_production_matrices
@@ -85,6 +87,8 @@ __all__ = [
     "step_phase3",
     "apply_xi_to_contradiction_signal",
     "field_dynamics_xi_enabled",
+    "field_dynamics_xi_kme_enabled",
+    "xi_proxy_from_kme_active_graph",
     "xi_proxy_from_triz_rows",
     "SEMANTIC_FIELD_EQUATIONS_SPEC_ID",
     "SemanticFieldParamsV1",

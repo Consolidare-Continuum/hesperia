@@ -184,6 +184,51 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             os.environ["HESPERIA_E2E_CALIBRATION_BATCH_N"] = old_cal
 
 
+def test_e2e_run_e2e_all_optional_dlcr_artifact() -> None:
+    """With HESPERIA_E2E_DLCR=1, run_all emits run_output_e2e_dlcr.json (Ethan INT-015)."""
+    import os
+    from runtime.pipeline.run_e2e_all import (
+        E2E_OUTPUT_DLCR,
+        E2E_OUTPUTS_WITH_FIELD_DYNAMICS_AND_DLCR,
+        run_all,
+    )
+
+    import tempfile
+
+    old_fd = os.environ.get("HESPERIA_FIELD_DYNAMICS")
+    old_triz = os.environ.get("HESPERIA_FIELD_DYNAMICS_TRIZ")
+    old_cal = os.environ.get("HESPERIA_E2E_CALIBRATION_BATCH_N")
+    old_dlcr = os.environ.get("HESPERIA_E2E_DLCR")
+    try:
+        os.environ["HESPERIA_FIELD_DYNAMICS"] = "1"
+        os.environ["HESPERIA_FIELD_DYNAMICS_TRIZ"] = "0"
+        os.environ["HESPERIA_E2E_CALIBRATION_BATCH_N"] = "5"
+        os.environ["HESPERIA_E2E_DLCR"] = "1"
+
+        with tempfile.TemporaryDirectory() as d:
+            out_dir = Path(d)
+            written = run_all(out_dir=out_dir, text="justice fairness order truth")
+            assert len(written) == len(E2E_OUTPUTS_WITH_FIELD_DYNAMICS_AND_DLCR)
+            assert E2E_OUTPUT_DLCR in written
+            dlcr_path = written[E2E_OUTPUT_DLCR]
+            assert dlcr_path.exists()
+            data = json.loads(dlcr_path.read_text(encoding="utf-8"))
+            assert data.get("run") == "e2e_dlcr"
+            assert "lexical_hits_accepted" in data
+            assert data.get("system_version") == "0.5.1"
+    finally:
+        for key, old in (
+            ("HESPERIA_FIELD_DYNAMICS", old_fd),
+            ("HESPERIA_FIELD_DYNAMICS_TRIZ", old_triz),
+            ("HESPERIA_E2E_CALIBRATION_BATCH_N", old_cal),
+            ("HESPERIA_E2E_DLCR", old_dlcr),
+        ):
+            if old is None:
+                os.environ.pop(key, None)
+            else:
+                os.environ[key] = old
+
+
 def test_e2e_session_kme_and_triz_artifacts_shape() -> None:
     """Session engine stages produce report or triz_complete (or _error), never empty file."""
     from runtime.pipeline.run_e2e_all import run_e2e_session_kme, run_e2e_triz_complete, run_e2e_session_topology
@@ -217,11 +262,12 @@ def test_e2e_capability_matrix_wires_blocks() -> None:
         data = json.loads(p.read_text(encoding="utf-8"))
         assert data.get("run") == "e2e_capability_matrix"
         blocks = data.get("blocks") or {}
-        assert len(blocks) >= 22
+        assert len(blocks) >= 23
         for key in (
             "structural_L1_L2",
             "shipping_compare",
             "interpret_session",
+            "dlcr_pipeline",
             "run_triz_analysis_core",
             "propagate_activation",
             "kme_run_document_and_corpus",
@@ -268,6 +314,34 @@ def test_e2e_tfp_smoke_artifact_shape() -> None:
             if "_error" not in row:
                 assert "microstructure_analytics" in row
                 assert "hex_option_a_summary" in row
+
+
+def test_e2e_tfp_smoke_with_dlcr_bundles() -> None:
+    """HESPERIA_TFP_DLCR=1 adds session_dlcr_bundles (Ethan INT-017)."""
+    import os
+    from runtime.pipeline.run_e2e_all import run_e2e_tfp_smoke
+
+    import tempfile
+
+    old = os.environ.get("HESPERIA_TFP_DLCR")
+    try:
+        os.environ["HESPERIA_TFP_DLCR"] = "1"
+        with tempfile.TemporaryDirectory() as d:
+            p = Path(d) / "tfp_smoke_dlcr.json"
+            run_e2e_tfp_smoke(p)
+            data = json.loads(p.read_text(encoding="utf-8"))
+            bundles = data.get("session_dlcr_bundles")
+            assert isinstance(bundles, list) and len(bundles) >= 1
+            for row in bundles:
+                assert "session_id" in row or "_error" in row
+                if "_error" not in row:
+                    assert "span_count" in row
+                    assert "degradation_flags" in row
+    finally:
+        if old is None:
+            os.environ.pop("HESPERIA_TFP_DLCR", None)
+        else:
+            os.environ["HESPERIA_TFP_DLCR"] = old
 
 
 def test_e2e_hex_microstructure_tfp_artifact() -> None:

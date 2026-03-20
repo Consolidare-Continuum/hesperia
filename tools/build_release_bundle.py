@@ -18,7 +18,7 @@ TMP = "_release_tmp"
 EXCLUDE_PREFIXES = [
     ".git",
     "__pycache__",
-    "docs/research/_noone_local",
+    "research/_noone_local",
 ]
 
 

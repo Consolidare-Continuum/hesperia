@@ -13,13 +13,21 @@ from typing import Any
 
 import yaml
 
-_SPEC_DIR = Path(__file__).resolve().parents[2] / "spec"
-_EMBEDDING_PATH = _SPEC_DIR / "family_embedding_tfp.yaml"
+# Repo root: .../hesperia/sphere/topology/this_file → parents[3]
+_REPO_ROOT = Path(__file__).resolve().parents[3]
+# Legacy layout (often absent); canonical file lives under specs/canon/ (see AGENTS.md spec symlink).
+_LEGACY_SPEC = Path(__file__).resolve().parents[2] / "spec" / "family_embedding_tfp.yaml"
+_CANON_EMBEDDING = _REPO_ROOT / "specs" / "canon" / "family_embedding_tfp.yaml"
+_SYMLINK_SPEC = _REPO_ROOT / "spec" / "family_embedding_tfp.yaml"
 
 # Zone keys in embedding YAML per area
 ZONE_KEYS = ("center", "inner_ring", "middle_ring", "outer_ring")
 # Expected counts per area: 1 + 6 + 8 + 9 = 24
 ZONE_COUNTS = {"center": 1, "inner_ring": 6, "middle_ring": 8, "outer_ring": 9}
+
+
+def _embedding_path_candidates() -> list[Path]:
+    return [_SYMLINK_SPEC, _CANON_EMBEDDING, _LEGACY_SPEC]
 
 
 def load_family_embedding_tfp(path: str | Path | None = None) -> dict[str, Any]:
@@ -28,15 +36,19 @@ def load_family_embedding_tfp(path: str | Path | None = None) -> dict[str, Any]:
     Возвращает dict с ключами: version, domain, A2, A3, A4, A10 (и др. области), bridges, zones.
     Каждая область: center (list[str]), inner_ring, middle_ring, outer_ring (списки локальных F1..F24).
     bridges: list of {from, to, type}.
+
+    Default search: ``<repo>/spec/family_embedding_tfp.yaml`` (symlink), then
+    ``specs/canon/family_embedding_tfp.yaml``, then legacy ``hesperia/spec/...``.
     """
-    p = Path(path) if path is not None else _EMBEDDING_PATH
-    if not p.exists():
-        return _empty_embedding()
-    with open(p, encoding="utf-8") as f:
-        data = yaml.safe_load(f)
-    if not isinstance(data, dict):
-        return _empty_embedding()
-    return data
+    candidates = [Path(path)] if path is not None else _embedding_path_candidates()
+    for p in candidates:
+        if not p.exists():
+            continue
+        with open(p, encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+        if isinstance(data, dict):
+            return data
+    return _empty_embedding()
 
 
 def _empty_embedding() -> dict[str, Any]:

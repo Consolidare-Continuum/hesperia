@@ -149,6 +149,14 @@ class BatchBody(BaseModel):
         return v
 
 
+class DlcrTraceBody(BaseModel):
+    """Dev-only DLCR instrumentation (Ethan PO-26); gated by ``HESPERIA_API_INSTRUMENTATION``."""
+
+    model_config = ConfigDict(extra="forbid")
+    text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
+    mode: str = Field(default="clinical_speech", max_length=64)
+
+
 class TrizBody(BaseModel):
     model_config = ConfigDict(extra="forbid")
     active_graph: dict[str, Any] = Field(...)
@@ -214,6 +222,26 @@ async def hesperia_analyze(
         return JSONResponse(status_code=400, content={"error": True, "message": msg[:500], "code": 400})
     except Exception:
         return JSONResponse(status_code=500, content={"error": True, "message": "Internal error", "code": 500})
+
+
+@app.post("/hesperia/internal/dlcr_trace", response_model=None, include_in_schema=False)
+async def internal_dlcr_trace(
+    body: DlcrTraceBody,
+    _: None = Depends(verify_bearer),
+) -> JSONResponse:
+    """
+    Returns full ``run_dlcr_pipeline`` JSON (not public-schema-scrubbed).
+    Requires ``HESPERIA_API_INSTRUMENTATION=1`` on the server.
+    """
+    if os.environ.get("HESPERIA_API_INSTRUMENTATION", "").strip().lower() not in ("1", "true", "yes", "on"):
+        return JSONResponse(status_code=404, content={"error": True, "message": "instrumentation disabled", "code": 404})
+    try:
+        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+        out = run_dlcr_pipeline(body.text, repo_root=_HESPERIA_ROOT, mode=body.mode)
+        return JSONResponse(content=out)
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": True, "message": str(e)[:500], "code": 500})
 
 
 @app.post("/hesperia/compare", response_model=None, operation_id="hesperiaCompare")

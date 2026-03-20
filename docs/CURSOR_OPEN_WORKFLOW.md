@@ -23,6 +23,11 @@ HESPERIA — RAD. Cursor agent entry: what is OPEN and how to proceed.
 
 | Priority | Item | Location | Next action |
 |----------|------|----------|-------------|
+| **P1** | Gena team10 DLCR-HP v0.6.0 | [GENA-TEAM10-MCP-WORKFLOW-v0_6_0.md](governance/working/GENA-TEAM10-MCP-WORKFLOW-v0_6_0.md) | **CLOSED** — baseline landed; extend concept pack / runtime integration as follow-up |
+| **P1** | Ethan DLCR **integration** (v0.6.0 → Hesperia + TFP) | [ETHAN-DLCR-INTEGRATION-20-v0_6_0.md](governance/working/ETHAN-DLCR-INTEGRATION-20-v0_6_0.md) · [runbook](governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md) | **CLOSED** (2026-03-20) — INT-001..INT-020 + runbook; env-gated defaults unchanged |
+| **P1** | Gena **consolidation** (DLCR + Ethan 2026-03-20 land) | [GENA-CONSOLIDATION-DLCR-ETHAN-2026-03-20.md](governance/working/GENA-CONSOLIDATION-DLCR-ETHAN-2026-03-20.md) | **CLOSED** (2026-03-20) — validators default paths, trace-tool docs, `_release_tmp/` gitignore, import graphs regen, §6 report |
+| **P1** | Ethan DLCR **post-options** (30 tasks) | [ETHAN-DLCR-POST-OPTIONS-TASKS-30.md](governance/working/ETHAN-DLCR-POST-OPTIONS-TASKS-30.md) | **IN PROGRESS** — **PO-02** + **PO-11/12** env gates shipped; remaining rows see snapshot |
+| **P1** | Ethan **TFP runnable** — dict / asset wiring | [ETHAN-TFP-RUNNABLE-DICT-WIRING.md](governance/working/ETHAN-TFP-RUNNABLE-DICT-WIRING.md) | **OPEN** — checklist planes A/B/C; embedding loader fixed; optional: curated sync docs + benchmark CI |
 | **P1** | Ethan **post-A.6** | [TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md](governance/working/TASK-GRACE-ETHAN-DYNAMICS-IMPLEMENTATION-TEAM.md) | Feed **Ξ** into L7; `REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md`; optional full-hex H7/H8 |
 | **P2** | Calibration registry | [assets/calibration/dynamics_parameter_registry.yaml](assets/calibration/dynamics_parameter_registry.yaml) | Expand when Phase 2 Θ added |
 | **P2** | Observability extension | [TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md](governance/working/TASK-GRACE-HESPERIA-OBSERVABILITY-EXTENSION.md) | Rows in external `active.md` if used |

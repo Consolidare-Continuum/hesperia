@@ -42,7 +42,8 @@ See `docs/PUBLIC_PRODUCT_SURFACE.md`.
 | 10 | `run_output_e2e_tfp_smoke.json` | **TFP testing stack (Gena wiring):** batch structural (CLI `batch-analyze` parity) on smoke sessions + `analyze_session` + propagation + **`detect_tfp_stage`** + **`analyze_session_speaker_aware`** + **`session_hex_microstructure_tfp`** (per-session hex analytics + Option A + TFP provenance). | `runtime.services.analysis_service` · `hesperia.nlp.session_parser` · `research.clinical_tfp.stage_detection` · **`hesperia.engine.hex_outputs.e2e_integration`** |
 | 10b | `run_output_e2e_hex_microstructure_tfp.json` | **Full hex microstructure artifact:** primary E2E text + every TFP smoke session — microstructure maps, **Option A** hex-primary closure summary, **TFP** embedding / families_structure provenance. | **`hex_microstructure_bundle_for_text`** |
 | 10c | `run_output_e2e_sealed_multiscale.json` | **Sealed stack:** hex activation → **local microphysics** → **hex_family_bridge** → family/area vectors → **product_signals** → **hspr_index** (`hesperia.engine.sealed_multiscale_stack`). Optional TRIZ contradiction: `HESPERIA_SEALED_E2E_TRIZ=1`. | **`run_sealed_multiscale_stack`** |
-| 11 | `run_output_e2e_capability_matrix.json` | **Gena full-picture sweep** + **`semantic_field_and_hci`** (ontology semantic field smoke + HCI scalar); structural stages, shipping compare, clinical + enhanced NLP, transcript parse, evaluation baselines, TRIZ, **KME** **`run_document`** + **`run_corpus`**; **`batch_runner`**, **`mvp_acceptance`**, **`experiment_runner`**. Multiscale if `HESPERIA_E2E_MULTISCALE=1`. | `run_e2e_capability_matrix` |
+| **10d** | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`). Full **`run_dlcr_pipeline`** bundle for the primary E2E text (L0→L6 + segment trajectory). | `hesperia.engine.lexical_concept.pipeline` |
+| 11 | `run_output_e2e_capability_matrix.json` | **Gena full-picture sweep** + **`semantic_field_and_hci`** (ontology semantic field smoke + HCI scalar); structural stages, shipping compare, clinical + enhanced NLP, transcript parse, evaluation baselines, TRIZ, **KME** **`run_document`** + **`run_corpus`**; **`batch_runner`**, **`mvp_acceptance`**, **`experiment_runner`**. Multiscale if `HESPERIA_E2E_MULTISCALE=1`. Includes **`dlcr_pipeline`** block. | `run_e2e_capability_matrix` |
 | 11a | `run_output_e2e_semantic_field.json` | **Semantic field engine:** ontology → `matrix_builders` → `equations` → convergence; `runtime/configs/semantic_field_ontology_example.json` (timeline truncated in artifact). | `runtime.semantic_field.run_semantic_field` |
 | 11b | `run_output_e2e_field_calibration.json` | **HCI grid calibration** (mini 2×2×… grid, ontology matrices). | `runtime.semantic_field.run_field_calibration` |
 | 11c | `run_output_e2e_field_calibration_best.json` | Best candidate + `area_field_final`. | same |
@@ -61,7 +62,7 @@ Step 12:    optional Ethan field dynamics + v1 semantic field equation artifact.
 
 ## Machine-readable list
 
-Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**19** files incl. hex microstructure TFP + **sealed multiscale**). Step 12 uses **`E2E_OUTPUT_FIELD_DYNAMICS`** when the env flag is set → **20** files with dynamics.
+Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**19** files incl. hex microstructure TFP + **sealed multiscale**). Step 12 uses **`E2E_OUTPUT_FIELD_DYNAMICS`** when the env flag is set → **20** files with dynamics. **Optional step 10d:** **`E2E_OUTPUT_DLCR`** when `HESPERIA_E2E_DLCR=1` adds one more file → **20** total without field_dynamics (**19+dlcr**), **21** with field_dynamics (**19+field_dynamics+dlcr**).
 
 ## Full encompassing pipe (all E2E artifacts + product + physics + system seal)
 
@@ -88,7 +89,9 @@ Writes e.g. `assets/artifacts/e2e_full_deliverables/` (all `run_output_e2e_*.jso
 
 ## Verify
 
-`test_e2e_run_e2e_all_produces_all_artifacts` enables field dynamics and checks **20** artifacts (19 base + field_dynamics); calibration batch **N=5** in test via env.
+`test_e2e_run_e2e_all_produces_all_artifacts` enables field dynamics and checks **20** artifacts (19 base + field_dynamics); `test_e2e_run_e2e_all_optional_dlcr_artifact` adds **`HESPERIA_E2E_DLCR=1`** → **21** files. Calibration batch **N=5** in tests via env.
+
+**TFP smoke:** `HESPERIA_TFP_DLCR=1` adds **`session_dlcr_bundles`** to `run_output_e2e_tfp_smoke.json`.
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

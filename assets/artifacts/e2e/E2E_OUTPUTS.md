@@ -30,14 +30,15 @@ Single manifest of all outputs produced by the canonical E2E run.
 | 10 | `run_output_e2e_tfp_smoke.json` | TFP smoke: structural batch + session stages + speaker-aware + **session_hex_microstructure_tfp** |
 | 10b | `run_output_e2e_hex_microstructure_tfp.json` | Hex microstructure + Option A closure + TFP provenance (primary text + smoke sessions) |
 | 10c | `run_output_e2e_sealed_multiscale.json` | **Sealed multiscale:** hex map sample, **family_activation_vector**, **area_activation_vector**, **hotspot_map**, contradiction/propagation/density, **innovation_index**, **hspr_index** |
-| 11 | `run_output_e2e_capability_matrix.json` | Gena sweep + **semantic_field_and_hci**; KME run_document/run_corpus, batch_runner, mvp_acceptance, experiment_runner; multiscale if `HESPERIA_E2E_MULTISCALE=1` |
+| 10d | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`): DLCR L0→L6 pipeline output for primary E2E text |
+| 11 | `run_output_e2e_capability_matrix.json` | Gena sweep + **semantic_field_and_hci**; KME run_document/run_corpus, batch_runner, mvp_acceptance, experiment_runner; multiscale if `HESPERIA_E2E_MULTISCALE=1`; **`dlcr_pipeline`** smoke block |
 | 11a | `run_output_e2e_semantic_field.json` | **Semantic field:** ontology → matrix_builders → equations (see `runtime/configs/semantic_field_ontology_example.json`) |
 | 11b–d | `run_output_e2e_field_calibration.json` (+ `_best`, `_topk`) | **HCI calibration** mini-grid (ontology-derived matrices) |
 | 12 | `run_output_e2e_field_dynamics.json` | With `HESPERIA_FIELD_DYNAMICS=1`: Ethan phases + optional **`semantic_field_v1`** |
 
 ## Counts
 
-**19** base JSON files (incl. **10c** sealed multiscale); **field_dynamics** = **20th** when flag set.
+**19** base JSON files (incl. **10c** sealed multiscale); **field_dynamics** = **20th** when flag set; **`run_output_e2e_dlcr.json`** = optional extra when `HESPERIA_E2E_DLCR=1` (typically **21st** alongside dynamics).
 
 ## Full encompassing pipe (`run_e2e_full_stack`)
 
@@ -55,7 +56,7 @@ Physics validation + system seal run as part of the pipe (unless `--skip-physics
 
 ## Verify
 
-`test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **20** files; calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
+`test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **20** files; `test_e2e_run_e2e_all_optional_dlcr_artifact` asserts **21** with `HESPERIA_E2E_DLCR=1`. Calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

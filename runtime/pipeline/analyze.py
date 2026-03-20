@@ -46,6 +46,16 @@ def _has_nan_inf(d: dict[str, Any]) -> bool:
     return False
 
 
+# Ethan PO-02: spans match `schemas/lexical_concept/resolver_output.schema.json` (omit `audit` for payload size).
+_PO02_MAX_EVIDENCE_SPANS = 24
+
+
+def _public_dlcr_span_row(row: dict[str, Any]) -> dict[str, Any]:
+    if not isinstance(row, dict):
+        return {}
+    return {k: v for k, v in row.items() if k != "audit"}
+
+
 def analyze(
     text: str,
     text_cap: int = DEFAULT_TEXT_CAP,
@@ -133,6 +143,34 @@ def analyze(
             extended_out["family_vector"] = extended["family_vector"]
         if extended.get("family_vector_pre_sharpen") and len(extended["family_vector_pre_sharpen"]) == 288:
             extended_out["family_vector_pre_sharpen"] = extended["family_vector_pre_sharpen"]
+    # Ethan PO-02: optional governed Dict A→B lexical evidence (DLCR pack), not legacy frozen dict alone.
+    import os as _os_ev
+
+    if _os_ev.environ.get("HESPERIA_ANALYZE_DLCR_EVIDENCE", "").strip().lower() in ("1", "true", "yes", "on"):
+        try:
+            _repo = Path(__file__).resolve().parents[2]
+            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+            snip = (text or "")[:8000]
+            dlcr = run_dlcr_pipeline(snip, repo_root=_repo, mode="clinical_speech")
+            pm = dlcr.get("preprocess_meta") or {}
+            raw_spans = dlcr.get("span_resolutions") or []
+            pub_spans = [_public_dlcr_span_row(r) for r in raw_spans[:_PO02_MAX_EVIDENCE_SPANS]]
+            extended_out["lexical_evidence_dlcr"] = {
+                "analysis_text_fingerprint": pm.get("analysis_text_fingerprint"),
+                "lexical_hits_accepted": dlcr.get("lexical_hits_accepted"),
+                "lexical_hits_rejected": dlcr.get("lexical_hits_rejected"),
+                "span_resolution_count": len(raw_spans),
+                "resource_versions": dlcr.get("resource_versions"),
+                "winning_concept_ids_sample": [
+                    r.get("winning_concept_id") for r in raw_spans[:8]
+                ],
+                "evidence_spans": pub_spans,
+                "evidence_spans_max": _PO02_MAX_EVIDENCE_SPANS,
+                "evidence_spans_schema_id": "hesperia.schemas.lexical_concept.resolver_output.v0_6_0",
+            }
+        except Exception as e:
+            extended_out["lexical_evidence_dlcr"] = {"_error": str(e)[:240]}
     if b_result is not None:
         extended_out["dict_b"] = {
             "exclusion_conflict_energy": b_result["exclusion_conflict_energy"],

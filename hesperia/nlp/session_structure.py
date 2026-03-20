@@ -11,12 +11,13 @@ import re
 from dataclasses import dataclass
 from typing import Literal
 
+from hesperia.nlp.transcript_speaker_labels import (
+    PATIENT_LINE_PREFIX as PATIENT_PREFIX,
+    THERAPIST_LINE_PREFIX as THERAPIST_PREFIX,
+)
+
 Speaker = Literal["patient", "therapist"]
 Target = Literal["therapist", "patient", "third"]
-
-# Line must start with "Patient:" or "Therapist:" (case-insensitive), then optional space
-PATIENT_PREFIX = re.compile(r"^\s*Patient\s*:\s*", re.IGNORECASE)
-THERAPIST_PREFIX = re.compile(r"^\s*Therapist\s*:\s*", re.IGNORECASE)
 YOU_PATTERN = re.compile(r"\b(ты|тебя|тобой|вас|вам|вами|вы)\b", re.IGNORECASE)
 THIRD_PERSON_PATTERN = re.compile(
     r"\b(он[аи]?|его|её|ей|им|ими|мама|папа|муж|жена|начальник|коллега|друг|подруга|родител)\b",
@@ -58,9 +59,11 @@ def parse_session_dialogue(text: str) -> list[Utterance]:
     Split transcript into utterances by speaker labels.
 
     Rules:
-    - "Patient: ..." → speaker = "patient"
-    - "Therapist: ..." → speaker = "therapist"
-    - If no label on a line: default speaker = "patient"
+    - ``Patient:`` / ``Пациент:`` (any case) → speaker = ``patient``
+    - ``Therapist:`` / ``Терапевт:`` (any case) → speaker = ``therapist``
+    - If no label on a line: default speaker = ``patient``
+
+    Labels are defined in ``hesperia.nlp.transcript_speaker_labels``.
 
     Returns list of Utterance(speaker, text, tokens). Tokens are filled by
     tokenize_text + normalize_tokens (caller or integrate with session_parser).

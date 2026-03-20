@@ -50,7 +50,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **22**
+- `__future__` — **23**
 - `argparse` — **11**
 - `collections` — **1**
 - `core.projection` — **1**
@@ -66,8 +66,11 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.engine.kme.clinical_bridge` — **1**
 - `hesperia.engine.kme.models` — **1**
 - `hesperia.engine.kme.pipeline` — **1**
+- `hesperia.engine.lexical_concept.pipeline` — **3**
 - `hesperia.engine.multiscale_product_bridge` — **1**
 - `hesperia.engine.projection` — **2**
+- `hesperia.engine.projection.dlcr_public` — **1**
+- `hesperia.engine.projection.schema_enforcer` — **1**
 - `hesperia.engine.sealed_multiscale_stack` — **1**
 - `hesperia.experiments.experiment_runner` — **1**
 - `hesperia.extensions.dynamics.calibration` — **1**
@@ -81,12 +84,12 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.product.comparison_engine` — **1**
 - `hesperia.product.mvp_acceptance` — **1**
 - `hesperia.product.package_builder` — **1**
-- `hesperia.system.capabilities` — **2**
+- `hesperia.system.capabilities` — **3**
 - `hesperia.system.system_seal` — **2**
 - `hesperia.system.version` — **7**
 - `json` — **14**
 - `logging` — **1**
-- `os` — **11**
+- `os` — **12**
 - `pathlib` — **20**
 - `pydantic` — **2**
 - `research.clinical_tfp.interpretation` — **1**
@@ -146,6 +149,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `fastapi.openapi.utils`
 - `fastapi.responses`
 - `fastapi.security`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.extensions.triz.pipeline`
 - `hesperia.system.capabilities`
 - `hesperia.system.version`
@@ -215,6 +219,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.engine.kme.clinical_bridge`
 - `hesperia.engine.kme.models`
 - `hesperia.engine.kme.pipeline`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.sealed_multiscale_stack`
 - `hesperia.experiments.experiment_runner`
 - `hesperia.extensions.dynamics.calibration`
@@ -406,11 +411,23 @@ Enforced by `python3 tools/check_import_boundary.py`.
 
 **from**
 - `__future__`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.multiscale_product_bridge`
 - `hesperia.engine.projection`
+- `hesperia.engine.projection.dlcr_public`
+- `hesperia.engine.projection.schema_enforcer`
+- `hesperia.system.capabilities`
 - `hesperia.system.version`
 - `pathlib`
 - `typing`
+
+### `runtime/services/dlcr_service.py`
+
+**import**
+- `os`
+
+**from**
+- `__future__`
 
 ### `runtime/shipping/__init__.py`
 

@@ -13,7 +13,7 @@ Engine Dynamics v0.5 (docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md):
   Canonical release proof: steps 1–9, 10b–10c, 11–11d (+ optional field_dynamics). TFP smoke (step 10) =
   Kernberg testing collateral — runs for CI parity, not the generic v0.5 product definition.
 
-Writes ~19 JSON (+ optional field_dynamics): sealed multiscale, hex microstructure, semantic field, HCI, …
+Writes ~19 JSON (+ optional field_dynamics; + optional DLCR when ``HESPERIA_E2E_DLCR=1``): sealed multiscale, hex microstructure, semantic field, HCI, …
 Order: docs/E2E_RUN_ORDER.md. Swampy: sphere vs core.layers dual paths — refactor target.
 Usage: python3 -m runtime.pipeline.run_e2e_all [--out-dir path]
 """
@@ -59,8 +59,12 @@ E2E_OUTPUTS = (
 )
 # Optional artifact when HESPERIA_FIELD_DYNAMICS=1
 E2E_OUTPUT_FIELD_DYNAMICS = "run_output_e2e_field_dynamics.json"
+# Optional DLCR pipeline artifact when HESPERIA_E2E_DLCR=1
+E2E_OUTPUT_DLCR = "run_output_e2e_dlcr.json"
 # Full manifest when dynamics flag is set (19 base + field_dynamics)
 E2E_OUTPUTS_WITH_FIELD_DYNAMICS = E2E_OUTPUTS + (E2E_OUTPUT_FIELD_DYNAMICS,)
+# Optional 21st artifact when HESPERIA_E2E_DLCR=1 (independent of field dynamics)
+E2E_OUTPUTS_WITH_FIELD_DYNAMICS_AND_DLCR = E2E_OUTPUTS_WITH_FIELD_DYNAMICS + (E2E_OUTPUT_DLCR,)
 
 
 def _ensure_e2e_run_id() -> str:
@@ -571,6 +575,30 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
     except Exception as e:
         speaker_aware_smoke = {"_error": str(e)}
 
+    session_dlcr_bundles: list[dict[str, Any]] = []
+    if os.environ.get("HESPERIA_TFP_DLCR", "").strip().lower() in ("1", "true", "yes", "on"):
+        try:
+            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+            for sid, t in zip(sids, texts):
+                if not (t or "").strip():
+                    continue
+                try:
+                    d = run_dlcr_pipeline(t, repo_root=_HESPERIA)
+                    session_dlcr_bundles.append(
+                        {
+                            "session_id": sid,
+                            "lexical_hits_accepted": d.get("lexical_hits_accepted"),
+                            "degradation_flags": d.get("degradation_flags"),
+                            "microcell_concentration": d.get("hex_concentration"),
+                            "span_count": len(d.get("span_resolutions") or []),
+                        }
+                    )
+                except Exception as ex:  # noqa: BLE001
+                    session_dlcr_bundles.append({"session_id": sid, "_error": str(ex)})
+        except Exception as ex:  # noqa: BLE001
+            session_dlcr_bundles = [{"_error": str(ex)}]
+
     out: dict[str, Any] = {
         "run": "e2e_tfp_smoke",
         "tfp_stages_enum": list(TFP_STAGES),
@@ -580,8 +608,21 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
         "session_hex_microstructure_tfp": session_hex_microstructure_tfp,
         "speaker_aware_smoke": speaker_aware_smoke,
     }
+    if session_dlcr_bundles:
+        out["session_dlcr_bundles"] = session_dlcr_bundles
     out = _round_floats(out)
     _write_e2e_json(out_path, out, ["runtime.services.analysis_service", "research.clinical_tfp.stage_detection", "hesperia.nlp.session_parser"])
+
+
+def run_e2e_dlcr(out_path: Path, text: str) -> None:
+    """DLCR L0–L6 bundle for primary E2E text (Ethan INT-015)."""
+    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+    t = (text or "").strip() or "justice order fairness truth"
+    body = run_dlcr_pipeline(t, repo_root=_HESPERIA)
+    # Preserve artifact run id (pipeline body also sets run=dlcr_pipeline_v1).
+    out = _round_floats({**body, "run": "e2e_dlcr", "input": _text_preview(t)})
+    _write_e2e_json(out_path, out, ["hesperia.engine.lexical_concept.pipeline"])
 
 
 def run_e2e_sealed_multiscale(out_path: Path, text: str) -> None:
@@ -752,6 +793,19 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
         }
 
     _put("sealed_multiscale_hspr", _sealed_stack)
+
+    def _dlcr_cap() -> dict[str, Any]:
+        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+        d = run_dlcr_pipeline(text_s[:1500], repo_root=_HESPERIA)
+        return {
+            "run": "dlcr_pipeline",
+            "lexical_hits_accepted": d.get("lexical_hits_accepted"),
+            "resource_versions": d.get("resource_versions"),
+            "microcell_concentration": d.get("hex_concentration"),
+        }
+
+    _put("dlcr_pipeline", _dlcr_cap)
 
     _put(
         "session_enhanced",
@@ -1242,6 +1296,11 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     p_sealed = out_dir / "run_output_e2e_sealed_multiscale.json"
     run_e2e_sealed_multiscale(p_sealed, text)
     written["run_output_e2e_sealed_multiscale.json"] = p_sealed
+
+    if os.environ.get("HESPERIA_E2E_DLCR", "").strip().lower() in ("1", "true", "yes", "on"):
+        p_dlcr = out_dir / E2E_OUTPUT_DLCR
+        run_e2e_dlcr(p_dlcr, text)
+        written[E2E_OUTPUT_DLCR] = p_dlcr
 
     # 11. Capability matrix: shipping stages, clinical, NLP, TRIZ core, product, baselines, topology
     p = out_dir / "run_output_e2e_capability_matrix.json"

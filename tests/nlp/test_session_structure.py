@@ -53,6 +53,20 @@ THERAPIST: Hi."""
     assert utterances[1].speaker == "therapist" and "Hi" in utterances[1].text
 
 
+def test_parse_session_dialogue_russian_labels() -> None:
+    """Пациент: / Терапевт: align with English Patient:/Therapist: (transcript_speaker_labels)."""
+    from hesperia.nlp.session_structure import parse_session_dialogue
+
+    text = """Пациент: Я чувствую, что вы отстранились.
+Терапевт: Что для вас значит «отстранились»?
+Пациент: Не смотрите на меня."""
+    utterances = parse_session_dialogue(text)
+    assert len(utterances) == 3
+    assert utterances[0].speaker == "patient" and "отстранились" in utterances[0].text
+    assert utterances[1].speaker == "therapist" and "значит" in utterances[1].text
+    assert utterances[2].speaker == "patient"
+
+
 def test_tokenization_per_speaker() -> None:
     """Each Utterance has tokens from tokenize + normalize."""
     from hesperia.nlp.session_structure import parse_session_dialogue

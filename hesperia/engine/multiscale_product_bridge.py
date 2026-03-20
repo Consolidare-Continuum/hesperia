@@ -83,7 +83,9 @@ def build_structural_internal_from_multiscale(
 
     Raises RuntimeError if hex-layer activation is missing or malformed (no silent degradation).
     """
-    _ = policy_mode  # reserved; canonical path is multiscale-only
+    from core.lexical.analysis_input import prepare_structural_analysis_text
+
+    text, text_prep_meta = prepare_structural_analysis_text(text, policy_mode=policy_mode)
 
     sealed = run_sealed_multiscale_stack(
         text,
@@ -109,6 +111,7 @@ def build_structural_internal_from_multiscale(
     act = markers_to_concept_activation(text, assets)
     tokens = act["tokens"]
     matched = act["concept_matches"]
+    semantic_ev = act.get("semantic_evidence")
     f_sz = int(defaults.get("F", 288))
     a_sz = int(defaults.get("A", 12))
     eps = float(defaults.get("eps", 1e-9))
@@ -178,6 +181,12 @@ def build_structural_internal_from_multiscale(
         },
         "diagnostics": {
             "canonical_pipeline": "sealed_multiscale_v1",
+            "text_preprocess": text_prep_meta,
+            "semantic_path_guards": {
+                "concept_evidence_required_default": True,
+                "semantic_evidence": semantic_ev,
+                "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
+            },
             "concept_registry_version": (sealed.get("concept_layer") or {}).get("registry_version"),
             "n_concept": (sealed.get("concept_layer") or {}).get("n_concept"),
             "interpretability_trace": (sealed.get("concept_layer") or {}).get("interpretability_trace"),

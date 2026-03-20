@@ -82,3 +82,28 @@ def public_capability(name: str) -> bool:
     caps = load_capabilities()
     pub = caps.get("public") if isinstance(caps.get("public"), dict) else {}
     return bool(pub.get(name, True))
+
+
+def internal_dlcr_enabled() -> bool:
+    """YAML internal.dlcr — allows DLCR sidecar when env also set."""
+    caps = load_capabilities()
+    internal = caps.get("internal") if isinstance(caps.get("internal"), dict) else {}
+    return bool(internal.get("dlcr", False))
+
+
+def structural_dlcr_env_requested() -> bool:
+    return _env_bool("HESPERIA_DLCR_STRUCTURAL", False)
+
+
+def structural_dlcr_allowed() -> bool:
+    """
+    DLCR attachment on structural analysis: env + capability.
+
+    Strict product surface: requires ``internal.dlcr: true`` in capabilities.yaml
+    (default false) even if env is set.
+    """
+    if not structural_dlcr_env_requested():
+        return False
+    if is_product_surface_strict() and not internal_dlcr_enabled():
+        return False
+    return True

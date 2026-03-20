@@ -65,7 +65,7 @@ flowchart LR
 | TRIZ | `hesperia.extensions.triz.pipeline` | `active_graph_from_payload`, `run_triz_analysis_complete` |
 | Topology maps | `runtime.pipeline.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
 | Rows → L7 vector | `hesperia.extensions.dynamics.triz_signal` | `contradiction_signal_12_from_con_rows` |
-| Ξ boost | `hesperia.extensions.dynamics.xi_proxy` | `apply_xi_to_contradiction_signal` |
+| Ξ boost | `hesperia.extensions.dynamics.xi_proxy` | `apply_xi_to_contradiction_signal`; optional `xi_proxy_from_kme_active_graph` when `HESPERIA_FIELD_DYNAMICS_XI_KME=1` |
 | Orchestration | `hesperia.extensions.dynamics.e2e_bridge` | `run_field_dynamics_e2e_artifact` |
 | Entry from runner | `runtime.pipeline.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
 
@@ -93,6 +93,8 @@ If parsing fails or graph empty: `rows == []`, `triz_meta` may carry `triz_note`
 | `HESPERIA_FIELD_DYNAMICS_TRIZ=0` | Skip TRIZ fetch; `c_sig = 0`, `triz_skipped` in meta |
 | `HESPERIA_FIELD_DYNAMICS_XI=0` | Skip Ξ boost; base `c_sig` only |
 | `HESPERIA_FIELD_DYNAMICS_XI_SCALE` | Max per-area boost scale (default 0.14) |
+| `HESPERIA_FIELD_DYNAMICS_XI_KME=1` | Blend TRIZ-row Ξ with **full-graph KME** `ActiveGraph` tension (default **0**) |
+| `HESPERIA_FIELD_DYNAMICS_XI_KME_WEIGHT` | Blend weight for KME vs TRIZ profiles in `[0,1]` (default **0.55**) |
 
 Phase flags (Phase2/3/4) only change **which layers** consume the same `c_sig`; they do not change TRIZ wiring.
 

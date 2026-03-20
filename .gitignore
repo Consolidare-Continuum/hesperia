@@ -31,6 +31,9 @@ keys/
 outputs/*
 !outputs/.gitkeep
 
+# Local release audit scratch (never commit)
+_release_tmp/
+
 # Data and logs (tracked: legacy/assets/data/* historical dumps; active: assets/data/*)
 
 # E2E: commit assets/artifacts/e2e/run_output_e2e_*.json after run (see docs/E2E_RUN_ORDER.md).
@@ -38,6 +41,17 @@ outputs/*
 assets/artifacts/e2e_full_deliverables/
 # Local session notes (relocate from repo root if present)
 research/reports/_noone_local/
+
+# Patient / therapy session transcripts (local only; do not publish).
+# TFP corpus for builds: research/_noone_local/2_cleaned/ + assets/data/engine_dynamics_v060/
+# Dated session IDs: <n>-<dd>-<mm>-<yyyy>.md (root of _noone_local only; not subdirs)
+research/_noone_local/*-*-*-*.md
+# Numbered session chunks in pre-clean folder (corpus lives in 2_cleaned/)
+research/_noone_local/2/[123].md
+
+# dict_a RU raw JSONL exceeds GitHub 100MB/file limit; regenerate via
+#   python3 tools/run_tfp_dict_build_full_artifacts_v060.py --write
+assets/data/engine_dynamics_v060/dict_a/_raw/*.jsonl
 hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/

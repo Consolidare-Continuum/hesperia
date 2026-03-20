@@ -4,9 +4,12 @@ from __future__ import annotations
 
 import pytest
 
+from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.dynamics.xi_proxy import (
     apply_xi_to_contradiction_signal,
     field_dynamics_xi_enabled,
+    field_dynamics_xi_kme_enabled,
+    xi_proxy_from_kme_active_graph,
     xi_proxy_from_triz_rows,
 )
 
@@ -64,3 +67,41 @@ def test_xi_scale_from_env(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.delenv("HESPERIA_FIELD_DYNAMICS_XI_SCALE", raising=False)
     out_default, _ = apply_xi_to_contradiction_signal(c0, rows, xi_scale=None)
     assert out_env[5] > out_default[5]
+
+
+def test_xi_proxy_kme_cross_area_edges() -> None:
+    ag = ActiveGraph(
+        nodes={
+            "c_alpha": ActiveNode("c_alpha", 4),
+            "c_beta": ActiveNode("c_beta", 9),
+        },
+        edges=[ActiveEdge("c_alpha", "c_beta", "opposes")],
+    )
+    c2af = {"c_alpha": ("A1", "F1"), "c_beta": ("A2", "F2")}
+    g, per = xi_proxy_from_kme_active_graph(ag, c2af)
+    assert g > 0.0
+    assert per[0] > 0.0 and per[1] > 0.0
+    assert max(per) == pytest.approx(1.0)
+
+
+def test_field_dynamics_xi_kme_env(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.delenv("HESPERIA_FIELD_DYNAMICS_XI_KME", raising=False)
+    assert field_dynamics_xi_kme_enabled() is False
+    monkeypatch.setenv("HESPERIA_FIELD_DYNAMICS_XI_KME", "1")
+    assert field_dynamics_xi_kme_enabled() is True
+
+
+def test_apply_xi_kme_without_triz_rows(monkeypatch: pytest.MonkeyPatch) -> None:
+    monkeypatch.setenv("HESPERIA_FIELD_DYNAMICS_XI_KME", "1")
+    ag = ActiveGraph(
+        nodes={"c1": ActiveNode("c1", 10)},
+        edges=[],
+    )
+    c2af = {"c1": ("A4", "F1")}
+    c0 = [0.0] * 12
+    out, meta = apply_xi_to_contradiction_signal(
+        c0, [], xi_scale=0.2, kme_active_graph=ag, concept_to_area_family=c2af
+    )
+    assert meta.get("xi_kme_blended") is True
+    assert meta.get("xi_kme_global", 0) is not None
+    assert out[3] > c0[3]

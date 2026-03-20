@@ -64,7 +64,8 @@ def run_structural_analysis(
         )
     _reject_legacy_profile_args(profile_path=profile_path, profile_id=profile_id, profile=profile)
 
-    assets = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    repo_root = Path(__file__).resolve().parents[2]
+    assets = assets_root or repo_root / "lexicon" / "curated"
     raw = build_structural_internal_from_multiscale(
         text,
         assets,
@@ -75,6 +76,26 @@ def run_structural_analysis(
         document_id="analysis_service",
     )
     out = project_to_public(raw, validate_schema=True)
+
+    from hesperia.system.capabilities import structural_dlcr_allowed
+
+    if structural_dlcr_allowed():
+        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+        from hesperia.engine.projection.dlcr_public import project_dlcr_public_summary
+
+        dlcr_bundle = run_dlcr_pipeline(text, repo_root=repo_root)
+        lr = project_dlcr_public_summary(dlcr_bundle)
+        pl = out.get("payload")
+        if isinstance(pl, dict):
+            merged = dict(pl)
+            merged["lexical_resolution"] = lr
+            out["payload"] = merged
+        else:
+            out["payload"] = {"lexical_resolution": lr}
+        from hesperia.engine.projection.schema_enforcer import enforce_public_schema
+
+        enforce_public_schema(out)
+
     if not attach_version:
         return out
     from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, structural_pipeline_version

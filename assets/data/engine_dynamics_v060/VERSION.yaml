@@ -1,0 +1,16 @@
+# DLCR-HP resource bundle pins (v0.6.0 integration). See ETHAN-DLCR-INTEGRATION-RUNBOOK.md.
+dlcr_bundle: "v0.6.0"
+dict_a:
+  seed: "v0.6.0"
+  tfp: "v0.6.0-tfp"
+  tfp_ru: "v0.6.0_ru_tfp"
+  tfp_ru_stack: "v0.6.0_ru_tfp_stack"
+dict_b:
+  seed: "v0.6.0"
+  tfp: "v0.6.0-tfp"
+  tfp_ru: "v0.6.0_ru_tfp"
+  tfp_ru_v060: "v0.6.0_ru_tfp_stack"
+normalization: "v0.6.0"
+resolver_rules: "v0.6.0"
+hex_topology: "bounded_hx_map_v1"
+aggregation: "v0.6.0"

@@ -36,10 +36,15 @@ def contradiction_signal_12_from_con_rows(con_rows: list[dict[str, Any]]) -> lis
     return [0.0] * NUM_AREAS
 
 
-def fetch_triz_contradiction_rows(text: str) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+def fetch_triz_contradiction_rows(
+    text: str,
+) -> tuple[list[dict[str, Any]], dict[str, Any], Any]:
     """
-    Session → clinical graph → TRIZ complete; return contradiction rows + small meta.
-    On failure: ([], {"_error": ...}).
+    Session → clinical graph → TRIZ complete; return contradiction rows + small meta + ActiveGraph.
+
+    Third value is the clinical :class:`~hesperia.engine.kme.models.ActiveGraph` when built (possibly
+    empty nodes), or ``None`` on hard failure. Used for full-graph Ξ (KME) when TRIZ rows are sparse.
+    On failure: ``([], {"_error": ...}, None)``.
     """
     meta: dict[str, Any] = {"contradiction_count": 0}
     try:
@@ -57,7 +62,7 @@ def fetch_triz_contradiction_rows(text: str) -> tuple[list[dict[str, Any]], dict
         ag = build_clinical_active_graph(activation)
         if not ag.nodes:
             meta["triz_note"] = "no_active_nodes"
-            return [], meta
+            return [], meta, ag
         payload = {
             "nodes": {cid: {"hitCount": n.hit_count} for cid, n in sorted(ag.nodes.items())},
             "edges": [
@@ -85,7 +90,7 @@ def fetch_triz_contradiction_rows(text: str) -> tuple[list[dict[str, Any]], dict
         )
         rows = list(content.get("contradictions") or [])
         meta["contradiction_count"] = len(rows)
-        return rows, meta
+        return rows, meta, ag
     except Exception as e:
         meta["_error"] = str(e)
-        return [], meta
+        return [], meta, None

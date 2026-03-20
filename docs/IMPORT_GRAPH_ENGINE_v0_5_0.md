@@ -15,17 +15,30 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **39**
+- `__future__` — **41**
 - `collections` — **2**
 - `core.attribution.structural` — **1**
 - `core.domain.bridge` — **1**
 - `core.domain.loader` — **1**
 - `core.domain.models` — **1**
 - `core.domain.pipeline` — **1**
+- `core.hexmap.aggregate` — **1**
+- `core.hexmap.analytics` — **1**
+- `core.hexmap.dynamics` — **1**
+- `core.hexmap.projection` — **1**
+- `core.hexmap.topology` — **1**
 - `core.layers` — **1**
+- `core.lexical.analysis_input` — **2**
+- `core.lexical.cooccurrence` — **1**
+- `core.lexical.matcher` — **1**
+- `core.lexical.normalization` — **1**
+- `core.lexical.policy` — **1**
 - `core.math.io_deterministic_json` — **1**
 - `core.projection` — **1**
 - `core.projection.public_projection_layer` — **1**
+- `core.resolver.resolver` — **1**
+- `core.sequence.segmentation` — **1**
+- `core.sequence.trajectory` — **1**
 - `core.topology.invariant_catalog` — **2**
 - `dataclasses` — **8**
 - `enum` — **1**
@@ -57,6 +70,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.kme.pipeline` — **1**
 - `hesperia.engine.kme.primitives.calculator` — **4**
 - `hesperia.engine.kme.profiling.profiler` — **2**
+- `hesperia.engine.lexical_concept.pipeline` — **2**
 - `hesperia.engine.matrix_loader` — **3**
 - `hesperia.engine.observables` — **1**
 - `hesperia.engine.pch_loader` — **2**
@@ -73,20 +87,20 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.nlp.session_parser` — **1**
 - `hesperia.ontology.dictB.loader` — **1**
 - `hesperia.system.version` — **7**
-- `json` — **6**
+- `json` — **7**
 - `math` — **8**
 - `numpy` — **19**
-- `os` — **3**
-- `pathlib` — **12**
+- `os` — **5**
+- `pathlib` — **13**
 - `re` — **1**
 - `runtime.shipping.schema_guard` — **1**
 - `scipy.sparse` — **3**
 - `sphere.topology` — **1**
 - `sphere.topology.family_embedding` — **2**
 - `statistics` — **1**
-- `typing` — **32**
+- `typing` — **34**
 - `warnings` — **1**
-- `yaml` — **2**
+- `yaml` — **3**
 
 ## Per-file edges (sorted by path)
 
@@ -457,6 +471,36 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ### `hesperia/engine/kme/validation/__init__.py`
 
+### `hesperia/engine/lexical_concept/__init__.py`
+
+**from**
+- `hesperia.engine.lexical_concept.pipeline`
+
+### `hesperia/engine/lexical_concept/pipeline.py`
+
+**import**
+- `json`
+- `os`
+- `yaml`
+
+**from**
+- `__future__`
+- `core.hexmap.aggregate`
+- `core.hexmap.analytics`
+- `core.hexmap.dynamics`
+- `core.hexmap.projection`
+- `core.hexmap.topology`
+- `core.lexical.analysis_input`
+- `core.lexical.cooccurrence`
+- `core.lexical.matcher`
+- `core.lexical.normalization`
+- `core.lexical.policy`
+- `core.resolver.resolver`
+- `core.sequence.segmentation`
+- `core.sequence.trajectory`
+- `pathlib`
+- `typing`
+
 ### `hesperia/engine/matrix_loader.py`
 
 **import**
@@ -480,6 +524,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.domain.models`
 - `core.domain.pipeline`
 - `core.layers`
+- `core.lexical.analysis_input`
 - `hesperia.engine.hex_matrix_builders`
 - `hesperia.engine.sealed_multiscale_stack`
 - `hesperia.extensions.dynamics.e2e_bridge`
@@ -540,6 +585,12 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.projection.sanitizer`
 - `hesperia.engine.projection.schema_enforcer`
 
+### `hesperia/engine/projection/dlcr_public.py`
+
+**from**
+- `__future__`
+- `typing`
+
 ### `hesperia/engine/projection/public_projection.py`
 
 **from**
@@ -571,6 +622,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **import**
 - `numpy`
+- `os`
 
 **from**
 - `__future__`
@@ -579,6 +631,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.hex_family_bridge`
 - `hesperia.engine.hex_matrix_builders`
 - `hesperia.engine.hspr_index`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.matrix_loader`
 - `hesperia.engine.pch_loader`
 - `hesperia.engine.product_signals`

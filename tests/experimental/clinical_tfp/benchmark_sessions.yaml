@@ -14,6 +14,9 @@ sessions:
       defense_pattern: splitting
       object_relation_pattern: persecutory_object
       aggression_level: moderate
+      dlcr:
+        min_lexical_hits_accepted: 0
+        min_span_count: 0
 
   - session_id: bench_002
     description: "Neutral clarification"

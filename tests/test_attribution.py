@@ -50,6 +50,29 @@ def test_tokenize():
     assert tokenize("one, two. three") == ["one", "two", "three"]
 
 
+def test_attribute_exclude_direct_dict_a_family():
+    """Ethan PO-11: strict guard skips Dict-A direct path; B0 fallback when token is in dict_b."""
+    dict_a = {"truth": {"familyGlobal": 9, "altitude": 0.2}}
+    dict_b = {"truth": 5, "other": 7}
+    tokens = ["truth", "other"]
+    matched, metrics = attribute(tokens, dict_a, dict_b, exclude_landing_sources=frozenset({"A"}))
+    assert metrics.get("excluded_by_guard") == 1
+    assert metrics.get("unfiltered_landing_counts", {}).get("A") == 1
+    assert metrics.get("b_fallback_after_a_excluded") == 1
+    assert metrics["landing_source_counts"].get("B0_fallback") == 1
+    assert len(matched) == 2
+    assert {m[0] for m in matched} == {5, 7}
+
+
+def test_attribute_exclude_a_no_b_fallback_when_missing_from_dict_b():
+    dict_a = {"onlya": {"familyGlobal": 3, "altitude": 0.1}}
+    dict_b: dict[str, int] = {}
+    matched, metrics = attribute(["onlya"], dict_a, dict_b, exclude_landing_sources=frozenset({"A"}))
+    assert metrics.get("excluded_by_guard") == 1
+    assert metrics.get("b_fallback_after_a_excluded") == 0
+    assert len(matched) == 0
+
+
 def test_attribute_and_aggregate():
     dict_a = {"truth": {"familyGlobal": 9, "altitude": 0.2}, "order": {"familyGlobal": 2, "altitude": 0.5}}
     dict_b = {"good": 0}
