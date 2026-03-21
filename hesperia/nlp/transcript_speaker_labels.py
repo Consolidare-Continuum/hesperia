@@ -80,3 +80,29 @@ def resolve_speaker_token(raw_label: str) -> str:
     """Map matched label (any case) to ``patient`` / ``therapist`` / original if unknown."""
     key = (raw_label or "").strip().lower()
     return SPEAKER_ALIASES.get(key, key)
+
+
+def transcript_has_both_clinical_speakers(text: str) -> bool:
+    """
+    True when the text contains at least one line starting with a **patient** role label
+    and one with a **therapist** role label (RU or EN, same rules as ``SPEAKER_PATTERN``).
+
+    Used to decide whether to run ``analyze_session_speaker_aware`` on real transcripts
+    (e.g. ``Пациент:`` / ``Терапевт:``) without hard-coding English ``Patient:`` / ``Therapist:``.
+    """
+    if not text or not isinstance(text, str):
+        return False
+    has_patient = False
+    has_therapist = False
+    for line in text.splitlines():
+        m = SPEAKER_PATTERN.match(line)
+        if not m:
+            continue
+        role = resolve_speaker_token(m.group("lbl").strip())
+        if role == ROLE_PATIENT:
+            has_patient = True
+        elif role == ROLE_THERAPIST:
+            has_therapist = True
+        if has_patient and has_therapist:
+            return True
+    return False

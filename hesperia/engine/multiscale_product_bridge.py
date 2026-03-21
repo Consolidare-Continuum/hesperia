@@ -13,12 +13,46 @@ dossiers, and E2E checks keep stable key presence without exposing forbidden pub
 
 from __future__ import annotations
 
+import math
 from pathlib import Path
 from typing import Any
 
 from hesperia.engine.hex_matrix_builders import HEXES_PER_FAMILY_CANON
 from hesperia.engine.sealed_multiscale_stack import NUM_FAMILIES, run_sealed_multiscale_stack
 from hesperia.system.version import calibration_profile_bundle_id
+
+
+def _l1_synthetic_matched_from_family_activation(
+    family_activation: list[float],
+    total_tokens: int,
+    *,
+    default_altitude: float = 1.0,
+) -> list[tuple[int, float]]:
+    """
+    Deterministic token→family allocation from sealed ``family_activation_vector`` (largest remainder).
+
+    Used when lexicon marker path attributes zero tokens but sealed hex/family mass is nonzero
+    (e.g. uniform concept prior + preserved microphysics mass).
+    """
+    if total_tokens <= 0:
+        return []
+    fv = [max(0.0, float(x)) for x in family_activation]
+    s = sum(fv)
+    if s <= 0.0:
+        return []
+    probs = [x / s for x in fv]
+    quotas = [total_tokens * p for p in probs]
+    floors = [int(math.floor(q)) for q in quotas]
+    rem = total_tokens - sum(floors)
+    order = sorted(range(len(probs)), key=lambda i: quotas[i] - floors[i], reverse=True)
+    counts = list(floors)
+    for j in range(rem):
+        counts[order[j % len(order)]] += 1
+    matched: list[tuple[int, float]] = []
+    for fi, c in enumerate(counts):
+        for _ in range(c):
+            matched.append((fi, default_altitude))
+    return matched
 
 
 def _brand_word_trust_from_hspr(hspr: float, decision_code: int) -> str:
@@ -116,7 +150,16 @@ def build_structural_internal_from_multiscale(
     a_sz = int(defaults.get("A", 12))
     eps = float(defaults.get("eps", 1e-9))
     L1_core = compute_L1(len(tokens), matched, F=f_sz, A=a_sz, eps=eps)
+    l1_fallback_kind: str | None = None
+    if int(L1_core.get("ATTRIBUTED_TOKENS") or 0) == 0:
+        fav = sealed.get("family_activation_vector") or []
+        synth = _l1_synthetic_matched_from_family_activation(fav, len(tokens))
+        if synth:
+            L1_core = compute_L1(len(tokens), synth, F=f_sz, A=a_sz, eps=eps)
+            l1_fallback_kind = "sealed_family_activation_to_L1"
     L1_out = {**L1_core, "CANONICAL_PIPELINE": "sealed_multiscale_v1"}
+    if l1_fallback_kind:
+        L1_out["CALIBRATION_FALLBACK_USED"] = l1_fallback_kind
 
     area = [float(x) for x in (sealed.get("area_activation_vector") or [])]
     public_areas = [area[i] for i in range(min(10, len(area)))]
@@ -181,6 +224,20 @@ def build_structural_internal_from_multiscale(
         },
         "diagnostics": {
             "canonical_pipeline": "sealed_multiscale_v1",
+            "calibration_status": {
+                "marker_concept_mass": (sealed.get("concept_layer") or {}).get("marker_concept_mass"),
+                "uniform_concept_prior_fallback_used": (sealed.get("concept_layer") or {}).get(
+                    "uniform_concept_prior_fallback_used"
+                ),
+                "hex_upstream_fallback_used": (sealed.get("concept_layer") or {}).get(
+                    "hex_upstream_fallback_used"
+                ),
+                "l1_calibration_fallback": l1_fallback_kind,
+                "true_absence_of_marker_signal": (
+                    (sealed.get("concept_layer") or {}).get("marker_concept_mass", 1.0) or 0.0
+                )
+                <= 0.0,
+            },
             "text_preprocess": text_prep_meta,
             "semantic_path_guards": {
                 "concept_evidence_required_default": True,

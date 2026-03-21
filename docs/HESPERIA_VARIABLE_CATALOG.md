@@ -196,7 +196,7 @@ Also: `innovation_pressure`, `propagation_velocity`, `narrative_stability`, `sem
 
 **Domain patterns:** `domain_pattern_count`, `domain_pattern_entropy`, `domain_cluster_interaction`, `domain_transition_rate`.
 
-**Raw E2E keys** include `segments`, `transitions`, `aggression_curve`, `state_sequence`, `defense_timeline`; domain_* names are **Derived** product views on those structures (clinical / psychodynamic grid).
+**Raw E2E keys** include `segments`, `transitions`, `area_curves` (after per-segment **share** or **softmax** competition + adjacent smooth; see `curve_projection_meta`), `area_curves_session_relative` (mean-centered per curve over the session), `aggression_curve` (alias of `area_curves.aggression`), `curve_projection_meta` (`segment_dominance_confidence`, `lexical_controls` including **`evidence_volume_normalize`** (`1/sqrt(tokens)` on marker weights before rollup), calibration bands), `state_sequence`, `defense_timeline`. Residual roadmap: [CLINICAL_SIGNAL_PIPELINE_GAPS_v0_1.md](../governance/working/CLINICAL_SIGNAL_PIPELINE_GAPS_v0_1.md).
 
 ---
 

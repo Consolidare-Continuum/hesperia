@@ -2,7 +2,7 @@
 # HESPERIA — Block research.* and legacy.* imports in shipping-critical trees.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
-# research is allowed only in runtime/pipeline/run_e2e_all.py (experimental E2E steps).
+# research is allowed only in selected runtime/pipeline entrypoints (experimental E2E / TFP file runs).
 # legacy must never be imported as a Python package from active code (archive is not on PYTHONPATH by policy).
 #
 # Usage: python3 tools/check_forbidden_zone_imports.py [--repo PATH]
@@ -23,7 +23,12 @@ STRICT_TREES = [
 ]
 
 PIPELINE_TREE = "runtime/pipeline"
-RESEARCH_ALLOWLIST = frozenset({"runtime/pipeline/run_e2e_all.py"})
+RESEARCH_ALLOWLIST = frozenset(
+    {
+        "runtime/pipeline/run_e2e_all.py",
+        "runtime/pipeline/run_tfp_file_pipeline.py",
+    }
+)
 
 
 def _forbidden_module(name: str | None) -> bool:

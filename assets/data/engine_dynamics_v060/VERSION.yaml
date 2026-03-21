@@ -5,6 +5,7 @@ dict_a:
   tfp: "v0.6.0-tfp"
   tfp_ru: "v0.6.0_ru_tfp"
   tfp_ru_stack: "v0.6.0_ru_tfp_stack"
+  tfp_ru_aligned: "v0.6.0_ru_tfp_corpus_align"
 dict_b:
   seed: "v0.6.0"
   tfp: "v0.6.0-tfp"

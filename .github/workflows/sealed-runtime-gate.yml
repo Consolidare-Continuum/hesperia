@@ -99,6 +99,17 @@ jobs:
         run: |
           python3 -m pytest tests/test_runtime_spine_integrity.py \
             tests/test_semantic_output_signature.py tests/test_guard_invariants_locked.py \
-            tests/test_tool_contracts_locked.py tests/test_public_api_snapshot.py -q --tb=short
+            tests/test_tool_contracts_locked.py tests/test_public_api_snapshot.py \
+            tests/test_calibration_release_gate.py tests/test_output_anomalies.py \
+            tests/test_output_trace.py tests/test_bundle_schema_validation.py -q --tb=short
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: TFP calibration bundle (schema + goldset + gate smoke)
+        run: |
+          python3 tools/validate_tfp_bundle_schemas.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci
+          python3 tools/run_tfp_calibration_goldset.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci
+          python3 tools/calibration_release_gate.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci \
+            --profile internal_review --skip-schema --skip-gold
         env:
           PYTHONPATH: ${{ github.workspace }}

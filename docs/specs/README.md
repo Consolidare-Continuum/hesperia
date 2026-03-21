@@ -20,6 +20,7 @@ This directory keeps **process, triage, governance, and project** notes (descrip
 | R1–R4 JSON schemas | **[specs/schemas/r1_r4/](../../specs/schemas/r1_r4/)** |
 | Calibration examples | **[specs/calibration/](../../specs/calibration/)** |
 | Repo topology policy | **[REPO_STRUCTURE_POLICY.md](../../REPO_STRUCTURE_POLICY.md)** |
+| Multi-plane output calibration (TFP bundle) | **[output_calibration_contract_v1.md](output_calibration_contract_v1.md)** · [migration](output_calibration_migration_v1.md) |
 
 **Engine Dynamics v0.5 index:** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](../HESPERIA_v0_5_ENGINE_DYNAMICS.md) · [canonical naming](../ENGINE_DYNAMICS_CANONICAL_NAMING_v0.5.md).
 

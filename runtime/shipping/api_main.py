@@ -65,10 +65,35 @@ def _confidence_delta(d1: dict, d2: dict) -> str:
     return "same" if c1 == c2 else "different"
 
 
+# Request bodies must be module-level classes: nested models inside create_app() are ForwardRefs
+# and break FastAPI/Pydantic v2 body validation (TypeAdapter not fully defined).
+from pydantic import BaseModel, Field, field_validator
+
+
+class AnalyzeBody(BaseModel):
+    text: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+
+
+class CompareBody(BaseModel):
+    text1: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+    text2: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+
+
+class BatchAnalyzeBody(BaseModel):
+    texts: list[str] = Field(..., min_length=1, max_length=100)
+
+    @field_validator("texts")
+    @classmethod
+    def _cap_each(cls, v: list[str]) -> list[str]:
+        for i, t in enumerate(v):
+            if len(t) > _MAX_INPUT_CHARS:
+                raise ValueError(f"texts[{i}] exceeds max length {_MAX_INPUT_CHARS}")
+        return v
+
+
 def create_app():
-    from fastapi import FastAPI, HTTPException, Request
+    from fastapi import Body, FastAPI, HTTPException, Request
     from fastapi.responses import JSONResponse
-    from pydantic import BaseModel, Field, field_validator
 
     from hesperia.system.capabilities import expose_version_endpoint, public_capability
 
@@ -161,24 +186,6 @@ def create_app():
         print(f"version: {ver}", file=sys.stderr)
         print("mode: sealed_evaluator", file=sys.stderr)
 
-    class AnalyzeBody(BaseModel):
-        text: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
-
-    class CompareBody(BaseModel):
-        text1: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
-        text2: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
-
-    class BatchAnalyzeBody(BaseModel):
-        texts: list[str] = Field(..., min_length=1, max_length=100)
-
-        @field_validator("texts")
-        @classmethod
-        def _cap_each(cls, v: list[str]) -> list[str]:
-            for i, t in enumerate(v):
-                if len(t) > _MAX_INPUT_CHARS:
-                    raise ValueError(f"texts[{i}] exceeds max length {_MAX_INPUT_CHARS}")
-            return v
-
     @app.get("/health")
     def health() -> dict[str, str]:
         return {"status": "ok"}
@@ -195,34 +202,34 @@ def create_app():
                 return {"version": "0.5.1", "commit": "unknown", "build": "unknown"}
 
     @app.post("/analyze")
-    def analyze(body: AnalyzeBody):
+    def analyze(analyze_body: AnalyzeBody = Body(...)):
         if not public_capability("analyze"):
             raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
-        result = run_structural_analysis(body.text, assets_root=assets, stages="full")
+        result = run_structural_analysis(analyze_body.text, assets_root=assets, stages="full")
         return _safe_response(result)
 
     @app.post("/compare")
-    def compare(body: CompareBody):
+    def compare(compare_body: CompareBody = Body(...)):
         if not public_capability("compare"):
             raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
-        r1 = run_structural_analysis(body.text1, assets_root=assets, stages="full")
-        r2 = run_structural_analysis(body.text2, assets_root=assets, stages="full")
+        r1 = run_structural_analysis(compare_body.text1, assets_root=assets, stages="full")
+        r2 = run_structural_analysis(compare_body.text2, assets_root=assets, stages="full")
         d1 = (r1.get("L7") or {})
         d2 = (r2.get("L7") or {})
         dom1 = (r1.get("usf") or {}).get("raw_metrics") or {}
         dom2 = (r2.get("usf") or {}).get("raw_metrics") or {}
         out = {
             "run": "compare",
-            "text1_preview": body.text1[:80],
-            "text2_preview": body.text2[:80],
+            "text1_preview": compare_body.text1[:80],
+            "text2_preview": compare_body.text2[:80],
             "result1_trust": d1.get("OUTPUT_TRUST_TAG"),
             "result2_trust": d2.get("OUTPUT_TRUST_TAG"),
             "dominant_match": _same_dominant(dom1, dom2),
@@ -232,14 +239,14 @@ def create_app():
 
     @app.post("/batch-analyze")
     @app.post("/batch")
-    def batch_analyze(body: BatchAnalyzeBody):
+    def batch_analyze(batch_body: BatchAnalyzeBody = Body(...)):
         if not public_capability("batch"):
             raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis_batch
         assets = _assets_root()
-        results = run_structural_analysis_batch(body.texts, assets_root=assets)
+        results = run_structural_analysis_batch(batch_body.texts, assets_root=assets)
         return _safe_response(results)
 
     return app

@@ -56,6 +56,9 @@ hesperia_lex/raw/
 hesperia_lex/processed/
 hesperia_lex/logs/
 
+# TFP CI fixture: gate CLI may write this during local/CI runs (regenerate anytime)
+tests/fixtures/tfp_calibration_bundle_ci/11_calibration_release_gate.json
+
 # Task 6 seal inventory (regenerate: python3 tools/seal_phase0_inventory.py)
 tmp/*
 !tmp/.gitkeep

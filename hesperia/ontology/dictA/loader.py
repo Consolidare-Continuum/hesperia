@@ -17,6 +17,19 @@ _MARKERS_PATH = _DICT_A_DIR / "lexical_markers.yaml"
 _COLLOQUIAL_PATH = _DICT_A_DIR / "dictA_colloquial.yaml"
 _STOPWORDS_PATH = _DICT_A_DIR / "dictA_stopwords.yaml"
 
+# Optional per-entry YAML field ``confidence_type``: scales weight at index build time (calibration).
+CONFIDENCE_TYPE_MULTIPLIER: dict[str, float] = {
+    "strong": 1.0,
+    "weak": 0.3,
+}
+
+
+def _effective_marker_weight(entry: dict[str, Any], default_weight: float = 1.0) -> float:
+    w = float(entry.get("weight", default_weight))
+    ct = str(entry.get("confidence_type") or "strong").strip().lower()
+    mult = CONFIDENCE_TYPE_MULTIPLIER.get(ct, 1.0)
+    return w * mult
+
 
 def load_lexical_markers(path: Path | str | None = None) -> dict[str, Any]:
     """
@@ -43,7 +56,7 @@ def build_marker_to_concepts(path: Path | str | None = None) -> dict[str, list[t
             continue
         marker = e.get("marker")
         concept_id = e.get("concept_id")
-        weight = float(e.get("weight", 1.0))
+        weight = _effective_marker_weight(e, 1.0)
         if not marker or not concept_id:
             continue
         key = str(marker).strip().lower()
@@ -113,7 +126,7 @@ def build_phrase_marker_index(
             continue
         marker = e.get("marker")
         concept_id = e.get("concept_id")
-        weight = float(e.get("weight", 1.0))
+        weight = _effective_marker_weight(e, 1.0)
         if not marker or not concept_id:
             continue
         marker = str(marker).strip().lower()
@@ -147,7 +160,7 @@ def build_colloquial_marker_index(path: Path | str | None = None) -> dict[str, l
             continue
         marker = e.get("marker")
         concept_id = e.get("concept_id")
-        weight = float(e.get("weight", 1.2))
+        weight = _effective_marker_weight(e, 1.2)
         if not marker or not concept_id:
             continue
         key = str(marker).strip().lower()

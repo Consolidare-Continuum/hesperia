@@ -43,6 +43,7 @@ SUITES: list[tuple[str, list[Path], Path, Path]] = [
             BASE / "dict_a" / "dict_a_tfp_ru_variants.jsonl",
             BASE / "dict_a" / "dict_a_tfp_ru_speech.jsonl",
             BASE / "dict_a" / "dict_a_tfp_ru_negative.jsonl",
+            BASE / "dict_a" / "dict_a_tfp_ru_aligned.jsonl",
         ],
         BASE / "dict_b" / "dict_b_tfp.jsonl",
         BASE / "corpora" / "gold_tfp_ru.jsonl",

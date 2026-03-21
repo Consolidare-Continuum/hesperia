@@ -75,8 +75,11 @@ def run_sealed_multiscale_stack(
     assets = Path(assets_root)
     concept_act = markers_to_concept_activation(text, assets)
     hits = concept_act["a_concept_counts"]
-    h = np.asarray(hits, dtype=np.float64)
-    if float(h.sum()) <= 0:
+    h_raw = np.asarray(hits, dtype=np.float64)
+    marker_concept_mass = float(h_raw.sum())
+    uniform_concept_prior_fallback_used = marker_concept_mass <= 0.0
+    h = h_raw.copy()
+    if uniform_concept_prior_fallback_used:
         h = np.ones(NUM_FAMILIES, dtype=np.float64) / NUM_FAMILIES
     a_concept = np.asarray(h, dtype=np.float64).reshape(-1)
     pch = load_pch()
@@ -113,6 +116,15 @@ def run_sealed_multiscale_stack(
         hex_energy_trace = [e0, e1]
     else:
         A1 = A0.copy()
+
+    hex_upstream_fallback_used = False
+    if float(np.sum(A1)) <= 0.0 and float(np.sum(A0)) > 0.0:
+        A1 = np.maximum(A0, 0.0)
+        hex_upstream_fallback_used = True
+        if apply_local_step:
+            s_ref_fb = A0.copy()
+            e1_fb = float(compute_energy_hex_2d(A1, L_ring, C_F, s_ref_fb, lam_contra=1.0))
+            hex_energy_trace = [hex_energy_trace[0], e1_fb] if hex_energy_trace else [e1_fb]
 
     _require_hex_for_signals(A0, A1)
 
@@ -156,6 +168,9 @@ def run_sealed_multiscale_stack(
             "registry_version": concept_act.get("registry_version"),
             "n_concept": concept_act.get("n_concept"),
             "a_concept_nonzero_count": int(np.count_nonzero(h)),
+            "marker_concept_mass": round(marker_concept_mass, 12),
+            "uniform_concept_prior_fallback_used": uniform_concept_prior_fallback_used,
+            "hex_upstream_fallback_used": hex_upstream_fallback_used,
             "interpretability_trace": interpretability_trace,
         },
         "hex_energy_trace": [round(x, 10) for x in hex_energy_trace],

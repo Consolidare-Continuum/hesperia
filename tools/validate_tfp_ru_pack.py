@@ -17,6 +17,8 @@ DA_FILES = [
     BASE / "dict_a" / "dict_a_tfp_ru_speech.jsonl",
     BASE / "dict_a" / "dict_a_tfp_ru_negative.jsonl",
 ]
+# Optional: corpus-aligned phrases (same merge order as DLCR pipeline tail).
+DA_ALIGNED = BASE / "dict_a" / "dict_a_tfp_ru_aligned.jsonl"
 STACK_B = BASE / "dict_b" / "dict_b_tfp_ru_v060.jsonl"
 ANCH_PATH = BASE / "anchors" / "concept_hex_anchors_tfp.json"
 MIN_LEXICAL_PER_ACTIVE = 3
@@ -54,6 +56,8 @@ def main() -> int:
     dict_a: list[dict] = []
     for p in DA_FILES:
         dict_a.extend(load_jsonl(p))
+    if DA_ALIGNED.exists():
+        dict_a.extend(load_jsonl(DA_ALIGNED))
 
     ref_counts: Counter[str] = Counter()
     for row in dict_a:

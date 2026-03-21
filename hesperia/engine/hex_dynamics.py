@@ -282,10 +282,17 @@ def step_hex_local_microphysics(
 
     E0 = compute_energy_hex_2d(A, l_ring, C, s_h, lam_contra=lam_contra)
     dA = A_raw - A
+    mass_in = float(np.sum(A))
+    # Soft energy control must not accept proposals that annihilate positive mass: η=1 with a
+    # strongly negative raw update can clip to all zeros while lowering energy (degenerate for
+    # diffuse priors e.g. uniform marker fallback when lexicon has no hits).
+    min_mass_floor = max(1e-30, mass_in * 1e-18)
     for eta in energy_control.line_search_factors:
         At = A + eta * dA
         if clip_nonneg:
             At = np.maximum(At, 0.0)
+        if mass_in > 1e-30 and float(np.sum(At)) < min_mass_floor:
+            continue
         E1 = compute_energy_hex_2d(At, l_ring, C, s_h, lam_contra=lam_contra)
         if energy_acceptable(E0, E1, energy_control):
             return At

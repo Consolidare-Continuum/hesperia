@@ -33,6 +33,34 @@ def test_spine_modules_importable() -> None:
 
 
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
+def test_zero_marker_hits_hex_and_L1_not_silently_annihilated() -> None:
+    """
+    Regression (Ethan calibration pack / Task 2): uniform concept prior + microphysics must not
+    clip to all-zero hex; L1 must align with sealed family mass via bridge fallback.
+    """
+    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
+
+    text = "абвгд абвгд ежзий " * 80
+    assets = _assets()
+    act = markers_to_concept_activation(text, assets)
+    assert sum(act["a_concept_counts"]) == 0
+
+    sealed = run_sealed_multiscale_stack(text, assets, apply_local_step=True)
+    tm = float(sealed["hex_activation_map"]["total_mass"])
+    assert tm > 1e-12, "hex mass must not annihilate under diffuse prior"
+    assert sealed["concept_layer"]["uniform_concept_prior_fallback_used"] is True
+
+    raw = build_structural_internal_from_multiscale(text, assets, document_id="zero_marker_regression")
+    assert int(raw["L1"]["ATTRIBUTED_TOKENS"]) > 0
+    assert raw["L1"].get("CALIBRATION_FALLBACK_USED") == "sealed_family_activation_to_L1"
+    cal = raw["diagnostics"]["calibration_status"]
+    assert cal.get("true_absence_of_marker_signal") is True
+    assert cal.get("l1_calibration_fallback") == "sealed_family_activation_to_L1"
+
+
+@pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
 def test_sealed_multiscale_stack_produces_hex_activation() -> None:
     from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 

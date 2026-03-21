@@ -129,6 +129,8 @@ def run_dlcr_pipeline(
         base / "dict_a" / "dict_a_tfp_ru_variants.jsonl",
         base / "dict_a" / "dict_a_tfp_ru_speech.jsonl",
         base / "dict_a" / "dict_a_tfp_ru_negative.jsonl",
+        # Corpus LLM align (ru-tfp-align); last so new normalized_form keys fill gaps only (first wins).
+        base / "dict_a" / "dict_a_tfp_ru_aligned.jsonl",
     ]
     db_paths = dict_b_paths or [
         base / "dict_b" / "dict_b_seed.jsonl",

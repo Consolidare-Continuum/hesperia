@@ -89,3 +89,61 @@ def test_analyze_session_returns_shape() -> None:
     for k, v in result["areas"].items():
         assert isinstance(k, str) and k.startswith("A")
         assert isinstance(v, (int, float)) and 0 <= v <= 1
+
+
+def test_activate_concepts_per_concept_cap() -> None:
+    from hesperia.nlp.session_parser import activate_concepts
+
+    af = {"C_X": ("A1", "F1")}
+    markers = [("C_X", 4.0), ("C_X", 4.0)]
+    out = activate_concepts(
+        markers,
+        concept_to_area_family=af,
+        normalize_scores=False,
+        per_concept_score_cap=5.0,
+    )
+    assert out["concepts"]["C_X"] == 5.0
+
+
+def test_evidence_volume_normalize_dampens_long_segment_same_hit_count() -> None:
+    from hesperia.nlp.session_parser import analyze_session
+
+    mk = {"aaa": [("C1", 1.0)]}
+    af = {"C1": ("A1", "F1")}
+    short = "aaa"
+    long = "aaa " + " ".join(["b"] * 99)
+    s_out = analyze_session(
+        short,
+        marker_index=mk,
+        phrase_index={},
+        concept_to_area_family=af,
+        normalize_scores=False,
+        ngram_n=1,
+        evidence_volume_normalize=True,
+    )
+    l_out = analyze_session(
+        long,
+        marker_index=mk,
+        phrase_index={},
+        concept_to_area_family=af,
+        normalize_scores=False,
+        ngram_n=1,
+        evidence_volume_normalize=True,
+    )
+    assert s_out["concepts"]["C1"] > l_out["concepts"]["C1"]
+
+
+def test_detect_markers_negation_dampens_adjacent_token() -> None:
+    from hesperia.nlp.session_parser import detect_markers
+
+    idx = {"злюсь": [("B_A4_F1_001", 1.0)]}
+    toks = ["не", "злюсь"]
+    assert detect_markers(toks, marker_index=idx) == [("B_A4_F1_001", 1.0)]
+    damped = detect_markers(
+        toks,
+        marker_index=idx,
+        apply_negation=True,
+        negation_window=2,
+        negation_multiplier=0.5,
+    )
+    assert damped == [("B_A4_F1_001", 0.5)]

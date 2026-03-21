@@ -44,6 +44,35 @@ Ethan — TFP testing grounds: what must exist on disk vs optional DLCR plane (2
 
 ---
 
+## 3a. Gena — file-in → artifacts-out (full TFP + main engine paths)
+
+**One-shot (pipeline + audit + schema + release gate):**
+
+```bash
+python3 tools/gena_tfp_bundle_run.py -i path/to/transcript.md
+# default out: outputs/tfp_gena_<file_stem>/
+# optional: -o outputs/my_run  --with-kme --with-triz --with-topology  --with-gold  --relax-discipline
+```
+
+Lower-level entry (pipeline only):
+
+```bash
+python3 -m runtime.pipeline.run_tfp_file_pipeline \
+  --input path/to/transcript.md \
+  --out-dir outputs/my_tfp_run
+```
+
+- **Input:** `.json` with `{"sessions":[{"session_id","text"},…]}` (same shape as `tests/fixtures/clinical_tfp/tfp_kernberg/session_transcripts_smoke_english.json`), or any other file treated as one session (stem = `session_id`).
+- **Default artifacts:** `00_manifest.json`, `01_structural_batch.json`, `02_session_tfp_stages.json` (+ optional speaker-aware block when text looks like dialogue), `03_hex_microstructure_tfp.json`, `04_dlcr_full.json` (full `run_dlcr_pipeline`, not the short E2E summary), `05_sealed_multiscale.json`, `06_product_analyze.json`.
+- **Optional:** `--with-kme`, `--with-triz`, `--with-topology`, `--with-r1-r4`; skip flags `--skip-structural`, `--skip-dlcr`, etc. **`--with-topology`** also writes flat **`12_<session_id>_*.json`** TRIZ-from-topology artifacts in the same `--out-dir` (coactivation → contradictions → metrics) unless **`--skip-triz-activation`**; exit **3** on `TRIZ_DEAD_LAYER` or activation write failure. Spec: `docs/specs/TRIZ_TOPOLOGY_ACTIVATION_PIPELINE_v1.md`.
+- Sets `HESPERIA_DLCR_DOMAIN_PACK=tfp` unless `--no-dlcr-domain-pack`. Module: `runtime/pipeline/run_tfp_file_pipeline.py`.
+- **Calibration audit (Task 4):** `python3 tools/tfp_calibration_audit.py --bundle-dir outputs/<run>` → `10_calibration_audit.json` (consistency score, alarms). Spec: `docs/specs/output_calibration_contract_v1.md`.
+- **Goldset (Task 6):** `python3 tools/run_tfp_calibration_goldset.py --bundle-dir outputs/<run> -v` — `tests/gold/tfp_calibration_goldset_v1.json`. **CI** uses synthetic bundle `tests/fixtures/tfp_calibration_bundle_ci/` (see `docs/benchmarks/tfp_calibration_goldset_v1.md`).
+- **Schema subset (Task 9):** `python3 tools/validate_tfp_bundle_schemas.py --bundle-dir outputs/<run>`.
+- **Release gate (Task 10):** `PYTHONPATH=. python3 tools/calibration_release_gate.py --bundle-dir outputs/<run> --profile internal_review` → `11_calibration_release_gate.json`.
+
+---
+
 ## 4. What you do **not** need for baseline TFP smoke
 
 - **`schemas/public/*`** mutation for TFP (testing collateral).
@@ -64,4 +93,5 @@ Ethan — TFP testing grounds: what must exist on disk vs optional DLCR plane (2
 
 - `EXTENSION_STATUS.yaml` → `clinical_tfp` (experimental).  
 - `runtime/pipeline/run_e2e_all.py` → `run_e2e_tfp_smoke`, `run_e2e_hex_microstructure_tfp`.  
+- `runtime/pipeline/run_tfp_file_pipeline.py` → file-in / multi-session → artifact bundle (§3a).  
 - [ETHAN-DLCR-POST-OPTIONS-TASKS-30.md](ETHAN-DLCR-POST-OPTIONS-TASKS-30.md) — PO-14 / PO-30 overlap with **clinical_speech** / **tfp** packs.

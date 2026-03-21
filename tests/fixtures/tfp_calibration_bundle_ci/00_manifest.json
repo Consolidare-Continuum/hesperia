@@ -1,0 +1,15 @@
+{
+  "run": "tfp_calibration_bundle_ci_fixture",
+  "version": "1.0.0",
+  "note": "Synthetic bundle for CI schema + goldset; not engine output.",
+  "sessions": ["1-11-09-2023"],
+  "operational_envelope": {
+    "status": "ok",
+    "anomaly_codes": [],
+    "severity": "ok",
+    "blocking": false,
+    "operator_message": "",
+    "recommended_next_check": "",
+    "taxonomy_version": "1.0.0"
+  }
+}

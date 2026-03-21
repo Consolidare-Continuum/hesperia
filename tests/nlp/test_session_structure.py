@@ -123,3 +123,24 @@ def test_parse_session_dialogue_empty() -> None:
 
     assert parse_session_dialogue("") == []
     assert parse_session_dialogue("   \n  ") == []
+
+
+def test_transcript_has_both_clinical_speakers_ru_and_nbsp() -> None:
+    """RU labels + NBSP before label (real _noone_local transcripts) count as dialogue."""
+    from hesperia.nlp.transcript_speaker_labels import transcript_has_both_clinical_speakers
+
+    assert not transcript_has_both_clinical_speakers("Пациент: только я.")
+    assert transcript_has_both_clinical_speakers(
+        "\xa0Пациент: первая реплика.\n\xa0Терапевт: вторая реплика."
+    )
+    assert transcript_has_both_clinical_speakers(
+        "Пациент: одна строка.\nТерапевт: другая строка."
+    )
+
+
+def test_transcript_has_both_clinical_speakers_en() -> None:
+    from hesperia.nlp.transcript_speaker_labels import transcript_has_both_clinical_speakers
+
+    assert transcript_has_both_clinical_speakers(
+        "Patient: Hello.\nTherapist: Hi there."
+    )

@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "session_stem": "1-11-09-2023",
+  "examples": [
+    {
+      "metric_path": "sessions[0].result.governance",
+      "note": "Operational scalar from analyze() minimal result."
+    },
+    {
+      "metric_path": "sessions[0].result.loopability",
+      "note": "Propagation-shaped loopability index."
+    },
+    {
+      "metric_path": "sessions[0].result.tension_energy",
+      "note": "Tension field energy scalar."
+    },
+    {
+      "metric_path": "sessions[0].result.obstacle_score",
+      "note": "Obstacle / resistance scalar."
+    },
+    {
+      "metric_path": "structural_batch[0].L1.COVERAGE_RATIO",
+      "note": "Requires wrapping artifact; use explain_metric on 01 JSON with path adjusted to payload.L1 when projected."
+    }
+  ]
+}

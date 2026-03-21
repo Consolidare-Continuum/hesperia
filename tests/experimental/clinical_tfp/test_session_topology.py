@@ -6,6 +6,8 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import pytest
+
 _REPO = Path(__file__).resolve().parents[3]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
@@ -98,6 +100,49 @@ def test_aggression_curve_produced() -> None:
     assert detect_aggression_escalation(segs) == [0.0, 0.0]
 
 
+def test_extract_and_build_area_curves() -> None:
+    from research.clinical_tfp.session_topology import (
+        AREA_CURVE_MAP,
+        build_area_curves,
+        extract_area_curve,
+    )
+
+    segs = [
+        {"areas": {"A2": 0.1, "A4": 0.4, "A7": 0.2}},
+        {"areas": {"A2": 0.3, "A4": 0.5, "A5": 0.9}},
+    ]
+    assert extract_area_curve(segs, "A4") == [0.4, 0.5]
+    curves = build_area_curves(segs)
+    assert set(curves.keys()) == set(AREA_CURVE_MAP.keys())
+    assert curves["aggression"] == [0.4, 0.5]
+    assert curves["anxiety"] == [0.1, 0.3]
+    assert curves["control"] == [0.0, 0.9]
+    assert len(curves["shame"]) == 2
+
+
+def test_postprocess_area_curves_share_and_smooth() -> None:
+    from research.clinical_tfp.session_topology import postprocess_area_curves
+
+    segs = [
+        {"areas": {"A4": 0.4, "A2": 0.6}},
+        {"areas": {"A4": 0.8, "A2": 0.2}},
+    ]
+    curves, meta, rel = postprocess_area_curves(
+        segs, area_competition="share", smooth_alpha=0.7, session_center_curves=True
+    )
+    assert meta["area_competition"] == "share"
+    assert curves["aggression"][0] == 0.4
+    assert curves["aggression"][1] == pytest.approx(0.7 * 0.8 + 0.3 * 0.4)
+    assert "aggression" in rel
+    mu = sum(curves["aggression"]) / len(curves["aggression"])
+    assert rel["aggression"][0] == pytest.approx(curves["aggression"][0] - mu)
+    raw_only, meta2, _ = postprocess_area_curves(
+        segs, area_competition="share", smooth_alpha=None, session_center_curves=False
+    )
+    assert raw_only["aggression"] == [0.4, 0.8]
+    assert meta2["smooth"] is None
+
+
 def test_build_session_state_sequence() -> None:
     from research.clinical_tfp.session_topology import build_session_state_sequence
 
@@ -137,14 +182,29 @@ def test_run_session_topology_output_structure() -> None:
     out = run_session_topology(text, window_size=15)
     assert "segments" in out
     assert "transitions" in out
+    assert "area_curves" in out
     assert "aggression_curve" in out
     assert "state_sequence" in out
     assert "defense_timeline" in out
+    assert "curve_projection_meta" in out
+    assert "area_curves_session_relative" in out
+    cpm = out["curve_projection_meta"]
+    assert cpm.get("calibration_reference_bands", {}).get("low_tension") == 0.2
+    assert isinstance(cpm.get("segment_dominance_confidence"), list)
+    assert cpm.get("lexical_controls", {}).get("per_concept_score_cap") == 8.0
+    assert cpm.get("lexical_controls", {}).get("evidence_volume_normalize") is True
+    assert cpm.get("engine_params", {}).get("area_competition") == "softmax"
+    assert cpm.get("area_curve_map", {}).get("aggression") == "A4"
     assert isinstance(out["segments"], list)
     assert isinstance(out["transitions"], list)
+    assert isinstance(out["area_curves"], dict)
     assert isinstance(out["aggression_curve"], list)
     assert isinstance(out["state_sequence"], list)
     assert isinstance(out["defense_timeline"], list)
+    assert out["aggression_curve"] == out["area_curves"]["aggression"]
+    for _name, series in out["area_curves"].items():
+        assert isinstance(series, list)
+        assert len(series) == len(out["segments"])
     assert len(out["aggression_curve"]) == len(out["segments"])
     assert len(out["state_sequence"]) == len(out["segments"])
     assert len(out["defense_timeline"]) == len(out["segments"])

@@ -11,8 +11,12 @@ dominant_area, dominant_family, secondary_area и т.д.
 
 from __future__ import annotations
 
+import math
 import re
 from typing import Any
+
+# RU negation lemmas → dampen token/phrase triggers in a short window (clinical heuristic).
+_NEGATION_TOKENS = frozenset({"не", "нет", "ни"})
 
 # Lazy imports for ontology (optional paths for tests)
 def _get_marker_index():
@@ -67,6 +71,26 @@ def build_ngrams(tokens: list[str], n: int = 2) -> list[str]:
     return out
 
 
+def negation_weight_factor(
+    tokens: list[str],
+    anchor_index: int,
+    window: int = 2,
+    multiplier: float = 0.5,
+) -> float:
+    """
+    If a negation token appears within ``window`` of ``anchor_index``, scale weight by ``multiplier``.
+    Default multiplier 0.5 = dampen (not invert polarity — minimal scope).
+    """
+    if not tokens or multiplier >= 1.0:
+        return 1.0
+    lo = max(0, int(anchor_index) - int(window))
+    hi = min(len(tokens), int(anchor_index) + int(window) + 1)
+    for j in range(lo, hi):
+        if tokens[j] in _NEGATION_TOKENS:
+            return float(multiplier)
+    return 1.0
+
+
 def build_ngram_tuples(tokens: list[str], n: int) -> list[tuple[str, ...]]:
     """
     Построить n-граммы как кортежи токенов для O(1) lookup в phrase_index.
@@ -80,6 +104,10 @@ def build_ngram_tuples(tokens: list[str], n: int) -> list[tuple[str, ...]]:
 def detect_markers(
     tokens: list[str],
     marker_index: dict[str, list[tuple[str, float]]] | None = None,
+    *,
+    apply_negation: bool = False,
+    negation_window: int = 2,
+    negation_multiplier: float = 0.5,
 ) -> list[tuple[str, float]]:
     """
     Для каждого токена найти совпадения в marker_index. Возвращает список (concept_id, weight).
@@ -87,10 +115,17 @@ def detect_markers(
     """
     index = marker_index if marker_index is not None else _get_marker_index()
     out: list[tuple[str, float]] = []
-    for t in tokens:
+    for i, t in enumerate(tokens):
         hits = index.get(t)
-        if hits:
-            out.extend(hits)
+        if not hits:
+            continue
+        fac = (
+            negation_weight_factor(tokens, i, negation_window, negation_multiplier)
+            if apply_negation
+            else 1.0
+        )
+        for cid, w in hits:
+            out.append((cid, float(w) * fac))
     return out
 
 
@@ -99,6 +134,10 @@ def detect_phrase_markers(
     marker_index: dict[str, list[tuple[str, float]]] | None = None,
     tokens: list[str] | None = None,
     phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None = None,
+    *,
+    apply_negation: bool = False,
+    negation_window: int = 2,
+    negation_multiplier: float = 0.5,
 ) -> list[tuple[str, float]]:
     """
     Фразовые маркеры: (1) по ngrams+marker_index (строки) или (2) по tokens+phrase_index (кортежи, O(n)).
@@ -114,10 +153,19 @@ def detect_phrase_markers(
             idx = phrase_index.get(key) or {}
             if len(tokens) < n:
                 continue
-            for tup in build_ngram_tuples(tokens, n):
+            for i in range(len(tokens) - n + 1):
+                tup = tuple(tokens[i : i + n])
                 hits = idx.get(tup)
-                if hits:
-                    out.extend(hits)
+                if not hits:
+                    continue
+                anchor = i + n - 1
+                fac = (
+                    negation_weight_factor(tokens, anchor, negation_window, negation_multiplier)
+                    if apply_negation
+                    else 1.0
+                )
+                for cid, w in hits:
+                    out.append((cid, float(w) * fac))
         return out
     # Legacy: string ngrams + marker_index
     if ngrams is None:
@@ -135,6 +183,9 @@ def activate_concepts(
     markers: list[tuple[str, float]],
     concept_to_area_family: dict[str, tuple[str, str]] | None = None,
     normalize_scores: bool = True,
+    *,
+    per_concept_score_cap: float | None = None,
+    use_log1p_concept_scores: bool = False,
 ) -> dict[str, Any]:
     """
     Агрегировать маркеры в оценки по концептам, семьям и областям.
@@ -144,6 +195,9 @@ def activate_concepts(
     - area_score = Σ family_scores для семей в этой области
 
     Если normalize_scores=True, каждый уровень масштабируется так, что максимум = 1.0.
+
+    Опционально: ``per_concept_score_cap`` — потолок суммы весов на концепт (длинные сегменты);
+    ``use_log1p_concept_scores`` — сжатие вклада ``log(1 + sum)`` (альтернатива cap).
     """
     af = concept_to_area_family if concept_to_area_family is not None else _get_concept_to_af()
 
@@ -151,6 +205,12 @@ def activate_concepts(
     concept_scores: dict[str, float] = {}
     for cid, w in markers:
         concept_scores[cid] = concept_scores.get(cid, 0.0) + w
+
+    if use_log1p_concept_scores:
+        concept_scores = {k: math.log1p(max(0.0, v)) for k, v in concept_scores.items()}
+    elif per_concept_score_cap is not None:
+        cap = float(per_concept_score_cap)
+        concept_scores = {k: min(float(v), cap) for k, v in concept_scores.items()}
 
     # family: "A3_F6" → сумма concept_scores
     family_scores: dict[str, float] = {}
@@ -190,12 +250,23 @@ def analyze_session(
     normalize_scores: bool = True,
     ngram_n: int = 2,
     embedding: dict[str, Any] | None = None,
+    *,
+    apply_token_negation: bool = False,
+    negation_window: int = 2,
+    negation_multiplier: float = 0.5,
+    per_concept_score_cap: float | None = None,
+    use_log1p_concept_scores: bool = False,
+    evidence_volume_normalize: bool = False,
 ) -> dict[str, Any]:
     """
     Полный пайплайн: текст сессии → токены → n-граммы → детекция маркеров (токены + фразы) → активация.
 
     Токены и n-граммы сопоставляются с Dict-A; совпадения дают (concept_id, weight), далее агрегация
     по концептам, семьям и областям.
+
+    ``evidence_volume_normalize``: умножить каждый маркерный вес на ``1/sqrt(token_count)`` в этом
+    фрагменте, чтобы длинные сегменты не раздували суммарное «доказательство» только за счёт
+    лексической площади (отдельно от ``per_concept_score_cap``).
 
     Возвращает:
     {
@@ -215,7 +286,17 @@ def analyze_session(
     normalized = normalize_tokens(tokens)
     # 1) Фразовые маркеры (приоритет): биграммы/триграммы по phrase_index (tuple lookup, O(n))
     pidx = phrase_index if phrase_index is not None else _get_phrase_index()
-    phrase_matches = detect_phrase_markers(tokens=normalized, phrase_index=pidx) if pidx else []
+    phrase_matches = (
+        detect_phrase_markers(
+            tokens=normalized,
+            phrase_index=pidx,
+            apply_negation=apply_token_negation,
+            negation_window=negation_window,
+            negation_multiplier=negation_multiplier,
+        )
+        if pidx
+        else []
+    )
     phrase_concepts = {c for c, _ in phrase_matches}
     markers = list(phrase_matches)
     # 2) Строковые n-граммы в marker_index (доп. покрытие; без дублей по концептам)
@@ -225,12 +306,24 @@ def analyze_session(
         markers += [(c, w) for c, w in string_phrase if c not in phrase_concepts]
         phrase_concepts |= {c for c, _ in string_phrase}
     # 3) Одиночные токены: только концепты, не активированные фразой
-    token_matches = detect_markers(normalized, marker_index=marker_index)
+    token_matches = detect_markers(
+        normalized,
+        marker_index=marker_index,
+        apply_negation=apply_token_negation,
+        negation_window=negation_window,
+        negation_multiplier=negation_multiplier,
+    )
     markers += [(c, w) for c, w in token_matches if c not in phrase_concepts]
+    if evidence_volume_normalize:
+        n_tok = max(1, len(normalized))
+        vol = 1.0 / math.sqrt(float(n_tok))
+        markers = [(c, float(w) * vol) for c, w in markers]
     activation = activate_concepts(
         markers,
         concept_to_area_family=concept_to_area_family,
         normalize_scores=normalize_scores,
+        per_concept_score_cap=per_concept_score_cap,
+        use_log1p_concept_scores=use_log1p_concept_scores,
     )
     if embedding is not None:
         from sphere.topology.activation_propagation import propagate_activation
