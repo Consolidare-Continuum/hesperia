@@ -15,7 +15,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **41**
+- `__future__` — **46**
 - `collections` — **2**
 - `core.attribution.structural` — **1**
 - `core.domain.bridge` — **1**
@@ -42,7 +42,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.topology.invariant_catalog` — **2**
 - `dataclasses` — **8**
 - `enum` — **1**
-- `functools` — **1**
+- `functools` — **3**
 - `hashlib` — **2**
 - `hesperia.engine.calibration.activation_calibration` — **1**
 - `hesperia.engine.calibration.hspr_field` — **1**
@@ -73,12 +73,14 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.lexical_concept.pipeline` — **2**
 - `hesperia.engine.matrix_loader` — **3**
 - `hesperia.engine.observables` — **1**
+- `hesperia.engine.output_anomalies` — **1**
 - `hesperia.engine.pch_loader` — **2**
 - `hesperia.engine.product_signals` — **1**
 - `hesperia.engine.projection.public_projection` — **1**
 - `hesperia.engine.projection.sanitizer` — **1**
 - `hesperia.engine.projection.schema_enforcer` — **2**
 - `hesperia.engine.sealed_multiscale_stack` — **1**
+- `hesperia.engine.tfp_signal_calibration` — **1**
 - `hesperia.extensions.dynamics.e2e_bridge` — **3**
 - `hesperia.extensions.dynamics.equations` — **1**
 - `hesperia.extensions.triz.kme_bridge` — **2**
@@ -87,18 +89,18 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.nlp.session_parser` — **1**
 - `hesperia.ontology.dictB.loader` — **1**
 - `hesperia.system.version` — **7**
-- `json` — **7**
-- `math` — **8**
+- `json` — **11**
+- `math` — **11**
 - `numpy` — **19**
 - `os` — **5**
-- `pathlib` — **13**
+- `pathlib` — **17**
 - `re` — **1**
 - `runtime.shipping.schema_guard` — **1**
 - `scipy.sparse` — **3**
 - `sphere.topology` — **1**
 - `sphere.topology.family_embedding` — **2**
 - `statistics` — **1**
-- `typing` — **34**
+- `typing` — **39**
 - `warnings` — **1**
 - `yaml` — **3**
 
@@ -142,6 +144,17 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `__future__`
 - `hesperia.extensions.dynamics.equations`
 - `hesperia.system.version`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/calibration_release_gate.py`
+
+**import**
+- `json`
+
+**from**
+- `__future__`
+- `hesperia.engine.output_anomalies`
 - `pathlib`
 - `typing`
 
@@ -480,6 +493,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **import**
 - `json`
+- `math`
 - `os`
 - `yaml`
 
@@ -498,6 +512,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.resolver.resolver`
 - `core.sequence.segmentation`
 - `core.sequence.trajectory`
+- `hesperia.engine.tfp_signal_calibration`
 - `pathlib`
 - `typing`
 
@@ -515,6 +530,9 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `typing`
 
 ### `hesperia/engine/multiscale_product_bridge.py`
+
+**import**
+- `math`
 
 **from**
 - `__future__`
@@ -540,6 +558,33 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 **from**
 - `__future__`
 - `dataclasses`
+- `typing`
+
+### `hesperia/engine/output_anomalies.py`
+
+**import**
+- `json`
+
+**from**
+- `__future__`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/output_readout.py`
+
+**import**
+- `json`
+
+**from**
+- `__future__`
+- `functools`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/output_trace.py`
+
+**from**
+- `__future__`
 - `typing`
 
 ### `hesperia/engine/pch_builder.py`
@@ -637,6 +682,18 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.product_signals`
 - `hesperia.extensions.dynamics.e2e_bridge`
 - `hesperia.system.version`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/tfp_signal_calibration.py`
+
+**import**
+- `json`
+- `math`
+
+**from**
+- `__future__`
+- `functools`
 - `pathlib`
 - `typing`
 
