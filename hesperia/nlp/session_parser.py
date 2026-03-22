@@ -15,6 +15,8 @@ import math
 import re
 from typing import Any
 
+from hesperia.nlp.tfp_activation import build_invariant_tfp_activation
+
 # RU negation lemmas → dampen token/phrase triggers in a short window (clinical heuristic).
 _NEGATION_TOKENS = frozenset({"не", "нет", "ни"})
 
@@ -264,9 +266,9 @@ def analyze_session(
     Токены и n-граммы сопоставляются с Dict-A; совпадения дают (concept_id, weight), далее агрегация
     по концептам, семьям и областям.
 
-    ``evidence_volume_normalize``: умножить каждый маркерный вес на ``1/sqrt(token_count)`` в этом
-    фрагменте, чтобы длинные сегменты не раздували суммарное «доказательство» только за счёт
-    лексической площади (отдельно от ``per_concept_score_cap``).
+    Для TFP runtime итоговые ``areas`` теперь всегда строятся по инвариантному пути:
+    стабилизация концептов → hex-feedback → межзонное торможение → softmax.
+    Старые линейные / max-norm значения остаются только в диагностических ключах.
 
     Возвращает:
     {
@@ -314,23 +316,19 @@ def analyze_session(
         negation_multiplier=negation_multiplier,
     )
     markers += [(c, w) for c, w in token_matches if c not in phrase_concepts]
-    if evidence_volume_normalize:
-        n_tok = max(1, len(normalized))
-        vol = 1.0 / math.sqrt(float(n_tok))
-        markers = [(c, float(w) * vol) for c, w in markers]
-    activation = activate_concepts(
+    activation = build_invariant_tfp_activation(
         markers,
+        token_count=len(normalized),
         concept_to_area_family=concept_to_area_family,
-        normalize_scores=normalize_scores,
-        per_concept_score_cap=per_concept_score_cap,
-        use_log1p_concept_scores=use_log1p_concept_scores,
+        embedding=embedding,
     )
-    if embedding is not None:
-        from sphere.topology.activation_propagation import propagate_activation
-        prop = propagate_activation(activation, embedding, propagation_trace=True)
-        activation["families"] = prop["families"]
-        activation["areas"] = prop["areas"]
-        activation["propagation_trace"] = prop.get("propagation_trace", [])
+    activation["runtime_compat"] = {
+        "normalize_scores_requested": bool(normalize_scores),
+        "per_concept_score_cap_requested": per_concept_score_cap,
+        "use_log1p_concept_scores_requested": bool(use_log1p_concept_scores),
+        "evidence_volume_normalize_requested": bool(evidence_volume_normalize),
+        "invariant_runtime_path": True,
+    }
     return activation
 
 
@@ -423,12 +421,22 @@ def _markers_for_tokens(
     marker_index: dict[str, list[tuple[str, float]]] | None,
     phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None,
     ngram_n: int,
+    *,
+    apply_negation: bool = False,
+    negation_window: int = 2,
+    negation_multiplier: float = 0.5,
 ) -> list[tuple[str, float]]:
     """Collect (concept_id, weight) from phrase + ngram + token detection for one utterance."""
     phrase_concepts: set[str] = set()
     markers: list[tuple[str, float]] = []
     if phrase_index and len(tokens) >= 2:
-        phrase_matches = detect_phrase_markers(tokens=tokens, phrase_index=phrase_index)
+        phrase_matches = detect_phrase_markers(
+            tokens=tokens,
+            phrase_index=phrase_index,
+            apply_negation=apply_negation,
+            negation_window=negation_window,
+            negation_multiplier=negation_multiplier,
+        )
         markers.extend(phrase_matches)
         phrase_concepts = {c for c, _ in phrase_matches}
     if ngram_n >= 1 and len(tokens) >= ngram_n:
@@ -436,7 +444,13 @@ def _markers_for_tokens(
         string_phrase = detect_phrase_markers(ngrams=ngrams, marker_index=marker_index)
         markers.extend((c, w) for c, w in string_phrase if c not in phrase_concepts)
         phrase_concepts |= {c for c, _ in string_phrase}
-    token_matches = detect_markers(tokens, marker_index=marker_index)
+    token_matches = detect_markers(
+        tokens,
+        marker_index=marker_index,
+        apply_negation=apply_negation,
+        negation_window=negation_window,
+        negation_multiplier=negation_multiplier,
+    )
     markers.extend((c, w) for c, w in token_matches if c not in phrase_concepts)
     return markers
 
@@ -451,6 +465,10 @@ def analyze_session_speaker_aware(
     embedding: dict[str, Any] | None = None,
     patient_weight: float = PATIENT_MARKER_WEIGHT,
     therapist_weight: float = THERAPIST_MARKER_WEIGHT,
+    *,
+    apply_token_negation: bool = True,
+    negation_window: int = 2,
+    negation_multiplier: float = 0.5,
 ) -> dict[str, Any]:
     """
     LEVEL 15: Speaker-aware session analysis.
@@ -477,18 +495,39 @@ def analyze_session_speaker_aware(
     combined_markers: list[tuple[str, float]] = []
     patient_markers: list[tuple[str, float]] = []
     therapist_markers: list[tuple[str, float]] = []
+    patient_tokens = 0
+    therapist_tokens = 0
     direction_markers: dict[str, list[tuple[str, float]]] = {
         "patient_to_therapist": [],
         "therapist_to_patient": [],
         "patient_to_third": [],
     }
+    direction_tokens: dict[str, int] = {
+        "patient_to_therapist": 0,
+        "therapist_to_patient": 0,
+        "patient_to_third": 0,
+    }
 
     for u in utterances:
-        raw = _markers_for_tokens(u.tokens, midx, pidx, ngram_n)
+        raw = _markers_for_tokens(
+            u.tokens,
+            midx,
+            pidx,
+            ngram_n,
+            apply_negation=apply_token_negation,
+            negation_window=negation_window,
+            negation_multiplier=negation_multiplier,
+        )
         w = patient_weight if u.speaker == "patient" else therapist_weight
         direction_key = f"{u.speaker}_to_{u.target}"
         if direction_key not in direction_markers:
             direction_markers[direction_key] = []
+            direction_tokens[direction_key] = 0
+        direction_tokens[direction_key] += len(u.tokens)
+        if u.speaker == "patient":
+            patient_tokens += len(u.tokens)
+        else:
+            therapist_tokens += len(u.tokens)
         for cid, weight in raw:
             scaled = weight * w
             combined_markers.append((cid, scaled))
@@ -498,28 +537,29 @@ def analyze_session_speaker_aware(
             else:
                 therapist_markers.append((cid, weight * therapist_weight))
 
-    activation = activate_concepts(
+    activation = build_invariant_tfp_activation(
         combined_markers,
+        token_count=patient_tokens + therapist_tokens,
         concept_to_area_family=af,
-        normalize_scores=normalize_scores,
+        embedding=embedding,
     )
     activation["speaker_activation"] = {
-        "patient": activate_concepts(
+        "patient": build_invariant_tfp_activation(
             patient_markers,
+            token_count=patient_tokens,
             concept_to_area_family=af,
-            normalize_scores=normalize_scores,
         ),
-        "therapist": activate_concepts(
+        "therapist": build_invariant_tfp_activation(
             therapist_markers,
+            token_count=therapist_tokens,
             concept_to_area_family=af,
-            normalize_scores=normalize_scores,
         ),
     }
     activation["activation_by_direction"] = {
-        key: activate_concepts(
+        key: build_invariant_tfp_activation(
             markers,
+            token_count=direction_tokens.get(key, 0),
             concept_to_area_family=af,
-            normalize_scores=normalize_scores,
         )
         for key, markers in direction_markers.items()
         if markers
@@ -529,12 +569,12 @@ def analyze_session_speaker_aware(
         "therapist_to_patient": {"speaker": "therapist", "target": "patient"},
         "patient_to_third": {"speaker": "patient", "target": "third"},
     }
-
-    if embedding is not None:
-        from sphere.topology.activation_propagation import propagate_activation
-        prop = propagate_activation(activation, embedding, propagation_trace=True)
-        activation["families"] = prop["families"]
-        activation["areas"] = prop["areas"]
-        activation["propagation_trace"] = prop.get("propagation_trace", [])
+    activation["runtime_compat"] = {
+        "normalize_scores_requested": bool(normalize_scores),
+        "speaker_weighting_active": True,
+        "patient_weight": float(patient_weight),
+        "therapist_weight": float(therapist_weight),
+        "invariant_runtime_path": True,
+    }
 
     return activation

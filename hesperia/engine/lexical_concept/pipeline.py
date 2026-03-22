@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import os
+import math
 from pathlib import Path
 from typing import Any
 
@@ -20,6 +21,7 @@ from core.lexical.policy import load_dlcr_policy
 from core.resolver.resolver import resolve_hit
 from core.sequence.segmentation import segment_by_newlines
 from core.sequence.trajectory import trajectory_over_segments
+from hesperia.engine.tfp_signal_calibration import load_tfp_signal_calibration
 
 
 def _repo_root() -> Path:
@@ -92,6 +94,52 @@ def _concept_weights_from_resolutions(resolved: list[dict[str, Any]]) -> dict[st
     return w
 
 
+def _stabilize_concept_weights(
+    raw_concepts: dict[str, float],
+    *,
+    token_count: int,
+    concept_cap: float,
+    log_normalization_enabled: bool,
+) -> dict[str, float]:
+    denom = math.sqrt(float(max(token_count, 1)))
+    out: dict[str, float] = {}
+    for cid, raw in raw_concepts.items():
+        capped = min(max(0.0, float(raw)), float(concept_cap))
+        value = math.log1p(capped) if log_normalization_enabled else capped
+        out[cid] = value / denom
+    return out
+
+
+def _post_hex_concept_feedback(
+    concept_weights: dict[str, float],
+    *,
+    anchor_registry: dict[str, str],
+    hex_decay: float,
+    hex_smooth_alpha: float,
+) -> tuple[dict[str, float], dict[str, float], dict[str, float], list[str]]:
+    hex_state, degradation_flags = project_concepts_to_hex(concept_weights, anchor_registry)
+    hex_post = apply_decay(hex_state, decay=max(0.0, float(hex_decay)))
+    if hex_smooth_alpha > 0:
+        hex_post = smooth_toward_mean(hex_post, alpha=min(1.0, float(hex_smooth_alpha)))
+    post_hex: dict[str, float] = {}
+    delta: dict[str, float] = {}
+    for cid, weight in concept_weights.items():
+        hex_id = anchor_registry.get(cid)
+        if not hex_id:
+            post_hex[cid] = float(weight)
+            delta[cid] = 0.0
+            continue
+        raw_anchor = float(hex_state.get(hex_id) or 0.0)
+        stable_anchor = float(hex_post.get(hex_id) or 0.0)
+        if raw_anchor <= 1e-12:
+            scaled = float(weight)
+        else:
+            scaled = float(weight) * (stable_anchor / raw_anchor)
+        post_hex[cid] = scaled
+        delta[cid] = scaled - float(weight)
+    return hex_state, hex_post, post_hex, degradation_flags
+
+
 def _load_version_pins(repo: Path) -> dict[str, Any]:
     p = repo / "assets" / "data" / "engine_dynamics_v060" / "VERSION.yaml"
     if not p.exists():
@@ -148,6 +196,7 @@ def run_dlcr_pipeline(
 
     pins = _load_version_pins(repo)
     pol = load_dlcr_policy(repo)
+    tfp_cfg = load_tfp_signal_calibration()
     max_acc: int | None
     raw_max = pol.get("dict_a_max_accepted")
     env_max = os.environ.get("HESPERIA_DICT_A_MAX_ACCEPTED", "").strip()
@@ -157,7 +206,8 @@ def run_dlcr_pipeline(
         max_acc = int(raw_max)
     else:
         max_acc = None
-    smooth_alpha = float(pol.get("hex_smooth_alpha") or 0.0)
+    smooth_alpha = float(tfp_cfg.get("hex_smoothing_alpha") or pol.get("hex_smooth_alpha") or 0.0)
+    hex_decay = float(tfp_cfg.get("hex_decay") or 0.05)
     ctx_win = int(pol.get("resolver_context_window") or 48)
     seq_w = float(pol.get("sequential_association_weight") or 0.04)
     cooc_window = int(pol.get("cooc_window") or 4)
@@ -195,14 +245,23 @@ def run_dlcr_pipeline(
         if w:
             recent_winners.append(str(w))
 
-    cw = _concept_weights_from_resolutions(span_outputs)
-    hex_state, deg_proj = project_concepts_to_hex(cw, anchor_registry)
-    hex_decayed = apply_decay(hex_state, decay=0.05)
-    if smooth_alpha > 0:
-        hex_decayed = smooth_toward_mean(hex_decayed, alpha=min(1.0, smooth_alpha))
+    concept_weights_raw = _concept_weights_from_resolutions(span_outputs)
+    concept_weights_stabilized = _stabilize_concept_weights(
+        concept_weights_raw,
+        token_count=len(norm["canonical_text"].split()),
+        concept_cap=float(tfp_cfg.get("concept_cap") or 8.0),
+        log_normalization_enabled=bool(tfp_cfg.get("log_normalization_enabled")),
+    )
+    hex_state, hex_decayed, cw, deg_proj = _post_hex_concept_feedback(
+        concept_weights_stabilized,
+        anchor_registry=anchor_registry,
+        hex_decay=hex_decay,
+        hex_smooth_alpha=smooth_alpha,
+    )
     conc = concentration_index(hex_decayed)
     disp = dispersion_index(hex_decayed)
     fam_d, area_d = aggregate_hex_state(cw, concept_index)
+    fam_raw, area_raw = aggregate_hex_state(concept_weights_stabilized, concept_index)
     cross_fam = cross_family_relation_sketch(fam_d, top_k=8)
 
     hits_288 = [0.0] * 288
@@ -264,9 +323,15 @@ def run_dlcr_pipeline(
         "policy_applied": {
             "dict_a_max_accepted": max_acc,
             "hex_smooth_alpha": smooth_alpha,
+            "hex_decay": hex_decay,
             "resolver_context_window": ctx_win,
             "sequential_association_weight": seq_w,
             "cooc_window": cooc_window,
+            "concept_cap": float(tfp_cfg.get("concept_cap") or 8.0),
+            "log_normalization_enabled": bool(tfp_cfg.get("log_normalization_enabled")),
+            "segment_length_normalization": str(
+                tfp_cfg.get("segment_length_normalization") or "inverse_sqrt_token_count"
+            ),
         },
         "cooccurrence_token_pairs_top": [{"pair": list(p), "count": c} for p, c in top_pairs],
         "cross_family_sketch": cross_fam,
@@ -287,10 +352,22 @@ def run_dlcr_pipeline(
         "lexical_hits_rejected": len(rejected),
         "span_resolutions": span_outputs,
         "concept_weights": {k: round(v, 6) for k, v in sorted(cw.items())},
+        "concept_weights_raw": {k: round(v, 6) for k, v in sorted(concept_weights_raw.items())},
+        "concept_weights_stabilized": {
+            k: round(v, 6) for k, v in sorted(concept_weights_stabilized.items())
+        },
+        "concept_weights_post_hex": {k: round(v, 6) for k, v in sorted(cw.items())},
+        "hex_feedback_delta": {
+            k: round(cw.get(k, 0.0) - concept_weights_stabilized.get(k, 0.0), 6)
+            for k in sorted(set(concept_weights_stabilized) | set(cw))
+        },
         "hex_activation": {k: round(v, 6) for k, v in sorted(hex_decayed.items())},
+        "hex_activation_raw": {k: round(v, 6) for k, v in sorted(hex_state.items())},
         "hex_concentration": round(conc, 6),
         "hex_dispersion": round(disp, 6),
+        "family_activation_raw": {k: round(v, 6) for k, v in sorted(fam_raw.items())},
         "family_activation": {k: round(v, 6) for k, v in sorted(fam_d.items())},
+        "area_activation_raw": {k: round(v, 6) for k, v in sorted(area_raw.items())},
         "area_activation": {k: round(v, 6) for k, v in sorted(area_d.items())},
         "family_hits_288": [round(x, 6) for x in hits_288],
         "degradation_flags": list(deg_proj),

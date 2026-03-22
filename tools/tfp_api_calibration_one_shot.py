@@ -11,7 +11,7 @@ Run **one** product-path ``POST /analyze`` (same handler as ``runtime.shipping.a
 Usage::
 
   PYTHONPATH=. python3 tools/tfp_api_calibration_one_shot.py \\
-    -i research/_noone_local/1-11-09-2023.md \\
+    -i tests/fixtures/clinical_tfp/tfp_ru_session_sample.md \\
     -o outputs/tfp_api_calibration_one_shot
 
 For a live HTTP server instead of in-process TestClient, use curl::
@@ -37,18 +37,28 @@ if str(REPO) not in sys.path:
 
 def _build_tfp_signal_calibration() -> dict[str, Any]:
     from hesperia.ontology.dictA.loader import CONFIDENCE_TYPE_MULTIPLIER
-    from research.clinical_tfp.session_topology import (
-        AREA_CURVE_MAP,
-        CURVE_CALIBRATION_REFERENCE,
-        DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS,
-    )
+    from hesperia.engine.tfp_signal_calibration import load_tfp_runtime_bundle
+    from research.clinical_tfp.session_topology import AREA_CURVE_MAP, CURVE_CALIBRATION_REFERENCE, DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS
+
+    tfp_runtime = load_tfp_runtime_bundle()
+    tfp_calibration = dict(tfp_runtime["calibration"])
+    tfp_inhibition = dict(tfp_runtime["inhibition_matrix"])
 
     return {
         "run": "tfp_api_calibration_one_shot",
+        "config_version": str(tfp_calibration.get("version") or "unknown"),
+        "invariant_path_id": str(tfp_calibration.get("invariant_path_id") or "unknown"),
         "session_topology_run_params": dict(DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS),
+        "loaded_config": tfp_calibration,
         "area_curve_map": dict(AREA_CURVE_MAP),
         "curve_calibration_reference": dict(CURVE_CALIBRATION_REFERENCE),
         "dict_a_confidence_multiplier": dict(CONFIDENCE_TYPE_MULTIPLIER),
+        "inhibition_matrix": {
+            "version": tfp_inhibition.get("version"),
+            "date": tfp_inhibition.get("date"),
+            "area_ids": tfp_inhibition.get("area_ids"),
+            "intended_range": tfp_inhibition.get("intended_range"),
+        },
         "note": (
             "Aligned with 00_manifest.json → tfp_signal_calibration. "
             "Public POST /analyze does not include these keys; use this sidecar next to API output."

@@ -10,8 +10,6 @@ Input transcripts may use:
 - English: ``Patient:``, ``Therapist:`` (case-insensitive)
 - Russian: ``Пациент:``, ``Терапевт:`` (case-insensitive)
 - Short RU (legacy / inline): ``П`` / ``Т`` before ``:`` or whitespace (see ``SPEAKER_PATTERN``)
-
-See also: ``research/_noone_local/README_SPEAKER_LABELS.md``.
 """
 
 from __future__ import annotations

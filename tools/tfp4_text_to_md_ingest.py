@@ -153,7 +153,7 @@ def main() -> None:
     ap.add_argument(
         "--manifest",
         type=Path,
-        default=_repo_root() / "research/_noone_local/tfp4_corpus_gap_manifest.json",
+        default=_repo_root() / "research/tfp4_corpus_gap_manifest.json",
         help="Manifest JSON path.",
     )
     ap.add_argument(

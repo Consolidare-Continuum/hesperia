@@ -6,7 +6,7 @@ Run ``run_tfp_file_pipeline`` then post-steps so another session attempt is full
 
 Usage::
 
-  python3 tools/gena_tfp_bundle_run.py -i research/_noone_local/1-11-09-2023.md
+  python3 tools/gena_tfp_bundle_run.py -i tests/fixtures/clinical_tfp/tfp_ru_session_sample.md
   python3 tools/gena_tfp_bundle_run.py -i path/to/note.md -o outputs/my_named_run --with-kme --with-gold
 
 Default output directory: ``outputs/tfp_gena_<input_stem>/`` (override with ``-o``).

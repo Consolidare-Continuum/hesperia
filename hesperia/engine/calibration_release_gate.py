@@ -58,10 +58,12 @@ def evaluate_bundle(
             "operational_envelope": codes_to_envelope(["G004_MISSING_BUNDLE_MANIFEST"]),
         }
     envs: list[dict[str, Any]] = []
+    topology = None
     for fn in ("01_structural_batch.json", "05_sealed_multiscale.json", "06_product_analyze.json"):
         d = _load(fn)
         if isinstance(d, dict) and "operational_envelope" in d:
             envs.append(d["operational_envelope"])
+    topology = _load("09_session_topology.json")
 
     blocking_any = any(e.get("blocking") for e in envs if isinstance(e, dict))
     failed_status = any(str(e.get("status")) == "failed" for e in envs if isinstance(e, dict))
@@ -76,22 +78,92 @@ def evaluate_bundle(
         consistency = float(aud.get("consistency_score") or 0.0)
         checks.append({"check": "calibration_audit_consistency", "pass": True, "value": consistency})
 
+    tfp_cal = (m.get("tfp_signal_calibration") or {}) if isinstance(m, dict) else {}
+    loaded_cfg = tfp_cal.get("loaded_config") or {}
+    inhibition_matrix = tfp_cal.get("inhibition_matrix") or {}
+    invariant_path_id = str(tfp_cal.get("invariant_path_id") or loaded_cfg.get("invariant_path_id") or "")
+    checks.append(
+        {
+            "check": "invariant_path_used",
+            "pass": invariant_path_id == "tfp_invariant_activation_v2",
+            "value": invariant_path_id or None,
+        }
+    )
+    checks.append(
+        {
+            "check": "config_version_present",
+            "pass": bool(tfp_cal.get("config_version") or loaded_cfg.get("version")),
+            "value": tfp_cal.get("config_version") or loaded_cfg.get("version"),
+        }
+    )
+    checks.append(
+        {
+            "check": "inhibition_matrix_present",
+            "pass": bool(inhibition_matrix.get("version") and inhibition_matrix.get("area_ids")),
+            "value": inhibition_matrix.get("version"),
+        }
+    )
+    checks.append(
+        {
+            "check": "post_hex_path_active",
+            "pass": bool(loaded_cfg.get("hex_feedback_required")),
+            "value": loaded_cfg.get("hex_feedback_required"),
+        }
+    )
+    topology_enabled = bool((m.get("flags") or {}).get("with_topology"))
+    topology_sessions = (topology or {}).get("sessions") or []
+    topology_meta = (
+        (((topology_sessions[0] or {}).get("session_topology") or {}).get("curve_projection_meta") or {})
+        if topology_sessions
+        else {}
+    )
+    checks.append(
+        {
+            "check": "temporal_momentum_metadata_when_topology_enabled",
+            "pass": (not topology_enabled) or bool(topology_meta.get("temporal_momentum")),
+            "value": topology_meta.get("temporal_momentum"),
+        }
+    )
+    if ap.is_file():
+        aud = json.loads(ap.read_text(encoding="utf-8"))
+        audit_alarms = set(aud.get("alarms") or [])
+        checks.append(
+            {
+                "check": "audit_invariant_path_not_bypassed",
+                "pass": "INVARIANT_PATH_NOT_USED" not in audit_alarms,
+                "value": sorted(audit_alarms),
+            }
+        )
+
     if schema_ok is not None:
         checks.append({"check": "json_schema_validation", "pass": schema_ok})
 
     if gold_failed is not None:
         checks.append({"check": "goldset_zero_failures", "pass": gold_failed == 0, "value": gold_failed})
 
+    required_tfp_checks = {
+        "invariant_path_used",
+        "config_version_present",
+        "inhibition_matrix_present",
+        "post_hex_path_active",
+        "temporal_momentum_metadata_when_topology_enabled",
+        "audit_invariant_path_not_bypassed",
+    }
+    tfp_checks_ok = all(
+        c.get("pass") is True for c in checks if c.get("check") in required_tfp_checks
+    )
+
     # Profile rules
     pass_gate = all(c.get("pass") is True for c in checks if c.get("pass") is not None)
     if profile == "research_allow_degraded":
         pass_gate = True
     elif profile == "internal_review":
-        pass_gate = not blocking_any and not failed_status
+        pass_gate = not blocking_any and not failed_status and tfp_checks_ok
     elif profile == "product_candidate":
         pass_gate = (
             not blocking_any
             and not failed_status
+            and tfp_checks_ok
             and (schema_ok is not False)
             and (consistency is None or consistency >= 0.5)
             and (gold_failed is None or gold_failed == 0)
@@ -100,6 +172,7 @@ def evaluate_bundle(
         pass_gate = (
             not blocking_any
             and not failed_status
+            and tfp_checks_ok
             and (schema_ok is not False)
             and (gold_failed is None or gold_failed == 0)
             and (consistency is None or consistency >= 0.75)
@@ -121,6 +194,16 @@ def evaluate_bundle(
         gate_codes.append("G002_FAILED_PLANE_STATUS")
     if schema_ok is False:
         gate_codes.append("G003_SCHEMA_INVALID")
+    if invariant_path_id != "tfp_invariant_activation_v2":
+        gate_codes.append("G005_INVARIANT_PATH_BYPASSED")
+    if not (inhibition_matrix.get("version") and inhibition_matrix.get("area_ids")):
+        gate_codes.append("G006_INHIBITION_MATRIX_MISSING")
+    if not (tfp_cal.get("config_version") or loaded_cfg.get("version")):
+        gate_codes.append("G007_CONFIG_VERSION_MISSING")
+    if not bool(loaded_cfg.get("hex_feedback_required")):
+        gate_codes.append("G008_POST_HEX_PATH_INACTIVE")
+    if topology_enabled and not topology_meta.get("temporal_momentum"):
+        gate_codes.append("G009_TEMPORAL_MOMENTUM_METADATA_MISSING")
 
     out: dict[str, Any] = {
         "run": "calibration_release_gate_v1",

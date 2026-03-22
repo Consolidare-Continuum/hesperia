@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "reference_bundle_hint": "CI default: `tests/fixtures/tfp_calibration_bundle_ci/` (synthetic, satisfies gold). Local engine proof: re-run `run_tfp_file_pipeline` on `research/_noone_local/1-11-09-2023.md`; optional `HESPERIA_TFP_GOLD_BUNDLE_DIR` for ad-hoc runs.",
+  "reference_bundle_hint": "CI default: `tests/fixtures/tfp_calibration_bundle_ci/` (synthetic, satisfies gold). Local engine proof: re-run `run_tfp_file_pipeline` on a transcript path (e.g. `tests/fixtures/clinical_tfp/tfp_ru_session_sample.md`); optional `HESPERIA_TFP_GOLD_BUNDLE_DIR` for ad-hoc runs.",
   "raw_integrity_gold": [
     {
       "id": "RU-1-11-09-split-brain-regression",

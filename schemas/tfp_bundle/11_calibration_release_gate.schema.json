@@ -11,6 +11,7 @@
     "checks": { "type": "array" },
     "blocking_reason": { "type": ["string", "null"] },
     "rollback_advice": { "type": "string" },
+    "consistency_score_observed": { "type": "number" },
     "operational_envelope": {
       "type": "object",
       "required": [

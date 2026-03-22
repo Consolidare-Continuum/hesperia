@@ -99,6 +99,7 @@ def _maybe_speaker_aware(text: str, embedding: dict[str, Any] | None) -> dict[st
             "tfp_stage": detect_tfp_stage({k: float(v) for k, v in areas_sa.items() if v is not None}),
             "areas_top": dict(sorted(areas_sa.items(), key=lambda x: -float(x[1] or 0))[:8]),
             "has_speaker_activation": "speaker_activation" in sa,
+            "activation_path_id": ((sa.get("invariant_activation") or {}).get("path_id")),
         }
     except Exception as e:  # noqa: BLE001
         return {"_error": str(e)}
@@ -136,6 +137,7 @@ def run_pipeline(
         apply_session_envelopes,
         default_operational_envelope,
     )
+    from hesperia.engine.tfp_signal_calibration import load_tfp_runtime_bundle
     from hesperia.extensions.triz.topology_activation_pipeline import triz_activation_bundle_filename
     from hesperia.ontology.dictA.loader import CONFIDENCE_TYPE_MULTIPLIER
     from research.clinical_tfp.session_topology import (
@@ -145,6 +147,9 @@ def run_pipeline(
         run_session_topology,
     )
 
+    tfp_runtime = load_tfp_runtime_bundle()
+    tfp_calibration = dict(tfp_runtime["calibration"])
+    tfp_inhibition = dict(tfp_runtime["inhibition_matrix"])
     topo_params: dict[str, Any] = dict(DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS)
     if topology_run_params:
         topo_params.update(topology_run_params)
@@ -217,6 +222,14 @@ def run_pipeline(
                         "session_id": sid,
                         "tfp_stage": stage,
                         "areas_top": dict(sorted(areas.items(), key=lambda x: -float(x[1] or 0))[:8]),
+                        "areas_raw": act.get("areas_raw") or {},
+                        "areas_inhibited": act.get("areas_inhibited") or {},
+                        "areas_final": act.get("areas_final") or areas,
+                        "activation_path_id": (act.get("invariant_activation") or {}).get("path_id"),
+                        "config_version": (act.get("invariant_activation") or {}).get("config_version"),
+                        "hex_feedback_active": (act.get("invariant_activation") or {}).get(
+                            "hex_feedback_active"
+                        ),
                     }
                 )
             except Exception as ex:  # noqa: BLE001
@@ -496,6 +509,7 @@ def run_pipeline(
             {
                 "run": "tfp_file_pipeline_topology",
                 "topology_run_params": dict(topo_params),
+                "tfp_signal_calibration_version": str(tfp_calibration.get("version") or "unknown"),
                 "area_curve_map": dict(AREA_CURVE_MAP),
                 "curve_calibration_reference": dict(CURVE_CALIBRATION_REFERENCE),
                 "dict_a_confidence_multiplier": dict(CONFIDENCE_TYPE_MULTIPLIER),
@@ -529,14 +543,23 @@ def run_pipeline(
         "session_ids": sids,
         "non_empty_sessions": sum(1 for _, t in sessions if (t or "").strip()),
         "tfp_signal_calibration": {
+            "config_version": str(tfp_calibration.get("version") or "unknown"),
+            "invariant_path_id": str(tfp_calibration.get("invariant_path_id") or "unknown"),
             "session_topology_run_params": dict(topo_params),
+            "loaded_config": tfp_calibration,
             "area_curve_map": dict(AREA_CURVE_MAP),
             "curve_calibration_reference": dict(CURVE_CALIBRATION_REFERENCE),
             "dict_a_confidence_multiplier": dict(CONFIDENCE_TYPE_MULTIPLIER),
+            "inhibition_matrix": {
+                "version": tfp_inhibition.get("version"),
+                "date": tfp_inhibition.get("date"),
+                "area_ids": tfp_inhibition.get("area_ids"),
+                "intended_range": tfp_inhibition.get("intended_range"),
+            },
             "notes": (
-                "session_topology_run_params: kwargs passed to research.clinical_tfp.session_topology."
-                "run_session_topology; merge JSON overrides via --topology-params-json. "
-                "Per-session curve_projection_meta.engine_params / area_curve_map in 09_session_topology.json."
+                "Invariant TFP path: stabilized concepts -> hex feedback -> area inhibition -> softmax. "
+                "session_topology_run_params control segmentation and topology metadata only; "
+                "per-session curve_projection_meta and stage rows expose authoritative diagnostic vectors."
             ),
         },
         "flags": {

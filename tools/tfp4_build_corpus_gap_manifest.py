@@ -96,7 +96,7 @@ def main() -> None:
     ap.add_argument(
         "--write",
         type=Path,
-        default=Path("research/_noone_local/tfp4_corpus_gap_manifest.json"),
+        default=Path("research/tfp4_corpus_gap_manifest.json"),
         help="Output JSON path (repo-relative or absolute).",
     )
     args = ap.parse_args()
