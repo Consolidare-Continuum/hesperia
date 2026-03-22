@@ -10,7 +10,17 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from openai_calibration_utils import StructuredCall, call_structured, load_jsonl, save_json, timestamp_dir
+from openai_calibration_utils import (
+    DEFAULT_OPENAI_MODEL,
+    StructuredCall,
+    call_structured,
+    load_jsonl,
+    log_stderr,
+    log_tool_banner,
+    log_tool_progress,
+    save_json,
+    timestamp_dir,
+)
 
 
 def _read_json(path: Path) -> Any:
@@ -78,9 +88,16 @@ def main() -> int:
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--limit", type=int, default=0, help="Cap corpus rows (0 = all)")
     ap.add_argument("--session-id", type=str, default=None, help="Optional corpus/session filter")
-    ap.add_argument("--model", type=str, default="gpt-5.3")
+    ap.add_argument("--model", type=str, default=DEFAULT_OPENAI_MODEL)
     ap.add_argument("--areas", type=str, default=None, help="Comma-separated override (default: A1..A10 from bundle)")
     ap.add_argument("--dry-run", action="store_true", help="No OpenAI; emit uniform distributions")
+    ap.add_argument(
+        "--progress-every",
+        type=int,
+        default=1,
+        metavar="N",
+        help="stderr progress every N segments (0 disables)",
+    )
     args = ap.parse_args()
 
     repo_root = Path(__file__).resolve().parent
@@ -165,6 +182,26 @@ def main() -> int:
                 )
             )
 
+    def _eligible_area_row(row: dict[str, Any]) -> tuple[str, str, str] | None:
+        sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
+        if not sid or sid not in by_session:
+            return None
+        seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
+        txt = _segment_text(row)
+        if not seg_id or not txt:
+            return None
+        return sid, seg_id, txt
+
+    total_segments = sum(1 for row in filtered if _eligible_area_row(row) is not None)
+    log_tool_banner(
+        "openai_calibrate_areas",
+        model=args.model,
+        dry_run=bool(args.dry_run),
+        segments=total_segments,
+        areas=len(area_ids),
+        out_dir=str(out_dir),
+    )
+
     preds_path = out_dir / "area_openai_segments.jsonl"
     with preds_path.open("w", encoding="utf-8") as fh:
         per_session_scores: dict[str, list[list[float]]] = defaultdict(list)
@@ -172,16 +209,12 @@ def main() -> int:
 
         uniform = [1.0 / len(area_ids) for _ in area_ids]
 
+        seg_done = 0
         for row in filtered:
-            sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
-            if not sid or sid not in by_session:
+            el = _eligible_area_row(row)
+            if not el:
                 continue
-            seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
-            if not seg_id:
-                continue
-            text = _segment_text(row)
-            if not text:
-                continue
+            sid, seg_id, text = el
 
             if args.dry_run:
                 areas_vec = list(uniform)
@@ -233,6 +266,15 @@ def main() -> int:
                     sort_keys=True,
                 )
                 + "\n"
+            )
+
+            seg_done += 1
+            log_tool_progress(
+                "openai_calibrate_areas",
+                seg_done,
+                total_segments,
+                every=args.progress_every,
+                detail=f"session={sid} segment={seg_id} dominant={dom}",
             )
 
     # Aggregate + compare to bundle session-level areas_top.
@@ -331,6 +373,11 @@ def main() -> int:
     }
 
     save_json(out_dir / "area_calibration_report.json", report)
+    m = report["metrics"]
+    log_stderr(
+        f"[openai_calibrate_areas] done sessions={m['sessions_evaluated']} "
+        f"dom_agree_rate={m['dominant_area_agreement_rate']:.3f}"
+    )
     print(json.dumps({"out_dir": str(out_dir), "report": str(out_dir / "area_calibration_report.json")}, sort_keys=True))
     return 0
 

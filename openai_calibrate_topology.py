@@ -8,7 +8,18 @@ import math
 from pathlib import Path
 from typing import Any
 
-from openai_calibration_utils import StructuredCall, call_structured, ema, load_jsonl, save_json, timestamp_dir
+from openai_calibration_utils import (
+    DEFAULT_OPENAI_MODEL,
+    StructuredCall,
+    call_structured,
+    ema,
+    load_jsonl,
+    log_tool_banner,
+    log_tool_progress,
+    log_stderr,
+    save_json,
+    timestamp_dir,
+)
 
 
 def _read_json(path: Path) -> Any:
@@ -118,12 +129,19 @@ def main() -> int:
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--limit", type=int, default=0, help="Cap corpus rows (0 = all)")
     ap.add_argument("--session-id", type=str, default=None, help="Optional corpus/session filter")
-    ap.add_argument("--model", type=str, default="gpt-5.3")
+    ap.add_argument("--model", type=str, default=DEFAULT_OPENAI_MODEL)
     ap.add_argument("--curve-name", type=str, default="aggression_curve", help="Topology curve field")
     ap.add_argument("--curve-area", type=str, default="A4", help="Area key to build OpenAI curve from")
     ap.add_argument("--area-segments", type=Path, default=None, help="Use existing area_openai_segments.jsonl")
     ap.add_argument("--curve-smooth-alpha", type=float, default=0.2)
     ap.add_argument("--dry-run", action="store_true", help="No OpenAI; curve derived only if --area-segments is present")
+    ap.add_argument(
+        "--progress-every",
+        type=int,
+        default=1,
+        metavar="N",
+        help="stderr progress every N segment API calls or topology sessions (0 disables)",
+    )
     args = ap.parse_args()
 
     repo_root = Path(__file__).resolve().parent
@@ -159,6 +177,9 @@ def main() -> int:
     area_segments_path = args.area_segments.resolve() if args.area_segments else (out_dir / "area_openai_segments.jsonl")
     openai_by_session: dict[str, list[dict[str, Any]]] = {}
     if area_segments_path.is_file():
+        log_stderr(
+            f"[openai_calibrate_topology] using existing area_segments file={area_segments_path} (no segment API calls)"
+        )
         openai_by_session = _load_area_segments_from_jsonl(area_segments_path)
     elif args.dry_run:
         raise SystemExit(
@@ -173,21 +194,33 @@ def main() -> int:
         if args.limit and args.limit > 0:
             corpus = corpus[: args.limit]
 
+        def _eligible_topo_row(row: dict[str, Any]) -> tuple[str, str, str] | None:
+            sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
+            if args.session_id and sid != args.session_id:
+                return None
+            if not sid or sid not in topo_by_session:
+                return None
+            seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
+            txt = _segment_text(row)
+            if not seg_id or not txt:
+                return None
+            return sid, seg_id, txt
+
+        total_seg_api = sum(1 for row in corpus if _eligible_topo_row(row) is not None)
+        log_tool_banner(
+            "openai_calibrate_topology",
+            model=args.model,
+            segment_api_calls=total_seg_api,
+            out_dir=str(out_dir),
+        )
+
         with area_segments_path.open("w", encoding="utf-8") as fh:
+            seg_done = 0
             for row in corpus:
-                sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
-                if args.session_id and sid != args.session_id:
+                el = _eligible_topo_row(row)
+                if not el:
                     continue
-                if not sid:
-                    continue
-                if sid not in topo_by_session:
-                    continue
-                seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
-                if not seg_id:
-                    continue
-                text = _segment_text(row)
-                if not text:
-                    continue
+                sid, seg_id, text = el
                 prompt = (
                     "You classify a transcript segment into TFP areas.\n"
                     "Return JSON matching the schema.\n"
@@ -200,6 +233,14 @@ def main() -> int:
                 out_obj = call_structured(prompt, schema, cfg=cfg)
                 areas = out_obj.get("areas") if isinstance(out_obj, dict) else None
                 if not isinstance(areas, dict):
+                    seg_done += 1
+                    log_tool_progress(
+                        "openai_calibrate_topology",
+                        seg_done,
+                        total_seg_api,
+                        every=args.progress_every,
+                        detail=f"session={sid} segment={seg_id} (skip bad schema)",
+                    )
                     continue
                 vec = []
                 for a in area_ids:
@@ -222,13 +263,40 @@ def main() -> int:
                 fh.write(json.dumps(rec, ensure_ascii=False, sort_keys=True) + "\n")
                 openai_by_session.setdefault(sid, []).append(rec)
 
+                seg_done += 1
+                log_tool_progress(
+                    "openai_calibrate_topology",
+                    seg_done,
+                    total_seg_api,
+                    every=args.progress_every,
+                    detail=f"session={sid} segment={seg_id} (area schema)",
+                )
+
+    topo_session_items = sorted(topo_by_session.items())
+    log_tool_banner(
+        "openai_calibrate_topology",
+        phase="curve_compare",
+        model=args.model,
+        bundle_sessions=len(topo_session_items),
+        openai_sessions=len(openai_by_session),
+        curve=args.curve_name,
+        curve_area=args.curve_area,
+    )
+
     reports: list[dict[str, Any]] = []
     overall = {"sessions": 0, "trend_corr_mean": 0.0, "drift_mae_mean": 0.0, "spike_distance_mean": 0.0}
     corr_list: list[float] = []
     mae_list: list[float] = []
     spike_dist: list[float] = []
 
-    for sid, st in sorted(topo_by_session.items()):
+    for si, (sid, st) in enumerate(topo_session_items, start=1):
+        log_tool_progress(
+            "openai_calibrate_topology",
+            si,
+            len(topo_session_items),
+            every=args.progress_every,
+            detail=f"curve_compare session={sid}",
+        )
         if args.session_id and sid != args.session_id:
             continue
         curve = st.get(args.curve_name)
@@ -311,6 +379,11 @@ def main() -> int:
     }
 
     save_json(out_dir / "topology_report.json", report)
+    om = report["metrics"]
+    log_stderr(
+        f"[openai_calibrate_topology] done curve_sessions={om['sessions']} "
+        f"corr_mean={om['trend_corr_mean']:.3f} drift_mae_mean={om['drift_mae_mean']:.3f}"
+    )
     print(json.dumps({"out_dir": str(out_dir), "report": str(out_dir / "topology_report.json")}, sort_keys=True))
     return 0
 

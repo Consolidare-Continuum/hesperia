@@ -9,7 +9,17 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any, Iterable
 
-from openai_calibration_utils import StructuredCall, call_structured, load_jsonl, save_json, timestamp_dir
+from openai_calibration_utils import (
+    DEFAULT_OPENAI_MODEL,
+    StructuredCall,
+    call_structured,
+    load_jsonl,
+    log_stderr,
+    log_tool_banner,
+    log_tool_progress,
+    save_json,
+    timestamp_dir,
+)
 
 
 def _read_json(path: Path) -> Any:
@@ -181,8 +191,15 @@ def main() -> int:
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--limit", type=int, default=0, help="Cap corpus rows (0 = all)")
     ap.add_argument("--session-id", type=str, default=None, help="Optional corpus/session filter")
-    ap.add_argument("--model", type=str, default="gpt-5.3")
+    ap.add_argument("--model", type=str, default=DEFAULT_OPENAI_MODEL)
     ap.add_argument("--dry-run", action="store_true", help="No OpenAI; emit empty predictions")
+    ap.add_argument(
+        "--progress-every",
+        type=int,
+        default=1,
+        metavar="N",
+        help="stderr progress every N segments (0 disables)",
+    )
     args = ap.parse_args()
 
     repo_root = Path(__file__).resolve().parent
@@ -254,6 +271,25 @@ def main() -> int:
                 )
             )
 
+    def _eligible_row(row: dict[str, Any]) -> tuple[str, str, str] | None:
+        sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
+        if not sid or sid not in dlcr_by_session_id:
+            return None
+        seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
+        txt = _segment_text(row)
+        if not seg_id or not txt:
+            return None
+        return sid, seg_id, txt
+
+    total_segments = sum(1 for row in filtered if _eligible_row(row) is not None)
+    log_tool_banner(
+        "openai_calibrate_dict_a",
+        model=args.model,
+        dry_run=bool(args.dry_run),
+        segments=total_segments,
+        out_dir=str(out_dir),
+    )
+
     cfg = StructuredCall(model=args.model)
     predictions_jsonl = out_dir / "dict_a_openai_segments.jsonl"
     pred_fh = predictions_jsonl.open("w", encoding="utf-8")
@@ -266,16 +302,12 @@ def main() -> int:
 
     examples: dict[str, list[dict[str, Any]]] = {"false_positives": [], "false_negatives": [], "negation_errors": []}
 
+    seg_done = 0
     for row in filtered:
-        sid = _as_str(row.get("session_id")) or _as_str(row.get("session"))
-        if not sid or sid not in dlcr_by_session_id:
+        el = _eligible_row(row)
+        if not el:
             continue
-        seg_id = _as_str(row.get("segment_id")) or _as_str(row.get("id")) or _as_str(row.get("uid"))
-        if not seg_id:
-            continue
-        text = _segment_text(row)
-        if not text:
-            continue
+        sid, seg_id, text = el
 
         dlcr_sess = dlcr_by_session_id[sid]
         catalog = _concept_catalog_from_dlcr_session(dlcr_sess)
@@ -362,6 +394,15 @@ def main() -> int:
         if seg_neg and len(examples["negation_errors"]) < 10:
             examples["negation_errors"].append({"session_id": sid, "segment_id": seg_id, "concepts": seg_neg})
 
+        seg_done += 1
+        log_tool_progress(
+            "openai_calibrate_dict_a",
+            seg_done,
+            total_segments,
+            every=args.progress_every,
+            detail=f"session={sid} segment={seg_id}",
+        )
+
     pred_fh.close()
 
     # Suggestions (knobs) — only diagnostics, no code edits.
@@ -414,6 +455,11 @@ def main() -> int:
     }
 
     save_json(out_dir / "dict_a_report.json", report)
+    m = report["metrics"]
+    log_stderr(
+        f"[openai_calibrate_dict_a] done segments={m['segments_evaluated']} "
+        f"fp={m['false_positives']} fn={m['false_negatives']} neg_err={m['negation_errors']}"
+    )
     print(json.dumps({"out_dir": str(out_dir), "report": str(out_dir / "dict_a_report.json")}, sort_keys=True))
     return 0
 

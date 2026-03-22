@@ -8,7 +8,7 @@ import math
 from pathlib import Path
 from typing import Any
 
-from openai_calibration_utils import save_json, timestamp_dir
+from openai_calibration_utils import log_stderr, log_tool_banner, save_json, timestamp_dir
 
 
 def _read_json(path: Path) -> Any:
@@ -77,6 +77,13 @@ def main() -> int:
     out_dir = args.out.resolve() if args.out else timestamp_dir()
     out_dir.mkdir(parents=True, exist_ok=True)
     openai_dir = args.openai_dir.resolve() if args.openai_dir else out_dir
+
+    log_tool_banner(
+        "openai_calibration_audit",
+        bundle_dir=str(bundle_dir),
+        openai_dir=str(openai_dir),
+        out_dir=str(out_dir),
+    )
 
     dict_a_rep = _load_report(openai_dir / "dict_a_report.json")
     area_rep = _load_report(openai_dir / "area_calibration_report.json")
@@ -313,6 +320,12 @@ def main() -> int:
     }
 
     save_json(out_dir / "calibration_audit.json", audit)
+    ch = audit["checks"]
+    log_stderr(
+        f"[openai_calibration_audit] done agreement={audit['agreement_score']:.3f} "
+        f"checks_pass={ch['passed']}/{ch['total']} failures={len(audit['failures'])} "
+        f"recommended_layer={audit['recommended_layer']}"
+    )
     print(json.dumps({"out_dir": str(out_dir), "report": str(out_dir / "calibration_audit.json")}, sort_keys=True))
     return 0
 
