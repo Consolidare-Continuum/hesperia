@@ -42,12 +42,9 @@ assets/artifacts/e2e_full_deliverables/
 # Local session notes (relocate from repo root if present)
 research/reports/_noone_local/
 
-# Patient / therapy session transcripts (local only; do not publish).
-# TFP corpus for builds: research/_noone_local/2_cleaned/ + assets/data/engine_dynamics_v060/
-# Dated session IDs: <n>-<dd>-<mm>-<yyyy>.md (root of _noone_local only; not subdirs)
-research/_noone_local/*-*-*-*.md
-# Numbered session chunks in pre-clean folder (corpus lives in 2_cleaned/)
-research/_noone_local/2/[123].md
+# Local-only research tree (session notes, corpus drafts, background PDF text): never publish / GitHub.
+# Canonical product corpus inputs live under assets/data/ when promoted.
+research/_noone_local/
 
 # dict_a RU raw JSONL exceeds GitHub 100MB/file limit; regenerate via
 #   python3 tools/run_tfp_dict_build_full_artifacts_v060.py --write
