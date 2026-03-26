@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# HESPERIA — Thin wrapper over analysis service. No direct orchestration.
+# HESPERIA — Thin wrapper over measurement service. No direct orchestration.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """
@@ -27,7 +27,7 @@ def run_pipeline_for_text(
     policy_mode: str | None = None,
     profile_path: Path | None = None,
 ) -> dict:
-    """Thin wrapper: run canonical multiscale analysis and return projected result. For e2e and callers."""
+    """Thin wrapper: run canonical multiscale measurement and return projected summary. For e2e and callers."""
     _ = (defaults, profile_id, profile, profile_path)  # deprecated; rejected if passed to service
     from runtime.services.analysis_service import run_structural_analysis
     assets = assets_root or _HESPERIA / "lexicon" / "curated"

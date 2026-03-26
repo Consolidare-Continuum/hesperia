@@ -33,7 +33,7 @@ from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 DEFAULT_TEXT_CAP = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
-API_VERSION = "0.5.1"
+API_VERSION = "0.5.2"
 
 API_KEY = os.environ.get("HESPERIA_API_KEY", "").strip()
 API_KEY_NEXT = os.environ.get("HESPERIA_API_KEY_NEXT", "").strip()
@@ -205,9 +205,9 @@ async def hesperia_analyze(
         from runtime.services.analysis_service import run_structural_analysis
         from runtime.shipping.schema_guard import validate_against_public_schema
 
-        result = run_structural_analysis(body.text, assets_root=_assets_curated(), stages="full")
-        validate_against_public_schema(result)
-        return JSONResponse(content=result)
+        summary_payload = run_structural_analysis(body.text, assets_root=_assets_curated(), stages="full")
+        validate_against_public_schema(summary_payload)
+        return JSONResponse(content=summary_payload)
     except ValueError as e:
         msg = str(e)
         if "text_missing" in msg:
@@ -285,6 +285,8 @@ async def hesperia_compare(
             "run": "compare",
             "text1_preview": body.text1[:80],
             "text2_preview": body.text2[:80],
+            "summary1_trust": d1.get("OUTPUT_TRUST_TAG"),
+            "summary2_trust": d2.get("OUTPUT_TRUST_TAG"),
             "result1_trust": d1.get("OUTPUT_TRUST_TAG"),
             "result2_trust": d2.get("OUTPUT_TRUST_TAG"),
             "dominant_match": _same_dominant(dom1, dom2),
@@ -294,6 +296,8 @@ async def hesperia_compare(
             comparison,
             calibration_profile=default_calibration_profile(),
             pipeline_version=api_pipeline_version(),
+            execution_flow_version=api_pipeline_version(),
+            orchestration_mode="API_SYNC",
         )
         validate_against_public_schema(wrapped)
         return JSONResponse(content=wrapped)
@@ -322,6 +326,8 @@ async def hesperia_batch(
             {},
             calibration_profile=default_calibration_profile(),
             pipeline_version=api_pipeline_version(),
+            execution_flow_version=api_pipeline_version(),
+            orchestration_mode="API_SYNC",
         )
         wrapped["payload"] = results
         validate_against_public_schema(wrapped)
@@ -355,6 +361,8 @@ if expose_triz_api():
                 content if isinstance(content, dict) else {"triz_payload": content},
                 calibration_profile=default_calibration_profile(),
                 pipeline_version=triz_pipeline_version(),
+                execution_flow_version=triz_pipeline_version(),
+                orchestration_mode="API_SYNC",
             )
             return JSONResponse(content=wrapped)
         except Exception:

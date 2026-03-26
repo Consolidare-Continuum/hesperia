@@ -9,7 +9,7 @@
 # Notes (spec alignment):
 # - Empty unit (token_count==0): fixed SI, band=spiky, decision_code=INVALID_EMPTY_UNIT; no guards.
 # - Coverage/leakage from TopN: coverage = sum(p_f), leakage = 1 - coverage; coverage+leakage == 1.
-# - stability = 1 - entropy; if coverage==0 then stability=0 (signal gate).
+# - consistency = 1 - entropy; if coverage==0 then consistency=0 (input_signal gate).
 # - Trust tier: T0 if token_count<12; T3 if token_count>=60 and shadow<=0.35 and leakage<=0.40 and entropy<=0.70; else T2.
 # - Band: if coverage==0 → spiky (hard override). Else T0→spiky; then coherent/fragmented/stable from SI.
 # - Decision: no top_families → ATTR_FAIL_NO_FAMILIES; SIGMA_FAIL_LEAK only if leakage>0.75 and token_count>=12.
@@ -89,7 +89,7 @@ def _si_metrics_from_layers(
             "entropy": 0.0,
             "leakage": 1.0,
             "contradiction_pressure": 0.0,
-            "stability": 0.0,
+            "consistency": 0.0,
             "shadow_deviation": 0.0,
             "trust_tier": "T0",
         }
@@ -105,7 +105,7 @@ def _si_metrics_from_layers(
     if err >= 1e-6:
         raise AssertionError(f"coverage + leakage != 1 (err={err})")
     contradiction_pressure = _clamp01(l5.get("CONTRADICTION_PRESSURE_SCORE", 0.0))
-    # Signal gate: stability = 0 when coverage == 0 (no "perfect stability" on empty attribution)
+    # Signal gate: consistency = 0 when coverage == 0 (no "perfect consistency" on empty attribution)
     if coverage <= 0:
         stability = 0.0
     else:
@@ -126,7 +126,7 @@ def _si_metrics_from_layers(
         "entropy": round(entropy, 6),
         "leakage": round(leakage, 6),
         "contradiction_pressure": round(contradiction_pressure, 6),
-        "stability": round(stability, 6),
+        "consistency": round(stability, 6),
         "shadow_deviation": round(shadow_deviation, 6),
         "trust_tier": trust_tier,
     }

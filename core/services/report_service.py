@@ -17,15 +17,15 @@ from hesperia.engine.projection import project_to_public
 
 
 def build_public_report(
-    analysis_result: dict[str, Any],
+    analysis_output: dict[str, Any],
     report_profile_id: str | None = None,
     public_metric_profile_id: str = "commercial",
 ) -> dict[str, Any]:
     """
-    Build a public report from analysis result. Result must already be projected or will be projected here.
-    Returns report dict with only public metric profile and public vocabulary.
+    Build a public report from analysis OUTPUT. OUTPUT must already be projected or will be projected here.
+    Returns report dict with only public METRIC profile and public vocabulary.
     """
-    out = project_to_public(analysis_result, validate_schema=True)
+    out = project_to_public(analysis_output, validate_schema=True)
     out["report_profile_id"] = report_profile_id or ""
     out["public_metric_profile_id"] = public_metric_profile_id
     return out

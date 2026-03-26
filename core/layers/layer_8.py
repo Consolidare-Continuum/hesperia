@@ -73,7 +73,7 @@ def run(input: LayerInput) -> LayerOutput:
     if isinstance(policy, dict):
         result["POLICY_MODE"] = policy.get("policy_mode", "STRUCTURE_PLUS_CONTEXT")
         result["INTERPRETATION_CONSTRAINTS"] = dict(policy.get("interpretation_constraints", {}))
-        # If text/context disallowed, interpretation must ignore raw text
+        # If text/input_context disallowed, interpretation must ignore raw text
         if not policy.get("interpretation_constraints", {}).get("allow_text", True):
             result["INTERPRETATION_SCOPE"] = "structure_only"
         elif not policy.get("interpretation_constraints", {}).get("allow_context", True):

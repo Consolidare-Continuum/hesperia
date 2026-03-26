@@ -103,7 +103,7 @@ Review the bundle as an external evaluator would.
 
 **From:** binary strings, CLI help, API responses, schemas, examples, README, container filesystem.
 
-**Only the product concept should be visible:** *structural analysis engine*.
+**Only the product concept should be visible:** *structural measurement engine*.
 
 ### Step 7 — Performance sanity
 
@@ -111,7 +111,7 @@ Run a batch test (~100 texts).
 
 **Example:**
 ```bash
-./hesperia-cli.bin batch-analyze --input examples/batch.json
+./hesperia-cli.bin batch-analyze --raw_text examples/batch.json
 ```
 (or use --texts with a script that feeds ~100 texts).
 

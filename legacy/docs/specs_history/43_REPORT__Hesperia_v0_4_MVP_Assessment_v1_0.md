@@ -118,7 +118,7 @@ The argument for “not yet MVP” is strongest when MVP is interpreted as **min
   - task success rate,
   - time-to-insight,
   - precision/recall under realistic noise,
-  - operator effort per accepted result,
+  - operator effort per accepted summary,
   - error class distribution and business impact.
 - Without published thresholds and measured attainment, viability is still a hypothesis.
 

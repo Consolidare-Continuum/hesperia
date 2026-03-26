@@ -5,7 +5,7 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Analysis service façade. Public runtime must not orchestrate internal math/pipeline step by step.
+Measurement service facade. Public runtime must not orchestrate internal math/execution_flow step by step.
 
 **Canonical path (Engine Dynamics):** multiscale sealed stack only — Concept → Hex → Family → Area →
 signals → ``project_to_public``. No sphere L1–L9 runner on the shipping path.
@@ -46,7 +46,7 @@ def run_structural_analysis(
     attach_version: bool = True,
 ) -> dict[str, Any]:
     """
-    Run structural analysis on text. Returns public-safe result only (projected).
+    Run structural measurement on text. Returns public-safe SUMMARY/DIAGNOSTICS output only (projected).
 
     stages: only ``\"full\"`` is supported (canonical multiscale stack). Reduced L1–L3-only paths
     were removed — they bypassed the hex layer.
@@ -107,6 +107,8 @@ def run_structural_analysis(
         out,
         calibration_profile=prof,
         pipeline_version=structural_pipeline_version(),
+        execution_flow_version=structural_pipeline_version(),
+        orchestration_mode="SERVICE_SYNC",
     )
 
 
@@ -141,6 +143,8 @@ def run_structural_analysis_batch(
                     proj,
                     calibration_profile=default_calibration_profile(),
                     pipeline_version=structural_pipeline_version(),
+                    execution_flow_version=structural_pipeline_version(),
+                    orchestration_mode="SERVICE_BATCH",
                 )
             )
         else:

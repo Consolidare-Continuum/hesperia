@@ -24,7 +24,7 @@ Scan for:
 - area11
 - family240
 - side_id
-- internal module names (e.g. invariant_catalog, pipeline_runner, layer_registry, if they appear as user-facing strings)
+- internal component names (e.g. invariant_catalog, pipeline_runner, layer_registry, if they appear as user-facing strings)
 
 ---
 

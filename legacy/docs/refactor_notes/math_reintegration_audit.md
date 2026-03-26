@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Math Reintegration Audit
 
-**Scope:** `sphere/dynamism/`, `sphere/metrics/`, `sphere/pipeline/`  
+**Scope:** `sphere/dynamism/`, `sphere/metrics/`, `sphere/execution_flow/`  
 **Rule:** Math is infrastructure → lives only in `core/math`. Sphere layers orchestrate only; they must import math primitives and must not implement math.
 
 ---
@@ -34,15 +34,15 @@ See LEGAL_NOTICE.md for full terms.
 | `compute_area_coverage` | sphere/metrics/coverage.py | coverage fraction | MOVE → core/math/coverage.py |
 | `compute_loopability` | sphere/metrics/loopability.py | structural metric (counts) | MOVE → core/math/sequence_metrics.py |
 
-**Pipeline:** `sphere/pipeline/contract_validation.py`, `sphere/pipeline/isolation_validation.py` — no mathematical logic; no changes.
+**Execution Flow:** `sphere/execution_flow/contract_validation.py`, `sphere/execution_flow/isolation_validation.py` — no mathematical logic; no changes.
 
 **Dynamism engine:** `sphere/dynamism/dynamism_engine.py` — orchestration only (calls curvature, stability, trajectory, transition_matrix, jump_rate). After migration it will import from `core.math` and call same APIs.
 
 ---
 
-## Summary by Target Module
+## Summary by Target Component
 
-| core/math module | Functions moved from sphere |
+| core/math component | Functions moved from sphere |
 |------------------|----------------------------|
 | curvature_metrics.py | compute_curvature, compute_jump_rate |
 | stability_metrics.py | compute_stability_index, compute_structural_tension |

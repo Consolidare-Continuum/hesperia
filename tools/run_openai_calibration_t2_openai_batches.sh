@@ -13,6 +13,7 @@ set -euo pipefail
 #   BASE: corpus staging root (default below)
 #   LIMIT: max corpus rows per script (default 200)
 #   BATCH_GLOB: which batches to process (default "$BASE/batches/batch_*")
+#   SKIP_DONE_OPENAI=1: skip batches that already have DONE_openai (resume without re-spending on finished batches)
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$REPO_ROOT"
@@ -48,6 +49,11 @@ for broot in $BATCH_GLOB; do
     && -f "$broot/corpus.jsonl" ]]; do
     sleep 10
   done
+
+  if [[ -n "${SKIP_DONE_OPENAI:-}" && "${SKIP_DONE_OPENAI}" != "0" && -f "$broot/DONE_openai" ]]; then
+    echo "SKIP openai: $broot (DONE_openai exists; unset SKIP_DONE_OPENAI or delete marker to redo)" >&2
+    continue
+  fi
 
   # dict_a + areas in parallel
   python3 -u openai_calibrate_dict_a.py \

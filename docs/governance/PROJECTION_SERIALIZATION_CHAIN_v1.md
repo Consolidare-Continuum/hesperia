@@ -1,7 +1,7 @@
 # Projection → serialization chain v1
 
 **Status:** Mandatory  
-**Purpose:** The projection layer is the single most critical component. All serialization must follow one chain; no module may bypass it.
+**Purpose:** The projection layer is the single most critical component. All serialization must follow one chain; no component may bypass it.
 
 ---
 
@@ -17,7 +17,7 @@ projection  →  schema_guard  →  serializer
 - **Schema guard:** `validate_against_public_schema(output)` runs before serialization. Fails if any key in the output tree contains a forbidden substring (would leak internal architecture).
 - **Serializer:** JSON (or other) output with deterministic ordering (e.g. `sort_keys=True`). No raw internal structures may be written in public mode.
 
-No module may bypass this chain (e.g. writing raw layer output, dumping internal dicts, or skipping schema_guard).
+No component may bypass this chain (e.g. writing raw layer output, dumping internal dicts, or skipping schema_guard).
 
 ---
 
@@ -31,7 +31,7 @@ No module may bypass this chain (e.g. writing raw layer output, dumping internal
 
 ## Components
 
-| Step | Module / location | Responsibility |
+| Step | Component / location | Responsibility |
 |------|-------------------|----------------|
 | Projection | `core/projection` | Map internal → public; strip reserved areas, internal keys, geometry language. |
 | Schema guard | `runtime/shipping/schema_guard` | Walk full output tree; raise if any key is forbidden. |

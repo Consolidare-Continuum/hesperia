@@ -11,7 +11,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 
 ---
 
-## Product Line A — Semantic structural analysis
+## Product Line A — Semantic structural measurement
 
 **What it measures:** Structure of arguments and ideas.
 
@@ -42,7 +42,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 
 ---
 
-## Product Line B — Narrative propagation analysis
+## Product Line B — Narrative propagation measurement
 
 **What it measures:** How ideas move across **semantic topology** (Sphere + reading scales).
 
@@ -65,7 +65,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 - **Example phrase:** “security threat”.  
 - **Illustrative path:** security area → migration → economy → foreign policy.  
 - **Outputs:** narrative penetration score, propagation velocity, domain influence.  
-- **Uses:** media analysis, geopolitical analysis, corporate narrative tracking.
+- **Uses:** media measurement, geopolitical measurement, corporate narrative tracking.
 
 ---
 
@@ -88,7 +88,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 **Product examples**
 
 1. **Policy contradiction detector**  
-   - **Input:** policy documents, government / corporate strategies.  
+   - **Raw_text:** policy documents, government / corporate strategies.  
    - **Outputs:** internal contradictions, policy conflict clusters, implementation risk indicators.  
    - **Customers:** governments, NGOs, policy research.
 
@@ -115,7 +115,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 
 **Product example: Innovation potential scoring**
 
-- **Input:** startup pitch, research paper, technology roadmap.  
+- **Raw_text:** startup pitch, research paper, technology roadmap.  
 - **Outputs:** innovation score, novelty index, contradiction potential, solution pattern classification.  
 - **Customers:** venture capital, R&D, innovation labs.
 
@@ -133,13 +133,13 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 | fingerprint_similarity | Cosine / hash match vs corpus |
 | vector_hash | Deterministic doc ID (`vectorHash`) |
 
-**Engine sources:** KME fingerprint module — `run_output_e2e_domain_metrics.json`, `run_output_e2e_session_kme.json`.
+**Engine sources:** KME fingerprint component — `run_output_e2e_domain_metrics.json`, `run_output_e2e_session_kme.json`.
 
 **Product: Document similarity engine**
 
 - **Examples:** law vs law, research vs research, policy vs policy.  
 - **Outputs:** semantic similarity, topic overlap, cluster similarity.  
-- **Markets:** legal analysis, academic search, knowledge management.
+- **Markets:** legal measurement, academic search, knowledge management.
 
 ---
 
@@ -162,7 +162,7 @@ Commercial **product lines** mapped to engine signals. Variable names are **prod
 
 - **Example:** research corpus.  
 - **Outputs:** topic clusters, domain dominance, knowledge fragmentation, topic evolution.  
-- **Markets:** research analytics, patent analysis, technology intelligence.
+- **Markets:** research analytics, patent measurement, technology intelligence.
 
 ---
 

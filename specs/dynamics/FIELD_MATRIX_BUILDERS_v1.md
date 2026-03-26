@@ -10,8 +10,8 @@ See LEGAL_NOTICE.md for full terms.
 **Status:** Draft for lock-in  
 **Purpose:** Map ontology-level **families**, **relations**, **contradictions**, and **resistance priors** into numerical matrices for the semantic field engine.
 
-**Module:** `hesperia.extensions.dynamics.matrix_builders`  
-**Pipeline:** ontology → builders → `W_F`, `C_F`, `R` vector → `L_F` (via `equations.build_family_laplacian`) → `run_semantic_field` / `run_field_calibration`
+**Component:** `hesperia.extensions.dynamics.matrix_builders`  
+**Execution Flow:** ontology → builders → `W_F`, `C_F`, `R` vector → `L_F` (via `equations.build_family_laplacian`) → `run_semantic_field` / `run_field_calibration`
 
 **Related:** [semantic_field_dynamics.md](semantic_field_dynamics.md) · [HSPR_CALIBRATION_INDEX_v1.md](HSPR_CALIBRATION_INDEX_v1.md) (redirect → [../calibration/hspr_index.md](../calibration/hspr_index.md))
 
@@ -46,7 +46,7 @@ HESPERIA can **evolve ontology data** without changing dynamics code.
 
 `build_family_adjacency_matrix(family_ids, relations)`
 
-- Input: undirected relation pairs `(a, b)`.
+- Raw_text: undirected relation pairs `(a, b)`.
 - Output: symmetric `W` with `W_ij = 1` if `{i,j}` is a relation (multiple edges idempotent).
 - Self-loops and unknown ids are skipped.
 
@@ -58,11 +58,11 @@ HESPERIA can **evolve ontology data** without changing dynamics code.
 
 `build_contradiction_matrix(family_ids, contradictions)`
 
-- Input: triples `(a, b, strength)` with `strength ≥ 0`.
+- Raw_text: triples `(a, b, strength)` with `strength ≥ 0`.
 - Output: symmetric non-negative matrix; diagonal zero before use in engine.
 - Duplicate pairs: **max** strength wins.
 
-Runners pass the result through `equations.build_contradiction_matrix` for canonical symmetrization / zero diagonal.
+Runners pass the summary through `equations.build_contradiction_matrix` for canonical symmetrization / zero diagonal.
 
 ---
 

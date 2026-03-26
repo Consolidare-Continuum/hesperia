@@ -19,7 +19,7 @@
 
 - “Ontology-grounded structural mapping.”
 - “Evidence-backed relation modeling.”
-- High-level only: “structural analysis,” “concept activation,” “evidence extraction.” No implementation detail.
+- High-level only: “structural measurement,” “concept activation,” “evidence extraction.” No implementation detail.
 
 ---
 

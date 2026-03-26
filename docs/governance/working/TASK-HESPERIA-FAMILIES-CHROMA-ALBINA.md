@@ -46,7 +46,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 1.3 Purpose
 
-- **Albina AI agent scopes enhancement**: Albina can use this table to scope context (family → concept, books) for reasoning and retrieval.
+- **Albina AI agent scopes enhancement**: Albina can use this table to scope input_context (family → concept, books) for reasoning and retrieval.
 - **Follow-up task (next)**: Wire this table/collection to **FPF** as an **additional pylon** in Albina construction.
 
 ---

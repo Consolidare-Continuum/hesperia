@@ -2,7 +2,7 @@
 
 Computes **35 derived metrics** from **6 primitives** (LD, COH, NC, PR, PV, CI). Strict bounded regime: every output is `clamp01()`, every division uses `safeDiv()`. Pure algebra over primitives only; no graph access.
 
-## Input
+## Raw_text
 
 **PrimitiveMetrics** — LD, COH, NC, PR, PV, CI (all in [0, 1]).
 
@@ -35,17 +35,17 @@ fp = to_full_fingerprint(p, d)
 
 ## Null and zero
 
-- **Null input** → `zero_derived_metrics()` (all 35 = 0.0).
+- **Null raw_text** → `zero_derived_metrics()` (all 35 = 0.0).
 - **All-zero primitives** → all derived = 0.0.
 
 ## Acceptance tests
 
-- **A** — Null input → all derived 0.0.
+- **A** — Null raw_text → all derived 0.0.
 - **B** — All-zero primitives → all derived 0.0.
 - **C** — All-one primitives → all derived 1.0 (multiplicative and division-based).
 - **D** — Zero denominators (e.g. NC=0, PV=0) → SSS, ASS, KEF, CDD, SSR, CPC, KBS, KVI = 0; no NaN/Inf.
 - **E** — Monotonicity: LD↑ ⇒ KDI, DCI, CSI2, TCI, TEP not decreasing; COH↑ ⇒ KDI, CCI, SPS, CRI, KPS not decreasing; PV↑ ⇒ SSS, ASS, PEI, CDD, SSR not increasing.
 
-## Result
+## Summary
 
 After Task 4, HESPERIA has the full **derived market layer**: 35 derived metrics from 6 primitives, deterministically. Mathematical core is assembled.

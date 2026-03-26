@@ -32,7 +32,7 @@ Without explicit written authorization from the author, the following are **stri
 - redistribution or republication of the architecture documentation  
 - implementation of systems derived from or substantially based on this design  
 
-These restrictions apply to, but are not limited to: system structure; layer definitions and processing pipeline; topology and structural geometry design; structural measurement metrics; Universal Structural Fingerprint (USF) model; propagation and dynamism mechanisms; rule-based structural logic architecture; interpretation framework.
+These restrictions apply to, but are not limited to: system structure; layer definitions and compute execution_flow; topology and structural geometry design; structural measurement metrics; Universal Structural Fingerprint (USF) model; propagation and dynamism mechanisms; rule-based structural logic architecture; interpretation framework.
 
 ## Allowed Use
 
@@ -46,7 +46,7 @@ No rights to implementation, reproduction, redistribution, or derivative develop
 
 ## Reference Architecture Scope
 
-The HESPERIA RAD documentation defines the canonical structure of the system, including: reference architecture definition; dependency boundary rules; math authority enforcement; topology invariants; layer pipeline ordering; Universal Structural Fingerprint (USF) schema; architecture guard mechanisms and tests. These documents collectively establish the architectural contract of the HESPERIA system.
+The HESPERIA RAD documentation defines the canonical structure of the system, including: reference architecture definition; dependency boundary rules; math authority enforcement; topology invariants; layer execution_flow ordering; Universal Structural Fingerprint (USF) schema; architecture guard mechanisms and tests. These documents collectively establish the architectural contract of the HESPERIA system.
 
 ## RAD Freeze
 

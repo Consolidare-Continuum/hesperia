@@ -58,7 +58,7 @@ def run_stability(layers: Dict[int, Dict[str, Any]]) -> Dict[str, Any]:
     if visited_set and dom_family not in visited_set:
         instability_flags.append(ANOMALY_FAMILY_DRIFT)
 
-    # ---- CURVATURE_SPIKE: L6 curvature / condition / stability ----
+    # ---- CURVATURE_SPIKE: L6 curvature / condition / consistency ----
     condition_num = float(l6.get("CONDITION_NUMBER", 1.0))
     dominance_curvature = float(l6.get("DOMINANCE_CURVATURE", 0.0))
     entropy_curvature = float(l6.get("ENTROPY_CURVATURE", 0.0))

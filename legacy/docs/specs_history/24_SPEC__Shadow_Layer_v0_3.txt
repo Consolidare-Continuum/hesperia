@@ -1,6 +1,6 @@
 ============================================================
 HESPERIA — SHADOW LAYER v0.3
-Controlled Secondary Graph for Diagnostic and Counterfactual Analysis
+Controlled Secondary Graph for Diagnostic and Counterfactual Measurement
 ============================================================
 
 Status:

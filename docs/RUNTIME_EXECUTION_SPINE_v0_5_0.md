@@ -10,9 +10,9 @@ Debug-oriented map of **who calls whom** on the **canonical product path** and w
 
 **Entry (CLI / product E2E):**
 
-| Step | Module | Symbol | Notes |
+| Step | Component | Symbol | Notes |
 |------|--------|--------|--------|
-| 1 | `runtime.pipeline.run_e2e_product` | `main()` | Or `runtime.pipeline.run_e2e_full_stack` → `_write_product_surface` |
+| 1 | `runtime.execution_flow.run_e2e_product` | `main()` | Or `runtime.execution_flow.run_e2e_full_stack` → `_write_product_surface` |
 | 2 | `runtime.services.analysis_service` | `run_structural_analysis()` | Rejects non-`full` stages; no sphere profile orchestration |
 | 3 | `hesperia.engine.multiscale_product_bridge` | `build_structural_internal_from_multiscale()` | Assembles **internal** layer-shaped dict |
 | 4a | `hesperia.engine.sealed_multiscale_stack` | `run_sealed_multiscale_stack()` | Concept → hex → microphysics → family/area aggregates → product signals → HSPR |
@@ -44,24 +44,24 @@ flowchart LR
   VG --> OUT
 ```
 
-### Important correction vs “sphere.pipeline”
+### Important correction vs “sphere.execution_flow”
 
-On the **shipping** path, **`sphere.pipeline.run_pipeline` is not invoked** (see `hesperia.engine.sealed_multiscale_stack` module docstring and `runtime.services.analysis_service` header).  
-The **legacy icosahedral L1–L9 runner** exists for **dev / calibration / selected E2E** (e.g. when `HESPERIA_SPHERE_PIPELINE_DEV=1` or via `runtime.pipeline.analyze` — the latter is **excluded** from import-boundary scans by policy).
+On the **shipping** path, **`sphere.execution_flow.run_pipeline` is not invoked** (see `hesperia.engine.sealed_multiscale_stack` component docstring and `runtime.services.analysis_service` header).  
+The **legacy icosahedral L1–L9 runner** exists for **dev / calibration / selected E2E** (e.g. when `HESPERIA_SPHERE_PIPELINE_DEV=1` or via `runtime.execution_flow.analyze` — the latter is **excluded** from import-boundary scans by policy).
 
 ## 2. Thin CLI wrapper (same canonical stack)
 
-| Module | Role |
+| Component | Role |
 |--------|------|
-| `runtime.pipeline.run_l1_through_l9` | `run_pipeline_for_text()` → `run_structural_analysis(..., stages="full")` then sets `run: L1_through_L9` for contract compatibility |
+| `runtime.execution_flow.run_l1_through_l9` | `run_pipeline_for_text()` → `run_structural_analysis(..., stages="full")` then sets `run: L1_through_L9` for contract compatibility |
 
 ## 3. Internal E2E paths (not the minimal product proof)
 
 | Flow | Entry | Notes |
 |------|-------|--------|
-| Sentence analyze + projection | `runtime.pipeline.analyze.analyze` → `core.projection.apply_public_projection` | R1–R4 and extended minimal payloads |
-| L1–L9 JSON artifact | `runtime.pipeline.run_e2e_all.run_e2e_l1_l9` | Uses `run_l1_through_l9.run_pipeline_for_text` + optional `hex_outputs.e2e_integration`, then `apply_public_projection` |
-| Sphere math batches | `runtime.pipeline.run_sphere_math_values` / `run_sphere_math_100_sentences` | Touches `sphere.*` numerics for calibration-style artifacts |
+| Sentence analyze + projection | `runtime.execution_flow.analyze.analyze` → `core.projection.apply_public_projection` | R1–R4 and extended minimal payloads |
+| L1–L9 JSON artifact | `runtime.execution_flow.run_e2e_all.run_e2e_l1_l9` | Uses `run_l1_through_l9.run_pipeline_for_text` + optional `hex_outputs.e2e_integration`, then `apply_public_projection` |
+| Sphere math batches | `runtime.execution_flow.run_sphere_math_values` / `run_sphere_math_100_sentences` | Touches `sphere.*` numerics for calibration-style artifacts |
 
 Use **§1** when debugging **product / API / `run_e2e_product`**. Use **§3** when debugging **calibration or legacy sphere math JSON**.
 
@@ -77,7 +77,7 @@ Use **§1** when debugging **product / API / `run_e2e_product`**. Use **§3** wh
 | `tools/audit_shipping_allowlist.py` | Every allowlist prefix is used; optional creep cap (`--strict-unused`) |
 | `tools/check_dead_weight_budget.py` | Absolute cap + drift vs `RECORDED_COUNT` (`MAX_INCREASE_FROM_RECORDED`) in `docs/DEAD_WEIGHT_BASELINE.txt` |
 | `tools/check_engine_projection_boundary.py` | `hesperia/engine/**` may import `core.projection*` only under `hesperia/engine/projection/` |
-| `tests/test_runtime_spine_integrity.py` | Spine import + smoke; **exclusive path** counts (`run_sealed_multiscale_stack` via bridge, `apply_public_projection`, no `sphere.pipeline`) |
+| `tests/test_runtime_spine_integrity.py` | Spine import + smoke; **exclusive path** counts (`run_sealed_multiscale_stack` via bridge, `apply_public_projection`, no `sphere.execution_flow`) |
 | `tests/test_semantic_output_signature.py` | Public JSON semantic contract + magnitude bounds |
 | `tests/test_guard_invariants_locked.py` | Substring locks on critical tools/contracts (anti test-weakening) |
 | `schemas/public_api_v0_5_1.snapshot.json` | Byte-identical freeze of public output JSON Schema (v0.5.1 line) |

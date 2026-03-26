@@ -61,22 +61,22 @@ But it is **stable**. That matters.
 
 ## III. What it does NOT yet do
 
-- No semantic weight per area.
+- No semantic coefficient per area.
 - No content polarity mapping.
 - No internal family-level constraint logic.
 - No inter-family contradiction detection.
 - No multi-path interference.
 - No region/obstacle semantics beyond simple fail detection.
 
-This is **structure-only traversal**. Do not confuse it with reasoning.
+This is **topology-only traversal**. Do not confuse it with reasoning.
 
 ---
 
 ## IV. Real current applications (concrete)
 
-### 1. Deterministic context framing for agents (context governor)
+### 1. Deterministic input_context framing for agents (input_context governor)
 
-Instead of LLM improvising context, you can force: current area, adjacent areas, border context, traversal history. This prevents topic teleportation, axis skipping, semantic drift.
+Instead of LLM improvising input_context, you can force: current area, adjacent areas, border input_context, traversal history. This prevents topic teleportation, axis skipping, semantic drift.
 
 ### 2. Structural path validation
 
@@ -103,7 +103,7 @@ Retrieval is off in core calibration. When turned on it must:
 1. Be constrained by current area/family.
 2. Be filtered by adjacency.
 3. Respect safeguard (block if 3-fail rule triggers).
-4. Never let content override structure. **Structure is sovereign.**
+4. Never let content override topology. **Structure is sovereign.**
 
 ---
 
@@ -136,20 +136,20 @@ We need to see the safeguard fire. Otherwise it is unproven.
 
 Two main directions.
 
-**Option A — Structural expansion (harden structure)**
+**Option A — Structural expansion (harden topology)**
 
-Stay structure-only; add: more path types, randomized ring hops, multi-ring traversal, cross-family jumps, polarity-flip stress tests. Strengthens geometry and safeguard. Safe, conservative.
+Stay topology-only; add: more path types, randomized ring hops, multi-ring traversal, cross-family jumps, polarity-flip stress tests. Strengthens geometry and safeguard. Safe, conservative.
 
-**Option B — Inject semantic weight**
+**Option B — Inject semantic coefficient**
 
 Introduce: polarity scores, contradiction matrices, inter-area tension coefficients, family compatibility rules, entailment mapping between families. Turns traversal into semantic computation. Riskier; transforms the engine.
 
 **Plus:**
 
-- **Option C** — Add **controlled retrieval** (structure-first constraint; retrieval injection protocol).
+- **Option C** — Add **controlled retrieval** (topology-first constraint; retrieval injection protocol).
 - **Option D** — Begin **Phase D** product semantic layer (formal scope and WBS).
 
-**Next step must be deliberate — not experimental.** Choose one vector: A) Harden structure; B) Inject semantic computation; C) Add controlled retrieval; D) Begin Phase D product semantic layer.
+**Next step must be deliberate — not experimental.** Choose one vector: A) Harden topology; B) Inject semantic computation; C) Add controlled retrieval; D) Begin Phase D product semantic layer.
 
 ---
 
@@ -160,7 +160,7 @@ To avoid drift, lock one of:
 1. **Traversal Operators Spec v0.1** (formal).
 2. **Safeguard State Machine Spec v0.1** (formal).
 3. **Family Compatibility Matrix Spec v0.1** (formal).
-4. **Retrieval injection protocol** (structure-first constraint).
+4. **Retrieval injection protocol** (topology-first constraint).
 
 Pick one and lock. No drift.
 
@@ -169,7 +169,7 @@ Pick one and lock. No drift.
 ## X. Notes (Ethan)
 
 - **Plateau**: This is the first real engineering plateau. Stable geometry, traversal, logging, safeguard, coverage telemetry.
-- **Product terms**: With this alone you can build: structured AI assistant context stabilizer, policy traversal audit tool, semantic bias detector, narrative flow analyzer, controlled reasoning sandbox. Not trivial.
+- **Product terms**: With this alone you can build: structured AI assistant input_context stabilizer, policy traversal audit tool, semantic bias detector, narrative flow analyzer, controlled reasoning sandbox. Not trivial.
 - **State in project**: The project must **already state** in one place what Hesperia **is** and what it **does** now — so new work and Grace tasks refer to a single source of truth. This doc is the governance source; project (CONTEXT-PACKET, mid-stage report) should point to it and repeat the one-line “is” and “does” in plain language.
 
 ---
@@ -179,7 +179,7 @@ Pick one and lock. No drift.
 | Item | Statement |
 |------|-----------|
 | **What it is** | Geometry-safe semantic traversal kernel; deterministic semantic traversal and validation core. |
-| **What it does** | Fixed geometry, deterministic ring traversal, border tracking, context packet + adjacency hints, logic layer + safeguard, apple coverage; context governor, path validation, coverage verification, path comparison, logic baseline. |
+| **What it does** | Fixed geometry, deterministic ring traversal, border tracking, input_context packet + adjacency hints, logic layer + safeguard, apple coverage; input_context governor, path validation, coverage verification, path comparison, logic baseline. |
 | **What it does not** | No semantic reasoning, value-evaluating, content conflict detection, retrieval-aware logic, policy-aware logic. Structure-only. |
 | **Do not touch** | Ring order, adjacency, family counts, hex geometry, safeguard threshold — until Phase D defined. |
 | **Safeguard** | Must be stress-tested until it fires; then documented. |

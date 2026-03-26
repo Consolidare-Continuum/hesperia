@@ -15,7 +15,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## What v0.5 ships
 
-1. Concept → hex → family → area pipeline (documented + implemented).  
+1. Concept → hex → family → area execution_flow (documented + implemented).  
 2. Hex microphysics + family bridge + sealed multiscale runner.  
 3. Product signal layer + field HSPR + **system** HSPR index.  
 4. **19** E2E JSON artifacts (+ optional field dynamics).  
@@ -32,7 +32,7 @@ See LEGAL_NOTICE.md for full terms.
 ## Verify
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.execution_flow.run_e2e_all
 ```
 
 ---

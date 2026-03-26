@@ -1,7 +1,7 @@
 HESPERIA — MASTER SPEC v1.0
 
 Glossary references (see `ACADEMIC.md`):
-- System, input/output: lines 22–54
+- System, raw_text/output: lines 22–54
 - Geometry and indexing (Areas, Families, Sides, Regions): lines 58–106
 - Activation vectors and polarity axes: lines 275–299
 - Truth and structural metrics (T(R), C(R), fragIndex, entropy): lines 216–228, 260–273
@@ -121,7 +121,7 @@ Used for:
 6. FORWARD EVOLUTION (USER INPUT → HESPERIA GEOMETRY)
 
 1. Tokenize text
-2. Classify words with 5-stage pipeline
+2. Classify words with 5-stage execution_flow
 3. Build SentenceAttributions
 4. Build StatementAttribution
 5. Compute inward/outward semantics
@@ -167,11 +167,11 @@ Ingestion:
 - Update tau
 
 Query:
-- Attribute user input
+- Attribute user raw_text
 - Retrieve shard
 - Build region
 - Run traversal
-- Return structured result
+- Return structured summary
 
 Vector DB usage:
 - words

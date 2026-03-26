@@ -70,14 +70,14 @@ Config mirrors `run_semantic_field` for matrices (`adjacency_matrix` or `adjacen
 
 ---
 
-## Pipeline (target wire)
+## Execution Flow (target wire)
 
 Document → Dict A → Dict B → family activation → **this runner** → KME / TRIZ (still to integrate).
 
 ## Still to add
 
 - Matrix builders from ontology (family adjacency, contradiction graph, resistance priors)
-- Full pipeline integration
+- Full execution_flow integration
 - Calibration layer for α, β, γ, δ from corpora
 
 See [specs/dynamics/semantic_field_dynamics.md](../../specs/dynamics/semantic_field_dynamics.md).

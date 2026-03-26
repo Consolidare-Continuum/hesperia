@@ -108,7 +108,7 @@ This prevents lexical misfires ("kill the lights", "burnout", etc.).
 2. SENTENCE ATTRIBUTION PIPELINE
 ===========================================================
 
-Input:
+Raw_text:
 Tokenized words with assigned families/areas.
 
 Process:
@@ -181,12 +181,12 @@ sphere → statement → lexical corrections.
 
 
 -----------------------------------------------------------
-5.1 Forward Evolution (User Input → Sphere Region)
+5.1 Forward Evolution (User Raw_text → Sphere Region)
 -----------------------------------------------------------
 
 Steps:
 1. Tokenize incoming text
-2. Classify each word (5-stage pipeline)
+2. Classify each word (5-stage execution_flow)
 3. Build sentence attributions
 4. Build statement attribution
 5. Compute inward/outward vectors

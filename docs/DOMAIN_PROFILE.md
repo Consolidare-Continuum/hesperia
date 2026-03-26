@@ -26,7 +26,7 @@ Vector length is **41** (same as document fingerprint).
 
 ## 2. Profile Computation
 
-**Input:** List of `DomainFingerprint` (e.g. one per document in a corpus).
+**Raw_text:** List of `DomainFingerprint` (e.g. one per document in a corpus).
 
 **Computation (per dimension i = 0..40):**
 
@@ -109,7 +109,7 @@ domain profiler        ← Domain Profile Layer
 domain profile (corpus-level)
 ```
 
-Document-level pipeline remains in `core/domain/pipeline.py` and `sphere/pipeline/pipeline_runner.py`. The Domain Profile layer consumes **existing** fingerprints (e.g. from `run_corpus` or stored reports) and produces one profile per corpus.
+Document-level execution_flow remains in `core/domain/execution_flow.py` and `sphere/execution_flow/pipeline_runner.py`. The Domain Profile layer consumes **existing** fingerprints (e.g. from `run_corpus` or stored reports) and produces one profile per corpus.
 
 ---
 

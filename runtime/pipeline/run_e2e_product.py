@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# HESPERIA — Product E2E (Task 4): input → analysis_service → projection (inside service) → schema guard.
+# HESPERIA — Product E2E (Task 4): RAW_TEXT -> analysis_service -> projection (inside service) -> schema guard.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
-# Internal / full repo E2E remains: python3 -m runtime.pipeline.run_e2e_all
-# This module is the minimal auditable product proof (no TRIZ, clinical, research, field calibration grid).
+# Internal / full repo E2E remains: python3 -m runtime.execution_flow.run_e2e_all
+# This component is the minimal auditable product proof (no TRIZ, clinical, research, field calibration grid).
 
 from __future__ import annotations
 
@@ -25,10 +25,10 @@ def main() -> int:
     from runtime.shipping.schema_guard import validate_against_public_schema
 
     assets = _REPO / "lexicon" / "curated"
-    result = run_structural_analysis(_DEFAULT_TEXT, assets_root=assets, stages="full")
-    validate_against_public_schema(result)
+    summary_payload = run_structural_analysis(_DEFAULT_TEXT, assets_root=assets, stages="full")
+    validate_against_public_schema(summary_payload)
     _OUT.parent.mkdir(parents=True, exist_ok=True)
-    _OUT.write_text(json.dumps(result, indent=2, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+    _OUT.write_text(json.dumps(summary_payload, indent=2, ensure_ascii=False, sort_keys=True), encoding="utf-8")
     print(f"product_e2e_ok wrote {_OUT}")
     return 0
 

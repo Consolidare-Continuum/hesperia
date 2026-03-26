@@ -28,7 +28,7 @@ For each reported hit (file:line), add one row below with classification and own
 | File | Line | Term | Classification | Notes |
 |------|------|------|----------------|-------|
 | (example) docs/specs/foo.md | 12 | sphere | Move to internal | Relocate spec to docs/internal/ or rename to "structural space" |
-| (example) runtime/pipeline/bar.py | 5 | layer_1 | Rename / suppress | Use public narrative; do not expose layer name in log |
+| (example) runtime/execution_flow/bar.py | 5 | layer_1 | Rename / suppress | Use public narrative; do not expose layer name in log |
 | — | — | — | — | Run scan to populate |
 
 ---

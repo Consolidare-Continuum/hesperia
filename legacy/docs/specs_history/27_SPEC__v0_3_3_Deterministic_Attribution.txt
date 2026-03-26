@@ -8,10 +8,10 @@ Depends on: v0.3.2 implementation (Σ enforced, 6-key contract frozen)
 
 0. PURPOSE
 
-v0.3.3 wires real semantic input into the engine:
+v0.3.3 wires real semantic raw_text into the engine:
 - Deterministic Attribution Layer
 - Region Seed Construction
-- Full Steps 0–2 pipeline compliance
+- Full Steps 0–2 execution_flow compliance
 - Optional Shadow activation in HTTP path (config-controlled)
 No stochastic learning. No probabilistic LLM weighting. Dictionary-based only.
 
@@ -24,7 +24,7 @@ Step 2 — Attribution: Dict A exact → (familyGlobal, altitude); else Dict B �
 Aggregation: dominant family = argmax(hits_F); tie-break lowest meanAltitude then lowest familyGlobal.
 Dominant area = floor(dominant_family / 24).
 Step 3 — Region seed: tau(side) = base_weight * hitDensity_F * (1 - meanAltitude_F) for sides in F.
-Step 4 — Traversal → Guards → (optional shadow) → minimal 6-key result.
+Step 4 — Traversal → Guards → (optional shadow) → minimal 6-key summary.
 
 2. DICTIONARIES
 
@@ -39,7 +39,7 @@ length cap → 413
 no tokens matched (semantic vacuum) → 400
 any metric NaN/Inf → 500
 
-4. NEW METRICS (extended result only, not in minimal contract)
+4. NEW METRICS (extended summary only, not in minimal contract)
 
 total_tokens, matched_tokens, unmatched_tokens, attribution_coverage, meanAltitude_global.
 

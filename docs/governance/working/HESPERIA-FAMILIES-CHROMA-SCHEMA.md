@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia families — Chroma schema (Gena)
 
-**Purpose**: Schema and discovery for the hesperia families table in Chroma. **Layer**: `hesperia_families`. **Main dev**: Gena (books layer + matrix + compressed world view, loopability/traversal preset, variables). **Ref**: [TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md](TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md). **Compressed world view**: [BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md](BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md) — general description of books layer and matrix (12 areas, families preset, hexagons, loopability/traversal, variables; loopability/traversal preset and variables to be programmed by Gena; refs Hesperia docs). **Schema extension §6**: Hex unit, truth unit, traversal length, paths, borders, loops, loopability, output road traversal in coordinates (families, border passings) — defined and calculable per §6; task [TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md](TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md). **Code run (agents context)**: [TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md](TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md) — implement run on matrix returning calculable-for-model results; Gena lead.
+**Purpose**: Schema and discovery for the hesperia families table in Chroma. **Layer**: `hesperia_families`. **Main dev**: Gena (books layer + matrix + compressed world view, loopability/traversal preset, variables). **Ref**: [TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md](TASK-HESPERIA-FAMILIES-CHROMA-ALBINA.md). **Compressed world view**: [BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md](BOOKS-LAYER-AND-MATRIX-COMPRESSED-WORLD-VIEW.md) — general description of books layer and matrix (12 areas, families preset, hexagons, loopability/traversal, variables; loopability/traversal preset and variables to be programmed by Gena; refs Hesperia docs). **Schema extension §6**: Hex unit, truth unit, traversal length, paths, borders, loops, loopability, output road traversal in coordinates (families, border passings) — defined and calculable per §6; task [TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md](TASK-GENA-SCHEMA-HEX-TRAVERSAL-UNITS.md). **Code run (agents input_context)**: [TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md](TASK-TEAM-MATRIX-RUN-AGENTS-CONTEXT.md) — implement run on matrix returning calculable-for-model results; Gena lead.
 
 **Updated**: 2026-02-16
 
@@ -101,7 +101,7 @@ Schema coordinates: **area_id** ∈ [0..11], **global_id** ∈ [1..288] (CSV); s
 
 ### 6.3 Truth unit
 
-- **Definition**: Atomic truth slot = one **side** of a hex. One statement (3–5 sentences) per side; truth weight τ ∈ [0,1]. Identified by (area_id, familyLocal, hexIndex, sideIndex) or by linear **sideId** ∈ [0..431999] per 13_SPEC.
+- **Definition**: Atomic truth slot = one **side** of a hex. One statement (3–5 sentences) per side; truth coefficient τ ∈ [0,1]. Identified by (area_id, familyLocal, hexIndex, sideIndex) or by linear **sideId** ∈ [0..431999] per 13_SPEC.
 - **Derivation**: sideId = ((familyGlobal * HEXES_PER_FAMILY) + hexIndex) * SIDES_PER_HEX + sideIndex; familyGlobal = area_id * FAMILIES_PER_AREA + familyLocal; familyLocal = (global_id − 1) % 24.
 - **Ref**: 20_GEOMETRY §4 (Truth Representation); 13_SPEC §3.
 
@@ -138,7 +138,7 @@ Schema coordinates: **area_id** ∈ [0..11], **global_id** ∈ [1..288] (CSV); s
 
 ### 6.9 Output road traversal in coordinates (families, border passings)
 
-- **Definition**: Result of a traversal expressed as **coordinates** and **border passings** so that scripts can compute and emit the road.
+- **Definition**: Summary of a traversal expressed as **coordinates** and **border passings** so that scripts can compute and emit the road.
 - **Output format**:
   - **road_coordinates**: list of (area_id, global_id) or (area_name, family_name) in visit order — i.e. the sequence of (family, area) positions along the path.
   - **border_passings**: list of border-crossing events:

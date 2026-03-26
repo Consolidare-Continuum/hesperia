@@ -6,7 +6,7 @@
 
 """
 Reading Scale Engine tests.
-Deterministic segmentation R1–R4 and multiscale dossier with global_structure.
+Deterministic segmentation R1–R4 and multiscale dossier with topology_summary.
 """
 
 from __future__ import annotations
@@ -48,12 +48,12 @@ def test_segment_r4_document() -> None:
 
 
 def test_run_multiscale_dossier_shape() -> None:
-    """run_multiscale returns R1, R2, R3, R4 and global_structure."""
+    """run_multiscale returns R1, R2, R3, R4 and topology_summary."""
     text = "Justice. Fairness. Order."
     dossier = run_multiscale(text, assets_root=_REPO / "lexicon" / "curated")
     assert "R1" in dossier and "R2" in dossier and "R3" in dossier and "R4" in dossier
-    assert "global_structure" in dossier
-    g = dossier["global_structure"]
+    assert "topology_summary" in dossier
+    g = dossier["topology_summary"]
     assert "dominant_area_distribution" in g
     assert "stable_family_core" in g
     assert "tension_axes" in g
@@ -71,16 +71,16 @@ def test_run_multiscale_r1_entries_full_pipeline() -> None:
         for layer in ("L1", "L7", "L9"):
             assert layer in entry
         assert "diagnostics" in entry
-        assert "stability" in entry.get("diagnostics", {})
+        assert "consistency_profile" in entry.get("diagnostics", {})
 
 
 def test_document_anomaly_mean_of_stability_scores() -> None:
     """document_anomaly is mean of segment Δ stability layer anomaly_score."""
     text = "A. B. C."
     dossier = run_multiscale(text, assets_root=_REPO / "lexicon" / "curated")
-    g = dossier["global_structure"]
+    g = dossier["topology_summary"]
     scores = [
-        dossier["R1"][i].get("diagnostics", {}).get("stability", {}).get("anomaly_score", 0.0)
+        dossier["R1"][i].get("diagnostics", {}).get("consistency_profile", {}).get("anomaly_score", 0.0)
         for i in range(len(dossier["R1"]))
     ]
     if scores:

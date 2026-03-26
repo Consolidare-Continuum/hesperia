@@ -39,7 +39,7 @@ In the GPT Action: **Import** → paste the JSON.
 - `servers`: `[{ "url": "https://hesperia.prichindel.com" }]`
 - `POST /hesperia/analyze` with:
   - `requestBody`: `application/json` → `{ "text": "string" }`
-  - `responses`: 200 (6-key result), 400, 401, 413, 500 (all with `error`, `message`, `code`)
+  - `responses`: 200 (6-key SUMMARY), 400, 401, 413, 500 (all with `error`, `message`, `code`)
 
 ---
 
@@ -50,8 +50,9 @@ In the GPT Action: **Import** → paste the JSON.
    `POST https://hesperia.prichindel.com/hesperia/analyze`
    Headers: `Authorization: Bearer <your-key>`, `Content-Type: application/json`
    Body: `{"text": "your sentence that might match Dict A/B"}`
+
    - 200 → 6 keys: `dominant_area`, `dominant_family`, `governance`, `loopability`, `tension_energy`, `obstacle_score`
-   - 400 → e.g. "No tokens matched any dictionary" (ask user for different wording)
+   - 400 -> e.g. "No tokens matched any dictionary" (ask user for different wording)
 
 ---
 

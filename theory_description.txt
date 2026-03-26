@@ -7,7 +7,7 @@ we introduce all this to hesperia to make it work eventualy. All terms all metho
 
 You’re describing an architecture where text is converted into structured “maps” (activation or evidence patterns) across a hierarchy: **wording → concepts → families → areas**, with an intermediate **hex substrate** used to stabilize, spread, and shape the signal before it is aggregated upward.
 
-A blunt reality: the hard part is not “families” or “areas.” Those are *designed* (you can specify them). The hard part is *deterministically* converting messy natural language (especially spoken, informal speech) into stable **concept evidence** that is (a) precise enough to be meaningful and (b) consistent enough to be used as input to dynamics instead of as random noise.
+A blunt reality: the hard part is not “families” or “areas.” Those are *designed* (you can specify them). The hard part is *deterministically* converting messy natural language (especially spoken, informal speech) into stable **concept evidence** that is (a) precise enough to be meaningful and (b) consistent enough to be used as raw_text to dynamics instead of as random noise.
 
 Science/technical text often behaves better under dictionary/ontology-driven pipelines because it is more likely to use **domain-stable terminology** and because many domains already have **controlled vocabularies** and hierarchical term systems. In biomedicine, for example, literature is indexed with **MeSH** (a controlled, hierarchical thesaurus), and the same surface string can be systematically mapped (or disambiguated) against curated concept inventories. citeturn15search20turn15search19
 
@@ -15,7 +15,7 @@ Science/technical text often behaves better under dictionary/ontology-driven pip
 
 Determinism here can’t just mean “no ML.” It must mean:
 
-1. **One input → one output** under fixed versioned resources (lexicons, ontologies, rules, and tie-breakers).
+1. **One raw_text → one output** under fixed versioned resources (lexicons, ontologies, rules, and tie-breakers).
 2. **Explainable trace**: for every concept hit, you can show *which span matched which rule* and *why one sense won over alternatives*.
 3. **Regression-testable behavior**: new dictionary entries shouldn’t silently change prior classifications unless intended (this is how LIWC-style systems remain operationally useful across versions). citeturn14view0turn13search6
 
@@ -39,7 +39,7 @@ That structure is exactly what you need if your “families” and “areas” a
 
 ### Deterministic candidate generation: don’t start with single words
 
-Single-word mapping is where ambiguity lives. Your deterministic pipeline should be **phrase-first, then word fallback**:
+Single-word mapping is where ambiguity lives. Your deterministic execution_flow should be **phrase-first, then word fallback**:
 
 - Identify candidate spans (n-grams, noun phrases, key patterns).
 - Prefer the **longest match** in your lexicon (“structural interview” should beat “structural” + “interview”).
@@ -49,7 +49,7 @@ This is not optional: multiword expressions are known to be a core pain point in
 
 ### Deterministic normalization layer: make surface forms boring
 
-Before any concept lookup, apply a strictly deterministic normalization pipeline:
+Before any concept lookup, apply a strictly deterministic normalization execution_flow:
 
 - Unicode normalization, case-folding, punctuation policy (define it; don’t wing it).
 - Tokenization plus a **conservative** contraction policy for speech (“I’m” → “I” + “am”).
@@ -87,7 +87,7 @@ In technical domains, robust matching is often built by combining:
 - shallow parsing / noun phrase extraction,
 - then flexible string matching against a controlled concept inventory.
 
-A concrete example: processing MEDLINE at scale by extracting noun phrases and matching them to **UMLS Metathesaurus** names using flexible matching techniques. citeturn15search19  
+A concrete example: compute MEDLINE at scale by extracting noun phrases and matching them to **UMLS Metathesaurus** names using flexible matching techniques. citeturn15search19  
 Even when coverage isn’t complete, the method is systematic: you can see which strings matched which concepts, and which did not (exactly what a deterministic audit trail needs). citeturn15search19turn15search20
 
 For your use case (random speech), you essentially have to build an equivalent “controlled vocabulary + matching + disambiguation” layer—but tuned to **colloquial paraphrase**, **disfluency**, and **metaphor**.
@@ -123,16 +123,16 @@ Family should be a projection of concept evidence, not a replacement for concept
 ## The 72k hex layer: what it is good for in a Hesperia-style system
 
 A hex substrate is not decoration. It can be the difference between:
-- a brittle “bag of words → category counts” pipeline, and
+- a brittle “bag of words → category counts” execution_flow, and
 - a stable multiscale semantic field that supports smoothing, locality, and trajectories.
 
 Because your question explicitly calls out “72k cells,” the practical question is: what do you *buy* with that resolution?
 
 ### Why hex grids are used at all
 
-Hex grids are popular for analysis because neighbor relationships are uniform: each hex has a single “type” of adjacency and equal neighbor distance, simplifying smoothing and gradient-style operations compared to square grids (which have edge-neighbors and corner-neighbors at different distances). citeturn8search2turn8search10  
+Hex grids are popular for measurement because neighbor relationships are uniform: each hex has a single “type” of adjacency and equal neighbor distance, simplifying smoothing and gradient-style operations compared to square grids (which have edge-neighbors and corner-neighbors at different distances). citeturn8search2turn8search10  
 
-This is a core design motivation behind **H3**, a hexagonal hierarchical indexing system built at entity["company","Uber","rideshare company"]: it explicitly highlights hexagon neighbor uniformity and the benefits for analysis/smoothing over gradients. citeturn8search2turn8search13
+This is a core design motivation behind **H3**, a hexagonal hierarchical indexing system built at entity["company","Uber","rideshare company"]: it explicitly highlights hexagon neighbor uniformity and the benefits for measurement/smoothing over gradients. citeturn8search2turn8search13
 
 image_group{"layout":"carousel","aspect_ratio":"16:9","query":["hexagonal grid adjacency neighbors diagram","Uber H3 hexagonal hierarchical spatial index grid","hex grid diffusion smoothing visualization"],"num_per_query":1}
 
@@ -235,7 +235,7 @@ Yes. This should be introduced into HESPERIA as a formal subsystem, not as loose
 Call it what it is:
 
 Deterministic Lexical-Concept Resolution Layer
-sitting between raw text input and HESPERIA structural activation.
+sitting between raw text raw_text and HESPERIA structural activation.
 
 The correct chain is:
 
@@ -278,7 +278,7 @@ lemmatization/stemming
 
 abbreviation expansion
 
-transcription normalization for speech-like input
+transcription normalization for speech-like raw_text
 
 phrase boundary rules
 
@@ -513,7 +513,7 @@ Those are the usual shortcuts that rot systems.
 HESPERIA-native formalization
 I would define this as a new internal stack:
 
-Layer L0 — Input Normalization
+Layer L0 — Raw_text Normalization
 Raw text to canonical tokens/spans.
 
 Layer L1 — Lexical Evidence
@@ -534,7 +534,7 @@ Hex to Family, Family to Area, plus cross-family relation summaries.
 Layer L6 — Interpretation
 Classification, profile shape, test outputs, reports, comparative runs.
 
-That is a proper HESPERIA pipeline.
+That is a proper HESPERIA execution_flow.
 
 What to build first
 Do not try to solve all NLP at once. That is the classic way to wreck a good structure.
@@ -587,7 +587,7 @@ Phase 4 — Add trajectory features
 Segment text by sentence or turn.
 Measure movement across hex zones.
 
-That is where speech analysis starts becoming meaningfully structural.
+That is where speech measurement starts becoming meaningfully structural.
 
 Phase 5 — Scale to full substrate
 Only after local proofs hold.

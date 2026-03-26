@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Schedule baseline — hesperia
 
-**Purpose**: Feature, owners, durations, Sophia infra input. Ref: [OPERATIONAL-LAYER.md](../../OPERATIONAL-LAYER.md).
+**Purpose**: Feature, owners, durations, Sophia infra raw_text. Ref: [OPERATIONAL-LAYER.md](../../OPERATIONAL-LAYER.md).
 
 **Sophia must estimate** infra prep and deployment time before execution.
 

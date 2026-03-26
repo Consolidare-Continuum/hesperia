@@ -21,25 +21,25 @@ The current repository provides:
 |------------|----------------|
 | **Semantic parsing** | `hesperia/nlp`, `lexicon`, Dict A/B |
 | **Structured knowledge graph** | `hesperia/graph`, KME `ActiveGraph`, Dict-B relations |
-| **Topology-based propagation** | `sphere/topology`, `sphere/propagation`, L1–L9 pipeline |
+| **Topology-based propagation** | `sphere/topology`, `sphere/propagation`, L1–L9 execution_flow |
 | **Domain metrics** | `hesperia/engine/kme`, structural bridge → fingerprint |
-| **Contradiction analysis** | `hesperia/extensions/triz` |
+| **Contradiction measurement** | `hesperia/extensions/triz` |
 | **Clinical ontology projection** | `hesperia/clinical`, session topology |
 | **Product-ready analytics** | `hesperia/product`, `runtime/api`, reports |
 
-**Next depth:** this document is the **structural dependency map** (~core modules). For a finer import-level graph, generate from static analysis (e.g. `pydeps`, `importlab`) on `hesperia/`, `sphere/`, `runtime/`.
+**Next depth:** this document is the **structural dependency map** (~core modules). For a finer import-level graph, generate from static measurement (e.g. `pydeps`, `importlab`) on `hesperia/`, `sphere/`, `runtime/`.
 
-### Dynamics pipeline vs dependency layers (crosswalk)
+### Dynamics execution_flow vs dependency layers (crosswalk)
 
-**Two views:** Layers **0–11** here are **code / change-impact**. **[Ethan spec](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) Part A L0–L10** is the **temporal** discrete-time field pipeline. Approximate mapping:
+**Two views:** Layers **0–11** here are **code / change-impact**. **[Ethan spec](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) Part A L0–L10** is the **temporal** discrete-time field execution_flow. Approximate mapping:
 
 | L (Ethan) | Dependency-layer focus |
 |-----------|-------------------------|
-| L0 | Input text, session envelope |
+| L0 | Raw_text text, session envelope |
 | L1–L2 | NLP, lexicon (Dict A/B) |
 | L3 | Activation & weights |
 | L4 | Matrix / family–area, graph construction |
-| L5 | Sphere topology & propagation (L1–L9 numeric pipeline) |
+| L5 | Sphere topology & propagation (L1–L9 numeric execution_flow) |
 | L6 | KME / fingerprint |
 | L7 | TRIZ |
 | L8 | Domain projections (e.g. clinical) |
@@ -102,7 +102,7 @@ Failures **downstream** of a broken layer are unreliable until that layer is fix
 |---------|-----------------------------------------------------|
 | **Role** | Dict A, Dict B, `ontology_registry.yaml` — marker → concept → coordinate rules |
 | **Depends on** | `core`, layer-1 data/spec |
-| **Feeds** | NLP, activation, pipeline matching |
+| **Feeds** | NLP, activation, execution_flow matching |
 | **Status** | **TUNABLE** — most lexical calibration happens here |
 
 ---
@@ -126,7 +126,7 @@ There is **no** separate `hesperia/engine/activation` or `hesperia/engine/relati
 |---------|--------------|
 | Session activation | `hesperia/nlp/session_parser.py`, related NLP modules |
 | Hits / relations for KME | `hesperia/engine/kme/clinical_bridge.py` (`activation_to_hits_and_relations`, `build_clinical_active_graph`) |
-| Lexicon-side matching | `runtime.pipeline.analyze`, sphere pipeline matched tokens |
+| Lexicon-side matching | `runtime.execution_flow.analyze`, sphere execution_flow matched tokens |
 
 **Depends on:** NLP, Dict B, ontology. **Feeds:** semantic graph, KME `ActiveGraph`, TRIZ inputs. **Status:** **TUNABLE**.
 
@@ -148,25 +148,25 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 |---------|-------------------|
 | **Role** | Graph store, nodes, relations, traversal |
 | **Depends on** | activation path, placement |
-| **Feeds** | sphere pipeline inputs, KME domain graph loaders |
+| **Feeds** | sphere execution_flow inputs, KME domain graph loaders |
 | **Status** | **MOSTLY STABLE** — tuning usually in relations/ontology, not store shape |
 
 ---
 
 ### Layer 7 — Sphere topology
 
-| Modules | `sphere/topology/` (incl. embedding loaders), `sphere/propagation/`, `sphere/metrics/`, `sphere/pipeline/` |
+| Modules | `sphere/topology/` (incl. embedding loaders), `sphere/propagation/`, `sphere/metrics/`, `sphere/execution_flow/` |
 |---------|-------------------------------------------------------------------------------------------------------------|
 | **Role** | Adjacency, propagation, L1–L9 metrics, distance-style behavior |
-| **Depends on** | topology data, attributed input from graph/lexicon path |
-| **Feeds** | pipeline diagnostics, USF, domain_metrics bridge |
+| **Depends on** | topology data, attributed raw_text from graph/lexicon path |
+| **Feeds** | execution_flow diagnostics, USF, domain_metrics bridge |
 | **Status** | **FROZEN** for geometry — breaks calibration if changed casually |
 
 ---
 
 ### Layer 8 — KME metrics engine
 
-| Modules | `hesperia/engine/kme/` (`active_graph`, `primitives`, `derived`, `fingerprint`, `pipeline`, `clinical_bridge`) |
+| Modules | `hesperia/engine/kme/` (`active_graph`, `primitives`, `derived`, `fingerprint`, `execution_flow`, `clinical_bridge`) |
 |---------|---------------------------------------------------------------------------------------------------------------|
 | **Depends on** | `ActiveGraph` / domain graph, constants; TRIZ reads same graph + topology hints |
 | **Feeds** | reports, TRIZ, `domain_metrics` E2E artifact, session KME artifact |
@@ -180,7 +180,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 |---------|-------------------------|
 | **Role** | Contradictions, propagation narrative, innovation signals |
 | **Depends on** | KME-style graph, topology maps from activation trace / coordinates |
-| **Feeds** | API `/analysis/triz`, product packagers |
+| **Feeds** | API `/measurement/triz`, product packagers |
 | **Status** | **EVOLVING** — thresholds and report shape may change |
 
 ---
@@ -198,7 +198,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 
 ### Layer 11 — Runtime orchestrator
 
-| Modules | `runtime/pipeline/`, `runtime/services/`, `runtime/artifact_writer/`, `runtime/api/` |
+| Modules | `runtime/execution_flow/`, `runtime/services/`, `runtime/artifact_writer/`, `runtime/api/` |
 |---------|--------------------------------------------------------------------------------------|
 | **Role** | Run pipelines, write artifacts, HTTP API, dossier/shipping |
 | **Depends on** | all engine layers above |
@@ -224,7 +224,7 @@ Concept placement in **area × family × hex** space (matrix-style **M[area][fam
 
 ---
 
-## 16. Module dependency graph (condensed)
+## 16. Component dependency graph (condensed)
 
 ```text
 core
@@ -234,11 +234,11 @@ core
   → activation / hits / relations (clinical_bridge + session parse)
   → alignment / placement (ontology + topology)
   → semantic graph (graph store + KME graph)
-  → sphere topology & pipeline
+  → sphere topology & execution_flow
   → KME metrics
   → TRIZ reasoning
   → domain projection (clinical)
-  → runtime pipeline / API
+  → runtime execution_flow / API
   → artifacts
 ```
 

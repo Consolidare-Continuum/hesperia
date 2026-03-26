@@ -6,16 +6,16 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 # Task: Grace + team — implement Ethan dynamics spec (L0–L10, phased)
 
 **Added:** 2026-03-18 · **Status:** OPEN — **first tranche RECEIVED by Grace (2026-03-18)** — see §Grace receipt below. Further scope: full-graph Ξ, L10 public slice, true hex closure \(Z_{ih}\).  
-**Purpose:** Coordinate a **single implementation program** aligned with **[ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md)** (v3, “today’s” canonical target): stateful discrete-time dynamics **on top of** the existing measurement pipeline — **without** replacing L1–L9 propagation or KME/TRIZ.
+**Purpose:** Coordinate a **single implementation program** aligned with **[ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md)** (v3, “today’s” canonical target): stateful discrete-time dynamics **on top of** the existing measurement execution_flow — **without** replacing L1–L9 propagation or KME/TRIZ.
 
 **Owners**
 
 | Role | Responsibility |
 |------|----------------|
-| **Grace** | Sprint boundaries, acceptance criteria per phase, triage vs [GRACE_TRIAGE_REPORT.md](../triage/GRACE_TRIAGE_REPORT.md), unblock cross-module deps |
+| **Grace** | Sprint boundaries, acceptance criteria per phase, triage vs [GRACE_TRIAGE_REPORT.md](../triage/GRACE_TRIAGE_REPORT.md), unblock cross-component deps |
 | **Ethan (spec)** | Clarifications on H0–H9 vs extended IDs, L-layer ordering, public projection (L10) |
 | **Implementation** | Code + tests + deterministic replay |
-| **Calibration steward** | Class B parameter registry seeding per [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md); path: `assets/calibration/dynamics_parameter_registry.yaml` (when live) |
+| **Calibration steward** | Class B config_param registry seeding per [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md); path: `assets/calibration/dynamics_parameter_registry.yaml` (when live) |
 
 **Hard rules (non-negotiable)**
 
@@ -37,7 +37,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 | 2026-03-18 | **Phase 3** — L4 family-proxy hex, **`PHASE3`**. |
 | 2026-03-18 | **Phase 4** — L8 clusters, gravity coupling, fronts, **`PHASE4`**. **A.6 stack complete.** |
 | 2026-03-18 | **Ξ proxy** — `xi_proxy.py` + E2E bridge; **`HESPERIA_FIELD_DYNAMICS_XI`** / **`XI_SCALE`**; [REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md](REPORT-ETHAN-DYNAMICS-IMPLEMENTATION.md). |
-| 2026-03-18 | **Gena:** integration analysis — [GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](GENA-DYNAMICS-INTEGRATION-ANALYSIS.md); proceed log updated. |
+| 2026-03-18 | **Gena:** integration measurement — [GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](GENA-DYNAMICS-INTEGRATION-ANALYSIS.md); proceed log updated. |
 
 ---
 
@@ -62,21 +62,21 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 |---|-------------|-------|
 | 0.1 | Read **Ethan v3** Part A + Part B §9–§13 | All |
 | 0.2 | **[DYNAMICS_EQUATION_INDEX.md](../DYNAMICS_EQUATION_INDEX.md)** — maintained alongside code (update if equations move) | Ethan + impl lead |
-| 0.3 | Module home agreed: e.g. `hesperia/extensions/dynamics/` (or `core/` subpackage) — **new**, no legacy edits | Grace + impl |
+| 0.3 | Component home agreed: e.g. `hesperia/extensions/dynamics/` (or `core/` subpackage) — **new**, no legacy edits | Grace + impl |
 | 0.4 | Stub **registry** path documented; expand from [dynamics_parameter_registry.example.yaml](../calibration/dynamics_parameter_registry.example.yaml) as phases land | Calibration steward |
 
 ---
 
 ## Phase 1 — Minimal closed loop (Ethan §A.6 Phase 1)
 
-**Wire:** L0 (time / batch) + **L2** concept state + **L6** area state + **L7** area contradiction \(p_a\) + **L9** guards/stability.
+**Wire:** L0 (time / batch) + **L2** concept state + **L6** area state + **L7** area contradiction \(p_a\) + **L9** guards/consistency.
 
 **Implementation goals**
 
 - **State container:** versioned struct (e.g. `FieldDynamicsState`: `t`, `c_i` or summary, `a_a`, `p_a`, optional Stab).  
 - **Step API:** `step(state, pipeline_snapshot_or_injection, theta) -> state'` where injection can be **current run activations** mapped to concepts/areas.  
 - **Integration point:** After a normal Hesperia run, **one** dynamics update; persist state only where product requires (file/DB optional in Phase 1 — in-memory + JSON fixture tests sufficient).  
-- **L9:** boundedness, no NaN, stability metric (compact **H9**-style delta on `a_a`).  
+- **L9:** boundedness, no NaN, consistency metric (compact **H9**-style delta on `a_a`).  
 - **Tests:** golden vectors: 2–3 timesteps, fixed Θ, bit-identical state serialization.
 
 **Grace acceptance:** Phase 1 merged only if tests pass and **no** change to default E2E behavior unless `HESPERIA_FIELD_DYNAMICS=1` (or equivalent flag) is documented.
@@ -126,7 +126,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 
 ## Deliverables summary
 
-1. **Phase 1** — state + step + L2/L6/L7/L9 + tests + feature flag.  
+1. **Phase 1** — state + step + L2/L6/L7/L9 + tests + metric flag.  
 2. **Phase 2** — family dynamics + tests.  
 3. **Phase 3** — active-hex L4 + tests + perf cap.  
 4. **Phase 4** — L8 cluster metrics + tests.  
@@ -142,7 +142,7 @@ Grace-led team task — implement Ethan semantic field dynamics spec (current).
 | [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) | Source of truth |
 | [DYNAMICS_EQUATION_INDEX.md](../DYNAMICS_EQUATION_INDEX.md) | H0–H9 ↔ extended ↔ phases |
 | [HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md](../HESPERIA_DYNAMICS_CALIBRATION_SPEC_v0_1.md) | Class A/B/C, scenarios |
-| [HESPERIA_DEPENDENCY_GRAPH.md](../../HESPERIA_DEPENDENCY_GRAPH.md) | Where static pipeline lives |
+| [HESPERIA_DEPENDENCY_GRAPH.md](../../HESPERIA_DEPENDENCY_GRAPH.md) | Where static execution_flow lives |
 | [GRACE_TRIAGE_REPORT.md](../triage/GRACE_TRIAGE_REPORT.md) | Prior triage decisions |
 | [TRIAGE_TASK_GRACE.md](../TRIAGE_TASK_GRACE.md) | Corpus scope |
 

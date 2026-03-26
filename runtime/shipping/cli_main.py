@@ -31,13 +31,13 @@ def _cmd_analyze(args: object) -> int:
 
     from runtime.services.analysis_service import run_structural_analysis
 
-    result = run_structural_analysis(text, assets_root=assets_path, stages="full")
+    summary_payload = run_structural_analysis(text, assets_root=assets_path, stages="full")
     from runtime.shipping.schema_guard import validate_against_public_schema
-    validate_against_public_schema(result)
-    out = json.dumps(result, indent=2, ensure_ascii=False, sort_keys=True)
+    validate_against_public_schema(summary_payload)
+    out = json.dumps(summary_payload, indent=2, ensure_ascii=False, sort_keys=True)
     if out_path:
         from runtime.artifact_writer import write_public_json
-        write_public_json(Path(out_path), result)
+        write_public_json(Path(out_path), summary_payload)
     print(out)
     return 0
 
@@ -63,6 +63,8 @@ def _cmd_compare(args: object) -> int:
         "run": "compare",
         "text1_preview": text1[:80],
         "text2_preview": text2[:80],
+        "summary1_trust": d1.get("OUTPUT_TRUST_TAG"),
+        "summary2_trust": d2.get("OUTPUT_TRUST_TAG"),
         "result1_trust": d1.get("OUTPUT_TRUST_TAG"),
         "result2_trust": d2.get("OUTPUT_TRUST_TAG"),
         "dominant_match": _same_dominant(dom1, dom2),
@@ -75,6 +77,8 @@ def _cmd_compare(args: object) -> int:
         comparison,
         calibration_profile=default_calibration_profile(),
         pipeline_version=api_pipeline_version(),
+        execution_flow_version=api_pipeline_version(),
+        orchestration_mode="CLI_SYNC",
     )
     validate_against_public_schema(wrapped)
     out = json.dumps(wrapped, indent=2, ensure_ascii=False, sort_keys=True)
@@ -149,7 +153,7 @@ def _cmd_batch_analyze(args: object) -> int:
         session_ids = None
 
     if not texts:
-        print("No input texts. Use --input path.json or --texts '...' '...'", file=sys.stderr)
+        print("No raw_text entries. Use --input path.json or --texts '...' '...'", file=sys.stderr)
         return 1
 
     from runtime.services.analysis_service import run_structural_analysis_batch
@@ -165,6 +169,8 @@ def _cmd_batch_analyze(args: object) -> int:
         {},
         calibration_profile=default_calibration_profile(),
         pipeline_version=api_pipeline_version(),
+        execution_flow_version=api_pipeline_version(),
+        orchestration_mode="CLI_BATCH",
     )
     wrapped["payload"] = results
     validate_against_public_schema(wrapped)
@@ -225,7 +231,7 @@ def main() -> int:
             print(f"build: {BUILD or 'unknown'}")
         except Exception:
             print("HESPERIA Runtime")
-            print("version: 0.5.1")
+            print("version: 0.5.2")
             print("commit: unknown")
             print("build: unknown")
         return 0

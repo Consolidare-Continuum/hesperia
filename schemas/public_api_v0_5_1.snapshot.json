@@ -11,7 +11,18 @@
     "build_id": { "type": "string" },
     "schema_version": { "type": "string", "description": "Public output schema id (e.g. v1) from VERSION.yaml." },
     "calibration_profile": { "type": "string" },
-    "pipeline_version": { "type": "string" },
+    "execution_flow_version": {
+      "type": "string",
+      "description": "Canonical execution flow build/version id."
+    },
+    "pipeline_version": {
+      "type": "string",
+      "description": "Legacy compatibility mirror of execution_flow_version."
+    },
+    "orchestration_mode": {
+      "type": "string",
+      "description": "Flow trigger mode (e.g. API_SYNC, CLI_SYNC, BATCH_SYNC)."
+    },
     "run_id": { "type": "string" },
     "modules_used": { "type": "array", "items": { "type": "string" } },
     "payload": { "description": "List or object roots wrapped for tracing." },

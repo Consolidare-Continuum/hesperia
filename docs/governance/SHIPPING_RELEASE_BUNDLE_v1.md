@@ -13,7 +13,7 @@ The release bundle must include:
 |------|-------------|
 | **Binary** | `hesperia-cli.bin` (onefile) or `hesperia-cli/` (standalone). |
 | **Container** | `hesperia-api-image.tar` or pull instructions for the API image. |
-| **Examples** | Sample input/output (e.g. examples/analyze_output.json, examples/compare_output.json). |
+| **Examples** | Sample raw_text/output (e.g. examples/analyze_output.json, examples/compare_output.json). |
 | **Public schema** | assets/public/public_output_schema.json (or copy into bundle). |
 | **Quickstart** | One-page quickstart (CLI + API commands, env vars, limitations). |
 | **Limitations** | Clear statement: no internal endpoints, projected outputs only, rate limits. |

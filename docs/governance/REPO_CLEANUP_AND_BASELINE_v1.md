@@ -256,7 +256,7 @@ pip install nuitka
 
 Then the bundle contains: `hesperia-cli.bin`, `hesperia-api-image.tar`, `manifest.json`, `checksums.txt`, `schema_sha256.txt`.
 
-**Current baseline:** `v0.4.1_clean` — structure normalized, legacy removed, sealed runtime validated, deterministic pipeline and backup strategy in place.
+**Current baseline:** `v0.4.1_clean` — structure normalized, legacy removed, sealed runtime validated, deterministic execution_flow and backup strategy in place.
 
 ---
 

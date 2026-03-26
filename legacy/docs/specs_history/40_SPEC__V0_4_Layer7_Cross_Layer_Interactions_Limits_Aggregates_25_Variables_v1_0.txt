@@ -87,7 +87,7 @@ B. Cross-layer limitation variables (11–18)
 
 11. TRUST_TIER
     int TRUST_TIER = (!CONSIST_COVERAGE_MIN_GATE) ? 0 : (!CONSIST_EVIDENCE_INTEGRITY_HARD) ? 1 : (!L5.REALITY_GATE_TRIG) ? 2 : 3;
-    0 = weak input, 1 = evidence corrupted, 2 = math sanity failed, 3 = full trust.
+    0 = weak raw_text, 1 = evidence corrupted, 2 = math sanity failed, 3 = full trust.
 
 12. MAX_ALLOWABLE_SHADOW_DEVIATION
     double MAX_ALLOWABLE_SHADOW_DEVIATION = SHADOW_MAX_DEVIATION;
@@ -147,7 +147,7 @@ D. Aggregated "one number" outputs (23–25)
 
 24. DECISION_STATUS_CODE
     int DECISION_STATUS_CODE =
-        (!CONSIST_COVERAGE_MIN_GATE) ? 10 :           // insufficient input coverage
+        (!CONSIST_COVERAGE_MIN_GATE) ? 10 :           // insufficient raw_text coverage
         (!CONSIST_EVIDENCE_INTEGRITY_HARD) ? 20 :     // evidence corrupted/missing
         (!AREA_LEAKAGE_WITHIN_LIMITS) ? 30 :          // traversal leakage too high
         (!SHADOW_WITHIN_LIMITS) ? 40 :                // shadow out of bounds

@@ -19,7 +19,7 @@ Forbidden default shortcut:
 
 ## Core invariants
 
-1. Same input + same resources => same output.
+1. Same raw_text + same resources => same output.
 2. Phrase-first matching, then token fallback.
 3. Resolver decisions are auditable per span.
 4. Concept IDs activate hex first; family/area are projections.
@@ -27,7 +27,7 @@ Forbidden default shortcut:
 
 ## Layer stack (normative)
 
-- L0 Input Normalization
+- L0 Raw_text Normalization
 - L1 Lexical Evidence (Dict A)
 - L2 Concept Resolution (Dict B + tie-breaks)
 - L3 Hex Projection

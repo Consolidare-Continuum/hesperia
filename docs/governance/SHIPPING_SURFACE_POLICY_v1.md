@@ -11,16 +11,16 @@ The shipped runtime exposes **exactly four** public commands. No other entry poi
 
 | Command | Purpose | Allowed behavior |
 |---------|---------|------------------|
-| **analyze** | Single-text structural analysis | Ingest one text; run structural analysis via service façade; return projected output only (macro-domain vector, policy family counts, evidence summary, trust/confidence). No layer views, no raw traces. |
-| **compare** | Two-text comparison | Ingest two texts; run structural analysis on each via service; return projected comparison (divergence, similarity, difference profile). No internal coordinates or layer dumps. |
-| **batch-analyze** | Batch structural analysis | Ingest a list of texts; run structural analysis per item via service; return list of projected outputs. No intermediate layer state. |
-| **serve** | API server | Expose HTTP (or defined protocol) API that accepts text(s), calibration profile id, and report profile; returns projected analysis or comparison results only. No debug endpoints, no layer views, no raw traces. |
+| **analyze** | Single-text structural measurement | Ingest one text; run structural measurement via service façade; return projected output only (macro-domain vector, policy family counts, evidence summary, trust/confidence). No layer views, no raw traces. |
+| **compare** | Two-text comparison | Ingest two texts; run structural measurement on each via service; return projected comparison (divergence, similarity, difference profile). No internal coordinates or layer dumps. |
+| **batch-analyze** | Batch structural measurement | Ingest a list of texts; run structural measurement per item via service; return list of projected outputs. No intermediate layer state. |
+| **serve** | API server | Expose HTTP (or defined protocol) API that accepts text(s), calibration profile id, and report profile; returns projected measurement or comparison results only. No debug endpoints, no layer views, no raw traces. |
 
 ---
 
 ## 2. What the shipped runtime may do
 
-- **Accept input:** Text (or corpus slice), calibration profile id, report profile id, domain/use-case preset.
+- **Accept raw_text:** Text (or corpus slice), calibration profile id, report profile id, domain/use-case preset.
 - **Call sealed core:** Only via `core.services` (e.g. `run_structural_analysis`, `run_structural_analysis_batch`). No direct orchestration of internal layers.
 - **Emit output:** Only projected, public-safe artifacts (per PUBLIC_OUTPUT_POLICY, public_output_schema). Evidence as matched span and concept label; no side_id, no topology, no internal coordinates.
 - **Write artifacts:** Only via central artifact writer; public writes only; projection applied before any write.

@@ -6,7 +6,7 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# Hesperia — generalized context: narrative of 2026-02-17 tasks
+# Hesperia — generalized input_context: narrative of 2026-02-17 tasks
 
 **Purpose**: Wrap-up narrative for today’s Hesperia work in the cursor repo. Single read for future sessions: what was done, in what order, and how it fits together. **Produced**: Grace. **Date**: 2026-02-17.
 
@@ -16,15 +16,15 @@ See LEGAL_NOTICE.md for full terms.
 
 Hesperia is the prichindel.com semantic-substrate product (sphere, families, specs in CLIENTS/hesperia). In the **cursor repo** we do not build the product semantic layer; we use Hesperia **data and geometry** to serve **agents** (Albina, Cursor): a matrix of 12 areas × 24 families, ring traversal, and calculable outputs. That distinction — product vs cursor-repo agents use — was already in SCOPE-AND-SYNC and was reinforced today.
 
-Before today: families schema and ingest path existed; Gena had delivered schema §6 (hex unit, truth unit, paths, borders, loopability ref), matrix_run.py, and the compressed world-view description. Abelard had run the families ingest (288 rows, layer=hesperia_families). The next step was to **wire** that table into the agents’ context and then extend the tooling around runs and paths.
+Before today: families schema and ingest path existed; Gena had delivered schema §6 (hex unit, truth unit, paths, borders, loopability ref), matrix_run.py, and the compressed world-view description. Abelard had run the families ingest (288 rows, layer=hesperia_families). The next step was to **wire** that table into the agents’ input_context and then extend the tooling around runs and paths.
 
 ---
 
 ## 2. Wire: matrix as pylon for Albina and FPF
 
-The hesperia families table in Chroma (layer=hesperia_families) was live but not yet part of Albina’s construction. The task was to add it as an **additional pylon** alongside FPF and books so Albina can combine family→concept→books with first-principles context.
+The hesperia families table in Chroma (layer=hesperia_families) was live but not yet part of Albina’s construction. The task was to add it as an **additional pylon** alongside FPF and books so Albina can combine family→concept→books with first-principles input_context.
 
-**Done (Cursor)**: Policy and wiring updated so that Albina (and query_knowledge when used as Albina) explicitly include **hesperia_families**: in CHROMA-USAGE-POLICY (layer list and §2.2), in CHROMA-BOOKS-LIST-AND-WIRING (Albina = fpf + books + books_general + hesperia_families), and in cluster/ALBINA.md (FPF exception). No code change — wiring is in the “upstairs” context: when to query which layers. The matrix is now a first-class pylon for Albina next to FPF and books.
+**Done (Cursor)**: Policy and wiring updated so that Albina (and query_knowledge when used as Albina) explicitly include **hesperia_families**: in CHROMA-USAGE-POLICY (layer list and §2.2), in CHROMA-BOOKS-LIST-AND-WIRING (Albina = fpf + books + books_general + hesperia_families), and in cluster/ALBINA.md (FPF exception). No code change — wiring is in the “upstairs” input_context: when to query which layers. The matrix is now a first-class pylon for Albina next to FPF and books.
 
 ---
 
@@ -36,7 +36,7 @@ We introduced a **virtual running body** “apple hesperides” (apple): it has 
 
 ---
 
-## 4. Multiple loop runs: harness, self-analysis, informatics plan, boundaries
+## 4. Multiple loop runs: harness, self-measurement, informatics plan, boundaries
 
 The next block was to run the matrix **in a loop** (vary start, direction, steps), capture outputs, and then use that to (a) analyse **traversal deviations** by run, (b) document how **informatics logic** integrates with matrix and traversal, and (c) **co-create boundaries** (what is fixed, variable, in scope, out of scope).
 
@@ -44,17 +44,17 @@ The next block was to run the matrix **in a loop** (vary start, direction, steps
 
 - **Harness**: `multi_loop_runs_harness.py` runs matrix_run for all 12 start areas × 2 directions × 12 steps (one full ring each). **24 runs** were produced and stored in `cluster/chroma-server/multi_loop_runs/` with an index. So we have a small dataset of ring traversals.
 
-- **Self-analysis**: A short report defines “deviation” (path difference when run parameters differ), states that paths are deterministic for the same (start, direction, steps), and that cross-run differences are **parameter-driven** — no inconsistency with schema or 40_POLICY. Metrics (traversal length, border counts) are summarized. That gives a clear baseline: fixed geometry, variable params, expected variation.
+- **Self-measurement**: A short report defines “deviation” (path difference when run parameters differ), states that paths are deterministic for the same (start, direction, steps), and that cross-run differences are **config_param-driven** — no inconsistency with schema or 40_POLICY. Metrics (traversal length, border counts) are summarized. That gives a clear baseline: fixed geometry, variable params, expected variation.
 
 - **Informatics logic integration plan**: A governance doc describes how the informatics/logic layer (data structures, 14_SPEC TraversalService, 40_POLICY) plugs into the matrix and traversal: inputs (matrix CSV/Chroma, path params), outputs (road_coordinates, border_passings, etc.), alignment with schema §6, and agents’ use (matrix_run, Chroma, apple scripts). Cursor-repo is framed as a **subset** of the spec that agents can call today; full TraversalService (region, activation) stays for when data and scope allow.
 
-- **Boundaries**: A second doc co-creates **boundaries** from the self-analysis and the informatics plan: **fixed** = geometry and §6 formulas; **variable** = run params, matrix source, activation when present; **interfaces** = matrix/traversal read-only for agents, path store separate; **out of scope** = product semantic layer, full TraversalService/region/activation until Phase D or data un-pause.
+- **Boundaries**: A second doc co-creates **boundaries** from the self-measurement and the informatics plan: **fixed** = geometry and §6 formulas; **variable** = run params, matrix source, activation when present; **interfaces** = matrix/traversal read-only for agents, path store separate; **out of scope** = product semantic layer, full TraversalService/region/activation until Phase D or data un-pause.
 
 So in one day we went from “matrix in Chroma but not wired for Albina” to: matrix as pylon, apple path tooling, and a loop-run dataset plus explicit deviation logic, informatics integration, and boundaries. That gives future work a clear frame: what is stable, what is allowed to vary, and where the cursor-repo line is.
 
 ---
 
-## 5. Generalized context (for future use)
+## 5. Generalized input_context (for future use)
 
 - **Matrix in cursor repo**: Single canonical matrix (CSV + Chroma layer=hesperia_families). Used for **agents only** (Albina, Cursor, matrix_run, apple). Product semantic layer is not in scope.
 - **Path and run**: One run = (start, direction, steps) → one path (road_coordinates, border_passings). Paths can be stored (apple_paths, multi_loop_runs) and analysed (involvements, deviations). Apple is the virtual body whose path we imprint and describe.
@@ -63,6 +63,6 @@ So in one day we went from “matrix in Chroma but not wired for Albina” to: m
 
 ---
 
-**Compliance**: Today’s deliverables are agent-facing (rules/docs for Abelard, Gena, Cursor). No team operational files (OPERATIONAL-LAYER, ROLE-RESOLUTIONS, entity folders) edited by assistants. Handoff artifacts signed per ARTIFACT-SIGNATURE-POLICY. Tone: imperative; did/asked/result.
+**Compliance**: Today’s deliverables are agent-facing (rules/docs for Abelard, Gena, Cursor). No team operational files (OPERATIONAL-LAYER, ROLE-RESOLUTIONS, entity folders) edited by assistants. Handoff artifacts signed per ARTIFACT-SIGNATURE-POLICY. Tone: imperative; did/asked/summary.
 
 **SIGNED: Product/Triage (Grace) | narrative hesperia tasks 2026-02-17 | 2026-02-17 | governance**

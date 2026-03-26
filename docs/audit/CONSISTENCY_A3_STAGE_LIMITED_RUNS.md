@@ -10,7 +10,7 @@
 1. **L1_L2 only**
    - Run `run_structural_analysis(text, stages="L1_L2")`.
    - **Check:** Output contains only L1 and L2 (and `run`, `text_preview`). No L3, L4, … L9, no `usf`, no `domain_metrics`, no `interpretation_metrics` (or only if explicitly added at this stage by design).
-   - **Check:** Evidence extraction: if any evidence-related field exists at L1/L2 level, it is consistent (e.g. same input → same evidence shape).
+   - **Check:** Evidence extraction: if any evidence-related field exists at L1/L2 level, it is consistent (e.g. same raw_text → same evidence shape).
 
 2. **L1_L2_L3 only**
    - Run `run_structural_analysis(text, stages="L1_L2_L3")`.
@@ -27,11 +27,11 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - **L1_L2:** Only L1 and L2 in output; no later stages.
-- **L1_L2_L3:** Only L1_B, L2_B, L1_S, L2_S, L3; no L4–L9 or full-pipeline-only fields.
-- **full:** Full pipeline output; domain_metrics only when enabled.
+- **L1_L2_L3:** Only L1_B, L2_B, L1_S, L2_S, L3; no L4–L9 or full-execution_flow-only fields.
+- **full:** Full execution_flow output; domain_metrics only when enabled.
 - Evidence extraction consistent across stages where it applies.
 
 ---
@@ -40,9 +40,9 @@
 
 | Symptom | Likely cause |
 |--------|---------------|
-| L4–L9 appear in L1_L2 or L1_L2_L3 | Stage gate not applied; full pipeline run by mistake. |
+| L4–L9 appear in L1_L2 or L1_L2_L3 | Stage gate not applied; full execution_flow run by mistake. |
 | domain_metrics in disabled case | Flag not respected in service or projection. |
-| domain_metrics absent when enabled | Config not passed or domain pipeline not run. |
+| domain_metrics absent when enabled | Config not passed or domain execution_flow not run. |
 
 ---
 

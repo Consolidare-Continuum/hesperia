@@ -45,7 +45,7 @@ curl -s http://localhost:8080/version
 curl -s -X POST http://localhost:8080/analyze -H "Content-Type: application/json" -d '{"text":"test"}'
 ```
 
-Expected: `{"status":"ok"}`; version JSON; analysis JSON. No stack traces or internal module names in responses.
+Expected: `{"status":"ok"}`; version JSON; measurement JSON. No stack traces or internal component names in responses.
 
 ### 4. Send ~50–100 requests
 
@@ -59,7 +59,7 @@ Optional: run 100 requests; check rate limit (e.g. 61st request in same minute r
 
 ### 5. Verify outputs
 
-- All analysis responses: JSON with public vocabulary only (no sphere, hex, topology, bridge, layer, area11, family240, etc.).
+- All measurement responses: JSON with public vocabulary only (no sphere, hex, topology, bridge, layer, area11, family240, etc.).
 - Error responses: only `{"error": "internal_processing_error"}` or validation/rate-limit messages; no tracebacks, no `core.services`, `runtime.shipping`, `analysis_service`.
 
 ### 6. Shut down and restart container
@@ -85,8 +85,8 @@ docker rm hesperia-api
 ## Pass criteria
 
 - CLI and API run without the repo or source tree.
-- 50–100 requests complete; outputs are deterministic (e.g. same input → same output).
-- No forbidden terms in any response; no module paths or tracebacks in errors.
+- 50–100 requests complete; outputs are deterministic (e.g. same raw_text → same output).
+- No forbidden terms in any response; no component paths or tracebacks in errors.
 - Container restart works; no hidden dependencies.
 
 ---

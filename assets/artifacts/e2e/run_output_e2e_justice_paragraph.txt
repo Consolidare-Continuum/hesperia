@@ -42,11 +42,11 @@ structural_signature.stable_families: ['F16', 'F22']
 FULL JSON
 ============================================================
 {
-  "input": {
+  "raw_text": {
     "text_preview": "Justice establishes the principles that hold a society together.\nWhen fairness is applied consistently, institutions gain legitimacy and public trust.\nHowever, if power begins to favor loyalty over me...",
     "length": 476
   },
-  "result": {
+  "summary": {
     "dominant_area": 9,
     "dominant_family": 228,
     "governance": 0.365774,

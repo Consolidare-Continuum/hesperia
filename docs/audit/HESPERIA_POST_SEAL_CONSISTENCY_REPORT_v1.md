@@ -14,7 +14,7 @@ At that point the engine can be considered **sealed and operationally consistent
 
 ## 1. Block A — Functional integrity
 
-| Check | Document | Result | Notes |
+| Check | Document | Summary | Notes |
 |-------|----------|--------|------|
 | A1 | [CONSISTENCY_A1_BASELINE_STABILITY.md](CONSISTENCY_A1_BASELINE_STABILITY.md) | ☐ PASS / ☐ FAIL | Triple run of `run_structural_analysis()`; identical projected outputs and checksums. |
 | A2 | [CONSISTENCY_A2_RUNNER_SERVICE_EQUIVALENCE.md](CONSISTENCY_A2_RUNNER_SERVICE_EQUIVALENCE.md) | ☐ PASS / ☐ FAIL | Runners vs direct service; projected output and metric equivalence. |
@@ -28,7 +28,7 @@ At that point the engine can be considered **sealed and operationally consistent
 
 ## 2. Block B — Sealing integrity
 
-| Check | Document | Result | Notes |
+| Check | Document | Summary | Notes |
 |-------|----------|--------|------|
 | B1 | [SEAL_B1_PROJECTION_VERIFICATION.md](SEAL_B1_PROJECTION_VERIFICATION.md) | ☐ PASS / ☐ FAIL | No forbidden terms in JSON, logs, manifests, stdout. |
 | B2 | [SEAL_B2_RESERVED_STRUCTURE_TEST.md](SEAL_B2_RESERVED_STRUCTURE_TEST.md) | ☐ PASS / ☐ FAIL | No area 10/11, families 240–287, side IDs 360000–431999 in output. |
@@ -43,7 +43,7 @@ At that point the engine can be considered **sealed and operationally consistent
 
 ## 3. Block C — Performance sanity
 
-| Check | Document | Result | Notes |
+| Check | Document | Summary | Notes |
 |-------|----------|--------|------|
 | C1 | [PERF_C1_SINGLE_TEXT.md](PERF_C1_SINGLE_TEXT.md) | ☐ PASS / ☐ FAIL | Single-text latency and memory recorded; within expected bounds. |
 | C2 | [PERF_C2_BATCH_RUN.md](PERF_C2_BATCH_RUN.md) | ☐ PASS / ☐ FAIL | Batch (e.g. 100) linear scaling; no memory leak; writer not bottleneck. |
@@ -52,9 +52,9 @@ At that point the engine can be considered **sealed and operationally consistent
 
 ---
 
-## 4. Overall result
+## 4. Overall summary
 
-| Category | Result |
+| Category | Summary |
 |----------|--------|
 | Functional consistency (A) | ☐ PASS / ☐ FAIL |
 | Seal integrity (B) | ☐ PASS / ☐ FAIL |
@@ -82,8 +82,8 @@ At that point the engine can be considered **sealed and operationally consistent
 1. **Block A:** Execute procedures in CONSISTENCY_A1 through A5 (scripts or manual steps); record pass/fail and any notes.
 2. **Block B:** Execute SEAL_B1 through B6 (artifact inspection, `tools/check_import_boundary.py`, writer tests, package build inspection, reflection spot test); record pass/fail.
 3. **Block C:** Run PERF_C1 and C2; record runtime/memory and scaling; set pass/fail.
-4. **Fill this report:** Update result cells and Block/Overall summaries; add remediation items for any failure.
-5. **Release gate:** Do not create release tag until Overall result is PASS for A, B, and (as policy) C.
+4. **Fill this report:** Update summary cells and Block/Overall summaries; add remediation items for any failure.
+5. **Release gate:** Do not create release tag until Overall summary is PASS for A, B, and (as policy) C.
 
 ---
 

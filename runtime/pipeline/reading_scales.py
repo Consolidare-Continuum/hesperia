@@ -6,8 +6,8 @@
 
 """
 HESPERIA Reading Scale Engine.
-Run L1–L9 pipeline across multiple reading scales (R1 sentences, R2 paragraphs, R3 sections, R4 document)
-and combine results into a multiscale dossier with global structural summary.
+Run L1–L9 execution flow across multiple reading scales (R1 sentences, R2 paragraphs, R3 sections, R4 document)
+and combine outputs into a multiscale dossier with global topology summary.
 Deterministic segmentation: no NLP libraries.
 """
 
@@ -108,7 +108,7 @@ def _run_scale(
     profile_id: str | None,
     profile: dict | None,
 ) -> List[Dict[str, Any]]:
-    """Run pipeline for each segment; return list of full pipeline outputs."""
+    """Run execution_flow for each segment; return list of full execution_flow outputs."""
     results: List[Dict[str, Any]] = []
     for seg in segments:
         out = run_pipeline_for_text(
@@ -128,7 +128,7 @@ def _aggregate_global_structure(
     r3: List[Dict],
     r4: List[Dict],
 ) -> Dict[str, Any]:
-    """Compute structural summary from all scale results."""
+    """Compute topology summary from all scale outputs."""
     all_outputs: List[Dict] = []
     for scale in (r1, r2, r3, r4):
         all_outputs.extend(scale)
@@ -140,7 +140,7 @@ def _aggregate_global_structure(
         area = int(l1.get("DOMINANT_AREA_ID", 0))
         area_counts[area] = area_counts.get(area, 0) + 1
     total = sum(area_counts.values()) or 1
-    dominant_area_distribution = {
+    dominant_area_profile = {
         str(k): round(v / total, 4) for k, v in sorted(area_counts.items())
     }
 
@@ -160,7 +160,7 @@ def _aggregate_global_structure(
     # tension_axes: distinct dominant areas (axes of variation)
     tension_axes = sorted(set(area_counts.keys()))
 
-    # confidence_profile: distribution of L7 SYSTEM_CONFIDENCE_SCORE and OUTPUT_TRUST_TAG
+    # confidence_profile: profile of L7 SYSTEM_CONFIDENCE_SCORE and OUTPUT_TRUST_TAG
     confidence_scores: List[float] = []
     tag_counts: Dict[str, int] = {}
     for out in all_outputs:
@@ -175,7 +175,7 @@ def _aggregate_global_structure(
         "trust_tag_distribution": tag_counts,
     }
 
-    # document_anomaly: mean of segment Δ stability layer anomaly_score
+    # document_anomaly: mean of segment Δ consistency layer anomaly_score
     stability_scores: List[float] = []
     for out in all_outputs:
         diag = out.get("diagnostics") or {}
@@ -186,7 +186,9 @@ def _aggregate_global_structure(
     ) if stability_scores else 0.0
 
     return {
-        "dominant_area_distribution": dominant_area_distribution,
+        "dominant_area_profile": dominant_area_profile,
+        # Compatibility mirror.
+        "dominant_area_distribution": dominant_area_profile,
         "stable_family_core": stable_family_core,
         "tension_axes": tension_axes,
         "confidence_profile": confidence_profile,
@@ -202,8 +204,8 @@ def run_multiscale(
     profile: dict | None = None,
 ) -> Dict[str, Any]:
     """
-    Run L1–L9 pipeline at reading scales R1 (sentences), R2 (paragraphs), R3 (sections), R4 (document).
-    Returns a multiscale dossier with per-scale pipeline outputs and global_structure.
+    Run L1–L9 execution flow at reading scales R1 (sentences), R2 (paragraphs), R3 (sections), R4 (document).
+    Returns a multiscale dossier with per-scale outputs and topology_summary.
     """
     if defaults is None:
         from core.layers import load_defaults
@@ -220,12 +222,14 @@ def run_multiscale(
     r3 = _run_scale(text, segments_r3, assets, defaults, profile_id, profile)
     r4 = _run_scale(text, segments_r4, assets, defaults, profile_id, profile)
 
-    global_structure = _aggregate_global_structure(r1, r2, r3, r4)
+    topology_summary = _aggregate_global_structure(r1, r2, r3, r4)
 
     return {
         "R1": r1,
         "R2": r2,
         "R3": r3,
         "R4": r4,
-        "global_structure": global_structure,
+        "topology_summary": topology_summary,
+        # Compatibility mirror.
+        "global_structure": topology_summary,
     }

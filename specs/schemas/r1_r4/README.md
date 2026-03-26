@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # R1–R4 JSON Schemas (2020-12)
 
-Deterministic-friendly, guard-compatible validation for Reading-Scale Unit and Book Profile outputs. Validate pipeline outputs **before** any LLM or analyst consumes them.
+Deterministic-friendly, guard-compatible validation for Reading-Scale Unit and Book Profile outputs. Validate execution_flow outputs **before** any LLM or analyst consumes them.
 
 | File | Validates |
 |------|-----------|

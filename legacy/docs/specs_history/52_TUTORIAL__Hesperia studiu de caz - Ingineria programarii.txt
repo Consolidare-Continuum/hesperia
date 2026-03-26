@@ -16,7 +16,7 @@ Se dorește procesarea textului natural într-un mod care:
 1.	sa fie determinist și repetabil;
 2.	sa permita masurarea coerenței și a contradicțiilor;
 3.	sa reduca deriva semantica în interacțiuni succesive;
-4.	sa fie integrabil într-un pipeline industrial de tip RAG.
+4.	sa fie integrabil într-un execution_flow industrial de tip RAG.
 Formal, intrarea este un text T (șir de caractere), iar sistemul trebuie sa produca o
 reprezentare
 semantica structurata S(T), astfel încât:
@@ -38,7 +38,7 @@ Structura de baza este definita prin:
 *	250 hexagoane per Family,
 *	6 laturi (sides) per hexagon, reprezentând unitați atomice de adevar.
 
-Textul este procesat printr-un pipeline în etape:
+Textul este procesat printr-un execution_flow în etape:
 1.	Word Attribution - clasificarea lexicala determinista;
 2.	Sentence Attribution - agregare la nivel de propoziție;
 3.	Statement Attribution - consolidare și corecție prin embedding;
@@ -87,7 +87,7 @@ Python, ci într-o arhitectura coerenta formata din:
 *	seturi de date (dicționar semantic, mapari Families-Areas, corpus de statements);
 *	documentație tehnica versionata (MASTER_SPEC, BLUEPRINT, SPEC-uri);
 *	politici și mecanisme de control (guards, politici de traversal, obstacole);
-*	proceduri de ingestie și interogare (pipeline forward, searchShard, runLoop).
+*	proceduri de ingestie și interogare (execution_flow forward, searchShard, runLoop).
 Din perspectiva funcționala, software-ul HESPERIA are rolul de a transforma un text natural
 într-o reprezentare semantica structurata, determinista și masurabila. Intrarea sistemului
 este textul furnizat de utilizator, iar iețirea este un obiect semantic compus din
@@ -124,7 +124,7 @@ reprezintă o decizie inginereasca menita sa asigure coerența și predictibilit
 *	masurarea polarizarii prin axe bipolare.
 Prin aceste instrumente, sistemul poate fi evaluat numeric, nu doar descriptiv. Aceasta
 corespunde cerinței de cuantificabilitate din definiția IEEE. De asemenea, separarea între
-pipeline-ul forward (procesarea textului) și mecanismul backward (corecția controlata a
+execution_flow-ul forward (procesarea textului) și mecanismul backward (corecția controlata a
 dicționarului) demonstreaza o preocupare pentru mentenanța și evoluție controlata, în
 spiritul ingineriei software moderne. În concluzie, studiul de caz HESPERIA ilustreaza
 aplicarea principiilor ingineriei software asupra unui domeniu specific - modelarea
@@ -175,7 +175,7 @@ de baza.
 funcțiilor cuantificabile.
 *	Extindere semantica (v0.4) - integrarea embedding-urilor, a polaritații pe axe și a
 procesului forward/backward.
-*	Blueprint industrial (v4.5 / v4.7) - integrarea cu SQL, vector DB, sharding și pipeline
+*	Blueprint industrial (v4.5 / v4.7) - integrarea cu SQL, vector DB, sharding și execution_flow
 complet de ingestie și query. Aceasta evoluție nu a implicat rescriere haotica, ci extindere
 incrementala pe baza unei geometrii stabile. Invariantul central (12 Areas × 24 Families ×
 250 hexes × 6 sides) a fost menținut pe parcursul versiunilor, ceea ce indica o evoluție
@@ -246,7 +246,7 @@ StatementAttribution, HexSphere, engine-uri de traversal și guard. Fiecare enti
 responsabilitați bine definite. Aceasta abordare faciliteaza extensibilitatea și mentenanța.
 
 2. Paradigma procedurala
-Pipeline-ul de procesare urmeaza o succesiune clara de pați: tokenizare → clasificare cuvânt
+Execution Flow-ul de procesare urmeaza o succesiune clara de pați: tokenizare → clasificare cuvânt
 → clasificare propoziție → clasificare statement → construire regiune → traversare →
 generare rezultat. Fluxul este determinist și explicit, ceea ce reflecta o abordare
 procedurala controlata.
@@ -292,7 +292,7 @@ Aplicarea principiilor ingineriei software în HESPERIA se justifica prin:
 Structura semantica (12 Areas × 24 Families × 250 hexes × 6 sides) este fixa și documentata.
 Aceasta decizie reduce ambiguitatea și asigura consistența între versiuni.
 2.	Formalizarea regulilor de clasificare
-Pipeline-ul semantic este definit în etape clare, cu praguri și reguli explicite. Nu se
+Execution Flow-ul semantic este definit în etape clare, cu praguri și reguli explicite. Nu se
 bazeaza pe ajustari empirice necontrolate.
 3.	Introducerea metricilor cuantificabile
 Sistemul nu produce doar etichete, ci calculeaza coerența, entropie, polarizare și scoruri
@@ -336,7 +336,7 @@ Sistemul trebuie sa gestioneze creșteri de volum de date sau cereri. Structura 
 baza.
 3.	Interoperabilitate
 Capacitatea de integrare cu alte sisteme. HESPERIA este conceput explicit pentru integrare
-cu LLM externe și pipeline-uri RAG. Caracteristici de mentenanța
+cu LLM externe și execution_flow-uri RAG. Caracteristici de mentenanța
 1.	Modificabilitate
 Codul și structura trebuie sa permita actualizari controlate. Separarea între specificații
 și implementare susține acest obiectiv.
@@ -398,7 +398,7 @@ Cerințe nefuncționale:
 *	reproductibilitate;
 *	auditabilitate numerica;
 *	stabilitate structurala.
-3. System Analysis (Analiza sistemului)
+3. System Measurement (Analiza sistemului)
 În aceasta etapa a fost modelata structura conceptuala:
 Text → Word Attribution → Sentence Attribution → Statement Attribution → Region → Traversal
 și Governance.
@@ -422,7 +422,7 @@ b) Design arhitectural - separarea în straturi:
 Implementarea s-a realizat în Python, utilizând:
 *	clase pentru entitați semantice,
 *	funcții pentru metrici matematice,
-*	pipeline procedural pentru procesarea textului.
+*	execution_flow procedural pentru procesarea textului.
 Specificațiile au fost pastrate în documente separate pentru a asigura trasabilitate.
 6. Testing (Testare)
 Testarea se concentreaza pe:
@@ -432,7 +432,7 @@ Testarea se concentreaza pe:
 *	respectarea pragurilor de obstacol.
 Caracterul cuantificabil al metricilor faciliteaza testarea automata.
 7. Deployment și Integrare
-Sistemul este conceput pentru integrare în pipeline RAG:
+Sistemul este conceput pentru integrare în execution_flow RAG:
 text → forward() → searchShard() → runLoop() → rezultat structurat.
 Integrarea presupune colaborare cu:
 *	baze de date SQL,
@@ -505,7 +505,7 @@ Sistemul trebuie sa calculeze valori cuantificabile precum:
 Trebuie sa existe un mecanism de extindere a regiunii semantice prin bucle controlate, cu
 praguri de oprire.
 6.	Integrare cu sisteme externe
-Sistemul trebuie sa poata funcționa într-un pipeline RAG, colaborând cu baze de date SQL și
+Sistemul trebuie sa poata funcționa într-un execution_flow RAG, colaborând cu baze de date SQL și
 vector DB. Cerințe nefuncționale
 1.	Determinism
 Pentru aceeași intrare, rezultatul trebuie sa fie identic.
@@ -556,7 +556,7 @@ infrastructurii speciale. Concluzie: proiectul este justificabil economic în co
 stabilitatea semantica are valoare critica.
 
 3. Fezabilitate operaționala:
-Sistemul este conceput pentru integrare într-un pipeline existent:
+Sistemul este conceput pentru integrare într-un execution_flow existent:
 text → clasificare → construire regiune → metrici → integrare RAG. Nu necesita înlocuirea
 modelelor LLM, ci funcționeaza ca strat suplimentar de control semantic. Arhitectura
 modulara permite integrarea incrementala fara întreruperea sistemelor existente. Concluzie:
@@ -601,7 +601,7 @@ Reducere:
 *	limitarea regiunii active;
 *	praguri de oprire.
 3. Riscuri operaționale
-• Integrare incorecta în pipeline RAG
+• Integrare incorecta în execution_flow RAG
 • Interpretare grețita a metricilor de catre utilizatori
 Reducere:
 *	documentație formala;
@@ -614,8 +614,8 @@ Reducere:
 *	menținerea posibilitații de evoluție controlata;
 *	separarea între nucleu și extensii.
 
-2.4 System Analysis:
-Faza de System Analysis are rolul de a transforma cerințele colectate într-un model
+2.4 System Measurement:
+Faza de System Measurement are rolul de a transforma cerințele colectate într-un model
 conceptual și logic al sistemului. În aceasta etapa se definesc entitațile principale,
 relațiile dintre ele, fluxurile de date și modul în care sistemul va funcționa intern.
 Analiza nu înseamna înca scrierea codului, ci modelarea structurii și comportamentului
@@ -666,7 +666,7 @@ Analiza a evidențiat necesitatea separarii clare a straturilor:
 *	geometric (model spațial),
 *	traversal (explorare controlata),
 *	guvernanță (validare și oprire).
-Concluzie În cadrul studiului de caz, System Analysis a condus la definirea unei arhitecturi
+Concluzie În cadrul studiului de caz, System Measurement a condus la definirea unei arhitecturi
 conceptuale clare, în care textul este transformat într-un obiect semantic plasat într-un
 spațiu finit și masurabil. Aceasta etapa a fost esențiala pentru a asigura ca implementarea
 ulterioara respecta cerințele de determinism, auditabilitate și control.
@@ -750,10 +750,10 @@ Implementarea runtime este realizata în Python, datorita:
 *	compatibilitații cu biblioteci de procesare text și embedding,
 *	integrarii facile cu baze de date și servicii externe.
 Codul este organizat modular, reflectând structura arhitecturala:
-*	module pentru geometrie și structura (hex-sphere, indexare);
-*	module pentru atribuirea semantica (word/sentence/statement);
-*	module pentru metrici matematice;
-*	module pentru traversal și control;
+*	component pentru geometrie și structura (hex-sphere, indexare);
+*	component pentru atribuirea semantica (word/sentence/statement);
+*	component pentru metrici matematice;
+*	component pentru traversal și control;
 *	scripturi pentru execuție și testare.
 Aceasta organizare respecta principiul separarii responsabilitaților.
 2. Transpunerea modelului geometric în cod
@@ -765,7 +765,7 @@ structuri de date statice. De exemplu:
 *	mapari areaOf[s] și familyOf[s];
 *	matrici de adiacența pentru conectivitate.
 Aceasta abordare asigura eficiența și verificabilitate a invariantelor.
-3. Implementarea pipeline-ului semantic
+3. Implementarea execution_flow-ului semantic
 Fluxul procedural definit în analiza este implementat prin funcții clar delimitate:
 *	forward(text) - procesare completa a textului;
 *	clasificare la nivel de cuvânt;
@@ -833,7 +833,7 @@ Sistemul este conceput pentru integrare cu:
 Testarea integrarii verifica:
 *	corectitudinea fluxului de date;
 *	stabilitatea conexiunilor;
-*	consistența rezultatelor în pipeline complet (text → forward → search → traversal →
+*	consistența rezultatelor în execution_flow complet (text → forward → search → traversal →
 output).
 5. Testarea determinismului
 Un criteriu central este determinismul. Pentru aceeași intrare, rezultatul trebuie sa fie
@@ -907,14 +907,14 @@ Integrarea presupune sincronizarea corecta a datelor între reprezentarea intern
 date, precum și optimizarea interogarilor (de exemplu, limitarea cautarii la anumite
 Families sau Areas).
 3. Integrarea cu modele LLM (RAG)
-Un obiectiv central al proiectului este integrarea în pipeline-uri de tip RAG (Retrieval-
+Un obiectiv central al proiectului este integrarea în execution_flow-uri de tip RAG (Retrieval-
 Augmented Generation). În acest context, HESPERIA nu înlocuiește LLM-ul, ci îl completeaza
 prin:
 *	furnizarea unei structuri semantice deterministe;
 *	filtrarea și organizarea informației înainte de generare;
 *	validarea structurala a rezultatului.
-Pipeline-ul integrat poate fi reprezentat astfel:
-input utilizator → HESPERIA (clasificare și structurare) → cautare controlata → context
+Execution Flow-ul integrat poate fi reprezentat astfel:
+raw_text utilizator → HESPERIA (clasificare și structurare) → cautare controlata → context
 pentru LLM → generare → evaluare metrica.
 4. Integrarea la nivel de guvernanță
 Integrarea include și mecanisme de control:
@@ -949,7 +949,7 @@ Aceasta presupune modificari determinate de schimbari externe.
 *	schimbarea modelului de embedding utilizat;
 *	integrarea cu o noua versiune de LLM;
 *	modificarea infrastructurii de stocare (migrare SQL / vector DB);
-*	integrarea în noi pipeline-uri industriale.
+*	integrarea în noi execution_flow-uri industriale.
 Structura modulara a sistemului permite adaptare fara afectarea nucleului geometric.
 3. Mentenanța perfectiva
 Aceasta urmărește îmbunatațirea performanței sau extinderea funcționalitaților fara
@@ -993,7 +993,7 @@ S-a stabilit ca pentru aceeași intrare textuala, sistemul trebuie sa produca ac
 rezultat. Aceasta decizie exclude comportamente aleatorii interne și reduce dependența de
 variații stochastice. Determinismul permite auditabilitate și testare reproductibila.
 3. Separarea forward / backward
-Procesarea textului (forward pipeline) este separata de ajustarea lenta a dicționarului și a
+Procesarea textului (forward execution_flow) este separata de ajustarea lenta a dicționarului și a
 regulilor (backward). Aceasta separare previne modificarea spontana a structurii în timpul
 execuției și asigura control asupra evoluției sistemului.
 4. Introducerea metricilor cuantificabile
@@ -1067,7 +1067,7 @@ succesive. Aceste extensii nu afectează geometria de bază, ci doar stratul de 
 Fără a modifica structura 12 × 24 × 250 × 6, sistemul poate integra: ajustări controlate ale
 ponderilor lexicale; rafinarea regulilor de atribuire pe baza feedback-ului validat;
 mecanisme de calibrare statistică a distribuțiilor. Această evoluție trebuie menținută
-separată de pipeline-ul forward pentru a conserva determinismul execuției.
+separată de execution_flow-ul forward pentru a conserva determinismul execuției.
 3. Optimizarea performanței și a traversal-ului
 Se pot dezvolta:
 algoritmi mai eficienți de explorare a regiunii; strategii adaptive de oprire bazate pe
@@ -1167,7 +1167,7 @@ Se dezvoltă o versiune specializată pentru un sector: „HESPERIA Compliance E
 customizare contra cost; mentenanță anuală. Avantaj Valoare clară pentru client. Nu se vinde
 „tehnologie”, se vinde „rezultat”. V. Model 5 – Servicii de consultanță + implementare
 Descriere HESPERIA este oferit împreună cu: audit semantic al companiei; integrare în
-pipeline existent; calibrare metrici. Monetizare proiecte fixe; pachete de implementare;
+execution_flow existent; calibrare metrici. Monetizare proiecte fixe; pachete de implementare;
 training tehnic. Acest model este potrivit în faza incipientă. VI. Model 6 – Platformă
 analitică (după dezvoltare moderată) Necesită: interfață vizuală; dashboard-uri; istoric
 longitudinal. Monetizare: abonament enterprise; utilizatori licențiați; add-on pentru

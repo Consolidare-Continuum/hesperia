@@ -524,7 +524,7 @@ class HexSphere {
         var /= (double) n;
 
         // Normalization is domain-specific; here we just invert
-        // with a simple heuristic to keep result in [0,1].
+        // with a simple heuristic to keep summary in [0,1].
         double normalized = var / (var + 1.0);
         return 1.0 - normalized;
     }

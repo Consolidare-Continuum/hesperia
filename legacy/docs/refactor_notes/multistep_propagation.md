@@ -31,13 +31,13 @@ See LEGAL_NOTICE.md for full terms.
 ## When deeper diffusion is useful
 
 - **Wider spread:** More steps allow mass to spread farther along the topology (e.g. across more areas). Useful when you want to model longer-range influence.
-- **Stability analysis:** Comparing 1-step vs N-step results can reveal how quickly structure stabilizes under repeated diffusion.
+- **Stability measurement:** Comparing 1-step vs N-step results can reveal how quickly structure stabilizes under repeated diffusion.
 - **Experimentation:** Optional extension for research or tuning without changing default behavior.
 
 ## Why it remains optional
 
-- **Canonical behavior:** The reference pipeline and USF are defined with single-step propagation. Multi-step is an extension.
+- **Canonical behavior:** The reference execution_flow and USF are defined with single-step propagation. Multi-step is an extension.
 - **Performance:** More steps mean more matrix-vector products; default keeps cost minimal.
 - **Interpretability:** Single-step has a clear reading; multi-step may blur direct attribution. Keeping it optional preserves a single canonical interpretation.
 
-Implementation: `sphere.propagation.engine.compute_propagation(..., num_steps=1, damping_factor=1.0)`. Pipeline passes `config.get("propagation_steps", 1)`. Damping is applied each step; default 1.0 preserves mass.
+Implementation: `sphere.propagation.engine.compute_propagation(..., num_steps=1, damping_factor=1.0)`. Execution Flow passes `config.get("propagation_steps", 1)`. Damping is applied each step; default 1.0 preserves mass.

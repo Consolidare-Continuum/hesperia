@@ -12,7 +12,7 @@ See LEGAL_NOTICE.md for full terms.
 
 After Layer-9, **logic_metrics** became the structural truth (triggered rules, events, logic_diagnostics). A separate legacy path still produced **logic_outputs** from `evaluate_rules(facts, rule_spec_path)` for USF and older flows. That split meant:
 
-- Pipeline ended with parallel outputs instead of one canonical structural result.
+- Execution Flow ended with parallel outputs instead of one canonical structural summary.
 - USF could be driven by legacy logic_outputs instead of the corrected L7→L8→L9 path.
 
 Layer-10 (structured interpretation) exists to:
@@ -28,7 +28,7 @@ Layer-10 (structured interpretation) exists to:
 
 Reconciliation policy:
 
-- **Canonical:** logic_metrics + interpretation_metrics define the structural result.
+- **Canonical:** logic_metrics + interpretation_metrics define the structural summary.
 - **Compatibility:** logic_outputs may be passed into Layer-10 as `legacy_logic_outputs` and appear under USF `compatibility` metadata (e.g. `legacy_logic_outputs_present`, `legacy_logic_bridge_used`). It must not drive state classification.
 
 ## Canonical Data Flow
@@ -47,7 +47,7 @@ USF generation must use interpretation_metrics as the primary source for structu
 
 - When **interpretation_metrics** is present, USF canonical fields (structural_state, active_events, interpretation_flags, etc.) are taken from it.
 - When **interpretation_metrics** is absent, build_usf_object still succeeds; canonical interpretation fields are simply not set.
-- Legacy logic_outputs can be included in the pipeline and in USF under compatibility metadata; legacy_logic_bridge_used is set to False when interpretation_metrics is the source.
+- Legacy logic_outputs can be included in the execution_flow and in USF under compatibility metadata; legacy_logic_bridge_used is set to False when interpretation_metrics is the source.
 
 ## Future Role of Prolog / Natural-Language Generation
 

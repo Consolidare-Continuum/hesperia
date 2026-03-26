@@ -4,7 +4,7 @@
 Tasks 1–9: concept co-activation from segment concepts, family matrix, contradiction chain,
 classification, metrics, hotspots, cluster enrichment, dynamics, cross-plane audit.
 
-Deterministic; no ML. Intended for ``research.clinical_tfp.session_topology`` output shape.
+Deterministic; no ML. Intended for ``hesperia.tfp`` / session topology output shape.
 """
 
 from __future__ import annotations

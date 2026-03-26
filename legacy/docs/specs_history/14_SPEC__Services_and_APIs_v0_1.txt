@@ -1,7 +1,7 @@
 HESPERIA — SERVICES & APIS SPEC v0.1
 
 Glossary references (see `ACADEMIC.md`):
-- System and input/output notions: lines 22–54
+- System and raw_text/output notions: lines 22–54
 - Semantic attribution objects (SentenceAttribution, StatementAttribution): lines 168–196
 - Geometry/indexing and Regions: lines 58–106
 - Metrics and governance decision: lines 214–258, 353–376
@@ -36,7 +36,7 @@ Key APIs (conceptual signatures):
 AttributionService
 ------------------
 Responsibilities:
-- Implement the 5-stage word pipeline and sentence/statement aggregation
+- Implement the 5-stage word execution_flow and sentence/statement aggregation
   as per 12_SPEC__Semantic_Engine_v0_4.txt.
 
 Key APIs:
@@ -134,12 +134,12 @@ References:
 3. RESULT STRUCTURE AND EXTERNAL LLM USAGE
 ============================================================
 
-This section defines what HESPERIA **outputs** as a structured result.
-How an external LLM (e.g. OpenAI assistant) consumes this result is
-**outside** the core system, but the result format must be stable.
+This section defines what HESPERIA **outputs** as a structured summary.
+How an external LLM (e.g. OpenAI assistant) consumes this summary is
+**outside** the core system, but the summary format must be stable.
 
 --------------------------
-3.1 Canonical result object
+3.1 Canonical summary object
 --------------------------
 
 Conceptual type (language-agnostic):
@@ -203,7 +203,7 @@ Notes:
 
 
 --------------------------
-3.2 How services populate the result
+3.2 How services populate the summary
 --------------------------
 
 - AttributionService:
@@ -238,9 +238,9 @@ Notes:
 
 From HESPERIA’s perspective:
 - The **only contractual obligation** is to emit a valid `HESPERIAResult`
-  for each processed input (or batch of statements).
+  for each processed raw_text (or batch of statements).
 - Any external LLM wrapper (OpenAI assistant, etc.) should:
-  - Receive `HESPERIAResult` as structured input.
+  - Receive `HESPERIAResult` as structured raw_text.
   - Use the metrics and governance flags to:
     - accept/decline answering,
     - request user clarification,
@@ -258,7 +258,7 @@ From HESPERIA’s perspective:
   semantics as close as possible to this spec, even if signatures differ.
 - Microservice boundaries can follow these logical services directly
   (e.g., one REST/gRPC service per component).
-- Any changes to service responsibilities, result shape, or contracts
+- Any changes to service responsibilities, summary shape, or contracts
   should be reflected here and cross-checked with:
   - 10_MASTER_SPEC__HESPERIA_v1_0.txt
   - 11_BLUEPRINT__HESPERIA_v4_5_full.txt

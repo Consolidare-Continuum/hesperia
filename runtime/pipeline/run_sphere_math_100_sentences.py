@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# HESPERIA — Thin wrapper over analysis service. No direct layer import.
+# HESPERIA — Thin wrapper over measurement service. No direct layer import.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """

@@ -27,7 +27,7 @@ where \(\mathcal{A}(m)\) maps family index **m** to area index **a** (0-based im
 
 ## Code
 
-`hesperia.extensions.dynamics.equations.aggregate_family_to_area` and pipeline projection layers.
+`hesperia.extensions.dynamics.equations.aggregate_family_to_area` and execution_flow projection layers.
 
 ## Related
 

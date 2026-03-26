@@ -26,7 +26,7 @@
 
 - Use a single mode flag (e.g. `HESPERIA_RUNTIME_MODE`) or equivalent. Default for entry points that serve API or operator use: `public_runtime`.
 - Internal-only code paths (e.g. test harnesses, internal tooling) may set mode to `internal_debug` or `internal_review` and then call layer/bridge code directly; such paths must not be reachable from public API or public CLI without explicit override.
-- Packaging: when building the sealed runtime release, exclude `docs/internal/`, internal-only tools, and any module that exists solely for debug dumps.
+- Packaging: when building the sealed runtime release, exclude `docs/internal/`, internal-only tools, and any component that exists solely for debug dumps.
 
 ---
 

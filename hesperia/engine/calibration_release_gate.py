@@ -1,4 +1,4 @@
-# HESPERIA — RAD. Release gate for TFP calibration bundles (Task 10).
+# HESPERIA — RAD. Release gate for engine calibration bundles (Task 10).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 from __future__ import annotations
@@ -8,6 +8,17 @@ from pathlib import Path
 from typing import Any
 
 from hesperia.engine.output_anomalies import aggregate_file_envelope, codes_to_envelope, default_operational_envelope
+
+_LEGACY_PROFILE_ALIAS = {
+    "research_allow_degraded": "exploratory_allow_degraded",
+    "internal_review": "engine_internal_review",
+    "product_candidate": "engine_release_candidate",
+    "ship_blocking": "engine_ship_blocking",
+}
+
+
+def _normalize_profile(profile: str) -> str:
+    return _LEGACY_PROFILE_ALIAS.get(profile, profile)
 
 
 def evaluate_bundle(
@@ -21,9 +32,17 @@ def evaluate_bundle(
     """
     Produce gate decision dict (write as ``11_calibration_release_gate.json``).
 
-    Profiles: research_allow_degraded | internal_review | product_candidate | ship_blocking
+    Profiles (engine-neutral):
+      - exploratory_allow_degraded
+      - engine_internal_review
+      - engine_release_candidate
+      - engine_ship_blocking
+
+    Legacy aliases are accepted:
+      research_allow_degraded | internal_review | product_candidate | ship_blocking
     """
     bundle_dir = bundle_dir.resolve()
+    profile = _normalize_profile(profile)
     checks: list[dict[str, Any]] = []
 
     def _load(name: str) -> dict[str, Any] | None:
@@ -36,24 +55,24 @@ def evaluate_bundle(
 
     m = _load("00_manifest.json")
     if m is None:
-        if profile == "research_allow_degraded":
+        if profile == "exploratory_allow_degraded":
             return {
-                "run": "calibration_release_gate_v1",
+                "run": "main_engine_release_gate_v1",
                 "profile": profile,
                 "pass": True,
                 "checks": checks,
                 "blocking_reason": None,
                 "rollback_advice": "",
-                "last_known_good_hint": "research_allow_degraded: manifest optional",
+                "last_known_good_hint": "exploratory_allow_degraded: manifest optional",
                 "operational_envelope": default_operational_envelope(),
             }
         return {
-            "run": "calibration_release_gate_v1",
+            "run": "main_engine_release_gate_v1",
             "profile": profile,
             "pass": False,
             "checks": checks,
             "blocking_reason": "missing_manifest",
-            "rollback_advice": "Run run_tfp_file_pipeline to produce 00_manifest.json",
+            "rollback_advice": "Run engine workflow to produce 00_manifest.json",
             "last_known_good_hint": "see docs/specs/calibration_release_gate_v1.md",
             "operational_envelope": codes_to_envelope(["G004_MISSING_BUNDLE_MANIFEST"]),
         }
@@ -78,34 +97,43 @@ def evaluate_bundle(
         consistency = float(aud.get("consistency_score") or 0.0)
         checks.append({"check": "calibration_audit_consistency", "pass": True, "value": consistency})
 
-    tfp_cal = (m.get("tfp_signal_calibration") or {}) if isinstance(m, dict) else {}
-    loaded_cfg = tfp_cal.get("loaded_config") or {}
-    inhibition_matrix = tfp_cal.get("inhibition_matrix") or {}
-    invariant_path_id = str(tfp_cal.get("invariant_path_id") or loaded_cfg.get("invariant_path_id") or "")
+    calibration_block = (
+        (m.get("engine_signal_calibration") or m.get("tfp_signal_calibration") or {})
+        if isinstance(m, dict)
+        else {}
+    )
+    loaded_cfg = calibration_block.get("loaded_config") or {}
+    inhibition_matrix = calibration_block.get("inhibition_matrix") or {}
+    operator_path_id = str(
+        calibration_block.get("invariant_path_id") or loaded_cfg.get("invariant_path_id") or ""
+    )
+    _allowed_operator_ids = frozenset(
+        {"tfp_invariant_activation_v2", "engine_invariant_activation_v2"},
+    )
     checks.append(
         {
-            "check": "invariant_path_used",
-            "pass": invariant_path_id == "tfp_invariant_activation_v2",
-            "value": invariant_path_id or None,
+            "check": "operator_path_used",
+            "pass": operator_path_id in _allowed_operator_ids,
+            "value": operator_path_id or None,
         }
     )
     checks.append(
         {
-            "check": "config_version_present",
-            "pass": bool(tfp_cal.get("config_version") or loaded_cfg.get("version")),
-            "value": tfp_cal.get("config_version") or loaded_cfg.get("version"),
+            "check": "calibration_config_present",
+            "pass": bool(calibration_block.get("config_version") or loaded_cfg.get("version")),
+            "value": calibration_block.get("config_version") or loaded_cfg.get("version"),
         }
     )
     checks.append(
         {
-            "check": "inhibition_matrix_present",
+            "check": "coupling_matrix_present",
             "pass": bool(inhibition_matrix.get("version") and inhibition_matrix.get("area_ids")),
             "value": inhibition_matrix.get("version"),
         }
     )
     checks.append(
         {
-            "check": "post_hex_path_active",
+            "check": "post_operator_feedback_active",
             "pass": bool(loaded_cfg.get("hex_feedback_required")),
             "value": loaded_cfg.get("hex_feedback_required"),
         }
@@ -119,7 +147,7 @@ def evaluate_bundle(
     )
     checks.append(
         {
-            "check": "temporal_momentum_metadata_when_topology_enabled",
+            "check": "dynamics_metadata_when_topology_enabled",
             "pass": (not topology_enabled) or bool(topology_meta.get("temporal_momentum")),
             "value": topology_meta.get("temporal_momentum"),
         }
@@ -129,7 +157,7 @@ def evaluate_bundle(
         audit_alarms = set(aud.get("alarms") or [])
         checks.append(
             {
-                "check": "audit_invariant_path_not_bypassed",
+                "check": "audit_operator_path_not_bypassed",
                 "pass": "INVARIANT_PATH_NOT_USED" not in audit_alarms,
                 "value": sorted(audit_alarms),
             }
@@ -141,38 +169,38 @@ def evaluate_bundle(
     if gold_failed is not None:
         checks.append({"check": "goldset_zero_failures", "pass": gold_failed == 0, "value": gold_failed})
 
-    required_tfp_checks = {
-        "invariant_path_used",
-        "config_version_present",
-        "inhibition_matrix_present",
-        "post_hex_path_active",
-        "temporal_momentum_metadata_when_topology_enabled",
-        "audit_invariant_path_not_bypassed",
+    required_engine_checks = {
+        "operator_path_used",
+        "calibration_config_present",
+        "coupling_matrix_present",
+        "post_operator_feedback_active",
+        "dynamics_metadata_when_topology_enabled",
+        "audit_operator_path_not_bypassed",
     }
-    tfp_checks_ok = all(
-        c.get("pass") is True for c in checks if c.get("check") in required_tfp_checks
+    engine_checks_ok = all(
+        c.get("pass") is True for c in checks if c.get("check") in required_engine_checks
     )
 
     # Profile rules
     pass_gate = all(c.get("pass") is True for c in checks if c.get("pass") is not None)
-    if profile == "research_allow_degraded":
+    if profile == "exploratory_allow_degraded":
         pass_gate = True
-    elif profile == "internal_review":
-        pass_gate = not blocking_any and not failed_status and tfp_checks_ok
-    elif profile == "product_candidate":
+    elif profile == "engine_internal_review":
+        pass_gate = not blocking_any and not failed_status and engine_checks_ok
+    elif profile == "engine_release_candidate":
         pass_gate = (
             not blocking_any
             and not failed_status
-            and tfp_checks_ok
+            and engine_checks_ok
             and (schema_ok is not False)
             and (consistency is None or consistency >= 0.5)
             and (gold_failed is None or gold_failed == 0)
         )
-    elif profile == "ship_blocking":
+    elif profile == "engine_ship_blocking":
         pass_gate = (
             not blocking_any
             and not failed_status
-            and tfp_checks_ok
+            and engine_checks_ok
             and (schema_ok is not False)
             and (gold_failed is None or gold_failed == 0)
             and (consistency is None or consistency >= 0.75)
@@ -194,11 +222,11 @@ def evaluate_bundle(
         gate_codes.append("G002_FAILED_PLANE_STATUS")
     if schema_ok is False:
         gate_codes.append("G003_SCHEMA_INVALID")
-    if invariant_path_id != "tfp_invariant_activation_v2":
+    if operator_path_id not in _allowed_operator_ids:
         gate_codes.append("G005_INVARIANT_PATH_BYPASSED")
     if not (inhibition_matrix.get("version") and inhibition_matrix.get("area_ids")):
         gate_codes.append("G006_INHIBITION_MATRIX_MISSING")
-    if not (tfp_cal.get("config_version") or loaded_cfg.get("version")):
+    if not (calibration_block.get("config_version") or loaded_cfg.get("version")):
         gate_codes.append("G007_CONFIG_VERSION_MISSING")
     if not bool(loaded_cfg.get("hex_feedback_required")):
         gate_codes.append("G008_POST_HEX_PATH_INACTIVE")
@@ -206,7 +234,7 @@ def evaluate_bundle(
         gate_codes.append("G009_TEMPORAL_MOMENTUM_METADATA_MISSING")
 
     out: dict[str, Any] = {
-        "run": "calibration_release_gate_v1",
+        "run": "main_engine_release_gate_v1",
         "profile": profile,
         "pass": pass_gate,
         "checks": checks,

@@ -17,14 +17,14 @@
    **Check:** Runtime grows roughly linearly with N (no N² or worse). Approximate: `T(100) ≈ 10 × T(10)` (allowing for startup and variance).
 
 4. **Memory:** Monitor memory during the batch run (e.g. tracemalloc or process RSS).  
-   **Check:** No unbounded growth (memory leak). Peak memory should be reasonable (e.g. not 10× single-run memory for 100 items if each result is bounded).
+   **Check:** No unbounded growth (memory leak). Peak memory should be reasonable (e.g. not 10× single-run memory for 100 items if each summary is bounded).
 
-5. **Artifact writer:** If batch run also writes artifacts (e.g. one file per result or one combined file), ensure write time is not dominant.  
+5. **Artifact writer:** If batch run also writes artifacts (e.g. one file per summary or one combined file), ensure write time is not dominant.  
    **Check:** Artifact writer is not the bottleneck (e.g. compute time >> write time, or writes are batched/efficient).
 
 ---
 
-## Expected result
+## Expected summary
 
 - **Linear scaling:** Total time scales approximately linearly with batch size.
 - **No memory leak:** Peak memory bounded; no continuous growth across batch.

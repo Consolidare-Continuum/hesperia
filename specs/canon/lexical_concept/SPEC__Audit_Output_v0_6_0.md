@@ -20,4 +20,4 @@ Define **internal-rich** vs **public-safe** summaries (master §Output classes).
 ## Acceptance
 
 - Resolver/trace JSON validates where schemas apply.
-- Default shipping/product analysis unchanged when DLCR env flags are unset.
+- Default shipping/product measurement unchanged when DLCR env flags are unset.

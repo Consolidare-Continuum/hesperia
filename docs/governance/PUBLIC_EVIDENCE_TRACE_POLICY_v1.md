@@ -32,7 +32,7 @@ Public evidence must support **trust** (reproducibility, auditability, explanati
 | Adjacency path | No graph traversal path, neighbor indices, or topology steps. |
 | Propagation path internals | No propagation steps, diffusion weights, or layer-by-layer state. |
 | Hidden area/family references | No mention of reserved areas (10, 11) or reserved families (240–287). |
-| Internal layer names | No L1, L2, … L9 or pipeline stage names in user-facing evidence. |
+| Internal layer names | No L1, L2, … L9 or execution_flow stage names in user-facing evidence. |
 | Formula or dependency graph | No exposure of how metrics are computed. |
 
 ---
@@ -47,4 +47,4 @@ Public evidence must support **trust** (reproducibility, auditability, explanati
 
 ## 5. Acceptance Criterion
 
-**Evidence explains conclusions, not the engine.** A reader of the evidence trace can understand what was matched and where, and can trust that the result is consistent with the input and calibration, but cannot infer topology, geometry, propagation logic, or internal layer design.
+**Evidence explains conclusions, not the engine.** A reader of the evidence trace can understand what was matched and where, and can trust that the summary is consistent with the raw_text and calibration, but cannot infer topology, geometry, propagation logic, or internal layer design.

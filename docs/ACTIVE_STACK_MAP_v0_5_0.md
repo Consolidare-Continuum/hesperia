@@ -8,12 +8,12 @@ Single-page map of **what runs**, **what ships**, and **what is intentionally ou
 
 ## Entrypoints
 
-| Purpose | Command / module |
+| Purpose | Command / component |
 |--------|-------------------|
-| L1→L9 pipeline | `python3 -m runtime.pipeline.run_l1_through_l9` |
-| Full internal E2E | `python3 -m runtime.pipeline.run_e2e_all` |
-| Product E2E | `python3 -m runtime.pipeline.run_e2e_product` |
-| Full stack (manifest + seal hooks) | `python3 -m runtime.pipeline.run_e2e_full_stack` |
+| L1→L9 execution_flow | `python3 -m runtime.execution_flow.run_l1_through_l9` |
+| Full internal E2E | `python3 -m runtime.execution_flow.run_e2e_all` |
+| Product E2E | `python3 -m runtime.execution_flow.run_e2e_product` |
+| Full stack (manifest + seal hooks) | `python3 -m runtime.execution_flow.run_e2e_full_stack` |
 | Shipping CLI | `python3 -m runtime.shipping.cli_main` (see `pyproject.toml` `[project.scripts]`) |
 
 ## Execution spine (runtime-critical)

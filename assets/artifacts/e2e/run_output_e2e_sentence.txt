@@ -1,9 +1,9 @@
 {
-  "input": {
+  "raw_text": {
     "text_preview": "Justice and fairness support social order.",
     "length": 42
   },
-  "result": {
+  "summary": {
     "dominant_area": 0,
     "dominant_family": 11,
     "governance": 0.435947,

@@ -46,7 +46,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ---
 
-## Pipeline capability stack (non-TFP)
+## Execution Flow capability stack (non-TFP)
 
 1. Attribution & coverage  
 2. Traversal / activation structure (loops, reach)  
@@ -94,7 +94,7 @@ flowchart LR
 
 | KPI | Intent |
 |-----|--------|
-| Determinism rate | Same input+config → same hash |
+| Determinism rate | Same raw_text+config → same hash |
 | Coverage | Matched vs total tokens |
 | Evidence usefulness | Reviewer acceptance of top-k evidence |
 | Automation eligibility | % above trust threshold (per tenant) |

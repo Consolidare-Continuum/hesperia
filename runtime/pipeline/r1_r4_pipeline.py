@@ -4,7 +4,7 @@
 # No reproduction, redistribution, or use without explicit written permission from the author.
 # See LEGAL_NOTICE.md for full terms.
 
-# R1–R4 pipeline: segment → L1–L9 → Unit → aggregation → BookProfile. Ref: spec §Implementation Plan item 5.
+# R1–R4 execution_flow: segment → L1–L9 → Unit → aggregation → BookProfile. Ref: spec §Implementation Plan item 5.
 #
 # Notes (spec alignment):
 # - Single tokenizer: unit tokens = slice of global tokenize(normalize(text)); segment by token
@@ -52,6 +52,14 @@ from core.propagation.r1_r4_segmenters import (
     segment_by_sentences,
 )
 from core.propagation.r1_r4_unit import build_unit
+from hesperia.system.naming_axes import (
+    LEGACY_R_TO_SCALE,
+    SCALE_DOCUMENT,
+    SCALE_PARAGRAPH,
+    SCALE_SECTION,
+    SCALE_SENTENCE,
+    SCALE_TO_LEGACY_R,
+)
 
 
 def _get_token_offsets(normalized_text: str, tokens: list[str]) -> list[tuple[int, int]]:
@@ -312,6 +320,8 @@ def run_full_pipeline(
     metric_keys = ["coverage", "dominance", "entropy", "leakage", "contradiction_pressure", "stability", "shadow_deviation"]
     if levels is None:
         levels = ["R1", "R2", "R3", "R4"]
+    # Accept SCALE_* aliases while preserving legacy R* execution keys.
+    levels = [SCALE_TO_LEGACY_R.get(x, x) for x in levels]
 
     # Single source tokenizer: unit tokens from global stream (slice by span), not re-tokenized per segment.
     normalized_text = normalize(text)
@@ -369,6 +379,11 @@ def run_full_pipeline(
     }
     esm = load_r1_r4_esm_defaults()
     scale_deltas = _compute_scale_deltas(level_averages, metric_keys, esm)
+    scale_deltas_sc = {
+        "SC1_to_SC2": scale_deltas.get("R1_to_R2", {}),
+        "SC2_to_SC3": scale_deltas.get("R2_to_R3", {}),
+        "SC3_to_SC4": scale_deltas.get("R3_to_R4", {}),
+    }
 
     stable_families = []
     for u in all_units[:30]:
@@ -381,6 +396,14 @@ def run_full_pipeline(
         "smoothing_model": "bootstrap_zero_expected_v0",
         "level_averages": level_averages,
         "scale_deltas": scale_deltas,
+        "scale_averages": {
+            SCALE_SENTENCE: level_averages.get("R1", {}),
+            SCALE_PARAGRAPH: level_averages.get("R2", {}),
+            SCALE_SECTION: level_averages.get("R3", {}),
+            SCALE_DOCUMENT: level_averages.get("R4", {}),
+        },
+        "scale_deltas_sc": scale_deltas_sc,
+        "scale_aliases": dict(LEGACY_R_TO_SCALE),
         "turning_points": [],
         "structural_signature": {
             "stable_families": stable_families[:20],
@@ -472,8 +495,8 @@ def run_r1_pipeline_to_json(
     out_profile: Path | None = None,
     out_units_jsonl: Path | None = None,
 ) -> dict[str, Any]:
-    """Run R1 pipeline and optionally write units and book_profile to JSON. Returns {"units": [...], "book_profile": {...}}.
-    If out_units_jsonl is set, write one unit per line (jsonl) for streaming/safe context (avoid large single JSON)."""
+    """Run R1 execution_flow and optionally write units and book_profile to JSON. Returns {"units": [...], "book_profile": {...}}.
+    If out_units_jsonl is set, write one unit per line (jsonl) for streaming/safe input_context (avoid large single JSON)."""
     units, book_profile = run_r1_pipeline(text, book_id=book_id)
     result = {"units": units, "book_profile": book_profile}
     if out_units:
@@ -499,8 +522,8 @@ def run_full_pipeline_to_json(
     out_units_jsonl: Path | None = None,
     validate: bool = False,
 ) -> dict[str, Any]:
-    """Run full R1–R4 pipeline; optionally write and validate. Returns {"units": [...], "book_profile": {...}, "validation": {...}}.
-    If out_units_jsonl is set, write one unit per line (jsonl) for streaming/safe context (avoid large single JSON)."""
+    """Run full R1–R4 execution_flow; optionally write and validate. Returns {"units": [...], "book_profile": {...}, "validation": {...}}.
+    If out_units_jsonl is set, write one unit per line (jsonl) for streaming/safe input_context (avoid large single JSON)."""
     units, book_profile = run_full_pipeline(text, book_id=book_id, levels=levels)
     result = {"units": units, "book_profile": book_profile}
     if out_units:

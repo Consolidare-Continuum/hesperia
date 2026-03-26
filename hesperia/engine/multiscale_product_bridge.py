@@ -185,7 +185,8 @@ def build_structural_internal_from_multiscale(
     raw: dict[str, Any] = {
         "run": "structural_analysis",
         "text_preview": text[:80],
-        "pipeline": sealed.get("pipeline", "sealed_multiscale_v1"),
+        "execution_flow": sealed.get("execution_flow", "sealed_multiscale_v1"),
+        "pipeline_version": sealed.get("execution_flow", "sealed_multiscale_v1"),
         "L1": L1_out,
         "L2": {"CANONICAL_PIPELINE": "sealed_multiscale_v1"},
         "L3": {"CANONICAL_PIPELINE": "sealed_multiscale_v1"},

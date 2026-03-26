@@ -19,7 +19,7 @@ Scan for these in **public** runtime packages, public docs, public schemas, and 
 | side_id | Internal coordinate |
 | adjacency path | Internal structure |
 | propagation path | Internal method |
-| layer1, layer2, … layer9, layer_1 … layer_9 | Revealing pipeline |
+| layer1, layer2, … layer9, layer_1 … layer_9 | Revealing execution_flow |
 | area11, area12, area 11, area 12 | Reserved area leak |
 | 12 areas | Internal count |
 | reserved families | Internal reserve |

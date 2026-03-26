@@ -1,7 +1,7 @@
 # HESPERIA Domain Metrics — Reference Definitions
 
 **Single reference for what was shipped in Tasks 1–7.**  
-**Canonical module:** `hesperia.engine.kme` (KME — Knowledge Metrics Engine). Legacy: `core.domain` re-exports from KME. Use this document everywhere (code comments, specs, onboarding) so definitions are not lost in math and code.
+**Canonical component:** `hesperia.engine.kme` (KME — Knowledge Metrics Engine). Legacy: `core.domain` re-exports from KME. Use this document everywhere (code comments, specs, onboarding) so definitions are not lost in math and code.
 
 ---
 
@@ -17,10 +17,10 @@
 | **6** | Domain Fingerprint Engine | From PrimitiveMetrics + DerivedMetrics, produces **DomainFingerprint**: 41-value vector (round6), metadata, **vectorHash** (SHA-256). Same metrics → same bytes. Comparison: same_fingerprint, euclidean, manhattan, cosine. | `hesperia/engine/kme/fingerprint/`; `build_fingerprint(p, d, domain_release, source_id)` |
 | **7** | Domain Profile Layer | Aggregates N document fingerprints into one **DomainProfile**: mean, std, median, p90 per dimension (41), **profileHash**. Domain comparison, classification, drift detection. | `hesperia/engine/kme/profiling/`; `build_profile(domain_id, fingerprints)`, `domain_distance`, `classify_document`. See `docs/DOMAIN_PROFILE.md`. |
 
-**Pipeline (end-to-end):**  
+**Execution Flow (end-to-end):**  
 Domain Graph → Domain Constants (Task 1) → Active Graph (Task 2) → Primitive Metrics (Task 3) → Derived Metrics (Task 4) → Fingerprint (Task 6). Task 5 validates the chain.
 
-**E2E Integration:** Single entry point and batch runner: `run_document` / `run_pipeline` / `run_corpus` in `hesperia/engine/kme/pipeline.py`. Export: `metric_report_to_dict`, `export_metric_report_json`. See `docs/DOMAIN_E2E_PIPELINE.md`.
+**E2E Integration:** Single entry point and batch runner: `run_document` / `run_pipeline` / `run_corpus` in `hesperia/engine/kme/execution_flow.py`. Export: `metric_report_to_dict`, `export_metric_report_json`. See `docs/DOMAIN_E2E_PIPELINE.md`.
 
 **Domain Profile:** After document fingerprints exist (e.g. from `run_corpus`), use `build_profile(domain_id, fingerprints)` to get one corpus-level profile; `domain_distance` and `classify_document` for comparison and classification. See `docs/DOMAIN_PROFILE.md`.
 

@@ -1,7 +1,7 @@
 # Consistency A1 — Baseline output stability
 
 **Block:** A — Functional integrity  
-**Goal:** Ensure identical input produces identical projected outputs across repeated runs (no hidden nondeterminism, writer path inconsistency, or projection mutation).
+**Goal:** Ensure identical raw_text produces identical projected outputs across repeated runs (no hidden nondeterminism, writer path inconsistency, or projection mutation).
 
 ---
 
@@ -9,7 +9,7 @@
 
 1. **Setup:** From repo root, ensure `PYTHONPATH` or `sys.path` includes the repo (e.g. `export PYTHONPATH=/path/to/hesperia` or run via `python3 -m` from repo root).
 
-2. **Fixed input:** Choose a single canonical input, e.g.  
+2. **Fixed raw_text:** Choose a single canonical raw_text, e.g.  
    `text = "justice lie fairness truth good order harm freedom"`
 
 3. **Triple invocation:** Call  
@@ -26,7 +26,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - **output_checksum:** stable (same value for all three runs).
 - **evidence_count:** stable.
@@ -40,7 +40,7 @@
 |--------|---------------|
 | Output dicts differ | Hidden nondeterminism (e.g. dict iteration order, random seed, time-based value). |
 | Checksums differ | Writer path inconsistency or projection mutating output. |
-| Evidence count or vectors differ | Non-deterministic pipeline step or unstable projection. |
+| Evidence count or vectors differ | Non-deterministic execution_flow step or unstable projection. |
 
 ---
 

@@ -35,7 +35,7 @@ Each run ≈ **stateless measurement** on a document.
 **Dynamic Hesperia:**
 
 ```text
-input stream over time
+raw_text stream over time
   → state injection
   → local field update
   → family update
@@ -46,12 +46,12 @@ input stream over time
   → dynamic output
 ```
 
-Each run ≈ **state transition**. The **old pipeline stays**; the difference is carrying **State(t)** forward.
+Each run ≈ **state transition**. The **old execution_flow stays**; the difference is carrying **State(t)** forward.
 
 **Formal:**
 
 \[
-\mathsf{State}(t+1) = F\bigl(\mathsf{State}(t),\, \mathsf{Input}(t),\, \mathsf{Topology},\, \Theta\bigr)
+\mathsf{State}(t+1) = F\bigl(\mathsf{State}(t),\, \mathsf{Raw_text}(t),\, \mathsf{Topology},\, \Theta\bigr)
 \]
 
 Single document ⇒ dynamics **degenerates to one step**; static mode preserved.
@@ -62,8 +62,8 @@ Single document ⇒ dynamics **degenerates to one step**; static mode preserved.
 
 | Layer | Name | Role |
 |-------|------|------|
-| **L0** | Input / event-time | Stream, timestamps, batching; produces \(u_i(t)\), time-indexed injection |
-| **L1** | Dict A marker activation | Lexical excitations \(s_m(t)\); optional marker persistence \(s_m^*(t+1)=(1-\lambda_m)s_m^*+\mathrm{input}_m\) |
+| **L0** | Raw_text / event-time | Stream, timestamps, batching; produces \(u_i(t)\), time-indexed injection |
+| **L1** | Dict A marker activation | Lexical excitations \(s_m(t)\); optional marker persistence \(s_m^*(t+1)=(1-\lambda_m)s_m^*+\mathrm{raw_text}_m\) |
 | **L2** | Dict B concept activation | Stateful concepts \(c_i(t)\); first true dynamic semantic layer |
 | **L3** | Concept graph dynamics | \(G_i, Q_i, H_g, T_g, \Xi\); graph as interaction medium, not static description |
 | **L4** | Hex field dynamics | Local field \(x_h\), hex pressure \(p_h\); diffusion on \(H_{hk}\); **active subgraph first** |
@@ -80,7 +80,7 @@ Single document ⇒ dynamics **degenerates to one step**; static mode preserved.
 
 ## A.3 Layer-by-layer integration (summary)
 
-**L0 — Input / event-time**  
+**L0 — Raw_text / event-time**  
 Inputs: document stream, timestamp, source id, corpus id, optional actor/channel/domain tags.  
 Output per \(t\): \(u_i(t)\), event batch, rolling window. **Rule:** one document ⇒ single-step update.
 
@@ -122,7 +122,7 @@ Static + dynamic: area/family state, dominants, propagated state, contradiction 
 
 | ID | Name | Equation |
 |----|------|----------|
-| **H0** | Input injection | \(I_i(t)=\alpha_{\mathrm{in}}\hat u_i(t)\) |
+| **H0** | Raw_text injection | \(I_i(t)=\alpha_{\mathrm{in}}\hat u_i(t)\) |
 | **H1** | Concept dynamics | \(c_i(t+1)=\mathrm{clip}[(1-\lambda_c)c_i+I_i+\alpha_g\sum_j W_{ji}c_j-\alpha_p\sum_j K_{ij}c_ic_j]\) |
 | **H2** | Hex dynamics | \(x_h(t+1)=\mathrm{clip}[(1-\lambda_h)x_h+\theta_c\hat C_h+\theta_d\frac{1}{\deg h}\sum_k H_{hk}x_k-\theta_p p_h-r_h]\) |
 | **H3** | Hex contradiction | \(p_h(t+1)=(1-\mu_h)p_h+\delta_h S_h+\eta_h\frac{1}{\deg h}\sum_k H_{hk}p_k-\rho_h R_h\) |
@@ -541,8 +541,8 @@ Add hex-level series where implemented:
 |-----------|--------|
 | \(H_{hk}\), hex registry | `assets`/topology — must define adjacency on operational 60k hex graph |
 | \(Y_{hf}\), \(N_{fa}\) | Family–hex–area from ontology / `sphere/topology` family structure |
-| \(Z_{ih}\) | From placement pipeline \((A,F,H)\) per activated concept |
-| Solver | New module e.g. `hesperia/extensions/dynamics/` or `core/` layer — **deterministic** update order |
+| \(Z_{ih}\) | From placement execution_flow \((A,F,H)\) per activated concept |
+| Solver | New component e.g. `hesperia/extensions/dynamics/` or `core/` layer — **deterministic** update order |
 
 **Projection:** public API may expose **aggregated** hex metrics (hotspots, max gradient) without leaking full reserved hex indices.
 
@@ -582,7 +582,7 @@ H8  hex cluster gravity (L8 hex-native)
 H9  Ξ, Stab  [A wire: H8, H9]
 ```
 
-L-layer pipeline: **Part A §A.2**.
+L-layer execution_flow: **Part A §A.2**.
 
 ---
 

@@ -15,7 +15,7 @@ I = C_d \cdot N
 
 where:
 
-- \(C_d\) = **contradiction_density** — normalized measure of active contradiction load at the scope of the report (hex, family, or product layer per pipeline). **Computation must use** scores from [contradiction_engine.md](contradiction_engine.md) when TRIZ path is active; otherwise a **structural proxy** from the family contradiction matrix applied to active families (documented in run metadata).
+- \(C_d\) = **contradiction_density** — normalized measure of active contradiction load at the scope of the report (hex, family, or product layer per execution_flow). **Computation must use** scores from [contradiction_engine.md](contradiction_engine.md) when TRIZ path is active; otherwise a **structural proxy** from the family contradiction matrix applied to active families (documented in run metadata).
 - \(N\) = **novelty** — bounded **entropy-based** concentration measure on family activation (or declared substitute vector), mapped to **[0,1]** per `hesperia.engine.product_signals` / TRIZ report builders.
 
 **I** is real-valued and **bounded** for product output by implementation clip policy.

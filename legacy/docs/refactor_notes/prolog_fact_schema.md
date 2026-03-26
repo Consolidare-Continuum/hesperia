@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Prolog Fact Schema (Frozen)
 
-## Input facts (from pipeline)
+## Raw_text facts (from execution_flow)
 
 Allowed only:
 
@@ -56,6 +56,6 @@ Every rule trace entry is structured as follows. No free text.
 ```
 
 - `rule`: Rule name (snake_case, suffix `_rule`).
-- `premises`: List of predicate names that matched (input facts).
+- `premises`: List of predicate names that matched (raw_text facts).
 - `derived`: Single derived predicate name (no parameters).
 - `iteration`: 1-based iteration index when the rule fired.

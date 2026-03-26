@@ -1,4 +1,4 @@
-# HESPERIA — RAD. Deterministic resolver context features (Ethan PO-07).
+# HESPERIA — RAD. Deterministic resolver input_context features (Ethan PO-07).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 from __future__ import annotations

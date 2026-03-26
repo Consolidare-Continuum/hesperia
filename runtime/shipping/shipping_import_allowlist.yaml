@@ -2,7 +2,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
 # Validated by: python3 tools/validate_shipping_surface.py
-# Stdlib: any module in sys.stdlib_module_names (Python 3.10+) plus __future__.
+# Stdlib: any component in sys.stdlib_module_names (Python 3.10+) plus __future__.
 
 version: 1
 

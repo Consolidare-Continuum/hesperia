@@ -16,12 +16,17 @@ if str(REPO) not in sys.path:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Emit 11_calibration_release_gate.json for a TFP bundle.")
+    ap = argparse.ArgumentParser(description="Emit 11_calibration_release_gate.json for an engine bundle.")
     ap.add_argument("--bundle-dir", type=Path, required=True)
     ap.add_argument(
         "--profile",
-        default="internal_review",
+        default="engine_internal_review",
         choices=[
+            "exploratory_allow_degraded",
+            "engine_internal_review",
+            "engine_release_candidate",
+            "engine_ship_blocking",
+            # Backward-compatible aliases
             "research_allow_degraded",
             "internal_review",
             "product_candidate",

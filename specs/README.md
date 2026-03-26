@@ -5,7 +5,7 @@ See **[system/versioning_and_governance.md](system/versioning_and_governance.md)
 
 | Subfolder | Purpose |
 |-----------|---------|
-| **`core/`** | **Tier 1** — pipeline, hex, family/area aggregation, product observables |
+| **`core/`** | **Tier 1** — execution_flow, hex, family/area aggregation, product observables |
 | **`dynamics/`** | **semantic_field_dynamics.md** (Tier 1) + Tier-2 Ethan / index / matrix builders |
 | **`calibration/`** | **Tier 1** — calibration law + HSPR/HCI |
 | **`triz/`** | **Tier 1** — contradiction + innovation metrics |

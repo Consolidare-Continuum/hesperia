@@ -23,7 +23,7 @@ Grace — spec triage workflow complete.
 | 6 | research/HESPERIA_RAD_DEEP_RESEARCH_2026-03-18.md | **OK** | P2 | Long; keep as archive; competitive table is illustrative |
 | 7 | research/README.md | **OK** | P2 | Minimal index — sufficient |
 | 8 | HESPERIA_REPOSITORY_MAP.md | **OK** | P2 | Many outbound links — spot-check on edit passes |
-| 9 | HESPERIA_DEPENDENCY_GRAPH.md | **merge candidate** | P1 | Layers 0–11 + runtime vs **L0–L10** dynamics wire — **two views**; add 12-row **crosswalk** (L0≈input, L1–L2≈lexicon+NLP, L4–L6≈sphere+KME slices, etc.) or link to ETHAN §A.2 |
+| 9 | HESPERIA_DEPENDENCY_GRAPH.md | **merge candidate** | P1 | Layers 0–11 + runtime vs **L0–L10** dynamics wire — **two views**; add 12-row **crosswalk** (L0≈raw_text, L1–L2≈lexicon+NLP, L4–L6≈sphere+KME slices, etc.) or link to ETHAN §A.2 |
 | 10 | HESPERIA_VARIABLE_CATALOG.md | **needs edit** | P1 | Dynamics blurb says “H1–H9” — **should say H0–H9 compact + Part B extended** to match ETHAN |
 | 11 | HESPERIA_PRODUCT_LINES.md | **OK** | P2 | Complements COMMERCIAL_TRIZ; intentional overlap |
 | 12 | HESPERIA_PRODUCT_STACK_MAP.md | **OK** | P2 | Static stack + future dynamics — fingerprint present; L0–L10 noted |
@@ -43,7 +43,7 @@ Grace — spec triage workflow complete.
 | Conflict | Decision |
 |----------|----------|
 | **H0–H9 vs extended H1–H9** | **Add** `specs/dynamics/DYNAMICS_EQUATION_INDEX.md` (single table: compact ID, extended ID, name, section) **or** expand ETHAN §A.4 + §13 into one printable matrix. Prefer **separate index file** ≤80 lines to keep ETHAN readable. |
-| **Dependency layers vs L0–L10** | **Two views:** Dependency graph = **testing / change-impact** (what breaks if you edit X). L0–L10 = **temporal dynamics pipeline**. Add **crosswalk table** in DEPENDENCY_GRAPH appendix **or** one row in new equation index doc. |
+| **Dependency layers vs L0–L10** | **Two views:** Dependency graph = **testing / change-impact** (what breaks if you edit X). L0–L10 = **temporal dynamics execution_flow**. Add **crosswalk table** in DEPENDENCY_GRAPH appendix **or** one row in new equation index doc. |
 | **Calibration registry path** | **Canonical when implemented:** `assets/calibration/dynamics_parameter_registry.yaml` (runtime-adjacent). **Authoring / review:** copy or symlink note from `specs/calibration/` — document in calibration spec §9. |
 | **24 families per area** | **Not asserted** in committed Ethan/calibration specs as fixed constant; VARIABLE_CATALOG uses TOPOLOGY language. **Rule:** any future draft mentioning “24 per area” must say **~24 mean / 240÷10 operational**. |
 

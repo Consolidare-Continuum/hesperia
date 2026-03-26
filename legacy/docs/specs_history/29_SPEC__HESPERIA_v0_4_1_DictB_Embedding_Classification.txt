@@ -196,7 +196,7 @@ When shadow is disabled:
   possible_relaxed must not alter state vector
 
 Test case required:
-  Baseline result identical with or without secondary fields.
+  Baseline summary identical with or without secondary fields.
 
 ================================================================================
 13. VERSIONING POLICY
@@ -245,7 +245,7 @@ A. Embedding Model & Environment Lock
    - Torch version pinned
 
 --------------------------------------------------------------------------------
-B. Required Input Files (Pre-existing)
+B. Required Raw_text Files (Pre-existing)
 --------------------------------------------------------------------------------
 
 These must already exist before running Dict B build:
@@ -314,7 +314,7 @@ F. Optional (Strongly Recommended)
 
 9. Reproducibility snapshot
    - dictB_build_snapshot_v041.zip
-   - Contains: dict_a input version, candidate list, build manifest, final
+   - Contains: dict_a raw_text version, candidate list, build manifest, final
      dict_b, reports. Used for long-term audit.
 
 --------------------------------------------------------------------------------

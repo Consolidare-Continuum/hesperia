@@ -7,24 +7,24 @@ See LEGAL_NOTICE.md for full terms.
 
 # HESPERIA — product stack map
 
-End-to-end stack from **raw input** to **commercial analytics**. Variable names mix **product vocabulary** and **engine keys**; canonical KME derived codes are `KDI`…`KVI` ([HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md)). Geometry: [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
+End-to-end stack from **raw raw_text** to **commercial analytics**. Variable names mix **product vocabulary** and **engine keys**; canonical KME derived codes are `KDI`…`KVI` ([HESPERIA_VARIABLE_CATALOG.md](HESPERIA_VARIABLE_CATALOG.md)). Geometry: [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md).
 
 **Related:** [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md) · [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md)
 
 ---
 
-## 1. Raw input layer
+## 1. Raw raw_text layer
 
 **Sources ingested:** documents, laws, policy programs, research papers, corporate strategies, news corpora, psychological transcripts.
 
-**Pipeline entry (lexicon / attribution path):** `runtime.pipeline.analyze`  
-**Full multi-artifact E2E:** `python3 -m runtime.pipeline.run_e2e_all`
+**Execution Flow entry (lexicon / attribution path):** `runtime.execution_flow.analyze`  
+**Full multi-artifact E2E:** `python3 -m runtime.execution_flow.run_e2e_all`
 
 **Primary outputs (text-layer variables):**
 
 `token_count`, `sentence_count`, `lexical_diversity`, `token_entropy`, `repetition_index`, `frequency_skew`
 
-→ Linguistic structure of the input. Many are **derived** from tokenizer output / `extended` payload.
+→ Linguistic structure of the raw_text. Many are **derived** from tokenizer output / `extended` payload.
 
 ---
 
@@ -187,13 +187,13 @@ semantic_density · structural_coherence · topic_dominance · propagation_veloc
 
 Signals power:
 
-- Policy analysis  
+- Policy measurement  
 - Program comparison  
 - Narrative spread tracking  
 - Innovation detection  
 - Knowledge mapping  
 - Semantic similarity search  
-- Argument structure analysis  
+- Argument structure measurement  
 - Contradiction detection  
 
 Product packaging: [HESPERIA_PRODUCT_LINES.md](HESPERIA_PRODUCT_LINES.md).
@@ -223,4 +223,4 @@ TEXT
 
 ---
 
-*Update when pipeline stages or E2E contracts change.*
+*Update when execution_flow stages or E2E contracts change.*

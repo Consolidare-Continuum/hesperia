@@ -1,6 +1,6 @@
 # HESPERIA Task 6 — Domain Fingerprint Engine
 
-Produces a **deterministic fingerprint** from PrimitiveMetrics + DerivedMetrics: ordered numeric vector (41 values), metadata, and SHA-256 **vectorHash**. Core invariant: **same input metrics → same fingerprint bytes**.
+Produces a **deterministic fingerprint** from PrimitiveMetrics + DerivedMetrics: ordered numeric vector (41 values), metadata, and SHA-256 **vectorHash**. Core invariant: **same raw_text metrics → same fingerprint bytes**.
 
 ## Inputs
 
@@ -74,6 +74,6 @@ All use round6 for stability. Fingerprint helpers: **fingerprint_euclidean**, **
 - **F** — One metric changed → different vectorHash
 - **G** — round6(0.1234567)=0.123457, round6(0.1234564)=0.123456
 
-## Result
+## Summary
 
-After Task 6, the pipeline is: Domain Graph → Domain Constants → Active Graph → Primitive Metrics → Derived Metrics → **Fingerprint Vector** → Comparison / Profiling. Metric engine baseline is complete.
+After Task 6, the execution_flow is: Domain Graph → Domain Constants → Active Graph → Primitive Metrics → Derived Metrics → **Fingerprint Vector** → Comparison / Profiling. Metric engine baseline is complete.

@@ -27,7 +27,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - **public_runtime + write_internal_json:** No file written; internal data never persisted.
 - **write_public_json:** File content is projected; internal-only keys/values absent; projection applied inside the writer.

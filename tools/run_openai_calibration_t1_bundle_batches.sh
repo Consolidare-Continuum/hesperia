@@ -15,7 +15,9 @@ set -euo pipefail
 # Knobs (env):
 #   BASE: corpus staging root (default below)
 #   DOCS_PER_BATCH: how many docs per batch (default 3)
-#   BATCH_COUNT: number of batches to run (default 5)
+#   BATCH_COUNT: how many batches to run in this invocation (default 5)
+#   START_BATCH: first batch index 1..N (default 1). Use e.g. START_BATCH=4 to resume after batch_003.
+#     Example resume: START_BATCH=4 BATCH_COUNT=2  → batch_004 and batch_005 only.
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$REPO_ROOT"
@@ -24,6 +26,8 @@ BASE="${BASE:-outputs/openai_calibration/noone2_cleaned}"
 BATCH_ROOT="${BATCH_ROOT:-$BASE/batches}"
 DOCS_PER_BATCH="${DOCS_PER_BATCH:-3}"
 BATCH_COUNT="${BATCH_COUNT:-5}"
+START_BATCH="${START_BATCH:-1}"
+END_BATCH=$((START_BATCH + BATCH_COUNT - 1))
 
 mkdir -p "$BATCH_ROOT"
 
@@ -33,7 +37,12 @@ if [[ ! -f "$BASE/sessions.json" || ! -f "$BASE/corpus.jsonl" ]]; then
   exit 2
 fi
 
-for b in $(seq 1 "$BATCH_COUNT"); do
+if [[ "$START_BATCH" -lt 1 ]]; then
+  echo "ERROR: START_BATCH must be >= 1 (got $START_BATCH)" >&2
+  exit 2
+fi
+
+for b in $(seq "$START_BATCH" "$END_BATCH"); do
   batch="$(printf "batch_%03d" "$b")"
   start=$(( (b - 1) * DOCS_PER_BATCH + 1 ))
   broot="$BATCH_ROOT/$batch"

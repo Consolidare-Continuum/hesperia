@@ -10,15 +10,15 @@ See LEGAL_NOTICE.md for full terms.
 
 ## Why fingerprint stability matters
 
-The USF **fingerprint** is the canonical structural summary used for comparison, deduplication, and drift detection. It is derived deterministically from interpretation_metrics (Layer-10). If the same input always produced a different fingerprint, downstream consumers could not reliably compare runs or detect meaningful change.
+The USF **fingerprint** is the canonical structural summary used for comparison, deduplication, and drift detection. It is derived deterministically from interpretation_metrics (Layer-10). If the same raw_text always produced a different fingerprint, downstream consumers could not reliably compare runs or detect meaningful change.
 
-- **Determinism:** Identical text and config must produce the same fingerprint. This is enforced by deterministic Layer-9 and Layer-10 and by fixed-point inference in the pipeline.
+- **Determinism:** Identical text and config must produce the same fingerprint. This is enforced by deterministic Layer-9 and Layer-10 and by fixed-point inference in the execution_flow.
 - **Stability:** Small lexical or formatting changes should not cause large fingerprint changes unless they alter structural attribution (e.g. dominant area or event set).
 - **Sensitivity:** Large semantic or structural changes should be reflected in the fingerprint (e.g. different structural_state or active_events).
 
 ## How drift is measured
 
-Drift is measured by comparing two fingerprints (e.g. from two pipeline runs).
+Drift is measured by comparing two fingerprints (e.g. from two execution_flow runs).
 
 ### Frozen drift formula
 

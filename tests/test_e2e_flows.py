@@ -16,6 +16,8 @@ import json
 import sys
 from pathlib import Path
 
+import pytest
+
 # Repo root first on path (see tests/conftest.py). Do not add a `tests/runtime/` package — it shadows `runtime/`.
 _REPO = Path(__file__).resolve().parents[1]
 _rs = str(_REPO)
@@ -287,9 +289,10 @@ def test_e2e_capability_matrix_wires_blocks() -> None:
         assert "_skipped" in rm or "_error" not in rm
 
 
+@pytest.mark.tfp
 def test_e2e_tfp_smoke_artifact_shape() -> None:
     """TFP E2E artifact: structural batch + tfp_stage per session + speaker-aware smoke."""
-    from research.clinical_tfp.stage_detection import TFP_STAGES
+    from hesperia.tfp import TFP_STAGES
     from runtime.pipeline.run_e2e_all import run_e2e_tfp_smoke
 
     import tempfile
@@ -369,7 +372,7 @@ def test_e2e_sealed_multiscale_artifact() -> None:
         run_e2e_sealed_multiscale(p, "justice fairness order boundaries trust")
         data = json.loads(p.read_text(encoding="utf-8"))
         assert data.get("run") == "e2e_sealed_multiscale"
-        assert data.get("pipeline") == "sealed_multiscale_v1"
+        assert data.get("execution_flow") == "sealed_multiscale_v1"
         assert len(data.get("family_activation_vector") or []) == 288
         assert len(data.get("area_activation_vector") or []) == 12
         assert "hspr_index" in data

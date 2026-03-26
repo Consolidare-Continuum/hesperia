@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia Engine Dynamics
 
-**Canonical release: v0.5.1** — deterministic multiscale semantic physics: **concept → hex → family → area → product signals → HSPR**, with a sealed **L1–L9** structural pipeline, **KME**, and optional **TRIZ** (not on the minimal product HTTP surface by default). Same input and configuration yield the same output (no learning in the core path).
+**Canonical release: v0.5.1** — deterministic multiscale semantic physics: **concept → hex → family → area → product signals → HSPR**, with a sealed **L1–L9** structural execution flow, **KME**, and optional **TRIZ** (not on the minimal product HTTP surface by default). Same input text and configuration yield the same output (no learning in the core path).
 
 **Author:** Platonov Igor ([@igareosh](https://github.com/igareosh)) · [igareosh.com](https://igareosh.com)
 
@@ -28,7 +28,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## What you get
 
-- **Structural analysis** — Lexicon-driven attribution → full **L1–L9** sphere pipeline → **public-safe** JSON (macro domains, families, trust, evidence where applicable; no raw hex/adjacency/calibration dumps on product paths).
+- **Structural measurement** — Lexicon-driven attribution → full **L1–L9** sphere execution_flow → **public-safe** JSON (macro domains, families, trust, evidence where applicable; no raw hex/adjacency/calibration dumps on product paths).
 - **Reading scales (R1–R4)** — Optional segment-level and book-style profiles (internal / extended pipelines).
 - **Dynamics & calibration** — Spec-driven; named profiles in `VERSION.yaml`. Research and clinical/TFP collateral are **out of the product image** boundary.
 - **KME / TRIZ** — Available in-repo; TRIZ HTTP routes only when explicitly exposed (strict product surface disables them).
@@ -38,7 +38,7 @@ See LEGAL_NOTICE.md for full terms.
 ## Repository layout (active stack)
 
 | Path | Role |
-|------|------|
+| --- | --- |
 | [`core/`](core/) | Deterministic math, layers, attribution, contracts, propagation |
 | [`hesperia/`](hesperia/) | Engine: **KME**, hex outputs, **projection** (`hesperia/engine/projection/`), extensions |
 | [`runtime/`](runtime/) | Pipelines, **shipping API/CLI**, `analysis_service` façade, semantic-field runners |
@@ -95,14 +95,14 @@ python3 -m uvicorn runtime.shipping.api_main:app --host 127.0.0.1 --port 8000
 python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
 ```
 
-All product analysis responses go through **`run_structural_analysis`** → **`project_to_public`**. Details: [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md).
+All product measurement responses go through **`run_structural_analysis`** → **`project_to_public`**. Details: [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md).
 
 ---
 
-## Running pipelines
+## Running execution flows
 
 | Goal | Command |
-|------|---------|
+| --- | --- |
 | **Full internal E2E** (many artifacts) | `python3 -m runtime.pipeline.run_e2e_all` — order: [`docs/E2E_RUN_ORDER.md`](docs/E2E_RUN_ORDER.md) |
 | **Product E2E** (minimal seal proof) | `python3 -m runtime.pipeline.run_e2e_product` |
 | **L1–L9 single run** | `python3 -m runtime.pipeline.run_l1_through_l9 --out /path/out.json` |
@@ -143,7 +143,7 @@ For implementation or redistribution beyond inspection/reference, **explicit wri
 ## Documentation map
 
 | Topic | Doc |
-|-------|-----|
+| --- | --- |
 | v0.5 engine index | [`docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md) |
 | System / product awareness | [`docs/HESPERIA_SYSTEM_AWARENESS.md`](docs/HESPERIA_SYSTEM_AWARENESS.md) |
 | Repository map | [`docs/HESPERIA_REPOSITORY_MAP.md`](docs/HESPERIA_REPOSITORY_MAP.md) |
@@ -156,7 +156,7 @@ For implementation or redistribution beyond inspection/reference, **explicit wri
 ## Quick command reference
 
 | Action | Command |
-|--------|---------|
+| --- | --- |
 | Tests | `python3 -m pytest tests/ -q` |
 | Version check | `python3 tools/validate_version_consistency.py` |
 | Public surface audit | `python3 tools/audit_public_surface.py` |

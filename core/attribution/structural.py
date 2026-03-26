@@ -64,7 +64,7 @@ DEFAULT_TEXT_CAP = 10_000
 _PUNCT = re.escape(r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~""")
 _STRIP_PUNCT_RE = re.compile(f"[{_PUNCT}]")
 
-# Legacy Dict A weight semantics (locked): weight = strength (higher = stronger anchor).
+# Legacy Dict A coefficient semantics (locked): coefficient = strength (higher = stronger anchor).
 LEGACY_WEIGHT_IS_STRENGTH = True
 
 
@@ -97,7 +97,7 @@ def load_dict_a(path: Path | None = None, assets_root: Path | None = None) -> di
     """
     Load Dict A for structural attribution.
     Native format: lemma -> { "familyGlobal": int, "altitude": float } (one family per lemma).
-    Legacy format: lemma -> list of { "side_id": int, "weight": float }.
+    Legacy format: lemma -> list of { "side_id": int, "coefficient": float }.
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
     root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"

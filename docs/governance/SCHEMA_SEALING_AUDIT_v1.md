@@ -31,7 +31,7 @@
 ## 3. Rules Going Forward
 
 - Any **public** API response or report schema must reference `public_output_schema.json` or use only public vocabulary (see PUBLIC_VOCABULARY_MAP_v1.md).
-- Internal schemas (USF raw, Unit with 12/288) remain in use for pipeline internals but must not be exposed as the contract for external consumers.
+- Internal schemas (USF raw, Unit with 12/288) remain in use for execution_flow internals but must not be exposed as the contract for external consumers.
 - New schemas: if they describe output visible to operators or API consumers, they must use public vocabulary and public counts (10 macro-domains, 240 policy families).
 
 ---

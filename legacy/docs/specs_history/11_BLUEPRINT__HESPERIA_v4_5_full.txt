@@ -1,10 +1,10 @@
 ============================================================
 HESPERIA — BLUEPRINT v4.5 (FULL)
-Integrated Prototype v0.4 + Engineering Pipeline
+Integrated Prototype v0.4 + Engineering Execution Flow
 ============================================================
 
 Glossary references (see `ACADEMIC.md`):
-- System, input/output: lines 22–54
+- System, raw_text/output: lines 22–54
 - Geometry and indexing (Areas, Families, Sides, Regions): lines 58–106
 - Semantic attribution objects (SentenceAttribution, StatementAttribution, inward/outward): lines 168–210
 - Activation vectors, polarity axes, loopability, obstacle score: lines 214–258, 275–299
@@ -21,7 +21,7 @@ This file unifies:
 - Dictionary-driven grounding
 - Inward/outward semantics + evolution pipelines
 - Structural truth geometry
-- Full engineering pipeline: ingestion, storage, retrieval, traversal
+- Full engineering execution_flow: ingestion, storage, retrieval, traversal
 - Vector DB integration
 - Java-style specification with human-readable descriptions
 
@@ -363,7 +363,7 @@ IngestionService:
 14. HUMAN-READABLE PIPELINE SUMMARY (ADDED IN v4.5)
 ============================================================
 
-1. **User input arrives**
+1. **User raw_text arrives**
    - Text is split, embedded, and classified.
 
 2. **Word attribution**

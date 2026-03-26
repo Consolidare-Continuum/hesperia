@@ -7,9 +7,9 @@ See LEGAL_NOTICE.md for full terms.
 
 # HESPERIA — variable & signal catalog
 
-Catalog of **signal families** across the pipeline. Many names are **semantic / product labels**; **canonical JSON keys** differ (especially KME derived: **35 codes** `KDI`…`KVI`, not English names). Coordinate grid: [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md) (10+2 areas, 240+48 families, 60k+12k hexes).
+Catalog of **signal families** across the execution_flow. Many names are **semantic / product labels**; **canonical JSON keys** differ (especially KME derived: **35 codes** `KDI`…`KVI`, not English names). Coordinate grid: [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md) (10+2 areas, 240+48 families, 60k+12k hexes).
 
-**Producers:** `runtime.pipeline.analyze`, sphere math, R1–R4, KME, TRIZ, session topology. **E2E index:** [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md). **Stack view (raw input → commercial):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **System & product awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md).
+**Producers:** `runtime.execution_flow.analyze`, sphere math, R1–R4, KME, TRIZ, session topology. **E2E index:** [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md). **Stack view (raw raw_text → commercial):** [HESPERIA_PRODUCT_STACK_MAP.md](HESPERIA_PRODUCT_STACK_MAP.md). **System & product awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md).
 
 **Legend:** **E2E** = in named artifact JSON · **Engine** = stable engine keys · **Derived** = computable from payloads · **Product** = dashboard / commercial label.
 
@@ -17,7 +17,7 @@ Catalog of **signal families** across the pipeline. Many names are **semantic / 
 
 ## 1. Text / lexical base variables
 
-**Produced during:** `runtime.pipeline.analyze` → `run_output_e2e_sentence.json` (`result`, `extended`).
+**Produced during:** `runtime.execution_flow.analyze` → `run_output_e2e_sentence.json` (`summary`, `extended`).
 
 **Document structure**
 
@@ -160,7 +160,7 @@ Catalog of **signal families** across the pipeline. Many names are **semantic / 
 
 ## 10. Domain fingerprint variables
 
-**Produced by:** KME fingerprint module.
+**Produced by:** KME fingerprint component.
 
 | Signal | Notes |
 |--------|-------|

@@ -190,7 +190,7 @@ eps 1e-9, alpha 0.65, E_cap 1.0, K_max 5, eta 0.02, lambda 0.55, decay 0.04, T_s
 
 ## 16. Required CI checks (from guard_config_v1)
 
-Pipeline must validate:
+Execution Flow must validate:
 
 - alpha ∈ [0, 1]
 - lambda ∈ (0, 1]

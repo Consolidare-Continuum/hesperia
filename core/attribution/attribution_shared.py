@@ -66,8 +66,8 @@ DEFAULT_TEXT_CAP = 10_000
 _PUNCT = re.escape(r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~""")
 _STRIP_PUNCT_RE = re.compile(f"[{_PUNCT}]")
 
-# Legacy Dict A weight semantics (locked): weight = strength (higher = stronger anchor).
-# altitude = 1 - clamp(weight). So high weight → low altitude (strong anchor).
+# Legacy Dict A coefficient semantics (locked): coefficient = strength (higher = stronger anchor).
+# altitude = 1 - clamp(coefficient). So high coefficient → low altitude (strong anchor).
 LEGACY_WEIGHT_IS_STRENGTH = True
 
 
@@ -132,7 +132,7 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
     """
     Load Dict A for v0.3.3 attribution.
     Native format: lemma -> { "familyGlobal": int, "altitude": float } (one family per lemma).
-    Legacy format: lemma -> list of { "side_id": int, "weight": float }.
+    Legacy format: lemma -> list of { "side_id": int, "coefficient": float }.
       - First entry only is used (deterministic). Multi-side across families: first entry wins.
       - familyGlobal = side_id // SIDES_PER_FAMILY.
       - Legacy weight semantics (locked): weight = strength (higher = stronger). altitude = 1 - clamp(weight).

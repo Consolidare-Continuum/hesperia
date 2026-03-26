@@ -7,7 +7,7 @@
 
 ## Procedure
 
-1. **Fixed input:** e.g. `text = "justice lie fairness truth good order harm freedom"`.
+1. **Fixed raw_text:** e.g. `text = "justice lie fairness truth good order harm freedom"`.
 
 2. **Single run:**  
    `single_out = run_structural_analysis(text, assets_root=assets, stages="full")`
@@ -22,7 +22,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - **Identical outputs:** `single_out == batch_out` (or equivalent under chosen tolerance).
 
@@ -32,9 +32,9 @@
 
 | Symptom | Likely cause |
 |--------|---------------|
-| Structures differ | Batch path uses different pipeline config or projection. |
+| Structures differ | Batch path uses different execution_flow config or projection. |
 | Values differ | document_id or per-item state leaking (e.g. index-dependent behavior). |
-| Keys missing in one | Different code paths building the result. |
+| Keys missing in one | Different code paths building the summary. |
 
 ---
 

@@ -11,7 +11,7 @@ Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 | Authority | Path |
 |-----------|------|
-| **System + components + schema + pipeline ids** | **`VERSION.yaml`** (repo root) |
+| **System + components + schema + execution_flow ids** | **`VERSION.yaml`** (repo root) |
 | **Active vs legacy asset tracks** | **`assets/version_registry.yaml`** |
 | **Runtime injection** | **`hesperia.system.version`** |
 

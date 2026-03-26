@@ -7,8 +7,8 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Corpus benchmark: run pipeline over philosophy, economics, law, psychology corpora.
-Output: benchmark_results.json with average_entropy, dominant_area_distribution,
+Corpus benchmark: run execution_flow over philosophy, economics, law, psychology corpora.
+Output: benchmark_results.json with average_entropy, dominant_area_profile,
 propagation_depth, structural_tension_mean, fingerprint_variance.
 Usage: python3 -m runtime.pipeline.run_corpus_benchmark [--out path] [--corpora-root path]
 """
@@ -44,27 +44,27 @@ def _run_domain(corpora_root: Path, domain: str, assets: Path) -> list[dict]:
     if not path.exists():
         return []
     corpus = _load_corpus(path)
-    results = []
+    summary_rows = []
     for item in corpus:
         text = item.get("text", item) if isinstance(item, dict) else str(item)
         if not text or not str(text).strip():
             continue
         try:
-            result = run_structural_analysis(str(text), assets_root=assets, attach_version=False)
-            results.append(result)
+            summary_payload = run_structural_analysis(str(text), assets_root=assets, attach_version=False)
+            summary_rows.append(summary_payload)
         except Exception:
-            results.append({})
-    return results
+            summary_rows.append({})
+    return summary_rows
 
 
-def _aggregate(results: list[dict]) -> dict:
+def _aggregate(summary_rows: list[dict]) -> dict:
     entropies = []
     dominant_areas = []
     propagation_depths = []
     tensions = []
     fingerprint_hashes = []
 
-    for r in results:
+    for r in summary_rows:
         if not r:
             continue
         raw = (r.get("usf") or {}).get("raw_metrics") or {}
@@ -89,11 +89,11 @@ def _aggregate(results: list[dict]) -> dict:
         if ms:
             fingerprint_hashes.append(hash(json.dumps(ms.get("hspr_index"), sort_keys=True)))
 
-    # Dominant area distribution
+    # Dominant area profile
     dist = defaultdict(int)
     for a in dominant_areas:
         dist[a] += 1
-    dominant_area_distribution = dict(dist)
+    dominant_area_profile = dict(dist)
 
     # Fingerprint variance: variance of hash values (as proxy for diversity)
     if len(fingerprint_hashes) >= 2:
@@ -104,11 +104,13 @@ def _aggregate(results: list[dict]) -> dict:
 
     return {
         "average_entropy": sum(entropies) / len(entropies) if entropies else 0.0,
-        "dominant_area_distribution": dominant_area_distribution,
+        "dominant_area_profile": dominant_area_profile,
+        # Compatibility mirror.
+        "dominant_area_distribution": dominant_area_profile,
         "propagation_depth": sum(propagation_depths) / len(propagation_depths) if propagation_depths else 0,
         "structural_tension_mean": sum(tensions) / len(tensions) if tensions else 0.0,
         "fingerprint_variance": fingerprint_variance,
-        "n_documents": len(results),
+        "n_documents": len(summary_rows),
     }
 
 

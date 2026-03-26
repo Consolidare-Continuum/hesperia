@@ -6,7 +6,7 @@ Retrieval Integrity + Governance Function (Staged: A → B)
 STATUS
 ------
 Target Release: v0.3.2
-Scope Type: Stabilization (input integrity + confidence determinism)
+Scope Type: Stabilization (raw_text integrity + confidence determinism)
 Theme: (C) Both staged: Retrieval Integrity (A) then Governance Function (B)
 Non-goal: No new semantics (NO shadow layer, NO synonym altitude, NO new areas/families, NO geometry refactor)
 
@@ -19,7 +19,7 @@ Compatibility / Contract:
 
 Dependencies (normative):
 - v0.3 Σ enforcement layer (invariant_catalog + invariant_enforcer)
-- v0.3.1 guard pipeline (Sigma → Gamma → Theta) and degraded-state rules
+- v0.3.1 guard execution_flow (Sigma → Gamma → Theta) and degraded-state rules
 - 16_SPEC__Structural_Invariants_v1_0.txt
 - 19_SPEC__Release_v0_3_Structural_Enforcement_v1_0.txt
 - 20_SPEC__Release_v0_3_1_Runtime_Guards_and_Failure_Classes_v1_0.txt

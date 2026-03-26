@@ -11,19 +11,19 @@ References: 34_SPEC (Layer-1), 35_SPEC (Layer-2); 00_GOVERNANCE_CHARTER__HESPERI
 0. LAYER-6 CONTRACT (INVARIANT)
 ----------------------------------------------------------------------
 
-  Layer-6 treats the engine as a function: input (e.g. token density / representation) → structural configuration (dominant family, coverage, entropy, hit vector, depth mass).
+  Layer-6 treats the engine as a function: raw_text (e.g. token density / representation) → structural configuration (dominant family, coverage, entropy, hit vector, depth mass).
 
   It answers: Is it stable? Near tipping points? Linear or curved? Chaotic sensitivity? Well-conditioned? In an attractor basin? Is propagation exponential, recursive, or diffusive?
 
-  This is real systems analysis. No semantic interpretation; only deterministic functional and geometric behavior.
+  This is real systems measurement. No semantic interpretation; only deterministic functional and geometric behavior.
 
 ----------------------------------------------------------------------
 1. PREREQUISITES
 ----------------------------------------------------------------------
 
-  x   = input to the engine (e.g. normalized token vector or query representation). Same type for all calls.
+  x   = raw_text to the engine (e.g. normalized token vector or query representation). Same type for all calls.
   y(x)= output of the engine (e.g. hit vector of size F, or a scalar/metric). When scalar: e.g. dominance ratio, coverage, entropy.
-  E(x)= engine mapping: E(x) returns the structural output (dominant family, metrics, hit vector) for input x. So dominantFamily(x) = dominant family from E(x); coverage(x), entropy(x), dominance(x) = Layer-1-style metrics from E(x).
+  E(x)= engine mapping: E(x) returns the structural output (dominant family, metrics, hit vector) for raw_text x. So dominantFamily(x) = dominant family from E(x); coverage(x), entropy(x), dominance(x) = Layer-1-style metrics from E(x).
 
   ε   = perturbation vector (same dimension as x). epsilonMagnitude = ||ε|| (norm of ε). For finite differences, use a small fixed scalar ε_small when computing (f(x+ε)-f(x))/||ε|| or central difference (f(x+ε)-f(x-ε))/(2||ε||).
 
@@ -41,7 +41,7 @@ I. FUNCTIONAL RESPONSE (Derivatives / Sensitivity)
 
  1. INPUT_PERTURBATION_RESPONSE
     double INPUT_PERTURBATION_RESPONSE = ||y(x+ε) - y(x)|| / (||ε|| + eps);
-    Measures sensitivity to minimal input change. y = output vector (e.g. hit vector). eps = 1e-12.
+    Measures sensitivity to minimal raw_text change. y = output vector (e.g. hit vector). eps = 1e-12.
 
  2. DOMINANT_FAMILY_STABILITY
     boolean DOMINANT_FAMILY_STABILITY = (dominantFamily(x) == dominantFamily(x+ε));
@@ -166,7 +166,7 @@ VI. FUNCTIONAL IMPLICATIONS
 
   It stops the engine from being treated as static classification.
   It answers: Is it stable? Near tipping points? Linear or curved? Chaotic? Well-conditioned? In an attractor basin? Exponential, recursive, or diffusive propagation?
-  This is real systems analysis.
+  This is real systems measurement.
 
 ----------------------------------------------------------------------
 4. AUXILIARY
@@ -182,7 +182,7 @@ VI. FUNCTIONAL IMPLICATIONS
 5. RELATION TO LAYERS 1–2
 ----------------------------------------------------------------------
 
-  Layer-6 uses Layer-1 metrics (coverage, entropy, dominance, normalizedEntropy) and Layer-2 depth mass as functions of input x (and perturbed x). It does not replace them; it analyzes their functional and dynamic behavior.
+  Layer-6 uses Layer-1 metrics (coverage, entropy, dominance, normalizedEntropy) and Layer-2 depth mass as functions of raw_text x (and perturbed x). It does not replace them; it analyzes their functional and dynamic behavior.
 
 ----------------------------------------------------------------------
 6. JAVA-STYLE PSEUDOCODE (LAYER-6)

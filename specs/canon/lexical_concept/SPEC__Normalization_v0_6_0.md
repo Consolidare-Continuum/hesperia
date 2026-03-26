@@ -2,7 +2,7 @@
 HESPERIA — RAD. DLCR-HP canon fragment (INT-001).
 -->
 
-# SPEC: L0 input normalization — v0.6.0
+# SPEC: L0 raw_text normalization — v0.6.0
 
 **ID:** `HES-SPEC-DLCR-HP-L0`  
 **Normative parent:** [SPEC__DLCR_HP_Master_v0_6_0.md](SPEC__DLCR_HP_Master_v0_6_0.md)
@@ -13,7 +13,7 @@ HESPERIA — RAD. DLCR-HP canon fragment (INT-001).
 
 ## Normative rules
 
-- Same input + same normalization resources ⇒ same `canonical_text` for the DLCR chain.
+- Same raw_text + same normalization resources ⇒ same `canonical_text` for the DLCR chain.
 - Implementation: `core.lexical.normalization` (pinned behavior via regression).
 
 ## Acceptance

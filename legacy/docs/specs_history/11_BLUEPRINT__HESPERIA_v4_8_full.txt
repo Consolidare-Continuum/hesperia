@@ -70,9 +70,9 @@ At its core, HESPERIA does four things:
    - EvidenceQuality, temporalStability, decisionIntegrity, strategicScore.  
    - Final governance decision: allow / require_correction / forbid.
 
-The **system**, in this blueprint, is the CLI pipeline:
-user input → HESPERIA core → `HESPERIAResult`.  
-Any external LLM (e.g. OpenAI assistant) is a *consumer* of that result,
+The **system**, in this blueprint, is the CLI execution_flow:
+user raw_text → HESPERIA core → `HESPERIAResult`.  
+Any external LLM (e.g. OpenAI assistant) is a *consumer* of that summary,
 not part of the system itself.
 
 
@@ -322,8 +322,8 @@ Best practices:
 6. QUERY PIPELINE (SYSTEM VIEW)
 ============================================================
 
-The query pipeline is the core of the HESPERIA system:
-input text → `HESPERIAResult`.
+The query execution_flow is the core of the HESPERIA system:
+raw_text text → `HESPERIAResult`.
 
 High‑level stages:
 1. Attribution.  
@@ -368,7 +368,7 @@ Output:
 
 GeometryService:
 - Build a `Region R` from the retrieved sides.  
-- Optionally merge with the seed side for the current input statement.
+- Optionally merge with the seed side for the current raw_text statement.
 
 Output:
 - `Region R` containing relevant sides and statements.
@@ -406,7 +406,7 @@ Governance layer:
   - governance flags: `allow`, `require_correction`, `forbid`.
 - Generate a short `explanation` string referencing specific metrics.
 
-Result assembly:
+Summary assembly:
 - Build a `HESPERIAResult` object as defined in
   14_SPEC__Services_and_APIs_v0_1.txt:
   - `input_text`, `statement_id?`,  
@@ -419,7 +419,7 @@ Result assembly:
 Best practices:
 - Always produce a `HESPERIAResult` even if retrieval is weak; let
   governance and metrics express uncertainty.
-- Persist or at least hash the result for audit when possible.
+- Persist or at least hash the summary for audit when possible.
 
 
 6.6 Semantic Stability Control Layer (Extension)
@@ -475,7 +475,7 @@ External LLM wrappers should:
 - Use `supporting_statements` and `sides` to:
   - explain reasoning,
   - show relevant book/author fragments,
-  - justify or contest user input.
+  - justify or contest user raw_text.
 
 Best practices:
 - Treat HESPERIA’s metrics as *constraints* on LLM behavior, not
@@ -491,7 +491,7 @@ Best practices:
 For serious use, HESPERIA must be observable.
 
 Recommended logs per query:
-- Input text hash or ID.  
+- Raw_text text hash or ID.  
 - `statement_id` and main attribution (area/family).  
 - Key metrics: `loopability`, `coveragePhi`, `tensionEnergy`,
   `O_obstacle`, `decisionIntegrity`, `strategicScore`.  
@@ -540,7 +540,7 @@ Key layers:
   - `attribution.py` ↔ 12 (skeleton)  
   - `traversal.py` ↔ 21 + 40 (simplified)  
   - `governance.py` ↔ 41  
-  - `pipeline.py` ↔ this blueprint’s query pipeline.
+  - `execution_flow.py` ↔ this blueprint’s query execution_flow.
 
 Best practices:
 - Keep Python behavior mathematically consistent with Java specs.  

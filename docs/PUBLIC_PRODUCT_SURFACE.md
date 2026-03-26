@@ -13,12 +13,12 @@
 ## Code entry points
 
 - **Projection package:** `hesperia/engine/projection/` — `public_projection.py`, `schema_enforcer.py`, `sanitizer.py`.
-- **Analysis façade:** `runtime.services.analysis_service.run_structural_analysis` / `run_structural_analysis_batch` — always calls `project_to_public` before returning.
+- **Measurement façade:** `runtime.services.analysis_service.run_structural_analysis` / `run_structural_analysis_batch` — always calls `project_to_public` before returning.
 - **Public JSON writes:** `runtime.artifact_writer.write_public_json` — projects, attaches version envelope, validates keys.
 
 ## HTTP
 
-| Deployment | Module | Product routes |
+| Deployment | Component | Product routes |
 |------------|--------|----------------|
 | Shipping / Docker | `runtime.shipping.api_main` | `POST /analyze`, `/compare`, `/batch` (alias `/batch-analyze`), `GET /health`. Optional `GET /version` when `HESPERIA_EXPOSE_VERSION=1` or non-strict dev (`HESPERIA_PRODUCT_SURFACE=0` + `capabilities.yaml`). |
 | GPT / OpenAPI-style | `runtime.api.main` | `POST /hesperia/analyze`, `/hesperia/compare`, `/hesperia/batch`, `GET /health`. |
@@ -44,8 +44,8 @@ hesperia batch --texts "a" "b"
 
 | Suite | Command | Scope |
 |--------|---------|--------|
-| **Product** | `python3 -m runtime.pipeline.run_e2e_product` | One projected artifact + schema guard. |
-| **Internal (dev)** | `python3 -m runtime.pipeline.run_e2e_all` | Full stack, research collateral, optional TFP smoke, etc. |
+| **Product** | `python3 -m runtime.execution_flow.run_e2e_product` | One projected artifact + schema guard. |
+| **Internal (dev)** | `python3 -m runtime.execution_flow.run_e2e_all` | Full stack, research collateral, optional TFP smoke, etc. |
 
 ## Docker
 
@@ -54,7 +54,7 @@ hesperia batch --texts "a" "b"
 
 ## Security notes
 
-- Do not import internal pipeline modules from API handlers; use `analysis_service` only.
+- Do not import internal execution_flow modules from API handlers; use `analysis_service` only.
 - Responses are validated with `runtime.shipping.schema_guard.validate_against_public_schema` at boundaries where applicable.
 
 See also: `docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md`, `AGENTS.md`.

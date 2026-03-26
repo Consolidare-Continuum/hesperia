@@ -99,7 +99,7 @@ Only **R_active** is used for **current decision**; R_submerged remains stored.
 
 ---
 
-## 7. Re‑analysis after cut
+## 7. Re‑measurement after cut
 
 After truncation:
 
@@ -223,7 +223,7 @@ All of the above is **governance / decision‑layer math**. Kernel and safeguard
 ## 12. Implementation gates (Phase and safety)
 
 - **Phase**: Waterline is **Phase D** material (capacity doctrine). It may be **documented now** but not wired into traversal or safeguard while Hesperia is in infrastructure hardening (direction A).
-- **No dynamic control yet**: waterLevel and cut rules are **not** to be used as dynamic modulation of traversal in current phase; they are used only for analysis or offline decision support.
+- **No dynamic control yet**: waterLevel and cut rules are **not** to be used as dynamic modulation of traversal in current phase; they are used only for measurement or offline decision support.
 - **Entry point**: When implemented, waterline must run **after ContextSnapshot** and **before Decision**, never mid‑traversal in the kernel.
 
 ---

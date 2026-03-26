@@ -9,7 +9,7 @@
 
 1. **Environment:** Use a representative environment (same Python version, no debug flags). Optional: set `HESPERIA_RUNTIME_MODE=public_runtime` to match production.
 
-2. **Input:** Fixed text, e.g.  
+2. **Raw_text:** Fixed text, e.g.  
    `text = "justice lie fairness truth good order harm freedom"`  
    (or a longer paragraph if that is the typical unit).
 
@@ -21,13 +21,13 @@
    - Use a memory profiler (e.g. `memory_profiler`, `tracemalloc`) to measure peak memory during the call, or run under a tool that reports RSS.
    - Record **peak memory** (MB or GB).
 
-5. **Baseline comparison:** If a pre-seal baseline was recorded (same input, same machine/profile), compare:
+5. **Baseline comparison:** If a pre-seal baseline was recorded (same raw_text, same machine/profile), compare:
    - Runtime: within expected bounds (e.g. within 2× or within a stated SLA).
    - Memory: no large unexplained increase.
 
 ---
 
-## Expected result
+## Expected summary
 
 - **Runtime:** Recorded and (if baseline exists) within acceptable range. No order-of-magnitude regression.
 - **Memory:** Recorded; no obvious leak (single run). If baseline exists, within expected range.
@@ -38,7 +38,7 @@
 
 | Symptom | Action |
 |--------|--------|
-| Large runtime increase vs baseline | Profile hot paths; check for redundant projection or duplicate pipeline runs. |
+| Large runtime increase vs baseline | Profile hot paths; check for redundant projection or duplicate execution_flow runs. |
 | High or growing memory | Check for unbounded caches, large intermediate structures, or references holding state. |
 
 ---
@@ -48,7 +48,7 @@
 Document in this audit (or in the consistency report):
 
 - **Runtime (s):** e.g. mean ± std over N runs.
-- **Memory:** e.g. peak RSS or profiler result.
+- **Memory:** e.g. peak RSS or profiler summary.
 - **Baseline (if any):** pre-seal values and comparison.
 - **Pass/fail:** Pass if within expected bounds; fail if regression exceeds policy threshold.
 

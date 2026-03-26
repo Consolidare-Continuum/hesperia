@@ -40,7 +40,7 @@ def to_minimal_operational_result(result: dict[str, Any]) -> dict[str, Any]:
         t = 0.0
     if not math.isfinite(o):
         o = 0.0
-    return {
+    out = {
         "dominant_area": da,
         "dominant_family": df,
         "governance": g,
@@ -48,10 +48,15 @@ def to_minimal_operational_result(result: dict[str, Any]) -> dict[str, Any]:
         "tension_energy": t,
         "obstacle_score": o,
     }
+    # Non-breaking semantic aliases for clearer API language.
+    out["constraint_status"] = g
+    out["structural_recurrence"] = l
+    out["resistance_index"] = o
+    return out
 
 
 def make_error_result(message: str, code: int = 500) -> dict[str, Any]:
-    """v0.3.2 minimal error result: exactly 3 keys (26_SPEC §2.2)."""
+    """v0.3.2 minimal error summary: exactly 3 keys (26_SPEC §2.2)."""
     return {
         "error": True,
         "message": str(message),

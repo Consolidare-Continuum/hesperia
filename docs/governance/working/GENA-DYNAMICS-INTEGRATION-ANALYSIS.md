@@ -1,8 +1,8 @@
 <!--
-Gena — TRIZ / session graph → field dynamics. Analysis of wiring (what’s new, how it flows).
+Gena — TRIZ / session graph → field dynamics. Measurement of wiring (what’s new, how it flows).
 -->
 
-# Gena — dynamics integration analysis (TRIZ → L4/L5/L6/L7)
+# Gena — dynamics integration measurement (TRIZ → L4/L5/L6/L7)
 
 **Owner lens:** session → clinical graph → **TRIZ complete** → area-level **contradiction drive** consumed by `hesperia.extensions.dynamics`.  
 **Related:** [GENA-OPEN-WORKFLOW-PROCEED.md](GENA-OPEN-WORKFLOW-PROCEED.md) · [ETHAN-OPEN-WORKFLOW-PROCEED.md](ETHAN-OPEN-WORKFLOW-PROCEED.md) · [E2E_RUN_ORDER.md](../../E2E_RUN_ORDER.md) · [HESPERIA_VARIABLE_CATALOG.md](../../HESPERIA_VARIABLE_CATALOG.md)
@@ -57,17 +57,17 @@ flowchart LR
 
 ---
 
-## 3. Module map (Gena touchpoints)
+## 3. Component map (Gena touchpoints)
 
-| Step | Module | Function |
+| Step | Component | Function |
 |------|--------|----------|
 | Session → graph | `hesperia.engine.kme.clinical_bridge` | `build_clinical_active_graph` |
-| TRIZ | `hesperia.extensions.triz.pipeline` | `active_graph_from_payload`, `run_triz_analysis_complete` |
-| Topology maps | `runtime.pipeline.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
+| TRIZ | `hesperia.extensions.triz.execution_flow` | `active_graph_from_payload`, `run_triz_analysis_complete` |
+| Topology maps | `runtime.execution_flow.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
 | Rows → L7 vector | `hesperia.extensions.dynamics.triz_signal` | `contradiction_signal_12_from_con_rows` |
 | Ξ boost | `hesperia.extensions.dynamics.xi_proxy` | `apply_xi_to_contradiction_signal`; optional `xi_proxy_from_kme_active_graph` when `HESPERIA_FIELD_DYNAMICS_XI_KME=1` |
 | Orchestration | `hesperia.extensions.dynamics.e2e_bridge` | `run_field_dynamics_e2e_artifact` |
-| Entry from runner | `runtime.pipeline.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
+| Entry from runner | `runtime.execution_flow.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
 
 ---
 
@@ -94,7 +94,7 @@ If parsing fails or graph empty: `rows == []`, `triz_meta` may carry `triz_note`
 | `HESPERIA_FIELD_DYNAMICS_XI=0` | Skip Ξ boost; base `c_sig` only |
 | `HESPERIA_FIELD_DYNAMICS_XI_SCALE` | Max per-area boost scale (default 0.14) |
 | `HESPERIA_FIELD_DYNAMICS_XI_KME=1` | Blend TRIZ-row Ξ with **full-graph KME** `ActiveGraph` tension (default **0**) |
-| `HESPERIA_FIELD_DYNAMICS_XI_KME_WEIGHT` | Blend weight for KME vs TRIZ profiles in `[0,1]` (default **0.55**) |
+| `HESPERIA_FIELD_DYNAMICS_XI_KME_WEIGHT` | Blend coefficient for KME vs TRIZ profiles in `[0,1]` (default **0.55**) |
 
 Phase flags (Phase2/3/4) only change **which layers** consume the same `c_sig`; they do not change TRIZ wiring.
 
@@ -131,7 +131,7 @@ HESPERIA_FIELD_DYNAMICS_PHASE3=1 \
 HESPERIA_FIELD_DYNAMICS_PHASE4=1 \
 HESPERIA_FIELD_DYNAMICS_TRIZ=1 \
 HESPERIA_FIELD_DYNAMICS_XI=1 \
-python3 -m runtime.pipeline.run_e2e_all \
+python3 -m runtime.execution_flow.run_e2e_all \
   --out-dir assets/artifacts/e2e_full_deliverables \
   --text "Your clinical or rich session text here."
 ```
@@ -148,7 +148,7 @@ python3 -m runtime.pipeline.run_e2e_all \
 
 ```bash
 # Dynamics without TRIZ (hits only, faster)
-HESPERIA_FIELD_DYNAMICS=1 HESPERIA_FIELD_DYNAMICS_TRIZ=0 python3 -m runtime.pipeline.run_e2e_all ...
+HESPERIA_FIELD_DYNAMICS=1 HESPERIA_FIELD_DYNAMICS_TRIZ=0 python3 -m runtime.execution_flow.run_e2e_all ...
 ```
 
 See [E2E_RUN_ORDER.md](../../E2E_RUN_ORDER.md) for artifact order and paths.

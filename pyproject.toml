@@ -4,8 +4,8 @@
 
 [project]
 name = "hesperia-engine-dynamics"
-version = "0.5.1"
-description = "Hesperia Engine Dynamics — sealed multiscale semantic physics (v0.5.1)"
+version = "0.5.2"
+description = "Hesperia Engine Dynamics — sealed multiscale semantic physics (v0.5.2)"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "Restricted Research Disclosure — see LEGAL_NOTICE.md" }

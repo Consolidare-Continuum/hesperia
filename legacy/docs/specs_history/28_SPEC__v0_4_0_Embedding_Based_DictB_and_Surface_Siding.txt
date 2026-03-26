@@ -196,7 +196,7 @@ Output of this phase: candidates_clean (deduped set)
 8A.7 What this does NOT change
 
   Does not change primary Dict A assignment, altitude, traversal seeding, or
-  Dict B classification logic. Purely structural validation and analysis.
+  Dict B classification logic. Purely structural validation and measurement.
 
 8A.8 Additional artifacts (affinity layer)
 

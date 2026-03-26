@@ -15,7 +15,7 @@ From the 35 derived metrics, only a subset is realistically **usable and marketa
 3. **Business meaning** — Useful for comparing texts, theories, or domains.
 4. **Dashboard clarity** — Each metric answers a distinct question.
 
-**Result:** 14 strong market-facing metrics. The remaining 21 are **engineering diagnostics**: useful internally, not required for external storytelling.
+**Summary:** 14 strong market-facing metrics. The remaining 21 are **engineering diagnostics**: useful internally, not required for external storytelling.
 
 ---
 

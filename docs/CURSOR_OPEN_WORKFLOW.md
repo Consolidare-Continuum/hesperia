@@ -15,7 +15,7 @@ HESPERIA — RAD. Cursor agent entry: what is OPEN and how to proceed.
 
 ## 1. MCP note
 
-**Pipeline status / current step** reads `workflow_driver_current.txt` from the configured repo. If you see a non-Hesperia task (e.g. another project), treat **§2** as authoritative for **this** workspace.
+**Execution Flow status / current step** reads `workflow_driver_current.txt` from the configured repo. If you see a non-Hesperia task (e.g. another project), treat **§2** as authoritative for **this** workspace.
 
 ---
 
@@ -39,10 +39,10 @@ HESPERIA — RAD. Cursor agent entry: what is OPEN and how to proceed.
 
 ## 3. Cursor proceed checklist
 
-1. Confirm workspace = **Hesperia** root (`hesperia.engine`, `runtime/`, `docs/specs/`).  
-2. Read current row in **§2** (top incomplete).  
-3. Implement or document; keep **default E2E unchanged** unless task explicitly gates on env flag.  
-4. Run targeted tests + `python3 -m pytest tests/ -q --tb=no -x` for smoke (adjust scope as needed).  
+1. Confirm workspace = **Hesperia** root (`hesperia.engine`, `runtime/`, `docs/specs/`).
+2. Read current row in **§2** (top incomplete).
+3. Implement or document; keep **default E2E unchanged** unless task explicitly gates on env flag.
+4. Run targeted tests + `python3 -m pytest tests/ -q --tb=no -x` for smoke (adjust scope as needed).
 5. Update the task doc **Status** or a one-line **Progress** when a phase lands.
 
 ---

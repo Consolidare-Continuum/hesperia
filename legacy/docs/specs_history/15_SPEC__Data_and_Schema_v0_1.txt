@@ -131,7 +131,7 @@ Collection `words`:
 - `embedding`    (float[D])
 
 Usage:
-- Supports nearest‑neighbor lookup in the word attribution pipeline.
+- Supports nearest‑neighbor lookup in the word attribution execution_flow.
 
 
 Collection `statements`:
@@ -142,7 +142,7 @@ Collection `statements`:
 - `embedding`    (float[D])
 
 Usage:
-- Core retrieval for query pipeline; always filtered or biased by
+- Core retrieval for query execution_flow; always filtered or biased by
   `family_id` / `area_id`.
 
 
@@ -188,7 +188,7 @@ List<StatementHit> nearestStatements(double[] E_stmt,
 3. DB‑CENTRIC PIPELINE: INGESTION
 ============================================================
 
-This section describes **how** the ingestion pipeline uses the DB,
+This section describes **how** the ingestion execution_flow uses the DB,
 step‑by‑step. High‑level attribution/traversal logic is defined in
 other specs; here we assume we already have a `StatementAttribution`
 object and an embedding.
@@ -266,7 +266,7 @@ SET credibility = EXCLUDED.credibility,
 
 
 --------------------------
-3.2 Dictionary updates (backward pipeline)
+3.2 Dictionary updates (backward execution_flow)
 --------------------------
 
 When backward evolution decides to correct a lemma’s family:
@@ -289,7 +289,7 @@ in the vector DB.
 ============================================================
 
 Given:
-- User input `text`
+- User raw_text `text`
 - Its `StatementAttribution` and `E_statement`
 
 Goal:

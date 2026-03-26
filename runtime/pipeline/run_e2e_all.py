@@ -83,6 +83,8 @@ def _finalize_e2e_payload(data: dict[str, Any], modules_used: list[str]) -> dict
         data,
         calibration_profile=default_calibration_profile(),
         pipeline_version=e2e_pipeline_version(),
+        execution_flow_version=e2e_pipeline_version(),
+        orchestration_mode="E2E_BATCH",
         run_id=rid,
         modules_used=modules_used,
     )
@@ -129,15 +131,15 @@ def run_e2e_sentence(out_path: Path, text: str) -> None:
         r1_r4_levels=["R1", "R2", "R3", "R4"],
     )
     out = {
-        "input": {"text_preview": text[:200] + ("..." if len(text) > 200 else ""), "length": len(text)},
-        "result": minimal,
-        "extended": dict(extended),
+        "raw_text": {"text_preview": text[:200] + ("..." if len(text) > 200 else ""), "length": len(text)},
+        "summary": minimal,
+        "diagnostics": dict(extended),
     }
-    if isinstance(out["extended"].get("family_vector"), list):
-        out["extended"]["family_vector"] = {"length": len(out["extended"]["family_vector"]), "_truncated": True}
-    if isinstance(out["extended"].get("family_vector_pre_sharpen"), list):
-        out["extended"]["family_vector_pre_sharpen"] = {
-            "length": len(out["extended"]["family_vector_pre_sharpen"]),
+    if isinstance(out["diagnostics"].get("family_vector"), list):
+        out["diagnostics"]["family_vector"] = {"length": len(out["diagnostics"]["family_vector"]), "_truncated": True}
+    if isinstance(out["diagnostics"].get("family_vector_pre_sharpen"), list):
+        out["diagnostics"]["family_vector_pre_sharpen"] = {
+            "length": len(out["diagnostics"]["family_vector_pre_sharpen"]),
             "_truncated": True,
         }
     out = _round_floats(out)
@@ -169,10 +171,10 @@ def run_e2e_r1_r4(out_path: Path, text: str) -> None:
     """Run R1–R4 pipeline; write single JSON with units + book_profile."""
     from runtime.pipeline.r1_r4_pipeline import run_full_pipeline_to_json
 
-    result = run_full_pipeline_to_json(text, book_id="e2e", levels=["R1", "R2", "R3", "R4"])
+    summary_payload = run_full_pipeline_to_json(text, book_id="e2e", levels=["R1", "R2", "R3", "R4"])
     from core.projection import apply_public_projection
-    result = apply_public_projection(result)
-    _write_e2e_json(out_path, result, ["runtime.pipeline.r1_r4_pipeline"])
+    summary_payload = apply_public_projection(summary_payload)
+    _write_e2e_json(out_path, summary_payload, ["runtime.pipeline.r1_r4_pipeline"])
 
 
 def run_e2e_sphere_math_values(out_path: Path, text: str) -> None:
@@ -195,16 +197,16 @@ def run_e2e_domain_metrics(out_path: Path, text: str) -> None:
 
     assets = _HESPERIA / "lexicon" / "curated"
     domain_constants_path = _HESPERIA / "assets" / "data" / "domain_constants.json"
-    result = run_structural_analysis(
+    summary_payload = run_structural_analysis(
         text,
         assets_root=assets,
         stages="full",
         enable_domain_metrics=True,
         domain_constants_path=domain_constants_path if domain_constants_path.exists() else None,
     )
-    out_data = result.get("domain_metrics")
+    out_data = summary_payload.get("domain_metrics")
     if not out_data:
-        out_data = {"_error": "domain_metrics not in result", "sourceId": "e2e_domain_metrics"}
+        out_data = {"_error": "domain_metrics not in summary_payload", "sourceId": "e2e_domain_metrics"}
     write_public_json(out_path, out_data)
 
 
@@ -392,7 +394,7 @@ def run_e2e_session_kme(out_path: Path, text: str) -> None:
         body = {"report": metric_report_to_dict(report)}
     except Exception as e:
         body = {"_error": str(e), "sourceId": "e2e_session"}
-    out = {"input": _text_preview(text), **body}
+    out = {"raw_text": _text_preview(text), **body, "input": _text_preview(text)}
     out = _round_floats(out)
     from core.projection import apply_public_projection
 
@@ -442,7 +444,7 @@ def run_e2e_triz_complete(out_path: Path, text: str) -> None:
         body = {"triz_complete": content}
     except Exception as e:
         body = {"_error": str(e)}
-    out = {"input": _text_preview(text), **body}
+    out = {"raw_text": _text_preview(text), **body, "input": _text_preview(text)}
     out = _round_floats(out)
     from core.projection import apply_public_projection
 
@@ -452,7 +454,7 @@ def run_e2e_triz_complete(out_path: Path, text: str) -> None:
 
 def run_e2e_session_topology(out_path: Path, text: str) -> None:
     """Clinical session topology: segmented activation, transitions, aggression curve, defenses."""
-    from research.clinical_tfp.session_topology import run_session_topology
+    from hesperia.tfp import run_session_topology
 
     max_segments = 12
     try:
@@ -470,7 +472,7 @@ def run_e2e_session_topology(out_path: Path, text: str) -> None:
         body = {"_error": str(e)}
     out = _round_floats({"input": _text_preview(text), **body})
     # Not apply_public_projection: clinical topology keys are not on the public allowlist.
-    _write_e2e_json(out_path, out, ["research.clinical_tfp.session_topology"])
+    _write_e2e_json(out_path, out, ["hesperia.tfp"])
 
 
 def run_e2e_tfp_smoke(out_path: Path) -> None:
@@ -480,7 +482,7 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
 
     Structural batch on smoke sessions; analyze_session + detect_tfp_stage; speaker-aware smoke.
     """
-    from research.clinical_tfp.stage_detection import TFP_STAGES, detect_tfp_stage
+    from hesperia.tfp import TFP_STAGES, detect_tfp_stage
     from hesperia.nlp.session_parser import analyze_session, analyze_session_speaker_aware
     from runtime.services.analysis_service import run_structural_analysis_batch
 
@@ -611,7 +613,7 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
     if session_dlcr_bundles:
         out["session_dlcr_bundles"] = session_dlcr_bundles
     out = _round_floats(out)
-    _write_e2e_json(out_path, out, ["runtime.services.analysis_service", "research.clinical_tfp.stage_detection", "hesperia.nlp.session_parser"])
+    _write_e2e_json(out_path, out, ["runtime.services.analysis_service", "hesperia.tfp", "hesperia.nlp.session_parser"])
 
 
 def run_e2e_dlcr(out_path: Path, text: str) -> None:
@@ -760,7 +762,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put("shipping_compare", _compare)
 
     def _interpret() -> dict[str, Any]:
-        from research.clinical_tfp.interpretation import interpret_session
+        from hesperia.tfp import interpret_session
         from hesperia.nlp.session_parser import analyze_session
 
         try:

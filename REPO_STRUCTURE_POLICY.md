@@ -22,7 +22,7 @@ This repo uses a **pragmatic** layout aligned with Python import roots (`core`, 
 | **`examples/`** | Small runnable demos / sample I/O | `examples/extensions/triz_demo`, minimal scripts | Production pipelines |
 | **`benchmarks/`** | Evaluation corpora (optional extensions) | `benchmarks/extensions/triz` | Shipping runtime |
 | **`deploy/`** | Compose / Docker samples | `deploy/extensions/triz_mvp` | Core engine code |
-| **`sphere/`** | Internal structural / USF compute | Pipeline helpers, prolog-adjacent modules | Public product API surface |
+| **`sphere/`** | Internal structural / USF compute | Execution Flow helpers, prolog-adjacent modules | Public product API surface |
 | **`release/`** | Frozen seal bundles | `release/v0.5.0/` audit package | Mutable application code |
 | **`outputs/`** | Generated artifacts (default: gitignored) | Local E2E/smoke/benchmark dumps | Silent commit of unreviewed blobs |
 | **`tests/`** | Pytest only | Tests, fixtures | Business logic |

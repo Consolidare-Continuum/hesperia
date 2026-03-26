@@ -4,7 +4,7 @@
 # No reproduction, redistribution, or use without explicit written permission from the author.
 # See LEGAL_NOTICE.md for full terms.
 
-"""Public projection layer — map internal structure to safe public structure."""
+"""Public projection layer — map internal topology to safe public topology."""
 
 from core.projection.public_projection_layer import (
     apply_public_projection,

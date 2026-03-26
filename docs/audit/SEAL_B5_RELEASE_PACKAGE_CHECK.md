@@ -12,7 +12,7 @@
 2. **Inspect contents** of the built package (e.g. unpack the sdist/wheel or copy of the release tree).
 
 3. **Ensure absence of:**
-   - **docs/internal/** — Internal registries, math/pipeline docs, topology details.
+   - **docs/internal/** — Internal registries, math/execution_flow docs, topology details.
    - **Internal registries** — Any file under docs/internal or paths that expose MATH_LAYER_REGISTRY, PIPELINE_LAYER_REGISTRY, or full topology.
    - **Topology helpers** — Raw topology modules or scripts intended only for internal use (e.g. invariant_catalog used from public API); core/topology may be present only if no public API exposes it.
    - **Debug tooling** — Scripts or entry points that dump internal state, layer intermediates, or bridge internals.
@@ -20,7 +20,7 @@
 
 4. **Verify presence of (allowed):**
    - **runtime/** — Public runners, artifact_writer, public_reports, dossier (as defined in release content policy).
-   - **core/services/** — Analysis, calibration, report façades.
+   - **core/services/** — Measurement, calibration, report façades.
    - **core/projection/** — Public projection layer (no raw topology exposure).
    - **assets/public/** — Public ontology map, public output schema, public metric profiles, public audit manifest schema.
    - **Governance subset** — Only governance docs that are safe for the release audience (e.g. PUBLIC_* policies, VOCABULARY_MAP, ENTRYPOINT_CLASSIFICATION); not docs/internal or internal-only registries.
@@ -29,7 +29,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - Bundle does **not** contain: docs/internal, internal registries, topology helpers (in exposed form), debug tooling, internal spec history.
 - Bundle **does** contain: runtime (public surface), core/services, core/projection, assets/public, and the intended governance subset.

@@ -7,8 +7,8 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-E2E: run one sentence through analyze (6-key result + attribution + dict_b + R1–R4).
-Output JSON contains all math currently calculated: result, extended (attribution, dict_b, r1_r4 units + book_profile).
+E2E: run one sentence through analyze (6-key SUMMARY + attribution + dict_b + R1–R4).
+Output JSON contains all computed math: SUMMARY and DIAGNOSTICS (attribution, dict_b, r1_r4 units + book_profile).
 Usage: python3 -m runtime.pipeline.run_e2e_sentence [--text "sentence"] [--out path.json] [--no-r1-r4] [--truncate-vector]
 """
 from __future__ import annotations
@@ -35,7 +35,8 @@ def _round_floats(obj, ndigits=6):
 def _format_txt_report(out: dict) -> str:
     """Build a .txt report: header, per-phrase (R1), per-paragraph (R2), scale/smooth, then full JSON."""
     lines = []
-    r1_r4 = (out.get("extended") or {}).get("r1_r4") or {}
+    diagnostics = out.get("diagnostics") or out.get("extended") or {}
+    r1_r4 = diagnostics.get("r1_r4") or {}
     units = r1_r4.get("units") or []
     book_profile = r1_r4.get("book_profile") or {}
 
@@ -43,10 +44,10 @@ def _format_txt_report(out: dict) -> str:
     lines.append("E2E RUN OUTPUT — full math (per phrase, per paragraph, scale & smooth)")
     lines.append("=" * 60)
     lines.append("")
-    inp = out.get("input") or {}
+    inp = out.get("raw_text") or out.get("input") or {}
     lines.append("INPUT: length={}  preview={}".format(inp.get("length", 0), (inp.get("text_preview") or "")[:80]))
     lines.append("")
-    res = out.get("result") or {}
+    res = out.get("summary") or out.get("result") or {}
     lines.append("RESULT (6-key): dominant_area={} dominant_family={} governance={} loopability={} tension_energy={} obstacle_score={}".format(
         res.get("dominant_area"), res.get("dominant_family"), res.get("governance"),
         res.get("loopability"), res.get("tension_energy"), res.get("obstacle_score")))
@@ -111,7 +112,7 @@ def _format_txt_report(out: dict) -> str:
 def main() -> int:
     import argparse
     ap = argparse.ArgumentParser(
-        description="E2E: one sentence → full output (result + extended + R1–R4 units & book_profile)."
+        description="E2E: one sentence -> full output (SUMMARY + DIAGNOSTICS + R1-R4 units & book_profile)."
     )
     ap.add_argument(
         "--text",
@@ -127,12 +128,12 @@ def main() -> int:
     ap.add_argument(
         "--no-r1-r4",
         action="store_true",
-        help="Do not run R1–R4 pipeline (extended.r1_r4 will be absent)",
+        help="Do not run R1-R4 execution flow (diagnostics.r1_r4 will be absent)",
     )
     ap.add_argument(
         "--truncate-vector",
         action="store_true",
-        help="Write family_vector as length only in extended (keeps file small)",
+        help="Write family_vector as length only in diagnostics (keeps file small)",
     )
     ap.add_argument(
         "--no-round",
@@ -164,21 +165,25 @@ def main() -> int:
         return 1
 
     out = {
-        "input": {
+        "raw_text": {
             "text_preview": text[:200] + ("..." if len(text) > 200 else ""),
             "length": len(text),
         },
-        "result": minimal,
+        "summary": minimal,
+        "diagnostics": dict(extended),
+        # Compatibility mirror.
         "extended": dict(extended),
     }
 
-    if args.truncate_vector and isinstance(out["extended"].get("family_vector"), list):
-        out["extended"]["family_vector"] = {"length": len(out["extended"]["family_vector"]), "_truncated": True}
-    if args.truncate_vector and isinstance(out["extended"].get("family_vector_pre_sharpen"), list):
-        out["extended"]["family_vector_pre_sharpen"] = {
-            "length": len(out["extended"]["family_vector_pre_sharpen"]),
+    if args.truncate_vector and isinstance(out["diagnostics"].get("family_vector"), list):
+        out["diagnostics"]["family_vector"] = {"length": len(out["diagnostics"]["family_vector"]), "_truncated": True}
+        out["extended"]["family_vector"] = out["diagnostics"]["family_vector"]
+    if args.truncate_vector and isinstance(out["diagnostics"].get("family_vector_pre_sharpen"), list):
+        out["diagnostics"]["family_vector_pre_sharpen"] = {
+            "length": len(out["diagnostics"]["family_vector_pre_sharpen"]),
             "_truncated": True,
         }
+        out["extended"]["family_vector_pre_sharpen"] = out["diagnostics"]["family_vector_pre_sharpen"]
 
     if not args.no_round:
         out = _round_floats(out)

@@ -14,7 +14,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ---
 
-## 1. Result summary
+## 1. Summary summary
 
 **Cross-check: PASS.** Prerequisite chains and variable references are consistent across L1–L9. One minor naming duality in 39_SPEC (variable 10: header "PRINCIPAL_COMPONENT_ENERGY_RATIO", body/formula "PC1_ENERGY_RATIO") — same quantity, no action required.
 

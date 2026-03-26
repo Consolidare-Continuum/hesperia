@@ -5,8 +5,8 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA Engine Dynamics — analyze: text → attribution → guards → 6-key result.
-Single entry point. Dict A/B via lexicon frozen bundle v0_5_0 (see VERSION.yaml).
+HESPERIA Engine Dynamics — analyze: RAW_TEXT -> attribution -> guards -> SUMMARY.
+Single execution entry point. Dict A/B via lexicon frozen bundle v0_5_0 (see VERSION.yaml).
 """
 from __future__ import annotations
 
@@ -66,8 +66,8 @@ def analyze(
     r1_r4_levels: list[str] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     """
-    Run pipeline: normalize → tokenize → attribution → core → Sigma.
-    Returns (minimal_6key_result, extended_metrics).
+    Run execution flow: TRANSFORM normalize -> TRANSFORM tokenize -> COMPUTE attribution -> COMPUTE core -> EVALUATE Sigma.
+    Returns (SUMMARY, DIAGNOSTICS).
 
     When r1_r4=True, runs R1–R4 reading-scale pipeline and attaches
     extended["r1_r4"] = {"units": [...], "book_profile": {...}}.
@@ -88,22 +88,22 @@ def analyze(
             text, cap=cap, assets_root=assets_root, mode=_MODE
         )
     family_vector = extended.get("family_vector") if isinstance(extended, dict) else None
-    b_result: dict[str, Any] | None = None
+    diagnostics_dict_b: dict[str, Any] | None = None
     if _MODE == "v06" and family_vector and len(family_vector) == 288:
         try:
             from core.math.dict_b import run_dict_b_pipeline
-            b_result = run_dict_b_pipeline(list(family_vector))
+            diagnostics_dict_b = run_dict_b_pipeline(list(family_vector))
             raw = {
-                "dominant_area": b_result["dominant_area"],
-                "dominant_family": b_result["dominant_family"],
-                "governance": b_result["governance"],
-                "loopability": b_result["loopability"],
-                "tension_energy": b_result["tension_energy"],
-                "obstacle_score": b_result["obstacle_score"],
+                "dominant_area": diagnostics_dict_b["dominant_area"],
+                "dominant_family": diagnostics_dict_b["dominant_family"],
+                "governance": diagnostics_dict_b["governance"],
+                "loopability": diagnostics_dict_b["loopability"],
+                "tension_energy": diagnostics_dict_b["tension_energy"],
+                "obstacle_score": diagnostics_dict_b["obstacle_score"],
             }
         except Exception:
             raw = None
-            b_result = None
+            diagnostics_dict_b = None
     else:
         raw = None
     if raw is None:
@@ -171,11 +171,11 @@ def analyze(
             }
         except Exception as e:
             extended_out["lexical_evidence_dlcr"] = {"_error": str(e)[:240]}
-    if b_result is not None:
+    if diagnostics_dict_b is not None:
         extended_out["dict_b"] = {
-            "exclusion_conflict_energy": b_result["exclusion_conflict_energy"],
-            "coherence_index": b_result["coherence_index"],
-            "entropy_area": b_result["entropy_area"],
+            "exclusion_conflict_energy": diagnostics_dict_b["exclusion_conflict_energy"],
+            "coherence_index": diagnostics_dict_b["coherence_index"],
+            "entropy_area": diagnostics_dict_b["entropy_area"],
         }
     if r1_r4:
         try:

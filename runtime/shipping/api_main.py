@@ -126,12 +126,16 @@ def create_app():
                 data,
                 calibration_profile=default_calibration_profile(),
                 pipeline_version=api_pipeline_version(),
+                execution_flow_version=api_pipeline_version(),
+                orchestration_mode="API_SYNC",
             )
         else:
             merged = attach_public_output_metadata(
                 {},
                 calibration_profile=default_calibration_profile(),
                 pipeline_version=api_pipeline_version(),
+                execution_flow_version=api_pipeline_version(),
+                orchestration_mode="API_SYNC",
             )
             merged["payload"] = data
         validate_against_public_schema(merged)
@@ -181,7 +185,7 @@ def create_app():
             from runtime.shipping.version_info import VERSION
             ver = VERSION
         except Exception:
-            ver = "0.5.1"
+            ver = "0.5.2"
         print("HESPERIA runtime initialized", file=sys.stderr)
         print(f"version: {ver}", file=sys.stderr)
         print("mode: sealed_evaluator", file=sys.stderr)
@@ -199,7 +203,7 @@ def create_app():
 
                 return {"version": VERSION, "commit": COMMIT, "build": BUILD or "unknown"}
             except Exception:
-                return {"version": "0.5.1", "commit": "unknown", "build": "unknown"}
+                return {"version": "0.5.2", "commit": "unknown", "build": "unknown"}
 
     @app.post("/analyze")
     def analyze(analyze_body: AnalyzeBody = Body(...)):
@@ -209,8 +213,8 @@ def create_app():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
         from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
-        result = run_structural_analysis(analyze_body.text, assets_root=assets, stages="full")
-        return _safe_response(result)
+        summary_payload = run_structural_analysis(analyze_body.text, assets_root=assets, stages="full")
+        return _safe_response(summary_payload)
 
     @app.post("/compare")
     def compare(compare_body: CompareBody = Body(...)):
@@ -230,6 +234,8 @@ def create_app():
             "run": "compare",
             "text1_preview": compare_body.text1[:80],
             "text2_preview": compare_body.text2[:80],
+            "summary1_trust": d1.get("OUTPUT_TRUST_TAG"),
+            "summary2_trust": d2.get("OUTPUT_TRUST_TAG"),
             "result1_trust": d1.get("OUTPUT_TRUST_TAG"),
             "result2_trust": d2.get("OUTPUT_TRUST_TAG"),
             "dominant_match": _same_dominant(dom1, dom2),

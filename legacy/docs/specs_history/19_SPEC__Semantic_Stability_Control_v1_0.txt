@@ -22,7 +22,7 @@ changes are permitted.
 
 HESPERIA is modeled as:
 
-Input Text ↓ Attribution ↓ Region Construction ↓ Metric Computation ↓
+Raw_text Text ↓ Attribution ↓ Region Construction ↓ Metric Computation ↓
 State Vector S ↓ Control Evaluation ↓ Governance Output + Stabilization
 Advice
 
@@ -75,7 +75,7 @@ contextIntegrity(R) =
 
 normalizedTension = clamp(tensionEnergy / TENSION_MAX)
 
-Clamp final result to [0,1].
+Clamp final summary to [0,1].
 
 5. DECAY MODEL (FORECAST)
 

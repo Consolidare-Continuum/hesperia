@@ -37,13 +37,13 @@ Search strings output for high-risk terms:
 strings dist/hesperia-cli.bin | grep -iE 'sphere|hex|topology|bridge|layer|area11|family240|side_id|288 families|propagation path|invariant_catalog' > /tmp/forbidden_hits.txt
 ```
 
-**Expected:** No matches, or only low-value/minimal hits (e.g. in dependency code, not in HESPERIA-specific user-facing strings). Any hit must be reviewed; serious internal terms (formulas, structure names, pipeline stages) must be removed or accepted as non-revealing.
+**Expected:** No matches, or only low-value/minimal hits (e.g. in dependency code, not in HESPERIA-specific user-facing strings). Any hit must be reviewed; serious internal terms (formulas, structure names, execution_flow stages) must be removed or accepted as non-revealing.
 
 ---
 
 ## 2. Interpretation
 
-| Result | Action |
+| Summary | Action |
 |--------|--------|
 | No hits | PASS. |
 | Hits in third-party libs only | Document; accept if not HESPERIA-specific. |

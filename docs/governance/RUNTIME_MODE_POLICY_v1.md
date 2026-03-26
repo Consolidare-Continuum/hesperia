@@ -24,7 +24,7 @@
    - Raw domain-state payloads (unprojected area_vector, family_counts, side_id)
 
 2. **public_runtime:** Only these may be written:
-   - Input manifest (opaque ids, no topology)
+   - Raw_text manifest (opaque ids, no topology)
    - Calibration profile id / report profile id (bounded knobs only)
    - Public-safe evidence trace (per PUBLIC_EVIDENCE_TRACE_POLICY)
    - Public report / dossier (after projection)

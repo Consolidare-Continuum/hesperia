@@ -41,6 +41,6 @@ D = \frac{\sum_h A_h}{\max(N_\text{active}, 1)}
 
 where **N_active** counts hexes with **A_h > θ** (θ from calibration).
 
-## 5. Pipeline order (binding)
+## 5. Execution Flow order (binding)
 
 Hex activation → (optional dynamics) → product signals → HSPR system index ([../calibration/hspr_index.md](../calibration/hspr_index.md)).

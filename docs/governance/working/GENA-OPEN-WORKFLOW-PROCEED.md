@@ -4,7 +4,7 @@ Gena — open workflow proceed log (Hesperia).
 
 # Gena proceed — open workflow (Hesperia)
 
-**Full integration analysis (TRIZ → dynamics, what’s new, env, artifact):**  
+**Full integration measurement (TRIZ → dynamics, what’s new, env, artifact):**  
 → **[GENA-DYNAMICS-INTEGRATION-ANALYSIS.md](GENA-DYNAMICS-INTEGRATION-ANALYSIS.md)**
 
 **Team10 DLCR MCP workflow (v0.6.0):**  
@@ -61,7 +61,7 @@ Gena — open workflow proceed log (Hesperia).
 |------|--------|
 | Ξ proxy | **`xi_proxy.apply_xi_to_contradiction_signal`** after base `c_sig`, before phases; **`HESPERIA_FIELD_DYNAMICS_XI`**, **`XI_SCALE`**. |
 | Artifact | **`triz_contradiction_meta`**: `xi_proxy_global`, `xi_scale`; **`contradiction_signal_12`** = post-Ξ drive. |
-| Registry | v0.5 **`xi_scale`** parameter. |
+| Registry | v0.5 **`xi_scale`** config_param. |
 | Tests | `tests/test_field_dynamics_triz_signal.py`, `tests/test_field_dynamics_xi_proxy.py`. |
 
 ---

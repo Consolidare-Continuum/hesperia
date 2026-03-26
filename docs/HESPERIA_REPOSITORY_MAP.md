@@ -13,7 +13,7 @@ See LEGAL_NOTICE.md for full terms.
 **Purpose:** Single document describing what the archive is, how top-level directories map to layers, and how execution flows. Use this as the **long-form repo description** (GitHub’s short “Description” field is ~350 characters — link here or paste a one-line summary).
 
 **Suggested GitHub short description (paste into repo Settings → Description):**  
-*Hesperia Engine Dynamics: deterministic multiscale semantic physics (concept→hex→family→area→signals→HSPR); L1–L9 sphere pipeline, KME, TRIZ; `run_e2e_all` → 19 E2E JSON artifacts (+ optional field dynamics). RAD reference architecture.*
+*Hesperia Engine Dynamics: deterministic multiscale semantic physics (concept→hex→family→area→signals→HSPR); L1–L9 sphere execution_flow, KME, TRIZ; `run_e2e_all` → 19 E2E JSON artifacts (+ optional field dynamics). RAD reference architecture.*
 
 **Scale:** The archive contains on the order of **~1100–1600+ files** under a single repository root (exact count varies with lexicon, benchmarks, and demos). Treat the tree below as **`<repo-root>/`** (e.g. `hesperia-main/` if distributed as a tarball).
 
@@ -39,14 +39,14 @@ See LEGAL_NOTICE.md for full terms.
 | `schemas/` | Canonical JSON Schema (`schemas/public/…`); legacy symlink under `assets/public/` |
 | `specs/` | **Binding** specifications: `canon/`, `dynamics/`, `release/`, `schemas/`, `calibration/` |
 | `spec/` | Symlink → **`specs/canon/`** (compat for code paths expecting `spec/*.yaml`) |
-| `sphere/` | Topology-backed pipeline (L1–L9, propagation, USF) |
+| `sphere/` | Topology-backed execution_flow (L1–L9, propagation, USF) |
 | `tests/` | Pytest unit, integration, E2E |
 | `tools/` | Utilities, calibration, TRIZ CLI helpers |
 | `requirements/` | Python deps (`runtime.txt`, `api.txt`, `surface.txt`, …); root `requirements.txt` includes `runtime.txt` |
 
 ---
 
-## Functional map: infrastructure → engine → analysis → outputs
+## Functional map: infrastructure → engine → measurement → outputs
 
 ### 1. System architecture overview
 
@@ -96,10 +96,10 @@ Execution environment for the system.
 
 | Path | Role |
 |------|------|
-| `runtime/api/` | HTTP API (analysis, metrics, TRIZ, etc.) |
-| `runtime/pipeline/` | **Main orchestration** — E2E commands (e.g. `run_e2e_all.py`), analyze, L1–L9 entrypoints |
+| `runtime/api/` | HTTP API (measurement, metrics, TRIZ, etc.) |
+| `runtime/execution_flow/` | **Main orchestration** — E2E commands (e.g. `run_e2e_all.py`), analyze, L1–L9 entrypoints |
 | `runtime/runners/` | Reference / CLI runners |
-| `runtime/services/` | Reusable services (e.g. structural analysis, config) |
+| `runtime/services/` | Reusable services (e.g. structural measurement, config) |
 | `runtime/artifact_writer/` | Deterministic writing of outputs → **`assets/artifacts/`** |
 | `runtime/provenance/` | Reproducibility: hashes, run metadata, build signatures |
 | `runtime/public_reports/` | Readable reports from artifacts |
@@ -107,13 +107,13 @@ Execution environment for the system.
 | `runtime/shipping/` | Sealed builds: Docker, manifests, checksums |
 | `runtime/configs/` | Example JSON for semantic field + field calibration |
 
-**E2E:** `python3 -m runtime.pipeline.run_e2e_all` produces **19** baseline JSON artifacts (+ **20th** with `HESPERIA_FIELD_DYNAMICS=1`); see `docs/E2E_RUN_ORDER.md`, manifest `assets/artifacts/e2e/E2E_OUTPUTS.md`, default under `assets/artifacts/e2e/`.
+**E2E:** `python3 -m runtime.execution_flow.run_e2e_all` produces **19** baseline JSON artifacts (+ **20th** with `HESPERIA_FIELD_DYNAMICS=1`); see `docs/E2E_RUN_ORDER.md`, manifest `assets/artifacts/e2e/E2E_OUTPUTS.md`, default under `assets/artifacts/e2e/`.
 
 ---
 
 ### 4. Sphere topology layer — `sphere/`
 
-Mathematical backbone: **icosahedral surface graph** (12 areas / nodes, 30 edges, degree 5), propagation, L1–L9 pipeline.
+Mathematical backbone: **icosahedral surface graph** (12 areas / nodes, 30 edges, degree 5), propagation, L1–L9 execution_flow.
 
 **Representative layout:**
 
@@ -121,7 +121,7 @@ Mathematical backbone: **icosahedral surface graph** (12 areas / nodes, 30 edges
 |------|------|
 | `sphere/topology/` | Graph, embedding, family/area structure, export |
 | `sphere/propagation/` | Signal movement across topology |
-| `sphere/pipeline/` | Canonical **L1–L9** runner, layer registry, contracts |
+| `sphere/execution_flow/` | Canonical **L1–L9** runner, layer registry, contracts |
 | `sphere/metrics/`, `sphere/diagnostics/`, … | Layer and tension metrics |
 | `sphere/usf/`, `sphere/shadow/`, `sphere/interpretation/` | Fingerprint, shadow, interpretation |
 | `sphere/logic/`, `sphere/prolog_logic/` | Rule layers, explanation |
@@ -131,13 +131,13 @@ Mathematical backbone: **icosahedral surface graph** (12 areas / nodes, 30 edges
 
 ### 5. Semantic engine — `hesperia/`
 
-Core knowledge and text processing stack.
+Core knowledge and text compute stack.
 
 | Submodule | Role |
 |-----------|------|
 | `hesperia/nlp/` | Text → tokens, markers, concepts, session parsing |
 | `hesperia/ontology/` | Dict A/B, registry (`ontology_registry.yaml`), relations |
-| `hesperia/config/` | System / clinical / pipeline parameters |
+| `hesperia/config/` | System / clinical / execution_flow parameters |
 | `hesperia/corpus/` | Corpus ingestion, session corpus helpers |
 | `hesperia/graph/` | Semantic graph store |
 | `hesperia/engine/` | **KME**, hex stack, explainability, calibration (core path) |
@@ -169,7 +169,7 @@ Governance of Dict A/B, relations, families, areas — consistent ontology versi
 | `hesperia/engine/explainability.py` | Activation trace → topology hints for TRIZ/KME |
 | `hesperia/engine/calibration/` | Activation + field calibration (`hspr_field`, …) |
 
-*Logical pipeline:* attributions feed **hex** and **family** layers; **KME** / **TRIZ** consume graph + topology; **v0.5** adds deterministic **sealed multiscale** outputs for product signals.
+*Logical execution_flow:* attributions feed **hex** and **family** layers; **KME** / **TRIZ** consume graph + topology; **v0.5** adds deterministic **sealed multiscale** outputs for product signals.
 
 #### 5.4 Clinical / TFP (experimental) — `research/clinical_tfp/`
 
@@ -184,7 +184,7 @@ Policy/innovation/narrative packaging, investor demo, MVP acceptance, tenant con
 ### 6. Specifications — `specs/` (binding) vs `docs/` (explanatory)
 
 **Tier-1 index (Task 3):** [`specs/CANONICAL_INDEX.md`](../specs/CANONICAL_INDEX.md) · inventory [`specs/INVENTORY.md`](../specs/INVENTORY.md).  
-**Core pipeline (binding):** `specs/core/*.md`. **Family-field dynamics (single file):** `specs/dynamics/semantic_field_dynamics.md`. **`spec/canon` YAML** via `spec/` symlink; markdown there is mostly **redirect** to `core/`.  
+**Core execution_flow (binding):** `specs/core/*.md`. **Family-field dynamics (single file):** `specs/dynamics/semantic_field_dynamics.md`. **`spec/canon` YAML** via `spec/` symlink; markdown there is mostly **redirect** to `core/`.  
 **Master narrative index:** [HESPERIA_v0_5_ENGINE_DYNAMICS.md](HESPERIA_v0_5_ENGINE_DYNAMICS.md). Long-form **Tier-2** dynamics / calibration: `specs/dynamics/` (Ethan, equation index). Release notes: `specs/release/`. Workflow / triage: `docs/specs/`; governance task memos: `docs/governance/working/`, `docs/governance/project/`. Geometry lock: `docs/TOPOLOGY_INVARIANTS.md`.
 
 ---
@@ -223,7 +223,7 @@ Calibration data, diagnostics, **TRIZ** CLIs under `tools/triz/`.
 
 ---
 
-### 12. Full pipeline execution (conceptual)
+### 12. Full execution_flow execution (conceptual)
 
 ```text
 Text
@@ -234,12 +234,12 @@ Text
   → Semantic graph construction
   → Sphere topology propagation (L1–L9 path)
   → KME metrics (domain + session paths)
-  → TRIZ contradiction / innovation analysis
+  → TRIZ contradiction / innovation measurement
   → Domain / clinical topology projection
   → Product & report generation
 ```
 
-**Single orchestrated E2E entrypoint:** `runtime.pipeline.run_e2e_all` → **19** artifacts, optional **20th** (`docs/E2E_RUN_ORDER.md`).
+**Single orchestrated E2E entrypoint:** `runtime.execution_flow.run_e2e_all` → **19** artifacts, optional **20th** (`docs/E2E_RUN_ORDER.md`).
 
 ---
 

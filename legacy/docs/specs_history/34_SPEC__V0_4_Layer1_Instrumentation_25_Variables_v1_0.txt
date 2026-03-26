@@ -15,7 +15,7 @@ The first instrumentation layer MUST contain only variables that are:
 
   - Deterministic
   - Reproducible
-  - Input-bound
+  - Raw_text-bound
   - No probabilistic semantics
   - No LLM weighting
   - No shadow deviation
@@ -32,7 +32,7 @@ All definitions assume:
   A                 = total areas (e.g. 12)
   FAMILIES_PER_AREA = F / A (e.g. 24)
 
-  N                 = number of normalized input tokens (tokens.size())
+  N                 = number of normalized raw_text tokens (tokens.size())
   hits[f]           = token count mapped to family f (f in 0..F-1)
   altitudeSum[f]    = sum of altitudes for family f
   altitude          in [0, 1] per token (structural strength)
@@ -45,7 +45,7 @@ Attribution produces hits[] and altitudeSum[] from Dict A / Dict B (or equivalen
 
  1. TOTAL_TOKENS
     int TOTAL_TOKENS = tokens.size();
-    Count of normalized input tokens.
+    Count of normalized raw_text tokens.
 
  2. ATTRIBUTED_TOKENS
     int ATTRIBUTED_TOKENS = sum(hits[f] for all f);
@@ -53,7 +53,7 @@ Attribution produces hits[] and altitudeSum[] from Dict A / Dict B (or equivalen
 
  3. COVERAGE_RATIO
     double COVERAGE_RATIO = (double) ATTRIBUTED_TOKENS / TOTAL_TOKENS;
-    Fraction of input structurally recognized. If TOTAL_TOKENS == 0, define as 0.0.
+    Fraction of raw_text structurally recognized. If TOTAL_TOKENS == 0, define as 0.0.
 
  4. UNIQUE_FAMILIES_HIT
     int UNIQUE_FAMILIES_HIT = count(f where hits[f] > 0);
@@ -198,7 +198,7 @@ Attribution produces hits[] and altitudeSum[] from Dict A / Dict B (or equivalen
 ----------------------------------------------------------------------
 
 // HESPERIA v0.4.x Layer-1 Instrumentation — 25 variables
-// Deterministic, reproducible, input-bound. No LLM, no shadow, no books.
+// Deterministic, reproducible, raw_text-bound. No LLM, no shadow, no books.
 // Inputs: tokens.size(), hits[0..F-1], altitudeSum[0..F-1], F, A.
 
 final int F = 288;

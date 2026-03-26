@@ -4,7 +4,7 @@
 # Rules:
 # - Public writes require projection/schema compliance.
 # - Internal writes require non-public mode.
-# - Direct raw file writes in runtime paths should go through this module.
+# - Direct raw file writes in runtime paths should go through this component.
 
 from __future__ import annotations
 
@@ -54,6 +54,8 @@ def write_public_json(path: Path | str, data: dict[str, Any] | list[Any], *, ind
                 data,
                 calibration_profile=default_calibration_profile(),
                 pipeline_version=structural_pipeline_version(),
+                execution_flow_version=structural_pipeline_version(),
+                orchestration_mode="ARTIFACT_WRITE_SYNC",
             )
     else:
         data = sanitize_public_trace(data)
@@ -61,6 +63,8 @@ def write_public_json(path: Path | str, data: dict[str, Any] | list[Any], *, ind
             {},
             calibration_profile=default_calibration_profile(),
             pipeline_version=structural_pipeline_version(),
+            execution_flow_version=structural_pipeline_version(),
+            orchestration_mode="ARTIFACT_WRITE_SYNC",
         )
         data = {**base, "payload": data}
     from runtime.shipping.schema_guard import validate_against_public_schema

@@ -12,7 +12,7 @@
 - [ ] **Outputs emitted** — Every JSON/file write goes through write_public_json or apply_public_projection. No raw L1–L9 dict in any artifact. Audit manifest only has public-safe keys.
 - [ ] **Logs** — No log line in the default path that prints layer names, topology, or formula ids. Stderr from runners may mention "output written to" path only.
 - [ ] **Schemas exposed** — Only assets/public/*.json (public_output_schema, public_audit_manifest.schema, public_ontology_map, public_metric_profiles). No spec that teaches 12 areas, 288 families, or layer order.
-- [ ] **Docs exposed** — Only public narrative (ingest → structural analysis → evidence → comparison → report). No internal pipeline registry or math registry.
+- [ ] **Docs exposed** — Only public narrative (ingest → structural measurement → evidence → comparison → report). No internal execution_flow registry or math registry.
 
 ---
 

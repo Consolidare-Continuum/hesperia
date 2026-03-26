@@ -1,4 +1,4 @@
-# Release v0.5.0 canonical input
+# Release v0.5.0 canonical raw_text
 
 **`canonical_input.txt`** — UTF-8 text used for:
 

@@ -84,7 +84,7 @@ Ranges are **versioned** with the parameter registry.
 | Bounds | \(0 \leq c_i,x_h,f_f,a_a \leq 1\); \(p_h,p_f,p_a \geq 0\) |
 | No explosion | \(\max_t \max_a a_a(t) \leq 1\) (and analogs for other layers) |
 | Oscillation cap | \(\mathrm{Osc}(t) < \mathrm{Osc}_{\max}\) |
-| Zero-input decay | If \(U(t)=0\) over long window, \(p_a\) (and peers) **decay** — no runaway contradiction without input |
+| Zero-raw_text decay | If \(U(t)=0\) over long window, \(p_a\) (and peers) **decay** — no runaway contradiction without raw_text |
 | Topology invariants | Unchanged adjacency / membership semantics |
 | Deterministic replay | Same seed + params → **identical state hash** |
 
@@ -99,8 +99,8 @@ Failures → **discard immediately** (constraint-first calibration).
 | Group | Targets |
 |-------|---------|
 | **A — Structural validity** | Bounded states, no invalid transitions, invariants, replay match |
-| **B — Dynamical behavior** | Propagation under continuity, damping when input stops, contradiction growth with conflict, stabilization with resolution, no explosive oscillation under normal inputs |
-| **C — Interpretability** | Dominant area not flipping without cause; small input → bounded macro change; pressure explainable by contradiction density; outputs aligned with evidence |
+| **B — Dynamical behavior** | Propagation under continuity, damping when raw_text stops, contradiction growth with conflict, stabilization with resolution, no explosive oscillation under normal inputs |
+| **C — Interpretability** | Dominant area not flipping without cause; small raw_text → bounded macro change; pressure explainable by contradiction density; outputs aligned with evidence |
 | **D — Task usefulness** | On benchmark corpora: narrative drift detection, contradiction hotspots, propagation path realism, temporal clustering, change-point detection — **specific** metrics, not vague “accuracy” |
 
 ### 4.2 Composite score (example)
@@ -143,7 +143,7 @@ Without (D), calibration **lies**.
 
 ## 6. Automated search procedure
 
-### 6.1 Architecture pipeline
+### 6.1 Architecture execution_flow
 
 ```text
 Parameter registry
@@ -235,7 +235,7 @@ Frozen release profile
 | Approved profiles | `approved_profiles/*.yaml` |
 | Reports | `reports/calibration/` |
 
-| Module | Role |
+| Component | Role |
 |--------|------|
 | `simulate_dynamics.py` | Deterministic roll-forward |
 | `evaluate_dynamics.py` | Metrics + constraints |

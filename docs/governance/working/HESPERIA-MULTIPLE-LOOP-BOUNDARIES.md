@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia multiple loop runs — co-created boundaries
 
-**Purpose**: Boundaries (scope, interfaces, guardrails) co-created from (1) deviation-based self-analysis and (2) informatics logic integration plan. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owners**: Grace + Ethan. **Added**: 2026-02-17.
+**Purpose**: Boundaries (scope, interfaces, guardrails) co-created from (1) deviation-based self-measurement and (2) informatics logic integration plan. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owners**: Grace + Ethan. **Added**: 2026-02-17.
 
 **Refs**: [HESPERIA-MULTIPLE-LOOP-RUNS-SELF-ANALYSIS-REPORT.md](HESPERIA-MULTIPLE-LOOP-RUNS-SELF-ANALYSIS-REPORT.md), [HESPERIA-INFORMATICS-LOGIC-INTEGRATION-PLAN.md](HESPERIA-INFORMATICS-LOGIC-INTEGRATION-PLAN.md); [projects/hesperia/CONTEXT-PACKET.md](../projects/hesperia/CONTEXT-PACKET.md), [projects/hesperia/SCOPE-AND-SYNC.md](../projects/hesperia/SCOPE-AND-SYNC.md). **Core mode MVP (areas/families only, logic tests)**: [ETHAN-HESPERIA-CORE-MODE-MVP.md](ETHAN-HESPERIA-CORE-MODE-MVP.md).
 
@@ -24,7 +24,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## 2. What is variable
 
-- **Run parameters**: start_area_id (0..11), direction (±1), steps. Multiple loop runs vary these; deviation between runs is parameter-driven (see self-analysis report).
+- **Run parameters**: start_area_id (0..11), direction (±1), steps. Multiple loop runs vary these; deviation between runs is config_param-driven (see self-measurement report).
 - **Matrix source**: CSV (canonical) or Chroma layer=hesperia_families. Same coordinates; source is switchable.
 - **Activation data**: When present, loopability value (L_full, L_weighted) can be computed; today matrix_run returns formula ref only.
 
@@ -52,4 +52,4 @@ Boundaries: **fixed** = geometry and schema §6 formulas; **variable** = run par
 
 ---
 
-**SIGNED: Product (Ethan) | boundaries co-created from self-analysis + informatics plan | 2026-02-17 | governance**
+**SIGNED: Product (Ethan) | boundaries co-created from self-measurement + informatics plan | 2026-02-17 | governance**

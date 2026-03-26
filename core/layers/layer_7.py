@@ -81,7 +81,7 @@ def run(input: LayerInput) -> LayerOutput:
         A=A,
         **{k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults},
     )
-    # Δ stability layer: optionally demote OUTPUT_TRUST_TAG when structural anomaly score is high
+    # Δ consistency layer: optionally demote OUTPUT_TRUST_TAG when structural anomaly score is high
     stability = meta.get("stability")
     if isinstance(stability, dict):
         anomaly_score = float(stability.get("anomaly_score", 0.0))

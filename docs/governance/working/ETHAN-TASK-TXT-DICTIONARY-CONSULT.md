@@ -5,7 +5,7 @@ Ethan consult: task.txt (DLCR draft spec) + repo wiring + external methodology n
 # Ethan consult — `task.txt`: which dictionaries to add, and how
 
 **Sources:** repo root [`task.txt`](../../../task.txt) (DLCR-HP v0.6.0-draft1 plain spec), in-tree wiring [ETHAN-TFP-RUNNABLE-DICT-WIRING.md](ETHAN-TFP-RUNNABLE-DICT-WIRING.md), [ETHAN-DLCR-INTEGRATION-RUNBOOK.md](ETHAN-DLCR-INTEGRATION-RUNBOOK.md).  
-**External (internet, high level):** psychotherapy transcript work stresses **therapy-specific labels**, **dialogue acts**, **multi-utterance context**, and **transparent / reproducible** pipelines; much published work uses **supervised or LLM-assisted** labeling — Hesperia’s **task.txt** instead mandates **deterministic, versioned, auditable** resources (no hidden services, no black-box primary disambiguation).
+**External (internet, high level):** psychotherapy transcript work stresses **therapy-specific labels**, **dialogue acts**, **multi-utterance input_context**, and **transparent / reproducible** pipelines; much published work uses **supervised or LLM-assisted** labeling — Hesperia’s **task.txt** instead mandates **deterministic, versioned, auditable** resources (no hidden services, no black-box primary disambiguation).
 
 ---
 

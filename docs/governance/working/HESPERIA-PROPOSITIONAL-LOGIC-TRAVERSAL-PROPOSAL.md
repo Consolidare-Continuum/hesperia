@@ -35,7 +35,7 @@ Families = operator clusters (not only taxonomic).
 
 Hex = semantic constraint surface; each side = directional constraint (logical polarity).
 
-- **Interface**: `HEX.evaluate(path, context)` — runs Boolean-style evaluation (v(φ)), deduction chaining (modus ponens / →E), contradiction detection (¬I) (c4p).
+- **Interface**: `HEX.evaluate(path, input_context)` — runs Boolean-style evaluation (v(φ)), deduction chaining (modus ponens / →E), contradiction detection (¬I) (c4p).
 
 ## IV. Obstacle Mode
 
@@ -48,7 +48,7 @@ Hex / Family / Area can act as obstacle operators.
 Wumpus (c5p) → Hesperia: agent infers from local constraints; avoids dangerous squares.
 
 - **Map**: Unknown semantic zones = unclassified regions; "Miros" = semantic tension; "Vant" = indirect inconsistency; "Wumpus" = contradiction cluster; "Abis" = semantic void.
-- **Rule**: If no contradiction signal in area, adjacent families safe. Inferential semantic navigation.
+- **Rule**: If no contradiction input_signal in area, adjacent families safe. Inferential semantic navigation.
 
 ## VI. Semantic Operators to Implement
 
@@ -80,7 +80,7 @@ Wumpus (c5p) → Hesperia: agent infers from local constraints; avoids dangerous
 
 | Operator | In traversal | Benefit |
 |----------|--------------|---------|
-| **¬** (negation) | hop.negate(); inverts polarity; contradiction p∧¬p | Drift analysis, boundary enforcement |
+| **¬** (negation) | hop.negate(); inverts polarity; contradiction p∧¬p | Drift measurement, boundary enforcement |
 | **∧** (conjunction) | hop.merge(stateA, stateB); ∧I/∧E | Structural coherence, multi-axis clusters |
 | **∨** (disjunction) | hop.branch() | Ambiguity, forked traversal |
 | **⊕** (XOR) | hop.exclusive() | Decision enforcement, conflict detection |
@@ -107,7 +107,7 @@ Wumpus (c5p) → Hesperia: agent infers from local constraints; avoids dangerous
 ## Team tasks (active.md)
 
 1. **Ethan**: Formalize operator interface spec — boolean evaluation v(φ) → Area polarity mapping; obstacle state machine; deduction depth (full vs partial); Wumpus mapping to Hesperia. Deliverable: spec doc. Gate for implementation. **DONE**: [ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md](ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md) (2026-02-18).
-2. **Gena**: When Ethan spec ready: implement Area/Family/Hex as semantic operators (enforce, test_validity, detect_contradiction; normalize, reduce, check_equivalence, detect_unsat; evaluate(path, context)); obstacle mode; path operators (forward_inference, backward_reduce, normalize, detect_cycle, polarize); hop operators (negate, merge, branch, exclusive, infer, sync); VALIDATE, SATISFY, UNSAT, ENTAILS. Ref: this proposal, [ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md](ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md), c1–c5 material.
+2. **Gena**: When Ethan spec ready: implement Area/Family/Hex as semantic operators (enforce, test_validity, detect_contradiction; normalize, reduce, check_equivalence, detect_unsat; evaluate(path, input_context)); obstacle mode; path operators (forward_inference, backward_reduce, normalize, detect_cycle, polarize); hop operators (negate, merge, branch, exclusive, infer, sync); VALIDATE, SATISFY, UNSAT, ENTAILS. Ref: this proposal, [ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md](ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md), c1–c5 material.
 
 ---
 

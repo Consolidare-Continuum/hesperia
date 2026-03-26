@@ -13,7 +13,7 @@
    - **Check:** Rest of output is still projected (no internal-only keys such as `side_id`, `hex`, raw topology).
 
 2. **Enabled**
-   - Run `run_structural_analysis(text, enable_domain_metrics=True, domain_constants_path=<path>)` with a valid domain constants path if the pipeline requires it (e.g. `assets/data/domain_constants.json`).
+   - Run `run_structural_analysis(text, enable_domain_metrics=True, domain_constants_path=<path>)` with a valid domain constants path if the execution_flow requires it (e.g. `assets/data/domain_constants.json`).
    - **Check:** Output **does** contain a `domain_metrics` key with non-empty, structured content (e.g. 41 signals, hash, or schema-defined shape).
    - **Check:** Rest of output remains projected; `domain_metrics` content itself must be public-safe (no internal topology/coordinates).
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - **enable_domain_metrics=False:** `domain_metrics` absent or empty.
 - **enable_domain_metrics=True:** `domain_metrics` present and populated.
@@ -34,9 +34,9 @@
 
 | Symptom | Likely cause |
 |--------|---------------|
-| domain_metrics present when disabled | Config not respected; pipeline always computing domain metrics. |
+| domain_metrics present when disabled | Config not respected; execution_flow always computing domain metrics. |
 | domain_metrics absent when enabled | Config not passed; or domain constants path missing/invalid. |
-| Internal keys in output | Projection not applied to full result or to domain_metrics. |
+| Internal keys in output | Projection not applied to full summary or to domain_metrics. |
 
 ---
 

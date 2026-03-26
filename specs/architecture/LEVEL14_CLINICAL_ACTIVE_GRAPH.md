@@ -4,9 +4,9 @@ Final integration layer between the clinical/NLP subsystem and the HESPERIA math
 
 ## Purpose
 
-- **Input:** Propagated activation after NLP + topological propagation (`concepts`, `families`, `areas`).
+- **Raw_text:** Propagated activation after NLP + topological propagation (`concepts`, `families`, `areas`).
 - **Output:** A graph with three node levels (concept, family, area) and typed edges, suitable for inspection, visualization, and feeding into KME metrics.
-- **Pipeline:** Session text → Dict-A/Dict-B → activation → propagation → **Clinical ActiveGraph** → (optional) KME primitives/derived/fingerprint.
+- **Execution Flow:** Session text → Dict-A/Dict-B → activation → propagation → **Clinical ActiveGraph** → (optional) KME primitives/derived/fingerprint.
 
 ## Node levels
 
@@ -96,11 +96,11 @@ Rules:
 - `build_concept_relation_edges` — concept↔concept from concept_relations.
 - `build_family_topology_edges` — intra_area_adjacent + bridge from family_embedding.
 - `build_area_topology_edges` — area_adjacent from area_structure.
-- `build_clinical_active_graph_hierarchical(activation_result, ...)` — Full pipeline; returns dict with nodes, edges, metadata.
-- `analyze_session_to_kme_graph(text, embedding=..., **kwargs)` — text → session analysis → hierarchical graph.
-- `run_session_kme_pipeline(text, source_id=..., embedding=...)` — text → session analysis → KME MetricReport.
+- `build_clinical_active_graph_hierarchical(activation_result, ...)` — Full execution_flow; returns dict with nodes, edges, metadata.
+- `analyze_session_to_kme_graph(text, embedding=..., **kwargs)` — text → session measurement → hierarchical graph.
+- `run_session_kme_pipeline(text, source_id=..., embedding=...)` — text → session measurement → KME MetricReport.
 
-## Result
+## Summary
 
 After LEVEL 14, the full wiring is:
 

@@ -16,17 +16,17 @@
 
 ## 2. Dry-run checklist (from façades only)
 
-Execute the following using **only** the listed commands (no direct Python imports of core.layers, sphere.pipeline, core.attribution from the runner process):
+Execute the following using **only** the listed commands (no direct Python imports of core.layers, sphere.execution_flow, core.attribution from the runner process):
 
 | Step | Command / action | Expected |
 |------|------------------|----------|
-| 1 | `python3 -m runtime.pipeline.run_l1_through_l9 --text "justice fairness" --out /tmp/out.json` | Exit 0; /tmp/out.json exists; content has no side_id / internal topology keys in plain form; L7/L9 present in projected form. |
+| 1 | `python3 -m runtime.execution_flow.run_l1_through_l9 --text "justice fairness" --out /tmp/out.json` | Exit 0; /tmp/out.json exists; content has no side_id / internal topology keys in plain form; L7/L9 present in projected form. |
 | 2 | `python3 -m runtime.runners.run_reference_pipeline --text "justice" --out /tmp/ref.json` | Exit 0; output projected. |
-| 3 | `python3 -m runtime.pipeline.run_l1_l2 --out /tmp/l2.json` | Exit 0; L1/L2 only in output. |
-| 4 | `python3 -m runtime.pipeline.run_l1_l2_l3 --out /tmp/l3.json` | Exit 0; L1_B, L2_B, L3 (or projected equivalents) in output. |
-| 5 | `python3 -m runtime.pipeline.run_sphere_math_values --out /tmp/values.json` | Exit 0; single JSON with projected structure. |
-| 6 | `python3 -m runtime.pipeline.run_sphere_math_100_sentences --limit 2 --out /tmp/batch.json` | Exit 0; list of projected results. |
-| 7 | If run_e2e_all is used: run with limited scope (e.g. one E2E flow) | No direct sphere.pipeline or core.layers import in stack; domain_metrics flow uses analysis_service. |
+| 3 | `python3 -m runtime.execution_flow.run_l1_l2 --out /tmp/l2.json` | Exit 0; L1/L2 only in output. |
+| 4 | `python3 -m runtime.execution_flow.run_l1_l2_l3 --out /tmp/l3.json` | Exit 0; L1_B, L2_B, L3 (or projected equivalents) in output. |
+| 5 | `python3 -m runtime.execution_flow.run_sphere_math_values --out /tmp/values.json` | Exit 0; single JSON with projected structure. |
+| 6 | `python3 -m runtime.execution_flow.run_sphere_math_100_sentences --limit 2 --out /tmp/batch.json` | Exit 0; list of projected results. |
+| 7 | If run_e2e_all is used: run with limited scope (e.g. one E2E flow) | No direct sphere.execution_flow or core.layers import in stack; domain_metrics flow uses analysis_service. |
 
 ---
 
@@ -36,7 +36,7 @@ Execute the following using **only** the listed commands (no direct Python impor
 - **Outputs remain projected:** Spot-check output JSON for absence of reserved terms (side_id, hex, area_id, family_id, 12-area counts in keys).
 - **Audit manifests remain safe:** If a run produces an audit manifest, it must match public_audit_manifest.schema.json and contain no internal layer ids or topology.
 - **No extra artifacts:** In public_runtime mode, no internal layer dumps or bridge traces written.
-- **Help/docs/schema non-reflective:** Public-facing help text and docs do not describe internal pipeline stages or layer count.
+- **Help/docs/schema non-reflective:** Public-facing help text and docs do not describe internal execution_flow stages or layer count.
 
 ---
 

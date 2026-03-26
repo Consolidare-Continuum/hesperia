@@ -20,7 +20,7 @@ See LEGAL_NOTICE.md for full terms.
 |-----------|------|
 | **core/** | Deterministic computation: layers L1–L9, math, attribution, stability, policy, contracts, topology, propagation (shadow, R1–R4 segmenters/units, guards). |
 | **runtime/** | Execution pipelines, orchestration, API server, dossier, provenance. |
-| **sphere/** | Orchestration and sphere-specific logic: pipeline (L1–L10 + USF), interpretation, propagation, prolog, guards, shadow, dynamism, metrics, geometry, diagnostics, interfaces. |
+| **sphere/** | Orchestration and sphere-specific logic: execution_flow (L1–L10 + USF), interpretation, propagation, prolog, guards, shadow, dynamism, metrics, geometry, diagnostics, interfaces. |
 | **lexicon/** | Dictionary systems (Dict A/B), build, curated, frozen, validation. |
 | **tools/** | Developer utilities, calibration data, diagnostics, scripts. |
 | **assets/** | Runtime/static artifacts (e.g. `assets/artifacts/e2e/`). |
@@ -34,8 +34,8 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 2.1 Layers (L1–L9)
 
-- **Registry:** `runtime/pipeline/layer_registry.py` — single ordered list L1→L9; pipeline imports only from here.
-- **Contract:** `core/contracts/layer_contract.py` — `LayerInput` (text, tokens, metadata), `LayerOutput` (layer_id, result, diagnostics). Every layer exposes `run(input: LayerInput) -> LayerOutput`.
+- **Registry:** `runtime/execution_flow/layer_registry.py` — single ordered list L1→L9; execution_flow imports only from here.
+- **Contract:** `core/contracts/layer_contract.py` — `LayerInput` (text, tokens, metadata), `LayerOutput` (layer_id, summary, diagnostics). Every layer exposes `run(raw_text: LayerInput) -> LayerOutput`.
 - **Layer 1:** Coverage, dominance, entropy, Gini, area spread, family hit vector, profile metrics (optional structure profile).
 - **Layer 2:** Traversal on stub adjacency (F×A), visited IDs, reach ratio, clustering, cross-area ratio, loop count, geometric stability.
 - **Layer 3:** Shadow comparison (baseline vs shadow), deltas (coverage, dominance, entropy, traversal), acceptability gate.
@@ -56,7 +56,7 @@ See LEGAL_NOTICE.md for full terms.
 ### 2.3 Attribution
 
 - **core/attribution/structural.py:** `normalize`, `tokenize`, `load_dict_a`, `load_dict_b`, `attribute`, `aggregate_dominant`, `build_region_seed`, `run_attribution_pipeline`.
-- **core/attribution (v06 / shared):** Attribution pipeline, surface map (Dict A v0.6), text cap, attribute with surface for R1–R4.
+- **core/attribution (v06 / shared):** Attribution execution_flow, surface map (Dict A v0.6), text cap, attribute with surface for R1–R4.
 
 ### 2.4 Stability (Δ)
 
@@ -76,9 +76,9 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 2.8 Propagation (core)
 
-- **Shadow layer:** ShadowFailureCode, ShadowMetrics, shadow mass/scores, candidate_set_shadow, ShadowLayerState/Input/Output, process_step.
+- **Shadow layer:** ShadowFailureCode, ShadowMetrics, shadow mass/scores, candidate_set_shadow, ShadowLayerState/Raw_text/Output, process_step.
 - **R1–R4:** Segmenters (segment_by_sentences, paragraphs, chapters, book; get_text_span), ESM defaults, contradiction graph, unit builder (`build_unit`), theta gate, gamma guard.
-- **Guard pipeline:** `run_pipeline` (degraded detection, shadow layer application) — used by analyze path.
+- **Guard execution_flow:** `run_pipeline` (degraded detection, shadow layer application) — used by analyze path.
 - **Safeguard:** TraversalStatus, SafeguardStopPayload, TraversalSafeguard, run_traversal_with_safeguard.
 - **Output/invariant:** to_minimal_operational_result, make_error_result; invariant_enforcer (geometry, bijection, output contract, clamp_domain).
 
@@ -86,9 +86,9 @@ See LEGAL_NOTICE.md for full terms.
 
 ## 3. Sphere — encoded features
 
-### 3.1 Pipeline
+### 3.1 Execution Flow
 
-- **sphere/pipeline/pipeline_runner.py:** `run_pipeline(raw_text, config, document_id)` — L1–L9 via registry, stability before L7, interpretation policy before L8; then propagation (topology-driven), shadow correction, structural logic (L9), interpretation (L10), optional prolog, USF generation, guards. Returns document_id, layer_outputs, usf, pipeline_metadata, diagnostics, shadow_metrics, logic_metrics, interpretation_metrics, prolog_logic, guards.
+- **sphere/execution_flow/pipeline_runner.py:** `run_pipeline(raw_text, config, document_id)` — L1–L9 via registry, stability before L7, interpretation policy before L8; then propagation (topology-driven), shadow correction, structural logic (L9), interpretation (L10), optional prolog, USF generation, guards. Returns document_id, layer_outputs, usf, pipeline_metadata, diagnostics, shadow_metrics, logic_metrics, interpretation_metrics, prolog_logic, guards.
 - **Contract validation:** Per-layer required keys; validate_layer_input/output, validate_pipeline_contracts.
 - **Isolation validation:** Snapshot layer output, validate no upstream mutation, validate_layer_isolation.
 
@@ -106,7 +106,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 3.5 Prolog logic
 
-- **sphere/prolog_logic:** compute_prolog_inference (metrics→facts, inference, trace); inference_executor (evaluate_rule, derive_new_facts, infer). Optional in pipeline via `enable_prolog`.
+- **sphere/prolog_logic:** compute_prolog_inference (metrics→facts, inference, trace); inference_executor (evaluate_rule, derive_new_facts, infer). Optional in execution_flow via `enable_prolog`.
 
 ### 3.6 Logic (structural rules)
 
@@ -146,15 +146,15 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 4.1 Pipelines
 
-- **run_l1_through_l9:** Delegates to sphere.pipeline.run_pipeline when no profile; maps to L1..L9 + diagnostics + usf, interpretation_metrics, prolog_logic, guards, pipeline_metadata, shadow_metrics, logic_metrics. Legacy path: profile-based local L1–L9 loop.
+- **run_l1_through_l9:** Delegates to sphere.execution_flow.run_pipeline when no profile; maps to L1..L9 + diagnostics + usf, interpretation_metrics, prolog_logic, guards, pipeline_metadata, shadow_metrics, logic_metrics. Legacy path: profile-based local L1–L9 loop.
 - **run_e2e_all:** run_e2e_sentence (analyze), run_e2e_l1_l9, run_e2e_r1_r4, run_e2e_sphere_math_values, run_e2e_sphere_math_100; writes to assets/artifacts/e2e (or --out-dir).
 - **run_sphere_math_values:** Core-only L1–L9 values run; writes one JSON (--out, --profile, --text).
 - **run_sphere_math_100_sentences:** L1–L9 per sentence over calibration_100_sentences (tools/calibration/data); --sentences, --limit.
 - **r1_r4_pipeline:** segment_by_* (R1 sentence, R2 paragraph, R3 chapter, R4 book), L1–L9 per segment, build_unit, aggregate level_averages and scale_deltas; run_r1_pipeline, run_full_pipeline, run_r1_pipeline_to_json, run_full_pipeline_to_json.
-- **analyze:** Text → attribution (v06 or shared) → guard_pipeline → 6-key minimal result + extended; optional r1_r4 (units + book_profile).
+- **analyze:** Text → attribution (v06 or shared) → guard_pipeline → 6-key minimal summary + extended; optional r1_r4 (units + book_profile).
 - **Other runners:** run_reference_pipeline (canonical sphere run_pipeline CLI); run_l1_l2, run_l1_l2_l3; run_r1_r4_pipeline; run_e2e_sentence; batch_runner.
 
-### 4.2 Pipeline state / registry
+### 4.2 Execution Flow state / registry
 
 - **pipeline_state.py:** PipelineState (layers, diagnostics).
 - **layer_registry.py:** LAYERS = [(1, layer_1), …, (9, layer_9)].
@@ -162,7 +162,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ### 4.3 API
 
-- **runtime/api/main.py:** FastAPI — GET /health, POST /hesperia/analyze (Bearer auth, HESPERIA_API_KEY); OpenAPI 3.x; text-only body; 6-key + extended result.
+- **runtime/api/main.py:** FastAPI — GET /health, POST /hesperia/analyze (Bearer auth, HESPERIA_API_KEY); OpenAPI 3.x; text-only body; 6-key + extended summary.
 
 ### 4.4 Dossier / provenance
 
@@ -196,7 +196,7 @@ See LEGAL_NOTICE.md for full terms.
 ## 8. Tests — encoded coverage
 
 - **test_e2e_flows.py:** analyze, L1–L9, R1–R4, sphere_math_values, sphere_math_100, run_e2e_all artifacts.
-- **Pipeline:** test_pipeline_execution (all nine layers, L7/L9 reportable keys), test_prolog_toggle, test_stability_layer, test_interpretation_policy; propagation layer7 integration; pipeline contracts, determinism, isolation.
+- **Execution Flow:** test_pipeline_execution (all nine layers, L7/L9 reportable keys), test_prolog_toggle, test_stability_layer, test_interpretation_policy; propagation layer7 integration; execution_flow contracts, determinism, isolation.
 - **Fingerprint:** golden, drift, determinism.
 - **Layers, logic, interpretation, shadow, propagation, topology, geometry, prolog, usf, golden, determinism, attribution, dossier, architecture:** Dedicated test modules under tests/.
 
@@ -218,7 +218,7 @@ See LEGAL_NOTICE.md for full terms.
 | **Layers** | L1–L9 deterministic stack; contract (LayerInput/LayerOutput); registry; structure profile & defaults. |
 | **Math** | Entropy, stability, curvature, jump rate, transition matrix, trajectory, loopability, coverage, vector ops, diffusion, conservation (core.math). |
 | **Attribution** | Normalize, tokenize, Dict A/B load & attribute, aggregate dominant, R1–R4 surface attribution. |
-| **Stability** | Δ stability (anomaly flags, corrective bias) after L6, input to L7. |
+| **Stability** | Δ stability (anomaly flags, corrective bias) after L6, raw_text to L7. |
 | **Policy** | Interpretation policy (structure-only / structure+context) for L8. |
 | **Propagation** | Core: shadow layer, R1–R4 segmenters/units/ESM/contradiction/guards; Sphere: diffusion, family projection, weighting, compute_propagation. |
 | **USF** | Generate, validate, build, drift, compare, serialize, save. |
@@ -230,7 +230,7 @@ See LEGAL_NOTICE.md for full terms.
 | **Guards** | Sigma (invariants), Gamma (invariants), Theta (governance); run_all_guards. |
 | **Geometry** | Boundary validation; family/area geometry load and index. |
 | **Diagnostics** | Instability, monotony, anomaly detection; interpretation/shadow/propagation/logic diagnostics. |
-| **Interfaces** | analyze_text, USF get/serialize/save/compare, debug_pipeline, input/config/layer validation. |
+| **Interfaces** | analyze_text, USF get/serialize/save/compare, debug_pipeline, raw_text/config/layer validation. |
 | **R1–R4** | Sentence/paragraph/chapter/book segmentation; L1–L9 per segment; unit build; book_profile aggregation. |
 | **E2E** | Sentence (analyze), L1–L9 (full sphere + USF/interpretation/prolog/guards), R1–R4, sphere_math_values, sphere_math_100; all persist to assets/artifacts/e2e. |
 | **API** | FastAPI /health, POST /hesperia/analyze (Bearer), 6-key + extended. |

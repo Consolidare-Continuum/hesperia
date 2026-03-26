@@ -502,12 +502,12 @@ def _analyze_raw() -> dict[str, Any]:
 
 
 def analyze() -> dict[str, Any]:
-    """Produce 6-key result (raw). Internal only. No API must return this without Sigma."""
+    """Produce 6-key summary (raw). Internal only. No API must return this without Sigma."""
     return _analyze_raw()
 
 
 def run_api() -> dict[str, Any]:
-    """API path: analyze() → Sigma.enforce(result) → return. No bypass. Sigma guaranteed."""
+    """API path: analyze() → Sigma.enforce(summary) → return. No bypass. Sigma guaranteed."""
     try:
         from core.propagation.invariant_enforcer import enforce as sigma_enforce
     except ImportError:

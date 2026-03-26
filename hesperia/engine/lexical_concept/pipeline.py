@@ -21,7 +21,7 @@ from core.lexical.policy import load_dlcr_policy
 from core.resolver.resolver import resolve_hit
 from core.sequence.segmentation import segment_by_newlines
 from core.sequence.trajectory import trajectory_over_segments
-from hesperia.engine.tfp_signal_calibration import load_tfp_signal_calibration
+from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
 
 
 def _repo_root() -> Path:
@@ -196,7 +196,7 @@ def run_dlcr_pipeline(
 
     pins = _load_version_pins(repo)
     pol = load_dlcr_policy(repo)
-    tfp_cfg = load_tfp_signal_calibration()
+    engine_cfg = load_engine_signal_calibration()
     max_acc: int | None
     raw_max = pol.get("dict_a_max_accepted")
     env_max = os.environ.get("HESPERIA_DICT_A_MAX_ACCEPTED", "").strip()
@@ -206,8 +206,8 @@ def run_dlcr_pipeline(
         max_acc = int(raw_max)
     else:
         max_acc = None
-    smooth_alpha = float(tfp_cfg.get("hex_smoothing_alpha") or pol.get("hex_smooth_alpha") or 0.0)
-    hex_decay = float(tfp_cfg.get("hex_decay") or 0.05)
+    smooth_alpha = float(engine_cfg.get("hex_smoothing_alpha") or pol.get("hex_smooth_alpha") or 0.0)
+    hex_decay = float(engine_cfg.get("hex_decay") or 0.05)
     ctx_win = int(pol.get("resolver_context_window") or 48)
     seq_w = float(pol.get("sequential_association_weight") or 0.04)
     cooc_window = int(pol.get("cooc_window") or 4)
@@ -249,8 +249,8 @@ def run_dlcr_pipeline(
     concept_weights_stabilized = _stabilize_concept_weights(
         concept_weights_raw,
         token_count=len(norm["canonical_text"].split()),
-        concept_cap=float(tfp_cfg.get("concept_cap") or 8.0),
-        log_normalization_enabled=bool(tfp_cfg.get("log_normalization_enabled")),
+        concept_cap=float(engine_cfg.get("concept_cap") or 8.0),
+        log_normalization_enabled=bool(engine_cfg.get("log_normalization_enabled")),
     )
     hex_state, hex_decayed, cw, deg_proj = _post_hex_concept_feedback(
         concept_weights_stabilized,
@@ -327,10 +327,10 @@ def run_dlcr_pipeline(
             "resolver_context_window": ctx_win,
             "sequential_association_weight": seq_w,
             "cooc_window": cooc_window,
-            "concept_cap": float(tfp_cfg.get("concept_cap") or 8.0),
-            "log_normalization_enabled": bool(tfp_cfg.get("log_normalization_enabled")),
+            "concept_cap": float(engine_cfg.get("concept_cap") or 8.0),
+            "log_normalization_enabled": bool(engine_cfg.get("log_normalization_enabled")),
             "segment_length_normalization": str(
-                tfp_cfg.get("segment_length_normalization") or "inverse_sqrt_token_count"
+                engine_cfg.get("segment_length_normalization") or "inverse_sqrt_token_count"
             ),
         },
         "cooccurrence_token_pairs_top": [{"pair": list(p), "count": c} for p, c in top_pairs],

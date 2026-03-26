@@ -1,9 +1,9 @@
 # HESPERIA Knowledge Metrics Engine (KME) — Formal Deliverable Summary
 
-**Status:** COMPLETE. Integrated into main E2E pipeline.
+**Status:** COMPLETE. Integrated into main E2E execution_flow.
 
 **Short identifier:** KME  
-**Module path:** `hesperia.engine.kme`
+**Component path:** `hesperia.engine.kme`
 
 ---
 
@@ -11,7 +11,7 @@
 
 Design and integrate a deterministic structural knowledge metric system that computes a 41-signal fingerprint describing the structural properties of knowledge expressed in text. The engine produces reproducible metrics suitable for:
 
-- document analysis  
+- document measurement  
 - domain comparison  
 - knowledge diagnostics  
 - LLM grounding  
@@ -28,7 +28,7 @@ The component computes:
 - 41-value fingerprint vector  
 - deterministic fingerprint hash  
 
-All metrics operate on the **Active Concept Graph** produced by the HESPERIA semantic pipeline.
+All metrics operate on the **Active Concept Graph** produced by the HESPERIA semantic execution_flow.
 
 ---
 
@@ -47,8 +47,8 @@ hesperia/
       extractor.py          # Domain constants
       loader.py             # Load domain graph / frozen constants
       active_graph.py       # Active graph canonicalizer
-      bridge.py             # Sphere pipeline → KME bridge
-      pipeline.py           # run_document, run_corpus, export
+      bridge.py             # Sphere execution_flow → KME bridge
+      execution_flow.py           # run_document, run_corpus, export
 ```
 
 **Legacy:** `core.domain` re-exports from `hesperia.engine.kme`. Prefer `from hesperia.engine.kme import ...` for new code.
@@ -67,7 +67,7 @@ hesperia/
 
 ## Integration Into HESPERIA E2E
 
-Pipeline placement:
+Execution Flow placement:
 
 1. semantic extraction  
 2. relation detection  
@@ -89,7 +89,7 @@ Determinism: same concept hits, relations, domain graph, constants → identical
 
 ## Performance
 
-Typical runtime cost per document: primitive metrics ~1–2 ms, derived &lt;1 ms, fingerprint &lt;1 ms. Total added pipeline cost ~3 ms per document.
+Typical runtime cost per document: primitive metrics ~1–2 ms, derived &lt;1 ms, fingerprint &lt;1 ms. Total added execution_flow cost ~3 ms per document.
 
 ---
 
@@ -101,15 +101,15 @@ Typical runtime cost per document: primitive metrics ~1–2 ms, derived &lt;1 ms
 - Validation test suite  
 - Domain fingerprint system  
 - Domain profiling layer  
-- E2E pipeline integration  
+- E2E execution_flow integration  
 - Metric documentation  
 
 All definitions are deterministic, machine-readable, and Codex-ready.
 
 ---
 
-## Final Result
+## Final Summary
 
-The HESPERIA system contains a fully specified module **HESPERIA Knowledge Metrics Engine (KME)** with capabilities for structural knowledge measurement, document fingerprinting, domain profiling, discipline comparison, and knowledge structure diagnostics, wired directly into the main E2E pipeline.
+The HESPERIA system contains a fully specified component **HESPERIA Knowledge Metrics Engine (KME)** with capabilities for structural knowledge measurement, document fingerprinting, domain profiling, discipline comparison, and knowledge structure diagnostics, wired directly into the main E2E execution_flow.
 
 **Reference docs:** `docs/DOMAIN_METRICS_REFERENCE.md`, `docs/DOMAIN_PROFILE.md`, `docs/DOMAIN_E2E_PIPELINE.md`, `AGENTS.md` (§ Knowledge Metrics Engine).

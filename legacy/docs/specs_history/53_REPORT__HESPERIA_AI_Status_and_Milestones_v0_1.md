@@ -18,7 +18,7 @@ HESPERIA is a semantics-first AI architecture that combines:
 3. **Semantic engine logic** that stabilizes interpretation and response behavior,
 4. **Operational loopability** for iterative, bounded reasoning cycles.
 
-In practical AI terms, HESPERIA behaves like a **structured reasoning substrate** rather than a generic text pipeline. Instead of relying only on unbounded latent associations, it introduces explicit contracts for how information is indexed, traversed, validated, and published.
+In practical AI terms, HESPERIA behaves like a **structured reasoning substrate** rather than a generic text execution_flow. Instead of relying only on unbounded latent associations, it introduces explicit contracts for how information is indexed, traversed, validated, and published.
 
 The platform is therefore positioned between classical symbolic systems and modern LLM workflows:
 - It borrows **formal invariants** and state-machine style controls from symbolic engineering.
@@ -75,7 +75,7 @@ Based on the current specification set and governance artifacts, the following m
 9. **Embedding/DictB and family-layer evolution documented.**  
    Semantic classification and family taxonomy work indicate substantial movement toward scalable retrieval semantics.
 
-10. **Operational and governance reporting pipeline active.**  
+10. **Operational and governance reporting execution_flow active.**  
     The repository includes multiple technical task reports and assessment docs, showing ongoing program governance.
 
 Collectively, these milestones indicate that HESPERIA is in a **spec-rich, governance-aware pre/full-integration phase** rather than a raw concept phase.

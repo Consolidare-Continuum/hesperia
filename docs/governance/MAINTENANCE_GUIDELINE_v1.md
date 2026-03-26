@@ -8,7 +8,7 @@
 ## When adding new features
 
 1. **Implement internally.**  
-   New logic, metrics, or pipeline steps live inside the sealed core. Public entry points (CLI/API) do not gain new commands or endpoints unless the surface is explicitly extended with a version bump (see PUBLIC_API_SURFACE_FREEZE_v1.md).
+   New logic, metrics, or execution_flow steps live inside the sealed core. Public entry points (CLI/API) do not gain new commands or endpoints unless the surface is explicitly extended with a version bump (see PUBLIC_API_SURFACE_FREEZE_v1.md).
 
 2. **Verify projection hides internal structures.**  
    Any new output that can reach the public path must go through the projection layer. Ensure no new keys or values leak internal geometry, layer names, or topology. Run the projection test (e.g. via release gate or regression tests).
@@ -27,7 +27,7 @@
 ## Release process (unchanged)
 
 - Single path: `./release_sealed_runtime.sh`.
-- Gate result: `HESPERIA SEALED RUNTIME: PASS`.
+- Gate summary: `HESPERIA SEALED RUNTIME: PASS`.
 - Manual steps (clean machine, reflection audit, performance) as in SEALED_RUNTIME_RELEASE_PROCESS_v1.md.
 - Regression: run tests in `tests/test_sealed_runtime_regression.py` and corpus in `tests/sealed_runtime_inputs/` (analyze each, compare pairs, batch-analyze; verify deterministic output, schema validity, no forbidden keys).
 

@@ -16,7 +16,7 @@ This repository is the **Hesperia Engine Dynamics** codebase — **Canonical sea
 
 - `core/` — deterministic computation layers (L1–L9), topology, propagation
 - `hesperia/` — engine (including `hesperia.engine.kme` — Knowledge Metrics Engine)
-- `runtime/` — pipelines, orchestration, API
+- `runtime/` — execution flows, orchestration, API
 - `sphere/` — structural / USF / prolog-adjacent compute (internal; not public product vocabulary)
 - `lexicon/` — dictionary systems and lexical tooling
 - `schemas/` — JSON/schema artifacts consumed by runtime and tooling
@@ -77,9 +77,9 @@ Do not use or reintroduce old roots such as `sphere_rag/`, `hesperia_lex/`, `scr
 
 ## Knowledge Metrics Engine (KME)
 
-- **Short identifier:** KME. **Module path:** `hesperia.engine.kme`.
-- **Purpose:** Deterministic structural knowledge metrics and fingerprints (6 primitives, 35 derived, 41-value fingerprint, domain profile). Integrated into main E2E pipeline.
-- **Structure:** `hesperia/engine/kme/` with subpackages `primitives/`, `derived/`, `fingerprint/`, `profiling/`, `validation/`; plus `models`, `extractor`, `loader`, `active_graph`, `bridge`, `pipeline`.
+- **Short identifier:** KME. **Component path:** `hesperia.engine.kme`.
+- **Purpose:** Deterministic structural knowledge metrics and fingerprints (6 primitives, 35 derived, 41-value fingerprint, domain profile). Integrated into main E2E execution_flow.
+- **Structure:** `hesperia/engine/kme/` with subpackages `primitives/`, `derived/`, `fingerprint/`, `profiling/`, `validation/`; plus `models`, `extractor`, `loader`, `active_graph`, `bridge`, `execution_flow`.
 - **Legacy entry point:** `core.domain` re-exports from `hesperia.engine.kme`. Prefer `from hesperia.engine.kme import ...` for new code.
 
 ## Active Execution Stack
@@ -105,7 +105,7 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 - **`docs/IMPORT_GRAPH_v0_5_0.md`** — static imports from public `runtime/*` + `runtime/services` (regenerate: `python3 tools/gen_import_graph_doc.py --write`; CI diff).
 - **`docs/IMPORT_GRAPH_ENGINE_v0_5_0.md`** — static imports from `hesperia/engine/` (regenerate: `python3 tools/gen_import_graph_doc.py --write --profile engine`; CI diff).
 - **`runtime/shipping/shipping_import_allowlist.yaml`** + **`tools/validate_shipping_surface.py`** — explicit allowlist for `runtime/shipping` imports.
-- **`tools/check_forbidden_zone_imports.py`** — blocks `research.*` / `legacy.*` in `runtime/services`, `runtime/shipping`, `runtime/api`, `hesperia/engine`, and `runtime/pipeline` except `run_e2e_all.py`.
+- **`tools/check_forbidden_zone_imports.py`** — blocks `research.*` / `legacy.*` in `runtime/services`, `runtime/shipping`, `runtime/api`, `hesperia/engine`, and `runtime/execution_flow` except `run_e2e_all.py`.
 - **`schemas/public_api_v0_5_1.snapshot.json`** — byte-identical freeze of `schemas/public/public_output_schema.json` for the v0.5.1 line (`tools/verify_public_api_snapshot.py`). Historical: `schemas/public_api_v0_5_0.snapshot.json`.
 - **`docs/VERSIONING_GATE_v0_5_1.md`** — structural vs behavioral gate (fulfilled by the v0.5.1 seal).
 - **`docs/ENGINE_DYNAMICS_CANONICAL_NAMING_v0.5.md`** — vocabulary: multiscale chain, modules, E2E counts.
@@ -126,13 +126,13 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 - **`docs/PUBLIC_PRODUCT_SURFACE.md`** — internal vs projection vs public; HTTP/CLI; capabilities; E2E split.
 - **Projection gate:** `hesperia.engine.projection.project_to_public` — product paths must not bypass it (see `runtime.services.analysis_service`, `runtime.artifact_writer`).
 - **Capabilities:** `hesperia/system/capabilities.yaml` + `hesperia.system.capabilities` (env: `HESPERIA_PRODUCT_SURFACE`, `HESPERIA_EXPOSE_TRIZ`, `HESPERIA_EXPOSE_VERSION`).
-- **Product E2E:** `python3 -m runtime.pipeline.run_e2e_product` — minimal input → projection → schema check (full internal E2E remains `run_e2e_all`).
+- **Product E2E:** `python3 -m runtime.execution_flow.run_e2e_product` — minimal raw_text → projection → schema check (full internal E2E remains `run_e2e_all`).
 
 ## Release seal (Task 5 — v0.5.1 current · v0.5.0 frozen)
 
 - **`release/v0.5.1/`** — **current** full audit package: `README.md`, `manifest.json`, `build_info.json`, `BUILD_PROVENANCE.json`, `checksums.txt`, `capabilities.yaml`, `specs_index.json`, `test_report.json`, **`audit_report.json`**, **`determinism_report.json`**, **`schema_validation_report.json`**, **`system_seal.json`**, `e2e_reference_output.json`, `schema.json`, **`final_gate_status.json`** (`sealed`, `critical_checks` including **`system_seal`**).
 - **`release/v0.5.0/`** — **historical** frozen baseline (unchanged after v0.5.1 tag).
-- **Canonical input fixture:** `tests/fixtures/release_v0_5_0/canonical_input.txt`.
+- **Canonical raw_text fixture:** `tests/fixtures/release_v0_5_0/canonical_input.txt`.
 - **Builder (v0.5.1):** `python3 tools/release/build_release_audit_v0_5_1.py` (exit **0** only if all gates pass, including **clean git**). Set `HESPERIA_RELEASE_BUILD_TIMESTAMP` for bitwise-stable `e2e_reference_output.json`.
 - **Builder (v0.5.0, historical):** `python3 tools/release/build_release_audit_v0_5_0.py` — do not re-run to mutate the frozen tree.
 - **Tag:** `git tag -a v0.5.1 -m "…"` only when `release/v0.5.1/audit_report.json` → `seal_decision.may_tag_v0_5_1` is **true** (automation does not tag).
@@ -164,7 +164,7 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 ## Path/Command Hygiene
 
 - Keep examples and commands aligned to active modules.
-- Use `python3 -m runtime.pipeline.run_l1_through_l9` for the L1→L9 pipeline entrypoint.
+- Use `python3 -m runtime.pipeline.run_l1_through_l9` for the L1→L9 execution flow entrypoint.
 - Use `python3 -m runtime.pipeline.run_e2e_full_stack` for the **single encompassing E2E** (all `run_e2e_all` outputs + product surface + physics validation + system seal + manifest); `docs/E2E_RUN_ORDER.md`.
 - Use `python3 -m runtime.semantic_field.run_semantic_field --config … --output …` for **semantic field equations** (see `runtime/configs/semantic_field_example.json`, `runtime/semantic_field/README.md`).
 - Use `python3 -m runtime.semantic_field.run_field_calibration --config … --output …/run_output_e2e_field_calibration.json` for **HCI parameter grid calibration** (writes `*_best.json`, `*_topk.json`; see `runtime/configs/field_calibration_example.json`, `specs/dynamics/HSPR_CALIBRATION_INDEX_v1.md`).

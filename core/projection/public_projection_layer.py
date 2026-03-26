@@ -31,6 +31,12 @@ KEY_PROPAGATED_POLICY_FAMILY_COUNTS = "propagated_policy_family_counts"
 KEY_CORRECTED_MACRO_DOMAIN_VECTOR = "corrected_macro_domain_vector"
 KEY_CORRECTED_POLICY_FAMILY_COUNTS = "corrected_policy_family_counts"
 
+# Canonical remap for ambiguous public keys.
+KEY_REMAP_CANONICAL = {
+    "stability": "consistency_profile",
+    "pipeline": "execution_flow",
+}
+
 
 def filter_reserved_structures(
     area_indices: list[int] | None = None,
@@ -155,6 +161,7 @@ def project_public_metrics(internal_metrics: dict[str, Any]) -> dict[str, Any]:
     # Copy over non-structural metrics that are already safe (scalars, non-revealing)
     safe_keys = {
         "entropy", "coverage", "tension", "loopability", "governance",
+        "constraint_status", "structural_recurrence", "resistance_index",
         "confidence", "trust_tier", "contradiction", "divergence",
         "structural_focus", "evidence_count", "run_version", "result_hash",
     }
@@ -166,6 +173,13 @@ def project_public_metrics(internal_metrics: dict[str, Any]) -> dict[str, Any]:
                 "dominant_area", "dominant_family", "DOMINANT_AREA_ID", "DOMINANT_FAMILY_ID",
             ):
                 out[k] = v
+    # Semantic clarity aliases (keep legacy keys for compatibility).
+    if "governance" in out and "constraint_status" not in out:
+        out["constraint_status"] = out["governance"]
+    if "loopability" in out and "structural_recurrence" not in out:
+        out["structural_recurrence"] = out["loopability"]
+    if "obstacle_score" in out and "resistance_index" not in out:
+        out["resistance_index"] = out["obstacle_score"]
     return out
 
 
@@ -216,7 +230,8 @@ def sanitize_public_trace(trace: dict[str, Any] | list[Any]) -> dict[str, Any] |
                 elif "family" in k and not reserve_loader.is_reserved_family(idx):
                     out[KEY_DOMINANT_POLICY_FAMILY] = idx
             continue
-        out[k] = sanitize_public_trace(v) if isinstance(v, (dict, list)) else v
+        out_key = KEY_REMAP_CANONICAL.get(k, k)
+        out[out_key] = sanitize_public_trace(v) if isinstance(v, (dict, list)) else v
     return out
 
 

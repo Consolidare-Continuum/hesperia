@@ -44,7 +44,7 @@ Hesperia is the prichindel.com semantic-substrate product (specs, sphere, matrix
 | **Semantic engine decision** | Use Chroma as semantic engine; no tech investigation for alternate engine unless Phase D or limits | Ethan | ETHAN-HESPERIA-SEMANTIC-ENGINE-REPORT.md |
 | **Albina / FPF wiring** | hesperia_families as pylon alongside FPF and books; policy and ALBINA.md updated | Cursor | CHROMA-USAGE-POLICY, CHROMA-BOOKS-LIST-AND-WIRING, ALBINA.md |
 | **Apple path tooling** | apple_path_imprint.py, apple_involvements.py; path store apple_paths/ | Gena | TASK-GENA-APPLE-HESPERIDES-PATH-SCRIPTS.md |
-| **Multiple loop runs** | Harness, 24 runs, self-analysis report, informatics integration plan, boundaries doc | Grace, Ethan | TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md, HESPERIA-MULTIPLE-LOOP-BOUNDARIES.md |
+| **Multiple loop runs** | Harness, 24 runs, self-measurement report, informatics integration plan, boundaries doc | Grace, Ethan | TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md, HESPERIA-MULTIPLE-LOOP-BOUNDARIES.md |
 | **Brain sync** | DOC_INDEX, WORKSPACE, CLIENTS/hesperia examination | Gena | EXAMINATION-2026-02-16.md |
 
 All listed hesperia tasks in active.md for this phase are **DONE**. No OPEN hesperia rows as of 2026-02-18.
@@ -53,7 +53,7 @@ All listed hesperia tasks in active.md for this phase are **DONE**. No OPEN hesp
 
 | Need | Status | Note |
 |------|--------|------|
-| **Activation data pipeline** | Not in place | L_full is computed when --activation file is provided; no automated activation feed yet. Optional for current use. |
+| **Activation data execution_flow** | Not in place | L_full is computed when --activation file is provided; no automated activation feed yet. Optional for current use. |
 | **Product semantic layer** | Out of scope (Phase D) | Full Hesperia RAG/engine in product workspace; when scope changes, Grace updates SCOPE-AND-SYNC and CONTEXT-PACKET. |
 | **Region/obstacle in traversal** | Out of scope until data | TraversalService runLoop(region, …) and full loopability from region/activation; cursor-repo has ring-only + formula ref + L_full when activation file given. |
 | **Open tasks** | None | Next work: new assignments from Grace/Albina or scope change (e.g. Phase D). |
@@ -61,7 +61,7 @@ All listed hesperia tasks in active.md for this phase are **DONE**. No OPEN hesp
 ## 3. Where we go (internal)
 
 - **Next gates**: (1) New tasks only when Grace/Albina assign and triage into active.md. (2) Phase D only when product decision to bring semantic layer in scope — then SCOPE-AND-SYNC and CONTEXT-PACKET updated, WBS/ARCH-DECISION if needed.
-- **Activation**: If we want L_full in production without manual --activation file, we need an activation data pipeline (source, format, who produces it). Not blocking current agents use.
+- **Activation**: If we want L_full in production without manual --activation file, we need an activation data execution_flow (source, format, who produces it). Not blocking current agents use.
 - **Stability**: Boundaries (HESPERIA-MULTIPLE-LOOP-BOUNDARIES) are fixed; matrix and context RAG are the agents’ interface; product layer remains separate until Phase D.
 
 ---

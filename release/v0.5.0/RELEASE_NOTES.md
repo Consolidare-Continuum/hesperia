@@ -19,7 +19,7 @@ This is **not** a claim of generative truth, clinical certification, or an uncon
 - **Hex layer:** Microphysics (`hex_dynamics`), hex→family bridge (`hex_family_bridge`), hex outputs, topology weights (`data/topology/hex_family_weights.json`).
 - **Sealed multiscale stack:** `hesperia.engine.sealed_multiscale_stack` — one-shot chain to family/area activations, **product signals**, and **HSPR** system scalar.
 - **Supporting modules:** `observables`, `product_signals`, `hspr_index`; normative specs under `specs/` (canon, dynamics, calibration, schema).
-- **E2E baseline:** `python3 -m runtime.pipeline.run_e2e_all` produces **19** reference JSON artifacts (**20** with `HESPERIA_FIELD_DYNAMICS=1`). See `docs/E2E_RUN_ORDER.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`.
+- **E2E baseline:** `python3 -m runtime.execution_flow.run_e2e_all` produces **19** reference JSON artifacts (**20** with `HESPERIA_FIELD_DYNAMICS=1`). See `docs/E2E_RUN_ORDER.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`.
 - **Public API (shipping):** `POST /analyze`, `/compare`, `/batch` (alias `/batch-analyze`), `GET /health`; responses go through **projection** (`runtime/services/analysis_service.py`). OpenAPI/docs **off** on the shipping app by default.
 - **Version authority:** `pyproject.toml`, `hesperia.__version__`, `VERSION.yaml`, and OpenAPI product version aligned at **0.5.0**.
 
@@ -44,7 +44,7 @@ This is **not** a claim of generative truth, clinical certification, or an uncon
 ## Verify locally
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.execution_flow.run_e2e_all
 pytest tests/test_e2e_flows.py -v
 ```
 

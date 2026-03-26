@@ -6,6 +6,8 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import pytest
+
 _REPO = Path(__file__).resolve().parents[2]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
@@ -57,9 +59,10 @@ def test_analyze_session_speaker_aware_activation_by_direction() -> None:
     assert result["role_direction"]["patient_to_therapist"]["target"] == "therapist"
 
 
+@pytest.mark.tfp
 def test_detect_transference() -> None:
     """detect_transference returns positive/negative/projective/idealization/devaluation."""
-    from research.clinical_tfp.transference_detection import detect_transference
+    from hesperia.tfp import detect_transference
 
     activation = {
         "activation_by_direction": {
@@ -75,9 +78,10 @@ def test_detect_transference() -> None:
     assert "scores" in out
 
 
+@pytest.mark.tfp
 def test_transference_summary() -> None:
     """transference_summary returns per-direction detection."""
-    from research.clinical_tfp.transference_detection import transference_summary
+    from hesperia.tfp import transference_summary
 
     activation = {"activation_by_direction": {"patient_to_therapist": {"families": {}, "areas": {}}}}
     out = transference_summary(activation)
@@ -110,17 +114,19 @@ def test_build_activation_timeline() -> None:
         assert "areas" in step and "families" in step
 
 
+@pytest.mark.tfp
 def test_detect_tfp_stage() -> None:
     """detect_tfp_stage returns one of chaotic/defense_clarification/interpretation/integration."""
-    from research.clinical_tfp.stage_detection import detect_tfp_stage, TFP_STAGES
+    from hesperia.tfp import TFP_STAGES, detect_tfp_stage
 
     assert detect_tfp_stage({"A4": 0.7, "A3": 0.5, "A7": 0.1}) in TFP_STAGES
     assert detect_tfp_stage({"A7": 0.6, "A4": 0.2}) == "integration"
 
 
+@pytest.mark.tfp
 def test_stage_from_timeline() -> None:
     """stage_from_timeline computes stage from last N windows."""
-    from research.clinical_tfp.stage_detection import stage_from_timeline
+    from hesperia.tfp import stage_from_timeline
 
     timeline = [{"areas": {"A7": 0.6, "A4": 0.1}}, {"areas": {"A7": 0.5}}]
     stage = stage_from_timeline(timeline, last_n=2)

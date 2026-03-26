@@ -32,7 +32,7 @@ Hatted terms are components normalized to **[0,1]**:
 
 **\(\tilde{a}_i\)** default positive; after normalization \(\sum_i \tilde{a}_i = 1\) so **HSPR_sys ∈ [0,1]**.
 
-### Input contract
+### Raw_text contract
 
 `field_state` dict with keys: `activation_energy`, `propagation_strength`, `contradiction_pressure`, `narrative_density` (and optional `scales`).
 

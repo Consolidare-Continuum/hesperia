@@ -287,7 +287,7 @@ Principles:
 6. Early stopping prevents useless extra cycles.
 7. Novelty = threshold-crossing (families) + unseen contextual statements.
 
-Result: deterministic, interpretable, reproducible multi-pass semantic exploration.
+Summary: deterministic, interpretable, reproducible multi-pass semantic exploration.
 
 ---
 

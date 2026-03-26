@@ -11,7 +11,7 @@ References: 41_SPEC (Layer-8: SI_*); 40_SPEC (L7), 36_SPEC (L3), 37_SPEC (L4); 0
 0. LAYER-9 CONTRACT (INVARIANT)
 ----------------------------------------------------------------------
 
-  Layer-9 provides a consistent "dashboard language" that does not lie. Standard U1000 bands (critical/weak/fair/good/strong/excellent), directionalization (high-is-good vs low-is-good), human "pillars" (branded categories), one-word tags (TRUSTED/USABLE/TENTATIVE/FRAGILE/BLOCKED, etc.), and deterministic action flags (require more input, evidence rebuild, governance review, allow human summary). No narrative generation; only deterministic labels and flags. All 25 variables are derived from L3, L4, L7 and Layer-8 SI_*.
+  Layer-9 provides a consistent "dashboard language" that does not lie. Standard U1000 bands (critical/weak/fair/good/strong/excellent), directionalization (high-is-good vs low-is-good), human "pillars" (branded categories), one-word tags (TRUSTED/USABLE/TENTATIVE/FRAGILE/BLOCKED, etc.), and deterministic action flags (require more raw_text, evidence rebuild, governance review, allow human summary). No narrative generation; only deterministic labels and flags. All 25 variables are derived from L3, L4, L7 and Layer-8 SI_*.
 
 ----------------------------------------------------------------------
 1. PREREQUISITES
@@ -79,7 +79,7 @@ C. Human pillars (11–16)
 
 11. PILLAR_INPUT_QUALITY_U1000
     int PILLAR_INPUT_QUALITY_U1000 = (int) round(0.60 * SI_COVERAGE_U1000 + 0.40 * SI_DOMINANCE_U1000);
-    Is the input structurally readable and decisive?
+    Is the raw_text structurally readable and decisive?
 
 12. PILLAR_GEOMETRY_U1000
     int PILLAR_GEOMETRY_U1000 = (int) round(0.70 * SI_GEOMETRIC_STABILITY_U1000 + 0.30 * AREA_CONTAINMENT_U1000);
@@ -140,7 +140,7 @@ E. Action flags (22–25)
 
 24. ACTION_REQUIRE_GOVERNANCE_REVIEW
     boolean ACTION_REQUIRE_GOVERNANCE_REVIEW = (L7.DECISION_STATUS_CODE != 0) || (SI_SYSTEM_CONFIDENCE_U1000 < 450);
-    Do not ship the result as advice.
+    Do not ship the summary as advice.
 
 25. ACTION_ALLOW_HUMAN_SUMMARY
     boolean ACTION_ALLOW_HUMAN_SUMMARY = (L7.DECISION_STATUS_CODE == 0) && (SI_SYSTEM_CONFIDENCE_U1000 >= 650) && SI_TRIG_REALITY_FLAG;
@@ -150,7 +150,7 @@ E. Action flags (22–25)
 3. WHAT LAYER-9 GIVES
 ----------------------------------------------------------------------
 
-  A consistent dashboard language that does not lie. One-word tags: TRUSTED / USABLE / TENTATIVE / FRAGILE / BLOCKED. Pillars you can brand and show to humans. Clear action flags (input / evidence / governance / allow summary).
+  A consistent dashboard language that does not lie. One-word tags: TRUSTED / USABLE / TENTATIVE / FRAGILE / BLOCKED. Pillars you can brand and show to humans. Clear action flags (raw_text / evidence / governance / allow summary).
 
 ----------------------------------------------------------------------
 4. RELATION TO LAYERS 7–8

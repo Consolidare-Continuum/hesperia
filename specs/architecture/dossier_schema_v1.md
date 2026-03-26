@@ -12,7 +12,7 @@ This document defines the canonical structure of HESPERIA dossier artifacts. Dos
 
 ## Top-level structure
 
-A dossier is a JSON object with one of two shapes: **single-run** (one pipeline execution) or **multiscale** (R1–R4 reading scales). Both share metadata and governance-related fields where present.
+A dossier is a JSON object with one of two shapes: **single-run** (one execution_flow execution) or **multiscale** (R1–R4 reading scales). Both share metadata and governance-related fields where present.
 
 ### Common / multiscale top-level keys
 
@@ -33,7 +33,7 @@ A dossier is a JSON object with one of two shapes: **single-run** (one pipeline 
 | Key | Type | Required | Description |
 |-----|------|----------|-------------|
 | **run** | string | yes | Run identifier, e.g. `"L1_through_L9"`. |
-| **text_preview** | string | yes | Short preview of input text. |
+| **text_preview** | string | yes | Short preview of raw_text text. |
 | **L1** … **L9** | object | yes | Layer output objects (34_SPEC–42_SPEC). |
 | **diagnostics** | object | yes | Per-layer and Δ stability diagnostics. |
 
@@ -49,10 +49,10 @@ When present (inline or under `meta`). For written dossiers, **meta** is require
 | **dossier_checksum** | string | yes (after write) | SHA256 of canonical payload (checksum field empty). |
 | **generation_timestamp** | string | yes | ISO 8601 UTC timestamp when dossier was generated (e.g. `2026-03-11T14:32:05Z`). |
 | **engine_version** | string | yes | HESPERIA engine version (from pyproject.toml or git commit). |
-| **pipeline_version** | string | no | Pipeline identifier, e.g. `"L1-L9"`. |
+| **pipeline_version** | string | no | Execution Flow identifier, e.g. `"L1-L9"`. |
 | **python_version** | string | no | Python version at generation time. |
 | **run_manifest** | object | no (yes when written) | Execution parameters for reproducibility (see below). |
-| **dossier_id** | string | no (yes after write) | Content-addressed id: first 12 hex chars of dossier_checksum (e.g. `a9f4c2d91b73`). Excluded from checksum input. |
+| **dossier_id** | string | no (yes after write) | Content-addressed id: first 12 hex chars of dossier_checksum (e.g. `a9f4c2d91b73`). Excluded from checksum raw_text. |
 
 ### meta.run_manifest
 

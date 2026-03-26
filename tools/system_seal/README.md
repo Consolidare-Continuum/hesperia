@@ -14,7 +14,7 @@ Writes `release/v{VERSION.yaml system_version}/system_seal.json` (e.g. `release/
 
 | Key | Intent |
 |-----|--------|
-| `pipeline` | Canonical shipping modules must not import/call `sphere.pipeline.run_pipeline` |
+| `execution_flow` | Canonical shipping modules must not import/call `sphere.execution_flow.run_pipeline` |
 | `hex_dependency` | Product signals reject missing hex tensors |
 | `matrices` | Production `L_F/C_F/R_F` load (no stub env) |
 | `pch` | Governed sparse non-uniform `P_CH` |

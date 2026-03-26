@@ -11,14 +11,14 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 | Check | Status |
 |-------|--------|
-| `runtime.pipeline.run_e2e_all` | OK |
-| `runtime.pipeline.run_l1_through_l9` | OK |
-| `runtime.pipeline.analyze` | OK |
-| `runtime.pipeline.r1_r4_pipeline` | OK |
+| `runtime.execution_flow.run_e2e_all` | OK |
+| `runtime.execution_flow.run_l1_through_l9` | OK |
+| `runtime.execution_flow.analyze` | OK |
+| `runtime.execution_flow.r1_r4_pipeline` | OK |
 | `runtime.services.analysis_service` | OK (moved from core; see below) |
 | `core.projection` | OK |
-| `sphere.pipeline.pipeline_runner` | OK |
-| `sphere.pipeline.layer_registry` | OK |
+| `sphere.execution_flow.pipeline_runner` | OK |
+| `sphere.execution_flow.layer_registry` | OK |
 | `core.layers` (L1–L9) | OK |
 | `core.attribution.structural` | OK |
 | `hesperia.engine.kme` | OK |
@@ -37,7 +37,7 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 | core does not import runtime | OK |
 | sphere does not import runtime | OK |
 
-**Change made:** `core/services/analysis_service.py` was the only core module importing sphere. It was moved to `runtime/services/analysis_service.py`. All callers (run_l1_through_l9, run_e2e_all, shipping CLI/API, runners, tests) now use `runtime.services.analysis_service`. Core no longer depends on sphere.
+**Change made:** `core/services/analysis_service.py` was the only core component importing sphere. It was moved to `runtime/services/analysis_service.py`. All callers (run_l1_through_l9, run_e2e_all, shipping CLI/API, runners, tests) now use `runtime.services.analysis_service`. Core no longer depends on sphere.
 
 ---
 
@@ -46,7 +46,7 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 | Item | Status |
 |------|--------|
 | `core.domain` re-exports from `hesperia.engine.kme` | OK |
-| `sphere.pipeline.pipeline_runner` uses `core.domain.bridge`, `loader`, `pipeline`, `models` for domain_metrics | OK |
+| `sphere.execution_flow.pipeline_runner` uses `core.domain.bridge`, `loader`, `execution_flow`, `models` for domain_metrics | OK |
 | Tests use `core.domain` for domain tests | OK |
 
 ---
@@ -64,7 +64,7 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 ## 5. Tests
 
-| Suite | Result |
+| Suite | Summary |
 |-------|--------|
 | Full test suite (`pytest tests/`) | 378 passed |
 | Architecture (`test_layer_dependencies`) | 3 passed |
@@ -77,16 +77,16 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 | Check | Status |
 |-------|--------|
-| `python3 -m runtime.pipeline.run_e2e_all` | OK, **19** baseline JSON under `assets/artifacts/e2e/` (+ optional field dynamics); `docs/E2E_RUN_ORDER.md`, `E2E_OUTPUTS.md` |
+| `python3 -m runtime.execution_flow.run_e2e_all` | OK, **19** baseline JSON under `assets/artifacts/e2e/` (+ optional field dynamics); `docs/E2E_RUN_ORDER.md`, `E2E_OUTPUTS.md` |
 
 ---
 
 ## 7. File areas (casual)
 
 - **core/** — Layers 1–9, attribution, contracts, domain (KME re-exports), math, policy, projection, propagation, services (report only), stability, topology. No sphere/runtime imports.
-- **runtime/** — Pipeline runners, shipping CLI/API, artifact_writer, dossier, provenance, **services** (analysis_service). Imports sphere and core as intended.
-- **sphere/** — Pipeline runner, layer registry, propagation, shadow, logic, interpretation, USF, dynamism, guards, metrics, geometry, prolog_logic, diagnostics. Imports core only.
-- **hesperia/engine/kme/** — Primitives, derived, fingerprint, profiling, validation, pipeline, loader, bridge, etc. Used via core.domain and sphere pipeline (domain_metrics).
+- **runtime/** — Execution Flow runners, shipping CLI/API, artifact_writer, dossier, provenance, **services** (analysis_service). Imports sphere and core as intended.
+- **sphere/** — Execution Flow runner, layer registry, propagation, shadow, logic, interpretation, USF, dynamism, guards, metrics, geometry, prolog_logic, diagnostics. Imports core only.
+- **hesperia/engine/kme/** — Primitives, derived, fingerprint, profiling, validation, execution_flow, loader, bridge, etc. Used via core.domain and sphere execution_flow (domain_metrics).
 - **lexicon/** — Build and validation scripts; not on hot path of run_e2e_all.
 - **tools/** — Diagnostics, domain_constants_extract, sealing_scan, visualization; not required for e2e.
 
@@ -97,4 +97,4 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 - All critical imports and entry points load.
 - Architecture boundaries hold: runtime → sphere → core; no core → sphere.
 - E2E runner and full test suite pass.
-- One structural fix applied: analysis service moved from core to runtime so the layer rule is satisfied and the stack is ready for the survival run.
+- One structural fix applied: measurement service moved from core to runtime so the layer rule is satisfied and the stack is ready for the survival run.

@@ -6,7 +6,7 @@ HESPERIA — RAD. Companion to ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md
 
 **Canonical spec:** [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) (v3). This file is the **single cheat sheet** for implementers.
 
-**Family-field closed form (parallel spine):** [semantic_field_dynamics.md](semantic_field_dynamics.md) — single \(\mathbf{F}\in\mathbb{R}^{288}\) equation with \(L_F,R_F,C,\mathbf{S}\); calibration `assets/calibration/semantic_field_equations_v1.json`; module `hesperia.extensions.dynamics.semantic_field_v1`.
+**Family-field closed form (parallel spine):** [semantic_field_dynamics.md](semantic_field_dynamics.md) — single \(\mathbf{F}\in\mathbb{R}^{288}\) equation with \(L_F,R_F,C,\mathbf{S}\); calibration `assets/calibration/semantic_field_equations_v1.json`; component `hesperia.extensions.dynamics.semantic_field_v1`.
 
 ---
 
@@ -14,7 +14,7 @@ HESPERIA — RAD. Companion to ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md
 
 | ID | Name | Primary L-layers |
 |----|------|------------------|
-| **H0** | Input injection \(I_i\) | L0→L2 |
+| **H0** | Raw_text injection \(I_i\) | L0→L2 |
 | **H1** | Concept \(c_i\) | L2 |
 | **H2** | Hex field \(x_h\) | L4 |
 | **H3** | Hex contradiction \(p_h\) | L4 |
@@ -54,7 +54,7 @@ Use **extended** IDs when splitting **resolution**, **gradients**, **cluster gra
 | **1** | L0, L2, L6, L7 (area \(p_a\)), L9 | ≈ compressed area + contradiction |
 | **2** | + L5 **H4/H5** (`f_f`, \(p_f\)) + L6 blend **ĤF_a** | **Implemented:** `step_phase2`, env `HESPERIA_FIELD_DYNAMICS_PHASE2=1` |
 | **3** | + L4 active subgraph (**family-proxy**, capped) | **`step_phase3`**, `PHASE3=1` |
-| **4** | + L8 gravity, fronts, velocity | **`PHASE4=1`**, `phase4` module |
+| **4** | + L8 gravity, fronts, velocity | **`PHASE4=1`**, `phase4` component |
 | **Ξ proxy** | TRIZ rows → tension scalar + per-area boost of **L7** `c_sig` before L4–L6 | **`xi_proxy.py`**, `HESPERIA_FIELD_DYNAMICS_XI` |
 
 ---

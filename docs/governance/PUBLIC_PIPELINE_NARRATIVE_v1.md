@@ -10,7 +10,7 @@
 The system is described in public docs and API as follows:
 
 1. **Ingest text** — User supplies text, paragraph, or corpus.
-2. **Structural analysis** — The engine performs ontology-grounded structural analysis (no further detail).
+2. **Structural measurement** — The engine performs ontology-grounded structural measurement (no further detail).
 3. **Evidence extraction** — Matched concepts and evidence-backed relation modeling produce evidence.
 4. **Comparison / divergence evaluation** — Structural comparison and divergence metrics are computed.
 5. **Report generation** — Public reports, evidence trace, and selected metrics are produced.
@@ -32,11 +32,11 @@ The system is described in public docs and API as follows:
 
 - “Ontology-grounded structural mapping.”
 - “Evidence-backed relation modeling.”
-- “Structural analysis,” “evidence extraction,” “comparison,” “report generation.”
+- “Structural measurement,” “evidence extraction,” “comparison,” “report generation.”
 - “Calibration profile,” “report profile,” “public metric profile.”
 
 ---
 
 ## 4. Acceptance Criterion
 
-Public-facing documentation stays product-shaped, not engine-shaped. A reader cannot reconstruct the full transformation chain or internal pipeline from public docs.
+Public-facing documentation stays product-shaped, not engine-shaped. A reader cannot reconstruct the full transformation chain or internal execution_flow from public docs.

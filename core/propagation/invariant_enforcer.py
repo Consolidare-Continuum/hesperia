@@ -172,7 +172,7 @@ def check_family_in_area(area_name: str, family_name: str) -> bool:
 
 
 # -----------------------------------------------------------------------------
-# Sigma.enforce(result): full pipeline for engine output
+# Sigma.enforce(summary): full execution_flow for engine output
 # -----------------------------------------------------------------------------
 
 def enforce(

@@ -36,4 +36,4 @@ Raw engine outputs (`contradictions`, `innovation_clusters`, `narratives`, `atom
 | `/api/v1/triz/signals/innovation-clusters` | commercial radar + raw clusters |
 | `/api/v1/triz/signals/narrative-penetration` | narrative intelligence slice |
 
-Module: `hesperia.extensions.triz.commercial_intelligence`.
+Component: `hesperia.extensions.triz.commercial_intelligence`.

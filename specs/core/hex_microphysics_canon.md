@@ -73,7 +73,7 @@ d**F**/dt = −α_F **L_F** **F** − β_F **R_F** **F** − γ_F (**F** ⊙ (**
 
 ## 4. Concept → hex injection (normative)
 
-Concept evidence **must not** be the sole input to a freestanding family field if the deployment claims **structural** multiscale physics. **Normative path:** **S_H** = **P_CH A** with **P_CH** ∈ ℝ^{Nh × Nc}.
+Concept evidence **must not** be the sole raw_text to a freestanding family field if the deployment claims **structural** multiscale physics. **Normative path:** **S_H** = **P_CH A** with **P_CH** ∈ ℝ^{Nh × Nc}.
 
 **Legacy / non-structural path:** injecting **S** = **P_CF A** only at family level skips local hex structure; acceptable only when explicitly documented as **legacy** or fast proxy.
 

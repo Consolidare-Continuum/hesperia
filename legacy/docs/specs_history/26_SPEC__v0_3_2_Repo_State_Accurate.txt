@@ -37,7 +37,7 @@ This is not sugar-coated: right now the repo is documentation-heavy and code-lig
 
 v0.3.2 turns "v0.3 math" into an operationally testable, minimal runtime:
 
-A) Deterministic analysis core:
+A) Deterministic measurement core:
 - text → (dominant Area, dominant Family)
 - region-building (seed → traversal)
 - numeric metrics
@@ -55,8 +55,8 @@ C) Shadow layer becomes a first-class operational mode:
 - abuse detection + failure codes
 
 D) Output contracts are stable (for wiring into external systems / LLM wrappers):
-- a small "6-key operational result" exists for fast integration,
-  and a larger "full result" remains available for deeper RAG.
+- a small "6-key operational summary" exists for fast integration,
+  and a larger "full summary" remains available for deeper RAG.
 
 
 ============================================================
@@ -84,7 +84,7 @@ Any change to these constants is a new major system version, not v0.3.2.
 2. CANONICAL OUTPUT CONTRACTS
 ============================================================
 
-2.1 Minimal operational result (required for v0.3.2 runtime)
+2.1 Minimal operational summary (required for v0.3.2 runtime)
 ------------------------------------------------------------
 This is the "tight" contract used by upstream apps and tests.
 
@@ -102,9 +102,9 @@ JSON (success) MUST be exactly 6 keys:
 Rules:
 - No extra keys. No lists. No debug payloads.
 - All floats must be finite (no NaN/Inf).
-- Values must be deterministic for the same input and same config.
+- Values must be deterministic for the same raw_text and same config.
 
-2.2 Minimal error result (required)
+2.2 Minimal error summary (required)
 -----------------------------------
 JSON (error) MUST be exactly 3 keys:
 
@@ -114,17 +114,17 @@ JSON (error) MUST be exactly 3 keys:
   "code": <int http-like status>
 }
 
-2.3 Full result (optional in v0.3.2, but aligned with 14_SPEC)
+2.3 Full summary (optional in v0.3.2, but aligned with 14_SPEC)
 --------------------------------------------------------------
 When available, it may include region sides, supporting statements, and explanations.
-But the minimal operational result above must always exist (even if full result is disabled).
+But the minimal operational summary above must always exist (even if full summary is disabled).
 
 
 ============================================================
 3. v0.3.2 PIPELINE (NORMATIVE)
 ============================================================
 
-Given input text X:
+Given raw_text text X:
 
 Step 0 — Normalize
 - stable whitespace normalization
@@ -147,8 +147,8 @@ Step 4 — Guards
 - Σ: enforce frozen constants, index bounds, normalized metric bounds
 - Γ: enforce bounded penalties and bounded step factors
 - Θ: compute governance score and gate outcome (allow / require_correction / forbid)
-  NOTE: v0.3.2 runtime exports only governance score in minimal result;
-        allow/forbid flags belong to full result.
+  NOTE: v0.3.2 runtime exports only governance score in minimal summary;
+        allow/forbid flags belong to full summary.
 
 Step 5 — Shadow layer (conditional)
 - Shadow activates when risk R crosses thresholds (24_SPEC v1.0).
@@ -161,7 +161,7 @@ Step 5 — Shadow layer (conditional)
   ONLY within the candidate set C and only one-step-ahead at a time.
 
 Step 6 — Output
-- Always return minimal operational result (2.1) or error result (2.2).
+- Always return minimal operational summary (2.1) or error summary (2.2).
 
 
 ============================================================
@@ -176,7 +176,7 @@ Step 6 — Output
 ============================================================
 
 v0.3.2 requires a "no bypass" rule:
-- There must not exist any API path that returns the minimal result without Σ enforcement.
+- There must not exist any API path that returns the minimal summary without Σ enforcement.
 
 Minimum invariants:
 - all constants frozen and consistent
@@ -198,7 +198,7 @@ GET /health
 
 POST /hesperia/analyze
 - request: {"text": "<string>"}
-- success: 200 JSON (2.1 minimal operational result)
+- success: 200 JSON (2.1 minimal operational summary)
 - errors:  400 invalid request, 413 too large, 500 internal
 - OPTIONS must answer for CORS preflight
 

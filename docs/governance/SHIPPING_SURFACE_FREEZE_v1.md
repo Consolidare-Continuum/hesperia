@@ -11,9 +11,9 @@ The **only** evaluator-visible surface is:
 
 | Type | Name | Description |
 |------|------|-------------|
-| CLI command | **analyze** | Single-text structural analysis. |
+| CLI command | **analyze** | Single-text structural measurement. |
 | CLI command | **compare** | Two-text comparison. |
-| CLI command | **batch-analyze** | Multiple-text structural analysis. |
+| CLI command | **batch-analyze** | Multiple-text structural measurement. |
 | API / serve | **serve** | API server (HTTP). |
 | API endpoint | **health** | GET /health — liveness. |
 

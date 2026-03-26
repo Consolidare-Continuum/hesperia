@@ -1,6 +1,6 @@
 # Run HESPERIA from scratch
 
-Minimal steps to get the repo and run the pipeline and tests on a clean machine.
+Minimal steps to get the repo and run the execution_flow and tests on a clean machine.
 
 **To build shipping artifacts (CLI binary, Docker API, manifest)** see [BUILD_FROM_SCRATCH.md](BUILD_FROM_SCRATCH.md).
 
@@ -56,7 +56,7 @@ All commands below are run with the repo root as current directory (so `core`, `
 **Full E2E** (19 baseline JSON + optional field dynamics): `docs/E2E_RUN_ORDER.md` · `assets/artifacts/e2e/E2E_OUTPUTS.md`
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.execution_flow.run_e2e_all
 ```
 
 Outputs go to `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."`.
@@ -64,7 +64,7 @@ Outputs go to `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."
 **L1–L9 single run:**
 
 ```bash
-python3 -m runtime.pipeline.run_l1_through_l9 --out out.json
+python3 -m runtime.execution_flow.run_l1_through_l9 --out out.json
 ```
 
 **Tests:**
@@ -103,7 +103,7 @@ python3 -m runtime.shipping.api_main
 
 Then e.g. `curl http://127.0.0.1:8000/health` and `POST /analyze` with JSON `{"text": "..."}`.
 
-Or the legacy API module:
+Or the legacy API component:
 
 ```bash
 pip install uvicorn  # if not already installed
@@ -114,7 +114,7 @@ uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
 
 ## 8. Data
 
-- **Lexicon:** The repo expects `lexicon/curated/` (and optionally `lexicon/frozen/`) with Dict A/B and related assets. If you have a minimal or custom layout, point entry points to it via `--assets` or the `assets_root` used by the pipeline.
+- **Lexicon:** The repo expects `lexicon/curated/` (and optionally `lexicon/frozen/`) with Dict A/B and related assets. If you have a minimal or custom layout, point entry points to it via `--assets` or the `assets_root` used by the execution_flow.
 - **E2E:** No extra data is required; the E2E runner uses built-in sample text.
 
 ---
@@ -124,8 +124,8 @@ uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
 | Goal              | Command |
 |-------------------|---------|
 | Install           | `pip install -r requirements.txt` |
-| Full E2E          | `python3 -m runtime.pipeline.run_e2e_all` |
-| L1–L9             | `python3 -m runtime.pipeline.run_l1_through_l9 --out out.json` |
+| Full E2E          | `python3 -m runtime.execution_flow.run_e2e_all` |
+| L1–L9             | `python3 -m runtime.execution_flow.run_l1_through_l9 --out out.json` |
 | All tests         | `python3 -m pytest tests/ -q` |
 | Sealed CLI        | `python3 -m runtime.shipping.cli_main analyze --text "..."` |
 | Sealed API        | `python3 -m runtime.shipping.api_main` |

@@ -24,7 +24,7 @@ core
  └─ propagation   (shadow layer, R1–R4 segmenters/units, guards)
 
 sphere
- ├─ pipeline      (orchestration, registry, state, contract/isolation validation)
+ ├─ execution_flow      (orchestration, registry, state, contract/isolation validation)
  ├─ propagation   (diffusion, family projection, weighting)
  ├─ shadow        (correction, suppression)
  ├─ dynamism      (trajectory, transition matrix, curvature, stability)
@@ -40,16 +40,16 @@ sphere
  └─ topology      (adjacency, family→area loaders)
 
 runtime
- ├─ pipeline      (CLI runners, e2e, R1–R4, analyze wrappers)
+ ├─ execution_flow      (CLI runners, e2e, R1–R4, analyze wrappers)
  ├─ api           (FastAPI server)
- ├─ runners       (reference pipeline CLI)
+ ├─ runners       (reference execution_flow CLI)
  ├─ dossier       (index, compare, schema)
  └─ provenance    (manifest, info)
 ```
 
 ## Allowed dependency directions
 
-- **runtime → sphere** — Runtime orchestrates and calls sphere (e.g. `sphere.pipeline.run_pipeline`, sphere’s layer registry).
+- **runtime → sphere** — Runtime orchestrates and calls sphere (e.g. `sphere.execution_flow.run_pipeline`, sphere’s layer registry).
 - **runtime → core** — Runtime may use core for attribution, layers, math when wrapping or testing.
 - **sphere → core** — Sphere orchestrates core layers and uses core.math only; no math implemented in sphere.
 

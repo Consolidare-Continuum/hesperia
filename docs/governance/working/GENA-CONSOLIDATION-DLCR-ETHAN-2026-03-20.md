@@ -19,7 +19,7 @@ landed 2026-03-20 (see docs/governance/working/GENA-CONSOLIDATION-DLCR-ETHAN-202
    - Integration spine: core/{lexical,resolver,hexmap,sequence}, hesperia/engine/lexical_concept,
      hesperia/engine/projection/dlcr_public.py, hesperia/engine/multiscale_product_bridge.py,
      hesperia/extensions/dynamics/e2e_bridge.py (+ related dynamics/xi/triz if touched),
-     runtime/{pipeline,services,api}, schemas/lexical_concept, specs/canon/lexical_concept,
+     runtime/{execution_flow,services,api}, schemas/lexical_concept, specs/canon/lexical_concept,
      assets/data/engine_dynamics_v060/, tools/check_dlcr_regression.py, tools/dump_dlcr_trace.py,
      tools/validate_dict_*.py, tools/gen_dlcr_pack_from_dict_b.py, tests/lexical_concept,
      tests/test_*semantic*, tests/test_marker_concept_trace_effective.py,
@@ -72,7 +72,7 @@ git diff HEAD -- \
   core/ hesperia/engine/lexical_concept hesperia/engine/projection/dlcr_public.py \
   hesperia/engine/multiscale_product_bridge.py hesperia/engine/sealed_multiscale_stack.py \
   hesperia/extensions/dynamics hesperia/system/capabilities.py hesperia/system/capabilities.yaml \
-  runtime/pipeline runtime/services runtime/api schemas/lexical_concept specs/canon/lexical_concept \
+  runtime/execution_flow runtime/services runtime/api schemas/lexical_concept specs/canon/lexical_concept \
   specs/CANONICAL_INDEX.md assets/version_registry.yaml assets/artifacts/e2e \
   docs/E2E_RUN_ORDER.md docs/CURSOR_OPEN_WORKFLOW.md CONTRIBUTING.md \
   tests/lexical_concept tests/test_e2e_flows.py tests/test_attribution.py \
@@ -131,7 +131,7 @@ python3 tools/gen_import_graph_doc.py | diff -q docs/IMPORT_GRAPH_v0_5_0.md -
 
 ## 6. Gena report (append after pass)
 
-| Check | Result |
+| Check | Summary |
 |-------|--------|
 | Date / agent | 2026-03-20 / Gena (consolidation agent) |
 | Commands run | §4 matrix + optional heavy E2E (`test_e2e_run_e2e_all_produces_all_artifacts` with `HESPERIA_FIELD_DYNAMICS=1`); `validate_shipping_surface`; `gen_import_graph_doc --write` (public + engine); `verify_public_api_snapshot` |

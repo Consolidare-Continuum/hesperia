@@ -4,7 +4,7 @@
 # No reproduction, redistribution, or use without explicit written permission from the author.
 # See LEGAL_NOTICE.md for full terms.
 
-"""Core service utilities (report, calibration). Structural analysis lives in runtime.services (runtime → sphere → core)."""
+"""Core service utilities (report, calibration). Structural measurement lives in runtime.services (runtime → sphere → core)."""
 
 from core.services.report_service import build_public_report, export_public_artifacts
 

@@ -14,4 +14,4 @@ Downstream **public schema** consumers: unchanged required keys; optional keys m
 
 ## Audit / tooling
 
-- Run `python3 tools/tfp_calibration_audit.py --bundle-dir outputs/<run>` after file pipeline to emit `10_calibration_audit.json`.
+- Run `python3 tools/tfp_calibration_audit.py --bundle-dir outputs/<run>` after file execution_flow to emit `10_calibration_audit.json`.

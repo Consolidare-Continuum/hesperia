@@ -63,7 +63,7 @@ The following must never appear in the stated context:
 | "propagation" (as internal mechanism) | Public output; use "relation spread" or omit |
 | Raw internal indices (area 10/11, family 240–287) | Any public artifact |
 | "coordinate", "adjacency" | Public schemas and outputs |
-| Layer names (L1–L9 as internal pipeline) | Public API or report fields |
+| Layer names (L1–L9 as internal execution_flow) | Public API or report fields |
 | "reserved area", "reserve" | Public ontology or outputs |
 
 ---

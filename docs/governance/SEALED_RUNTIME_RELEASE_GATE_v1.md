@@ -3,7 +3,7 @@
 **Status:** Mandatory before shipping  
 **Purpose:** Only when all steps pass may the evaluator bundle be shipped.  
 
-**Single shipping path:** No artifact may be distributed unless produced by `./release_sealed_runtime.sh` and the gate result is **HESPERIA SEALED RUNTIME: PASS**. Anything built manually is non-release. See **SHIPPING_PATH_POLICY_v1.md**.
+**Single shipping path:** No artifact may be distributed unless produced by `./release_sealed_runtime.sh` and the gate summary is **HESPERIA SEALED RUNTIME: PASS**. Anything built manually is non-release. See **SHIPPING_PATH_POLICY_v1.md**.
 
 **Canonical command sequence:** See **SEALED_RUNTIME_RELEASE_PROCESS_v1.md** for the exact build → gate → manual steps → manifest verify → release readiness flow. Closure decision: sealed runtime status PASS, functional integrity PASS, reflection resistance PASS, release readiness TRUE.
 
@@ -164,7 +164,7 @@ Remove or reword the leaking channel; re-run reflection audit until none of the 
 
 **CLI batch test:**
 ```bash
-./hesperia-cli.bin batch-analyze --input dataset.json
+./hesperia-cli.bin batch-analyze --raw_text dataset.json
 ```
 or scripted test with ~100 texts.
 
@@ -217,7 +217,7 @@ Run:
 ./tools/run_release_gate.sh
 ```
 
-The script executes: import-boundary check, projection test (CLI), binary scan, container scan (if image exists), manifest verification. It prints a single result:
+The script executes: import-boundary check, projection test (CLI), binary scan, container scan (if image exists), manifest verification. It prints a single summary:
 
 **HESPERIA SEALED RUNTIME: PASS** or **HESPERIA SEALED RUNTIME: FAIL**
 

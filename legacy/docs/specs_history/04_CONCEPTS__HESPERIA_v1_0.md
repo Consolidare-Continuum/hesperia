@@ -14,7 +14,7 @@ normative for the current repo state and should be treated as constraints
 when extending specs or code.
 
 ## Scope
-- Applies to the CLI core pipeline (input -> attribution -> geometry ->
+- Applies to the CLI core execution_flow (raw_text -> attribution -> geometry ->
   traversal/governance -> output).
 - External APIs, services, or LLM wrappers are secondary; they must
   respect the core constraints defined here.

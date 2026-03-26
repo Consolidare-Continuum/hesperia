@@ -31,9 +31,11 @@ def _mock_normalize_from_user(user: str) -> dict[str, Any]:
     for row in payload:
         if not isinstance(row, dict):
             continue
+        rid = str(row.get("row_id", ""))
         st = str(row.get("text", ""))
         items.append(
             {
+                "row_id": rid,
                 "source_text": st,
                 "normalized": st.strip().lower(),
                 "variants": [],
@@ -136,6 +138,23 @@ def require_openai_key() -> None:
         raise RuntimeError("OPENAI_API_KEY not set — add to repo .env or export in shell")
 
 
+def _chat_completion_limit_kwargs(model: str, mt: int) -> dict[str, int]:
+    """
+    Some Chat Completions models reject ``max_tokens`` and require ``max_completion_tokens``.
+
+    Override: ``HESPERIA_CALIB_USE_MAX_COMPLETION_TOKENS=1|0`` (force new vs legacy param).
+    """
+    flag = os.environ.get("HESPERIA_CALIB_USE_MAX_COMPLETION_TOKENS", "").strip().lower()
+    if flag in ("1", "true", "yes"):
+        return {"max_completion_tokens": mt}
+    if flag in ("0", "false", "no"):
+        return {"max_tokens": mt}
+    m = (model or "").lower()
+    if m.startswith(("gpt-5", "o1", "o3", "o4")):
+        return {"max_completion_tokens": mt}
+    return {"max_tokens": mt}
+
+
 def chat_json(
     *,
     system: str,
@@ -144,7 +163,7 @@ def chat_json(
     temperature: float = 0.15,
     max_tokens: int | None = None,
 ) -> Any:
-    """Return parsed JSON from model (json_object mode). Large ``links`` payloads need high max_tokens."""
+    """Return parsed JSON from model (json_object mode). Large payloads: raise ``HESPERIA_CALIB_MAX_OUTPUT_TOKENS``."""
     if calib_mock_openai():
         return _mock_chat_json(user)
 
@@ -154,6 +173,7 @@ def chat_json(
     mt = max_tokens
     if mt is None:
         mt = int(env_mt) if env_mt.isdigit() else 16384
+    limit_kw = _chat_completion_limit_kwargs(model, mt)
     resp = client.chat.completions.create(
         model=model,
         temperature=temperature,
@@ -162,7 +182,7 @@ def chat_json(
             {"role": "system", "content": system},
             {"role": "user", "content": user},
         ],
-        max_tokens=mt,
+        **limit_kw,
     )
     content = (resp.choices[0].message.content or "").strip()
     try:
@@ -173,6 +193,6 @@ def chat_json(
         # correct recovery (smaller phrase batches / higher max_tokens on caller side).
         preview = (content[:240] + "…") if len(content) > 240 else content
         raise RuntimeError(
-            f"OpenAI returned non-JSON or truncated JSON ({e!s}); split workload or raise max_tokens. "
-            f"assistant_preview={preview!r}"
+            f"OpenAI returned non-JSON or truncated JSON ({e!s}); split workload or raise "
+            f"HESPERIA_CALIB_MAX_OUTPUT_TOKENS. assistant_preview={preview!r}"
         ) from e

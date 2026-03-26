@@ -63,7 +63,7 @@ Examples:
 
 ## Loader
 
-- **Module:** `sphere.topology.family_embedding`
+- **Component:** `sphere.topology.family_embedding`
 - **Functions:** `load_family_embedding_tfp()`, `get_area_zones(embedding, area_id)`, `get_bridges(embedding)`, `get_composite_family_id(area_id, local_family)`.
 - **Constants:** `ZONE_KEYS`, `ZONE_COUNTS`.
 

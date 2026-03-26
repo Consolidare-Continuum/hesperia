@@ -1,4 +1,4 @@
-# HESPERIA — RAD. Unified analysis text preparation (Ethan PO-01, PO-14).
+# HESPERIA — RAD. Unified measurement text preparation (Ethan PO-01, PO-14).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 """Single preprocessing contract before structural multiscale + DLCR paths."""

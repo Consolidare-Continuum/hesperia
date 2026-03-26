@@ -5,7 +5,7 @@ Target: v0.4.x baseline (shadow divergence instrumentation)
 Date: 2026-02-24
 Status: Canonical
 
-References: 34_SPEC (Layer-1), 35_SPEC (Layer-2), 24_SPEC__Shadow_Layer_v1_0 (shadow pipeline); 22_SPEC (resolution); 00_GOVERNANCE_CHARTER__HESPERIA_v1_0. Next: 37_SPEC (Layer-4 book evidence).
+References: 34_SPEC (Layer-1), 35_SPEC (Layer-2), 24_SPEC__Shadow_Layer_v1_0 (shadow execution_flow); 22_SPEC (resolution); 00_GOVERNANCE_CHARTER__HESPERIA_v1_0. Next: 37_SPEC (Layer-4 book evidence).
 
 ----------------------------------------------------------------------
 0. LAYER-3 CONTRACT (INVARIANT)
@@ -27,7 +27,7 @@ It proves shadow is not "creative noise". It quantifies what changed: decision, 
 
   Two complete runs:
     B = baseline run (base traversal only).
-    S = shadow run (shadow pipeline executed after base).
+    S = shadow run (shadow execution_flow executed after base).
 
   For each run: full Layer-1 and Layer-2 outputs. Naming:
     _B suffix = baseline (e.g. dominantFamily_B, hits_B, visited_B).
@@ -40,7 +40,7 @@ It proves shadow is not "creative noise". It quantifies what changed: decision, 
     SHADOW_MAX_CROSS_AREA_DELTA = upper bound for |CROSS_AREA_RATIO_DELTA| (e.g. 0.10).
     SHADOW_ALLOW_AREA_FLIP     = true if dominant-area change is acceptable; false to forbid.
 
-  When shadow pipeline did not run: SHADOW_ENABLED = false; all deltas and similarity metrics are undefined or set to 0 / identity per policy. This spec assumes both B and S exist when Layer-3 is evaluated.
+  When shadow execution_flow did not run: SHADOW_ENABLED = false; all deltas and similarity metrics are undefined or set to 0 / identity per policy. This spec assumes both B and S exist when Layer-3 is evaluated.
 
 ----------------------------------------------------------------------
 2. LAYER-3 SHADOW DIVERGENCE METRICS (25)
@@ -48,7 +48,7 @@ It proves shadow is not "creative noise". It quantifies what changed: decision, 
 
  1. SHADOW_ENABLED
     boolean SHADOW_ENABLED = true;
-    Hard flag confirming shadow pipeline was executed (both B and S runs available).
+    Hard flag confirming shadow execution_flow was executed (both B and S runs available).
 
  2. DOMINANT_FAMILY_CHANGED
     boolean DOMINANT_FAMILY_CHANGED = (dominantFamily_S != dominantFamily_B);
@@ -128,7 +128,7 @@ It proves shadow is not "creative noise". It quantifies what changed: decision, 
 
 21. FAMILY_HIT_VECTOR_L1_DELTA
     double FAMILY_HIT_VECTOR_L1_DELTA = hitVectorL1_S - hitVectorL1_B;
-    Change in total activation mass. Should usually be small if only traversal differs (same attribution input).
+    Change in total activation mass. Should usually be small if only traversal differs (same attribution raw_text).
 
 22. HIT_VECTOR_COSINE_SIMILARITY
     double HIT_VECTOR_COSINE_SIMILARITY = dot(hits_B, hits_S) / (norm_L2(hits_B) * norm_L2(hits_S) + 1e-12);

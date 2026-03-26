@@ -1,6 +1,6 @@
-# TRIZ topology activation pipeline v1
+# TRIZ topology activation execution_flow v1
 
-**Module:** `hesperia.extensions.triz.topology_activation_pipeline`  
+**Component:** `hesperia.extensions.triz.topology_activation_pipeline`  
 **CLI:** `python3 tools/run_triz_topology_activation.py --topology-json … --out-dir … [--session-id …]`
 
 ## Purpose
@@ -14,7 +14,7 @@ Written **flat** in the run’s `--out-dir` as `12_<session_slug>_<artifact>.jso
 | Artifact (suffix) | Task |
 |------|------|
 | `concept_coactivation_graph.json` | Pairwise co-occurrence across segments, normalized weights |
-| `family_contradiction_matrix.json` | Full dense family–family scaffold (input to v0.5.2) |
+| `family_contradiction_matrix.json` | Full dense family–family scaffold (raw_text to v0.5.2) |
 | `concept_clusters.json` | Clusters from TRIZ `innovation_clusters` or synthetic from coactivation |
 | `family_weights_sparse_v052.json` | Sparsified, recalibrated weights + `active_for_contradiction` (see `FAMILY_WEIGHTS_SPARSIFY_v052.md`) |
 | `concept_contradictions_raw.json` | `coactivation × family_conflict` |
@@ -25,9 +25,9 @@ Written **flat** in the run’s `--out-dir` as `12_<session_slug>_<artifact>.jso
 | `triz_dynamics.json` | Velocity / spillover / narrative penetration (minimal formulas) |
 | `cross_plane_audit.json` | **`TRIZ_DEAD_LAYER`** if `topology_activation > 0.5` and `contradiction_count == 0` |
 
-## Pipeline gate (Task 10)
+## Execution Flow gate (Task 10)
 
-- With `--with-topology` and without `--skip-triz-activation`, the file pipeline writes the bundle and sets **`manifest.errors`** on failure.
+- With `--with-topology` and without `--skip-triz-activation`, the file execution_flow writes the bundle and sets **`manifest.errors`** on failure.
 - Exit code **3** if `TRIZ_DEAD_LAYER` or topology error blocks activation or an exception occurs while writing.
 
 ## Design rules
@@ -38,5 +38,5 @@ Written **flat** in the run’s `--out-dir` as `12_<session_slug>_<artifact>.jso
 
 ## Related
 
-- `hesperia.extensions.triz.pipeline` — classic graph TRIZ (`08_triz_complete.json`)
-- `docs/governance/working/ETHAN-TFP-RUNNABLE-DICT-WIRING.md` — TFP file pipeline
+- `hesperia.extensions.triz.execution_flow` — classic graph TRIZ (`08_triz_complete.json`)
+- `docs/governance/working/ETHAN-TFP-RUNNABLE-DICT-WIRING.md` — TFP file execution_flow

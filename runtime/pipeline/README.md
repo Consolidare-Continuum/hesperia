@@ -6,14 +6,14 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# runtime/pipeline — Execution helpers & E2E
+# runtime/pipeline — Execution flow helpers & E2E
 
 **Canonical structural path:** `runtime.services.analysis_service.run_structural_analysis` →
 `hesperia.engine.sealed_multiscale_stack.run_sealed_multiscale_stack` → `hesperia.engine.projection.project_to_public`.
 
-**Reference CLI:** `python3 -m runtime.runners.run_reference_pipeline` (wraps `run_structural_analysis`).
+**Reference CLI:** `python3 -m runtime.runners.run_reference_pipeline` (wraps `run_structural_analysis` execution flow).
 
-Legacy `sphere.pipeline.run_pipeline` is **dev/test only** (`HESPERIA_SPHERE_PIPELINE_DEV=1`); do not use for shipping.
+Legacy `sphere.pipeline.run_pipeline` is **dev/test only** (`HESPERIA_SPHERE_PIPELINE_DEV=1`); do not use for shipping runtime.
 
 ## Entrypoints
 
@@ -22,6 +22,6 @@ Legacy `sphere.pipeline.run_pipeline` is **dev/test only** (`HESPERIA_SPHERE_PIP
 - **run_e2e_all.py**, **batch_runner.py**, **reading_scales.py**, **run_corpus_benchmark.py**, **analyze.py** — batch, calibration, benchmarks, and sentence-level flows.
 - **run_e2e_full_stack.py** — one encompassing run: `run_e2e_all` + product JSON + physics validation + system seal + **`run_output_e2e_full_stack_manifest.json`** (artifact index). See `docs/E2E_RUN_ORDER.md` § “Full encompassing pipe”.
 
-## Sphere pipeline (archived / dev)
+## Sphere execution flow (archived / dev)
 
 Layer orchestration for `sphere.pipeline.pipeline_runner` lives under `sphere/pipeline/` (`layer_registry`, `pipeline_state`). It is gated off in production; pytest sets `HESPERIA_SPHERE_PIPELINE_DEV=1` for determinism tests that still import it.

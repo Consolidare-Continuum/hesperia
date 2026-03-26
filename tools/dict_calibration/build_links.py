@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import os
 from difflib import SequenceMatcher
 from typing import Any
 
@@ -11,9 +12,37 @@ def _sim(a: str, b: str) -> float:
     return SequenceMatcher(None, a.casefold(), b.casefold()).ratio()
 
 
+def _links_fuzzy_enabled(n_norm: int, n_lex: int) -> bool:
+    """
+    Full fuzzy scan is O(n_norm * n_lex) SequenceMatcher calls — unusable at clearance scale.
+
+    Default: skip fuzzy when the product exceeds a safe bound. Override:
+      HESPERIA_CALIB_LINKS_FUZZY=1  force on (slow)
+      HESPERIA_CALIB_LINKS_SKIP_FUZZY=1  force off
+    """
+    env_off = os.environ.get("HESPERIA_CALIB_LINKS_SKIP_FUZZY", "").strip().lower() in (
+        "1",
+        "true",
+        "yes",
+    )
+    env_on = os.environ.get("HESPERIA_CALIB_LINKS_FUZZY", "").strip().lower() in (
+        "1",
+        "true",
+        "yes",
+    )
+    if env_off:
+        return False
+    if env_on:
+        return True
+    # ~200k * ~70k ≈ 14B inner iterations — disable unless user forces fuzzy.
+    return n_norm * n_lex <= 25_000_000
+
+
 def build_links(
     normalized_rows: list[dict[str, Any]],
     anchored_rows: list[dict[str, Any]],
+    *,
+    fuzzy: bool | None = None,
 ) -> list[dict[str, Any]]:
     """
     Map lexical strings to anchored ``concept_id`` using ``from_lexical`` lists
@@ -27,6 +56,21 @@ def build_links(
             lx = str(lx).strip()
             if lx and lx not in lexical_to_concept:
                 lexical_to_concept[lx] = (cid, "exact", 1.0)
+
+    n_lex = len(lexical_to_concept)
+    n_norm = sum(
+        1
+        for r in normalized_rows
+        if str(r.get("normalized") or r.get("text", "")).strip()
+    )
+    if fuzzy is None:
+        fuzzy = _links_fuzzy_enabled(n_norm, n_lex)
+    if not fuzzy and n_norm * n_lex > 25_000_000:
+        print(
+            f"build_links: fuzzy matching disabled (n_norm≈{n_norm} n_lex={n_lex}); "
+            "exact / variant map only. Set HESPERIA_CALIB_LINKS_FUZZY=1 to force slow fuzzy.",
+            flush=True,
+        )
 
     links: list[dict[str, Any]] = []
     seen: set[tuple[str, str]] = set()
@@ -46,13 +90,13 @@ def build_links(
                 cid, mt, pr = lexical_to_concept[cand]
                 if pr > best_pr:
                     best_cid, best_type, best_pr = cid, mt, pr
-            else:
+            elif fuzzy:
                 for lx, (cid, _, _) in lexical_to_concept.items():
                     s = _sim(cand, lx)
                     if s >= 0.88 and s > best_pr:
                         best_cid, best_type, best_pr = cid, "fuzzy", s
 
-        if not best_cid:
+        if not best_cid and fuzzy:
             for lx, (cid, _, _) in lexical_to_concept.items():
                 s = _sim(norm, lx)
                 if s >= 0.82 and s > best_pr:

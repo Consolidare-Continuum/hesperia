@@ -8,7 +8,23 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 All notable releases of **Hesperia Engine Dynamics** are documented here.  
 **Master index:** [docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)  
-**Release tags:** `v0.5.1` · `hesperia-engine-dynamics-v0.5.1` (this seal); historical **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`** remain on the prior baseline commit.
+**Release tags:** `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (current technical release line), `v0.5.1` · `hesperia-engine-dynamics-v0.5.1` (previous seal); historical **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`** remain on the prior baseline commit.
+
+## v0.5.2 — Technical terminology propagation release (2026-03-26)
+
+### Scope
+
+- Version authority bumped to **0.5.2** (`VERSION.yaml`, `hesperia/VERSION.yaml`, `pyproject.toml`, runtime version outputs).
+- Canonical naming propagation continued across runtime/core/docs with compatibility mirrors preserved.
+- Dedicated release audit entrypoint added: `tools/release/build_release_audit_v0_5_2.py`.
+
+### Verify (v0.5.2)
+
+```bash
+python3 tools/validate_version_consistency.py
+python3 -m runtime.pipeline.run_e2e_product
+python3 tools/release/build_release_audit_v0_5_2.py --quick
+```
 
 ## v0.5.1 — Governed enforcement baseline (2026-03-19)
 
@@ -26,7 +42,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **Runtime spine doc + CI:** `docs/RUNTIME_EXECUTION_SPINE_v0_5_0.md`; import graphs `docs/IMPORT_GRAPH_v0_5_0.md`, `docs/IMPORT_GRAPH_ENGINE_v0_5_0.md` with `tools/gen_import_graph_doc.py` diff in GitHub Actions.
 - **Forbidden zones:** `tools/check_forbidden_zone_imports.py` (no `research`/`legacy` in strict trees).
 - **Shipping surface:** `runtime/shipping/shipping_import_allowlist.yaml`, `tools/validate_shipping_surface.py`, `tools/audit_shipping_allowlist.py` (strict unused + prefix creep cap), byte lock in `tests/test_tool_contracts_locked.py`.
-- **Spine exclusivity:** `tests/test_runtime_spine_integrity.py` — `run_sealed_multiscale_stack` via bridge, `apply_public_projection`, **no** `sphere.pipeline.run_pipeline` on the canonical product path; bridge wiring + `inspect.signature` locks.
+- **Spine exclusivity:** `tests/test_runtime_spine_integrity.py` — `run_sealed_multiscale_stack` via bridge, `apply_public_projection`, **no** `sphere.execution_flow.run_pipeline` on the canonical product path; bridge wiring + `inspect.signature` locks.
 - **Engine projection rule:** `tools/check_engine_projection_boundary.py` — `core.projection` only under `hesperia/engine/projection/`.
 - **Sealing scan:** `tools/sealing_scan.py` skips versioned audit trees `release/v0.5.0`, `release/v0.5.1`.
 
@@ -47,7 +63,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 
 - **`python3 -m runtime.pipeline.run_e2e_product`** output updates **`assets/artifacts/e2e/run_output_e2e_product_surface.json`**: envelope fields (`system_version`, `build_id`) now reflect **0.5.1** and the seal timestamp policy — **payload shape and schema version unchanged** (same `schemas/public/public_output_schema.json`).
 
-### Verify
+### Verify (v0.5.1)
 
 ```bash
 python3 tools/validate_version_consistency.py
@@ -78,7 +94,7 @@ python3 tools/release/build_release_audit_v0_5_1.py
 - `./tools/run_release_gate.sh` — **HESPERIA SEALED RUNTIME: PASS**
 - Record: [release/RELEASE_v0.5.0_BUILD.md](release/RELEASE_v0.5.0_BUILD.md)
 
-### Verify
+### Verify (v0.5.0)
 
 ```bash
 python3 -m runtime.pipeline.run_e2e_all

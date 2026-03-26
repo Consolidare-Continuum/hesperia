@@ -21,7 +21,7 @@ Provide a deterministic, empirical secondary layer that:
 2) Computes structural richness and stability
 3) Measures one-step directional agreement
    between traversal and Shadow relational field
-4) Emits indexed log streams for cross-analysis
+4) Emits indexed log streams for cross-measurement
 
 Shadow is measurement only.
 ============================================================

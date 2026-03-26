@@ -8,13 +8,13 @@ See LEGAL_NOTICE.md for full terms.
 
 # HESPERIA System Specification v1
 
-Canonical architecture spec for the HESPERIA engine. Single authoritative reference for layers, attribution, topology, propagation, dynamism, shadow, logic, interpretation, guards, USF fingerprint, and pipeline flow.
+Canonical architecture spec for the HESPERIA engine. Single authoritative reference for layers, attribution, topology, propagation, dynamism, shadow, logic, interpretation, guards, USF fingerprint, and execution_flow flow.
 
 ---
 
 ## 1. System overview
 
-HESPERIA is a deterministic structural analysis engine: raw text → attribution → L1–L9 core layers → topology-driven propagation → shadow correction → structural logic → interpretation (L10) → USF and guards. No learning; all behavior is config-driven and reproducible. Active stack: **core/** (layers, math, attribution, stability, policy, contracts, topology, propagation), **runtime/** (pipelines, API), **sphere/** (pipeline orchestration, USF, interpretation, propagation, prolog, guards, shadow, dynamism, metrics, geometry, diagnostics, interfaces), **lexicon/** (Dict A/B, build, validation).
+HESPERIA is a deterministic structural measurement engine: raw text → attribution → L1–L9 core layers → topology-driven propagation → shadow correction → structural logic → interpretation (L10) → USF and guards. No learning; all behavior is config-driven and reproducible. Active stack: **core/** (layers, math, attribution, stability, policy, contracts, topology, propagation), **runtime/** (pipelines, API), **sphere/** (execution_flow orchestration, USF, interpretation, propagation, prolog, guards, shadow, dynamism, metrics, geometry, diagnostics, interfaces), **lexicon/** (Dict A/B, build, validation).
 
 ---
 
@@ -31,7 +31,7 @@ HESPERIA is a deterministic structural analysis engine: raw text → attribution
 - **L9** Bands, pillars, BRAND_WORD_* (trust, evidence, contradiction, geometry, shadow), actions.
 - **L10** Structured interpretation: consumes L7/L8/L9; produces structural_state, entropy_state, tension_state, propagation_state, active_events, interpretation_flags, event_summary (used by USF and fingerprint).
 
-Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `LayerOutput` (layer_id, result, diagnostics). Registry: `sphere.pipeline.layer_registry.LAYERS` (L1→L9). Validation: `sphere.pipeline.contract_validation`, `isolation_validation`.
+Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `LayerOutput` (layer_id, summary, diagnostics). Registry: `sphere.execution_flow.layer_registry.LAYERS` (L1→L9). Validation: `sphere.execution_flow.contract_validation`, `isolation_validation`.
 
 ---
 
@@ -91,8 +91,8 @@ Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `L
 
 ## 10. Guards Σ Γ Θ
 
-- **Runtime:** sphere.guards.run_all_guards(result, layer_outputs, runtime_meta, config) → sigma, gamma, theta.
-- **Sigma:** Invariants on USF/pipeline (path, length, 12×12 matrix, symmetry, no_nan, non_negative, [0,1], area_id). sphere.guards.sigma_validator.
+- **Runtime:** sphere.guards.run_all_guards(summary, layer_outputs, runtime_meta, config) → sigma, gamma, theta.
+- **Sigma:** Invariants on USF/execution_flow (path, length, 12×12 matrix, symmetry, no_nan, non_negative, [0,1], area_id). sphere.guards.sigma_validator.
 - **Gamma:** validate_gamma_invariants; builtin gamma invariants.
 - **Theta:** evaluate_theta_governance; governance facts and builtin theta rules; approved/quarantined, violations, warnings.
 
@@ -105,7 +105,7 @@ Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `L
 
 ---
 
-## 12. Pipeline flow
+## 12. Execution Flow flow
 
 1. Validate config (pipeline_version, deterministic=True).
 2. Attribution: normalize → tokenize → attribute → hits, adjacency.
@@ -117,10 +117,10 @@ Contract: every layer takes `LayerInput` (text, tokens, metadata) and returns `L
 8. compute_interpretation_metrics (L10).
 9. Optional: compute_prolog_inference (if enable_prolog).
 10. generate_usf(…).
-11. run_all_guards(result, …).
+11. run_all_guards(summary, …).
 12. Return document_id, layer_outputs, usf, pipeline_metadata, diagnostics, shadow_metrics, logic_metrics, interpretation_metrics, prolog_logic, guards.
 
-**Entrypoints:** sphere.pipeline.run_pipeline (canonical); runtime.pipeline.run_l1_through_l9 (delegates to sphere, maps to L1..L9 + USF/interpretation/guards); runtime.runners.run_reference_pipeline (CLI); runtime.pipeline.run_e2e_all (sentence, L1–L9, R1–R4, sphere_math, domain_metrics, session KME, TRIZ complete, session topology — see docs/E2E_RUN_ORDER.md).
+**Entrypoints:** sphere.execution_flow.run_pipeline (canonical); runtime.execution_flow.run_l1_through_l9 (delegates to sphere, maps to L1..L9 + USF/interpretation/guards); runtime.runners.run_reference_pipeline (CLI); runtime.execution_flow.run_e2e_all (sentence, L1–L9, R1–R4, sphere_math, domain_metrics, session KME, TRIZ complete, session topology — see docs/E2E_RUN_ORDER.md).
 
 ---
 

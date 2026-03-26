@@ -60,13 +60,18 @@ def _sample_texts_from_corpus(
     max_files: int = 5,
     max_chars: int = 12_000,
 ) -> list[str]:
+    """Collect ``*.md`` under corpus (skip ``_*``). ``max_files <= 0`` = all files; ``max_chars <= 0`` = full file."""
+    paths = sorted(p for p in corpus.rglob("*.md") if not p.name.startswith("_"))
+    if max_files and max_files > 0:
+        paths = paths[:max_files]
     chunks: list[str] = []
-    for p in sorted(corpus.rglob("*.md"))[:max_files]:
-        if p.name.startswith("_"):
-            continue
+    for p in paths:
         t = p.read_text(encoding="utf-8", errors="replace")
-        chunks.append(t[:max_chars])
-    return [c for c in chunks if c.strip()]
+        if max_chars and max_chars > 0:
+            t = t[:max_chars]
+        if t.strip():
+            chunks.append(t)
+    return chunks
 
 
 def _wave_slice_rows(
@@ -166,11 +171,15 @@ def cmd_anchor(args: argparse.Namespace) -> None:
     reg = load_anchor_registry(anch_path)
     w = Path(args.workdir)
     drafts = read_jsonl(w / "dict_b_draft.jsonl")
+    workers = int(getattr(args, "anchor_workers", 1) or 1)
     anchored, rejected = anchor_drafts(
         drafts,
         concept_index,
         reg,
         min_score=args.min_score,
+        workers=workers,
+        dict_b_paths=db_paths,
+        anchor_registry_path=anch_path,
     )
     write_jsonl(w / "dict_b_anchored.jsonl", anchored)
     write_jsonl(w / "dict_b_rejected.jsonl", rejected)
@@ -586,6 +595,12 @@ def main() -> None:
     p_an.add_argument("--workdir", default="outputs/dict_calibration/run1")
     p_an.add_argument("--dict-b", nargs="*", help="Override dict_b jsonl paths")
     p_an.add_argument("--min-score", type=float, default=0.52)
+    p_an.add_argument(
+        "--anchor-workers",
+        type=int,
+        default=1,
+        help="Process pool size for anchoring (1=sequential). Use 4–8 for huge dict_b_draft.jsonl",
+    )
     p_an.set_defaults(func=cmd_anchor)
 
     p_ln = sub.add_parser("links", help="Task 5: A↔B links + engine dict_a")
@@ -597,16 +612,36 @@ def main() -> None:
     p_ev.add_argument("--corpus", help="Sample md files for eval texts")
     p_ev.add_argument("--texts-file", help="Texts split by \\n---\\n")
     p_ev.add_argument("--dict-b", nargs="*", help="Override dict_b jsonl paths")
-    p_ev.add_argument("--eval-max-files", type=int, default=5)
-    p_ev.add_argument("--eval-max-chars", type=int, default=12_000)
+    p_ev.add_argument(
+        "--eval-max-files",
+        type=int,
+        default=5,
+        help="MD files to score (default 5). Use <=0 for entire corpus tree.",
+    )
+    p_ev.add_argument(
+        "--eval-max-chars",
+        type=int,
+        default=12_000,
+        help="Truncate each file to this many chars (default 12000). Use <=0 for full text.",
+    )
     p_ev.set_defaults(func=cmd_eval)
 
     p_er = sub.add_parser("errors", help="Task 7: error surface")
     p_er.add_argument("--workdir", default="outputs/dict_calibration/run1")
     p_er.add_argument("--corpus", default=None)
     p_er.add_argument("--texts-file", default=None)
-    p_er.add_argument("--eval-max-files", type=int, default=5)
-    p_er.add_argument("--eval-max-chars", type=int, default=12_000)
+    p_er.add_argument(
+        "--eval-max-files",
+        type=int,
+        default=5,
+        help="MD files for error surface (default 5). Use <=0 for entire corpus.",
+    )
+    p_er.add_argument(
+        "--eval-max-chars",
+        type=int,
+        default=12_000,
+        help="Truncate each file (default 12000). Use <=0 for full text.",
+    )
     p_er.set_defaults(func=cmd_errors)
 
     p_pt = sub.add_parser("patch", help="Task 8: LLM patch + apply links")

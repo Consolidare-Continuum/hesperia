@@ -15,7 +15,7 @@ python3 tools/release/build_release_audit_v0_5_0.py
 python3 tools/release/build_release_audit_v0_5_0.py --quick
 ```
 
-**Canonical input:** `tests/fixtures/release_v0_5_0/canonical_input.txt` (UTF-8). Do not change without a version bump and full re-audit.
+**Canonical raw_text:** `tests/fixtures/release_v0_5_0/canonical_input.txt` (UTF-8). Do not change without a version bump and full re-audit.
 
 **Exit code:** `0` only if **all gates pass** (including **clean git tree**). Otherwise **do not tag** — see `audit_report.json` → `seal_decision.reasons_fail` and **`final_gate_status.json`** (`sealed`, `critical_checks`).
 
@@ -89,7 +89,7 @@ plus **schema_guard** tree walk (forbidden internal key terms).
 
 `determinism_report.json` records **three** identical runs on the canonical fixture:
 
-- Same input file, same code path (`run_structural_analysis` → projected envelope).
+- Same raw_text file, same code path (`run_structural_analysis` → projected envelope).
 - Canonical JSON: **sorted keys**, UTF-8, floats **rounded to 10** decimal places before hashing.
 - **Requirement:** SHA256 run1 == run2 == run3.
 - `raw_byte_identical_across_runs` is also recorded (pre-rounding JSON may differ in float text; hash gate is authoritative).
@@ -118,7 +118,7 @@ plus **schema_guard** tree walk (forbidden internal key terms).
 | `test_report.json` | Pytest command, exit code, summary. |
 | `audit_report.json` | **Master pass/fail:** projection, leaks, endpoints, modules, specs, calibration, security, **seal_decision**. |
 | `determinism_report.json` | Triplicate hash proof. |
-| `system_seal.json` | **Task 11:** GO/NO-GO over pipeline, matrices, P_CH, energy, concepts, topology, calibration, physics_validation, schema. |
+| `system_seal.json` | **Task 11:** GO/NO-GO over execution_flow, matrices, P_CH, energy, concepts, topology, calibration, physics_validation, schema. |
 | `schema_validation_report.json` | Per-artifact schema + leak scan. |
 | `final_gate_status.json` | **Phase 7 summary:** `sealed`, per-domain `critical_checks` (includes **`system_seal`**), `reasons_fail`. |
 | `e2e_reference_output.json` | **Regression anchor** for post-0.5.0 comparison. |

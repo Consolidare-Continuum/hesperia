@@ -9,11 +9,12 @@ See LEGAL_NOTICE.md for full terms.
 
 **Product line name:** **Hesperia Engine Dynamics** — deterministic multiscale semantic physics (concept → hex → family → area → signals → HSPR).
 
-**This document** is the **single map**: specs → engine modules → E2E artifacts. **TFP testing grounds** are out of the **canonical release** definition (§2); they remain in-tree for CI only.
+**This document** is the **single map**: specs → engine modules → E2E artifacts. **v0.5.1** treats the **in-repo code base** as the full capability envelope (lexical → concept evidence → optional carried concept state / sparse operator → hex → family → area → signals); **clinical domain packs, fixtures, and medical vocabulary** stay outside the **sealed product narrative** and public canon wording (§2, §8). See [ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md](governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md).
 
 **Release narrative:** [specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md)  
-**Agents:** [AGENTS.md](../AGENTS.md) · **Awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md)  
-**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.1/README.md](../release/v0.5.1/README.md) (historical [v0.5.0](../release/v0.5.0/README.md)) · **Tasks 1–11 wiring:** [ENGINE_TASKS_1_11_INTEGRATION.md](ENGINE_TASKS_1_11_INTEGRATION.md)
+**Agents:** [AGENTS.md](../AGENTS.md) · **Awareness:** [HESPERIA_SYSTEM_AWARENESS.md](HESPERIA_SYSTEM_AWARENESS.md) · **Layer vs structure vocabulary:** [LAYER_VOCABULARY_AND_STRUCTURE.md](LAYER_VOCABULARY_AND_STRUCTURE.md)  
+**Product surface (Task 4):** [PUBLIC_PRODUCT_SURFACE.md](PUBLIC_PRODUCT_SURFACE.md) · **Sealed release audit (Task 5):** [release/v0.5.1/README.md](../release/v0.5.1/README.md) (historical [v0.5.0](../release/v0.5.0/README.md)) · **Tasks 1–11 wiring:** [ENGINE_TASKS_1_11_INTEGRATION.md](ENGINE_TASKS_1_11_INTEGRATION.md)  
+**Optional sparse concept operator (H_total):** [semantic_dynamics_operator_spec.md](semantic_dynamics_operator_spec.md) · **Mainline carryover policy (code vs clinical wording):** [governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md](governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md) · **Spec index (Tier 1 + v0.5.1 hooks):** [specs/CANONICAL_INDEX.md](../specs/CANONICAL_INDEX.md)
 
 ---
 
@@ -35,8 +36,10 @@ See LEGAL_NOTICE.md for full terms.
 
 | Item | Note |
 |------|------|
-| **TFP testing grounds** | `tests/fixtures/clinical_tfp/tfp_kernberg/` — clinical regression collateral; E2E step 10; **not** part of Engine Dynamics v0.5 spec. |
+| **Clinical / TFP domain collateral** | Domain-specific fixtures (e.g. `tests/fixtures/clinical_tfp/`), modality labels, and experimental runners that **import** `research.clinical_tfp` for interpretation — **not** part of sealed **product** definition or public vocabulary. |
 | **legacy/** | Archived only |
+
+**Distinction (v0.5.1):** Shared **implementation** (lexical→concept invariant path, versioned calibration JSON, optional `H_total` / `ψ` update, segmentation with carried state) lives in **`hesperia/nlp`**, **`hesperia/engine`**, and **`assets/data/engine_dynamics_v060/`** and **does** belong to the full in-tree engine; only **clinical semantics and naming** are excluded from mainline canon and shipping narrative per [ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md](governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md).
 
 ---
 
@@ -61,11 +64,18 @@ See LEGAL_NOTICE.md for full terms.
 | [ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md](../specs/dynamics/ETHAN_SEMANTIC_FIELD_DYNAMICS_SPEC.md) | L0–L10 target |
 | [E2E_RUN_ORDER.md](E2E_RUN_ORDER.md) | Artifact order |
 
+### Docs (v0.5.1 lexical / concept-state hooks; not Tier-1 canon unless promoted)
+
+| File | Role |
+|------|------|
+| [semantic_dynamics_operator_spec.md](semantic_dynamics_operator_spec.md) | Sparse bounded `H_total`, segment `ψ`, calibration gate |
+| [governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md](governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md) | What may enter mainline: **code decisions only**; no medical terms in canon/shipping |
+
 ---
 
 ## 4. Engine modules
 
-| Module | Spec |
+| Component | Spec |
 |--------|------|
 | `hesperia/extensions/dynamics/*` | Ethan + semantic_field_v1 |
 | `hesperia/engine/hex_*.py`, `hex_outputs/*` | Hex canon + product maps |
@@ -93,6 +103,25 @@ Future refactors (v0.5.1+): sphere vs `core.layers`; sparse hex weights; project
 ## 7. Release closure
 
 **Canonical Dynamics Release v0.5** is documented in-repo: [CHANGELOG.md](../CHANGELOG.md), [HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md](../specs/release/HESPERIA_v0_5_ENGINE_DYNAMICS_RELEASE.md). **Current enforcement seal:** **`v0.5.1`** / **`hesperia-engine-dynamics-v0.5.1`** · **Historical baseline:** **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`**. Resume R&D on the next minor after the v0.5.1 gate is green.
+
+---
+
+## 8. v0.5.1 full code envelope: promote engine work into the main execution_flow
+
+**Intent:** Anything structurally useful that was first wired through experimental bundles (TFP file execution_flow, clinical topology helpers) should be **available from shared modules** and, where appropriate, **reachable from the main E2E / sealed stack** — without importing clinical **meaning** into product language.
+
+| Direction | Action |
+|-----------|--------|
+| **Concept evidence + invariant path** | Already centralized in `hesperia/nlp/session_parser.py` + `hesperia/nlp/tfp_activation.py` (rename to neutral component name is a follow-up refactor). |
+| **Sparse concept operator (`H_total`, `ψ`)** | Spec: [semantic_dynamics_operator_spec.md](semantic_dynamics_operator_spec.md); enable via `semantic_dynamics` in `tfp_signal_calibration_v2.json` after a release-pinned matrix covers the active concept index. |
+| **Segmentation + carried state** | `research/clinical_tfp/session_topology.py` and `hesperia/nlp/session_topology.py` thread `psi_prev` when the operator is on; consider invoking the same path from non-clinical runners. |
+| **Role-weighted lexical aggregation** | **`analyze_session_speaker_aware`** — **ML-07 closed (2026-03-26):** documented as **multi-channel / role-weighted lexical evidence** (utterance streams × per-stream weights → combined areas/families/concepts). API docstring + this row; internal stream keys follow the dialogue parser; **no care-setting claims** in canon. |
+| **Stage / phase labels from areas** | Keep **`research.clinical_tfp.stage_detection`** in research; if mainline needs discrete phases, add a **domain-neutral** mapper behind a non-clinical enum. |
+| **Gaps vs `run_e2e_product` / minimal product path** | Optional: one internal E2E step that runs lexical→concept→(optional `H`)→projection smoke **without** clinical fixtures; extend release audit keys when `semantic_dynamics.operator_enabled` becomes true by default. |
+
+**`analyze_session_speaker_aware` (mainline description):** Structured dialogue is parsed into utterance streams; each stream’s markers are scaled by a numeric **weight**, then aggregated into a single lexical-evidence vector (`areas` / `families` / `concepts`) plus per-stream breakdowns. **Canonical product wording:** *multi-channel, role-weighted lexical evidence*—deterministic marker physics only; stream labels in code and JSON reflect the dialogue parser’s schema, not a medical or therapeutic ontology in sealed narrative.
+
+**Backlog detail:** [governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md](governance/working/ETHAN-MAINLINE-CODE-CARRYOVER-NO-CLINICAL-TERMS.md) (Section 6).
 
 ---
 

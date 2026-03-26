@@ -38,7 +38,7 @@ def test_run_sealed_multiscale_stack_smoke():
     root = Path(__file__).resolve().parents[2]
     assets = root / "lexicon" / "curated"
     out = run_sealed_multiscale_stack("justice fairness order care trust", assets, use_triz_contradiction=False)
-    assert out["pipeline"] == "sealed_multiscale_v1"
+    assert out["execution_flow"] == "sealed_multiscale_v1"
     assert out.get("pch_bundle_version") == "v1"
     assert len(out["family_activation_vector"]) == 288
     assert len(out["area_activation_vector"]) == 12

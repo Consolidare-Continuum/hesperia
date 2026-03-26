@@ -6,9 +6,9 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# Hesperia multiple loop runs — self-analysis report (traversal deviations by run)
+# Hesperia multiple loop runs — self-measurement report (traversal deviations by run)
 
-**Purpose**: Self-analysis of traversal deviations across multiple matrix runs. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owner**: Ethan (delivery). **Added**: 2026-02-17.
+**Purpose**: Self-measurement of traversal deviations across multiple matrix runs. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owner**: Ethan (delivery). **Added**: 2026-02-17.
 
 **Dataset**: 24 runs from harness `cluster/chroma-server/multi_loop_runs_harness.py` — 12 start area_id × 2 directions (CW=1, CCW=-1) × 12 steps (one full ring). Stored in `cluster/chroma-server/multi_loop_runs/*.json`; index in `multi_loop_runs/index.json`.
 
@@ -40,16 +40,16 @@ See LEGAL_NOTICE.md for full terms.
 - **Different start, same direction**: Shifted area sequence (e.g. start 0 CW = 0,1,…,11; start 1 CW = 1,2,…,11,0).
 - **Different start, opposite direction**: Shifted and reversed.
 
-No “anomaly” deviation: all runs conform to ring geometry (40_POLICY §4.3). Deviation between runs is **expected** from parameter difference.
+No “anomaly” deviation: all runs conform to ring geometry (40_POLICY §4.3). Deviation between runs is **expected** from config_param difference.
 
 ---
 
 ## 3. Summary
 
 - **Run log**: 24 JSON files; index in `multi_loop_runs/index.json`. Harness: `multi_loop_runs_harness.py`.
-- **Self-analysis**: Paths are deterministic per (start, direction, steps). Cross-run deviations are **parameter-driven** (different start/direction → different path order); no inconsistency with schema or 40_POLICY.
+- **Self-measurement**: Paths are deterministic per (start, direction, steps). Cross-run deviations are **config_param-driven** (different start/direction → different path order); no inconsistency with schema or 40_POLICY.
 - **Use for boundaries**: Fixed = geometry, 12 areas, ring step formula. Variable = start, direction, steps, and (when available) activation data for loopability value.
 
 ---
 
-**SIGNED: Product (Ethan) | multiple loop runs self-analysis | 2026-02-17 | governance**
+**SIGNED: Product (Ethan) | multiple loop runs self-measurement | 2026-02-17 | governance**

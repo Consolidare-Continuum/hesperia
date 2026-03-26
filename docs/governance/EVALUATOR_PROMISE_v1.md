@@ -13,7 +13,7 @@ The HESPERIA evaluator bundle guarantees:
    Same commands and endpoints, same inputs → same behavior. The sealed runtime is built from a single path (`./release_sealed_runtime.sh`) and passes the release gate.
 
 2. **Deterministic outputs**  
-   Output JSON uses sorted keys and stable serialization. Same input produces identical output across runs (no nondeterminism in structural analysis or serialization).
+   Output JSON uses sorted keys and stable serialization. Same raw_text produces identical output across runs (no nondeterminism in structural measurement or serialization).
 
 3. **No exposure of internal model mechanics**  
    No internal geometry, layer count, topology, propagation details, or reserved structure appears in outputs, help text, errors, or schemas. The projection layer and schema guard enforce this.
@@ -25,7 +25,7 @@ The HESPERIA evaluator bundle guarantees:
 
 ## Intended boundary
 
-- **Visible:** Structural analysis as a product capability; evidence and metrics in public vocabulary; version and build info; health and rate limits.
+- **Visible:** Structural measurement as a product capability; evidence and metrics in public vocabulary; version and build info; health and rate limits.
 - **Not visible:** Internal computation layers, topology, dictionary construction, propagation algorithm, reserved areas/families, or any implementation detail that would allow reconstruction of the method.
 
 ---

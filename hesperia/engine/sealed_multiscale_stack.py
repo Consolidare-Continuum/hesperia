@@ -161,7 +161,7 @@ def run_sealed_multiscale_stack(
     }
 
     out: dict[str, Any] = {
-        "pipeline": "sealed_multiscale_v1",
+        "execution_flow": "sealed_multiscale_v1",
         "matrix_bundle_version": matrix_bundle_version,
         "pch_bundle_version": pch_bundle_version,
         "concept_layer": {

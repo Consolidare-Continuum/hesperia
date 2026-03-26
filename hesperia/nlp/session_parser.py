@@ -15,7 +15,7 @@ import math
 import re
 from typing import Any
 
-from hesperia.nlp.tfp_activation import build_invariant_tfp_activation
+from hesperia.nlp.invariant_activation import build_invariant_activation
 
 # RU negation lemmas → dampen token/phrase triggers in a short window (clinical heuristic).
 _NEGATION_TOKENS = frozenset({"не", "нет", "ни"})
@@ -318,7 +318,7 @@ def analyze_session(
         negation_multiplier=negation_multiplier,
     )
     markers += [(c, w) for c, w in token_matches if c not in phrase_concepts]
-    activation = build_invariant_tfp_activation(
+    activation = build_invariant_activation(
         markers,
         token_count=len(normalized),
         concept_to_area_family=concept_to_area_family,
@@ -548,7 +548,7 @@ def analyze_session_speaker_aware(
             else:
                 therapist_markers.append((cid, weight * therapist_weight))
 
-    activation = build_invariant_tfp_activation(
+    activation = build_invariant_activation(
         combined_markers,
         token_count=patient_tokens + therapist_tokens,
         concept_to_area_family=af,
@@ -556,13 +556,13 @@ def analyze_session_speaker_aware(
         apply_semantic_state=True,
     )
     activation["speaker_activation"] = {
-        "patient": build_invariant_tfp_activation(
+        "patient": build_invariant_activation(
             patient_markers,
             token_count=patient_tokens,
             concept_to_area_family=af,
             apply_semantic_state=False,
         ),
-        "therapist": build_invariant_tfp_activation(
+        "therapist": build_invariant_activation(
             therapist_markers,
             token_count=therapist_tokens,
             concept_to_area_family=af,
@@ -570,7 +570,7 @@ def analyze_session_speaker_aware(
         ),
     }
     activation["activation_by_direction"] = {
-        key: build_invariant_tfp_activation(
+        key: build_invariant_activation(
             markers,
             token_count=direction_tokens.get(key, 0),
             concept_to_area_family=af,

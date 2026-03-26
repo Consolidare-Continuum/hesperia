@@ -21,7 +21,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.domain.bridge` — **1**
 - `core.domain.loader` — **1**
 - `core.domain.models` — **1**
-- `core.domain.pipeline` — **1**
+- `core.domain.execution_flow` — **1**
 - `core.hexmap.aggregate` — **1**
 - `core.hexmap.analytics` — **1**
 - `core.hexmap.dynamics` — **1**
@@ -67,10 +67,10 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.kme.fingerprint_distance` — **1**
 - `hesperia.engine.kme.loader` — **1**
 - `hesperia.engine.kme.models` — **11**
-- `hesperia.engine.kme.pipeline` — **1**
+- `hesperia.engine.kme.execution_flow` — **1**
 - `hesperia.engine.kme.primitives.calculator` — **4**
 - `hesperia.engine.kme.profiling.profiler` — **2**
-- `hesperia.engine.lexical_concept.pipeline` — **2**
+- `hesperia.engine.lexical_concept.execution_flow` — **2**
 - `hesperia.engine.matrix_loader` — **3**
 - `hesperia.engine.observables` — **1**
 - `hesperia.engine.output_anomalies` — **1**
@@ -85,7 +85,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.extensions.dynamics.equations` — **1**
 - `hesperia.extensions.triz.kme_bridge` — **2**
 - `hesperia.extensions.triz.models` — **1**
-- `hesperia.extensions.triz.pipeline` — **1**
+- `hesperia.extensions.triz.execution_flow` — **1**
 - `hesperia.nlp.session_parser` — **1**
 - `hesperia.ontology.dictB.loader` — **1**
 - `hesperia.system.version` — **7**
@@ -327,7 +327,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.kme.fingerprint_distance`
 - `hesperia.engine.kme.loader`
 - `hesperia.engine.kme.models`
-- `hesperia.engine.kme.pipeline`
+- `hesperia.engine.kme.execution_flow`
 - `hesperia.engine.kme.primitives.calculator`
 - `hesperia.engine.kme.profiling.profiler`
 - `hesperia.extensions.triz.models`
@@ -433,7 +433,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `__future__`
 - `dataclasses`
 
-### `hesperia/engine/kme/pipeline.py`
+### `hesperia/engine/kme/execution_flow.py`
 
 **from**
 - `__future__`
@@ -487,9 +487,9 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 ### `hesperia/engine/lexical_concept/__init__.py`
 
 **from**
-- `hesperia.engine.lexical_concept.pipeline`
+- `hesperia.engine.lexical_concept.execution_flow`
 
-### `hesperia/engine/lexical_concept/pipeline.py`
+### `hesperia/engine/lexical_concept/execution_flow.py`
 
 **import**
 - `json`
@@ -540,7 +540,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.domain.bridge`
 - `core.domain.loader`
 - `core.domain.models`
-- `core.domain.pipeline`
+- `core.domain.execution_flow`
 - `core.layers`
 - `core.lexical.analysis_input`
 - `hesperia.engine.hex_matrix_builders`
@@ -620,7 +620,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **from**
 - `__future__`
-- `hesperia.extensions.triz.pipeline`
+- `hesperia.extensions.triz.execution_flow`
 - `typing`
 
 ### `hesperia/engine/projection/__init__.py`
@@ -676,7 +676,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.hex_family_bridge`
 - `hesperia.engine.hex_matrix_builders`
 - `hesperia.engine.hspr_index`
-- `hesperia.engine.lexical_concept.pipeline`
+- `hesperia.engine.lexical_concept.execution_flow`
 - `hesperia.engine.matrix_loader`
 - `hesperia.engine.pch_loader`
 - `hesperia.engine.product_signals`

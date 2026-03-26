@@ -138,6 +138,8 @@ def attach_public_output_metadata(
     calibration_profile: str | None = None,
     run_id: str | None = None,
     pipeline_version: str | None = None,
+    execution_flow_version: str | None = None,
+    orchestration_mode: str | None = None,
     modules_used: list[str] | None = None,
 ) -> dict[str, Any]:
     """
@@ -154,8 +156,17 @@ def attach_public_output_metadata(
     }
     if run_id is not None:
         envelope["run_id"] = run_id
+    flow_version = execution_flow_version if execution_flow_version is not None else pipeline_version
+    if flow_version is not None:
+        # Canonical naming first.
+        envelope["execution_flow_version"] = flow_version
     if pipeline_version is not None:
+        # Legacy compatibility surface.
         envelope["pipeline_version"] = pipeline_version
+    elif flow_version is not None:
+        envelope["pipeline_version"] = flow_version
+    if orchestration_mode is not None:
+        envelope["orchestration_mode"] = orchestration_mode
     if modules_used is not None:
         envelope["modules_used"] = list(modules_used)
     # Envelope keys must win over payload collisions (authoritative trace).

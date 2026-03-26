@@ -1,13 +1,13 @@
-# HESPERIA E2E Integration — Pipeline and Export
+# HESPERIA E2E Integration — Execution Flow and Export
 
-**Goal:** Run the full metric pipeline from document inputs (concept hits + relation candidates) and export all 41 metrics, fingerprint vector, hash, and JSON report.
+**Goal:** Run the full metric execution_flow from document inputs (concept hits + relation candidates) and export all 41 metrics, fingerprint vector, hash, and JSON report.
 
-**Pipeline:**  
+**Execution Flow:**  
 Text corpus (hits + relations) → Active Graph → Primitive Metrics (6) → Derived Metrics (35) → Fingerprint (41 + hash) → Export (JSON).
 
 ---
 
-## 1. Pipeline entry point
+## 1. Execution Flow entry point
 
 **Runner:** `HesperiaPipelineRunner(domain_graph, domain_constants)`  
 - **run_pipeline(source_id, hits, relations, domain_release="")** → `DomainFingerprint`  
@@ -22,7 +22,7 @@ Text corpus (hits + relations) → Active Graph → Primitive Metrics (6) → De
 
 ## 2. Inputs and outputs
 
-**Document input:** `DocumentInput(source_id, hits, relations)`  
+**Document raw_text:** `DocumentInput(source_id, hits, relations)`  
 - `hits`: `list[ConceptHit]` (concept_id, token_index)  
 - `relations`: `list[RelationCandidate]` (concept_a, concept_b, relation_type)
 
@@ -111,7 +111,7 @@ for r in reports:
 
 ## 7. Completion criteria
 
-- Pipeline runs from concept hits + relations → metrics and fingerprint  
+- Execution Flow runs from concept hits + relations → metrics and fingerprint  
 - All 41 metrics computed (6 primitives + 35 derived)  
 - Fingerprint vector and deterministic hash generated  
 - JSON export stable (deterministic)  
@@ -126,15 +126,15 @@ for r in reports:
 
 Metrics run as a **stage of the normal E2E run**, not a separate tool.
 
-**Sphere pipeline:** When `config["enable_domain_metrics"]` is true, after guards the pipeline runs the domain metrics stage: bridge pipeline state (matched token→family list) to ConceptHits and a synthetic domain graph (288 family nodes), then runs primitives → derived → fingerprint and sets **result["domain_metrics"]** with the same shape as a MetricReport (sourceId, primitives, derived, fingerprint). No separate runner process.
+**Sphere execution_flow:** When `config["enable_domain_metrics"]` is true, after guards the execution_flow runs the domain metrics stage: bridge execution_flow state (matched token→family list) to ConceptHits and a synthetic domain graph (288 family nodes), then runs primitives → derived → fingerprint and sets **summary["domain_metrics"]** with the same shape as a MetricReport (sourceId, primitives, derived, fingerprint). No separate runner process.
 
-**Bridge** (`core/domain/bridge.py`): `synthetic_domain_graph_for_topology(F)` builds a minimal domain graph (nodes f_0..f_{F-1}, no edges). `pipeline_matched_to_hits_relations(matched, F)` converts the pipeline’s `matched` list to `list[ConceptHit]` and empty `list[RelationCandidate]`.
+**Bridge** (`core/domain/bridge.py`): `synthetic_domain_graph_for_topology(F)` builds a minimal domain graph (nodes f_0..f_{F-1}, no edges). `pipeline_matched_to_hits_relations(matched, F)` converts the execution_flow’s `matched` list to `list[ConceptHit]` and empty `list[RelationCandidate]`.
 
 **Config:** Set `enable_domain_metrics=True`. Optionally set `domain_constants_path` (e.g. `assets/data/domain_constants.json`); if missing, defaults to constants for F nodes. Optionally set `domain_release`.
 
-**run_e2e_all:** The unified E2E runner now includes **run_e2e_domain_metrics**: it runs the main pipeline with `enable_domain_metrics=True` and writes **run_output_e2e_domain_metrics.json** with the full domain_metrics payload. So every `python3 -m runtime.pipeline.run_e2e_all` produces **13** base JSON artifacts (see `docs/E2E_RUN_ORDER.md`), including **calibration batch** structural + summary (default **100** sentences), domain_metrics, session stack, TFP smoke, and **capability_matrix**.
+**run_e2e_all:** The unified E2E runner now includes **run_e2e_domain_metrics**: it runs the main execution_flow with `enable_domain_metrics=True` and writes **run_output_e2e_domain_metrics.json** with the full domain_metrics payload. So every `python3 -m runtime.execution_flow.run_e2e_all` produces **13** base JSON artifacts (see `docs/E2E_RUN_ORDER.md`), including **calibration batch** structural + summary (default **100** sentences), domain_metrics, session stack, TFP smoke, and **capability_matrix**.
 
-**Determinism:** Same input (same text, document_id, config) → same domain_metrics (same primitives, derived, fingerprint, vectorHash).
+**Determinism:** Same raw_text (same text, document_id, config) → same domain_metrics (same primitives, derived, fingerprint, vectorHash).
 
 ---
 

@@ -11,7 +11,7 @@ Grace — compliance check: implementation vs tasked program.
 
 ## Grace receipt — **DONE to checkpoint**
 
-**Grace accepts as delivered (2026-03-18):** the combined **Ethan implementation tranche** (Phases 1–4 + Ξ proxy + close-out report) and **Gena tranche** (TRIZ → dynamics wiring, integration analysis, catalog/registry).
+**Grace accepts as delivered (2026-03-18):** the combined **Ethan implementation tranche** (Phases 1–4 + Ξ proxy + close-out report) and **Gena tranche** (TRIZ → dynamics wiring, integration measurement, catalog/registry).
 
 Program task status remains **OPEN** only for **follow-on scope** (full Ξ, L10 slice, \(Z_{ih}\)); the **A.6 stack + TRIZ bridge + documented close-out** are **received as complete** for this milestone.
 
@@ -58,7 +58,7 @@ Program task status remains **OPEN** only for **follow-on scope** (full Ξ, L10 
 | Milestone | Sign-off |
 |-----------|----------|
 | **Ethan A.6 + Ξ proxy + report** | **Received DONE** — 2026-03-18 |
-| **Gena TRIZ→dynamics + analysis docs** | **Received DONE** — 2026-03-18 |
+| **Gena TRIZ→dynamics + measurement docs** | **Received DONE** — 2026-03-18 |
 | **Overall program** | **OPEN** — next items above |
 
 ---

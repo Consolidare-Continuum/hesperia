@@ -27,7 +27,7 @@ Each public or cross-plane field SHOULD have an entry in `assets/config/output_m
 
 ## 3. Computational vs presentation
 
-- **Computational:** full-precision values in pipeline JSON (subject to existing E2E rounding).
+- **Computational:** full-precision values in execution_flow JSON (subject to existing E2E rounding).
 - **UI-friendly:** `display_value` + `band_label` produced by the readout layer (`hesperia.engine.output_readout`) from `assets/config/metric_bands_v1.json`.
 - **Diagnostic raw:** optional `diagnostics.*`, `interpretability_trace`, `calibration_status` — not part of public product schema unless explicitly projected.
 
@@ -46,7 +46,7 @@ Each public or cross-plane field SHOULD have an entry in `assets/config/output_m
 1. **Registry + spec** (this doc + JSON) — source of truth for tools and UI.
 2. **Dead-zero fixes** — hex line search + sealed flags + L1 fallback (done — see ETHAN Task 2 note).
 3. **Harness** — `tools/tfp_calibration_audit.py` → `10_calibration_audit.json`.
-4. **Readout** — bands + formatter module; no metric in UI without band policy.
+4. **Readout** — bands + formatter component; no metric in UI without band policy.
 5. **Profiles** — `assets/config/calibration_profiles_v1.yaml` + deterministic replay from fixed intermediates (future hardening).
 
 ## 6. Related paths
@@ -56,4 +56,4 @@ Each public or cross-plane field SHOULD have an entry in `assets/config/output_m
 - Profiles: `assets/config/calibration_profiles_v1.json`
 - Audit tool: `tools/tfp_calibration_audit.py`
 - **Tasks 6–10 (operational discipline):** goldset `tests/gold/tfp_calibration_goldset_v1.json` + `tools/run_tfp_calibration_goldset.py`; anomalies `docs/specs/output_anomaly_taxonomy_v1.md`; trace `docs/specs/output_metric_provenance_v1.md`; schemas `schemas/tfp_bundle/` + `tools/validate_tfp_bundle_schemas.py`; gate `docs/specs/calibration_release_gate_v1.md` + `tools/calibration_release_gate.py`.
-- **Gena one-shot:** `tools/gena_tfp_bundle_run.py` runs the file pipeline then audit, schema check, and gate (see `docs/governance/working/ETHAN-TFP-RUNNABLE-DICT-WIRING.md` §3a).
+- **Gena one-shot:** `tools/gena_tfp_bundle_run.py` runs the file execution_flow then audit, schema check, and gate (see `docs/governance/working/ETHAN-TFP-RUNNABLE-DICT-WIRING.md` §3a).

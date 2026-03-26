@@ -61,4 +61,4 @@ python3 tools/release/build_release_audit_v0_5_0.py              # full tests
 
 See **`release/v0.5.0/README.md`** for acceptance criteria and tagging instructions.
 
-Artifacts now include **`audit_report.json`** (master pass/fail), **`determinism_report.json`** (triplicate hash), **`schema_validation_report.json`** (jsonschema + leak scan), and the canonical input **`tests/fixtures/release_v0_5_0/canonical_input.txt`**.
+Artifacts now include **`audit_report.json`** (master pass/fail), **`determinism_report.json`** (triplicate hash), **`schema_validation_report.json`** (jsonschema + leak scan), and the canonical raw_text **`tests/fixtures/release_v0_5_0/canonical_input.txt`**.

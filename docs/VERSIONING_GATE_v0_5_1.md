@@ -21,7 +21,7 @@ The **2026-03-19 structural refresh** (layout, quarantine, docs moves, optional 
 
 Allowed without touching `system_version` when:
 
-- Paths, docs, CI wiring, or quarantine moves **do not** alter deterministic pipeline outputs for the same inputs, **or**
+- Paths, docs, CI wiring, or quarantine moves **do not** alter deterministic execution_flow outputs for the same inputs, **or**
 - Any artifact drift is **reverted** before merge (e.g. accidental regeneration of committed E2E JSON).
 
 ### Real **v0.5.1** (requires full gate)

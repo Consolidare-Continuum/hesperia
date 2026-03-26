@@ -69,9 +69,9 @@ Family is keyed by (area_name, family_name) from matrix; each family may have a 
 
 | Method | Signature | Returns | Ref |
 |--------|------------|--------|-----|
-| evaluate | HEX.evaluate(path, context) | result | { valid, contradiction, state_after, obstacle? } |
+| evaluate | HEX.evaluate(path, input_context) | summary | { valid, contradiction, state_after, obstacle? } |
 
-Runs: Boolean-style evaluation (v(φ)), deduction chaining (modus ponens / →E), contradiction detection (¬I). **path** = current path (e.g. list of (area_id, global_id)); **context** = semantic state + optional statement set.
+Runs: Boolean-style evaluation (v(φ)), deduction chaining (modus ponens / →E), contradiction detection (¬I). **path** = current path (e.g. list of (area_id, global_id)); **input_context** = semantic state + optional statement set.
 
 ### 2.4 Path operators
 
@@ -137,10 +137,10 @@ Every hop must evaluate, in order:
 
 ### 3.4 Loop safeguard (consecutive logical failures)
 
-**Three consecutive logical failures → stop traversal.** Structural stability control; not cosmetic.
+**Three consecutive logical failures → stop traversal.** Structural consistency control; not cosmetic.
 
-- **Hop result**: Each hop returns **hop_result ∈ {1, 0}** (1 = valid, 0 = invalid). Invalid when: UNSAT, CONTRADICTION, ENTAILMENT_FAIL, POLARITY_CONFLICT, or no satisfiable continuation.
-- **Per traversal context** (hex, family, area cross-polarity): maintain **fail_count** and **valid_streak**. If hop_result == 1: valid_streak += 1; if valid_streak ≥ 2 then fail_count = 0. Else: fail_count += 1; valid_streak = 0.
+- **Hop summary**: Each hop returns **hop_result ∈ {1, 0}** (1 = valid, 0 = invalid). Invalid when: UNSAT, CONTRADICTION, ENTAILMENT_FAIL, POLARITY_CONFLICT, or no satisfiable continuation.
+- **Per traversal input_context** (hex, family, area cross-polarity): maintain **fail_count** and **valid_streak**. If hop_result == 1: valid_streak += 1; if valid_streak ≥ 2 then fail_count = 0. Else: fail_count += 1; valid_streak = 0.
 - **Trigger**: If fail_count ≥ 3 → **SAFEGUARD_STOP()**: freeze traversal, mark region LOGICAL_OBSTACLE_CLUSTER, store last 3 states, return STOP.
 - Full formalization: [ETHAN-HESPERIA-LOOP-SAFEGUARD.md](ETHAN-HESPERIA-LOOP-SAFEGUARD.md).
 
@@ -158,7 +158,7 @@ From c5p (Wumpus inference): agent infers from local constraints; avoids dangero
 | Wumpus | Contradiction cluster — UNSAT or contradiction in this cell; halt. |
 | Abis (pit) | Semantic void — undefined mapping; no valid v for this slot. |
 
-**Inference rule (Hesperia)**: If in area A there is **no** contradiction signal (no UNSAT, no detect_contradiction), then **adjacent families** (same area or ring-adjacent area) are **safe** for one step — i.e. no obstacle inferred there from A. If A has obstacle, adjacent cells may be dangerous (propagate Miros/Vant). Implementation: maintain a **hazard map** (area_id, family_id) → { CLEAR | TENSION | UNSAFE } updated as traversal runs.
+**Inference rule (Hesperia)**: If in area A there is **no** contradiction input_signal (no UNSAT, no detect_contradiction), then **adjacent families** (same area or ring-adjacent area) are **safe** for one step — i.e. no obstacle inferred there from A. If A has obstacle, adjacent cells may be dangerous (propagate Miros/Vant). Implementation: maintain a **hazard map** (area_id, family_id) → { CLEAR | TENSION | UNSAFE } updated as traversal runs.
 
 ---
 
@@ -178,13 +178,13 @@ From c5p (Wumpus inference): agent infers from local constraints; avoids dangero
 
 1. **Area**: Implement enforce(), test_validity(), detect_contradiction() per area using polarity axes and state slice; state = key–value or formula set.
 2. **Family**: Implement normalize(), reduce(), check_equivalence(), detect_unsat() per family; family profile from matrix or config.
-3. **Hex**: Implement evaluate(path, context) calling v-style evaluation, modus ponens, contradiction check; return result with optional obstacle.
+3. **Hex**: Implement evaluate(path, input_context) calling v-style evaluation, modus ponens, contradiction check; return summary with optional obstacle.
 4. **Path**: Implement forward_inference(), backward_reduce(), normalize(), detect_cycle(), polarize() using path state and Area/Family.
 5. **Hop**: Implement negate(), merge(), branch(), exclusive(), infer(), sync() as transition (State_in, Operator) → State_out.
 6. **Semantic operators**: VALIDATE(), SATISFY(), UNSAT(), ENTAILS(Σ, φ) with **bounded depth** for deduction.
 7. **Obstacle state machine**: States CLEAR, OBSTACLE_CONTRADICTION, OBSTACLE_DRIFT, OBSTACLE_UNSAT, OBSTACLE_INVALID_IMPLICATION; per-hop evaluation; on obstacle halt or branch.
-8. **Wumpus layer**: Hazard map (area, family) → CLEAR | TENSION | UNSAFE; rule “no signal in A ⇒ adjacent safe”; update from traversal.
-9. **Loop safeguard**: Per traversal context: fail_count, valid_streak; hop_result ∈ {1, 0}; valid_streak ≥ 2 → reset fail_count; fail_count ≥ 3 → SAFEGUARD_STOP (freeze, mark LOGICAL_OBSTACLE_CLUSTER, store last 3 states). See [ETHAN-HESPERIA-LOOP-SAFEGUARD.md](ETHAN-HESPERIA-LOOP-SAFEGUARD.md).
+8. **Wumpus layer**: Hazard map (area, family) → CLEAR | TENSION | UNSAFE; rule “no input_signal in A ⇒ adjacent safe”; update from traversal.
+9. **Loop safeguard**: Per traversal input_context: fail_count, valid_streak; hop_result ∈ {1, 0}; valid_streak ≥ 2 → reset fail_count; fail_count ≥ 3 → SAFEGUARD_STOP (freeze, mark LOGICAL_OBSTACLE_CLUSTER, store last 3 states). See [ETHAN-HESPERIA-LOOP-SAFEGUARD.md](ETHAN-HESPERIA-LOOP-SAFEGUARD.md).
 
 ---
 

@@ -8,19 +8,19 @@ Short guide for running and testing the sealed runtime. (~2 pages.)
 
 ## What HESPERIA does
 
-HESPERIA is a **structural analysis engine**. You give it text; it returns:
+HESPERIA is a **structural measurement engine**. You give it text; it returns:
 
 - **Structural emphasis** over macro-domains and policy families (numeric vectors and counts).
 - **Evidence** (matched spans, concept labels, confidence).
 - **Trust and confidence** (e.g. trust tier, decision status).
 
-It does **not** expose internal geometry, layer count, or construction method. The only visible concept is: *text in → structural analysis → evidence and metrics out*.
+It does **not** expose internal geometry, layer count, or construction method. The only visible concept is: *text in → structural measurement → evidence and metrics out*.
 
 ---
 
 ## How to run the CLI
 
-**Single-text analysis:**
+**Single-text measurement:**
 ```bash
 ./hesperia-cli.bin analyze --text "Your policy or statement here."
 ```
@@ -34,7 +34,7 @@ Output: JSON with trust tags and whether the dominant emphasis matches.
 
 **Batch (multiple texts):**
 ```bash
-./hesperia-cli.bin batch-analyze --input texts.json --out results.json
+./hesperia-cli.bin batch-analyze --raw_text texts.json --out results.json
 ```
 `texts.json` can be a list of strings or `{"texts": ["...", "..."]}`. Max 100 texts per batch in API; CLI follows the same limit when using the API.
 
@@ -46,7 +46,7 @@ Shows runtime version, commit, and build date.
 
 **Write output to file:**
 ```bash
-./hesperia-cli.bin analyze --text "..." --out result.json
+./hesperia-cli.bin analyze --text "..." --out summary.json
 ```
 
 ---
@@ -62,9 +62,9 @@ docker run -p 8080:8000 -e HESPERIA_LICENSE_SKIP=1 hesperia-api:latest
 **Endpoints:**
 - `GET /health` — Liveness. Returns `{"status": "ok"}`.
 - `GET /version` — Version, commit, build.
-- `POST /analyze` — Body: `{"text": "your text"}`. Returns analysis JSON.
+- `POST /analyze` — Body: `{"text": "your text"}`. Returns measurement JSON.
 - `POST /compare` — Body: `{"text1": "...", "text2": "..."}`. Returns comparison JSON.
-- `POST /batch-analyze` — Body: `{"texts": ["...", "..."]}`. Max 100 texts. Returns list of analysis results.
+- `POST /batch-analyze` — Body: `{"texts": ["...", "..."]}`. Max 100 texts. Returns list of measurement results.
 
 **Example:**
 ```bash
@@ -97,7 +97,7 @@ All outputs are **projected**: no internal geometry, layer count, or propagation
 3. **Versioning:** `--version` and `GET /version` show version, commit, build for traceability.
 4. **Rate limiting:** Send more than 60 requests per minute to the API; expect 429.
 5. **Batch size:** Send more than 100 texts in one `batch-analyze` request; expect 400.
-6. **Errors:** Trigger an error (e.g. invalid input); response must be generic (e.g. `internal_processing_error`) with no stack trace or internal names.
+6. **Errors:** Trigger an error (e.g. invalid raw_text); response must be generic (e.g. `internal_processing_error`) with no stack trace or internal names.
 
 ---
 

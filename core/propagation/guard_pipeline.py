@@ -98,7 +98,7 @@ def run_pipeline(
     # 5. When degraded: slight bumps to tension_energy and obstacle_score
     if degraded:
         result = apply_degraded_bumps(result)
-    # 6. Optional shadow layer (toggle inside pipeline; no second entrypoint)
+    # 6. Optional shadow layer (toggle inside execution_flow; no second entrypoint)
     if shadow_enabled:
         result = _apply_shadow_layer(result)
     # Keep bounded (Sigma-style clamp)
@@ -109,10 +109,32 @@ def run_pipeline(
     return result
 
 
+def run_execution_flow(
+    result: dict[str, Any],
+    traversal_length: int,
+    area_hop_count: int,
+    evidence_count: int,
+    *,
+    skip_sigma_geometry: bool = True,
+    skip_sigma_bijection: bool = True,
+    shadow_enabled: bool = False,
+) -> dict[str, Any]:
+    """Canonical alias for guard execution flow (compatibility wrapper around run_pipeline)."""
+    return run_pipeline(
+        result,
+        traversal_length,
+        area_hop_count,
+        evidence_count,
+        skip_sigma_geometry=skip_sigma_geometry,
+        skip_sigma_bijection=skip_sigma_bijection,
+        shadow_enabled=shadow_enabled,
+    )
+
+
 def _apply_shadow_layer(result: dict[str, Any]) -> dict[str, Any]:
     """Shadow layer hook: when shadow_enabled, apply shadow adjustments. Bounded by Sigma."""
     out = dict(result)
     # Placeholder: full shadow_layer.process_step integration can be wired here.
-    # For now no-op so pipeline shape is correct; governance cannot increase.
+    # For now no-op so execution_flow shape is correct; governance cannot increase.
     logger.info("shadow_enabled: shadow layer applied (no-op placeholder)")
     return out

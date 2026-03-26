@@ -30,7 +30,7 @@ Programmatic runner: `python3 -c "from hesperia.product.mvp_acceptance import ru
 - **API v1** response validates against frozen contract.
 - **Tenant isolation**: outputs under `outputs/{tenant_id}/{project_id}/{run_id}/`.
 
-## Pilot result DTO
+## Pilot summary DTO
 
 `MVPAcceptanceResult`: `passed`, `failed_checks`, `passed_checks`, `generated_artifacts`.
 

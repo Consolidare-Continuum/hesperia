@@ -14,7 +14,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## Decision
 
-- **Direction**: **A — Harden structure.** Stay structure-only; add path types, stress tests, multi-ring/cross-family options; strengthen geometry and safeguard. Safe, conservative. No semantic weight or Phase D yet.
+- **Direction**: **A — Harden topology.** Stay topology-only; add path types, stress tests, multi-ring/cross-family options; strengthen geometry and safeguard. Safe, conservative. No semantic coefficient or Phase D yet.
 - **Locked spec**: **Safeguard State Machine Spec v0.1.** Canonical source: [ETHAN-HESPERIA-LOOP-SAFEGUARD.md](ETHAN-HESPERIA-LOOP-SAFEGUARD.md) + [ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md](ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md) §3.4. No drift on threshold, valid_streak reset, or SAFEGUARD_STOP behaviour until Phase D or explicit change control.
 
 ---
@@ -27,7 +27,7 @@ See LEGAL_NOTICE.md for full terms.
 | **Trigger** | Three consecutive hop_result = 0 (invalid). |
 | **Reset** | fail_count = 0 only when valid_streak ≥ 2. |
 | **On STOP** | Freeze traversal; mark region LOGICAL_OBSTACLE_CLUSTER (UNSAFE); store last 3 states; return STOP. |
-| **Scope** | Per traversal context (hex, family, area). Not global. |
+| **Scope** | Per traversal input_context (hex, family, area). Not global. |
 | **Do not change** | CONSECUTIVE_FAIL_THRESHOLD=3, VALID_STREAK_RESET=2; ring/adjacency/geometry. |
 
 Full definition: ETHAN-HESPERIA-LOOP-SAFEGUARD.md, operator spec §3.4, hesperia_logic.py (TraversalSafeguard, run_traversal_with_safeguard).

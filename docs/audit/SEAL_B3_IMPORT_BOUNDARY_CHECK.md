@@ -19,20 +19,20 @@
 
    | File | Justification |
    |------|----------------|
-   | runtime/pipeline/analyze.py | Internal-review; uses core.attribution, core.math, core.propagation; not yet migrated to service. |
-   | runtime/pipeline/r1_r4_pipeline.py | Internal-review; uses core.attribution, core.layers, core.propagation. |
-   | runtime/pipeline/batch_runner.py | Internal-review; uses core.layers.load_defaults; internal flows. |
-   | runtime/pipeline/reading_scales.py | Internal-review; uses core.layers; calibration tooling. |
-   | runtime/pipeline/run_corpus_benchmark.py | Internal-review; benchmark only; uses sphere.pipeline. |
+   | runtime/execution_flow/analyze.py | Internal-review; uses core.attribution, core.math, core.propagation; not yet migrated to service. |
+   | runtime/execution_flow/r1_r4_pipeline.py | Internal-review; uses core.attribution, core.layers, core.propagation. |
+   | runtime/execution_flow/batch_runner.py | Internal-review; uses core.layers.load_defaults; internal flows. |
+   | runtime/execution_flow/reading_scales.py | Internal-review; uses core.layers; calibration tooling. |
+   | runtime/execution_flow/run_corpus_benchmark.py | Internal-review; benchmark only; uses sphere.execution_flow. |
 
    These must **not** be advertised as public entry points (see ENTRYPOINT_CLASSIFICATION_v1).
 
 ---
 
-## Expected result
+## Expected summary
 
 - **Exit code = 0.**
-- **No violations** in non-excluded public runtime paths (runtime/api, runtime/pipeline, runtime/public_reports, runtime/artifact_writer, runtime/runners).
+- **No violations** in non-excluded public runtime paths (runtime/api, runtime/execution_flow, runtime/public_reports, runtime/artifact_writer, runtime/runners).
 - Excluded files documented with justification; excluded list kept minimal and reviewed for any new public entry points.
 
 ---
@@ -41,7 +41,7 @@
 
 | Symptom | Action |
 |--------|--------|
-| Exit code non-zero | Fix violating imports: replace with core.services or core.projection; or move module to internal/excluded and document. |
+| Exit code non-zero | Fix violating imports: replace with core.services or core.projection; or move component to internal/excluded and document. |
 | New public runner imports internal | Migrate runner to use analysis_service (or other façade) only; re-run check. |
 
 ---

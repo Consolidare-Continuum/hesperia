@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia — Post v0.1 checkpoint: formal definitions (Ethan)
 
-**Purpose**: After observability extension v0.1 checkpoint, define **formal governance equation**, **obstacleScore composition**, **decision state machine**, or **analyze risks of premature control**. Definition and analysis only; no implementation or behaviour change until approved. **Owner**: Ethan. **Baseline**: [projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md](../projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md) (done). **Date**: 2026-02-18.
+**Purpose**: After observability extension v0.1 checkpoint, define **formal governance equation**, **obstacleScore composition**, **decision state machine**, or **analyze risks of premature control**. Definition and measurement only; no implementation or behaviour change until approved. **Owner**: Ethan. **Baseline**: [projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md](../projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md) (done). **Date**: 2026-02-18.
 
 **Refs**: [ETHAN-HESPERIA-LOOP-SAFEGUARD.md](ETHAN-HESPERIA-LOOP-SAFEGUARD.md), [ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md](ETHAN-HESPERIA-OPERATOR-INTERFACE-SPEC.md) §3 (obstacle FSM), [RELEASE-V1-FIXED-POINT-2026-02-18.md](../projects/hesperia/RELEASE-V1-FIXED-POINT-2026-02-18.md).
 
@@ -28,7 +28,7 @@ See LEGAL_NOTICE.md for full terms.
 | **A** | **Define formal governance equation now** | Single equation or small set that ties: loopability, safeguard trigger, observability signals, and (when present) tension/obstacle. No free-form prose only; formal expression (e.g. predicate, inequality, or state invariant). | Makes “when do we stop / when do we allow” explicit and auditable. |
 | **B** | **Define obstacleScore composition** | How **obstacleScore** is composed from: hop_result (1/0), obstacle type (CONTRADICTION, DRIFT, UNSAT, …), optional weights, and how it relates to fail_count and SAFEGUARD_STOP. Formula or state update rules. | Complements existing obstacle FSM (§3 operator spec); no change to current three-fail rule until this is approved. |
 | **C** | **Define decision state machine** | Explicit **decision** FSM: states (e.g. CONTINUE, PAUSE, BRANCH, STOP), inputs (observability fields, obstacle state, governance equation output), transitions. Separate from obstacle FSM; this is “what does the controller decide to do” given signals. | Clarifies control surface; avoids ad-hoc branching in callers. |
-| **D** | **Analyze risks of premature control** | Short report: risks of introducing governance equation, obstacleScore, or decision FSM **before** observability and usage are stable. When does formal control become premature? Mitigations (e.g. advisory-only, feature flags, no wiring into traversal). | Informs whether to do A/B/C now or defer. |
+| **D** | **Analyze risks of premature control** | Short report: risks of introducing governance equation, obstacleScore, or decision FSM **before** observability and usage are stable. When does formal control become premature? Mitigations (e.g. advisory-only, metric flags, no wiring into traversal). | Informs whether to do A/B/C now or defer. |
 
 ---
 
@@ -45,13 +45,13 @@ See LEGAL_NOTICE.md for full terms.
 - **A**: Governance equation doc (or section in this file): predicate(s) / invariant(s) + interpretation.
 - **B**: ObstacleScore composition spec: formula or state-update rules; link to obstacle FSM and loop safeguard.
 - **C**: Decision state machine spec: states, inputs, transition table or rules.
-- **D**: Risk analysis report: premature control risks + recommendations (proceed / defer / advisory-only).
+- **D**: Risk measurement report: premature control risks + recommendations (proceed / defer / advisory-only).
 
 Ethan may deliver one, several, or all; Grace may triage follow-on implementation tasks after review.
 
 ---
 
-## 5. Delivered: D — Risk analysis (premature control)
+## 5. Delivered: D — Risk measurement (premature control)
 
 **Risks of introducing governance equation / obstacleScore / decision FSM before observability is stable:**
 
@@ -74,7 +74,7 @@ Ethan may deliver one, several, or all; Grace may triage follow-on implementatio
 
 - **L** ∈ [0, 1] — loopability (L_full when present; else undefined).
 - **band** ∈ { stable, transitional, unstable, unknown } — loopability_band from packet.
-- **fc** ∈ ℕ — fail_count (consecutive logical failures in current traversal context).
+- **fc** ∈ ℕ — fail_count (consecutive logical failures in current traversal input_context).
 - **se** ∈ ℕ — safeguard_events_count (observability; e.g. number of failures recorded toward STOP).
 - **GO** — predicate: governance equation says “allow continuation” (true) or “do not allow” (false).
 
@@ -107,11 +107,11 @@ GO(L, band, fc, se)  ≡  (fc < 3)  ∧  (band ≠ "unstable"  ∨  L > 0.4)
 
 ## 7. Status
 
-- **D (Risk analysis):** Delivered §5. Recommendation: definitions now, advisory-only; no wiring until observability stable and policy approved.
+- **D (Risk measurement):** Delivered §5. Recommendation: definitions now, advisory-only; no wiring until observability stable and policy approved.
 - **A (Governance equation):** Delivered §6. GO(L, band, fc, se); compatible with INV_safeguard; advisory use only.
 - **B (obstacleScore):** Deferred; can be added in same doc when needed.
 - **C (Decision state machine):** Deferred; can be added when control surface is approved.
 
 ---
 
-**SIGNED: Architecture (Ethan) | Post v0.1 formal definitions — governance equation, obstacleScore, decision FSM, or risk analysis | 2026-02-18 | governance**
+**SIGNED: Architecture (Ethan) | Post v0.1 formal definitions — governance equation, obstacleScore, decision FSM, or risk measurement | 2026-02-18 | governance**

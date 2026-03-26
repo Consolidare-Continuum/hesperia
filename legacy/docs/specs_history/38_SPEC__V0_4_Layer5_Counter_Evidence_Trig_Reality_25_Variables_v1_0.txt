@@ -109,7 +109,7 @@ References: 37_SPEC (Layer-4: R_pos, integrity, support index); 22_SPEC §13 (bo
 
 16. COSI_CLAMP_VIOLATION_COUNT
     int COSI_CLAMP_VIOLATION_COUNT = (cosiRaw < -1.0 || cosiRaw > 1.0) ? 1 : 0;
-    If acos input is ever outside [-1,1], math is unstable. cosiRaw = dot(v,w)/(|v||w|+eps) before clamp.
+    If acos raw_text is ever outside [-1,1], math is unstable. cosiRaw = dot(v,w)/(|v||w|+eps) before clamp.
 
 17. ANGLE_RANGE_VIOLATION_COUNT
     int ANGLE_RANGE_VIOLATION_COUNT = (theta < 0.0 || theta > π) ? 1 : 0;

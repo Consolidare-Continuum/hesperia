@@ -138,7 +138,7 @@ def require_canonical_taxonomy(profile: StructureProfile) -> None:
 
 
 def profile_checksum(profile: StructureProfile) -> str:
-    """Deterministic checksum of profile payload (keys sorted for stability)."""
+    """Deterministic checksum of profile payload (keys sorted for consistency)."""
     canonical = json.dumps(profile, sort_keys=True, separators=(",", ":"))
     return hashlib.sha256(canonical.encode("utf-8")).hexdigest()[:16]
 

@@ -17,7 +17,7 @@ _SHIPPING_ALLOWLIST = _REPO / "runtime" / "shipping" / "shipping_import_allowlis
 
 # sha256 of exact file bytes (bump only with deliberate allowlist edits).
 _SHIPPING_ALLOWLIST_SHA256 = (
-    "8c94fe788f1be508ec3c1350e8d302db5bb3a5bc21fbdb204a5e032f302d0e29"
+    "e6e2c43bdd392b1c07e80441e3623539973d5a82eef6cd3e8df67a5af5123824"
 )
 
 

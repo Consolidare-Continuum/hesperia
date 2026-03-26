@@ -10,7 +10,7 @@ See LEGAL_NOTICE.md for full terms.
 One command runs **all** stages in a fixed sequence:
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all [--out-dir DIR] [--text "…"] [--calibration-batch-n N]
+python3 -m runtime.execution_flow.run_e2e_all [--out-dir DIR] [--text "…"] [--calibration-batch-n N]
 ```
 
 Default text is shared across stages (unless overridden). Default artifact dir: `assets/artifacts/e2e/`.  
@@ -19,7 +19,7 @@ Default text is shared across stages (unless overridden). Default artifact dir: 
 **Product-only E2E (Task 4):** minimal sealed proof — one text → `run_structural_analysis` (projection inside service) → schema guard → `run_output_e2e_product_surface.json`:
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_product
+python3 -m runtime.execution_flow.run_e2e_product
 ```
 
 See `docs/PUBLIC_PRODUCT_SURFACE.md`.
@@ -28,21 +28,21 @@ See `docs/PUBLIC_PRODUCT_SURFACE.md`.
 
 | Step | Output file | What runs | Primary modules |
 |------|-------------|-----------|-----------------|
-| 1 | `run_output_e2e_sentence.json` | Lexicon analyze: 6-key result, extended (dict_b, family vectors truncated), R1–R4 in extended | `runtime.pipeline.analyze` |
-| 2 | `run_output_e2e_l1_l9.json` | Sphere **L1–L9** full pipeline (USF, interpretation, prolog, guards, diagnostics) + **`narrative_microstructure_e2e`** (hex product maps + Option A + TFP slice) | `run_l1_through_l9` → `sphere.pipeline` · **`hex_outputs.e2e_integration`** |
-| 3 | `run_output_e2e_r1_r4.json` | **R1–R4** reading-scale pipeline only (units + book_profile) | `runtime.pipeline.r1_r4_pipeline` |
-| 4 | `run_output_e2e_sphere_math_values.json` | L1–L9 **numeric layer values** for the same text | `runtime.pipeline.run_sphere_math_values` |
-| 5 | `run_output_e2e_sphere_math_100.json` | Sphere math over first **3** calibration sentences (smoke; distinct file from full batch below) | `runtime.pipeline.run_sphere_math_100_sentences` |
+| 1 | `run_output_e2e_sentence.json` | Lexicon analyze: 6-key summary, extended (dict_b, family vectors truncated), R1–R4 in extended | `runtime.execution_flow.analyze` |
+| 2 | `run_output_e2e_l1_l9.json` | Sphere **L1–L9** full execution_flow (USF, interpretation, prolog, guards, diagnostics) + **`narrative_microstructure_e2e`** (hex product maps + Option A + TFP slice) | `run_l1_through_l9` → `sphere.execution_flow` · **`hex_outputs.e2e_integration`** |
+| 3 | `run_output_e2e_r1_r4.json` | **R1–R4** reading-scale execution_flow only (units + book_profile) | `runtime.execution_flow.r1_r4_pipeline` |
+| 4 | `run_output_e2e_sphere_math_values.json` | L1–L9 **numeric layer values** for the same text | `runtime.execution_flow.run_sphere_math_values` |
+| 5 | `run_output_e2e_sphere_math_100.json` | Sphere math over first **3** calibration sentences (smoke; distinct file from full batch below) | `runtime.execution_flow.run_sphere_math_100_sentences` |
 | 5b | `run_output_e2e_calibration_100_structural.json` | Structural batch (L1–L9 public projection) per sentence — **N** sentences (default **100**, `tools/calibration/data/calibration_100_sentences.json`) | `run_structural_analysis_batch` |
 | 5c | `run_output_e2e_calibration_100_summary.json` | Aggregates: dominant area/family histograms, mean L1 coverage & stability, token stats | derived from 5b |
-| 6 | `run_output_e2e_domain_metrics.json` | Structural analysis **with domain metrics**: matched tokens → KME bridge → 6 primitives, 35 derived, 41 fingerprint + hash | `runtime.services.analysis_service` / `sphere.pipeline` + `hesperia.engine.kme` |
+| 6 | `run_output_e2e_domain_metrics.json` | Structural measurement **with domain metrics**: matched tokens → KME bridge → 6 primitives, 35 derived, 41 fingerprint + hash | `runtime.services.analysis_service` / `sphere.execution_flow` + `hesperia.engine.kme` |
 | 7 | `run_output_e2e_session_kme.json` | **Session NLP** → clinical ActiveGraph → **KME** (primitives, derived, fingerprint) + **TRIZ** signals | `hesperia.nlp.session_parser` → `hesperia.engine.kme.clinical_bridge.run_session_kme_pipeline` |
-| 8 | `run_output_e2e_triz_complete.json` | Same session activation → **TRIZ complete** (contradictions, topology, reports, commercial_intel); `csv_exports` stored as byte lengths only | `hesperia.extensions.triz.pipeline.run_triz_analysis_complete` |
+| 8 | `run_output_e2e_triz_complete.json` | Same session activation → **TRIZ complete** (contradictions, topology, reports, commercial_intel); `csv_exports` stored as byte lengths only | `hesperia.extensions.triz.execution_flow.run_triz_analysis_complete` |
 | 9 | `run_output_e2e_session_topology.json` | **Clinical session topology**: segments, softmax/share **area competition** before curves, cap+negation (see `curve_projection_meta.lexical_controls`), **`area_curves_session_relative`**, entropy **dominance confidence**, defense timeline. | `research.clinical_tfp.session_topology.run_session_topology` |
 | 10 | `run_output_e2e_tfp_smoke.json` | **TFP testing stack (Gena wiring):** batch structural (CLI `batch-analyze` parity) on smoke sessions + `analyze_session` + propagation + **`detect_tfp_stage`** + **`analyze_session_speaker_aware`** + **`session_hex_microstructure_tfp`** (per-session hex analytics + Option A + TFP provenance). | `runtime.services.analysis_service` · `hesperia.nlp.session_parser` · `research.clinical_tfp.stage_detection` · **`hesperia.engine.hex_outputs.e2e_integration`** |
 | 10b | `run_output_e2e_hex_microstructure_tfp.json` | **Full hex microstructure artifact:** primary E2E text + every TFP smoke session — microstructure maps, **Option A** hex-primary closure summary, **TFP** embedding / families_structure provenance. | **`hex_microstructure_bundle_for_text`** |
 | 10c | `run_output_e2e_sealed_multiscale.json` | **Sealed stack:** hex activation → **local microphysics** → **hex_family_bridge** → family/area vectors → **product_signals** → **hspr_index** (`hesperia.engine.sealed_multiscale_stack`). Optional TRIZ contradiction: `HESPERIA_SEALED_E2E_TRIZ=1`. | **`run_sealed_multiscale_stack`** |
-| **10d** | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`). Full **`run_dlcr_pipeline`** bundle for the primary E2E text (L0→L6 + segment trajectory). | `hesperia.engine.lexical_concept.pipeline` |
+| **10d** | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`). Full **`run_dlcr_pipeline`** bundle for the primary E2E text (L0→L6 + segment trajectory). | `hesperia.engine.lexical_concept.execution_flow` |
 | 11 | `run_output_e2e_capability_matrix.json` | **Gena full-picture sweep** + **`semantic_field_and_hci`** (ontology semantic field smoke + HCI scalar); structural stages, shipping compare, clinical + enhanced NLP, transcript parse, evaluation baselines, TRIZ, **KME** **`run_document`** + **`run_corpus`**; **`batch_runner`**, **`mvp_acceptance`**, **`experiment_runner`**. Multiscale if `HESPERIA_E2E_MULTISCALE=1`. Includes **`dlcr_pipeline`** block. | `run_e2e_capability_matrix` |
 | 11a | `run_output_e2e_semantic_field.json` | **Semantic field engine:** ontology → `matrix_builders` → `equations` → convergence; `runtime/configs/semantic_field_ontology_example.json` (timeline truncated in artifact). | `runtime.semantic_field.run_semantic_field` |
 | 11b | `run_output_e2e_field_calibration.json` | **HCI grid calibration** (mini 2×2×… grid, ontology matrices). | `runtime.semantic_field.run_field_calibration` |
@@ -69,7 +69,7 @@ Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**19** files incl. hex microstruc
 Single orchestrator — **same directory** for every JSON + **manifest** with SHA256 index:
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
+python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
 #   [--no-dynamics] [--skip-physics] [--skip-seal]
 ```
 
@@ -94,6 +94,6 @@ Writes e.g. `assets/artifacts/e2e_full_deliverables/` (all `run_output_e2e_*.jso
 **TFP smoke:** `HESPERIA_TFP_DLCR=1` adds **`session_dlcr_bundles`** to `run_output_e2e_tfp_smoke.json`.
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.execution_flow.run_e2e_all
 pytest tests/test_e2e_flows.py tests/nlp/test_role_direction_and_temporal.py::test_detect_tfp_stage -v
 ```

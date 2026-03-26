@@ -15,7 +15,7 @@ Remove or avoid any mention of:
 | hex | Geometry-revealing |
 | topology | Internal structure |
 | bridge | Bridge logic |
-| layer | Pipeline internals |
+| layer | Execution Flow internals |
 | family reserve | Reserve structure |
 | area counts, 12 areas, 288 families | Internal counts |
 
@@ -26,7 +26,7 @@ Remove or avoid any mention of:
 | Surface | Location | Check |
 |---------|----------|--------|
 | **CLI --help** | runtime/shipping/cli_main.py (argparse description, subcommand help, argument help) | Grep for forbidden terms. |
-| **Runtime errors** | Messages in cli_main.py (e.g. "No input texts", file not found) | No forbidden terms. |
+| **Runtime errors** | Messages in cli_main.py (e.g. "No raw_text texts", file not found) | No forbidden terms. |
 | **Usage docs** | release/README.md, quickstart, any doc that shows CLI usage | No forbidden terms. |
 
 ---
@@ -44,7 +44,7 @@ Remove or avoid any mention of:
    **Expected:** No matches.
 
 3. **Error paths:**  
-   Trigger error paths (e.g. batch-analyze with no input). Confirm stderr message does not contain forbidden terms.
+   Trigger error paths (e.g. batch-analyze with no raw_text). Confirm stderr message does not contain forbidden terms.
 
 ---
 

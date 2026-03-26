@@ -20,7 +20,7 @@ from typing import Any
 CONSECUTIVE_FAIL_THRESHOLD = 3
 VALID_STREAK_RESET = 2
 
-# Hop result: 1 = valid, 0 = invalid (logical failure)
+# Hop summary: 1 = valid, 0 = invalid (logical failure)
 HOP_VALID = 1
 HOP_INVALID = 0
 

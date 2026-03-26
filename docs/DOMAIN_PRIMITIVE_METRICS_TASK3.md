@@ -57,6 +57,6 @@ LD = COH = NC = PR = PV = CI = **0.0**.
 - **D** — Triangle → COH=1.0, LD high, PV>0.
 - **E** — Two disconnected pairs → COH<1 (fragmentation).
 
-## Result
+## Summary
 
 After Task 3, HESPERIA has a deterministic **primitive vector** [LD, COH, NC, PR, PV, CI] as the base measurement layer for downstream use.

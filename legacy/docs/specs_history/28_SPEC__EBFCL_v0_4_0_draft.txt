@@ -28,7 +28,7 @@ This layer:
 2. SYSTEM POSITION IN STACK
 ================================================================================
 
-Full pipeline:
+Full execution_flow:
   1. Dict A (manual ontology anchors)
   2. Embedding Classification Layer (this spec)
   3. Dict B (frozen mapping)

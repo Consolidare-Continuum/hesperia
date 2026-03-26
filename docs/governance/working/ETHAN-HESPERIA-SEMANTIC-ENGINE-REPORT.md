@@ -27,10 +27,10 @@ Proceed open task: do we run a **tech investigation** for "our best shot" on a d
 ### Rationale
 
 1. **Single store, one ops path**
-   Chroma is already the main knowledge store (CHROMA-USAGE-POLICY). hesperia_families, matrix_run, context_rag, books, FPF are on Chroma. One schema, one ingest pipeline (Abelard), one server. Adding a second engine = second vector store, second ops, split context and duplication.
+   Chroma is already the main knowledge store (CHROMA-USAGE-POLICY). hesperia_families, matrix_run, context_rag, books, FPF are on Chroma. One schema, one ingest execution_flow (Abelard), one server. Adding a second engine = second vector store, second ops, split input_context and duplication.
 
 2. **Cursor-repo use is already Chroma**
-   Agents (Cursor, Albina) use Chroma for matrix-derived context and context packets. Hesperia “semantic engine” in cursor-repo **is** Chroma + matrix_run + context_rag. No gap to fill with another engine for current scope.
+   Agents (Cursor, Albina) use Chroma for matrix-derived input_context and input_context packets. Hesperia “semantic engine” in cursor-repo **is** Chroma + matrix_run + context_rag. No gap to fill with another engine for current scope.
 
 3. **Product semantic layer (Phase D)**
    When SCOPE-AND-SYNC moves to include the product semantic layer (RAG, full engine in workspace), the default is **same stack**: Chroma as the semantic/vector backend for that layer too, unless Phase D explicitly calls for a product-native engine or we hit hard limits.
@@ -38,7 +38,7 @@ Proceed open task: do we run a **tech investigation** for "our best shot" on a d
 4. **When to revisit (tech investigation)**
    Run a dedicated “best shot” engine investigation only if:
    - Phase D scope **explicitly** requires a different engine (e.g. product ships its own RAG service), or
-   - We hit **hard limits** (scale, latency, feature gap, cost) that Chroma cannot address with current tuning (CHROMA-COOKBOOK-ABELARD, chops, optional hnsw rebuild).
+   - We hit **hard limits** (scale, latency, metric gap, cost) that Chroma cannot address with current tuning (CHROMA-COOKBOOK-ABELARD, chops, optional hnsw rebuild).
 
 ---
 

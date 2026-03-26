@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Hesperia — informatics logic integration plan (matrix and traversal)
 
-**Purpose**: Document how the **informatics logic** layer (data structures, reasoning, logic) integrates with the matrix and traversal in the cursor-repo agents context. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owner**: Ethan. **Added**: 2026-02-17.
+**Purpose**: Document how the **informatics logic** layer (data structures, reasoning, logic) integrates with the matrix and traversal in the cursor-repo agents input_context. **Task**: [TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md](TASK-GRACE-ETHAN-HESPERIA-MULTIPLE-LOOP-RUNS.md). **Owner**: Ethan. **Added**: 2026-02-17.
 
 **Refs**: [HESPERIA-FAMILIES-CHROMA-SCHEMA.md](HESPERIA-FAMILIES-CHROMA-SCHEMA.md) §6, [HESPERIA-AGENTS-PATH-ETHAN-REPORT.md](HESPERIA-AGENTS-PATH-ETHAN-REPORT.md); CLIENTS/hesperia/12_SPEC (Semantic Engine), 14_SPEC (Services and APIs — TraversalService), 40_POLICY (Loopability and traversal).
 
@@ -18,10 +18,10 @@ See LEGAL_NOTICE.md for full terms.
 
 | Layer | Role | Integration with matrix/traversal |
 |-------|------|----------------------------------|
-| **Matrix (data)** | Canonical coordinates: area_id, global_id, area_name, family_name. Source: CSV (mandatory) or Chroma layer=hesperia_families. | **Input** to traversal: ring step formula uses area_id; family at each step from matrix. Schema §6 defines path, borders, road_coordinates. |
+| **Matrix (data)** | Canonical coordinates: area_id, global_id, area_name, family_name. Source: CSV (mandatory) or Chroma layer=hesperia_families. | **Raw_text** to traversal: ring step formula uses area_id; family at each step from matrix. Schema §6 defines path, borders, road_coordinates. |
 | **Traversal (logic)** | Ring step: area_at(step) = (start + direction×step + 12) % 12 (40_POLICY §4.3). Deterministic path from (start, direction, steps). | **Output**: road_coordinates, border_passings (area and family), traversal_length, is_loop. Implemented in matrix_run.py; no activation data yet → loopability formula ref only. |
 | **Informatics logic (spec)** | 14_SPEC TraversalService: runLoop(region, maxPasses, dominance, obstacleTheta) → LoopResult; 40_POLICY formulas (L_full, novelty). | **Alignment**: cursor-repo matrix_run implements **ring traversal only** (fixed geometry, no region/obstacle yet). When activation/region data exists, TraversalService contract can be fulfilled by extending matrix_run or a sibling script. |
-| **Agents context** | query_knowledge (Chroma layer=hesperia_families); matrix_run.py (CLI); apple_path_imprint, apple_involvements. | **Consumption**: Agents get matrix-derived context via Chroma or matrix_run output; path can be imprinted and described (apple scripts). |
+| **Agents input_context** | query_knowledge (Chroma layer=hesperia_families); matrix_run.py (CLI); apple_path_imprint, apple_involvements. | **Consumption**: Agents get matrix-derived input_context via Chroma or matrix_run output; path can be imprinted and described (apple scripts). |
 
 ---
 

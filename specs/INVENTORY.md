@@ -10,7 +10,7 @@
 
 | Path | Note |
 |------|------|
-| `specs/core/*.md` | Core pipeline + observables |
+| `specs/core/*.md` | Core execution_flow + observables |
 | `specs/dynamics/semantic_field_dynamics.md` | **Only** family-field dynamics equations |
 | `specs/calibration/calibration_system.md`, `hspr_index.md` | Calibration law + scalars |
 | `specs/triz/*.md` | TRIZ contradiction + innovation |

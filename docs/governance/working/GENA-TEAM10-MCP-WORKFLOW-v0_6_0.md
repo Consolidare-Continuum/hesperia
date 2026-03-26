@@ -26,7 +26,7 @@ Each task must record:
 - status (`todo`/`in_progress`/`done`/`blocked`)
 - artifact paths
 - validation command(s)
-- result note
+- summary note
 
 ---
 

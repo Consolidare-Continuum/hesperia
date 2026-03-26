@@ -1,4 +1,4 @@
-# Dictionary calibration pipeline (Ethan)
+# Dictionary calibration execution_flow (Ethan)
 
 Closed loop: **corpus → lexical candidates → OpenAI (propose/normalize) → Hesperia DLCR (truth)** → metrics → errors → patch → repeat.
 

@@ -10,7 +10,7 @@ python3 tools/release/build_release_audit_v0_5_1.py
 python3 tools/release/build_release_audit_v0_5_1.py --quick   # subset only
 ```
 
-**Canonical input:** `tests/fixtures/release_v0_5_0/canonical_input.txt` (UTF-8).
+**Canonical raw_text:** `tests/fixtures/release_v0_5_0/canonical_input.txt` (UTF-8).
 
 **Exit code:** `0` only if **all gates pass** (including **clean git worktree**). See `audit_report.json` → `seal_decision` and **`final_gate_status.json`**.
 

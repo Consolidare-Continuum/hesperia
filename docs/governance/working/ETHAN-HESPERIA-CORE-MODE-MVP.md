@@ -29,9 +29,9 @@ See LEGAL_NOTICE.md for full terms.
 |--------------------|--------------|-------------------------|
 | **matrix_run.py** | Yes. Default: CSV; optional --chroma. | JSON: matrix_source, geometry, path_params, road_coordinates (step, area_id, global_id, area_name, family_name), border_passings (area_border_passings, family_border_passings), traversal_length, is_loop, loopability (formula_ref [+ L_full when --activation]). |
 | **context_rag.py** | Yes when **no retrieval**: no --query, no --area_id, no --family_name (or core-mode flag). | JSON: matrix_source, calculable (same as matrix_run), coherence_hints (current_area_id, current_area_name, suggested_adjacent_areas, traversal_summary, border_passings_count). No retrieval key. Optional --activation for L_full only. |
-| **hesperia_logic.py** | Yes. State and path keyed by area_id / (area_id, family_id) only; no statement_set in path_context for core tests. | Area.enforce/test_validity/detect_contradiction; Family/Hex/Path/Hop; obstacle state; VALIDATE/SATISFY/UNSAT/ENTAILS (stub on atoms keyed by area); hazard_map_update. Inputs: path = list (area_id, global_id), state = dict (area/family keys only). Outputs: boolean or result dict (valid, contradiction, state_after, obstacle). |
-| **apple_path_imprint.py** | Yes. Input: matrix_run JSON (road_coordinates). | Writes path to apple_paths/{run_id}.json. Output file: path as list of positions (area_id, global_id or area_name, family_name). |
-| **apple_involvements.py** | Yes. Input: path (from imprint or matrix_run JSON). | JSON/text: areas, families, area–family pairs, counts. No statement or book content. |
+| **hesperia_logic.py** | Yes. State and path keyed by area_id / (area_id, family_id) only; no statement_set in path_context for core tests. | Area.enforce/test_validity/detect_contradiction; Family/Hex/Path/Hop; obstacle state; VALIDATE/SATISFY/UNSAT/ENTAILS (stub on atoms keyed by area); hazard_map_update. Inputs: path = list (area_id, global_id), state = dict (area/family keys only). Outputs: boolean or summary dict (valid, contradiction, state_after, obstacle). |
+| **apple_path_imprint.py** | Yes. Raw_text: matrix_run JSON (road_coordinates). | Writes path to apple_paths/{run_id}.json. Output file: path as list of positions (area_id, global_id or area_name, family_name). |
+| **apple_involvements.py** | Yes. Raw_text: path (from imprint or matrix_run JSON). | JSON/text: areas, families, area–family pairs, counts. No statement or book content. |
 | **multi_loop_runs_harness.py** | Yes. Runs matrix_run in loop. | Directory of run JSONs (same shape as matrix_run); index.json. Logic tests can consume any run JSON (road_coordinates, path_params, etc.). |
 
 **Matrix**: Canonical matrix = CSV (CLIENTS/hesperia/v0.1/hex_sphere_areas_families_ideal_proportions.csv) or Chroma layer=hesperia_families. In core mode, matrix is read-only; coordinates (area_id, area_name, family_name, global_id) and geometry (12 areas, 24 families per area) are the only data used. No statement or book payload required.
@@ -59,7 +59,7 @@ Logic tests that run **only on areas and families** may rely on the following ou
 
 ### 3.3 hesperia_logic (core mode)
 
-- **Input**: path = list of (area_id, global_id); state = dict keyed by area/family (e.g. area_id or (area_id, global_id)); path_context without statement_set or with empty statement_set.
+- **Raw_text**: path = list of (area_id, global_id); state = dict keyed by area/family (e.g. area_id or (area_id, global_id)); path_context without statement_set or with empty statement_set.
 - **Output**: Area: (success: bool, message: str); Hex.evaluate: { valid, contradiction, state_after, obstacle }; Path.polarize(): dict area_id → +1|-1; obstacle state enum; hazard_map (area_id, family_id) → CLEAR | TENSION | UNSAFE.
 - Logic tests MUST NOT pass or assert on statement_set or book content; only area_id, family_id, global_id, path, polarity, obstacle.
 
@@ -84,7 +84,7 @@ Logic tests that run **only on areas and families** may rely on the following ou
 |------|-----------|
 | **Mode** | Core mode = areas and families only; no statements level, no books level. |
 | **Scope** | matrix_run, context_rag (no retrieval), hesperia_logic (area/family state only), apple_path_imprint, apple_involvements, multi_loop_runs harness — all functional and testable in core mode. |
-| **Output** | Contract §3: path_params, road_coordinates, border_passings, geometry, loopability, coherence_hints; hesperia_logic result (valid, contradiction, obstacle, polarize); apple path and involvements. No retrieval, no statement_set, no chunks in core outputs. |
+| **Output** | Contract §3: path_params, road_coordinates, border_passings, geometry, loopability, coherence_hints; hesperia_logic summary (valid, contradiction, obstacle, polarize); apple path and involvements. No retrieval, no statement_set, no chunks in core outputs. |
 | **Logic tests** | Run against above outputs only; no dependency on statements or books. MVP core output generation is complete when scripts conform to §3. |
 
 ---

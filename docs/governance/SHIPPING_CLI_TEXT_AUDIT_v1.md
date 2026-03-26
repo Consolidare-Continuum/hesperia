@@ -11,14 +11,14 @@ The following must **not** appear in:
 
 - Program description (argparse description)
 - Subcommand help (analyze, compare, batch-analyze)
-- Argument help (--text, --out, --assets, --input, --texts, --text1, --text2)
+- Argument help (--text, --out, --assets, --raw_text, --texts, --text1, --text2)
 - Any stdout/stderr message produced by the shipping CLI
 
 | Term / pattern | Reason |
 |----------------|--------|
 | sphere | Geometry-revealing |
 | hex, hexagon | Geometry-revealing |
-| layers, layer 1–9, L1–L9 | Pipeline internals |
+| layers, layer 1–9, L1–L9 | Execution Flow internals |
 | bridge | Bridge logic internals |
 | topology | Internal structure |
 | reserve, reserved structure, area 11, area 12 | Reserve structure |
@@ -33,19 +33,19 @@ The following must **not** appear in:
 
 | Location | Text | Forbidden term? |
 |----------|------|------------------|
-| Main description | "Structural analysis. Commands: analyze, compare, batch-analyze." | No |
-| analyze help | "Run structural analysis on one text." | No |
+| Main description | "Structural measurement. Commands: analyze, compare, batch-analyze." | No |
+| analyze help | "Run structural measurement on one text." | No |
 | compare help | "Compare two texts (structural emphasis and confidence)." | No |
-| batch-analyze help | "Run structural analysis on multiple texts." | No |
+| batch-analyze help | "Run structural measurement on multiple texts." | No |
 | --assets | "Path to lexicon assets (default: repo/lexicon/curated)" | No |
-| --text | "Input text to analyze." | No |
-| --out | "Write result JSON to this path." | No |
+| --text | "Raw_text text to analyze." | No |
+| --out | "Write summary JSON to this path." | No |
 | --text1 / --text2 | "First text." / "Second text." | No |
-| --input | "JSON file: list of strings or object with 'texts' key." | No |
+| --raw_text | "JSON file: list of strings or object with 'texts' key." | No |
 | --texts | "Texts as arguments." | No |
-| batch error | "No input texts. Use --input path.json or --texts '...' '...'" | No |
+| batch error | "No raw_text texts. Use --raw_text path.json or --texts '...' '...'" | No |
 
-**Result:** No forbidden terms in shipping CLI text.
+**Summary:** No forbidden terms in shipping CLI text.
 
 ---
 
@@ -68,7 +68,7 @@ grep -iE 'sphere|hex|layer|bridge|topology|reserve|12 areas|288|side_id|adjacenc
 
 ## 4. Ongoing rule
 
-Any change to `runtime/shipping/cli_main.py` (or to a module that provides CLI strings to the shipping binary) must be re-audited. Do not add help or messages that mention the forbidden terms above.
+Any change to `runtime/shipping/cli_main.py` (or to a component that provides CLI strings to the shipping binary) must be re-audited. Do not add help or messages that mention the forbidden terms above.
 
 ---
 

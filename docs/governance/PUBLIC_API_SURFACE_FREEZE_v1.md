@@ -9,9 +9,9 @@
 
 | Command / flag | Description |
 |----------------|-------------|
-| **analyze** | Run structural analysis on one text. |
+| **analyze** | Run structural measurement on one text. |
 | **compare** | Compare two texts (structural emphasis and confidence). |
-| **batch-analyze** | Run structural analysis on multiple texts. |
+| **batch-analyze** | Run structural measurement on multiple texts. |
 | **--version** | Show runtime version, commit, and build info. |
 
 No other CLI commands or flags are part of the frozen public surface. Adding, removing, or changing the behavior of these requires a surface version increment (e.g. 1.0 → 1.1) and release notes.
@@ -22,9 +22,9 @@ No other CLI commands or flags are part of the frozen public surface. Adding, re
 
 | Method | Path | Description |
 |--------|------|-------------|
-| **POST** | **/analyze** | Body: `{"text": "..."}`. Returns analysis JSON. |
+| **POST** | **/analyze** | Body: `{"text": "..."}`. Returns measurement JSON. |
 | **POST** | **/compare** | Body: `{"text1": "...", "text2": "..."}`. Returns comparison JSON. |
-| **POST** | **/batch-analyze** | Body: `{"texts": ["...", ...]}`. Max 100 texts. Returns list of analysis results. |
+| **POST** | **/batch-analyze** | Body: `{"texts": ["...", ...]}`. Max 100 texts. Returns list of measurement results. |
 | **GET** | **/health** | Liveness. Returns `{"status": "ok"}`. |
 | **GET** | **/version** | Returns `{"version", "commit", "build"}`. |
 

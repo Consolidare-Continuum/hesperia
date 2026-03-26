@@ -30,7 +30,7 @@ resolved concept evidence or an explicitly marked fallback path.
 
 The subsystem introduces a first-class engine for:
 
-- deterministic input normalization
+- deterministic raw_text normalization
 - lexical evidence extraction via Dict A
 - candidate concept resolution via Dict B
 - concept-to-hex projection into the 72k substrate
@@ -85,7 +85,7 @@ decision point. Otherwise ambiguity leaks upward and becomes family drift. :cont
 
 HESPERIA SHALL implement the following stack:
 
-L0  Input Normalization
+L0  Raw_text Normalization
 L1  Lexical Evidence
 L2  Concept Resolution
 L3  Hex Projection
@@ -123,7 +123,7 @@ This layer model is normative. :contentReference[oaicite:5]{index=5} :contentRef
 ====================================================================
 
 R1.
-One input under fixed versioned resources SHALL produce one output.
+One raw_text under fixed versioned resources SHALL produce one output.
 
 R2.
 Every matched span SHALL be auditable.
@@ -468,7 +468,7 @@ Exact numeric weights SHALL be versioned and externally visible.
 Normative rules:
 
 C1.
-Given identical normalized input and identical resources, the same winner
+Given identical normalized raw_text and identical resources, the same winner
 SHALL always be selected.
 
 C2.

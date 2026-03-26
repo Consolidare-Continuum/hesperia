@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
 # Usage:
-#   python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
+#   python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
 #       [--no-dynamics] [--skip-physics] [--skip-seal]
 #
 # Default: enables Ethan/field-dynamics env (same intent as tools/e2e_full_deliverables.sh), runs physics validation
@@ -59,11 +59,11 @@ def _write_product_surface(out_dir: Path, text: str) -> Path:
     from runtime.shipping.schema_guard import validate_against_public_schema
 
     assets = _REPO / "lexicon" / "curated"
-    result = run_structural_analysis(text, assets_root=assets, stages="full")
-    validate_against_public_schema(result)
+    summary_payload = run_structural_analysis(text, assets_root=assets, stages="full")
+    validate_against_public_schema(summary_payload)
     path = out_dir / "run_output_e2e_full_product_surface.json"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(result, indent=2, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+    path.write_text(json.dumps(summary_payload, indent=2, ensure_ascii=False, sort_keys=True), encoding="utf-8")
     return path
 
 
@@ -208,6 +208,8 @@ def run_e2e_full_stack(
         manifest_body,
         calibration_profile=default_calibration_profile(),
         pipeline_version=e2e_pipeline_version(),
+        execution_flow_version=e2e_pipeline_version(),
+        orchestration_mode="E2E_FULL_STACK",
         modules_used=[
             "runtime.pipeline.run_e2e_all",
             "runtime.pipeline.run_e2e_full_stack",

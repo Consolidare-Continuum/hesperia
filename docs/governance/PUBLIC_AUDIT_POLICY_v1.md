@@ -13,7 +13,7 @@
 | public ontology version | Which public macro-domain / policy-family map. |
 | calibration profile id | Which calibration was used. |
 | report profile id | Which report template/profile. |
-| input manifest id | Opaque reference to input (hash or id; no content). |
+| raw_text manifest id | Opaque reference to raw_text (hash or id; no content). |
 | run timestamp | When the run occurred. |
 | output checksum | Integrity of the emitted output. |
 | evidence count | How many evidence entries. |
@@ -39,4 +39,4 @@ Public audit manifest shape is defined in **assets/public/public_audit_manifest.
 
 ## 4. Acceptance Criterion
 
-A third party can verify run identity (version, input ref, checksum, evidence count) without learning the engine’s method. No internal layer, topology, or formula is exposed in the manifest.
+A third party can verify run identity (version, raw_text ref, checksum, evidence count) without learning the engine’s method. No internal layer, topology, or formula is exposed in the manifest.

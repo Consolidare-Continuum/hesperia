@@ -20,7 +20,7 @@
 
 ## Procedure
 
-1. **Inputs that activate multiple families:** Use input text that triggers attribution across many families (e.g. longer text, or corpus sentences) so that the pipeline processes a wide set of families and areas.
+1. **Inputs that activate multiple families:** Use raw_text text that triggers attribution across many families (e.g. longer text, or corpus sentences) so that the execution_flow processes a wide set of families and areas.
 
 2. **Run public service:**  
    `run_structural_analysis(text, assets_root=assets, stages="full")`  
@@ -35,7 +35,7 @@
 
 ---
 
-## Expected result
+## Expected summary
 
 - No area index 10 or 11 in any emitted artifact.
 - No family index in 240–287.

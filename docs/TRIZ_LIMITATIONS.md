@@ -10,7 +10,7 @@
    Dictionary coverage, concept resolution, and relation extraction quality directly bound usefulness.
 
 4. **Bounded by corpus**  
-   Sparse or biased corpora produce sparse or biased graphs; metrics reflect the input, not the world.
+   Sparse or biased corpora produce sparse or biased graphs; metrics reflect the raw_text, not the world.
 
 5. **Signal analytics, not epistemic certainty**  
    Tension, innovation pressure, and narrative metrics describe **patterns in the supplied representation**, not objective social or political reality.

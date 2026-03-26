@@ -1,6 +1,6 @@
 # Family weights sparsification v0.5.2
 
-**Module:** `hesperia.extensions.triz.family_weights_sparsify_v052`  
+**Component:** `hesperia.extensions.triz.family_weights_sparsify_v052`  
 **CLI:** `python3 tools/sparsify_family_weights_v052.py`
 
 ## Inputs
@@ -14,7 +14,7 @@
 
 **`family_weights_sparse_v052.json`** — `edges[]` with `weight`, `effective_weight` (= `weight * log(1 + cluster_cooccurrence)` when overlap &gt; 0), `active_for_contradiction` (`weight >= 0.4`), stats, optional `matrix_sparse` (`--include-matrix` on CLI).
 
-Pipeline disk artifact omits `matrix_sparse` (`matrix_sparse_omitted: true`) to save size.
+Execution Flow disk artifact omits `matrix_sparse` (`matrix_sparse_omitted: true`) to save size.
 
 ## Rules (summary)
 

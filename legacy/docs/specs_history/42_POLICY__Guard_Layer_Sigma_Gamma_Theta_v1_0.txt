@@ -151,7 +151,7 @@ If:
 
 Σ fails → system abort
 Γ fails → traversal halted or corrected
-Θ fails → result cannot be published
+Θ fails → summary cannot be published
 
 IV. VERSION EVOLUTION
 

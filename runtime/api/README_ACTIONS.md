@@ -18,7 +18,7 @@ See LEGAL_NOTICE.md for full terms.
 
 In GPT Builder → **Actions** → **Import from URL**:
 
-```
+```text
 https://hesperia.prichindel.com/openapi.json
 ```
 
@@ -55,7 +55,7 @@ Variables reference: [CLIENTS/hesperia/VARIABLES.md](../VARIABLES.md) §1 (runti
   `POST https://hesperia.prichindel.com/hesperia/analyze`  
   Headers: `Authorization: Bearer <your-key>`, `Content-Type: application/json`  
   Body: `{"text": "your sentence"}`  
-  - 200 → result with `dominant_area`, `dominant_family`, etc.  
+  - 200 -> SUMMARY payload with `dominant_area`, `dominant_family`, etc.  
   - 400 → ask user for different wording.
 
 Add to GPT instructions: *Use the Hesperia action for semantic attribution. If the API returns 400, ask the user for different wording.*

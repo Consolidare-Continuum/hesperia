@@ -7,7 +7,7 @@ STATUS
 ------
 Target Release: v0.3.1
 Scope Type: Wiring + containment
-Primary Goal: Turn guard concepts into an execution pipeline with clear failure rules.
+Primary Goal: Turn guard concepts into an execution execution_flow with clear failure rules.
 Non-goal: No new geometry, no new features beyond minimal bounded adjustments.
 
 Dependencies (normative):
@@ -19,7 +19,7 @@ Dependencies (normative):
 1. GUARD PIPELINE (NORMATIVE ORDER)
 ============================================================
 
-Every analysis request MUST execute guards in this order:
+Every measurement request MUST execute guards in this order:
 
 1) Σ (Sigma) — Structural / Ontological Integrity
    - If Σ fails with HARD_STOP -> return error (code 500 or 400 depending on fault)
@@ -132,10 +132,10 @@ F) All domain clamps from Σ still hold after Γ/Θ.
 ============================================================
 
 v0.3.1 must include:
-- guard_pipeline.*            (or equivalent wiring module)
+- guard_pipeline.*            (or equivalent wiring component)
 - failure_classes.*           (enum / constants / mapping)
 - gamma_guard.*               (stability checks)
 - theta_gate.*                (final governance gate)
-- tests_guards.*              (pipeline + failure class tests)
+- tests_guards.*              (execution_flow + failure class tests)
 
 END OF SPEC v0.3.1

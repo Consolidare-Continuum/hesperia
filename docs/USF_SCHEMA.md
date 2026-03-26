@@ -14,7 +14,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## Schema and fingerprint
 
-- **USF** (Unit Summary Format): canonical output of the pipeline; includes `usf_version`, `schema_version`, `raw_metrics`, `dynamism_metrics`, `propagation_metrics`, `logic_outputs`, `provenance`, and the structural **fingerprint** used for drift.
+- **USF** (Unit Summary Format): canonical output of the execution_flow; includes `usf_version`, `schema_version`, `raw_metrics`, `dynamism_metrics`, `propagation_metrics`, `logic_outputs`, `provenance`, and the structural **fingerprint** used for drift.
 - **Fingerprint** (for comparison/drift): subset of USF state used by `sphere.usf.drift` and `sphere.usf.fingerprint_diff` — e.g. `structural_state`, `dominant_area_id`, `entropy_state`, `tension_state`, `propagation_state`, `active_events`. Drift formula and thresholds are defined in code and docs; changing them affects comparability.
 - **Comparability**: Two USFs are comparable only if they share the same schema/version. Changing the shape or semantics of the fingerprint or of key USF fields without a version bump breaks drift and regression checks.
 

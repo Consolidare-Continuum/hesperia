@@ -6,9 +6,9 @@ No reproduction, redistribution, or use without explicit written permission.
 See LEGAL_NOTICE.md for full terms.
 -->
 
-# HESPERIA RAD — Layer Pipeline Order
+# HESPERIA RAD — Layer Execution Flow Order
 
-The pipeline executes layers in **strict order**. The runtime registry must match this order.
+The execution_flow executes layers in **strict order**. The runtime registry must match this order.
 
 | Layer | Role |
 |-------|------|
@@ -26,5 +26,5 @@ The pipeline executes layers in **strict order**. The runtime registry must matc
 ## Registry contract
 
 - Layers are registered in a single ordered sequence: L1 → L2 → … → L9.
-- L10 is applied after L9 (interpretation) in the canonical pipeline; it is not a core layer module but sphere interpretation.
+- L10 is applied after L9 (interpretation) in the canonical execution_flow; it is not a core layer component but sphere interpretation.
 - No reordering without design review and update to this document.

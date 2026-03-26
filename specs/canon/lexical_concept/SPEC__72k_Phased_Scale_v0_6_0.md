@@ -18,5 +18,5 @@ Clarify the relationship between DLCR **bounded** hex maps (`HX-*` anchors + `he
 
 ## Acceptance
 
-- Code comments in `core/hexmap` / pipeline refer to **bounded** or **mapped** indices where appropriate.
+- Code comments in `core/hexmap` / execution_flow refer to **bounded** or **mapped** indices where appropriate.
 - This file is linked from hex projection spec and integration runbook.

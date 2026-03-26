@@ -8,7 +8,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 **Status:** CLOSED (2026-03-20)  
 **Scope:** Close gaps between **current DLCR baseline** (schemas, `core/lexical`, `core/resolver`, `core/hexmap`, seed assets, CI regression) and **normative `task.txt` / §28 first-ship**, including **TFP testing collateral** (`run_e2e_tfp_smoke`, `tests/experimental/clinical_tfp/`, `benchmark_sessions.yaml`).
 
-**Closure:** Runbook [ETHAN-DLCR-INTEGRATION-RUNBOOK.md](ETHAN-DLCR-INTEGRATION-RUNBOOK.md). INT-001–INT-020 delivered per board below (canon split, registry, schemas README, pipeline/E2E/TFP/capability wiring, experimental benchmark test, docs).
+**Closure:** Runbook [ETHAN-DLCR-INTEGRATION-RUNBOOK.md](ETHAN-DLCR-INTEGRATION-RUNBOOK.md). INT-001–INT-020 delivered per board below (canon split, registry, schemas README, execution_flow/E2E/TFP/capability wiring, experimental benchmark test, docs).
 
 **Non-goals:** Do not move TFP/clinical into canonical **product** surface without `EXTENSION_STATUS` + projection gate review; integration tasks below keep **experimental / testing** paths explicit.
 
@@ -20,7 +20,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 |------|-------|--------|
 | **W1** | INT-001 — INT-004 | Canon + schemas completion |
 | **W2** | INT-005 — INT-008 | 72k topology + data scale |
-| **W3** | INT-009 — INT-012 | Runtime pipeline + projection |
+| **W3** | INT-009 — INT-012 | Runtime execution_flow + projection |
 | **W4** | INT-013 — INT-016 | Field dynamics + multiscale bridge |
 | **W5** | INT-017 — INT-020 | TFP env + CI + docs |
 
@@ -50,8 +50,8 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 ### `INT-004` — Capabilities / env surface for DLCR
 - **Size:** M  
 - **Depends on:** INT-002  
-- **Artifacts:** `hesperia/system/capabilities.yaml` + `hesperia.system.capabilities` entries: `dlcr_enabled`, `dlcr_fallback`, `dlcr_xi_kme` (document interaction with existing dynamics env).  
-- **Acceptance:** Shipping analysis rejects DLCR flags unless explicitly allowed (product boundary unchanged default-off).
+- **Artifacts:** `hesperia/system/capabilities.yaml` + `hesperia.system.capabilities` entries: `dlcr_enabled`, `dlcr_fallback`, `dlcr_xi_kme` (document coupling with existing dynamics env).  
+- **Acceptance:** Shipping measurement rejects DLCR flags unless explicitly allowed (product boundary unchanged default-off).
 
 ### `INT-005` — Map symbolic hex IDs → engine hex index space
 - **Size:** L  
@@ -86,7 +86,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 ### `INT-010` — Single entry: `run_dlcr_pipeline(text, paths) -> internal_rich`
 - **Size:** L  
 - **Depends on:** INT-007, INT-009  
-- **Artifacts:** `hesperia.engine.lexical_concept.pipeline` or `runtime/pipeline/run_dlcr.py` (package TBD in INT-001): L0→L6 orchestration, emits audit object matching `resolver_output` + hex summaries.  
+- **Artifacts:** `hesperia.engine.lexical_concept.execution_flow` or `runtime/execution_flow/run_dlcr.py` (package TBD in INT-001): L0→L6 orchestration, emits audit object matching `resolver_output` + hex summaries.  
 - **Acceptance:** One function called from tests; deterministic given fixed assets.
 
 ### `INT-011` — Wire DLCR optional branch into `run_structural_analysis` (dev flag)
@@ -116,7 +116,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 ### `INT-015` — E2E artifact: `run_output_e2e_dlcr.json` (optional step)
 - **Size:** M  
 - **Depends on:** INT-010  
-- **Artifacts:** `runtime/pipeline/run_e2e_all.py`: new output when `HESPERIA_E2E_DLCR=1`; document in `docs/E2E_RUN_ORDER.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`.  
+- **Artifacts:** `runtime/execution_flow/run_e2e_all.py`: new output when `HESPERIA_E2E_DLCR=1`; document in `docs/E2E_RUN_ORDER.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`.  
 - **Acceptance:** Manifest lists file only when flag set; builder docs updated.
 
 ### `INT-016` — `run_e2e_capability_matrix` block for DLCR
@@ -146,7 +146,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 ### `INT-020` — Integration checklist + VARIABLE_CATALOG / operator runbook
 - **Size:** S  
 - **Depends on:** INT-001–INT-019 (rolling)  
-- **Artifacts:** `docs/governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md` (env matrix, command list: `pytest …`, `python3 -m runtime.pipeline.run_e2e_all`, validators); update `ETHAN-OPEN-WORKFLOW-PROCEED.md` closure criteria.  
+- **Artifacts:** `docs/governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md` (env matrix, command list: `pytest …`, `python3 -m runtime.execution_flow.run_e2e_all`, validators); update `ETHAN-OPEN-WORKFLOW-PROCEED.md` closure criteria.  
 - **Acceptance:** Operator can run TFP + DLCR from doc without reading this full 20-table.
 
 ---
@@ -155,7 +155,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 
 | Variable | Purpose |
 |----------|---------|
-| `HESPERIA_DLCR_STRUCTURAL` | Optional DLCR branch on structural analysis (INT-011) |
+| `HESPERIA_DLCR_STRUCTURAL` | Optional DLCR branch on structural measurement (INT-011) |
 | `HESPERIA_E2E_DLCR` | Emit `run_output_e2e_dlcr.json` in full E2E (INT-015) |
 | `HESPERIA_TFP_DLCR` | Attach DLCR bundles to TFP smoke artifact (INT-017) |
 | `HESPERIA_FIELD_DYNAMICS_DLCR` | Blend DLCR into field dynamics injection (INT-013) |

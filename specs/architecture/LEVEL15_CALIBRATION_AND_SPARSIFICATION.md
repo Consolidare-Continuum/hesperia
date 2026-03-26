@@ -46,7 +46,7 @@ Ensures version compatibility for distance and trajectory.
 
 ## 5. Cross-session fingerprint distance
 
-**Module:** `hesperia.engine.kme.fingerprint_distance`
+**Component:** `hesperia.engine.kme.fingerprint_distance`
 
 - **cosine_distance(a, b):** 1 - cosine_similarity; range [0, 2].
 - **euclidean_distance(a, b):** L2 between 41-dim vectors.
@@ -57,7 +57,7 @@ Use for: patient similarity, therapy progress, cluster detection.
 
 ## 6. Visualization
 
-**Module:** `hesperia.visualization.session_graph`
+**Component:** `hesperia.visualization.session_graph`
 
 - **export_graph_gexf(graph, path):** write hierarchical graph to GEXF.
 - **export_graph_graphml(graph, path):** write to GraphML.
@@ -66,22 +66,22 @@ Use for: patient similarity, therapy progress, cluster detection.
 
 ## 7. Transcript ingestion
 
-**Module:** `hesperia.nlp.transcript_parser`
+**Component:** `hesperia.nlp.transcript_parser`
 
 - **parse_speaker_turns(text):** list of Turn(speaker, text, turn_index); detects "Пациент:", "Терапевт:", "Patient:", "Therapist:".
 - **segment_by_speaker(text):** {"patient": [...], "therapist": [...]}.
-- **get_patient_text_only(text):** concatenated patient turns for analysis.
+- **get_patient_text_only(text):** concatenated patient turns for measurement.
 
-Improves detection when input is turn-segmented TFP transcripts.
+Improves detection when raw_text is turn-segmented TFP transcripts.
 
 ## 8. Speaker-aware session parsing (LEVEL 15)
 
-**Module:** `hesperia.nlp.session_structure` + `hesperia.nlp.session_parser`
+**Component:** `hesperia.nlp.session_structure` + `hesperia.nlp.session_parser`
 
 - **Utterance(speaker, text, tokens):** single turn; `speaker` is `"patient"` or `"therapist"`.
 - **parse_session_dialogue(text):** split by "Patient:" / "Therapist:" lines; unlabeled lines default to patient. Each utterance gets tokenize + normalize → `tokens`.
-- **analyze_session_speaker_aware(text, ...):** pipeline: parse_session_dialogue → tokenize per utterance → detect_markers → speaker-weighted activation → optional propagation.
+- **analyze_session_speaker_aware(text, ...):** execution_flow: parse_session_dialogue → tokenize per utterance → detect_markers → speaker-weighted activation → optional propagation.
 - **Weights:** patient markers = 1.0 (mental dynamics), therapist markers = 0.5 (intervention). Constants: `PATIENT_MARKER_WEIGHT`, `THERAPIST_MARKER_WEIGHT`.
-- **Result shape:** `areas`, `families`, `concepts` (combined weighted) + `speaker_activation`: `{ "patient": { areas, families, concepts }, "therapist": { ... } }`.
+- **Summary shape:** `areas`, `families`, `concepts` (combined weighted) + `speaker_activation`: `{ "patient": { areas, families, concepts }, "therapist": { ... } }`.
 
-Pipeline: text → parse_session_dialogue → tokenize → detect_markers → speaker-weighted activation → propagation → Clinical ActiveGraph → KME. Prepares for transference/countertransference/role induction.
+Execution Flow: text → parse_session_dialogue → tokenize → detect_markers → speaker-weighted activation → propagation → Clinical ActiveGraph → KME. Prepares for transference/countertransference/role induction.

@@ -23,7 +23,7 @@ This document defines **what may be tuned**, **how search is gated**, and **wher
 
 ## 3. Registry (binding location)
 
-- **Class B registry:** `assets/calibration/dynamics_parameter_registry.yaml` (module path references must match `EXTENSION_STATUS.yaml` / `hesperia.extensions.dynamics`).
+- **Class B registry:** `assets/calibration/dynamics_parameter_registry.yaml` (component path references must match `EXTENSION_STATUS.yaml` / `hesperia.extensions.dynamics`).
 - **Semantic field v1 JSON:** `assets/calibration/semantic_field_equations_v1.json` — parameters for Euler step in §6 of [semantic_field_dynamics.md](../dynamics/semantic_field_dynamics.md).
 
 ## 4. Procedure (binding)

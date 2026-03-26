@@ -9,10 +9,10 @@ Applies to: Any "intended structural behavior" constraint, not LLM roles
 
 Extend Layer-1 with normative, deterministic math that compares observed activation
 patterns to an externally defined Structure Profile. The profile represents the
-intended/allowed structural shape for a given context (task type, pipeline stage,
+intended/allowed structural shape for a given context (task type, execution_flow stage,
 policy, document class, system mode, etc.).
 
-Layer-1 remains input-bound and non-inferential: it does not decide which profile to use.
+Layer-1 remains raw_text-bound and non-inferential: it does not decide which profile to use.
 
 2. Invariants
 
@@ -29,7 +29,7 @@ L1 output MUST include:
 - PROFILE_MODE_ACTIVE: bool
   - False → 34_SPEC only (no profile supplied)
   - True → 34_SPEC N1 metrics computed and valid
-Never infer profile mode by checking PCS or other derived fields; set from presence of profile input only.
+Never infer profile mode by checking PCS or other derived fields; set from presence of profile raw_text only.
 
 4. Responsibility: Who Defines Profiles
 
@@ -50,7 +50,7 @@ This prevents uncontrolled profile sprawl. Non-canonical or one-off profiles may
 
 Minimal core set (frozen first): UNIFORM_ENVELOPE, BROAD_ANALYSIS_ENVELOPE, FOCUSED_DOMAIN_ENVELOPE, LOW_ALTITUDE_ENVELOPE, HIGH_ALTITUDE_ENVELOPE, HARD_BOUNDARY.
 
-5. New Required Input (when in profile mode)
+5. New Required Raw_text (when in profile mode)
 
 - profile_id: string
 - profile: StructureProfile (resolved externally OR supplied inline)

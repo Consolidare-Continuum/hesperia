@@ -54,14 +54,14 @@ Record: PASS if package contains only binary, image tar, examples, public schema
 
 | Channel | What reviewer could try | Mitigation / Expected |
 |---------|-------------------------|------------------------|
-| **Command names** | Infer pipeline from "analyze", "compare", "batch-analyze". | Product-shaped; no "L1", "layer", "sphere". PASS if only these four. |
+| **Command names** | Infer execution_flow from "analyze", "compare", "batch-analyze". | Product-shaped; no "L1", "layer", "sphere". PASS if only these four. |
 | **Strings in binary** | Extract strings to find formulas or structure. | Nuitka + strip; no obvious topology strings. PASS if scan (1) clean. |
 | **Outputs** | Infer 12 areas or 288 families from response shape. | Projection: 10 macro-domains, 240 policy families; no reserved indices. PASS if outputs match public schema. |
 | **Docs** | Read quickstart or bundled governance. | No internal method; only usage and limitations. PASS if no layer/topology description. |
 | **Schemas** | Infer geometry from property names. | public_output_schema uses macro_domain_vector, policy_family_counts. PASS if no side_id, hex, area_id. |
 | **Image layout** | Inspect filesystem in container. | Only /app with runtime, core, lexicon, assets. No docs/internal. PASS if layout minimal. |
 
-**Result:** Document each channel as PASS or FAIL. Overall: PASS if a reviewer cannot reconstruct the internal model (sphere, hex grid, layer count, bridge logic, propagation method) from the shipped artifact alone.
+**Summary:** Document each channel as PASS or FAIL. Overall: PASS if a reviewer cannot reconstruct the internal model (sphere, hex grid, layer count, bridge logic, propagation method) from the shipped artifact alone.
 
 **Done when:** Major reconstruction channels are blocked or reduced to low-value hints (no high-value leak from commands, outputs, strings, docs, schemas, or image layout).
 

@@ -108,4 +108,17 @@ Use **P0 / P1 / P2** or **Keep / Merge / Split / Deprecate**.
 
 ---
 
+## 7. Follow-on task — vocabulary migration (Grace + team, Ethan request)
+
+**Separate from §1 corpus pass:** adopt **R1–R10** (metric cascade), **Tier 0–11** (dependency), **F0–F10** (Ethan field phases), **Attribution**, **multiscale chain** — see [LAYER_VOCABULARY_AND_STRUCTURE.md](../LAYER_VOCABULARY_AND_STRUCTURE.md).
+
+| Item | Location |
+|------|----------|
+| **Grace + team task** | [TASK-GRACE-VOCABULARY-R-TIER-F-MIGRATION.md](../governance/working/TASK-GRACE-VOCABULARY-R-TIER-F-MIGRATION.md) |
+| **File/term checklist (plan only)** | [ETHAN-VOCABULARY-MIGRATION-INVENTORY.md](../governance/working/ETHAN-VOCABULARY-MIGRATION-INVENTORY.md) |
+
+**Suggested report line:** In `GRACE_TRIAGE_REPORT.md`, add a **Vocabulary / naming** subsection: Tier A doc status, conflicts with §3 item 2 (dependency vs L0–L10), and whether Ethan Part A **F** semantic table is complete.
+
+---
+
 *Triage task created for Grace — spec corpus consolidation.*

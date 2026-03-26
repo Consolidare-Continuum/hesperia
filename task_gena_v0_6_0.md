@@ -6,7 +6,7 @@ Ticket range: `DLCR-001` to `DLCR-020`
 
 ## Objective
 
-Deliver a deterministic, auditable pipeline:
+Deliver a deterministic, auditable execution_flow:
 
 `text -> normalization -> lexical evidence -> concept resolution -> hex projection -> hex dynamics -> family/area aggregation -> outputs`
 
@@ -14,7 +14,7 @@ This plan expands the 12 normative tasks from `task.txt` into 20 Cursor-run task
 
 ## Delivery rules
 
-- Determinism first: same input + same resources => same output.
+- Determinism first: same raw_text + same resources => same output.
 - No direct word-to-family default path.
 - Every decision path must be auditable.
 - Resource changes must trigger regression checks.
@@ -110,7 +110,7 @@ This plan expands the 12 normative tasks from `task.txt` into 20 Cursor-run task
 - **Acceptance:**
   - Emits engine/resource versions, mode, deterministic signature.
 
-### `DLCR-009` Implement normalization module (L0)
+### `DLCR-009` Implement normalization component (L0)
 - **Size:** L
 - **Depends on:** `DLCR-001`
 - **Artifacts:**

@@ -589,12 +589,12 @@ def analyze(
     initial_S: list[float] | None = None,
     initial_L: list[float] | None = None,
 ) -> dict[str, Any]:
-    """Produce 6-key result (raw). If initial_S/initial_L provided (length 5), use as seed; else demo defaults."""
+    """Produce 6-key summary (raw). If initial_S/initial_L provided (length 5), use as seed; else demo defaults."""
     return _analyze_raw(initial_S=initial_S, initial_L=initial_L)
 
 
 def run_api() -> dict[str, Any]:
-    """API path: analyze() → Sigma.enforce(result) → return. No bypass. Sigma guaranteed."""
+    """API path: analyze() → Sigma.enforce(summary) → return. No bypass. Sigma guaranteed."""
     try:
         from core.propagation.invariant_enforcer import enforce as sigma_enforce
     except ImportError:

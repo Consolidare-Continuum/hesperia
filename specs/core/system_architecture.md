@@ -5,7 +5,7 @@ status: canonical
 id: HES-SPEC-CORE-SYSTEM-ARCH
 ---
 
-# Core system architecture — canonical pipeline
+# Core system architecture — canonical execution_flow
 
 ## 1. Multiscale chain (binding order)
 

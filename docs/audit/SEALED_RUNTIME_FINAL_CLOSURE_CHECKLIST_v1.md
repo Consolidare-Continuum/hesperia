@@ -11,14 +11,14 @@
 
 **Allowed import path:**
 - `runtime/shipping/*` → `core.services.analysis_service` (and `runtime.artifact_writer` for writes)
-- No other compute imports allowed (no core.layers, core.attribution, sphere.pipeline, etc.)
+- No other compute imports allowed (no core.layers, core.attribution, sphere.execution_flow, etc.)
 
 **Procedure:**
 ```bash
 python3 tools/check_import_boundary.py
 ```
 
-**Expected:** Exit code 0. No violations in runtime/shipping, runtime/pipeline (non-excluded), runtime/runners, runtime/api, runtime/public_reports, runtime/artifact_writer.
+**Expected:** Exit code 0. No violations in runtime/shipping, runtime/execution_flow (non-excluded), runtime/runners, runtime/api, runtime/public_reports, runtime/artifact_writer.
 
 **Pass:** Exit code 0.  
 **Fail:** Fix imports so shipping and public runtime use only core.services and allowed modules; re-run until 0.
@@ -151,13 +151,13 @@ tar -tf hesperia-release.tar
 
 **Correct answer:** **No.**
 
-**The only visible concept should be:** *structural analysis engine* (text → structural analysis → evidence + metrics).
+**The only visible concept should be:** *structural measurement engine* (text → structural measurement → evidence + metrics).
 
 **What Upcelerator reviewers will actually see:**
-- A product that behaves like: **text → structural analysis → evidence + metrics.**
+- A product that behaves like: **text → structural measurement → evidence + metrics.**
 - They will **not** see: sphere model, hex topology, layer system, dictionary mechanics, propagation graph.
 
-**Pass:** After reviewing bundle (CLI, API, examples, README, schema), the only reasonable conclusion is “structural analysis engine”; internal geometry, layer count, dictionary mechanics, propagation, and reserved structure are not inferable.  
+**Pass:** After reviewing bundle (CLI, API, examples, README, schema), the only reasonable conclusion is “structural measurement engine”; internal geometry, layer count, dictionary mechanics, propagation, and reserved structure are not inferable.  
 **Fail:** Remove or reword any channel (outputs, help, schema, docs) that reveals the above; re-run reflection test.
 
 ---
@@ -167,7 +167,7 @@ tar -tf hesperia-release.tar
 **Requirement:** Batch and API scale reasonably; no obvious memory growth; API rate limit respected.
 
 **Procedure:**
-- Run `./hesperia-cli.bin batch-analyze` with ~100 texts (e.g. via --input or --texts). Observe runtime and memory (e.g. with `time` or a profiler).
+- Run `./hesperia-cli.bin batch-analyze` with ~100 texts (e.g. via --raw_text or --texts). Observe runtime and memory (e.g. with `time` or a profiler).
 - Call API at or above rate limit; confirm 429 and no crash.
 
 **Check:**

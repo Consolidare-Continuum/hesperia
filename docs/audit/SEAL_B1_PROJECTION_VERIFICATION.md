@@ -28,12 +28,12 @@ Ensure **absence** of the following in any emitted artifact (JSON outputs, logs,
 
 ## Procedure
 
-1. **Run public runners** with fixed input (e.g. default text):
-   - `python3 -m runtime.pipeline.run_l1_through_l9 --text "justice fairness" --out /tmp/b1_out.json`
+1. **Run public runners** with fixed raw_text (e.g. default text):
+   - `python3 -m runtime.execution_flow.run_l1_through_l9 --text "justice fairness" --out /tmp/b1_out.json`
    - `python3 -m runtime.runners.run_reference_pipeline --text "justice" --out /tmp/b1_ref.json`
-   - `python3 -m runtime.pipeline.run_l1_l2 --out /tmp/b1_l2.json`
-   - `python3 -m runtime.pipeline.run_l1_l2_l3 --out /tmp/b1_l3.json`
-   - `python3 -m runtime.pipeline.run_sphere_math_values --out /tmp/b1_vals.json`
+   - `python3 -m runtime.execution_flow.run_l1_l2 --out /tmp/b1_l2.json`
+   - `python3 -m runtime.execution_flow.run_l1_l2_l3 --out /tmp/b1_l3.json`
+   - `python3 -m runtime.execution_flow.run_sphere_math_values --out /tmp/b1_vals.json`
 
 2. **Inspect:**
    - **JSON outputs:** Open each output file; search (case-insensitive) for: `hex`, `sphere`, `side_id`, `topology`, `12 areas`, `288 families`, `coordinates`, `3D`, `propagation path`, `bridge nodes`. None should appear as key names or in string values that expose internal structure.
@@ -45,7 +45,7 @@ Ensure **absence** of the following in any emitted artifact (JSON outputs, logs,
 
 ---
 
-## Expected result
+## Expected summary
 
 - No key or value in emitted JSON/logs/manifests/stdout reveals internal geometry, topology, layer count, or bridge logic.
 - Public vocabulary (e.g. macro_domain, policy_family, structural space) may appear; internal terms must not.

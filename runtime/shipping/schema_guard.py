@@ -23,10 +23,70 @@ FORBIDDEN_RESPONSE_SUBSTRINGS = (
     "analysis_service",
 )
 
+# Ambiguous generic terms that are disallowed as standalone response keys.
+# Goal: force explicit typed vocabulary (e.g. constraint_status, resistance_index).
+AMBIGUOUS_EXACT_KEYS = frozenset(
+    {
+        "model",
+        "topology",
+        "geometry",
+        "propagation",
+        "dynamics",
+        "concept",
+        "mapping",
+        "pipeline",
+        "processing",
+        "result",
+        "feature",
+        "parameter",
+        "input",
+        "signal",
+        "score",
+        "weight",
+        "interaction",
+        "inhibition",
+        "distribution",
+        "dominant",
+        "stability",
+        "loop",
+        "energy",
+        "normalization",
+        "state",
+        "dictionary",
+        "error",
+        "anomaly",
+        "evaluation",
+        "consistency",
+        "drift",
+        "alignment",
+        "semantic",
+        "analysis",
+        "system",
+        "module",
+        "structure",
+        "context",
+        "segment",
+    }
+)
+
+# Backward-compat keys intentionally still allowed for now.
+LEGACY_COMPAT_KEYS = frozenset(
+    {
+        "governance",
+        "loopability",
+        "obstacle_score",
+        "dominant_area",
+        "dominant_family",
+        "error",
+    }
+)
+
 
 def _check_key(key: str) -> None:
     """Raise ValueError if key contains a forbidden substring."""
     kl = key.lower()
+    if kl in AMBIGUOUS_EXACT_KEYS and kl not in LEGACY_COMPAT_KEYS:
+        raise ValueError(f"public_schema_violation: ambiguous standalone key '{key}' is not allowed")
     for bad in FORBIDDEN_KEY_SUBSTRINGS:
         if bad in kl:
             raise ValueError(f"public_schema_violation: key '{key}' contains forbidden term '{bad}'")

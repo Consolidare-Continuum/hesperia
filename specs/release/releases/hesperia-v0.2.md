@@ -38,18 +38,18 @@ See LEGAL_NOTICE.md for full terms.
 8. `apple_involvements.py` — Coverage summary (areas, families, pairs)
 9. `ingest_hesperia_families.py` — Load 288 families into Chroma (layer=hesperia_families)
 10. `run_core_mode_invocation.py` — Plan 1 calibration harness (internal)
-11. `multi_loop_runs_harness.py` — Generate 24-run dataset for traversal analysis
+11. `multi_loop_runs_harness.py` — Generate 24-run dataset for traversal measurement
 12. `hesperia_safeguard_stress_test.py` — Safeguard verification (PASS)
 
 ### Governance Documentation
 - **25+ governance documents signed** (architecture, operators, safeguard spec, observability extension, integration plans)
-- **GOVERNANCE-ORCHESTRATION-HESPERIA.md**: Unified orchestration pipeline (Σ→Γ→Θ→Context RAG→Apple)
+- **GOVERNANCE-ORCHESTRATION-HESPERIA.md**: Unified orchestration execution_flow (Σ→Γ→Θ→Context RAG→Apple)
 - **CONTEXT-RAG-PACKET-SCHEMA.md**: Full packet contract including v0.1 observability block
 - **Safeguard stress-test results**: Proven that safeguard fires correctly after 3 consecutive failures
 
 ### Testing & Quality
 - ✅ Unit tests for all guards (Σ/Γ/Θ)
-- ✅ Integration tests (full pipeline: matrix → context → logic → apple)
+- ✅ Integration tests (full execution_flow: matrix → context → logic → apple)
 - ✅ Stress-tested safeguard (3-fail rule verified)
 - ✅ Smoke tests all pass (matrix_run, context_rag, apple, Plan 1)
 - ✅ Core-mode calibration validated
@@ -92,13 +92,13 @@ python cluster/chroma-server/run_core_mode_invocation.py \
 ## What v0.2 Is NOT
 
 - **Not semantic reasoning layer** (Phase D): Logic stubs ready for upgrade; SATISFY/ENTAILS bounded depth only
-- **Not activation pipeline** (deferred): --activation flag accepts manual activation data files; automation pending
+- **Not activation execution_flow** (deferred): --activation flag accepts manual activation data files; automation pending
 - **Not kernel wiring of capacity doctrine** (Phase D): Waterline principle defined; governance layer only
 - **Not full semantic weight** (Phase D): Per-area weights pending observability integration
 
 ## Known Issues (Phase D Backlog)
 
-- Activation data pipeline not automated (requires external source; manual --activation flag available)
+- Activation data execution_flow not automated (requires external source; manual --activation flag available)
 - Hex.evaluate and semantic operators (SATISFY, ENTAILS) are stubs (ready for Phase D full reasoning)
 - Waterline/capacity doctrine not wired into traversal kernel (governance definition only)
 - obstacleScore composition and decision FSM pending formal specification
@@ -106,12 +106,12 @@ python cluster/chroma-server/run_core_mode_invocation.py \
 
 ## Architecture & Design
 
-**Unified orchestration pipeline** (locked for v0.2):
+**Unified orchestration execution_flow** (locked for v0.2):
 ```
-Input → Σ (static check) → Matrix → Γ (dynamic check) → Logic (safeguard) → Θ (governance) → Context RAG → Apple → Output
+Raw_text → Σ (static check) → Matrix → Γ (dynamic check) → Logic (safeguard) → Θ (governance) → Context RAG → Apple → Output
 ```
 
-All stages **gated** (failure halts); all outputs **deterministic** (same input = same output); all errors **traceable** (error code + detail + stage).
+All stages **gated** (failure halts); all outputs **deterministic** (same raw_text = same output); all errors **traceable** (error code + detail + stage).
 
 ## Deployment
 
@@ -134,7 +134,7 @@ All stages **gated** (failure halts); all outputs **deterministic** (same input 
 ## Next Steps (Phase D)
 
 1. Activate semantics (full reasoning layer)
-2. Implement activation data pipeline (automation)
+2. Implement activation data execution_flow (automation)
 3. Wire waterline/capacity doctrine into kernel
 4. Formalize obstacleScore and decision FSM
 5. Integrate full semantic weight per area

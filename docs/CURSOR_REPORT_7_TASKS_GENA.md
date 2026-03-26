@@ -1,13 +1,13 @@
 # Cursor Report — 7 Tasks Done Today (Gena)
 
 **Date:** 2026-03-13  
-**Scope:** HESPERIA Knowledge Metrics Engine (KME) and domain pipeline (Tasks 1–6 + E2E integration).
+**Scope:** HESPERIA Knowledge Metrics Engine (KME) and domain execution_flow (Tasks 1–6 + E2E integration).
 
 ---
 
 ## Summary
 
-Seven deliverables were completed and are present in the working tree (modified/untracked): **Domain Constants (Task 1)**, **Active Graph (Task 2)**, **Primitive Metrics (Task 3)**, **Derived Metrics (Task 4)**, **Validation & Toy-Graph Tests (Task 5)**, **Fingerprint Engine (Task 6)**, and **KME E2E integration** (pipeline, bridge, export, docs). Code lives under `hesperia/engine/kme/`, `core/domain/`, and `tests/domain/`; specs under `docs/DOMAIN_*` and `docs/KME_DELIVERABLE.md`.
+Seven deliverables were completed and are present in the working tree (modified/untracked): **Domain Constants (Task 1)**, **Active Graph (Task 2)**, **Primitive Metrics (Task 3)**, **Derived Metrics (Task 4)**, **Validation & Toy-Graph Tests (Task 5)**, **Fingerprint Engine (Task 6)**, and **KME E2E integration** (execution_flow, bridge, export, docs). Code lives under `hesperia/engine/kme/`, `core/domain/`, and `tests/domain/`; specs under `docs/DOMAIN_*` and `docs/KME_DELIVERABLE.md`.
 
 ---
 
@@ -69,11 +69,11 @@ Seven deliverables were completed and are present in the working tree (modified/
 
 - **Docs:** `docs/KME_DELIVERABLE.md`, `docs/DOMAIN_E2E_PIPELINE.md`, `docs/DOMAIN_PROFILE.md`
 - **Deliverables:**
-  - Pipeline: text (hits + relations) → Active Graph → Primitives → Derived → Fingerprint → Export (JSON).
+  - Execution Flow: text (hits + relations) → Active Graph → Primitives → Derived → Fingerprint → Export (JSON).
   - `HesperiaPipelineRunner`, `run_pipeline`, `run_document`, `run_corpus`; `metric_report_to_dict`, `export_metric_report_json`.
-  - Bridge from Sphere pipeline to KME; integration in main E2E pipeline.
+  - Bridge from Sphere execution_flow to KME; integration in main E2E execution_flow.
   - Domain profiling (corpus-level).
-- **Code:** `hesperia/engine/kme/pipeline.py`, `hesperia/engine/kme/bridge.py`, `hesperia/engine/kme/loader.py`, `core/domain/pipeline.py`, `core/domain/profile.py`, `core/domain/bridge.py`; `sphere/pipeline/pipeline_runner.py`, `runtime/pipeline/run_e2e_all.py`
+- **Code:** `hesperia/engine/kme/execution_flow.py`, `hesperia/engine/kme/bridge.py`, `hesperia/engine/kme/loader.py`, `core/domain/execution_flow.py`, `core/domain/profile.py`, `core/domain/bridge.py`; `sphere/execution_flow/pipeline_runner.py`, `runtime/execution_flow/run_e2e_all.py`
 - **Tests:** `tests/domain/test_e2e_pipeline.py`, `tests/domain/test_domain_profile.py`; E2E: `tests/test_e2e_flows.py`
 - **Artifacts:** `assets/data/domain_constants.json`, `assets/artifacts/e2e/E2E_OUTPUTS.md` (updated)
 
@@ -81,13 +81,13 @@ Seven deliverables were completed and are present in the working tree (modified/
 
 ## Repository Impact (git status snapshot)
 
-- **Modified:** `AGENTS.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`, `runtime/pipeline/run_e2e_all.py`, `sphere/pipeline/pipeline_runner.py`, `tests/test_e2e_flows.py`
+- **Modified:** `AGENTS.md`, `assets/artifacts/e2e/E2E_OUTPUTS.md`, `runtime/execution_flow/run_e2e_all.py`, `sphere/execution_flow/pipeline_runner.py`, `tests/test_e2e_flows.py`
 - **New/untracked:** `assets/data/domain_constants.json`, `core/domain/`, `docs/DOMAIN_*.md`, `docs/KME_DELIVERABLE.md`, `hesperia/`, `tests/domain/`, `tools/domain_constants_extract.py`
 
 ---
 
 ## Reference
 
-- **KME module:** `hesperia.engine.kme`
+- **KME component:** `hesperia.engine.kme`
 - **Legacy entry:** `core.domain` re-exports from `hesperia.engine.kme` (AGENTS.md)
 - **Fingerprint version:** `hesperia_fp_v0_1`

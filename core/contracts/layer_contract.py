@@ -7,7 +7,7 @@
 """
 HESPERIA layer execution contract.
 All layers (L1–L9) consume LayerInput and produce LayerOutput.
-Single public entry point per layer: run(input: LayerInput) -> LayerOutput.
+Single public entry point per layer: run(input_data: LayerInput) -> LayerOutput.
 """
 
 from __future__ import annotations
@@ -18,7 +18,7 @@ from typing import Any, Dict
 
 @dataclass
 class LayerInput:
-    """Canonical input for every layer. Metadata carries pipeline context and prior layer results."""
+    """Canonical input_data for every layer. Metadata carries execution_flow input_context and prior layer outputs."""
 
     text: str
     tokens: list[str]
@@ -27,10 +27,10 @@ class LayerInput:
 
 @dataclass
 class LayerOutput:
-    """Canonical output from every layer. Result is layer-specific; diagnostics for orchestration and performance."""
+    """Canonical output from every layer. Summary is layer-specific; diagnostics for orchestration and performance."""
 
     layer_id: int
-    result: Dict[str, Any]
+    result: Dict[str, Any]  # compatibility field name; contains per-layer summary values
     diagnostics: Dict[str, Any]
 
 

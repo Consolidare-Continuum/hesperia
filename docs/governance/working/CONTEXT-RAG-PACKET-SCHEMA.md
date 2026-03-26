@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 
 # Context RAG — packet JSON schema
 
-**Purpose**: Contract for the **context packet** returned by `cluster/chroma-server/context_rag.py`. Cursor and automation can rely on this shape. **Ref**: [HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md](HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md). **Core mode (areas and families only)**: [ETHAN-HESPERIA-CORE-MODE-MVP.md](ETHAN-HESPERIA-CORE-MODE-MVP.md) — no retrieval, no statements/books; outputs for logic tests.
+**Purpose**: Contract for the **input_context packet** returned by `cluster/chroma-server/context_rag.py`. Cursor and automation can rely on this shape. **Ref**: [HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md](HESPERIA-RAG-DAEMON-MVP-PROPOSAL-ETHAN.md). **Core mode (areas and families only)**: [ETHAN-HESPERIA-CORE-MODE-MVP.md](ETHAN-HESPERIA-CORE-MODE-MVP.md) — no retrieval, no statements/books; outputs for logic tests.
 
 ---
 
@@ -18,7 +18,7 @@ See LEGAL_NOTICE.md for full terms.
 |-----|------|----------------|-------------|
 | `matrix_source` | string | Yes | `"csv"` or `"chroma"` (source of matrix data for calculable block). |
 | `calculable` | object | Yes | Geometry, path, road, borders, traversal, loopability (same shape as matrix_run output). |
-| `coherence_hints` | object | Yes | Short block for agent to adjust context: current_area_id, suggested_adjacent_areas, traversal_summary, border_passings_count. |
+| `coherence_hints` | object | Yes | Short block for agent to adjust input_context: current_area_id, suggested_adjacent_areas, traversal_summary, border_passings_count. |
 | `observability` | object | Yes | Telemetry only (v0.1): loopability_band, entropy_metric, border_passings_count, direction, ring_distance_from_start, safeguard_events_count. Ref: projects/hesperia/HESPERIA_OBSERVABILITY_EXTENSION_v0_1.md. |
 | `retrieval` | object | No | Present when CLI used with --query or --area_id or --family_name. Contains families[] and optionally chunks[]. |
 
@@ -26,7 +26,7 @@ See LEGAL_NOTICE.md for full terms.
 
 ## 2. `calculable` (object)
 
-Same structure as the JSON returned by `matrix_run.py` (without the top-level `matrix_source` duplicated). All fields from matrix_run are under `calculable`:
+Same topology as the JSON returned by `matrix_run.py` (without the top-level `matrix_source` duplicated). All fields from matrix_run are under `calculable`:
 
 | Key | Type | Description |
 |-----|------|-------------|
@@ -103,4 +103,4 @@ context_rag.py [--path] [--start N] [--direction 1|-1] [--steps N] [--query "...
 
 ---
 
-**SIGNED: Developer (Gena) | context RAG packet schema | 2026-02-17 | governance**
+**SIGNED: Developer (Gena) | input_context RAG packet schema | 2026-02-17 | governance**

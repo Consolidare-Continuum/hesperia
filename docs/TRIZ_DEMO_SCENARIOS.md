@@ -8,13 +8,13 @@
 
 ## 2. Innovation discovery (sparse cross-sector)
 
-- **Input**: `corpus_innovation_sparse`.
+- **Raw_text**: `corpus_innovation_sparse`.
 - **Show**: ranked **Innovation Pressure Score**, rare concept clusters, cross-area reach.
 - **Artifacts**: `demo2_innovation_radar.json`, `demo2_clusters.csv`.
 
 ## 3. Narrative spread (multi-area spillover)
 
-- **Input**: `corpus_narrative_spillover`.
+- **Raw_text**: `corpus_narrative_spillover`.
 - **Show**: route sequence across areas, blockage endpoints, spillover targets.
 - **Artifacts**: `demo3_narrative_monitor.json`, `demo3_routes.csv`, investor snapshot.
 

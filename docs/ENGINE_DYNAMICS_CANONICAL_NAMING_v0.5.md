@@ -8,13 +8,15 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 **Purpose:** One vocabulary for code, docs, and APIs so future work stays aligned with the **sealed dynamics** model. Prefer these terms in new modules and public copy.
 
+**Disambiguation:** Do not overload **L*** across ladders. Use **R1–R10** (metric cascade), **Tier 0–11** (dependency), **F0–F10** (Ethan field phases). See [LAYER_VOCABULARY_AND_STRUCTURE.md](LAYER_VOCABULARY_AND_STRUCTURE.md).
+
 ## Product & release
 
 | Use | Avoid (informal / legacy) |
 |-----|---------------------------|
 | **Hesperia Engine Dynamics** | “Hesperia RAD” alone when meaning the dynamics product line |
 | **v0.5.0** — `pyproject.toml`, `hesperia.__version__`, API OpenAPI, `release_meta.ENGINE_DYNAMICS_VERSION` | Unversioned “dynamics stack”; mismatched version strings across surfaces |
-| **KME** (Knowledge Metrics Engine), module `hesperia.engine.kme` | Scattered “domain metrics” without KME context |
+| **KME** (Knowledge Metrics Engine), component `hesperia.engine.kme` | Scattered “domain metrics” without KME context |
 
 ## Multiscale chain (normative order)
 
@@ -28,7 +30,7 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 ## Python modules ↔ concepts
 
-| Concept | Primary module(s) |
+| Concept | Primary component(s) |
 |---------|-------------------|
 | Sealed one-shot chain | `hesperia.engine.sealed_multiscale_stack` |
 | Hex microphysics | `hesperia.engine.hex_dynamics` |

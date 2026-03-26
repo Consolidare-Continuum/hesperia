@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 # E2E pre-freeze output files
 
 Single manifest of all outputs produced by the canonical E2E run.  
-**Entrypoint:** `python3 -m runtime.pipeline.run_e2e_all [--out-dir path]`  
+**Entrypoint:** `python3 -m runtime.execution_flow.run_e2e_all [--out-dir path]`  
 **Default out-dir:** `assets/artifacts/e2e/`  
 **Run order (modules, dependencies):** `docs/E2E_RUN_ORDER.md`
 
@@ -16,9 +16,9 @@ Single manifest of all outputs produced by the canonical E2E run.
 
 | # | Basename | Description |
 |---|----------|-------------|
-| 1 | `run_output_e2e_sentence.json` | Analyze (6-key + attribution + dict_b + R1–R4); result + extended |
+| 1 | `run_output_e2e_sentence.json` | Analyze (6-key + attribution + dict_b + R1–R4); summary + extended |
 | 2 | `run_output_e2e_l1_l9.json` | L1–L9 + USF + … + **`narrative_microstructure_e2e`** (hex maps + Option A + TFP slice) |
-| 3 | `run_output_e2e_r1_r4.json` | R1–R4 pipeline; units + book_profile |
+| 3 | `run_output_e2e_r1_r4.json` | R1–R4 execution_flow; units + book_profile |
 | 4 | `run_output_e2e_sphere_math_values.json` | Sphere math (L1–L9 values only) for default text |
 | 5 | `run_output_e2e_sphere_math_100.json` | Sphere math on first **3** calibration sentences (smoke) |
 | 5b | `run_output_e2e_calibration_100_structural.json` | Full batch structural rows per sentence (default **100**; `HESPERIA_E2E_CALIBRATION_BATCH_N`) |
@@ -30,7 +30,7 @@ Single manifest of all outputs produced by the canonical E2E run.
 | 10 | `run_output_e2e_tfp_smoke.json` | TFP smoke: structural batch + session stages + speaker-aware + **session_hex_microstructure_tfp** |
 | 10b | `run_output_e2e_hex_microstructure_tfp.json` | Hex microstructure + Option A closure + TFP provenance (primary text + smoke sessions) |
 | 10c | `run_output_e2e_sealed_multiscale.json` | **Sealed multiscale:** hex map sample, **family_activation_vector**, **area_activation_vector**, **hotspot_map**, contradiction/propagation/density, **innovation_index**, **hspr_index** |
-| 10d | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`): DLCR L0→L6 pipeline output for primary E2E text |
+| 10d | `run_output_e2e_dlcr.json` | **Optional** (`HESPERIA_E2E_DLCR=1`): DLCR L0→L6 execution_flow output for primary E2E text |
 | 11 | `run_output_e2e_capability_matrix.json` | Gena sweep + **semantic_field_and_hci**; KME run_document/run_corpus, batch_runner, mvp_acceptance, experiment_runner; multiscale if `HESPERIA_E2E_MULTISCALE=1`; **`dlcr_pipeline`** smoke block |
 | 11a | `run_output_e2e_semantic_field.json` | **Semantic field:** ontology → matrix_builders → equations (see `runtime/configs/semantic_field_ontology_example.json`) |
 | 11b–d | `run_output_e2e_field_calibration.json` (+ `_best`, `_topk`) | **HCI calibration** mini-grid (ontology-derived matrices) |
@@ -42,7 +42,7 @@ Single manifest of all outputs produced by the canonical E2E run.
 
 ## Full encompassing pipe (`run_e2e_full_stack`)
 
-**Entrypoint:** `python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir path]` (default `assets/artifacts/e2e_full_stack/`)  
+**Entrypoint:** `python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir path]` (default `assets/artifacts/e2e_full_stack/`)  
 **Shell:** `./tools/e2e_full_deliverables.sh` → same orchestrator.
 
 Writes **all rows above** (same basenames) **plus:**
@@ -59,6 +59,6 @@ Physics validation + system seal run as part of the pipe (unless `--skip-physics
 `test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **20** files; `test_e2e_run_e2e_all_optional_dlcr_artifact` asserts **21** with `HESPERIA_E2E_DLCR=1`. Calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
 
 ```bash
-python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.execution_flow.run_e2e_all
 pytest tests/test_e2e_flows.py -v
 ```
