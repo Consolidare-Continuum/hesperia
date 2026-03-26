@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-26T08:46:32.205898+00:00",
+  "generated_utc": "2026-03-26T08:50:13.637776+00:00",
   "version_authority": {
     "pass": true,
     "VERSION_yaml_system_version": "0.5.2",
@@ -204,7 +204,7 @@
   },
   "determinism_summary": {
     "pass": true,
-    "canonical_sha256": "b2a15f959211a6d3346814416e508257ad15126fb58b069114527242500d8bdd",
+    "canonical_sha256": "59d89328f05771b4593356b638752faa84b4ec25b40c36d0a193bfafcdb86f49",
     "report_file": "determinism_report.json"
   },
   "schema_validation_summary": {
@@ -233,9 +233,7 @@
     "report_file": "system_seal.json"
   },
   "seal_decision": {
-    "reasons_fail": [
-      "git_worktree_dirty"
-    ],
-    "may_tag_v0_5_2": false
+    "reasons_fail": [],
+    "may_tag_v0_5_2": true
   }
 }

@@ -56,7 +56,7 @@
     "BRAND_WORD_TRUST": "FRAGILE",
     "CANONICAL_PIPELINE": "sealed_multiscale_v1"
   },
-  "build_id": "hesperia_0.5.2_e6b9a228d6ce2704c7a1561a0a1d97e8d2b0abba_2026-03-26T08:46:32Z",
+  "build_id": "hesperia_0.5.2_e1217ab65d009bfbc42f737bfc8cf8f6175ece0a_2026-03-26T08:50:13Z",
   "calibration_profile": "default_v1",
   "diagnostics": {
     "calibration_profile_bundle": "v1",

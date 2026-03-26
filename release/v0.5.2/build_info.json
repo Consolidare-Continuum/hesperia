@@ -1,9 +1,9 @@
 {
   "system_version": "0.5.2",
-  "build_date_utc": "2026-03-26T08:46:32.205898+00:00",
-  "envelope_timestamp_utc": "2026-03-26T08:46:32Z",
-  "git_commit": "e6b9a228d6ce2704c7a1561a0a1d97e8d2b0abba",
-  "git_dirty": true,
+  "build_date_utc": "2026-03-26T08:50:13.637776+00:00",
+  "envelope_timestamp_utc": "2026-03-26T08:50:13Z",
+  "git_commit": "e1217ab65d009bfbc42f737bfc8cf8f6175ece0a",
+  "git_dirty": false,
   "python": "3.10.12",
   "platform": "linux",
   "dependency_lock": {
@@ -18,7 +18,7 @@
     "canonical_input_fixture=tests/fixtures/release_v0_5_0/canonical_input.txt"
   ],
   "determinism": {
-    "generated_utc": "2026-03-26T08:46:32.205898+00:00",
+    "generated_utc": "2026-03-26T08:50:13.637776+00:00",
     "canonical_input_fixture": "tests/fixtures/release_v0_5_0/canonical_input.txt",
     "input_sha256": "2be9cf52481f84967bc560437e8a5e37040508fe60796b351a2644eaae8058ac",
     "input_length_chars": 25,
@@ -26,9 +26,9 @@
     "environment_note": "Set HESPERIA_RELEASE_BUILD_TIMESTAMP + HESPERIA_GIT_COMMIT (via script) for reproducible build_id.",
     "serialization": "json.dumps(..., sort_keys=True, ensure_ascii=False); floats rounded to 10 dp before hash",
     "raw_byte_identical_across_runs": true,
-    "canonical_sha256_run1": "b2a15f959211a6d3346814416e508257ad15126fb58b069114527242500d8bdd",
-    "canonical_sha256_run2": "b2a15f959211a6d3346814416e508257ad15126fb58b069114527242500d8bdd",
-    "canonical_sha256_run3": "b2a15f959211a6d3346814416e508257ad15126fb58b069114527242500d8bdd",
+    "canonical_sha256_run1": "59d89328f05771b4593356b638752faa84b4ec25b40c36d0a193bfafcdb86f49",
+    "canonical_sha256_run2": "59d89328f05771b4593356b638752faa84b4ec25b40c36d0a193bfafcdb86f49",
+    "canonical_sha256_run3": "59d89328f05771b4593356b638752faa84b4ec25b40c36d0a193bfafcdb86f49",
     "hash_match": true,
     "pass": true,
     "failure_reason": null
