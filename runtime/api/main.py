@@ -130,6 +130,11 @@ class AnalyzeBody(BaseModel):
     text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
 
 
+class ProductBody(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    text: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
+
+
 class CompareBody(BaseModel):
     model_config = ConfigDict(extra="forbid")
     text1: str = Field(..., min_length=1, max_length=DEFAULT_TEXT_CAP)
@@ -187,6 +192,39 @@ def health() -> dict[str, Any]:
 
 def _assets_curated() -> Path:
     return _LEXICON_CURATED if _LEXICON_CURATED.is_dir() else _HESPERIA_ROOT / "lexicon" / "curated"
+
+
+@app.post("/product/llm-audit", response_model=None)
+async def product_llm_audit(body: ProductBody, _: None = Depends(verify_bearer)) -> JSONResponse:
+    try:
+        from hesperia.product.service import run_product_profile
+
+        payload = run_product_profile(body.text, "llm_audit")
+        return JSONResponse(content=payload)
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": True, "message": str(e)[:500], "code": 500})
+
+
+@app.post("/product/tfp", response_model=None)
+async def product_tfp(body: ProductBody, _: None = Depends(verify_bearer)) -> JSONResponse:
+    try:
+        from hesperia.product.service import run_product_profile
+
+        payload = run_product_profile(body.text, "tfp_analysis")
+        return JSONResponse(content=payload)
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": True, "message": str(e)[:500], "code": 500})
+
+
+@app.post("/product/fingerprint", response_model=None)
+async def product_fingerprint(body: ProductBody, _: None = Depends(verify_bearer)) -> JSONResponse:
+    try:
+        from hesperia.product.service import run_product_profile
+
+        payload = run_product_profile(body.text, "document_fingerprint")
+        return JSONResponse(content=payload)
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": True, "message": str(e)[:500], "code": 500})
 
 
 @app.post("/hesperia/analyze", response_model=None, operation_id="hesperiaAnalyze")
