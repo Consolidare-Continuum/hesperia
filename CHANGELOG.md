@@ -8,7 +8,23 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 All notable releases of **Hesperia Engine Dynamics** are documented here.  
 **Master index:** [docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)  
-**Release tags:** `v0.5.4` · `hesperia-engine-dynamics-v0.5.4` (current deterministic system seal), `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (previous modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line); historical **`v0.5.1`** / **`v0.5.0`** remain on prior baselines.
+**Release tags:** `v0.5.5` · `hesperia-engine-dynamics-v0.5.5` (current modular TFP mainline seal), `v0.5.4` · `hesperia-engine-dynamics-v0.5.4` (previous deterministic system seal), `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (previous modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line); historical **`v0.5.1`** / **`v0.5.0`** remain on prior baselines.
+
+## v0.5.5 — Modular TFP mainline seal (2026-03-26)
+
+### Scope (v0.5.5)
+
+- Promoted version authority to **0.5.5** across canonical/versioned runtime surfaces.
+- Sealed engine/module wiring where calibrated dict version resolution is handled in mainline via `HESPERIA_CALIB_DICT_VERSION`.
+- Kept release scope to module/main-engine code only; calibration dict artifacts remain uncommitted.
+
+### Verify (v0.5.5)
+
+```bash
+python3 tools/validate_version_consistency.py
+python3 -m pytest tests/test_release_version.py tests/test_tfp_module_main_run.py -q
+HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_1 python3 -m hesperia.run /tmp/hes_in1.txt --config configs/pipeline.yaml --out /tmp/dossier.json --manifest-out /tmp/run_manifest.json
+```
 
 ## v0.5.4 — Deterministic pipeline system seal (2026-03-26)
 

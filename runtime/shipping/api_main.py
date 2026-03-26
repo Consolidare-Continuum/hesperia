@@ -185,7 +185,7 @@ def create_app():
             from runtime.shipping.version_info import VERSION
             ver = VERSION
         except Exception:
-            ver = "0.5.4"
+            ver = "0.5.5"
         print("HESPERIA runtime initialized", file=sys.stderr)
         print(f"version: {ver}", file=sys.stderr)
         print("mode: sealed_evaluator", file=sys.stderr)
@@ -203,7 +203,7 @@ def create_app():
 
                 return {"version": VERSION, "commit": COMMIT, "build": BUILD or "unknown"}
             except Exception:
-                return {"version": "0.5.4", "commit": "unknown", "build": "unknown"}
+                return {"version": "0.5.5", "commit": "unknown", "build": "unknown"}
 
     @app.post("/analyze")
     def analyze(analyze_body: AnalyzeBody = Body(...)):

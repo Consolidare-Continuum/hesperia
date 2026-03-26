@@ -33,7 +33,7 @@ from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 DEFAULT_TEXT_CAP = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
-API_VERSION = "0.5.4"
+API_VERSION = "0.5.5"
 
 API_KEY = os.environ.get("HESPERIA_API_KEY", "").strip()
 API_KEY_NEXT = os.environ.get("HESPERIA_API_KEY_NEXT", "").strip()

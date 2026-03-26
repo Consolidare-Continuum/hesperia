@@ -2,15 +2,15 @@
 # All public outputs MUST trace to these fields + build_id (injected at runtime).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-system_version: "0.5.4"
-release_stage: "deterministic_pipeline_system"
+system_version: "0.5.5"
+release_stage: "modular_tfp_mainline"
 
 components:
-  core_engine: "0.5.4"
-  dynamics: "0.5.4"
-  triz: "0.5.4"
-  clinical: "0.5.4-modular"
-  calibration: "0.5.4"
+  core_engine: "0.5.5"
+  dynamics: "0.5.5"
+  triz: "0.5.5"
+  clinical: "0.5.5-modular"
+  calibration: "0.5.5"
 
 schema:
   public_output: "v1"
