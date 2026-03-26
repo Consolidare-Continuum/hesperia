@@ -3,7 +3,7 @@ modules:
   - core.dict_a
   - core.dict_b
   - topology.core
-  - tfp.v1
+  - tfp
   - metrics.base
 
 module_config:

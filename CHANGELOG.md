@@ -8,7 +8,26 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 All notable releases of **Hesperia Engine Dynamics** are documented here.  
 **Master index:** [docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)  
-**Release tags:** `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (current modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line), `v0.5.1` · `hesperia-engine-dynamics-v0.5.1` (previous seal); historical **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`** remain on the prior baseline commit.
+**Release tags:** `v0.5.4` · `hesperia-engine-dynamics-v0.5.4` (current deterministic system seal), `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (previous modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line); historical **`v0.5.1`** / **`v0.5.0`** remain on prior baselines.
+
+## v0.5.4 — Deterministic pipeline system seal (2026-03-26)
+
+### Scope (v0.5.4)
+
+- Replaced linear module execution with phase-aware DAG execution and cycle hard-fail checks.
+- Added strict module contracts: factory loading, output schemas, capability/phase requirements, and guarded write/read isolation.
+- Added reproducibility system primitives: immutable phase snapshots, deterministic per-phase hashes, version manifest, and run manifest.
+- Added system operations entrypoints: `python -m hesperia.run`, `python -m hesperia.batch`, `tools/compare_runs.py`, and determinism/contract test coverage.
+- Added aggregation/conflict controls with module weight/priority strategy handling and tolerant/strict failure containment.
+
+### Verify (v0.5.4)
+
+```bash
+python3 tools/validate_version_consistency.py
+python3 -m pytest tests/test_engine_api_v1.py tests/test_engine_language_contract.py tests/test_determinism.py -q
+python3 -m hesperia.test_module tfp
+python3 -m hesperia.run /tmp/hes_in1.txt --config configs/pipeline.yaml --out /tmp/dossier.json --manifest-out /tmp/run_manifest.json
+```
 
 ## v0.5.3 — Sealed modular TFP onboard release (2026-03-26)
 

@@ -4,15 +4,15 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from hesperia.engine.calculus import concepts_to_family_area_scores
-from hesperia.engine.language import AREA_SCORES, AREAS, CONCEPT_HITS, FAMILIES, FAMILY_SCORES
 
-class Module:
+
+class DictBModule:
     name = "core.dict_b"
     version = "v1"
-    requires = ["core.dict_a"]
-
-    def register(self, engine) -> None:
-        self.engine = engine
+    provides = {"project": ["family_scores_raw", "area_scores_raw"]}
+    requires = {"project": ["concept_hits"]}
+    capabilities = {"preprocess": False, "project": True, "postprocess": False}
+    output_schema = {"family_scores": dict, "area_scores": dict, "families": list, "areas": list}
 
     def configure(self, config: dict) -> None:
         rows = list(config.get("entries") or [])
@@ -27,21 +27,17 @@ class Module:
             if cid:
                 self.map[cid] = row
 
-    def load(self) -> None:
-        pass
-
-    def preprocess(self, ctx: dict) -> None:
-        pass
-
     def project(self, ctx: dict) -> None:
+        concept_hits = list((ctx.get("modules") or {}).get("core.dict_a", {}).get("concept_hits") or [])
         family_scores, area_scores, families, areas = concepts_to_family_area_scores(
-            list(ctx.get(CONCEPT_HITS) or []), self.map
+            concept_hits, self.map
         )
-        ctx[FAMILY_SCORES] = family_scores
-        ctx[AREA_SCORES] = area_scores
-        ctx[FAMILIES] = families
-        ctx[AREAS] = areas
+        ctx["modules"][self.name]["family_scores"] = family_scores
+        ctx["modules"][self.name]["area_scores"] = area_scores
+        ctx["modules"][self.name]["families"] = families
+        ctx["modules"][self.name]["areas"] = areas
 
-    def postprocess(self, ctx: dict) -> None:
-        pass
+
+def create() -> DictBModule:
+    return DictBModule()
 

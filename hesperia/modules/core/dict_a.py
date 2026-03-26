@@ -4,13 +4,13 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-class Module:
+class DictAModule:
     name = "core.dict_a"
     version = "v1"
-    requires = ["nlp.basic"]
-
-    def register(self, engine) -> None:
-        self.engine = engine
+    provides = {"project": ["concept_hits"]}
+    requires = {"project": ["normalized_tokens"]}
+    capabilities = {"preprocess": False, "project": True, "postprocess": False}
+    output_schema = {"concept_hits": list}
 
     def configure(self, config: dict) -> None:
         rows = list(config.get("entries") or [])
@@ -26,18 +26,14 @@ class Module:
                 continue
             self.entries[nf] = list(row.get("candidate_concept_ids") or [])
 
-    def load(self) -> None:
-        pass
-
-    def preprocess(self, ctx: dict) -> None:
-        pass
-
     def project(self, ctx: dict) -> None:
         hits: list[str] = []
-        for token in list(ctx.get("tokens") or []):
+        tokens = list((ctx.get("modules") or {}).get("nlp.basic", {}).get("tokens") or [])
+        for token in tokens:
             hits.extend(self.entries.get(str(token), []))
-        ctx["concept_hits"] = sorted(hits)
+        ctx["modules"][self.name]["concept_hits"] = sorted(hits)
 
-    def postprocess(self, ctx: dict) -> None:
-        pass
+
+def create() -> DictAModule:
+    return DictAModule()
 

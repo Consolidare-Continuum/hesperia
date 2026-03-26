@@ -5,29 +5,24 @@ from __future__ import annotations
 from core.lexical.normalization import normalize_text
 
 
-class Module:
+class NLPModule:
     name = "nlp.basic"
     version = "v1"
-    requires: list[str] = []
-
-    def register(self, engine) -> None:
-        self.engine = engine
+    provides = {"preprocess": ["normalized_tokens", "canonical_text"]}
+    requires: dict[str, list[str]] = {"preprocess": ["input.text"]}
+    capabilities = {"preprocess": True, "project": False, "postprocess": False}
+    output_schema = {"tokens": list, "canonical_text": str}
 
     def configure(self, config: dict) -> None:
         self.stopwords = set(config.get("stopwords", []))
 
-    def load(self) -> None:
-        pass
-
     def preprocess(self, ctx: dict) -> None:
-        pass
-
-    def project(self, ctx: dict) -> None:
-        norm = normalize_text(str(ctx.get("text") or ""))
+        norm = normalize_text(str((ctx.get("input") or {}).get("text") or ""))
         tokens = [t for t in (norm.get("tokens") or []) if t and t not in self.stopwords]
-        ctx["tokens"] = tokens
-        ctx["artifacts"]["canonical_text"] = norm.get("canonical_text", "")
+        ctx["modules"][self.name]["tokens"] = tokens
+        ctx["modules"][self.name]["canonical_text"] = norm.get("canonical_text", "")
 
-    def postprocess(self, ctx: dict) -> None:
-        pass
+
+def create() -> NLPModule:
+    return NLPModule()
 

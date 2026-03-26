@@ -9,7 +9,7 @@ from hesperia.engine.language import language_schema, validate_signals
 def test_language_schema_has_ctx_signal_result() -> None:
     schema = language_schema()
     assert set(schema.keys()) == {"ctx", "signal", "result"}
-    assert "engine_context" in schema["ctx"]
+    assert "modules" in schema["ctx"]
 
 
 def test_signal_contract_validation_codes() -> None:
@@ -22,7 +22,16 @@ def test_signal_contract_validation_codes() -> None:
 
 
 def test_engine_context_guard_blocks_mutation() -> None:
-    ctx = GuardedContext({"engine_context": {}}, protected_keys={"engine_context"})
-    with pytest.raises(ValueError, match="engine_context_readonly_mutation_blocked"):
-        ctx["engine_context"] = {"x": 1}
-    assert "blocked_mutation:engine_context" in ctx.mutation_log
+    ctx = GuardedContext({"input": {}, "signals": {}, "families": {}, "areas": {}, "metrics": {}, "modules": {}})
+    ctx.allow(module="tfp.v1", path="modules.tfp.v1.*")
+    with pytest.raises(ValueError, match="engine_context_module_scope_violation"):
+        ctx["metrics"] = {"x": 1}
+    assert "blocked_module_write:tfp.v1:metrics" in ctx.mutation_log
+
+
+def test_engine_context_guard_blocks_forbidden_read_scope() -> None:
+    ctx = GuardedContext({"input": {}, "signals": {}, "families": {}, "areas": {}, "metrics": {}, "modules": {}, "meta": {}})
+    ctx.allow(module="tfp.v1", path="modules.tfp.v1.*")
+    ctx.allow_read(module="tfp.v1", path="signals.*")
+    with pytest.raises(ValueError, match="engine_context_read_scope_violation"):
+        _ = ctx.get("modules")

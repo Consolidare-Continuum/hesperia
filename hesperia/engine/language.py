@@ -1,23 +1,8 @@
-"""Canonical Hesperia language: context variables and constructors."""
+"""Canonical Hesperia language: signal + result schemas."""
 
 from __future__ import annotations
 
 from typing import Any, TypedDict
-
-TEXT = "text"
-TOKENS = "tokens"
-CONCEPT_HITS = "concept_hits"
-FAMILIES = "families"
-FAMILY_SCORES = "family_scores"
-AREAS = "areas"
-AREA_SCORES = "area_scores"
-METRICS = "metrics"
-ARTIFACTS = "artifacts"
-SIGNALS = "signals"
-ENGINE_CONTEXT = "engine_context"
-TFP_VECTOR = "tfp_vector"
-TFP_PROFILE = "tfp_profile"
-TFP_CONFLICTS = "tfp_conflicts"
 
 
 class HesperiaSignal(TypedDict):
@@ -40,59 +25,15 @@ class HesperiaResultRef(TypedDict, total=False):
     deterministic_hash: str
 
 
-class HesperiaContext(TypedDict):
-    text: str
-    tokens: list[str]
-    concept_hits: list[str]
-    families: list[str]
-    family_scores: dict[str, float]
-    areas: list[str]
-    area_scores: dict[str, float]
-    metrics: dict[str, Any]
-    artifacts: dict[str, Any]
-    signals: list[HesperiaSignal]
-    engine_context: dict[str, Any]
-    tfp_vector: dict[str, float]
-    tfp_profile: dict[str, Any]
-    tfp_conflicts: list[str]
-
-
-def build_ctx(text: str) -> HesperiaContext:
-    return {
-        TEXT: str(text),
-        TOKENS: [],
-        CONCEPT_HITS: [],
-        FAMILIES: [],
-        FAMILY_SCORES: {},
-        AREAS: [],
-        AREA_SCORES: {},
-        METRICS: {},
-        ARTIFACTS: {},
-        SIGNALS: [],
-        ENGINE_CONTEXT: {},
-        TFP_VECTOR: {},
-        TFP_PROFILE: {},
-        TFP_CONFLICTS: [],
-    }
-
-
 def language_schema() -> dict[str, Any]:
     return {
         "ctx": {
-            TEXT: "str",
-            TOKENS: "list[str]",
-            CONCEPT_HITS: "list[str]",
-            FAMILIES: "list[str]",
-            FAMILY_SCORES: "dict[str,float]",
-            AREAS: "list[str]",
-            AREA_SCORES: "dict[str,float]",
-            METRICS: "dict[str,Any]",
-            ARTIFACTS: "dict[str,Any]",
-            SIGNALS: "list[signal]",
-            ENGINE_CONTEXT: "dict[str,Any](read-only for modules)",
-            TFP_VECTOR: "dict[str,float]",
-            TFP_PROFILE: "dict[str,Any]",
-            TFP_CONFLICTS: "list[str]",
+            "input": "dict{text:str,signals:list[signal]}",
+            "signals": "dict[str,Any]",
+            "families": "dict[str,float]",
+            "areas": "dict[str,float]",
+            "metrics": "dict[str,Any]",
+            "modules": "dict[module_name,dict[str,Any]]",
         },
         "signal": {"family_id": "int", "strength": "float", "source": "str|None"},
         "result": {

@@ -3,36 +3,35 @@
 from __future__ import annotations
 
 from hesperia.engine.calculus import compute_metrics_bundle
-from hesperia.engine.language import AREA_SCORES, FAMILY_SCORES, METRICS
 
 
-class Module:
+class MetricsModule:
     name = "metrics.base"
     version = "v1"
-    requires = ["topology.core"]
-
-    def register(self, engine) -> None:
-        self.engine = engine
+    provides = {"project": ["metrics_bundle"]}
+    requires = {"project": ["family_scores_raw", "area_scores_normalized"]}
+    capabilities = {"preprocess": False, "project": True, "postprocess": False}
+    output_schema = {"metrics": dict, "area_scores": dict, "family_scores": dict}
 
     def configure(self, config: dict) -> None:
         self.family_count = int(config.get("family_count", 24))
         self.area_count = int(config.get("area_count", 12))
 
-    def load(self) -> None:
-        pass
-
-    def preprocess(self, ctx: dict) -> None:
-        pass
-
     def project(self, ctx: dict) -> None:
+        modules = ctx.get("modules") or {}
+        area_scores = dict(modules.get("topology.core", {}).get("area_scores") or {})
+        family_scores = dict(modules.get("core.dict_b", {}).get("family_scores") or {})
         metrics = compute_metrics_bundle(
-            area_scores=dict(ctx.get(AREA_SCORES) or {}),
-            family_scores=dict(ctx.get(FAMILY_SCORES) or {}),
+            area_scores=area_scores,
+            family_scores=family_scores,
             area_count=self.area_count,
             family_count=self.family_count,
         )
-        ctx[METRICS] = metrics
+        ctx["modules"][self.name]["metrics"] = metrics
+        ctx["modules"][self.name]["area_scores"] = area_scores
+        ctx["modules"][self.name]["family_scores"] = family_scores
 
-    def postprocess(self, ctx: dict) -> None:
-        pass
+
+def create() -> MetricsModule:
+    return MetricsModule()
 
