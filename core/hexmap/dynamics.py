@@ -2,37 +2,97 @@
 
 from __future__ import annotations
 
+from core.dynamics.operator import compute_h_total
+from core.state.semantic_state import SemanticState
 
-def apply_decay(hex_state: dict[str, float], decay: float = 0.05) -> dict[str, float]:
-    return {k: max(0.0, v * (1.0 - decay)) for k, v in hex_state.items()}
+
+def _as_state(state: SemanticState | dict[str, float]) -> SemanticState:
+    if isinstance(state, SemanticState):
+        return state
+    return SemanticState(mass_vector={k: float(v) for k, v in state.items()})
 
 
-def concentration_index(hex_state: dict[str, float]) -> float:
-    total = sum(hex_state.values())
+def apply_decay(state: SemanticState | dict[str, float], decay: float = 0.05) -> SemanticState | dict[str, float]:
+    st = _as_state(state)
+    next_mass, _ = compute_h_total(
+        st.mass_vector,
+        {
+            "decay": decay,
+            "coupling_alpha": 0.0,
+            "inhibition_alpha": 0.0,
+        },
+    )
+    out = st.with_mass(next_mass)
+    if isinstance(state, SemanticState):
+        return out
+    return out.mass_vector
+
+
+def apply_decay_with_diagnostics(
+    state: SemanticState | dict[str, float], decay: float = 0.05
+) -> tuple[SemanticState | dict[str, float], dict[str, float | bool]]:
+    st = _as_state(state)
+    next_mass, diagnostics = compute_h_total(
+        st.mass_vector,
+        {
+            "decay": decay,
+            "coupling_alpha": 0.0,
+            "inhibition_alpha": 0.0,
+        },
+    )
+    out = st.with_mass(next_mass)
+    if isinstance(state, SemanticState):
+        return out, diagnostics
+    return out.mass_vector, diagnostics
+
+
+def concentration_index(state: SemanticState | dict[str, float]) -> float:
+    st = _as_state(state)
+    total = sum(st.mass_vector.values())
     if total <= 0:
         return 0.0
-    peak = max(hex_state.values())
+    peak = max(st.mass_vector.values())
     return peak / total
 
 
-def dispersion_index(hex_state: dict[str, float]) -> float:
-    total = sum(hex_state.values())
+def dispersion_index(state: SemanticState | dict[str, float]) -> float:
+    st = _as_state(state)
+    total = sum(st.mass_vector.values())
     if total <= 0:
         return 0.0
-    active = sum(1 for value in hex_state.values() if value > 0)
-    return active / max(1, len(hex_state))
+    post, _ = compute_h_total(
+        st.mass_vector,
+        {
+            "decay": 0.0,
+            "coupling_alpha": 0.0,
+            "inhibition_alpha": 0.0,
+        },
+    )
+    active = sum(1 for value in post.values() if value > 0)
+    return active / max(1, len(post))
 
 
-def smooth_toward_mean(hex_state: dict[str, float], alpha: float = 0.12) -> dict[str, float]:
+def smooth_toward_mean(
+    state: SemanticState | dict[str, float], alpha: float = 0.12
+) -> SemanticState | dict[str, float]:
     """
     Deterministic denoising: blend each mass with global mean (Ethan PO-17).
 
     ``alpha`` in [0,1]; 0 returns input unchanged.
     """
-    if alpha <= 0 or not hex_state:
-        return dict(hex_state)
-    total = sum(hex_state.values())
-    n = max(1, len(hex_state))
-    mean = total / n
-    return {k: (1.0 - alpha) * float(v) + alpha * mean for k, v in hex_state.items()}
+    st = _as_state(state)
+    if alpha <= 0 or not st.mass_vector:
+        return state
+    next_mass, _ = compute_h_total(
+        st.mass_vector,
+        {
+            "decay": 0.0,
+            "coupling_alpha": alpha,
+            "inhibition_alpha": 0.0,
+        },
+    )
+    out = st.with_mass(next_mass)
+    if isinstance(state, SemanticState):
+        return out
+    return out.mass_vector
 

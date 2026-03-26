@@ -20,13 +20,7 @@
       "trust2": "LOW"
     },
     "interpret_session": {
-      "dominant_area": "A1",
-      "dominant_family": "",
-      "secondary_area": "A2",
-      "defense_pattern": "",
-      "object_relation_pattern": "",
-      "aggression_level": "low",
-      "relational_capacity": "low"
+      "_error": "No module named 'hesperia.tfp'"
     },
     "narrative_microstructure_tfp_wire": {
       "hits_l1_norm": 3.0,
@@ -35,9 +29,9 @@
         "engine": "hex_product_outputs_v1",
         "active_slot_count": 36,
         "active_policy_families": [
-          15,
-          21,
-          199
+          144,
+          100,
+          109
         ],
         "microstructure_hotspots": [
           0.158333,
@@ -1294,9 +1288,9 @@
           0.246563
         ],
         "microstructure_family_alignment": {
-          "15": 1.0,
-          "21": 1.0,
-          "199": 1.0
+          "144": 1.0,
+          "100": 1.0,
+          "109": 1.0
         }
       },
       "hex_option_a_summary": {
@@ -1336,16 +1330,9 @@
     },
     "dlcr_pipeline": {
       "run": "dlcr_pipeline",
-      "lexical_hits_accepted": 0,
-      "resource_versions": {
-        "dict_a": "{'seed': 'v0.6.0', 'tfp': 'v0.6.0-tfp', 'tfp_ru': 'v0.6.0_ru_tfp', 'tfp_ru_stack': 'v0.6.0_ru_tfp_stack', 'tfp_ru_aligned': 'v0.6.0_ru_tfp_corpus_align'}",
-        "dict_b": "{'seed': 'v0.6.0', 'tfp': 'v0.6.0-tfp', 'tfp_ru': 'v0.6.0_ru_tfp', 'tfp_ru_v060': 'v0.6.0_ru_tfp_stack'}",
-        "normalization": "v0.6.0",
-        "resolver_rules": "v0.6.0",
-        "hex_topology": "bounded_hx_map_v1",
-        "aggregation": "v0.6.0"
-      },
-      "microcell_concentration": 0.0
+      "lexical_hits_accepted": null,
+      "resource_versions": null,
+      "microcell_concentration": null
     },
     "session_enhanced": {
       "areas_n": 0,
@@ -1368,7 +1355,7 @@
     "baseline_tfidf": {
       "opposition_score": 0.0,
       "weight_a": 0,
-      "weight_b": 0.935901
+      "weight_b": 0
     },
     "compare_triz_direct": {
       "contradiction_delta": 0.0,
@@ -1464,7 +1451,13 @@
       "first_areas_n": 12
     },
     "reading_multiscale": {
-      "_skipped": "HESPERIA_E2E_MULTISCALE=1 for R1\u2013R4 reading_scales.run_multiscale"
+      "R1_segments": 2,
+      "R2_segments": 1,
+      "R3_segments": 1,
+      "R4_segments": 1,
+      "tension_axes": [
+        0
+      ]
     },
     "semantic_field_and_hci": {
       "semantic_field_matrices_provenance": "ontology",
@@ -1500,12 +1493,14 @@
     "topology_families_tfp",
     "transcript_parse"
   ],
-  "system_version": "0.5.1",
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "system_version": "0.5.3",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "schema_version": "v1",
   "calibration_profile": "default_v1",
-  "run_id": "abe9d041-f49f-40e7-9b9a-49559caec099",
+  "run_id": "0597569d-15dd-4d9f-ba83-cd703b4ce062",
+  "execution_flow_version": "e2e_v2",
   "pipeline_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
   "modules_used": [
     "runtime.pipeline.run_e2e_capability_matrix"
   ]

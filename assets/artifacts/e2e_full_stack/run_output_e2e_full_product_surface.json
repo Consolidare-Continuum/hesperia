@@ -55,7 +55,7 @@
     "BRAND_WORD_TRUST": "FRAGILE",
     "CANONICAL_PIPELINE": "sealed_multiscale_v1"
   },
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:34:45Z",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "calibration_profile": "default_v1",
   "diagnostics": {
     "calibration_profile_bundle": "v1",
@@ -67,6 +67,10 @@
     },
     "canonical_pipeline": "sealed_multiscale_v1",
     "concept_registry_version": "1",
+    "consistency_profile": {
+      "anomaly_score": 0.0,
+      "regime": "canonical_multiscale"
+    },
     "interpretability_trace": {
       "marker_concept_sample": [
         {
@@ -110,10 +114,6 @@
       "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
       "semantic_evidence": null
     },
-    "stability": {
-      "anomaly_score": 0.0,
-      "regime": "canonical_multiscale"
-    },
     "text_preprocess": {
       "analysis_text_fingerprint": "9c600d5098ba8a5c49830a4a",
       "clinical_role_fold_applied": false,
@@ -123,6 +123,8 @@
       "token_count": 29
     }
   },
+  "execution_flow": "sealed_multiscale_v1",
+  "execution_flow_version": "structural_v1",
   "multiscale_signals": {
     "area_activation_vector": [
       0.0,
@@ -669,11 +671,11 @@
     },
     "propagation_strength": 1.038e-05
   },
-  "pipeline": "sealed_multiscale_v1",
+  "orchestration_mode": "SERVICE_SYNC",
   "pipeline_version": "structural_v1",
   "run": "structural_analysis",
   "schema_version": "v1",
-  "system_version": "0.5.1",
+  "system_version": "0.5.3",
   "text_preview": "patient reports severe anxiety when considering work deadlines but also feels gu",
   "usf": {
     "raw_metrics": {

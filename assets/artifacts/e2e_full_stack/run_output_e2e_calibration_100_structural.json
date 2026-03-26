@@ -1,6 +1,8 @@
 {
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "calibration_profile": "default_v1",
+  "execution_flow_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
   "pipeline_version": "e2e_v2",
   "rows": [
     {
@@ -70,6 +72,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -106,10 +112,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2a2df7ae6028e20a9e9a81e2",
           "clinical_role_fold_applied": false,
@@ -120,6 +122,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 1,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -667,7 +670,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "altruism and trust strengthen mutual care within communities.",
       "usf": {
@@ -756,6 +759,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -777,10 +784,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c820a80945e2e1fb302c0084",
           "clinical_role_fold_applied": false,
@@ -791,6 +794,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 2,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -1338,7 +1342,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cooperation and reciprocity stabilize shared social bonds.",
       "usf": {
@@ -1426,6 +1430,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -1462,10 +1470,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "bd2440d7ec6a517ff96dbff0",
           "clinical_role_fold_applied": false,
@@ -1476,6 +1480,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 3,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -2023,7 +2028,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trust and empathy reinforce collective responsibility.",
       "usf": {
@@ -2111,6 +2116,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -2147,10 +2156,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "25a8bacb2f7ccb4ce3a55718",
           "clinical_role_fold_applied": false,
@@ -2161,6 +2166,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 4,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -2708,7 +2714,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "solidarity and support reduce internal social friction.",
       "usf": {
@@ -2797,6 +2803,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -2818,10 +2828,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "670418b94e9c5c6b82e1a79a",
           "clinical_role_fold_applied": false,
@@ -2832,6 +2838,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 5,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -3379,7 +3386,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "care and goodwill sustain cooperative relationships.",
       "usf": {
@@ -3467,6 +3474,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -3510,10 +3521,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c8096b24845d19278b336611",
           "clinical_role_fold_applied": false,
@@ -3524,6 +3531,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 6,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -4071,7 +4079,7 @@
         },
         "propagation_strength": 1e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "mutual aid and trust promote community resilience.",
       "usf": {
@@ -4159,6 +4167,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -4195,10 +4207,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "9ad375ad7353f390c3c26860",
           "clinical_role_fold_applied": false,
@@ -4209,6 +4217,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 7,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -4756,7 +4765,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "altruism and fairness maintain stable group cohesion.",
       "usf": {
@@ -4844,6 +4853,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -4873,10 +4886,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "3080dbff617fa16178d940e4",
           "clinical_role_fold_applied": false,
@@ -4887,6 +4896,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 8,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -5434,7 +5444,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "shared norms and reciprocity enhance social trust.",
       "usf": {
@@ -5523,6 +5533,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -5544,10 +5558,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "b6063e5f83c8af270b661be9",
           "clinical_role_fold_applied": false,
@@ -5558,6 +5568,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 9,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -6105,7 +6116,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "respect and cooperation reinforce collective stability.",
       "usf": {
@@ -6193,6 +6204,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -6236,10 +6251,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "1885f9712e40e8e3c50a5e50",
           "clinical_role_fold_applied": false,
@@ -6250,6 +6261,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 10,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -6797,7 +6809,7 @@
         },
         "propagation_strength": 1.3e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trust and responsibility sustain long-term collaboration.",
       "usf": {
@@ -6886,6 +6898,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -6907,10 +6923,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "ed38836ffae6f9347bf52351",
           "clinical_role_fold_applied": false,
@@ -6921,6 +6933,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 11,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -7468,7 +7481,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "goodwill and shared values protect social unity.",
       "usf": {
@@ -7557,6 +7570,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -7578,10 +7595,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "a8007d072e77b9080142b527",
           "clinical_role_fold_applied": false,
@@ -7592,6 +7605,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 12,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -8139,7 +8153,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cooperation and care reduce relational tension.",
       "usf": {
@@ -8227,6 +8241,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -8263,10 +8281,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "e67f433073719447ce6feeea",
           "clinical_role_fold_applied": false,
@@ -8277,6 +8291,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 13,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -8824,7 +8839,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "mutual support strengthens communal integrity.",
       "usf": {
@@ -8912,6 +8927,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -8948,10 +8967,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "93cbcabe42bbc56084f68c35",
           "clinical_role_fold_applied": false,
@@ -8962,6 +8977,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 14,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -9509,7 +9525,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trust and solidarity promote constructive interaction.",
       "usf": {
@@ -9597,6 +9613,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -9626,10 +9646,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "a3029fafc08616cd70fceaf9",
           "clinical_role_fold_applied": false,
@@ -9640,6 +9656,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 15,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -10187,7 +10204,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "altruism and empathy encourage voluntary participation.",
       "usf": {
@@ -10275,6 +10292,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -10311,10 +10332,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "28f4ff71cbe40b8fff1647a2",
           "clinical_role_fold_applied": false,
@@ -10325,6 +10342,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 16,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -10872,7 +10890,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "shared responsibility reinforces collective protection.",
       "usf": {
@@ -10960,6 +10978,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -10989,10 +11011,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "e2b46245eae0da9dad857985",
           "clinical_role_fold_applied": false,
@@ -11003,6 +11021,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 17,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -11550,7 +11569,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "reciprocity and trust improve group harmony.",
       "usf": {
@@ -11638,6 +11657,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -11674,10 +11697,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "1c6aa840b613b2438dbd8c77",
           "clinical_role_fold_applied": false,
@@ -11688,6 +11707,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 18,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -12235,7 +12255,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "care and fairness stabilize community structure.",
       "usf": {
@@ -12324,6 +12344,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -12345,10 +12369,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c54f207ab0ec81a9e9c6699c",
           "clinical_role_fold_applied": false,
@@ -12359,6 +12379,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 19,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -12906,7 +12927,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cooperation and goodwill increase social cohesion.",
       "usf": {
@@ -12994,6 +13015,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -13023,10 +13048,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2dd29830cf445cef0381df5a",
           "clinical_role_fold_applied": false,
@@ -13037,6 +13058,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 20,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -13584,7 +13606,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "empathy and solidarity reduce internal conflict.",
       "usf": {
@@ -13673,6 +13695,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -13694,10 +13720,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "1dceb337ad80a20236deea76",
           "clinical_role_fold_applied": false,
@@ -13708,6 +13730,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 21,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -14255,7 +14278,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "authority and control centralize institutional power.",
       "usf": {
@@ -14343,6 +14366,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -14372,10 +14399,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "b2d938ea274351c0af850817",
           "clinical_role_fold_applied": false,
@@ -14386,6 +14409,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 22,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -14933,7 +14957,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "coercion and dominance suppress dissenting voices.",
       "usf": {
@@ -15021,6 +15045,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -15057,10 +15085,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "a49ae811393b6f1c3047c9bd",
           "clinical_role_fold_applied": false,
@@ -15071,6 +15095,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 23,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -15618,7 +15643,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "hierarchy and command structure enforce compliance.",
       "usf": {
@@ -15707,6 +15732,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -15728,10 +15757,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "d2b10e86d2feedf794ae09fb",
           "clinical_role_fold_applied": false,
@@ -15742,6 +15767,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 24,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -16289,7 +16315,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "power and enforcement regulate collective behavior.",
       "usf": {
@@ -16377,6 +16403,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -16406,10 +16436,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "71efd105bddc164590d3c841",
           "clinical_role_fold_applied": false,
@@ -16420,6 +16446,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 25,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -16967,7 +16994,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "control and supervision restrict individual autonomy.",
       "usf": {
@@ -17056,6 +17083,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -17077,10 +17108,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "7444efc8e964b483ba44746f",
           "clinical_role_fold_applied": false,
@@ -17091,6 +17118,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 26,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -17638,7 +17666,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "sanctions and discipline reinforce authority.",
       "usf": {
@@ -17726,6 +17754,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -17755,10 +17787,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "d761e8e05b7d64b9d9edd346",
           "clinical_role_fold_applied": false,
@@ -17769,6 +17797,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 27,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -18316,7 +18345,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "command and regulation impose structural order.",
       "usf": {
@@ -18404,6 +18433,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -18440,10 +18473,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c48003021b1e8e54ea882bbe",
           "clinical_role_fold_applied": false,
@@ -18454,6 +18483,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 28,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -19001,7 +19031,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "enforcement and hierarchy sustain governance pressure.",
       "usf": {
@@ -19090,6 +19120,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -19111,10 +19145,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "43bda13983c38e5cb24b294a",
           "clinical_role_fold_applied": false,
@@ -19125,6 +19155,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 29,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -19672,7 +19703,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "coercive measures strengthen centralized control.",
       "usf": {
@@ -19760,6 +19791,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -19789,10 +19824,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "cffef7566365845c72ff3a4f",
           "clinical_role_fold_applied": false,
@@ -19803,6 +19834,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 30,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -20350,7 +20382,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "dominance and regulation reduce resistance.",
       "usf": {
@@ -20438,6 +20470,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -20467,10 +20503,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "fab11c0117730236ce759357",
           "clinical_role_fold_applied": false,
@@ -20481,6 +20513,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 31,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -21028,7 +21061,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "authority and oversight shape institutional behavior.",
       "usf": {
@@ -21117,6 +21150,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -21138,10 +21175,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "652daeb3c443bd3fdac9c610",
           "clinical_role_fold_applied": false,
@@ -21152,6 +21185,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 32,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -21699,7 +21733,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "control mechanisms limit autonomous action.",
       "usf": {
@@ -21788,6 +21822,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -21809,10 +21847,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2a01f35bf903046f49473bd6",
           "clinical_role_fold_applied": false,
@@ -21823,6 +21857,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 33,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -22370,7 +22405,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "power concentration increases structural tension.",
       "usf": {
@@ -22459,6 +22494,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -22480,10 +22519,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "a85462f51c739276356034b3",
           "clinical_role_fold_applied": false,
@@ -22494,6 +22529,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 34,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -23041,7 +23077,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "enforcement and discipline suppress deviation.",
       "usf": {
@@ -23130,6 +23166,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -23151,10 +23191,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "fe73e164174ed2296227cb59",
           "clinical_role_fold_applied": false,
@@ -23165,6 +23201,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 35,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -23712,7 +23749,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "hierarchical command directs collective action.",
       "usf": {
@@ -23800,6 +23837,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -23836,10 +23877,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "f5883070dcf4e82f6215e43c",
           "clinical_role_fold_applied": false,
@@ -23850,6 +23887,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 36,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -24397,7 +24435,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "regulation and supervision ensure compliance.",
       "usf": {
@@ -24486,6 +24524,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -24507,10 +24549,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "84fdf5e89a3c4e15585ddf87",
           "clinical_role_fold_applied": false,
@@ -24521,6 +24559,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 37,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -25068,7 +25107,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "central authority governs organizational stability.",
       "usf": {
@@ -25156,6 +25195,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -25185,10 +25228,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "6c1340d1d0b9e55bbca9d75e",
           "clinical_role_fold_applied": false,
@@ -25199,6 +25238,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 38,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -25746,7 +25786,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "coercion and enforcement maintain order.",
       "usf": {
@@ -25835,6 +25875,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -25856,10 +25900,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "e479aac177bf80f71dffcfdf",
           "clinical_role_fold_applied": false,
@@ -25870,6 +25910,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 39,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -26417,7 +26458,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "institutional power shapes behavioral constraints.",
       "usf": {
@@ -26506,6 +26547,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -26527,10 +26572,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "84442abf4cd6c6d538cb5d95",
           "clinical_role_fold_applied": false,
@@ -26541,6 +26582,7 @@
         }
       },
       "domain": "conflict_power",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 40,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -27088,7 +27130,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "control and command influence social dynamics.",
       "usf": {
@@ -27177,6 +27219,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -27198,10 +27244,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "47dd7d17c7557da357927586",
           "clinical_role_fold_applied": false,
@@ -27212,6 +27254,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 41,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -27759,7 +27802,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trade and exchange generate mutual value.",
       "usf": {
@@ -27848,6 +27891,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -27869,10 +27916,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "91b14e72f41a88c900cae9a6",
           "clinical_role_fold_applied": false,
@@ -27883,6 +27926,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 42,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -28430,7 +28474,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "incentives and scarcity shape market behavior.",
       "usf": {
@@ -28518,6 +28562,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -28547,10 +28595,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "e71514cff5aa58bd73939242",
           "clinical_role_fold_applied": false,
@@ -28561,6 +28605,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 43,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -29108,7 +29153,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "supply and demand regulate price equilibrium.",
       "usf": {
@@ -29196,6 +29241,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -29225,10 +29274,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "76de42b4cb187e7f33fb4d39",
           "clinical_role_fold_applied": false,
@@ -29239,6 +29284,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 44,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -29786,7 +29832,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "investment and capital drive economic growth.",
       "usf": {
@@ -29875,6 +29921,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -29896,10 +29946,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "805b732a14bd134486fce6c8",
           "clinical_role_fold_applied": false,
@@ -29910,6 +29956,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 45,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -30457,7 +30504,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "competition and profit influence market dynamics.",
       "usf": {
@@ -30546,6 +30593,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -30567,10 +30618,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "fc8c95d484282fda566dfa46",
           "clinical_role_fold_applied": false,
@@ -30581,6 +30628,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 46,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -31128,7 +31176,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "exchange and negotiation structure resource allocation.",
       "usf": {
@@ -31217,6 +31265,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -31238,10 +31290,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "16da81601d9e2fe4edb5ed8e",
           "clinical_role_fold_applied": false,
@@ -31252,6 +31300,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 47,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -31799,7 +31848,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "scarcity and demand increase transactional tension.",
       "usf": {
@@ -31888,6 +31937,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -31909,10 +31962,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "6409c5994c9637c6b5455ec6",
           "clinical_role_fold_applied": false,
@@ -31923,6 +31972,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 48,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -32470,7 +32520,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "value and productivity enhance economic efficiency.",
       "usf": {
@@ -32558,6 +32608,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -32587,10 +32641,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "194fc1ea301f6c9cb339527a",
           "clinical_role_fold_applied": false,
@@ -32601,6 +32651,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 49,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -33148,7 +33199,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "incentives and profit motivate production.",
       "usf": {
@@ -33237,6 +33288,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -33258,10 +33313,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2dd55dbaffbc48f05909fa69",
           "clinical_role_fold_applied": false,
@@ -33272,6 +33323,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 50,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -33819,7 +33871,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trade and distribution coordinate resource flow.",
       "usf": {
@@ -33908,6 +33960,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -33929,10 +33985,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "66a17a7851a09cb74988c887",
           "clinical_role_fold_applied": false,
@@ -33943,6 +33995,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 51,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -34490,7 +34543,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "capital and investment sustain development.",
       "usf": {
@@ -34579,6 +34632,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -34600,10 +34657,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "7f20c51103768a6044953799",
           "clinical_role_fold_applied": false,
@@ -34614,6 +34667,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 52,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -35161,7 +35215,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "competition and exchange optimize allocation.",
       "usf": {
@@ -35250,6 +35304,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -35271,10 +35329,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "7698787764d473fb49d3e58c",
           "clinical_role_fold_applied": false,
@@ -35285,6 +35339,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 53,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -35832,7 +35887,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "scarcity and pricing regulate consumption.",
       "usf": {
@@ -35921,6 +35976,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -35942,10 +36001,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "8afb24dd246977681b71c766",
           "clinical_role_fold_applied": false,
@@ -35956,6 +36011,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 54,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -36503,7 +36559,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "incentive structures influence economic outcomes.",
       "usf": {
@@ -36592,6 +36648,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -36613,10 +36673,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2644ad47a74fbd983d8ac112",
           "clinical_role_fold_applied": false,
@@ -36627,6 +36683,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 55,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -37174,7 +37231,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "supply networks distribute market goods.",
       "usf": {
@@ -37262,6 +37319,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -37291,10 +37352,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "0625d8309d8a4bc65387fa7c",
           "clinical_role_fold_applied": false,
@@ -37305,6 +37362,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 56,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -37852,7 +37910,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "profit and demand guide production strategy.",
       "usf": {
@@ -37940,6 +37998,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -37969,10 +38031,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "6c90b40dbe9512c0e1c4d3d2",
           "clinical_role_fold_applied": false,
@@ -37983,6 +38041,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 57,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -38530,7 +38589,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "investment and trade expand market capacity.",
       "usf": {
@@ -38619,6 +38678,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -38640,10 +38703,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "38d1d77607474bcc31397b21",
           "clinical_role_fold_applied": false,
@@ -38654,6 +38713,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 58,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -39201,7 +39261,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "exchange systems stabilize economic interaction.",
       "usf": {
@@ -39290,6 +39350,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -39311,10 +39375,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "72a7eaf39db4d8e62d521100",
           "clinical_role_fold_applied": false,
@@ -39325,6 +39385,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 59,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -39872,7 +39933,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "pricing mechanisms adjust resource scarcity.",
       "usf": {
@@ -39960,6 +40021,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -39989,10 +40054,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "fb2f081a876a232c7e76795a",
           "clinical_role_fold_applied": false,
@@ -40003,6 +40064,7 @@
         }
       },
       "domain": "economic_exchange",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 60,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -40550,7 +40612,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "competition and capital shape growth patterns.",
       "usf": {
@@ -40639,6 +40701,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -40660,10 +40726,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "ff01de7853467200e0b4757a",
           "clinical_role_fold_applied": false,
@@ -40674,6 +40736,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 61,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -41221,7 +41284,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "tradition and identity reinforce cultural continuity.",
       "usf": {
@@ -41310,6 +41373,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -41331,10 +41398,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "e7be0c1b67d1ff3db6b0c3c8",
           "clinical_role_fold_applied": false,
@@ -41345,6 +41408,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 62,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -41892,7 +41956,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "shared beliefs and norms shape collective identity.",
       "usf": {
@@ -41981,6 +42045,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -42002,10 +42070,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "389dc38c3fce563c84b23b90",
           "clinical_role_fold_applied": false,
@@ -42016,6 +42080,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 63,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -42563,7 +42628,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "ritual and heritage preserve group memory.",
       "usf": {
@@ -42652,6 +42717,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -42673,10 +42742,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "b2e87bcee7ecb7c5507fa1cf",
           "clinical_role_fold_applied": false,
@@ -42687,6 +42752,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 64,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -43234,7 +43300,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "culture and belonging strengthen social cohesion.",
       "usf": {
@@ -43322,6 +43388,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -43351,10 +43421,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "8a8af942b388fa90899ef5c8",
           "clinical_role_fold_applied": false,
@@ -43365,6 +43431,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 65,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -43912,7 +43979,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "norms and customs guide community behavior.",
       "usf": {
@@ -44001,6 +44068,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -44022,10 +44093,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "31556c87fff7e22052c4a013",
           "clinical_role_fold_applied": false,
@@ -44036,6 +44103,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 66,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -44583,7 +44651,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "identity and tradition influence social expectations.",
       "usf": {
@@ -44672,6 +44740,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -44693,10 +44765,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "45abad2c9b60d11d21e9fac2",
           "clinical_role_fold_applied": false,
@@ -44707,6 +44775,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 67,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -45254,7 +45323,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "collective memory sustains cultural structure.",
       "usf": {
@@ -45343,6 +45412,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -45364,10 +45437,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "44a1a67d0cc215ffc877bd01",
           "clinical_role_fold_applied": false,
@@ -45378,6 +45447,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 68,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -45925,7 +45995,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "belonging and heritage reinforce group stability.",
       "usf": {
@@ -46014,6 +46084,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -46035,10 +46109,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "ceb1769031ea3a358122915c",
           "clinical_role_fold_applied": false,
@@ -46049,6 +46119,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 69,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -46596,7 +46667,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cultural values shape relational norms.",
       "usf": {
@@ -46685,6 +46756,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -46706,10 +46781,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "dc49c0b22387025e4b3f4f22",
           "clinical_role_fold_applied": false,
@@ -46720,6 +46791,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 70,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -47267,7 +47339,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "tradition and symbolism preserve identity.",
       "usf": {
@@ -47356,6 +47428,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -47377,10 +47453,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "bcf81b945fcb16ba1e7c09e0",
           "clinical_role_fold_applied": false,
@@ -47391,6 +47463,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 71,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -47938,7 +48011,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "shared narratives define communal boundaries.",
       "usf": {
@@ -48027,6 +48100,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -48048,10 +48125,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "133d8b6a400d2c0f956da786",
           "clinical_role_fold_applied": false,
@@ -48062,6 +48135,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 72,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -48609,7 +48683,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cultural norms regulate acceptable conduct.",
       "usf": {
@@ -48698,6 +48772,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -48719,10 +48797,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "953fa5a5b335955f497c2ffe",
           "clinical_role_fold_applied": false,
@@ -48733,6 +48807,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 73,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -49280,7 +49355,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "identity and belonging influence group loyalty.",
       "usf": {
@@ -49369,6 +49444,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -49390,10 +49469,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "78d31bb6bce593abbcc6834f",
           "clinical_role_fold_applied": false,
@@ -49404,6 +49479,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 74,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -49951,7 +50027,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "ritual practices reinforce collective meaning.",
       "usf": {
@@ -50040,6 +50116,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -50061,10 +50141,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "362d1a6805682625f1231841",
           "clinical_role_fold_applied": false,
@@ -50075,6 +50151,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 75,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -50622,7 +50699,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "customs and values sustain cultural systems.",
       "usf": {
@@ -50711,6 +50788,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -50732,10 +50813,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c0e4a35dad89f207a4f65405",
           "clinical_role_fold_applied": false,
@@ -50746,6 +50823,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 76,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -51293,7 +51371,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "social identity shapes behavioral patterns.",
       "usf": {
@@ -51381,6 +51459,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -51410,10 +51492,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "4f2c9325a0451c12f827f87b",
           "clinical_role_fold_applied": false,
@@ -51424,6 +51502,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 77,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -51971,7 +52050,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "collective symbols strengthen community ties.",
       "usf": {
@@ -52060,6 +52139,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -52081,10 +52164,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "0afa79106b1075dc56f0b037",
           "clinical_role_fold_applied": false,
@@ -52095,6 +52174,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 78,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -52642,7 +52722,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "beliefs and heritage guide tradition.",
       "usf": {
@@ -52731,6 +52811,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -52752,10 +52836,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "a9b894ff73d967eea3341454",
           "clinical_role_fold_applied": false,
@@ -52766,6 +52846,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 79,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -53313,7 +53394,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "normative frameworks define social identity.",
       "usf": {
@@ -53402,6 +53483,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -53423,10 +53508,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "bef2c54cc7bea1305a1b049b",
           "clinical_role_fold_applied": false,
@@ -53437,6 +53518,7 @@
         }
       },
       "domain": "identity_culture",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 80,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -53984,7 +54066,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cultural continuity stabilizes communal interaction.",
       "usf": {
@@ -54073,6 +54155,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -54094,10 +54180,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "f18cbcbbe923a9328d8f63ec",
           "clinical_role_fold_applied": false,
@@ -54108,6 +54190,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 81,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -54655,7 +54738,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "feedback and optimization improve system efficiency.",
       "usf": {
@@ -54744,6 +54827,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -54765,10 +54852,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "7b9f8e17c895ba375407fc8e",
           "clinical_role_fold_applied": false,
@@ -54779,6 +54862,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 82,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -55326,7 +55410,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "process control enhances operational stability.",
       "usf": {
@@ -55415,6 +55499,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -55436,10 +55524,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "1a283450c02b24584148cc4d",
           "clinical_role_fold_applied": false,
@@ -55450,6 +55534,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 83,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -55997,7 +56082,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "iteration and refinement increase performance.",
       "usf": {
@@ -56085,6 +56170,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -56114,10 +56203,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "692b4e403c2e3a524690c906",
           "clinical_role_fold_applied": false,
@@ -56128,6 +56213,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 84,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -56675,7 +56761,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "structural design reduces systemic friction.",
       "usf": {
@@ -56763,6 +56849,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -56792,10 +56882,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "8f314fdde3734673e60c7c20",
           "clinical_role_fold_applied": false,
@@ -56806,6 +56892,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 85,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -57353,7 +57440,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "automation and regulation streamline workflow.",
       "usf": {
@@ -57441,6 +57528,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -57470,10 +57561,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "f50e864d60f1a39e2b90c9bb",
           "clinical_role_fold_applied": false,
@@ -57484,6 +57571,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 86,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -58031,7 +58119,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "monitoring and adjustment stabilize output.",
       "usf": {
@@ -58120,6 +58208,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -58141,10 +58233,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "cadf0e770d9f2dce34369a9a",
           "clinical_role_fold_applied": false,
@@ -58155,6 +58243,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 87,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -58702,7 +58791,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "system feedback corrects performance deviation.",
       "usf": {
@@ -58791,6 +58880,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -58812,10 +58905,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "ad0e90683e7c19c2801c5953",
           "clinical_role_fold_applied": false,
@@ -58826,6 +58915,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 88,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -59373,7 +59463,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "optimization and control improve reliability.",
       "usf": {
@@ -59461,6 +59551,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -59490,10 +59584,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "81b5a28f32f98c9db1a54b0c",
           "clinical_role_fold_applied": false,
@@ -59504,6 +59594,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 89,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -60051,7 +60142,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "process efficiency reduces resource waste.",
       "usf": {
@@ -60139,6 +60230,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -60168,10 +60263,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "18d5f2c45e96a787a3c99b6a",
           "clinical_role_fold_applied": false,
@@ -60182,6 +60273,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 90,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -60729,7 +60821,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "structural integration enhances system coherence.",
       "usf": {
@@ -60817,6 +60909,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -60846,10 +60942,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "13a1f6b1ad604ab8a2048970",
           "clinical_role_fold_applied": false,
@@ -60860,6 +60952,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 91,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -61407,7 +61500,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "iterative feedback strengthens adaptive capacity.",
       "usf": {
@@ -61496,6 +61589,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -61517,10 +61614,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "d70f5bea4c61d5e36f5a1243",
           "clinical_role_fold_applied": false,
@@ -61531,6 +61624,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 92,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -62078,7 +62172,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "control loops regulate dynamic systems.",
       "usf": {
@@ -62166,6 +62260,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -62195,10 +62293,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "7f43d535aef6eeaf963329a0",
           "clinical_role_fold_applied": false,
@@ -62209,6 +62303,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 93,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -62756,7 +62851,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "calibration and tuning optimize performance.",
       "usf": {
@@ -62845,6 +62940,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -62866,10 +62965,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "370921bad5ef355ed59eef85",
           "clinical_role_fold_applied": false,
@@ -62880,6 +62975,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 94,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -63427,7 +63523,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "system architecture shapes operational flow.",
       "usf": {
@@ -63515,6 +63611,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -63544,10 +63644,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "8b4f0451f4aadcbc5c3baec1",
           "clinical_role_fold_applied": false,
@@ -63558,6 +63654,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 95,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -64105,7 +64202,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "feedback mechanisms prevent instability.",
       "usf": {
@@ -64193,6 +64290,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -64222,10 +64323,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "b8707eb85822911006b97910",
           "clinical_role_fold_applied": false,
@@ -64236,6 +64333,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 96,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -64783,7 +64881,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "process design improves functional resilience.",
       "usf": {
@@ -64871,6 +64969,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -64900,10 +65002,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "b96c2ea36807d0544040099a",
           "clinical_role_fold_applied": false,
@@ -64914,6 +65012,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 97,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -65461,7 +65560,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "monitoring systems detect structural anomalies.",
       "usf": {
@@ -65550,6 +65649,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -65571,10 +65674,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "73955c85afbbbb10c87efe78",
           "clinical_role_fold_applied": false,
@@ -65585,6 +65684,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 98,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -66132,7 +66232,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "optimization algorithms enhance efficiency.",
       "usf": {
@@ -66221,6 +66321,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -66242,10 +66346,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "1c50249ea0c3eb45fd4004a6",
           "clinical_role_fold_applied": false,
@@ -66256,6 +66356,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 99,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -66803,7 +66904,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "structural balance reduces systemic tension.",
       "usf": {
@@ -66892,6 +66993,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -66913,10 +67018,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "09c012da8c7a37af04740062",
           "clinical_role_fold_applied": false,
@@ -66927,6 +67028,7 @@
         }
       },
       "domain": "technical_systems",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 100,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -67474,7 +67576,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "adaptive systems regulate internal dynamics.",
       "usf": {
@@ -67498,8 +67600,8 @@
   ],
   "run": "e2e_calibration_structural",
   "schema_version": "v1",
-  "system_version": "0.5.1",
-  "run_id": "abe9d041-f49f-40e7-9b9a-49559caec099",
+  "system_version": "0.5.3",
+  "run_id": "0597569d-15dd-4d9f-ba83-cd703b4ce062",
   "modules_used": [
     "run_e2e_calibration_batch_artifacts"
   ]

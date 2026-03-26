@@ -1,23 +1,26 @@
 {
-  "input": {
-    "text_preview": "Justice and fairness support social order. Harm and conflict reduce trust.",
-    "length": 74
+  "raw_text": {
+    "text_preview": "Patient reports severe anxiety when considering work deadlines but also feels guilty resting. The team demands faster delivery while quality must not slip. Internal conflict between autonomy and compl...",
+    "length": 206
   },
-  "result": {
-    "dominant_macro_domain": 0,
-    "dominant_policy_family": 11,
-    "governance": 0.403255,
-    "loopability": 0.904358,
-    "tension_energy": 0.161571,
-    "obstacle_score": 0.154736
+  "summary": {
+    "dominant_macro_domain": 9,
+    "dominant_policy_family": 228,
+    "governance": 0.362293,
+    "loopability": 0.923078,
+    "tension_energy": 0.170268,
+    "obstacle_score": 0.167928,
+    "constraint_status": 0.362293,
+    "structural_recurrence": 0.923078,
+    "resistance_index": 0.167928
   },
-  "extended": {
-    "total_tokens": 11,
-    "matched_tokens": 11,
+  "diagnostics": {
+    "total_tokens": 29,
+    "matched_tokens": 29,
     "unmatched_tokens": 0,
     "attribution_coverage": 1.0,
     "meanAltitude_global": 0.003472,
-    "seed_size": 414000,
+    "seed_size": 420000,
     "family_vector": {
       "length": 288,
       "_truncated": true
@@ -27,14 +30,68 @@
       "_truncated": true
     },
     "dict_b": {
-      "exclusion_conflict_energy": 0.040393,
-      "coherence_index": 0.845264,
-      "entropy_area": 2.258001
+      "exclusion_conflict_energy": 0.042567,
+      "coherence_index": 0.832072,
+      "entropy_area": 2.418229
     },
     "r1_r4": {
       "units": [
         {
           "unit_id": "R1:sent_1",
+          "level": "R1",
+          "parent_id": null,
+          "token_count": 13,
+          "top_areas": [],
+          "top_families": [],
+          "SI_metrics": {
+            "coverage": 0.0,
+            "dominance": 0.0,
+            "entropy": 0.0,
+            "leakage": 1.0,
+            "contradiction_pressure": 0.4,
+            "consistency": 0.0,
+            "shadow_deviation": 0.35,
+            "trust_tier": "T2"
+          },
+          "flags": {
+            "band": "spiky",
+            "decision_code": "ATTR_FAIL_NO_FAMILIES"
+          }
+        },
+        {
+          "unit_id": "R1:sent_2",
+          "level": "R1",
+          "parent_id": null,
+          "token_count": 10,
+          "top_areas": [
+            {
+              "coverage": 1.0,
+              "rank": 1
+            }
+          ],
+          "top_families": [
+            {
+              "coverage": 1.0,
+              "rank": 1
+            }
+          ],
+          "SI_metrics": {
+            "coverage": 1.0,
+            "dominance": 1.0,
+            "entropy": 0.0,
+            "leakage": 0.0,
+            "contradiction_pressure": 0.45,
+            "consistency": 1.0,
+            "shadow_deviation": 0.0,
+            "trust_tier": "T0"
+          },
+          "flags": {
+            "band": "spiky",
+            "decision_code": "OK"
+          }
+        },
+        {
+          "unit_id": "R1:sent_3",
           "level": "R1",
           "parent_id": null,
           "token_count": 6,
@@ -64,39 +121,7 @@
             "entropy": 0.1224,
             "leakage": 0.0,
             "contradiction_pressure": 0.45,
-            "stability": 0.8776,
-            "shadow_deviation": 0.0,
-            "trust_tier": "T0"
-          },
-          "flags": {
-            "band": "spiky",
-            "decision_code": "OK"
-          }
-        },
-        {
-          "unit_id": "R1:sent_2",
-          "level": "R1",
-          "parent_id": null,
-          "token_count": 5,
-          "top_areas": [
-            {
-              "coverage": 1.0,
-              "rank": 1
-            }
-          ],
-          "top_families": [
-            {
-              "coverage": 1.0,
-              "rank": 1
-            }
-          ],
-          "SI_metrics": {
-            "coverage": 1.0,
-            "dominance": 1.0,
-            "entropy": 0.0,
-            "leakage": 0.0,
-            "contradiction_pressure": 0.45,
-            "stability": 1.0,
+            "consistency": 0.8776,
             "shadow_deviation": 0.0,
             "trust_tier": "T0"
           },
@@ -109,7 +134,7 @@
           "unit_id": "R2:para_1",
           "level": "R2",
           "parent_id": null,
-          "token_count": 11,
+          "token_count": 29,
           "top_areas": [
             {
               "coverage": 0.666667,
@@ -140,12 +165,12 @@
             "entropy": 0.194,
             "leakage": 1e-06,
             "contradiction_pressure": 0.45,
-            "stability": 0.806,
+            "consistency": 0.806,
             "shadow_deviation": 0.0,
-            "trust_tier": "T0"
+            "trust_tier": "T2"
           },
           "flags": {
-            "band": "spiky",
+            "band": "stable",
             "decision_code": "OK"
           }
         },
@@ -153,7 +178,7 @@
           "unit_id": "R3:ch_1",
           "level": "R3",
           "parent_id": null,
-          "token_count": 11,
+          "token_count": 29,
           "top_areas": [
             {
               "coverage": 0.666667,
@@ -184,12 +209,12 @@
             "entropy": 0.194,
             "leakage": 1e-06,
             "contradiction_pressure": 0.45,
-            "stability": 0.806,
+            "consistency": 0.806,
             "shadow_deviation": 0.0,
-            "trust_tier": "T0"
+            "trust_tier": "T2"
           },
           "flags": {
-            "band": "spiky",
+            "band": "stable",
             "decision_code": "OK"
           }
         },
@@ -197,7 +222,7 @@
           "unit_id": "R4:book_1",
           "level": "R4",
           "parent_id": null,
-          "token_count": 11,
+          "token_count": 29,
           "top_areas": [
             {
               "coverage": 0.666667,
@@ -228,12 +253,12 @@
             "entropy": 0.194,
             "leakage": 1e-06,
             "contradiction_pressure": 0.45,
-            "stability": 0.806,
+            "consistency": 0.806,
             "shadow_deviation": 0.0,
-            "trust_tier": "T0"
+            "trust_tier": "T2"
           },
           "flags": {
-            "band": "spiky",
+            "band": "stable",
             "decision_code": "OK"
           }
         }
@@ -243,36 +268,36 @@
         "smoothing_model": "bootstrap_zero_expected_v0",
         "level_averages": {
           "R1": {
-            "token_count_total": 11,
+            "token_count_total": 29,
             "SI_means": {
-              "coverage": 1.0,
-              "dominance": 0.727273,
-              "entropy": 0.066764,
-              "leakage": 0.0,
-              "contradiction_pressure": 0.45,
-              "stability": 0.933236,
-              "shadow_deviation": 0.0
+              "coverage": 0.551724,
+              "dominance": 0.448276,
+              "entropy": 0.025324,
+              "leakage": 0.448276,
+              "contradiction_pressure": 0.427586,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.156897
             },
             "SI_variances": {
-              "coverage": 0.0,
-              "dominance": 0.061983,
-              "entropy": 0.003714,
-              "leakage": 0.0,
-              "contradiction_pressure": 0.0,
-              "stability": 0.003714,
-              "shadow_deviation": 0.0
+              "coverage": 0.247325,
+              "dominance": 0.1956,
+              "entropy": 0.002458,
+              "leakage": 0.247325,
+              "contradiction_pressure": 0.000618,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.030297
             },
-            "SCI": 0.605254
+            "SCI": 0.273545
           },
           "R2": {
-            "token_count_total": 11,
+            "token_count_total": 29,
             "SI_means": {
               "coverage": 0.999999,
               "dominance": 0.333333,
               "entropy": 0.194,
               "leakage": 1e-06,
               "contradiction_pressure": 0.45,
-              "stability": 0.806,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SI_variances": {
@@ -281,20 +306,20 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SCI": 0.344666
           },
           "R3": {
-            "token_count_total": 11,
+            "token_count_total": 29,
             "SI_means": {
               "coverage": 0.999999,
               "dominance": 0.333333,
               "entropy": 0.194,
               "leakage": 1e-06,
               "contradiction_pressure": 0.45,
-              "stability": 0.806,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SI_variances": {
@@ -303,20 +328,20 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SCI": 0.344666
           },
           "R4": {
-            "token_count_total": 11,
+            "token_count_total": 29,
             "SI_means": {
               "coverage": 0.999999,
               "dominance": 0.333333,
               "entropy": 0.194,
               "leakage": 1e-06,
               "contradiction_pressure": 0.45,
-              "stability": 0.806,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SI_variances": {
@@ -325,7 +350,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "SCI": 0.344666
@@ -334,13 +359,13 @@
         "scale_deltas": {
           "R1_to_R2": {
             "delta_observed": {
-              "coverage": -1e-06,
-              "dominance": -0.39394,
-              "entropy": 0.127236,
-              "leakage": 1e-06,
-              "contradiction_pressure": 0.0,
-              "stability": -0.127236,
-              "shadow_deviation": 0.0
+              "coverage": 0.448275,
+              "dominance": -0.114943,
+              "entropy": 0.168676,
+              "leakage": -0.448275,
+              "contradiction_pressure": 0.022414,
+              "consistency_profile": 0.0,
+              "shadow_deviation": -0.156897
             },
             "delta_expected": {
               "coverage": 0.0,
@@ -348,17 +373,17 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "delta_deviation": {
-              "coverage": -1e-06,
-              "dominance": -0.39394,
-              "entropy": 0.127236,
-              "leakage": 1e-06,
-              "contradiction_pressure": 0.0,
-              "stability": -0.127236,
-              "shadow_deviation": 0.0
+              "coverage": 0.448275,
+              "dominance": -0.114943,
+              "entropy": 0.168676,
+              "leakage": -0.448275,
+              "contradiction_pressure": 0.022414,
+              "consistency_profile": 0.0,
+              "shadow_deviation": -0.156897
             }
           },
           "R2_to_R3": {
@@ -368,7 +393,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "delta_expected": {
@@ -377,7 +402,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "delta_deviation": {
@@ -386,7 +411,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             }
           },
@@ -397,7 +422,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "delta_expected": {
@@ -406,7 +431,7 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             },
             "delta_deviation": {
@@ -415,16 +440,201 @@
               "entropy": 0.0,
               "leakage": 0.0,
               "contradiction_pressure": 0.0,
-              "stability": 0.0,
+              "consistency_profile": 0.0,
               "shadow_deviation": 0.0
             }
           }
         },
+        "scale_averages": {
+          "SCALE_SENTENCE": {
+            "token_count_total": 29,
+            "SI_means": {
+              "coverage": 0.551724,
+              "dominance": 0.448276,
+              "entropy": 0.025324,
+              "leakage": 0.448276,
+              "contradiction_pressure": 0.427586,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.156897
+            },
+            "SI_variances": {
+              "coverage": 0.247325,
+              "dominance": 0.1956,
+              "entropy": 0.002458,
+              "leakage": 0.247325,
+              "contradiction_pressure": 0.000618,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.030297
+            },
+            "SCI": 0.273545
+          },
+          "SCALE_PARAGRAPH": {
+            "token_count_total": 29,
+            "SI_means": {
+              "coverage": 0.999999,
+              "dominance": 0.333333,
+              "entropy": 0.194,
+              "leakage": 1e-06,
+              "contradiction_pressure": 0.45,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SI_variances": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SCI": 0.344666
+          },
+          "SCALE_SECTION": {
+            "token_count_total": 29,
+            "SI_means": {
+              "coverage": 0.999999,
+              "dominance": 0.333333,
+              "entropy": 0.194,
+              "leakage": 1e-06,
+              "contradiction_pressure": 0.45,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SI_variances": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SCI": 0.344666
+          },
+          "SCALE_DOCUMENT": {
+            "token_count_total": 29,
+            "SI_means": {
+              "coverage": 0.999999,
+              "dominance": 0.333333,
+              "entropy": 0.194,
+              "leakage": 1e-06,
+              "contradiction_pressure": 0.45,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SI_variances": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "SCI": 0.344666
+          }
+        },
+        "scale_deltas_sc": {
+          "SC1_to_SC2": {
+            "delta_observed": {
+              "coverage": 0.448275,
+              "dominance": -0.114943,
+              "entropy": 0.168676,
+              "leakage": -0.448275,
+              "contradiction_pressure": 0.022414,
+              "consistency_profile": 0.0,
+              "shadow_deviation": -0.156897
+            },
+            "delta_expected": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "delta_deviation": {
+              "coverage": 0.448275,
+              "dominance": -0.114943,
+              "entropy": 0.168676,
+              "leakage": -0.448275,
+              "contradiction_pressure": 0.022414,
+              "consistency_profile": 0.0,
+              "shadow_deviation": -0.156897
+            }
+          },
+          "SC2_to_SC3": {
+            "delta_observed": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "delta_expected": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "delta_deviation": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            }
+          },
+          "SC3_to_SC4": {
+            "delta_observed": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "delta_expected": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            },
+            "delta_deviation": {
+              "coverage": 0.0,
+              "dominance": 0.0,
+              "entropy": 0.0,
+              "leakage": 0.0,
+              "contradiction_pressure": 0.0,
+              "consistency_profile": 0.0,
+              "shadow_deviation": 0.0
+            }
+          }
+        },
+        "scale_aliases": {
+          "R1": "SCALE_SENTENCE",
+          "R2": "SCALE_PARAGRAPH",
+          "R3": "SCALE_SECTION",
+          "R4": "SCALE_DOCUMENT"
+        },
         "turning_points": [],
         "structural_signature": {
           "stable_families": [
-            "F16",
-            "F22"
+            "F101",
+            "F110"
           ],
           "variance_profile": {},
           "author_fingerprint": {}
@@ -432,12 +642,14 @@
       }
     }
   },
-  "system_version": "0.5.1",
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "system_version": "0.5.3",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "schema_version": "v1",
   "calibration_profile": "default_v1",
-  "run_id": "abe9d041-f49f-40e7-9b9a-49559caec099",
+  "run_id": "0597569d-15dd-4d9f-ba83-cd703b4ce062",
+  "execution_flow_version": "e2e_v2",
   "pipeline_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
   "modules_used": [
     "runtime.pipeline.analyze",
     "core.projection"

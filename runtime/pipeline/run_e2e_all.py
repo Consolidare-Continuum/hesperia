@@ -454,7 +454,19 @@ def run_e2e_triz_complete(out_path: Path, text: str) -> None:
 
 def run_e2e_session_topology(out_path: Path, text: str) -> None:
     """Clinical session topology: segmented activation, transitions, aggression curve, defenses."""
-    from hesperia.tfp import run_session_topology
+    try:
+        from hesperia.tfp import run_session_topology
+    except Exception as e:
+        out = _round_floats(
+            {
+                "input": _text_preview(text),
+                "run": "e2e_session_topology",
+                "_skipped": "hesperia.tfp_unavailable",
+                "_error": str(e),
+            }
+        )
+        _write_e2e_json(out_path, out, ["runtime.pipeline.run_e2e_all"])
+        return
 
     max_segments = 12
     try:
@@ -482,9 +494,22 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
 
     Structural batch on smoke sessions; analyze_session + detect_tfp_stage; speaker-aware smoke.
     """
-    from hesperia.tfp import TFP_STAGES, detect_tfp_stage
-    from hesperia.nlp.session_parser import analyze_session, analyze_session_speaker_aware
-    from runtime.services.analysis_service import run_structural_analysis_batch
+    try:
+        from hesperia.tfp import TFP_STAGES, detect_tfp_stage
+        from hesperia.nlp.session_parser import analyze_session, analyze_session_speaker_aware
+        from runtime.services.analysis_service import run_structural_analysis_batch
+    except Exception as e:
+        out = _round_floats(
+            {
+                "run": "e2e_tfp_smoke",
+                "_skipped": "hesperia.tfp_unavailable",
+                "_error": str(e),
+                "structural_batch_sessions": 0,
+                "session_tfp_stages": [],
+            }
+        )
+        _write_e2e_json(out_path, out, ["runtime.pipeline.run_e2e_all"])
+        return
 
     smoke_path = _HESPERIA / "tests" / "fixtures" / "clinical_tfp" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
     if smoke_path.exists():

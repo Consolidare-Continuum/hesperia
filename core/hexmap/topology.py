@@ -7,7 +7,10 @@ This module maps curator anchors ``HX-NNNN`` to contiguous indices for dynamics 
 from __future__ import annotations
 
 import json
+import math
 from pathlib import Path
+
+from core.dynamics.constants import get_constant
 
 
 def load_hex_index_map(path: str | Path) -> dict[str, int]:
@@ -42,3 +45,22 @@ def neighbor_ring_symbols(symbol: str, index_map: dict[str, int], ring: int = 1)
         for s in inv.get(idx2, []):
             out.add(s)
     return sorted(out)
+
+
+def distance(symbol_i: str, symbol_j: str, index_map: dict[str, int]) -> float:
+    ci = index_map.get(symbol_i)
+    cj = index_map.get(symbol_j)
+    if ci is None or cj is None:
+        return float("inf")
+    return float(abs(int(ci) - int(cj)))
+
+
+def interaction(symbol_i: str, symbol_j: str, index_map: dict[str, int]) -> float:
+    d = distance(symbol_i, symbol_j, index_map)
+    if math.isinf(d):
+        return 0.0
+    cutoff_radius = float(get_constant("propagation.cutoff_radius", 6))
+    if d > cutoff_radius:
+        return 0.0
+    k = float(get_constant("propagation.distance_decay_k", 0.55))
+    return math.exp(-k * d)

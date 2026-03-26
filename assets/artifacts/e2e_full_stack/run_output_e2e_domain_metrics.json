@@ -1,5 +1,5 @@
 {
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "calibration_profile": "default_v1",
   "derived": {
     "ASS": 0.0,
@@ -38,6 +38,7 @@
     "TER": 0.0,
     "TRI": 0.0
   },
+  "execution_flow_version": "structural_v1",
   "fingerprint": {
     "derivedMap": {
       "ASS": 0.0,
@@ -175,6 +176,7 @@
     "sourceId": "analysis_service",
     "vectorHash": "82193f4023ffc6ede98d43ec44993c486ee18330ac257e13c65331e8b5336ab5"
   },
+  "orchestration_mode": "ARTIFACT_WRITE_SYNC",
   "pipeline_version": "structural_v1",
   "primitives": {
     "CI": 0.0,
@@ -186,7 +188,7 @@
   },
   "schema_version": "v1",
   "sourceId": "analysis_service",
-  "system_version": "0.5.1",
+  "system_version": "0.5.3",
   "triz": {
     "atomic_metrics": {
       "activation_energy": 3.0,
@@ -260,7 +262,7 @@
       {
         "cluster_id": "c0000",
         "concepts": [
-          "f_15"
+          "f_100"
         ],
         "contradiction_density": 0.0,
         "innovation_score": 0.0,
@@ -270,7 +272,7 @@
       {
         "cluster_id": "c0001",
         "concepts": [
-          "f_199"
+          "f_109"
         ],
         "contradiction_density": 0.0,
         "innovation_score": 0.0,
@@ -280,7 +282,7 @@
       {
         "cluster_id": "c0002",
         "concepts": [
-          "f_21"
+          "f_144"
         ],
         "contradiction_density": 0.0,
         "innovation_score": 0.0,
@@ -292,9 +294,9 @@
     "narratives": [
       {
         "activated_areas": [],
+        "consistency_profile": 0.0,
         "narrative_id": "narrative_primary",
         "penetration": 0.0,
-        "stability": 0.0,
         "velocity": 0.333333
       }
     ],

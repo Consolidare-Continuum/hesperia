@@ -9,18 +9,30 @@ import math
 from pathlib import Path
 from typing import Any
 
+from core.diagnostics.failures import classify_failures
+from core.dynamics.constants import get_constant
+from core.dynamics.numeric import EPS, quantize
 from core.hexmap.aggregate import aggregate_hex_state, cross_family_relation_sketch
 from core.hexmap.analytics import l1_drift, persistence_score
-from core.hexmap.dynamics import apply_decay, concentration_index, dispersion_index, smooth_toward_mean
-from core.hexmap.projection import project_concepts_to_hex
-from core.lexical.analysis_input import prepare_structural_analysis_text
+from core.guards.determinism import guard_determinism
+from core.guards.invariants import enforce_invariants
+from core.hexmap.topology import load_hex_index_map
 from core.lexical.cooccurrence import pair_counts_from_canonical
-from core.lexical.matcher import match_dict_a
-from core.lexical.normalization import normalize_text
 from core.lexical.policy import load_dlcr_policy
-from core.resolver.resolver import resolve_hit
+from core.output.result_builder import build_result
+from core.pipeline.dynamics import (
+    apply_decay,
+    apply_decay_with_diagnostics,
+    concentration_index,
+    dispersion_index,
+    smooth_toward_mean,
+)
+from core.pipeline.lexical import match_dict_a, normalize_text, prepare_structural_analysis_text
+from core.pipeline.projection import project_concepts_to_hex
+from core.pipeline.resolver import resolve_hit
+from core.pipeline.trajectory import trajectory_over_segments
 from core.sequence.segmentation import segment_by_newlines
-from core.sequence.trajectory import trajectory_over_segments
+from core.state.semantic_state import SemanticState
 from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
 
 
@@ -56,8 +68,24 @@ def _merge_dict_a(paths: list[Path]) -> list[dict[str, Any]]:
     """
     rows: list[dict[str, Any]] = []
     seen_nf: set[str] = set()
+    syn_by_concept: dict[str, int] = {}
+    confidence_threshold = float(
+        os.environ.get(
+            "HESPERIA_DICT_A_CONFIDENCE_THRESHOLD",
+            str(get_constant("dictionary.confidence_threshold", 0.35)),
+        )
+    )
+    max_synonyms_per_concept = int(
+        os.environ.get(
+            "HESPERIA_DICT_A_MAX_SYNONYMS_PER_CONCEPT",
+            str(get_constant("dictionary.max_synonyms_per_concept", 24)),
+        )
+    )
     for p in paths:
         for row in _load_jsonl(p):
+            conf = row.get("confidence")
+            if conf is not None and float(conf) < confidence_threshold:
+                continue
             if row.get("negative_patterns"):
                 rows.append(row)
                 continue
@@ -66,6 +94,12 @@ def _merge_dict_a(paths: list[Path]) -> list[dict[str, Any]]:
                 continue
             if nf in seen_nf:
                 continue
+            concept_id = str(row.get("concept_id") or "")
+            if concept_id:
+                count = syn_by_concept.get(concept_id, 0)
+                if count >= max_synonyms_per_concept:
+                    continue
+                syn_by_concept[concept_id] = count + 1
             seen_nf.add(nf)
             rows.append(row)
     return rows
@@ -91,7 +125,7 @@ def _concept_weights_from_resolutions(resolved: list[dict[str, Any]]) -> dict[st
         if not cid:
             continue
         w[str(cid)] = w.get(str(cid), 0.0) + 1.0
-    return w
+    return {k: w[k] for k in sorted(w)}
 
 
 def _stabilize_concept_weights(
@@ -106,8 +140,8 @@ def _stabilize_concept_weights(
     for cid, raw in raw_concepts.items():
         capped = min(max(0.0, float(raw)), float(concept_cap))
         value = math.log1p(capped) if log_normalization_enabled else capped
-        out[cid] = value / denom
-    return out
+        out[cid] = quantize(value / denom)
+    return {k: out[k] for k in sorted(out)}
 
 
 def _post_hex_concept_feedback(
@@ -116,11 +150,20 @@ def _post_hex_concept_feedback(
     anchor_registry: dict[str, str],
     hex_decay: float,
     hex_smooth_alpha: float,
-) -> tuple[dict[str, float], dict[str, float], dict[str, float], list[str]]:
-    hex_state, degradation_flags = project_concepts_to_hex(concept_weights, anchor_registry)
-    hex_post = apply_decay(hex_state, decay=max(0.0, float(hex_decay)))
+) -> tuple[SemanticState, SemanticState, dict[str, float], list[str], list[str]]:
+    index_map: dict[str, int] | None = None
+    try:
+        # stable bounded locality map
+        index_map = load_hex_index_map(_repo_root() / "assets" / "data" / "engine_dynamics_v060" / "anchors" / "hex_index_map.json")
+    except Exception:
+        index_map = None
+    state_raw, degradation_flags = project_concepts_to_hex(
+        concept_weights, anchor_registry, index_map=index_map, return_state=True
+    )
+    state_post, operator_diag = apply_decay_with_diagnostics(state_raw, decay=max(0.0, float(hex_decay)))
     if hex_smooth_alpha > 0:
-        hex_post = smooth_toward_mean(hex_post, alpha=min(1.0, float(hex_smooth_alpha)))
+        state_post = smooth_toward_mean(state_post, alpha=min(1.0, float(hex_smooth_alpha)))
+    state_post, inv = enforce_invariants(state_post, clamp=True)
     post_hex: dict[str, float] = {}
     delta: dict[str, float] = {}
     for cid, weight in concept_weights.items():
@@ -129,15 +172,46 @@ def _post_hex_concept_feedback(
             post_hex[cid] = float(weight)
             delta[cid] = 0.0
             continue
-        raw_anchor = float(hex_state.get(hex_id) or 0.0)
-        stable_anchor = float(hex_post.get(hex_id) or 0.0)
+        raw_anchor = float(state_raw.mass_vector.get(hex_id) or 0.0)
+        stable_anchor = float(state_post.mass_vector.get(hex_id) or 0.0)
         if raw_anchor <= 1e-12:
             scaled = float(weight)
         else:
             scaled = float(weight) * (stable_anchor / raw_anchor)
         post_hex[cid] = scaled
         delta[cid] = scaled - float(weight)
-    return hex_state, hex_post, post_hex, degradation_flags
+    post_hex = {k: quantize(v) for k, v in sorted(post_hex.items())}
+    if not bool(operator_diag.get("energy_conservation_ok", True)):
+        inv.append("forbidden_energy_loss")
+    return state_raw, state_post, post_hex, sorted(degradation_flags), sorted(inv)
+
+
+def _evolve_segment_state(
+    state_prev: SemanticState,
+    segment_concept_weights: dict[str, float],
+    *,
+    anchor_registry: dict[str, str],
+    smooth_alpha: float,
+) -> tuple[SemanticState, list[str]]:
+    local_projection_state, _ = project_concepts_to_hex(
+        segment_concept_weights,
+        anchor_registry,
+        return_state=True,
+    )
+    merged_mass = dict(state_prev.mass_vector)
+    for key, value in local_projection_state.mass_vector.items():
+        merged_mass[key] = merged_mass.get(key, 0.0) + float(value)
+    state_next = SemanticState(
+        energy_vector=dict(state_prev.energy_vector),
+        activation_vector=dict(state_prev.activation_vector),
+        mass_vector=merged_mass,
+        position=dict(anchor_registry),
+    )
+    state_next = apply_decay(state_next, decay=float(get_constant("operator.decay_default", 0.05)))
+    if smooth_alpha > EPS:
+        state_next = smooth_toward_mean(state_next, alpha=min(1.0, smooth_alpha))
+    state_next, invariants = enforce_invariants(state_next, clamp=True)
+    return state_next, invariants
 
 
 def _load_version_pins(repo: Path) -> dict[str, Any]:
@@ -152,25 +226,19 @@ def _load_version_pins(repo: Path) -> dict[str, Any]:
         return {}
 
 
-def run_dlcr_pipeline(
+def _analyze_internal(
     text: str,
-    *,
-    repo_root: Path | None = None,
-    dict_a_paths: list[Path] | None = None,
-    dict_b_paths: list[Path] | None = None,
-    anchors_path: Path | None = None,
-    mode: str = "clinical_speech",
 ) -> dict[str, Any]:
     """
     Run DLCR path: normalize → match Dict A → resolve Dict B → project hex → dynamics → aggregate.
 
     Default assets: merged seed + TFP packs under ``assets/data/engine_dynamics_v060/``.
     """
-    repo = repo_root or _repo_root()
+    repo = _repo_root()
     base = repo / "assets" / "data" / "engine_dynamics_v060"
     # Legacy ``dict_a_tfp`` before stack layers so ``gold_tfp_ru`` B_A10 winners stay stable;
     # stack rows add non-colliding ``normalized_form`` keys (first path wins per form).
-    da_paths = dict_a_paths or [
+    da_paths = [
         base / "dict_a" / "dict_a_seed.jsonl",
         base / "dict_a" / "dict_a_tfp.jsonl",
         base / "dict_a" / "dict_a_tfp_ru_core.jsonl",
@@ -180,19 +248,20 @@ def run_dlcr_pipeline(
         # Corpus LLM align (ru-tfp-align); last so new normalized_form keys fill gaps only (first wins).
         base / "dict_a" / "dict_a_tfp_ru_aligned.jsonl",
     ]
-    db_paths = dict_b_paths or [
+    db_paths = [
         base / "dict_b" / "dict_b_seed.jsonl",
         base / "dict_b" / "dict_b_tfp_ru_v060.jsonl",
         base / "dict_b" / "dict_b_tfp.jsonl",
     ]
-    anch = anchors_path or base / "anchors" / "concept_hex_anchors_tfp.json"
+    anch = base / "anchors" / "concept_hex_anchors_tfp.json"
     if not anch.exists():
         anch = base / "anchors" / "concept_hex_anchors.json"
 
     dict_a = _merge_dict_a(da_paths)
-    dict_b_rows = _merge_dict_b(db_paths)
-    concept_index = {row["concept_id"]: row for row in dict_b_rows}
     anchor_registry = json.loads(anch.read_text(encoding="utf-8")) if anch.exists() else {}
+    dict_b_rows = _merge_dict_b(db_paths)
+    dict_b_rows = [row for row in dict_b_rows if str(row.get("concept_id") or "") in anchor_registry]
+    concept_index = {row["concept_id"]: row for row in dict_b_rows}
 
     pins = _load_version_pins(repo)
     pol = load_dlcr_policy(repo)
@@ -207,12 +276,13 @@ def run_dlcr_pipeline(
     else:
         max_acc = None
     smooth_alpha = float(engine_cfg.get("hex_smoothing_alpha") or pol.get("hex_smooth_alpha") or 0.0)
-    hex_decay = float(engine_cfg.get("hex_decay") or 0.05)
+    hex_decay = float(engine_cfg.get("hex_decay") or get_constant("operator.decay_default", 0.05))
     ctx_win = int(pol.get("resolver_context_window") or 48)
     seq_w = float(pol.get("sequential_association_weight") or 0.04)
     cooc_window = int(pol.get("cooc_window") or 4)
 
-    canonical, prep_meta = prepare_structural_analysis_text(text, policy_mode=mode)
+    mode = "clinical_speech"
+    canonical, _prep_meta = prepare_structural_analysis_text(text, policy_mode=mode)
     norm = normalize_text(canonical)
     pair_counts = pair_counts_from_canonical(norm["canonical_text"], window=cooc_window)
     top_pairs = sorted(pair_counts.items(), key=lambda x: (-x[1], x[0]))[:24]
@@ -252,14 +322,14 @@ def run_dlcr_pipeline(
         concept_cap=float(engine_cfg.get("concept_cap") or 8.0),
         log_normalization_enabled=bool(engine_cfg.get("log_normalization_enabled")),
     )
-    hex_state, hex_decayed, cw, deg_proj = _post_hex_concept_feedback(
+    state_raw, state_post, cw, deg_proj, invariants = _post_hex_concept_feedback(
         concept_weights_stabilized,
         anchor_registry=anchor_registry,
         hex_decay=hex_decay,
         hex_smooth_alpha=smooth_alpha,
     )
-    conc = concentration_index(hex_decayed)
-    disp = dispersion_index(hex_decayed)
+    conc = concentration_index(state_post)
+    disp = dispersion_index(state_post)
     fam_d, area_d = aggregate_hex_state(cw, concept_index)
     fam_raw, area_raw = aggregate_hex_state(concept_weights_stabilized, concept_index)
     cross_fam = cross_family_relation_sketch(fam_d, top_k=8)
@@ -278,6 +348,7 @@ def run_dlcr_pipeline(
     seg_drifts: list[float] = []
     seg_persist: list[float] = []
     prev_map: dict[str, float] = {}
+    segment_state = SemanticState(position=dict(anchor_registry))
     for _s, _e, seg in segment_by_newlines(text):
         sn = normalize_text(seg)
         sh, _ = match_dict_a(sn["canonical_text"], dict_a, max_accepted=max_acc)
@@ -294,82 +365,64 @@ def run_dlcr_pipeline(
             cid = r.get("winning_concept_id")
             if cid:
                 seg_cw[str(cid)] = seg_cw.get(str(cid), 0.0) + 1.0
-        hs, _ = project_concepts_to_hex(seg_cw, anchor_registry)
-        hs_dec = apply_decay(hs, decay=0.05)
-        if smooth_alpha > 0:
-            hs_dec = smooth_toward_mean(hs_dec, alpha=min(1.0, smooth_alpha))
-        seg_drifts.append(l1_drift(prev_map, hs_dec))
-        seg_persist.append(persistence_score(prev_map, hs_dec))
-        prev_map = dict(hs_dec)
+        hs, _ = project_concepts_to_hex(seg_cw, anchor_registry, return_state=True)
+        segment_state, seg_invariants = _evolve_segment_state(
+            segment_state,
+            seg_cw,
+            anchor_registry=anchor_registry,
+            smooth_alpha=smooth_alpha,
+        )
+        seg_drifts.append(quantize(l1_drift(prev_map, segment_state.mass_vector)))
+        seg_persist.append(quantize(persistence_score(prev_map, segment_state.mass_vector)))
+        prev_map = dict(segment_state.mass_vector)
         dom_slot = None
         mass = 0.0
-        if hs:
-            dom_sym = max(hs, key=lambda k: hs[k])
-            mass = float(hs[dom_sym])
+        if hs.mass_vector:
+            dom_sym = max(hs.mass_vector, key=lambda k: hs.mass_vector[k])
+            mass = float(hs.mass_vector[dom_sym])
             try:
-                from core.hexmap.topology import load_hex_index_map
-
                 mp = load_hex_index_map(base / "anchors" / "hex_index_map.json")
                 dom_slot = mp.get(dom_sym)
             except Exception:
                 dom_slot = None
-        seg_summaries.append({"dominant_slot": dom_slot, "mass": mass})
+        seg_summaries.append({"dominant_slot": dom_slot, "mass": mass, "invariants": seg_invariants})
     traj = trajectory_over_segments(seg_summaries)
 
-    return {
-        "run": "dlcr_pipeline_v1",
-        "mode": mode,
-        "preprocess_meta": prep_meta,
-        "policy_applied": {
-            "dict_a_max_accepted": max_acc,
-            "hex_smooth_alpha": smooth_alpha,
-            "hex_decay": hex_decay,
-            "resolver_context_window": ctx_win,
-            "sequential_association_weight": seq_w,
-            "cooc_window": cooc_window,
-            "concept_cap": float(engine_cfg.get("concept_cap") or 8.0),
-            "log_normalization_enabled": bool(engine_cfg.get("log_normalization_enabled")),
-            "segment_length_normalization": str(
-                engine_cfg.get("segment_length_normalization") or "inverse_sqrt_token_count"
-            ),
-        },
-        "cooccurrence_token_pairs_top": [{"pair": list(p), "count": c} for p, c in top_pairs],
-        "cross_family_sketch": cross_fam,
-        "segment_hex_geometry": {
-            "l1_drifts": [round(x, 6) for x in seg_drifts],
-            "persistence_scores": [round(float(x), 6) for x in seg_persist],
-        },
-        "resource_versions": {
-            "dict_a": str(pins.get("dict_a", "merged")),
-            "dict_b": str(pins.get("dict_b", "merged")),
-            "normalization": str(pins.get("normalization", "v0.6.0")),
-            "resolver_rules": str(pins.get("resolver_rules", "v0.6.0")),
-            "hex_topology": str(pins.get("hex_topology", "bounded_hx_map_v1")),
-            "aggregation": str(pins.get("aggregation", "v0.6.0")),
-        },
-        "canonical_text": norm["canonical_text"],
-        "lexical_hits_accepted": len(hits),
-        "lexical_hits_rejected": len(rejected),
-        "span_resolutions": span_outputs,
-        "concept_weights": {k: round(v, 6) for k, v in sorted(cw.items())},
-        "concept_weights_raw": {k: round(v, 6) for k, v in sorted(concept_weights_raw.items())},
-        "concept_weights_stabilized": {
-            k: round(v, 6) for k, v in sorted(concept_weights_stabilized.items())
-        },
-        "concept_weights_post_hex": {k: round(v, 6) for k, v in sorted(cw.items())},
-        "hex_feedback_delta": {
-            k: round(cw.get(k, 0.0) - concept_weights_stabilized.get(k, 0.0), 6)
-            for k in sorted(set(concept_weights_stabilized) | set(cw))
-        },
-        "hex_activation": {k: round(v, 6) for k, v in sorted(hex_decayed.items())},
-        "hex_activation_raw": {k: round(v, 6) for k, v in sorted(hex_state.items())},
-        "hex_concentration": round(conc, 6),
-        "hex_dispersion": round(disp, 6),
-        "family_activation_raw": {k: round(v, 6) for k, v in sorted(fam_raw.items())},
-        "family_activation": {k: round(v, 6) for k, v in sorted(fam_d.items())},
-        "area_activation_raw": {k: round(v, 6) for k, v in sorted(area_raw.items())},
-        "area_activation": {k: round(v, 6) for k, v in sorted(area_d.items())},
-        "family_hits_288": [round(x, 6) for x in hits_288],
-        "degradation_flags": list(deg_proj),
-        "segment_trajectory": traj,
-    }
+    _ = (pins, top_pairs, cross_fam, hits, rejected, span_outputs, cw, concept_weights_raw, concept_weights_stabilized, state_raw, state_post, conc, disp, fam_raw, area_raw, hits_288, deg_proj, seg_persist)
+    failure_flags = classify_failures(
+        {
+            "segment_trajectory": traj,
+            "hex_concentration": quantize(conc),
+            "hex_dispersion": quantize(disp),
+        }
+    )
+    if invariants:
+        failure_flags = sorted(set(failure_flags + ["drift"]))
+    result = build_result(
+        area_activation={k: quantize(v) for k, v in sorted(area_d.items())},
+        family_activation={k: quantize(v) for k, v in sorted(fam_d.items())},
+        trajectory=traj,
+        segment_drifts=[quantize(x) for x in seg_drifts],
+        failure_flags=failure_flags,
+    )
+    guard_determinism(result)
+    return result
+
+
+def run_dlcr_pipeline(
+    text: str,
+    *,
+    repo_root: Path | None = None,
+    dict_a_paths: list[Path] | None = None,
+    dict_b_paths: list[Path] | None = None,
+    anchors_path: Path | None = None,
+    mode: str = "clinical_speech",
+) -> dict[str, Any]:
+    _ = (repo_root, dict_a_paths, dict_b_paths, anchors_path, mode)
+    return analyze(text)
+
+
+def analyze(text: str) -> dict[str, Any]:
+    from core.runtime.engine import analyze_engine
+
+    return analyze_engine(text)

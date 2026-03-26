@@ -6,7 +6,7 @@ from typing import Any
 
 from core.lexical.matcher import LexicalHit
 from core.resolver.context import coherence_from_related, label_token_overlap
-from core.resolver.score_rules import score_candidate
+from core.resolver.score_rules import score_candidate, saturate
 from core.resolver.tiebreaks import break_tie
 
 
@@ -28,7 +28,7 @@ def resolve_hit(
     """
     association_boost = association_boost or {}
     siblings = frozenset(str(x) for x in hit.candidate_concept_ids)
-    candidate_scores: dict[str, float] = {}
+    candidate_activation: dict[str, float] = {}
     candidate_detail: list[dict[str, Any]] = []
 
     for concept_id in hit.candidate_concept_ids:
@@ -41,38 +41,40 @@ def resolve_hit(
             )
         coh = coherence_from_related(concept_id, concept_index, sibling_ids=siblings)
         boost = float(association_boost.get(concept_id, 0.0))
-        sc = score_candidate(
+        activation = score_candidate(
             match_type=hit.match_type,
             priority=hit.priority,
             specificity_rank=int(concept.get("specificity_rank", 0)),
             context_overlap=ctx_n,
             coherence_boost=coh,
-        ) + boost
-        candidate_scores[concept_id] = sc
+        )
+        activation = saturate(activation + max(0.0, min(1.0, boost)))
+        candidate_activation[concept_id] = activation
         candidate_detail.append(
             {
                 "concept_id": concept_id,
-                "score": round(sc, 6),
+                "activation": round(activation, 6),
+                "score": round(activation, 6),  # compatibility mirror
                 "context_overlap": ctx_n,
                 "coherence_boost": round(coh, 6),
                 "association_boost": round(boost, 6),
             }
         )
 
-    if not candidate_scores:
+    if not candidate_activation:
         winner = None
         reasons = ["no_candidates"]
-        rejected = ["no_candidate_scores"]
+        rejected = ["no_candidate_activation"]
     else:
-        top_score = max(candidate_scores.values())
-        top_candidates = [cid for cid, val in candidate_scores.items() if val == top_score]
+        top_score = max(candidate_activation.values())
+        top_candidates = [cid for cid, val in candidate_activation.items() if val == top_score]
         if len(top_candidates) == 1:
             winner = top_candidates[0]
             reasons = ["top_score_unique"]
         else:
             winner = break_tie(top_candidates, concept_index)
             reasons = ["top_score_tie", "tiebreak_specificity_then_lexical_id"]
-        rejected = [f"candidate_rejected:{cid}" for cid in candidate_scores if cid != winner]
+        rejected = [f"candidate_rejected:{cid}" for cid in candidate_activation if cid != winner]
 
     return {
         "source_text_span": hit.matched_text,
@@ -81,7 +83,7 @@ def resolve_hit(
         "normalized_span": hit.matched_text,
         "lexical_entry_ids": [hit.entry_id],
         "candidate_concepts": list(hit.candidate_concept_ids),
-        "candidate_scores": {k: round(v, 6) for k, v in candidate_scores.items()},
+        "candidate_scores": {k: round(v, 6) for k, v in candidate_activation.items()},
         "winning_concept_id": winner,
         "winning_reason_codes": reasons,
         "rejected_reason_codes": rejected,

@@ -1,6 +1,6 @@
 {
   "run": "e2e_hex_microstructure_tfp",
-  "input_text_preview": "Justice and fairness support social order. Harm and conflict reduce trust.",
+  "input_text_preview": "Patient reports severe anxiety when considering work deadlines but also feels guilty resting. The team demands faster delivery while quality must not slip. Inte",
   "primary_bundle": {
     "hits_l1_norm": 3.0,
     "hits_nonzero_families": 3,
@@ -8,9 +8,9 @@
       "engine": "hex_product_outputs_v1",
       "active_slot_count": 36,
       "active_policy_families": [
-        15,
-        21,
-        199
+        144,
+        100,
+        109
       ],
       "microstructure_hotspots": [
         0.158333,
@@ -1267,9 +1267,9 @@
         0.246563
       ],
       "microstructure_family_alignment": {
-        "15": 1.0,
-        "21": 1.0,
-        "199": 1.0
+        "144": 1.0,
+        "100": 1.0,
+        "109": 1.0
       }
     },
     "hex_option_a_summary": {
@@ -3102,12 +3102,14 @@
       }
     }
   ],
-  "system_version": "0.5.1",
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "system_version": "0.5.3",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "schema_version": "v1",
   "calibration_profile": "default_v1",
-  "run_id": "abe9d041-f49f-40e7-9b9a-49559caec099",
+  "run_id": "0597569d-15dd-4d9f-ba83-cd703b4ce062",
+  "execution_flow_version": "e2e_v2",
   "pipeline_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
   "modules_used": [
     "hesperia.engine.hex_outputs.e2e_integration"
   ]

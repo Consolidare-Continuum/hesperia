@@ -1,5 +1,5 @@
 {
-  "input": {
+  "raw_text": {
     "text_preview": "Justice and fairness support social order. Harm and conflict reduce trust.",
     "length": 74
   },
@@ -160,7 +160,7 @@
         "activated_areas": [],
         "penetration": 0.0,
         "velocity": 0.333333,
-        "stability": 0.0
+        "consistency_profile": 0.0
       }
     ],
     "reports": {
@@ -176,13 +176,13 @@
         "top_clusters": [],
         "rare_combinations": [],
         "cross_area_reach": [],
-        "stability": 0.0
+        "consistency_profile": 0.0
       },
       "narrative_report": {
         "narrative_id": "e2e_narrative",
         "penetration": 0.0,
         "velocity": 0.333333,
-        "stability": 0.0,
+        "consistency_profile": 0.0,
         "dominant_routes": [],
         "blocked_areas": [],
         "spillover_targets": []
@@ -204,5 +204,21 @@
         }
       }
     }
-  }
+  },
+  "input": {
+    "text_preview": "Justice and fairness support social order. Harm and conflict reduce trust.",
+    "length": 74
+  },
+  "system_version": "0.5.3",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:26:15Z",
+  "schema_version": "v1",
+  "calibration_profile": "default_v1",
+  "run_id": "bd3411e9-9673-4139-80e6-fe9fd441e7f0",
+  "execution_flow_version": "e2e_v2",
+  "pipeline_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
+  "modules_used": [
+    "hesperia.extensions.triz.pipeline",
+    "hesperia.nlp.session_parser"
+  ]
 }

@@ -1,6 +1,8 @@
 {
-  "build_id": "hesperia_0.5.1_e6b9a228d6ce_2026-03-26T07:36:53Z",
+  "build_id": "hesperia_0.5.3_296581f37553_2026-03-26T11:28:43Z",
   "calibration_profile": "default_v1",
+  "execution_flow_version": "e2e_v2",
+  "orchestration_mode": "E2E_BATCH",
   "payload": [
     {
       "L1": {
@@ -69,6 +71,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -105,10 +111,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "2a2df7ae6028e20a9e9a81e2",
           "clinical_role_fold_applied": false,
@@ -119,6 +121,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 1,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -666,7 +669,7 @@
         },
         "propagation_strength": 0.0
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "altruism and trust strengthen mutual care within communities.",
       "usf": {
@@ -755,6 +758,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [],
           "n_concept": 288,
@@ -776,10 +783,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "c820a80945e2e1fb302c0084",
           "clinical_role_fold_applied": false,
@@ -790,6 +793,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 2,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -1337,7 +1341,7 @@
         },
         "propagation_strength": 1.2e-05
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "cooperation and reciprocity stabilize shared social bonds.",
       "usf": {
@@ -1425,6 +1429,10 @@
         },
         "canonical_pipeline": "sealed_multiscale_v1",
         "concept_registry_version": "1",
+        "consistency_profile": {
+          "anomaly_score": 0.0,
+          "regime": "canonical_multiscale"
+        },
         "interpretability_trace": {
           "marker_concept_sample": [
             {
@@ -1461,10 +1469,6 @@
           "note": "Set HESPERIA_CONCEPT_EVIDENCE_GUARD=observe|strict for PO-11/PO-12 (strict excludes Dict-A direct family hits from L1 matches).",
           "semantic_evidence": null
         },
-        "stability": {
-          "anomaly_score": 0.0,
-          "regime": "canonical_multiscale"
-        },
         "text_preprocess": {
           "analysis_text_fingerprint": "bd2440d7ec6a517ff96dbff0",
           "clinical_role_fold_applied": false,
@@ -1475,6 +1479,7 @@
         }
       },
       "domain": "social_cohesion",
+      "execution_flow": "sealed_multiscale_v1",
       "id": 3,
       "multiscale_signals": {
         "area_activation_vector": [
@@ -2022,7 +2027,7 @@
         },
         "propagation_strength": 6e-06
       },
-      "pipeline": "sealed_multiscale_v1",
+      "pipeline_version": "sealed_multiscale_v1",
       "run": "structural_analysis",
       "text_preview": "trust and empathy reinforce collective responsibility.",
       "usf": {
@@ -2046,8 +2051,8 @@
   ],
   "pipeline_version": "e2e_v2",
   "schema_version": "v1",
-  "system_version": "0.5.1",
-  "run_id": "abe9d041-f49f-40e7-9b9a-49559caec099",
+  "system_version": "0.5.3",
+  "run_id": "0597569d-15dd-4d9f-ba83-cd703b4ce062",
   "modules_used": [
     "runtime.pipeline.run_sphere_math_100_sentences"
   ]

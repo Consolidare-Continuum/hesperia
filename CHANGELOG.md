@@ -8,7 +8,24 @@ Restricted Research Disclosure License. See LEGAL_NOTICE.md.
 
 All notable releases of **Hesperia Engine Dynamics** are documented here.  
 **Master index:** [docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)  
-**Release tags:** `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (current technical release line), `v0.5.1` · `hesperia-engine-dynamics-v0.5.1` (previous seal); historical **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`** remain on the prior baseline commit.
+**Release tags:** `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (current modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line), `v0.5.1` · `hesperia-engine-dynamics-v0.5.1` (previous seal); historical **`v0.5.0`** / **`hesperia-engine-dynamics-v0.5.0`** remain on the prior baseline commit.
+
+## v0.5.3 — Sealed modular TFP onboard release (2026-03-26)
+
+### Scope (v0.5.3)
+
+- Version authority bumped to **0.5.3** (`VERSION.yaml`, `hesperia/VERSION.yaml`, `pyproject.toml`, runtime version outputs).
+- Added module execution kernel `hesperia.engine.core.HesperiaEngine` with config-driven module loading.
+- Added first-class `tfp.v1` module in `hesperia/modules/tfp/` with copied TFP math from `.research` into module-local `math_v1.py`.
+- Main runtime now supports module-based one-line load through `configs/pipeline.yaml`.
+
+### Verify (v0.5.3)
+
+```bash
+python3 tools/validate_version_consistency.py
+python3 -m runtime.pipeline.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_full_stack
+```
 
 ## v0.5.2 — Technical terminology propagation release (2026-03-26)
 
