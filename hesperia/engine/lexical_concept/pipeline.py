@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import math
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -33,7 +34,70 @@ from core.pipeline.resolver import resolve_hit
 from core.pipeline.trajectory import trajectory_over_segments
 from core.sequence.segmentation import segment_by_newlines
 from core.state.semantic_state import SemanticState
+from hesperia.engine.calibration_dict_paths import calibration_manifest, resolve_dict_file
 from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
+
+_DEFAULT_STOPWORDS: frozenset[str] = frozenset(
+    {"и", "в", "на", "с", "к", "по", "но", "а", "я", "он", "мы"}
+)
+_DEFAULT_DOMAIN_WHITELIST: frozenset[str] = frozenset(
+    {
+        "перенос",
+        "контрперенос",
+        "объект",
+        "отнош",
+        "аффект",
+        "идент",
+        "защит",
+    }
+)
+_DEFAULT_COMPETING_GROUPS: tuple[tuple[str, ...], ...] = (
+    ("TFP_TRANSFERENCE", "TFP_COUNTERTRANSFERENCE", "TFP_POLARIZATION"),
+    ("TFP_REPRESENTATION_SELF", "TFP_REPRESENTATION_OBJECT"),
+)
+
+
+def _load_runtime_stopwords() -> frozenset[str]:
+    raw = os.environ.get("HESPERIA_DLCR_STOPWORDS", "").strip()
+    if not raw:
+        return _DEFAULT_STOPWORDS
+    return frozenset(x.strip().casefold() for x in raw.split(",") if x.strip())
+
+
+def _load_domain_whitelist() -> frozenset[str]:
+    raw = os.environ.get("HESPERIA_DLCR_DOMAIN_WHITELIST", "").strip()
+    if not raw:
+        return _DEFAULT_DOMAIN_WHITELIST
+    return frozenset(x.strip().casefold() for x in raw.split(",") if x.strip())
+
+
+def _drop_low_quality_token(
+    token: str,
+    *,
+    stopwords: frozenset[str],
+    min_len: int,
+    domain_whitelist: frozenset[str],
+) -> bool:
+    t = token.strip()
+    if not t:
+        return True
+    tc = t.casefold()
+    # Domain whitelist bypasses structural filters.
+    if any(key in tc for key in domain_whitelist):
+        return False
+    if len(t) < int(min_len):
+        return True
+    if tc in stopwords:
+        return True
+    # Optional tiny-fragment rejection (off by default to avoid over-filtering).
+    if (
+        os.environ.get("HESPERIA_DLCR_REJECT_TINY_FRAGMENTS", "").strip().lower()
+        in {"1", "true", "yes"}
+        and " " in t
+        and len(t) < 4
+    ):
+        return True
+    return False
 
 
 def _repo_root() -> Path:
@@ -118,14 +182,78 @@ def _family_slot_index(area: str, family: str) -> int | None:
     return (an - 1) * 24 + (fn - 1)
 
 
-def _concept_weights_from_resolutions(resolved: list[dict[str, Any]]) -> dict[str, float]:
-    w: dict[str, float] = {}
+def _concept_weights_from_resolutions(
+    resolved: list[dict[str, Any]],
+    *,
+    top_k: int = 3,
+    debug: bool = False,
+    rarity_weighting: bool = True,
+) -> dict[str, float]:
+    """
+    Bounded multi-candidate aggregation with per-token mass conservation.
+
+    For each resolved token/span:
+      1) take candidate_scores
+      2) keep top-K
+      3) normalize so per-token mass sums to 1
+      4) add normalized mass to global concept weights
+    """
+    k = max(1, int(top_k or 1))
+    weights: dict[str, float] = {}
+    token_freq: Counter[str] = Counter()
     for r in resolved:
-        cid = r.get("winning_concept_id")
-        if not cid:
+        token = str(r.get("source_text_span") or "").strip()
+        if token:
+            token_freq[token.casefold()] += 1
+
+    for r in resolved:
+        scores_raw = r.get("candidate_scores")
+        cands: list[tuple[str, float]] = []
+        if isinstance(scores_raw, dict):
+            for cid, sv in scores_raw.items():
+                s = float(sv or 0.0)
+                if s > 0:
+                    cands.append((str(cid), s))
+        if not cands:
+            # Back-compat fallback if scores are missing.
+            winner = r.get("winning_concept_id")
+            if winner:
+                cands = [(str(winner), 1.0)]
+            else:
+                continue
+        cands.sort(key=lambda t: (-t[1], t[0]))
+        cands = cands[:k]
+        total = sum(s for _cid, s in cands)
+        if total <= 0:
             continue
-        w[str(cid)] = w.get(str(cid), 0.0) + 1.0
-    return {k: w[k] for k in sorted(w)}
+        normalized = [(cid, s / total) for cid, s in cands]
+        s_norm = sum(w for _cid, w in normalized)
+        assert abs(s_norm - 1.0) < 1e-6, f"per-token mass conservation failed: {s_norm}"
+        token = str(r.get("source_text_span") or "").strip()
+        rw = 1.0
+        if rarity_weighting and token:
+            rw = 1.0 / (1.0 + float(token_freq[token.casefold()]))
+        if debug:
+            token = str(r.get("source_text_span") or "")
+            print(f"[dlcr-token] {token[:80]!r} -> {normalized}")
+        for cid, w in normalized:
+            weights[cid] = weights.get(cid, 0.0) + float(w) * float(rw)
+
+    # Competition inside known collapsed concept groups.
+    for group in _DEFAULT_COMPETING_GROUPS:
+        present = [cid for cid in group if cid in weights]
+        if len(present) <= 1:
+            continue
+        tot = sum(weights[cid] for cid in present)
+        if tot <= 0:
+            continue
+        for cid in present:
+            weights[cid] = float(weights[cid]) / float(tot)
+
+    # Damping to prevent runaway clusters.
+    for cid in list(weights.keys()):
+        weights[cid] = math.log1p(max(0.0, float(weights[cid])))
+    return {k0: weights[k0] for k0 in sorted(weights)}
 
 
 def _stabilize_concept_weights(
@@ -228,17 +356,25 @@ def _load_version_pins(repo: Path) -> dict[str, Any]:
 
 def _analyze_internal(
     text: str,
+    *,
+    repo_root: Path | None = None,
+    dict_a_paths: list[Path] | None = None,
+    dict_b_paths: list[Path] | None = None,
+    anchors_path: Path | None = None,
+    mode: str = "clinical_speech",
 ) -> dict[str, Any]:
     """
     Run DLCR path: normalize → match Dict A → resolve Dict B → project hex → dynamics → aggregate.
 
     Default assets: merged seed + TFP packs under ``assets/data/engine_dynamics_v060/``.
     """
-    repo = _repo_root()
+    repo = repo_root or _repo_root()
     base = repo / "assets" / "data" / "engine_dynamics_v060"
+    calib_a = resolve_dict_file(repo, "dict_a.jsonl")
+    calib_b = resolve_dict_file(repo, "dict_b.jsonl")
     # Legacy ``dict_a_tfp`` before stack layers so ``gold_tfp_ru`` B_A10 winners stay stable;
     # stack rows add non-colliding ``normalized_form`` keys (first path wins per form).
-    da_paths = [
+    da_paths_default = [
         base / "dict_a" / "dict_a_seed.jsonl",
         base / "dict_a" / "dict_a_tfp.jsonl",
         base / "dict_a" / "dict_a_tfp_ru_core.jsonl",
@@ -248,12 +384,14 @@ def _analyze_internal(
         # Corpus LLM align (ru-tfp-align); last so new normalized_form keys fill gaps only (first wins).
         base / "dict_a" / "dict_a_tfp_ru_aligned.jsonl",
     ]
-    db_paths = [
+    db_paths_default = [
         base / "dict_b" / "dict_b_seed.jsonl",
         base / "dict_b" / "dict_b_tfp_ru_v060.jsonl",
         base / "dict_b" / "dict_b_tfp.jsonl",
     ]
-    anch = base / "anchors" / "concept_hex_anchors_tfp.json"
+    da_paths = list(dict_a_paths) if dict_a_paths else ([calib_a] if calib_a else da_paths_default)
+    db_paths = list(dict_b_paths) if dict_b_paths else ([calib_b] if calib_b else db_paths_default)
+    anch = anchors_path or (base / "anchors" / "concept_hex_anchors_tfp.json")
     if not anch.exists():
         anch = base / "anchors" / "concept_hex_anchors.json"
 
@@ -280,8 +418,11 @@ def _analyze_internal(
     ctx_win = int(pol.get("resolver_context_window") or 48)
     seq_w = float(pol.get("sequential_association_weight") or 0.04)
     cooc_window = int(pol.get("cooc_window") or 4)
+    min_token_len = int(os.environ.get("HESPERIA_DLCR_MIN_TOKEN_LEN", "2") or 2)
+    min_resolve_score = float(os.environ.get("HESPERIA_DLCR_MIN_RESOLVE_SCORE", "0.5") or 0.5)
+    stopwords = _load_runtime_stopwords()
+    domain_whitelist = _load_domain_whitelist()
 
-    mode = "clinical_speech"
     canonical, _prep_meta = prepare_structural_analysis_text(text, policy_mode=mode)
     norm = normalize_text(canonical)
     pair_counts = pair_counts_from_canonical(norm["canonical_text"], window=cooc_window)
@@ -291,6 +432,13 @@ def _analyze_internal(
     span_outputs: list[dict[str, Any]] = []
     recent_winners: list[str] = []
     for hit in hits:
+        if _drop_low_quality_token(
+            hit.matched_text,
+            stopwords=stopwords,
+            min_len=min_token_len,
+            domain_whitelist=domain_whitelist,
+        ):
+            continue
         ab: dict[str, float] = {}
         if seq_w > 0 and recent_winners:
             for cid in hit.candidate_concept_ids:
@@ -310,12 +458,20 @@ def _analyze_internal(
             context_window=ctx_win,
             association_boost=ab or None,
         )
+        best_score = max((float(v) for v in (r.get("candidate_scores") or {}).values()), default=0.0)
+        if best_score < min_resolve_score:
+            continue
         span_outputs.append(r)
         w = r.get("winning_concept_id")
         if w:
             recent_winners.append(str(w))
 
-    concept_weights_raw = _concept_weights_from_resolutions(span_outputs)
+    concept_weights_raw = _concept_weights_from_resolutions(
+        span_outputs,
+        top_k=int(os.environ.get("HESPERIA_DLCR_TOKEN_TOPK", "3") or 3),
+        debug=os.environ.get("HESPERIA_DLCR_DEBUG_TOKEN_WEIGHTS", "").strip().lower()
+        in {"1", "true", "yes"},
+    )
     concept_weights_stabilized = _stabilize_concept_weights(
         concept_weights_raw,
         token_count=len(norm["canonical_text"].split()),
@@ -354,6 +510,13 @@ def _analyze_internal(
         sh, _ = match_dict_a(sn["canonical_text"], dict_a, max_accepted=max_acc)
         seg_cw: dict[str, float] = {}
         for hit in sh:
+            if _drop_low_quality_token(
+                hit.matched_text,
+                stopwords=stopwords,
+                min_len=min_token_len,
+                domain_whitelist=domain_whitelist,
+            ):
+                continue
             r = resolve_hit(
                 hit,
                 concept_index,
@@ -362,6 +525,9 @@ def _analyze_internal(
                 canonical_text=sn["canonical_text"],
                 context_window=ctx_win,
             )
+            best_score = max((float(v) for v in (r.get("candidate_scores") or {}).values()), default=0.0)
+            if best_score < min_resolve_score:
+                continue
             cid = r.get("winning_concept_id")
             if cid:
                 seg_cw[str(cid)] = seg_cw.get(str(cid), 0.0) + 1.0
@@ -406,6 +572,15 @@ def _analyze_internal(
         failure_flags=failure_flags,
     )
     guard_determinism(result)
+    # Keep legacy DLCR fields for calibration/eval tooling.
+    result["concept_weights"] = {k: quantize(v) for k, v in sorted(cw.items())}
+    result["family_activation"] = {k: quantize(v) for k, v in sorted(fam_d.items())}
+    result["area_activation"] = {k: quantize(v) for k, v in sorted(area_d.items())}
+    result["lexical_hits_accepted"] = len(hits)
+    result["lexical_hits_rejected"] = len(rejected)
+    result["canonical_text"] = norm["canonical_text"]
+    result["span_resolutions"] = span_outputs
+    result["calibration_dicts"] = calibration_manifest(repo)
     return result
 
 
@@ -418,8 +593,14 @@ def run_dlcr_pipeline(
     anchors_path: Path | None = None,
     mode: str = "clinical_speech",
 ) -> dict[str, Any]:
-    _ = (repo_root, dict_a_paths, dict_b_paths, anchors_path, mode)
-    return analyze(text)
+    return _analyze_internal(
+        text,
+        repo_root=repo_root,
+        dict_a_paths=dict_a_paths,
+        dict_b_paths=dict_b_paths,
+        anchors_path=anchors_path,
+        mode=mode,
+    )
 
 
 def analyze(text: str) -> dict[str, Any]:
