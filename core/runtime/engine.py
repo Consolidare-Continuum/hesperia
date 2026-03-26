@@ -7,16 +7,18 @@ from typing import Any
 
 from core.guards.determinism import guard_determinism
 from core.output.result_builder import build_result
-from hesperia.engine.core import HesperiaEngine
+from hesperia.engine.runner import run_orchestration
+from hesperia.engine.language import (
+    FAMILY_SCORES,
+    METRICS,
+    TFP_CONFLICTS,
+)
 
 
 def analyze_engine(text: str) -> dict[str, Any]:
     repo_root = Path(__file__).resolve().parents[2]
-    config_path = repo_root / "configs" / "pipeline.yaml"
-    engine = HesperiaEngine()
-    engine.load_from_config(config_path)
-    ctx = engine.run(text)
-    metrics = dict(ctx.get("metrics") or {})
+    ctx = run_orchestration(text, repo_root=repo_root)
+    metrics = dict(ctx.get(METRICS) or {})
     area_vector = list(metrics.get("area_vector") or [])
     family_vector = list(metrics.get("family_vector") or [])
     area_activation = {f"A{i+1}": float(v) for i, v in enumerate(area_vector)}
@@ -27,7 +29,8 @@ def analyze_engine(text: str) -> dict[str, Any]:
         "stability_window": float(metrics.get("stability", 1.0)),
         "jump_distance": 0.0,
     }
-    failure_flags = list(ctx.get("tfp_conflicts") or [])
+    _ = ctx.get(FAMILY_SCORES)  # main engine language binding in runtime
+    failure_flags = list(ctx.get(TFP_CONFLICTS) or [])
     result = build_result(
         area_activation=area_activation,
         family_activation=family_activation,

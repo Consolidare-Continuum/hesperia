@@ -85,6 +85,11 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
 
+      - name: Core/module boundary (frozen kernel)
+        run: python3 tools/check_core_module_boundary.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
       - name: DLCR regression gate
         run: python3 tools/check_dlcr_regression.py
         env:
@@ -92,6 +97,12 @@ jobs:
 
       - name: DLCR test pack
         run: python3 -m pytest tests/lexical_concept -q --tb=short
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Modularity contract gate (API + language + guard)
+        run: |
+          python3 -m pytest tests/test_engine_api_v1.py tests/test_engine_language_contract.py -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}
 

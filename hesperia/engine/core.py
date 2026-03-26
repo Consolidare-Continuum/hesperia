@@ -4,11 +4,13 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 from importlib import import_module
-import json
 from pathlib import Path
+from types import MappingProxyType
 from typing import Any, Protocol
 
 import yaml  # type: ignore[import-untyped]
+from hesperia.engine.context_guard import GuardedContext
+from hesperia.engine.language import ARTIFACTS, ENGINE_CONTEXT, SIGNALS, build_ctx, validate_signals
 
 
 class HesperiaModule(Protocol):
@@ -18,30 +20,38 @@ class HesperiaModule(Protocol):
 
     def register(self, engine: "HesperiaEngine") -> None: ...
     def configure(self, config: dict[str, Any]) -> None: ...
-    def before_run(self, ctx: dict[str, Any]) -> None: ...
-    def process(self, ctx: dict[str, Any]) -> None: ...
-    def after_run(self, ctx: dict[str, Any]) -> None: ...
+    def load(self) -> None: ...
+    def preprocess(self, ctx: dict[str, Any]) -> None: ...
+    def project(self, ctx: dict[str, Any]) -> None: ...
+    def postprocess(self, ctx: dict[str, Any]) -> None: ...
 
 
 @dataclass
 class HesperiaEngine:
     modules: list[HesperiaModule] = field(default_factory=list)
+    _required_versions: dict[str, str] = field(default_factory=dict)
 
     def load_module(self, module_path: str, config: dict[str, Any] | None = None) -> None:
         mod = import_module(module_path)
         module = mod.Module()
         module.register(self)
         module.configure(config or {})
+        if hasattr(module, "load"):
+            module.load()
         self.modules.append(module)
 
     def load_from_config(self, config_path: Path) -> None:
         payload = yaml.safe_load(config_path.read_text(encoding="utf-8")) or {}
         module_list = list(payload.get("modules") or [])
+        if len(set(module_list)) != len(module_list):
+            raise ValueError("module_config_duplicate_entries")
         module_cfg = dict(payload.get("module_config") or {})
         for key in module_list:
             module_path = self._resolve_module_path(str(key))
             cfg = dict(module_cfg.get(str(key), {}))
-            cfg = self._hydrate_module_config(str(key), cfg, config_path)
+            req_ver = cfg.pop("required_version", None)
+            if req_ver:
+                self._required_versions[str(key)] = str(req_ver)
             self.load_module(module_path, config=cfg)
         self._validate_dependencies()
 
@@ -55,49 +65,36 @@ class HesperiaEngine:
     def _validate_dependencies(self) -> None:
         loaded = [m.name for m in self.modules]
         for m in self.modules:
+            for method in ("load", "preprocess", "project", "postprocess"):
+                if not hasattr(m, method):
+                    raise ValueError(f"module_interface_invalid:{m.name}:{method}")
+            version = str(getattr(m, "version", "") or "").strip()
+            if not version:
+                raise ValueError(f"module_version_missing:{m.name}")
+            req = self._required_versions.get(m.name)
+            if req and version != req:
+                raise ValueError(f"module_version_mismatch:{m.name}:{version}:{req}")
             for dep in getattr(m, "requires", []):
                 if dep not in loaded:
                     raise ValueError(f"module_dependency_missing:{m.name}:{dep}")
                 if loaded.index(dep) > loaded.index(m.name):
                     raise ValueError(f"module_dependency_order_invalid:{m.name}:{dep}")
 
-    def run(self, text: str) -> dict[str, Any]:
-        ctx = {
-            "text": str(text),
-            "tokens": [],
-            "concept_hits": [],
-            "families": [],
-            "family_scores": {},
-            "areas": [],
-            "area_scores": {},
-            "metrics": {},
-            "artifacts": {},
-        }
+    def run(self, text: str, *, signals: list[dict[str, Any]] | None = None) -> dict[str, Any]:
+        base_ctx = build_ctx(text)
+        ctx = GuardedContext(base_ctx, protected_keys={ENGINE_CONTEXT})
+        dict.__setitem__(
+            ctx,
+            ENGINE_CONTEXT,
+            MappingProxyType({"module_order": [m.name for m in self.modules], "module_count": len(self.modules)}),
+        )
+        ctx[SIGNALS] = validate_signals(signals)
         for m in self.modules:
-            m.before_run(ctx)
+            m.preprocess(ctx)
         for m in self.modules:
-            m.process(ctx)
+            m.project(ctx)
         for m in self.modules:
-            m.after_run(ctx)
+            m.postprocess(ctx)
+        ctx[ARTIFACTS]["engine_context_mutation_log"] = ctx.mutation_log
         return ctx
-
-    def _hydrate_module_config(self, key: str, cfg: dict[str, Any], config_path: Path) -> dict[str, Any]:
-        root = config_path.resolve().parents[1]
-        if key == "core.dict_a":
-            p = Path(cfg.get("path") or root / "assets" / "data" / "engine_dynamics_v060" / "dict_a" / "dict_a_seed.jsonl")
-            cfg["entries"] = self._load_jsonl_rows(p)
-        elif key == "core.dict_b":
-            p = Path(cfg.get("path") or root / "assets" / "data" / "engine_dynamics_v060" / "dict_b" / "dict_b_seed.jsonl")
-            cfg["entries"] = self._load_jsonl_rows(p)
-        return cfg
-
-    @staticmethod
-    def _load_jsonl_rows(path: Path) -> list[dict[str, Any]]:
-        if not path.exists():
-            return []
-        rows: list[dict[str, Any]] = []
-        for line in path.read_text(encoding="utf-8").splitlines():
-            if line.strip():
-                rows.append(json.loads(line))
-        return rows
 
