@@ -253,6 +253,8 @@ def analyze_session(
     ngram_n: int = 2,
     embedding: dict[str, Any] | None = None,
     *,
+    psi_prev: dict[str, float] | None = None,
+    apply_semantic_state: bool = True,
     apply_token_negation: bool = False,
     negation_window: int = 2,
     negation_multiplier: float = 0.5,
@@ -321,6 +323,8 @@ def analyze_session(
         token_count=len(normalized),
         concept_to_area_family=concept_to_area_family,
         embedding=embedding,
+        psi_prev=psi_prev,
+        apply_semantic_state=apply_semantic_state,
     )
     activation["runtime_compat"] = {
         "normalize_scores_requested": bool(normalize_scores),
@@ -471,10 +475,17 @@ def analyze_session_speaker_aware(
     negation_multiplier: float = 0.5,
 ) -> dict[str, Any]:
     """
-    LEVEL 15: Speaker-aware session analysis.
+    Multi-channel, role-weighted lexical analysis over structured dialogue.
 
-    Pipeline: text → parse_session_dialogue → tokenize per utterance → detect_markers
-    → speaker-weighted activation (patient=1.0, therapist=0.5) → propagation (optional).
+    **Product semantics:** each utterance stream contributes lexical marker evidence scaled by
+    a per-stream **weight** (defaults: ``patient_weight``, ``therapist_weight``). The combined
+    output is **channel-weighted lexical evidence**—the same invariant marker→concept path as
+    single-stream analysis, with deterministic aggregation across streams. This is not a clinical
+    or care-setting interpretation layer; sealed product narrative stays in engine docs
+    (``HESPERIA_v0_5_ENGINE_DYNAMICS.md`` §8).
+
+    Pipeline: ``parse_session_dialogue`` → tokenize per utterance → ``detect_markers`` (and
+    optional phrase/ngram paths) → weighted activation per stream → optional propagation.
 
     Returns:
     {
@@ -542,17 +553,20 @@ def analyze_session_speaker_aware(
         token_count=patient_tokens + therapist_tokens,
         concept_to_area_family=af,
         embedding=embedding,
+        apply_semantic_state=True,
     )
     activation["speaker_activation"] = {
         "patient": build_invariant_tfp_activation(
             patient_markers,
             token_count=patient_tokens,
             concept_to_area_family=af,
+            apply_semantic_state=False,
         ),
         "therapist": build_invariant_tfp_activation(
             therapist_markers,
             token_count=therapist_tokens,
             concept_to_area_family=af,
+            apply_semantic_state=False,
         ),
     }
     activation["activation_by_direction"] = {
@@ -560,6 +574,7 @@ def analyze_session_speaker_aware(
             markers,
             token_count=direction_tokens.get(key, 0),
             concept_to_area_family=af,
+            apply_semantic_state=False,
         )
         for key, markers in direction_markers.items()
         if markers
