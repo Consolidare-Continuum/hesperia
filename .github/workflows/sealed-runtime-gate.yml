@@ -2,6 +2,7 @@
 # Runs on main and on PRs targeting main. Blocks merge if checks fail.
 #
 # Checks:
+#   - tools/validate_version_consistency.py (VERSION.yaml vs pyproject + mirror file)
 #   - tools/check_import_boundary.py      (no forbidden imports in public runtime)
 #   - tools/sealing_scan.py               (no reflective terms in public tree)
 #   - tools/verify_public_api_snapshot.py (canonical schema == frozen snapshot)
@@ -37,6 +38,11 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip install --quiet -r requirements.txt; fi
           pip install --quiet pytest
+
+      - name: Version authority (VERSION.yaml vs pyproject)
+        run: python3 tools/validate_version_consistency.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
 
       - name: Import boundary check
         run: python3 tools/check_import_boundary.py
