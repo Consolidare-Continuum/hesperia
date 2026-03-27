@@ -14,7 +14,9 @@ python -m spacy download en_core_web_sm   # optional: EN fallback
 
 Set `OPENAI_API_KEY`. Model: `HESPERIA_CALIB_OPENAI_MODEL` (default `gpt-4o-mini`).
 
-**No API (deterministic mock):** `HESPERIA_CALIB_MOCK_OPENAI=1` or `yaml-markers-llm --mock-llm` — `chat_json` never calls the network; returns rule-based / empty JSON so pipelines and tests run offline. **No real LLM alignment** in that mode (proposals are empty or identity echo for normalize/propose stubs).
+**Until full C / CD / HC dict pipeline:** default **4** parallel workers for anchor / links / eval / errors (`HESPERIA_DICT_CALIB_WORKERS`, default `4`; clamped 1–64). **One-shot offline:** `HESPERIA_DICT_CALIB_OFFLINE=1` sets `HESPERIA_CALIB_MOCK_OPENAI=1` and workers `4` if unset.
+
+**No API (deterministic mock):** `HESPERIA_CALIB_MOCK_OPENAI=1` or `yaml-markers-llm --mock-llm` — `chat_json` never calls the network; `require_openai_key()` is skipped in mock mode. Returns rule-based / empty JSON so pipelines and tests run offline. **No real LLM alignment** in that mode (proposals are empty or identity echo for normalize/propose stubs).
 
 **LEVEL-4 YAML markers (LLM draft):** proposes `lexical_markers`-shaped rows from `hesperia/ontology/dictB/concept_nodes.yaml` + corpus phrase pool; writes **`lexical_markers_llm_proposed.yaml`** under `--workdir` for human review (not canonical until you copy/freeze).
 

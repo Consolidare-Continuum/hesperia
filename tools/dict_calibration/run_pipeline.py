@@ -28,6 +28,10 @@ from tools.dict_calibration.lexical_filter import filter_rows_for_llm  # noqa: E
 from tools.dict_calibration.freeze_version import freeze  # noqa: E402
 from tools.dict_calibration.jsonl_util import read_jsonl, write_json, write_jsonl  # noqa: E402
 from tools.dict_calibration.normalize_llm import normalize_batch  # noqa: E402
+from tools.dict_calibration.env_defaults import (  # noqa: E402
+    apply_dict_calib_offline_bundle,
+    dict_calib_worker_default,
+)
 from tools.dict_calibration.openai_json import require_openai_key  # noqa: E402
 from tools.dict_calibration.patch_llm import apply_patch_to_links, propose_patch  # noqa: E402
 from tools.dict_calibration.propose_llm import propose_concepts  # noqa: E402
@@ -171,7 +175,7 @@ def cmd_anchor(args: argparse.Namespace) -> None:
     reg = load_anchor_registry(anch_path)
     w = Path(args.workdir)
     drafts = read_jsonl(w / "dict_b_draft.jsonl")
-    workers = int(getattr(args, "anchor_workers", 1) or 1)
+    workers = int(getattr(args, "anchor_workers", dict_calib_worker_default()) or 1)
     anchored, rejected = anchor_drafts(
         drafts,
         concept_index,
@@ -190,7 +194,34 @@ def cmd_links(args: argparse.Namespace) -> None:
     w = Path(args.workdir)
     norm = read_jsonl(w / "dict_a_normalized.jsonl")
     anch = read_jsonl(w / "dict_b_anchored.jsonl")
-    links = build_links(norm, anch)
+    workers = int(getattr(args, "link_workers", dict_calib_worker_default()) or 1)
+    fuzzy_mode = str(getattr(args, "fuzzy_mode", "auto") or "auto").strip().lower()
+    if fuzzy_mode not in {"auto", "off", "full", "partial"}:
+        raise ValueError("--fuzzy-mode must be one of: auto, off, full, partial")
+    if fuzzy_mode == "off":
+        fuzzy_flag: bool | None = False
+    elif fuzzy_mode in {"full", "partial"}:
+        fuzzy_flag = True
+    else:
+        fuzzy_flag = None
+    links = build_links(
+        norm,
+        anch,
+        workers=workers,
+        fuzzy=fuzzy_flag,
+        partial_fuzzy_top_misses=int(getattr(args, "partial_fuzzy_top_misses", 0) or 0)
+        if fuzzy_mode == "partial"
+        else 0,
+        fuzzy_top_k=int(getattr(args, "fuzzy_top_k", 3) or 3),
+        fuzzy_candidate_cap=int(getattr(args, "fuzzy_candidate_cap", 2048) or 2048),
+        alias_reuse_top_misses=int(getattr(args, "alias_reuse_top_misses", 0) or 0),
+        alias_cutoff=float(getattr(args, "alias_cutoff", 0.85) or 0.85),
+        exact_weight=float(getattr(args, "exact_weight", 1.0) or 1.0),
+        fuzzy_weight=float(getattr(args, "fuzzy_weight", 0.7) or 0.7),
+        alias_weight=float(getattr(args, "alias_weight", 0.5) or 0.5),
+        min_priority=float(getattr(args, "min_priority", 0.0) or 0.0),
+        max_links_per_token=int(getattr(args, "max_links_per_token", 3) or 3),
+    )
     write_jsonl(w / "dict_a_to_b_links.jsonl", links)
     eng = links_to_engine_dict_a(links)
     write_jsonl(w / "dict_a_engine.jsonl", eng)
@@ -221,6 +252,7 @@ def cmd_eval(args: argparse.Namespace) -> None:
         dict_b_paths=db_paths,
         anchors_path=anch_path,
         repo_path=repo,
+        workers=int(getattr(args, "eval_workers", dict_calib_worker_default()) or 1),
     )
     write_json(w / "evaluation_run.json", ev)
     print(json.dumps(ev.get("aggregate"), indent=2))
@@ -238,7 +270,9 @@ def cmd_errors(args: argparse.Namespace) -> None:
             max_files=int(getattr(args, "eval_max_files", 5) or 5),
             max_chars=int(getattr(args, "eval_max_chars", 12_000) or 12_000),
         )
-    err = extract_errors(ev, texts)
+    err = extract_errors(
+        ev, texts, workers=int(getattr(args, "error_workers", dict_calib_worker_default()) or 1)
+    )
     write_jsonl(w / "dict_errors.jsonl", err)
     print(f"errors={len(err)}")
 
@@ -526,9 +560,19 @@ def cmd_run_all(args: argparse.Namespace) -> None:
         propose_batch_size=getattr(args, "propose_batch_size", 40),
     )
     cmd_propose(ns3)
-    ns4 = argparse.Namespace(workdir=args.workdir, dict_b=None, min_score=args.min_score)
+    ns4 = argparse.Namespace(
+        workdir=args.workdir,
+        dict_b=None,
+        min_score=args.min_score,
+        anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
+    )
     cmd_anchor(ns4)
-    cmd_links(argparse.Namespace(workdir=args.workdir))
+    cmd_links(
+        argparse.Namespace(
+            workdir=args.workdir,
+            link_workers=getattr(args, "link_workers", dict_calib_worker_default()),
+        )
+    )
     ns5 = argparse.Namespace(
         workdir=args.workdir,
         corpus=args.corpus,
@@ -536,6 +580,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
         dict_b=None,
         eval_max_files=getattr(args, "eval_max_files", 5),
         eval_max_chars=getattr(args, "eval_max_chars", 12_000),
+        eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
     )
     cmd_eval(ns5)
     cmd_errors(
@@ -545,6 +590,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
             texts_file=None,
             eval_max_files=getattr(args, "eval_max_files", 5),
             eval_max_chars=getattr(args, "eval_max_chars", 12_000),
+            error_workers=getattr(args, "error_workers", dict_calib_worker_default()),
         )
     )
     if not args.skip_llm:
@@ -560,6 +606,8 @@ def cmd_run_all(args: argparse.Namespace) -> None:
 
 
 def main() -> None:
+    apply_dict_calib_offline_bundle()
+    dw = dict_calib_worker_default()
     p = argparse.ArgumentParser(description="Dict calibration: corpus + OpenAI + DLCR")
     sub = p.add_subparsers(dest="cmd", required=True)
 
@@ -598,13 +646,50 @@ def main() -> None:
     p_an.add_argument(
         "--anchor-workers",
         type=int,
-        default=1,
-        help="Process pool size for anchoring (1=sequential). Use 4–8 for huge dict_b_draft.jsonl",
+        default=dw,
+        help="Process pool size for anchoring (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
     )
     p_an.set_defaults(func=cmd_anchor)
 
     p_ln = sub.add_parser("links", help="Task 5: A↔B links + engine dict_a")
     p_ln.add_argument("--workdir", default="outputs/dict_calibration/run1")
+    p_ln.add_argument(
+        "--link-workers",
+        type=int,
+        default=dw,
+        help="Workers for link building (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
+    )
+    p_ln.add_argument(
+        "--fuzzy-mode",
+        choices=["auto", "off", "full", "partial"],
+        default="auto",
+        help="Fuzzy policy: auto/off/full/partial (partial=only top miss tokens)",
+    )
+    p_ln.add_argument(
+        "--partial-fuzzy-top-misses",
+        type=int,
+        default=0,
+        help="When --fuzzy-mode partial: top N exact-miss normalized tokens to fuzzy-match",
+    )
+    p_ln.add_argument(
+        "--fuzzy-top-k",
+        type=int,
+        default=3,
+        help="Keep at most K top fuzzy candidates per token (best one is used for link)",
+    )
+    p_ln.add_argument(
+        "--fuzzy-candidate-cap",
+        type=int,
+        default=2048,
+        help="Per-token fuzzy candidate cap after cheap blocking",
+    )
+    p_ln.add_argument("--alias-reuse-top-misses", type=int, default=0, help="Top exact-miss tokens to alias-map with difflib")
+    p_ln.add_argument("--alias-cutoff", type=float, default=0.85, help="difflib cutoff for alias reuse")
+    p_ln.add_argument("--exact-weight", type=float, default=1.0, help="Priority multiplier for exact matches")
+    p_ln.add_argument("--fuzzy-weight", type=float, default=0.7, help="Priority multiplier for fuzzy matches")
+    p_ln.add_argument("--alias-weight", type=float, default=0.5, help="Priority multiplier for alias-reuse matches")
+    p_ln.add_argument("--min-priority", type=float, default=0.0, help="Drop links below this priority")
+    p_ln.add_argument("--max-links-per-token", type=int, default=3, help="Hard cap links per token after scoring")
     p_ln.set_defaults(func=cmd_links)
 
     p_ev = sub.add_parser("eval", help="Task 6: DLCR evaluation")
@@ -624,6 +709,12 @@ def main() -> None:
         default=12_000,
         help="Truncate each file to this many chars (default 12000). Use <=0 for full text.",
     )
+    p_ev.add_argument(
+        "--eval-workers",
+        type=int,
+        default=dw,
+        help="Workers for per-text DLCR eval (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
+    )
     p_ev.set_defaults(func=cmd_eval)
 
     p_er = sub.add_parser("errors", help="Task 7: error surface")
@@ -641,6 +732,12 @@ def main() -> None:
         type=int,
         default=12_000,
         help="Truncate each file (default 12000). Use <=0 for full text.",
+    )
+    p_er.add_argument(
+        "--error-workers",
+        type=int,
+        default=dw,
+        help="Workers for error extraction (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
     )
     p_er.set_defaults(func=cmd_errors)
 
@@ -871,6 +968,10 @@ def main() -> None:
     p_all.add_argument("--propose-batch-size", type=int, default=40)
     p_all.add_argument("--eval-max-files", type=int, default=5)
     p_all.add_argument("--eval-max-chars", type=int, default=12_000)
+    p_all.add_argument("--anchor-workers", type=int, default=dw)
+    p_all.add_argument("--link-workers", type=int, default=dw)
+    p_all.add_argument("--eval-workers", type=int, default=dw)
+    p_all.add_argument("--error-workers", type=int, default=dw)
     p_all.add_argument("--patch-max-errors", type=int, default=80)
     p_all.add_argument("--patch-max-links", type=int, default=40)
     p_all.set_defaults(func=cmd_run_all)

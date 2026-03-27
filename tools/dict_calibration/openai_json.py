@@ -133,6 +133,8 @@ def get_client():
 
 def require_openai_key() -> None:
     """Load repo ``.env`` then fail fast if the key is missing."""
+    if calib_mock_openai():
+        return
     load_repo_dotenv()
     if not os.environ.get("OPENAI_API_KEY", "").strip():
         raise RuntimeError("OPENAI_API_KEY not set — add to repo .env or export in shell")

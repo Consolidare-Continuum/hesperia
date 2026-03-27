@@ -58,6 +58,10 @@ def _maybe_load_env() -> None:
 
 def main() -> int:
     _maybe_load_env()
+    from tools.dict_calibration.env_defaults import apply_dict_calib_offline_bundle, dict_calib_worker_default
+
+    apply_dict_calib_offline_bundle()
+    dw = dict_calib_worker_default()
     ap = argparse.ArgumentParser(description="Resumable dict calibration clearance (A–D + checkpoints)")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
@@ -93,8 +97,35 @@ def main() -> int:
     p_po.add_argument(
         "--anchor-workers",
         type=int,
-        default=1,
-        help="Parallel anchoring processes (1=sequential). Try 4–8 for very large dict_b_draft.jsonl",
+        default=dw,
+        help="Parallel anchoring (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
+    )
+    p_po.add_argument(
+        "--link-workers",
+        type=int,
+        default=dw,
+        help="Parallel workers for linking (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
+    )
+    p_po.add_argument(
+        "--link-fuzzy-mode",
+        choices=["auto", "off", "full", "partial"],
+        default="auto",
+        help="links fuzzy policy",
+    )
+    p_po.add_argument("--partial-fuzzy-top-misses", type=int, default=0)
+    p_po.add_argument("--fuzzy-top-k", type=int, default=3)
+    p_po.add_argument("--fuzzy-candidate-cap", type=int, default=2048)
+    p_po.add_argument(
+        "--eval-workers",
+        type=int,
+        default=dw,
+        help="Parallel workers for eval texts (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
+    )
+    p_po.add_argument(
+        "--error-workers",
+        type=int,
+        default=dw,
+        help="Parallel workers for errors extract (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
     )
     p_po.add_argument("--eval-max-files", type=int, default=0, help="<=0 = whole corpus tree")
     p_po.add_argument("--eval-max-chars", type=int, default=0, help="<=0 = full file text")
@@ -114,7 +145,14 @@ def main() -> int:
     p_run.add_argument("--max-phrases", type=int, default=None)
     p_run.add_argument("--eval-max-files", type=int, default=0)
     p_run.add_argument("--eval-max-chars", type=int, default=0)
-    p_run.add_argument("--anchor-workers", type=int, default=1)
+    p_run.add_argument("--anchor-workers", type=int, default=dw)
+    p_run.add_argument("--link-workers", type=int, default=dw)
+    p_run.add_argument("--link-fuzzy-mode", choices=["auto", "off", "full", "partial"], default="auto")
+    p_run.add_argument("--partial-fuzzy-top-misses", type=int, default=0)
+    p_run.add_argument("--fuzzy-top-k", type=int, default=3)
+    p_run.add_argument("--fuzzy-candidate-cap", type=int, default=2048)
+    p_run.add_argument("--eval-workers", type=int, default=dw)
+    p_run.add_argument("--error-workers", type=int, default=dw)
     p_run.set_defaults(_fn="run")
 
     p_st = sub.add_parser("status", help="Checkpoint + artifact summary")
@@ -176,7 +214,14 @@ def main() -> int:
             dict_b_paths=None,
             eval_max_files=args.eval_max_files,
             eval_max_chars=args.eval_max_chars,
-            anchor_workers=getattr(args, "anchor_workers", 1),
+            anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
+            link_workers=getattr(args, "link_workers", dict_calib_worker_default()),
+            eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
+            error_workers=getattr(args, "error_workers", dict_calib_worker_default()),
+            link_fuzzy_mode=getattr(args, "link_fuzzy_mode", "auto"),
+            partial_fuzzy_top_misses=getattr(args, "partial_fuzzy_top_misses", 0),
+            fuzzy_top_k=getattr(args, "fuzzy_top_k", 3),
+            fuzzy_candidate_cap=getattr(args, "fuzzy_candidate_cap", 2048),
         )
         print("OK post (anchor, links, eval, errors)", file=sys.stderr)
         return 0
@@ -213,7 +258,14 @@ def main() -> int:
             dict_b_paths=None,
             eval_max_files=args.eval_max_files,
             eval_max_chars=args.eval_max_chars,
-            anchor_workers=getattr(args, "anchor_workers", 1),
+            anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
+            link_workers=getattr(args, "link_workers", dict_calib_worker_default()),
+            eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
+            error_workers=getattr(args, "error_workers", dict_calib_worker_default()),
+            link_fuzzy_mode=getattr(args, "link_fuzzy_mode", "auto"),
+            partial_fuzzy_top_misses=getattr(args, "partial_fuzzy_top_misses", 0),
+            fuzzy_top_k=getattr(args, "fuzzy_top_k", 3),
+            fuzzy_candidate_cap=getattr(args, "fuzzy_candidate_cap", 2048),
         )
         print("OK run complete", file=sys.stderr)
         st = cr.clearance_status(wd)
