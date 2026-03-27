@@ -47,7 +47,7 @@ See LEGAL_NOTICE.md for full terms.
 | [`specs/`](specs/), [`spec/`](spec/) | Canonical specs and canon fragments |
 | [`docs/`](docs/) | Architecture, governance, **Cursor / release** guides |
 | [`tests/`](tests/) | Pytest (unit, integration, E2E) |
-| [`tools/`](tools/) | Validators, seal inventory, **release audit** (`tools/release/`) |
+| [`tools/`](tools/) | Validators, seal inventory, **release audit** (`tools/release/`), **[shell scripts index](tools/SHELL_SCRIPTS_INDEX.md)** |
 | [`release/v0.5.1/`](release/v0.5.1/) | **Current** sealed audit bundle · [`release/v0.5.0/`](release/v0.5.0/) historical |
 | [`legacy/`](legacy/) | Archive — **not** part of the active execution stack |
 

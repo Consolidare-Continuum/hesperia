@@ -1,6 +1,6 @@
 {
   "registry_version": "1.0.0",
-  "description": "Cross-plane metric semantics for TFP file pipeline + structural bundle (v1 draft).",
+  "description": "Cross-plane metric semantics for TFP file pipeline + structural bundle (v1 draft). Partial coverage by design — not every public JSON key is listed; see docs/governance/OUTPUT_METRIC_REGISTRY_PARTIAL_COVERAGE_v1.md.",
   "artifacts": {
     "structural_batch.L1": {
       "ATTRIBUTED_TOKENS": {
