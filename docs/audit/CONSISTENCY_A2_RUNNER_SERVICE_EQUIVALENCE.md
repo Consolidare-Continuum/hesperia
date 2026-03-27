@@ -12,11 +12,11 @@
    and store as `service_out`. Use fixed text and assets (e.g. default text, repo `lexicon/curated`).
 
 2. **Runner outputs:** For each runner, invoke it so that it processes the **same** raw_text text and write output to a file (or capture stdout). Parse the JSON output to get a dict.
-   - **run_l1_through_l9:** `python3 -m runtime.execution_flow.run_l1_through_l9 --text "<same_text>" --out /tmp/a2_l19.json` → load `/tmp/a2_l19.json`.
+   - **run_l1_through_l9:** `python3 -m runtime.pipeline.run_l1_through_l9 --text "<same_text>" --out /tmp/a2_l19.json` → load `/tmp/a2_l19.json`.
    - **run_reference_pipeline:** `python3 -m runtime.runners.run_reference_pipeline --text "<same_text>" --out /tmp/a2_ref.json` → load `/tmp/a2_ref.json`.
-   - **run_l1_l2:** `python3 -m runtime.execution_flow.run_l1_l2 --text "<same_text>" --out /tmp/a2_l2.json` → load; compare only L1/L2 and shared keys (runner is stage-limited).
-   - **run_l1_l2_l3:** `python3 -m runtime.execution_flow.run_l1_l2_l3 --text "<same_text>" --out /tmp/a2_l3.json` → load; compare L1_B, L2_B, L3 and shared keys.
-   - **run_sphere_math_values:** `python3 -m runtime.execution_flow.run_sphere_math_values --text "<same_text>" --out /tmp/a2_vals.json` → load; should match full service output structure for same raw_text.
+   - **run_l1_l2:** `python3 -m runtime.pipeline.run_l1_l2 --text "<same_text>" --out /tmp/a2_l2.json` → load; compare only L1/L2 and shared keys (runner is stage-limited).
+   - **run_l1_l2_l3:** `python3 -m runtime.pipeline.run_l1_l2_l3 --text "<same_text>" --out /tmp/a2_l3.json` → load; compare L1_B, L2_B, L3 and shared keys.
+   - **run_sphere_math_values:** `python3 -m runtime.pipeline.run_sphere_math_values --text "<same_text>" --out /tmp/a2_vals.json` → load; should match full service output structure for same raw_text.
    - **run_e2e_all:** Run with minimal scope (e.g. one E2E flow that runs structural measurement); extract the structural-measurement summary segment and compare to `service_out` for the same text.
 
 3. **Equivalence rules:**

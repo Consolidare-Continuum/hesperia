@@ -56,7 +56,7 @@ All commands below are run with the repo root as current directory (so `core`, `
 **Full E2E** (19 baseline JSON + optional field dynamics): `docs/E2E_RUN_ORDER.md` · `assets/artifacts/e2e/E2E_OUTPUTS.md`
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_all
 ```
 
 Outputs go to `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."`.
@@ -64,7 +64,7 @@ Outputs go to `assets/artifacts/e2e/`. Optional: `--out-dir PATH`, `--text "..."
 **L1–L9 single run:**
 
 ```bash
-python3 -m runtime.execution_flow.run_l1_through_l9 --out out.json
+python3 -m runtime.pipeline.run_l1_through_l9 --out out.json
 ```
 
 **Tests:**
@@ -124,8 +124,8 @@ uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
 | Goal              | Command |
 |-------------------|---------|
 | Install           | `pip install -r requirements.txt` |
-| Full E2E          | `python3 -m runtime.execution_flow.run_e2e_all` |
-| L1–L9             | `python3 -m runtime.execution_flow.run_l1_through_l9 --out out.json` |
+| Full E2E          | `python3 -m runtime.pipeline.run_e2e_all` |
+| L1–L9             | `python3 -m runtime.pipeline.run_l1_through_l9 --out out.json` |
 | All tests         | `python3 -m pytest tests/ -q` |
 | Sealed CLI        | `python3 -m runtime.shipping.cli_main analyze --text "..."` |
 | Sealed API        | `python3 -m runtime.shipping.api_main` |

@@ -19,7 +19,7 @@ Quick commands for **validators**, **regression**, **E2E**, and **TFP smoke** wi
 | `HESPERIA_DICT_A_MAX_ACCEPTED` | Override Dict A accepted-hit cap (PO-04) |
 | `HESPERIA_API_INSTRUMENTATION` | `1` → enables `POST /hesperia/internal/dlcr_trace` (PO-26) |
 | `HESPERIA_CLINICAL_STRIP_ROLES` | With clinical/speech policy, fold `patient:` / `therapist:` line prefixes (PO-14) |
-| `HESPERIA_ANALYZE_DLCR_EVIDENCE` | `1` → `runtime.execution_flow.analyze` extended **`lexical_evidence_dlcr`** (PO-02): counts, `resource_versions`, **`evidence_spans`** (≤24 rows, same keys as `resolver_output.schema.json`, no `audit`) |
+| `HESPERIA_ANALYZE_DLCR_EVIDENCE` | `1` → `runtime.pipeline.analyze` extended **`lexical_evidence_dlcr`** (PO-02): counts, `resource_versions`, **`evidence_spans`** (≤24 rows, same keys as `resolver_output.schema.json`, no `audit`) |
 | `HESPERIA_CONCEPT_EVIDENCE_GUARD` | `observe` \| `strict` — semantic evidence + optional ban on Dict-A direct family path in multiscale L1; **strict** still applies **Dict B (b0) fallback** per token when the token exists in the merged B map (PO-11/12). Trace rows include **`effective_landing_source`** (`observe`/`strict`): e.g. **`B0_fallback`** when raw landing was **A** but b0 was used. |
 
 ## Commands
@@ -43,13 +43,13 @@ pytest tests/lexical_concept/ -q
 
 # Full E2E (optional DLCR artifact)
 HESPERIA_E2E_DLCR=1 HESPERIA_FIELD_DYNAMICS=1 HESPERIA_E2E_CALIBRATION_BATCH_N=5 \
-  python3 -m runtime.execution_flow.run_e2e_all --out-dir /tmp/e2e_dlcr
+  python3 -m runtime.pipeline.run_e2e_all --out-dir /tmp/e2e_dlcr
 
 # TFP smoke with per-session DLCR bundles
 HESPERIA_TFP_DLCR=1 python3 -c "
 from pathlib import Path
 import tempfile
-from runtime.execution_flow.run_e2e_all import run_e2e_tfp_smoke
+from runtime.pipeline.run_e2e_all import run_e2e_tfp_smoke
 with tempfile.TemporaryDirectory() as d:
     p = Path(d) / 'tfp.json'
     run_e2e_tfp_smoke(p)

@@ -11,10 +11,10 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 | Check | Status |
 |-------|--------|
-| `runtime.execution_flow.run_e2e_all` | OK |
-| `runtime.execution_flow.run_l1_through_l9` | OK |
-| `runtime.execution_flow.analyze` | OK |
-| `runtime.execution_flow.r1_r4_pipeline` | OK |
+| `runtime.pipeline.run_e2e_all` | OK |
+| `runtime.pipeline.run_l1_through_l9` | OK |
+| `runtime.pipeline.analyze` | OK |
+| `runtime.pipeline.r1_r4_pipeline` | OK |
 | `runtime.services.analysis_service` | OK (moved from core; see below) |
 | `core.projection` | OK |
 | `sphere.execution_flow.pipeline_runner` | OK |
@@ -77,7 +77,7 @@ Casual check of active tree (excluding `legacy/`, `archive/`) to confirm everyth
 
 | Check | Status |
 |-------|--------|
-| `python3 -m runtime.execution_flow.run_e2e_all` | OK, **19** baseline JSON under `assets/artifacts/e2e/` (+ optional field dynamics); `docs/E2E_RUN_ORDER.md`, `E2E_OUTPUTS.md` |
+| `python3 -m runtime.pipeline.run_e2e_all` | OK, **19** baseline JSON under `assets/artifacts/e2e/` (+ optional field dynamics); `docs/E2E_RUN_ORDER.md`, `E2E_OUTPUTS.md` |
 
 ---
 

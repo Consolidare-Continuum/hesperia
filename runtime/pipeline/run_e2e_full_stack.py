@@ -3,7 +3,7 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
 # Usage:
-#   python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
+#   python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
 #       [--no-dynamics] [--skip-physics] [--skip-seal]
 #
 # Default: enables Ethan/field-dynamics env (same intent as tools/e2e_full_deliverables.sh), runs physics validation

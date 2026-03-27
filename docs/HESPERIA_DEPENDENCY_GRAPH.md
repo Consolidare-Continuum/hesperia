@@ -126,7 +126,7 @@ There is **no** separate `hesperia/engine/activation` or `hesperia/engine/relati
 |---------|--------------|
 | Session activation | `hesperia/nlp/session_parser.py`, related NLP modules |
 | Hits / relations for KME | `hesperia/engine/kme/clinical_bridge.py` (`activation_to_hits_and_relations`, `build_clinical_active_graph`) |
-| Lexicon-side matching | `runtime.execution_flow.analyze`, sphere execution_flow matched tokens |
+| Lexicon-side matching | `runtime.pipeline.analyze`, sphere execution_flow matched tokens |
 
 **Depends on:** NLP, Dict B, ontology. **Feeds:** semantic graph, KME `ActiveGraph`, TRIZ inputs. **Status:** **TUNABLE**.
 

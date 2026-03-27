@@ -15,39 +15,64 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **46**
-- `collections` — **2**
+- `__future__` — **73**
+- `collections` — **3**
+- `copy` — **1**
 - `core.attribution.structural` — **1**
+- `core.diagnostics.failures` — **1**
 - `core.domain.bridge` — **1**
 - `core.domain.loader` — **1**
 - `core.domain.models` — **1**
-- `core.domain.execution_flow` — **1**
+- `core.domain.pipeline` — **1**
+- `core.dynamics.constants` — **1**
+- `core.dynamics.numeric` — **2**
+- `core.guards.determinism` — **1**
+- `core.guards.invariants` — **1**
 - `core.hexmap.aggregate` — **1**
 - `core.hexmap.analytics` — **1**
-- `core.hexmap.dynamics` — **1**
-- `core.hexmap.projection` — **1**
 - `core.hexmap.topology` — **1**
 - `core.layers` — **1**
-- `core.lexical.analysis_input` — **2**
+- `core.lexical.analysis_input` — **1**
 - `core.lexical.cooccurrence` — **1**
-- `core.lexical.matcher` — **1**
-- `core.lexical.normalization` — **1**
 - `core.lexical.policy` — **1**
 - `core.math.io_deterministic_json` — **1**
+- `core.output.result_builder` — **1**
+- `core.pipeline.dynamics` — **1**
+- `core.pipeline.lexical` — **1**
+- `core.pipeline.projection` — **1**
+- `core.pipeline.resolver` — **1**
+- `core.pipeline.trajectory` — **1**
 - `core.projection` — **1**
 - `core.projection.public_projection_layer` — **1**
-- `core.resolver.resolver` — **1**
+- `core.result.contract` — **1**
+- `core.runtime.engine` — **2**
 - `core.sequence.segmentation` — **1**
-- `core.sequence.trajectory` — **1**
+- `core.state.semantic_state` — **1**
 - `core.topology.invariant_catalog` — **2**
-- `dataclasses` — **8**
+- `dataclasses` — **10**
 - `enum` — **1**
-- `functools` — **3**
-- `hashlib` — **2**
+- `functools` — **4**
+- `hashlib` — **4**
+- `hesperia.engine.aggregation` — **1**
 - `hesperia.engine.calibration.activation_calibration` — **1**
 - `hesperia.engine.calibration.hspr_field` — **1**
+- `hesperia.engine.calibration_dict_paths` — **1**
+- `hesperia.engine.concept_dictionary.executor` — **2**
+- `hesperia.engine.concept_dictionary.loader` — **2**
+- `hesperia.engine.concept_dictionary.validator` — **1**
+- `hesperia.engine.conflict_resolver` — **1**
+- `hesperia.engine.context_guard` — **1**
+- `hesperia.engine.context_schema` — **1**
+- `hesperia.engine.context_snapshot` — **1**
+- `hesperia.engine.core` — **2**
 - `hesperia.engine.energy` — **2**
+- `hesperia.engine.engine_signal_calibration` — **1**
+- `hesperia.engine.execution_graph` — **1**
 - `hesperia.engine.explainability` — **1**
+- `hesperia.engine.hesperia_control.dominance` — **1**
+- `hesperia.engine.hesperia_control.modifier_mvp` — **1**
+- `hesperia.engine.hesperia_control.readonly_guard` — **2**
+- `hesperia.engine.hesperia_control.unmapped_diagnostics` — **1**
 - `hesperia.engine.hex_dynamics` — **2**
 - `hesperia.engine.hex_family_bridge` — **1**
 - `hesperia.engine.hex_matrix_builders` — **3**
@@ -67,11 +92,14 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.kme.fingerprint_distance` — **1**
 - `hesperia.engine.kme.loader` — **1**
 - `hesperia.engine.kme.models` — **11**
-- `hesperia.engine.kme.execution_flow` — **1**
+- `hesperia.engine.kme.pipeline` — **2**
 - `hesperia.engine.kme.primitives.calculator` — **4**
 - `hesperia.engine.kme.profiling.profiler` — **2**
-- `hesperia.engine.lexical_concept.execution_flow` — **2**
+- `hesperia.engine.language` — **1**
+- `hesperia.engine.lexical_concept.pipeline` — **2**
 - `hesperia.engine.matrix_loader` — **3**
+- `hesperia.engine.module_loader` — **1**
+- `hesperia.engine.module_validator` — **1**
 - `hesperia.engine.observables` — **1**
 - `hesperia.engine.output_anomalies` — **1**
 - `hesperia.engine.pch_loader` — **2**
@@ -80,33 +108,59 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.projection.sanitizer` — **1**
 - `hesperia.engine.projection.schema_enforcer` — **2**
 - `hesperia.engine.sealed_multiscale_stack` — **1**
-- `hesperia.engine.tfp_signal_calibration` — **1**
+- `hesperia.engine.tfp_math` — **1**
+- `hesperia.engine.validators` — **1**
 - `hesperia.extensions.dynamics.e2e_bridge` — **3**
 - `hesperia.extensions.dynamics.equations` — **1**
 - `hesperia.extensions.triz.kme_bridge` — **2**
 - `hesperia.extensions.triz.models` — **1**
-- `hesperia.extensions.triz.execution_flow` — **1**
+- `hesperia.extensions.triz.pipeline` — **1**
+- `hesperia.modules.registry` — **1**
 - `hesperia.nlp.session_parser` — **1**
 - `hesperia.ontology.dictB.loader` — **1**
 - `hesperia.system.version` — **7**
-- `json` — **11**
-- `math` — **11**
+- `importlib` — **1**
+- `json` — **16**
+- `math` — **15**
 - `numpy` — **19**
-- `os` — **5**
-- `pathlib` — **17**
-- `re` — **1**
+- `os` — **7**
+- `pathlib` — **25**
+- `re` — **2**
 - `runtime.shipping.schema_guard` — **1**
 - `scipy.sparse` — **3**
 - `sphere.topology` — **1**
 - `sphere.topology.family_embedding` — **2**
 - `statistics` — **1**
-- `typing` — **39**
+- `types` — **1**
+- `typing` — **64**
 - `warnings` — **1**
-- `yaml` — **3**
+- `yaml` — **5**
 
 ## Per-file edges (sorted by path)
 
 ### `hesperia/engine/__init__.py`
+
+### `hesperia/engine/aggregation.py`
+
+**from**
+- `__future__`
+- `hesperia.engine.conflict_resolver`
+- `typing`
+
+### `hesperia/engine/api.py`
+
+**from**
+- `__future__`
+- `core.runtime.engine`
+- `typing`
+
+### `hesperia/engine/calculus.py`
+
+**from**
+- `__future__`
+- `core.result.contract`
+- `hesperia.engine.tfp_math`
+- `typing`
 
 ### `hesperia/engine/calibration/__init__.py`
 
@@ -135,6 +189,16 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.observables`
 - `typing`
 
+### `hesperia/engine/calibration_dict_paths.py`
+
+**import**
+- `os`
+
+**from**
+- `__future__`
+- `pathlib`
+- `typing`
+
 ### `hesperia/engine/calibration_profile.py`
 
 **import**
@@ -158,6 +222,97 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `pathlib`
 - `typing`
 
+### `hesperia/engine/concept_dictionary/__init__.py`
+
+**from**
+- `hesperia.engine.concept_dictionary.executor`
+- `hesperia.engine.concept_dictionary.loader`
+
+### `hesperia/engine/concept_dictionary/executor.py`
+
+**import**
+- `math`
+
+**from**
+- `__future__`
+- `core.dynamics.numeric`
+- `hesperia.engine.concept_dictionary.loader`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/concept_dictionary/loader.py`
+
+**import**
+- `json`
+
+**from**
+- `__future__`
+- `hesperia.engine.concept_dictionary.validator`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/concept_dictionary/validator.py`
+
+**from**
+- `__future__`
+- `typing`
+
+### `hesperia/engine/conflict_resolver.py`
+
+**from**
+- `__future__`
+- `typing`
+
+### `hesperia/engine/context_guard.py`
+
+**from**
+- `__future__`
+- `typing`
+
+### `hesperia/engine/context_schema.py`
+
+**from**
+- `__future__`
+- `hesperia.engine.language`
+- `typing`
+
+### `hesperia/engine/context_snapshot.py`
+
+**import**
+- `copy`
+- `hashlib`
+- `json`
+
+**from**
+- `__future__`
+- `types`
+- `typing`
+
+### `hesperia/engine/core.py`
+
+**import**
+- `json`
+- `yaml`
+
+**from**
+- `__future__`
+- `dataclasses`
+- `hesperia.engine.aggregation`
+- `hesperia.engine.context_guard`
+- `hesperia.engine.context_schema`
+- `hesperia.engine.context_snapshot`
+- `hesperia.engine.execution_graph`
+- `hesperia.engine.module_loader`
+- `hesperia.engine.module_validator`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/dependency_resolver.py`
+
+**from**
+- `__future__`
+- `typing`
+
 ### `hesperia/engine/energy.py`
 
 **import**
@@ -169,10 +324,65 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `enum`
 - `typing`
 
+### `hesperia/engine/engine_signal_calibration.py`
+
+**import**
+- `json`
+- `math`
+
+**from**
+- `__future__`
+- `functools`
+- `pathlib`
+- `typing`
+
+### `hesperia/engine/execution_graph.py`
+
+**from**
+- `__future__`
+- `typing`
+
 ### `hesperia/engine/explainability.py`
 
 **from**
 - `__future__`
+- `typing`
+
+### `hesperia/engine/hesperia_control/__init__.py`
+
+**from**
+- `hesperia.engine.hesperia_control.dominance`
+- `hesperia.engine.hesperia_control.modifier_mvp`
+- `hesperia.engine.hesperia_control.readonly_guard`
+- `hesperia.engine.hesperia_control.unmapped_diagnostics`
+
+### `hesperia/engine/hesperia_control/dominance.py`
+
+**from**
+- `__future__`
+- `typing`
+
+### `hesperia/engine/hesperia_control/modifier_mvp.py`
+
+**from**
+- `__future__`
+- `hesperia.engine.hesperia_control.readonly_guard`
+- `typing`
+
+### `hesperia/engine/hesperia_control/readonly_guard.py`
+
+**import**
+- `os`
+
+**from**
+- `__future__`
+- `pathlib`
+
+### `hesperia/engine/hesperia_control/unmapped_diagnostics.py`
+
+**from**
+- `__future__`
+- `dataclasses`
 - `typing`
 
 ### `hesperia/engine/hex_dynamics.py`
@@ -327,7 +537,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.kme.fingerprint_distance`
 - `hesperia.engine.kme.loader`
 - `hesperia.engine.kme.models`
-- `hesperia.engine.kme.execution_flow`
+- `hesperia.engine.kme.pipeline`
 - `hesperia.engine.kme.primitives.calculator`
 - `hesperia.engine.kme.profiling.profiler`
 - `hesperia.extensions.triz.models`
@@ -379,6 +589,12 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `__future__`
 - `hesperia.engine.kme.models`
 - `typing`
+
+### `hesperia/engine/kme/execution_flow.py`
+
+**from**
+- `__future__`
+- `hesperia.engine.kme.pipeline`
 
 ### `hesperia/engine/kme/extractor.py`
 
@@ -433,7 +649,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `__future__`
 - `dataclasses`
 
-### `hesperia/engine/kme/execution_flow.py`
+### `hesperia/engine/kme/pipeline.py`
 
 **from**
 - `__future__`
@@ -484,12 +700,18 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ### `hesperia/engine/kme/validation/__init__.py`
 
+### `hesperia/engine/language.py`
+
+**from**
+- `__future__`
+- `typing`
+
 ### `hesperia/engine/lexical_concept/__init__.py`
 
 **from**
-- `hesperia.engine.lexical_concept.execution_flow`
+- `hesperia.engine.lexical_concept.pipeline`
 
-### `hesperia/engine/lexical_concept/execution_flow.py`
+### `hesperia/engine/lexical_concept/pipeline.py`
 
 **import**
 - `json`
@@ -499,20 +721,29 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **from**
 - `__future__`
+- `collections`
+- `core.diagnostics.failures`
+- `core.dynamics.constants`
+- `core.dynamics.numeric`
+- `core.guards.determinism`
+- `core.guards.invariants`
 - `core.hexmap.aggregate`
 - `core.hexmap.analytics`
-- `core.hexmap.dynamics`
-- `core.hexmap.projection`
 - `core.hexmap.topology`
-- `core.lexical.analysis_input`
 - `core.lexical.cooccurrence`
-- `core.lexical.matcher`
-- `core.lexical.normalization`
 - `core.lexical.policy`
-- `core.resolver.resolver`
+- `core.output.result_builder`
+- `core.pipeline.dynamics`
+- `core.pipeline.lexical`
+- `core.pipeline.projection`
+- `core.pipeline.resolver`
+- `core.pipeline.trajectory`
+- `core.runtime.engine`
 - `core.sequence.segmentation`
-- `core.sequence.trajectory`
-- `hesperia.engine.tfp_signal_calibration`
+- `core.state.semantic_state`
+- `hesperia.engine.calibration_dict_paths`
+- `hesperia.engine.concept_dictionary.executor`
+- `hesperia.engine.engine_signal_calibration`
 - `pathlib`
 - `typing`
 
@@ -529,6 +760,22 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `pathlib`
 - `typing`
 
+### `hesperia/engine/module_loader.py`
+
+**import**
+- `importlib`
+
+**from**
+- `__future__`
+- `hesperia.modules.registry`
+- `typing`
+
+### `hesperia/engine/module_validator.py`
+
+**from**
+- `__future__`
+- `typing`
+
 ### `hesperia/engine/multiscale_product_bridge.py`
 
 **import**
@@ -540,7 +787,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.domain.bridge`
 - `core.domain.loader`
 - `core.domain.models`
-- `core.domain.execution_flow`
+- `core.domain.pipeline`
 - `core.layers`
 - `core.lexical.analysis_input`
 - `hesperia.engine.hex_matrix_builders`
@@ -612,6 +859,20 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `scipy.sparse`
 - `typing`
 
+### `hesperia/engine/pipeline_runner.py`
+
+**import**
+- `hashlib`
+- `json`
+- `yaml`
+
+**from**
+- `__future__`
+- `hesperia.engine.core`
+- `hesperia.engine.validators`
+- `pathlib`
+- `typing`
+
 ### `hesperia/engine/product_signals.py`
 
 **import**
@@ -620,7 +881,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **from**
 - `__future__`
-- `hesperia.extensions.triz.execution_flow`
+- `hesperia.extensions.triz.pipeline`
 - `typing`
 
 ### `hesperia/engine/projection/__init__.py`
@@ -663,6 +924,14 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 **from**
 - `hesperia.system.version`
 
+### `hesperia/engine/runner.py`
+
+**from**
+- `__future__`
+- `hesperia.engine.core`
+- `pathlib`
+- `typing`
+
 ### `hesperia/engine/sealed_multiscale_stack.py`
 
 **import**
@@ -676,13 +945,23 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.hex_family_bridge`
 - `hesperia.engine.hex_matrix_builders`
 - `hesperia.engine.hspr_index`
-- `hesperia.engine.lexical_concept.execution_flow`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.matrix_loader`
 - `hesperia.engine.pch_loader`
 - `hesperia.engine.product_signals`
 - `hesperia.extensions.dynamics.e2e_bridge`
 - `hesperia.system.version`
 - `pathlib`
+- `typing`
+
+### `hesperia/engine/tfp_math.py`
+
+**import**
+- `math`
+- `re`
+
+**from**
+- `__future__`
 - `typing`
 
 ### `hesperia/engine/tfp_signal_calibration.py`
@@ -695,5 +974,14 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `__future__`
 - `functools`
 - `pathlib`
+- `typing`
+
+### `hesperia/engine/validators.py`
+
+**import**
+- `math`
+
+**from**
+- `__future__`
 - `typing`
 

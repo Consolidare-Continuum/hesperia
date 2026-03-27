@@ -58,7 +58,7 @@
 
 ## 3. Import Discipline
 
-- **Public entry points** (e.g. `runtime.execution_flow.run_l1_through_l9`, `runtime.api.main`) may import:
+- **Public entry points** (e.g. `runtime.pipeline.run_l1_through_l9`, `runtime.api.main`) may import:
   - `core.projection` (apply_public_projection, etc.)
   - `core.services` (analysis_service, calibration_service, report_service)
   - Runtime utilities (provenance, dossier writer that applies projection)

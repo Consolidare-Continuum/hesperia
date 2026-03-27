@@ -26,7 +26,7 @@ Public runtime and API consumers may use only the following:
 
 - **write_public_audit_manifest(manifest, output_path)** — Write non-revealing audit manifest.
 
-### Entry points (runtime.execution_flow)
+### Entry points (runtime.pipeline)
 
 - **run_l1_through_l9** — CLI; output is projected.
 - **run_e2e_all** — E2E flows; all outputs projected.

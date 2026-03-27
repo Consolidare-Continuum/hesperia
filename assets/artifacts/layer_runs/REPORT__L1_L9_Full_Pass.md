@@ -9,7 +9,7 @@ See LEGAL_NOTICE.md for full terms.
 # Report — L1–L9 full pass (script math)
 
 **Date**: 2026-02-24
-**Script**: `python3 -m runtime.execution_flow.run_l1_through_l9`
+**Script**: `python3 -m runtime.pipeline.run_l1_through_l9`
 **Owner**: Gena
 
 ## Output log dir (link path)

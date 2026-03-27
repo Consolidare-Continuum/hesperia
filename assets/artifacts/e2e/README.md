@@ -36,7 +36,7 @@ Planned outputs from the unified e2e run. No calibration of results; existence o
 **Regenerate all:**
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_all
 ```
 
 Optional: `--out-dir PATH` to write elsewhere; default: `assets/artifacts/e2e/`.

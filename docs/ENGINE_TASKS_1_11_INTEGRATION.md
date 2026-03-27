@@ -10,7 +10,7 @@ Single **wiring index**: what each task delivers, where it lives, how it is veri
 **Authoritative GO/NO-GO:** `python3 -m tools.system_seal.run_system_seal` → `hesperia.system.system_seal.run_system_seal_gate`.  
 **Release bundle:** `python3 tools/release/build_release_audit_v0_5_1.py` writes `release/v0.5.1/system_seal.json` (and full audit tree) and fails if the gate is not `PASS`. Historical v0.5.0: `build_release_audit_v0_5_0.py` → `release/v0.5.0/`.
 
-**Full repo E2E pipe (artifacts + yields):** `python3 -m runtime.execution_flow.run_e2e_full_stack` — `run_e2e_all` + product JSON + physics validation + system seal + `run_output_e2e_full_stack_manifest.json` (see `docs/E2E_RUN_ORDER.md`).
+**Full repo E2E pipe (artifacts + yields):** `python3 -m runtime.pipeline.run_e2e_full_stack` — `run_e2e_all` + product JSON + physics validation + system seal + `run_output_e2e_full_stack_manifest.json` (see `docs/E2E_RUN_ORDER.md`).
 
 | Task | Scope | Primary artifacts / modules | Seal check key (see `system_seal.json`) |
 |------|--------|-----------------------------|----------------------------------------|

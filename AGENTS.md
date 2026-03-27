@@ -126,7 +126,7 @@ Agents must never modify code under `legacy/` unless explicitly instructed to pe
 - **`docs/PUBLIC_PRODUCT_SURFACE.md`** — internal vs projection vs public; HTTP/CLI; capabilities; E2E split.
 - **Projection gate:** `hesperia.engine.projection.project_to_public` — product paths must not bypass it (see `runtime.services.analysis_service`, `runtime.artifact_writer`).
 - **Capabilities:** `hesperia/system/capabilities.yaml` + `hesperia.system.capabilities` (env: `HESPERIA_PRODUCT_SURFACE`, `HESPERIA_EXPOSE_TRIZ`, `HESPERIA_EXPOSE_VERSION`).
-- **Product E2E:** `python3 -m runtime.execution_flow.run_e2e_product` — minimal raw_text → projection → schema check (full internal E2E remains `run_e2e_all`).
+- **Product E2E:** `python3 -m runtime.pipeline.run_e2e_product` — minimal raw_text → projection → schema check (full internal E2E remains `run_e2e_all`).
 
 ## Release seal (Task 5 — v0.5.1 current · v0.5.0 frozen)
 

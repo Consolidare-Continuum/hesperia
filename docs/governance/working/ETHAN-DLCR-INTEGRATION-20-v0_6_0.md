@@ -146,7 +146,7 @@ Companion: task.txt §26–§28, task_gena_v0_6_0.md (baseline landed), specs/ca
 ### `INT-020` — Integration checklist + VARIABLE_CATALOG / operator runbook
 - **Size:** S  
 - **Depends on:** INT-001–INT-019 (rolling)  
-- **Artifacts:** `docs/governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md` (env matrix, command list: `pytest …`, `python3 -m runtime.execution_flow.run_e2e_all`, validators); update `ETHAN-OPEN-WORKFLOW-PROCEED.md` closure criteria.  
+- **Artifacts:** `docs/governance/working/ETHAN-DLCR-INTEGRATION-RUNBOOK.md` (env matrix, command list: `pytest …`, `python3 -m runtime.pipeline.run_e2e_all`, validators); update `ETHAN-OPEN-WORKFLOW-PROCEED.md` closure criteria.  
 - **Acceptance:** Operator can run TFP + DLCR from doc without reading this full 20-table.
 
 ---

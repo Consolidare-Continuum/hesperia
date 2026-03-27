@@ -17,8 +17,8 @@ End-to-end stack from **raw raw_text** to **commercial analytics**. Variable nam
 
 **Sources ingested:** documents, laws, policy programs, research papers, corporate strategies, news corpora, psychological transcripts.
 
-**Execution Flow entry (lexicon / attribution path):** `runtime.execution_flow.analyze`  
-**Full multi-artifact E2E:** `python3 -m runtime.execution_flow.run_e2e_all`
+**Execution Flow entry (lexicon / attribution path):** `runtime.pipeline.analyze`  
+**Full multi-artifact E2E:** `python3 -m runtime.pipeline.run_e2e_all`
 
 **Primary outputs (text-layer variables):**
 

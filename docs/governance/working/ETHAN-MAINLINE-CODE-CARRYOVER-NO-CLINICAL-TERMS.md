@@ -81,7 +81,7 @@ requires an explicit **minor release** decision and documentation update — not
 | DLCR lexical-concept execution_flow | `hesperia/engine/lexical_concept/execution_flow.py` | **Already** parallel canon path; align naming with §1–2 of this doc. |
 | TFP stage enum / `detect_tfp_stage` | `research/clinical_tfp/stage_detection.py` | **Do not** promote labels to mainline; replace with **neutral phase mapping** if product needs discrete stages. |
 | `run_tfp_file_pipeline` orchestration | `runtime/execution_flow/run_tfp_file_pipeline.py` | **Refactor** over time: call shared analyze/topology helpers; keep clinical-only artifacts behind flags; optional rename to `run_lexical_calibration_bundle.py` when content is generic. |
-| Product E2E minimal path | `runtime.execution_flow.run_e2e_product` | **Optional add:** smoke that touches lexical→concept path (and optional `H` when enabled) without clinical fixtures. |
+| Product E2E minimal path | `runtime.pipeline.run_e2e_product` | **Optional add:** smoke that touches lexical→concept path (and optional `H` when enabled) without clinical fixtures. |
 
 ---
 

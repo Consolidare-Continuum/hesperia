@@ -10,7 +10,7 @@ See LEGAL_NOTICE.md for full terms.
 One command runs **all** stages in a fixed sequence:
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all [--out-dir DIR] [--text "…"] [--calibration-batch-n N]
+python3 -m runtime.pipeline.run_e2e_all [--out-dir DIR] [--text "…"] [--calibration-batch-n N]
 ```
 
 Default text is shared across stages (unless overridden). Default artifact dir: `assets/artifacts/e2e/`.  
@@ -19,7 +19,7 @@ Default text is shared across stages (unless overridden). Default artifact dir: 
 **Product-only E2E (Task 4):** minimal sealed proof — one text → `run_structural_analysis` (projection inside service) → schema guard → `run_output_e2e_product_surface.json`:
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_product
+python3 -m runtime.pipeline.run_e2e_product
 ```
 
 See `docs/PUBLIC_PRODUCT_SURFACE.md`.
@@ -28,11 +28,11 @@ See `docs/PUBLIC_PRODUCT_SURFACE.md`.
 
 | Step | Output file | What runs | Primary modules |
 |------|-------------|-----------|-----------------|
-| 1 | `run_output_e2e_sentence.json` | Lexicon analyze: 6-key summary, extended (dict_b, family vectors truncated), R1–R4 in extended | `runtime.execution_flow.analyze` |
+| 1 | `run_output_e2e_sentence.json` | Lexicon analyze: 6-key summary, extended (dict_b, family vectors truncated), R1–R4 in extended | `runtime.pipeline.analyze` |
 | 2 | `run_output_e2e_l1_l9.json` | Sphere **L1–L9** full execution_flow (USF, interpretation, prolog, guards, diagnostics) + **`narrative_microstructure_e2e`** (hex product maps + Option A + TFP slice) | `run_l1_through_l9` → `sphere.execution_flow` · **`hex_outputs.e2e_integration`** |
-| 3 | `run_output_e2e_r1_r4.json` | **R1–R4** reading-scale execution_flow only (units + book_profile) | `runtime.execution_flow.r1_r4_pipeline` |
-| 4 | `run_output_e2e_sphere_math_values.json` | L1–L9 **numeric layer values** for the same text | `runtime.execution_flow.run_sphere_math_values` |
-| 5 | `run_output_e2e_sphere_math_100.json` | Sphere math over first **3** calibration sentences (smoke; distinct file from full batch below) | `runtime.execution_flow.run_sphere_math_100_sentences` |
+| 3 | `run_output_e2e_r1_r4.json` | **R1–R4** reading-scale execution_flow only (units + book_profile) | `runtime.pipeline.r1_r4_pipeline` |
+| 4 | `run_output_e2e_sphere_math_values.json` | L1–L9 **numeric layer values** for the same text | `runtime.pipeline.run_sphere_math_values` |
+| 5 | `run_output_e2e_sphere_math_100.json` | Sphere math over first **3** calibration sentences (smoke; distinct file from full batch below) | `runtime.pipeline.run_sphere_math_100_sentences` |
 | 5b | `run_output_e2e_calibration_100_structural.json` | Structural batch (L1–L9 public projection) per sentence — **N** sentences (default **100**, `tools/calibration/data/calibration_100_sentences.json`) | `run_structural_analysis_batch` |
 | 5c | `run_output_e2e_calibration_100_summary.json` | Aggregates: dominant area/family histograms, mean L1 coverage & stability, token stats | derived from 5b |
 | 6 | `run_output_e2e_domain_metrics.json` | Structural measurement **with domain metrics**: matched tokens → KME bridge → 6 primitives, 35 derived, 41 fingerprint + hash | `runtime.services.analysis_service` / `sphere.execution_flow` + `hesperia.engine.kme` |
@@ -69,7 +69,7 @@ Tuple **`E2E_OUTPUTS`** mirrors steps 1–11d (**19** files incl. hex microstruc
 Single orchestrator — **same directory** for every JSON + **manifest** with SHA256 index:
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
+python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]
 #   [--no-dynamics] [--skip-physics] [--skip-seal]
 ```
 
@@ -94,6 +94,6 @@ Writes e.g. `assets/artifacts/e2e_full_deliverables/` (all `run_output_e2e_*.jso
 **TFP smoke:** `HESPERIA_TFP_DLCR=1` adds **`session_dlcr_bundles`** to `run_output_e2e_tfp_smoke.json`.
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_all
 pytest tests/test_e2e_flows.py tests/nlp/test_role_direction_and_temporal.py::test_detect_tfp_stage -v
 ```

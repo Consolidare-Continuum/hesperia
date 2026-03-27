@@ -8,7 +8,7 @@ See LEGAL_NOTICE.md for full terms.
 # E2E pre-freeze output files
 
 Single manifest of all outputs produced by the canonical E2E run.  
-**Entrypoint:** `python3 -m runtime.execution_flow.run_e2e_all [--out-dir path]`  
+**Entrypoint:** `python3 -m runtime.pipeline.run_e2e_all [--out-dir path]`  
 **Default out-dir:** `assets/artifacts/e2e/`  
 **Run order (modules, dependencies):** `docs/E2E_RUN_ORDER.md`
 
@@ -42,7 +42,7 @@ Single manifest of all outputs produced by the canonical E2E run.
 
 ## Full encompassing pipe (`run_e2e_full_stack`)
 
-**Entrypoint:** `python3 -m runtime.execution_flow.run_e2e_full_stack [--out-dir path]` (default `assets/artifacts/e2e_full_stack/`)  
+**Entrypoint:** `python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir path]` (default `assets/artifacts/e2e_full_stack/`)  
 **Shell:** `./tools/e2e_full_deliverables.sh` → same orchestrator.
 
 Writes **all rows above** (same basenames) **plus:**
@@ -59,6 +59,6 @@ Physics validation + system seal run as part of the pipe (unless `--skip-physics
 `test_e2e_run_e2e_all_produces_all_artifacts` runs **with `HESPERIA_FIELD_DYNAMICS=1`** and asserts **20** files; `test_e2e_run_e2e_all_optional_dlcr_artifact` asserts **21** with `HESPERIA_E2E_DLCR=1`. Calibration batch uses `HESPERIA_E2E_CALIBRATION_BATCH_N=5` in CI.
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_all
 pytest tests/test_e2e_flows.py -v
 ```

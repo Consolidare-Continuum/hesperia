@@ -12,7 +12,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 ## Scanned directories
 
 - `runtime/api/`
-- `runtime/execution_flow/`
+- `runtime/pipeline/`
 - `runtime/public_reports/`
 - `runtime/artifact_writer/`
 - `runtime/runners/`
@@ -21,11 +21,11 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ## Excluded files (see `tools/check_import_boundary.py`)
 
-- `runtime/execution_flow/analyze.py`
-- `runtime/execution_flow/batch_runner.py`
-- `runtime/execution_flow/r1_r4_pipeline.py`
-- `runtime/execution_flow/reading_scales.py`
-- `runtime/execution_flow/run_corpus_benchmark.py`
+- `runtime/pipeline/analyze.py`
+- `runtime/pipeline/batch_runner.py`
+- `runtime/pipeline/r1_r4_pipeline.py`
+- `runtime/pipeline/reading_scales.py`
+- `runtime/pipeline/run_corpus_benchmark.py`
 
 ## Forbidden targets (must never appear in scanned public-runtime files)
 
@@ -36,11 +36,11 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `core.math.*`
 - `core.domain.bridge*`
 - `core.topology.invariant_catalog*`
-- `sphere.execution_flow.pipeline_runner*`
-- `sphere.execution_flow.layer_registry*`
-- `sphere.execution_flow.pipeline_state*`
+- `sphere.pipeline.pipeline_runner*`
+- `sphere.pipeline.layer_registry*`
+- `sphere.pipeline.pipeline_state*`
 
-### Component aliases
+### Module aliases
 
 - `core.attribution.structural`
 - `core.contracts.layer_contract`
@@ -50,7 +50,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **24**
+- `__future__` — **25**
 - `argparse` — **12**
 - `collections` — **1**
 - `core.projection` — **2**
@@ -61,12 +61,12 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `fastapi.openapi.utils` — **1**
 - `fastapi.responses` — **3**
 - `fastapi.security` — **2**
-- `hashlib` — **2**
+- `hashlib` — **3**
 - `hesperia.engine.hex_outputs.e2e_integration` — **2**
 - `hesperia.engine.kme.clinical_bridge` — **2**
 - `hesperia.engine.kme.models` — **1**
-- `hesperia.engine.kme.execution_flow` — **2**
-- `hesperia.engine.lexical_concept.execution_flow` — **4**
+- `hesperia.engine.kme.pipeline` — **2**
+- `hesperia.engine.lexical_concept.pipeline` — **4**
 - `hesperia.engine.multiscale_product_bridge` — **1**
 - `hesperia.engine.output_anomalies` — **1**
 - `hesperia.engine.projection` — **2**
@@ -78,7 +78,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.extensions.dynamics.calibration` — **1**
 - `hesperia.extensions.dynamics.e2e_bridge` — **1**
 - `hesperia.extensions.triz.commercial_intelligence` — **1**
-- `hesperia.extensions.triz.execution_flow` — **4**
+- `hesperia.extensions.triz.pipeline` — **4**
 - `hesperia.extensions.triz.topology_activation_pipeline` — **1**
 - `hesperia.nlp.session_parser` — **2**
 - `hesperia.nlp.transcript_speaker_labels` — **1**
@@ -89,35 +89,36 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.product.comparison_engine` — **1**
 - `hesperia.product.mvp_acceptance` — **1**
 - `hesperia.product.package_builder` — **1**
+- `hesperia.product.service` — **1**
 - `hesperia.system.capabilities` — **3**
 - `hesperia.system.system_seal` — **2**
 - `hesperia.system.version` — **7**
-- `json` — **15**
+- `hesperia.tfp` — **1**
+- `json` — **16**
 - `logging` — **1**
-- `os` — **13**
-- `pathlib` — **21**
+- `os` — **14**
+- `pathlib` — **22**
 - `pydantic` — **2**
-- `research.clinical_tfp.interpretation` — **1**
-- `research.clinical_tfp.session_topology` — **2**
-- `research.clinical_tfp.stage_detection` — **2**
+- `research.clinical_tfp.session_topology` — **1**
+- `research.clinical_tfp.stage_detection` — **1**
 - `runtime.api.main` — **1**
 - `runtime.api.triz_mvp_v1` — **1**
 - `runtime.artifact_writer` — **8**
 - `runtime.artifact_writer.writer` — **1**
 - `runtime.dossier` — **1**
 - `runtime.dossier.index_manager` — **1**
-- `runtime.execution_flow` — **1**
-- `runtime.execution_flow.analyze` — **3**
-- `runtime.execution_flow.batch_runner` — **1**
-- `runtime.execution_flow.r1_r4_pipeline` — **2**
-- `runtime.execution_flow.reading_scales` — **1**
-- `runtime.execution_flow.run_e2e_all` — **2**
-- `runtime.execution_flow.run_l1_through_l9` — **1**
+- `runtime.pipeline` — **1**
+- `runtime.pipeline.analyze` — **3**
+- `runtime.pipeline.batch_runner` — **1**
+- `runtime.pipeline.r1_r4_pipeline` — **2**
+- `runtime.pipeline.reading_scales` — **1**
+- `runtime.pipeline.run_e2e_all` — **2**
+- `runtime.pipeline.run_l1_through_l9` — **1**
 - `runtime.provenance` — **1**
 - `runtime.public_reports.public_manifest_writer` — **1**
 - `runtime.semantic_field.run_field_calibration` — **1**
 - `runtime.semantic_field.run_semantic_field` — **1**
-- `runtime.services.analysis_service` — **14**
+- `runtime.services.analysis_service` — **15**
 - `runtime.shipping.cli_main` — **1**
 - `runtime.shipping.env_guard` — **1**
 - `runtime.shipping.license_check` — **1**
@@ -127,10 +128,10 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `sphere.topology.activation_propagation` — **1**
 - `sphere.topology.family_embedding` — **2**
 - `subprocess` — **1**
-- `sys` — **15**
+- `sys` — **16**
 - `tempfile` — **1**
 - `time` — **2**
-- `typing` — **9**
+- `typing` — **10**
 - `uuid` — **3**
 - `uvicorn` — **1**
 
@@ -154,8 +155,9 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `fastapi.openapi.utils`
 - `fastapi.responses`
 - `fastapi.security`
-- `hesperia.engine.lexical_concept.execution_flow`
-- `hesperia.extensions.triz.execution_flow`
+- `hesperia.engine.lexical_concept.pipeline`
+- `hesperia.extensions.triz.pipeline`
+- `hesperia.product.service`
 - `hesperia.system.capabilities`
 - `hesperia.system.version`
 - `pathlib`
@@ -176,7 +178,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `fastapi.responses`
 - `fastapi.security`
 - `hesperia.extensions.triz.commercial_intelligence`
-- `hesperia.extensions.triz.execution_flow`
+- `hesperia.extensions.triz.pipeline`
 - `hesperia.product.api_contracts.triz_analysis_v1`
 - `hesperia.product.api_contracts.triz_compare_v1`
 - `hesperia.product.api_contracts.triz_export_v1`
@@ -204,9 +206,9 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.shipping.schema_guard`
 - `typing`
 
-### `runtime/execution_flow/__init__.py`
+### `runtime/pipeline/__init__.py`
 
-### `runtime/execution_flow/run_e2e_all.py`
+### `runtime/pipeline/run_e2e_all.py`
 
 **import**
 - `argparse`
@@ -223,27 +225,25 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.engine.hex_outputs.e2e_integration`
 - `hesperia.engine.kme.clinical_bridge`
 - `hesperia.engine.kme.models`
-- `hesperia.engine.kme.execution_flow`
-- `hesperia.engine.lexical_concept.execution_flow`
+- `hesperia.engine.kme.pipeline`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.sealed_multiscale_stack`
 - `hesperia.experiments.experiment_runner`
 - `hesperia.extensions.dynamics.calibration`
 - `hesperia.extensions.dynamics.e2e_bridge`
-- `hesperia.extensions.triz.execution_flow`
+- `hesperia.extensions.triz.pipeline`
 - `hesperia.nlp.session_parser`
 - `hesperia.product.mvp_acceptance`
 - `hesperia.system.version`
+- `hesperia.tfp`
 - `pathlib`
-- `research.clinical_tfp.interpretation`
-- `research.clinical_tfp.session_topology`
-- `research.clinical_tfp.stage_detection`
 - `runtime.artifact_writer`
-- `runtime.execution_flow`
-- `runtime.execution_flow.analyze`
-- `runtime.execution_flow.batch_runner`
-- `runtime.execution_flow.r1_r4_pipeline`
-- `runtime.execution_flow.reading_scales`
-- `runtime.execution_flow.run_l1_through_l9`
+- `runtime.pipeline`
+- `runtime.pipeline.analyze`
+- `runtime.pipeline.batch_runner`
+- `runtime.pipeline.r1_r4_pipeline`
+- `runtime.pipeline.reading_scales`
+- `runtime.pipeline.run_l1_through_l9`
 - `runtime.semantic_field.run_field_calibration`
 - `runtime.semantic_field.run_semantic_field`
 - `runtime.services.analysis_service`
@@ -251,7 +251,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `sphere.topology.family_embedding`
 - `typing`
 
-### `runtime/execution_flow/run_e2e_full_stack.py`
+### `runtime/pipeline/run_e2e_full_stack.py`
 
 **import**
 - `argparse`
@@ -267,12 +267,12 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.system.system_seal`
 - `hesperia.system.version`
 - `pathlib`
-- `runtime.execution_flow.run_e2e_all`
+- `runtime.pipeline.run_e2e_all`
 - `runtime.services.analysis_service`
 - `runtime.shipping.schema_guard`
 - `typing`
 
-### `runtime/execution_flow/run_e2e_product.py`
+### `runtime/pipeline/run_e2e_product.py`
 
 **import**
 - `json`
@@ -285,7 +285,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.services.analysis_service`
 - `runtime.shipping.schema_guard`
 
-### `runtime/execution_flow/run_e2e_sentence.py`
+### `runtime/pipeline/run_e2e_sentence.py`
 
 **import**
 - `argparse`
@@ -295,22 +295,9 @@ Enforced by `python3 tools/check_import_boundary.py`.
 **from**
 - `__future__`
 - `pathlib`
-- `runtime.execution_flow.analyze`
+- `runtime.pipeline.analyze`
 
-### `runtime/execution_flow/run_l1_l2.py`
-
-**import**
-- `argparse`
-- `json`
-- `sys`
-
-**from**
-- `__future__`
-- `pathlib`
-- `runtime.artifact_writer`
-- `runtime.services.analysis_service`
-
-### `runtime/execution_flow/run_l1_l2_l3.py`
+### `runtime/pipeline/run_l1_l2.py`
 
 **import**
 - `argparse`
@@ -323,7 +310,20 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.artifact_writer`
 - `runtime.services.analysis_service`
 
-### `runtime/execution_flow/run_l1_through_l9.py`
+### `runtime/pipeline/run_l1_l2_l3.py`
+
+**import**
+- `argparse`
+- `json`
+- `sys`
+
+**from**
+- `__future__`
+- `pathlib`
+- `runtime.artifact_writer`
+- `runtime.services.analysis_service`
+
+### `runtime/pipeline/run_l1_through_l9.py`
 
 **import**
 - `argparse`
@@ -339,7 +339,21 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.provenance`
 - `runtime.services.analysis_service`
 
-### `runtime/execution_flow/run_r1_r4_pipeline.py`
+### `runtime/pipeline/run_main_engine_workflow.py`
+
+**import**
+- `hashlib`
+- `json`
+- `os`
+- `sys`
+
+**from**
+- `__future__`
+- `pathlib`
+- `runtime.services.analysis_service`
+- `typing`
+
+### `runtime/pipeline/run_r1_r4_pipeline.py`
 
 **import**
 - `argparse`
@@ -349,9 +363,9 @@ Enforced by `python3 tools/check_import_boundary.py`.
 **from**
 - `__future__`
 - `pathlib`
-- `runtime.execution_flow.r1_r4_pipeline`
+- `runtime.pipeline.r1_r4_pipeline`
 
-### `runtime/execution_flow/run_sphere_math_100_sentences.py`
+### `runtime/pipeline/run_sphere_math_100_sentences.py`
 
 **import**
 - `argparse`
@@ -364,7 +378,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.artifact_writer`
 - `runtime.services.analysis_service`
 
-### `runtime/execution_flow/run_sphere_math_values.py`
+### `runtime/pipeline/run_sphere_math_values.py`
 
 **import**
 - `argparse`
@@ -376,7 +390,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `runtime.artifact_writer`
 - `runtime.services.analysis_service`
 
-### `runtime/execution_flow/run_tfp_file_pipeline.py`
+### `runtime/pipeline/run_tfp_file_pipeline.py`
 
 **import**
 - `argparse`
@@ -390,12 +404,12 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `core.projection`
 - `hesperia.engine.hex_outputs.e2e_integration`
 - `hesperia.engine.kme.clinical_bridge`
-- `hesperia.engine.kme.execution_flow`
-- `hesperia.engine.lexical_concept.execution_flow`
+- `hesperia.engine.kme.pipeline`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.output_anomalies`
 - `hesperia.engine.sealed_multiscale_stack`
 - `hesperia.engine.tfp_signal_calibration`
-- `hesperia.extensions.triz.execution_flow`
+- `hesperia.extensions.triz.pipeline`
 - `hesperia.extensions.triz.topology_activation_pipeline`
 - `hesperia.nlp.session_parser`
 - `hesperia.nlp.transcript_speaker_labels`
@@ -403,8 +417,8 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `pathlib`
 - `research.clinical_tfp.session_topology`
 - `research.clinical_tfp.stage_detection`
-- `runtime.execution_flow.analyze`
-- `runtime.execution_flow.run_e2e_all`
+- `runtime.pipeline.analyze`
+- `runtime.pipeline.run_e2e_all`
 - `runtime.services.analysis_service`
 - `sphere.topology.family_embedding`
 - `typing`
@@ -449,7 +463,7 @@ Enforced by `python3 tools/check_import_boundary.py`.
 
 **from**
 - `__future__`
-- `hesperia.engine.lexical_concept.execution_flow`
+- `hesperia.engine.lexical_concept.pipeline`
 - `hesperia.engine.multiscale_product_bridge`
 - `hesperia.engine.projection`
 - `hesperia.engine.projection.dlcr_public`

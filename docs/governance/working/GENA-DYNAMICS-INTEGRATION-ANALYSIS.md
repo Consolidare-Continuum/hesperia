@@ -63,11 +63,11 @@ flowchart LR
 |------|--------|----------|
 | Session → graph | `hesperia.engine.kme.clinical_bridge` | `build_clinical_active_graph` |
 | TRIZ | `hesperia.extensions.triz.execution_flow` | `active_graph_from_payload`, `run_triz_analysis_complete` |
-| Topology maps | `runtime.execution_flow.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
+| Topology maps | `runtime.pipeline.run_e2e_all` | `_activation_topology_maps` (shared with E2E) |
 | Rows → L7 vector | `hesperia.extensions.dynamics.triz_signal` | `contradiction_signal_12_from_con_rows` |
 | Ξ boost | `hesperia.extensions.dynamics.xi_proxy` | `apply_xi_to_contradiction_signal`; optional `xi_proxy_from_kme_active_graph` when `HESPERIA_FIELD_DYNAMICS_XI_KME=1` |
 | Orchestration | `hesperia.extensions.dynamics.e2e_bridge` | `run_field_dynamics_e2e_artifact` |
-| Entry from runner | `runtime.execution_flow.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
+| Entry from runner | `runtime.pipeline.run_e2e_all` | Optional 10th artifact when `HESPERIA_FIELD_DYNAMICS=1` |
 
 ---
 
@@ -131,7 +131,7 @@ HESPERIA_FIELD_DYNAMICS_PHASE3=1 \
 HESPERIA_FIELD_DYNAMICS_PHASE4=1 \
 HESPERIA_FIELD_DYNAMICS_TRIZ=1 \
 HESPERIA_FIELD_DYNAMICS_XI=1 \
-python3 -m runtime.execution_flow.run_e2e_all \
+python3 -m runtime.pipeline.run_e2e_all \
   --out-dir assets/artifacts/e2e_full_deliverables \
   --text "Your clinical or rich session text here."
 ```
@@ -148,7 +148,7 @@ python3 -m runtime.execution_flow.run_e2e_all \
 
 ```bash
 # Dynamics without TRIZ (hits only, faster)
-HESPERIA_FIELD_DYNAMICS=1 HESPERIA_FIELD_DYNAMICS_TRIZ=0 python3 -m runtime.execution_flow.run_e2e_all ...
+HESPERIA_FIELD_DYNAMICS=1 HESPERIA_FIELD_DYNAMICS_TRIZ=0 python3 -m runtime.pipeline.run_e2e_all ...
 ```
 
 See [E2E_RUN_ORDER.md](../../E2E_RUN_ORDER.md) for artifact order and paths.

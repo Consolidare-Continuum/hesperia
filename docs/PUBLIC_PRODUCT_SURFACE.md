@@ -44,8 +44,8 @@ hesperia batch --texts "a" "b"
 
 | Suite | Command | Scope |
 |--------|---------|--------|
-| **Product** | `python3 -m runtime.execution_flow.run_e2e_product` | One projected artifact + schema guard. |
-| **Internal (dev)** | `python3 -m runtime.execution_flow.run_e2e_all` | Full stack, research collateral, optional TFP smoke, etc. |
+| **Product** | `python3 -m runtime.pipeline.run_e2e_product` | One projected artifact + schema guard. |
+| **Internal (dev)** | `python3 -m runtime.pipeline.run_e2e_all` | Full stack, research collateral, optional TFP smoke, etc. |
 
 ## Docker
 

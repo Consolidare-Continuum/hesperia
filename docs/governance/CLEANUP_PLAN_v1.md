@@ -26,7 +26,7 @@
 
 ## Phase 3 — Consolidate run scripts (later)
 
-- **Canonical entrypoint:** `python3 -m runtime.execution_flow.run_l1_through_l9` (and sealed CLI/API).
+- **Canonical entrypoint:** `python3 -m runtime.pipeline.run_l1_through_l9` (and sealed CLI/API).
 - **Review:** `runtime/execution_flow/run_*.py`, `runtime/provenance/run_manifest.py`, `runtime/runners/run_reference_pipeline.py` — keep only those that are entrypoints or used by CI; document or merge the rest.
 
 ---

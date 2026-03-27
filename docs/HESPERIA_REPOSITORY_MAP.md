@@ -107,7 +107,7 @@ Execution environment for the system.
 | `runtime/shipping/` | Sealed builds: Docker, manifests, checksums |
 | `runtime/configs/` | Example JSON for semantic field + field calibration |
 
-**E2E:** `python3 -m runtime.execution_flow.run_e2e_all` produces **19** baseline JSON artifacts (+ **20th** with `HESPERIA_FIELD_DYNAMICS=1`); see `docs/E2E_RUN_ORDER.md`, manifest `assets/artifacts/e2e/E2E_OUTPUTS.md`, default under `assets/artifacts/e2e/`.
+**E2E:** `python3 -m runtime.pipeline.run_e2e_all` produces **19** baseline JSON artifacts (+ **20th** with `HESPERIA_FIELD_DYNAMICS=1`); see `docs/E2E_RUN_ORDER.md`, manifest `assets/artifacts/e2e/E2E_OUTPUTS.md`, default under `assets/artifacts/e2e/`.
 
 ---
 
@@ -239,7 +239,7 @@ Text
   → Product & report generation
 ```
 
-**Single orchestrated E2E entrypoint:** `runtime.execution_flow.run_e2e_all` → **19** artifacts, optional **20th** (`docs/E2E_RUN_ORDER.md`).
+**Single orchestrated E2E entrypoint:** `runtime.pipeline.run_e2e_all` → **19** artifacts, optional **20th** (`docs/E2E_RUN_ORDER.md`).
 
 ---
 

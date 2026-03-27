@@ -20,12 +20,12 @@ Execute the following using **only** the listed commands (no direct Python impor
 
 | Step | Command / action | Expected |
 |------|------------------|----------|
-| 1 | `python3 -m runtime.execution_flow.run_l1_through_l9 --text "justice fairness" --out /tmp/out.json` | Exit 0; /tmp/out.json exists; content has no side_id / internal topology keys in plain form; L7/L9 present in projected form. |
+| 1 | `python3 -m runtime.pipeline.run_l1_through_l9 --text "justice fairness" --out /tmp/out.json` | Exit 0; /tmp/out.json exists; content has no side_id / internal topology keys in plain form; L7/L9 present in projected form. |
 | 2 | `python3 -m runtime.runners.run_reference_pipeline --text "justice" --out /tmp/ref.json` | Exit 0; output projected. |
-| 3 | `python3 -m runtime.execution_flow.run_l1_l2 --out /tmp/l2.json` | Exit 0; L1/L2 only in output. |
-| 4 | `python3 -m runtime.execution_flow.run_l1_l2_l3 --out /tmp/l3.json` | Exit 0; L1_B, L2_B, L3 (or projected equivalents) in output. |
-| 5 | `python3 -m runtime.execution_flow.run_sphere_math_values --out /tmp/values.json` | Exit 0; single JSON with projected structure. |
-| 6 | `python3 -m runtime.execution_flow.run_sphere_math_100_sentences --limit 2 --out /tmp/batch.json` | Exit 0; list of projected results. |
+| 3 | `python3 -m runtime.pipeline.run_l1_l2 --out /tmp/l2.json` | Exit 0; L1/L2 only in output. |
+| 4 | `python3 -m runtime.pipeline.run_l1_l2_l3 --out /tmp/l3.json` | Exit 0; L1_B, L2_B, L3 (or projected equivalents) in output. |
+| 5 | `python3 -m runtime.pipeline.run_sphere_math_values --out /tmp/values.json` | Exit 0; single JSON with projected structure. |
+| 6 | `python3 -m runtime.pipeline.run_sphere_math_100_sentences --limit 2 --out /tmp/batch.json` | Exit 0; list of projected results. |
 | 7 | If run_e2e_all is used: run with limited scope (e.g. one E2E flow) | No direct sphere.execution_flow or core.layers import in stack; domain_metrics flow uses analysis_service. |
 
 ---

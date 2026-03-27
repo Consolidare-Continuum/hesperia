@@ -32,7 +32,7 @@ See LEGAL_NOTICE.md for full terms.
 ## Verify
 
 ```bash
-python3 -m runtime.execution_flow.run_e2e_all
+python3 -m runtime.pipeline.run_e2e_all
 ```
 
 ---
