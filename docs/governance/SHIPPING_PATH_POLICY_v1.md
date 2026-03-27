@@ -34,6 +34,7 @@ Anything built manually (e.g. `./build_shipping.sh all` without running the gate
 
 - Release checklist and release process documents reference this policy.
 - **CI:** `.github/workflows/sealed-runtime-gate.yml` runs on push/PR to `main`: `tools/validate_version_consistency.py` (version authority), `tools/check_import_boundary.py`, `tools/sealing_scan.py`, and the other gates listed in the workflow header. Failures block merges. The sealing scan targets evaluator-facing trees (`runtime/shipping`, `assets/public`, `examples`, `release`); it excludes the versioned audit bundle under `release/v0.5.0/` and `examples/extensions/triz_demo/` (see `tools/sealing_scan.py` → `SCAN_SKIP_DIR_PREFIXES`).
+- **Pytest scope (CI vs full tree):** The sealed gate runs a **curated subset** of `tests/` only (see step names in `sealed-runtime-gate.yml`: modularity contract, integrity bundle, DLCR pack, lexical_concept, etc.). It does **not** run `python3 -m pytest tests/` for every module. Full-tree pytest is for local development and release audit workflows (README quick start, `tools/release/build_release_audit_*.py`). Green on this workflow does not imply every test file in `tests/` executed in CI.
 - Distributable bundles (tarballs, images) must be built from a run of `release_sealed_runtime.sh` that resulted in PASS.
 
 ---
