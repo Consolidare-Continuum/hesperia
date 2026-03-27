@@ -19,6 +19,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - Kept release scope to module/main-engine code only; calibration dict artifacts remain uncommitted.
 - **Interim module data mirror:** `hesperia/modules/tfp/data/README.md`, `.gitignore` for mirrored `corpus/` and `dicts/`, and `tools/sync_tfp_module_data.sh` — copies RU/EN cleaned corpus and calibration + `engine_dynamics_v060` bundles from `assets/` plus corpus from `research/_noone_local/` (read-only rsync; does not modify `research/`). Runtime still resolves `assets/` until full pipe wires dict state under module architecture.
 - **Dict calibration defaults (pre–full C/CD/HC pipe):** `tools/dict_calibration/env_defaults.py` — `HESPERIA_DICT_CALIB_OFFLINE=1` sets mock OpenAI + worker default 4; `HESPERIA_DICT_CALIB_WORKERS` (default **4**) drives anchor/link/eval/error pools in `run_pipeline.py` and `run_dict_calibration_clearance.py`; `require_openai_key()` is a no-op when `HESPERIA_CALIB_MOCK_OPENAI=1`.
+- **B + CD wave after green A:** `tools/run_b_cd_wave_after_a.sh` — validates dict B + TFP RU pack + DLCR regression, runs `test_cd_executor`, then `hesperia.run` with `HESPERIA_CALIB_DICT_VERSION` (default `v0_6_0_clr_v052_1`) and `HESPERIA_CD_ENABLED=1`. Doc: `docs/HESPERIA_TFP_MODULE_DICTS.md` §After A is green.
 
 ### Verify (v0.5.5)
 
