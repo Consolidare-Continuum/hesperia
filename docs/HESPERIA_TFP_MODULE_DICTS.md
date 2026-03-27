@@ -31,6 +31,10 @@ When not set (or missing), runtime falls back to legacy bundled assets under:
 Mainline runtime/module loading has no dependency on `/research` paths.
 Calibration freeze output is consumed from `assets/calibration/dicts/...` only.
 
+## Sealed freeze (`v0_6_0_clr_v052_1`) — operator permission required
+
+The directory **`assets/calibration/dicts/v0_6_0_clr_v052_1/`** (Dict **A**, **normalized** rows, **proposal**/draft lineage, **anchored** dict_b and **links**) is **locked**. **Do not edit, replace, or delete** without **direct permission from igareosh** (or a superseding Ethan-signed governance note). Full rule: **`docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md`**.
+
 ## Module data mirror (interim)
 
 Working copies of corpus + dict bundles for the next pipeline steps live under **`hesperia/modules/tfp/data/`** after running `./tools/sync_tfp_module_data.sh` from repo root (sources: `assets/...` plus read-only copy from `research/_noone_local/...` corpus folders). Large mirrored trees are gitignored under that path; see **`hesperia/modules/tfp/data/README.md`**. Runtime resolution remains `assets/` until dict state is fully wired under module architecture.

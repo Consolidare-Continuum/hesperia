@@ -22,6 +22,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **B + CD wave after green A:** `tools/run_b_cd_wave_after_a.sh` — validates dict B + TFP RU pack + DLCR regression, runs `test_cd_executor`, then `hesperia.run` with `HESPERIA_CALIB_DICT_VERSION` (default `v0_6_0_clr_v052_1`) and `HESPERIA_CD_ENABLED=1`. Doc: `docs/HESPERIA_TFP_MODULE_DICTS.md` §After A is green.
 - **Ethan dict order after A:** `docs/governance/working/ETHAN-DICT-LAYER-ORDER-AFTER-A.md` — locked **B before CD**; `MODEL_CARD_CD_PIPELINE.md` cross-link; anti-pattern CD-before-B recorded.
 - **Ethan dict / calibration framework (rev. 2):** `docs/governance/working/ETHAN-10-TASKS-DICTS-CALIB-2026-03-28.md` — tiered **H/S/V/Y** IDs: hard ship gates (H1–H6), structural + control laws (S1–S6: CD mandatory, CD Δ smoke, competition/dominance, length invariance, modifiers, unmapped loop), system (V1–V2: TFP bundle, cross-plane), hygiene (Y1). Mirror: cursor `operational/assignments/`.
+- **Ethan seal — freeze `v0_6_0_clr_v052_1`:** `docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md` — Dict A + normalized + proposal/draft + anchored B/links/metrics directory **locked**; mutation only with **igareosh** direct permission or superseding Ethan note; pointers in `HESPERIA_TFP_MODULE_DICTS.md`, `tools/dict_calibration/README.md`.
 
 ### Verify (v0.5.5)
 
