@@ -69,6 +69,15 @@ python3 tools/validate_version_consistency.py
 python3 -m pytest tests/ -q --tb=no
 ```
 
+**Full deterministic pipeline** (config + input file):
+
+```bash
+python3 -m hesperia.run --help
+# e.g. python3 -m hesperia.run path/to/input.txt --config path/to/config.yaml [--out dossier.json]
+```
+
+**Dictionary / CD gates** (validators + smoke after lexical A is green): [`docs/governance/working/RUNBOOK-DICT-RELEASE-GATES.md`](docs/governance/working/RUNBOOK-DICT-RELEASE-GATES.md) — `tools/run_dict_release_gates.sh`, `tools/run_b_cd_wave_after_a.sh`.
+
 ---
 
 ## Sealed product CLI & API
