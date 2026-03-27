@@ -35,6 +35,7 @@ from core.pipeline.trajectory import trajectory_over_segments
 from core.sequence.segmentation import segment_by_newlines
 from core.state.semantic_state import SemanticState
 from hesperia.engine.calibration_dict_paths import calibration_manifest, resolve_dict_file
+from hesperia.engine.concept_dictionary.executor import apply_cd_phase1, default_cd_path
 from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
 
 _DEFAULT_STOPWORDS: frozenset[str] = frozenset(
@@ -478,6 +479,27 @@ def _analyze_internal(
         concept_cap=float(engine_cfg.get("concept_cap") or 8.0),
         log_normalization_enabled=bool(engine_cfg.get("log_normalization_enabled")),
     )
+    evidence_counts: Counter[str] = Counter()
+    for r in span_outputs:
+        w = r.get("winning_concept_id")
+        if w:
+            evidence_counts[str(w)] += 1
+    cd_on = os.environ.get("HESPERIA_CD_ENABLED", "").strip().lower() in {"1", "true", "yes"}
+    cd_off = os.environ.get("HESPERIA_CD_DISABLE", "").strip().lower() in {"1", "true", "yes"}
+    if cd_on and not cd_off:
+        cd_env = os.environ.get("HESPERIA_CD_JSONL", "").strip()
+        cd_path = Path(cd_env) if cd_env else default_cd_path(repo)
+        try:
+            cd_phase = int(os.environ.get("HESPERIA_CD_PHASE", "1") or "1")
+        except ValueError:
+            cd_phase = 1
+        if cd_path.is_file():
+            concept_weights_stabilized = apply_cd_phase1(
+                concept_weights_stabilized,
+                dict(evidence_counts),
+                cd_path,
+                cd_phase=max(1, cd_phase),
+            )
     state_raw, state_post, cw, deg_proj, invariants = _post_hex_concept_feedback(
         concept_weights_stabilized,
         anchor_registry=anchor_registry,
