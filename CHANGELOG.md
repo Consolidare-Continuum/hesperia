@@ -17,6 +17,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - Promoted version authority to **0.5.5** across canonical/versioned runtime surfaces.
 - Sealed engine/module wiring where calibrated dict version resolution is handled in mainline via `HESPERIA_CALIB_DICT_VERSION`.
 - Kept release scope to module/main-engine code only; calibration dict artifacts remain uncommitted.
+- **Interim module data mirror:** `hesperia/modules/tfp/data/README.md`, `.gitignore` for mirrored `corpus/` and `dicts/`, and `tools/sync_tfp_module_data.sh` — copies RU/EN cleaned corpus and calibration + `engine_dynamics_v060` bundles from `assets/` plus corpus from `research/_noone_local/` (read-only rsync; does not modify `research/`). Runtime still resolves `assets/` until full pipe wires dict state under module architecture.
 
 ### Verify (v0.5.5)
 
