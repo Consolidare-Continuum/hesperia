@@ -7,8 +7,9 @@
 """
 Hesperia product API — FastAPI.
 
-Product surface (Task 4): GET /health; POST /hesperia/analyze, /hesperia/compare, /hesperia/batch
-with Bearer auth. All analysis outputs pass through ``run_structural_analysis`` (mandatory projection).
+Product surface: GET /health; POST /hesperia/analyze, /hesperia/compare, /hesperia/batch with Bearer auth
+(structural outputs via ``run_structural_analysis`` → projection). **T17:** POST /product/llm-audit,
+/product/tfp, /product/fingerprint (``run_product_profile``) — same Bearer; not mounted on shipping ``api_main``.
 
 When ``HESPERIA_PRODUCT_SURFACE`` is true (default), TRIZ and TRIZ MVP routers are not registered.
 Set ``HESPERIA_PRODUCT_SURFACE=0`` and ``HESPERIA_EXPOSE_TRIZ=1`` for dev-only TRIZ HTTP exposure.
@@ -83,7 +84,13 @@ def custom_openapi():
         "bearerFormat": "JWT",
         "description": "API Key as Bearer token (GPT Actions: API Key → Bearer)",
     }
-    secured_paths = ("/hesperia/analyze", "/hesperia/compare", "/hesperia/batch", "/analysis/triz")
+    secured_paths = (
+        "/hesperia/analyze",
+        "/hesperia/compare",
+        "/hesperia/batch",
+        "/analysis/triz",
+        "/product/",
+    )
     for path, methods in openapi_schema.get("paths", {}).items():
         if not any(sp in path for sp in secured_paths):
             continue

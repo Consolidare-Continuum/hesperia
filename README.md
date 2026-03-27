@@ -89,13 +89,19 @@ python3 -m uvicorn runtime.shipping.api_main:app --host 127.0.0.1 --port 8000
 # POST /analyze, /compare, /batch (and /batch-analyze), GET /health
 ```
 
-**GPT / OpenAPI-style app** (Bearer auth, `/hesperia/analyze` etc.):
+**Dev / GPT Actions API** (`runtime.api.main` — Bearer auth, OpenAPI at `/openapi.json`; **not** the shipping entrypoint):
+
+| Surface | Routes |
+| --- | --- |
+| Structural (L1–L9, projected) | `POST /hesperia/analyze`, `/hesperia/compare`, `/hesperia/batch` |
+| **T17 product profiles** | `POST /product/llm-audit`, `/product/tfp`, `/product/fingerprint` (same Bearer as above) |
 
 ```bash
 python3 -m uvicorn runtime.api.main:app --host 127.0.0.1 --port 8000
+# Requires HESPERIA_API_KEY — see docs/governance/RUNTIME_ENV_VARS_v1.md
 ```
 
-All product measurement responses go through **`run_structural_analysis`** → **`project_to_public`**. Details: [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md).
+**Shipping** (`runtime.shipping.api_main`) exposes only `POST /analyze`, `/compare`, `/batch` (no `/hesperia/*` or `/product/*` prefix). Structural responses use **`run_structural_analysis`** → **`project_to_public`**. Full split: [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md).
 
 ---
 

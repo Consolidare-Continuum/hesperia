@@ -18,12 +18,12 @@
 
 ## HTTP
 
-| Deployment | Component | Product routes |
-|------------|--------|----------------|
-| Shipping / Docker | `runtime.shipping.api_main` | `POST /analyze`, `/compare`, `/batch` (alias `/batch-analyze`), `GET /health`. Optional `GET /version` when `HESPERIA_EXPOSE_VERSION=1` or non-strict dev (`HESPERIA_PRODUCT_SURFACE=0` + `capabilities.yaml`). |
-| GPT / OpenAPI-style | `runtime.api.main` | `POST /hesperia/analyze`, `/hesperia/compare`, `/hesperia/batch`, `GET /health`. |
+| Deployment | Component | Routes |
+|------------|-----------|--------|
+| **Shipping** / Docker | `runtime.shipping.api_main` | `POST /analyze`, `/compare`, `/batch` (alias `/batch-analyze`), `GET /health`. Optional `GET /version` when `HESPERIA_EXPOSE_VERSION=1` or non-strict dev (`HESPERIA_PRODUCT_SURFACE=0` + `capabilities.yaml`). **No** `/hesperia/*` or `/product/*`. |
+| **Dev / GPT Actions** | `runtime.api.main` | `POST /hesperia/analyze`, `/hesperia/compare`, `/hesperia/batch`, `GET /health`, OpenAPI at `/openapi.json`. **T17 (Task 17)** — additional Bearer-protected handlers: `POST /product/llm-audit`, `/product/tfp`, `/product/fingerprint` (`hesperia.product.service.run_product_profile`). These **do not** exist on `api_main`; operators must not assume one uvicorn target serves both prefix styles. |
 
-**TRIZ** routes are registered only when `HESPERIA_EXPOSE_TRIZ=1` and `HESPERIA_PRODUCT_SURFACE=0` (see `hesperia/system/capabilities.yaml`).
+**TRIZ** routes (dev API only) register when `HESPERIA_EXPOSE_TRIZ=1` and `HESPERIA_PRODUCT_SURFACE=0` (see `hesperia/system/capabilities.yaml`).
 
 ## CLI
 
