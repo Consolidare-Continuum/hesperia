@@ -1,21 +1,68 @@
-# Ethan — 10 tasks: finish dictionaries, calibrate, check
+# Ethan — Dict / calibration release framework (rev. 2)
 
-**Date:** 2026-03-28  
+**Date:** 2026-03-28 (rev. 2 — control laws + tiering)  
 **Role:** Architect (Ethan)  
-**Precondition:** Lexical **A** green and frozen (`HESPERIA_CALIB_DICT_VERSION`, e.g. `v0_6_0_clr_v052_1`). **Order:** **B → CD → C_agg → Topology** — see [ETHAN-DICT-LAYER-ORDER-AFTER-A.md](ETHAN-DICT-LAYER-ORDER-AFTER-A.md). No OpenAI required for tasks below unless you explicitly refresh A/B LLM passes.
+**Precondition:** Lexical **A** green; **B → CD → C_agg → Topology** — [ETHAN-DICT-LAYER-ORDER-AFTER-A.md](ETHAN-DICT-LAYER-ORDER-AFTER-A.md).
 
-| # | Task | Owner (default) | Acceptance |
-|---|------|-----------------|------------|
-| **1** | **B inventory audit** — every `concept_id` that appears in calibration `links.jsonl` / engine merge has a **dict_b** line (same calibration dir + merged engine paths). | Gena + clinical spot-check | `validate_dict_b_dlcr.py` OK; spot list of orphan link targets empty or ticketed. |
-| **2** | **B gap closure (human-gated)** — for missing `TFP_*` or thin rows, use `tools/gen_tfp_ru_dict_pack.py --write` **or** manual JSONL edits; no auto-bibliography mining. | Gena | Diff reviewed; `validate_tfp_ru_pack.py` OK; merged_b count matches expectation doc note. |
-| **3** | **Links ↔ engine consistency** — `dict_a_engine.jsonl` / frozen `links.jsonl` align with `dict_a.jsonl` for the same `HESPERIA_CALIB_DICT_VERSION`. | Gena | No duplicate `normalized_form` conflicts; `check_dlcr_regression.py` OK after changes. |
-| **4** | **CD registry pass** — extend `concept_dict_cd.jsonl` for high-traffic `concept_id`s (or rely on `*` defaults + explicit exceptions only where product needs requires/excludes/activation tweaks). | Ethan + Gena | `pytest tests/concept_dictionary/test_cd_executor.py` OK; double-run determinism preserved. |
-| **5** | **CD-on runtime smoke** — pipeline with `HESPERIA_CD_ENABLED=1` (and optional `HESPERIA_CD_PHASE`) on representative RU/EN snippets; compare off vs on for sanity (no crash, plausible weight shaping). | Abelard or Gena | `./tools/run_b_cd_wave_after_a.sh` green; one logged before/after snippet in `operational/` or `tmp/` note (no secrets). |
-| **6** | **Calibration metrics review** — read `metrics.json` for the freeze version; set pass thresholds (coverage, error rate) as **gate constants** in docs or `tools/calibration_release_gate.py` profile if already used. | Ethan | Written thresholds + “pass/fail” for current `metrics.json`; Grace can triage if fail. |
-| **7** | **Gold / span regression** — grow or lock `corpora/tfp_ru_gold/` + `gold_tfp_ru.jsonl` (and related) so DLCR regression is not only synthetic; minimum **N** new segments agreed with clinical (e.g. 10–20). | Noah + Gena | `check_dlcr_regression.py` includes new cases or doc says why deferred; no silent shrink of coverage. |
-| **8** | **TFP file pipeline calibration audit** — on a real `.md` transcript: `tools/gena_tfp_bundle_run.py` or `run_tfp_file_pipeline` → `tfp_calibration_audit.py` + optional `calibration_release_gate.py --profile internal_review`. | Gena | One bundle dir artifact set checked in CI or `tests/fixtures` path documented; gate JSON pass or waived with Ethan note. |
-| **9** | **Version pin discipline** — `assets/data/engine_dynamics_v060/VERSION.yaml` + calibration dir name + `CHANGELOG` / `validate_version_consistency.py` stay aligned when any dict/CD asset bumps. | Abelard | `validate_version_consistency.py` OK after change; one-line release note when version bumps. |
-| **10** | **Module mirror + CI hook** — after asset changes, `./tools/sync_tfp_module_data.sh`; add or document **one** CI job step: `run_b_cd_wave_after_a.sh` **or** equivalent `pytest` + validators on PRs touching `assets/calibration/dicts/` or `concept_dict/`. | Daniel + Abelard | CI green on sample PR; runbook line in CI README or `docs/governance/working/`. |
+Rev. 1 was ~70% right: **missing control laws + invariant enforcement**. This revision adds **competition/dominance**, **length invariance**, **modifier checks**, **unmapped closed loop**, **cross-plane agreement**, and splits **hard ship gates** vs **structural** vs **system** vs **hygiene**.
+
+---
+
+## 1) Hard gates — **cannot ship without** (determinism + mapping correctness)
+
+Wrong here → garbage downstream.
+
+| ID | Gate | Why | Acceptance (minimum) |
+|----|------|-----|----------------------|
+| **H1** | **B inventory audit** | If B coverage is wrong, everything downstream lies. | `validate_dict_b_dlcr.py` OK; orphan link targets from `links.jsonl` / merge **empty or ticketed**. |
+| **H2** | **B gap closure** | Audit without closure is useless. **Human-gated** — do not automate blindly. | Reviewed diffs (`gen_tfp_ru_dict_pack.py --write` and/or manual JSONL); `validate_tfp_ru_pack.py` OK. |
+| **H3** | **Links ↔ engine alignment** | Frozen **links** = reproducibility; **engine dict_a** = consistency with calibration **A**. Miss → non-repeatable outputs. | Same `HESPERIA_CALIB_DICT_VERSION`; no `normalized_form` collisions; `check_dlcr_regression.py` OK. |
+| **H4** | **Metrics gate** | No thresholds = no system. **Explicit pass/fail**, not “looks good.” | Written numeric thresholds + recorded verdict on current `metrics.json` / gate profile; fail → no ship without Grace/Ethan waiver. |
+| **H5** | **Gold / span regression** | Only protection against **silent drift**. | Real segments in suite (not synthetic-only); `check_dlcr_regression.py` extended or **documented deferral** (no silent shrink). |
+| **H6** | **Mirror + CI** | Without CI, dictionaries **rot** immediately. | `./tools/sync_tfp_module_data.sh` after asset moves; CI runs `run_b_cd_wave_after_a.sh` **or** equivalent validators on PRs touching `assets/calibration/dicts/` / `concept_dict/`. |
+
+---
+
+## 2) Structural correctness — **engine behaves like a model**, not a lookup mess
+
+Without CD, **B is just labels** — no competition, no normalization in the CD sense. **CD is not optional** for a sealed semantic engine claim.
+
+| ID | Item | Why | Acceptance (minimum) |
+|----|------|-----|----------------------|
+| **S1** | **CD registry pass** | Prior failure mode: skipping CD. | `concept_dict_cd.jsonl` complete for policy (explicit rows + `*`); `pytest tests/concept_dictionary/test_cd_executor.py` OK; determinism double-run holds. |
+| **S2** | **CD-on validation** | Not only “runs.” Need **Δ vs no-CD** + **activation distribution** sanity. | Logged pairs (off/on) + short stats (e.g. min/mean/max active weights); blind CD deploy rejected. |
+| **S3** | **Concept competition / dominance** | Otherwise: **spread instead of meaning**. Explicit **dominance** (top concept/family) + **suppression of near-equals**. | ADR or CD Phase 2 policy wired per **HC-02** / [CO_OCCURS_MATH_PHASE2.md](../cd_v1/CO_OCCURS_MATH_PHASE2.md); tests or gate artifact proves single-winner policy where required. |
+| **S4** | **Length invariance** | Same meaning, longer text → **same distribution** (within tolerance). Else = **sum of words**. | Fixture or test: paraphrase/expand same semantic content → bounded drift on chosen metrics (document tolerance). |
+| **S5** | **Modifier propagation** | TFP-critical: **negation**, **intensity**, **direction**. Untested → false signals. | Binding path per **HC-ETHAN-01** / **HC-03**; tests or gold segments proving expected flip/damp—not only happy path. |
+| **S6** | **Unmapped token closed loop** | Partial audit is not enough. **Top-N unmapped** → **systematic candidate path into A** (triage, not silent drop). | Ranked report (**HC-08** style) + **documented ingest rule** into candidates/normalize queue; coverage stagnation flagged in metrics gate. |
+
+---
+
+## 3) System validation — **product-level** (real behavior, not mechanics only)
+
+| ID | Item | Why | Acceptance (minimum) |
+|----|------|-----|----------------------|
+| **V1** | **TFP bundle calibration audit** | Only **domain reality check**. Without real transcript = tuning **noise**, not behavior. | Real `.md` → `gen_tfp_bundle_run` / `run_tfp_file_pipeline` → `tfp_calibration_audit.py` (+ `calibration_release_gate.py` as profiled); artifact path recorded. |
+| **V2** | **Cross-plane agreement** | If claimed: structural / multiscale / topology must **agree on a comparable schema** — or **retract the claim**. | **HC-09** contract: pass/warn/fail + example JSON; or explicit doc that product does not assert cross-plane numeric agreement yet. |
+
+---
+
+## 4) Hygiene / stability — **important, not ship blockers alone**
+
+| ID | Item | Acceptance |
+|----|------|------------|
+| **Y1** | **Version pins** | `VERSION.yaml`, calibration dir name, `CHANGELOG`, `validate_version_consistency.py` aligned after any dict/CD bump. |
+
+---
+
+## Minimal checklist (non-bloated)
+
+**Core gates:** H1 H2 H3 H4 H5 H6  
+**Structural + control laws:** S1 S2 S3 S4 S5 S6  
+**System:** V1 V2  
+**Hygiene:** Y1  
+
+---
 
 ## One-liners (repo root)
 
@@ -30,8 +77,8 @@ python3 tools/validate_version_consistency.py
 - [ETHAN-DICT-LAYER-ORDER-AFTER-A.md](ETHAN-DICT-LAYER-ORDER-AFTER-A.md)  
 - [ETHAN-TFP-RU-DICT-12TASKS.md](ETHAN-TFP-RU-DICT-12TASKS.md)  
 - [MODEL_CARD_CD_PIPELINE.md](../cd_v1/MODEL_CARD_CD_PIPELINE.md)  
-- Cursor operational: `ETHAN-HESPERIA-B-CD-AFTER-A-GREEN.md` (brain repo `operational/assignments/`).
+- Control layer: HC-02, HC-03, HC-08, HC-09 — cursor `operational/assignments/ETHAN-HESPERIA-CONTROL-LAYER-V1-TASKING-2026-03-27.md`
 
 ---
 
-`SIGNED: Architect (Ethan) | 10-task dict finish + calibration check | 2026-03-28 | Hesperia governance/working`
+`SIGNED: Architect (Ethan) | dict/calibration framework rev. 2 | 2026-03-28 | Hesperia governance/working`
