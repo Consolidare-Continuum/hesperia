@@ -58,7 +58,7 @@ def apply_cd_phase1(
 ) -> dict[str, float]:
     """
     Phase 1: type+activation+requires/excludes+structure.primary_area (structure not cross-checked to B here).
-    If cd_phase < 2, ignores effects / co_occurs soft / temporal / interaction.
+    If cd_phase < 2, ignores co_occurs soft, effects, temporal / interaction.
     """
     if cd_phase < 1:
         return dict(sorted(concept_weights.items()))
@@ -114,6 +114,30 @@ def apply_cd_phase1(
                 to_remove.add(max(cid, other))
     for x in sorted(to_remove):
         out.pop(x, None)
+
+    # Phase 2+: co_occurs soft (CO_OCCURS_MATH_PHASE2.md); before inhibit/amplify effects
+    if cd_phase >= 2:
+        alpha = 0.25
+        beta = 0.15
+        eps = 1e-9
+        snap = dict(out)
+        total_w = sum(snap.values())
+        denom = eps + (total_w if total_w > 0 else eps)
+        new_out: dict[str, float] = {}
+        for cid in sorted(snap.keys()):
+            row = _row_for(registry, cid)
+            coco = (row.get("constraints") or {}).get("co_occurs") or []
+            w0 = float(snap[cid])
+            if not coco:
+                new_out[cid] = quantize(w0)
+                continue
+            active_among = [o for o in coco if o in snap and float(snap[o]) > 0.0]
+            miss = len(coco) - len(active_among)
+            penalty = 1.0 / (1.0 + alpha * float(miss))
+            s_co = sum(float(snap[o]) for o in active_among)
+            boost = 1.0 + beta * min(1.0, s_co / denom)
+            new_out[cid] = quantize(w0 * penalty * boost)
+        out = new_out
 
     # Phase 2+: effects on targets (global inhibit pass, then global amplify pass)
     if cd_phase >= 2:
