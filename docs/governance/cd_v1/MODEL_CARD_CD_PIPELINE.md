@@ -6,6 +6,8 @@
 
 `A` (lexical evidence) → `B` (concept identity / resolver) → **`CD`** (Concept Dictionary: behavior + constraints) → **`C_agg`** (families / areas / hex aggregation) → **Topology** (session / segments).
 
+**After A is green:** **`B` before `CD`** — CD rows reference `concept_id` from B; do not author CD as a parallel concept source ahead of B. Rationale: `docs/governance/working/ETHAN-DICT-LAYER-ORDER-AFTER-A.md`.
+
 ## CD role
 
 - Deterministic operational registry: **no lexical strings** in CD rows.
@@ -24,4 +26,4 @@
 
 Version `concept_dict_cd.jsonl` with engine release; regression: `tests/concept_dictionary/test_cd_executor.py` (double-run equality).
 
-SIGNED: Architect (Ethan) | MODEL_CARD CD fragment | 2026-03-27 | Hesperia repo
+SIGNED: Architect (Ethan) | MODEL_CARD CD fragment | 2026-03-28 | Hesperia repo (B-before-CD note added)

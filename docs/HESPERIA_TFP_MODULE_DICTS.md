@@ -37,5 +37,5 @@ Working copies of corpus + dict bundles for the next pipeline steps live under *
 
 ## After A is green: B then CD
 
-Lexical **A** is closed when calibration validators pass. Next execution wave: **B** (`dict_b` + links in the same `HESPERIA_CALIB_DICT_VERSION` directory, DLCR regression) then **CD** (`concept_dict_cd.jsonl`, `HESPERIA_CD_ENABLED=1`). One-shot check: **`tools/run_b_cd_wave_after_a.sh`** from repo root. Model chain: **`docs/governance/cd_v1/MODEL_CARD_CD_PIPELINE.md`** (`A` → `B` → `CD` → `C_agg` → Topology).
+Lexical **A** is closed when calibration validators pass. **Ethan order:** **B before CD** — stabilize concept identity / `dict_b` + calibration links first; **CD** only annotates existing `concept_id`s (see **`docs/governance/working/ETHAN-DICT-LAYER-ORDER-AFTER-A.md`**). Next execution wave: **B** validators + **CD** tests + CD-on smoke — **`tools/run_b_cd_wave_after_a.sh`** from repo root. Model chain: **`docs/governance/cd_v1/MODEL_CARD_CD_PIPELINE.md`** (`A` → `B` → `CD` → `C_agg` → Topology).
 
