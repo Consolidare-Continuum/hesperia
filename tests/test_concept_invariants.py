@@ -8,6 +8,7 @@ def test_concept_invariant_enf_suite_importable() -> None:
     import tests.test_tfp_concept_invariants_enf  # noqa: F401
     import tests.test_tfp_cd_delta_enf  # noqa: F401
     import tests.test_tfp_unmapped_gate_enf  # noqa: F401
+    import tests.test_tfp_rel_realism_enf  # noqa: F401
 
 
 def test_concept_invariant_supporting_modules_importable() -> None:

@@ -1,0 +1,5 @@
+# TFP-REL-01 — small deterministic RU clinical sample + deliberate unknown tokens (no research/).
+# Rate = tokens not overlapping any accepted dict_a hit / token count.
+примитивное расщепление в терапии
+тревога и структура диалога
+xxxxunknownword123 zzz

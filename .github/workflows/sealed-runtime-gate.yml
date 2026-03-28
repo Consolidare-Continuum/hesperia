@@ -135,6 +135,7 @@ jobs:
             tests/test_calibration_release_gate.py tests/test_output_anomalies.py \
             tests/test_output_trace.py tests/test_bundle_schema_validation.py \
             tests/test_tfp_concept_invariants_enf.py tests/test_tfp_cd_delta_enf.py tests/test_tfp_unmapped_gate_enf.py \
+            tests/test_tfp_rel_realism_enf.py \
             -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}

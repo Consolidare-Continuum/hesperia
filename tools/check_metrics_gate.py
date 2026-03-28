@@ -43,7 +43,19 @@ def main() -> int:
     if total_acc < min_sum:
         print(f"FAIL: lexical_hits_accepted sum {total_acc} < floor {min_sum}", file=sys.stderr)
         return 1
-    print(f"OK: metrics gate pack={pack} n_texts={n_texts} accepted_sum={total_acc}")
+    non_empty = sum(1 for x in per if int(x.get("lexical_hits_accepted") or 0) > 0)
+    ratio = non_empty / float(len(per))
+    min_ratio = float(os.environ.get("HESPERIA_METRICS_MIN_PER_TEXT_NON_EMPTY_RATIO", "0.2"))
+    if ratio < min_ratio:
+        print(
+            f"FAIL: per_text_non_empty_ratio {ratio:.4f} < floor {min_ratio}",
+            file=sys.stderr,
+        )
+        return 1
+    print(
+        f"OK: metrics gate pack={pack} n_texts={n_texts} accepted_sum={total_acc} "
+        f"per_text_non_empty_ratio={ratio:.4f}"
+    )
     return 0
 
 

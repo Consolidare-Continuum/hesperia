@@ -4,8 +4,9 @@
 from __future__ import annotations
 
 import json
-import os
 import math
+import os
+import re
 from collections import Counter
 from pathlib import Path
 from typing import Any
@@ -353,6 +354,55 @@ def _load_version_pins(repo: Path) -> dict[str, Any]:
         return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
     except Exception:
         return {}
+
+
+def compute_lexical_unmapped_token_rate(
+    text: str,
+    *,
+    repo_root: Path | None = None,
+    mode: str = "clinical_speech",
+) -> float:
+    """
+    TFP-REL-01: fraction of whitespace-separated tokens in canonical text that do **not** overlap
+    any **accepted** dict_a LexicalHit span (same merge + matcher as ``run_dlcr_pipeline``).
+    """
+    repo = repo_root or _repo_root()
+    base = repo / "assets" / "data" / "engine_dynamics_v060"
+    calib_a = resolve_dict_file(repo, "dict_a.jsonl")
+    da_paths_default = [
+        base / "dict_a" / "dict_a_seed.jsonl",
+        base / "dict_a" / "dict_a_tfp.jsonl",
+        base / "dict_a" / "dict_a_tfp_ru_core.jsonl",
+        base / "dict_a" / "dict_a_tfp_ru_variants.jsonl",
+        base / "dict_a" / "dict_a_tfp_ru_speech.jsonl",
+        base / "dict_a" / "dict_a_tfp_ru_negative.jsonl",
+        base / "dict_a" / "dict_a_tfp_ru_aligned.jsonl",
+    ]
+    da_paths = [calib_a] if calib_a else da_paths_default
+    dict_a = _merge_dict_a(da_paths)
+    pol = load_dlcr_policy(repo)
+    raw_max = pol.get("dict_a_max_accepted")
+    env_max = os.environ.get("HESPERIA_DICT_A_MAX_ACCEPTED", "").strip()
+    if env_max.isdigit():
+        max_acc: int | None = int(env_max)
+    elif raw_max is not None and str(raw_max).strip().lstrip("-").isdigit():
+        max_acc = int(raw_max)
+    else:
+        max_acc = None
+    canonical, _prep_meta = prepare_structural_analysis_text(text, policy_mode=mode)
+    norm = normalize_text(canonical)
+    ct = norm["canonical_text"]
+    hits, _rejected = match_dict_a(ct, dict_a, max_accepted=max_acc)
+    tokens = list(re.finditer(r"\S+", ct))
+    if not tokens:
+        return 0.0
+    unmapped = 0
+    for m in tokens:
+        ts, te = m.start(), m.end()
+        covered = any(h.span_start < te and ts < h.span_end for h in hits)
+        if not covered:
+            unmapped += 1
+    return unmapped / float(len(tokens))
 
 
 def _analyze_internal(
