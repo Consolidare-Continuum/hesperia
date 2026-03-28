@@ -23,6 +23,7 @@ from core.attribution.attribution_shared import (
     load_dict_a_v06,
     normalize,
     tokenize,
+    tokenize_with_spans,
 )
 from core.attribution.structural import (
     load_dict_a,
@@ -60,20 +61,6 @@ from hesperia.system.naming_axes import (
     SCALE_SENTENCE,
     SCALE_TO_LEGACY_R,
 )
-
-
-def _get_token_offsets(normalized_text: str, tokens: list[str]) -> list[tuple[int, int]]:
-    """Return (start, end) character offsets for each token in normalized_text. Order-preserving, non-overlapping."""
-    out: list[tuple[int, int]] = []
-    pos = 0
-    for t in tokens:
-        idx = normalized_text.find(t, pos)
-        if idx < 0:
-            idx = pos  # fallback
-        end = idx + len(t)
-        out.append((idx, end))
-        pos = end
-    return out
 
 
 def _run_layers_for_tokens(
@@ -325,9 +312,8 @@ def run_full_pipeline(
 
     # Single source tokenizer: unit tokens from global stream (slice by span), not re-tokenized per segment.
     normalized_text = normalize(text)
-    tokens_full = tokenize(normalized_text)
+    tokens_full, token_offsets = tokenize_with_spans(normalized_text)
     total_tokens = len(tokens_full)
-    token_offsets = _get_token_offsets(normalized_text, tokens_full)
 
     all_units = []
     by_level = {"R1": [], "R2": [], "R3": [], "R4": []}

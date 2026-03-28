@@ -84,12 +84,41 @@ def normalize(text: str, cap: int = DEFAULT_TEXT_CAP) -> str:
     return s
 
 
+def tokenize_with_spans(normalized: str) -> tuple[list[str], list[tuple[int, int]]]:
+    """
+    Same tokens as ``tokenize(normalized)``, plus ``[start, end)`` character spans in ``normalized``.
+
+    Spans align with ``tokenize`` (punctuation stripped from each whitespace-delimited word). Using
+    ``find(token)`` on the full string is wrong when the token is not a contiguous substring (e.g.
+    ``02.38`` → ``0238``), which broke R1 sentence partitioning on Russian clinical transcripts.
+    """
+    tokens: list[str] = []
+    spans: list[tuple[int, int]] = []
+    scan = 0
+    for w in normalized.split():
+        idx = normalized.find(w, scan)
+        if idx < 0:
+            idx = scan
+        scan = idx + len(w)
+        core = _STRIP_PUNCT_RE.sub("", w).strip()
+        if not core:
+            continue
+        kept = [i for i, ch in enumerate(w) if _STRIP_PUNCT_RE.sub("", ch)]
+        if not kept:
+            continue
+        ts = idx + kept[0]
+        te = idx + kept[-1] + 1
+        tokens.append(core)
+        spans.append((ts, te))
+    return tokens, spans
+
+
 def tokenize(normalized: str) -> list[str]:
     """
     Step 1: Whitespace split, strip punctuation. No stemming. Deterministic.
     """
-    tokens = normalized.split()
-    return [_STRIP_PUNCT_RE.sub("", t).strip() for t in tokens if _STRIP_PUNCT_RE.sub("", t).strip()]
+    toks, _ = tokenize_with_spans(normalized)
+    return toks
 
 
 def _clamp_altitude(a: float) -> float:
