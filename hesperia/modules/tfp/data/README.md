@@ -1,5 +1,7 @@
 # TFP module data mirror (interim)
 
+**Target layout (module-only `tfp_v1/`):** [`TFP_V1_LAYOUT.md`](TFP_V1_LAYOUT.md) (TFP-DATA-T03).
+
 **Status:** Normalization / anchoring / proposing for this phase are **done**; this tree holds **copies** of corpus + dict bundles for the next pipeline steps. **Canonical runtime** still loads from `assets/` (`HESPERIA_CALIB_DICT_VERSION`, `assets/data/engine_dynamics_v060/`) until the full pipe and dict state live under module architecture.
 
 **Do not edit** `research/` for this workflow — sources are read-only for sync.
