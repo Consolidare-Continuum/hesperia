@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from hesperia.engine.calculus import compute_tfp_bundle
 
+from hesperia.modules.tfp.seal import enforce_tfp_module_seal_on_project
+
 
 class TFPModule:
     name = "tfp.v1"
@@ -19,6 +21,7 @@ class TFPModule:
         self.labels = list(config.get("labels", ["control", "aggression", "identity", "trust"]))
 
     def project(self, ctx: dict) -> None:
+        enforce_tfp_module_seal_on_project()
         modules = ctx.get("modules") or {}
         vector, profile, conflicts = compute_tfp_bundle(
             family_scores=dict(modules.get("core.dict_b", {}).get("family_scores") or {}),

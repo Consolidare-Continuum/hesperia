@@ -24,3 +24,11 @@
 ---
 
 `SIGNED: Cursor (workflow) | TFP-GATE-B1 | 2026-03-28`
+
+---
+
+## v1 authoritative (TFP-V1-06)
+
+This contract is **authoritative for Hesperia TFP / lexical resolution v1** alongside [`HESPERIA_TFP_MODULE_DICTS.md`](../HESPERIA_TFP_MODULE_DICTS.md). Module scope and post-seal policy: [`TFP_MODULE_V1_SCOPE.md`](TFP_MODULE_V1_SCOPE.md).
+
+`SIGNED: Ethan (governance) | TFP resolution v1 | 2026-03-28 | TFP-V1-06`

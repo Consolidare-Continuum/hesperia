@@ -171,7 +171,14 @@ def create_app():
         import sys
         try:
             from runtime.shipping.env_guard import check_hesperia_env
-            check_hesperia_env(strict=False)
+
+            _strict = os.environ.get("HESPERIA_SHIPPING_ENV_STRICT", "").strip().lower() in (
+                "1",
+                "true",
+                "yes",
+                "on",
+            )
+            check_hesperia_env(strict=_strict)
         except Exception:
             pass
         if os.environ.get("HESPERIA_SCHEMA_SHA256"):

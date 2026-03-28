@@ -52,6 +52,18 @@ def main() -> int:
 
     defaults = doc.get("defaults") or {}
     pack = defaults.get("active_calibration_dict_pack")
+    tfp_v1 = doc.get("tfp_module_v1")
+    if not isinstance(tfp_v1, dict):
+        errs.append("VERSION.yaml tfp_module_v1 block missing (TFP module v1 compatibility)")
+    else:
+        tfp_pin = tfp_v1.get("pinned_calibration_dict_pack")
+        if not tfp_pin:
+            errs.append("VERSION.yaml tfp_module_v1.pinned_calibration_dict_pack missing")
+        elif pack and str(tfp_pin) != str(pack):
+            errs.append(
+                "VERSION.yaml tfp_module_v1.pinned_calibration_dict_pack must match "
+                f"defaults.active_calibration_dict_pack (got {tfp_pin!r} vs {pack!r})"
+            )
     if not pack:
         errs.append("VERSION.yaml defaults.active_calibration_dict_pack missing (pin calibration dir name)")
     else:

@@ -47,3 +47,11 @@ Working copies of corpus + dict bundles for the next pipeline steps live under *
 
 Lexical **A** is closed when calibration validators pass. **Ethan order:** **B before CD** — stabilize concept identity / `dict_b` + calibration links first; **CD** only annotates existing `concept_id`s (see **`docs/governance/working/ETHAN-DICT-LAYER-ORDER-AFTER-A.md`**). Next execution wave: **B** validators + **CD** tests + CD-on smoke — **`tools/run_b_cd_wave_after_a.sh`** from repo root. Model chain: **`docs/governance/cd_v1/MODEL_CARD_CD_PIPELINE.md`** (`A` → `B` → `CD` → `C_agg` → Topology).
 
+---
+
+## v1 authoritative (TFP-V1-06)
+
+This document is **authoritative for mainline TFP dict loading v1** with [`docs/governance/TFP_RESOLUTION_CONTRACT.md`](governance/TFP_RESOLUTION_CONTRACT.md). **`HESPERIA_CALIB_DICT_VERSION`** selects the directory name under `assets/calibration/dicts/`; it must stay consistent with **`VERSION.yaml`** `defaults.active_calibration_dict_pack` and `tfp_module_v1.pinned_calibration_dict_pack` (see `tools/validate_version_consistency.py`).
+
+`SIGNED: Ethan (governance) | TFP module dicts v1 | 2026-03-28 | TFP-V1-06`
+
