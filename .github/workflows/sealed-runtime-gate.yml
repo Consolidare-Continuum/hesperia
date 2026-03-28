@@ -26,6 +26,9 @@ on:
 jobs:
   gate:
     runs-on: ubuntu-latest
+    env:
+      PYTHONHASHSEED: "0"
+      HESPERIA_STRICT_DETERMINISM: "1"
     steps:
       - uses: actions/checkout@v4
 
@@ -125,7 +128,8 @@ jobs:
 
       - name: Pytest integrity (spine trace, semantic, guards, schema snapshot)
         run: |
-          python3 -m pytest tests/test_runtime_spine_integrity.py \
+          python3 -m pytest tests/test_env_determinism.py \
+            tests/test_runtime_spine_integrity.py \
             tests/test_semantic_output_signature.py tests/test_guard_invariants_locked.py \
             tests/test_tool_contracts_locked.py tests/test_public_api_snapshot.py \
             tests/test_calibration_release_gate.py tests/test_output_anomalies.py \

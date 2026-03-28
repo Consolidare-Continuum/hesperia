@@ -50,13 +50,35 @@ def main() -> int:
     if not sch.get("public_output"):
         errs.append("VERSION.yaml schema.public_output missing")
 
+    defaults = doc.get("defaults") or {}
+    pack = defaults.get("active_calibration_dict_pack")
+    if not pack:
+        errs.append("VERSION.yaml defaults.active_calibration_dict_pack missing (pin calibration dir name)")
+    else:
+        pack_dir = _REPO / "assets" / "calibration" / "dicts" / str(pack)
+        dict_a = pack_dir / "dict_a.jsonl"
+        if pack_dir.is_dir():
+            if not dict_a.is_file():
+                errs.append(
+                    f"defaults.active_calibration_dict_pack {pack!r}: expected {dict_a} (missing)"
+                )
+        else:
+            print(
+                f"validate_version_consistency: SKIP calibration pack path check (no {pack_dir}; minimal clone)",
+                file=sys.stderr,
+            )
+
     if errs:
         print("validate_version_consistency: FAIL", file=sys.stderr)
         for e in errs:
             print(" ", e, file=sys.stderr)
         return 1
 
-    print(f"validate_version_consistency: OK system_version={sys_v} public_output_schema={sch.get('public_output')}")
+    pack_s = str(pack) if pack else ""
+    print(
+        f"validate_version_consistency: OK system_version={sys_v} "
+        f"public_output_schema={sch.get('public_output')} active_calibration_dict_pack={pack_s}"
+    )
     return 0
 
 
