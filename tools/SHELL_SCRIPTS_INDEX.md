@@ -19,6 +19,7 @@ One-line purpose + where to read more. Run from **Hesperia repo root** unless no
 | `tools/run_release_gate.sh` | Local release gate wrapper | `docs/governance/SEALED_RUNTIME_RELEASE_GATE_v1.md` |
 | `tools/sync_backup_to_remotes.sh` | Push backups to remotes | internal ops |
 | `tools/backup_hesperia_full.sh` | Full repo backup archive | internal ops |
+| `tools/mirror_sister_workflows_into_hesperia_data.sh` | Rsync `/data/workflows` (or `WORKFLOWS_SRC`) → `/data/hesperia/workflows-mirror/` for cold recovery | [`docs/governance/working/GENA-HESPERIA-APOCALYPTIC-ARCHIVE-TRIAGE-2026-03-28.md`](../docs/governance/working/GENA-HESPERIA-APOCALYPTIC-ARCHIVE-TRIAGE-2026-03-28.md) |
 | `tools/detect_unused.sh` | Vulture / orphan hints (no auto-delete) | header in script |
 | `tools/push_mirrors.sh` | Git mirror push helper | header in script |
 
