@@ -35,10 +35,14 @@ jobs:
       - name: Version authority
         run: python3 tools/validate_version_consistency.py
 
+      - name: research path literal gate
+        run: python3 tools/check_research_noone_local_literals.py
+
       - name: DLCR regression gate
         run: python3 tools/check_dlcr_regression.py
 
       - name: TFP module v1 pytest
         run: |
           python3 -m pytest tests/test_tfp_module_v1_dlcr_golds.py \
-            tests/test_tfp_module_v1_public_surface.py tests/test_tfp_module_v1_seal.py -q --tb=short
+            tests/test_tfp_module_v1_public_surface.py tests/test_tfp_module_v1_seal.py \
+            tests/test_tfp_v1_data_layout.py -q --tb=short

@@ -27,12 +27,12 @@ Set `OPENAI_API_KEY`. Model: `HESPERIA_CALIB_OPENAI_MODEL` (default `gpt-4o-mini
 ```bash
 # Wiring check only (zero proposals)
 python3 tools/dict_calibration/run_pipeline.py yaml-markers-llm --mock-llm \
-  --corpus research/_noone_local/2_cleaned \
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru \
   --workdir outputs/dict_calibration/yaml_markers_llm_dry --pilot
 
 # Real run (needs OPENAI_API_KEY)
 python3 tools/dict_calibration/run_pipeline.py yaml-markers-llm \
-  --corpus research/_noone_local/2_cleaned \
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru \
   --workdir outputs/dict_calibration/yaml_markers_llm_run1
 ```
 
@@ -41,7 +41,7 @@ python3 tools/dict_calibration/run_pipeline.py yaml-markers-llm \
 ```bash
 python3 tools/post_cold_lexical_markers_align.py \
   --cold-pack outputs/dict_calibration/ru_tfp_align_run2/cold_pack \
-  --corpus research/_noone_local/2_cleaned \
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru \
   --workdir outputs/dict_calibration/post_cold_markers_run1
 # or: --coverage-report …/coverage_report.json
 # optional: --seed-yaml hesperia/ontology/dictA/lexical_markers.yaml
@@ -57,7 +57,7 @@ python3 tools/post_cold_lexical_markers_align.py \
 
 ```bash
 python3 tools/dict_calibration/run_pipeline.py ru-tfp-align \
-  --corpus research/_noone_local/2_cleaned \
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru \
   --workdir outputs/dict_calibration/ru_tfp_align_run1
 ```
 
@@ -73,7 +73,7 @@ Writes `cold_concept_ids.txt`, `cold_concepts.json`, and **`stayed_cold_readable
 
 ```bash
 python3 tools/dict_calibration/run_pipeline.py ru-tfp-align \
-  --corpus research/_noone_local/2_cleaned \
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru \
   --workdir outputs/dict_calibration/ru_tfp_cold_pass \
   --only-zero-from outputs/dict_calibration/ru_tfp_align_run2/coverage_report.json \
   --seed-dict-a outputs/dict_calibration/ru_tfp_align_run2/dict_a_tfp_ru_aligned.jsonl
@@ -103,7 +103,7 @@ Thin wrappers around Tasks 2–3 (same behavior as ``run_pipeline normalize`` / 
 
 ```bash
 PYTHONPATH=. python3 tools/openai_calibration_1_normalize.py \
-  --workdir outputs/dict_calibration/my_run --corpus research/_noone_local/2_cleaned
+  --workdir outputs/dict_calibration/my_run --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
 
 PYTHONPATH=. python3 tools/openai_calibration_2_propose.py \
   --workdir outputs/dict_calibration/my_run --limit 120
@@ -117,31 +117,31 @@ From repository root:
 
 ```bash
 # Numbered waves (auto picks wave_001, wave_002, …); budget on by default
-python3 tools/dict_calibration/run_pipeline.py wave --corpus research/_noone_local/2_cleaned
+python3 tools/dict_calibration/run_pipeline.py wave --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
 
 # Twenty sequential waves (different candidate slices per wave)
-python3 tools/dict_calibration/run_pipeline.py waves --corpus research/_noone_local/2_cleaned --count 20 \
+python3 tools/dict_calibration/run_pipeline.py waves --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --count 20 \
   --base-dir outputs/dict_calibration/ethan_auto
 
 # One frugal end-to-end pass (fixed workdir)
 python3 tools/dict_calibration/run_pipeline.py run-all \
-  --corpus research/_noone_local/2_cleaned --workdir outputs/dict_calibration/run1 --budget
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/run1 --budget
 
 # Full stack (use --skip-llm for extraction + anchoring skeleton without API)
 python3 tools/dict_calibration/run_pipeline.py extract \
-  --corpus research/_noone_local/2_cleaned --out outputs/dict_calibration/run1
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --out outputs/dict_calibration/run1
 
 python3 tools/dict_calibration/run_pipeline.py normalize --workdir outputs/dict_calibration/run1
 python3 tools/dict_calibration/run_pipeline.py propose --workdir outputs/dict_calibration/run1 --limit 80
 python3 tools/dict_calibration/run_pipeline.py anchor --workdir outputs/dict_calibration/run1
 python3 tools/dict_calibration/run_pipeline.py links --workdir outputs/dict_calibration/run1
 python3 tools/dict_calibration/run_pipeline.py eval --workdir outputs/dict_calibration/run1 \
-  --corpus research/_noone_local/2_cleaned
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
 python3 tools/dict_calibration/run_pipeline.py errors --workdir outputs/dict_calibration/run1 \
-  --corpus research/_noone_local/2_cleaned
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
 python3 tools/dict_calibration/run_pipeline.py patch --workdir outputs/dict_calibration/run1
 python3 tools/dict_calibration/run_pipeline.py loop --workdir outputs/dict_calibration/run1 \
-  --corpus research/_noone_local/2_cleaned
+  --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
 python3 tools/dict_calibration/run_pipeline.py freeze --workdir outputs/dict_calibration/run1 \
   --version-dir assets/calibration/dicts/v0.0.1-cal
 ```

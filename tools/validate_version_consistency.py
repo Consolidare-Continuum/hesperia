@@ -64,6 +64,10 @@ def main() -> int:
                 "VERSION.yaml tfp_module_v1.pinned_calibration_dict_pack must match "
                 f"defaults.active_calibration_dict_pack (got {tfp_pin!r} vs {pack!r})"
             )
+        if str(tfp_v1.get("data_layout") or "") != "tfp_v1":
+            errs.append(
+                "VERSION.yaml tfp_module_v1.data_layout must be 'tfp_v1' (TFP-DATA-T17)"
+            )
     if not pack:
         errs.append("VERSION.yaml defaults.active_calibration_dict_pack missing (pin calibration dir name)")
     else:

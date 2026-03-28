@@ -74,6 +74,11 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
 
+      - name: research/_noone_local path literal gate (TFP module data)
+        run: python3 tools/check_research_noone_local_literals.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
       - name: Shipping surface allowlist
         run: python3 tools/validate_shipping_surface.py
         env:
@@ -138,6 +143,7 @@ jobs:
             tests/test_tfp_rel_realism_enf.py \
             tests/test_tfp_module_v1_dlcr_golds.py tests/test_tfp_module_v1_public_surface.py \
             tests/test_tfp_module_v1_seal.py \
+            tests/test_tfp_v1_data_layout.py \
             -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}

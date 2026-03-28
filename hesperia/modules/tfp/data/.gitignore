@@ -1,3 +1,25 @@
-# Mirrors produced by tools/sync_tfp_module_data.sh — do not commit (canonical: assets/, research read-only).
+# Mirrors produced by tools/sync_tfp_module_data.sh — do not commit (canonical: assets/, module tfp_v1 populated locally).
 corpus/
 dicts/
+# TFP v1: commit directory skeleton + README; ignore bulk corpus + dict JSONL.
+!tfp_v1/
+!tfp_v1/corpus/
+!tfp_v1/corpus/original/
+!tfp_v1/corpus/original/ru/
+tfp_v1/corpus/original/ru/*
+!tfp_v1/corpus/original/ru/.gitkeep
+!tfp_v1/corpus/original/en/
+tfp_v1/corpus/original/en/*
+!tfp_v1/corpus/original/en/.gitkeep
+!tfp_v1/corpus/normalized/
+tfp_v1/corpus/normalized/*
+tfp_v1/dict_a/
+tfp_v1/dict_b/
+tfp_v1/MANIFEST.yaml
+tfp_v1/MIGRATION_LOG.jsonl
+tfp_v1/nlp/*
+!tfp_v1/nlp/README.md
+tfp_v1/provenance/api/runs/*
+tfp_v1/provenance/api/batch_ids/*
+!tfp_v1/provenance/api/runs/.gitkeep
+!tfp_v1/provenance/api/batch_ids/.gitkeep

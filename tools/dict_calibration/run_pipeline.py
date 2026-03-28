@@ -100,6 +100,9 @@ def _wave_slice_rows(
 
 
 def cmd_extract(args: argparse.Namespace) -> None:
+    from tools.dict_calibration.env_defaults import assert_corpus_not_legacy_research
+
+    assert_corpus_not_legacy_research(args.corpus)
     rows = extract_corpus(Path(args.corpus), min_freq=args.min_freq)
     write_jsonl(Path(args.out) / "dict_a_candidates.jsonl", rows)
     print(f"wrote {len(rows)} candidate rows → {args.out}/dict_a_candidates.jsonl")
@@ -460,6 +463,9 @@ def cmd_wave(args: argparse.Namespace) -> None:
 
 
 def cmd_ru_tfp_align(args: argparse.Namespace) -> None:
+    from tools.dict_calibration.env_defaults import assert_corpus_not_legacy_research
+
+    assert_corpus_not_legacy_research(args.corpus)
     require_openai_key()
     mx = int(args.max_phrases)
     only = None

@@ -47,7 +47,7 @@ _load_env_key() {
 
 _load_env_key
 
-CORPUS="${CORPUS:-research/_noone_local/2_cleaned}"
+CORPUS="${CORPUS:-hesperia/modules/tfp/data/tfp_v1/corpus/original/ru}"
 if [[ -z "${WORKDIR:-}" ]]; then
   WORKDIR="outputs/dict_calibration/corpus_ad_$(date -u +%Y%m%d_%H%M%S)"
 fi

@@ -42,6 +42,7 @@ defaults:
 tfp_module_v1:
   seal_requested: false
   pinned_calibration_dict_pack: "v0_6_0_clr_v052_2"
+  data_layout: "tfp_v1"
 
 # Filled at runtime by hesperia.system.version (never commit secrets here)
 build:

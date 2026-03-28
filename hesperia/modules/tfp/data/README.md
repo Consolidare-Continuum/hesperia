@@ -1,36 +1,21 @@
-# TFP module data mirror (interim)
+# TFP module data (`hesperia/modules/tfp/data/`)
 
-**Target layout (module-only `tfp_v1/`):** [`TFP_V1_LAYOUT.md`](TFP_V1_LAYOUT.md) (TFP-DATA-T03).
+**Target layout (module-only `tfp_v1/`):** [`TFP_V1_LAYOUT.md`](TFP_V1_LAYOUT.md).
 
-**Status:** Normalization / anchoring / proposing for this phase are **done**; this tree holds **copies** of corpus + dict bundles for the next pipeline steps. **Canonical runtime** still loads from `assets/` (`HESPERIA_CALIB_DICT_VERSION`, `assets/data/engine_dynamics_v060/`) until the full pipe and dict state live under module architecture.
+## Populate
 
-**Do not edit** `research/` for this workflow — sources are read-only for sync.
+1. **First-time / full tree:** `bash tools/migrate_research_tfp_to_module_tfp_v1.sh` (one-shot; read-only on `research/` if still present).
+2. **Refresh dict faces from assets:** `bash tools/sync_tfp_module_data.sh`  
+   - Optional **`HESPERIA_TFP_SYNC_STRICT=1`** — fail if `tfp_v1/dict_a/runtime/dict_a.jsonl` missing after sync.
 
-## Layout (after sync)
+**Canonical runtime** still loads from **`assets/`** until loader ADR [`ADR-TFP-DATA-T13-MODULE-LOADER.md`](../../../../docs/governance/ADR-TFP-DATA-T13-MODULE-LOADER.md) is implemented in code.
 
-| Path under `data/` | Source (repo) |
-|--------------------|----------------|
-| `corpus/ru_2_cleaned/` | `research/_noone_local/2_cleaned/` (copy) |
-| `corpus/en_2_cleaned/` | `research/_noone_local/english_2_cleaned/` (copy) |
-| `dicts/calibration/<version>/` | `assets/calibration/dicts/<version>/` (copy) |
-| `dicts/engine_dynamics_v060/` | `assets/data/engine_dynamics_v060/` (copy) |
+## Legacy mirror (`corpus/`, `dicts/`)
 
-Default version for calibration mirror: **`v0_6_0_clr_v052_2`** (override with env in sync script).
+Older **`corpus/*`** / **`dicts/*`** paths may remain empty or stale; **`tfp_v1/`** is the operational SSoT per [`ETHAN-TFP-MODULE-ONLY-DICT-SSOT-2026-03-28.md`](../../../../docs/governance/working/ETHAN-TFP-MODULE-ONLY-DICT-SSOT-2026-03-28.md).
 
-## Populate / refresh
+Large trees are **gitignored** under `tfp_v1/`; run migrate/sync after clone.
 
-From repository root:
+## Resolver
 
-```bash
-./tools/sync_tfp_module_data.sh
-```
-
-Optional:
-
-- `HESPERIA_CALIB_DICT_VERSION=v0_tfp_cal_wave_002 ./tools/sync_tfp_module_data.sh` — mirror that calibration version instead of the default.
-
-Large trees are **gitignored** here; run the script after clone to materialize files.
-
-## Resolver hint (future)
-
-`HESPERIA_TFP_MODULE_DATA_ROOT` may be wired to this directory once loaders move; default implicit root: `hesperia/modules/tfp/data/` relative to import path / repo root.
+**`HESPERIA_TFP_MODULE_DATA_ROOT`** — see `tools/tfp_v1_paths.py` and the ADR above.

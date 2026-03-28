@@ -1,6 +1,8 @@
 # Hesperia TFP Module Dicts (Mainline)
 
-Canonical dict artifacts for TFP/module runtime are versioned under:
+**Operational SSoT (human + calibration tooling):** `hesperia/modules/tfp/data/tfp_v1/` — populated by `tools/migrate_research_tfp_to_module_tfp_v1.sh` and refreshed by `tools/sync_tfp_module_data.sh` (see `hesperia/modules/tfp/data/README.md`). **Sealed runtime** still reads **`assets/calibration/dicts/<version>/`** until loader code follows `docs/governance/ADR-TFP-DATA-T13-MODULE-LOADER.md`.
+
+Canonical dict artifacts for TFP/module **runtime** are versioned under:
 
 - `assets/calibration/dicts/<version>/dict_a.jsonl`
 - `assets/calibration/dicts/<version>/dict_b.jsonl`

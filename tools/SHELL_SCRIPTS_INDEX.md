@@ -6,7 +6,8 @@ One-line purpose + where to read more. Run from **Hesperia repo root** unless no
 |--------|---------|-----------------|
 | `tools/run_dict_release_gates.sh` | Version check + conditional B+CD wave (if `dict_a.jsonl` present) | [`docs/governance/working/RUNBOOK-DICT-RELEASE-GATES.md`](../docs/governance/working/RUNBOOK-DICT-RELEASE-GATES.md) |
 | `tools/run_b_cd_wave_after_a.sh` | Validators + CD pytest + smoke after lexical A green | [`docs/HESPERIA_TFP_MODULE_DICTS.md`](../docs/HESPERIA_TFP_MODULE_DICTS.md), `CHANGELOG.md` |
-| `tools/sync_tfp_module_data.sh` | Sync TFP module / calibration assets | [`docs/HESPERIA_TFP_MODULE_DICTS.md`](../docs/HESPERIA_TFP_MODULE_DICTS.md) |
+| `tools/sync_tfp_module_data.sh` | Refresh `tfp_v1/` dict faces from `assets/` (no `research/`) | [`hesperia/modules/tfp/data/README.md`](../hesperia/modules/tfp/data/README.md) |
+| `tools/migrate_research_tfp_to_module_tfp_v1.sh` | One-shot legacy noone corpus + calibration pack → `tfp_v1/` | [`docs/governance/working/ETHAN-TFP-MODULE-ONLY-DICT-SSOT-2026-03-28.md`](../docs/governance/working/ETHAN-TFP-MODULE-ONLY-DICT-SSOT-2026-03-28.md) |
 | `tools/run_dict_calibration_clearance.sh` | Dict calibration clearance pipeline | [`tools/dict_calibration/README.md`](dict_calibration/README.md) |
 | `tools/run_dict_calibration_phases_a_d.sh` | Phases A–D calibration driver | [`tools/dict_calibration/README.md`](dict_calibration/README.md) |
 | `tools/run_openai_calibration_t1_bundle_batches.sh` | OpenAI calibration T1 batches | header in script |

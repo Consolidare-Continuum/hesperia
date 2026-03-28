@@ -7,11 +7,11 @@ Uses checkpoints under WORKDIR/.clearance/ so normalize/propose can stop and res
 
 Examples:
   PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py status --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py extract --corpus research/_noone_local/2_cleaned --workdir outputs/dict_calibration/clr1
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py extract --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/clr1
   PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py normalize --workdir outputs/dict_calibration/clr1
   PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py propose --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py post --workdir outputs/dict_calibration/clr1 --corpus research/_noone_local/2_cleaned
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py run --corpus research/_noone_local/2_cleaned --workdir outputs/dict_calibration/clr1
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py post --workdir outputs/dict_calibration/clr1 --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py run --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/clr1
 
 Dry / partial:
   python3 ... normalize --workdir /tmp/x --max-rows 72 --dry-run
@@ -170,6 +170,11 @@ def main() -> int:
 
     args = ap.parse_args()
     fn = args._fn
+
+    if getattr(args, "corpus", None):
+        from tools.dict_calibration.env_defaults import assert_corpus_not_legacy_research
+
+        assert_corpus_not_legacy_research(args.corpus)
 
     from tools.dict_calibration import clearance_resume as cr
 

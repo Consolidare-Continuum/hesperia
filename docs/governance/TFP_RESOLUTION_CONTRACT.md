@@ -5,7 +5,7 @@
 ## Hard rule
 
 - **Single source of truth for dict payloads:** `assets/` trees (`assets/calibration/dicts/<pack>/…`, `assets/data/engine_dynamics_v060/…`) as named in governance and `HESPERIA_TFP_MODULE_DICTS.md`.
-- **Mirrors** (e.g. `hesperia/modules/tfp/data/dicts/…` after `sync_tfp_module_data.sh`) are **derived** — never authoritative; **no second edited copy** of dict JSONL.
+- **Operational module tree** `hesperia/modules/tfp/data/tfp_v1/` is the **human / tooling SSoT** for dict work (migrate + sync); **runtime** still resolves **`assets/`** until the loader ADR is coded. Legacy mirrors under `hesperia/modules/tfp/data/dicts/…` remain **derived** — never a second authoritative edited copy of dict JSONL vs `assets/`.
 
 ## Precedence (debug order)
 

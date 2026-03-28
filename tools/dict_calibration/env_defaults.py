@@ -4,12 +4,25 @@
 from __future__ import annotations
 
 import os
+from pathlib import Path
 
 _WORKER_CAP = 64
 
 
 def _truthy(name: str) -> bool:
     return os.environ.get(name, "").strip().lower() in ("1", "true", "yes", "on")
+
+
+def assert_corpus_not_legacy_research(corpus: Path | str) -> None:
+    """TFP-DATA-T10: forbid legacy noone corpus path unless env set."""
+    bad = "research" + "/_noone_local"
+    s = str(corpus).replace("\\", "/")
+    if bad in s and not _truthy("HESPERIA_LEGACY_RESEARCH_CORPUS"):
+        raise ValueError(
+            f"corpus path under {bad} is deprecated for dict calibration; use "
+            "hesperia/modules/tfp/data/tfp_v1/corpus/original/ru (run migrate/sync first) or set "
+            "HESPERIA_LEGACY_RESEARCH_CORPUS=1 temporarily."
+        )
 
 
 def apply_dict_calib_offline_bundle() -> None:
