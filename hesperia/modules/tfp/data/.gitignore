@@ -11,6 +11,9 @@ tfp_v1/corpus/original/ru/*
 !tfp_v1/corpus/original/en/
 tfp_v1/corpus/original/en/*
 !tfp_v1/corpus/original/en/.gitkeep
+!tfp_v1/corpus/sessions/
+tfp_v1/corpus/sessions/*
+!tfp_v1/corpus/sessions/.gitkeep
 !tfp_v1/corpus/normalized/
 tfp_v1/corpus/normalized/*
 tfp_v1/dict_a/

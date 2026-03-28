@@ -27,7 +27,7 @@ sha_file() {
   if [[ -f "$f" ]]; then sha256sum "$f" | awk '{print $1}'; else echo ""; fi
 }
 
-mkdir -p "${DEST}/corpus/original/ru" "${DEST}/corpus/original/en" "${DEST}/corpus/normalized" \
+mkdir -p "${DEST}/corpus/original/ru" "${DEST}/corpus/original/en" "${DEST}/corpus/sessions" "${DEST}/corpus/normalized" \
   "${DEST}/dict_a/candidates" "${DEST}/dict_a/normalized" "${DEST}/dict_a/proposals" "${DEST}/dict_a/runtime" \
   "${DEST}/dict_b" "${DEST}/provenance/api/runs" "${DEST}/provenance/api/batch_ids" "${DEST}/nlp"
 : >"${LOG}"
@@ -44,6 +44,13 @@ if [[ -d "${ROOT}/research/_noone_local/english_2_cleaned" ]]; then
   log_line rsync "${ROOT}/research/_noone_local/english_2_cleaned" "${DEST}/corpus/original/en" "en corpus"
 else
   log_line skip_missing "${ROOT}/research/_noone_local/english_2_cleaned" "${DEST}/corpus/original/en" "no source"
+fi
+
+if [[ -d "${ROOT}/research/_noone_local/sessions" ]]; then
+  rsync -a "${ROOT}/research/_noone_local/sessions/" "${DEST}/corpus/sessions/"
+  log_line rsync "${ROOT}/research/_noone_local/sessions" "${DEST}/corpus/sessions" "session md corpus"
+else
+  log_line skip_missing "${ROOT}/research/_noone_local/sessions" "${DEST}/corpus/sessions" "no source"
 fi
 
 if [[ -d "${PACK_DIR}" ]]; then

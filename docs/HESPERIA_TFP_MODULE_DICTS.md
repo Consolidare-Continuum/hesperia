@@ -43,7 +43,7 @@ The directory **`assets/calibration/dicts/v0_6_0_clr_v052_1/`** remains **immuta
 
 ## Module data mirror (interim)
 
-Working copies of corpus + dict bundles for the next pipeline steps live under **`hesperia/modules/tfp/data/`** after running `./tools/sync_tfp_module_data.sh` from repo root (sources: `assets/...` plus read-only copy from `research/_noone_local/...` corpus folders). Large mirrored trees are gitignored under that path; see **`hesperia/modules/tfp/data/README.md`**. Runtime resolution remains `assets/` until dict state is fully wired under module architecture.
+Working copies of corpus + dict bundles live under **`hesperia/modules/tfp/data/tfp_v1/`** after **`tools/migrate_research_tfp_to_module_tfp_v1.sh`** (one-shot: `research/_noone_local` RU/EN corpus + **`sessions/`** → `tfp_v1/corpus/...`) and **`tools/sync_tfp_module_data.sh`** (dict faces from `assets/` only; no `research/`). Large mirrored trees are gitignored; see **`hesperia/modules/tfp/data/README.md`**. Runtime resolution remains `assets/` until loader ADR is implemented.
 
 ## After A is green: B then CD
 

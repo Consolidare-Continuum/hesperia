@@ -10,7 +10,7 @@ PACK_DIR="${ROOT}/assets/calibration/dicts/${CALIB_VER}"
 STRICT="${HESPERIA_TFP_SYNC_STRICT:-0}"
 
 mkdir -p "${TFPV1}/dict_a/candidates" "${TFPV1}/dict_a/normalized" "${TFPV1}/dict_a/proposals" "${TFPV1}/dict_a/runtime" \
-  "${TFPV1}/dict_b" "${TFPV1}/corpus/original/ru" "${TFPV1}/corpus/original/en" "${TFPV1}/provenance/api/runs" "${TFPV1}/provenance/api/batch_ids" "${TFPV1}/nlp"
+  "${TFPV1}/dict_b" "${TFPV1}/corpus/original/ru" "${TFPV1}/corpus/original/en" "${TFPV1}/corpus/sessions" "${TFPV1}/provenance/api/runs" "${TFPV1}/provenance/api/batch_ids" "${TFPV1}/nlp"
 
 if [[ -d "${PACK_DIR}" ]]; then
   for name in dict_a.jsonl dict_a_candidates.jsonl dict_a_normalized.jsonl dict_b.jsonl dict_b_draft.jsonl links.jsonl metrics.json; do

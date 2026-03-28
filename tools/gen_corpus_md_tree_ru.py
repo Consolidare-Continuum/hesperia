@@ -11,7 +11,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[1]
 DEFAULT_ROOT = REPO / "research/_noone_local/2_cleaned"
 INDEX_NAME = "CORPUS_MD_TREE_RU.md"
-SESSION_ROOT = REPO / "research/_noone_local"
+SESSION_MODULE = REPO / "hesperia" / "modules" / "tfp" / "data" / "tfp_v1" / "corpus" / "sessions"
+LEGACY_NOONE_ROOT = REPO / "research" / "_noone_local"
 CYR = re.compile(r"[А-Яа-яЁё]")
 # author: prefix before " - " / " — " / " -" (tight hyphen) at word boundary
 AUTH_SPLIT = re.compile(r"^(.+?)(?:\s+-\s+|\s+—\s+|\s+-(?=\S))")
@@ -85,11 +86,19 @@ def main() -> None:
         top = row[0].split("/")[0] if "/" in row[0] else "."
         by_top[top].append(row)
 
-    # e.g. 1-11-09-2023.md (if present next to 2_cleaned/)
+    def _session_stems(root: Path) -> list[str]:
+        if not root.is_dir():
+            return []
+        return sorted(
+            p.name
+            for p in root.glob("*.md")
+            if re.match(r"^\d{2}-\d{2}-\d{4}\.md$", p.name)
+            or re.match(r"^\d+-\d+-\d+-\d{4}\.md$", p.name)
+        )
+
+    # Module corpus/sessions (ingest output) + legacy root _noone_local/*.md
     sessions = sorted(
-        p.name
-        for p in SESSION_ROOT.glob("*.md")
-        if re.match(r"^\d+-\d+-\d+-\d{4}\.md$", p.name)
+        set(_session_stems(SESSION_MODULE)) | set(_session_stems(LEGACY_NOONE_ROOT))
     )
 
     lines: list[str] = [
@@ -107,7 +116,7 @@ def main() -> None:
         "",
         "**Всего:** %d файлов `.md`." % len(rows),
         "",
-        "Если сессионные заметки снова лежат в `research/_noone_local/*.md` (имя `d-m-d-ГГГГ.md`), они перечислены отдельно ниже.",
+        "Сессионные `.md`: преимущественно `hesperia/modules/tfp/data/tfp_v1/corpus/sessions/` (DD-MM-YYYY.md); устаревший корень `research/_noone_local/*.md` тоже учитывается если есть.",
         "",
         "## Дерево (плоский список)",
         "",
@@ -136,7 +145,7 @@ def main() -> None:
         lines.extend(
             [
                 "",
-                "## Сессии в корне `_noone_local/` (имя без кириллицы)",
+                "## Сессии (корпус `tfp_v1/corpus/sessions/` и устар. корень `_noone_local/`)",
                 "",
                 "Заметки по сессиям; в основной таблице выше не показаны из‑за критерия по имени файла.",
                 "",

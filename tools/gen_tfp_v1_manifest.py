@@ -38,6 +38,7 @@ def main() -> int:
     tfp = repo / "hesperia" / "modules" / "tfp" / "data" / "tfp_v1"
     ru = tfp / "corpus" / "original" / "ru"
     en = tfp / "corpus" / "original" / "en"
+    sess = tfp / "corpus" / "sessions"
     da = tfp / "dict_a" / "runtime" / "dict_a.jsonl"
 
     doc: dict = {
@@ -46,6 +47,7 @@ def main() -> int:
         "corpus": {
             "original_ru_sha256": _dir_sha256(ru),
             "original_en_sha256": _dir_sha256(en),
+            "sessions_md_sha256": _dir_sha256(sess),
         },
         "dict_a_runtime": {},
     }

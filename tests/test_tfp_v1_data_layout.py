@@ -21,6 +21,7 @@ def test_tfp_v1_expected_directories_when_not_skipped(tfp_v1: Path) -> None:
     required = [
         tfp_v1 / "corpus" / "original" / "ru",
         tfp_v1 / "corpus" / "original" / "en",
+        tfp_v1 / "corpus" / "sessions",
         tfp_v1 / "dict_a" / "runtime",
         tfp_v1 / "dict_b",
         tfp_v1 / "provenance" / "api" / "runs",

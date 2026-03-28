@@ -28,9 +28,18 @@ def default_corpus_en(repo: Path | None = None) -> Path:
     return tfp_v1_root(repo) / "corpus" / "original" / "en"
 
 
+def default_corpus_sessions(repo: Path | None = None) -> Path:
+    """Clinical session Markdown from noone ingest (DD-MM-YYYY.md); was research/_noone_local/sessions."""
+    return tfp_v1_root(repo) / "corpus" / "sessions"
+
+
 def default_corpus_ru_str(repo: Path | None = None) -> str:
     return str(default_corpus_ru(repo))
 
 
 def default_corpus_en_str(repo: Path | None = None) -> str:
     return str(default_corpus_en(repo))
+
+
+def default_corpus_sessions_str(repo: Path | None = None) -> str:
+    return str(default_corpus_sessions(repo))

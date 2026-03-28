@@ -3,7 +3,7 @@
 Ingest session transcripts from HESPERIA_NOONE_ROOT (default: /home/igareosh/noone):
 only top-level files named DD-MM-YYYY.docx or DD-MM-YYYY.doc.
 
-Writes research/_noone_local/sessions/<stem>.md with:
+Writes hesperia/modules/tfp/data/tfp_v1/corpus/sessions/<stem>.md (see tools/tfp_v1_paths.py; override via HESPERIA_TFP_MODULE_DATA_ROOT) with:
   - YAML: session_date_iso, session_date_ru (дд.мм.гггг), source filename, sha256
   - Body: Cyrillic П/Т with optional turn index (П1. Т14. П. Т.) and «Пациент.»/«Терапевт.»
     normalized to **Пациент:** / **Терапевт:**
@@ -32,7 +32,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
-OUT_DIR = REPO / "research/_noone_local/sessions"
+_TOOLS = REPO / "tools"
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+from tfp_v1_paths import tfp_v1_root  # noqa: E402
+
+OUT_DIR = tfp_v1_root(REPO) / "corpus" / "sessions"
 DEFAULT_NOONE = Path(os.environ.get("HESPERIA_NOONE_ROOT", "/home/igareosh/noone"))
 
 SESSION_FILENAME = re.compile(

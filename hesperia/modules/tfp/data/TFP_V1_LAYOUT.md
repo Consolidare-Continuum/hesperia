@@ -13,6 +13,7 @@ hesperia/modules/tfp/data/tfp_v1/
     original/
       ru/                    # raw / source-of-truth text files (as migrated)
       en/
+    sessions/                # clinical session transcripts (.md); ingest: tools/noone_sessions_ingest.py
     normalized/              # normalized text mirrors if distinct from original tree
   dict_a/
     candidates/              # dict_a_candidates.jsonl (and stage equivalents)
