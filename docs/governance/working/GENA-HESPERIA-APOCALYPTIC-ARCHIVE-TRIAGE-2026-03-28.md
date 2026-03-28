@@ -3,6 +3,8 @@
 **Owner proposal:** Gena (implementation + manifest). **Triage:** Grace (scope, PII/legal, priority vs other IT rows). **Offsite / volume:** Abelard when cluster copy is required.  
 **Context:** Single-machine snapshot under `/data/hesperia` (~51G observed on prichindel-class layout: repo + `hesperia-backup`). Operator also uses **`/data/workflows`** (path **not present** on this host during authoring — confirm on LAMAITA / actual dev station).
 
+**Flash-drive subset (no server recovery):** Ethan scope — [`ETHAN-HESPERIA-FLASH-RECOVERY-NO-SERVER-2026-03-28.md`](ETHAN-HESPERIA-FLASH-RECOVERY-NO-SERVER-2026-03-28.md) (tiers A/B/C, mandatory `workflows` classes, verification).
+
 ## 1. Goal
 
 One recoverable **data root** (`/data/hesperia/`) that contains:

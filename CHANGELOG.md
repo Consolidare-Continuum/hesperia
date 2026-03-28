@@ -31,6 +31,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **E2E + TFP wiring:** `run_e2e_tfp_smoke` prepends `e2e_primary` from the same `--text` as the rest of E2E; speaker-aware smoke can use that transcript (`speaker_aware_source: e2e_primary`). Added **`hesperia/tfp`** lazy shim (stages from `hesperia.modules.tfp.math_v1`; clinical APIs lazy). **`hesperia.nlp.session_topology`** now exposes `segment_session_text`, `compute_topology_dynamics`, wrapped `analyze_session_segments` / `run_session_topology` for NLP tests.
 - **R1–R4 Russian / clinical transcripts:** `tokenize_with_spans()` in `core/attribution/attribution_shared.py` — character spans per token match `tokenize()` when punctuation is stripped inside a word (e.g. `02.38` → `0238`). Fixes `sum(R1 token_count) != total_tokens` and duplicate sentence assignment. Tests: `tests/test_r1_r4_token_spans.py`.
 - **Cold recovery layout:** `docs/governance/working/GENA-HESPERIA-APOCALYPTIC-ARCHIVE-TRIAGE-2026-03-28.md` + `tools/mirror_sister_workflows_into_hesperia_data.sh` — mirror sister `workflows` tree into `/data/hesperia/workflows-mirror/` (Grace triage; `WORKFLOWS_SRC` path TBD on host).
+- **Flash recovery (no server):** `docs/governance/working/ETHAN-HESPERIA-FLASH-RECOVERY-NO-SERVER-2026-03-28.md` — USB bundle tiers, required `/data/workflows` mirror classes, verification; cross-link from Gena triage doc.
 
 ### Verify (v0.5.5)
 
