@@ -8,6 +8,8 @@
 
 **Alert rule:** If wall time **> 50 s** on same class host without intentional scope expansion, investigate CI/cache and wave subprocess cost.
 
+**Enforcement:** `tools/run_tfp_phase_c_smoke.sh` records wall time and **fails** if `elapsed > HESPERIA_PHASE_C_SMOKE_MAX_SEC` (default **120**). Override for slow CI if needed; do not raise default without Grace/Ethan note.
+
 **`metrics.json` / `calibration_release_gate`:** Pack-level thresholds and pass/fail are enforced by `tools/calibration_release_gate.py` and `tests/test_calibration_release_gate.py` (see `sealed-runtime-gate.yml` CI bundle). TFP bundle runs should include gate evaluation on the same `metrics.json` that ships under `assets/calibration/dicts/<pack>/`.
 
 ---

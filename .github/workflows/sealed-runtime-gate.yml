@@ -133,9 +133,22 @@ jobs:
             tests/test_semantic_output_signature.py tests/test_guard_invariants_locked.py \
             tests/test_tool_contracts_locked.py tests/test_public_api_snapshot.py \
             tests/test_calibration_release_gate.py tests/test_output_anomalies.py \
-            tests/test_output_trace.py tests/test_bundle_schema_validation.py -q --tb=short
+            tests/test_output_trace.py tests/test_bundle_schema_validation.py \
+            tests/test_tfp_concept_invariants_enf.py tests/test_tfp_cd_delta_enf.py tests/test_tfp_unmapped_gate_enf.py \
+            -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}
+
+      - name: TFP metrics gate (pack metrics.json floors)
+        run: |
+          if [ -f assets/calibration/dicts/v0_6_0_clr_v052_2/metrics.json ]; then
+            python3 tools/check_metrics_gate.py
+          else
+            echo "SKIP check_metrics_gate: metrics.json not in workspace"
+          fi
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+          HESPERIA_CALIB_DICT_VERSION: v0_6_0_clr_v052_2
 
       - name: TFP calibration bundle (schema + goldset + gate smoke)
         run: |
