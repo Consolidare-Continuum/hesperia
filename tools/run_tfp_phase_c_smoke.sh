@@ -19,7 +19,7 @@ if (( elapsed > max )); then
   echo "FAIL: phase C wall time ${elapsed}s > max ${max}s" >&2
   exit 1
 fi
-ratio_max=${HESPERIA_PHASE_C_LATENCY_RATIO_MAX:-25}
+ratio_max=${HESPERIA_PHASE_C_LATENCY_RATIO_MAX:-18}
 baseline_file="$ROOT/tools/tfp_phase_c_latency_baseline_seconds.txt"
 if [[ -f "$baseline_file" ]]; then
   read -r baseline <"$baseline_file" || true

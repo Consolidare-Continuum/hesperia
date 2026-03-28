@@ -52,9 +52,17 @@ def main() -> int:
             file=sys.stderr,
         )
         return 1
+    lowest = min(int(x.get("lexical_hits_accepted") or 0) for x in per)
+    min_lowest = int(os.environ.get("HESPERIA_METRICS_MIN_LOWEST_PER_TEXT_ACCEPTED", "300"))
+    if lowest < min_lowest:
+        print(
+            f"FAIL: min per_text lexical_hits_accepted {lowest} < floor {min_lowest}",
+            file=sys.stderr,
+        )
+        return 1
     print(
         f"OK: metrics gate pack={pack} n_texts={n_texts} accepted_sum={total_acc} "
-        f"per_text_non_empty_ratio={ratio:.4f}"
+        f"per_text_non_empty_ratio={ratio:.4f} min_per_text_accepted={lowest}"
     )
     return 0
 
