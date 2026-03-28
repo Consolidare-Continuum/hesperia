@@ -22,6 +22,12 @@ One-line purpose + where to read more. Run from **Hesperia repo root** unless no
 | `tools/detect_unused.sh` | Vulture / orphan hints (no auto-delete) | header in script |
 | `tools/push_mirrors.sh` | Git mirror push helper | header in script |
 
+## Python (`tools/*.py`)
+
+| Script | Purpose | Doc / context |
+|--------|---------|---------------|
+| `tools/copy_dict_calibration_provenance_to_tfp_v1.py` | Mirror `outputs/dict_calibration/**` → `tfp_v1/provenance/api/runs/outputs_dict_calibration_mirror/` + write `COPY_MANIFEST_DICT_CALIBRATION.json` | [`hesperia/modules/tfp/data/tfp_v1/provenance/api/README.md`](../hesperia/modules/tfp/data/tfp_v1/provenance/api/README.md) |
+
 ---
 
 *GAP-WIRE-07: reduce orphan `*.sh` discoverability gap.*
