@@ -5,7 +5,7 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 DEST="${ROOT}/hesperia/modules/tfp/data"
-CALIB_VER="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_1}"
+CALIB_VER="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_2}"
 
 mkdir -p "${DEST}/corpus" "${DEST}/dicts/calibration" "${DEST}/dicts"
 

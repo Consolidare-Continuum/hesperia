@@ -13,7 +13,7 @@
 | `dicts/calibration/<version>/` | `assets/calibration/dicts/<version>/` (copy) |
 | `dicts/engine_dynamics_v060/` | `assets/data/engine_dynamics_v060/` (copy) |
 
-Default version for calibration mirror: **`v0_6_0_clr_v052_1`** (override with env in sync script).
+Default version for calibration mirror: **`v0_6_0_clr_v052_2`** (override with env in sync script).
 
 ## Populate / refresh
 

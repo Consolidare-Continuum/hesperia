@@ -12,7 +12,7 @@ cd "$ROOT"
 echo "=== [1/2] Version consistency ==="
 python3 tools/validate_version_consistency.py
 
-CALIB="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_1}"
+CALIB="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_2}"
 DICT_A="$ROOT/assets/calibration/dicts/$CALIB/dict_a.jsonl"
 echo "=== [2/2] Dict B + CD wave (dict_a=$DICT_A) ==="
 if [[ -f "$DICT_A" ]]; then

@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # After Dict A is frozen and validators green: exercise B line + CD executor + one CD-on runtime smoke.
-# No OpenAI. Uses HESPERIA_CALIB_DICT_VERSION (default v0_6_0_clr_v052_1).
+# No OpenAI. Uses HESPERIA_CALIB_DICT_VERSION (default v0_6_0_clr_v052_2).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
 export PYTHONPATH=.
 
-CALIB="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_1}"
+CALIB="${HESPERIA_CALIB_DICT_VERSION:-v0_6_0_clr_v052_2}"
 
 echo "=== B pack validators (resolver / DLCR dict_b) ==="
 python3 tools/validate_dict_b_dlcr.py

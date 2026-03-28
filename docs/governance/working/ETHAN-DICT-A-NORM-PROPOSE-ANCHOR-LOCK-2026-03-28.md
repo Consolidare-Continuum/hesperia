@@ -36,6 +36,10 @@ Any **promotion** (e.g. merged `dict_a` / `dict_b` under `assets/data/engine_dyn
 
 Validators may **read** these files. **CI must not** auto-commit changes into this directory. **DICT-CAL-*** active rows that imply mutating this freeze require **Grace + igareosh** triage or a **new version directory** (e.g. `v0_6_0_clr_v052_2`) instead of in-place edits.
 
+## Amendment — successor pack `v0_6_0_clr_v052_2` (2026-03-28)
+
+**igareosh** (Ethan voice) **unfroze** DICT-CAL-02 / TFP dict workflow. **New default runtime directory:** `assets/calibration/dicts/v0_6_0_clr_v052_2/` — **copy** of `v052_1` plus **append-only** `dict_b.jsonl` rows (66 `concept_id`s) from engine `dict_b_tfp.jsonl`; `TFP_CLUSTER_*` **hex_anchor** **HX-2609**–**HX-2615** in engine + anchors registry. **`v052_1` directory is not edited**; it remains the sealed predecessor. Defaults: `HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_2`, `tools/run_b_cd_wave_after_a.sh`, `tools/sync_tfp_module_data.sh`, CI gate env.
+
 ---
 
 `SIGNED: Architect (Ethan) | Dict A / norm / propose / anchor lock | 2026-03-28 | Hesperia governance/working`

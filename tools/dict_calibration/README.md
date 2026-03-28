@@ -4,9 +4,9 @@ Closed loop: **corpus → lexical candidates → OpenAI (propose/normalize) → 
 
 OpenAI proposes; **Hesperia matching, resolver, anchors, and evaluation are authoritative.**
 
-**Dict A — API chapter closed:** RU / alignment work that needed the model is **done**; canonical Dict A for runtime is the **frozen calibration pack** (e.g. `assets/calibration/dicts/v0_6_0_clr_v052_1/dict_a.jsonl` + engine merge), not a live OpenAI loop. **Do not** re-run `extract` → `normalize` → `propose` / `ru-tfp-align` on production workdirs unless you intentionally refresh A; **proceed** with local stages (anchor / links / eval / errors / freeze already applied), validators, DLCR, and **C / CD / HC** tracks **without** requiring `OPENAI_API_KEY`.
+**Dict A — API chapter closed:** RU / alignment work that needed the model is **done**; canonical Dict A for runtime is the **frozen calibration pack** (default `assets/calibration/dicts/v0_6_0_clr_v052_2/dict_a.jsonl` + engine merge), not a live OpenAI loop. **Do not** re-run `extract` → `normalize` → `propose` / `ru-tfp-align` on production workdirs unless you intentionally refresh A; **proceed** with local stages (anchor / links / eval / errors / freeze already applied), validators, DLCR, and **C / CD / HC** tracks **without** requiring `OPENAI_API_KEY`.
 
-**Sealed freeze (operator permission):** The whole tree `assets/calibration/dicts/v0_6_0_clr_v052_1/` (Dict A, normalized, proposals/draft, anchored dict_b, links, metrics) is **locked** — **no edits without direct permission from igareosh**. See **`docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md`**.
+**Sealed packs (operator permission):** `v0_6_0_clr_v052_1` remains **immutable**. **Active default:** `v0_6_0_clr_v052_2` (B-gap closure, 2026-03-28). **No in-place edits** to sealed dirs without **igareosh**. See **`docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md`**.
 
 ## Install (optional extras)
 

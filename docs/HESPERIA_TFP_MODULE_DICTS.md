@@ -15,7 +15,7 @@ Set one environment variable before running engine/module pipelines:
 
 Example:
 
-`HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_1`
+`HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_2`
 
 When set, runtime dictionary loading resolves from:
 
@@ -31,9 +31,13 @@ When not set (or missing), runtime falls back to legacy bundled assets under:
 Mainline runtime/module loading has no dependency on `/research` paths.
 Calibration freeze output is consumed from `assets/calibration/dicts/...` only.
 
-## Sealed freeze (`v0_6_0_clr_v052_1`) — operator permission required
+## Active calibration pack (`v0_6_0_clr_v052_2`)
 
-The directory **`assets/calibration/dicts/v0_6_0_clr_v052_1/`** (Dict **A**, **normalized** rows, **proposal**/draft lineage, **anchored** dict_b and **links**) is **locked**. **Do not edit, replace, or delete** without **direct permission from igareosh** (or a superseding Ethan-signed governance note). Full rule: **`docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md`**.
+**Default runtime** after **2026-03-28** (Ethan / igareosh unfreeze, DICT-CAL-02 B-gap closure): `assets/calibration/dicts/v0_6_0_clr_v052_2/` — same Dict **A** / **links** / **metrics** lineage as `v052_1`, plus **66** appended `dict_b.jsonl` rows (full engine `dict_b_tfp.jsonl` concept inventory). `TFP_CLUSTER_*` rows carry `hex_anchor` **HX-2609**–**HX-2615**.
+
+## Sealed predecessor (`v0_6_0_clr_v052_1`) — immutable
+
+The directory **`assets/calibration/dicts/v0_6_0_clr_v052_1/`** remains **immutable** (historical seal). **Do not edit** without **direct permission from igareosh**. Full rule: **`docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md`** (see amendment for successor pack).
 
 ## Module data mirror (interim)
 

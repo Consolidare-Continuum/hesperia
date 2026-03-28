@@ -17,6 +17,6 @@ From Hesperia repo root:
 
 ## Env
 
-- `HESPERIA_CALIB_DICT_VERSION` — default `v0_6_0_clr_v052_1`.
+- `HESPERIA_CALIB_DICT_VERSION` — default `v0_6_0_clr_v052_2`.
 
 `SIGNED: Cursor (workflow) | RUNBOOK dict gates | 2026-03-28 | Hesperia repo`

@@ -19,7 +19,8 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - Kept release scope to module/main-engine code only; calibration dict artifacts remain uncommitted.
 - **Interim module data mirror:** `hesperia/modules/tfp/data/README.md`, `.gitignore` for mirrored `corpus/` and `dicts/`, and `tools/sync_tfp_module_data.sh` — copies RU/EN cleaned corpus and calibration + `engine_dynamics_v060` bundles from `assets/` plus corpus from `research/_noone_local/` (read-only rsync; does not modify `research/`). Runtime still resolves `assets/` until full pipe wires dict state under module architecture.
 - **Dict calibration defaults (pre–full C/CD/HC pipe):** `tools/dict_calibration/env_defaults.py` — `HESPERIA_DICT_CALIB_OFFLINE=1` sets mock OpenAI + worker default 4; `HESPERIA_DICT_CALIB_WORKERS` (default **4**) drives anchor/link/eval/error pools in `run_pipeline.py` and `run_dict_calibration_clearance.py`; `require_openai_key()` is a no-op when `HESPERIA_CALIB_MOCK_OPENAI=1`.
-- **B + CD wave after green A:** `tools/run_b_cd_wave_after_a.sh` — validates dict B + TFP RU pack + DLCR regression, runs `test_cd_executor`, then `hesperia.run` with `HESPERIA_CALIB_DICT_VERSION` (default `v0_6_0_clr_v052_1`) and `HESPERIA_CD_ENABLED=1`. Doc: `docs/HESPERIA_TFP_MODULE_DICTS.md` §After A is green.
+- **B + CD wave after green A:** `tools/run_b_cd_wave_after_a.sh` — validates dict B + TFP RU pack + DLCR regression, runs `test_cd_executor`, then `hesperia.run` with `HESPERIA_CALIB_DICT_VERSION` (default `v0_6_0_clr_v052_2`) and `HESPERIA_CD_ENABLED=1`. Doc: `docs/HESPERIA_TFP_MODULE_DICTS.md` §After A is green.
+- **Calibration pack `v0_6_0_clr_v052_2` (DICT-CAL-02):** successor to sealed `v052_1` — **append-only** `dict_b.jsonl` (+66 `concept_id` rows from engine `dict_b_tfp.jsonl`); engine `TFP_CLUSTER_*` **hex_anchor** **HX-2609**–**HX-2615**; default env + CI + `sync_tfp_module_data.sh` updated; `v052_1` directory unchanged.
 - **Ethan dict order after A:** `docs/governance/working/ETHAN-DICT-LAYER-ORDER-AFTER-A.md` — locked **B before CD**; `MODEL_CARD_CD_PIPELINE.md` cross-link; anti-pattern CD-before-B recorded.
 - **Ethan dict / calibration framework (rev. 2):** `docs/governance/working/ETHAN-10-TASKS-DICTS-CALIB-2026-03-28.md` — tiered **H/S/V/Y** IDs: hard ship gates (H1–H6), structural + control laws (S1–S6: CD mandatory, CD Δ smoke, competition/dominance, length invariance, modifiers, unmapped loop), system (V1–V2: TFP bundle, cross-plane), hygiene (Y1). Mirror: cursor `operational/assignments/`.
 - **Ethan seal — freeze `v0_6_0_clr_v052_1`:** `docs/governance/working/ETHAN-DICT-A-NORM-PROPOSE-ANCHOR-LOCK-2026-03-28.md` — Dict A + normalized + proposal/draft + anchored B/links/metrics directory **locked**; mutation only with **igareosh** direct permission or superseding Ethan note; pointers in `HESPERIA_TFP_MODULE_DICTS.md`, `tools/dict_calibration/README.md`.
@@ -29,7 +30,7 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 ```bash
 python3 tools/validate_version_consistency.py
 python3 -m pytest tests/test_release_version.py tests/test_tfp_module_main_run.py -q
-HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_1 python3 -m hesperia.run /tmp/hes_in1.txt --config configs/pipeline.yaml --out /tmp/dossier.json --manifest-out /tmp/run_manifest.json
+HESPERIA_CALIB_DICT_VERSION=v0_6_0_clr_v052_2 python3 -m hesperia.run /tmp/hes_in1.txt --config configs/pipeline.yaml --out /tmp/dossier.json --manifest-out /tmp/run_manifest.json
 ```
 
 ## v0.5.4 — Deterministic pipeline system seal (2026-03-26)
