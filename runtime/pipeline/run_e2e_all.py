@@ -487,12 +487,14 @@ def run_e2e_session_topology(out_path: Path, text: str) -> None:
     _write_e2e_json(out_path, out, ["hesperia.tfp"])
 
 
-def run_e2e_tfp_smoke(out_path: Path) -> None:
+def run_e2e_tfp_smoke(out_path: Path, primary_text: str | None = None) -> None:
     """
     TFP / Kernberg TESTING GROUNDS — excluded from Engine Dynamics canonical release (v0.5)
     (see docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md §2). CI + clinical regression only.
 
     Structural batch on smoke sessions; analyze_session + detect_tfp_stage; speaker-aware smoke.
+    When ``primary_text`` is set (same string as E2E ``--text``), a synthetic session
+    ``e2e_primary`` is prepended so clinical Markdown / transcripts drive TFP smoke + hex bundle.
     """
     try:
         from hesperia.tfp import TFP_STAGES, detect_tfp_stage
@@ -529,6 +531,10 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
                 "text": "Boundaries, trust, transference, and integration of self and other.",
             },
         ]
+
+    primary = (primary_text or "").strip()
+    if primary:
+        sessions = [{"session_id": "e2e_primary", "text": primary}, *sessions]
 
     texts = [str(s.get("text") or "") for s in sessions]
     sids = [str(s.get("session_id") or f"s{i}") for i, s in enumerate(sessions)]
@@ -574,6 +580,9 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
         "Patient: I hate waiting; you always leave me alone in the room.\n"
         "Therapist: Say more about what alone feels like for you right now."
     )
+    dialogue_for_speaker_aware = dialogue_smoke
+    if primary and len(primary) <= 200_000:
+        dialogue_for_speaker_aware = primary
     session_hex_microstructure_tfp: list[dict[str, Any]] = []
     try:
         from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
@@ -592,13 +601,15 @@ def run_e2e_tfp_smoke(out_path: Path) -> None:
 
     speaker_aware_smoke: dict[str, Any] = {}
     try:
-        sa = analyze_session_speaker_aware(dialogue_smoke, embedding=embedding or None)
+        sa = analyze_session_speaker_aware(dialogue_for_speaker_aware, embedding=embedding or None)
         areas_sa = sa.get("areas") or {}
         speaker_aware_smoke = {
             "tfp_stage": detect_tfp_stage({k: float(v) for k, v in areas_sa.items() if v is not None}),
             "areas_top": dict(sorted(areas_sa.items(), key=lambda x: -float(x[1] or 0))[:8]),
             "has_speaker_activation": "speaker_activation" in sa,
         }
+        if dialogue_for_speaker_aware is not dialogue_smoke:
+            speaker_aware_smoke["speaker_aware_source"] = "e2e_primary"
     except Exception as e:
         speaker_aware_smoke = {"_error": str(e)}
 
@@ -1311,7 +1322,7 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
 
     # 10. TFP smoke: batch structural + session stages + speaker-aware (testing collateral)
     p = out_dir / "run_output_e2e_tfp_smoke.json"
-    run_e2e_tfp_smoke(p)
+    run_e2e_tfp_smoke(p, primary_text=text)
     written["run_output_e2e_tfp_smoke.json"] = p
 
     # 10b. Hex microstructure + Option A + TFP provenance (primary text + smoke sessions)

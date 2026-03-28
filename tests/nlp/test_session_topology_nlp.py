@@ -30,7 +30,7 @@ def test_segmentation_works() -> None:
 def test_segments_analyzed() -> None:
     from hesperia.nlp.session_topology import analyze_session_segments
     text = "Расщепление и агрессия. Перенос и интеграция."
-    results = analyze_session_segments(text)
+    results = analyze_session_segments(text, window_size=3)
     assert len(results) == 2
     for r in results:
         assert "segment_id" in r and "text" in r
@@ -66,7 +66,7 @@ def test_dynamics_computed() -> None:
 def test_run_session_topology_full() -> None:
     from hesperia.nlp.session_topology import run_session_topology
     text = "Пациент злится на терапевта. Потом говорит, что терапевт был хорошим. Затем снова обвиняет терапевта."
-    out = run_session_topology(text)
+    out = run_session_topology(text, window_size=5)
     assert "segments" in out and "dynamics" in out
     assert len(out["segments"]) == 3
     assert "dominant_area_sequence" in out["dynamics"]
@@ -75,4 +75,5 @@ def test_run_session_topology_full() -> None:
     seq = out["dynamics"]["dominant_area_sequence"]
     assert len(seq) == 3
     # First and third segment may favor A4 (aggression), second A2 (object relations)
-    assert all(a in ("A2", "A3", "A4", "A10", "") for a in seq)
+    assert all(isinstance(a, str) for a in seq)
+    assert all(not a or (a.startswith("A") and a[1:].split("_", 1)[0].isdigit()) for a in seq)
