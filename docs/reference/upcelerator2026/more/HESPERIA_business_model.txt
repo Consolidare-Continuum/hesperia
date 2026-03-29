@@ -1,0 +1,742 @@
+HESPERIA — Business Model Canvas
+Upcelerator Phase 1, Assignment N.2
+Date: 2026-03-29
+Author: Igor Platonov (@igareosh)
+Based on: Osterwalder & Pigneur (2009), Business Model Generation
+
+============================================================
+1. KEY PARTNERS
+============================================================
+
+Assumed partners (startup discovery phase — to be validated):
+
+a) LLM / Foundation Model Providers
+   - OpenAI, Anthropic, Google, Meta (open-source models)
+   - Hesperia enhances their outputs; it does not compete.
+     Per Governance Charter §2: "We integrate with them. We ride on them.
+     We do not fight them."
+   - Partnership type: technology integration, potential marketplace listing.
+
+b) Cloud Infrastructure Providers
+   - Hetzner, DigitalOcean, or local hosting (initial)
+   - AWS / GCP / Azure (scale phase, for enterprise deployments)
+   - Partnership type: hosting, managed services, potential co-sell.
+
+c) Moldova IT Park (MITP)
+   - Tax regime (single 7% tax on revenue for IT Park residents).
+   - Access to 2,725 resident companies and 25,000+ IT employees.
+   - Partnership type: institutional, regulatory, ecosystem access.
+
+d) Academic / Research Institutions
+   - Technical University of Moldova (UTM), Academy of Sciences
+   - Partnership type: research collaboration, talent pipeline, pilot programs.
+
+e) Accelerator & Mentor Network
+   - Upcelerator / Dreamups, Startup Moldova, Tekwill
+   - Partnership type: network access, mentorship, investor introductions.
+
+f) Regional System Integrators (future)
+   - IT companies in Moldova and Romania that build AI pipelines for clients.
+   - Partnership type: reseller / integration partner for Hesperia API.
+
+Rationale (Osterwalder): Key partners reduce risk and acquire resources
+the startup cannot build alone. For Hesperia, the critical partnerships
+are technology integration (LLM providers) and ecosystem access (IT Park,
+accelerators). The non-competition doctrine means partners are not threatened
+by Hesperia — it makes their outputs more reliable, not less relevant.
+
+
+============================================================
+2. KEY ACTIVITIES
+============================================================
+
+a) Engine Development & Maintenance
+   - Core deterministic math (L1-L9 execution flow), lexicon calibration,
+     topology propagation, projection layer, seal/audit pipeline.
+   - Continuous: Dict A/B refinement, schema stability, regression gates.
+
+b) Product Surface & API Operations
+   - Shipping API (FastAPI, Docker), sealed CLI, public JSON schema.
+   - Uptime, rate limiting, versioning, determinism regression testing.
+
+c) Customer Pilots & Validation
+   - 6-10 week structured pilots (per RAD Deep Research methodology).
+   - Gold-set evaluation: precision/recall/F1 on labeled corpora.
+   - Workflow impact measurement (triage time reduction, drift detection).
+
+d) Research & Calibration
+   - Semantic field dynamics, calibration profiles, new product line signals.
+   - TRIZ extension development (paid tier, when ROI is proven).
+
+e) Sales & Business Development
+   - Direct outreach to Moldova/Romania IT companies using AI pipelines.
+   - Accelerator demo pipeline, conference presence, content marketing.
+   - LinkedIn-based B2B outreach (proven channel in CEE region).
+
+f) Regulatory & Compliance Alignment
+   - EU AI Act awareness, GDPR compliance for processing pipelines.
+   - Documentation for enterprise procurement (ISO-style governance story).
+
+Rationale (Osterwalder): Key activities are what the company must do to
+deliver its value proposition. For a B2B SaaS/API product, the critical
+activities are engine reliability (determinism), customer validation
+(pilots), and sales (direct B2B in a small market).
+
+
+============================================================
+3. KEY RESOURCES
+============================================================
+
+a) Intellectual Property
+   - Hesperia engine codebase (sealed v0.5.1, deterministic pipeline).
+   - Lexicon (Dict A/B — proprietary semantic vocabulary).
+   - Topology model (icosahedral 12-node graph, 10+2 areas, 240+ families).
+   - Governance charter, product specs, calibration profiles.
+   - Legal: Restricted Research Disclosure License.
+
+b) Human Capital
+   - Founder (Igor Platonov): full-stack engineer, product architect,
+     domain expert in semantic measurement and IT operations.
+   - Future: co-founder(s), 1-2 engineers, 1 business development.
+
+c) Technical Infrastructure
+   - Development server (prichindel — current), CI/CD pipeline.
+   - Production hosting (to be provisioned: container-based API).
+   - GitHub repository, version control, audit trail.
+
+d) Financial Resources
+   - Bootstrapped (founder investment: time, compute, research).
+   - Accelerator support (Upcelerator / Dreamups network).
+   - Future: grants (Moldova startup programs), angel/seed investment.
+
+e) Data Assets
+   - Gold evaluation corpora (for pilot benchmarking).
+   - Calibration datasets (for lexicon tuning and regression testing).
+   - Customer pilot data (accumulated through deployments).
+
+Rationale (Osterwalder): Key resources are assets required to make the
+business model work. They can be physical, intellectual, human, or financial.
+For Hesperia, the strongest resource is the IP (sealed deterministic engine
+with 7 product lines) — this is the defensible core.
+
+
+============================================================
+4. VALUE PROPOSITION
+============================================================
+
+Core Value Proposition:
+
+  "Hesperia provides deterministic semantic measurement and governance
+   for AI pipelines — making generative AI outputs auditable, traceable,
+   and structurally accountable."
+
+What customer problems does Hesperia solve:
+
+a) Black-box AI outputs
+   - Problem: LLM outputs are non-deterministic; same prompt can yield
+     different results. Specialists cannot verify or audit what AI produces.
+   - Solution: Hesperia maps text into stable structural classes (10 macro
+     domains, 240 policy families) with evidence traces and trust tiers.
+     Same input + config = same output. Every time.
+
+b) Semantic drift in AI pipelines
+   - Problem: AI outputs drift over time (model updates, prompt changes,
+     context shifts). No standard way to detect or measure this.
+   - Solution: Store Hesperia vectors over time, track divergence from
+     baselines, trigger alerts when drift exceeds thresholds.
+
+c) Compliance and audit requirements
+   - Problem: EU AI Act and enterprise governance require traceability
+     and documentation of AI-assisted decisions. Most AI tools cannot
+     provide this.
+   - Solution: Sealed runtime with public audit manifests (version,
+     checksum, evidence count), evidence traces for every output.
+
+d) Text measurement before human review
+   - Problem: Specialists (researchers, analysts, compliance officers)
+     spend excessive time reading documents that could be pre-screened.
+   - Solution: Structural measurement (density, coherence, complexity,
+     contradiction detection) enables automated triage before human review.
+
+What makes this different (per Governance Charter):
+   - Enhancer, not competitor: works with any LLM, any pipeline.
+   - Behind-the-curtain: infrastructure/middleware, not a brand-stage product.
+   - Integration-first: wrap, stabilize, audit — do not reinvent.
+   - Epistemic integrity: truth-preserving, traceable, reproducible.
+
+Quantitative value proposition elements:
+   - Determinism: identical input → identical output (hash-verifiable).
+   - 14 market-facing derived metrics (KDI, KNS, CSI, TDS, etc.).
+   - 7 product lines (structural, narrative, contradiction, innovation,
+     fingerprint, domain topology, semantic physics dashboard).
+   - Evidence traces with confidence bands per output.
+   - Trust tiers for automated vs. human-review routing.
+
+Competitive positioning note:
+   Hesperia does not have clean, obvious direct competitors — because the
+   claim (deterministic semantic mapping into stable structural classes)
+   sits in a niche that most players do not fully occupy. Hesperia's
+   position sits between three established categories:
+   - Symbolic AI (Expert.ai) — rule-based NLP, knowledge graphs, explainability
+   - Semantic search (Sinequa) — meaning extraction from enterprise data
+   - Knowledge graphs (Diffbot, RelationalAI) — structured reasoning over data
+   None of these deliver deterministic structural placement with sealed
+   projection, evidence traces, and trust tiers as a unified engine.
+   That is Hesperia's wedge: not better at what they do, but different
+   in what it guarantees (determinism, auditability, reproducibility).
+
+Rationale (Osterwalder): The value proposition describes the bundle of
+products and services that create value for a specific customer segment.
+Hesperia's VP is differentiation-based (Porter): not cost leadership,
+but unique capability (deterministic structural measurement + governance)
+that adjacent players — semantic search engines (Sinequa), symbolic NLP
+platforms (Expert.ai), knowledge graph builders (Diffbot, RelationalAI),
+and semantic annotation services (Cogito Tech) — do not fully provide.
+The gap is determinism + sealed projection + topology-aware structural
+metrics + evidence traces as a unified, integration-ready engine.
+
+
+============================================================
+5. CUSTOMER RELATIONSHIPS
+============================================================
+
+a) API Self-Service (primary, initial)
+   - Developers integrate Hesperia API into their pipelines.
+   - Documentation, OpenAPI spec, code examples, sandbox environment.
+   - Relationship type: automated service (Osterwalder classification).
+   - Suitable for: individual developers, small teams, early adopters.
+
+b) Pilot Programs (validation phase)
+   - Structured 6-10 week pilots with gold-set evaluation.
+   - Dedicated support during pilot (founder-led initially).
+   - Relationship type: personal assistance / dedicated personal assistance.
+   - Suitable for: mid-size companies, first enterprise contracts.
+
+c) Enterprise Contract + Support (scale phase)
+   - Annual contracts with SLA, dedicated support channel.
+   - Custom calibration profiles for client-specific domains.
+   - Relationship type: dedicated personal assistance.
+   - Suitable for: enterprises with compliance requirements.
+
+d) Community & Content (ongoing)
+   - Technical blog, case studies, benchmark publications.
+   - Developer community (GitHub discussions, Discord/Telegram).
+   - Relationship type: communities (Osterwalder classification).
+
+Acquisition → Retention → Growth path:
+   Free sandbox / trial → paid API usage → enterprise contract → upsell
+   (TRIZ extension, custom calibration, on-prem license).
+
+Rationale (Osterwalder): Customer relationships range from self-service
+to dedicated personal assistance. For B2B SaaS, the typical path starts
+with low-touch (API self-service) and moves to high-touch (enterprise)
+as deal size grows. Hesperia follows this pattern with pilots as the
+validation bridge.
+
+
+============================================================
+6. CUSTOMER SEGMENTS
+============================================================
+
+Primary segment: B2B (business-to-business).
+Hesperia sells to organizations, not individual consumers.
+Key characteristic: organizations deploying AI models in production
+with regulatory or financial risk.
+
+Target company profile:
+   - Size: mid-size to enterprise, 50-5,000+ employees
+   - Revenue: €1M – €500M+
+   - Decision-makers: CTO, Head of AI/ML, Risk/Compliance Officers,
+     Product Owners (AI systems)
+
+a) BEACHHEAD (Year 1-2): Moldova — Compliance-Heavy AI Users
+   - ~50-100 companies in Moldova IT Park deploying AI in production
+     (out of 2,725 total MITP residents).
+   - Priority verticals: FinTech, banking (maib and peers), AI-driven SaaS.
+   - Buyer: CTO, Head of AI/ML, product owners.
+   - Pain: need to audit and govern AI outputs; regulatory pressure growing.
+   - ACV: €5,000-€10,000/yr.
+   - SOM target: 50-100 companies → €1M ARR at 100 contracts.
+
+b) EARLY EXPANSION (Year 2-3): Romania → EU Priority Markets
+   - Romania: 5.2% AI adoption rate (lowest in EU — massive room to grow).
+   - EU markets with stricter compliance needs (DACH, Nordics, France).
+   - ~200-500 companies using AI in regulated production workflows.
+   - Buyer: CTO, Risk/Compliance Officers, IT directors.
+   - Pain: EU AI Act compliance, auditability requirements, AI risk control.
+   - ACV: €10,000-€20,000/yr.
+   - SAM slice: part of €200M (20,000 EU companies × €10K).
+
+c) REGIONAL (Year 3-5): Full EU / Enterprise
+   - Companies in FinTech, insurance, healthcare, legal, public sector
+     using AI at scale with regulatory or financial risk.
+   - Buyer: enterprise procurement, compliance teams, IT architecture.
+   - Pain: deterministic governance for AI at scale, regulatory pressure.
+   - Size: part of the $10B-$15B+ global AI infra + observability market.
+
+d) VERTICAL SEGMENTS (across all geographies):
+   1. FinTech & banking — AI risk control, decision audit.
+   2. Insurance — claims processing, fraud detection governance.
+   3. Healthcare — clinical decision support audit, GDPR/HIPAA.
+   4. Legal / compliance — contract analysis, policy contradiction detection.
+   5. AI-driven SaaS companies — output governance for their own products.
+   6. Media & research — text measurement, narrative analysis.
+
+Rationale (Osterwalder): Customer segments define the different groups
+of people or organizations an enterprise aims to reach and serve. Hesperia
+uses a niche market strategy initially (compliance-heavy AI users in
+Moldova), expanding to segmented market as it scales. Per Lean Startup
+(Ries): start with early adopters who feel the pain most acutely.
+
+Core strategic note: Most startups fail not because of technology, but
+because they solve the wrong problem or target the wrong customer. This
+market definition assumes: (1) clear problem (lack of AI auditability),
+(2) identified early adopters (compliance-driven companies), (3) real
+willingness to pay (risk reduction). If any of these fail → market
+definition must be revised.
+
+
+============================================================
+7. CHANNELS
+============================================================
+
+a) Direct Sales (primary, initial)
+   - Founder-led sales to Moldova IT companies.
+   - LinkedIn outreach, IT Park network, Tekwill/accelerator events.
+   - Face-to-face meetings in Chisinau (beachhead advantage: small market,
+     personal network reachable).
+
+b) API / Developer Portal (primary, scalable)
+   - Hesperia API documentation, sandbox, quickstart guides.
+   - GitHub presence (restricted research disclosure, but visible).
+   - Developer experience: pip install → 5-minute first analysis.
+
+c) Content Marketing & Thought Leadership
+   - Technical blog posts on AI governance, deterministic measurement.
+   - Conference talks (local: Tekwill, Dreamups; regional: DevTalks Romania,
+     CEE tech conferences).
+   - LinkedIn articles targeting CTOs, compliance officers, AI engineers.
+
+d) Partner Channel (future)
+   - System integrators in Romania/CEE who build AI solutions for clients.
+   - LLM marketplace listings (potential: OpenAI plugin, cloud marketplaces).
+
+e) Enterprise Sales Motion (scale phase)
+   - Outbound to compliance/governance teams in regulated industries.
+   - Pilot-to-contract pipeline.
+
+Channel phases (Osterwalder):
+   Awareness → Evaluation → Purchase → Delivery → After-sales
+   Content → Demo/sandbox → Pilot → API key/contract → Support/monitoring
+
+Rationale (Osterwalder): Channels describe how a company communicates
+with and reaches its customer segments. For B2B SaaS starting local:
+direct sales and developer portal are the two essential channels.
+Content marketing builds awareness; partner channels scale distribution
+beyond founder's personal reach.
+
+
+============================================================
+8. COST STRUCTURE
+============================================================
+
+Hesperia operates a value-driven cost structure (Osterwalder):
+focused on value creation (deterministic quality, auditability)
+rather than cost minimization.
+
+a) Fixed Costs (monthly estimates, Year 1)
+   - Founder living expenses / opportunity cost: ~€1,500-2,000/mo
+     (Moldova cost of living; founder is bootstrapping).
+   - Server infrastructure: €50-200/mo (Hetzner/DigitalOcean;
+     Hesperia is lightweight — deterministic, no GPU training).
+   - Domain, email, tools (GitHub, monitoring): ~€50/mo.
+   - Legal (company registration, IT Park residency): ~€500 one-time.
+   - Total fixed: ~€2,000-2,500/mo (~€24,000-30,000/yr).
+
+b) Variable Costs
+   - Per-customer pilot support time (founder time, ~40h per pilot).
+   - API compute scaling (linear with usage; minimal per-doc cost).
+   - Marketing spend (initially zero — organic / network-based).
+
+c) Key Cost Drivers
+   - Human capital (biggest cost once hiring begins).
+   - Compute (scales with customers, but Hesperia's deterministic
+     engine is CPU-only — no GPU inference cost).
+   - Sales cycle length (enterprise B2B = longer cycles, higher CAC).
+
+d) Economies of Scope (Osterwalder)
+   - Same engine serves all 7 product lines (structural, narrative,
+     contradiction, innovation, fingerprint, topology, dashboard).
+   - Adding a product line = new projection/packaging, not new engine.
+
+Year 1 burn rate estimate: €24,000-36,000 (bootstrapped, solo founder).
+Year 2 with 1 hire: €60,000-80,000.
+Break-even target: 8-12 enterprise contracts at €5,000-€10,000/yr each.
+
+Rationale (Osterwalder): The cost structure describes all costs incurred
+to operate the business model. Hesperia's structure is lean by design:
+no GPU costs (deterministic engine), no content licensing, no large
+sales team initially. The founder's time is the primary cost.
+
+
+============================================================
+9. REVENUE STREAMS
+============================================================
+
+a) Usage-Based API (primary, initial)
+   - Price per document analyzed, tiered by volume.
+   - Estimated pricing: €0.05-0.20 per document (basic structural).
+   - Volume tiers: 1K/mo free trial → 10K/mo starter → 100K/mo pro.
+   - Revenue type: usage fee (Osterwalder).
+
+b) Enterprise Subscription (primary, scale phase)
+   - Annual contract, priced by:
+     • Number of projects/tenants
+     • Included throughput (documents/month)
+     • Compliance package (audit retention, SLA, dedicated support)
+   - Estimated ACV: €5,000-€20,000/yr (midpoint €10,000).
+   - Revenue type: subscription fee (Osterwalder).
+
+c) TRIZ / Decision Intelligence Extension (premium, future)
+   - Paid add-on for contradiction intelligence, innovation radar,
+     narrative propagation analysis.
+   - Estimated pricing: +50-100% on base subscription.
+   - Revenue type: subscription fee + usage fee.
+
+d) On-Premise / Air-Gapped License (enterprise, future)
+   - For regulated environments that cannot use cloud APIs.
+   - Annual license + maintenance fee.
+   - Estimated pricing: €10,000-30,000/yr per deployment.
+   - Revenue type: licensing (Osterwalder).
+
+e) Custom Calibration & Consulting (services, opportunistic)
+   - Domain-specific calibration profiles for enterprise clients.
+   - One-time setup fee + annual maintenance.
+   - Revenue type: asset sale / usage fee.
+
+Revenue projection (bottom-up, ACV-aligned):
+
+Year 1 (Moldova beachhead):
+  - 10-20 pilot customers → 5-10 convert to paid
+  - ACV: €5,000-€10,000
+  - Revenue: €25,000-100,000
+
+Year 2 (Moldova + Romania early):
+  - 30-60 paying customers
+  - ACV: €8,000-€15,000 (mix of starter and enterprise)
+  - Revenue: €200,000-500,000
+
+Year 3 (Regional expansion, target €1M ARR):
+  - 80-120 paying customers
+  - ACV: €10,000-€15,000
+  - Revenue: €800,000-1,500,000
+
+Year 5 (established product, EU presence):
+  - 200+ customers across CEE/EU
+  - ACV: €10,000-€20,000
+  - Revenue: €2,000,000-4,000,000
+  - Target: sustainable business with 8-15 person team.
+
+Rationale (Osterwalder): Revenue streams represent the cash a company
+generates from each customer segment. Hesperia uses a hybrid model:
+usage-based for accessibility (low barrier to entry) and subscription
+for predictability (enterprise contracts). Per Lean Startup (Ries):
+pricing assumptions must be validated through customer development —
+these numbers are hypotheses, not forecasts.
+
+
+============================================================
+MARKET DEFINITION (from project curator, refined)
+============================================================
+
+Industry classification:
+  - AI / Machine Learning Infrastructure
+  - AI Observability & Monitoring
+  - Enterprise Software (SaaS)
+  - Risk & Compliance Technology (RegTech)
+  - Data Analytics / Decision Systems
+
+Initial geographical target:
+  - City: Chișinău (entry point)
+  - Country: Moldova (pilot)
+  - Expansion: Romania → EU (priority: markets with stricter compliance)
+
+Customer type: B2B (primary focus)
+
+Target market demographics (B2B):
+  - Company size: mid-size to enterprise, 50-5,000+ employees
+  - Company revenue: €1M – €500M+
+  - Industries: FinTech, Banking, Insurance, Healthcare,
+    Legal / compliance-heavy sectors, AI-driven SaaS companies
+  - Decision-makers: CTO, Head of AI/ML, Risk/Compliance Officers,
+    Product Owners (AI systems)
+  - Key characteristic: organizations deploying AI models in production
+    with regulatory or financial risk
+
+
+============================================================
+MARKET SIZING (bottom-up, validated)
+============================================================
+
+Problem: Companies deploying AI lack deterministic, auditable
+understanding of outputs.
+
+TAM (Total Addressable Market):
+  Global AI infrastructure + observability market: $10B-$15B+
+  Includes all companies using AI in production globally.
+  Note: AI governance sub-segment alone = $2.5-3.4B (2026),
+  projected $8.2B by 2034 (15.8% CAGR).
+  Sources: GII Research, Market.us, Research and Markets.
+
+SAM (Serviceable Addressable Market):
+  EU + Eastern Europe companies with compliance pressure.
+  ~20,000 relevant companies.
+  Average annual contract value (ACV): €5,000-€20,000.
+  SAM estimate: 20,000 × €10,000 (midpoint) = €200M.
+
+SOM (Serviceable Obtainable Market, Year 1-3):
+  Realistic capture: 50-200 companies.
+  SOM estimate: 100 companies × €10,000 = €1M ARR.
+  This is bottom-up. Real companies × real price.
+
+Critical insight: TAM is irrelevant for execution. SOM defines strategy.
+
+Rationale:
+  - Start with narrow niche (compliance-heavy AI users)
+  - Expand after validation (beachhead principle)
+  - Market driven by regulation, not hype → strong long-term growth
+
+Moldova IT context (2025-2026):
+  - IT Park: 2,725 companies, $1B aggregate turnover, 25,000+ employees.
+  - IT = 4.7% of GDP; 88-90% export-oriented.
+  - Average IT salary: ~$2,700/mo.
+  - AI adoption: early stage; ~8 dedicated AI service providers;
+    major banks (maib) and IT companies beginning AI integration.
+
+Romania IT context (2025-2026):
+  - IT = 7% of GDP.
+  - AI adoption: only 5.2% of companies (lowest in EU — room to grow).
+  - Enterprise budgets shifting to AI, cybersecurity, critical infra.
+
+
+============================================================
+PESTLE ANALYSIS (Moldova / CEE / EU)
+============================================================
+
+Political:
+  AI regulation is increasing globally (EU AI Act). Governments push for
+  transparency, explainability, and control. This benefits deterministic
+  systems like Hesperia. However, geopolitical instability (especially in
+  Eastern Europe) may slow enterprise adoption in early stages.
+
+Economic:
+  Companies are investing heavily in AI but under pressure to control costs
+  and risks. Economic downturns shift focus from experimentation to
+  efficiency and accountability. Solutions that reduce risk and improve
+  decision reliability gain priority over "nice-to-have" AI tools.
+
+Sociological:
+  Trust in AI is low, especially in critical domains (finance, healthcare).
+  Users and organizations demand explainability and accountability. There is
+  growing resistance to "black-box" AI systems, creating demand for
+  transparent alternatives.
+
+Technological:
+  Rapid AI adoption (LLMs, automation) increases system complexity. Existing
+  tools focus on monitoring, not understanding. There is a gap for
+  deterministic semantic analysis. However, fast-moving AI ecosystems mean
+  integration and compatibility challenges.
+
+Legal:
+  Strict regulations (GDPR, EU AI Act) require auditability, traceability,
+  and risk control. Non-compliance leads to penalties. This creates direct
+  demand for systems that provide structured, explainable outputs. Legal
+  pressure is a primary market driver.
+
+Environmental:
+  AI infrastructure consumes significant energy (data centers). There is
+  increasing focus on efficiency. Deterministic systems that avoid heavy
+  compute (vs. large probabilistic models) have a long-term advantage in
+  sustainability and cost efficiency.
+
+
+============================================================
+COMPETITIVE POSITIONING (reality check)
+============================================================
+
+Hesperia does not have clean, obvious direct competitors. The claim
+(deterministic semantic mapping into stable structural classes with
+evidence, trust tiers, and sealed projection) sits in a niche that
+most players do not fully occupy.
+
+Hesperia's position sits between three established categories:
+  - Symbolic AI (rule-based NLP, ontologies, explainability)
+  - Semantic search (meaning extraction from enterprise data)
+  - Knowledge graphs (structured reasoning over text/data)
+
+The 5 closest competitors by functional overlap:
+
+1) Sinequa — Enterprise semantic search + NLP engine
+   Overlap: meaning extraction, enterprise-grade reliability,
+   ontology-like internal structures, regulated environments.
+   Difference: not deterministic in Hesperia's sense; still
+   probabilistic + heuristic-heavy. No sealed projection,
+   no structural trust tiers, no topology-aware placement.
+
+2) Expert.ai — Symbolic / rule-based NLP platform
+   Overlap: closest to Hesperia's philosophy; symbolic approach,
+   knowledge graphs + ontologies, focus on explainability,
+   structured meaning over raw text generation.
+   Difference: legacy architecture, less strict determinism,
+   no unified sealed runtime, no evidence traces with
+   confidence bands, no structural physics metrics.
+
+3) Cogito Tech — Semantic annotation + structured meaning layers
+   Overlap: text → structured representation, focus on data
+   labeling and meaning extraction.
+   Difference: service-heavy (not a product engine), no unified
+   deterministic system, no API-first delivery, no drift
+   detection or governance layer.
+
+4) RelationalAI — Structured reasoning over data
+   Overlap: structured semantic space, deterministic reasoning
+   layer, focus on logic + relationships + inference.
+   Difference: not text-native by default; requires structured
+   inputs first. Hesperia starts from raw text and produces
+   structure. Different entry point, similar destination.
+
+5) Diffbot — Web/text → structured knowledge graph
+   Overlap: text → structured meaning, entity + relationship
+   extraction, automated semantic extraction at scale.
+   Difference: extraction-focused, not a semantic dynamics
+   engine. No internal "competitive meaning system," no
+   topology-aware propagation, no trust tiers or governance.
+
+Why none of these are a perfect match (and why that matters):
+  These competitors validate that the market for structured
+  semantic intelligence exists and is funded. But none deliver
+  what Hesperia specifically claims: deterministic structural
+  placement + sealed projection + topology-aware metrics +
+  evidence traces + trust tiers as a single, integration-ready
+  engine. The niche is real but unoccupied at the intersection.
+
+  For investors: competition is not zero — it confirms an
+  attractive market. Hesperia's advantage is structural (the
+  engine's guarantees), not marketing (better pitch deck).
+
+
+============================================================
+ASSUMPTIONS LOG (to be validated through Customer Development)
+============================================================
+
+1. Moldova IT companies building AI products need output measurement
+   tooling — ASSUMED, needs 10-20 customer interviews to validate.
+
+2. ACV of €5,000-€20,000/yr is acceptable for target B2B —
+   ASSUMED, needs competitive benchmarking against Sinequa/Expert.ai
+   price points (both significantly higher, enterprise-tier) and
+   willingness-to-pay testing with early pilot customers.
+
+3. Determinism and auditability are valued by B2B buyers over
+   "smarter" but non-reproducible alternatives — ASSUMED, needs
+   pilot evidence. Note: Expert.ai and Sinequa sell on similar
+   (explainability, reliability) but do not guarantee determinism.
+
+4. The founder can sell directly to 20-50 companies in Year 1
+   through personal network and IT Park ecosystem — ASSUMED,
+   needs sales pipeline validation.
+
+5. EU AI Act creates compliance pressure that drives purchasing
+   of governance tooling — ASSUMED, timing depends on enforcement
+   schedule and Moldova's EU accession progress.
+
+6. Hesperia's behind-the-curtain positioning (middleware, not
+   end-user product) is understood by B2B buyers — ASSUMED,
+   needs messaging testing.
+
+7. The niche between symbolic AI, semantic search, and knowledge
+   graphs is real and commercially viable — ASSUMED based on the
+   fact that all 5 adjacent competitors are funded and operating,
+   but none occupy the exact intersection. Needs validation that
+   buyers see the gap and value what fills it.
+
+
+============================================================
+THEORETICAL REFERENCES
+============================================================
+
+- Osterwalder, A. & Pigneur, Y. (2009). Business Model Generation:
+  A Handbook for Visionaries, Game Changers, and Challengers.
+  (Business Model Canvas framework — 9 blocks, 4 perspectives:
+  value proposition, customer, financials, infrastructure.)
+
+- Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs
+  Use Continuous Innovation to Create Radically Successful Businesses.
+  (Build-measure-learn loop, MVP, innovation accounting, pivot/persevere.)
+
+- Kotler, P. & Keller, K.L. (2015). Marketing Management, 15th Ed.
+  (Customer segments, channels, competitive strategies, market expansion.)
+
+- Porter, M.E. (1980). Competitive Strategy.
+  (Three generic strategies: cost leadership, differentiation, focus.
+  Hesperia pursues differentiation + focus.)
+
+- Christensen, C.M. (1997). The Innovator's Dilemma.
+  (Disruptive innovation; Hesperia is not disruptive — it is an
+  enhancer/sustaining innovation for existing AI ecosystems.)
+
+- Sommerville, I. (2010). Software Engineering, 9th Ed.
+  (SaaS delivery model, subscription/usage pricing for software.)
+
+- Uckelmann, D. et al. (2011). Architecting the Internet of Things.
+  (Business Model Canvas application; Osterwalder framework in
+  technology context; revenue stream typology.)
+
+
+============================================================
+BMC VISUAL SUMMARY (text representation)
+============================================================
+
++------------------+------------------+------------------+------------------+------------------+
+| KEY PARTNERS     | KEY ACTIVITIES   | VALUE            | CUSTOMER         | CUSTOMER         |
+|                  |                  | PROPOSITION      | RELATIONSHIPS    | SEGMENTS         |
+| - LLM providers  | - Engine dev     |                  |                  |                  |
+|   (OpenAI,       | - API operations | Deterministic    | - API self-      | BEACHHEAD:       |
+|   Anthropic)     | - Customer       |   semantic       |   service        | Moldova IT cos   |
+| - Cloud infra    |   pilots         |   measurement &  | - Pilot programs |   using AI       |
+| - Moldova IT     | - Research &     |   governance     |   (6-10 weeks)   |   pipelines      |
+|   Park           |   calibration    |   for AI         | - Enterprise     |   (50-100 cos)   |
+| - Academic       | - B2B sales      |   pipelines      |   contracts +    |                  |
+|   (UTM)          | - Compliance     |                  |   support        | EXPANSION:       |
+| - Accelerators   |   alignment      | Makes AI         | - Community &    | Romania IT &     |
+|   (Upcelerator)  |                  |   auditable,     |   content        |   enterprise     |
+| - SI partners    |------------------+   traceable,     |                  |   (200-500 cos)  |
+|   (future)       | KEY RESOURCES    |   structurally   |------------------+                  |
+|                  |                  |   accountable    | CHANNELS         | REGIONAL:        |
+|                  | - IP: sealed     |                  |                  | CEE / EU         |
+|                  |   engine v0.5.1  | Niche: between   | - Direct sales   |   enterprise     |
+|                  | - Lexicon        |  symbolic AI,    |   (founder-led)  |                  |
+|                  |   (Dict A/B)     |  semantic search | - API / dev      | VERTICALS:       |
+|                  | - Founder        |  & knowledge     |   portal         | - Software/      |
+|                  | - Dev infra      |  graphs          | - Content &      |   security ops   |
+|                  | - Financial      |                  |   thought        | - Media/research |
+|                  |   (bootstrap)    | Adjacent:        |   leadership     | - Compliance/    |
+|                  | - Eval corpora   |  Sinequa,        | - Partner        |   legal          |
+|                  |                  |  Expert.ai,      |   channel        | - Education      |
+|                  |                  |  RelationalAI,   | - Enterprise     | - Public sector  |
+|                  |                  |  Diffbot, Cogito |   sales motion   |                  |
++------------------+------------------+------------------+------------------+------------------+
+| COST STRUCTURE                                         | REVENUE STREAMS                      |
+|                                                        |                                      |
+| Value-driven (differentiation, not cost leadership)    | - Usage-based API (€0.05-0.20/doc)   |
+| - Fixed: ~€2,000-2,500/mo (server, tools, founder)    | - Enterprise sub (ACV €5-20K/yr)     |
+| - Variable: pilot support, compute scaling             | - TRIZ extension (premium add-on)    |
+| - Year 1 burn: €24,000-36,000 (bootstrapped)          | - On-prem license (€10-30K/yr)       |
+| - Break-even: 8-12 contracts @ €5-10K/yr              | - Custom calibration (services)      |
+| - No GPU costs (deterministic, CPU-only engine)        |                                      |
+| - Key driver: human capital (once hiring begins)       | Yr 1: €25-100K | Yr 3: €0.8-1.5M    |
++--------------------------------------------------------+--------------------------------------+
+
+http://www.businessmodelgeneration.com
+Designed for: Hesperia Engine Dynamics (prichindel.com / igareosh.com)
+Framework: Business Model Canvas (Osterwalder & Pigneur, 2009)
