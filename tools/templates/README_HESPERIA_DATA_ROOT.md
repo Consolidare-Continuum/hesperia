@@ -17,6 +17,7 @@
 | `hesperia-backup/` | Git mirror, tar snapshots, cold copies per team scripts. |
 | `cursor-brain-mirror/` | Rsync of `/data/workspaces/cursor` (no `.git/`, no `.env*`). Regenerate: `hesperia/tools/mirror_cursor_brain_into_hesperia_data.sh`. |
 | `workflows-mirror/` | Optional; only if `WORKFLOWS_SRC` was mirrored from another host (`mirror_sister_workflows_into_hesperia_data.sh`). |
+| `Upcelerator2026/` | Cold working copy of Upcelerator (Dreamups) GTM deliverables; canonical mirror in-repo: `hesperia/docs/reference/upcelerator2026/`. |
 | `MANIFEST-SHA256-*.txt` | Optional integrity manifest over this tree. |
 
 ## Smoke (from `hesperia/`)
