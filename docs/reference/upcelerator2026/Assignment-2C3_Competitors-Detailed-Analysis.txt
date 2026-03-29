@@ -1,0 +1,25 @@
+========================
+3C — COMPETITOR ANALYSIS (DETAILED VIEW)
+========================
+
+1. Arize AI
+
+Arize AI is strong in monitoring and debugging ML systems, especially for teams already operating complex pipelines. Its dashboards and analytics provide real visibility, which is valuable. However, the core limitation is structural: it observes behavior after the fact rather than controlling or defining meaning at the source. This makes it reactive, not foundational. In high-risk environments, this approach is insufficient because it cannot guarantee consistency or interpretability across identical inputs. The reliance on probabilistic outputs means explanations are approximations, not certainties. It is a useful operational tool, but not a system for deterministic understanding or audit-grade reasoning.
+
+--------------------------------
+
+2. Arthur AI
+
+Arthur AI positions itself well in compliance and governance, which aligns with where the market is heading. It addresses real concerns — bias, explainability, regulatory requirements. However, its approach still builds on top of black-box models, attempting to explain them rather than replace their uncertainty. This creates a ceiling: you can monitor and report risk, but not eliminate it. For organizations under strict regulatory pressure, this is only a partial solution. The platform is valuable as a governance layer, but it does not solve the core problem of unpredictability. It manages risk rather than structurally removing it.
+
+--------------------------------
+
+3. Patronus AI
+
+Patronus AI is focused on LLM evaluation, which is a fast-growing and relevant niche. Its strength lies in benchmarking and testing AI outputs, helping teams understand model behavior at scale. However, its role is inherently reactive — it scores and evaluates outputs after they are generated. This does not address the underlying issue of unreliable or inconsistent generation. As LLM adoption grows, this approach may become necessary but not sufficient. Companies will eventually need systems that produce controlled, interpretable outputs by design. Patronus AI is effective as a validation layer, but it does not replace the need for deterministic semantic infrastructure.
+
+--------------------------------
+
+Strategic Note:
+
+All three competitors operate in a reactive paradigm: monitor → evaluate → explain. None operate in a deterministic paradigm: define → map → guarantee. This is the fundamental difference that defines HESPERIA's position.

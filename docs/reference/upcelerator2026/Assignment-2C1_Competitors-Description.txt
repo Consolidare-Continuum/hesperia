@@ -1,0 +1,41 @@
+========================
+1C — THREE SIGNIFICANT COMPETITORS
+========================
+
+1. Arize AI
+
+Arize AI is an AI observability platform focused on monitoring, debugging, and improving machine learning models in production. It provides tools for tracking model performance, detecting drift, and analyzing prediction errors. The platform is widely used by data science teams in mid-to-large enterprises that deploy ML systems at scale. Arize emphasizes visualization, analytics, and integrations with modern ML stacks. However, it operates within a probabilistic paradigm and does not offer deterministic interpretation of outputs. Its core value lies in post-hoc monitoring rather than structured, explainable semantic understanding, which limits its applicability in strict compliance environments.
+
+Employees: ~200+
+Funding: $131M (Series C)
+Location: San Francisco, USA
+Founders: Jason Lopatecki, Aparna Dhinakaran
+Website: arize.com
+
+--------------------------------
+
+2. Arthur AI
+
+Arthur AI positions itself as an enterprise AI monitoring and governance platform, targeting regulated industries such as finance and healthcare. It focuses on bias detection, explainability, performance monitoring, and compliance reporting for AI systems. Arthur AI provides governance layers that help organizations meet regulatory requirements and manage risk associated with AI deployment. Its strength lies in enterprise readiness and compliance tooling. However, like most competitors, it builds on statistical and probabilistic methods, offering explanations rather than deterministic mappings. This makes its outputs harder to audit with full consistency, especially in high-stakes decision environments where repeatability is critical.
+
+Employees: ~100+
+Funding: $63M (Series B)
+Location: New York, USA
+Founders: Adam Wenchel, John Dickerson, Liz O'Sullivan
+Website: arthur.ai
+
+--------------------------------
+
+3. Patronus AI
+
+Patronus AI focuses on evaluation and safety of large language models, helping companies test, benchmark, and monitor AI-generated outputs. It is designed for teams deploying generative AI applications and aims to ensure reliability, alignment, and performance of LLM-based systems. The platform provides automated evaluation pipelines and guardrails for AI outputs. Its main strength is specialization in LLM evaluation, a rapidly growing segment. However, it remains dependent on probabilistic AI systems and focuses on scoring outputs rather than structurally understanding them. This positions it as a reactive validation layer rather than a foundational system for deterministic analysis.
+
+Employees: ~40+
+Funding: $17M (Series A)
+Location: San Francisco, USA
+Founders: Anand Kannappan, Rebecca Qian
+Website: patronus.ai
+
+--------------------------------
+
+Note: These three are the most significant funded players in the adjacent AI observability and evaluation space. They represent the "substitute" competitive layer — platforms that manage uncertainty after the fact. HESPERIA's direct competitive landscape (structured meaning: Expert.ai, Sinequa, Diffbot, RelationalAI) is more fragmented and less well-funded. The strongest real competitor remains the status quo — manual processes and "good enough" LLM usage.
