@@ -1,0 +1,70 @@
+========================
+1B — MARKET DEFINITION
+========================
+
+Industry:
+
+HESPERIA operates across multiple overlapping industries:
+
+- AI / Machine Learning Infrastructure
+- AI Observability & Governance
+- Enterprise SaaS (B2B Software)
+- Risk & Compliance Technology (RegTech)
+- Data Analytics & Decision Systems
+
+This is not a single-market product. It sits at the intersection of AI infrastructure and compliance systems — where reliability matters more than performance.
+
+--------------------------------
+
+Initial Geographical Target:
+
+- City: Chișinău
+- Country: Moldova
+
+Expansion Strategy:
+- Phase 1: Moldova / Romania (access, network, pilot customers)
+- Phase 2: EU (Germany, France, Netherlands — regulation-driven markets)
+
+I start where access is possible, and scale where pressure (regulation + budgets) exists.
+
+--------------------------------
+
+Customer Type:
+
+- B2B (strict focus)
+
+The problem I am solving — auditability, risk, compliance — exists at the organizational level, not individual consumer level.
+
+--------------------------------
+
+Target Market Demographics (B2B):
+
+Company Size:
+- 50 – 5,000+ employees
+- Revenue: €1M – €500M+
+
+Type of Companies:
+- FinTech companies
+- Banks and financial institutions
+- Insurance companies
+- Healthcare providers
+- Legal / compliance-heavy organizations
+- AI-driven SaaS companies
+
+Key Roles (Actual Buyers / Users):
+- CTO / Head of Engineering
+- Head of AI / ML
+- Risk & Compliance Officers
+- Product Managers (AI systems)
+
+Behavioral Characteristics:
+- Already using AI in production
+- Facing regulatory or operational risk
+- Spending money on monitoring, compliance, or data quality
+- Have clear financial downside from incorrect AI outputs
+
+--------------------------------
+
+Core Market Filter:
+
+My target customer deploys AI in production, faces regulatory pressure, and loses money from wrong outputs. If any of those three conditions is missing, they are not my market. I am deliberately narrowing to a painful, real segment — not targeting "everyone who uses AI."
