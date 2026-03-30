@@ -1,0 +1,74 @@
+{
+  "run": "hprom_03_report_eval_v6",
+  "dataset": "tests/fixtures/tfp_calibration/sample_inputs_ru.txt",
+  "calibration_mode": "clinical_speech",
+  "notes": "v052_3 row reflects current sealed dicts dir (post HPROM-R2 C prune when applied).",
+  "v052_2": {
+    "concept_activation": {
+      "B_A10_F11_002": 0.183105,
+      "B_A10_F9_001": 0.183105,
+      "B_A1_F14_001": 0.187016,
+      "B_A1_F18_002": 0.183105,
+      "B_A1_F19_003": 0.183105,
+      "C-1002": 0.187016,
+      "TFP_BORDERLINE_PERSONALITY": 0.107634,
+      "TFP_OBJECT_RELATIONS": 0.107634,
+      "TFP_REPRESENTATION_SELF": 0.138955,
+      "TFP_TRANSFERENCE": 0.107634
+    },
+    "concept_entropy": 3.284287,
+    "family_activation": {
+      "F1": 0.187016,
+      "F11": 0.183105,
+      "F14": 0.187016,
+      "F18": 0.183105,
+      "F19": 0.183105,
+      "F5": 0.107634,
+      "F6": 0.138955,
+      "F7": 0.107634,
+      "F8": 0.107634,
+      "F9": 0.183105
+    },
+    "family_balance_gini_stub": 0.0,
+    "noise_ratio": 0.851852,
+    "unmapped_lexical_pct_mean": 20.8482,
+    "phrase_hit_ratio": 0.0,
+    "token_contribution_ratio": 1.0,
+    "concept_activation_from_c_ratio": 0.0,
+    "blocked_token_ratio_est": 0.0,
+    "used_concepts_count": 10
+  },
+  "v052_3": {
+    "concept_activation": {
+      "B_A10_F19_001": 0.181932,
+      "B_A1_F10_002": 0.181932,
+      "B_A1_F14_001": 0.187016,
+      "B_A1_F18_002": 0.181932,
+      "C-1002": 0.187016,
+      "TFP_BORDERLINE_PERSONALITY": 0.107634,
+      "TFP_OBJECT_RELATIONS": 0.246589,
+      "TFP_POLARIZATION": 0.079956,
+      "TFP_TRANSFERENCE": 0.130493
+    },
+    "concept_entropy": 3.106548,
+    "family_activation": {
+      "F1": 0.187016,
+      "F10": 0.181932,
+      "F11": 0.079956,
+      "F14": 0.187016,
+      "F18": 0.181932,
+      "F19": 0.181932,
+      "F5": 0.130493,
+      "F7": 0.246589,
+      "F8": 0.107634
+    },
+    "family_balance_gini_stub": 0.0,
+    "noise_ratio": 0.77907,
+    "unmapped_lexical_pct_mean": 25.2367,
+    "phrase_hit_ratio": 0.181818,
+    "token_contribution_ratio": 0.818182,
+    "concept_activation_from_c_ratio": 0.181818,
+    "blocked_token_ratio_est": 0.211111,
+    "used_concepts_count": 9
+  }
+}
