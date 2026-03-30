@@ -143,7 +143,7 @@ def main() -> int:
     ap.add_argument("--run-label", default="hprom_03_report_eval_v6", help="JSON run id")
     ap.add_argument(
         "--versions",
-        default="v0_6_0_clr_v052_2,v0_6_0_clr_v052_3",
+        default="v0_6_0_clr_v052_2,v0_6_0_clr_v052_3,v0_6_0_clr_v052_4",
         help="Comma-separated HESPERIA_CALIB_DICT_VERSION values",
     )
     ap.add_argument("--mode", default="clinical_speech")
@@ -159,9 +159,13 @@ def main() -> int:
         "run": args.run_label,
         "dataset": str(args.dataset.relative_to(REPO)) if args.dataset.is_relative_to(REPO) else str(args.dataset),
         "calibration_mode": args.mode,
-        "notes": "v052_3 row reflects current sealed dicts dir (post HPROM-R2 C prune when applied).",
+        "notes": "Compare calibration versions; v052_4 = STABILIZE sealed build when present.",
     }
-    key_alias = {"v0_6_0_clr_v052_2": "v052_2", "v0_6_0_clr_v052_3": "v052_3"}
+    key_alias = {
+        "v0_6_0_clr_v052_2": "v052_2",
+        "v0_6_0_clr_v052_3": "v052_3",
+        "v0_6_0_clr_v052_4": "v052_4",
+    }
     for v in versions:
         report[key_alias.get(v, v)] = evaluate_version(v, texts, mode=args.mode)
 
