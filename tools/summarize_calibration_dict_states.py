@@ -66,6 +66,7 @@ def main() -> int:
         "--versions",
         nargs="*",
         default=[
+            "v0_6_0_clr_v052_5",
             "v0_6_0_clr_v052_4",
             "v0_6_0_clr_v052_3",
             "v0_6_0_clr_v052_2",

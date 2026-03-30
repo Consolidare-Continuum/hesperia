@@ -1,7 +1,81 @@
 {
-  "generated_at": "2026-03-30T10:42:25Z",
+  "generated_at": "2026-03-30T10:53:07Z",
   "dicts_root": "/data/hesperia/hesperia/assets/calibration/dicts",
   "versions": {
+    "v0_6_0_clr_v052_5": {
+      "dict_a.jsonl": {
+        "rows": 10155,
+        "by_field": {
+          "match_type": {
+            "exact": 9588,
+            "phrase": 567
+          },
+          "version": {
+            "v0.6.0-cal": 10155
+          }
+        },
+        "notes": {
+          "status": "dict_a v0.6.0 schema has no `status` field; rows are not lifecycle-tagged in JSONL"
+        }
+      },
+      "dict_b.jsonl": {
+        "rows": 62316,
+        "by_field": {
+          "status": {
+            "active": 62316
+          },
+          "version": {
+            "v0_6_0_clr_v052_5": 62316
+          }
+        }
+      },
+      "dict_c.jsonl": {
+        "rows": 24000,
+        "by_field": {
+          "language": {
+            "en": 2402,
+            "mixed": 146,
+            "ru": 21452
+          },
+          "match_type": {
+            "exact_phrase": 24000
+          },
+          "status": {
+            "active": 24000
+          },
+          "token_count": {
+            "2": 14333,
+            "3": 9667
+          },
+          "version": {
+            "v0_6_0_clr_v052_5": 24000
+          }
+        }
+      },
+      "links.jsonl": {
+        "rows": 34155,
+        "by_field": {
+          "base_weight": {
+            "0.6": 10155,
+            "0.9": 24000
+          },
+          "match_type": {
+            "exact_phrase": 24000,
+            "exact_token": 10155
+          },
+          "source_dict": {
+            "A": 10155,
+            "C": 24000
+          },
+          "status": {
+            "active": 34155
+          },
+          "version": {
+            "v0_6_0_clr_v052_5": 34155
+          }
+        }
+      }
+    },
     "v0_6_0_clr_v052_4": {
       "dict_a.jsonl": {
         "rows": 10155,

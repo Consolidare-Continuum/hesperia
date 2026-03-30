@@ -64,7 +64,7 @@ def main() -> int:
     ap.add_argument(
         "--dict-version-dir",
         type=Path,
-        default=REPO / "assets" / "calibration" / "dicts" / "v0_6_0_clr_v052_4",
+        default=REPO / "assets" / "calibration" / "dicts" / "v0_6_0_clr_v052_5",
     )
     ap.add_argument(
         "--text-file",

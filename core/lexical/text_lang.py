@@ -44,3 +44,20 @@ def heuristic_document_language(text: str) -> str:
 
 # Backwards-compatible name for Grace directive wording
 match_language = heuristic_document_language
+
+
+def retag_language_field_for_phrase(normalized_form: str) -> str:
+    """
+    Per-row Dict C ``language`` correction from script only (no API).
+
+    Rules: Cyrillic-only → ``ru``; Latin-only → ``en``; both or neither letters → ``mixed``.
+    """
+    nf = (normalized_form or "").strip()
+    if not nf:
+        return "mixed"
+    cy, la, _ = _count_scripts(nf)
+    if cy > 0 and la == 0:
+        return "ru"
+    if la > 0 and cy == 0:
+        return "en"
+    return "mixed"
