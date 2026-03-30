@@ -78,6 +78,11 @@ def main() -> int:
         type=Path,
         default=REPO / "assets" / "artifacts" / "calibration" / "dict_states_snapshot.json",
     )
+    ap.add_argument(
+        "--quiet",
+        action="store_true",
+        help="Do not print JSON to stdout (still writes --out).",
+    )
     args = ap.parse_args()
 
     root = args.dicts_root.resolve()
@@ -93,9 +98,12 @@ def main() -> int:
             continue
         payload["versions"][name] = summarize_version(vd)
 
+    text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(args.out)
+    args.out.write_text(text, encoding="utf-8")
+    print(f"Wrote: {args.out}", file=sys.stderr)
+    if not args.quiet:
+        sys.stdout.write(text)
     return 0
 
 
