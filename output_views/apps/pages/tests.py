@@ -110,3 +110,41 @@ class IterationSegmentOpenAiV1Tests(TestCase):
         self.assertEqual(msgs[1]["role"], "user")
         self.assertTrue(msgs[0]["content"].strip())
         self.assertTrue(msgs[1]["content"].strip())
+
+
+class TfpPipelineBundleTests(TestCase):
+    """T02 — engine bundle dir → session_inspector_v1."""
+
+    def setUp(self) -> None:
+        self.repo_root = Path(__file__).resolve().parents[3]
+
+    def test_build_from_ci_fixture_dir(self) -> None:
+        from segment.tfp_pipeline_bundle import build_session_inspector_v1_from_tfp_pipeline_dir
+
+        ci = self.repo_root / "tests" / "fixtures" / "tfp_calibration_bundle_ci"
+        b = build_session_inspector_v1_from_tfp_pipeline_dir(ci, session_id="1-11-09-2023")
+        self.assertEqual(b.get("schema_version"), "session_inspector_v1")
+        meta = b.get("meta") or {}
+        self.assertEqual(meta.get("source_label"), "1-11-09-2023")
+        iters = b.get("iterations") or []
+        self.assertEqual(len(iters), 1)
+        it0 = iters[0]
+        self.assertEqual(it0.get("order"), 0)
+        self.assertEqual(it0.get("iteration_id"), "iter_0")
+        params = it0.get("parameters") or {}
+        self.assertIn("areas", params)
+        mods = (params.get("modules") or {}).get("tfp.v1") or {}
+        self.assertIn("structural_L1", mods)
+
+    def test_write_fixture_roundtrip(self) -> None:
+        import tempfile
+
+        from segment.tfp_pipeline_bundle import write_session_inspector_fixture
+
+        ci = self.repo_root / "tests" / "fixtures" / "tfp_calibration_bundle_ci"
+        with tempfile.TemporaryDirectory() as td:
+            p = Path(td) / "out.json"
+            path = write_session_inspector_fixture(ci, p, session_id="1-11-09-2023")
+            self.assertTrue(path.is_file())
+            data = json.loads(path.read_text(encoding="utf-8"))
+            self.assertEqual(data["schema_version"], "session_inspector_v1")

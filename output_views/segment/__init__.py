@@ -1,6 +1,10 @@
 """iteration_segment_openai_v1 — bundle, extract, validate, OpenAI messages."""
 
 from .bundle import build_session_inspector_v1
+from .tfp_pipeline_bundle import (
+    build_session_inspector_v1_from_tfp_pipeline_dir,
+    write_session_inspector_fixture,
+)
 from .constants import (
     DISCLAIMER_FOOTER_EN,
     PROMPT_PACK_ID_KERNBERG_V1,
@@ -18,6 +22,8 @@ __all__ = [
     "SESSION_INSPECTOR_SCHEMA_VERSION",
     "build_openai_messages",
     "build_session_inspector_v1",
+    "build_session_inspector_v1_from_tfp_pipeline_dir",
+    "write_session_inspector_fixture",
     "extract_iteration_segment",
     "finalize_segment_openai_v1",
     "validate_iteration_segment_openai_v1",

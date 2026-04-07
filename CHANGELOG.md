@@ -34,6 +34,23 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **PII gate (T27):** `<dialog>` before copy/download of segment JSON; optional “skip this session” via `sessionStorage`.
 - **Docs:** [SAFETY-SECRETS-AND-PII.md](docs/output_views/SAFETY-SECRETS-AND-PII.md), [LICENSE-EXPORT-NOTE.md](docs/output_views/LICENSE-EXPORT-NOTE.md), [FEATURE-FLAGS.md](docs/output_views/FEATURE-FLAGS.md), [PROXY-ROLLBACK.md](docs/output_views/PROXY-ROLLBACK.md).
 
+### output_views — Tests + quality (2026-04-07)
+
+- **T29:** Golden `iteration_segment_openai_v1` snapshot `tests/fixtures/golden/iteration_segment_openai_v1_iter0.json` + Django test equality.
+- **T31:** Mocked upstream OpenAI HTTP for proxy success path.
+- **T32 / T64:** [LIGHTHOUSE-NOTES.md](docs/output_views/LIGHTHOUSE-NOTES.md), [BUNDLE-SIZE-LIMITS.md](docs/output_views/BUNDLE-SIZE-LIMITS.md).
+- **T53:** [PRE-COMMIT-SEGMENT.md](docs/output_views/PRE-COMMIT-SEGMENT.md), `output_views/scripts/validate_golden_segment.py`.
+
+### output_views — Deploy + hardening (2026-04-07)
+
+- **T33–T35, T56:** [DEPLOY-NGINX-TLS-AUTH-CSP.md](docs/output_views/DEPLOY-NGINX-TLS-AUTH-CSP.md) — Nginx reverse proxy, TLS, optional Basic Auth, CSP `add_header`.
+- **T57:** `GET /robots.txt` — `Disallow: /inspector/`.
+
+### output_views — TFP pipeline → `session_inspector_v1` builder (2026-04-07)
+
+- **T02:** `output_views/segment/tfp_pipeline_bundle.py` — `build_session_inspector_v1_from_tfp_pipeline_dir(bundle_dir, session_id=…)` reads `run_tfp_file_pipeline` artifacts (`00_manifest.json`, `01`–`06`) and builds one aggregated iteration (`iter_0`) with areas, structural/sealed/analyze slices under `parameters.modules.tfp.v1`, plus `audit.planes`. `write_session_inspector_fixture(…)` writes a JSON file for Django `/inspector/<session_id>/`.
+- **Tests:** `TfpPipelineBundleTests` in `apps/pages/tests.py` — CI bundle `tests/fixtures/tfp_calibration_bundle_ci/`, session `1-11-09-2023`.
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)
