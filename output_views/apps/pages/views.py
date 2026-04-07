@@ -175,6 +175,28 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     modules = params.get("modules") if isinstance(params.get("modules"), dict) else {}
     modules_json = mark_safe(json.dumps(modules, indent=2, ensure_ascii=False)) if modules else ""
 
+    audit = current.get("audit") if isinstance(current.get("audit"), dict) else {}
+    audit_iteration = audit.get("iteration") if isinstance(audit.get("iteration"), dict) else {}
+    audit_planes = audit.get("planes") if isinstance(audit.get("planes"), dict) else {}
+    audit_by_sentence = audit.get("by_sentence") if isinstance(audit.get("by_sentence"), dict) else {}
+    has_audit_planes_or_iteration = bool(audit_planes or audit_iteration)
+    has_sentence_audit = bool(audit_by_sentence)
+    audit_planes_json = mark_safe(json.dumps(audit_planes, indent=2, ensure_ascii=False)) if audit_planes else ""
+    audit_iteration_json = mark_safe(json.dumps(audit_iteration, indent=2, ensure_ascii=False)) if audit_iteration else ""
+
+    # Relations strip — top areas by weight (no recompute; display-only summary)
+    relations_summary: list[str] = []
+    if isinstance(areas, dict) and areas:
+        top = sorted(areas.items(), key=lambda x: float(x[1] or 0), reverse=True)[:5]
+        relations_summary.append(
+            "Top areas (by scalar): " + ", ".join(f"{k} ({float(v):.4f})" for k, v in top if v is not None)
+        )
+    if isinstance(families, dict) and families:
+        ft = sorted(families.items(), key=lambda x: float(x[1] or 0), reverse=True)[:5]
+        relations_summary.append(
+            "Families: " + ", ".join(f"{k} ({float(v):.4f})" for k, v in ft if v is not None)
+        )
+
     try:
         export_segment = final_segment_for_bundle(bundle, int(current.get("order", 0)))
         validate_iteration_segment_openai_v1(export_segment)
@@ -201,7 +223,15 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
             "metrics": metrics,
             "modules": modules,
             "modules_json": modules_json,
-            "audit": current.get("audit") or {},
+            "audit": audit,
+            "audit_iteration": audit_iteration,
+            "audit_planes": audit_planes,
+            "audit_by_sentence": audit_by_sentence,
+            "audit_planes_json": audit_planes_json,
+            "audit_iteration_json": audit_iteration_json,
+            "has_audit_planes_or_iteration": has_audit_planes_or_iteration,
+            "has_sentence_audit": has_sentence_audit,
+            "relations_summary": relations_summary,
             "disclaimer": meta.get("disclaimer_footer") or DISCLAIMER_FOOTER_EN,
             "export_segment": export_segment,
             "openai_proxy_enabled": getattr(settings, "HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", False),

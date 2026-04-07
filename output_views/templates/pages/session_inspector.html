@@ -71,7 +71,14 @@
       {% empty %}<span class="muted">—</span>{% endfor %}
     </div>
     <div class="insp-strip-block">
-      <strong>Relations</strong> <span class="muted">(summary when bundle supplies relation edges)</span>
+      <strong>Relations</strong>
+      {% if relations_summary %}
+        <ul class="insp-relations-list">
+          {% for line in relations_summary %}<li>{{ line }}</li>{% endfor %}
+        </ul>
+      {% else %}
+        <span class="muted">No area/family scalars in this iteration.</span>
+      {% endif %}
     </div>
   </section>
 
@@ -116,10 +123,25 @@
     <section class="pane pane-c" aria-label="Audit" role="region">
       <h2 class="pane-title">Pane C — Audit</h2>
       <div class="pane-body">
-        {% if audit.by_sentence %}
+        {% if has_sentence_audit %}
           <p class="muted">Sentence-scoped audit present (bundle-defined).</p>
-        {% else %}
-          <p class="muted">No audit trace in this bundle for the selected sentence.</p>
+        {% endif %}
+        {% if audit_iteration_json %}
+          <details class="param-details" open>
+            <summary>Iteration audit</summary>
+            <pre class="mono-block" aria-label="audit iteration JSON">{{ audit_iteration_json }}</pre>
+          </details>
+        {% endif %}
+        {% if audit_planes_json %}
+          <details class="param-details" open>
+            <summary>Pipeline planes (structural / sealed / analyze)</summary>
+            <pre class="mono-block" aria-label="audit planes JSON">{{ audit_planes_json }}</pre>
+          </details>
+        {% endif %}
+        {% if not has_audit_planes_or_iteration and not has_sentence_audit %}
+          <p class="muted">Engine did not supply <code>audit.planes</code> or iteration audit for this bundle. If you expect traces, regenerate from a full <code>run_tfp_file_pipeline</code> output.</p>
+        {% elif not has_sentence_audit and has_audit_planes_or_iteration %}
+          <p class="muted small">No per-sentence audit rows; iteration/plane summaries above are from the pipeline bundle.</p>
         {% endif %}
       </div>
     </section>

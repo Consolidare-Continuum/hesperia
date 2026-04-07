@@ -100,6 +100,8 @@ h1 { font-size: 1.75rem; font-weight: 650; margin-top: 0; }
 }
 .insp-strip-block { flex: 1 1 12rem; font-size: 0.9rem; }
 .insp-strip-block strong { display: block; margin-bottom: 0.35rem; color: var(--accent); }
+.insp-relations-list { margin: 0.25rem 0 0 1rem; padding: 0; font-size: 0.85rem; color: var(--muted); }
+.insp-relations-list li { margin-bottom: 0.2rem; }
 .chip {
   display: inline-block;
   margin: 0.15rem 0.35rem 0 0;

@@ -56,6 +56,14 @@ class SessionInspectorMVPTests(TestCase):
         r = self.client.get("/inspector/1-11-09-2023/")
         self.assertEqual(r.status_code, 200)
 
+    def test_inspector_pipeline_fixture_shows_audit_planes(self) -> None:
+        """OUT-VIEW-FULL-03 — Pane C surfaces audit.planes from pipeline bundle."""
+        r = self.client.get("/inspector/1-11-09-2023/")
+        self.assertEqual(r.status_code, 200)
+        body = r.content.decode("utf-8")
+        self.assertIn("Pipeline planes", body)
+        self.assertIn("01_structural_batch", body)
+
 
 class SessionInspectorExportTests(TestCase):
     """T22–T25 export.json + proxy gate."""

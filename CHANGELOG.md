@@ -55,6 +55,10 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 
 - **FULL-02:** `output_views/scripts/generate_inspector_fixture.py` — `--from-ci-bundle` regenerates `tests/fixtures/1-11-09-2023.json` from `tests/fixtures/tfp_calibration_bundle_ci`; optional `--run-pipeline` / `--bundle-dir`. **Makefile:** `make output-views-inspector-fixture`. **Docs:** [docs/output_views/README.md](docs/output_views/README.md) (URLs + `session_id` rules).
 
+### output_views — UI truthfulness Pane C + relations strip (2026-04-07)
+
+- **FULL-03:** Session Inspector shows **`audit.iteration`** and **`audit.planes`** when present; explicit empty-state only when both are absent. **Relations** strip lists top areas/families by scalar from the bundle (display-only). Tests: `test_inspector_pipeline_fixture_shows_audit_planes`.
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)
