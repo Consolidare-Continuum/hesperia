@@ -51,6 +51,10 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **T02:** `output_views/segment/tfp_pipeline_bundle.py` — `build_session_inspector_v1_from_tfp_pipeline_dir(bundle_dir, session_id=…)` reads `run_tfp_file_pipeline` artifacts (`00_manifest.json`, `01`–`06`) and builds one aggregated iteration (`iter_0`) with areas, structural/sealed/analyze slices under `parameters.modules.tfp.v1`, plus `audit.planes`. `write_session_inspector_fixture(…)` writes a JSON file for Django `/inspector/<session_id>/`.
 - **Tests:** `TfpPipelineBundleTests` in `apps/pages/tests.py` — CI bundle `tests/fixtures/tfp_calibration_bundle_ci/`, session `1-11-09-2023`.
 
+### output_views — Pipeline fixture + docs (2026-04-07)
+
+- **FULL-02:** `output_views/scripts/generate_inspector_fixture.py` — `--from-ci-bundle` regenerates `tests/fixtures/1-11-09-2023.json` from `tests/fixtures/tfp_calibration_bundle_ci`; optional `--run-pipeline` / `--bundle-dir`. **Makefile:** `make output-views-inspector-fixture`. **Docs:** [docs/output_views/README.md](docs/output_views/README.md) (URLs + `session_id` rules).
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)

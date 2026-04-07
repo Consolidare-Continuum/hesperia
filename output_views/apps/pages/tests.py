@@ -51,6 +51,11 @@ class SessionInspectorMVPTests(TestCase):
         r = self.client.get("/inspector/does_not_exist_fixture/")
         self.assertEqual(r.status_code, 404)
 
+    def test_inspector_goldset_stem_fixture_200(self) -> None:
+        """OUT-VIEW-FULL-02 — pipeline-shaped fixture `1-11-09-2023.json` loads."""
+        r = self.client.get("/inspector/1-11-09-2023/")
+        self.assertEqual(r.status_code, 200)
+
 
 class SessionInspectorExportTests(TestCase):
     """T22–T25 export.json + proxy gate."""

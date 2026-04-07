@@ -24,6 +24,7 @@ python3 manage.py runserver 0.0.0.0:8010
 
 - Operator home: `http://127.0.0.1:8010/`
 - **Session Inspector (MVP):** `http://127.0.0.1:8010/inspector/session_inspector_min/` — fixture JSON under `output_views/tests/fixtures/`; query `?iteration=&sentence=`
+- **Goldset stem fixture (pipeline-shaped):** `http://127.0.0.1:8010/inspector/1-11-09-2023/` — JSON built from `tests/fixtures/tfp_calibration_bundle_ci` via `scripts/generate_inspector_fixture.py` (synthetic CI bundle; same `session_id` as calibration goldset `1-11-09-2023`). **session_id** = fixture filename stem (no `.json`); must match `^[a-zA-Z0-9_-]{1,120}$`.
 - **Export JSON:** `http://127.0.0.1:8010/inspector/session_inspector_min/export.json?iteration=0` — `iteration_segment_openai_v1` + `messages` (attachment `segment.json`)
 - Health JSON: `http://127.0.0.1:8010/health/`
 - Client preview shell: `http://127.0.0.1:8010/preview/client/`
@@ -60,6 +61,40 @@ make output-views-test
 
 **Pytest marker `output_views`** (T51) is registered in repo `pytest.ini`; primary coverage is Django `manage.py test` above.
 
+**Golden segment (T29 / T53):** `tests/fixtures/golden/iteration_segment_openai_v1_iter0.json` — verify with `python3 scripts/validate_golden_segment.py verify` (see [PRE-COMMIT-SEGMENT.md](PRE-COMMIT-SEGMENT.md)).
+
+**Regenerate `1-11-09-2023` Inspector fixture (OUT-VIEW-FULL-02):**
+
+```bash
+cd output_views
+python3 scripts/generate_inspector_fixture.py --from-ci-bundle
+# writes tests/fixtures/1-11-09-2023.json
+```
+
+From a full `run_tfp_file_pipeline` output directory (real engine run):
+
+```bash
+python3 scripts/generate_inspector_fixture.py --bundle-dir /path/to/pipeline_out [--session-id <id>]
+```
+
+To run the pipeline then generate in one step (slow):
+
+```bash
+python3 scripts/generate_inspector_fixture.py --run-pipeline \
+  --input ../hesperia/modules/tfp/data/tfp_v1/corpus/sessions/11-09-2023.md \
+  --out-bundle /tmp/tfp_11_09 --session-id 11-09-2023
+```
+
+(`session_id` for a single `.md` input defaults to the file **stem** — e.g. `11-09-2023.md` → `11-09-2023`; use `--session-id` to align with other naming.)
+
+From Hesperia repo root:
+
+```bash
+make output-views-inspector-fixture
+```
+
+**Quality notes:** [LIGHTHOUSE-NOTES.md](LIGHTHOUSE-NOTES.md) (T32), [BUNDLE-SIZE-LIMITS.md](BUNDLE-SIZE-LIMITS.md) (T64).
+
 ## Iteration segment (OpenAI export)
 
 - **Glossary:** [FIELD_GLOSSARY.md](FIELD_GLOSSARY.md)
@@ -81,5 +116,7 @@ make output-views-test
 ## Production (Abelard)
 
 Separate process from FastAPI; Gunicorn/uvicorn WSGI on `config.wsgi:application`; Nginx path prefix; `collectstatic` to `staticfiles/`.
+
+**Edge:** [DEPLOY-NGINX-TLS-AUTH-CSP.md](DEPLOY-NGINX-TLS-AUTH-CSP.md) (T33–T35, T56). **`/robots.txt`** disallows `/inspector/` (T57).
 
 `SIGNED: Abelard (DevOps) | Hesperia Django output_views bootstrap | 2026-04-07`
