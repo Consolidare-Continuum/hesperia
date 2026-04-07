@@ -29,6 +29,11 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **Proxy:** `POST /inspector/<id>/openai-proxy/` behind `HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY` (default off); LocMem rate limit; logs latency only (no bodies).
 - **Tooling:** repo `Makefile` target `output-views-test`; pytest marker `output_views` in `pytest.ini`; [docs/output_views/OPENAI_PROXY-RATE-LIMIT.md](docs/output_views/OPENAI_PROXY-RATE-LIMIT.md).
 
+### output_views — Safety baseline (2026-04-07)
+
+- **PII gate (T27):** `<dialog>` before copy/download of segment JSON; optional “skip this session” via `sessionStorage`.
+- **Docs:** [SAFETY-SECRETS-AND-PII.md](docs/output_views/SAFETY-SECRETS-AND-PII.md), [LICENSE-EXPORT-NOTE.md](docs/output_views/LICENSE-EXPORT-NOTE.md), [FEATURE-FLAGS.md](docs/output_views/FEATURE-FLAGS.md), [PROXY-ROLLBACK.md](docs/output_views/PROXY-ROLLBACK.md).
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)

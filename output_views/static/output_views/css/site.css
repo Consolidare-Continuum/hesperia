@@ -197,3 +197,20 @@ h1 { font-size: 1.75rem; font-weight: 650; margin-top: 0; }
 .btn-link { border-color: var(--border); background: var(--card); color: var(--accent); }
 .btn-secondary { border-color: var(--muted); background: #252d38; }
 .small { font-size: 0.8rem; }
+
+/* PII export gate (OUT-VIEW-05) */
+.pii-dialog {
+  max-width: 32rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--fg);
+  padding: 0;
+}
+.pii-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.55);
+}
+.pii-dlg-heading { margin: 0 0 0.75rem; font-size: 1.1rem; color: var(--accent); }
+.pii-dlg-body { margin: 0 0 0.75rem; line-height: 1.45; }
+.pii-remember { display: block; margin: 0.75rem 0; font-size: 0.85rem; cursor: pointer; }
+.dlg-actions { display: flex; gap: 0.75rem; justify-content: flex-end; margin-top: 1rem; }

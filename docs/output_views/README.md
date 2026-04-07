@@ -2,6 +2,8 @@
 
 **Purpose:** Human-facing previews and client-centric HTML. **FastAPI** shipping API remains the JSON contract.
 
+**Safety / compliance:** [SAFETY-SECRETS-AND-PII.md](SAFETY-SECRETS-AND-PII.md) (T26–T27), [LICENSE-EXPORT-NOTE.md](LICENSE-EXPORT-NOTE.md) (T28), [FEATURE-FLAGS.md](FEATURE-FLAGS.md) (T58), [PROXY-ROLLBACK.md](PROXY-ROLLBACK.md) (T61). **Never commit** API keys; use `.env` at Hesperia root (gitignored).
+
 **Django LTS:** Pinned in `requirements/output_views.txt` ([supported versions](https://www.djangoproject.com/download/)).
 
 ## Install

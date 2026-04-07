@@ -29,6 +29,13 @@ class SessionInspectorMVPTests(TestCase):
         r = self.client.get("/inspector/session_inspector_min/")
         self.assertEqual(r.status_code, 200)
 
+    def test_pii_export_dialog_present(self) -> None:
+        r = self.client.get("/inspector/session_inspector_min/")
+        self.assertEqual(r.status_code, 200)
+        body = r.content.decode("utf-8")
+        self.assertIn("pii-export-dialog", body)
+        self.assertIn("Before you export", body)
+
     def test_inspector_dropdown_two_iterations(self) -> None:
         r = self.client.get("/inspector/session_inspector_min/")
         body = r.content.decode("utf-8")
