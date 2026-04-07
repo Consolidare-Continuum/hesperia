@@ -23,6 +23,12 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **UI:** Header (run/source/modules), iteration `<select>`, areas/families strip, panes A/B/C (text + parameters + audit placeholder), deep links `?iteration=&sentence=`.
 - **Docs:** [docs/output_views/ADR-split-panes-v1.md](docs/output_views/ADR-split-panes-v1.md), [docs/output_views/I18N_RU_STUB.md](docs/output_views/I18N_RU_STUB.md); `locale/ru/LC_MESSAGES/django.po` stub.
 
+### output_views — OpenAI segment export + optional proxy (2026-04-07)
+
+- **Export:** `GET /inspector/<id>/export.json?iteration=` — full segment + `messages`; UI copy + download on Session Inspector.
+- **Proxy:** `POST /inspector/<id>/openai-proxy/` behind `HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY` (default off); LocMem rate limit; logs latency only (no bodies).
+- **Tooling:** repo `Makefile` target `output-views-test`; pytest marker `output_views` in `pytest.ini`; [docs/output_views/OPENAI_PROXY-RATE-LIMIT.md](docs/output_views/OPENAI_PROXY-RATE-LIMIT.md).
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)

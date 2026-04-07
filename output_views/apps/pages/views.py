@@ -1,16 +1,39 @@
 from __future__ import annotations
 
 import json
+import logging
+import time
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 from django.conf import settings
-from django.http import HttpRequest, HttpResponse, JsonResponse
+from django.core.cache import cache
+from django.http import HttpRequest, HttpResponse, HttpResponseNotFound, JsonResponse
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
-from django.views.decorators.http import require_GET
+from django.views.decorators.csrf import csrf_protect
+from django.views.decorators.http import require_GET, require_POST
+
+from segment.validate import validate_iteration_segment_openai_v1
 
 from . import inspector as insp
+from .openai_export import final_segment_for_bundle
 from segment.constants import DISCLAIMER_FOOTER_EN
+
+logger = logging.getLogger(__name__)
+
+
+def _rate_allow_openai_proxy(ip: str, limit: int) -> bool:
+    """Fixed 60s window per IP (LocMem cache)."""
+    bucket = int(time.time()) // 60
+    key = f"openai_proxy:{ip}:{bucket}"
+    try:
+        n = cache.incr(key)
+    except ValueError:
+        cache.set(key, 1, 70)
+        n = 1
+    return n <= limit
 
 
 @require_GET
@@ -42,6 +65,83 @@ def client_preview(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def export_segment_json(request: HttpRequest, session_id: str) -> HttpResponse:
+    """T23 — Download `iteration_segment_openai_v1` + messages as segment.json."""
+    bundle = insp.load_inspector_fixture(session_id)
+    try:
+        order = int(request.GET.get("iteration", "0"))
+    except ValueError:
+        order = 0
+    try:
+        final = final_segment_for_bundle(bundle, order)
+        validate_iteration_segment_openai_v1(final)
+    except (KeyError, ValueError) as e:
+        return JsonResponse({"error": str(e)}, status=400)
+    resp = JsonResponse(final, json_dumps_params={"indent": 2, "ensure_ascii": False})
+    resp["Content-Disposition"] = 'attachment; filename="segment.json"'
+    return resp
+
+
+@csrf_protect
+@require_POST
+def openai_proxy(request: HttpRequest, session_id: str) -> HttpResponse:
+    """T24–T25 — Optional Chat Completions proxy; no request body logging in prod paths."""
+    if not getattr(settings, "HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", False):
+        return HttpResponseNotFound()
+    api_key = (getattr(settings, "OPENAI_API_KEY", "") or "").strip()
+    if not api_key:
+        return JsonResponse({"error": "OPENAI_API_KEY not configured"}, status=503)
+
+    ip = request.META.get("REMOTE_ADDR", "unknown")
+    lim = int(getattr(settings, "OPENAI_PROXY_RATE_PER_MINUTE", 30))
+    if not _rate_allow_openai_proxy(ip, lim):
+        return JsonResponse({"error": "rate limit"}, status=429)
+
+    try:
+        order = int(request.POST.get("iteration", "0"))
+    except ValueError:
+        return JsonResponse({"error": "bad iteration"}, status=400)
+
+    bundle = insp.load_inspector_fixture(session_id)
+    try:
+        final = final_segment_for_bundle(bundle, order)
+        messages = final.get("messages") or []
+    except (KeyError, ValueError) as e:
+        return JsonResponse({"error": str(e)}, status=400)
+
+    model = getattr(settings, "OPENAI_PROXY_MODEL", "gpt-4o-mini")
+    body = json.dumps({"model": model, "messages": messages}).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.openai.com/v1/chat/completions",
+        data=body,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    t0 = time.perf_counter()
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            raw = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        ms = int((time.perf_counter() - t0) * 1000)
+        logger.warning("openai_proxy http_error status=%s ms=%s", getattr(e, "code", "?"), ms)
+        return JsonResponse({"error": "upstream", "status": getattr(e, "code", None)}, status=502)
+    except OSError as e:
+        ms = int((time.perf_counter() - t0) * 1000)
+        logger.warning("openai_proxy transport ms=%s err=%s", ms, type(e).__name__)
+        return JsonResponse({"error": "transport"}, status=502)
+
+    ms = int((time.perf_counter() - t0) * 1000)
+    logger.info("openai_proxy ok model=%s ms=%s", model, ms)
+    try:
+        content = raw["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, TypeError):
+        content = ""
+    return JsonResponse({"ok": True, "content": content})
+
+
 @require_GET
 def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     """T13–T21 — Session Inspector MVP (fixture-backed). Deep links: ?iteration=&sentence="""
@@ -75,6 +175,12 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     modules = params.get("modules") if isinstance(params.get("modules"), dict) else {}
     modules_json = mark_safe(json.dumps(modules, indent=2, ensure_ascii=False)) if modules else ""
 
+    try:
+        export_segment = final_segment_for_bundle(bundle, int(current.get("order", 0)))
+        validate_iteration_segment_openai_v1(export_segment)
+    except Exception:
+        export_segment = None
+
     return render(
         request,
         "pages/session_inspector.html",
@@ -97,6 +203,8 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
             "modules_json": modules_json,
             "audit": current.get("audit") or {},
             "disclaimer": meta.get("disclaimer_footer") or DISCLAIMER_FOOTER_EN,
+            "export_segment": export_segment,
+            "openai_proxy_enabled": getattr(settings, "HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", False),
         },
     )
 

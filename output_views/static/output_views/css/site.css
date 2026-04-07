@@ -168,3 +168,32 @@ h1 { font-size: 1.75rem; font-weight: 650; margin-top: 0; }
 @media (prefers-reduced-motion: reduce) {
   .sent-link { transition: none; }
 }
+
+/* OpenAI export toolbar (OUT-VIEW-04) */
+.insp-export {
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.insp-export-title { font-size: 1rem; margin: 0 0 0.5rem; color: var(--accent); }
+.insp-export-hint { font-size: 0.85rem; margin: 0 0 0.75rem; }
+.insp-export-actions { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 0.75rem; }
+.insp-proxy-form { margin-top: 0.5rem; }
+.btn {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border-radius: 6px;
+  border: 1px solid var(--accent);
+  background: #1e3a5f;
+  color: var(--fg);
+  font-size: 0.9rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: inherit;
+}
+.btn:hover { filter: brightness(1.08); }
+.btn-link { border-color: var(--border); background: var(--card); color: var(--accent); }
+.btn-secondary { border-color: var(--muted); background: #252d38; }
+.small { font-size: 0.8rem; }

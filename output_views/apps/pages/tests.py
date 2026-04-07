@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from django.test import Client, TestCase
+from django.test import Client, TestCase, override_settings
 
 
 class OutputViewsSmokeTests(TestCase):
@@ -43,6 +43,30 @@ class SessionInspectorMVPTests(TestCase):
     def test_unknown_bundle_404(self) -> None:
         r = self.client.get("/inspector/does_not_exist_fixture/")
         self.assertEqual(r.status_code, 404)
+
+
+class SessionInspectorExportTests(TestCase):
+    """T22–T25 export.json + proxy gate."""
+
+    def test_export_json_has_messages(self) -> None:
+        r = self.client.get("/inspector/session_inspector_min/export.json?iteration=0")
+        self.assertEqual(r.status_code, 200)
+        data = r.json()
+        self.assertIn("messages", data)
+        self.assertGreaterEqual(len(data["messages"]), 2)
+        disp = r.get("Content-Disposition", "")
+        self.assertIn("attachment", disp)
+        self.assertIn("segment.json", disp)
+
+    @override_settings(HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY=False)
+    def test_openai_proxy_disabled_404(self) -> None:
+        r = self.client.post("/inspector/session_inspector_min/openai-proxy/", {"iteration": "0"})
+        self.assertEqual(r.status_code, 404)
+
+    @override_settings(HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY=True, OPENAI_API_KEY="")
+    def test_openai_proxy_no_key_503(self) -> None:
+        r = self.client.post("/inspector/session_inspector_min/openai-proxy/", {"iteration": "0"})
+        self.assertEqual(r.status_code, 503)
 
 
 class IterationSegmentOpenAiV1Tests(TestCase):

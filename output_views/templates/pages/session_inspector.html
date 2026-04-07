@@ -27,6 +27,26 @@
     <p class="insp-deeplink muted">Deep link: <code>?iteration={{ current_order }}&amp;sentence={{ active_sentence_id }}</code></p>
   </section>
 
+  {% if export_segment %}
+  <section class="insp-export" aria-label="OpenAI segment export">
+    <h2 class="insp-export-title">OpenAI segment</h2>
+    <p class="muted insp-export-hint">Full <code>iteration_segment_openai_v1</code> including <code>messages</code> for Chat Completions.</p>
+    <div class="insp-export-actions">
+      <button type="button" class="btn" id="btn-copy-segment">Copy OpenAI segment (JSON)</button>
+      <a class="btn btn-link" href="{% url 'inspector_export_segment' session_id %}?iteration={{ current_order }}" download="segment.json">Download segment.json</a>
+    </div>
+    {% if openai_proxy_enabled %}
+    <form class="insp-proxy-form" method="post" action="{% url 'inspector_openai_proxy' session_id %}">
+      {% csrf_token %}
+      <input type="hidden" name="iteration" value="{{ current_order }}" />
+      <button type="submit" class="btn btn-secondary">Send via server proxy (feature flag)</button>
+    </form>
+    <p class="muted small">Proxy is off by default; set <code>HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY=1</code> and <code>OPENAI_API_KEY</code>. Rate-limited per IP.</p>
+    {% endif %}
+    {{ export_segment|json_script:"segment-export-data" }}
+  </section>
+  {% endif %}
+
   <section class="insp-strip" aria-label="Areas and families">
     <div class="insp-strip-block">
       <strong>Areas</strong>
@@ -95,4 +115,26 @@
     </section>
   </div>
 </div>
+{% endblock %}
+{% block extra_js %}
+{% if export_segment %}
+<script>
+(function () {
+  var btn = document.getElementById("btn-copy-segment");
+  var el = document.getElementById("segment-export-data");
+  if (!btn || !el) return;
+  btn.addEventListener("click", function () {
+    try {
+      var text = el.textContent || "";
+      navigator.clipboard.writeText(text).then(function () {
+        btn.textContent = "Copied";
+        setTimeout(function () { btn.textContent = "Copy OpenAI segment (JSON)"; }, 2000);
+      });
+    } catch (e) {
+      btn.textContent = "Copy failed";
+    }
+  });
+})();
+</script>
+{% endif %}
 {% endblock %}

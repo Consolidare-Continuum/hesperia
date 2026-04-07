@@ -22,6 +22,7 @@ python3 manage.py runserver 0.0.0.0:8010
 
 - Operator home: `http://127.0.0.1:8010/`
 - **Session Inspector (MVP):** `http://127.0.0.1:8010/inspector/session_inspector_min/` — fixture JSON under `output_views/tests/fixtures/`; query `?iteration=&sentence=`
+- **Export JSON:** `http://127.0.0.1:8010/inspector/session_inspector_min/export.json?iteration=0` — `iteration_segment_openai_v1` + `messages` (attachment `segment.json`)
 - Health JSON: `http://127.0.0.1:8010/health/`
 - Client preview shell: `http://127.0.0.1:8010/preview/client/`
 - E2E artifact listing (read-only): `http://127.0.0.1:8010/preview/artifacts/`
@@ -34,6 +35,12 @@ python3 manage.py runserver 0.0.0.0:8010
 | `DJANGO_DEBUG` | `True` / `False` (default `True` for local) |
 | `DJANGO_ALLOWED_HOSTS` | Comma-separated (default `127.0.0.1,localhost,[::1]`) |
 | `HESPERIA_FASTAPI_ANALYZE_URL` | Optional HTTP bridge to FastAPI (Phase B) |
+| `HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY` | `1`/`true` to enable POST `/inspector/.../openai-proxy/` (default off) |
+| `OPENAI_API_KEY` | Required when proxy enabled |
+| `OPENAI_PROXY_MODEL` | Default `gpt-4o-mini` |
+| `OPENAI_PROXY_RATE_PER_MINUTE` | Per-IP rolling limit (default 30) |
+
+See [OPENAI_PROXY-RATE-LIMIT.md](OPENAI_PROXY-RATE-LIMIT.md).
 
 Reads optional `../.env` from Hesperia root via `django-environ`.
 
@@ -42,6 +49,14 @@ Reads optional `../.env` from Hesperia root via `django-environ`.
 ```bash
 cd output_views && python3 manage.py test apps.pages
 ```
+
+From Hesperia repo root (same tests):
+
+```bash
+make output-views-test
+```
+
+**Pytest marker `output_views`** (T51) is registered in repo `pytest.ini`; primary coverage is Django `manage.py test` above.
 
 ## Iteration segment (OpenAI export)
 
