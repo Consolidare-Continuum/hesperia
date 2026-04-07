@@ -10,6 +10,13 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 **Master index:** [docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md](docs/HESPERIA_v0_5_ENGINE_DYNAMICS.md)  
 **Release tags:** `v0.5.5` · `hesperia-engine-dynamics-v0.5.5` (current modular TFP mainline seal), `v0.5.4` · `hesperia-engine-dynamics-v0.5.4` (previous deterministic system seal), `v0.5.3` · `hesperia-engine-dynamics-v0.5.3` (previous modular seal line), `v0.5.2` · `hesperia-engine-dynamics-v0.5.2` (previous technical release line); historical **`v0.5.1`** / **`v0.5.0`** remain on prior baselines.
 
+### output_views — iteration segment + Kernberg prompt pack (2026-04-07)
+
+- **`iteration_segment_openai_v1`:** JSON Schema at `output_views/schemas/iteration_segment_openai_v1.schema.json`; Python package `output_views/segment/` (`build_session_inspector_v1`, `extract_iteration_segment`, `finalize_segment_openai_v1`, `validate_iteration_segment_openai_v1`).
+- **Prompts:** `output_views/prompts/kernberg_iteration_review_system_v1.txt`, `kernberg_iteration_review_user_v1.jinja` (`prompt_pack_id` = `kernberg_iteration_review_v1`).
+- **Docs:** [docs/output_views/FIELD_GLOSSARY.md](docs/output_views/FIELD_GLOSSARY.md); fixture `output_views/tests/fixtures/session_inspector_min.json`.
+- **Deps:** `jsonschema`, `Jinja2` in `requirements/output_views.txt`.
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)

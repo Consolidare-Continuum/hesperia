@@ -1,0 +1,33 @@
+{
+  "schema_version": "session_inspector_v1",
+  "meta": {
+    "run_timestamp_utc": "2026-04-07T12:00:00Z",
+    "source_file": "demo_session.json",
+    "source_label": "demo_session",
+    "modules_executed": ["tfp.v1"],
+    "module_versions": {"tfp.v1": "0.5.6"},
+    "calibration_dict_pack": null
+  },
+  "iterations": [
+    {
+      "iteration_id": "iter_0",
+      "order": 0,
+      "t_start_ms": 0,
+      "t_end_ms": 5000,
+      "wall_clock_iso": "2026-04-07T12:00:01Z",
+      "parameters": {
+        "areas": {"A1": 0.7},
+        "families": {"F01": 0.3},
+        "modules": {
+          "tfp.v1": {
+            "tfp_profile": {"dominant": "test", "confidence": 0.5}
+          }
+        }
+      },
+      "sentences": [
+        {"id": "s0", "text": "I feel stuck when the topic shifts.", "order": 0}
+      ],
+      "audit": {"iteration": {}, "by_sentence": {}}
+    }
+  ]
+}
