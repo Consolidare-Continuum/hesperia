@@ -22,6 +22,29 @@ class OutputViewsSmokeTests(TestCase):
         self.assertEqual(r.status_code, 200)
 
 
+class SessionInspectorMVPTests(TestCase):
+    """T13–T21, T30 (partial), T54–T55 docs — fixture-backed inspector."""
+
+    def test_inspector_200(self) -> None:
+        r = self.client.get("/inspector/session_inspector_min/")
+        self.assertEqual(r.status_code, 200)
+
+    def test_inspector_dropdown_two_iterations(self) -> None:
+        r = self.client.get("/inspector/session_inspector_min/")
+        body = r.content.decode("utf-8")
+        self.assertIn('value="0"', body)
+        self.assertIn('value="1"', body)
+
+    def test_deep_link_sentence_active(self) -> None:
+        r = self.client.get("/inspector/session_inspector_min/?iteration=1&sentence=s1")
+        self.assertEqual(r.status_code, 200)
+        self.assertIn("is-active", r.content.decode("utf-8"))
+
+    def test_unknown_bundle_404(self) -> None:
+        r = self.client.get("/inspector/does_not_exist_fixture/")
+        self.assertEqual(r.status_code, 404)
+
+
 class IterationSegmentOpenAiV1Tests(TestCase):
     """T04, T29, T63 — segment schema + messages contract."""
 

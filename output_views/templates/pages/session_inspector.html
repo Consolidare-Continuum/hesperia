@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+{% block title %}Session Inspector{% endblock %}
+{% block content %}
+<div class="wrap inspector-page">
+  <header class="insp-top">
+    <h1>Session Inspector</h1>
+    <p class="insp-disclaimer muted">{{ disclaimer }}</p>
+  </header>
+
+  <section class="insp-meta-bar" aria-label="Run header">
+    <dl class="insp-meta">
+      <div><dt>Run (UTC)</dt><dd>{{ meta.run_timestamp_utc|default:"—" }}</dd></div>
+      <div><dt>Source file</dt><dd>{{ meta.source_file|default:meta.source_label|default:"—" }}</dd></div>
+      <div><dt>Modules</dt><dd>{% if meta.modules_executed %}{{ meta.modules_executed|join:", " }}{% else %}—{% endif %}</dd></div>
+    </dl>
+  </section>
+
+  <section class="insp-toolbar" aria-label="Iteration selector">
+    <form class="insp-iter-form" method="get" action="">
+      <label class="insp-label" for="iteration">Iteration</label>
+      <select name="iteration" id="iteration" class="insp-select" autocomplete="off" onchange="this.form.submit()">
+        {% for opt in iterations %}
+        <option value="{{ opt.order }}" {% if opt.order == current_order %}selected{% endif %}>Iteration {{ opt.order }} — {{ opt.label }}</option>
+        {% endfor %}
+      </select>
+    </form>
+    <p class="insp-deeplink muted">Deep link: <code>?iteration={{ current_order }}&amp;sentence={{ active_sentence_id }}</code></p>
+  </section>
+
+  <section class="insp-strip" aria-label="Areas and families">
+    <div class="insp-strip-block">
+      <strong>Areas</strong>
+      {% for k,v in areas.items %}
+      <span class="chip" title="{{ k }}">{{ k }} <span class="chip-val">{{ v }}</span></span>
+      {% empty %}<span class="muted">—</span>{% endfor %}
+    </div>
+    <div class="insp-strip-block">
+      <strong>Families</strong>
+      {% for k,v in families.items %}
+      <span class="chip" title="{{ k }}">{{ k }} <span class="chip-val">{{ v }}</span></span>
+      {% empty %}<span class="muted">—</span>{% endfor %}
+    </div>
+    <div class="insp-strip-block">
+      <strong>Relations</strong> <span class="muted">(summary when bundle supplies relation edges)</span>
+    </div>
+  </section>
+
+  <div class="insp-grid">
+    <section class="pane pane-a" aria-label="Sourced text" role="region">
+      <h2 class="pane-title">Pane A — Sourced text</h2>
+      <div class="pane-body">
+        {% for s in sentences %}
+        <p class="sent-line{% if s.id == active_sentence_id %} is-active{% endif %}">
+          <a class="sent-link" href="?iteration={{ current_order }}&amp;sentence={{ s.id|urlencode }}"><span data-sid="{{ s.id }}">{{ s.text }}</span></a>
+        </p>
+        {% empty %}
+        <p class="muted">No sentences.</p>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="pane pane-b" aria-label="Parameters" role="region">
+      <h2 class="pane-title">Pane B — Parameters</h2>
+      <div class="pane-body">
+        <details class="param-details" open>
+          <summary>Core vectors</summary>
+          <dl class="kv">
+            <dt>areas</dt><dd>{% if areas %}{{ areas|length }} keys{% else %}—{% endif %}</dd>
+            <dt>families</dt><dd>{% if families %}{{ families|length }} keys{% else %}—{% endif %}</dd>
+            <dt>metrics</dt><dd>{% if metrics %}{{ metrics|length }} keys{% else %}—{% endif %}</dd>
+          </dl>
+        </details>
+        {% if modules_json %}
+        <details class="param-details" open>
+          <summary>TFP module</summary>
+          <pre class="mono-block" aria-label="modules JSON">{{ modules_json }}</pre>
+        </details>
+        {% endif %}
+        <details class="param-details">
+          <summary>Full parameters JSON</summary>
+          <pre class="mono-block" aria-label="parameters JSON">{{ parameters_json }}</pre>
+        </details>
+      </div>
+    </section>
+
+    <section class="pane pane-c" aria-label="Audit" role="region">
+      <h2 class="pane-title">Pane C — Audit</h2>
+      <div class="pane-body">
+        {% if audit.by_sentence %}
+          <p class="muted">Sentence-scoped audit present (bundle-defined).</p>
+        {% else %}
+          <p class="muted">No audit trace in this bundle for the selected sentence.</p>
+        {% endif %}
+      </div>
+    </section>
+  </div>
+</div>
+{% endblock %}

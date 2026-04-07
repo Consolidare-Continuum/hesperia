@@ -17,6 +17,12 @@ All notable releases of **Hesperia Engine Dynamics** are documented here.
 - **Docs:** [docs/output_views/FIELD_GLOSSARY.md](docs/output_views/FIELD_GLOSSARY.md); fixture `output_views/tests/fixtures/session_inspector_min.json`.
 - **Deps:** `jsonschema`, `Jinja2` in `requirements/output_views.txt`.
 
+### output_views — Session Inspector MVP page (2026-04-07)
+
+- **Route:** `/inspector/<session_id>/` — loads `output_views/tests/fixtures/<session_id>.json` (read-only MVP).
+- **UI:** Header (run/source/modules), iteration `<select>`, areas/families strip, panes A/B/C (text + parameters + audit placeholder), deep links `?iteration=&sentence=`.
+- **Docs:** [docs/output_views/ADR-split-panes-v1.md](docs/output_views/ADR-split-panes-v1.md), [docs/output_views/I18N_RU_STUB.md](docs/output_views/I18N_RU_STUB.md); `locale/ru/LC_MESSAGES/django.po` stub.
+
 ## v0.5.5 — Modular TFP mainline seal (2026-03-26)
 
 ### Scope (v0.5.5)

@@ -28,6 +28,26 @@
         {"id": "s0", "text": "I feel stuck when the topic shifts.", "order": 0}
       ],
       "audit": {"iteration": {}, "by_sentence": {}}
+    },
+    {
+      "iteration_id": "iter_1",
+      "order": 1,
+      "t_start_ms": 5000,
+      "t_end_ms": 9000,
+      "wall_clock_iso": "2026-04-07T12:00:02Z",
+      "parameters": {
+        "areas": {"A2": 0.4},
+        "families": {"F02": 0.6},
+        "modules": {
+          "tfp.v1": {
+            "tfp_profile": {"dominant": "other", "confidence": 0.4}
+          }
+        }
+      },
+      "sentences": [
+        {"id": "s1", "text": "A second analytic turn for the mock session.", "order": 0}
+      ],
+      "audit": {"iteration": {}, "by_sentence": {}}
     }
   ]
 }

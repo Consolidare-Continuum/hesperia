@@ -21,6 +21,7 @@ python3 manage.py runserver 0.0.0.0:8010
 ```
 
 - Operator home: `http://127.0.0.1:8010/`
+- **Session Inspector (MVP):** `http://127.0.0.1:8010/inspector/session_inspector_min/` — fixture JSON under `output_views/tests/fixtures/`; query `?iteration=&sentence=`
 - Health JSON: `http://127.0.0.1:8010/health/`
 - Client preview shell: `http://127.0.0.1:8010/preview/client/`
 - E2E artifact listing (read-only): `http://127.0.0.1:8010/preview/artifacts/`
@@ -46,6 +47,11 @@ cd output_views && python3 manage.py test apps.pages
 
 - **Glossary:** [FIELD_GLOSSARY.md](FIELD_GLOSSARY.md)
 - **Code:** `output_views/segment/` — session bundle → per-iteration segment → `messages[]` (system + user).
+
+## Session Inspector UI
+
+- **ADR (panes):** [ADR-split-panes-v1.md](ADR-split-panes-v1.md)
+- **RU stub:** [I18N_RU_STUB.md](I18N_RU_STUB.md)
 
 ## Governance
 
