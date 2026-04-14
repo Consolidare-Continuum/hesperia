@@ -57,6 +57,7 @@ SCAN_SKIP_FILES = [
 SCAN_SKIP_DIR_PREFIXES = [
     "release/v0.5.0",
     "release/v0.5.1",
+    "release/v0.5.2",
     "examples/extensions/triz_demo",
 ]
 
