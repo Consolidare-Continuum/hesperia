@@ -1,4 +1,4 @@
-# HESPERIA — Cross-plane contradiction package (v0.5.8 task4).
+# HESPERIA — Cross-plane contradiction package (v0.5.8 task4–5).
 
 from __future__ import annotations
 
@@ -43,6 +43,8 @@ def test_crossplane_package_required_fields() -> None:
     pkg = build_crossplane_contradiction_package(act, topo, rows)
     for k in (
         "global_contradiction_load",
+        "raw_contradiction_load",
+        "effective_contradiction_load",
         "area_contradiction_pressure",
         "cross_area_contradiction_mass",
         "segment_contradiction_loads",
@@ -50,6 +52,8 @@ def test_crossplane_package_required_fields() -> None:
         "contradiction_stability_index",
         "contradiction_coherence_flag",
         "contradiction_coupling_active",
+        "contradiction_confidence_mean",
+        "lexical_semantic_conflict_split",
     ):
         assert k in pkg
     assert 0.0 <= float(pkg["global_contradiction_load"]) <= 1.0

@@ -430,11 +430,39 @@ def run_pipeline(
             disk_rows, _src = _load_contradictions(out_dir, sid)
             contra_rows = disk_rows
 
+        try:
+            act_plain = analyze_session(t, embedding=embedding or None, contradictions=None)
+        except Exception as ex:  # noqa: BLE001
+            act_plain = {"_error": str(ex), "concepts": {}}
+
+        dlcr_body: dict[str, Any] | None = None
+        if not skip_dlcr:
+            try:
+                dlcr_body = run_dlcr_pipeline(
+                    t,
+                    repo_root=_REPO,
+                    mode=dlcr_mode,
+                    contradiction_package=None,
+                )
+            except Exception as ex:  # noqa: BLE001
+                dlcr_body = {"_error": str(ex)}
+
+        from hesperia.extensions.triz.contradiction_uncertainty import build_uncertainty_package
+        from hesperia.extensions.triz.contradiction_coupling import enrich_contradiction_rows
+
+        unc = build_uncertainty_package(dlcr_body if isinstance(dlcr_body, dict) else {}, act_plain)
+        concepts_plain = act_plain.get("concepts") if isinstance(act_plain, dict) else {}
+        ce = enrich_contradiction_rows(
+            contra_rows,
+            unc,
+            concepts_plain if isinstance(concepts_plain, dict) else {},
+        )
+
         if with_topology:
             try:
                 full = run_session_topology(
                     t,
-                    contradictions=contra_rows if contra_rows else None,
+                    contradictions=ce if ce else None,
                     **topo_params,
                 )
                 segs = full.get("segments") or []
@@ -456,7 +484,8 @@ def run_pipeline(
             act_for_pkg = analyze_session(
                 t,
                 embedding=embedding or None,
-                contradictions=contra_rows if contra_rows else None,
+                contradictions=ce if ce else None,
+                uncertainty_package=unc,
             )
             topo_full: dict[str, Any] = {}
             for tp in session_topo:
@@ -466,7 +495,8 @@ def run_pipeline(
             contradiction_package = build_crossplane_contradiction_package(
                 activation=act_for_pkg,
                 topology=topo_full,
-                contradictions=contra_rows if contra_rows else None,
+                contradictions=ce if ce else None,
+                uncertainty_package=unc,
             )
             crossplane_by_session[str(sid)] = _round_floats(dict(contradiction_package))
         except Exception as ex:  # noqa: BLE001
@@ -475,19 +505,33 @@ def run_pipeline(
 
         if not skip_dlcr:
             try:
-                body = run_dlcr_pipeline(
-                    t,
-                    repo_root=_REPO,
-                    mode=dlcr_mode,
-                    contradiction_package=contradiction_package,
-                )
-                body = dict(body)
-                body["run"] = "tfp_file_pipeline_dlcr"
-                body["session_id"] = sid
-                body["input"] = _text_preview(t)
-                if contradiction_package:
-                    body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
-                session_dlcr.append(body)
+                from hesperia.engine.lexical_concept.pipeline import apply_crossplane_contradiction_fields_to_dlcr_result
+
+                if dlcr_body is not None and not dlcr_body.get("_error"):
+                    body = dict(dlcr_body)
+                    body = apply_crossplane_contradiction_fields_to_dlcr_result(body, contradiction_package)
+                    body["run"] = "tfp_file_pipeline_dlcr"
+                    body["session_id"] = sid
+                    body["input"] = _text_preview(t)
+                    body["uncertainty_package"] = _round_floats(dict(unc))
+                    if contradiction_package:
+                        body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                    session_dlcr.append(body)
+                else:
+                    body = run_dlcr_pipeline(
+                        t,
+                        repo_root=_REPO,
+                        mode=dlcr_mode,
+                        contradiction_package=contradiction_package,
+                    )
+                    body = dict(body)
+                    body["run"] = "tfp_file_pipeline_dlcr"
+                    body["session_id"] = sid
+                    body["input"] = _text_preview(t)
+                    body["uncertainty_package"] = _round_floats(dict(unc))
+                    if contradiction_package:
+                        body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                    session_dlcr.append(body)
             except Exception as ex:  # noqa: BLE001
                 session_dlcr.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
 

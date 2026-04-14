@@ -20,6 +20,7 @@ from hesperia.extensions.triz.contradiction_coupling import (
     build_area_contradiction_pressure,
     build_dynamic_inhibition_delta,
     count_contradiction_rows_used,
+    enrich_contradiction_rows,
 )
 from hesperia.nlp.semantic_state_update import (
     load_h_total,
@@ -28,7 +29,7 @@ from hesperia.nlp.semantic_state_update import (
 )
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
-CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task2"
+CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task5"
 
 
 def _repo_root() -> Path:
@@ -180,6 +181,7 @@ def build_invariant_activation(
     psi_prev: dict[str, float] | None = None,
     apply_semantic_state: bool = True,
     contradictions: list[dict[str, Any]] | None = None,
+    uncertainty_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     runtime = load_engine_runtime_bundle()
     calibration = runtime["calibration"]
@@ -247,9 +249,24 @@ def build_invariant_activation(
     areas_pressure_adjusted = dict(areas_raw)
 
     if use_contradiction_coupling:
-        used_rows = count_contradiction_rows_used(contradictions, af, AREA_IDS)
-        pressure_map = build_area_contradiction_pressure(contradictions, af, AREA_IDS)
-        dynamic_delta_out = build_dynamic_inhibition_delta(contradictions, af, AREA_IDS)
+        enriched = enrich_contradiction_rows(
+            contradictions,
+            uncertainty_package,
+            concepts_post_hex,
+        )
+        used_rows = count_contradiction_rows_used(enriched, af, AREA_IDS)
+        pressure_map_raw = build_area_contradiction_pressure(
+            enriched, af, AREA_IDS, use_effective_scores=False
+        )
+        pressure_map = build_area_contradiction_pressure(
+            enriched, af, AREA_IDS, use_effective_scores=True
+        )
+        dynamic_delta_raw = build_dynamic_inhibition_delta(
+            enriched, af, AREA_IDS, use_effective_scores=False
+        )
+        dynamic_delta_out = build_dynamic_inhibition_delta(
+            enriched, af, AREA_IDS, use_effective_scores=True
+        )
         coupled = apply_contradiction_coupling(
             areas_raw,
             base_matrix,
@@ -332,6 +349,15 @@ def build_invariant_activation(
             "contradiction_count_used": int(used_rows),
         },
     }
+
+    if use_contradiction_coupling:
+        activation["contradiction_pressure_raw"] = _round_sparse(pressure_map_raw, include_zero=True)
+        activation["dynamic_inhibition_delta_raw"] = [
+            [round(float(dynamic_delta_raw[i][j]), 6) for j in range(len(AREA_IDS))]
+            for i in range(len(AREA_IDS))
+        ]
+    if uncertainty_package:
+        activation["contradiction_uncertainty_package"] = dict(uncertainty_package)
 
     if semantic_segment_audit is not None:
         activation["semantic_state"] = semantic_segment_audit

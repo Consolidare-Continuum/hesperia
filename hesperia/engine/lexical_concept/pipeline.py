@@ -405,6 +405,119 @@ def compute_lexical_unmapped_token_rate(
     return unmapped / float(len(tokens))
 
 
+def apply_crossplane_contradiction_fields_to_dlcr_result(
+    result: dict[str, Any],
+    contradiction_package: dict[str, Any] | None,
+) -> dict[str, Any]:
+    """Merge cross-plane contradiction metrics into an existing DLCR result (single-DLCR augment path)."""
+    if not contradiction_package:
+        return result
+    pkg = contradiction_package
+    g = float(pkg.get("global_contradiction_load") or 0.0)
+    result["contradiction_load"] = round(max(0.0, min(1.0, g)), 6)
+    result["cross_area_contradiction_mass"] = round(float(pkg.get("cross_area_contradiction_mass") or 0.0), 6)
+    result["contradiction_stability_index"] = round(float(pkg.get("contradiction_stability_index") or 0.0), 6)
+    result["contradiction_coherence_flag"] = bool(pkg.get("contradiction_coherence_flag"))
+    result["contradiction_coupling_active"] = bool(pkg.get("contradiction_coupling_active"))
+    conc = float(result.get("hex_concentration_index") or 0.0)
+    disp = float(result.get("hex_dispersion_index") or 0.0)
+    traj = result.get("trajectory") or {}
+    result["dlcr_contradiction_alignment"] = _dlcr_contradiction_alignment_fields(
+        conc,
+        disp,
+        traj if isinstance(traj, dict) else {},
+        g,
+    )
+    return result
+
+
+def _entropy01_from_concept_weights(cw: dict[str, float]) -> float:
+    vals = [max(0.0, float(v)) for v in cw.values() if float(v) > EPS]
+    if len(vals) < 2:
+        return 0.0
+    s = sum(vals)
+    if s <= EPS:
+        return 0.0
+    ps = [v / s for v in vals]
+    h = -sum(p * math.log(p + EPS) for p in ps)
+    h_max = math.log(len(ps))
+    return max(0.0, min(1.0, h / h_max)) if h_max > EPS else 0.0
+
+
+def _ambiguous_span_ratio(span_outputs: list[dict[str, Any]]) -> float:
+    if not span_outputs:
+        return 0.0
+    amb = 0
+    for r in span_outputs:
+        scores = r.get("candidate_scores") or {}
+        if not isinstance(scores, dict) or len(scores) < 2:
+            continue
+        vals = sorted((float(v) for v in scores.values()), reverse=True)
+        if vals[0] <= 1e-12:
+            continue
+        if (vals[0] - vals[1]) / vals[0] < 0.22:
+            amb += 1
+    return amb / float(len(span_outputs))
+
+
+def _weak_concept_share(cw: dict[str, float]) -> float:
+    if not cw:
+        return 0.0
+    mx = max(float(v) for v in cw.values())
+    if mx <= EPS:
+        return 0.0
+    return sum(1 for v in cw.values() if float(v) < 0.18 * mx) / float(len(cw))
+
+
+def _mean_best_resolve_score(span_outputs: list[dict[str, Any]]) -> float:
+    bests: list[float] = []
+    for r in span_outputs:
+        scores = r.get("candidate_scores") or {}
+        if not scores:
+            continue
+        bests.append(max(float(v) for v in scores.values()))
+    return sum(bests) / len(bests) if bests else 0.0
+
+
+def _compute_uncertainty_summaries(
+    text: str,
+    hits: list[Any],
+    rejected: list[Any],
+    span_outputs: list[dict[str, Any]],
+    cw: dict[str, float],
+    conc: float,
+    disp: float,
+    repo: Path,
+    mode: str,
+) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+    unmapped = float(compute_lexical_unmapped_token_rate(text, repo_root=repo, mode=mode))
+    acc = len(hits)
+    rej = len(rejected)
+    low_pri = rej / float(max(1, acc + rej))
+    fuzzy_amb = _ambiguous_span_ratio(span_outputs)
+    lexical_uncertainty_summary = {
+        "unmapped_lexical_ratio": round(unmapped, 6),
+        "fuzzy_link_ratio": round(fuzzy_amb, 6),
+        "alias_link_ratio": 0.0,
+        "low_priority_link_ratio": round(low_pri, 6),
+    }
+    ent = _entropy01_from_concept_weights(cw)
+    weak = _weak_concept_share(cw)
+    mean_sup = _mean_best_resolve_score(span_outputs)
+    concept_uncertainty_summary = {
+        "weak_concept_share": round(weak, 6),
+        "ambiguous_concept_share": round(fuzzy_amb, 6),
+        "concept_entropy": round(ent, 6),
+        "mean_concept_support_strength": round(mean_sup, 6),
+    }
+    concept_support_summary = {
+        "mean_best_resolve_score": round(mean_sup, 6),
+        "hex_concentration": round(float(conc), 6),
+        "hex_dispersion": round(float(disp), 6),
+    }
+    return lexical_uncertainty_summary, concept_uncertainty_summary, concept_support_summary
+
+
 def _dlcr_contradiction_alignment_fields(
     conc: float,
     disp: float,
@@ -690,21 +803,15 @@ def _analyze_internal(
     result["canonical_text"] = norm["canonical_text"]
     result["span_resolutions"] = span_outputs
     result["calibration_dicts"] = calibration_manifest(repo)
-    if contradiction_package:
-        pkg = contradiction_package
-        g = float(pkg.get("global_contradiction_load") or 0.0)
-        result["contradiction_load"] = round(max(0.0, min(1.0, g)), 6)
-        result["cross_area_contradiction_mass"] = round(float(pkg.get("cross_area_contradiction_mass") or 0.0), 6)
-        result["contradiction_stability_index"] = round(float(pkg.get("contradiction_stability_index") or 0.0), 6)
-        result["contradiction_coherence_flag"] = bool(pkg.get("contradiction_coherence_flag"))
-        result["contradiction_coupling_active"] = bool(pkg.get("contradiction_coupling_active"))
-        traj = result.get("trajectory") or {}
-        result["dlcr_contradiction_alignment"] = _dlcr_contradiction_alignment_fields(
-            float(conc),
-            float(disp),
-            traj if isinstance(traj, dict) else {},
-            g,
-        )
+    result["hex_concentration_index"] = quantize(conc)
+    result["hex_dispersion_index"] = quantize(disp)
+    lex_u, con_u, sup_u = _compute_uncertainty_summaries(
+        text, hits, rejected, span_outputs, cw, conc, disp, repo, mode
+    )
+    result["lexical_uncertainty_summary"] = lex_u
+    result["concept_uncertainty_summary"] = con_u
+    result["concept_support_summary"] = sup_u
+    apply_crossplane_contradiction_fields_to_dlcr_result(result, contradiction_package)
     return result
 
 

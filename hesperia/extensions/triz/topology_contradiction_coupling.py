@@ -8,7 +8,7 @@ import math
 from types import SimpleNamespace
 from typing import Any
 
-from hesperia.extensions.triz.contradiction_coupling import _extract_pair_and_score
+from hesperia.extensions.triz.contradiction_coupling import _extract_pair_and_score, _row_pressure_score
 from hesperia.extensions.triz.topology_binding import bind_contradiction_to_topology
 
 _EPS = 1e-15
@@ -88,8 +88,9 @@ def compute_segment_contradiction_loads(
         pairs_used: list[dict[str, Any]] = []
 
         for row in rows_sorted:
-            ca, cb, score = _extract_pair_and_score(row)
-            if ca is None or cb is None or score <= _EPS:
+            ca, cb, raw_sc = _extract_pair_and_score(row)
+            w_sc = _row_pressure_score(row, use_effective=True)
+            if ca is None or cb is None or w_sc <= _EPS:
                 continue
             wa = concepts.get(ca)
             wb = concepts.get(cb)
@@ -102,7 +103,7 @@ def compute_segment_contradiction_loads(
                 continue
             if fa <= _EPS or fb <= _EPS:
                 continue
-            mass = float(score) * min(fa, fb)
+            mass = float(w_sc) * min(fa, fb)
             load += mass
 
             af_a = concept_to_area_family.get(str(ca))
@@ -123,7 +124,8 @@ def compute_segment_contradiction_loads(
                 {
                     "pair": [str(ca), str(cb)],
                     "mass": round(mass, 6),
-                    "raw_contradiction_score": float(score),
+                    "raw_contradiction_score": float(raw_sc),
+                    "effective_contradiction_score": round(float(w_sc), 6),
                     "same_area": bool(binding.get("same_area")),
                     "adjacent_areas": bool(binding.get("adjacent_areas")),
                     "locality_score": float(binding.get("locality_score") or 0.0),

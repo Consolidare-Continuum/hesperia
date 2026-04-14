@@ -59,14 +59,18 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         pkg_g = float(row04.get("contradiction_load") or 0.0)
         if isinstance(cpkg, dict) and cpkg.get("global_contradiction_load") is not None:
             pkg_g = max(pkg_g, float(cpkg.get("global_contradiction_load") or 0.0))
+        raw_l = float(cpkg.get("raw_contradiction_load") or 0.0) if isinstance(cpkg, dict) else 0.0
+        eff_l = float(cpkg.get("effective_contradiction_load") or 0.0) if isinstance(cpkg, dict) else pkg_g
+        mconf = float(cpkg.get("contradiction_confidence_mean") or 1.0) if isinstance(cpkg, dict) else 1.0
+        raw_vs_effective_gap = abs(raw_l - eff_l)
         ext = (row06.get("extended") or {}) if isinstance(row06.get("extended"), dict) else {}
         vca = ext.get("verdict_conflict_alignment") or {}
         under = bool(vca.get("verdict_underreports_conflict"))
-        pcc = ext.get("product_conflict_consistency") or {}
         mode = str(ext.get("session_contradiction_mode") or "")
+        sem_rel = float(ext.get("semantic_conflict_reliability") or 0.0)
+        cfs = ext.get("conflict_confidence_summary") or {}
         dlcr_align = row04.get("dlcr_contradiction_alignment") or {}
         spread_ok = bool(dlcr_align.get("spread_vs_contradiction_consistent"))
-        m05_align = row05.get("multiscale_contradiction_alignment") or {}
         sealed_trace = row05.get("sealed_conflict_trace") or {}
         collapse = bool(sealed_trace.get("conflict_collapses_under_aggregation"))
         persistent = bool(sealed_trace.get("persistent_conflict"))
@@ -75,7 +79,21 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         dlcr_conflict_misalignment = bool(row04.get("contradiction_load") is not None and not spread_ok and pkg_g > 0.35)
         multiscale_conflict_collapse = bool(persistent and collapse and pkg_g > 0.4)
 
-        crossplane_ok = not (product_underreports_conflict or dlcr_conflict_misalignment or multiscale_conflict_collapse)
+        high_raw_low_conf = bool(raw_l > 0.52 and mconf < 0.42)
+        likely_lexical_contamination = bool(raw_vs_effective_gap > 0.32 and mconf < 0.48)
+        likely_concept_ambiguity_overdrive = bool(
+            float((ext.get("conflict_source_balance") or {}).get("concept_ambiguity_component") or 0.0) > 0.45
+            and eff_l < 0.35
+        )
+        conflict_confidence_consistency = not (
+            high_raw_low_conf and mode == "conflict_dominant" and sem_rel > 0.72
+        )
+        crossplane_ok = not (
+            product_underreports_conflict
+            or dlcr_conflict_misalignment
+            or multiscale_conflict_collapse
+            or (likely_lexical_contamination and sem_rel > 0.75 and mode == "coherent")
+        )
         per_session.append(
             {
                 "session_id": sid,
@@ -86,9 +104,15 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
                 "dlcr_conflict_misalignment": dlcr_conflict_misalignment,
                 "multiscale_conflict_collapse": multiscale_conflict_collapse,
                 "verdict_underreports_conflict_reported": under,
+                "raw_vs_effective_conflict_gap": round(raw_vs_effective_gap, 6),
+                "conflict_confidence_consistency": conflict_confidence_consistency,
+                "likely_lexical_contamination": likely_lexical_contamination,
+                "likely_concept_ambiguity_overdrive": likely_concept_ambiguity_overdrive,
+                "semantic_conflict_reliability": round(sem_rel, 6),
+                "conflict_confidence_summary_echo": cfs,
                 "recommended_next_action": (
                     "review_contradiction_rows_and_rerun"
-                    if product_underreports_conflict or dlcr_conflict_misalignment
+                    if product_underreports_conflict or dlcr_conflict_misalignment or likely_lexical_contamination
                     else "none"
                 ),
             }

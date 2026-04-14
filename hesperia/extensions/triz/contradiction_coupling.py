@@ -79,19 +79,91 @@ def count_contradiction_rows_used(
     return n
 
 
+def concept_support_strength(concept_id: str, concept_weights: dict[str, float]) -> float:
+    """Relative support for a concept in current activation mass (deterministic)."""
+    if not concept_weights:
+        return 0.2
+    mx = max(float(v) for v in concept_weights.values())
+    if mx <= _EPS:
+        return 0.2
+    w = float(concept_weights.get(str(concept_id), 0.0))
+    return max(0.12, min(1.0, w / mx))
+
+
+def pair_confidence(
+    ca: str,
+    cb: str,
+    uncertainty_package: dict[str, Any] | None,
+    concept_weights: dict[str, float] | None,
+) -> float:
+    """Trust in a contradiction pair given lexical/concept uncertainty (not suppression by keyword)."""
+    if uncertainty_package is None:
+        return 1.0
+    lex_u = float(uncertainty_package.get("lexical_uncertainty") or 0.0)
+    con_u = float(uncertainty_package.get("concept_uncertainty") or 0.0)
+    base = max(0.1, min(1.0, 1.0 - 0.46 * lex_u - 0.46 * con_u))
+    cw = concept_weights or {}
+    sa = concept_support_strength(ca, cw)
+    sb = concept_support_strength(cb, cw)
+    geom = math.sqrt(max(_EPS, sa) * max(_EPS, sb))
+    return max(0.06, min(1.0, base * geom))
+
+
+def enrich_contradiction_rows(
+    rows: list[dict[str, Any]] | None,
+    uncertainty_package: dict[str, Any] | None,
+    concept_weights: dict[str, float] | None,
+) -> list[dict[str, Any]]:
+    """
+    Attach ``confidence`` and ``effective_score`` to each row; preserve raw magnitude in
+    ``raw_contradiction_score`` for auditing.
+    """
+    if not rows:
+        return []
+    cw = concept_weights or {}
+    out: list[dict[str, Any]] = []
+    for row in _sort_contradiction_rows(list(rows)):
+        r = dict(row)
+        ca, cb, raw_score = _extract_pair_and_score(r)
+        r["raw_contradiction_score"] = float(raw_score)
+        if ca is None or cb is None or raw_score <= _EPS:
+            r["confidence"] = 0.0
+            r["effective_score"] = 0.0
+            out.append(r)
+            continue
+        conf = pair_confidence(str(ca), str(cb), uncertainty_package, cw)
+        eff = float(raw_score) * conf
+        r["confidence"] = round(conf, 6)
+        r["effective_score"] = round(eff, 6)
+        out.append(r)
+    return out
+
+
+def _row_pressure_score(row: dict[str, Any], *, use_effective: bool) -> float:
+    if use_effective and row.get("effective_score") is not None:
+        return float(row["effective_score"])
+    if row.get("raw_contradiction_score") is not None:
+        return float(row["raw_contradiction_score"])
+    _, _, sc = _extract_pair_and_score(row)
+    return float(sc)
+
+
 def build_area_contradiction_pressure(
     contradictions: list[dict[str, Any]] | None,
     concept_to_area_family: dict[str, tuple[str, str]],
     area_ids: list[str],
+    *,
+    use_effective_scores: bool = True,
 ) -> dict[str, float]:
-    """Per-area pressure in [0, 1], max-normalized over observed contradiction scores."""
+    """Per-area pressure in [0, 1], max-normalized. Uses ``effective_score`` when present and requested."""
     accum = {a: 0.0 for a in area_ids}
     valid_areas = set(area_ids)
     if not contradictions:
         return accum
 
     for row in _sort_contradiction_rows(list(contradictions)):
-        ca, cb, sc = _extract_pair_and_score(row)
+        ca, cb, _s = _extract_pair_and_score(row)
+        sc = _row_pressure_score(row, use_effective=use_effective_scores)
         if ca is None or cb is None or sc <= _EPS:
             continue
         aa = _resolve_area(ca, concept_to_area_family)
@@ -112,8 +184,10 @@ def build_dynamic_inhibition_delta(
     contradictions: list[dict[str, Any]] | None,
     concept_to_area_family: dict[str, tuple[str, str]],
     area_ids: list[str],
+    *,
+    use_effective_scores: bool = True,
 ) -> list[list[float]]:
-    """Symmetric off-diagonal inhibition delta, max-normalized."""
+    """Symmetric off-diagonal inhibition delta, max-normalized (confidence-adjusted when requested)."""
     n = len(area_ids)
     delta = [[0.0 for _ in range(n)] for _ in range(n)]
     index = {aid: i for i, aid in enumerate(area_ids)}
@@ -123,7 +197,8 @@ def build_dynamic_inhibition_delta(
         return delta
 
     for row in _sort_contradiction_rows(list(contradictions)):
-        ca, cb, sc = _extract_pair_and_score(row)
+        ca, cb, _s = _extract_pair_and_score(row)
+        sc = _row_pressure_score(row, use_effective=use_effective_scores)
         if ca is None or cb is None or sc <= _EPS:
             continue
         aa = _resolve_area(ca, concept_to_area_family)

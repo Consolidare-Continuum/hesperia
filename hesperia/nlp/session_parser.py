@@ -262,6 +262,7 @@ def analyze_session(
     use_log1p_concept_scores: bool = False,
     evidence_volume_normalize: bool = False,
     contradictions: list[dict[str, Any]] | None = None,
+    uncertainty_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Полный пайплайн: текст сессии → токены → n-граммы → детекция маркеров (токены + фразы) → активация.
@@ -327,6 +328,7 @@ def analyze_session(
         psi_prev=psi_prev,
         apply_semantic_state=apply_semantic_state,
         contradictions=contradictions,
+        uncertainty_package=uncertainty_package,
     )
     activation["runtime_compat"] = {
         "normalize_scores_requested": bool(normalize_scores),

@@ -1,4 +1,4 @@
-# HESPERIA — Cross-plane contradiction package (deterministic, v0.5.8 task4).
+# HESPERIA — Cross-plane contradiction package (deterministic, v0.5.8 task4–5).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
 from __future__ import annotations
@@ -11,7 +11,7 @@ from hesperia.extensions.triz.contradiction_coupling import build_area_contradic
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 _EPS = 1e-15
-CROSSPLANE_VERSION = "tfp_v0_5_8_task4"
+CROSSPLANE_VERSION = "tfp_v0_5_8_task5"
 
 
 def _clamp01(x: float) -> float:
@@ -33,12 +33,45 @@ def _variance(xs: list[float]) -> float:
     return float(sum((x - m) ** 2 for x in xs)) / float(len(xs))
 
 
+def _mean_pair_confidence(rows: list[dict[str, Any]]) -> float:
+    vals = [float(r.get("confidence") or 0.0) for r in rows if isinstance(r, dict) and r.get("confidence") is not None]
+    return _mean(vals) if vals else 1.0
+
+
+def _confidences_distribution(rows: list[dict[str, Any]]) -> dict[str, float]:
+    vals = sorted(float(r.get("confidence") or 0.0) for r in rows if isinstance(r, dict))
+    if not vals:
+        return {"min": 0.0, "mean": 1.0, "max": 1.0}
+    return {"min": round(vals[0], 6), "mean": round(_mean(vals), 6), "max": round(vals[-1], 6)}
+
+
+def _lexical_semantic_split(
+    uncertainty_package: dict[str, Any] | None,
+    raw_load: float,
+    eff_load: float,
+    mean_conf: float,
+) -> dict[str, float]:
+    lex = float(uncertainty_package.get("lexical_uncertainty") or 0.0) if uncertainty_package else 0.0
+    conu = float(uncertainty_package.get("concept_uncertainty") or 0.0) if uncertainty_package else 0.0
+    gap = max(0.0, raw_load - eff_load)
+    likely_lex = _clamp01(0.45 * lex + 0.35 * gap + 0.2 * (1.0 - mean_conf))
+    likely_concept = _clamp01(0.55 * conu + 0.25 * (1.0 - mean_conf) + 0.2 * gap)
+    likely_sem = _clamp01(max(0.0, eff_load * (0.35 + 0.65 * mean_conf)))
+    s = likely_lex + likely_concept + likely_sem + _EPS
+    return {
+        "likely_lexical": round(likely_lex / s, 6),
+        "likely_conceptual_ambiguity": round(likely_concept / s, 6),
+        "likely_semantic_real": round(likely_sem / s, 6),
+    }
+
+
 def build_crossplane_contradiction_package(
     activation: dict[str, Any],
     topology: dict[str, Any] | None,
     contradictions: list[dict[str, Any]] | None,
     *,
     concept_to_area_family: dict[str, tuple[str, str]] | None = None,
+    uncertainty_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Single canonical contradiction signal for DLCR / sealed multiscale / product (04/05/06),
@@ -51,11 +84,15 @@ def build_crossplane_contradiction_package(
 
     rows = list(contradictions) if contradictions else []
     coupling_active = bool(activation.get("contradiction_coupling_active"))
-    pressure_act = activation.get("contradiction_pressure") or {}
-    area_pressure: dict[str, float] = {a: float(pressure_act.get(a, 0.0)) for a in area_ids}
+    rp_act = activation.get("contradiction_pressure_raw") or {}
+    ep_act = activation.get("contradiction_pressure") or {}
+    raw_area_pressure: dict[str, float] = {a: float(rp_act.get(a, 0.0)) for a in area_ids}
+    eff_area_pressure: dict[str, float] = {a: float(ep_act.get(a, 0.0)) for a in area_ids}
     if rows:
-        area_pressure = build_area_contradiction_pressure(rows, af, area_ids)
+        eff_area_pressure = build_area_contradiction_pressure(rows, af, area_ids, use_effective_scores=True)
+        raw_area_pressure = build_area_contradiction_pressure(rows, af, area_ids, use_effective_scores=False)
 
+    area_pressure = eff_area_pressure
     seg_loads_raw = topo.get("segment_contradiction_loads") or []
     segment_contradiction_loads: list[dict[str, Any]] = []
     for item in seg_loads_raw:
@@ -72,7 +109,12 @@ def build_crossplane_contradiction_package(
         g_fallback = _clamp01(max(area_pressure.values()) if area_pressure else 0.0)
         loads_norm = [g_fallback]
 
-    global_contradiction_load = _clamp01(_mean(loads_norm) if loads_norm else max(area_pressure.values()) if area_pressure else 0.0)
+    effective_contradiction_load = _clamp01(
+        _mean(loads_norm) if loads_norm else max(eff_area_pressure.values()) if eff_area_pressure else 0.0
+    )
+    raw_contradiction_load = _clamp01(
+        max(raw_area_pressure.values()) if raw_area_pressure else effective_contradiction_load
+    )
 
     cross_mass_sum = 0.0
     load_sum = 0.0
@@ -101,7 +143,7 @@ def build_crossplane_contradiction_package(
         1.0
         - min(
             1.0,
-            0.42 * mean_tp + 0.28 * min(1.0, var_l * 4.0) + 0.15 * escalation + 0.15 * global_contradiction_load,
+            0.42 * mean_tp + 0.28 * min(1.0, var_l * 4.0) + 0.15 * escalation + 0.15 * effective_contradiction_load,
         )
     )
 
@@ -116,15 +158,28 @@ def build_crossplane_contradiction_package(
     else:
         contradiction_coherence_flag = bool(coupling_active)
 
+    mean_conf = _mean_pair_confidence(rows)
+    lex_u = float(uncertainty_package.get("lexical_uncertainty") or 0.0) if uncertainty_package else 0.0
+    un_adj = _clamp01(effective_contradiction_load * mean_conf * (1.0 - 0.22 * lex_u))
+
+    split = _lexical_semantic_split(uncertainty_package, raw_contradiction_load, effective_contradiction_load, mean_conf)
+
     out: dict[str, Any] = {
         "crossplane_version": CROSSPLANE_VERSION,
-        "global_contradiction_load": round(global_contradiction_load, 6),
-        "area_contradiction_pressure": {k: round(float(v), 6) for k, v in sorted(area_pressure.items())},
+        "global_contradiction_load": round(effective_contradiction_load, 6),
+        "raw_contradiction_load": round(raw_contradiction_load, 6),
+        "effective_contradiction_load": round(effective_contradiction_load, 6),
+        "area_contradiction_pressure": {k: round(float(v), 6) for k, v in sorted(eff_area_pressure.items())},
+        "area_contradiction_pressure_raw": {k: round(float(v), 6) for k, v in sorted(raw_area_pressure.items())},
         "cross_area_contradiction_mass": round(float(cross_area_contradiction_mass), 6),
         "segment_contradiction_loads": segment_contradiction_loads,
         "transition_pressure": [round(float(x), 6) for x in transition_pressure],
         "contradiction_stability_index": round(contradiction_stability_index, 6),
         "contradiction_coherence_flag": bool(contradiction_coherence_flag),
-        "contradiction_coupling_active": bool(coupling_active or (rows and max(area_pressure.values(), default=0.0) > _EPS)),
+        "contradiction_coupling_active": bool(coupling_active or (rows and max(eff_area_pressure.values(), default=0.0) > _EPS)),
+        "contradiction_confidence_mean": round(mean_conf, 6),
+        "contradiction_confidence_distribution": _confidences_distribution(rows),
+        "uncertainty_adjusted_conflict_index": round(un_adj, 6),
+        "lexical_semantic_conflict_split": split,
     }
     return out

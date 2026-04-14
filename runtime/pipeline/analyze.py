@@ -46,6 +46,11 @@ def _product_contradiction_extensions(
     if not contradiction_package:
         return {}
     g = float(contradiction_package.get("global_contradiction_load") or 0.0)
+    raw_l = float(contradiction_package.get("raw_contradiction_load") or g)
+    eff_l = float(contradiction_package.get("effective_contradiction_load") or g)
+    mconf = float(contradiction_package.get("contradiction_confidence_mean") or 1.0)
+    split = contradiction_package.get("lexical_semantic_conflict_split") or {}
+    un_adj = float(contradiction_package.get("uncertainty_adjusted_conflict_index") or eff_l)
     coh_raw = None
     if isinstance(extended.get("dict_b"), dict):
         coh_raw = extended["dict_b"].get("coherence_index")
@@ -54,31 +59,47 @@ def _product_contradiction_extensions(
     except (TypeError, ValueError):
         coherence = 0.5
     gov = float(minimal.get("governance") if minimal.get("governance") is not None else minimal.get("constraint_status") or 0.0)
-    dominance_overstates = g > 0.42 and gov > 0.68 and coherence > 0.72
+    dominance_overstates = eff_l > 0.42 and gov > 0.68 and coherence > 0.72 and mconf > 0.45
     topo_ok = bool(contradiction_package.get("contradiction_coherence_flag"))
-    dlcr_ok = abs(g - gov) < 0.38 or (g > 0.22 and gov < 0.82)
-    consistency_score = max(0.0, min(1.0, 1.0 - 0.55 * max(0.0, g - coherence)))
+    dlcr_ok = abs(eff_l - gov) < 0.38 or (eff_l > 0.22 and gov < 0.82)
+    consistency_score = max(0.0, min(1.0, 1.0 - 0.55 * max(0.0, eff_l - coherence) * (0.55 + 0.45 * mconf)))
     product_conflict_consistency = {
         "dominance_overstates_coherence": bool(dominance_overstates),
         "topology_matches_conflict": bool(topo_ok),
         "dlcr_matches_conflict": bool(dlcr_ok),
         "consistency_score": round(consistency_score, 6),
     }
-    conflict_visible = g > 0.12
-    verdict_under = g > 0.48 and coherence > 0.74
+    conflict_visible = eff_l > 0.12
+    verdict_under = eff_l > 0.48 and coherence > 0.74 and mconf > 0.5
     verdict_conflict_alignment = {
         "conflict_visible_in_verdict": bool(conflict_visible),
         "verdict_underreports_conflict": bool(verdict_under),
     }
     product_stability = float(contradiction_package.get("contradiction_stability_index") or 0.0)
-    if g > 0.65 and product_stability < 0.35:
+    sem_rel = max(
+        0.0,
+        min(1.0, mconf * float(split.get("likely_semantic_real") or 0.5) + 0.15 * un_adj),
+    )
+    if raw_l > 0.58 and mconf < 0.42:
+        session_mode = "ambiguous_or_contaminated_contradiction"
+    elif eff_l > 0.65 and product_stability < 0.35 and mconf > 0.45:
         session_mode = "contradiction_heavy_unstable"
-    elif g > 0.55:
+    elif eff_l > 0.55 and mconf > 0.48:
         session_mode = "conflict_dominant"
-    elif g > 0.2:
+    elif eff_l > 0.2:
         session_mode = "conflict_bearing_interpretable"
     else:
         session_mode = "coherent"
+    conflict_confidence_summary = {
+        "raw_contradiction_load": round(raw_l, 6),
+        "effective_contradiction_load": round(eff_l, 6),
+        "mean_conflict_confidence": round(mconf, 6),
+    }
+    conflict_source_balance = {
+        "lexical_noise_component": round(float(split.get("likely_lexical") or 0.0), 6),
+        "concept_ambiguity_component": round(float(split.get("likely_conceptual_ambiguity") or 0.0), 6),
+        "semantic_conflict_component": round(float(split.get("likely_semantic_real") or 0.0), 6),
+    }
     return {
         "contradiction_summary": {
             "global_load": round(g, 6),
@@ -86,9 +107,13 @@ def _product_contradiction_extensions(
             "stability_index": round(product_stability, 6),
             "coupling_active": bool(contradiction_package.get("contradiction_coupling_active")),
         },
+        "conflict_confidence_summary": conflict_confidence_summary,
+        "uncertainty_adjusted_conflict_index": round(un_adj, 6),
+        "conflict_source_balance": conflict_source_balance,
+        "semantic_conflict_reliability": round(sem_rel, 6),
         "product_conflict_consistency": product_conflict_consistency,
         "verdict_conflict_alignment": verdict_conflict_alignment,
-        "product_stability_under_contradiction": round(max(0.0, min(1.0, product_stability * (1.0 - 0.35 * g))), 6),
+        "product_stability_under_contradiction": round(max(0.0, min(1.0, product_stability * (1.0 - 0.35 * eff_l))), 6),
         "session_contradiction_mode": session_mode,
     }
 
