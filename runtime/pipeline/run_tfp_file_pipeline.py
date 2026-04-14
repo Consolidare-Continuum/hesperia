@@ -28,6 +28,8 @@ Usage::
 
 **Gena all-in-one** (same pipeline + audit + schema validation + release gate): ``python3 tools/gena_tfp_bundle_run.py -i path/to/note.md``.
 
+**Output folder discipline:** This module requires ``--out-dir``. Wrappers choose different defaults (e.g. ``gena_tfp_bundle_run`` → ``outputs/tfp_gena_<stem>``, ``tfp_pipeline_standard_run`` → ``outputs/tfp_pipeline_run/<uuid>``). See repo root ``TFP_VALUES_LIST`` §0 (one bundle directory; avoid mixing paths across chats).
+
 Forces ``HESPERIA_DLCR_DOMAIN_PACK=tfp`` unless ``--no-dlcr-domain-pack``. Optional: ``HESPERIA_ANALYZE_DLCR_EVIDENCE=1`` for DLCR evidence inside ``analyze()``.
 """
 from __future__ import annotations

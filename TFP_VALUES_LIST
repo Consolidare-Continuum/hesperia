@@ -7,6 +7,33 @@ Canonical wiring: `runtime/pipeline/run_tfp_file_pipeline.py`, `tools/gena_tfp_b
 
 ---
 
+## 0. One bundle directory — not multiple “canons”
+
+**Rule:** For a given run, **exactly one directory** (`--out-dir`) holds the **whole** file-pipeline artifact set (`00`–`09`, optional `12_*`, sidecars). That directory is the **only** place to look for that run’s outputs. Do not assume two different tools wrote to the same path unless you passed the **same** `--out-dir` / `-o`.
+
+**Why chats get wasted:** Different CLIs use **different default output roots**. None of them is “more canonical” than another — they are different wrappers. If you compare runs across sessions without noting **which tool** and **which out path**, you will open the wrong folder.
+
+| Entrypoint | Default output directory (if you omit `-o` / `--out-dir`) |
+|------------|---------------------------------------------------------------|
+| `python3 tools/gena_tfp_bundle_run.py -i <file>` | `<repo>/outputs/tfp_gena_<input_stem>/` |
+| `python3 tools/tfp_pipeline_standard_run.py -i <file>` | `<repo>/outputs/tfp_pipeline_run/<uuid>/` (new UUID each run) |
+| `python3 -m runtime.pipeline.run_tfp_file_pipeline …` | **No default** — `--out-dir` is **required** |
+
+**Recommended operator habit:** Always set **explicit** `-o` / `--out-dir` (e.g. `outputs/my_experiment_name`) when you care about finding the bundle again, **or** standardize on **one** wrapper (typically `gena_tfp_bundle_run.py` when you want audit + schema + optional gold + gate in one shot) and memorize its default (`outputs/tfp_gena_<stem>`).
+
+**Input text (TFP file pipeline):** The engine sees **the file you pass** to `-i` / `--input` (plain text, `.md`, or `sessions[]` JSON). Pipeline forces `HESPERIA_DLCR_DOMAIN_PACK=tfp` unless `--no-dlcr-domain-pack` (see `00_manifest.json` → `flags`). There is no parallel “default sphere sentence” path for this CLI — your **input file is the session**.
+
+**What is not automatically in that same folder:**
+
+- **`10_` / `11_`** — Produced when you run **`gena_tfp_bundle_run`** post-steps (audit + gate), not by raw `run_tfp_file_pipeline` alone.
+- **`99_tfp_bundle_inspect.json`** — From **`tfp_pipeline_standard_run.py`** when `--inspect`, or inspection tooling on an existing bundle.
+- **API / one-shot sidecars** (`tfp_api_calibration_one_shot`, etc.) — Separate tool; separate `-o` directory unless you copy files yourself.
+- **E2E harness JSON** under repo `assets/artifacts/e2e/` (or similar) — **Different runners** (`run_e2e_all` and friends), not the file pipeline. Treat as **another product** unless a future consolidation tool copies or regenerates into your bundle (not part of baseline `run_tfp_file_pipeline` in this tree).
+
+**Consolidated “full dossier” artifacts** (e.g. `20_main_engine_full_context.json`, `21_hesperia_environment_snapshot.json`, optional `CONSOLIDATION_MANIFEST.json`, generated `e2e_snapshot/`) — when present in a bundle, they come from **additional** tools/commits layered on the file pipeline; they are **not** implied by `run_tfp_file_pipeline` alone. Check the Hesperia branch/tool that added them before assuming they exist in every checkout.
+
+---
+
 ## A. Gena file bundle — numbered JSON artifacts (`run_tfp_file_pipeline` → `--out-dir`)
 
 Each row: **artifact**, **contents**, **application**, **needs**, **calibration**.
@@ -149,6 +176,8 @@ Logical names and payloads:
 ---
 
 ## D. E2E artifacts (full stack runner) — TFP-tagged JSON
+
+These files are produced by **`run_e2e_all`** (and related harnesses), **not** by `run_tfp_file_pipeline`. They live under the E2E artifact layout for CI — **not** inside your file-pipeline `--out-dir` unless a separate step copies or regenerates them there (see §0).
 
 ### `run_output_e2e_tfp_smoke.json`
 
