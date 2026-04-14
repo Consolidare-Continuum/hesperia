@@ -30,6 +30,7 @@ keys/
 # Generated run trees (Task 2 — see GENERATED_ARTIFACT_POLICY.md)
 outputs/*
 !outputs/.gitkeep
+!outputs/README.md
 
 # Local release audit scratch (never commit)
 _release_tmp/

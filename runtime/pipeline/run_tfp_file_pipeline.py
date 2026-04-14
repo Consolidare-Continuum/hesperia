@@ -24,11 +24,12 @@ Run TFP-oriented pipelines on one or more session texts from a file.
 
 Usage::
 
-  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md --out-dir outputs/my_tfp_run
+  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md
+  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md --out-dir outputs/tfp/runs/my_named_run
 
 **Gena all-in-one** (same pipeline + audit + schema validation + release gate): ``python3 tools/gena_tfp_bundle_run.py -i path/to/note.md``.
 
-**Output folder discipline:** This module requires ``--out-dir``. Wrappers choose different defaults (e.g. ``gena_tfp_bundle_run`` → ``outputs/tfp_gena_<stem>``, ``tfp_pipeline_standard_run`` → ``outputs/tfp_pipeline_run/<uuid>``). See repo root ``TFP_VALUES_LIST`` §0 (one bundle directory; avoid mixing paths across chats).
+**Output folder discipline:** If ``--out-dir`` is omitted, defaults to ``outputs/tfp/runs/tfp_pipeline_run/<run_id>``. Wrappers: ``gena_tfp_bundle_run`` → ``outputs/tfp/runs/tfp_gena_<stem>``; ``tfp_pipeline_standard_run`` → ``outputs/tfp/runs/tfp_pipeline_run/<uuid>``. See repo root ``TFP_VALUES_LIST`` §0 and ``outputs/README.md``.
 
 Forces ``HESPERIA_DLCR_DOMAIN_PACK=tfp`` unless ``--no-dlcr-domain-pack``. Optional: ``HESPERIA_ANALYZE_DLCR_EVIDENCE=1`` for DLCR evidence inside ``analyze()``.
 """
@@ -1011,7 +1012,7 @@ def main() -> int:
         "-o",
         type=Path,
         default=None,
-        help="Output directory (default: outputs/tfp_pipeline_run/<run_id>)",
+        help="Output directory (default: outputs/tfp/runs/tfp_pipeline_run/<run_id>)",
     )
     ap.add_argument("--with-kme", action="store_true", help="Include KME clinical report per session (07_…)")
     ap.add_argument("--with-triz", action="store_true", help="Include TRIZ complete per session (08_…)")
@@ -1093,7 +1094,7 @@ def main() -> int:
     os.environ["HESPERIA_TFP_PIPELINE_RUN_ID"] = run_id
     out_dir = args.out_dir
     if out_dir is None:
-        out_dir = _REPO / "outputs" / "tfp_pipeline_run" / run_id
+        out_dir = _REPO / "outputs" / "tfp" / "runs" / "tfp_pipeline_run" / run_id
     out_dir = out_dir.resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 

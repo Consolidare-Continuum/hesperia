@@ -50,7 +50,7 @@ Ethan — TFP testing grounds: what must exist on disk vs optional DLCR plane (2
 
 ```bash
 python3 tools/gena_tfp_bundle_run.py -i path/to/transcript.md
-# default out: outputs/tfp_gena_<file_stem>/
+# default out: outputs/tfp/runs/tfp_gena_<file_stem>/
 # optional: -o outputs/my_run  --with-kme --with-triz --with-topology  --with-gold  --relax-discipline
 ```
 

@@ -9,7 +9,7 @@ Usage::
   python3 tools/gena_tfp_bundle_run.py -i tests/fixtures/clinical_tfp/tfp_ru_session_sample.md
   python3 tools/gena_tfp_bundle_run.py -i path/to/note.md -o outputs/my_named_run --with-kme --with-gold
 
-Default output directory: ``outputs/tfp_gena_<input_stem>/`` (override with ``-o``). Same repo also has ``tfp_pipeline_standard_run`` with a **different** default path — see ``TFP_VALUES_LIST`` §0.
+Default output directory: ``outputs/tfp/runs/tfp_gena_<input_stem>/`` (override with ``-o``). Same repo also has ``tfp_pipeline_standard_run`` with a **different** default path — see ``TFP_VALUES_LIST`` §0.
 
 Post-steps (unless ``--pipeline-only``): ``tfp_calibration_audit`` → ``validate_tfp_bundle_schemas`` →
 optional goldset (``--with-gold``) → ``calibration_release_gate`` (writes ``11_…``).
@@ -54,7 +54,7 @@ def main() -> int:
         "-o",
         type=Path,
         default=None,
-        help="Bundle directory (default: outputs/tfp_gena_<input_stem>)",
+        help="Bundle directory (default: outputs/tfp/runs/tfp_gena_<input_stem>)",
     )
     ap.add_argument("--pipeline-only", action="store_true", help="Only run run_tfp_file_pipeline")
     ap.add_argument("--with-gold", action="store_true", help="Run tests/gold/tfp_calibration_goldset_v1.json (pinned session)")
@@ -102,7 +102,7 @@ def main() -> int:
     stem = inp.stem or "session"
     out_dir = args.out_dir
     if out_dir is None:
-        out_dir = REPO / "outputs" / f"tfp_gena_{stem}"
+        out_dir = REPO / "outputs" / "tfp" / "runs" / f"tfp_gena_{stem}"
     out_dir = out_dir.resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 

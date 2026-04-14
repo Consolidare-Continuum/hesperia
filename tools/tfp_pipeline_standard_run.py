@@ -167,7 +167,7 @@ def main() -> int:
     os.environ["HESPERIA_TFP_PIPELINE_RUN_ID"] = run_id
     out_dir = args.out_dir
     if out_dir is None:
-        out_dir = REPO / "outputs" / "tfp_pipeline_run" / run_id
+        out_dir = REPO / "outputs" / "tfp" / "runs" / "tfp_pipeline_run" / run_id
     out_dir = out_dir.resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
