@@ -16,8 +16,15 @@ tfp_v1/corpus/sessions/*
 !tfp_v1/corpus/sessions/.gitkeep
 !tfp_v1/corpus/normalized/
 tfp_v1/corpus/normalized/*
-tfp_v1/dict_a/
-tfp_v1/dict_b/
+# dict_a / dict_b: commit skeleton dirs for CI (tests/test_tfp_v1_data_layout.py); ignore JSONL payloads
+!tfp_v1/dict_a/
+tfp_v1/dict_a/*
+!tfp_v1/dict_a/runtime/
+tfp_v1/dict_a/runtime/*
+!tfp_v1/dict_a/runtime/.gitkeep
+!tfp_v1/dict_b/
+tfp_v1/dict_b/*
+!tfp_v1/dict_b/.gitkeep
 tfp_v1/MANIFEST.yaml
 tfp_v1/MIGRATION_LOG.jsonl
 tfp_v1/nlp/*
