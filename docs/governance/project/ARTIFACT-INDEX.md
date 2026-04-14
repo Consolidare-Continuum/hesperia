@@ -20,6 +20,7 @@ See LEGAL_NOTICE.md for full terms.
 | RISK-REGISTER.md | Grace/Daniel/Ethan | Risks; response; owner. |
 | SECURITY-BASELINE.md | Daniel | Critical definition; release bar. |
 | RELEASE-CHECKLIST.md | Grace (when ready) | Lead sign-off; Daniel; You. |
+| HESPERIA-v0.5.8-CONTRADICTION-TASKS-01-11-REGISTER.md | Grace | Registered closure summary for contradiction Tasks 1–11 (v0.5.8). |
 | ARTIFACT-INDEX.md | Grace | This file. |
 | SCOPE-AND-SYNC.md | Grace | Sync and scope rules: docs/scripting only; exclude syzif book .md; no semantic layer yet. |
 | (Others as needed) | — | BACKEND-TEST-REPORT, RELEASE-NOTICE, etc. |
