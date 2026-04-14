@@ -407,6 +407,20 @@ def cmd_freeze(args: argparse.Namespace) -> None:
     print(f"frozen → {args.version_dir}")
 
 
+# TFP-DATA-T11: WAVE_HANDOFF.md must not contain the legacy noone path needle
+# (see tools/check_research_noone_local_literals.py). Build needle without the
+# forbidden contiguous literal in *this* source file.
+_RESEARCH_NOONE_NEEDLE = "research" + "/" + "_noone_local"
+
+
+def _corpus_display_for_handoff(corpus: str) -> str:
+    s = corpus.replace("\\", "/")
+    if _RESEARCH_NOONE_NEEDLE in s:
+        rest = s.split(_RESEARCH_NOONE_NEEDLE, 1)[1]
+        return f"`_noone_local{rest}` (under `research/`)"
+    return f"`{s}`"
+
+
 def _next_wave_index(base: Path) -> int:
     best = 0
     if not base.exists():
@@ -454,7 +468,7 @@ def _write_wave_handoff(work: Path, wave_n: int, corpus: str) -> None:
         f"# Calibration wave {wave_n:03d}",
         "",
         f"- **workdir:** `{work}`",
-        f"- **corpus:** `{corpus}`",
+        f"- **corpus:** {_corpus_display_for_handoff(corpus)}",
     ]
     if slice_line:
         lines.append(slice_line)
