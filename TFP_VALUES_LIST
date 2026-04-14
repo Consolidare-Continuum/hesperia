@@ -21,6 +21,8 @@ Canonical wiring: `runtime/pipeline/run_tfp_file_pipeline.py`, `tools/gena_tfp_b
 
 **On-disk layout under `outputs/` (see `outputs/README.md`):** TFP-named runs and smoke dirs live under **`outputs/tfp/`** — `tfp/runs/` (bundles, calibration passes, session experiments), `tfp/smoke/` (wiring / triz smoke), `tfp/tool/` (e.g. API one-shot). Symlinks at `outputs/latest_tfp_calibration_run` and `outputs/prev_tfp_calibration_run` point into `tfp/runs/`. Other top-level dirs (`benchmarks/`, `dict_calibration/`, `e2e/`, `reports/`, …) stay for non–file-pipeline harnesses.
 
+**Operator narrative fixture (tracked):** `tests/fixtures/tfp/input.txt` — long-form Russian clinical-style session text for TFP runs; do not relocate or overwrite without updating this line and any tooling that references it.
+
 **Recommended operator habit:** Use defaults under `outputs/tfp/runs/` or set **explicit** `-o` (e.g. `outputs/tfp/runs/my_experiment`) when you need a stable name. Standardize on **one** wrapper (`gena_tfp_bundle_run.py` for audit + schema + optional gold + gate) when comparing runs.
 
 **Input text (TFP file pipeline):** The engine sees **the file you pass** to `-i` / `--input` (plain text, `.md`, or `sessions[]` JSON). Pipeline forces `HESPERIA_DLCR_DOMAIN_PACK=tfp` unless `--no-dlcr-domain-pack` (see `00_manifest.json` → `flags`). There is no parallel “default sphere sentence” path for this CLI — your **input file is the session**.
