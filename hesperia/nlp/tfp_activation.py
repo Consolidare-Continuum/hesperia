@@ -22,6 +22,13 @@ from hesperia.extensions.triz.contradiction_negation import (
     build_concept_inhibition_summary,
     build_negation_activation_summary,
 )
+from hesperia.extensions.triz.family_contradiction import (
+    build_family_contradiction_matrix,
+    build_family_contradiction_pressure,
+    compute_family_bridge_conflict,
+    compute_family_fragmentation,
+    family_conflict_concentration,
+)
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
@@ -108,6 +115,16 @@ def _aggregate_concepts(
         families[fkey] = families.get(fkey, 0.0) + float(weight)
         areas[area] = areas.get(area, 0.0) + float(weight)
     return families, areas
+
+
+def _areas_from_families(families: dict[str, float], area_ids: list[str]) -> dict[str, float]:
+    out: dict[str, float] = {str(a): 0.0 for a in area_ids}
+    for fkey, value in families.items():
+        parts = str(fkey).split("_", 1)
+        area = parts[0] if parts else ""
+        if area in out:
+            out[area] += float(value)
+    return out
 
 
 def _apply_hex_feedback(
@@ -199,6 +216,7 @@ def build_invariant_tfp_activation(
         hex_smoothing_alpha=float(calibration.get("hex_smoothing_alpha") or 0.0),
     )
     families_post_hex, areas_raw = _aggregate_concepts(concepts_post_hex, af)
+    family_scores_pre_contradiction = dict(families_post_hex)
     inh_scale = float(calibration.get("inhibition_scale") or 1.0)
     base_matrix = list(inhibition_payload.get("matrix") or [])
 
@@ -232,7 +250,15 @@ def build_invariant_tfp_activation(
             concept_weights_stabilized=stabilized_pre_hex,
             hex_feedback_delta=hex_delta,
             lexical_negation_summary=lexical_negation_summary,
+            concept_to_area_family=af,
         )
+        fam_pressure = build_family_contradiction_pressure(enriched, af)
+        fam_effective = fam_pressure.get("effective") or {}
+        family_scores_post_contradiction: dict[str, float] = {}
+        for fam, val in family_scores_pre_contradiction.items():
+            p = min(1.0, max(0.0, float(fam_effective.get(str(fam), 0.0))))
+            family_scores_post_contradiction[str(fam)] = max(0.0, float(val) * (1.0 - p))
+        areas_raw = _areas_from_families(family_scores_post_contradiction, list(AREA_IDS))
         used_rows = count_contradiction_rows_used(enriched, af, AREA_IDS)
         pressure_map_raw = build_area_contradiction_pressure(
             enriched, af, AREA_IDS, use_effective_scores=False
@@ -264,6 +290,9 @@ def build_invariant_tfp_activation(
             matrix=base_matrix,
             inhibition_scale=inh_scale,
         )
+        fam_pressure = {"raw": {}, "effective": {}}
+        family_scores_post_contradiction = dict(family_scores_pre_contradiction)
+        enriched = []
 
     coupling_effective = bool(use_contradiction_coupling and used_rows > 0)
     areas_final = _softmax_area_vector(
@@ -280,7 +309,7 @@ def build_invariant_tfp_activation(
 
     activation: dict[str, Any] = {
         "concepts": _round_sparse(concepts_post_hex),
-        "families": _round_sparse(families_post_hex),
+        "families": _round_sparse(family_scores_post_contradiction),
         "areas": _round_probability_vector(areas_final),
         "areas_raw": _round_sparse(areas_raw, include_zero=True),
         "areas_inhibited": _round_sparse(areas_inhibited, include_zero=True),
@@ -288,6 +317,8 @@ def build_invariant_tfp_activation(
         "areas_pre_hex": _round_sparse(areas_pre_hex, include_zero=True),
         "families_pre_hex": _round_sparse(families_pre_hex),
         "families_post_hex": _round_sparse(families_post_hex),
+        "family_scores_pre_contradiction": _round_sparse(family_scores_pre_contradiction, include_zero=True),
+        "family_scores_post_contradiction": _round_sparse(family_scores_post_contradiction, include_zero=True),
         "concept_weights_raw": _round_sparse(raw_concepts),
         "concept_weights_stabilized": _round_sparse(stabilized_pre_hex),
         "concept_weights_post_hex": _round_sparse(concepts_post_hex),
@@ -295,6 +326,14 @@ def build_invariant_tfp_activation(
         "hex_activation_raw": _round_sparse(hex_raw),
         "hex_activation_post": _round_sparse(hex_post),
         "contradiction_pressure": _round_sparse(pressure_map, include_zero=True),
+        "family_contradiction_pressure_raw": _round_sparse(
+            {str(k): float(v) for k, v in (fam_pressure.get("raw") or {}).items()},
+            include_zero=True,
+        ),
+        "family_contradiction_pressure_effective": _round_sparse(
+            {str(k): float(v) for k, v in (fam_pressure.get("effective") or {}).items()},
+            include_zero=True,
+        ),
         "areas_pressure_adjusted": _round_sparse(areas_pressure_adjusted, include_zero=True),
         "dynamic_inhibition_delta": [
             [round(float(dynamic_delta_out[i][j]), 6) for j in range(len(AREA_IDS))]
@@ -306,6 +345,8 @@ def build_invariant_tfp_activation(
         ],
         "contradiction_coupling_active": coupling_effective,
         "contradiction_count_used": int(used_rows),
+        "family_contradiction_matrix": build_family_contradiction_matrix(enriched, af),
+        "family_fragmentation_summary": {},
         "negation_activation_summary": neg_act_summary,
         "concept_inhibition_summary": inh_summary,
         "invariant_activation": {
@@ -348,6 +389,20 @@ def build_invariant_tfp_activation(
             [round(float(dynamic_delta_raw[i][j]), 6) for j in range(len(AREA_IDS))]
             for i in range(len(AREA_IDS))
         ]
+        family_to_area = {f"{str(v[0])}_{str(v[1])}": str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
+        frag = compute_family_fragmentation(
+            {str(k): float(v) for k, v in (fam_pressure.get("effective") or {}).items()},
+            family_scores_post_contradiction,
+            family_to_area,
+        )
+        bridge = compute_family_bridge_conflict(activation["family_contradiction_matrix"], family_to_area)
+        activation["family_fragmentation_summary"] = {
+            **frag,
+            **bridge,
+            "family_conflict_concentration": family_conflict_concentration(
+                {str(k): float(v) for k, v in (fam_pressure.get("effective") or {}).items()}
+            ),
+        }
     if uncertainty_package:
         activation["contradiction_uncertainty_package"] = dict(uncertainty_package)
 

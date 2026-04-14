@@ -124,6 +124,7 @@ def enrich_contradiction_rows(
     concept_weights_stabilized: dict[str, float] | None = None,
     hex_feedback_delta: dict[str, float] | None = None,
     lexical_negation_summary: dict[str, Any] | None = None,
+    concept_to_area_family: dict[str, tuple[str, str]] | None = None,
 ) -> list[dict[str, Any]]:
     """
     Attach ``confidence``, ``effective_score`` (activation-side), mode, and dual effective scores.
@@ -153,6 +154,15 @@ def enrich_contradiction_rows(
         r = dict(row)
         ca, cb, raw_score = _extract_pair_and_score(r)
         r["raw_contradiction_score"] = float(raw_score)
+        if concept_to_area_family:
+            afa = concept_to_area_family.get(str(ca or ""))
+            afb = concept_to_area_family.get(str(cb or ""))
+            family_a = str(afa[1]) if afa else ""
+            family_b = str(afb[1]) if afb else ""
+            r["family_a"] = family_a
+            r["family_b"] = family_b
+            r["same_family_conflict"] = bool(family_a and family_b and family_a == family_b)
+            r["cross_family_conflict"] = bool(family_a and family_b and family_a != family_b)
         if ca is None or cb is None or raw_score <= _EPS:
             r["confidence"] = 0.0
             r["effective_score"] = 0.0

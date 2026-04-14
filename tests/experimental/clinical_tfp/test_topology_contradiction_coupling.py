@@ -75,6 +75,9 @@ def test_run_session_topology_changes_curves_with_contradictions() -> None:
     assert base["area_curves_stable"] != with_c["area_curves_stable"]
     assert with_c["transition_pressure"]
     assert len(with_c["transition_pressure"]) == len(with_c["segments"]) - 1
+    assert len(with_c["segment_family_contradiction_pressure"]) == len(with_c["segments"])
+    assert len(with_c["segment_family_fragmentation"]) == len(with_c["segments"])
+    assert len(with_c["segment_dominant_conflict_families"]) == len(with_c["segments"])
     cpm = with_c["curve_projection_meta"]
     assert cpm.get("contradiction_coupling_active") is True
     assert "contradiction_summary" in cpm

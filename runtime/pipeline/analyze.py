@@ -119,6 +119,29 @@ def _product_contradiction_extensions(
             6,
         ),
     }
+    fam_frag = contradiction_package.get("family_fragmentation_summary") or {}
+    fam_conc = float(contradiction_package.get("family_conflict_concentration") or 0.0)
+    fam_dom = list(contradiction_package.get("dominant_conflict_families") or [])
+    family_conflict_summary = {
+        "global_family_fragmentation": round(float(fam_frag.get("global_family_fragmentation") or 0.0), 6),
+        "dominant_conflict_families": fam_dom,
+        "family_conflict_concentration": round(fam_conc, 6),
+    }
+    family_vs_area_conflict_alignment = {
+        "family_conflict_hidden_by_area_smoothing": bool(
+            float(fam_frag.get("global_family_fragmentation") or 0.0) > 0.35 and eff_l < 0.25
+        ),
+        "alignment_score": round(
+            max(
+                0.0,
+                min(
+                    1.0,
+                    1.0 - abs(float(fam_frag.get("global_family_fragmentation") or 0.0) - eff_l),
+                ),
+            ),
+            6,
+        ),
+    }
     return {
         "contradiction_summary": {
             "global_load": round(g, 6),
@@ -137,6 +160,9 @@ def _product_contradiction_extensions(
         "conflict_mode_summary": conflict_mode_summary,
         "latent_vs_overt_conflict": latent_vs_overt_conflict,
         "negation_inhibition_conflict_alignment": negation_inhibition_conflict_alignment,
+        "family_conflict_summary": family_conflict_summary,
+        "family_fragmentation_visibility": bool(family_conflict_summary["global_family_fragmentation"] > 0.08),
+        "family_vs_area_conflict_alignment": family_vs_area_conflict_alignment,
     }
 
 

@@ -97,6 +97,10 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         dlr_neg = row04.get("negation_summary") if isinstance(row04.get("negation_summary"), dict) else {}
         neg_mark = float(dlr_neg.get("negated_marker_ratio") or 0.0)
         lvo = ext.get("latent_vs_overt_conflict") or {}
+        fam_frag = cpkg.get("family_fragmentation_summary") or {}
+        fam_global = float(fam_frag.get("global_family_fragmentation") or 0.0)
+        fam_conc = float(cpkg.get("family_conflict_concentration") or 0.0)
+        fam_bridge = float(cpkg.get("family_cross_area_bridge_mass") or 0.0)
         negation_conflict_misalignment = bool(
             eff_l > 0.42 and neg_mark > 0.32 and float(neg_ms.get("negated_opposition_share") or 0.0) < 0.08
         )
@@ -112,11 +116,21 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             and float(lvo.get("overt_conflict_load") or 0.0) < 0.18
             and float(lvo.get("latent_conflict_load") or 0.0) < 0.12
         )
+        family_fragmentation_hidden = bool(fam_global > 0.4 and eff_l < 0.22 and mode == "coherent")
+        family_conflict_underreported = bool(fam_global > 0.35 and not under and mode == "coherent")
+        cross_area_bridge_underreported = bool(fam_bridge > 0.3 and g_topo < 0.2 and mode == "coherent")
+        concentrated_family_conflict_omitted = bool(fam_conc > 0.6 and not cpkg.get("dominant_conflict_families"))
+        family_matrix_collapse = bool((cpkg.get("family_contradiction_pressure") or {}) and fam_global <= 0.01)
+        family_area_alignment_score = max(0.0, min(1.0, 1.0 - abs(fam_global - eff_l)))
         conflict_mode_consistency = bool(
             not negation_conflict_misalignment
             and not latent_conflict_underreported
             and not coactive_conflict_overclaimed
             and not suppressed_conflict_disappearance
+            and not family_conflict_underreported
+            and not family_fragmentation_hidden
+            and not cross_area_bridge_underreported
+            and not family_matrix_collapse
         )
         crossplane_ok = not (
             product_underreports_conflict
@@ -127,6 +141,11 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             or latent_conflict_underreported
             or coactive_conflict_overclaimed
             or suppressed_conflict_disappearance
+            or family_conflict_underreported
+            or family_fragmentation_hidden
+            or cross_area_bridge_underreported
+            or concentrated_family_conflict_omitted
+            or family_matrix_collapse
         )
         per_session.append(
             {
@@ -158,6 +177,12 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
                 "coactive_conflict_overclaimed": coactive_conflict_overclaimed,
                 "suppressed_conflict_disappearance": suppressed_conflict_disappearance,
                 "conflict_mode_consistency": conflict_mode_consistency,
+                "family_conflict_underreported": family_conflict_underreported,
+                "family_fragmentation_hidden": family_fragmentation_hidden,
+                "cross_area_bridge_underreported": cross_area_bridge_underreported,
+                "concentrated_family_conflict_omitted": concentrated_family_conflict_omitted,
+                "family_matrix_collapse": family_matrix_collapse,
+                "family_area_alignment_score": round(family_area_alignment_score, 6),
             }
         )
 

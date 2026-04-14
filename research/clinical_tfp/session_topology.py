@@ -75,6 +75,8 @@ def analyze_session_segments(
                 "families": r.get("families", {}),
                 "families_pre_hex": r.get("families_pre_hex", {}),
                 "families_post_hex": r.get("families_post_hex", {}),
+                "family_contradiction_pressure_effective": r.get("family_contradiction_pressure_effective", {}),
+                "family_fragmentation_summary": r.get("family_fragmentation_summary", {}),
                 "concepts": r.get("concepts", {}),
                 "concept_weights_raw": r.get("concept_weights_raw", {}),
                 "concept_weights_post_hex": r.get("concept_weights_post_hex", {}),
@@ -414,6 +416,22 @@ def run_session_topology(
         segment_momentum_factors=segment_momentum_factors,
     )
     area_curves_raw = build_area_curves(segment_results)
+    segment_family_contradiction_pressure = [
+        row.get("family_contradiction_pressure_effective", {}) if isinstance(row, dict) else {}
+        for row in segment_results_for_curves
+    ]
+    segment_family_fragmentation = [
+        float(((row.get("family_fragmentation_summary") or {}).get("global_family_fragmentation") or 0.0))
+        if isinstance(row, dict)
+        else 0.0
+        for row in segment_results_for_curves
+    ]
+    segment_dominant_conflict_families = [
+        list(((row.get("family_fragmentation_summary") or {}).get("dominant_conflict_families") or []))
+        if isinstance(row, dict)
+        else []
+        for row in segment_results_for_curves
+    ]
     out: dict[str, Any] = {
         "segments": segment_results,
         "segments_contradiction_adjusted": segment_results_for_curves,
@@ -425,6 +443,9 @@ def run_session_topology(
         "area_curves_raw": area_curves_raw,
         "area_curves_stable": area_curves_stable,
         "area_curves_contradiction_adjusted": area_curves_contradiction_adjusted,
+        "segment_family_contradiction_pressure": segment_family_contradiction_pressure,
+        "segment_family_fragmentation": segment_family_fragmentation,
+        "segment_dominant_conflict_families": segment_dominant_conflict_families,
         "aggression_curve": area_curves_stable["aggression"],
         "aggression_curve_raw": area_curves_raw["aggression"],
         "state_sequence": build_session_state_sequence(stable_segments),

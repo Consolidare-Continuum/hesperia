@@ -12,6 +12,13 @@ from hesperia.extensions.triz.contradiction_negation import (
     build_contradiction_mode_summary,
     crossplane_negation_inhibition_components,
 )
+from hesperia.extensions.triz.family_contradiction import (
+    build_family_contradiction_matrix,
+    build_family_contradiction_pressure,
+    compute_family_bridge_conflict,
+    compute_family_fragmentation,
+    family_conflict_concentration,
+)
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 _EPS = 1e-15
@@ -202,6 +209,25 @@ def build_crossplane_contradiction_package(
     latent_conflict_load = _clamp01(_mean(lat_vals) if lat_vals else activation_conflict_load)
     contradiction_mode_summary = build_contradiction_mode_summary(rows)
     neg_comp, inh_comp = crossplane_negation_inhibition_components(rows)
+    family_pressure = activation.get("family_contradiction_pressure_effective")
+    if not isinstance(family_pressure, dict):
+        family_pressure = build_family_contradiction_pressure(rows, af).get("effective") or {}
+    family_matrix = activation.get("family_contradiction_matrix")
+    if not isinstance(family_matrix, dict):
+        family_matrix = build_family_contradiction_matrix(rows, af)
+    family_to_area = {f"{str(v[0])}_{str(v[1])}": str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
+    family_fragment = activation.get("family_fragmentation_summary")
+    if not isinstance(family_fragment, dict) or not family_fragment:
+        family_fragment = compute_family_fragmentation(
+            {str(k): float(v) for k, v in family_pressure.items()},
+            activation.get("family_scores_post_contradiction") if isinstance(activation.get("family_scores_post_contradiction"), dict) else activation.get("families") if isinstance(activation.get("families"), dict) else {},
+            family_to_area,
+        )
+        family_fragment.update(compute_family_bridge_conflict(family_matrix, family_to_area))
+    family_bridge = compute_family_bridge_conflict(family_matrix, family_to_area)
+    family_concentration = family_conflict_concentration(
+        {str(k): float(v) for k, v in family_pressure.items()}
+    )
 
     out: dict[str, Any] = {
         "crossplane_version": CROSSPLANE_VERSION,
@@ -225,5 +251,11 @@ def build_crossplane_contradiction_package(
         "contradiction_mode_summary": contradiction_mode_summary,
         "negation_conflict_component": round(neg_comp, 6),
         "inhibition_conflict_component": round(inh_comp, 6),
+        "family_contradiction_pressure": {k: round(float(v), 6) for k, v in sorted(family_pressure.items())},
+        "family_conflict_concentration": round(family_concentration, 6),
+        "family_fragmentation_summary": family_fragment,
+        "family_cross_area_bridge_mass": round(float(family_bridge.get("family_cross_area_bridge_mass") or 0.0), 6),
+        "family_intra_area_conflict_mass": round(float(family_bridge.get("family_intra_area_conflict_mass") or 0.0), 6),
+        "dominant_conflict_families": list(family_fragment.get("dominant_conflict_families") or []),
     }
     return out
