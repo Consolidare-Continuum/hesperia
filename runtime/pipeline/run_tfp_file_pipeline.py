@@ -143,6 +143,21 @@ def _load_contradictions(bundle_dir: Path, session_id: str) -> tuple[list[dict[s
     return [], "none"
 
 
+def _contradiction_rows_from_triz_session(triz_row: dict[str, Any] | None) -> list[dict[str, Any]]:
+    """In-memory TRIZ session row (same shape as ``08_triz_complete.json`` session entries)."""
+    if not triz_row or triz_row.get("_error"):
+        return []
+    tc = triz_row.get("triz_complete")
+    if not isinstance(tc, dict):
+        return []
+    inner = tc.get("triz_complete")
+    if isinstance(inner, dict) and isinstance(inner.get("contradictions"), list):
+        return [x for x in inner["contradictions"] if isinstance(x, dict)]
+    if isinstance(tc.get("contradictions"), list):
+        return [x for x in tc["contradictions"] if isinstance(x, dict)]
+    return []
+
+
 def _build_activation_with_bundle_contradictions(
     *,
     session_id: str,
@@ -458,7 +473,24 @@ def run_pipeline(
 
         if with_topology:
             try:
-                full = run_session_topology(t, **topo_params)
+                triz_row_for_sid = next(
+                    (
+                        r
+                        for r in session_triz
+                        if str(r.get("session_id")) == sid and not r.get("_error")
+                    ),
+                    None,
+                )
+                contra_rows: list[dict[str, Any]] = []
+                if with_triz:
+                    contra_rows = _contradiction_rows_from_triz_session(triz_row_for_sid)
+                if not contra_rows:
+                    contra_rows, _ = _load_contradictions(out_dir, sid)
+                full = run_session_topology(
+                    t,
+                    contradictions=contra_rows if contra_rows else None,
+                    **topo_params,
+                )
                 segs = full.get("segments") or []
                 if len(segs) > 12:
                     full = {

@@ -17,13 +17,21 @@ from hesperia.engine.tfp_signal_calibration import (
     DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS,
     load_tfp_signal_calibration,
 )
-from hesperia.nlp.session_parser import analyze_session, normalize_tokens, tokenize_text
+from hesperia.extensions.triz.topology_contradiction_coupling import (
+    apply_contradiction_to_segment_areas,
+    build_contradiction_coupling_summary,
+    compute_segment_contradiction_loads,
+    compute_transition_pressure,
+    segment_momentum_factors_from_loads,
+)
 from research.clinical_tfp.interpretation import DEFENSE_MAP, detect_defense_pattern
 
 
 def segment_session(text: str, window_size: int = 80) -> list[str]:
     if not text or not isinstance(text, str) or window_size < 1:
         return []
+    from hesperia.nlp.session_parser import normalize_tokens, tokenize_text
+
     tokens = tokenize_text(text)
     normalized = normalize_tokens(tokens)
     if not normalized:
@@ -43,6 +51,8 @@ def analyze_session_segments(
     normalize_scores: bool = True,
     **analyze_kwargs: Any,
 ) -> list[dict[str, Any]]:
+    from hesperia.nlp.session_parser import analyze_session
+
     segments = segment_session(text, window_size=window_size)
     results: list[dict[str, Any]] = []
     for seg in segments:
@@ -185,12 +195,18 @@ def apply_temporal_momentum(
     *,
     alpha1: float,
     alpha2: float,
+    segment_momentum_factors: list[float] | None = None,
 ) -> list[dict[str, Any]]:
     if not segment_results:
         return []
     area_ids = list(load_tfp_signal_calibration().get("area_ids") or [])
     stable_rows: list[dict[str, Any]] = []
     for idx, row in enumerate(segment_results):
+        factor = 1.0
+        if segment_momentum_factors is not None and idx < len(segment_momentum_factors):
+            factor = max(0.0, min(1.0, float(segment_momentum_factors[idx])))
+        a1 = float(alpha1) * factor
+        a2 = float(alpha2) * factor
         current = {aid: float((row.get("areas") or {}).get(aid, 0.0)) for aid in area_ids}
         prior_1 = stable_rows[idx - 1]["areas"] if idx >= 1 else {aid: 0.0 for aid in area_ids}
         prior_2 = stable_rows[idx - 2]["areas"] if idx >= 2 else {aid: 0.0 for aid in area_ids}
@@ -198,8 +214,8 @@ def apply_temporal_momentum(
             aid: max(
                 0.0,
                 current.get(aid, 0.0)
-                + float(alpha1) * float(prior_1.get(aid, 0.0))
-                + float(alpha2) * float(prior_2.get(aid, 0.0)),
+                + a1 * float(prior_1.get(aid, 0.0))
+                + a2 * float(prior_2.get(aid, 0.0)),
             )
             for aid in area_ids
         }
@@ -220,7 +236,8 @@ def postprocess_area_curves(
     session_center_curves: bool = True,
     include_dominance_confidence: bool = True,
     temporal_momentum: dict[str, float] | None = None,
-) -> tuple[dict[str, list[float]], dict[str, Any], dict[str, list[float]]]:
+    segment_momentum_factors: list[float] | None = None,
+) -> tuple[dict[str, list[float]], dict[str, Any], dict[str, list[float]], list[dict[str, Any]]]:
     mapping = curve_map or AREA_CURVE_MAP
     cfg = load_tfp_signal_calibration()
     tm = temporal_momentum or dict(cfg.get("temporal_momentum") or {})
@@ -228,6 +245,7 @@ def postprocess_area_curves(
         segment_results,
         alpha1=float(tm.get("alpha1") or 0.0),
         alpha2=float(tm.get("alpha2") or 0.0),
+        segment_momentum_factors=segment_momentum_factors,
     )
     raw_curves = build_area_curves(segment_results, curve_map=mapping)
     stable_curves = build_area_curves(stable_segments, curve_map=mapping)
@@ -259,8 +277,9 @@ def postprocess_area_curves(
             "alpha2": float(tm.get("alpha2") or 0.0),
         },
         "area_curves_raw": raw_curves,
+        "stable_segments": stable_segments,
     }
-    return stable_curves, meta, rel
+    return stable_curves, meta, rel, stable_segments
 
 
 def _dominant_area(areas: dict[str, float]) -> str:
@@ -314,6 +333,7 @@ def run_session_topology(
     phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None = None,
     normalize_scores: bool = True,
     *,
+    contradictions: list[dict[str, Any]] | None = None,
     area_competition: str = "softmax",
     softmax_temperature: float = 1.0,
     curve_smooth_alpha: float | None = None,
@@ -328,6 +348,14 @@ def run_session_topology(
 ) -> dict[str, Any]:
     cfg = load_tfp_signal_calibration()
     tm = dict(cfg.get("temporal_momentum") or {})
+    area_ids = [str(x) for x in (cfg.get("area_ids") or [])]
+    if concept_to_area_family is not None:
+        af = concept_to_area_family
+    else:
+        from hesperia.ontology.dictB.loader import build_concept_to_area_family
+
+        af = build_concept_to_area_family()
+
     segment_results = analyze_session_segments(
         text,
         window_size=window_size,
@@ -341,29 +369,62 @@ def run_session_topology(
         per_concept_score_cap=per_concept_score_cap,
         use_log1p_concept_scores=use_log1p_concept_scores,
         evidence_volume_normalize=evidence_volume_normalize,
+        contradictions=contradictions,
     )
-    stable_segments = apply_temporal_momentum(
-        segment_results,
-        alpha1=float(tm.get("alpha1") or 0.0),
-        alpha2=float(tm.get("alpha2") or 0.0),
+
+    segment_contradiction_loads: list[dict[str, Any]] = []
+    transition_pressure: list[float] = []
+    segment_results_for_curves = segment_results
+    segment_momentum_factors: list[float] | None = None
+    contradiction_coupling_active = False
+    contradiction_summary: dict[str, Any] = {}
+
+    if contradictions:
+        segment_contradiction_loads = compute_segment_contradiction_loads(
+            segment_results,
+            contradictions,
+            af,
+            area_ids,
+        )
+        transition_pressure = compute_transition_pressure(segment_contradiction_loads, area_ids)
+        segment_results_for_curves, contradiction_coupling_active = apply_contradiction_to_segment_areas(
+            segment_results,
+            segment_contradiction_loads,
+            area_ids,
+        )
+        segment_momentum_factors = segment_momentum_factors_from_loads(segment_contradiction_loads)
+        contradiction_summary = build_contradiction_coupling_summary(
+            segment_contradiction_loads,
+            transition_pressure,
+            contradiction_coupling_active,
+        )
+
+    area_curves_contradiction_adjusted = (
+        build_area_curves(segment_results_for_curves) if contradictions else {}
     )
-    area_curves_stable, cmeta, rel = postprocess_area_curves(
-        segment_results,
+
+    area_curves_stable, cmeta, rel, stable_segments = postprocess_area_curves(
+        segment_results_for_curves,
         area_competition=area_competition,
         softmax_temperature=softmax_temperature,
         smooth_alpha=curve_smooth_alpha,
         session_center_curves=bool(curve_session_center),
         include_dominance_confidence=True,
         temporal_momentum=tm,
+        segment_momentum_factors=segment_momentum_factors,
     )
     area_curves_raw = build_area_curves(segment_results)
     out: dict[str, Any] = {
         "segments": segment_results,
+        "segments_contradiction_adjusted": segment_results_for_curves,
+        "segment_contradiction_loads": segment_contradiction_loads,
+        "transition_pressure": transition_pressure,
         "segments_stable": stable_segments,
         "transitions": detect_state_transitions(stable_segments),
         "area_curves": area_curves_stable,
         "area_curves_raw": area_curves_raw,
         "area_curves_stable": area_curves_stable,
+        "area_curves_contradiction_adjusted": area_curves_contradiction_adjusted,
         "aggression_curve": area_curves_stable["aggression"],
         "aggression_curve_raw": area_curves_raw["aggression"],
         "state_sequence": build_session_state_sequence(stable_segments),
@@ -372,6 +433,13 @@ def run_session_topology(
     if curve_session_center and rel:
         out["area_curves_session_relative"] = rel
     if include_curve_projection_meta:
+        cmeta = dict(cmeta)
+        cmeta["contradiction_coupling_active"] = bool(contradictions and contradiction_coupling_active)
+        cmeta["contradiction_coupling"] = {
+            "version": "tfp_v0_5_8_task3",
+            "contradiction_rows_supplied": len(contradictions or []),
+        }
+        cmeta["contradiction_summary"] = contradiction_summary if contradictions else {}
         out["curve_projection_meta"] = {
             **cmeta,
             "calibration_reference_bands": dict(CURVE_CALIBRATION_REFERENCE),
@@ -407,7 +475,8 @@ def run_session_topology(
             },
             "note": (
                 "area_curves_raw are audit-only outputs from raw segment activations; "
-                "area_curves and state_sequence use momentum-stabilized segment areas."
+                "area_curves and state_sequence use momentum-stabilized segment areas "
+                "(contradiction-adjusted when contradiction rows are supplied)."
             ),
         }
     return out
