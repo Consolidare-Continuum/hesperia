@@ -34,6 +34,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.layers` — **1**
 - `core.lexical.analysis_input` — **1**
 - `core.lexical.cooccurrence` — **1**
+- `core.lexical.matcher` — **1**
 - `core.lexical.policy` — **1**
 - `core.math.io_deterministic_json` — **1**
 - `core.output.result_builder` — **1**
@@ -125,7 +126,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `numpy` — **19**
 - `os` — **7**
 - `pathlib` — **25**
-- `re` — **2**
+- `re` — **3**
 - `runtime.shipping.schema_guard` — **1**
 - `scipy.sparse` — **3**
 - `sphere.topology` — **1**
@@ -717,6 +718,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `json`
 - `math`
 - `os`
+- `re`
 - `yaml`
 
 **from**
@@ -731,6 +733,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.hexmap.analytics`
 - `core.hexmap.topology`
 - `core.lexical.cooccurrence`
+- `core.lexical.matcher`
 - `core.lexical.policy`
 - `core.output.result_builder`
 - `core.pipeline.dynamics`
