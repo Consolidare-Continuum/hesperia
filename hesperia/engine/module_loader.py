@@ -5,11 +5,11 @@ from __future__ import annotations
 import importlib
 from typing import Any
 
-from hesperia.modules.registry import ALIASES
+from hesperia.engine.module_aliases import MODULE_ALIASES
 
 
 def resolve_module_path(path_or_alias: str) -> str:
-    return ALIASES.get(path_or_alias, path_or_alias)
+    return MODULE_ALIASES.get(path_or_alias, path_or_alias)
 
 
 def load_module(path_or_alias: str) -> Any:
