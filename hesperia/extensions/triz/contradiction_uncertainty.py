@@ -83,4 +83,9 @@ def build_uncertainty_package(
     }
     if lex_neg:
         out["lexical_negation_summary"] = dict(lex_neg)
+    out["calibration_pathology_prior"] = round(
+        _clamp01(0.5 * lexical_uncertainty + 0.5 * concept_uncertainty),
+        6,
+    )
+    out["runtime_conflict_prior"] = round(_clamp01(1.0 - float(out["calibration_pathology_prior"])), 6)
     return out

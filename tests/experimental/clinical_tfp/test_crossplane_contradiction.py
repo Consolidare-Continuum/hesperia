@@ -65,6 +65,12 @@ def test_crossplane_package_required_fields() -> None:
         "family_cross_area_bridge_mass",
         "family_intra_area_conflict_mass",
         "dominant_conflict_families",
+        "calibration_contradiction_risk",
+        "runtime_vs_calibration_conflict_split",
+        "feedback_summary",
+        "top_risky_concepts",
+        "top_risky_pairs",
+        "top_risky_tokens",
     ):
         assert k in pkg
     assert 0.0 <= float(pkg["global_contradiction_load"]) <= 1.0
@@ -207,3 +213,43 @@ def test_inspector_flags_underreporting(tmp_path: Path) -> None:
     report = inspect_bundle(d)
     assert report["sessions"]
     assert any(s.get("product_underreports_conflict") for s in report["sessions"])
+
+
+def test_inspector_flags_feedback_trace_missing(tmp_path: Path) -> None:
+    from tools.inspect_tfp_bundle_output import inspect_bundle
+
+    d = tmp_path / "bundle2"
+    d.mkdir()
+    sid = "s2"
+    (d / "04_dlcr_full.json").write_text(
+        json.dumps(
+            {
+                "sessions": [
+                    {
+                        "session_id": sid,
+                        "contradiction_load": 0.6,
+                        "crossplane_contradiction_package": {
+                            "effective_contradiction_load": 0.6,
+                            "raw_contradiction_load": 0.8,
+                            "contradiction_confidence_mean": 0.35,
+                            "runtime_vs_calibration_conflict_split": {
+                                "likely_runtime_real": 0.2,
+                                "likely_calibration_pathology": 0.8,
+                            },
+                        },
+                        "dlcr_contradiction_alignment": {"spread_vs_contradiction_consistent": True},
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+    (d / "05_sealed_multiscale.json").write_text(json.dumps({"sessions": [{"session_id": sid}]}), encoding="utf-8")
+    (d / "06_product_analyze.json").write_text(
+        json.dumps({"sessions": [{"session_id": sid, "extended": {"session_contradiction_mode": "conflict_dominant"}}]}),
+        encoding="utf-8",
+    )
+    (d / "09_session_topology.json").write_text(json.dumps({"sessions": [{"session_id": sid, "session_topology": {}}]}), encoding="utf-8")
+    report = inspect_bundle(d)
+    s = report["sessions"][0]
+    assert s.get("feedback_trace_missing") is True

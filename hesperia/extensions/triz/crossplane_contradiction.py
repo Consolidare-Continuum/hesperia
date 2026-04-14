@@ -19,6 +19,7 @@ from hesperia.extensions.triz.family_contradiction import (
     compute_family_fragmentation,
     family_conflict_concentration,
 )
+from hesperia.extensions.triz.contradiction_feedback import build_contradiction_feedback_signals
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 _EPS = 1e-15
@@ -215,7 +216,7 @@ def build_crossplane_contradiction_package(
     family_matrix = activation.get("family_contradiction_matrix")
     if not isinstance(family_matrix, dict):
         family_matrix = build_family_contradiction_matrix(rows, af)
-    family_to_area = {f"{str(v[0])}_{str(v[1])}": str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
+    family_to_area = {str(v[1]): str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
     family_fragment = activation.get("family_fragmentation_summary")
     if not isinstance(family_fragment, dict) or not family_fragment:
         family_fragment = compute_family_fragmentation(
@@ -228,6 +229,15 @@ def build_crossplane_contradiction_package(
     family_concentration = family_conflict_concentration(
         {str(k): float(v) for k, v in family_pressure.items()}
     )
+    feedback = build_contradiction_feedback_signals(
+        contradiction_rows=rows,
+        uncertainty_package=uncertainty_package,
+        activation=activation,
+        lexical_output=None,
+        top_k=20,
+    )
+    gfb = feedback.get("global_feedback_summary") or {}
+    runtime_split = gfb.get("runtime_vs_calibration_conflict_split") or {}
 
     out: dict[str, Any] = {
         "crossplane_version": CROSSPLANE_VERSION,
@@ -257,5 +267,19 @@ def build_crossplane_contradiction_package(
         "family_cross_area_bridge_mass": round(float(family_bridge.get("family_cross_area_bridge_mass") or 0.0), 6),
         "family_intra_area_conflict_mass": round(float(family_bridge.get("family_intra_area_conflict_mass") or 0.0), 6),
         "dominant_conflict_families": list(family_fragment.get("dominant_conflict_families") or []),
+        "calibration_contradiction_risk": round(float(gfb.get("calibration_contradiction_risk") or 0.0), 6),
+        "runtime_vs_calibration_conflict_split": {
+            "likely_runtime_real": round(float(runtime_split.get("likely_runtime_real") or 0.0), 6),
+            "likely_calibration_pathology": round(float(runtime_split.get("likely_calibration_pathology") or 0.0), 6),
+        },
+        "feedback_summary": {
+            "high_risk_token_share": round(float(gfb.get("high_risk_token_share") or 0.0), 6),
+            "high_risk_concept_share": round(float(gfb.get("high_risk_concept_share") or 0.0), 6),
+            "high_risk_pair_share": round(float(gfb.get("high_risk_pair_share") or 0.0), 6),
+        },
+        "top_risky_concepts": list((feedback.get("concept_feedback") or {}).get("top_risky_concepts") or []),
+        "top_risky_pairs": list((feedback.get("pair_feedback") or {}).get("top_risky_pairs") or []),
+        "top_risky_tokens": list((feedback.get("lexical_feedback") or {}).get("top_risky_tokens") or []),
+        "top_risky_families": list((feedback.get("family_feedback") or {}).get("top_risky_families") or []),
     }
     return out

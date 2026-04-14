@@ -16,6 +16,8 @@ def test_build_uncertainty_package_minimal() -> None:
     pkg = build_uncertainty_package({}, {})
     assert "lexical_uncertainty" in pkg
     assert 0.0 <= float(pkg["lexical_uncertainty"]) <= 1.0
+    assert "calibration_pathology_prior" in pkg
+    assert "runtime_conflict_prior" in pkg
 
 
 def test_effective_score_lower_when_weak_support() -> None:

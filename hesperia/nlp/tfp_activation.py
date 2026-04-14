@@ -284,6 +284,19 @@ def build_invariant_tfp_activation(
         areas_inhibited = coupled["areas_inhibited"]
         inhibition_matrix_dynamic = coupled["inhibition_matrix_dynamic"]
         dynamic_delta_out = coupled["dynamic_inhibition_delta"]
+        concept_participation: dict[str, int] = {}
+        family_participation: dict[str, int] = {}
+        for row in enriched:
+            pair = row.get("pair")
+            if isinstance(pair, (list, tuple)) and len(pair) >= 2:
+                for c in (str(pair[0]), str(pair[1])):
+                    concept_participation[c] = concept_participation.get(c, 0) + 1
+            fa = str(row.get("family_a") or "")
+            fb = str(row.get("family_b") or "")
+            if fa:
+                family_participation[fa] = family_participation.get(fa, 0) + 1
+            if fb:
+                family_participation[fb] = family_participation.get(fb, 0) + 1
     else:
         areas_inhibited = _apply_area_inhibition(
             areas_raw,
@@ -293,6 +306,8 @@ def build_invariant_tfp_activation(
         fam_pressure = {"raw": {}, "effective": {}}
         family_scores_post_contradiction = dict(family_scores_pre_contradiction)
         enriched = []
+        concept_participation = {}
+        family_participation = {}
 
     coupling_effective = bool(use_contradiction_coupling and used_rows > 0)
     areas_final = _softmax_area_vector(
@@ -347,6 +362,12 @@ def build_invariant_tfp_activation(
         "contradiction_count_used": int(used_rows),
         "family_contradiction_matrix": build_family_contradiction_matrix(enriched, af),
         "family_fragmentation_summary": {},
+        "concept_contradiction_participation_counts": {
+            k: int(concept_participation[k]) for k in sorted(concept_participation)
+        },
+        "family_contradiction_participation_counts": {
+            k: int(family_participation[k]) for k in sorted(family_participation)
+        },
         "negation_activation_summary": neg_act_summary,
         "concept_inhibition_summary": inh_summary,
         "invariant_activation": {
@@ -389,7 +410,7 @@ def build_invariant_tfp_activation(
             [round(float(dynamic_delta_raw[i][j]), 6) for j in range(len(AREA_IDS))]
             for i in range(len(AREA_IDS))
         ]
-        family_to_area = {f"{str(v[0])}_{str(v[1])}": str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
+        family_to_area = {str(v[1]): str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
         frag = compute_family_fragmentation(
             {str(k): float(v) for k, v in (fam_pressure.get("effective") or {}).items()},
             family_scores_post_contradiction,

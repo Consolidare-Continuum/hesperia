@@ -142,6 +142,11 @@ def _product_contradiction_extensions(
             6,
         ),
     }
+    split = contradiction_package.get("runtime_vs_calibration_conflict_split") or {}
+    conflict_origin_summary = {
+        "likely_runtime_real": round(float(split.get("likely_runtime_real") or 0.0), 6),
+        "likely_calibration_pathology": round(float(split.get("likely_calibration_pathology") or 0.0), 6),
+    }
     return {
         "contradiction_summary": {
             "global_load": round(g, 6),
@@ -163,6 +168,8 @@ def _product_contradiction_extensions(
         "family_conflict_summary": family_conflict_summary,
         "family_fragmentation_visibility": bool(family_conflict_summary["global_family_fragmentation"] > 0.08),
         "family_vs_area_conflict_alignment": family_vs_area_conflict_alignment,
+        "conflict_origin_summary": conflict_origin_summary,
+        "runtime_vs_calibration_conflict_split": conflict_origin_summary,
     }
 
 

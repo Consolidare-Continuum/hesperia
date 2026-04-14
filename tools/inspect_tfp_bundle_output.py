@@ -101,6 +101,16 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         fam_global = float(fam_frag.get("global_family_fragmentation") or 0.0)
         fam_conc = float(cpkg.get("family_conflict_concentration") or 0.0)
         fam_bridge = float(cpkg.get("family_cross_area_bridge_mass") or 0.0)
+        runtime_split = cpkg.get("runtime_vs_calibration_conflict_split") or {}
+        likely_cal = float(runtime_split.get("likely_calibration_pathology") or 0.0)
+        likely_run = float(runtime_split.get("likely_runtime_real") or 0.0)
+        top_pairs = cpkg.get("top_risky_pairs") if isinstance(cpkg.get("top_risky_pairs"), list) else []
+        persistent_low_conflict_confidence_pairs = [
+            p
+            for p in top_pairs
+            if float((p or {}).get("effective_conflict") or 0.0) < 0.35
+            and float((p or {}).get("pair_recurrence") or 0.0) > 0.5
+        ]
         negation_conflict_misalignment = bool(
             eff_l > 0.42 and neg_mark > 0.32 and float(neg_ms.get("negated_opposition_share") or 0.0) < 0.08
         )
@@ -121,6 +131,20 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         cross_area_bridge_underreported = bool(fam_bridge > 0.3 and g_topo < 0.2 and mode == "coherent")
         concentrated_family_conflict_omitted = bool(fam_conc > 0.6 and not cpkg.get("dominant_conflict_families"))
         family_matrix_collapse = bool((cpkg.get("family_contradiction_pressure") or {}) and fam_global <= 0.01)
+        calibration_pathology_masquerading_runtime = bool(
+            raw_l > 0.45 and mconf < 0.45 and likely_cal > 0.45 and mode in {"conflict_dominant", "conflict_bearing_interpretable"}
+        )
+        feedback_trace_missing = bool(
+            (eff_l > 0.35 or fam_global > 0.35)
+            and not cpkg.get("feedback_summary")
+            and not cpkg.get("top_risky_concepts")
+            and not cpkg.get("top_risky_pairs")
+        )
+        recommended_calibration_action = (
+            "review_fuzzy_links_alias_routes_and_ambiguous_bridges"
+            if feedback_trace_missing or calibration_pathology_masquerading_runtime or family_conflict_underreported
+            else "none"
+        )
         family_area_alignment_score = max(0.0, min(1.0, 1.0 - abs(fam_global - eff_l)))
         conflict_mode_consistency = bool(
             not negation_conflict_misalignment
@@ -131,6 +155,8 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             and not family_fragmentation_hidden
             and not cross_area_bridge_underreported
             and not family_matrix_collapse
+            and not calibration_pathology_masquerading_runtime
+            and not feedback_trace_missing
         )
         crossplane_ok = not (
             product_underreports_conflict
@@ -146,6 +172,8 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             or cross_area_bridge_underreported
             or concentrated_family_conflict_omitted
             or family_matrix_collapse
+            or calibration_pathology_masquerading_runtime
+            or feedback_trace_missing
         )
         per_session.append(
             {
@@ -183,6 +211,15 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
                 "concentrated_family_conflict_omitted": concentrated_family_conflict_omitted,
                 "family_matrix_collapse": family_matrix_collapse,
                 "family_area_alignment_score": round(family_area_alignment_score, 6),
+                "calibration_contradiction_risk": round(likely_cal, 6),
+                "likely_runtime_vs_calibration_split": {
+                    "likely_runtime_real": round(likely_run, 6),
+                    "likely_calibration_pathology": round(likely_cal, 6),
+                },
+                "persistent_low_conflict_confidence_pairs": persistent_low_conflict_confidence_pairs,
+                "feedback_trace_missing": feedback_trace_missing,
+                "calibration_pathology_masquerading_runtime": calibration_pathology_masquerading_runtime,
+                "recommended_calibration_action": recommended_calibration_action,
             }
         )
 

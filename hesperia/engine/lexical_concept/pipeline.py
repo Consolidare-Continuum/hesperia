@@ -429,6 +429,29 @@ def apply_crossplane_contradiction_fields_to_dlcr_result(
         traj if isinstance(traj, dict) else {},
         g,
     )
+    fb = pkg.get("feedback_summary") if isinstance(pkg.get("feedback_summary"), dict) else {}
+    tok = pkg.get("top_risky_tokens")
+    if not isinstance(tok, list):
+        tok = []
+    ctop = pkg.get("top_risky_concepts")
+    if not isinstance(ctop, list):
+        ctop = []
+    result["lexical_calibration_feedback"] = {
+        "top_risky_tokens": list(tok[:20]),
+        "mean_lexical_calibration_risk": round(
+            sum(float(x.get("calibration_risk") or 0.0) for x in tok[:20]) / max(1, len(tok[:20])),
+            6,
+        ),
+        "high_risk_token_share": round(float(fb.get("high_risk_token_share") or 0.0), 6),
+    }
+    result["concept_calibration_feedback"] = {
+        "top_risky_concepts": list(ctop[:20]),
+        "mean_concept_calibration_risk": round(
+            sum(float(x.get("calibration_risk") or 0.0) for x in ctop[:20]) / max(1, len(ctop[:20])),
+            6,
+        ),
+        "high_risk_concept_share": round(float(fb.get("high_risk_concept_share") or 0.0), 6),
+    }
     return result
 
 
