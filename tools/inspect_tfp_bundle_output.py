@@ -11,12 +11,20 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from hesperia.extensions.triz.contradiction_calibration import (
+    calibration_payload_sha256,
+    get_default_contradiction_calibration,
+    load_contradiction_calibration,
+    validate_contradiction_calibration,
+)
 from hesperia.extensions.triz.contradiction_contract import validate_contradiction_contract
 from hesperia.extensions.triz.conflict_release_gating import (
     build_conflict_release_summary,
     build_release_conflict_gates,
     evaluate_conflict_integrity,
 )
+
+_REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 def _load(path: Path) -> dict[str, Any] | None:
@@ -26,6 +34,56 @@ def _load(path: Path) -> dict[str, Any] | None:
         return json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return None
+
+
+def _resolve_calibration_profile(
+    bundle_dir: Path,
+    d20: dict[str, Any] | None,
+    manifest: dict[str, Any] | None,
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    """
+    Returns ``(profile, audit)`` where audit contains inspector calibration visibility flags.
+    """
+    _ = bundle_dir
+    snap = (d20 or {}).get("contradiction_calibration_snapshot") if isinstance(d20, dict) else None
+    audit: dict[str, Any] = {
+        "contradiction_calibration_valid": False,
+        "missing_contradiction_calibration_sections": [],
+        "invalid_contradiction_calibration_values": [],
+        "contradiction_calibration_trace_visible": False,
+        "calibration_profile_mismatch": False,
+    }
+
+    profile = get_default_contradiction_calibration()
+    if isinstance(snap, dict):
+        audit["contradiction_calibration_trace_visible"] = bool(snap.get("sha256") and snap.get("path"))
+        path_hint = snap.get("path")
+        exp_sha = str(snap.get("sha256") or "")
+        if path_hint:
+            candidate = Path(str(path_hint))
+            if not candidate.is_file():
+                candidate = _REPO_ROOT / str(path_hint).lstrip("/")
+            if candidate.is_file():
+                try:
+                    profile = load_contradiction_calibration(candidate)
+                    if exp_sha and calibration_payload_sha256(profile) != exp_sha:
+                        audit["calibration_profile_mismatch"] = True
+                except (OSError, ValueError, TypeError) as exc:
+                    audit["invalid_contradiction_calibration_values"].append(str(exc))
+            else:
+                audit["missing_contradiction_calibration_sections"].append(str(path_hint))
+
+    val = validate_contradiction_calibration(profile)
+    audit["contradiction_calibration_valid"] = bool(val["ok"])
+    if not val["ok"]:
+        audit["invalid_contradiction_calibration_values"].extend(list(val["errors"]))
+
+    if isinstance(manifest, dict) and manifest.get("contradiction_calibration_snapshot"):
+        m_snap = manifest["contradiction_calibration_snapshot"]
+        if isinstance(m_snap, dict) and isinstance(snap, dict) and m_snap.get("sha256") != snap.get("sha256"):
+            audit["calibration_profile_mismatch"] = True
+
+    return profile, audit
 
 
 def _session_map(blob: dict[str, Any] | None) -> dict[str, dict[str, Any]]:
@@ -47,6 +105,7 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
     d06 = _load(bundle_dir / "06_product_analyze.json")
     d09 = _load(bundle_dir / "09_session_topology.json")
     d20 = _load(bundle_dir / "20_main_engine_full_context.json")
+    d00 = _load(bundle_dir / "00_manifest.json")
 
     m04 = _session_map(d04)
     m05 = _session_map(d05)
@@ -269,7 +328,8 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         )
 
     overall = all(s.get("crossplane_contradiction_consistency") for s in per_session) if per_session else True
-    integrity = evaluate_conflict_integrity(session_flag_rows)
+    cal_profile, cal_audit = _resolve_calibration_profile(bundle_dir, d20, d00)
+    integrity = evaluate_conflict_integrity(session_flag_rows, contradiction_calibration=cal_profile)
     summary = build_conflict_release_summary(integrity)
     contract = validate_contradiction_contract(
         {
@@ -314,6 +374,7 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         "contract_missing_required_artifacts": contract["missing_required_artifacts"],
         "contract_recommended_action": contract_recommended_action,
         "sessions": per_session,
+        **cal_audit,
     }
 
 

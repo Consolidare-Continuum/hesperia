@@ -164,6 +164,7 @@ def _build_activation_with_bundle_contradictions(
     text: str,
     bundle_dir: Path,
     embedding: dict[str, Any] | None,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     from hesperia.nlp.session_parser import analyze_session
 
@@ -172,6 +173,7 @@ def _build_activation_with_bundle_contradictions(
         text,
         embedding=embedding or None,
         contradictions=contradictions if contradictions else None,
+        contradiction_calibration=contradiction_calibration,
     )
     used = int((activation.get("contradiction_count_used") or 0))
     coupling_active = bool(activation.get("contradiction_coupling_active"))
@@ -252,6 +254,7 @@ def run_pipeline(
     dlcr_mode: str,
     skip_triz_activation: bool = False,
     topology_run_params: dict[str, Any] | None = None,
+    contradiction_calibration_path: Path | None = None,
 ) -> dict[str, Any]:
     from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
     from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
@@ -276,6 +279,13 @@ def run_pipeline(
         DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS,
         run_session_topology,
     )
+    from hesperia.extensions.triz.contradiction_calibration import (
+        build_calibration_snapshot,
+        build_calibration_usage_trace,
+        default_calibration_path,
+        get_default_contradiction_calibration,
+        load_contradiction_calibration,
+    )
 
     tfp_runtime = load_tfp_runtime_bundle()
     tfp_calibration = dict(tfp_runtime["calibration"])
@@ -290,6 +300,23 @@ def run_pipeline(
 
     written: dict[str, str] = {}
     errors: list[str] = []
+
+    contradiction_calibration_resolved_path: str | None = None
+    try:
+        if contradiction_calibration_path is not None:
+            pcal = Path(contradiction_calibration_path).resolve()
+            contradiction_calibration = load_contradiction_calibration(pcal)
+            contradiction_calibration_resolved_path = str(pcal)
+        else:
+            dp = default_calibration_path()
+            if dp.is_file():
+                contradiction_calibration = load_contradiction_calibration(dp)
+                contradiction_calibration_resolved_path = str(dp)
+            else:
+                contradiction_calibration = get_default_contradiction_calibration()
+    except (OSError, ValueError, TypeError) as exc:
+        contradiction_calibration = get_default_contradiction_calibration()
+        errors.append(f"contradiction_calibration_load:{exc}")
     triz_activation_paths: dict[str, dict[str, str]] = {}
     triz_activation_critical = False
 
@@ -466,6 +493,7 @@ def run_pipeline(
             concept_weights_stabilized=stab_plain if isinstance(stab_plain, dict) else None,
             hex_feedback_delta=hex_plain if isinstance(hex_plain, dict) else None,
             lexical_negation_summary=lexical_neg_summary,
+            contradiction_calibration=contradiction_calibration,
         )
 
         if with_topology:
@@ -473,6 +501,7 @@ def run_pipeline(
                 full = run_session_topology(
                     t,
                     contradictions=ce if ce else None,
+                    contradiction_calibration=contradiction_calibration,
                     **topo_params,
                 )
                 segs = full.get("segments") or []
@@ -497,6 +526,7 @@ def run_pipeline(
                 contradictions=ce if ce else None,
                 uncertainty_package=unc,
                 lexical_negation_summary=lexical_neg_summary,
+                contradiction_calibration=contradiction_calibration,
             )
             topo_full: dict[str, Any] = {}
             for tp in session_topo:
@@ -508,6 +538,7 @@ def run_pipeline(
                 topology=topo_full,
                 contradictions=ce if ce else None,
                 uncertainty_package=unc,
+                contradiction_calibration=contradiction_calibration,
             )
             crossplane_by_session[str(sid)] = _round_floats(dict(contradiction_package))
         except Exception as ex:  # noqa: BLE001
@@ -773,6 +804,7 @@ def run_pipeline(
                 text=t,
                 bundle_dir=out_dir,
                 embedding=embedding or None,
+                contradiction_calibration=contradiction_calibration,
             )
             cp = crossplane_by_session.get(str(sid))
             if cp is not None:
@@ -837,6 +869,12 @@ def run_pipeline(
             "status": "pending_inspection",
             "inspection_artifact": "99_tfp_bundle_inspect.json",
         },
+        "contradiction_calibration_snapshot": build_calibration_snapshot(
+            contradiction_calibration,
+            source_path=contradiction_calibration_resolved_path
+            or "assets/data/engine_dynamics_v060/tfp/contradiction_calibration_v1.json",
+        ),
+        "contradiction_calibration_usage": build_calibration_usage_trace(contradiction_calibration),
         "operational_envelope": default_operational_envelope(),
     }
     pre_contract = validate_contradiction_contract(
@@ -933,6 +971,11 @@ def run_pipeline(
             "deprecated_fields_found": contract_summary["deprecated_fields_found"],
             "authority_conflicts": contract_summary["authority_conflicts"],
         },
+        "contradiction_calibration_snapshot": build_calibration_snapshot(
+            contradiction_calibration,
+            source_path=contradiction_calibration_resolved_path
+            or "assets/data/engine_dynamics_v060/tfp/contradiction_calibration_v1.json",
+        ),
         "triz_activation": triz_activation_paths,
         "errors": errors,
         "operational_envelope": manifest_operational_envelope,
@@ -1003,6 +1046,12 @@ def main() -> int:
         default=None,
         help="Optional JSON object merged over DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS for run_session_topology",
     )
+    ap.add_argument(
+        "--contradiction-calibration-json",
+        type=Path,
+        default=None,
+        help="Optional contradiction calibration profile JSON (default: assets/.../contradiction_calibration_v1.json)",
+    )
     args = ap.parse_args()
 
     inp = args.input.resolve()
@@ -1062,6 +1111,7 @@ def main() -> int:
         dlcr_mode=args.dlcr_mode,
         skip_triz_activation=args.skip_triz_activation,
         topology_run_params=topology_run_params,
+        contradiction_calibration_path=args.contradiction_calibration_json,
     )
 
     print(f"tfp_file_pipeline_ok wrote {len(summary['paths'])} files under {out_dir}", file=sys.stderr)

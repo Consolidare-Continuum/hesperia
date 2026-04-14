@@ -16,6 +16,14 @@ _EPS = 1e-15
 CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
 
 
+def _smooth_pressure_accum(x: float, compression: float) -> float:
+    """Sublinear dampening of large accumulated pressure when ``compression`` > 1."""
+    k = float(compression)
+    if k <= 1.0 + _EPS:
+        return float(x)
+    return float(x) ** (1.0 / min(max(k, 1.000001), 10.0))
+
+
 def _extract_pair_and_score(row: dict[str, Any]) -> tuple[str | None, str | None, float]:
     """Parse contradiction row: ``pair`` or ``concept_a``/``concept_b``; score keys in fixed order."""
     ca: str | None = None
@@ -102,18 +110,29 @@ def pair_confidence(
     cb: str,
     uncertainty_package: dict[str, Any] | None,
     concept_weights: dict[str, float] | None,
+    *,
+    uncertainty_cal: dict[str, Any] | None = None,
 ) -> float:
     """Trust in a contradiction pair given lexical/concept uncertainty (not suppression by keyword)."""
+    uc = uncertainty_cal or {}
+    sens = float(uc.get("confidence_sensitivity", 1.0))
+    floor = max(0.0, float(uc.get("confidence_floor", 0.0)))
+    fuzz_inf = float(uc.get("fuzzy_penalty_influence", 1.0))
+    amb_inf = float(uc.get("ambiguity_penalty_influence", 1.0))
+
     if uncertainty_package is None:
-        return 1.0
+        return max(floor, min(1.0, 1.0))
     lex_u = float(uncertainty_package.get("lexical_uncertainty") or 0.0)
     con_u = float(uncertainty_package.get("concept_uncertainty") or 0.0)
-    base = max(0.1, min(1.0, 1.0 - 0.46 * lex_u - 0.46 * con_u))
+    base = max(0.1, min(1.0, 1.0 - sens * (0.46 * lex_u + 0.46 * con_u)))
+    fuzzy = float(uncertainty_package.get("fuzzy_link_ratio") or 0.0)
+    amb = float(uncertainty_package.get("ambiguous_concept_share") or 0.0)
+    base = max(0.06, base * max(0.05, 1.0 - 0.22 * fuzz_inf * fuzzy - 0.18 * amb_inf * amb))
     cw = concept_weights or {}
     sa = concept_support_strength(ca, cw)
     sb = concept_support_strength(cb, cw)
     geom = math.sqrt(max(_EPS, sa) * max(_EPS, sb))
-    return max(0.06, min(1.0, base * geom))
+    return max(floor, max(0.06, min(1.0, base * geom)))
 
 
 def enrich_contradiction_rows(
@@ -125,6 +144,7 @@ def enrich_contradiction_rows(
     hex_feedback_delta: dict[str, float] | None = None,
     lexical_negation_summary: dict[str, Any] | None = None,
     concept_to_area_family: dict[str, tuple[str, str]] | None = None,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     """
     Attach ``confidence``, ``effective_score`` (activation-side), mode, and dual effective scores.
@@ -133,6 +153,9 @@ def enrich_contradiction_rows(
     """
     if not rows:
         return []
+    cal = contradiction_calibration or {}
+    unc_cal = dict(cal.get("uncertainty") or {})
+    neg_cal = dict(cal.get("negation_inhibition") or {})
     cw = concept_weights or {}
     stab = concept_weights_stabilized if concept_weights_stabilized is not None else cw
     hd = hex_feedback_delta if isinstance(hex_feedback_delta, dict) else {}
@@ -174,7 +197,7 @@ def enrich_contradiction_rows(
             r["coactivation_factor"] = 0.0
             out.append(r)
             continue
-        conf = pair_confidence(str(ca), str(cb), uncertainty_package, cw)
+        conf = pair_confidence(str(ca), str(cb), uncertainty_package, cw, uncertainty_cal=unc_cal)
         r["confidence"] = round(conf, 6)
         if not neg_b and not inh_b:
             eff = float(raw_score) * conf
@@ -209,6 +232,7 @@ def enrich_contradiction_rows(
             float(r["negation_factor"]),
             float(r["inhibition_factor"]),
             float(r["coactivation_factor"]),
+            mode_weights=neg_cal,
         )
         r["effective_activation_score"] = round(eff_act, 6)
         r["effective_latent_conflict_score"] = round(eff_lat, 6)
@@ -241,12 +265,18 @@ def build_area_contradiction_pressure(
     *,
     use_effective_scores: bool = True,
     use_latent_scores: bool = False,
+    activation_cal: dict[str, Any] | None = None,
 ) -> dict[str, float]:
-    """Per-area pressure in [0, 1], max-normalized. Activation field unless ``use_latent_scores``."""
+    """Per-area pressure in [0, 1], max- or sum-normalized. Activation field unless ``use_latent_scores``."""
     accum = {a: 0.0 for a in area_ids}
     valid_areas = set(area_ids)
     if not contradictions:
         return accum
+
+    ac = activation_cal or {}
+    smooth = float(ac.get("pressure_smooth_compression", 1.0))
+    norm_mode = str(ac.get("pressure_normalization_mode") or "max")
+    area_inf = float(ac.get("area_contradiction_influence", 1.0))
 
     field = "effective_latent_conflict_score" if use_latent_scores else "effective_activation_score"
     for row in _sort_contradiction_rows(list(contradictions)):
@@ -262,10 +292,28 @@ def build_area_contradiction_pressure(
         if aa != ab:
             accum[ab] += sc
 
-    max_p = max(accum.values()) if accum else 0.0
-    if max_p <= _EPS:
-        return {a: 0.0 for a in area_ids}
-    return {a: float(accum[a]) / max_p for a in area_ids}
+    for a in area_ids:
+        accum[a] = _smooth_pressure_accum(accum[a], smooth)
+
+    if norm_mode == "sum":
+        s = sum(accum.values())
+        if s <= _EPS:
+            return {a: 0.0 for a in area_ids}
+        out = {a: float(accum[a]) / s for a in area_ids}
+    else:
+        max_p = max(accum.values()) if accum else 0.0
+        if max_p <= _EPS:
+            return {a: 0.0 for a in area_ids}
+        out = {a: float(accum[a]) / max_p for a in area_ids}
+
+    if abs(area_inf - 1.0) > _EPS:
+        out = {a: min(1.0, float(out[a]) * area_inf) for a in area_ids}
+        mx2 = max(out.values()) if out else 0.0
+        if mx2 > _EPS:
+            out = {a: float(out[a]) / mx2 for a in area_ids}
+        else:
+            out = {a: 0.0 for a in area_ids}
+    return out
 
 
 def build_dynamic_inhibition_delta(
@@ -275,12 +323,14 @@ def build_dynamic_inhibition_delta(
     *,
     use_effective_scores: bool = True,
     use_latent_scores: bool = True,
+    activation_cal: dict[str, Any] | None = None,
 ) -> list[list[float]]:
     """Symmetric off-diagonal inhibition delta; prefers latent effective scores for suppressed conflict."""
     n = len(area_ids)
     delta = [[0.0 for _ in range(n)] for _ in range(n)]
     index = {aid: i for i, aid in enumerate(area_ids)}
     valid_areas = set(area_ids)
+    dyn_inf = float((activation_cal or {}).get("dynamic_inhibition_influence", 1.0))
 
     if not contradictions:
         return delta
@@ -298,8 +348,8 @@ def build_dynamic_inhibition_delta(
         i, j = index[aa], index[ab]
         if i == j:
             continue
-        delta[i][j] += sc
-        delta[j][i] += sc
+        delta[i][j] += sc * dyn_inf
+        delta[j][i] += sc * dyn_inf
 
     max_cell = max(delta[i][j] for i in range(n) for j in range(n))
     if max_cell <= _EPS:

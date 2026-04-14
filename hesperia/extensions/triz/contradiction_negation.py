@@ -164,8 +164,16 @@ def pair_effective_activation_latent(
     negation_factor: float,
     inhibition_factor: float,
     coactivation_factor: float,
+    *,
+    mode_weights: dict[str, float] | None = None,
 ) -> tuple[float, float]:
     """Split overt activation conflict vs latent / suppressed conflict."""
+    mw = mode_weights or {}
+    w_neg_act = float(mw.get("negated_opposition_activation_weight", 1.0))
+    w_inh_act = float(mw.get("inhibited_opposition_activation_weight", 1.0))
+    w_inh_lat = float(mw.get("inhibited_opposition_latent_weight", 1.0))
+    w_co_lat = float(mw.get("coactive_opposition_latent_weight", 1.0))
+
     base = max(0.0, float(raw_score)) * max(0.0, float(confidence))
     nf = _clamp01(float(negation_factor))
     inf = _clamp01(float(inhibition_factor))
@@ -173,15 +181,15 @@ def pair_effective_activation_latent(
 
     if mode == "coactive_opposition":
         eff_act = base
-        eff_lat = base * _clamp01(0.86 + 0.14 * cf)
+        eff_lat = base * _clamp01(0.86 + 0.14 * cf) * w_co_lat
         return eff_act, eff_lat
     if mode == "negated_opposition":
-        eff_act = base * _clamp01(0.62 + 0.28 * (1.0 - nf))
+        eff_act = base * _clamp01(0.62 + 0.28 * (1.0 - nf)) * w_neg_act
         eff_lat = base * _clamp01(0.78 + 0.22 * nf)
         return eff_act, eff_lat
     if mode == "inhibited_opposition":
-        eff_act = base * max(0.05, 1.0 - 0.58 * inf)
-        eff_lat = base * _clamp01(0.45 + 0.55 * inf)
+        eff_act = base * max(0.05, 1.0 - 0.58 * inf) * w_inh_act
+        eff_lat = base * _clamp01(0.45 + 0.55 * inf) * w_inh_lat
         return eff_act, eff_lat
     eff = base * _clamp01(0.72 + 0.14 * max(0.0, float(confidence)))
     return eff, eff

@@ -203,6 +203,7 @@ def build_invariant_activation(
     contradictions: list[dict[str, Any]] | None = None,
     uncertainty_package: dict[str, Any] | None = None,
     lexical_negation_summary: dict[str, Any] | None = None,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     runtime = load_engine_runtime_bundle()
     calibration = runtime["calibration"]
@@ -285,6 +286,9 @@ def build_invariant_activation(
     dynamic_delta_out = zero_delta
     areas_pressure_adjusted = dict(areas_raw)
 
+    act_cal = dict((contradiction_calibration or {}).get("activation") or {})
+    fam_cal = dict((contradiction_calibration or {}).get("family") or {})
+
     if use_contradiction_coupling:
         enriched = enrich_contradiction_rows(
             contradictions,
@@ -294,26 +298,33 @@ def build_invariant_activation(
             hex_feedback_delta=hex_delta,
             lexical_negation_summary=lexical_negation_summary,
             concept_to_area_family=af,
+            contradiction_calibration=contradiction_calibration,
         )
         fam_pressure = build_family_contradiction_pressure(enriched, af)
         fam_effective = fam_pressure.get("effective") or {}
+        fam_inf = float(act_cal.get("family_contradiction_influence", 1.0))
         family_scores_post_contradiction: dict[str, float] = {}
         for fam, val in family_scores_pre_contradiction.items():
-            p = min(1.0, max(0.0, float(fam_effective.get(str(fam), 0.0))))
+            p = min(1.0, max(0.0, float(fam_effective.get(str(fam), 0.0))) * fam_inf)
             family_scores_post_contradiction[str(fam)] = max(0.0, float(val) * (1.0 - p))
         areas_raw = _areas_from_families(family_scores_post_contradiction, list(AREA_IDS))
         used_rows = count_contradiction_rows_used(enriched, af, AREA_IDS)
         pressure_map_raw = build_area_contradiction_pressure(
-            enriched, af, AREA_IDS, use_effective_scores=False
+            enriched, af, AREA_IDS, use_effective_scores=False, activation_cal=act_cal
         )
         pressure_map = build_area_contradiction_pressure(
-            enriched, af, AREA_IDS, use_effective_scores=True
+            enriched, af, AREA_IDS, use_effective_scores=True, activation_cal=act_cal
         )
         dynamic_delta_raw = build_dynamic_inhibition_delta(
-            enriched, af, AREA_IDS, use_effective_scores=False
+            enriched, af, AREA_IDS, use_effective_scores=False, activation_cal=act_cal
         )
         dynamic_delta_out = build_dynamic_inhibition_delta(
-            enriched, af, AREA_IDS, use_effective_scores=True, use_latent_scores=True
+            enriched,
+            af,
+            AREA_IDS,
+            use_effective_scores=True,
+            use_latent_scores=True,
+            activation_cal=act_cal,
         )
         coupled = apply_contradiction_coupling(
             areas_raw,
@@ -443,12 +454,23 @@ def build_invariant_activation(
             for i in range(len(AREA_IDS))
         ]
         family_to_area = {str(v[1]): str(v[0]) for v in af.values() if isinstance(v, tuple) and len(v) >= 2}
+        frag_inf = float(fam_cal.get("family_fragmentation_influence", 1.0))
+        fam_eff_scaled = {
+            str(k): min(1.0, float(v) * frag_inf) for k, v in (fam_pressure.get("effective") or {}).items()
+        }
         frag = compute_family_fragmentation(
-            {str(k): float(v) for k, v in (fam_pressure.get("effective") or {}).items()},
+            fam_eff_scaled,
             family_scores_post_contradiction,
             family_to_area,
         )
         bridge = compute_family_bridge_conflict(activation["family_contradiction_matrix"], family_to_area)
+        bridge_inf = float(fam_cal.get("family_bridge_influence", 1.0))
+        if abs(bridge_inf - 1.0) > 1e-12:
+            bridge = {
+                k: round(min(1.0, float(v) * bridge_inf), 6)
+                for k, v in bridge.items()
+                if isinstance(v, (int, float))
+            }
         activation["family_fragmentation_summary"] = {
             **frag,
             **bridge,

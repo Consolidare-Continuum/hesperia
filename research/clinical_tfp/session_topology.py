@@ -49,6 +49,7 @@ def analyze_session_segments(
     concept_to_area_family: dict[str, tuple[str, str]] | None = None,
     phrase_index: dict[str, dict[tuple[str, ...], list[tuple[str, float]]]] | None = None,
     normalize_scores: bool = True,
+    contradiction_calibration: dict[str, Any] | None = None,
     **analyze_kwargs: Any,
 ) -> list[dict[str, Any]]:
     from hesperia.nlp.session_parser import analyze_session
@@ -65,6 +66,7 @@ def analyze_session_segments(
             concept_to_area_family=concept_to_area_family,
             phrase_index=phrase_index,
             normalize_scores=normalize_scores,
+            contradiction_calibration=contradiction_calibration,
             **analyze_kwargs,
         )
         results.append(
@@ -347,6 +349,7 @@ def run_session_topology(
     use_log1p_concept_scores: bool = True,
     evidence_volume_normalize: bool = True,
     include_curve_projection_meta: bool = True,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     cfg = load_tfp_signal_calibration()
     tm = dict(cfg.get("temporal_momentum") or {})
@@ -357,6 +360,8 @@ def run_session_topology(
         from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
         af = build_concept_to_area_family()
+
+    topo_cal = dict((contradiction_calibration or {}).get("topology") or {})
 
     segment_results = analyze_session_segments(
         text,
@@ -372,6 +377,7 @@ def run_session_topology(
         use_log1p_concept_scores=use_log1p_concept_scores,
         evidence_volume_normalize=evidence_volume_normalize,
         contradictions=contradictions,
+        contradiction_calibration=contradiction_calibration,
     )
 
     segment_contradiction_loads: list[dict[str, Any]] = []
@@ -387,14 +393,20 @@ def run_session_topology(
             contradictions,
             af,
             area_ids,
+            topology_cal=topo_cal,
         )
-        transition_pressure = compute_transition_pressure(segment_contradiction_loads, area_ids)
+        transition_pressure = compute_transition_pressure(
+            segment_contradiction_loads, area_ids, topology_cal=topo_cal
+        )
         segment_results_for_curves, contradiction_coupling_active = apply_contradiction_to_segment_areas(
             segment_results,
             segment_contradiction_loads,
             area_ids,
+            topology_cal=topo_cal,
         )
-        segment_momentum_factors = segment_momentum_factors_from_loads(segment_contradiction_loads)
+        segment_momentum_factors = segment_momentum_factors_from_loads(
+            segment_contradiction_loads, topology_cal=topo_cal
+        )
         contradiction_summary = build_contradiction_coupling_summary(
             segment_contradiction_loads,
             transition_pressure,

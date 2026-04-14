@@ -19,6 +19,7 @@ def score_lexical_calibration_risk(
     uncertainty_package: dict[str, Any] | None,
     *,
     top_k: int = 20,
+    feedback_cal: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     lexical_output = lexical_output or {}
     rows = contradiction_rows or []
@@ -36,13 +37,21 @@ def score_lexical_calibration_risk(
         concept_conflict[str(pair[0])] += burden
         concept_conflict[str(pair[1])] += burden
 
+    fc = feedback_cal or {}
+    w_tok = float(fc.get("token_risk_influence", 1.0))
+    w_rec = float(fc.get("recurrence_influence", 1.0))
     fuzzy = float(unc.get("fuzzy_link_ratio") or 0.0)
     amb = float(unc.get("ambiguous_concept_share") or 0.0)
     out: list[dict[str, Any]] = []
     for concept_id, cnt in concept_freq.items():
         recurrence = cnt / total
         conflict = _clamp01(concept_conflict.get(concept_id, 0.0))
-        risk = _clamp01(0.45 * conflict + 0.25 * recurrence + 0.18 * fuzzy + 0.12 * amb)
+        risk = _clamp01(
+            0.45 * conflict * w_tok
+            + 0.25 * recurrence * w_rec
+            + 0.18 * fuzzy
+            + 0.12 * amb
+        )
         out.append(
             {
                 "token": concept_id,
@@ -66,6 +75,7 @@ def score_concept_calibration_risk(
     activation: dict[str, Any] | None,
     *,
     top_k: int = 20,
+    feedback_cal: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     rows = contradiction_rows or []
     unc = uncertainty_package or {}
@@ -80,6 +90,9 @@ def score_concept_calibration_risk(
         for c in (str(pair[0]), str(pair[1])):
             participation[c] += raw
             recurrence[c] += 1
+    fc = feedback_cal or {}
+    w_con = float(fc.get("concept_risk_influence", 1.0))
+    w_rec = float(fc.get("recurrence_influence", 1.0))
     weak = float(unc.get("weak_concept_share") or 0.0)
     amb = float(unc.get("ambiguous_concept_share") or 0.0)
     frag = float(((act.get("family_fragmentation_summary") or {}).get("global_family_fragmentation") or 0.0))
@@ -88,7 +101,9 @@ def score_concept_calibration_risk(
     for concept_id, raw in sorted(participation.items()):
         rec = recurrence[concept_id] / max_rec
         support_instability = _clamp01(0.5 * weak + 0.3 * amb + 0.2 * frag)
-        risk = _clamp01(0.5 * _clamp01(raw) + 0.25 * rec + 0.25 * support_instability)
+        risk = _clamp01(
+            0.5 * _clamp01(raw) * w_con + 0.25 * rec * w_rec + 0.25 * support_instability
+        )
         out.append(
             {
                 "concept": concept_id,
@@ -106,9 +121,13 @@ def score_pair_calibration_risk(
     uncertainty_package: dict[str, Any] | None,
     *,
     top_k: int = 20,
+    feedback_cal: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     rows = contradiction_rows or []
     unc = uncertainty_package or {}
+    fc = feedback_cal or {}
+    w_pair = float(fc.get("pair_risk_influence", 1.0))
+    w_rec = float(fc.get("recurrence_influence", 1.0))
     fuzzy = float(unc.get("fuzzy_link_ratio") or 0.0)
     low_conf: defaultdict[tuple[str, str], float] = defaultdict(float)
     raw_sum: defaultdict[tuple[str, str], float] = defaultdict(float)
@@ -136,7 +155,9 @@ def score_pair_calibration_risk(
         eff = _clamp01(eff_sum[key])
         recurrence = rec[key] / max_rec
         contamination = _clamp01((raw - eff) + 0.25 * fuzzy + 0.2 * (low_conf[key] / max(1, rec[key])))
-        risk = _clamp01(0.45 * contamination + 0.3 * recurrence + 0.25 * (1.0 - eff))
+        risk = _clamp01(
+            0.45 * contamination * w_pair + 0.3 * recurrence * w_rec + 0.25 * (1.0 - eff)
+        )
         out.append(
             {
                 "pair": [key[0], key[1]],
@@ -157,11 +178,17 @@ def build_contradiction_feedback_signals(
     activation: dict[str, Any] | None = None,
     lexical_output: dict[str, Any] | None = None,
     top_k: int = 20,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     rows = contradiction_rows or []
-    lexical_top = score_lexical_calibration_risk(lexical_output, rows, uncertainty_package, top_k=top_k)
-    concept_top = score_concept_calibration_risk(rows, uncertainty_package, activation, top_k=top_k)
-    pair_top = score_pair_calibration_risk(rows, uncertainty_package, top_k=top_k)
+    fb = dict((contradiction_calibration or {}).get("feedback") or {})
+    lexical_top = score_lexical_calibration_risk(
+        lexical_output, rows, uncertainty_package, top_k=top_k, feedback_cal=fb
+    )
+    concept_top = score_concept_calibration_risk(
+        rows, uncertainty_package, activation, top_k=top_k, feedback_cal=fb
+    )
+    pair_top = score_pair_calibration_risk(rows, uncertainty_package, top_k=top_k, feedback_cal=fb)
     fam_summary = (activation or {}).get("family_fragmentation_summary") or {}
     high_lex = sum(1 for r in lexical_top if float(r.get("calibration_risk") or 0.0) >= 0.6)
     high_con = sum(1 for r in concept_top if float(r.get("calibration_risk") or 0.0) >= 0.6)
@@ -169,10 +196,13 @@ def build_contradiction_feedback_signals(
     nlex = max(1, len(lexical_top))
     ncon = max(1, len(concept_top))
     npair = max(1, len(pair_top))
+    w_c = float(fb.get("concept_risk_influence", 1.0))
+    w_p = float(fb.get("pair_risk_influence", 1.0))
+    w_l = float(fb.get("token_risk_influence", 1.0))
     calibration_risk = _clamp01(
-        0.4 * (sum(float(r.get("calibration_risk") or 0.0) for r in concept_top) / ncon)
-        + 0.35 * (sum(float(r.get("calibration_risk") or 0.0) for r in pair_top) / npair)
-        + 0.25 * (sum(float(r.get("calibration_risk") or 0.0) for r in lexical_top) / nlex)
+        0.4 * w_c * (sum(float(r.get("calibration_risk") or 0.0) for r in concept_top) / ncon)
+        + 0.35 * w_p * (sum(float(r.get("calibration_risk") or 0.0) for r in pair_top) / npair)
+        + 0.25 * w_l * (sum(float(r.get("calibration_risk") or 0.0) for r in lexical_top) / nlex)
     )
     likely_cal = _clamp01(0.55 * calibration_risk + 0.25 * float(uncertainty_package.get("lexical_uncertainty") if uncertainty_package else 0.0) + 0.2 * float(uncertainty_package.get("concept_uncertainty") if uncertainty_package else 0.0))
     likely_runtime = _clamp01(1.0 - likely_cal)

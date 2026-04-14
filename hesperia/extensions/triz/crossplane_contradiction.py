@@ -113,6 +113,7 @@ def build_crossplane_contradiction_package(
     *,
     concept_to_area_family: dict[str, tuple[str, str]] | None = None,
     uncertainty_package: dict[str, Any] | None = None,
+    contradiction_calibration: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Single canonical contradiction signal for DLCR / sealed multiscale / product (04/05/06),
@@ -122,6 +123,7 @@ def build_crossplane_contradiction_package(
     area_ids = [str(x) for x in (cfg.get("area_ids") or [])]
     af = concept_to_area_family if concept_to_area_family is not None else build_concept_to_area_family()
     topo = topology or {}
+    act_cal = dict((contradiction_calibration or {}).get("activation") or {})
 
     rows = list(contradictions) if contradictions else []
     coupling_active = bool(activation.get("contradiction_coupling_active"))
@@ -130,8 +132,12 @@ def build_crossplane_contradiction_package(
     raw_area_pressure: dict[str, float] = {a: float(rp_act.get(a, 0.0)) for a in area_ids}
     eff_area_pressure: dict[str, float] = {a: float(ep_act.get(a, 0.0)) for a in area_ids}
     if rows:
-        eff_area_pressure = build_area_contradiction_pressure(rows, af, area_ids, use_effective_scores=True)
-        raw_area_pressure = build_area_contradiction_pressure(rows, af, area_ids, use_effective_scores=False)
+        eff_area_pressure = build_area_contradiction_pressure(
+            rows, af, area_ids, use_effective_scores=True, activation_cal=act_cal
+        )
+        raw_area_pressure = build_area_contradiction_pressure(
+            rows, af, area_ids, use_effective_scores=False, activation_cal=act_cal
+        )
 
     area_pressure = eff_area_pressure
     seg_loads_raw = topo.get("segment_contradiction_loads") or []
@@ -235,6 +241,7 @@ def build_crossplane_contradiction_package(
         activation=activation,
         lexical_output=None,
         top_k=20,
+        contradiction_calibration=contradiction_calibration,
     )
     gfb = feedback.get("global_feedback_summary") or {}
     runtime_split = gfb.get("runtime_vs_calibration_conflict_split") or {}

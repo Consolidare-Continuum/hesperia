@@ -214,6 +214,13 @@ def _session_gate_score(gates: dict[str, Any]) -> float:
     return sum(parts) / max(len(parts), 1)
 
 
+_PV_ORDER = {"FAIL": 3, "QUALIFIED_PASS": 2, "PASS": 1}
+
+
+def _promo_worse(a: PromotionVerdict, b: PromotionVerdict) -> PromotionVerdict:
+    return a if _PV_ORDER[a] >= _PV_ORDER[b] else b
+
+
 def _verdict_from_gates(gates: dict[str, Any]) -> PromotionVerdict:
     statuses = [gates[k]["status"] for k in gates if k.endswith("_gate")]
     if any(s == "FAIL" for s in statuses):
@@ -244,11 +251,28 @@ _GATE_NAMES = (
 )
 
 
-def evaluate_conflict_integrity(session_flag_rows: list[dict[str, Any]]) -> dict[str, Any]:
+def _verdict_from_release_thresholds(bundle_score: float, rg: dict[str, Any]) -> PromotionVerdict:
+    pt = float(rg.get("pass_threshold", 0.85))
+    qpt = float(rg.get("qualified_pass_threshold", 0.65))
+    if bundle_score >= pt:
+        return "PASS"
+    if bundle_score >= qpt:
+        return "QUALIFIED_PASS"
+    return "FAIL"
+
+
+def evaluate_conflict_integrity(
+    session_flag_rows: list[dict[str, Any]],
+    *,
+    contradiction_calibration: dict[str, Any] | None = None,
+) -> dict[str, Any]:
     """
     Aggregate per-session inspector flag dicts into bundle-level promotion fields.
 
     `session_flag_rows`: list of dicts including `session_id` and all keys expected by `build_release_conflict_gates`.
+
+    When ``contradiction_calibration`` includes ``release_gating`` thresholds, the bundle-level
+    ``promotion_conflict_verdict`` is the worse of (gate-derived verdict, score-threshold verdict).
     """
     per_session: list[dict[str, Any]] = []
 
@@ -285,11 +309,15 @@ def evaluate_conflict_integrity(session_flag_rows: list[dict[str, Any]]) -> dict
     bundle_score = min(scores)
     verdicts = [p["promotion_conflict_verdict"] for p in per_session] or ["PASS"]
     if any(v == "FAIL" for v in verdicts):
-        promo: PromotionVerdict = "FAIL"
+        promo = "FAIL"
     elif any(v == "QUALIFIED_PASS" for v in verdicts):
         promo = "QUALIFIED_PASS"
     else:
         promo = "PASS"
+
+    rg = dict((contradiction_calibration or {}).get("release_gating") or {})
+    if rg and contradiction_calibration is not None:
+        promo = _promo_worse(promo, _verdict_from_release_thresholds(float(bundle_score), rg))
 
     reasons: list[str] = []
     for p in per_session:
@@ -298,7 +326,7 @@ def evaluate_conflict_integrity(session_flag_rows: list[dict[str, Any]]) -> dict
             if tagged not in reasons:
                 reasons.append(tagged)
 
-    return {
+    out: dict[str, Any] = {
         "conflict_integrity_score": round(bundle_score, 6),
         "promotion_conflict_verdict": promo,
         "promotion_conflict_reasons": reasons,
@@ -307,6 +335,9 @@ def evaluate_conflict_integrity(session_flag_rows: list[dict[str, Any]]) -> dict
             "aggregate": aggregate,
         },
     }
+    if rg:
+        out["release_gating_threshold_verdict"] = _verdict_from_release_thresholds(float(bundle_score), rg)
+    return out
 
 
 def compute_product_release_conflict_readiness(

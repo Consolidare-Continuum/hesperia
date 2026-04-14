@@ -58,6 +58,8 @@ def compute_segment_contradiction_loads(
     contradictions: list[dict[str, Any]] | None,
     concept_to_area_family: dict[str, tuple[str, str]],
     area_ids: list[str],
+    *,
+    topology_cal: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     """
     Per-segment contradiction mass from intersecting active concepts with contradiction pairs.
@@ -78,6 +80,7 @@ def compute_segment_contradiction_loads(
 
     triz_map = build_triz_concept_mapping(concept_to_area_family, area_ids)
     rows_sorted = _sort_contradiction_rows(list(contradictions))
+    seg_inf = float((topology_cal or {}).get("segment_contradiction_influence", 1.0))
     summaries: list[dict[str, Any]] = []
 
     for seg_idx, seg in enumerate(segment_results):
@@ -135,10 +138,10 @@ def compute_segment_contradiction_loads(
         summaries.append(
             {
                 "segment_index": seg_idx,
-                "contradiction_load": float(load),
-                "area_contradiction_pressure": dict(area_acc),
+                "contradiction_load": float(load) * seg_inf,
+                "area_contradiction_pressure": {a: float(v) * seg_inf for a, v in area_acc.items()},
                 "contradiction_pairs_used": pairs_used,
-                "cross_area_contradiction_mass": float(cross_mass),
+                "cross_area_contradiction_mass": float(cross_mass) * seg_inf,
             }
         )
 
@@ -160,6 +163,8 @@ def apply_contradiction_to_segment_areas(
     segment_results: list[dict[str, Any]],
     contradiction_summaries: list[dict[str, Any]],
     area_ids: list[str],
+    *,
+    topology_cal: dict[str, Any] | None = None,
 ) -> tuple[list[dict[str, Any]], bool]:
     """
     Destabilize dominance under contradiction load by mixing toward a uniform baseline.
@@ -168,13 +173,14 @@ def apply_contradiction_to_segment_areas(
     if not contradiction_summaries:
         return segment_results, False
 
+    seg_inf = float((topology_cal or {}).get("segment_contradiction_influence", 1.0))
     out: list[dict[str, Any]] = []
     any_active = False
     for idx, row in enumerate(segment_results):
         s = row
         if idx < len(contradiction_summaries):
             summ = contradiction_summaries[idx]
-            w = float(summ.get("contradiction_load_normalized") or 0.0)
+            w = min(1.0, float(summ.get("contradiction_load_normalized") or 0.0) * seg_inf)
         else:
             summ = {}
             w = 0.0
@@ -218,11 +224,14 @@ def apply_contradiction_to_segment_areas(
 def compute_transition_pressure(
     contradiction_summaries: list[dict[str, Any]],
     area_ids: list[str],
+    *,
+    topology_cal: dict[str, Any] | None = None,
 ) -> list[float]:
     """Between consecutive segments: L1 distance of normalized area contradiction pressure + load delta."""
     if len(contradiction_summaries) < 2:
         return []
 
+    tp_inf = float((topology_cal or {}).get("transition_pressure_influence", 1.0))
     pressures: list[list[float]] = []
     loads: list[float] = []
     for s in contradiction_summaries:
@@ -234,21 +243,28 @@ def compute_transition_pressure(
     for i in range(len(pressures) - 1):
         d_area = sum(abs(pressures[i][j] - pressures[i + 1][j]) for j in range(len(area_ids)))
         d_load = abs(loads[i + 1] - loads[i])
-        val = d_area + d_load
+        val = (d_area + d_load) * tp_inf
         out.append(float(val))
 
     mx = max(out) if out else 0.0
     if mx <= _EPS:
         return [0.0 for _ in out]
-    return [float(v) / mx for v in out]
+    normed = [float(v) / mx for v in out]
+    # Apply responsiveness after normalization so calibration does not cancel uniformly under max-norm.
+    return [min(1.0, float(x) * tp_inf) for x in normed]
 
 
-def segment_momentum_factors_from_loads(contradiction_summaries: list[dict[str, Any]]) -> list[float]:
+def segment_momentum_factors_from_loads(
+    contradiction_summaries: list[dict[str, Any]],
+    *,
+    topology_cal: dict[str, Any] | None = None,
+) -> list[float]:
     """Higher contradiction load → lower momentum carry (derived, no hand-tuned area table)."""
+    mom_inf = float((topology_cal or {}).get("momentum_attenuation_influence", 1.0))
     out: list[float] = []
     for s in contradiction_summaries:
         ln = float(s.get("contradiction_load_normalized") or 0.0)
-        out.append(max(0.0, min(1.0, 1.0 - ln)))
+        out.append(max(0.0, min(1.0, 1.0 - ln * mom_inf)))
     return out
 
 
