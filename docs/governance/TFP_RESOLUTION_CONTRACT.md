@@ -32,3 +32,9 @@
 This contract is **authoritative for Hesperia TFP / lexical resolution v1** alongside [`HESPERIA_TFP_MODULE_DICTS.md`](../HESPERIA_TFP_MODULE_DICTS.md). Module scope and post-seal policy: [`TFP_MODULE_V1_SCOPE.md`](TFP_MODULE_V1_SCOPE.md).
 
 `SIGNED: Ethan (governance) | TFP resolution v1 | 2026-03-28 | TFP-V1-06`
+
+---
+
+## Contradiction integrity vs lexical resolution
+
+Lexical/dict resolution rules above govern **payload truth**. **Contradiction release gating** (v0.5.8 task9) governs whether a **bundle build** may be promoted given **cross-plane contradiction coherence** — see `TFP_RELEASE_PYTEST_BAR.md` (Conflict Integrity Gates). Evidence: `99_tfp_bundle_inspect.json`, `conflict_release_summary` on `00_manifest.json` / `20_main_engine_full_context.json` when using `tools/tfp_pipeline_standard_run.py` with inspect merge.

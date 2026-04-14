@@ -86,6 +86,12 @@ def main() -> int:
         action="store_true",
         help="Forward to file pipeline: skip 12_* triz_activation files when --with-topology",
     )
+    ap.add_argument(
+        "--contradiction-calibration-json",
+        type=Path,
+        default=None,
+        help="Optional path to contradiction calibration profile (forwarded to run_tfp_file_pipeline)",
+    )
     args = ap.parse_args()
 
     inp = args.input.resolve()
@@ -134,6 +140,8 @@ def main() -> int:
         pipe_cmd.append("--no-dlcr-domain-pack")
     if args.skip_triz_activation:
         pipe_cmd.append("--skip-triz-activation")
+    if args.contradiction_calibration_json is not None:
+        pipe_cmd.extend(["--contradiction-calibration-json", str(args.contradiction_calibration_json.resolve())])
 
     # Stable run id for manifest when not supplied
     if not os.environ.get("HESPERIA_TFP_PIPELINE_RUN_ID"):

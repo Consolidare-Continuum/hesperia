@@ -37,6 +37,157 @@ except ImportError:
     from output_contracts import to_minimal_operational_result
 
 
+def _product_contradiction_extensions(
+    minimal: dict[str, Any],
+    extended: dict[str, Any],
+    contradiction_package: dict[str, Any] | None,
+) -> dict[str, Any]:
+    """Structured product-layer contradiction metrics (06); no narrative patching."""
+    if not contradiction_package:
+        return {}
+    g = float(contradiction_package.get("global_contradiction_load") or 0.0)
+    raw_l = float(contradiction_package.get("raw_contradiction_load") or g)
+    eff_l = float(contradiction_package.get("effective_contradiction_load") or g)
+    mconf = float(contradiction_package.get("contradiction_confidence_mean") or 1.0)
+    split = contradiction_package.get("lexical_semantic_conflict_split") or {}
+    un_adj = float(contradiction_package.get("uncertainty_adjusted_conflict_index") or eff_l)
+    coh_raw = None
+    if isinstance(extended.get("dict_b"), dict):
+        coh_raw = extended["dict_b"].get("coherence_index")
+    try:
+        coherence = float(coh_raw) if coh_raw is not None else 0.5
+    except (TypeError, ValueError):
+        coherence = 0.5
+    gov = float(minimal.get("governance") if minimal.get("governance") is not None else minimal.get("constraint_status") or 0.0)
+    dominance_overstates = eff_l > 0.42 and gov > 0.68 and coherence > 0.72 and mconf > 0.45
+    topo_ok = bool(contradiction_package.get("contradiction_coherence_flag"))
+    dlcr_ok = abs(eff_l - gov) < 0.38 or (eff_l > 0.22 and gov < 0.82)
+    consistency_score = max(0.0, min(1.0, 1.0 - 0.55 * max(0.0, eff_l - coherence) * (0.55 + 0.45 * mconf)))
+    product_conflict_consistency = {
+        "dominance_overstates_coherence": bool(dominance_overstates),
+        "topology_matches_conflict": bool(topo_ok),
+        "dlcr_matches_conflict": bool(dlcr_ok),
+        "consistency_score": round(consistency_score, 6),
+    }
+    conflict_visible = eff_l > 0.12
+    verdict_under = eff_l > 0.48 and coherence > 0.74 and mconf > 0.5
+    verdict_conflict_alignment = {
+        "conflict_visible_in_verdict": bool(conflict_visible),
+        "verdict_underreports_conflict": bool(verdict_under),
+    }
+    product_stability = float(contradiction_package.get("contradiction_stability_index") or 0.0)
+    sem_rel = max(
+        0.0,
+        min(1.0, mconf * float(split.get("likely_semantic_real") or 0.5) + 0.15 * un_adj),
+    )
+    if raw_l > 0.58 and mconf < 0.42:
+        session_mode = "ambiguous_or_contaminated_contradiction"
+    elif eff_l > 0.65 and product_stability < 0.35 and mconf > 0.45:
+        session_mode = "contradiction_heavy_unstable"
+    elif eff_l > 0.55 and mconf > 0.48:
+        session_mode = "conflict_dominant"
+    elif eff_l > 0.2:
+        session_mode = "conflict_bearing_interpretable"
+    else:
+        session_mode = "coherent"
+    conflict_confidence_summary = {
+        "raw_contradiction_load": round(raw_l, 6),
+        "effective_contradiction_load": round(eff_l, 6),
+        "mean_conflict_confidence": round(mconf, 6),
+    }
+    conflict_source_balance = {
+        "lexical_noise_component": round(float(split.get("likely_lexical") or 0.0), 6),
+        "concept_ambiguity_component": round(float(split.get("likely_conceptual_ambiguity") or 0.0), 6),
+        "semantic_conflict_component": round(float(split.get("likely_semantic_real") or 0.0), 6),
+    }
+    act_cf = float(contradiction_package.get("activation_conflict_load") or eff_l)
+    lat_cf = float(contradiction_package.get("latent_conflict_load") or act_cf)
+    mode_sum = contradiction_package.get("contradiction_mode_summary") or {}
+    neg_c = float(contradiction_package.get("negation_conflict_component") or 0.0)
+    inh_c = float(contradiction_package.get("inhibition_conflict_component") or 0.0)
+    conflict_mode_summary = dict(mode_sum) if isinstance(mode_sum, dict) else {}
+    latent_vs_overt_conflict = {
+        "overt_conflict_load": round(act_cf, 6),
+        "latent_conflict_load": round(lat_cf, 6),
+        "conflict_is_partly_suppressed": bool(lat_cf > act_cf + 0.06),
+    }
+    negation_inhibition_conflict_alignment = {
+        "negation_visible_in_conflict_model": bool(neg_c > 0.08),
+        "inhibition_visible_in_conflict_model": bool(inh_c > 0.08),
+        "alignment_score": round(
+            max(0.0, min(1.0, 1.0 - 0.5 * abs(act_cf - lat_cf) + 0.25 * min(neg_c, inh_c))),
+            6,
+        ),
+    }
+    fam_frag = contradiction_package.get("family_fragmentation_summary") or {}
+    fam_conc = float(contradiction_package.get("family_conflict_concentration") or 0.0)
+    fam_dom = list(contradiction_package.get("dominant_conflict_families") or [])
+    family_conflict_summary = {
+        "global_family_fragmentation": round(float(fam_frag.get("global_family_fragmentation") or 0.0), 6),
+        "dominant_conflict_families": fam_dom,
+        "family_conflict_concentration": round(fam_conc, 6),
+    }
+    family_vs_area_conflict_alignment = {
+        "family_conflict_hidden_by_area_smoothing": bool(
+            float(fam_frag.get("global_family_fragmentation") or 0.0) > 0.35 and eff_l < 0.25
+        ),
+        "alignment_score": round(
+            max(
+                0.0,
+                min(
+                    1.0,
+                    1.0 - abs(float(fam_frag.get("global_family_fragmentation") or 0.0) - eff_l),
+                ),
+            ),
+            6,
+        ),
+    }
+    split = contradiction_package.get("runtime_vs_calibration_conflict_split") or {}
+    conflict_origin_summary = {
+        "likely_runtime_real": round(float(split.get("likely_runtime_real") or 0.0), 6),
+        "likely_calibration_pathology": round(float(split.get("likely_calibration_pathology") or 0.0), 6),
+    }
+    raw_vs_effective_gap = abs(raw_l - eff_l)
+    high_raw_low_conf = bool(raw_l > 0.52 and mconf < 0.42)
+    conflict_confidence_consistency = not (
+        high_raw_low_conf and session_mode == "conflict_dominant" and sem_rel > 0.72
+    )
+    from hesperia.extensions.triz.conflict_release_gating import compute_product_release_conflict_readiness
+
+    release_conflict_readiness = compute_product_release_conflict_readiness(
+        contradiction_package,
+        session_mode=session_mode,
+        verdict_conflict_alignment=verdict_conflict_alignment,
+        semantic_conflict_reliability=sem_rel,
+        conflict_confidence_consistency=conflict_confidence_consistency,
+    )
+    return {
+        "contradiction_summary": {
+            "global_load": round(g, 6),
+            "cross_area_mass": round(float(contradiction_package.get("cross_area_contradiction_mass") or 0.0), 6),
+            "stability_index": round(product_stability, 6),
+            "coupling_active": bool(contradiction_package.get("contradiction_coupling_active")),
+        },
+        "conflict_confidence_summary": conflict_confidence_summary,
+        "uncertainty_adjusted_conflict_index": round(un_adj, 6),
+        "conflict_source_balance": conflict_source_balance,
+        "semantic_conflict_reliability": round(sem_rel, 6),
+        "product_conflict_consistency": product_conflict_consistency,
+        "verdict_conflict_alignment": verdict_conflict_alignment,
+        "product_stability_under_contradiction": round(max(0.0, min(1.0, product_stability * (1.0 - 0.35 * eff_l))), 6),
+        "session_contradiction_mode": session_mode,
+        "conflict_mode_summary": conflict_mode_summary,
+        "latent_vs_overt_conflict": latent_vs_overt_conflict,
+        "negation_inhibition_conflict_alignment": negation_inhibition_conflict_alignment,
+        "family_conflict_summary": family_conflict_summary,
+        "family_fragmentation_visibility": bool(family_conflict_summary["global_family_fragmentation"] > 0.08),
+        "family_vs_area_conflict_alignment": family_vs_area_conflict_alignment,
+        "conflict_origin_summary": conflict_origin_summary,
+        "runtime_vs_calibration_conflict_split": conflict_origin_summary,
+        "release_conflict_readiness": release_conflict_readiness,
+    }
+
+
 def _has_nan_inf(d: dict[str, Any]) -> bool:
     for v in d.values():
         if isinstance(v, (int, float)) and (math.isnan(v) or math.isinf(v)):
@@ -64,6 +215,7 @@ def analyze(
     r1_r4: bool = False,
     r1_r4_book_id: str = "book",
     r1_r4_levels: list[str] | None = None,
+    contradiction_package: dict[str, Any] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     """
     Run execution flow: TRANSFORM normalize -> TRANSFORM tokenize -> COMPUTE attribution -> COMPUTE core -> EVALUATE Sigma.
@@ -152,7 +304,12 @@ def analyze(
             from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
             snip = (text or "")[:8000]
-            dlcr = run_dlcr_pipeline(snip, repo_root=_repo, mode="clinical_speech")
+            dlcr = run_dlcr_pipeline(
+                snip,
+                repo_root=_repo,
+                mode="clinical_speech",
+                contradiction_package=contradiction_package,
+            )
             pm = dlcr.get("preprocess_meta") or {}
             raw_spans = dlcr.get("span_resolutions") or []
             pub_spans = [_public_dlcr_span_row(r) for r in raw_spans[:_PO02_MAX_EVIDENCE_SPANS]]
@@ -190,4 +347,6 @@ def analyze(
             extended_out["r1_r4"] = {"units": units, "book_profile": book_profile}
         except Exception as e:
             extended_out["r1_r4"] = {"error": str(e), "units": [], "book_profile": None}
+    if contradiction_package:
+        extended_out.update(_product_contradiction_extensions(minimal, extended_out, contradiction_package))
     return minimal, extended_out
