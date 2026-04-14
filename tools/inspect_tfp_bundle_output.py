@@ -11,6 +11,12 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from hesperia.extensions.triz.conflict_release_gating import (
+    build_conflict_release_summary,
+    build_release_conflict_gates,
+    evaluate_conflict_integrity,
+)
+
 
 def _load(path: Path) -> dict[str, Any] | None:
     if not path.is_file():
@@ -47,6 +53,7 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
     sids = sorted(set(m04) | set(m05) | set(m06) | set(m09))
 
     per_session: list[dict[str, Any]] = []
+    session_flag_rows: list[dict[str, Any]] = []
     for sid in sids:
         row04 = m04.get(sid) or {}
         row05 = m05.get(sid) or {}
@@ -158,6 +165,10 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             and not calibration_pathology_masquerading_runtime
             and not feedback_trace_missing
         )
+        latent_vs_overt_mismatch_warn = bool(
+            float(lvo.get("latent_conflict_load") or 0.0) > float(lvo.get("overt_conflict_load") or 0.0) + 0.12
+            and mode == "coherent"
+        )
         crossplane_ok = not (
             product_underreports_conflict
             or dlcr_conflict_misalignment
@@ -175,6 +186,37 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
             or calibration_pathology_masquerading_runtime
             or feedback_trace_missing
         )
+        session_flags: dict[str, Any] = {
+            "session_id": sid,
+            "topology_max_segment_contradiction_load": g_topo,
+            "product_session_mode": mode,
+            "effective_contradiction_load": eff_l,
+            "raw_contradiction_load": raw_l,
+            "semantic_conflict_reliability": sem_rel,
+            "verdict_underreports_conflict_reported": under,
+            "product_underreports_conflict": product_underreports_conflict,
+            "dlcr_conflict_misalignment": dlcr_conflict_misalignment,
+            "multiscale_conflict_collapse": multiscale_conflict_collapse,
+            "likely_lexical_contamination": likely_lexical_contamination,
+            "latent_conflict_underreported": latent_conflict_underreported,
+            "suppressed_conflict_disappearance": suppressed_conflict_disappearance,
+            "family_fragmentation_hidden": family_fragmentation_hidden,
+            "family_conflict_underreported": family_conflict_underreported,
+            "cross_area_bridge_underreported": cross_area_bridge_underreported,
+            "concentrated_family_conflict_omitted": concentrated_family_conflict_omitted,
+            "family_matrix_collapse": family_matrix_collapse,
+            "calibration_pathology_masquerading_runtime": calibration_pathology_masquerading_runtime,
+            "feedback_trace_missing": feedback_trace_missing,
+            "negation_conflict_misalignment": negation_conflict_misalignment,
+            "coactive_conflict_overclaimed": coactive_conflict_overclaimed,
+            "conflict_confidence_consistency": conflict_confidence_consistency,
+            "family_area_alignment_score": family_area_alignment_score,
+            "likely_calibration_pathology": likely_cal,
+            "session_crossplane_ok": crossplane_ok,
+            "latent_vs_overt_mismatch_warn": latent_vs_overt_mismatch_warn,
+        }
+        per_session_gates = build_release_conflict_gates(session_flags)
+        session_flag_rows.append(session_flags)
         per_session.append(
             {
                 "session_id": sid,
@@ -220,14 +262,27 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
                 "feedback_trace_missing": feedback_trace_missing,
                 "calibration_pathology_masquerading_runtime": calibration_pathology_masquerading_runtime,
                 "recommended_calibration_action": recommended_calibration_action,
+                "release_conflict_gates": per_session_gates,
             }
         )
 
     overall = all(s.get("crossplane_contradiction_consistency") for s in per_session) if per_session else True
+    integrity = evaluate_conflict_integrity(session_flag_rows)
+    summary = build_conflict_release_summary(integrity)
+    ps_detail = (integrity.get("release_conflict_gates") or {}).get("per_session") or []
+    for i, row in enumerate(ps_detail):
+        if i < len(per_session):
+            per_session[i]["session_conflict_integrity_score"] = row.get("conflict_integrity_score")
+            per_session[i]["session_promotion_conflict_verdict"] = row.get("promotion_conflict_verdict")
     return {
         "run": "inspect_tfp_bundle_output",
         "bundle_dir": str(bundle_dir),
         "crossplane_contradiction_consistency": overall,
+        "conflict_integrity_score": integrity["conflict_integrity_score"],
+        "promotion_conflict_verdict": integrity["promotion_conflict_verdict"],
+        "promotion_conflict_reasons": integrity["promotion_conflict_reasons"],
+        "release_conflict_gates": integrity["release_conflict_gates"],
+        "conflict_release_summary": summary,
         "sessions": per_session,
     }
 

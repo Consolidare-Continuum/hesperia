@@ -213,6 +213,10 @@ def test_inspector_flags_underreporting(tmp_path: Path) -> None:
     report = inspect_bundle(d)
     assert report["sessions"]
     assert any(s.get("product_underreports_conflict") for s in report["sessions"])
+    assert "promotion_conflict_verdict" in report
+    assert "conflict_integrity_score" in report
+    assert "release_conflict_gates" in report
+    assert "conflict_release_summary" in report
 
 
 def test_inspector_flags_feedback_trace_missing(tmp_path: Path) -> None:

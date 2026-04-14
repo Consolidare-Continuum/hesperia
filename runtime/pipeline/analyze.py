@@ -147,6 +147,20 @@ def _product_contradiction_extensions(
         "likely_runtime_real": round(float(split.get("likely_runtime_real") or 0.0), 6),
         "likely_calibration_pathology": round(float(split.get("likely_calibration_pathology") or 0.0), 6),
     }
+    raw_vs_effective_gap = abs(raw_l - eff_l)
+    high_raw_low_conf = bool(raw_l > 0.52 and mconf < 0.42)
+    conflict_confidence_consistency = not (
+        high_raw_low_conf and session_mode == "conflict_dominant" and sem_rel > 0.72
+    )
+    from hesperia.extensions.triz.conflict_release_gating import compute_product_release_conflict_readiness
+
+    release_conflict_readiness = compute_product_release_conflict_readiness(
+        contradiction_package,
+        session_mode=session_mode,
+        verdict_conflict_alignment=verdict_conflict_alignment,
+        semantic_conflict_reliability=sem_rel,
+        conflict_confidence_consistency=conflict_confidence_consistency,
+    )
     return {
         "contradiction_summary": {
             "global_load": round(g, 6),
@@ -170,6 +184,7 @@ def _product_contradiction_extensions(
         "family_vs_area_conflict_alignment": family_vs_area_conflict_alignment,
         "conflict_origin_summary": conflict_origin_summary,
         "runtime_vs_calibration_conflict_split": conflict_origin_summary,
+        "release_conflict_readiness": release_conflict_readiness,
     }
 
 

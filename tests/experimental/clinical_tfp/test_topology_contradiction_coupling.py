@@ -159,3 +159,40 @@ def test_transition_pressure_cross_area_neighbor_segments() -> None:
     loads_flat = compute_segment_contradiction_loads(segs_flat, rows, af, area_ids)
     tp_flat = compute_transition_pressure(loads_flat, area_ids)
     assert max(tp) >= max(tp_flat) - 1e-9
+
+
+def test_topology_segment_contradiction_load_feeds_release_gating_surface() -> None:
+    """curve_projection_meta.contradiction_summary is the topology hook for task9 visibility gate (see inspect_tfp_bundle_output)."""
+    from hesperia.extensions.triz.conflict_release_gating import build_release_conflict_gates
+
+    flags = {
+        "session_id": "t_topo",
+        "topology_max_segment_contradiction_load": 0.85,
+        "product_session_mode": "coherent",
+        "effective_contradiction_load": 0.7,
+        "raw_contradiction_load": 0.72,
+        "semantic_conflict_reliability": 0.7,
+        "verdict_underreports_conflict_reported": False,
+        "product_underreports_conflict": True,
+        "dlcr_conflict_misalignment": False,
+        "multiscale_conflict_collapse": False,
+        "likely_lexical_contamination": False,
+        "latent_conflict_underreported": False,
+        "suppressed_conflict_disappearance": False,
+        "family_fragmentation_hidden": False,
+        "family_conflict_underreported": False,
+        "cross_area_bridge_underreported": False,
+        "concentrated_family_conflict_omitted": False,
+        "family_matrix_collapse": False,
+        "calibration_pathology_masquerading_runtime": False,
+        "feedback_trace_missing": False,
+        "negation_conflict_misalignment": False,
+        "coactive_conflict_overclaimed": False,
+        "conflict_confidence_consistency": True,
+        "family_area_alignment_score": 0.8,
+        "likely_calibration_pathology": 0.1,
+        "session_crossplane_ok": False,
+        "latent_vs_overt_mismatch_warn": False,
+    }
+    g = build_release_conflict_gates(flags)
+    assert g["contradiction_visibility_gate"]["status"] == "FAIL"
