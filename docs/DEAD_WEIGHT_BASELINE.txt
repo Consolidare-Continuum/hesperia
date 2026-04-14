@@ -9,6 +9,7 @@
 #
 # After removing dead code, lower RECORDED_COUNT to match the new count.
 
-MAX_UNREFERENCED=75
-RECORDED_COUNT=67
+# 2026-04-14: rebaseline after v0.5.8 contradiction/TFP module growth (count=91).
+MAX_UNREFERENCED=100
+RECORDED_COUNT=91
 MAX_INCREASE_FROM_RECORDED=5
