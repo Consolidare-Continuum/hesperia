@@ -803,15 +803,62 @@ def run_pipeline(
             )
 
     p = out_dir / "20_main_engine_full_context.json"
-    _write_json(
-        p,
-        {
-            "run": "tfp_file_pipeline_main_engine_full_context",
-            "sessions": session_main_engine_full_context,
+    from hesperia.extensions.triz.contradiction_contract import (
+        CONTRADICTION_CONTRACT_SPEC_VERSION,
+        validate_contradiction_contract,
+    )
+
+    feedback_sessions = 0
+    risky_concepts_sessions = 0
+    for _sid, cp in crossplane_by_session.items():
+        if not isinstance(cp, dict):
+            continue
+        if cp.get("feedback_summary"):
+            feedback_sessions += 1
+        if cp.get("top_risky_concepts"):
+            risky_concepts_sessions += 1
+
+    body20 = {
+        "run": "tfp_file_pipeline_main_engine_full_context",
+        "sessions": session_main_engine_full_context,
         "contradiction_pipeline": contradiction_pipeline_rows,
         "crossplane_contradiction_by_session": crossplane_by_session,
+        "feedback_summary": {
+            "sessions_with_feedback_summary": feedback_sessions,
+            "sessions_with_top_risky_concepts": risky_concepts_sessions,
+        },
+        "activation_topology_linkage_summary": {
+            "sessions_total": len(session_main_engine_full_context),
+            "sessions_with_crossplane_package": sum(
+                1 for _sid, cp in crossplane_by_session.items() if isinstance(cp, dict) and not cp.get("_error")
+            ),
+        },
+        "conflict_release_summary": {
+            "status": "pending_inspection",
+            "inspection_artifact": "99_tfp_bundle_inspect.json",
+        },
         "operational_envelope": default_operational_envelope(),
-    },
+    }
+    pre_contract = validate_contradiction_contract(
+        {
+            "04_dlcr_full.json": {"sessions": session_dlcr} if session_dlcr else None,
+            "05_sealed_multiscale.json": {"sessions": session_sealed} if session_sealed else None,
+            "06_product_analyze.json": {"sessions": session_analyze} if session_analyze else None,
+            "09_session_topology.json": {"sessions": session_topo} if session_topo else None,
+            "20_main_engine_full_context.json": body20,
+        }
+    )
+    contract_summary = {
+        "spec_version": CONTRADICTION_CONTRACT_SPEC_VERSION,
+        "contract_valid": bool(pre_contract.get("contract_valid")),
+        "missing_required_fields": list(pre_contract.get("missing_required_fields") or []),
+        "deprecated_fields_found": list(pre_contract.get("deprecated_fields_found") or []),
+        "authority_conflicts": list(pre_contract.get("authority_conflicts") or []),
+    }
+    body20["contradiction_contract"] = contract_summary
+    _write_json(
+        p,
+        body20,
     )
     written["20_main_engine_full_context.json"] = str(p)
 
@@ -877,6 +924,15 @@ def run_pipeline(
         "artifacts": written,
         "contradiction_pipeline": contradiction_pipeline_rows,
         "crossplane_contradiction_by_session": crossplane_by_session,
+        "contradiction_contract": {
+            "spec_version": CONTRADICTION_CONTRACT_SPEC_VERSION,
+            "contract_valid": contract_summary["contract_valid"],
+            "authoritative_artifact": "20_main_engine_full_context.json",
+            "inspection_artifact": "99_tfp_bundle_inspect.json",
+            "missing_required_fields": contract_summary["missing_required_fields"],
+            "deprecated_fields_found": contract_summary["deprecated_fields_found"],
+            "authority_conflicts": contract_summary["authority_conflicts"],
+        },
         "triz_activation": triz_activation_paths,
         "errors": errors,
         "operational_envelope": manifest_operational_envelope,

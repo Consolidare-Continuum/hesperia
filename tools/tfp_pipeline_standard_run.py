@@ -46,13 +46,27 @@ def check_conflict_gate_exit(
     return 0
 
 
-def _merge_conflict_summary(out_dir: Path, summary: dict[str, Any]) -> None:
+def _merge_conflict_summary(out_dir: Path, summary: dict[str, Any], report: dict[str, Any] | None = None) -> None:
+    contract_summary = None
+    if isinstance(report, dict):
+        contract_summary = {
+            "spec_version": report.get("contradiction_contract_spec_version"),
+            "contract_valid": report.get("contradiction_contract_valid"),
+            "authoritative_artifact": "20_main_engine_full_context.json",
+            "inspection_artifact": "99_tfp_bundle_inspect.json",
+            "missing_required_fields": report.get("missing_required_contradiction_fields") or [],
+            "deprecated_fields_found": report.get("deprecated_contradiction_fields_found") or [],
+            "authority_conflicts": report.get("authority_conflicts") or [],
+        }
+
     p20 = out_dir / "20_main_engine_full_context.json"
     if p20.is_file():
         try:
             body = json.loads(p20.read_text(encoding="utf-8"))
             if isinstance(body, dict):
                 body["conflict_release_summary"] = summary
+                if contract_summary is not None:
+                    body["contradiction_contract"] = contract_summary
                 _write_json(p20, body)
         except (OSError, json.JSONDecodeError):
             pass
@@ -62,6 +76,8 @@ def _merge_conflict_summary(out_dir: Path, summary: dict[str, Any]) -> None:
             man = json.loads(pm.read_text(encoding="utf-8"))
             if isinstance(man, dict):
                 man["conflict_release_summary"] = summary
+                if contract_summary is not None:
+                    man["contradiction_contract"] = contract_summary
                 _write_json(pm, man)
         except (OSError, json.JSONDecodeError):
             pass
@@ -135,7 +151,7 @@ def main() -> int:
         p99 = out_dir / "99_tfp_bundle_inspect.json"
         _write_json(p99, report)
         summ = report.get("conflict_release_summary") or {}
-        _merge_conflict_summary(out_dir, summ)
+        _merge_conflict_summary(out_dir, summ, report)
         return check_conflict_gate_exit(
             report,
             fail_on_conflict_gate=args.fail_on_conflict_gate,
@@ -205,7 +221,7 @@ def main() -> int:
     p99 = out_dir / "99_tfp_bundle_inspect.json"
     _write_json(p99, report)
     summ = report.get("conflict_release_summary") or {}
-    _merge_conflict_summary(out_dir, summ)
+    _merge_conflict_summary(out_dir, summ, report)
 
     ec = check_conflict_gate_exit(
         report,

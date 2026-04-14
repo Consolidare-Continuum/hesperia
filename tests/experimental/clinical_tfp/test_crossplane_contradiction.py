@@ -217,6 +217,9 @@ def test_inspector_flags_underreporting(tmp_path: Path) -> None:
     assert "conflict_integrity_score" in report
     assert "release_conflict_gates" in report
     assert "conflict_release_summary" in report
+    assert "contradiction_contract_valid" in report
+    assert "missing_required_contradiction_fields" in report
+    assert "deprecated_contradiction_fields_found" in report
 
 
 def test_inspector_flags_feedback_trace_missing(tmp_path: Path) -> None:

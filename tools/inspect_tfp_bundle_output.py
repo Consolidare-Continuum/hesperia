@@ -11,6 +11,7 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from hesperia.extensions.triz.contradiction_contract import validate_contradiction_contract
 from hesperia.extensions.triz.conflict_release_gating import (
     build_conflict_release_summary,
     build_release_conflict_gates,
@@ -45,6 +46,7 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
     d05 = _load(bundle_dir / "05_sealed_multiscale.json")
     d06 = _load(bundle_dir / "06_product_analyze.json")
     d09 = _load(bundle_dir / "09_session_topology.json")
+    d20 = _load(bundle_dir / "20_main_engine_full_context.json")
 
     m04 = _session_map(d04)
     m05 = _session_map(d05)
@@ -269,6 +271,26 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
     overall = all(s.get("crossplane_contradiction_consistency") for s in per_session) if per_session else True
     integrity = evaluate_conflict_integrity(session_flag_rows)
     summary = build_conflict_release_summary(integrity)
+    contract = validate_contradiction_contract(
+        {
+            "04_dlcr_full.json": d04,
+            "05_sealed_multiscale.json": d05,
+            "06_product_analyze.json": d06,
+            "09_session_topology.json": d09,
+            "20_main_engine_full_context.json": d20,
+            "00_manifest.json": _load(bundle_dir / "00_manifest.json"),
+        }
+    )
+    if contract["contract_valid"]:
+        contract_recommended_action = "none"
+    elif contract["authority_conflicts"]:
+        contract_recommended_action = "stop_promotion_and_fix_authority_conflicts"
+    elif contract["missing_required_fields"]:
+        contract_recommended_action = "fill_required_contradiction_fields_and_reinspect"
+    elif contract["deprecated_fields_found"]:
+        contract_recommended_action = "remove_deprecated_alias_fields_and_reinspect"
+    else:
+        contract_recommended_action = "inspect_compatibility_notes"
     ps_detail = (integrity.get("release_conflict_gates") or {}).get("per_session") or []
     for i, row in enumerate(ps_detail):
         if i < len(per_session):
@@ -283,6 +305,14 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         "promotion_conflict_reasons": integrity["promotion_conflict_reasons"],
         "release_conflict_gates": integrity["release_conflict_gates"],
         "conflict_release_summary": summary,
+        "contradiction_contract_spec_version": contract["spec_version"],
+        "contradiction_contract_valid": contract["contract_valid"],
+        "missing_required_contradiction_fields": contract["missing_required_fields"],
+        "deprecated_contradiction_fields_found": contract["deprecated_fields_found"],
+        "authority_conflicts": contract["authority_conflicts"],
+        "contract_compatibility_notes": contract["compatibility_notes"],
+        "contract_missing_required_artifacts": contract["missing_required_artifacts"],
+        "contract_recommended_action": contract_recommended_action,
         "sessions": per_session,
     }
 
