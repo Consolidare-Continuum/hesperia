@@ -18,9 +18,13 @@ from hesperia.extensions.triz.contradiction_coupling import (
     count_contradiction_rows_used,
     enrich_contradiction_rows,
 )
+from hesperia.extensions.triz.contradiction_negation import (
+    build_concept_inhibition_summary,
+    build_negation_activation_summary,
+)
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
-CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task5"
+CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
 
 
 def _repo_root() -> Path:
@@ -173,6 +177,7 @@ def build_invariant_tfp_activation(
     embedding: dict[str, Any] | None = None,
     contradictions: list[dict[str, Any]] | None = None,
     uncertainty_package: dict[str, Any] | None = None,
+    lexical_negation_summary: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     runtime = load_tfp_runtime_bundle()
     calibration = runtime["calibration"]
@@ -197,6 +202,20 @@ def build_invariant_tfp_activation(
     inh_scale = float(calibration.get("inhibition_scale") or 1.0)
     base_matrix = list(inhibition_payload.get("matrix") or [])
 
+    neg_act_summary = build_negation_activation_summary(
+        stabilized_pre_hex,
+        concepts_post_hex,
+        hex_delta,
+        lexical_negation_summary,
+    )
+    inh_summary = build_concept_inhibition_summary(
+        stabilized_pre_hex,
+        concepts_post_hex,
+        hex_delta,
+        af,
+        list(AREA_IDS),
+    )
+
     use_contradiction_coupling = bool(contradictions)
     used_rows = 0
     pressure_map = {a: 0.0 for a in AREA_IDS}
@@ -210,6 +229,9 @@ def build_invariant_tfp_activation(
             contradictions,
             uncertainty_package,
             concepts_post_hex,
+            concept_weights_stabilized=stabilized_pre_hex,
+            hex_feedback_delta=hex_delta,
+            lexical_negation_summary=lexical_negation_summary,
         )
         used_rows = count_contradiction_rows_used(enriched, af, AREA_IDS)
         pressure_map_raw = build_area_contradiction_pressure(
@@ -222,7 +244,7 @@ def build_invariant_tfp_activation(
             enriched, af, AREA_IDS, use_effective_scores=False
         )
         dynamic_delta_out = build_dynamic_inhibition_delta(
-            enriched, af, AREA_IDS, use_effective_scores=True
+            enriched, af, AREA_IDS, use_effective_scores=True, use_latent_scores=True
         )
         coupled = apply_contradiction_coupling(
             areas_raw,
@@ -284,6 +306,8 @@ def build_invariant_tfp_activation(
         ],
         "contradiction_coupling_active": coupling_effective,
         "contradiction_count_used": int(used_rows),
+        "negation_activation_summary": neg_act_summary,
+        "concept_inhibition_summary": inh_summary,
         "invariant_activation": {
             "path_id": str(calibration.get("invariant_path_id") or "unknown"),
             "config_version": str(calibration.get("version") or "unknown"),

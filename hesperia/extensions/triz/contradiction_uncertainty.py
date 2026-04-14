@@ -7,7 +7,7 @@ import math
 from typing import Any
 
 _EPS = 1e-15
-UNCERTAINTY_VERSION = "tfp_v0_5_8_task5"
+UNCERTAINTY_VERSION = "tfp_v0_5_8_task6"
 
 
 def _clamp01(x: float) -> float:
@@ -69,8 +69,9 @@ def build_uncertainty_package(
     support = float(mss) if mss > _EPS else max(0.0, min(1.0, 1.0 - 0.55 * weak - 0.35 * amb))
 
     active = bool(lex) or bool(concepts)
+    lex_neg = lex.get("negation_summary") if isinstance(lex.get("negation_summary"), dict) else {}
 
-    return {
+    out: dict[str, Any] = {
         "uncertainty_version": UNCERTAINTY_VERSION,
         "lexical_uncertainty": round(lexical_uncertainty, 6),
         "concept_uncertainty": round(concept_uncertainty, 6),
@@ -80,3 +81,6 @@ def build_uncertainty_package(
         "concept_support_strength": round(support, 6),
         "uncertainty_coupling_active": active,
     }
+    if lex_neg:
+        out["lexical_negation_summary"] = dict(lex_neg)
+    return out

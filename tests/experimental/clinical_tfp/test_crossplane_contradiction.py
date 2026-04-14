@@ -54,6 +54,11 @@ def test_crossplane_package_required_fields() -> None:
         "contradiction_coupling_active",
         "contradiction_confidence_mean",
         "lexical_semantic_conflict_split",
+        "activation_conflict_load",
+        "latent_conflict_load",
+        "contradiction_mode_summary",
+        "negation_conflict_component",
+        "inhibition_conflict_component",
     ):
         assert k in pkg
     assert 0.0 <= float(pkg["global_contradiction_load"]) <= 1.0

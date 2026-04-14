@@ -29,6 +29,7 @@ from core.pipeline.dynamics import (
     dispersion_index,
     smooth_toward_mean,
 )
+from core.lexical.matcher import _collect_negative_blocks
 from core.pipeline.lexical import match_dict_a, normalize_text, prepare_structural_analysis_text
 from core.pipeline.projection import project_concepts_to_hex
 from core.pipeline.resolver import resolve_hit
@@ -811,6 +812,18 @@ def _analyze_internal(
     result["lexical_uncertainty_summary"] = lex_u
     result["concept_uncertainty_summary"] = con_u
     result["concept_support_summary"] = sup_u
+    ct_for_neg = str(norm.get("canonical_text") or "")
+    try:
+        neg_blocks = _collect_negative_blocks(ct_for_neg, dict_a)
+        neg_cov = sum(max(0, int(e) - int(s)) for s, e in neg_blocks)
+        negated_marker_ratio = min(1.0, float(neg_cov) / float(max(1, len(ct_for_neg))))
+    except Exception:
+        negated_marker_ratio = 0.0
+    result["negation_summary"] = {
+        "negated_marker_ratio": round(float(negated_marker_ratio), 6),
+        "negated_concept_ratio": 0.0,
+        "concept_negation_burden": {},
+    }
     apply_crossplane_contradiction_fields_to_dlcr_result(result, contradiction_package)
     return result
 

@@ -100,6 +100,25 @@ def _product_contradiction_extensions(
         "concept_ambiguity_component": round(float(split.get("likely_conceptual_ambiguity") or 0.0), 6),
         "semantic_conflict_component": round(float(split.get("likely_semantic_real") or 0.0), 6),
     }
+    act_cf = float(contradiction_package.get("activation_conflict_load") or eff_l)
+    lat_cf = float(contradiction_package.get("latent_conflict_load") or act_cf)
+    mode_sum = contradiction_package.get("contradiction_mode_summary") or {}
+    neg_c = float(contradiction_package.get("negation_conflict_component") or 0.0)
+    inh_c = float(contradiction_package.get("inhibition_conflict_component") or 0.0)
+    conflict_mode_summary = dict(mode_sum) if isinstance(mode_sum, dict) else {}
+    latent_vs_overt_conflict = {
+        "overt_conflict_load": round(act_cf, 6),
+        "latent_conflict_load": round(lat_cf, 6),
+        "conflict_is_partly_suppressed": bool(lat_cf > act_cf + 0.06),
+    }
+    negation_inhibition_conflict_alignment = {
+        "negation_visible_in_conflict_model": bool(neg_c > 0.08),
+        "inhibition_visible_in_conflict_model": bool(inh_c > 0.08),
+        "alignment_score": round(
+            max(0.0, min(1.0, 1.0 - 0.5 * abs(act_cf - lat_cf) + 0.25 * min(neg_c, inh_c))),
+            6,
+        ),
+    }
     return {
         "contradiction_summary": {
             "global_load": round(g, 6),
@@ -115,6 +134,9 @@ def _product_contradiction_extensions(
         "verdict_conflict_alignment": verdict_conflict_alignment,
         "product_stability_under_contradiction": round(max(0.0, min(1.0, product_stability * (1.0 - 0.35 * eff_l))), 6),
         "session_contradiction_mode": session_mode,
+        "conflict_mode_summary": conflict_mode_summary,
+        "latent_vs_overt_conflict": latent_vs_overt_conflict,
+        "negation_inhibition_conflict_alignment": negation_inhibition_conflict_alignment,
     }
 
 

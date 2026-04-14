@@ -55,13 +55,14 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         st = (row09.get("session_topology") or {}) if isinstance(row09, dict) else {}
         meta = (st.get("curve_projection_meta") or {}).get("contradiction_summary") or {}
         g_topo = float(meta.get("max_segment_contradiction_load") or 0.0)
-        cpkg = row04.get("crossplane_contradiction_package")
+        cpkg_raw = row04.get("crossplane_contradiction_package")
+        cpkg = cpkg_raw if isinstance(cpkg_raw, dict) else {}
         pkg_g = float(row04.get("contradiction_load") or 0.0)
-        if isinstance(cpkg, dict) and cpkg.get("global_contradiction_load") is not None:
+        if cpkg.get("global_contradiction_load") is not None:
             pkg_g = max(pkg_g, float(cpkg.get("global_contradiction_load") or 0.0))
-        raw_l = float(cpkg.get("raw_contradiction_load") or 0.0) if isinstance(cpkg, dict) else 0.0
-        eff_l = float(cpkg.get("effective_contradiction_load") or 0.0) if isinstance(cpkg, dict) else pkg_g
-        mconf = float(cpkg.get("contradiction_confidence_mean") or 1.0) if isinstance(cpkg, dict) else 1.0
+        raw_l = float(cpkg.get("raw_contradiction_load") or 0.0)
+        eff_l = float(cpkg.get("effective_contradiction_load") or pkg_g)
+        mconf = float(cpkg.get("contradiction_confidence_mean") or 1.0)
         raw_vs_effective_gap = abs(raw_l - eff_l)
         ext = (row06.get("extended") or {}) if isinstance(row06.get("extended"), dict) else {}
         vca = ext.get("verdict_conflict_alignment") or {}
@@ -88,11 +89,44 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
         conflict_confidence_consistency = not (
             high_raw_low_conf and mode == "conflict_dominant" and sem_rel > 0.72
         )
+        neg_ms = cpkg.get("contradiction_mode_summary") or {}
+        act_cf = float(cpkg.get("activation_conflict_load") or eff_l)
+        lat_cf = float(cpkg.get("latent_conflict_load") or act_cf)
+        neg_comp = float(cpkg.get("negation_conflict_component") or 0.0)
+        inh_comp = float(cpkg.get("inhibition_conflict_component") or 0.0)
+        dlr_neg = row04.get("negation_summary") if isinstance(row04.get("negation_summary"), dict) else {}
+        neg_mark = float(dlr_neg.get("negated_marker_ratio") or 0.0)
+        lvo = ext.get("latent_vs_overt_conflict") or {}
+        negation_conflict_misalignment = bool(
+            eff_l > 0.42 and neg_mark > 0.32 and float(neg_ms.get("negated_opposition_share") or 0.0) < 0.08
+        )
+        latent_conflict_underreported = bool(act_cf < 0.22 and lat_cf > 0.48 and mode == "coherent")
+        coactive_conflict_overclaimed = bool(
+            mode in {"conflict_dominant", "conflict_bearing_interpretable"}
+            and float(neg_ms.get("inhibited_opposition_share") or 0.0)
+            + float(neg_ms.get("negated_opposition_share") or 0.0)
+            > 0.55
+        )
+        suppressed_conflict_disappearance = bool(
+            inh_comp > 0.32
+            and float(lvo.get("overt_conflict_load") or 0.0) < 0.18
+            and float(lvo.get("latent_conflict_load") or 0.0) < 0.12
+        )
+        conflict_mode_consistency = bool(
+            not negation_conflict_misalignment
+            and not latent_conflict_underreported
+            and not coactive_conflict_overclaimed
+            and not suppressed_conflict_disappearance
+        )
         crossplane_ok = not (
             product_underreports_conflict
             or dlcr_conflict_misalignment
             or multiscale_conflict_collapse
             or (likely_lexical_contamination and sem_rel > 0.75 and mode == "coherent")
+            or negation_conflict_misalignment
+            or latent_conflict_underreported
+            or coactive_conflict_overclaimed
+            or suppressed_conflict_disappearance
         )
         per_session.append(
             {
@@ -112,9 +146,18 @@ def inspect_bundle(bundle_dir: Path) -> dict[str, Any]:
                 "conflict_confidence_summary_echo": cfs,
                 "recommended_next_action": (
                     "review_contradiction_rows_and_rerun"
-                    if product_underreports_conflict or dlcr_conflict_misalignment or likely_lexical_contamination
+                    if product_underreports_conflict
+                    or dlcr_conflict_misalignment
+                    or likely_lexical_contamination
+                    or negation_conflict_misalignment
+                    or latent_conflict_underreported
                     else "none"
                 ),
+                "negation_conflict_misalignment": negation_conflict_misalignment,
+                "latent_conflict_underreported": latent_conflict_underreported,
+                "coactive_conflict_overclaimed": coactive_conflict_overclaimed,
+                "suppressed_conflict_disappearance": suppressed_conflict_disappearance,
+                "conflict_mode_consistency": conflict_mode_consistency,
             }
         )
 

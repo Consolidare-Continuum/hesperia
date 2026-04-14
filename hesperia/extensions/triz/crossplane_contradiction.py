@@ -8,10 +8,14 @@ from typing import Any
 
 from hesperia.engine.tfp_signal_calibration import load_tfp_signal_calibration
 from hesperia.extensions.triz.contradiction_coupling import build_area_contradiction_pressure
+from hesperia.extensions.triz.contradiction_negation import (
+    build_contradiction_mode_summary,
+    crossplane_negation_inhibition_components,
+)
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 _EPS = 1e-15
-CROSSPLANE_VERSION = "tfp_v0_5_8_task5"
+CROSSPLANE_VERSION = "tfp_v0_5_8_task6"
 
 
 def _clamp01(x: float) -> float:
@@ -31,6 +35,35 @@ def _variance(xs: list[float]) -> float:
         return 0.0
     m = _mean(xs)
     return float(sum((x - m) ** 2 for x in xs)) / float(len(xs))
+
+
+def _row_activation_latent_lists(rows: list[dict[str, Any]]) -> tuple[list[float], list[float]]:
+    act_vals: list[float] = []
+    lat_vals: list[float] = []
+    for r in rows:
+        if not isinstance(r, dict):
+            continue
+        raw = float(r.get("raw_contradiction_score") or r.get("score") or 0.0)
+        if raw <= _EPS:
+            continue
+        ea = r.get("effective_activation_score")
+        el = r.get("effective_latent_conflict_score")
+        es = r.get("effective_score")
+        if ea is not None:
+            act_vals.append(float(ea))
+        elif es is not None:
+            act_vals.append(float(es))
+        else:
+            act_vals.append(raw)
+        if el is not None:
+            lat_vals.append(float(el))
+        elif ea is not None:
+            lat_vals.append(float(ea))
+        elif es is not None:
+            lat_vals.append(float(es))
+        else:
+            lat_vals.append(raw)
+    return act_vals, lat_vals
 
 
 def _mean_pair_confidence(rows: list[dict[str, Any]]) -> float:
@@ -164,6 +197,12 @@ def build_crossplane_contradiction_package(
 
     split = _lexical_semantic_split(uncertainty_package, raw_contradiction_load, effective_contradiction_load, mean_conf)
 
+    act_vals, lat_vals = _row_activation_latent_lists(rows)
+    activation_conflict_load = _clamp01(_mean(act_vals) if act_vals else effective_contradiction_load)
+    latent_conflict_load = _clamp01(_mean(lat_vals) if lat_vals else activation_conflict_load)
+    contradiction_mode_summary = build_contradiction_mode_summary(rows)
+    neg_comp, inh_comp = crossplane_negation_inhibition_components(rows)
+
     out: dict[str, Any] = {
         "crossplane_version": CROSSPLANE_VERSION,
         "global_contradiction_load": round(effective_contradiction_load, 6),
@@ -181,5 +220,10 @@ def build_crossplane_contradiction_package(
         "contradiction_confidence_distribution": _confidences_distribution(rows),
         "uncertainty_adjusted_conflict_index": round(un_adj, 6),
         "lexical_semantic_conflict_split": split,
+        "activation_conflict_load": round(activation_conflict_load, 6),
+        "latent_conflict_load": round(latent_conflict_load, 6),
+        "contradiction_mode_summary": contradiction_mode_summary,
+        "negation_conflict_component": round(neg_comp, 6),
+        "inhibition_conflict_component": round(inh_comp, 6),
     }
     return out

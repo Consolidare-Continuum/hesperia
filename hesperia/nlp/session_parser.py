@@ -263,6 +263,7 @@ def analyze_session(
     evidence_volume_normalize: bool = False,
     contradictions: list[dict[str, Any]] | None = None,
     uncertainty_package: dict[str, Any] | None = None,
+    lexical_negation_summary: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Полный пайплайн: текст сессии → токены → n-граммы → детекция маркеров (токены + фразы) → активация.
@@ -329,6 +330,7 @@ def analyze_session(
         apply_semantic_state=apply_semantic_state,
         contradictions=contradictions,
         uncertainty_package=uncertainty_package,
+        lexical_negation_summary=lexical_negation_summary,
     )
     activation["runtime_compat"] = {
         "normalize_scores_requested": bool(normalize_scores),

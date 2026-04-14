@@ -6,7 +6,14 @@ from __future__ import annotations
 import math
 from typing import Any
 
+from hesperia.extensions.triz.contradiction_negation import (
+    build_negation_activation_summary,
+    classify_contradiction_mode,
+    pair_effective_activation_latent,
+)
+
 _EPS = 1e-15
+CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
 
 
 def _extract_pair_and_score(row: dict[str, Any]) -> tuple[str | None, str | None, float]:
@@ -113,14 +120,34 @@ def enrich_contradiction_rows(
     rows: list[dict[str, Any]] | None,
     uncertainty_package: dict[str, Any] | None,
     concept_weights: dict[str, float] | None,
+    *,
+    concept_weights_stabilized: dict[str, float] | None = None,
+    hex_feedback_delta: dict[str, float] | None = None,
+    lexical_negation_summary: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     """
-    Attach ``confidence`` and ``effective_score`` to each row; preserve raw magnitude in
-    ``raw_contradiction_score`` for auditing.
+    Attach ``confidence``, ``effective_score`` (activation-side), mode, and dual effective scores.
+
+    When stabilization / hex summaries are omitted, behavior matches task5 (mode ambiguous, scores equal).
     """
     if not rows:
         return []
     cw = concept_weights or {}
+    stab = concept_weights_stabilized if concept_weights_stabilized is not None else cw
+    hd = hex_feedback_delta if isinstance(hex_feedback_delta, dict) else {}
+    neg_b: dict[str, float] = {}
+    inh_b: dict[str, float] = {}
+    if stab and cw:
+        nas = build_negation_activation_summary(stab, cw, hd, lexical_negation_summary)
+        neg_b = {str(k): float(v) for k, v in (nas.get("concept_negation_burden") or {}).items()}
+        for cid in set(stab) | set(cw):
+            s = max(0.0, float(stab.get(str(cid), 0.0) or 0.0))
+            p = max(0.0, float(cw.get(str(cid), 0.0) or 0.0))
+            if s <= _EPS:
+                inh_b[str(cid)] = 0.0
+            else:
+                inh_b[str(cid)] = max(0.0, min(1.0, 1.0 - p / s))
+
     out: list[dict[str, Any]] = []
     for row in _sort_contradiction_rows(list(rows)):
         r = dict(row)
@@ -129,19 +156,68 @@ def enrich_contradiction_rows(
         if ca is None or cb is None or raw_score <= _EPS:
             r["confidence"] = 0.0
             r["effective_score"] = 0.0
+            r["mode"] = "ambiguous_opposition"
+            r["effective_activation_score"] = 0.0
+            r["effective_latent_conflict_score"] = 0.0
+            r["negation_factor"] = 0.0
+            r["inhibition_factor"] = 0.0
+            r["coactivation_factor"] = 0.0
             out.append(r)
             continue
         conf = pair_confidence(str(ca), str(cb), uncertainty_package, cw)
-        eff = float(raw_score) * conf
         r["confidence"] = round(conf, 6)
-        r["effective_score"] = round(eff, 6)
+        if not neg_b and not inh_b:
+            eff = float(raw_score) * conf
+            r["effective_score"] = round(eff, 6)
+            r["mode"] = "ambiguous_opposition"
+            r["effective_activation_score"] = round(eff, 6)
+            r["effective_latent_conflict_score"] = round(eff, 6)
+            r["negation_factor"] = 0.0
+            r["inhibition_factor"] = 0.0
+            r["coactivation_factor"] = 0.0
+            out.append(r)
+            continue
+
+        cls = classify_contradiction_mode(
+            concept_a=str(ca),
+            concept_b=str(cb),
+            raw_scores={str(k): float(v) for k, v in stab.items()},
+            post_hex_scores={str(k): float(v) for k, v in cw.items()},
+            concept_negation_burden=neg_b,
+            concept_inhibition_burden=inh_b,
+        )
+        mode = str(cls.get("mode") or "ambiguous_opposition")
+        r["mode"] = mode
+        r["negation_factor"] = float(cls.get("negation_factor") or 0.0)
+        r["inhibition_factor"] = float(cls.get("inhibition_factor") or 0.0)
+        r["coactivation_factor"] = float(cls.get("coactivation_factor") or 0.0)
+
+        eff_act, eff_lat = pair_effective_activation_latent(
+            mode,
+            float(raw_score),
+            float(conf),
+            float(r["negation_factor"]),
+            float(r["inhibition_factor"]),
+            float(r["coactivation_factor"]),
+        )
+        r["effective_activation_score"] = round(eff_act, 6)
+        r["effective_latent_conflict_score"] = round(eff_lat, 6)
+        r["effective_score"] = round(eff_act, 6)
         out.append(r)
     return out
 
 
-def _row_pressure_score(row: dict[str, Any], *, use_effective: bool) -> float:
-    if use_effective and row.get("effective_score") is not None:
-        return float(row["effective_score"])
+def _row_pressure_score(
+    row: dict[str, Any],
+    *,
+    use_effective: bool,
+    score_field: str = "effective_activation_score",
+) -> float:
+    if use_effective:
+        if row.get(score_field) is not None:
+            return float(row[score_field])
+        if row.get("effective_score") is not None:
+            return float(row["effective_score"])
     if row.get("raw_contradiction_score") is not None:
         return float(row["raw_contradiction_score"])
     _, _, sc = _extract_pair_and_score(row)
@@ -154,16 +230,18 @@ def build_area_contradiction_pressure(
     area_ids: list[str],
     *,
     use_effective_scores: bool = True,
+    use_latent_scores: bool = False,
 ) -> dict[str, float]:
-    """Per-area pressure in [0, 1], max-normalized. Uses ``effective_score`` when present and requested."""
+    """Per-area pressure in [0, 1], max-normalized. Activation field unless ``use_latent_scores``."""
     accum = {a: 0.0 for a in area_ids}
     valid_areas = set(area_ids)
     if not contradictions:
         return accum
 
+    field = "effective_latent_conflict_score" if use_latent_scores else "effective_activation_score"
     for row in _sort_contradiction_rows(list(contradictions)):
         ca, cb, _s = _extract_pair_and_score(row)
-        sc = _row_pressure_score(row, use_effective=use_effective_scores)
+        sc = _row_pressure_score(row, use_effective=use_effective_scores, score_field=field)
         if ca is None or cb is None or sc <= _EPS:
             continue
         aa = _resolve_area(ca, concept_to_area_family)
@@ -186,8 +264,9 @@ def build_dynamic_inhibition_delta(
     area_ids: list[str],
     *,
     use_effective_scores: bool = True,
+    use_latent_scores: bool = True,
 ) -> list[list[float]]:
-    """Symmetric off-diagonal inhibition delta, max-normalized (confidence-adjusted when requested)."""
+    """Symmetric off-diagonal inhibition delta; prefers latent effective scores for suppressed conflict."""
     n = len(area_ids)
     delta = [[0.0 for _ in range(n)] for _ in range(n)]
     index = {aid: i for i, aid in enumerate(area_ids)}
@@ -196,9 +275,10 @@ def build_dynamic_inhibition_delta(
     if not contradictions:
         return delta
 
+    field = "effective_latent_conflict_score" if use_latent_scores else "effective_activation_score"
     for row in _sort_contradiction_rows(list(contradictions)):
         ca, cb, _s = _extract_pair_and_score(row)
-        sc = _row_pressure_score(row, use_effective=use_effective_scores)
+        sc = _row_pressure_score(row, use_effective=use_effective_scores, score_field=field)
         if ca is None or cb is None or sc <= _EPS:
             continue
         aa = _resolve_area(ca, concept_to_area_family)

@@ -103,3 +103,6 @@ def test_crossplane_has_raw_effective() -> None:
     assert "raw_contradiction_load" in pkg
     assert "effective_contradiction_load" in pkg
     assert "lexical_semantic_conflict_split" in pkg
+    assert "activation_conflict_load" in pkg
+    assert "latent_conflict_load" in pkg
+    assert "contradiction_mode_summary" in pkg

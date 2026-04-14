@@ -447,15 +447,25 @@ def run_pipeline(
             except Exception as ex:  # noqa: BLE001
                 dlcr_body = {"_error": str(ex)}
 
+        lexical_neg_summary: dict[str, Any] | None = None
+        if isinstance(dlcr_body, dict) and not dlcr_body.get("_error"):
+            neg_raw = dlcr_body.get("negation_summary")
+            lexical_neg_summary = dict(neg_raw) if isinstance(neg_raw, dict) else None
+
         from hesperia.extensions.triz.contradiction_uncertainty import build_uncertainty_package
         from hesperia.extensions.triz.contradiction_coupling import enrich_contradiction_rows
 
         unc = build_uncertainty_package(dlcr_body if isinstance(dlcr_body, dict) else {}, act_plain)
         concepts_plain = act_plain.get("concepts") if isinstance(act_plain, dict) else {}
+        stab_plain = act_plain.get("concept_weights_stabilized") if isinstance(act_plain, dict) else None
+        hex_plain = act_plain.get("hex_feedback_delta") if isinstance(act_plain, dict) else None
         ce = enrich_contradiction_rows(
             contra_rows,
             unc,
             concepts_plain if isinstance(concepts_plain, dict) else {},
+            concept_weights_stabilized=stab_plain if isinstance(stab_plain, dict) else None,
+            hex_feedback_delta=hex_plain if isinstance(hex_plain, dict) else None,
+            lexical_negation_summary=lexical_neg_summary,
         )
 
         if with_topology:
@@ -486,6 +496,7 @@ def run_pipeline(
                 embedding=embedding or None,
                 contradictions=ce if ce else None,
                 uncertainty_package=unc,
+                lexical_negation_summary=lexical_neg_summary,
             )
             topo_full: dict[str, Any] = {}
             for tp in session_topo:
