@@ -338,6 +338,7 @@ def run_pipeline(
     session_topo: list[dict[str, Any]] = []
     session_main_engine_full_context: list[dict[str, Any]] = []
     contradiction_pipeline_rows: list[dict[str, Any]] = []
+    crossplane_by_session: dict[str, dict[str, Any]] = {}
 
     for sid, t in zip(sids, texts):
         t = (t or "").strip()
@@ -379,62 +380,15 @@ def run_pipeline(
             except Exception as ex:  # noqa: BLE001
                 session_hex.append({"session_id": sid, "_error": str(ex)})
 
-        if not skip_dlcr:
-            try:
-                body = run_dlcr_pipeline(t, repo_root=_REPO, mode=dlcr_mode)
-                body = dict(body)
-                body["run"] = "tfp_file_pipeline_dlcr"
-                body["session_id"] = sid
-                body["input"] = _text_preview(t)
-                session_dlcr.append(body)
-            except Exception as ex:  # noqa: BLE001
-                session_dlcr.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
-
-        if not skip_sealed:
-            try:
-                bundle = run_sealed_multiscale_stack(t, assets, use_triz_contradiction=False)
-                session_sealed.append(
-                    {"session_id": sid, "run": "tfp_file_pipeline_sealed", **_round_floats(dict(bundle))}
-                )
-            except Exception as ex:  # noqa: BLE001
-                session_sealed.append({"session_id": sid, "_error": str(ex)})
-
-        if not skip_analyze:
-            try:
-                minimal, extended = analyze(t, r1_r4=with_r1_r4)
-                session_analyze.append(
-                    {
-                        "session_id": sid,
-                        "input": _text_preview(t),
-                        "result": minimal,
-                        "extended": dict(extended),
-                    }
-                )
-            except Exception as ex:  # noqa: BLE001
-                session_analyze.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
-
-        if with_kme:
-            try:
-                from hesperia.engine.kme.clinical_bridge import run_session_kme_pipeline
-                from hesperia.engine.kme.pipeline import metric_report_to_dict
-                from core.projection import apply_public_projection
-
-                report = run_session_kme_pipeline(t, source_id=sid)
-                body = apply_public_projection(
-                    {"session_id": sid, "input": _text_preview(t), "report": metric_report_to_dict(report)}
-                )
-                session_kme.append(_round_floats(body))
-            except Exception as ex:  # noqa: BLE001
-                session_kme.append({"session_id": sid, "_error": str(ex)})
-
+        triz_row_for_sid: dict[str, Any] | None = None
         if with_triz:
             try:
                 from hesperia.engine.kme.clinical_bridge import build_clinical_active_graph
                 from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
                 from runtime.pipeline.run_e2e_all import _activation_topology_maps, _slim_csv_exports
 
-                act = analyze_session(t, embedding=embedding or None)
-                ag = build_clinical_active_graph(act)
+                act_triz = analyze_session(t, embedding=embedding or None)
+                ag = build_clinical_active_graph(act_triz)
                 payload = {
                     "nodes": {cid: {"hitCount": n.hit_count} for cid, n in sorted(ag.nodes.items())},
                     "edges": [
@@ -449,11 +403,11 @@ def run_pipeline(
                         )
                     ],
                 }
-                topo = _activation_topology_maps(act, set(ag.nodes.keys()))
+                topo_maps = _activation_topology_maps(act_triz, set(ag.nodes.keys()))
                 ag2 = active_graph_from_payload(payload)
                 content = run_triz_analysis_complete(
                     ag2,
-                    topo,
+                    topo_maps,
                     narrative_id=sid,
                     run_id=None,
                     topology_mode=True,
@@ -461,31 +415,23 @@ def run_pipeline(
                 _slim_csv_exports(content)
                 from core.projection import apply_public_projection
 
-                session_triz.append(
-                    apply_public_projection(
-                        _round_floats(
-                            {"session_id": sid, "input": _text_preview(t), "triz_complete": content}
-                        )
-                    )
+                triz_row_for_sid = apply_public_projection(
+                    _round_floats({"session_id": sid, "input": _text_preview(t), "triz_complete": content})
                 )
+                session_triz.append(triz_row_for_sid)
             except Exception as ex:  # noqa: BLE001
-                session_triz.append({"session_id": sid, "_error": str(ex)})
+                triz_row_for_sid = {"session_id": sid, "_error": str(ex)}
+                session_triz.append(triz_row_for_sid)
+
+        contra_rows: list[dict[str, Any]] = []
+        if with_triz:
+            contra_rows = _contradiction_rows_from_triz_session(triz_row_for_sid)
+        if not contra_rows:
+            disk_rows, _src = _load_contradictions(out_dir, sid)
+            contra_rows = disk_rows
 
         if with_topology:
             try:
-                triz_row_for_sid = next(
-                    (
-                        r
-                        for r in session_triz
-                        if str(r.get("session_id")) == sid and not r.get("_error")
-                    ),
-                    None,
-                )
-                contra_rows: list[dict[str, Any]] = []
-                if with_triz:
-                    contra_rows = _contradiction_rows_from_triz_session(triz_row_for_sid)
-                if not contra_rows:
-                    contra_rows, _ = _load_contradictions(out_dir, sid)
                 full = run_session_topology(
                     t,
                     contradictions=contra_rows if contra_rows else None,
@@ -502,6 +448,99 @@ def run_pipeline(
                 session_topo.append({"session_id": sid, "session_topology": full})
             except Exception as ex:  # noqa: BLE001
                 session_topo.append({"session_id": sid, "_error": str(ex)})
+
+        contradiction_package: dict[str, Any] | None = None
+        try:
+            from hesperia.extensions.triz.crossplane_contradiction import build_crossplane_contradiction_package
+
+            act_for_pkg = analyze_session(
+                t,
+                embedding=embedding or None,
+                contradictions=contra_rows if contra_rows else None,
+            )
+            topo_full: dict[str, Any] = {}
+            for tp in session_topo:
+                if str(tp.get("session_id")) == str(sid) and not tp.get("_error"):
+                    topo_full = tp.get("session_topology") or {}
+                    break
+            contradiction_package = build_crossplane_contradiction_package(
+                activation=act_for_pkg,
+                topology=topo_full,
+                contradictions=contra_rows if contra_rows else None,
+            )
+            crossplane_by_session[str(sid)] = _round_floats(dict(contradiction_package))
+        except Exception as ex:  # noqa: BLE001
+            contradiction_package = None
+            crossplane_by_session[str(sid)] = {"_error": str(ex)}
+
+        if not skip_dlcr:
+            try:
+                body = run_dlcr_pipeline(
+                    t,
+                    repo_root=_REPO,
+                    mode=dlcr_mode,
+                    contradiction_package=contradiction_package,
+                )
+                body = dict(body)
+                body["run"] = "tfp_file_pipeline_dlcr"
+                body["session_id"] = sid
+                body["input"] = _text_preview(t)
+                if contradiction_package:
+                    body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                session_dlcr.append(body)
+            except Exception as ex:  # noqa: BLE001
+                session_dlcr.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
+
+        if not skip_sealed:
+            try:
+                bundle = run_sealed_multiscale_stack(
+                    t,
+                    assets,
+                    use_triz_contradiction=False,
+                    contradiction_package=contradiction_package,
+                )
+                sealed_body = _round_floats(dict(bundle))
+                sealed_body["crossplane_contradiction_package"] = (
+                    _round_floats(dict(contradiction_package)) if contradiction_package else None
+                )
+                session_sealed.append(
+                    {"session_id": sid, "run": "tfp_file_pipeline_sealed", **sealed_body}
+                )
+            except Exception as ex:  # noqa: BLE001
+                session_sealed.append({"session_id": sid, "_error": str(ex)})
+
+        if not skip_analyze:
+            try:
+                minimal, extended = analyze(
+                    t,
+                    r1_r4=with_r1_r4,
+                    contradiction_package=contradiction_package,
+                )
+                analyze_row = {
+                    "session_id": sid,
+                    "input": _text_preview(t),
+                    "result": minimal,
+                    "extended": dict(extended),
+                }
+                if contradiction_package:
+                    analyze_row["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                session_analyze.append(analyze_row)
+            except Exception as ex:  # noqa: BLE001
+                session_analyze.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
+
+        if with_kme:
+            try:
+                from hesperia.engine.kme.clinical_bridge import run_session_kme_pipeline
+                from hesperia.engine.kme.pipeline import metric_report_to_dict
+                from core.projection import apply_public_projection
+
+                report = run_session_kme_pipeline(t, source_id=sid)
+                body = apply_public_projection(
+                    {"session_id": sid, "input": _text_preview(t), "report": metric_report_to_dict(report)}
+                )
+                session_kme.append(_round_floats(body))
+            except Exception as ex:  # noqa: BLE001
+                session_kme.append({"session_id": sid, "_error": str(ex)})
 
     if with_topology and not skip_triz_activation:
         from hesperia.extensions.triz.topology_activation_pipeline import (
@@ -680,6 +719,9 @@ def run_pipeline(
                 bundle_dir=out_dir,
                 embedding=embedding or None,
             )
+            cp = crossplane_by_session.get(str(sid))
+            if cp is not None:
+                row["crossplane_contradiction"] = cp
             session_main_engine_full_context.append(row)
             contradiction_pipeline_rows.append(trace)
         except Exception as exc:  # noqa: BLE001
@@ -711,9 +753,10 @@ def run_pipeline(
         {
             "run": "tfp_file_pipeline_main_engine_full_context",
             "sessions": session_main_engine_full_context,
-            "contradiction_pipeline": contradiction_pipeline_rows,
-            "operational_envelope": default_operational_envelope(),
-        },
+        "contradiction_pipeline": contradiction_pipeline_rows,
+        "crossplane_contradiction_by_session": crossplane_by_session,
+        "operational_envelope": default_operational_envelope(),
+    },
     )
     written["20_main_engine_full_context.json"] = str(p)
 
@@ -778,6 +821,7 @@ def run_pipeline(
         },
         "artifacts": written,
         "contradiction_pipeline": contradiction_pipeline_rows,
+        "crossplane_contradiction_by_session": crossplane_by_session,
         "triz_activation": triz_activation_paths,
         "errors": errors,
         "operational_envelope": manifest_operational_envelope,

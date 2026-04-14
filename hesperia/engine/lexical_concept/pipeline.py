@@ -405,6 +405,42 @@ def compute_lexical_unmapped_token_rate(
     return unmapped / float(len(tokens))
 
 
+def _dlcr_contradiction_alignment_fields(
+    conc: float,
+    disp: float,
+    trajectory: dict[str, Any],
+    global_load: float,
+) -> dict[str, Any]:
+    """Structured DLCR ↔ cross-plane contradiction alignment (metrics only, no narrative)."""
+    g = max(0.0, min(1.0, float(global_load)))
+    disp_f = max(0.0, min(1.0, float(disp)))
+    conc_f = max(0.0, min(1.0, float(conc)))
+    seg_ct = max(1.0, float(trajectory.get("segment_count") or 1.0))
+    trans_ct = float(trajectory.get("transition_count") or 0.0)
+    jump = float(trajectory.get("jump_distance") or 0.0)
+    spread_measure = max(
+        0.0,
+        min(
+            1.0,
+            0.55 * disp_f
+            + 0.25 * min(1.0, trans_ct / max(1.0, seg_ct - 1e-9))
+            + 0.2 * min(1.0, jump / 24.0),
+        ),
+    )
+    expected_spread = max(0.0, min(1.0, 0.32 + 0.58 * g))
+    spread_vs = abs(spread_measure - expected_spread) <= 0.38
+    shape_expected = max(0.0, min(1.0, 1.0 - 1.1 * g))
+    shape_vs = abs(conc_f - shape_expected) <= 0.44
+    alignment_score = max(0.0, min(1.0, 1.0 - abs(spread_measure - expected_spread)))
+    return {
+        "spread_vs_contradiction_consistent": bool(spread_vs),
+        "shape_vs_contradiction_consistent": bool(shape_vs),
+        "alignment_score": round(float(alignment_score), 6),
+        "spread_proxy": round(float(spread_measure), 6),
+        "expected_spread_proxy": round(float(expected_spread), 6),
+    }
+
+
 def _analyze_internal(
     text: str,
     *,
@@ -413,6 +449,7 @@ def _analyze_internal(
     dict_b_paths: list[Path] | None = None,
     anchors_path: Path | None = None,
     mode: str = "clinical_speech",
+    contradiction_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Run DLCR path: normalize → match Dict A → resolve Dict B → project hex → dynamics → aggregate.
@@ -653,6 +690,21 @@ def _analyze_internal(
     result["canonical_text"] = norm["canonical_text"]
     result["span_resolutions"] = span_outputs
     result["calibration_dicts"] = calibration_manifest(repo)
+    if contradiction_package:
+        pkg = contradiction_package
+        g = float(pkg.get("global_contradiction_load") or 0.0)
+        result["contradiction_load"] = round(max(0.0, min(1.0, g)), 6)
+        result["cross_area_contradiction_mass"] = round(float(pkg.get("cross_area_contradiction_mass") or 0.0), 6)
+        result["contradiction_stability_index"] = round(float(pkg.get("contradiction_stability_index") or 0.0), 6)
+        result["contradiction_coherence_flag"] = bool(pkg.get("contradiction_coherence_flag"))
+        result["contradiction_coupling_active"] = bool(pkg.get("contradiction_coupling_active"))
+        traj = result.get("trajectory") or {}
+        result["dlcr_contradiction_alignment"] = _dlcr_contradiction_alignment_fields(
+            float(conc),
+            float(disp),
+            traj if isinstance(traj, dict) else {},
+            g,
+        )
     return result
 
 
@@ -664,6 +716,7 @@ def run_dlcr_pipeline(
     dict_b_paths: list[Path] | None = None,
     anchors_path: Path | None = None,
     mode: str = "clinical_speech",
+    contradiction_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     return _analyze_internal(
         text,
@@ -672,6 +725,7 @@ def run_dlcr_pipeline(
         dict_b_paths=dict_b_paths,
         anchors_path=anchors_path,
         mode=mode,
+        contradiction_package=contradiction_package,
     )
 
 

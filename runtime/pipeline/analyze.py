@@ -37,6 +37,62 @@ except ImportError:
     from output_contracts import to_minimal_operational_result
 
 
+def _product_contradiction_extensions(
+    minimal: dict[str, Any],
+    extended: dict[str, Any],
+    contradiction_package: dict[str, Any] | None,
+) -> dict[str, Any]:
+    """Structured product-layer contradiction metrics (06); no narrative patching."""
+    if not contradiction_package:
+        return {}
+    g = float(contradiction_package.get("global_contradiction_load") or 0.0)
+    coh_raw = None
+    if isinstance(extended.get("dict_b"), dict):
+        coh_raw = extended["dict_b"].get("coherence_index")
+    try:
+        coherence = float(coh_raw) if coh_raw is not None else 0.5
+    except (TypeError, ValueError):
+        coherence = 0.5
+    gov = float(minimal.get("governance") if minimal.get("governance") is not None else minimal.get("constraint_status") or 0.0)
+    dominance_overstates = g > 0.42 and gov > 0.68 and coherence > 0.72
+    topo_ok = bool(contradiction_package.get("contradiction_coherence_flag"))
+    dlcr_ok = abs(g - gov) < 0.38 or (g > 0.22 and gov < 0.82)
+    consistency_score = max(0.0, min(1.0, 1.0 - 0.55 * max(0.0, g - coherence)))
+    product_conflict_consistency = {
+        "dominance_overstates_coherence": bool(dominance_overstates),
+        "topology_matches_conflict": bool(topo_ok),
+        "dlcr_matches_conflict": bool(dlcr_ok),
+        "consistency_score": round(consistency_score, 6),
+    }
+    conflict_visible = g > 0.12
+    verdict_under = g > 0.48 and coherence > 0.74
+    verdict_conflict_alignment = {
+        "conflict_visible_in_verdict": bool(conflict_visible),
+        "verdict_underreports_conflict": bool(verdict_under),
+    }
+    product_stability = float(contradiction_package.get("contradiction_stability_index") or 0.0)
+    if g > 0.65 and product_stability < 0.35:
+        session_mode = "contradiction_heavy_unstable"
+    elif g > 0.55:
+        session_mode = "conflict_dominant"
+    elif g > 0.2:
+        session_mode = "conflict_bearing_interpretable"
+    else:
+        session_mode = "coherent"
+    return {
+        "contradiction_summary": {
+            "global_load": round(g, 6),
+            "cross_area_mass": round(float(contradiction_package.get("cross_area_contradiction_mass") or 0.0), 6),
+            "stability_index": round(product_stability, 6),
+            "coupling_active": bool(contradiction_package.get("contradiction_coupling_active")),
+        },
+        "product_conflict_consistency": product_conflict_consistency,
+        "verdict_conflict_alignment": verdict_conflict_alignment,
+        "product_stability_under_contradiction": round(max(0.0, min(1.0, product_stability * (1.0 - 0.35 * g))), 6),
+        "session_contradiction_mode": session_mode,
+    }
+
+
 def _has_nan_inf(d: dict[str, Any]) -> bool:
     for v in d.values():
         if isinstance(v, (int, float)) and (math.isnan(v) or math.isinf(v)):
@@ -64,6 +120,7 @@ def analyze(
     r1_r4: bool = False,
     r1_r4_book_id: str = "book",
     r1_r4_levels: list[str] | None = None,
+    contradiction_package: dict[str, Any] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     """
     Run execution flow: TRANSFORM normalize -> TRANSFORM tokenize -> COMPUTE attribution -> COMPUTE core -> EVALUATE Sigma.
@@ -152,7 +209,12 @@ def analyze(
             from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
             snip = (text or "")[:8000]
-            dlcr = run_dlcr_pipeline(snip, repo_root=_repo, mode="clinical_speech")
+            dlcr = run_dlcr_pipeline(
+                snip,
+                repo_root=_repo,
+                mode="clinical_speech",
+                contradiction_package=contradiction_package,
+            )
             pm = dlcr.get("preprocess_meta") or {}
             raw_spans = dlcr.get("span_resolutions") or []
             pub_spans = [_public_dlcr_span_row(r) for r in raw_spans[:_PO02_MAX_EVIDENCE_SPANS]]
@@ -190,4 +252,6 @@ def analyze(
             extended_out["r1_r4"] = {"units": units, "book_profile": book_profile}
         except Exception as e:
             extended_out["r1_r4"] = {"error": str(e), "units": [], "book_profile": None}
+    if contradiction_package:
+        extended_out.update(_product_contradiction_extensions(minimal, extended_out, contradiction_package))
     return minimal, extended_out
