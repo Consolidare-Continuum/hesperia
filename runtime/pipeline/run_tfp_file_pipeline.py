@@ -64,6 +64,121 @@ def _write_json(path: Path, data: dict[str, Any]) -> None:
     path.write_text(json.dumps(_round_floats(data), indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def _stable_contradiction_sort_key(row: dict[str, Any], idx: int) -> tuple[str, str, float, int]:
+    pair = row.get("pair")
+    concept_a = None
+    concept_b = None
+    if isinstance(pair, (list, tuple)) and len(pair) >= 2:
+        concept_a = pair[0]
+        concept_b = pair[1]
+    else:
+        concept_a = row.get("concept_a")
+        concept_b = row.get("concept_b")
+    a = "" if concept_a is None else str(concept_a)
+    b = "" if concept_b is None else str(concept_b)
+    left, right = (a, b) if a <= b else (b, a)
+    score_raw = row.get("raw_contradiction_score", row.get("score", 0.0))
+    try:
+        score = float(score_raw)
+    except (TypeError, ValueError):
+        score = 0.0
+    return (left, right, -score, idx)
+
+
+def _normalize_contradictions(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    ordered = list(enumerate(rows))
+    ordered.sort(key=lambda item: _stable_contradiction_sort_key(item[1], item[0]))
+    return [dict(row) for _, row in ordered]
+
+
+def _extract_contradictions_from_08(path_08: Path, session_id: str) -> list[dict[str, Any]]:
+    if not path_08.is_file():
+        return []
+    try:
+        data = json.loads(path_08.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    sessions = data.get("sessions") if isinstance(data, dict) else None
+    if not isinstance(sessions, list):
+        return []
+    for row in sessions:
+        if not isinstance(row, dict):
+            continue
+        if str(row.get("session_id") or "") != session_id:
+            continue
+        tc = row.get("triz_complete")
+        if isinstance(tc, dict):
+            nested = tc.get("triz_complete")
+            if isinstance(nested, dict) and isinstance(nested.get("contradictions"), list):
+                return _normalize_contradictions([x for x in nested["contradictions"] if isinstance(x, dict)])
+            if isinstance(tc.get("contradictions"), list):
+                return _normalize_contradictions([x for x in tc["contradictions"] if isinstance(x, dict)])
+    return []
+
+
+def _extract_contradictions_from_12(bundle_dir: Path, session_id: str) -> list[dict[str, Any]]:
+    pattern = f"12_{session_id}_*contradictions*.json"
+    files = sorted(bundle_dir.glob(pattern), key=lambda p: p.name)
+    for file_path in files:
+        try:
+            data = json.loads(file_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(data, dict) and isinstance(data.get("contradictions"), list):
+            rows = [x for x in data["contradictions"] if isinstance(x, dict)]
+            return _normalize_contradictions(rows)
+        if isinstance(data, list):
+            rows = [x for x in data if isinstance(x, dict)]
+            return _normalize_contradictions(rows)
+    return []
+
+
+def _load_contradictions(bundle_dir: Path, session_id: str) -> tuple[list[dict[str, Any]], str]:
+    rows_08 = _extract_contradictions_from_08(bundle_dir / "08_triz_complete.json", session_id)
+    if rows_08:
+        return rows_08, "08_triz_complete.json"
+    rows_12 = _extract_contradictions_from_12(bundle_dir, session_id)
+    if rows_12:
+        return rows_12, "12_*_contradictions*.json"
+    return [], "none"
+
+
+def _build_activation_with_bundle_contradictions(
+    *,
+    session_id: str,
+    text: str,
+    bundle_dir: Path,
+    embedding: dict[str, Any] | None,
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    from hesperia.nlp.session_parser import analyze_session
+
+    contradictions, source = _load_contradictions(bundle_dir, session_id)
+    activation = analyze_session(
+        text,
+        embedding=embedding or None,
+        contradictions=contradictions if contradictions else None,
+    )
+    used = int((activation.get("contradiction_count_used") or 0))
+    coupling_active = bool(activation.get("contradiction_coupling_active"))
+    row = {
+        "session_id": session_id,
+        "contradiction_pipeline": {
+            "source": source,
+            "count": len(contradictions),
+            "used_in_activation": bool(coupling_active and used > 0),
+        },
+        "activation": activation,
+    }
+    trace = {
+        "session_id": session_id,
+        "source": source,
+        "count": len(contradictions),
+        "used_in_activation": bool(coupling_active and used > 0),
+        "contradiction_count_used": used,
+    }
+    return row, trace
+
+
 def load_sessions(path: Path) -> list[tuple[str, str]]:
     suf = path.suffix.lower()
     if suf == ".json":
@@ -206,6 +321,8 @@ def run_pipeline(
     session_kme: list[dict[str, Any]] = []
     session_triz: list[dict[str, Any]] = []
     session_topo: list[dict[str, Any]] = []
+    session_main_engine_full_context: list[dict[str, Any]] = []
+    contradiction_pipeline_rows: list[dict[str, Any]] = []
 
     for sid, t in zip(sids, texts):
         t = (t or "").strip()
@@ -519,6 +636,55 @@ def run_pipeline(
         )
         written["09_session_topology.json"] = str(p)
 
+    # Main-engine activation pass with contradiction injection from bundle artifacts.
+    for sid, t in zip(sids, texts):
+        t = (t or "").strip()
+        if not t:
+            continue
+        try:
+            row, trace = _build_activation_with_bundle_contradictions(
+                session_id=sid,
+                text=t,
+                bundle_dir=out_dir,
+                embedding=embedding or None,
+            )
+            session_main_engine_full_context.append(row)
+            contradiction_pipeline_rows.append(trace)
+        except Exception as exc:  # noqa: BLE001
+            contradictions, source = _load_contradictions(out_dir, sid)
+            session_main_engine_full_context.append(
+                {
+                    "session_id": sid,
+                    "contradiction_pipeline": {
+                        "source": source,
+                        "count": len(contradictions),
+                        "used_in_activation": False,
+                    },
+                    "_error": str(exc),
+                }
+            )
+            contradiction_pipeline_rows.append(
+                {
+                    "session_id": sid,
+                    "source": source,
+                    "count": len(contradictions),
+                    "used_in_activation": False,
+                    "contradiction_count_used": 0,
+                }
+            )
+
+    p = out_dir / "20_main_engine_full_context.json"
+    _write_json(
+        p,
+        {
+            "run": "tfp_file_pipeline_main_engine_full_context",
+            "sessions": session_main_engine_full_context,
+            "contradiction_pipeline": contradiction_pipeline_rows,
+            "operational_envelope": default_operational_envelope(),
+        },
+    )
+    written["20_main_engine_full_context.json"] = str(p)
+
     manifest_parts: list[dict[str, Any]] = []
     if not skip_structural and structural_batch:
         manifest_parts.extend(
@@ -579,6 +745,7 @@ def run_pipeline(
             "HESPERIA_ANALYZE_DLCR_EVIDENCE": os.environ.get("HESPERIA_ANALYZE_DLCR_EVIDENCE"),
         },
         "artifacts": written,
+        "contradiction_pipeline": contradiction_pipeline_rows,
         "triz_activation": triz_activation_paths,
         "errors": errors,
         "operational_envelope": manifest_operational_envelope,

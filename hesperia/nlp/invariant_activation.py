@@ -15,12 +15,20 @@ from typing import Any
 from core.hexmap.dynamics import apply_decay, smooth_toward_mean
 from core.hexmap.projection import project_concepts_to_hex
 from hesperia.engine.engine_signal_calibration import AREA_IDS, load_engine_runtime_bundle
+from hesperia.extensions.triz.contradiction_coupling import (
+    apply_contradiction_coupling,
+    build_area_contradiction_pressure,
+    build_dynamic_inhibition_delta,
+    count_contradiction_rows_used,
+)
 from hesperia.nlp.semantic_state_update import (
     load_h_total,
     merge_propagated_with_evidence_off_index,
     update_semantic_state,
 )
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
+
+CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task2"
 
 
 def _repo_root() -> Path:
@@ -171,6 +179,7 @@ def build_invariant_activation(
     embedding: dict[str, Any] | None = None,
     psi_prev: dict[str, float] | None = None,
     apply_semantic_state: bool = True,
+    contradictions: list[dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
     runtime = load_engine_runtime_bundle()
     calibration = runtime["calibration"]
@@ -228,10 +237,38 @@ def build_invariant_activation(
         hex_smoothing_alpha=float(calibration.get("hex_smoothing_alpha") or 0.0),
     )
     families_post_hex, areas_raw = _aggregate_concepts(concepts_post_hex, af)
-    areas_inhibited = _apply_area_inhibition(
-        areas_raw,
-        matrix=list(inhibition_payload.get("matrix") or []),
-    )
+    base_matrix = list(inhibition_payload.get("matrix") or [])
+    use_contradiction_coupling = bool(contradictions)
+    used_rows = 0
+    pressure_map = {a: 0.0 for a in AREA_IDS}
+    zero_delta = [[0.0 for _ in AREA_IDS] for _ in AREA_IDS]
+    inhibition_matrix_dynamic = [list(row) for row in base_matrix] if base_matrix else zero_delta
+    dynamic_delta_out = zero_delta
+    areas_pressure_adjusted = dict(areas_raw)
+
+    if use_contradiction_coupling:
+        used_rows = count_contradiction_rows_used(contradictions, af, AREA_IDS)
+        pressure_map = build_area_contradiction_pressure(contradictions, af, AREA_IDS)
+        dynamic_delta_out = build_dynamic_inhibition_delta(contradictions, af, AREA_IDS)
+        coupled = apply_contradiction_coupling(
+            areas_raw,
+            base_matrix,
+            pressure_map,
+            dynamic_delta_out,
+            AREA_IDS,
+            inhibition_scale=1.0,
+        )
+        areas_pressure_adjusted = coupled["areas_pressure_adjusted"]
+        areas_inhibited = coupled["areas_inhibited"]
+        inhibition_matrix_dynamic = coupled["inhibition_matrix_dynamic"]
+        dynamic_delta_out = coupled["dynamic_inhibition_delta"]
+    else:
+        areas_inhibited = _apply_area_inhibition(
+            areas_raw,
+            matrix=base_matrix,
+        )
+
+    coupling_effective = bool(use_contradiction_coupling and used_rows > 0)
     areas_final = _softmax_area_vector(
         areas_inhibited,
         temperature=float(calibration.get("area_softmax_temperature") or 1.0),
@@ -253,10 +290,27 @@ def build_invariant_activation(
         "hex_feedback_delta": _round_sparse(hex_delta),
         "hex_activation_raw": _round_sparse(hex_raw),
         "hex_activation_post": _round_sparse(hex_post),
+        "contradiction_pressure": _round_sparse(pressure_map, include_zero=True),
+        "areas_pressure_adjusted": _round_sparse(areas_pressure_adjusted, include_zero=True),
+        "dynamic_inhibition_delta": [
+            [round(float(dynamic_delta_out[i][j]), 6) for j in range(len(AREA_IDS))]
+            for i in range(len(AREA_IDS))
+        ],
+        "inhibition_matrix_dynamic": [
+            [round(float(inhibition_matrix_dynamic[i][j]), 6) for j in range(len(AREA_IDS))]
+            for i in range(len(AREA_IDS))
+        ],
+        "contradiction_coupling_active": coupling_effective,
+        "contradiction_count_used": int(used_rows),
         "invariant_activation": {
             "path_id": str(calibration.get("invariant_path_id") or "unknown"),
             "config_version": str(calibration.get("version") or "unknown"),
             "inhibition_matrix_version": str(inhibition_payload.get("version") or "unknown"),
+            "inhibition_matrix_dynamic_version": (
+                f"{inhibition_payload.get('version') or 'unknown'}+contradiction_delta"
+                if use_contradiction_coupling
+                else str(inhibition_payload.get("version") or "unknown")
+            ),
             "area_softmax_temperature": float(calibration.get("area_softmax_temperature") or 1.0),
             "concept_cap": float(calibration.get("concept_cap") or 8.0),
             "log_normalization_enabled": bool(calibration.get("log_normalization_enabled")),
@@ -270,6 +324,12 @@ def build_invariant_activation(
             "marker_count": len(markers),
             "degradation_flags": list(degradation_flags),
             "semantic_state_operator_enabled": bool(semantic_on),
+            "contradiction_coupling_version": CONTRADICTION_COUPLING_VERSION,
+            "contradiction_coupling_mode": (
+                "area_pressure_and_dynamic_inhibition" if use_contradiction_coupling else "none"
+            ),
+            "contradiction_coupling_active": coupling_effective,
+            "contradiction_count_used": int(used_rows),
         },
     }
 
