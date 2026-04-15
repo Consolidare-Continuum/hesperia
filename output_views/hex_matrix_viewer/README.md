@@ -2,6 +2,8 @@
 
 Vite + React build for `HesperiaHexMatrixViewer` (canvas 72k hex mock, optional external JSON).
 
+Semantics, schema, layout, and modes: **`ARCHITECTURE.md`**.
+
 ## Dev
 
 ```bash
@@ -36,14 +38,15 @@ Artifacts: `output_views/hex_matrix_viewer/dist/` (static files; `base` is relat
 
 Prod static hosting / nginx vhost = **Abelard** scope. Typical pattern:
 
-1. `rsync -av --delete dist/ prichindel:/var/www/hesperia-hex-matrix/` (path agreed with operator).
-2. Nginx `location /hesperia/hex-matrix/` → `alias` that directory + `try_files $uri $uri/ /hesperia/hex-matrix/index.html`.
+1. `rsync -av --delete dist/* prichindel:/var/www/hesperia-sites/hex-matrix/` (path agreed with operator).
+2. Nginx `location ^~ /hex-matrix/` with `root /var/www/hesperia-sites` + `try_files` for SPA (see cluster `hesperia.prichindel.com.conf`).
 
 Hand off path and TLS to Abelard if not already wired.
 
 ## Source layout
 
-- `src/HesperiaHexMatrixViewer.jsx` — main viewer (was repo-root `hesperia_hex_matrix_viewer.jsx`).
+- `src/HesperiaHexMatrixViewer.jsx` — main viewer UI + canvas.
+- `src/schema/`, `src/layout/`, `src/render/`, `src/mock/`, `src/data/` — contract, deterministic layout, modes, mock, JSON pipeline.
 - `src/components/ui/*` — minimal stubs replacing shadcn `@/` imports.
 
-SIGNED: Gena (main developer) | Hesperia output_views | 2026-04-14 | hex matrix viewer Vite shell
+SIGNED: Gena (main developer) | Hesperia output_views | 2026-04-15 | semantic hex viewer (layout + modes + coherence)

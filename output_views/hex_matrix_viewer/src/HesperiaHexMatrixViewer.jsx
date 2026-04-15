@@ -1,61 +1,21 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
-import { Search, ZoomIn, ZoomOut, RotateCcw, Layers, Eye, Grid3X3, Play, Pause } from "lucide-react";
+import { Search, ZoomIn, ZoomOut, RotateCcw, Layers, Eye, Grid3X3, Play, Pause, Pin } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card";
 import { Button } from "./components/ui/button";
 import { Input } from "./components/ui/input";
 import { Slider } from "./components/ui/slider";
 import { Badge } from "./components/ui/badge";
 import { Switch } from "./components/ui/switch";
-
-/**
- * HESPERIA Hex Matrix Viewer
- *
- * Purpose:
- * - Render up to ~72,000 hexes interactively
- * - Canvas-based for performance
- * - Pan / zoom / hover / click / search / playback
- * - Visualize area, family, dynamics and time slices
- *
- * Notes:
- * - This is intentionally canvas-first. SVG at 72k interactive nodes will become heavy.
- * - The mock dataset is generated locally so the viewer can run in preview.
- * - Replace generateMockData() with real HESPERIA export payload.
- *
- * Suggested real data shape:
- * {
- *   frames: [
- *     {
- *       t: 0,
- *       hexes: [
- *         {
- *           id: "A01-F034-H0021",
- *           q: 0,
- *           r: 0,
- *           area: "A01",
- *           family: "F034",
- *           value: 0.82,
- *           dominance: 0.66,
- *           label: "conflict_load",
- *           metrics: { signal: 0.4, inhibition: 0.2, stability: 0.9 }
- *         }
- *       ]
- *     }
- *   ]
- * }
- */
-
-const AREA_NAMES = Array.from({ length: 12 }, (_, i) => `A${String(i + 1).padStart(2, "0")}`);
-const FAMILY_COUNT = 288;
-const HEX_COUNT = 72000;
-const FRAMES = 24;
+import { N_AREAS } from "./schema/hexSchema.js";
+import { buildCoordMap, AXIAL_DIRS } from "./render/neighbors.js";
+import { coherenceAreaScoresPass, coherenceScalarPass } from "./render/coherence.js";
+import { getFillColor } from "./render/modes.js";
+import { generateMockDataset, attachFrameTransitions } from "./mock/generateMockDataset.js";
+import { loadDataset } from "./data/datasetPipeline.js";
 
 function clamp(v, min, max) {
   return Math.max(min, Math.min(max, v));
-}
-
-function lerp(a, b, t) {
-  return a + (b - a) * t;
 }
 
 function hexToPixel(q, r, size) {
@@ -103,138 +63,6 @@ function polygonPoints(cx, cy, size) {
   return pts;
 }
 
-function hashString(str) {
-  let h = 2166136261;
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 16777619);
-  }
-  return h >>> 0;
-}
-
-function areaColor(areaIndex, value) {
-  const base = [
-    [220, 38, 38],
-    [234, 88, 12],
-    [202, 138, 4],
-    [22, 163, 74],
-    [5, 150, 105],
-    [6, 182, 212],
-    [37, 99, 235],
-    [79, 70, 229],
-    [124, 58, 237],
-    [168, 85, 247],
-    [217, 70, 239],
-    [236, 72, 153],
-  ][areaIndex % 12];
-
-  const light = clamp(0.28 + value * 0.52, 0, 1);
-  return `rgba(${Math.round(base[0] * light)}, ${Math.round(base[1] * light)}, ${Math.round(base[2] * light)}, 0.95)`;
-}
-
-function familyColor(familyIndex, value) {
-  const hue = (familyIndex * 17) % 360;
-  const sat = 55 + Math.round(value * 25);
-  const light = 28 + Math.round(value * 30);
-  return `hsl(${hue} ${sat}% ${light}%)`;
-}
-
-function dominanceColor(v) {
-  const hue = lerp(220, 0, v);
-  const sat = 70;
-  const light = lerp(35, 60, v);
-  return `hsl(${hue} ${sat}% ${light}%)`;
-}
-
-function stabilityColor(v) {
-  const hue = lerp(0, 140, v);
-  return `hsl(${hue} 68% 45%)`;
-}
-
-function buildHexSpiral(count) {
-  const coords = [];
-  let q = 0;
-  let r = 0;
-  coords.push({ q, r });
-  if (count === 1) return coords;
-
-  const directions = [
-    { q: 1, r: 0 },
-    { q: 1, r: -1 },
-    { q: 0, r: -1 },
-    { q: -1, r: 0 },
-    { q: -1, r: 1 },
-    { q: 0, r: 1 },
-  ];
-
-  let radius = 1;
-  while (coords.length < count) {
-    q = -radius;
-    r = radius;
-    for (let side = 0; side < 6; side++) {
-      for (let step = 0; step < radius; step++) {
-        if (coords.length >= count) break;
-        coords.push({ q, r });
-        q += directions[side].q;
-        r += directions[side].r;
-      }
-    }
-    radius++;
-  }
-
-  return coords;
-}
-
-function generateMockData() {
-  const coords = buildHexSpiral(HEX_COUNT);
-  const hexes = coords.map((c, i) => {
-    const familyIndex = i % FAMILY_COUNT;
-    const areaIndex = Math.floor((familyIndex / FAMILY_COUNT) * AREA_NAMES.length) % AREA_NAMES.length;
-    const family = `F${String(familyIndex + 1).padStart(3, "0")}`;
-    const area = AREA_NAMES[areaIndex];
-    const label = `hex-${i + 1}`;
-    const seed = hashString(`${area}-${family}-${i}`);
-    return {
-      id: `${area}-${family}-H${String(i + 1).padStart(5, "0")}`,
-      q: c.q,
-      r: c.r,
-      area,
-      areaIndex,
-      family,
-      familyIndex,
-      label,
-      base: (seed % 1000) / 1000,
-      metrics: {
-        signal: ((seed >> 3) % 1000) / 1000,
-        inhibition: ((seed >> 7) % 1000) / 1000,
-        stability: ((seed >> 11) % 1000) / 1000,
-      },
-    };
-  });
-
-  const frames = Array.from({ length: FRAMES }, (_, frameIndex) => {
-    const t = frameIndex / Math.max(1, FRAMES - 1);
-    return {
-      t,
-      hexes: hexes.map((h, i) => {
-        const wave = 0.5 + 0.5 * Math.sin(t * Math.PI * 2 + h.q * 0.07 + h.r * 0.11 + (i % 19) * 0.1);
-        const pulse = 0.5 + 0.5 * Math.cos(t * Math.PI * 4 + h.familyIndex * 0.08);
-        const value = clamp(h.base * 0.35 + wave * 0.4 + pulse * 0.25, 0, 1);
-        const dominance = clamp((value * 0.7 + (1 - h.metrics.inhibition) * 0.3), 0, 1);
-        const stability = clamp((1 - Math.abs(wave - pulse)) * 0.7 + h.metrics.stability * 0.3, 0, 1);
-        return {
-          ...h,
-          value,
-          dominance,
-          stability,
-        };
-      }),
-    };
-  });
-
-  return { frames };
-}
-
 function fitBounds(hexes, size) {
   let minX = Infinity;
   let minY = Infinity;
@@ -252,19 +80,27 @@ function fitBounds(hexes, size) {
   return { minX, minY, maxX, maxY, width: maxX - minX, height: maxY - minY };
 }
 
-function getColor(hex, mode) {
-  if (mode === "area") return areaColor(hex.areaIndex, hex.value);
-  if (mode === "family") return familyColor(hex.familyIndex, hex.value);
-  if (mode === "dominance") return dominanceColor(hex.dominance);
-  if (mode === "stability") return stabilityColor(hex.stability);
-  return areaColor(hex.areaIndex, hex.value);
-}
-
 function readDataUrlParam() {
   if (typeof window === "undefined") return null;
   const u = new URLSearchParams(window.location.search).get("data");
   return u && u.trim() ? u.trim() : null;
 }
+
+function readDebugParam() {
+  if (typeof window === "undefined") return false;
+  return new URLSearchParams(window.location.search).get("debug") === "1";
+}
+
+/** @typedef {import('./render/modes.js').RenderMode} RenderMode */
+
+const MODE_OPTIONS = /** @type {const} */ ([
+  { value: "dominant_area", label: "Dominant area (default)" },
+  { value: "dominance_heat", label: "Dominance heat" },
+  { value: "stability_heat", label: "Stability heat" },
+  { value: "delta", label: "Delta (vs previous frame)" },
+  { value: "boundary", label: "Contradiction / boundary" },
+  { value: "family_layout", label: "Family layout inspect" },
+]);
 
 export default function HesperiaHexMatrixViewer() {
   const canvasRef = useRef(null);
@@ -273,8 +109,9 @@ export default function HesperiaHexMatrixViewer() {
   const draggingRef = useRef(false);
   const lastMouseRef = useRef({ x: 0, y: 0 });
 
-  const [dataset, setDataset] = useState(() => generateMockData());
+  const [dataset, setDataset] = useState(() => generateMockDataset());
   const [dataError, setDataError] = useState(null);
+  const [debugParam] = useState(() => readDebugParam());
 
   useEffect(() => {
     const url = readDataUrlParam();
@@ -285,9 +122,10 @@ export default function HesperiaHexMatrixViewer() {
         const res = await fetch(url, { credentials: "omit" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
-        if (!json || !Array.isArray(json.frames)) throw new Error("JSON must have { frames: [...] }");
         if (!cancelled) {
-          setDataset(json);
+          const loaded = loadDataset(json);
+          attachFrameTransitions(loaded.frames);
+          setDataset(loaded);
           setDataError(null);
         }
       } catch (e) {
@@ -300,48 +138,78 @@ export default function HesperiaHexMatrixViewer() {
       cancelled = true;
     };
   }, []);
+
   const [frameIndex, setFrameIndex] = useState(0);
   const [zoom, setZoom] = useState(0.12);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [hoveredId, setHoveredId] = useState(null);
   const [selectedId, setSelectedId] = useState(null);
-  const [colorMode, setColorMode] = useState("area");
+  /** @type {[RenderMode, function]} */
+  const [renderMode, setRenderMode] = useState(/** @type {RenderMode} */ ("dominant_area"));
   const [showGridStroke, setShowGridStroke] = useState(false);
   const [showLabels, setShowLabels] = useState(false);
   const [search, setSearch] = useState("");
   const [isPlaying, setIsPlaying] = useState(false);
   const [hexSize, setHexSize] = useState(7);
+  const [playbackMs, setPlaybackMs] = useState(220);
+  const [coherenceOn, setCoherenceOn] = useState(false);
+  const [coherenceKind, setCoherenceKind] = useState(/** @type {'area_scores' | 'dominance' | 'stability'} */ ("area_scores"));
+  const [pinSelection, setPinSelection] = useState(true);
 
-  const currentFrame = dataset.frames[frameIndex];
-  const currentHexes = currentFrame.hexes;
+  const frameCount = dataset.frames.length;
+  const currentFrame = dataset.frames[Math.min(frameIndex, frameCount - 1)];
+  const rawHexes = currentFrame.hexes;
 
-  const hexMap = useMemo(() => {
+  const displayHexes = useMemo(() => {
+    if (!coherenceOn) return rawHexes;
+    if (coherenceKind === "area_scores") return coherenceAreaScoresPass(rawHexes);
+    if (coherenceKind === "dominance") return coherenceScalarPass(rawHexes, "dominance");
+    return coherenceScalarPass(rawHexes, "stability");
+  }, [rawHexes, coherenceOn, coherenceKind]);
+
+  const coordMap = useMemo(() => buildCoordMap(displayHexes), [displayHexes]);
+
+  const hexByCoord = useMemo(() => {
     const m = new Map();
-    for (const h of currentHexes) {
+    for (const h of displayHexes) {
       m.set(`${h.q},${h.r}`, h);
-      m.set(h.id.toLowerCase(), h);
-      m.set(h.family.toLowerCase(), h);
     }
     return m;
-  }, [currentHexes]);
+  }, [displayHexes]);
 
   const selectedHex = useMemo(() => {
     if (!selectedId) return null;
-    return currentHexes.find((h) => h.id === selectedId) || null;
-  }, [currentHexes, selectedId]);
+    return displayHexes.find((h) => h.id === selectedId) || null;
+  }, [displayHexes, selectedId]);
+
+  const rawSelectedHex = useMemo(() => {
+    if (!selectedId) return null;
+    return rawHexes.find((h) => h.id === selectedId) || null;
+  }, [rawHexes, selectedId]);
 
   const hoveredHex = useMemo(() => {
     if (!hoveredId) return null;
-    return currentHexes.find((h) => h.id === hoveredId) || null;
-  }, [currentHexes, hoveredId]);
+    return displayHexes.find((h) => h.id === hoveredId) || null;
+  }, [displayHexes, hoveredId]);
+
+  const prevFrameHexForSelected = useMemo(() => {
+    if (!selectedId || frameIndex <= 0) return null;
+    const prev = dataset.frames[frameIndex - 1]?.hexes;
+    if (!prev) return null;
+    return prev.find((h) => h.id === selectedId) || null;
+  }, [dataset.frames, frameIndex, selectedId]);
 
   useEffect(() => {
     if (!isPlaying) return;
     const id = setInterval(() => {
-      setFrameIndex((v) => (v + 1) % dataset.frames.length);
-    }, 220);
+      setFrameIndex((v) => (v + 1) % frameCount);
+    }, playbackMs);
     return () => clearInterval(id);
-  }, [isPlaying, dataset]);
+  }, [isPlaying, frameCount, playbackMs]);
+
+  useEffect(() => {
+    if (!pinSelection) setSelectedId(null);
+  }, [frameIndex, pinSelection]);
 
   useEffect(() => {
     const el = wrapRef.current;
@@ -368,7 +236,7 @@ export default function HesperiaHexMatrixViewer() {
     const el = wrapRef.current;
     if (!el) return;
     const rect = el.getBoundingClientRect();
-    const bounds = fitBounds(currentHexes, hexSize);
+    const bounds = fitBounds(displayHexes, hexSize);
     const scaleX = rect.width / Math.max(bounds.width, 1);
     const scaleY = rect.height / Math.max(bounds.height, 1);
     const initialZoom = Math.min(scaleX, scaleY) * 0.92;
@@ -400,7 +268,8 @@ export default function HesperiaHexMatrixViewer() {
 
     const shouldDrawLabels = showLabels && zoom > 1.8;
 
-    for (const h of currentHexes) {
+    for (let hi = 0; hi < displayHexes.length; hi++) {
+      const h = displayHexes[hi];
       const p = hexToPixel(h.q, h.r, hexSize);
       if (p.x < viewLeft || p.x > viewRight || p.y < viewTop || p.y > viewBottom) continue;
 
@@ -414,12 +283,32 @@ export default function HesperiaHexMatrixViewer() {
       ctx.moveTo(pts[0].x, pts[0].y);
       for (let i = 1; i < pts.length; i++) ctx.lineTo(pts[i].x, pts[i].y);
       ctx.closePath();
-      ctx.fillStyle = getColor(h, colorMode);
+      ctx.fillStyle = getFillColor(h, renderMode, hi);
       ctx.fill();
+
+      if (renderMode === "boundary") {
+        for (let ei = 0; ei < 6; ei++) {
+          const d = AXIAL_DIRS[ei];
+          const nk = `${h.q + d.q},${h.r + d.r}`;
+          const nh = coordMap.get(nk);
+          if (!nh || nh.dominant_area !== h.dominant_area) {
+            ctx.beginPath();
+            ctx.moveTo(pts[ei].x, pts[ei].y);
+            ctx.lineTo(pts[(ei + 1) % 6].x, pts[(ei + 1) % 6].y);
+            ctx.strokeStyle = "rgba(255,255,255,0.78)";
+            ctx.lineWidth = 1.1;
+            ctx.stroke();
+          }
+        }
+      }
 
       if (showGridStroke || h.id === hoveredId || h.id === selectedId) {
         ctx.lineWidth = h.id === selectedId ? 2.2 : h.id === hoveredId ? 1.6 : 0.5;
         ctx.strokeStyle = h.id === selectedId ? "rgba(255,255,255,0.95)" : h.id === hoveredId ? "rgba(255,255,255,0.75)" : "rgba(255,255,255,0.12)";
+        ctx.beginPath();
+        ctx.moveTo(pts[0].x, pts[0].y);
+        for (let i = 1; i < pts.length; i++) ctx.lineTo(pts[i].x, pts[i].y);
+        ctx.closePath();
         ctx.stroke();
       }
 
@@ -428,14 +317,18 @@ export default function HesperiaHexMatrixViewer() {
         ctx.font = `${Math.max(9, radius * 0.48)}px sans-serif`;
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
-        ctx.fillText(h.family, sx, sy);
+        ctx.fillText(String(h.family_id), sx, sy);
       }
     }
 
     if (search.trim()) {
       const needle = search.trim().toLowerCase();
-      const found = currentHexes.filter(
-        (h) => h.id.toLowerCase().includes(needle) || h.family.toLowerCase().includes(needle) || h.area.toLowerCase().includes(needle)
+      const found = displayHexes.filter(
+        (h) =>
+          h.id.toLowerCase().includes(needle) ||
+          String(h.family_id).toLowerCase().includes(needle) ||
+          String(h.area_id).toLowerCase().includes(needle) ||
+          String(h.dominant_area).includes(needle)
       );
       for (const h of found.slice(0, 250)) {
         const p = hexToPixel(h.q, h.r, hexSize);
@@ -449,7 +342,7 @@ export default function HesperiaHexMatrixViewer() {
         ctx.stroke();
       }
     }
-  }, [currentHexes, zoom, offset, hoveredId, selectedId, colorMode, showGridStroke, showLabels, search, hexSize]);
+  }, [displayHexes, zoom, offset, hoveredId, selectedId, renderMode, showGridStroke, showLabels, search, hexSize, coordMap]);
 
   function screenToWorld(clientX, clientY) {
     const rect = wrapRef.current.getBoundingClientRect();
@@ -458,15 +351,13 @@ export default function HesperiaHexMatrixViewer() {
     return {
       x: (x - offset.x) / zoom,
       y: (y - offset.y) / zoom,
-      sx: x,
-      sy: y,
     };
   }
 
   function hitTest(clientX, clientY) {
     const { x, y } = screenToWorld(clientX, clientY);
     const h = pointToHex(x, y, hexSize);
-    return hexMap.get(`${h.q},${h.r}`) || null;
+    return hexByCoord.get(`${h.q},${h.r}`) || null;
   }
 
   function handleMouseDown(e) {
@@ -516,7 +407,7 @@ export default function HesperiaHexMatrixViewer() {
     const el = wrapRef.current;
     if (!el) return;
     const rect = el.getBoundingClientRect();
-    const bounds = fitBounds(currentHexes, hexSize);
+    const bounds = fitBounds(displayHexes, hexSize);
     const scaleX = rect.width / Math.max(bounds.width, 1);
     const scaleY = rect.height / Math.max(bounds.height, 1);
     const initialZoom = Math.min(scaleX, scaleY) * 0.92;
@@ -543,8 +434,12 @@ export default function HesperiaHexMatrixViewer() {
   function focusHexBySearch() {
     const needle = search.trim().toLowerCase();
     if (!needle) return;
-    const found = currentHexes.find(
-      (h) => h.id.toLowerCase().includes(needle) || h.family.toLowerCase().includes(needle) || h.area.toLowerCase().includes(needle)
+    const found = displayHexes.find(
+      (h) =>
+        h.id.toLowerCase().includes(needle) ||
+        String(h.family_id).toLowerCase().includes(needle) ||
+        String(h.area_id).toLowerCase().includes(needle) ||
+        String(h.dominant_area) === needle
     );
     if (!found || !wrapRef.current) return;
     const rect = wrapRef.current.getBoundingClientRect();
@@ -561,10 +456,21 @@ export default function HesperiaHexMatrixViewer() {
   const infoHex = selectedHex || hoveredHex;
   const byArea = useMemo(() => {
     const out = new Map();
-    for (const a of AREA_NAMES) out.set(a, 0);
-    for (const h of currentHexes) out.set(h.area, out.get(h.area) + h.value);
+    for (let i = 0; i < N_AREAS; i++) out.set(i, 0);
+    for (const h of displayHexes) {
+      const k = h.dominant_area;
+      out.set(k, (out.get(k) || 0) + h.dominance);
+    }
     return Array.from(out.entries()).sort((a, b) => b[1] - a[1]);
-  }, [currentHexes]);
+  }, [displayHexes]);
+
+  const modeSelectOptions = useMemo(() => {
+    const base = [...MODE_OPTIONS];
+    if (debugParam) {
+      base.push({ value: "family_spectrum_debug", label: "Family spectrum (debug — misleading)" });
+    }
+    return base;
+  }, [debugParam]);
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 p-4 md:p-6">
@@ -576,7 +482,7 @@ export default function HesperiaHexMatrixViewer() {
       <motion.div
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
-        className="grid grid-cols-1 xl:grid-cols-[360px_1fr] gap-4"
+        className="grid grid-cols-1 xl:grid-cols-[380px_1fr] gap-4"
       >
         <div className="space-y-4">
           <Card className="bg-slate-900/80 border-slate-800 rounded-2xl shadow-2xl">
@@ -588,13 +494,14 @@ export default function HesperiaHexMatrixViewer() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="text-sm text-slate-300 leading-6">
-                Canvas viewer for large-scale interactive hex topology. Built for area/family state inspection, dynamic playback, and bounded navigation across all 72,000 hexes.
+                Semantic layout + dominant-area-first viewer. Family spectrum is demoted (debug only). Modes are isolated; optional coherence pass is
+                non-destructive to loaded raw frames in memory (derived view for display).
               </div>
 
               <div className="grid grid-cols-2 gap-2 text-sm">
                 <div className="p-3 rounded-2xl bg-slate-800/70">
                   <div className="text-slate-400">Hexes</div>
-                  <div className="text-lg font-semibold">72,000</div>
+                  <div className="text-lg font-semibold">{displayHexes.length.toLocaleString()}</div>
                 </div>
                 <div className="p-3 rounded-2xl bg-slate-800/70">
                   <div className="text-slate-400">Families</div>
@@ -606,17 +513,19 @@ export default function HesperiaHexMatrixViewer() {
                 </div>
                 <div className="p-3 rounded-2xl bg-slate-800/70">
                   <div className="text-slate-400">Frame</div>
-                  <div className="text-lg font-semibold">{frameIndex + 1} / {FRAMES}</div>
+                  <div className="text-lg font-semibold">
+                    {frameIndex + 1} / {frameCount}
+                  </div>
                 </div>
               </div>
 
               <div className="space-y-2">
-                <div className="text-sm text-slate-300">Search hex / family / area</div>
+                <div className="text-sm text-slate-300">Search hex / family / area / dominant index</div>
                 <div className="flex gap-2">
                   <Input
                     value={search}
                     onChange={(e) => setSearch(e.target.value)}
-                    placeholder="A01, F034, H00021..."
+                    placeholder="id, family_id, area_id, dominant_area…"
                     className="bg-slate-800 border-slate-700"
                   />
                   <Button variant="secondary" onClick={focusHexBySearch} className="rounded-2xl">
@@ -626,53 +535,74 @@ export default function HesperiaHexMatrixViewer() {
               </div>
 
               <div className="space-y-2">
-                <div className="text-sm text-slate-300">Color mode</div>
+                <div className="text-sm text-slate-300">Render mode (one meaning each)</div>
                 <select
-                  value={colorMode}
-                  onChange={(e) => setColorMode(e.target.value)}
+                  value={renderMode}
+                  onChange={(e) => setRenderMode(/** @type {RenderMode} */ (e.target.value))}
                   className="w-full rounded-2xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-100"
                 >
-                  <option value="area">Area bands</option>
-                  <option value="family">Family spectrum</option>
-                  <option value="dominance">Dominance heat</option>
-                  <option value="stability">Stability heat</option>
+                  {modeSelectOptions.map((o) => (
+                    <option key={o.value} value={o.value}>
+                      {o.label}
+                    </option>
+                  ))}
                 </select>
+                {!debugParam ? (
+                  <div className="text-xs text-slate-500">Add ?debug=1 to URL to expose legacy family spectrum (misleading).</div>
+                ) : null}
               </div>
 
               <div className="space-y-3">
                 <div className="flex items-center justify-between text-sm">
-                  <span className="text-slate-300">Frame playback</span>
+                  <span className="text-slate-300">Playback</span>
                   <Button variant="secondary" className="rounded-2xl" onClick={() => setIsPlaying((v) => !v)}>
                     {isPlaying ? <Pause className="w-4 h-4" /> : <Play className="w-4 h-4" />}
                   </Button>
                 </div>
-                <Slider
-                  value={[frameIndex]}
-                  min={0}
-                  max={FRAMES - 1}
-                  step={1}
-                  onValueChange={(v) => setFrameIndex(v[0])}
-                />
+                <div className="text-xs text-slate-400">Speed (ms/frame): {playbackMs}</div>
+                <Slider value={[playbackMs]} min={40} max={1200} step={10} onValueChange={(v) => setPlaybackMs(v[0])} />
+                <Slider value={[frameIndex]} min={0} max={Math.max(0, frameCount - 1)} step={1} onValueChange={(v) => setFrameIndex(v[0])} />
+              </div>
+
+              <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/70">
+                <div className="flex items-center gap-2 text-sm">
+                  <Pin className="w-4 h-4" /> Pin selection across frames
+                </div>
+                <Switch checked={pinSelection} onCheckedChange={setPinSelection} />
+              </div>
+
+              <div className="space-y-2">
+                <div className="text-sm text-slate-300">Coherence preprocessing (derived)</div>
+                <div className="flex items-center justify-between gap-2">
+                  <Switch checked={coherenceOn} onCheckedChange={setCoherenceOn} />
+                  <select
+                    value={coherenceKind}
+                    onChange={(e) => setCoherenceKind(/** @type {any} */ (e.target.value))}
+                    className="flex-1 rounded-xl border border-slate-700 bg-slate-800 px-2 py-1 text-xs text-slate-100"
+                  >
+                    <option value="area_scores">Neighbor avg area_scores → re-argmax</option>
+                    <option value="dominance">Smooth dominance scalar</option>
+                    <option value="stability">Smooth stability scalar</option>
+                  </select>
+                </div>
               </div>
 
               <div className="space-y-3">
                 <div className="text-sm text-slate-300">Base hex radius: {hexSize}</div>
-                <Slider
-                  value={[hexSize]}
-                  min={4}
-                  max={12}
-                  step={1}
-                  onValueChange={(v) => setHexSize(v[0])}
-                />
+                <Slider value={[hexSize]} min={4} max={12} step={1} onValueChange={(v) => setHexSize(v[0])} />
               </div>
 
               <div className="grid grid-cols-2 gap-3">
                 <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/70">
-                  <div className="flex items-center gap-2 text-sm"><Layers className="w-4 h-4" /> Grid stroke</div>
+                  <div className="flex items-center gap-2 text-sm">
+                    <Layers className="w-4 h-4" /> Grid stroke
+                  </div>
                   <Switch checked={showGridStroke} onCheckedChange={setShowGridStroke} />
                 </div>
                 <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/70">
-                  <div className="flex items-center gap-2 text-sm"><Eye className="w-4 h-4" /> Labels</div>
+                  <div className="flex items-center gap-2 text-sm">
+                    <Eye className="w-4 h-4" /> Labels
+                  </div>
                   <Switch checked={showLabels} onCheckedChange={setShowLabels} />
                 </div>
               </div>
@@ -697,35 +627,74 @@ export default function HesperiaHexMatrixViewer() {
             </CardHeader>
             <CardContent>
               {infoHex ? (
-                <div className="space-y-3 text-sm">
+                <div className="space-y-3 text-sm max-h-[50vh] overflow-y-auto pr-1">
                   <div>
                     <div className="text-slate-400">Hex ID</div>
                     <div className="font-medium break-all">{infoHex.id}</div>
                   </div>
                   <div className="flex flex-wrap gap-2">
-                    <Badge variant="secondary" className="rounded-xl">{infoHex.area}</Badge>
-                    <Badge variant="secondary" className="rounded-xl">{infoHex.family}</Badge>
-                    <Badge variant="secondary" className="rounded-xl">q {infoHex.q}</Badge>
-                    <Badge variant="secondary" className="rounded-xl">r {infoHex.r}</Badge>
+                    <Badge variant="secondary" className="rounded-xl">
+                      family {String(infoHex.family_id)}
+                    </Badge>
+                    <Badge variant="secondary" className="rounded-xl">
+                      area_id {String(infoHex.area_id)}
+                    </Badge>
+                    <Badge variant="secondary" className="rounded-xl">
+                      dominant {infoHex.dominant_area}
+                    </Badge>
+                    <Badge variant="secondary" className="rounded-xl">
+                      q {infoHex.q}
+                    </Badge>
+                    <Badge variant="secondary" className="rounded-xl">
+                      r {infoHex.r}
+                    </Badge>
+                  </div>
+                  <div>
+                    <div className="text-slate-400 mb-1">area_scores[12]</div>
+                    <pre className="text-[10px] leading-tight bg-slate-950/80 p-2 rounded-xl overflow-x-auto">
+                      [{infoHex.area_scores.map((x) => x.toFixed(3)).join(", ")}]
+                    </pre>
                   </div>
                   <div className="grid grid-cols-2 gap-2">
                     <div className="p-3 rounded-2xl bg-slate-800/70">
-                      <div className="text-slate-400">Value</div>
-                      <div className="font-semibold">{infoHex.value.toFixed(3)}</div>
-                    </div>
-                    <div className="p-3 rounded-2xl bg-slate-800/70">
                       <div className="text-slate-400">Dominance</div>
-                      <div className="font-semibold">{infoHex.dominance.toFixed(3)}</div>
-                    </div>
-                    <div className="p-3 rounded-2xl bg-slate-800/70">
-                      <div className="text-slate-400">Signal</div>
-                      <div className="font-semibold">{infoHex.metrics.signal.toFixed(3)}</div>
+                      <div className="font-semibold">{infoHex.dominance.toFixed(4)}</div>
                     </div>
                     <div className="p-3 rounded-2xl bg-slate-800/70">
                       <div className="text-slate-400">Stability</div>
-                      <div className="font-semibold">{infoHex.stability.toFixed(3)}</div>
+                      <div className="font-semibold">{infoHex.stability.toFixed(4)}</div>
                     </div>
+                    {infoHex.contradiction != null ? (
+                      <div className="p-3 rounded-2xl bg-slate-800/70">
+                        <div className="text-slate-400">Contradiction</div>
+                        <div className="font-semibold">{infoHex.contradiction.toFixed(4)}</div>
+                      </div>
+                    ) : null}
+                    {infoHex.activation != null ? (
+                      <div className="p-3 rounded-2xl bg-slate-800/70">
+                        <div className="text-slate-400">Activation</div>
+                        <div className="font-semibold">{infoHex.activation.toFixed(4)}</div>
+                      </div>
+                    ) : null}
                   </div>
+                  {coherenceOn && rawSelectedHex ? (
+                    <div className="rounded-xl border border-slate-700 p-2 text-xs text-slate-300">
+                      <div className="font-semibold text-slate-200 mb-1">Raw (same frame, no coherence)</div>
+                      <div>dominance {rawSelectedHex.dominance.toFixed(4)} → display {selectedHex?.dominance.toFixed(4)}</div>
+                      <div>
+                        dominant {rawSelectedHex.dominant_area} → display {selectedHex?.dominant_area}
+                      </div>
+                    </div>
+                  ) : null}
+                  {frameIndex > 0 && prevFrameHexForSelected ? (
+                    <div className="rounded-xl border border-slate-700 p-2 text-xs text-slate-300 space-y-1">
+                      <div className="font-semibold text-slate-200">vs previous frame</div>
+                      <div>prev dominant {prevFrameHexForSelected.dominant_area}</div>
+                      <div>delta_dominance {(infoHex.delta_dominance ?? 0).toFixed(5)}</div>
+                      {infoHex.delta_activation != null ? <div>delta_activation {infoHex.delta_activation.toFixed(5)}</div> : null}
+                      <div>area_switched {String(!!infoHex.area_switched)}</div>
+                    </div>
+                  ) : null}
                 </div>
               ) : (
                 <div className="text-sm text-slate-400">Hover or click a hex to inspect it.</div>
@@ -735,20 +704,38 @@ export default function HesperiaHexMatrixViewer() {
 
           <Card className="bg-slate-900/80 border-slate-800 rounded-2xl shadow-2xl">
             <CardHeader>
-              <CardTitle className="text-lg">Area load</CardTitle>
+              <CardTitle className="text-lg">Dominance mass by area (display)</CardTitle>
             </CardHeader>
             <CardContent>
               <div className="space-y-2">
-                {byArea.map(([name, value]) => (
-                  <div key={name} className="space-y-1">
+                {byArea.map(([areaIdx, value]) => (
+                  <div key={areaIdx} className="space-y-1">
                     <div className="flex justify-between text-xs text-slate-300">
-                      <span>{name}</span>
+                      <span>area {areaIdx}</span>
                       <span>{value.toFixed(1)}</span>
                     </div>
                     <div className="h-2 rounded-full bg-slate-800 overflow-hidden">
                       <div
                         className="h-full rounded-full"
-                        style={{ width: `${(value / byArea[0][1]) * 100}%`, background: areaColor(parseInt(name.slice(1), 10) - 1, 0.85) }}
+                        style={{
+                          width: `${(value / Math.max(byArea[0][1], 1e-9)) * 100}%`,
+                          background: `rgb(${[
+                            [220, 38, 38],
+                            [234, 88, 12],
+                            [202, 138, 4],
+                            [22, 163, 74],
+                            [5, 150, 105],
+                            [6, 182, 212],
+                            [37, 99, 235],
+                            [79, 70, 229],
+                            [124, 58, 237],
+                            [168, 85, 247],
+                            [217, 70, 239],
+                            [236, 72, 153],
+                          ][areaIdx]
+                            .map((c) => Math.round(c * 0.85))
+                            .join(",")})`,
+                        }}
                       />
                     </div>
                   </div>
@@ -774,12 +761,17 @@ export default function HesperiaHexMatrixViewer() {
                 onWheel={handleWheel}
               />
 
-              <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-[70%]">
+              <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-[75%]">
                 <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">zoom {zoom.toFixed(2)}x</Badge>
-                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">mode {colorMode}</Badge>
-                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">frame {frameIndex + 1}</Badge>
-                {hoveredHex && <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">hover {hoveredHex.id}</Badge>}
-                {selectedHex && <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">selected {selectedHex.id}</Badge>}
+                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">mode {renderMode}</Badge>
+                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">
+                  frame {frameIndex + 1}/{frameCount}
+                </Badge>
+                {coherenceOn ? (
+                  <Badge className="rounded-xl bg-amber-950/80 text-amber-100 border border-amber-800">coherence {coherenceKind}</Badge>
+                ) : null}
+                {hoveredHex ? <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">hover {hoveredHex.id}</Badge> : null}
+                {selectedHex ? <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">selected {selectedHex.id}</Badge> : null}
               </div>
             </div>
           </CardContent>
