@@ -66,6 +66,21 @@ export function latticeNeighbors(s, b) {
 }
 
 /**
+ * Diamond inspection layout (not spherical geometry): band-centered rows, equator widest.
+ * Row b has width W = 1 + min(b, 23 − b). Map sector s → column col = floor(s · W / 12) (12 sectors distributed across W slots; poles narrow).
+ * Still exactly 288 cells F(s,b); order and adjacency unchanged — only screen placement differs.
+ *
+ * @param {number} s
+ * @param {number} b
+ * @returns {{ width: number; col: number; row: number }}
+ */
+export function diamondLayout(s, b) {
+  const width = 1 + Math.min(b, BANDS - 1 - b);
+  const col = Math.min(width - 1, Math.floor((s * width) / 12));
+  return { width, col, row: b };
+}
+
+/**
  * Projection modes: only (x,y,z) change; (s,b) indexing and adjacency do not.
  * @typedef {'flat' | 'cylinder' | 'spheroid'} ProjectionMode
  */

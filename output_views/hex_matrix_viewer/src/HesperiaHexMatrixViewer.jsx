@@ -15,6 +15,7 @@ import { generateMockDataset, attachFrameTransitions } from "./mock/generateMock
 import { loadDataset } from "./data/datasetPipeline.js";
 import { aggregateHexesToFamilyCells, attachFamilyLatticeTransitions } from "./data/aggregateFamilies.js";
 import FamilyLatticeFlatCanvas from "./views/FamilyLatticeFlatCanvas.jsx";
+import FamilyLatticeDiamondCanvas from "./views/FamilyLatticeDiamondCanvas.jsx";
 import FamilyLatticeThreeView from "./views/FamilyLatticeThreeView.jsx";
 
 function clamp(v, min, max) {
@@ -161,7 +162,7 @@ export default function HesperiaHexMatrixViewer() {
   /** @type {['lattice288' | 'hex72000', function]} */
   const [surfaceMode, setSurfaceMode] = useState(/** @type {'lattice288' | 'hex72000'} */ ("lattice288"));
   /** @type {['flat' | 'cylinder' | 'spheroid', function]} */
-  const [projection, setProjection] = useState(/** @type {'flat' | 'cylinder' | 'spheroid'} */ ("flat"));
+  const [projection, setProjection] = useState(/** @type {'flat' | 'diamond' | 'cylinder' | 'spheroid'} */ ("flat"));
   const [mergePoles, setMergePoles] = useState(true);
 
   const frameCount = dataset.frames.length;
@@ -534,7 +535,7 @@ export default function HesperiaHexMatrixViewer() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="text-sm text-slate-300 leading-6">
-                Truth layer: 12×24 family lattice F(s,b) → 288 cells; projections (flat / cylinder / spheroid). Hex canvas = 72k interaction/debug. Render
+                Truth: 12×24 sphere (288 families). Flat = debug grid; diamond = inspection layout; cylinder/sphere = 3D. Hex = 72k interaction/debug.
                 modes stay semantically isolated; coherence is derived, not destructive to stored frames.
               </div>
 
@@ -563,12 +564,13 @@ export default function HesperiaHexMatrixViewer() {
                   <div className="text-sm text-slate-300">Projection</div>
                   <select
                     value={projection}
-                    onChange={(e) => setProjection(/** @type {'flat' | 'cylinder' | 'spheroid'} */ (e.target.value))}
+                    onChange={(e) => setProjection(/** @type {'flat' | 'diamond' | 'cylinder' | 'spheroid'} */ (e.target.value))}
                     className="w-full rounded-2xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-100"
                   >
-                    <option value="flat">Flat 12×24 (control / Mercator-like)</option>
+                    <option value="flat">Flat 12×24 (debug grid)</option>
+                    <option value="diamond">Diamond (band-centered inspection)</option>
                     <option value="cylinder">Cylinder (wrapped sector, linear band)</option>
-                    <option value="spheroid">Spheroid (globe projection, Three.js)</option>
+                    <option value="spheroid">Sphere (3D truth, Three.js)</option>
                   </select>
                 </div>
               ) : null}
@@ -856,7 +858,18 @@ export default function HesperiaHexMatrixViewer() {
                   onHover={setHoveredId}
                 />
               ) : null}
-              {surfaceMode === "lattice288" && projection !== "flat" ? (
+              {surfaceMode === "lattice288" && projection === "diamond" ? (
+                <FamilyLatticeDiamondCanvas
+                  cells={displayFamilyCells}
+                  renderMode={renderMode}
+                  selectedId={selectedId}
+                  hoveredId={hoveredId}
+                  search={search}
+                  onSelect={setSelectedId}
+                  onHover={setHoveredId}
+                />
+              ) : null}
+              {surfaceMode === "lattice288" && (projection === "cylinder" || projection === "spheroid") ? (
                 <FamilyLatticeThreeView
                   projection={projection === "cylinder" ? "cylinder" : "spheroid"}
                   mergePoles={mergePoles}

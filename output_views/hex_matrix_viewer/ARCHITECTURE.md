@@ -20,8 +20,9 @@ Three.js view applies `WORLD_SCALE` (0.1) so `R=10` fits ~unit scene. **OrbitCon
 | UI mode | View |
 |---------|------|
 | `flat` | 12×24 canvas; wrap edge (11→0) dashed Bezier. |
+| `diamond` | **Inspection only:** band-centered rows, width `W = 1 + min(b, 23−b)`, `col = floor(s·W/12)`, equator widest — same 288 cells, different screen placement. |
 | `cylinder` | Wrapped sector, linear **b** on vertical axis. |
-| `spheroid` | Globe; optional merge-pole toggle. |
+| `spheroid` (“Sphere” in UI) | 3D globe; optional merge-pole toggle. |
 
 **Aggregation** (`src/data/aggregateFamilies.js`): sub-hex rows are grouped by numeric `family_id` (0..287) into one **FamilyCell** per `F(s,b)` with averaged scores; transitions attached across frames. The **72k hex canvas** remains the fine interaction / debug surface; it does not redefine `F(s,b)`.
 

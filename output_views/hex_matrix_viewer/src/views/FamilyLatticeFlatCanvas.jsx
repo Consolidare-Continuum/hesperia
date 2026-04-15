@@ -85,7 +85,7 @@ export default function FamilyLatticeFlatCanvas({ cells, renderMode, selectedId,
         const pr = center((s + 1) % SECTORS, b);
         ctx.beginPath();
         ctx.moveTo(p0.cx, p0.cy);
-        ctx.lineTo(pr.cx, pr.y);
+        ctx.lineTo(pr.cx, pr.cy);
         ctx.stroke();
         if (b < BANDS - 1) {
           const pd = center(s, b + 1);
