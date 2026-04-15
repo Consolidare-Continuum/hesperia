@@ -160,8 +160,9 @@ export default function HesperiaHexMatrixViewer() {
   const [pinSelection, setPinSelection] = useState(true);
   /** @type {['lattice288' | 'hex72000', function]} */
   const [surfaceMode, setSurfaceMode] = useState(/** @type {'lattice288' | 'hex72000'} */ ("lattice288"));
-  /** @type {['flat' | 'cylinder' | 'sphere', function]} */
-  const [projection, setProjection] = useState(/** @type {'flat' | 'cylinder' | 'sphere'} */ ("flat"));
+  /** @type {['flat' | 'cylinder' | 'spheroid', function]} */
+  const [projection, setProjection] = useState(/** @type {'flat' | 'cylinder' | 'spheroid'} */ ("flat"));
+  const [mergePoles, setMergePoles] = useState(true);
 
   const frameCount = dataset.frames.length;
   const currentFrame = dataset.frames[Math.min(frameIndex, frameCount - 1)];
@@ -533,7 +534,7 @@ export default function HesperiaHexMatrixViewer() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="text-sm text-slate-300 leading-6">
-                Truth layer: 12×24 family lattice F(s,b) → 288 cells; projections (flat / cylinder / sphere). Hex canvas = 72k interaction/debug. Render
+                Truth layer: 12×24 family lattice F(s,b) → 288 cells; projections (flat / cylinder / spheroid). Hex canvas = 72k interaction/debug. Render
                 modes stay semantically isolated; coherence is derived, not destructive to stored frames.
               </div>
 
@@ -562,13 +563,19 @@ export default function HesperiaHexMatrixViewer() {
                   <div className="text-sm text-slate-300">Projection</div>
                   <select
                     value={projection}
-                    onChange={(e) => setProjection(/** @type {'flat' | 'cylinder' | 'sphere'} */ (e.target.value))}
+                    onChange={(e) => setProjection(/** @type {'flat' | 'cylinder' | 'spheroid'} */ (e.target.value))}
                     className="w-full rounded-2xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-100"
                   >
                     <option value="flat">Flat 12×24 (control / Mercator-like)</option>
-                    <option value="cylinder">Cylinder (sector wraps, band linear)</option>
-                    <option value="sphere">Spheroid shell (Three.js)</option>
+                    <option value="cylinder">Cylinder (wrapped sector, linear band)</option>
+                    <option value="spheroid">Spheroid (globe projection, Three.js)</option>
                   </select>
+                </div>
+              ) : null}
+              {surfaceMode === "lattice288" && projection === "spheroid" ? (
+                <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/70">
+                  <span className="text-sm text-slate-300">Merge pole rows (12→1 at each cap)</span>
+                  <Switch checked={mergePoles} onCheckedChange={setMergePoles} />
                 </div>
               ) : null}
 
@@ -851,7 +858,8 @@ export default function HesperiaHexMatrixViewer() {
               ) : null}
               {surfaceMode === "lattice288" && projection !== "flat" ? (
                 <FamilyLatticeThreeView
-                  projection={projection === "cylinder" ? "cylinder" : "sphere"}
+                  projection={projection === "cylinder" ? "cylinder" : "spheroid"}
+                  mergePoles={mergePoles}
                   cells={displayFamilyCells}
                   renderMode={renderMode}
                   selectedId={selectedId}

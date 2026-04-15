@@ -66,38 +66,77 @@ export function latticeNeighbors(s, b) {
 }
 
 /**
- * Spherical mapping per spec:
- * theta = (2π/12)*s, phi = π*(b/23 - 0.5), r = cos(phi), z_pole = sin(phi)
- * x = r*cos(theta), y = r*sin(theta), z = z_pole
- * Three.js Y-up: use x,z as equatorial plane, Y as pole.
- * @param {number} s
- * @param {number} b
- * @param {number} [radius] default 1
+ * Projection modes: only (x,y,z) change; (s,b) indexing and adjacency do not.
+ * @typedef {'flat' | 'cylinder' | 'spheroid'} ProjectionMode
+ */
+
+/**
+ * Single mapping for all 3D/2D projections (Codex spec).
+ * - flat: integer grid (x=s, y=b, z=0) — useful for 2D layout math; canvas may still use pixel mapping.
+ * - cylinder: horizontal wrap, vertical stays band index (linear).
+ * - spheroid: full sphere with phi from v = b/(B-1); optional pole collapse merges 12 cells at each cap.
+ *
+ * @param {number} s sector 0..S-1
+ * @param {number} b band 0..B-1
+ * @param {ProjectionMode} mode
+ * @param {{ R?: number; poleCollapse?: boolean }} [opts] R default 10 (match task); poleCollapse default false for strict grid, set true for cleaner poles
  * @returns {{ x: number; y: number; z: number }}
  */
-export function spherePosition(s, b, radius = 1) {
-  const theta = (2 * Math.PI * s) / SECTORS;
-  const phi = Math.PI * (b / 23 - 0.5);
-  const r = Math.cos(phi) * radius;
-  const y = Math.sin(phi) * radius;
-  const x = r * Math.cos(theta);
-  const z = r * Math.sin(theta);
-  return { x, y, z };
+export function project(s, b, mode, opts = {}) {
+  const S = SECTORS;
+  const B = BANDS;
+  const R = opts.R ?? 10;
+  const u = s / S;
+  const v = b / (B - 1);
+  const theta = 2 * Math.PI * u;
+  const phi = Math.PI * (v - 0.5);
+
+  if (mode === "flat") {
+    return { x: s, y: b, z: 0 };
+  }
+
+  if (mode === "cylinder") {
+    return {
+      x: R * Math.cos(theta),
+      y: b,
+      z: R * Math.sin(theta),
+    };
+  }
+
+  if (mode === "spheroid") {
+    if (opts.poleCollapse) {
+      if (b === 0) return { x: 0, y: R, z: 0 };
+      if (b === B - 1) return { x: 0, y: -R, z: 0 };
+    }
+    const cosPhi = Math.cos(phi);
+    const sinPhi = Math.sin(phi);
+    return {
+      x: R * cosPhi * Math.cos(theta),
+      y: R * sinPhi,
+      z: R * cosPhi * Math.sin(theta),
+    };
+  }
+
+  return { x: 0, y: 0, z: 0 };
 }
 
 /**
- * Cylinder: sector wraps, band is linear height (north b=0 at +Y).
- * @param {number} s
- * @param {number} b
- * @param {number} cylRadius
- * @param {number} height full height of band axis
+ * @deprecated use {@link project}(s, b, 'spheroid', { R: radius, poleCollapse })
+ */
+export function spherePosition(s, b, radius = 1) {
+  return project(s, b, "spheroid", { R: radius, poleCollapse: false });
+}
+
+/**
+ * Legacy cylinder: normalized band height. Prefer {@link project}(..., "cylinder") for Codex layout (y = b).
  */
 export function cylinderPosition(s, b, cylRadius = 1, height = 2.2) {
   const theta = (2 * Math.PI * s) / SECTORS;
-  const y = (b / 23 - 0.5) * height;
-  const x = cylRadius * Math.cos(theta);
-  const z = cylRadius * Math.sin(theta);
-  return { x, y, z };
+  return {
+    x: cylRadius * Math.cos(theta),
+    y: (b / (BANDS - 1) - 0.5) * height,
+    z: cylRadius * Math.sin(theta),
+  };
 }
 
 /**

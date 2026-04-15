@@ -8,19 +8,20 @@ Per-hex state matches the agreed contract: `id`, `family_id`, `area_id`, `q`, `r
 
 Canonical addressing: **sector** `s ∈ [0..11]`, **band** `b ∈ [0..23]`, cell **`F(s,b)`** (288 families). Horizontal adjacency wraps on `s`; vertical is `b±1` with **north** at `b=0`, **south** at `b=23` (no vertical wrap).
 
-Geometry (unit shell):
+**Pure projection** — `project(s, b, mode)` in `spheroidLattice.js` (indexing `(s,b)` unchanged):
 
-- `theta = (2π/12) * s`
-- `phi = π * (b/23 - 0.5)`
-- `x = cos(phi) * cos(theta)`, `y = cos(phi) * sin(theta)`, `z = sin(phi)` (Three.js scene uses Y-up; same numbers mapped to `Vector3(x, z, y)` in code if needed — see `FamilyLatticeThreeView`).
+- `u = s/12`, `v = b/23`, `theta = 2πu`, `phi = π(v - 0.5)`.
+- **flat:** `(x,y,z) = (s, b, 0)` (integer grid; 2D canvas maps separately).
+- **cylinder:** `x = R cos θ`, `y = b`, `z = R sin θ` (task: vertical = band index).
+- **spheroid:** `x = R cos φ cos θ`, `y = R sin φ`, `z = R cos φ sin θ`. Optional **pole collapse** (`poleCollapse: true`): `b=0` → `(0,R,0)`, `b=23` → `(0,-R,0)` so caps merge to a point.
 
-**Projections** (only projection changes; adjacency invariant):
+Three.js view applies `WORLD_SCALE` (0.1) so `R=10` fits ~unit scene. **OrbitControls** on the 3D branch.
 
-| Mode | View |
-|------|------|
-| `flat` | 12 columns × 24 rows; wrap edge (11→0) drawn as dashed Bezier (debug). |
-| `cylinder` | Sector on circle, band linear height. |
-| `sphere` | Full shell, **Three.js** + `OrbitControls`. |
+| UI mode | View |
+|---------|------|
+| `flat` | 12×24 canvas; wrap edge (11→0) dashed Bezier. |
+| `cylinder` | Wrapped sector, linear **b** on vertical axis. |
+| `spheroid` | Globe; optional merge-pole toggle. |
 
 **Aggregation** (`src/data/aggregateFamilies.js`): sub-hex rows are grouped by numeric `family_id` (0..287) into one **FamilyCell** per `F(s,b)` with averaged scores; transitions attached across frames. The **72k hex canvas** remains the fine interaction / debug surface; it does not redefine `F(s,b)`.
 

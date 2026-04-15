@@ -1,15 +1,17 @@
 import React, { useEffect, useRef } from "react";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
-import { SECTORS, BANDS, cylinderPosition, spherePosition, familyLinearIndex } from "../topology/spheroidLattice.js";
+import { SECTORS, BANDS, project, familyLinearIndex } from "../topology/spheroidLattice.js";
 import { getFillColor } from "../render/modes.js";
 
+/** Scale task coordinates (R=10) into ~unit Three.js scene */
+const WORLD_SCALE = 0.1;
+
 /**
- * @param {'cylinder' | 'sphere'} projection
- * @param {import('../schema/hexSchema.js').HexState[]} cells
- * @param {import('../render/modes.js').RenderMode} renderMode
+ * @param {'cylinder' | 'spheroid'} projection
+ * @param {boolean} [mergePoles] spheroid only: collapse b=0 / b=23 to single north/south point
  */
-export default function FamilyLatticeThreeView({ projection, cells, renderMode, selectedId, hoveredId, onSelect, onHover }) {
+export default function FamilyLatticeThreeView({ projection, mergePoles = true, cells, renderMode, selectedId, hoveredId, onSelect, onHover }) {
   const mountRef = useRef(null);
   const rendererRef = useRef(null);
   const sceneRef = useRef(null);
@@ -20,8 +22,12 @@ export default function FamilyLatticeThreeView({ projection, cells, renderMode, 
   const pointerRef = useRef(new THREE.Vector2());
 
   function posFor(s, b) {
-    if (projection === "cylinder") return cylinderPosition(s, b, 1.15, 2.4);
-    return spherePosition(s, b, 1.05);
+    const mode = projection === "cylinder" ? "cylinder" : "spheroid";
+    const p = project(s, b, mode, {
+      R: 10,
+      poleCollapse: mode === "spheroid" ? mergePoles : false,
+    });
+    return { x: p.x * WORLD_SCALE, y: p.y * WORLD_SCALE, z: p.z * WORLD_SCALE };
   }
 
   function cellAt(sbMap, s, b) {
@@ -159,7 +165,7 @@ export default function FamilyLatticeThreeView({ projection, cells, renderMode, 
       renderer.dispose();
       el.removeChild(renderer.domElement);
     };
-  }, [projection]);
+  }, [projection, mergePoles]);
 
   useEffect(() => {
     const meshes = meshesRef.current;
