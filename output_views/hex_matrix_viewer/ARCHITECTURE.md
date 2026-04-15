@@ -4,6 +4,26 @@
 
 Per-hex state matches the agreed contract: `id`, `family_id`, `area_id`, `q`, `r`, `area_scores[12]`, `dominant_area`, `dominance`, `stability`, optional `contradiction`, `activation`. Transitions: `prev_dominant_area`, `delta_dominance`, `delta_activation`, `area_switched` (attached after frames are built).
 
+## Truth lattice — 12×24 spheroid shell (`src/topology/spheroidLattice.js`)
+
+Canonical addressing: **sector** `s ∈ [0..11]`, **band** `b ∈ [0..23]`, cell **`F(s,b)`** (288 families). Horizontal adjacency wraps on `s`; vertical is `b±1` with **north** at `b=0`, **south** at `b=23` (no vertical wrap).
+
+Geometry (unit shell):
+
+- `theta = (2π/12) * s`
+- `phi = π * (b/23 - 0.5)`
+- `x = cos(phi) * cos(theta)`, `y = cos(phi) * sin(theta)`, `z = sin(phi)` (Three.js scene uses Y-up; same numbers mapped to `Vector3(x, z, y)` in code if needed — see `FamilyLatticeThreeView`).
+
+**Projections** (only projection changes; adjacency invariant):
+
+| Mode | View |
+|------|------|
+| `flat` | 12 columns × 24 rows; wrap edge (11→0) drawn as dashed Bezier (debug). |
+| `cylinder` | Sector on circle, band linear height. |
+| `sphere` | Full shell, **Three.js** + `OrbitControls`. |
+
+**Aggregation** (`src/data/aggregateFamilies.js`): sub-hex rows are grouped by numeric `family_id` (0..287) into one **FamilyCell** per `F(s,b)` with averaged scores; transitions attached across frames. The **72k hex canvas** remains the fine interaction / debug surface; it does not redefine `F(s,b)`.
+
 ## Layout (`src/layout/familyLayout.js`)
 
 - **Deterministic**: 12 areas × 24 families/area × 250 hexes = 72,000.

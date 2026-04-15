@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
-import { Search, ZoomIn, ZoomOut, RotateCcw, Layers, Eye, Grid3X3, Play, Pause, Pin } from "lucide-react";
+import { Search, ZoomIn, ZoomOut, RotateCcw, Layers, Eye, Grid3X3, Play, Pause, Pin, Globe, Hexagon } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card";
 import { Button } from "./components/ui/button";
 import { Input } from "./components/ui/input";
@@ -13,6 +13,9 @@ import { coherenceAreaScoresPass, coherenceScalarPass } from "./render/coherence
 import { getFillColor } from "./render/modes.js";
 import { generateMockDataset, attachFrameTransitions } from "./mock/generateMockDataset.js";
 import { loadDataset } from "./data/datasetPipeline.js";
+import { aggregateHexesToFamilyCells, attachFamilyLatticeTransitions } from "./data/aggregateFamilies.js";
+import FamilyLatticeFlatCanvas from "./views/FamilyLatticeFlatCanvas.jsx";
+import FamilyLatticeThreeView from "./views/FamilyLatticeThreeView.jsx";
 
 function clamp(v, min, max) {
   return Math.max(min, Math.min(max, v));
@@ -155,17 +158,34 @@ export default function HesperiaHexMatrixViewer() {
   const [coherenceOn, setCoherenceOn] = useState(false);
   const [coherenceKind, setCoherenceKind] = useState(/** @type {'area_scores' | 'dominance' | 'stability'} */ ("area_scores"));
   const [pinSelection, setPinSelection] = useState(true);
+  /** @type {['lattice288' | 'hex72000', function]} */
+  const [surfaceMode, setSurfaceMode] = useState(/** @type {'lattice288' | 'hex72000'} */ ("lattice288"));
+  /** @type {['flat' | 'cylinder' | 'sphere', function]} */
+  const [projection, setProjection] = useState(/** @type {'flat' | 'cylinder' | 'sphere'} */ ("flat"));
 
   const frameCount = dataset.frames.length;
   const currentFrame = dataset.frames[Math.min(frameIndex, frameCount - 1)];
   const rawHexes = currentFrame.hexes;
 
-  const displayHexes = useMemo(() => {
-    if (!coherenceOn) return rawHexes;
-    if (coherenceKind === "area_scores") return coherenceAreaScoresPass(rawHexes);
-    if (coherenceKind === "dominance") return coherenceScalarPass(rawHexes, "dominance");
-    return coherenceScalarPass(rawHexes, "stability");
-  }, [rawHexes, coherenceOn, coherenceKind]);
+  const coherentFramesHexes = useMemo(() => {
+    return dataset.frames.map((fr) => {
+      let hx = fr.hexes;
+      if (!coherenceOn) return hx;
+      if (coherenceKind === "area_scores") return coherenceAreaScoresPass(hx);
+      if (coherenceKind === "dominance") return coherenceScalarPass(hx, "dominance");
+      return coherenceScalarPass(hx, "stability");
+    });
+  }, [dataset, coherenceOn, coherenceKind]);
+
+  const displayHexes = coherentFramesHexes[Math.min(frameIndex, frameCount - 1)];
+
+  const familyLatticeFrames = useMemo(() => {
+    const agg = coherentFramesHexes.map((hx) => aggregateHexesToFamilyCells(hx));
+    attachFamilyLatticeTransitions(agg);
+    return agg;
+  }, [coherentFramesHexes]);
+
+  const displayFamilyCells = familyLatticeFrames[Math.min(frameIndex, frameCount - 1)];
 
   const coordMap = useMemo(() => buildCoordMap(displayHexes), [displayHexes]);
 
@@ -179,25 +199,31 @@ export default function HesperiaHexMatrixViewer() {
 
   const selectedHex = useMemo(() => {
     if (!selectedId) return null;
+    if (surfaceMode === "lattice288") return displayFamilyCells.find((h) => h.id === selectedId) || null;
     return displayHexes.find((h) => h.id === selectedId) || null;
-  }, [displayHexes, selectedId]);
+  }, [surfaceMode, displayFamilyCells, displayHexes, selectedId]);
 
   const rawSelectedHex = useMemo(() => {
-    if (!selectedId) return null;
+    if (!selectedId || surfaceMode === "lattice288") return null;
     return rawHexes.find((h) => h.id === selectedId) || null;
-  }, [rawHexes, selectedId]);
+  }, [rawHexes, selectedId, surfaceMode]);
 
   const hoveredHex = useMemo(() => {
     if (!hoveredId) return null;
+    if (surfaceMode === "lattice288") return displayFamilyCells.find((h) => h.id === hoveredId) || null;
     return displayHexes.find((h) => h.id === hoveredId) || null;
-  }, [displayHexes, hoveredId]);
+  }, [surfaceMode, displayFamilyCells, displayHexes, hoveredId]);
 
   const prevFrameHexForSelected = useMemo(() => {
     if (!selectedId || frameIndex <= 0) return null;
+    if (surfaceMode === "lattice288") {
+      const prev = familyLatticeFrames[frameIndex - 1];
+      return prev ? prev.find((h) => h.id === selectedId) || null : null;
+    }
     const prev = dataset.frames[frameIndex - 1]?.hexes;
     if (!prev) return null;
     return prev.find((h) => h.id === selectedId) || null;
-  }, [dataset.frames, frameIndex, selectedId]);
+  }, [surfaceMode, familyLatticeFrames, dataset.frames, frameIndex, selectedId]);
 
   useEffect(() => {
     if (!isPlaying) return;
@@ -212,6 +238,11 @@ export default function HesperiaHexMatrixViewer() {
   }, [frameIndex, pinSelection]);
 
   useEffect(() => {
+    setSelectedId(null);
+  }, [surfaceMode]);
+
+  useEffect(() => {
+    if (surfaceMode !== "hex72000") return;
     const el = wrapRef.current;
     const canvas = canvasRef.current;
     if (!el || !canvas) return;
@@ -230,9 +261,10 @@ export default function HesperiaHexMatrixViewer() {
     const observer = new ResizeObserver(resize);
     observer.observe(el);
     return () => observer.disconnect();
-  }, []);
+  }, [surfaceMode]);
 
   useEffect(() => {
+    if (surfaceMode !== "hex72000") return;
     const el = wrapRef.current;
     if (!el) return;
     const rect = el.getBoundingClientRect();
@@ -245,9 +277,10 @@ export default function HesperiaHexMatrixViewer() {
       x: rect.width / 2 - (bounds.minX + bounds.width / 2) * initialZoom,
       y: rect.height / 2 - (bounds.minY + bounds.height / 2) * initialZoom,
     });
-  }, [hexSize]);
+  }, [hexSize, surfaceMode, displayHexes]);
 
   useEffect(() => {
+    if (surfaceMode !== "hex72000") return;
     const canvas = canvasRef.current;
     const el = wrapRef.current;
     if (!canvas || !el) return;
@@ -342,7 +375,7 @@ export default function HesperiaHexMatrixViewer() {
         ctx.stroke();
       }
     }
-  }, [displayHexes, zoom, offset, hoveredId, selectedId, renderMode, showGridStroke, showLabels, search, hexSize, coordMap]);
+  }, [surfaceMode, displayHexes, zoom, offset, hoveredId, selectedId, renderMode, showGridStroke, showLabels, search, hexSize, coordMap]);
 
   function screenToWorld(clientX, clientY) {
     const rect = wrapRef.current.getBoundingClientRect();
@@ -434,22 +467,27 @@ export default function HesperiaHexMatrixViewer() {
   function focusHexBySearch() {
     const needle = search.trim().toLowerCase();
     if (!needle) return;
-    const found = displayHexes.find(
+    const pool = surfaceMode === "lattice288" ? displayFamilyCells : displayHexes;
+    const found = pool.find(
       (h) =>
         h.id.toLowerCase().includes(needle) ||
         String(h.family_id).toLowerCase().includes(needle) ||
         String(h.area_id).toLowerCase().includes(needle) ||
-        String(h.dominant_area) === needle
+        String(h.dominant_area) === needle ||
+        (h.sector != null && `s${h.sector}`.includes(needle)) ||
+        (h.band != null && `b${h.band}`.includes(needle))
     );
     if (!found || !wrapRef.current) return;
-    const rect = wrapRef.current.getBoundingClientRect();
-    const p = hexToPixel(found.q, found.r, hexSize);
-    const nextZoom = Math.max(zoom, 1.3);
-    setZoom(nextZoom);
-    setOffset({
-      x: rect.width / 2 - p.x * nextZoom,
-      y: rect.height / 2 - p.y * nextZoom,
-    });
+    if (surfaceMode === "hex72000") {
+      const rect = wrapRef.current.getBoundingClientRect();
+      const p = hexToPixel(found.q, found.r, hexSize);
+      const nextZoom = Math.max(zoom, 1.3);
+      setZoom(nextZoom);
+      setOffset({
+        x: rect.width / 2 - p.x * nextZoom,
+        y: rect.height / 2 - p.y * nextZoom,
+      });
+    }
     setSelectedId(found.id);
   }
 
@@ -457,12 +495,13 @@ export default function HesperiaHexMatrixViewer() {
   const byArea = useMemo(() => {
     const out = new Map();
     for (let i = 0; i < N_AREAS; i++) out.set(i, 0);
-    for (const h of displayHexes) {
+    const src = surfaceMode === "lattice288" ? displayFamilyCells : displayHexes;
+    for (const h of src) {
       const k = h.dominant_area;
       out.set(k, (out.get(k) || 0) + h.dominance);
     }
     return Array.from(out.entries()).sort((a, b) => b[1] - a[1]);
-  }, [displayHexes]);
+  }, [displayHexes, displayFamilyCells, surfaceMode]);
 
   const modeSelectOptions = useMemo(() => {
     const base = [...MODE_OPTIONS];
@@ -494,14 +533,51 @@ export default function HesperiaHexMatrixViewer() {
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="text-sm text-slate-300 leading-6">
-                Semantic layout + dominant-area-first viewer. Family spectrum is demoted (debug only). Modes are isolated; optional coherence pass is
-                non-destructive to loaded raw frames in memory (derived view for display).
+                Truth layer: 12×24 family lattice F(s,b) → 288 cells; projections (flat / cylinder / sphere). Hex canvas = 72k interaction/debug. Render
+                modes stay semantically isolated; coherence is derived, not destructive to stored frames.
               </div>
+
+              <div className="space-y-2">
+                <div className="text-sm text-slate-300">Surface</div>
+                <div className="flex gap-2">
+                  <Button
+                    variant="secondary"
+                    className={`flex-1 rounded-2xl gap-1 ${surfaceMode === "lattice288" ? "ring-2 ring-amber-400/80" : ""}`}
+                    onClick={() => setSurfaceMode("lattice288")}
+                  >
+                    <Globe className="w-4 h-4" /> 288 lattice
+                  </Button>
+                  <Button
+                    variant="secondary"
+                    className={`flex-1 rounded-2xl gap-1 ${surfaceMode === "hex72000" ? "ring-2 ring-amber-400/80" : ""}`}
+                    onClick={() => setSurfaceMode("hex72000")}
+                  >
+                    <Hexagon className="w-4 h-4" /> 72k hex
+                  </Button>
+                </div>
+              </div>
+
+              {surfaceMode === "lattice288" ? (
+                <div className="space-y-2">
+                  <div className="text-sm text-slate-300">Projection</div>
+                  <select
+                    value={projection}
+                    onChange={(e) => setProjection(/** @type {'flat' | 'cylinder' | 'sphere'} */ (e.target.value))}
+                    className="w-full rounded-2xl border border-slate-700 bg-slate-800 px-3 py-2 text-sm text-slate-100"
+                  >
+                    <option value="flat">Flat 12×24 (control / Mercator-like)</option>
+                    <option value="cylinder">Cylinder (sector wraps, band linear)</option>
+                    <option value="sphere">Spheroid shell (Three.js)</option>
+                  </select>
+                </div>
+              ) : null}
 
               <div className="grid grid-cols-2 gap-2 text-sm">
                 <div className="p-3 rounded-2xl bg-slate-800/70">
-                  <div className="text-slate-400">Hexes</div>
-                  <div className="text-lg font-semibold">{displayHexes.length.toLocaleString()}</div>
+                  <div className="text-slate-400">{surfaceMode === "lattice288" ? "Family cells" : "Hexes"}</div>
+                  <div className="text-lg font-semibold">
+                    {(surfaceMode === "lattice288" ? displayFamilyCells : displayHexes).length.toLocaleString()}
+                  </div>
                 </div>
                 <div className="p-3 rounded-2xl bg-slate-800/70">
                   <div className="text-slate-400">Families</div>
@@ -587,10 +663,12 @@ export default function HesperiaHexMatrixViewer() {
                 </div>
               </div>
 
-              <div className="space-y-3">
-                <div className="text-sm text-slate-300">Base hex radius: {hexSize}</div>
-                <Slider value={[hexSize]} min={4} max={12} step={1} onValueChange={(v) => setHexSize(v[0])} />
-              </div>
+              {surfaceMode === "hex72000" ? (
+                <div className="space-y-3">
+                  <div className="text-sm text-slate-300">Base hex radius: {hexSize}</div>
+                  <Slider value={[hexSize]} min={4} max={12} step={1} onValueChange={(v) => setHexSize(v[0])} />
+                </div>
+              ) : null}
 
               <div className="grid grid-cols-2 gap-3">
                 <div className="flex items-center justify-between p-3 rounded-2xl bg-slate-800/70">
@@ -607,17 +685,19 @@ export default function HesperiaHexMatrixViewer() {
                 </div>
               </div>
 
-              <div className="grid grid-cols-3 gap-2">
-                <Button variant="secondary" className="rounded-2xl" onClick={() => zoomBy(1.25)}>
-                  <ZoomIn className="w-4 h-4" />
-                </Button>
-                <Button variant="secondary" className="rounded-2xl" onClick={() => zoomBy(0.8)}>
-                  <ZoomOut className="w-4 h-4" />
-                </Button>
-                <Button variant="secondary" className="rounded-2xl" onClick={resetView}>
-                  <RotateCcw className="w-4 h-4" />
-                </Button>
-              </div>
+              {surfaceMode === "hex72000" ? (
+                <div className="grid grid-cols-3 gap-2">
+                  <Button variant="secondary" className="rounded-2xl" onClick={() => zoomBy(1.25)}>
+                    <ZoomIn className="w-4 h-4" />
+                  </Button>
+                  <Button variant="secondary" className="rounded-2xl" onClick={() => zoomBy(0.8)}>
+                    <ZoomOut className="w-4 h-4" />
+                  </Button>
+                  <Button variant="secondary" className="rounded-2xl" onClick={resetView}>
+                    <RotateCcw className="w-4 h-4" />
+                  </Button>
+                </div>
+              ) : null}
             </CardContent>
           </Card>
 
@@ -648,6 +728,16 @@ export default function HesperiaHexMatrixViewer() {
                     <Badge variant="secondary" className="rounded-xl">
                       r {infoHex.r}
                     </Badge>
+                    {infoHex.sector != null ? (
+                      <Badge variant="secondary" className="rounded-xl">
+                        sector {infoHex.sector}
+                      </Badge>
+                    ) : null}
+                    {infoHex.band != null ? (
+                      <Badge variant="secondary" className="rounded-xl">
+                        band {infoHex.band}
+                      </Badge>
+                    ) : null}
                   </div>
                   <div>
                     <div className="text-slate-400 mb-1">area_scores[12]</div>
@@ -748,30 +838,64 @@ export default function HesperiaHexMatrixViewer() {
         <Card className="bg-slate-900/80 border-slate-800 rounded-2xl shadow-2xl overflow-hidden">
           <CardContent className="p-0">
             <div className="relative h-[78vh] min-h-[680px]" ref={wrapRef}>
-              <canvas
-                ref={canvasRef}
-                className="absolute inset-0 cursor-grab active:cursor-grabbing"
-                onMouseDown={handleMouseDown}
-                onMouseMove={handleMouseMove}
-                onMouseUp={handleMouseUp}
-                onMouseLeave={() => {
-                  draggingRef.current = false;
-                  setHoveredId(null);
-                }}
-                onWheel={handleWheel}
-              />
+              {surfaceMode === "lattice288" && projection === "flat" ? (
+                <FamilyLatticeFlatCanvas
+                  cells={displayFamilyCells}
+                  renderMode={renderMode}
+                  selectedId={selectedId}
+                  hoveredId={hoveredId}
+                  search={search}
+                  onSelect={setSelectedId}
+                  onHover={setHoveredId}
+                />
+              ) : null}
+              {surfaceMode === "lattice288" && projection !== "flat" ? (
+                <FamilyLatticeThreeView
+                  projection={projection === "cylinder" ? "cylinder" : "sphere"}
+                  cells={displayFamilyCells}
+                  renderMode={renderMode}
+                  selectedId={selectedId}
+                  hoveredId={hoveredId}
+                  onSelect={setSelectedId}
+                  onHover={setHoveredId}
+                />
+              ) : null}
+              {surfaceMode === "hex72000" ? (
+                <canvas
+                  ref={canvasRef}
+                  className="absolute inset-0 cursor-grab active:cursor-grabbing"
+                  onMouseDown={handleMouseDown}
+                  onMouseMove={handleMouseMove}
+                  onMouseUp={handleMouseUp}
+                  onMouseLeave={() => {
+                    draggingRef.current = false;
+                    setHoveredId(null);
+                  }}
+                  onWheel={handleWheel}
+                />
+              ) : null}
 
-              <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-[75%]">
-                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">zoom {zoom.toFixed(2)}x</Badge>
-                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">mode {renderMode}</Badge>
-                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">
+              <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-[75%] pointer-events-none">
+                {surfaceMode === "hex72000" ? (
+                  <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">zoom {zoom.toFixed(2)}x</Badge>
+                ) : (
+                  <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">
+                    projection {projection}
+                  </Badge>
+                )}
+                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">mode {renderMode}</Badge>
+                <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">
                   frame {frameIndex + 1}/{frameCount}
                 </Badge>
                 {coherenceOn ? (
-                  <Badge className="rounded-xl bg-amber-950/80 text-amber-100 border border-amber-800">coherence {coherenceKind}</Badge>
+                  <Badge className="rounded-xl bg-amber-950/80 text-amber-100 border border-amber-800 pointer-events-none">coherence {coherenceKind}</Badge>
                 ) : null}
-                {hoveredHex ? <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">hover {hoveredHex.id}</Badge> : null}
-                {selectedHex ? <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700">selected {selectedHex.id}</Badge> : null}
+                {hoveredHex ? (
+                  <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">hover {hoveredHex.id}</Badge>
+                ) : null}
+                {selectedHex ? (
+                  <Badge className="rounded-xl bg-slate-950/80 text-slate-100 border border-slate-700 pointer-events-none">selected {selectedHex.id}</Badge>
+                ) : null}
               </div>
             </div>
           </CardContent>
