@@ -26,6 +26,11 @@ HEX_EFFECT_MIN_L1 = 0.01
 FINAL_AREA_COLLAPSE_MAX = 0.9
 FINAL_AREA_FLATNESS_ENTROPY = 2.2
 SEGMENT_LENGTH_SENSITIVITY_RATIO = 3.0
+MAX_CONTRADICTIONS_PER_LEXICAL_HIT = 5.0
+MAX_ZERO_LEX_SHARE = 0.6
+MAX_INFERRED_SHARE = 0.6
+MIN_HEX_DELTA_L1_HARD = 0.01
+MIN_TOP_AREA_CHANGE_HARD = 0.02
 
 
 def _load(p: Path) -> dict[str, Any] | None:
@@ -77,6 +82,8 @@ def run_audit(bundle_dir: Path) -> dict[str, Any]:
     s05 = _load(bundle_dir / "05_sealed_multiscale.json")
     s06 = _load(bundle_dir / "06_product_analyze.json")
     s09 = _load(bundle_dir / "09_session_topology.json")
+    s13 = _load(bundle_dir / "13_contradiction_reconciliation.json")
+    s20 = _load(bundle_dir / "20_main_engine_full_context.json")
 
     l1_attributed = None
     hex_mass = None
@@ -176,6 +183,58 @@ def run_audit(bundle_dir: Path) -> dict[str, Any]:
             suspects.append("topology.temporal_momentum_missing")
             alarms.append("TEMPORAL_MOMENTUM_METADATA_MISSING")
 
+    if s13 and s13.get("sessions"):
+        rec = (s13.get("sessions") or [{}])[0] if isinstance(s13.get("sessions"), list) else {}
+        if isinstance(rec, dict):
+            lexical = rec.get("lexical_support") or {}
+            ratio = float(lexical.get("contradictions_per_accepted_lexical_hit") or 0.0)
+            zero_lex_share = float(lexical.get("zero_lexical_evidence_share") or 0.0)
+            inferred_share = float(lexical.get("inferred_share") or 0.0)
+            plane_notes["contradiction_authority"] = {
+                "canonical_source": rec.get("canonical_source"),
+                "contradictions_direct_triz": rec.get("contradictions_direct_triz"),
+                "contradictions_topology_derived": rec.get("contradictions_topology_derived"),
+                "delta_count": rec.get("delta_count"),
+                "lexical_hits_accepted": lexical.get("lexical_hits_accepted"),
+                "contradictions_per_accepted_lexical_hit": ratio,
+                "zero_lexical_evidence_share": zero_lex_share,
+                "inferred_share": inferred_share,
+                "segment_entropy": lexical.get("segment_entropy"),
+            }
+            if rec.get("canonical_source") != "12_topology_derived_contradictions":
+                suspects.append("contradictions.canonical_source_mismatch")
+                alarms.append("CANONICAL_CONTRADICTION_SOURCE_MISMATCH")
+            if ratio > MAX_CONTRADICTIONS_PER_LEXICAL_HIT:
+                suspects.append("contradictions.probable_overproduction")
+                alarms.append("CONTRADICTION_OVERPRODUCTION")
+            if zero_lex_share > MAX_ZERO_LEX_SHARE:
+                suspects.append("contradictions.zero_lex_share_high")
+                alarms.append("CONTRADICTION_ZERO_LEX_EVIDENCE_HIGH")
+            if inferred_share > MAX_INFERRED_SHARE:
+                suspects.append("contradictions.inferred_share_high")
+                alarms.append("CONTRADICTION_INFERRED_SHARE_HIGH")
+
+    if s20 and s20.get("sessions"):
+        srow = (s20.get("sessions") or [{}])[0] if isinstance(s20.get("sessions"), list) else {}
+        if isinstance(srow, dict):
+            effect = srow.get("invariant_path_effect") or {}
+            plane_notes["invariant_path_effect"] = {
+                "hex_contribution_delta_l1": effect.get("hex_contribution_delta_l1"),
+                "top_area_before": effect.get("top_area_before"),
+                "top_area_after": effect.get("top_area_after"),
+                "top_area_change_magnitude": effect.get("top_area_change_magnitude"),
+                "rank_changes": effect.get("rank_changes"),
+            }
+            if float(effect.get("hex_contribution_delta_l1") or 0.0) <= HEX_EFFECT_MIN_L1:
+                suspects.append("invariant.hex_effect_negligible")
+                alarms.append("INVARIANT_PATH_EFFECT_NEGLIGIBLE")
+            if float(effect.get("top_area_change_magnitude") or 0.0) <= 1e-6:
+                suspects.append("invariant.top_area_unchanged")
+            if float(effect.get("hex_contribution_delta_l1") or 0.0) < MIN_HEX_DELTA_L1_HARD:
+                suspects.append("invariant.hex_effect_below_hard_min")
+            if float(effect.get("top_area_change_magnitude") or 0.0) < MIN_TOP_AREA_CHANGE_HARD:
+                suspects.append("invariant.top_area_change_below_hard_min")
+
     score = 1.0
     if l1_attributed == 0 and (analyze_cov or 0) >= 0.99:
         score -= 0.35
@@ -248,6 +307,10 @@ def run_audit(bundle_dir: Path) -> dict[str, Any]:
         audit_codes.append("A002_UPSTREAM_NONZERO_DOWNSTREAM_ZERO")
     if "stages.invariant_path_missing" in suspects:
         audit_codes.append("A009_INVARIANT_PATH_BYPASSED")
+    if "contradictions.probable_overproduction" in suspects:
+        audit_codes.append("A010_CONTRADICTION_OVERPRODUCTION")
+    if "contradictions.zero_lex_share_high" in suspects or "contradictions.inferred_share_high" in suspects:
+        audit_codes.append("A011_CONTRADICTION_GROUNDING_WEAK")
 
     return {
         "run": "tfp_calibration_audit_v2",

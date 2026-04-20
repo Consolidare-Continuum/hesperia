@@ -1,1 +1,1 @@
-host=prichindel connectivity=N/A
+host=alunel connectivity=lan

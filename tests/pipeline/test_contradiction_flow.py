@@ -11,7 +11,7 @@ def _write_json(path: Path, data: object) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
 
 
-def test_load_contradictions_prefers_08(tmp_path: Path) -> None:
+def test_load_contradictions_uses_canonical_12_source(tmp_path: Path) -> None:
     sid = "s1"
     _write_json(
         tmp_path / "08_triz_complete.json",
@@ -31,10 +31,14 @@ def test_load_contradictions_prefers_08(tmp_path: Path) -> None:
             ]
         },
     )
+    _write_json(
+        tmp_path / "12_s1_contradictions.json",
+        [{"pair": ["x1", "x2"], "raw_contradiction_score": 0.9}],
+    )
     rows, source = mod._load_contradictions(tmp_path, sid)
-    assert source == "08_triz_complete.json"
-    assert len(rows) == 2
-    assert [tuple(r["pair"]) for r in rows] == [("c2", "c1"), ("c1", "c3")]
+    assert source == "12_topology_derived_contradictions"
+    assert len(rows) == 1
+    assert [tuple(r["pair"]) for r in rows] == [("x1", "x2")]
 
 
 def test_activation_receives_contradictions(monkeypatch, tmp_path: Path) -> None:

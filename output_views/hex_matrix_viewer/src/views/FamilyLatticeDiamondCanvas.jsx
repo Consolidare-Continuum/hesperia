@@ -1,9 +1,40 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
-import { SECTORS, BANDS, familyLinearIndex, diamondLayout } from "../topology/spheroidLattice.js";
+import { SECTORS, BANDS, familyLinearIndex } from "../topology/spheroidLattice.js";
 import { getFillColor } from "../render/modes.js";
 
 function clamp(v, lo, hi) {
   return Math.max(lo, Math.min(hi, v));
+}
+
+/** Diamond view only: softer saturation / lift lightness (no topology change). */
+function softenFillForDiamond(css) {
+  const t = css.trim();
+  const hsl = /^hsl\(\s*([\d.]+)\s+([\d.]+)%\s+([\d.]+)%\s*\)/i.exec(t);
+  if (hsl) {
+    const sat = Math.min(100, parseFloat(hsl[2]) * 0.8);
+    const light = Math.min(100, parseFloat(hsl[3]) * 1.05);
+    return `hsl(${hsl[1]} ${sat}% ${light}%)`;
+  }
+  const rgba = /^rgba\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*([\d.]+)\s*\)/i.exec(t);
+  if (rgba) {
+    const r = Math.min(255, +rgba[1] * 0.96 + 10);
+    const g = Math.min(255, +rgba[2] * 0.96 + 10);
+    const b = Math.min(255, +rgba[3] * 0.96 + 10);
+    const a = Math.min(1, parseFloat(rgba[4]) * 1.05);
+    return `rgba(${Math.round(r)}, ${Math.round(g)}, ${Math.round(b)}, ${a})`;
+  }
+  const rgb = /^rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)/i.exec(t);
+  if (rgb) {
+    const mix = (x) => Math.min(255, x * 0.92 + 18);
+    return `rgb(${Math.round(mix(+rgb[1]))}, ${Math.round(mix(+rgb[2]))}, ${Math.round(mix(+rgb[3]))})`;
+  }
+  return t;
+}
+
+/** Rhomb edge / band: weaker at poles, stronger at equator (b 0..23). */
+function diamondEdgeFadeAtRow(bRow) {
+  const t = Math.abs(bRow - 11.5) / 11.5;
+  return 1 - 0.5 * t;
 }
 
 /**
@@ -28,16 +59,17 @@ export default function FamilyLatticeDiamondCanvas({ cells, renderMode, selected
     return m;
   }, [cells]);
 
+  /** Evenly spread 12 sectors across row; center-aligned, no collisions. */
   function diamondCenter(s, b, rect, pad, gw, gh) {
-    const { width, col } = diamondLayout(s, b);
+    const width = 1 + Math.min(b, BANDS - 1 - b);
+    const xNorm = (s + 0.5) * (width / 12) - width / 2;
     const centerX = rect.width / 2;
     const rowInner = (width / 12) * gw;
-    const cellPitch = width > 0 ? rowInner / width : rowInner;
-    const cx = centerX - rowInner / 2 + (col + 0.5) * cellPitch;
-    const spread = (s - 5.5) * (cellPitch * 0.12);
+    const cx = centerX + xNorm * (rowInner / width);
     const ch = gh / BANDS;
     const cy = pad + (b + 0.5) * ch;
-    return { cx: cx + spread, cy, cellPitch, ch };
+    const cellPitch = rowInner / 12;
+    return { cx, cy, cellPitch, ch, width };
   }
 
   useEffect(() => {
@@ -82,62 +114,72 @@ export default function FamilyLatticeDiamondCanvas({ cells, renderMode, selected
     ctx.scale(zoom, zoom);
     ctx.translate(-rect.width / 2, -rect.height / 2);
 
-    ctx.strokeStyle = "rgba(255,255,255,0.14)";
     ctx.lineWidth = 1 / zoom;
     for (let b = 0; b < BANDS; b++) {
-      for (let s = 0; s < SECTORS; s++) {
-        const p0 = diamondCenter(s, b, rect, pad, gw, gh);
-        const pr = diamondCenter((s + 1) % SECTORS, b, rect, pad, gw, gh);
-        ctx.beginPath();
-        ctx.moveTo(p0.cx, p0.cy);
-        ctx.lineTo(pr.cx, pr.cy);
-        ctx.stroke();
-        if (b < BANDS - 1) {
-          const pd = diamondCenter(s, b + 1, rect, pad, gw, gh);
+      const fade = diamondEdgeFadeAtRow(b);
+      ctx.strokeStyle = `rgba(255,255,255,${0.08 * fade})`;
+      const y = pad + (b + 0.5) * (gh / BANDS);
+      ctx.beginPath();
+      ctx.moveTo(pad, y);
+      ctx.lineTo(rect.width - pad, y);
+      ctx.stroke();
+    }
+
+    ctx.lineWidth = 1 / zoom;
+    const rhombBaseA = 0.32;
+    for (let b = 0; b < BANDS - 1; b++) {
+      for (let s = 0; s < SECTORS - 1; s++) {
+        const fade = diamondEdgeFadeAtRow(b + 0.5);
+        const a = rhombBaseA * fade;
+        if ((s + b) % 2 === 0) {
+          const p0 = diamondCenter(s, b, rect, pad, gw, gh);
+          const p1 = diamondCenter(s + 1, b + 1, rect, pad, gw, gh);
+          ctx.strokeStyle = `rgba(148,163,184,${a})`;
           ctx.beginPath();
           ctx.moveTo(p0.cx, p0.cy);
-          ctx.lineTo(pd.cx, pd.cy);
+          ctx.lineTo(p1.cx, p1.cy);
+          ctx.stroke();
+        } else {
+          const p0 = diamondCenter(s + 1, b, rect, pad, gw, gh);
+          const p1 = diamondCenter(s, b + 1, rect, pad, gw, gh);
+          ctx.strokeStyle = `rgba(148,163,184,${a})`;
+          ctx.beginPath();
+          ctx.moveTo(p0.cx, p0.cy);
+          ctx.lineTo(p1.cx, p1.cy);
           ctx.stroke();
         }
       }
     }
-    ctx.setLineDash([4 / zoom, 4 / zoom]);
-    ctx.strokeStyle = "rgba(250, 204, 21, 0.28)";
-    for (let b = 0; b < BANDS; b++) {
-      const a = diamondCenter(11, b, rect, pad, gw, gh);
-      const o = diamondCenter(0, b, rect, pad, gw, gh);
-      ctx.beginPath();
-      ctx.moveTo(a.cx, a.cy);
-      ctx.bezierCurveTo(a.cx + gw * 0.04, a.cy + gh * 0.04, o.cx - gw * 0.04, o.cy + gh * 0.04, o.cx, o.cy);
-      ctx.stroke();
-    }
-    ctx.setLineDash([]);
 
     if (renderMode === "boundary") {
-      ctx.lineWidth = 1.3 / zoom;
-      for (let b = 0; b < BANDS; b++) {
-        for (let s = 0; s < SECTORS; s++) {
-          const h = map.get(`${s},${b}`);
-          if (!h) continue;
-          const pr = map.get(`${(s + 1) % SECTORS},${b}`);
-          if (pr && pr.dominant_area !== h.dominant_area) {
-            const p0 = diamondCenter(s, b, rect, pad, gw, gh);
-            const p1 = diamondCenter((s + 1) % SECTORS, b, rect, pad, gw, gh);
-            ctx.beginPath();
-            ctx.moveTo(p0.cx, p0.cy);
-            ctx.lineTo(p1.cx, p1.cy);
-            ctx.strokeStyle = "rgba(255,255,255,0.42)";
-            ctx.stroke();
-          }
-          if (b < BANDS - 1) {
-            const pd = map.get(`${s},${b + 1}`);
-            if (pd && pd.dominant_area !== h.dominant_area) {
+      ctx.lineWidth = 1.6 / zoom;
+      const boundaryBaseA = 0.55;
+      for (let b = 0; b < BANDS - 1; b++) {
+        for (let s = 0; s < SECTORS - 1; s++) {
+          const fade = diamondEdgeFadeAtRow(b + 0.5);
+          const ba = boundaryBaseA * fade;
+          if ((s + b) % 2 === 0) {
+            const h00 = map.get(`${s},${b}`);
+            const h11 = map.get(`${s + 1},${b + 1}`);
+            if (h00 && h11 && h00.dominant_area !== h11.dominant_area) {
               const p0 = diamondCenter(s, b, rect, pad, gw, gh);
-              const p1 = diamondCenter(s, b + 1, rect, pad, gw, gh);
+              const p1 = diamondCenter(s + 1, b + 1, rect, pad, gw, gh);
+              ctx.strokeStyle = `rgba(250,250,250,${ba})`;
               ctx.beginPath();
               ctx.moveTo(p0.cx, p0.cy);
               ctx.lineTo(p1.cx, p1.cy);
-              ctx.strokeStyle = "rgba(255,255,255,0.42)";
+              ctx.stroke();
+            }
+          } else {
+            const h10 = map.get(`${s + 1},${b}`);
+            const h01 = map.get(`${s},${b + 1}`);
+            if (h10 && h01 && h10.dominant_area !== h01.dominant_area) {
+              const p0 = diamondCenter(s + 1, b, rect, pad, gw, gh);
+              const p1 = diamondCenter(s, b + 1, rect, pad, gw, gh);
+              ctx.strokeStyle = `rgba(250,250,250,${ba})`;
+              ctx.beginPath();
+              ctx.moveTo(p0.cx, p0.cy);
+              ctx.lineTo(p1.cx, p1.cy);
               ctx.stroke();
             }
           }
@@ -151,14 +193,22 @@ export default function FamilyLatticeDiamondCanvas({ cells, renderMode, selected
         if (!h) continue;
         const idx = familyLinearIndex(s, b);
         const pos = diamondCenter(s, b, rect, pad, gw, gh);
-        const nodeR = Math.min(pos.cellPitch, pos.ch) * 0.28;
+        const equator = b === 11 || b === 12;
+        const silhouette = b === 0 || b === BANDS - 1 || s === 0 || s === SECTORS - 1;
+        const baseR = Math.min(pos.cellPitch, pos.ch) * 0.28 * 0.7;
+        const nodeR = baseR * (equator ? 1.15 : 1) * (silhouette ? 1.2 : 1);
+        ctx.save();
+        ctx.globalAlpha = equator || silhouette ? 1 : 0.85;
         ctx.beginPath();
         ctx.arc(pos.cx, pos.cy, nodeR, 0, Math.PI * 2);
-        ctx.fillStyle = getFillColor(h, renderMode, idx);
+        ctx.fillStyle = softenFillForDiamond(getFillColor(h, renderMode, idx));
         ctx.fill();
+        ctx.restore();
         if (h.id === selectedId || h.id === hoveredId) {
           ctx.lineWidth = h.id === selectedId ? 2.4 / zoom : 1.6 / zoom;
           ctx.strokeStyle = "rgba(255,255,255,0.92)";
+          ctx.beginPath();
+          ctx.arc(pos.cx, pos.cy, nodeR, 0, Math.PI * 2);
           ctx.stroke();
         }
         if (search.trim()) {
@@ -212,7 +262,10 @@ export default function FamilyLatticeDiamondCanvas({ cells, renderMode, selected
     for (let b = 0; b < BANDS; b++) {
       for (let s = 0; s < SECTORS; s++) {
         const pos = diamondCenter(s, b, r, pad, gw, gh);
-        const nodeR = Math.min(pos.cellPitch, pos.ch) * 0.28;
+        const equator = b === 11 || b === 12;
+        const silhouette = b === 0 || b === BANDS - 1 || s === 0 || s === SECTORS - 1;
+        const nodeR =
+          Math.min(pos.cellPitch, pos.ch) * 0.28 * 0.7 * (equator ? 1.15 : 1) * (silhouette ? 1.2 : 1);
         const d = Math.hypot(lx - pos.cx, ly - pos.cy);
         if (d <= nodeR * 1.35 && d < bestD) {
           best = { s, b };

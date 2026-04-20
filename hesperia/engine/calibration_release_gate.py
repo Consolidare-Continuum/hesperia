@@ -83,6 +83,7 @@ def evaluate_bundle(
         if isinstance(d, dict) and "operational_envelope" in d:
             envs.append(d["operational_envelope"])
     topology = _load("09_session_topology.json")
+    reconciliation = _load("13_contradiction_reconciliation.json")
 
     blocking_any = any(e.get("blocking") for e in envs if isinstance(e, dict))
     failed_status = any(str(e.get("status")) == "failed" for e in envs if isinstance(e, dict))
@@ -163,6 +164,42 @@ def evaluate_bundle(
             }
         )
 
+    if isinstance(reconciliation, dict):
+        rec_sessions = reconciliation.get("sessions") or []
+        rec0 = rec_sessions[0] if isinstance(rec_sessions, list) and rec_sessions else {}
+        lexical_support = rec0.get("lexical_support") or {}
+        ratio = float(lexical_support.get("contradictions_per_accepted_lexical_hit") or 0.0)
+        zero_lex_share = float(lexical_support.get("zero_lexical_evidence_share") or 0.0)
+        inferred_share = float(lexical_support.get("inferred_share") or 0.0)
+        checks.append(
+            {
+                "check": "canonical_contradiction_source_locked",
+                "pass": rec0.get("canonical_source") == "12_topology_derived_contradictions",
+                "value": rec0.get("canonical_source"),
+            }
+        )
+        checks.append(
+            {
+                "check": "contradiction_overproduction_guard",
+                "pass": ratio <= 5.0,
+                "value": ratio,
+            }
+        )
+        checks.append(
+            {
+                "check": "contradiction_grounding_zero_lex_share",
+                "pass": zero_lex_share <= 0.6,
+                "value": zero_lex_share,
+            }
+        )
+        checks.append(
+            {
+                "check": "contradiction_grounding_inferred_share",
+                "pass": inferred_share <= 0.6,
+                "value": inferred_share,
+            }
+        )
+
     if schema_ok is not None:
         checks.append({"check": "json_schema_validation", "pass": schema_ok})
 
@@ -176,6 +213,10 @@ def evaluate_bundle(
         "post_operator_feedback_active",
         "dynamics_metadata_when_topology_enabled",
         "audit_operator_path_not_bypassed",
+        "canonical_contradiction_source_locked",
+        "contradiction_overproduction_guard",
+        "contradiction_grounding_zero_lex_share",
+        "contradiction_grounding_inferred_share",
     }
     engine_checks_ok = all(
         c.get("pass") is True for c in checks if c.get("check") in required_engine_checks

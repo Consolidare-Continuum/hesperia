@@ -47,6 +47,10 @@ _REPO = Path(__file__).resolve().parents[2]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
+CANONICAL_CONTRADICTION_SOURCE = "12_topology_derived_contradictions"
+MIN_CANONICAL_CONTRADICTION_SCORE = 0.15
+MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION = 250
+
 
 def _round_floats(obj: Any, ndigits: int = 6) -> Any:
     if isinstance(obj, float):
@@ -56,6 +60,10 @@ def _round_floats(obj: Any, ndigits: int = 6) -> Any:
     if isinstance(obj, list):
         return [_round_floats(x, ndigits) for x in obj]
     return obj
+
+
+def _top_keys(values: dict[str, Any], n: int = 12) -> list[str]:
+    return sorted(values.keys(), key=lambda k: float(values.get(k) or 0.0), reverse=True)[:n]
 
 
 def _text_preview(text: str, n: int = 200) -> dict[str, Any]:
@@ -136,14 +144,175 @@ def _extract_contradictions_from_12(bundle_dir: Path, session_id: str) -> list[d
     return []
 
 
+def _concept_pair(row: dict[str, Any]) -> tuple[str, str]:
+    pair = row.get("pair")
+    if isinstance(pair, (list, tuple)) and len(pair) >= 2:
+        left = str(pair[0] or "")
+        right = str(pair[1] or "")
+        return (left, right) if left <= right else (right, left)
+    left = str(row.get("concept_a") or "")
+    right = str(row.get("concept_b") or "")
+    return (left, right) if left <= right else (right, left)
+
+
+def _score_value(row: dict[str, Any]) -> float:
+    raw = row.get("raw_contradiction_score", row.get("score", 0.0))
+    try:
+        return float(raw)
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _contradiction_id(row: dict[str, Any], *, idx: int) -> str:
+    left, right = _concept_pair(row)
+    score = _score_value(row)
+    segment = row.get("segment_id")
+    suffix = f":seg={segment}" if segment is not None else f":idx={idx}"
+    return f"{left}|{right}|{score:.6f}{suffix}"
+
+
+def _build_contradiction_reconciliation(
+    *,
+    session_id: str,
+    direct_rows: list[dict[str, Any]],
+    topology_rows: list[dict[str, Any]],
+    lexical_hits_accepted: int,
+    lexical_concept_counts: dict[str, int],
+) -> dict[str, Any]:
+    direct_ids: dict[str, dict[str, Any]] = {}
+    topology_ids: dict[str, dict[str, Any]] = {}
+    for idx, row in enumerate(direct_rows):
+        direct_ids[_contradiction_id(row, idx=idx)] = row
+    for idx, row in enumerate(topology_rows):
+        topology_ids[_contradiction_id(row, idx=idx)] = row
+
+    shared_ids = sorted(set(direct_ids) & set(topology_ids))
+    only_in_direct = sorted(set(direct_ids) - set(topology_ids))
+    only_in_topology = sorted(set(topology_ids) - set(direct_ids))
+    canonical_count = len(topology_rows)
+    ratio = float(canonical_count) / float(max(lexical_hits_accepted, 1))
+
+    per_contradiction_audit: list[dict[str, Any]] = []
+    inferred_count = 0
+    zero_lex_count = 0
+    seg_counts: dict[str, int] = {}
+    for idx, row in enumerate(topology_rows):
+        left, right = _concept_pair(row)
+        left_hits = int(lexical_concept_counts.get(left, 0))
+        right_hits = int(lexical_concept_counts.get(right, 0))
+        direct_support = left_hits + right_hits
+        segment_id = row.get("segment_id")
+        if segment_id is not None:
+            seg_key = str(segment_id)
+            seg_counts[seg_key] = seg_counts.get(seg_key, 0) + 1
+        if direct_support <= 0:
+            inferred_count += 1
+            zero_lex_count += 1
+        per_contradiction_audit.append(
+            {
+                "id": _contradiction_id(row, idx=idx),
+                "concept_pair": [left, right],
+                "segment_id": segment_id,
+                "lexical_evidence": {
+                    "left_concept_hits": left_hits,
+                    "right_concept_hits": right_hits,
+                    "total_hits": direct_support,
+                },
+                "direct_vs_inferred": "direct" if direct_support > 0 else "inferred",
+                "confidence": round(_score_value(row), 6),
+                "provenance_class": row.get("triz_class") or "topology_derived",
+            }
+        )
+
+    seg_entropy = 0.0
+    if seg_counts:
+        # Shannon entropy over per-segment contradiction distribution.
+        total = float(sum(seg_counts.values()))
+        for c in seg_counts.values():
+            p = float(c) / total if total > 0 else 0.0
+            if p > 0:
+                import math
+
+                seg_entropy -= p * math.log(p + 1e-15)
+
+    return {
+        "session_id": session_id,
+        "contradictions_direct_triz": len(direct_rows),
+        "contradictions_topology_derived": len(topology_rows),
+        "delta_count": len(topology_rows) - len(direct_rows),
+        "shared_ids": shared_ids,
+        "only_in_direct": only_in_direct,
+        "only_in_topology": only_in_topology,
+        "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+        "promotion_reason": (
+            "Topology-derived contradiction artifacts are canonical for v0.5.9 authority chain; "
+            "direct TRIZ remains reconciliation-only."
+        ),
+        "lexical_support": {
+            "lexical_hits_accepted": int(lexical_hits_accepted),
+            "canonical_contradiction_count": canonical_count,
+            "contradictions_per_accepted_lexical_hit": round(ratio, 6),
+            "suspicious_overproduction": bool(canonical_count > lexical_hits_accepted * 5),
+            "zero_lexical_evidence_share": round(float(zero_lex_count) / float(max(canonical_count, 1)), 6),
+            "inferred_share": round(float(inferred_count) / float(max(canonical_count, 1)), 6),
+            "segment_entropy": round(seg_entropy, 6),
+        },
+        "per_contradiction_audit": per_contradiction_audit,
+    }
+
+
+def _filter_canonical_contradictions_for_activation(
+    rows: list[dict[str, Any]],
+    *,
+    lexical_concept_counts: dict[str, int],
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    """
+    Produce a conservative contradiction set for activation.
+
+    Goal: avoid centralizing topology-derived noise when lexical grounding is thin.
+    This is intentionally simple: prefer grounded rows, then score threshold, then cap.
+    """
+    kept: list[dict[str, Any]] = []
+    dropped: list[dict[str, Any]] = []
+    for row in rows:
+        left, right = _concept_pair(row)
+        support = int(lexical_concept_counts.get(left, 0)) + int(lexical_concept_counts.get(right, 0))
+        score = _score_value(row)
+        if support > 0 or score >= MIN_CANONICAL_CONTRADICTION_SCORE:
+            kept.append(row)
+        else:
+            dropped.append(row)
+
+    # Prefer higher-confidence rows when capping.
+    kept.sort(key=lambda r: -_score_value(r))
+    capped = kept[:MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION]
+    dropped_extra = kept[MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION :]
+    dropped.extend(dropped_extra)
+
+    stats = {
+        "min_score": MIN_CANONICAL_CONTRADICTION_SCORE,
+        "cap": MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION,
+        "input_count": len(rows),
+        "kept_count": len(capped),
+        "dropped_count": len(dropped),
+        "dropped_low_signal": sum(
+            1
+            for r in dropped
+            if _score_value(r) < MIN_CANONICAL_CONTRADICTION_SCORE
+            and (
+                int(lexical_concept_counts.get(_concept_pair(r)[0], 0))
+                + int(lexical_concept_counts.get(_concept_pair(r)[1], 0))
+                <= 0
+            )
+        ),
+        "dropped_by_cap": len(dropped_extra),
+    }
+    return capped, stats
+
+
 def _load_contradictions(bundle_dir: Path, session_id: str) -> tuple[list[dict[str, Any]], str]:
-    rows_08 = _extract_contradictions_from_08(bundle_dir / "08_triz_complete.json", session_id)
-    if rows_08:
-        return rows_08, "08_triz_complete.json"
     rows_12 = _extract_contradictions_from_12(bundle_dir, session_id)
-    if rows_12:
-        return rows_12, "12_*_contradictions*.json"
-    return [], "none"
+    return rows_12, CANONICAL_CONTRADICTION_SOURCE
 
 
 def _contradiction_rows_from_triz_session(triz_row: dict[str, Any] | None) -> list[dict[str, Any]]:
@@ -167,11 +336,18 @@ def _build_activation_with_bundle_contradictions(
     text: str,
     bundle_dir: Path,
     embedding: dict[str, Any] | None,
+    lexical_concept_counts: dict[str, int] | None = None,
     contradiction_calibration: dict[str, Any] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     from hesperia.nlp.session_parser import analyze_session
 
     contradictions, source = _load_contradictions(bundle_dir, session_id)
+    filter_stats: dict[str, Any] | None = None
+    if lexical_concept_counts is not None and contradictions:
+        contradictions, filter_stats = _filter_canonical_contradictions_for_activation(
+            contradictions,
+            lexical_concept_counts=lexical_concept_counts,
+        )
     activation = analyze_session(
         text,
         embedding=embedding or None,
@@ -187,6 +363,7 @@ def _build_activation_with_bundle_contradictions(
             "count": len(contradictions),
             "used_in_activation": bool(coupling_active and used > 0),
         },
+        "contradiction_filter": filter_stats,
         "activation": activation,
     }
     trace = {
@@ -369,6 +546,8 @@ def run_pipeline(
     session_main_engine_full_context: list[dict[str, Any]] = []
     contradiction_pipeline_rows: list[dict[str, Any]] = []
     crossplane_by_session: dict[str, dict[str, Any]] = {}
+    contradiction_reconciliation_rows: list[dict[str, Any]] = []
+    lexical_support_by_session: dict[str, dict[str, Any]] = {}
 
     for sid, t in zip(sids, texts):
         t = (t or "").strip()
@@ -577,6 +756,17 @@ def run_pipeline(
                     if contradiction_package:
                         body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
                     session_dlcr.append(body)
+                    lexical_counts: dict[str, int] = {}
+                    for span in body.get("span_resolutions") or []:
+                        if not isinstance(span, dict):
+                            continue
+                        cid = str(span.get("winning_concept_id") or "").strip()
+                        if cid:
+                            lexical_counts[cid] = lexical_counts.get(cid, 0) + 1
+                    lexical_support_by_session[str(sid)] = {
+                        "lexical_hits_accepted": int(body.get("lexical_hits_accepted") or 0),
+                        "concept_counts": lexical_counts,
+                    }
             except Exception as ex:  # noqa: BLE001
                 session_dlcr.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
 
@@ -796,22 +986,96 @@ def run_pipeline(
         )
         written["09_session_topology.json"] = str(p)
 
+    # Derive lexical grounding stats from DLCR output (source-of-truth).
+    for _dc in session_dlcr:
+        if not isinstance(_dc, dict) or _dc.get("_error"):
+            continue
+        sid = str(_dc.get("session_id") or "")
+        if not sid:
+            continue
+        lexical_counts: dict[str, int] = {}
+        for span in _dc.get("span_resolutions") or []:
+            if not isinstance(span, dict):
+                continue
+            cid = str(span.get("winning_concept_id") or "").strip()
+            if cid:
+                lexical_counts[cid] = lexical_counts.get(cid, 0) + 1
+        lexical_support_by_session[sid] = {
+            "lexical_hits_accepted": int(_dc.get("lexical_hits_accepted") or 0),
+            "concept_counts": lexical_counts,
+        }
+
+    # Explicit contradiction truth table (v0.5.9 authority-chain reconciliation).
+    for sid in sids:
+        direct_rows = _extract_contradictions_from_08(out_dir / "08_triz_complete.json", sid)
+        topology_rows = _extract_contradictions_from_12(out_dir, sid)
+        lexical = lexical_support_by_session.get(str(sid), {})
+        contradiction_reconciliation_rows.append(
+            _build_contradiction_reconciliation(
+                session_id=str(sid),
+                direct_rows=direct_rows,
+                topology_rows=topology_rows,
+                lexical_hits_accepted=int(lexical.get("lexical_hits_accepted") or 0),
+                lexical_concept_counts=dict(lexical.get("concept_counts") or {}),
+            )
+        )
+    p13 = out_dir / "13_contradiction_reconciliation.json"
+    _write_json(
+        p13,
+        {
+            "run": "tfp_file_pipeline_contradiction_reconciliation_v1",
+            "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+            "sessions": contradiction_reconciliation_rows,
+            "operational_envelope": default_operational_envelope(),
+        },
+    )
+    written["13_contradiction_reconciliation.json"] = str(p13)
+
     # Main-engine activation pass with contradiction injection from bundle artifacts.
+    stage_rows_by_sid = {
+        str(row.get("session_id")): row for row in session_tfp_stages if isinstance(row, dict) and row.get("session_id")
+    }
     for sid, t in zip(sids, texts):
         t = (t or "").strip()
         if not t:
             continue
         try:
+            lexical = lexical_support_by_session.get(str(sid), {})
+            lexical_counts = dict(lexical.get("concept_counts") or {})
             row, trace = _build_activation_with_bundle_contradictions(
                 session_id=sid,
                 text=t,
                 bundle_dir=out_dir,
                 embedding=embedding or None,
+                lexical_concept_counts=lexical_counts,
                 contradiction_calibration=contradiction_calibration,
             )
             cp = crossplane_by_session.get(str(sid))
             if cp is not None:
                 row["crossplane_contradiction"] = cp
+            stage_row = stage_rows_by_sid.get(str(sid)) or {}
+            before_areas = dict(stage_row.get("areas_raw") or {})
+            after_areas = dict(row.get("activation", {}).get("areas_final") or {})
+            hex_delta_map = dict(row.get("activation", {}).get("hex_feedback_delta") or {})
+            before_rank = _top_keys(before_areas, 12)
+            after_rank = _top_keys(after_areas, 12)
+            rank_changes = {
+                area: (before_rank.index(area) if area in before_rank else None, after_rank.index(area) if area in after_rank else None)
+                for area in sorted(set(before_rank) | set(after_rank))
+            }
+            top_before = before_rank[0] if before_rank else None
+            top_after = after_rank[0] if after_rank else None
+            top_before_val = float(before_areas.get(top_before) or 0.0) if top_before else 0.0
+            top_after_val = float(after_areas.get(top_after) or 0.0) if top_after else 0.0
+            row["invariant_path_effect"] = {
+                "areas_before_invariant_path": before_areas,
+                "areas_after_invariant_path": after_areas,
+                "hex_contribution_delta_l1": round(sum(abs(float(v)) for v in hex_delta_map.values()), 6),
+                "rank_changes": rank_changes,
+                "top_area_before": top_before,
+                "top_area_after": top_after,
+                "top_area_change_magnitude": round(abs(top_after_val - top_before_val), 6),
+            }
             session_main_engine_full_context.append(row)
             contradiction_pipeline_rows.append(trace)
         except Exception as exc:  # noqa: BLE001
@@ -857,6 +1121,8 @@ def run_pipeline(
         "run": "tfp_file_pipeline_main_engine_full_context",
         "sessions": session_main_engine_full_context,
         "contradiction_pipeline": contradiction_pipeline_rows,
+        "canonical_contradiction_source": CANONICAL_CONTRADICTION_SOURCE,
+        "contradiction_reconciliation_artifact": "13_contradiction_reconciliation.json",
         "crossplane_contradiction_by_session": crossplane_by_session,
         "feedback_summary": {
             "sessions_with_feedback_summary": feedback_sessions,
@@ -963,7 +1229,12 @@ def run_pipeline(
             "HESPERIA_ANALYZE_DLCR_EVIDENCE": os.environ.get("HESPERIA_ANALYZE_DLCR_EVIDENCE"),
         },
         "artifacts": written,
+        "canonical_contradiction_source": CANONICAL_CONTRADICTION_SOURCE,
         "contradiction_pipeline": contradiction_pipeline_rows,
+        "contradiction_reconciliation": {
+            "artifact": "13_contradiction_reconciliation.json",
+            "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+        },
         "crossplane_contradiction_by_session": crossplane_by_session,
         "contradiction_contract": {
             "spec_version": CONTRADICTION_CONTRACT_SPEC_VERSION,
