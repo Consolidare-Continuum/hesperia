@@ -17,6 +17,7 @@ import { aggregateHexesToFamilyCells, attachFamilyLatticeTransitions } from "./d
 import FamilyLatticeFlatCanvas from "./views/FamilyLatticeFlatCanvas.jsx";
 import FamilyLatticeDiamondCanvas from "./views/FamilyLatticeDiamondCanvas.jsx";
 import FamilyLatticeThreeView from "./views/FamilyLatticeThreeView.jsx";
+import { RelationsPanel } from "./components/RelationsPanel.jsx";
 
 function clamp(v, min, max) {
   return Math.max(min, Math.min(max, v));
@@ -494,6 +495,8 @@ export default function HesperiaHexMatrixViewer() {
   }
 
   const infoHex = selectedHex || hoveredHex;
+  const datasetRelations = dataset?.relations ?? null;
+  const datasetAppearDisappear = dataset?.appear_disappear ?? null;
   const byArea = useMemo(() => {
     const out = new Map();
     for (let i = 0; i < N_AREAS; i++) out.set(i, 0);
@@ -842,6 +845,7 @@ export default function HesperiaHexMatrixViewer() {
               </div>
             </CardContent>
           </Card>
+        <RelationsPanel relations={datasetRelations} appearDisappear={datasetAppearDisappear} />
         </div>
 
         <Card className="bg-slate-900/80 border-slate-800 rounded-2xl shadow-2xl overflow-hidden">

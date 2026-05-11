@@ -90,7 +90,31 @@ export function generateMockDataset() {
   }
 
   attachFrameTransitions(frames);
-  return { frames };
+
+  /** @type {import('../schema/hexSchema.js').RelationsBlock} */
+  const relations = {
+    area_drift: Array.from({ length: 12 }, (_, i) => ({
+      area: i,
+      drift: (((i * 7 + 3) % 17) / 17 - 0.5) * 0.4,
+      theme_marker: i < 4 ? ["conflict", "anchor", "tension", "release"][i] : undefined,
+    })),
+    global_drift: 0.12,
+    parity_note: "mock: therapist parity within ±0.05 on areas 0-3",
+  };
+
+  /** @type {import('../schema/hexSchema.js').AppearDisappearBlock} */
+  const appear_disappear = {
+    appeared: [
+      { label: "A02-family-onset", onset_frame: 3, dominance_peak: 0.72 },
+      { label: "A07-theme-marker", onset_frame: 8, dominance_peak: 0.61 },
+    ],
+    disappeared: [
+      { label: "A11-family-offset", offset_frame: 15, dominance_peak: 0.44 },
+    ],
+    dominant_shift: "A02→A07 progressive onset mid-session",
+  };
+
+  return { frames, relations, appear_disappear };
 }
 
 export { FRAMES };

@@ -36,8 +36,41 @@ export const N_HEX = 72000;
  */
 
 /**
+ * @typedef {Object} AreaDriftEntry
+ * @property {number} area  0..N_AREAS-1
+ * @property {number} drift  signed L1 mean delta vs session imprint
+ * @property {string} [theme_marker]
+ */
+
+/**
+ * TMX-08: Session-level relation block (Y+Z drift).
+ * @typedef {Object} RelationsBlock
+ * @property {AreaDriftEntry[]} area_drift
+ * @property {number} [global_drift]
+ * @property {string} [parity_note]
+ */
+
+/**
+ * @typedef {Object} SignalEntry
+ * @property {string} label
+ * @property {number} [onset_frame]
+ * @property {number} [offset_frame]
+ * @property {number} [dominance_peak]
+ */
+
+/**
+ * TMX-09: Appear/disappear signals across iterations.
+ * @typedef {Object} AppearDisappearBlock
+ * @property {SignalEntry[]} [appeared]
+ * @property {SignalEntry[]} [disappeared]
+ * @property {string} [dominant_shift]
+ */
+
+/**
  * @typedef {Object} Dataset
  * @property {Frame[]} frames
+ * @property {RelationsBlock} [relations]
+ * @property {AppearDisappearBlock} [appear_disappear]
  */
 
 export function clamp01(x) {
