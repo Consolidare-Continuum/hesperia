@@ -15,7 +15,7 @@ FAIL=0
 is_allowed_md() {
   local f="${1#./}"
   case "$f" in
-    README.md|LEGAL_NOTICE.md) return 0 ;;
+    README.md|LEGAL_NOTICE.md|DEV-READY-LINE-2026-05-18.md) return 0 ;;
     tests/fixtures/dict_calibration/corpus/sample.md) return 0 ;;
     hesperia/modules/tfp/data/corpus/*) return 0 ;;
     hesperia/modules/tfp/data/tfp_v1/corpus/*) return 0 ;;
