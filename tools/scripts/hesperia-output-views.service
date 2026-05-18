@@ -17,6 +17,7 @@ Group=igareosh
 WorkingDirectory=/data/hesperia/hesperia/output_views
 Environment=PYTHONUNBUFFERED=1
 Environment=DJANGO_DEBUG=False
+Environment=DJANGO_ALLOWED_HOSTS=hesperia.prichindel.com,127.0.0.1,localhost,[::1]
 ExecStart=/usr/bin/python3 manage.py runserver 127.0.0.1:8010
 Restart=on-failure
 RestartSec=5
