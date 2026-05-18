@@ -29,7 +29,12 @@ check_path "task_gena_v0_6_0.md"
 check_path "REPO_STRUCTURE_POLICY.md"
 check_path "GENERATED_ARTIFACT_POLICY.md"
 check_path "docs/governance"
-check_path "research"
+# research/ may contain Python; reference markdown belongs on dev
+while IFS= read -r f; do
+  [[ -z "$f" ]] && continue
+  echo "FORBIDDEN: $f"
+  FAIL=1
+done < <(find research -name '*.md' -type f 2>/dev/null)
 
 # Runtime / tools narrative markdown (deploy prose lives on igareosh/hesperia)
 while IFS= read -r f; do
