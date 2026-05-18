@@ -23,6 +23,7 @@ See LEGAL_NOTICE.md for full terms.
 | **Sealed public surface** | Mandatory projection via [`hesperia.engine.projection`](hesperia/engine/projection/); see [`docs/PUBLIC_PRODUCT_SURFACE.md`](docs/PUBLIC_PRODUCT_SURFACE.md) |
 | **Release audit** | [`release/v0.5.1/`](release/v0.5.1/) — `python3 tools/release/build_release_audit_v0_5_1.py` ([`final_gate_status.json`](release/v0.5.1/final_gate_status.json) → `sealed: true` on clean tree). Historical: [`release/v0.5.0/`](release/v0.5.0/). |
 | **License** | **Restricted Research Disclosure** — inspection and reference only. See [`LEGAL_NOTICE.md`](LEGAL_NOTICE.md). |
+| **Rollback line (2026-05-18)** | [`ROLLBACK-LINE-2026-05-18.md`](ROLLBACK-LINE-2026-05-18.md) — prod/dev/GitHub aligned; tag `hesperia/rollback-line-20260518`. Engine core sealed; inspector + hex-matrix deploy documented there. |
 
 ---
 
