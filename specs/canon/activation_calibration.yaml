@@ -1,6 +1,0 @@
-# HESPERIA — Activation threshold calibration (override defaults)
-# Used by hesperia.engine.calibration.activation_calibration
-# Tune after validation on 20–50 TFP transcripts.
-
-activation_threshold: 0.01
-area_active_threshold: 0.05
