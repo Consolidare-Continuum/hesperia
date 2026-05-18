@@ -79,8 +79,6 @@ LANGUAGE_CODE = "en-us"
 TIME_ZONE = "UTC"
 USE_I18N = True
 USE_TZ = True
-# T54 — RU catalog stub path (future translations)
-LOCALE_PATHS = [BASE_DIR / "locale"]
 
 STATIC_URL = "static/"
 STATIC_ROOT = BASE_DIR / "staticfiles"
@@ -95,16 +93,3 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # Operator / client preview: optional FastAPI JSON API base (Phase B HTTP bridge)
 HESPERIA_FASTAPI_ANALYZE_URL = env("HESPERIA_FASTAPI_ANALYZE_URL", default="")
-
-# OpenAI proxy (T24–T25) — default off; Abelard reviews prod exposure
-HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY = env.bool("HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", default=False)
-OPENAI_API_KEY = env("OPENAI_API_KEY", default="")
-OPENAI_PROXY_MODEL = env("OPENAI_PROXY_MODEL", default="gpt-4o-mini")
-OPENAI_PROXY_RATE_PER_MINUTE = env.int("OPENAI_PROXY_RATE_PER_MINUTE", default=30)
-
-CACHES = {
-    "default": {
-        "BACKEND": "django.core.cache.backends.locmem.LocMemCache",
-        "LOCATION": "output-views-openai-proxy",
-    }
-}
