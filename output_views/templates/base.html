@@ -13,9 +13,9 @@
       <a class="brand" href="{% url 'operator_home' %}">Hesperia</a>
       <nav>
         <a href="{% url 'operator_home' %}">Operator</a>
+        <a href="{% url 'sessions_index' %}">Sessions</a>
+        <a href="{% url 'session_inspector' 'session_inspector_min' %}">Inspector</a>
         <a href="{% url 'client_preview' %}">Client preview</a>
-        <a href="{% url 'artifact_sample' %}">Artifacts</a>
-        <a href="{% url 'session_inspector' 'session_inspector_min' %}">Session Inspector</a>
         <a href="{% url 'health' %}">Health (JSON)</a>
       </nav>
     </div>

@@ -94,5 +94,17 @@ STORAGES = {
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
+# Prod security — nginx terminates TLS; Django trusts X-Forwarded-Proto from localhost proxy.
+# Not setting SECURE_SSL_REDIRECT: nginx handles HTTP→HTTPS redirect, Django runs on 127.0.0.1 only.
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+SESSION_COOKIE_SECURE = not DEBUG
+CSRF_COOKIE_SECURE = not DEBUG
+SECURE_HSTS_SECONDS = env.int("DJANGO_HSTS_SECONDS", default=0 if DEBUG else 31536000)
+SECURE_HSTS_INCLUDE_SUBDOMAINS = not DEBUG
+SECURE_HSTS_PRELOAD = not DEBUG
+SECURE_CONTENT_TYPE_NOSNIFF = True
+# W008 is intentional: nginx handles HTTP→HTTPS; Django runs on loopback only.
+SILENCED_SYSTEM_CHECKS = ["security.W008"]
+
 # Operator / client preview: optional FastAPI JSON API base (Phase B HTTP bridge)
 HESPERIA_FASTAPI_ANALYZE_URL = env("HESPERIA_FASTAPI_ANALYZE_URL", default="")

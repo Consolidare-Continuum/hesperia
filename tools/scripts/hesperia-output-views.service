@@ -16,9 +16,17 @@ User=igareosh
 Group=igareosh
 WorkingDirectory=/data/hesperia/hesperia/output_views
 Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONPATH=/data/hesperia/hesperia
+Environment=DJANGO_SETTINGS_MODULE=config.settings
 Environment=DJANGO_DEBUG=False
 Environment=DJANGO_ALLOWED_HOSTS=hesperia.prichindel.com,127.0.0.1,localhost,[::1]
-ExecStart=/usr/bin/python3 manage.py runserver 127.0.0.1:8010
+ExecStart=/usr/local/bin/gunicorn config.wsgi:application \
+    --bind 127.0.0.1:8010 \
+    --workers 2 \
+    --timeout 120 \
+    --access-logfile - \
+    --error-logfile - \
+    --log-level info
 Restart=on-failure
 RestartSec=5
 

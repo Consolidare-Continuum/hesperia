@@ -18,6 +18,7 @@ from django.views.decorators.http import require_GET, require_POST
 from segment.validate import validate_iteration_segment_openai_v1
 
 from . import inspector as insp
+from .inspector import _SESSION_ID_RE
 from .openai_export import final_segment_for_bundle
 from segment.constants import DISCLAIMER_FOOTER_EN
 
@@ -200,7 +201,8 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     try:
         export_segment = final_segment_for_bundle(bundle, int(current.get("order", 0)))
         validate_iteration_segment_openai_v1(export_segment)
-    except Exception:
+    except (KeyError, ValueError, TypeError) as e:
+        logger.debug("export_segment unavailable session=%s err=%s", session_id, e)
         export_segment = None
 
     return render(
@@ -236,6 +238,24 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
             "export_segment": export_segment,
             "openai_proxy_enabled": getattr(settings, "HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", False),
         },
+    )
+
+
+@require_GET
+def sessions_index(request: HttpRequest) -> HttpResponse:
+    """List available session fixtures (read-only; no path injection)."""
+    root = Path(settings.BASE_DIR) / "tests" / "fixtures"
+    sessions: list[str] = []
+    if root.is_dir():
+        sessions = sorted(
+            p.stem
+            for p in root.iterdir()
+            if p.is_file() and p.suffix == ".json" and _SESSION_ID_RE.match(p.stem)
+        )
+    return render(
+        request,
+        "pages/sessions_index.html",
+        {"title": "Sessions", "sessions": sessions},
     )
 
 
