@@ -1,11 +1,11 @@
-# Hesperia Engine Dynamics — Canonical Release v0.5
+# Hesperia Engine Dynamics — Canonical Release v0.6
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 # Must match VERSION.yaml system_version (tests enforce alignment).
 
 [project]
 name = "hesperia-engine-dynamics"
-version = "0.5.5"
-description = "Hesperia Engine Dynamics — modular TFP mainline runtime seal (v0.5.5)"
+version = "0.6.0"
+description = "Hesperia Engine Dynamics — modular TFP mainline runtime seal (v0.6.0)"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "Restricted Research Disclosure — see LEGAL_NOTICE.md" }

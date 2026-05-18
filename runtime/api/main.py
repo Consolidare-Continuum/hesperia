@@ -20,6 +20,7 @@ import logging
 import os
 import time
 import uuid
+from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Any
 
@@ -33,8 +34,10 @@ from fastapi.responses import JSONResponse
 from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
+from hesperia.system.version import get_system_version
+
 DEFAULT_TEXT_CAP = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
-API_VERSION = "0.5.5"
+API_VERSION = get_system_version()
 
 API_KEY = os.environ.get("HESPERIA_API_KEY", "").strip()
 API_KEY_NEXT = os.environ.get("HESPERIA_API_KEY_NEXT", "").strip()
@@ -104,6 +107,13 @@ def custom_openapi():
     return app.openapi_schema
 
 
+@asynccontextmanager
+async def _lifespan(_app: FastAPI):
+    if API_KEY_NEXT:
+        logging.warning("HESPERIA_API_KEY_NEXT is set; rotate then clear it to avoid permanent two-key drift.")
+    yield
+
+
 app = FastAPI(
     title="Hesperia Analyze API",
     version=API_VERSION,
@@ -112,15 +122,9 @@ app = FastAPI(
     openapi_url="/openapi.json",
     docs_url=None,
     redoc_url=None,
+    lifespan=_lifespan,
 )
 app.openapi = custom_openapi
-
-
-@app.on_event("startup")
-def _startup_warn_next() -> None:
-    if API_KEY_NEXT:
-        logging.warning("HESPERIA_API_KEY_NEXT is set; rotate then clear it to avoid permanent two-key drift.")
-
 
 app.add_middleware(
     CORSMiddleware,
@@ -421,8 +425,6 @@ if expose_triz_api():
         pass
 
 
-
-
 # --- TFP-CHROMA-04: Inspector/API composition (spec §6) ---
 _CHROMA_HOST = os.environ.get("HESPERIA_CHROMA_HOST", "localhost")
 _CHROMA_PORT = int(os.environ.get("HESPERIA_CHROMA_PORT", "8002"))
@@ -494,6 +496,7 @@ async def inspector_tfp_corpus_compose(
                 "code": 503 if corpus_absent else 500,
             },
         )
+
 
 @app.exception_handler(PermissionError)
 async def permission_handler(_request: Request, exc: PermissionError) -> JSONResponse:

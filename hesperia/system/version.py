@@ -13,8 +13,6 @@ from typing import Any
 
 import yaml
 
-_DOC_CACHE: dict[str, Any] | None = None
-
 
 def _repo_root() -> Path:
     return Path(__file__).resolve().parents[2]
@@ -39,7 +37,6 @@ def _git_commit_short(root: Path) -> str | None:
 @lru_cache(maxsize=1)
 def load_version_document() -> dict[str, Any]:
     """Load VERSION.yaml and inject runtime build fields (not written back to disk)."""
-    global _DOC_CACHE
     root = _repo_root()
     path = root / "VERSION.yaml"
     if not path.exists():
@@ -58,7 +55,6 @@ def load_version_document() -> dict[str, Any]:
     build["timestamp"] = ts
     if env_bid:
         build["build_id_override"] = env_bid
-    _DOC_CACHE = doc
     return doc
 
 
@@ -196,5 +192,3 @@ def triz_pipeline_version() -> str:
 def clear_version_cache() -> None:
     """Test helper."""
     load_version_document.cache_clear()
-    global _DOC_CACHE
-    _DOC_CACHE = None
