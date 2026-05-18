@@ -1,0 +1,25 @@
+# Hesperia Django Session Inspector — prichindel (nginx proxies 127.0.0.1:8010).
+# Install: sudo cp tools/scripts/hesperia-output-views.service /etc/systemd/system/
+#          sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-output-views
+# Requires: DJANGO_ALLOWED_HOSTS includes hesperia.prichindel.com,127.0.0.1,localhost in ../.env
+# URL: https://hesperia.prichindel.com/inspector/<session_id>/
+
+[Unit]
+Description=Hesperia output_views Django (Session Inspector)
+Documentation=file:///data/hesperia/hesperia/docs/output_views/README.md
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/hesperia/hesperia/output_views
+Environment=PYTHONUNBUFFERED=1
+Environment=DJANGO_DEBUG=False
+ExecStart=/usr/bin/python3 manage.py runserver 127.0.0.1:8010
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
