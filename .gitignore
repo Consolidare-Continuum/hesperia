@@ -67,3 +67,6 @@ tmp/*
 *.swo
 *~
 Thumbs.db
+
+# prod: no committed outputs markdown
+outputs/**/*.md
