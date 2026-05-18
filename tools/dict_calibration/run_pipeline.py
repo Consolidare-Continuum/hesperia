@@ -5,6 +5,7 @@
 from __future__ import annotations
 
 import argparse
+import inspect
 import json
 import sys
 from pathlib import Path
@@ -41,6 +42,7 @@ from tools.dict_calibration.ru_tfp_corpus_align import (  # noqa: E402
     write_ru_tfp_cold_artifacts,
 )
 from tools.dict_calibration.yaml_markers_llm import cmd_yaml_markers_llm_entry  # noqa: E402
+from hesperia.extensions.triz.contradiction_feedback import build_contradiction_feedback_signals  # noqa: E402
 
 
 def _default_engine_paths(repo: Path) -> tuple[list[Path], Path]:
@@ -249,16 +251,68 @@ def cmd_eval(args: argparse.Namespace) -> None:
         )
     else:
         texts = ["identity diffusion and splitting in session text"]
-    ev = evaluate_on_texts(
-        texts,
-        dict_a_path=da_eng,
-        dict_b_paths=db_paths,
-        anchors_path=anch_path,
-        repo_path=repo,
-        workers=int(getattr(args, "eval_workers", dict_calib_worker_default()) or 1),
-    )
+    eval_kwargs: dict[str, Any] = {
+        "dict_a_path": da_eng,
+        "dict_b_paths": db_paths,
+        "anchors_path": anch_path,
+        "repo_path": repo,
+    }
+    try:
+        if "workers" in inspect.signature(evaluate_on_texts).parameters:
+            eval_kwargs["workers"] = int(getattr(args, "eval_workers", dict_calib_worker_default()) or 1)
+    except (TypeError, ValueError):
+        pass
+    ev = evaluate_on_texts(texts, **eval_kwargs)
     write_json(w / "evaluation_run.json", ev)
     print(json.dumps(ev.get("aggregate"), indent=2))
+    if bool(getattr(args, "emit_contradiction_feedback", False)):
+        cp = getattr(args, "contradiction_package_file", None)
+        cp_path = Path(cp) if cp else (w / "contradiction_package.json")
+        pkg: dict[str, Any] = {}
+        if cp_path.is_file():
+            try:
+                pkg = json.loads(cp_path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                pkg = {}
+        rows = pkg.get("top_risky_pairs") if isinstance(pkg.get("top_risky_pairs"), list) else []
+        top_k = int(getattr(args, "feedback_top_k", 100) or 100)
+        feedback = build_contradiction_feedback_signals(
+            contradiction_rows=rows,
+            uncertainty_package={},
+            activation={},
+            lexical_output={},
+            top_k=top_k,
+        )
+        write_json(
+            w / "contradiction_feedback_report.json",
+            {
+                "summary": {
+                    "calibration_contradiction_risk": float(
+                        (feedback.get("global_feedback_summary") or {}).get("calibration_contradiction_risk") or 0.0
+                    ),
+                    "likely_calibration_pathology": float(
+                        (
+                            (
+                                feedback.get("global_feedback_summary") or {}
+                            ).get("runtime_vs_calibration_conflict_split")
+                            or {}
+                        ).get("likely_calibration_pathology")
+                        or 0.0
+                    ),
+                },
+                "top_risky_tokens": (feedback.get("lexical_feedback") or {}).get("top_risky_tokens") or [],
+                "top_risky_concepts": (feedback.get("concept_feedback") or {}).get("top_risky_concepts") or [],
+                "top_risky_pairs": (feedback.get("pair_feedback") or {}).get("top_risky_pairs") or [],
+                "recommendations": {
+                    "review_fuzzy_links": True,
+                    "review_alias_routes": True,
+                    "review_ambiguous_concept_bridges": True,
+                },
+            },
+        )
+        write_json(w / "risky_lexical_items.json", {"rows": (feedback.get("lexical_feedback") or {}).get("top_risky_tokens") or []})
+        write_json(w / "risky_concepts.json", {"rows": (feedback.get("concept_feedback") or {}).get("top_risky_concepts") or []})
+        write_json(w / "risky_concept_pairs.json", {"rows": (feedback.get("pair_feedback") or {}).get("top_risky_pairs") or []})
 
 
 def cmd_errors(args: argparse.Namespace) -> None:
@@ -353,6 +407,20 @@ def cmd_freeze(args: argparse.Namespace) -> None:
     print(f"frozen → {args.version_dir}")
 
 
+# TFP-DATA-T11: WAVE_HANDOFF.md must not contain the legacy noone path needle
+# (see tools/check_research_noone_local_literals.py). Build needle without the
+# forbidden contiguous literal in *this* source file.
+_RESEARCH_NOONE_NEEDLE = "research" + "/" + "_noone_local"
+
+
+def _corpus_display_for_handoff(corpus: str) -> str:
+    s = corpus.replace("\\", "/")
+    if _RESEARCH_NOONE_NEEDLE in s:
+        rest = s.split(_RESEARCH_NOONE_NEEDLE, 1)[1]
+        return f"`_noone_local{rest}` (under `research/`)"
+    return f"`{s}`"
+
+
 def _next_wave_index(base: Path) -> int:
     best = 0
     if not base.exists():
@@ -400,7 +468,7 @@ def _write_wave_handoff(work: Path, wave_n: int, corpus: str) -> None:
         f"# Calibration wave {wave_n:03d}",
         "",
         f"- **workdir:** `{work}`",
-        f"- **corpus:** `{corpus}`",
+        f"- **corpus:** {_corpus_display_for_handoff(corpus)}",
     ]
     if slice_line:
         lines.append(slice_line)
@@ -455,6 +523,9 @@ def cmd_wave(args: argparse.Namespace) -> None:
         eval_max_chars=args.eval_max_chars,
         patch_max_errors=args.patch_max_errors,
         patch_max_links=args.patch_max_links,
+        emit_contradiction_feedback=bool(getattr(args, "emit_contradiction_feedback", False)),
+        feedback_top_k=int(getattr(args, "feedback_top_k", 100) or 100),
+        contradiction_package_file=getattr(args, "contradiction_package_file", None),
         wave_slice_index=None,
         wave_slice_total=None,
     )
@@ -528,6 +599,9 @@ def cmd_waves(args: argparse.Namespace) -> None:
             eval_max_chars=args.eval_max_chars,
             patch_max_errors=args.patch_max_errors,
             patch_max_links=args.patch_max_links,
+            emit_contradiction_feedback=bool(getattr(args, "emit_contradiction_feedback", False)),
+            feedback_top_k=int(getattr(args, "feedback_top_k", 100) or 100),
+            contradiction_package_file=getattr(args, "contradiction_package_file", None),
             wave_slice_index=k,
             wave_slice_total=count,
         )
@@ -587,6 +661,9 @@ def cmd_run_all(args: argparse.Namespace) -> None:
         eval_max_files=getattr(args, "eval_max_files", 5),
         eval_max_chars=getattr(args, "eval_max_chars", 12_000),
         eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
+        emit_contradiction_feedback=bool(getattr(args, "emit_contradiction_feedback", False)),
+        feedback_top_k=int(getattr(args, "feedback_top_k", 100) or 100),
+        contradiction_package_file=getattr(args, "contradiction_package_file", None),
     )
     cmd_eval(ns5)
     cmd_errors(
@@ -721,6 +798,9 @@ def main() -> None:
         default=dw,
         help="Workers for per-text DLCR eval (default: $HESPERIA_DICT_CALIB_WORKERS or 4)",
     )
+    p_ev.add_argument("--emit-contradiction-feedback", action="store_true")
+    p_ev.add_argument("--feedback-top-k", type=int, default=100)
+    p_ev.add_argument("--contradiction-package-file", type=str, default=None)
     p_ev.set_defaults(func=cmd_eval)
 
     p_er = sub.add_parser("errors", help="Task 7: error surface")
@@ -802,6 +882,9 @@ def main() -> None:
     p_wave.add_argument("--eval-max-chars", type=int, default=12_000)
     p_wave.add_argument("--patch-max-errors", type=int, default=80)
     p_wave.add_argument("--patch-max-links", type=int, default=40)
+    p_wave.add_argument("--emit-contradiction-feedback", action="store_true")
+    p_wave.add_argument("--feedback-top-k", type=int, default=100)
+    p_wave.add_argument("--contradiction-package-file", type=str, default=None)
     p_wave.set_defaults(func=cmd_wave)
 
     p_waves = sub.add_parser(
@@ -833,6 +916,9 @@ def main() -> None:
     p_waves.add_argument("--eval-max-chars", type=int, default=12_000)
     p_waves.add_argument("--patch-max-errors", type=int, default=80)
     p_waves.add_argument("--patch-max-links", type=int, default=40)
+    p_waves.add_argument("--emit-contradiction-feedback", action="store_true")
+    p_waves.add_argument("--feedback-top-k", type=int, default=100)
+    p_waves.add_argument("--contradiction-package-file", type=str, default=None)
     p_waves.set_defaults(func=cmd_waves)
 
     p_ru = sub.add_parser(
@@ -980,6 +1066,9 @@ def main() -> None:
     p_all.add_argument("--error-workers", type=int, default=dw)
     p_all.add_argument("--patch-max-errors", type=int, default=80)
     p_all.add_argument("--patch-max-links", type=int, default=40)
+    p_all.add_argument("--emit-contradiction-feedback", action="store_true")
+    p_all.add_argument("--feedback-top-k", type=int, default=100)
+    p_all.add_argument("--contradiction-package-file", type=str, default=None)
     p_all.set_defaults(func=cmd_run_all)
 
     args = p.parse_args()

@@ -24,9 +24,12 @@ Run TFP-oriented pipelines on one or more session texts from a file.
 
 Usage::
 
-  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md --out-dir outputs/my_tfp_run
+  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md
+  python3 -m runtime.pipeline.run_tfp_file_pipeline --input path/to/note.md --out-dir outputs/tfp/runs/my_named_run
 
 **Gena all-in-one** (same pipeline + audit + schema validation + release gate): ``python3 tools/gena_tfp_bundle_run.py -i path/to/note.md``.
+
+**Output folder discipline:** If ``--out-dir`` is omitted, defaults to ``outputs/tfp/runs/tfp_pipeline_run/<run_id>``. Wrappers: ``gena_tfp_bundle_run`` → ``outputs/tfp/runs/tfp_gena_<stem>``; ``tfp_pipeline_standard_run`` → ``outputs/tfp/runs/tfp_pipeline_run/<uuid>``. See repo root ``TFP_VALUES_LIST`` §0 and ``outputs/README.md``.
 
 Forces ``HESPERIA_DLCR_DOMAIN_PACK=tfp`` unless ``--no-dlcr-domain-pack``. Optional: ``HESPERIA_ANALYZE_DLCR_EVIDENCE=1`` for DLCR evidence inside ``analyze()``.
 """
@@ -44,6 +47,10 @@ _REPO = Path(__file__).resolve().parents[2]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
+CANONICAL_CONTRADICTION_SOURCE = "12_topology_derived_contradictions"
+MIN_CANONICAL_CONTRADICTION_SCORE = 0.15
+MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION = 250
+
 
 def _round_floats(obj: Any, ndigits: int = 6) -> Any:
     if isinstance(obj, float):
@@ -55,6 +62,10 @@ def _round_floats(obj: Any, ndigits: int = 6) -> Any:
     return obj
 
 
+def _top_keys(values: dict[str, Any], n: int = 12) -> list[str]:
+    return sorted(values.keys(), key=lambda k: float(values.get(k) or 0.0), reverse=True)[:n]
+
+
 def _text_preview(text: str, n: int = 200) -> dict[str, Any]:
     return {"text_preview": text[:n] + ("..." if len(text) > n else ""), "length": len(text)}
 
@@ -62,6 +73,307 @@ def _text_preview(text: str, n: int = 200) -> dict[str, Any]:
 def _write_json(path: Path, data: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(_round_floats(data), indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def _stable_contradiction_sort_key(row: dict[str, Any], idx: int) -> tuple[str, str, float, int]:
+    pair = row.get("pair")
+    concept_a = None
+    concept_b = None
+    if isinstance(pair, (list, tuple)) and len(pair) >= 2:
+        concept_a = pair[0]
+        concept_b = pair[1]
+    else:
+        concept_a = row.get("concept_a")
+        concept_b = row.get("concept_b")
+    a = "" if concept_a is None else str(concept_a)
+    b = "" if concept_b is None else str(concept_b)
+    left, right = (a, b) if a <= b else (b, a)
+    score_raw = row.get("raw_contradiction_score", row.get("score", 0.0))
+    try:
+        score = float(score_raw)
+    except (TypeError, ValueError):
+        score = 0.0
+    return (left, right, -score, idx)
+
+
+def _normalize_contradictions(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    ordered = list(enumerate(rows))
+    ordered.sort(key=lambda item: _stable_contradiction_sort_key(item[1], item[0]))
+    return [dict(row) for _, row in ordered]
+
+
+def _extract_contradictions_from_08(path_08: Path, session_id: str) -> list[dict[str, Any]]:
+    if not path_08.is_file():
+        return []
+    try:
+        data = json.loads(path_08.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    sessions = data.get("sessions") if isinstance(data, dict) else None
+    if not isinstance(sessions, list):
+        return []
+    for row in sessions:
+        if not isinstance(row, dict):
+            continue
+        if str(row.get("session_id") or "") != session_id:
+            continue
+        tc = row.get("triz_complete")
+        if isinstance(tc, dict):
+            nested = tc.get("triz_complete")
+            if isinstance(nested, dict) and isinstance(nested.get("contradictions"), list):
+                return _normalize_contradictions([x for x in nested["contradictions"] if isinstance(x, dict)])
+            if isinstance(tc.get("contradictions"), list):
+                return _normalize_contradictions([x for x in tc["contradictions"] if isinstance(x, dict)])
+    return []
+
+
+def _extract_contradictions_from_12(bundle_dir: Path, session_id: str) -> list[dict[str, Any]]:
+    pattern = f"12_{session_id}_*contradictions*.json"
+    files = sorted(bundle_dir.glob(pattern), key=lambda p: p.name)
+    for file_path in files:
+        try:
+            data = json.loads(file_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(data, dict) and isinstance(data.get("contradictions"), list):
+            rows = [x for x in data["contradictions"] if isinstance(x, dict)]
+            return _normalize_contradictions(rows)
+        if isinstance(data, list):
+            rows = [x for x in data if isinstance(x, dict)]
+            return _normalize_contradictions(rows)
+    return []
+
+
+def _concept_pair(row: dict[str, Any]) -> tuple[str, str]:
+    pair = row.get("pair")
+    if isinstance(pair, (list, tuple)) and len(pair) >= 2:
+        left = str(pair[0] or "")
+        right = str(pair[1] or "")
+        return (left, right) if left <= right else (right, left)
+    left = str(row.get("concept_a") or "")
+    right = str(row.get("concept_b") or "")
+    return (left, right) if left <= right else (right, left)
+
+
+def _score_value(row: dict[str, Any]) -> float:
+    raw = row.get("raw_contradiction_score", row.get("score", 0.0))
+    try:
+        return float(raw)
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _contradiction_id(row: dict[str, Any], *, idx: int) -> str:
+    left, right = _concept_pair(row)
+    score = _score_value(row)
+    segment = row.get("segment_id")
+    suffix = f":seg={segment}" if segment is not None else f":idx={idx}"
+    return f"{left}|{right}|{score:.6f}{suffix}"
+
+
+def _build_contradiction_reconciliation(
+    *,
+    session_id: str,
+    direct_rows: list[dict[str, Any]],
+    topology_rows: list[dict[str, Any]],
+    lexical_hits_accepted: int,
+    lexical_concept_counts: dict[str, int],
+) -> dict[str, Any]:
+    direct_ids: dict[str, dict[str, Any]] = {}
+    topology_ids: dict[str, dict[str, Any]] = {}
+    for idx, row in enumerate(direct_rows):
+        direct_ids[_contradiction_id(row, idx=idx)] = row
+    for idx, row in enumerate(topology_rows):
+        topology_ids[_contradiction_id(row, idx=idx)] = row
+
+    shared_ids = sorted(set(direct_ids) & set(topology_ids))
+    only_in_direct = sorted(set(direct_ids) - set(topology_ids))
+    only_in_topology = sorted(set(topology_ids) - set(direct_ids))
+    canonical_count = len(topology_rows)
+    ratio = float(canonical_count) / float(max(lexical_hits_accepted, 1))
+
+    per_contradiction_audit: list[dict[str, Any]] = []
+    inferred_count = 0
+    zero_lex_count = 0
+    seg_counts: dict[str, int] = {}
+    for idx, row in enumerate(topology_rows):
+        left, right = _concept_pair(row)
+        left_hits = int(lexical_concept_counts.get(left, 0))
+        right_hits = int(lexical_concept_counts.get(right, 0))
+        direct_support = left_hits + right_hits
+        segment_id = row.get("segment_id")
+        if segment_id is not None:
+            seg_key = str(segment_id)
+            seg_counts[seg_key] = seg_counts.get(seg_key, 0) + 1
+        if direct_support <= 0:
+            inferred_count += 1
+            zero_lex_count += 1
+        per_contradiction_audit.append(
+            {
+                "id": _contradiction_id(row, idx=idx),
+                "concept_pair": [left, right],
+                "segment_id": segment_id,
+                "lexical_evidence": {
+                    "left_concept_hits": left_hits,
+                    "right_concept_hits": right_hits,
+                    "total_hits": direct_support,
+                },
+                "direct_vs_inferred": "direct" if direct_support > 0 else "inferred",
+                "confidence": round(_score_value(row), 6),
+                "provenance_class": row.get("triz_class") or "topology_derived",
+            }
+        )
+
+    seg_entropy = 0.0
+    if seg_counts:
+        # Shannon entropy over per-segment contradiction distribution.
+        total = float(sum(seg_counts.values()))
+        for c in seg_counts.values():
+            p = float(c) / total if total > 0 else 0.0
+            if p > 0:
+                import math
+
+                seg_entropy -= p * math.log(p + 1e-15)
+
+    return {
+        "session_id": session_id,
+        "contradictions_direct_triz": len(direct_rows),
+        "contradictions_topology_derived": len(topology_rows),
+        "delta_count": len(topology_rows) - len(direct_rows),
+        "shared_ids": shared_ids,
+        "only_in_direct": only_in_direct,
+        "only_in_topology": only_in_topology,
+        "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+        "promotion_reason": (
+            "Topology-derived contradiction artifacts are canonical for v0.5.9 authority chain; "
+            "direct TRIZ remains reconciliation-only."
+        ),
+        "lexical_support": {
+            "lexical_hits_accepted": int(lexical_hits_accepted),
+            "canonical_contradiction_count": canonical_count,
+            "contradictions_per_accepted_lexical_hit": round(ratio, 6),
+            "suspicious_overproduction": bool(canonical_count > lexical_hits_accepted * 5),
+            "zero_lexical_evidence_share": round(float(zero_lex_count) / float(max(canonical_count, 1)), 6),
+            "inferred_share": round(float(inferred_count) / float(max(canonical_count, 1)), 6),
+            "segment_entropy": round(seg_entropy, 6),
+        },
+        "per_contradiction_audit": per_contradiction_audit,
+    }
+
+
+def _filter_canonical_contradictions_for_activation(
+    rows: list[dict[str, Any]],
+    *,
+    lexical_concept_counts: dict[str, int],
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    """
+    Produce a conservative contradiction set for activation.
+
+    Goal: avoid centralizing topology-derived noise when lexical grounding is thin.
+    This is intentionally simple: prefer grounded rows, then score threshold, then cap.
+    """
+    kept: list[dict[str, Any]] = []
+    dropped: list[dict[str, Any]] = []
+    for row in rows:
+        left, right = _concept_pair(row)
+        support = int(lexical_concept_counts.get(left, 0)) + int(lexical_concept_counts.get(right, 0))
+        score = _score_value(row)
+        if support > 0 or score >= MIN_CANONICAL_CONTRADICTION_SCORE:
+            kept.append(row)
+        else:
+            dropped.append(row)
+
+    # Prefer higher-confidence rows when capping.
+    kept.sort(key=lambda r: -_score_value(r))
+    capped = kept[:MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION]
+    dropped_extra = kept[MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION :]
+    dropped.extend(dropped_extra)
+
+    stats = {
+        "min_score": MIN_CANONICAL_CONTRADICTION_SCORE,
+        "cap": MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION,
+        "input_count": len(rows),
+        "kept_count": len(capped),
+        "dropped_count": len(dropped),
+        "dropped_low_signal": sum(
+            1
+            for r in dropped
+            if _score_value(r) < MIN_CANONICAL_CONTRADICTION_SCORE
+            and (
+                int(lexical_concept_counts.get(_concept_pair(r)[0], 0))
+                + int(lexical_concept_counts.get(_concept_pair(r)[1], 0))
+                <= 0
+            )
+        ),
+        "dropped_by_cap": len(dropped_extra),
+    }
+    return capped, stats
+
+
+def _load_contradictions(bundle_dir: Path, session_id: str) -> tuple[list[dict[str, Any]], str]:
+    rows_12 = _extract_contradictions_from_12(bundle_dir, session_id)
+    return rows_12, CANONICAL_CONTRADICTION_SOURCE
+
+
+def _contradiction_rows_from_triz_session(triz_row: dict[str, Any] | None) -> list[dict[str, Any]]:
+    """In-memory TRIZ session row (same shape as ``08_triz_complete.json`` session entries)."""
+    if not triz_row or triz_row.get("_error"):
+        return []
+    tc = triz_row.get("triz_complete")
+    if not isinstance(tc, dict):
+        return []
+    inner = tc.get("triz_complete")
+    if isinstance(inner, dict) and isinstance(inner.get("contradictions"), list):
+        return [x for x in inner["contradictions"] if isinstance(x, dict)]
+    if isinstance(tc.get("contradictions"), list):
+        return [x for x in tc["contradictions"] if isinstance(x, dict)]
+    return []
+
+
+def _build_activation_with_bundle_contradictions(
+    *,
+    session_id: str,
+    text: str,
+    bundle_dir: Path,
+    embedding: dict[str, Any] | None,
+    lexical_concept_counts: dict[str, int] | None = None,
+    contradiction_calibration: dict[str, Any] | None = None,
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    from hesperia.nlp.session_parser import analyze_session
+
+    contradictions, source = _load_contradictions(bundle_dir, session_id)
+    filter_stats: dict[str, Any] | None = None
+    if lexical_concept_counts is not None and contradictions:
+        contradictions, filter_stats = _filter_canonical_contradictions_for_activation(
+            contradictions,
+            lexical_concept_counts=lexical_concept_counts,
+        )
+    activation = analyze_session(
+        text,
+        embedding=embedding or None,
+        contradictions=contradictions if contradictions else None,
+        contradiction_calibration=contradiction_calibration,
+    )
+    used = int((activation.get("contradiction_count_used") or 0))
+    coupling_active = bool(activation.get("contradiction_coupling_active"))
+    row = {
+        "session_id": session_id,
+        "contradiction_pipeline": {
+            "source": source,
+            "count": len(contradictions),
+            "used_in_activation": bool(coupling_active and used > 0),
+        },
+        "contradiction_filter": filter_stats,
+        "activation": activation,
+    }
+    trace = {
+        "session_id": session_id,
+        "source": source,
+        "count": len(contradictions),
+        "used_in_activation": bool(coupling_active and used > 0),
+        "contradiction_count_used": used,
+    }
+    return row, trace
 
 
 def load_sessions(path: Path) -> list[tuple[str, str]]:
@@ -122,6 +434,7 @@ def run_pipeline(
     dlcr_mode: str,
     skip_triz_activation: bool = False,
     topology_run_params: dict[str, Any] | None = None,
+    contradiction_calibration_path: Path | None = None,
 ) -> dict[str, Any]:
     from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
     from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
@@ -146,6 +459,13 @@ def run_pipeline(
         DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS,
         run_session_topology,
     )
+    from hesperia.extensions.triz.contradiction_calibration import (
+        build_calibration_snapshot,
+        build_calibration_usage_trace,
+        default_calibration_path,
+        get_default_contradiction_calibration,
+        load_contradiction_calibration,
+    )
 
     tfp_runtime = load_tfp_runtime_bundle()
     tfp_calibration = dict(tfp_runtime["calibration"])
@@ -160,6 +480,23 @@ def run_pipeline(
 
     written: dict[str, str] = {}
     errors: list[str] = []
+
+    contradiction_calibration_resolved_path: str | None = None
+    try:
+        if contradiction_calibration_path is not None:
+            pcal = Path(contradiction_calibration_path).resolve()
+            contradiction_calibration = load_contradiction_calibration(pcal)
+            contradiction_calibration_resolved_path = str(pcal)
+        else:
+            dp = default_calibration_path()
+            if dp.is_file():
+                contradiction_calibration = load_contradiction_calibration(dp)
+                contradiction_calibration_resolved_path = str(dp)
+            else:
+                contradiction_calibration = get_default_contradiction_calibration()
+    except (OSError, ValueError, TypeError) as exc:
+        contradiction_calibration = get_default_contradiction_calibration()
+        errors.append(f"contradiction_calibration_load:{exc}")
     triz_activation_paths: dict[str, dict[str, str]] = {}
     triz_activation_critical = False
 
@@ -206,6 +543,11 @@ def run_pipeline(
     session_kme: list[dict[str, Any]] = []
     session_triz: list[dict[str, Any]] = []
     session_topo: list[dict[str, Any]] = []
+    session_main_engine_full_context: list[dict[str, Any]] = []
+    contradiction_pipeline_rows: list[dict[str, Any]] = []
+    crossplane_by_session: dict[str, dict[str, Any]] = {}
+    contradiction_reconciliation_rows: list[dict[str, Any]] = []
+    lexical_support_by_session: dict[str, dict[str, Any]] = {}
 
     for sid, t in zip(sids, texts):
         t = (t or "").strip()
@@ -247,37 +589,221 @@ def run_pipeline(
             except Exception as ex:  # noqa: BLE001
                 session_hex.append({"session_id": sid, "_error": str(ex)})
 
+        triz_row_for_sid: dict[str, Any] | None = None
+        if with_triz:
+            try:
+                from hesperia.engine.kme.clinical_bridge import build_clinical_active_graph
+                from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
+                from runtime.pipeline.run_e2e_all import _activation_topology_maps, _slim_csv_exports
+
+                act_triz = analyze_session(t, embedding=embedding or None)
+                ag = build_clinical_active_graph(act_triz)
+                payload = {
+                    "nodes": {cid: {"hitCount": n.hit_count} for cid, n in sorted(ag.nodes.items())},
+                    "edges": [
+                        {
+                            "source": e.source_concept_id,
+                            "target": e.target_concept_id,
+                            "type": e.relation_type or "",
+                        }
+                        for e in sorted(
+                            ag.edges,
+                            key=lambda x: (x.source_concept_id, x.target_concept_id, x.relation_type or ""),
+                        )
+                    ],
+                }
+                topo_maps = _activation_topology_maps(act_triz, set(ag.nodes.keys()))
+                ag2 = active_graph_from_payload(payload)
+                content = run_triz_analysis_complete(
+                    ag2,
+                    topo_maps,
+                    narrative_id=sid,
+                    run_id=None,
+                    topology_mode=True,
+                )
+                _slim_csv_exports(content)
+                from core.projection import apply_public_projection
+
+                triz_row_for_sid = apply_public_projection(
+                    _round_floats({"session_id": sid, "input": _text_preview(t), "triz_complete": content})
+                )
+                session_triz.append(triz_row_for_sid)
+            except Exception as ex:  # noqa: BLE001
+                triz_row_for_sid = {"session_id": sid, "_error": str(ex)}
+                session_triz.append(triz_row_for_sid)
+
+        contra_rows: list[dict[str, Any]] = []
+        if with_triz:
+            contra_rows = _contradiction_rows_from_triz_session(triz_row_for_sid)
+        if not contra_rows:
+            disk_rows, _src = _load_contradictions(out_dir, sid)
+            contra_rows = disk_rows
+
+        try:
+            act_plain = analyze_session(t, embedding=embedding or None, contradictions=None)
+        except Exception as ex:  # noqa: BLE001
+            act_plain = {"_error": str(ex), "concepts": {}}
+
+        dlcr_body: dict[str, Any] | None = None
         if not skip_dlcr:
             try:
-                body = run_dlcr_pipeline(t, repo_root=_REPO, mode=dlcr_mode)
-                body = dict(body)
-                body["run"] = "tfp_file_pipeline_dlcr"
-                body["session_id"] = sid
-                body["input"] = _text_preview(t)
-                session_dlcr.append(body)
+                dlcr_body = run_dlcr_pipeline(
+                    t,
+                    repo_root=_REPO,
+                    mode=dlcr_mode,
+                    contradiction_package=None,
+                )
+            except Exception as ex:  # noqa: BLE001
+                dlcr_body = {"_error": str(ex)}
+
+        lexical_neg_summary: dict[str, Any] | None = None
+        if isinstance(dlcr_body, dict) and not dlcr_body.get("_error"):
+            neg_raw = dlcr_body.get("negation_summary")
+            lexical_neg_summary = dict(neg_raw) if isinstance(neg_raw, dict) else None
+
+        from hesperia.extensions.triz.contradiction_uncertainty import build_uncertainty_package
+        from hesperia.extensions.triz.contradiction_coupling import enrich_contradiction_rows
+
+        unc = build_uncertainty_package(dlcr_body if isinstance(dlcr_body, dict) else {}, act_plain)
+        concepts_plain = act_plain.get("concepts") if isinstance(act_plain, dict) else {}
+        stab_plain = act_plain.get("concept_weights_stabilized") if isinstance(act_plain, dict) else None
+        hex_plain = act_plain.get("hex_feedback_delta") if isinstance(act_plain, dict) else None
+        ce = enrich_contradiction_rows(
+            contra_rows,
+            unc,
+            concepts_plain if isinstance(concepts_plain, dict) else {},
+            concept_weights_stabilized=stab_plain if isinstance(stab_plain, dict) else None,
+            hex_feedback_delta=hex_plain if isinstance(hex_plain, dict) else None,
+            lexical_negation_summary=lexical_neg_summary,
+            contradiction_calibration=contradiction_calibration,
+        )
+
+        if with_topology:
+            try:
+                full = run_session_topology(
+                    t,
+                    contradictions=ce if ce else None,
+                    contradiction_calibration=contradiction_calibration,
+                    **topo_params,
+                )
+                segs = full.get("segments") or []
+                if len(segs) > 12:
+                    full = {
+                        **full,
+                        "segments": segs[:12],
+                        "_segments_truncated": True,
+                        "_segments_total": len(segs),
+                    }
+                session_topo.append({"session_id": sid, "session_topology": full})
+            except Exception as ex:  # noqa: BLE001
+                session_topo.append({"session_id": sid, "_error": str(ex)})
+
+        contradiction_package: dict[str, Any] | None = None
+        try:
+            from hesperia.extensions.triz.crossplane_contradiction import build_crossplane_contradiction_package
+
+            act_for_pkg = analyze_session(
+                t,
+                embedding=embedding or None,
+                contradictions=ce if ce else None,
+                uncertainty_package=unc,
+                lexical_negation_summary=lexical_neg_summary,
+                contradiction_calibration=contradiction_calibration,
+            )
+            topo_full: dict[str, Any] = {}
+            for tp in session_topo:
+                if str(tp.get("session_id")) == str(sid) and not tp.get("_error"):
+                    topo_full = tp.get("session_topology") or {}
+                    break
+            contradiction_package = build_crossplane_contradiction_package(
+                activation=act_for_pkg,
+                topology=topo_full,
+                contradictions=ce if ce else None,
+                uncertainty_package=unc,
+                contradiction_calibration=contradiction_calibration,
+            )
+            crossplane_by_session[str(sid)] = _round_floats(dict(contradiction_package))
+        except Exception as ex:  # noqa: BLE001
+            contradiction_package = None
+            crossplane_by_session[str(sid)] = {"_error": str(ex)}
+
+        if not skip_dlcr:
+            try:
+                from hesperia.engine.lexical_concept.pipeline import apply_crossplane_contradiction_fields_to_dlcr_result
+
+                if dlcr_body is not None and not dlcr_body.get("_error"):
+                    body = dict(dlcr_body)
+                    body = apply_crossplane_contradiction_fields_to_dlcr_result(body, contradiction_package)
+                    body["run"] = "tfp_file_pipeline_dlcr"
+                    body["session_id"] = sid
+                    body["input"] = _text_preview(t)
+                    body["uncertainty_package"] = _round_floats(dict(unc))
+                    if contradiction_package:
+                        body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                    session_dlcr.append(body)
+                else:
+                    body = run_dlcr_pipeline(
+                        t,
+                        repo_root=_REPO,
+                        mode=dlcr_mode,
+                        contradiction_package=contradiction_package,
+                    )
+                    body = dict(body)
+                    body["run"] = "tfp_file_pipeline_dlcr"
+                    body["session_id"] = sid
+                    body["input"] = _text_preview(t)
+                    body["uncertainty_package"] = _round_floats(dict(unc))
+                    if contradiction_package:
+                        body["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                    session_dlcr.append(body)
+                    lexical_counts: dict[str, int] = {}
+                    for span in body.get("span_resolutions") or []:
+                        if not isinstance(span, dict):
+                            continue
+                        cid = str(span.get("winning_concept_id") or "").strip()
+                        if cid:
+                            lexical_counts[cid] = lexical_counts.get(cid, 0) + 1
+                    lexical_support_by_session[str(sid)] = {
+                        "lexical_hits_accepted": int(body.get("lexical_hits_accepted") or 0),
+                        "concept_counts": lexical_counts,
+                    }
             except Exception as ex:  # noqa: BLE001
                 session_dlcr.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
 
         if not skip_sealed:
             try:
-                bundle = run_sealed_multiscale_stack(t, assets, use_triz_contradiction=False)
+                bundle = run_sealed_multiscale_stack(
+                    t,
+                    assets,
+                    use_triz_contradiction=False,
+                    contradiction_package=contradiction_package,
+                )
+                sealed_body = _round_floats(dict(bundle))
+                sealed_body["crossplane_contradiction_package"] = (
+                    _round_floats(dict(contradiction_package)) if contradiction_package else None
+                )
                 session_sealed.append(
-                    {"session_id": sid, "run": "tfp_file_pipeline_sealed", **_round_floats(dict(bundle))}
+                    {"session_id": sid, "run": "tfp_file_pipeline_sealed", **sealed_body}
                 )
             except Exception as ex:  # noqa: BLE001
                 session_sealed.append({"session_id": sid, "_error": str(ex)})
 
         if not skip_analyze:
             try:
-                minimal, extended = analyze(t, r1_r4=with_r1_r4)
-                session_analyze.append(
-                    {
-                        "session_id": sid,
-                        "input": _text_preview(t),
-                        "result": minimal,
-                        "extended": dict(extended),
-                    }
+                minimal, extended = analyze(
+                    t,
+                    r1_r4=with_r1_r4,
+                    contradiction_package=contradiction_package,
                 )
+                analyze_row = {
+                    "session_id": sid,
+                    "input": _text_preview(t),
+                    "result": minimal,
+                    "extended": dict(extended),
+                }
+                if contradiction_package:
+                    analyze_row["crossplane_contradiction_package"] = _round_floats(dict(contradiction_package))
+                session_analyze.append(analyze_row)
             except Exception as ex:  # noqa: BLE001
                 session_analyze.append({"session_id": sid, "_error": str(ex), "input": _text_preview(t)})
 
@@ -294,65 +820,6 @@ def run_pipeline(
                 session_kme.append(_round_floats(body))
             except Exception as ex:  # noqa: BLE001
                 session_kme.append({"session_id": sid, "_error": str(ex)})
-
-        if with_triz:
-            try:
-                from hesperia.engine.kme.clinical_bridge import build_clinical_active_graph
-                from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
-                from runtime.pipeline.run_e2e_all import _activation_topology_maps, _slim_csv_exports
-
-                act = analyze_session(t, embedding=embedding or None)
-                ag = build_clinical_active_graph(act)
-                payload = {
-                    "nodes": {cid: {"hitCount": n.hit_count} for cid, n in sorted(ag.nodes.items())},
-                    "edges": [
-                        {
-                            "source": e.source_concept_id,
-                            "target": e.target_concept_id,
-                            "type": e.relation_type or "",
-                        }
-                        for e in sorted(
-                            ag.edges,
-                            key=lambda x: (x.source_concept_id, x.target_concept_id, x.relation_type or ""),
-                        )
-                    ],
-                }
-                topo = _activation_topology_maps(act, set(ag.nodes.keys()))
-                ag2 = active_graph_from_payload(payload)
-                content = run_triz_analysis_complete(
-                    ag2,
-                    topo,
-                    narrative_id=sid,
-                    run_id=None,
-                    topology_mode=True,
-                )
-                _slim_csv_exports(content)
-                from core.projection import apply_public_projection
-
-                session_triz.append(
-                    apply_public_projection(
-                        _round_floats(
-                            {"session_id": sid, "input": _text_preview(t), "triz_complete": content}
-                        )
-                    )
-                )
-            except Exception as ex:  # noqa: BLE001
-                session_triz.append({"session_id": sid, "_error": str(ex)})
-
-        if with_topology:
-            try:
-                full = run_session_topology(t, **topo_params)
-                segs = full.get("segments") or []
-                if len(segs) > 12:
-                    full = {
-                        **full,
-                        "segments": segs[:12],
-                        "_segments_truncated": True,
-                        "_segments_total": len(segs),
-                    }
-                session_topo.append({"session_id": sid, "session_topology": full})
-            except Exception as ex:  # noqa: BLE001
-                session_topo.append({"session_id": sid, "_error": str(ex)})
 
     if with_topology and not skip_triz_activation:
         from hesperia.extensions.triz.topology_activation_pipeline import (
@@ -519,6 +986,189 @@ def run_pipeline(
         )
         written["09_session_topology.json"] = str(p)
 
+    # Derive lexical grounding stats from DLCR output (source-of-truth).
+    for _dc in session_dlcr:
+        if not isinstance(_dc, dict) or _dc.get("_error"):
+            continue
+        sid = str(_dc.get("session_id") or "")
+        if not sid:
+            continue
+        lexical_counts: dict[str, int] = {}
+        for span in _dc.get("span_resolutions") or []:
+            if not isinstance(span, dict):
+                continue
+            cid = str(span.get("winning_concept_id") or "").strip()
+            if cid:
+                lexical_counts[cid] = lexical_counts.get(cid, 0) + 1
+        lexical_support_by_session[sid] = {
+            "lexical_hits_accepted": int(_dc.get("lexical_hits_accepted") or 0),
+            "concept_counts": lexical_counts,
+        }
+
+    # Explicit contradiction truth table (v0.5.9 authority-chain reconciliation).
+    for sid in sids:
+        direct_rows = _extract_contradictions_from_08(out_dir / "08_triz_complete.json", sid)
+        topology_rows = _extract_contradictions_from_12(out_dir, sid)
+        lexical = lexical_support_by_session.get(str(sid), {})
+        contradiction_reconciliation_rows.append(
+            _build_contradiction_reconciliation(
+                session_id=str(sid),
+                direct_rows=direct_rows,
+                topology_rows=topology_rows,
+                lexical_hits_accepted=int(lexical.get("lexical_hits_accepted") or 0),
+                lexical_concept_counts=dict(lexical.get("concept_counts") or {}),
+            )
+        )
+    p13 = out_dir / "13_contradiction_reconciliation.json"
+    _write_json(
+        p13,
+        {
+            "run": "tfp_file_pipeline_contradiction_reconciliation_v1",
+            "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+            "sessions": contradiction_reconciliation_rows,
+            "operational_envelope": default_operational_envelope(),
+        },
+    )
+    written["13_contradiction_reconciliation.json"] = str(p13)
+
+    # Main-engine activation pass with contradiction injection from bundle artifacts.
+    stage_rows_by_sid = {
+        str(row.get("session_id")): row for row in session_tfp_stages if isinstance(row, dict) and row.get("session_id")
+    }
+    for sid, t in zip(sids, texts):
+        t = (t or "").strip()
+        if not t:
+            continue
+        try:
+            lexical = lexical_support_by_session.get(str(sid), {})
+            lexical_counts = dict(lexical.get("concept_counts") or {})
+            row, trace = _build_activation_with_bundle_contradictions(
+                session_id=sid,
+                text=t,
+                bundle_dir=out_dir,
+                embedding=embedding or None,
+                lexical_concept_counts=lexical_counts,
+                contradiction_calibration=contradiction_calibration,
+            )
+            cp = crossplane_by_session.get(str(sid))
+            if cp is not None:
+                row["crossplane_contradiction"] = cp
+            stage_row = stage_rows_by_sid.get(str(sid)) or {}
+            before_areas = dict(stage_row.get("areas_raw") or {})
+            after_areas = dict(row.get("activation", {}).get("areas_final") or {})
+            hex_delta_map = dict(row.get("activation", {}).get("hex_feedback_delta") or {})
+            before_rank = _top_keys(before_areas, 12)
+            after_rank = _top_keys(after_areas, 12)
+            rank_changes = {
+                area: (before_rank.index(area) if area in before_rank else None, after_rank.index(area) if area in after_rank else None)
+                for area in sorted(set(before_rank) | set(after_rank))
+            }
+            top_before = before_rank[0] if before_rank else None
+            top_after = after_rank[0] if after_rank else None
+            top_before_val = float(before_areas.get(top_before) or 0.0) if top_before else 0.0
+            top_after_val = float(after_areas.get(top_after) or 0.0) if top_after else 0.0
+            row["invariant_path_effect"] = {
+                "areas_before_invariant_path": before_areas,
+                "areas_after_invariant_path": after_areas,
+                "hex_contribution_delta_l1": round(sum(abs(float(v)) for v in hex_delta_map.values()), 6),
+                "rank_changes": rank_changes,
+                "top_area_before": top_before,
+                "top_area_after": top_after,
+                "top_area_change_magnitude": round(abs(top_after_val - top_before_val), 6),
+            }
+            session_main_engine_full_context.append(row)
+            contradiction_pipeline_rows.append(trace)
+        except Exception as exc:  # noqa: BLE001
+            contradictions, source = _load_contradictions(out_dir, sid)
+            session_main_engine_full_context.append(
+                {
+                    "session_id": sid,
+                    "contradiction_pipeline": {
+                        "source": source,
+                        "count": len(contradictions),
+                        "used_in_activation": False,
+                    },
+                    "_error": str(exc),
+                }
+            )
+            contradiction_pipeline_rows.append(
+                {
+                    "session_id": sid,
+                    "source": source,
+                    "count": len(contradictions),
+                    "used_in_activation": False,
+                    "contradiction_count_used": 0,
+                }
+            )
+
+    p = out_dir / "20_main_engine_full_context.json"
+    from hesperia.extensions.triz.contradiction_contract import (
+        CONTRADICTION_CONTRACT_SPEC_VERSION,
+        validate_contradiction_contract,
+    )
+
+    feedback_sessions = 0
+    risky_concepts_sessions = 0
+    for _sid, cp in crossplane_by_session.items():
+        if not isinstance(cp, dict):
+            continue
+        if cp.get("feedback_summary"):
+            feedback_sessions += 1
+        if cp.get("top_risky_concepts"):
+            risky_concepts_sessions += 1
+
+    body20 = {
+        "run": "tfp_file_pipeline_main_engine_full_context",
+        "sessions": session_main_engine_full_context,
+        "contradiction_pipeline": contradiction_pipeline_rows,
+        "canonical_contradiction_source": CANONICAL_CONTRADICTION_SOURCE,
+        "contradiction_reconciliation_artifact": "13_contradiction_reconciliation.json",
+        "crossplane_contradiction_by_session": crossplane_by_session,
+        "feedback_summary": {
+            "sessions_with_feedback_summary": feedback_sessions,
+            "sessions_with_top_risky_concepts": risky_concepts_sessions,
+        },
+        "activation_topology_linkage_summary": {
+            "sessions_total": len(session_main_engine_full_context),
+            "sessions_with_crossplane_package": sum(
+                1 for _sid, cp in crossplane_by_session.items() if isinstance(cp, dict) and not cp.get("_error")
+            ),
+        },
+        "conflict_release_summary": {
+            "status": "pending_inspection",
+            "inspection_artifact": "99_tfp_bundle_inspect.json",
+        },
+        "contradiction_calibration_snapshot": build_calibration_snapshot(
+            contradiction_calibration,
+            source_path=contradiction_calibration_resolved_path
+            or "assets/data/engine_dynamics_v060/tfp/contradiction_calibration_v1.json",
+        ),
+        "contradiction_calibration_usage": build_calibration_usage_trace(contradiction_calibration),
+        "operational_envelope": default_operational_envelope(),
+    }
+    pre_contract = validate_contradiction_contract(
+        {
+            "04_dlcr_full.json": {"sessions": session_dlcr} if session_dlcr else None,
+            "05_sealed_multiscale.json": {"sessions": session_sealed} if session_sealed else None,
+            "06_product_analyze.json": {"sessions": session_analyze} if session_analyze else None,
+            "09_session_topology.json": {"sessions": session_topo} if session_topo else None,
+            "20_main_engine_full_context.json": body20,
+        }
+    )
+    contract_summary = {
+        "spec_version": CONTRADICTION_CONTRACT_SPEC_VERSION,
+        "contract_valid": bool(pre_contract.get("contract_valid")),
+        "missing_required_fields": list(pre_contract.get("missing_required_fields") or []),
+        "deprecated_fields_found": list(pre_contract.get("deprecated_fields_found") or []),
+        "authority_conflicts": list(pre_contract.get("authority_conflicts") or []),
+    }
+    body20["contradiction_contract"] = contract_summary
+    _write_json(
+        p,
+        body20,
+    )
+    written["20_main_engine_full_context.json"] = str(p)
+
     manifest_parts: list[dict[str, Any]] = []
     if not skip_structural and structural_batch:
         manifest_parts.extend(
@@ -579,6 +1229,27 @@ def run_pipeline(
             "HESPERIA_ANALYZE_DLCR_EVIDENCE": os.environ.get("HESPERIA_ANALYZE_DLCR_EVIDENCE"),
         },
         "artifacts": written,
+        "canonical_contradiction_source": CANONICAL_CONTRADICTION_SOURCE,
+        "contradiction_pipeline": contradiction_pipeline_rows,
+        "contradiction_reconciliation": {
+            "artifact": "13_contradiction_reconciliation.json",
+            "canonical_source": CANONICAL_CONTRADICTION_SOURCE,
+        },
+        "crossplane_contradiction_by_session": crossplane_by_session,
+        "contradiction_contract": {
+            "spec_version": CONTRADICTION_CONTRACT_SPEC_VERSION,
+            "contract_valid": contract_summary["contract_valid"],
+            "authoritative_artifact": "20_main_engine_full_context.json",
+            "inspection_artifact": "99_tfp_bundle_inspect.json",
+            "missing_required_fields": contract_summary["missing_required_fields"],
+            "deprecated_fields_found": contract_summary["deprecated_fields_found"],
+            "authority_conflicts": contract_summary["authority_conflicts"],
+        },
+        "contradiction_calibration_snapshot": build_calibration_snapshot(
+            contradiction_calibration,
+            source_path=contradiction_calibration_resolved_path
+            or "assets/data/engine_dynamics_v060/tfp/contradiction_calibration_v1.json",
+        ),
         "triz_activation": triz_activation_paths,
         "errors": errors,
         "operational_envelope": manifest_operational_envelope,
@@ -612,7 +1283,7 @@ def main() -> int:
         "-o",
         type=Path,
         default=None,
-        help="Output directory (default: outputs/tfp_pipeline_run/<run_id>)",
+        help="Output directory (default: outputs/tfp/runs/tfp_pipeline_run/<run_id>)",
     )
     ap.add_argument("--with-kme", action="store_true", help="Include KME clinical report per session (07_…)")
     ap.add_argument("--with-triz", action="store_true", help="Include TRIZ complete per session (08_…)")
@@ -648,6 +1319,12 @@ def main() -> int:
         type=Path,
         default=None,
         help="Optional JSON object merged over DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS for run_session_topology",
+    )
+    ap.add_argument(
+        "--contradiction-calibration-json",
+        type=Path,
+        default=None,
+        help="Optional contradiction calibration profile JSON (default: assets/.../contradiction_calibration_v1.json)",
     )
     args = ap.parse_args()
 
@@ -688,7 +1365,7 @@ def main() -> int:
     os.environ["HESPERIA_TFP_PIPELINE_RUN_ID"] = run_id
     out_dir = args.out_dir
     if out_dir is None:
-        out_dir = _REPO / "outputs" / "tfp_pipeline_run" / run_id
+        out_dir = _REPO / "outputs" / "tfp" / "runs" / "tfp_pipeline_run" / run_id
     out_dir = out_dir.resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -708,6 +1385,7 @@ def main() -> int:
         dlcr_mode=args.dlcr_mode,
         skip_triz_activation=args.skip_triz_activation,
         topology_run_params=topology_run_params,
+        contradiction_calibration_path=args.contradiction_calibration_json,
     )
 
     print(f"tfp_file_pipeline_ok wrote {len(summary['paths'])} files under {out_dir}", file=sys.stderr)

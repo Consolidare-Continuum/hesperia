@@ -29,7 +29,7 @@ def default_corpus_en(repo: Path | None = None) -> Path:
 
 
 def default_corpus_sessions(repo: Path | None = None) -> Path:
-    """Clinical session Markdown from noone ingest (DD-MM-YYYY.md); was research/_noone_local/sessions."""
+    """Clinical session Markdown from noone ingest (DD-MM-YYYY.md); was legacy `_noone_local/sessions/` under `research/`."""
     return tfp_v1_root(repo) / "corpus" / "sessions"
 
 

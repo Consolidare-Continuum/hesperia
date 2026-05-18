@@ -105,7 +105,7 @@ def test_postprocess_area_curves_uses_momentum_and_session_center() -> None:
         {"areas": {"A4": 0.7, "A2": 0.3}},
         {"areas": {"A4": 0.9, "A2": 0.1}},
     ]
-    curves, meta, rel = postprocess_area_curves(segs, session_center_curves=True)
+    curves, meta, rel, _stable_segs = postprocess_area_curves(segs, session_center_curves=True)
     assert meta["area_competition"] == "invariant_softmax"
     assert meta["temporal_momentum"]["alpha1"] > 0
     assert len(curves["aggression"]) == 3

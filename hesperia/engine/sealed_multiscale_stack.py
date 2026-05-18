@@ -61,6 +61,60 @@ def _require_hex_for_signals(A0: np.ndarray, A1: np.ndarray) -> None:
         raise RuntimeError("Hex layer required for signal computation (invalid A_hex shape)")
 
 
+def _sealed_multiscale_contradiction_fields(
+    contradiction_package: dict[str, Any] | None,
+    *,
+    contradiction_pressure_signal: float,
+    hspr_index: float,
+) -> tuple[dict[str, Any], dict[str, Any], dict[str, float], dict[str, Any]]:
+    if not contradiction_package:
+        neutral_align = {"fine_mid_agreement": 1.0, "mid_coarse_agreement": 1.0, "global_alignment": 1.0}
+        neutral_trace = {
+            "persistent_conflict": False,
+            "conflict_collapses_under_aggregation": False,
+            "dominant_conflict_area": "",
+        }
+        return neutral_align, {"scalar": 1.0}, {"fine": 0.0, "mid": 0.0, "coarse": 0.0}, neutral_trace
+    cp = contradiction_package
+    g = float(cp.get("global_contradiction_load") or 0.0)
+    areas_p = cp.get("area_contradiction_pressure") or {}
+    mid = max(areas_p.values()) if areas_p else 0.0
+    fine = g
+    hs = float(hspr_index)
+    hs_n = abs(hs - 0.5) * 2.0
+    coarse = max(0.0, min(1.0, fine * (1.0 - 0.22 * min(1.0, hs_n))))
+    sig_f = max(0.0, min(1.0, abs(float(contradiction_pressure_signal))))
+    fine_m = max(0.0, min(1.0, 0.62 * fine + 0.38 * sig_f))
+    fine_mid = max(0.0, min(1.0, 1.0 - min(1.0, abs(fine_m - mid) * 2.0)))
+    mid_coarse = max(0.0, min(1.0, 1.0 - min(1.0, abs(mid - coarse) * 2.0)))
+    global_alignment = (fine_mid + mid_coarse) / 2.0
+    multiscale_contradiction_alignment = {
+        "fine_mid_agreement": round(fine_mid, 6),
+        "mid_coarse_agreement": round(mid_coarse, 6),
+        "global_alignment": round(global_alignment, 6),
+    }
+    consistency_scalar = max(0.0, min(1.0, global_alignment))
+    contradiction_scale_consistency = {"scalar": round(consistency_scalar, 6)}
+    contradiction_load_by_scale = {
+        "fine": round(fine_m, 6),
+        "mid": round(mid, 6),
+        "coarse": round(coarse, 6),
+    }
+    loads = cp.get("segment_contradiction_loads") or []
+    ln = [float(s.get("contradiction_load_normalized") or 0.0) for s in loads if isinstance(s, dict)]
+    persistent = sum(1 for x in ln if x > 0.28) >= 2 and (max(ln, default=0.0) > 0.36)
+    collapse = fine_m > coarse + 0.18
+    dom_area = ""
+    if areas_p:
+        dom_area = max(areas_p, key=lambda k: float(areas_p.get(k) or 0.0))
+    sealed_conflict_trace = {
+        "persistent_conflict": bool(persistent),
+        "conflict_collapses_under_aggregation": bool(collapse),
+        "dominant_conflict_area": str(dom_area),
+    }
+    return multiscale_contradiction_alignment, contradiction_scale_consistency, contradiction_load_by_scale, sealed_conflict_trace
+
+
 def run_sealed_multiscale_stack(
     text: str,
     assets_root: Path,
@@ -68,6 +122,7 @@ def run_sealed_multiscale_stack(
     apply_local_step: bool = True,
     hotspot_list_cap: int = 96,
     use_triz_contradiction: bool = False,
+    contradiction_package: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
     """
     Dict A path proxy: structural family hits → hex grid → dynamics → F / area (aggregates) → hex signals → hspr_index.
@@ -206,4 +261,14 @@ def run_sealed_multiscale_stack(
             }
         except Exception as ex:  # noqa: BLE001
             out["clinical_resolution_sidecar"] = {"_error": str(ex)}
+    if contradiction_package:
+        m_align, c_cons, by_scale, sealed_trace = _sealed_multiscale_contradiction_fields(
+            contradiction_package,
+            contradiction_pressure_signal=float(sig.get("contradiction_pressure") or 0.0),
+            hspr_index=float(hspr.get("hspr_index") or 0.0),
+        )
+        out["multiscale_contradiction_alignment"] = m_align
+        out["contradiction_scale_consistency"] = c_cons
+        out["contradiction_load_by_scale"] = by_scale
+        out["sealed_conflict_trace"] = sealed_trace
     return out

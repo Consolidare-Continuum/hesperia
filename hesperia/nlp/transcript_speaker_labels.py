@@ -51,8 +51,14 @@ def _alt_group(words: tuple[str, ...]) -> str:
 _PATIENT_WORDS = (LABEL_PATIENT_EN, LABEL_PATIENT_RU)
 _THERAPIST_WORDS = (LABEL_THERAPIST_EN, LABEL_THERAPIST_RU)
 
-PATIENT_LINE_PREFIX = re.compile(rf"^\s*(?:(?i){_alt_group(_PATIENT_WORDS)})\s*:\s*")
-THERAPIST_LINE_PREFIX = re.compile(rf"^\s*(?:(?i){_alt_group(_THERAPIST_WORDS)})\s*:\s*")
+PATIENT_LINE_PREFIX = re.compile(
+    rf"^\s*(?:{_alt_group(_PATIENT_WORDS)})\s*:\s*",
+    re.IGNORECASE,
+)
+THERAPIST_LINE_PREFIX = re.compile(
+    rf"^\s*(?:{_alt_group(_THERAPIST_WORDS)})\s*:\s*",
+    re.IGNORECASE,
+)
 
 # Transcript turn parser: allows ``:`` or whitespace after label; includes short П/Т
 _SPEAKER_TOKENS = (
@@ -70,7 +76,8 @@ SPEAKER_PATTERN = re.compile(
 
 # Optional clinical strip (``analysis_input``): line-start role tags → folded away
 CLINICAL_ROLE_STRIP_PATTERN = re.compile(
-    rf"^(?i)(?:patient|therapist|doctor|client|clinician|{_alt_group((LABEL_PATIENT_RU, LABEL_THERAPIST_RU))})\s*:\s*",
+    rf"^(?:patient|therapist|doctor|client|clinician|{_alt_group((LABEL_PATIENT_RU, LABEL_THERAPIST_RU))})\s*:\s*",
+    re.IGNORECASE,
 )
 
 

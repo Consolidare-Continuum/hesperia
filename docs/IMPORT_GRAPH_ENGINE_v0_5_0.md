@@ -15,7 +15,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 ## Aggregate import targets (reference count)
 
-- `__future__` — **73**
+- `__future__` — **74**
 - `collections` — **3**
 - `copy` — **1**
 - `core.attribution.structural` — **1**
@@ -34,6 +34,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.layers` — **1**
 - `core.lexical.analysis_input` — **1**
 - `core.lexical.cooccurrence` — **1**
+- `core.lexical.matcher` — **1**
 - `core.lexical.policy` — **1**
 - `core.math.io_deterministic_json` — **1**
 - `core.output.result_builder` — **1**
@@ -98,6 +99,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.engine.language` — **1**
 - `hesperia.engine.lexical_concept.pipeline` — **2**
 - `hesperia.engine.matrix_loader` — **3**
+- `hesperia.engine.module_aliases` — **1**
 - `hesperia.engine.module_loader` — **1**
 - `hesperia.engine.module_validator` — **1**
 - `hesperia.engine.observables` — **1**
@@ -115,7 +117,6 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `hesperia.extensions.triz.kme_bridge` — **2**
 - `hesperia.extensions.triz.models` — **1**
 - `hesperia.extensions.triz.pipeline` — **1**
-- `hesperia.modules.registry` — **1**
 - `hesperia.nlp.session_parser` — **1**
 - `hesperia.ontology.dictB.loader` — **1**
 - `hesperia.system.version` — **7**
@@ -125,7 +126,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `numpy` — **19**
 - `os` — **7**
 - `pathlib` — **25**
-- `re` — **2**
+- `re` — **3**
 - `runtime.shipping.schema_guard` — **1**
 - `scipy.sparse` — **3**
 - `sphere.topology` — **1**
@@ -717,6 +718,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `json`
 - `math`
 - `os`
+- `re`
 - `yaml`
 
 **from**
@@ -731,6 +733,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `core.hexmap.analytics`
 - `core.hexmap.topology`
 - `core.lexical.cooccurrence`
+- `core.lexical.matcher`
 - `core.lexical.policy`
 - `core.output.result_builder`
 - `core.pipeline.dynamics`
@@ -760,6 +763,11 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 - `pathlib`
 - `typing`
 
+### `hesperia/engine/module_aliases.py`
+
+**from**
+- `__future__`
+
 ### `hesperia/engine/module_loader.py`
 
 **import**
@@ -767,7 +775,7 @@ This document lists **static** `import` / `from` targets seen under the scanned 
 
 **from**
 - `__future__`
-- `hesperia.modules.registry`
+- `hesperia.engine.module_aliases`
 - `typing`
 
 ### `hesperia/engine/module_validator.py`

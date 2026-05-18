@@ -78,6 +78,11 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.extensions.dynamics.calibration` — **1**
 - `hesperia.extensions.dynamics.e2e_bridge` — **1**
 - `hesperia.extensions.triz.commercial_intelligence` — **1**
+- `hesperia.extensions.triz.contradiction_calibration` — **1**
+- `hesperia.extensions.triz.contradiction_contract` — **1**
+- `hesperia.extensions.triz.contradiction_coupling` — **1**
+- `hesperia.extensions.triz.contradiction_uncertainty` — **1**
+- `hesperia.extensions.triz.crossplane_contradiction` — **1**
 - `hesperia.extensions.triz.pipeline` — **4**
 - `hesperia.extensions.triz.topology_activation_pipeline` — **1**
 - `hesperia.nlp.session_parser` — **2**
@@ -409,6 +414,11 @@ Enforced by `python3 tools/check_import_boundary.py`.
 - `hesperia.engine.output_anomalies`
 - `hesperia.engine.sealed_multiscale_stack`
 - `hesperia.engine.tfp_signal_calibration`
+- `hesperia.extensions.triz.contradiction_calibration`
+- `hesperia.extensions.triz.contradiction_contract`
+- `hesperia.extensions.triz.contradiction_coupling`
+- `hesperia.extensions.triz.contradiction_uncertainty`
+- `hesperia.extensions.triz.crossplane_contradiction`
 - `hesperia.extensions.triz.pipeline`
 - `hesperia.extensions.triz.topology_activation_pipeline`
 - `hesperia.nlp.session_parser`

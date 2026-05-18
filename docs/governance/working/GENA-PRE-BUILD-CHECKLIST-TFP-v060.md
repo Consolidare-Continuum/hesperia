@@ -56,7 +56,7 @@ After dict assets are valid, run a **user transcript or JSON sessions** through 
 python3 tools/gena_tfp_bundle_run.py -i path/to/input.md
 ```
 
-Writes under `outputs/tfp_gena_<stem>/` by default (`00`–`06`, plus `10_calibration_audit.json`, `11_calibration_release_gate.json`). Use `-o outputs/my_run` to pin the directory. For **pipeline only** (no audit/gate): `python3 tools/gena_tfp_bundle_run.py -i path/to/input.md -o outputs/my_run --pipeline-only`, or `python3 -m runtime.pipeline.run_tfp_file_pipeline -i … -o …`.
+Writes under `outputs/tfp/runs/tfp_gena_<stem>/` by default (`00`–`06`, plus `10_calibration_audit.json`, `11_calibration_release_gate.json`). Use `-o outputs/tfp/runs/my_run` to pin the directory. For **pipeline only** (no audit/gate): `python3 tools/gena_tfp_bundle_run.py -i path/to/input.md -o outputs/tfp/runs/my_run --pipeline-only`, or `python3 -m runtime.pipeline.run_tfp_file_pipeline -i … -o …`.
 
 See [ETHAN-TFP-RUNNABLE-DICT-WIRING.md](ETHAN-TFP-RUNNABLE-DICT-WIRING.md) §3a for flags (`--with-kme`, `--with-triz`, `--with-topology` → flat `12_<session>_*.json` in `--out-dir`, `--with-gold`, skips). TRIZ-from-topology spec: [TRIZ_TOPOLOGY_ACTIVATION_PIPELINE_v1.md](../specs/TRIZ_TOPOLOGY_ACTIVATION_PIPELINE_v1.md).
 

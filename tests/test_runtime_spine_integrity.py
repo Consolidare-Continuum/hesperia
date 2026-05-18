@@ -124,6 +124,7 @@ def test_multiscale_bridge_stack_runner_wiring_and_signature() -> None:
         "apply_local_step",
         "hotspot_list_cap",
         "use_triz_contradiction",
+        "contradiction_package",
     )
     sig_b = inspect.signature(mpb.build_structural_internal_from_multiscale)
     assert tuple(sig_b.parameters.keys()) == (

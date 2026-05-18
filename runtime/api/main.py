@@ -421,6 +421,80 @@ if expose_triz_api():
         pass
 
 
+
+
+# --- TFP-CHROMA-04: Inspector/API composition (spec §6) ---
+_CHROMA_HOST = os.environ.get("HESPERIA_CHROMA_HOST", "localhost")
+_CHROMA_PORT = int(os.environ.get("HESPERIA_CHROMA_PORT", "8002"))
+_CHROMA_COLLECTION = os.environ.get("HESPERIA_CHROMA_COLLECTION", "knowledge")
+_TFP_CORPUS_LAYER = "tfp_corpus_ru"
+
+
+class TfpCorpusComposeBody(BaseModel):
+    """Compose a Chroma query from iteration context and retrieve tfp_corpus_ru chunks (spec §6)."""
+
+    model_config = ConfigDict(extra="forbid")
+    session_id: str = Field(..., min_length=1, max_length=256)
+    iteration_labels: list[str] = Field(default_factory=list, max_length=50)
+    relational_summary: str = Field(default="", max_length=2000)
+    query: str = Field(default="", max_length=1000)
+    n_results: int = Field(default=5, ge=1, le=20)
+
+
+@app.post("/inspector/tfp-corpus/compose", response_model=None, summary="TFP corpus composition (spec §6)")
+async def inspector_tfp_corpus_compose(
+    body: TfpCorpusComposeBody,
+    _: None = Depends(verify_bearer),
+) -> JSONResponse:
+    parts: list[str] = []
+    if body.iteration_labels:
+        parts.append("Iteration context: " + ", ".join(body.iteration_labels[:20]))
+    if body.relational_summary:
+        parts.append(body.relational_summary[:1500])
+    if body.query:
+        parts.append(body.query)
+    composed_query = " ".join(parts).strip() or body.session_id
+    try:
+        import chromadb
+
+        client = chromadb.HttpClient(host=_CHROMA_HOST, port=_CHROMA_PORT)
+        col = client.get_collection(_CHROMA_COLLECTION)
+        res = col.query(
+            query_texts=[composed_query],
+            n_results=body.n_results,
+            where={"layer": _TFP_CORPUS_LAYER},
+            include=["documents", "metadatas", "distances"],
+        )
+        docs = res.get("documents", [[]])[0]
+        metas = res.get("metadatas", [[]])[0]
+        distances = res.get("distances", [[]])[0]
+        chunks = [
+            {"rank": i + 1, "document": d, "source": m.get("source", ""), "distance": round(float(dist), 4)}
+            for i, (d, m, dist) in enumerate(zip(docs, metas, distances))
+        ]
+        return JSONResponse(content={
+            "session_id": body.session_id,
+            "corpus_layer": _TFP_CORPUS_LAYER,
+            "query": composed_query[:500],
+            "n_results": len(chunks),
+            "chunks": chunks,
+            "corpus_available": bool(chunks),
+        })
+    except Exception as e:
+        err = str(e)
+        corpus_absent = "does not exist" in err or "not found" in err.lower() or "no results" in err.lower()
+        return JSONResponse(
+            status_code=503 if corpus_absent else 500,
+            content={
+                "error": True,
+                "session_id": body.session_id,
+                "corpus_layer": _TFP_CORPUS_LAYER,
+                "corpus_available": False,
+                "message": "tfp_corpus_ru not ingested" if corpus_absent else f"Chroma error: {err[:300]}",
+                "code": 503 if corpus_absent else 500,
+            },
+        )
+
 @app.exception_handler(PermissionError)
 async def permission_handler(_request: Request, exc: PermissionError) -> JSONResponse:
     msg = str(exc)

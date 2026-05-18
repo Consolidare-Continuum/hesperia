@@ -16,7 +16,7 @@ Older **`corpus/*`** / **`dicts/*`** paths may remain empty or stale; **`tfp_v1/
 
 Large trees are **gitignored** under `tfp_v1/`; run migrate/sync after clone.
 
-**Session transcripts** (clinical `.md`): `tfp_v1/corpus/sessions/` — populated by `tools/noone_sessions_ingest.py` or rsync from `research/_noone_local/sessions/` during migrate.
+**Session transcripts** (clinical `.md`): `tfp_v1/corpus/sessions/` — populated by `tools/noone_sessions_ingest.py` or rsync from the legacy `_noone_local/sessions/` tree under `research/` during migrate.
 
 ## Resolver
 

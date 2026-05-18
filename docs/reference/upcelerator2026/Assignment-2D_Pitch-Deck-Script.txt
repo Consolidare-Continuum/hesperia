@@ -1,0 +1,13 @@
+========================
+D — PITCH DECK: PRESENTER SCRIPT
+========================
+
+Slide 5 — MARKET (what I say to the investor):
+
+We are targeting the intersection of AI infrastructure and compliance-driven enterprise software. The global AI infrastructure market exceeds $10B and is growing rapidly, but most solutions focus on performance, not reliability. Our initial focus is a narrow, high-value segment: companies deploying AI in regulated environments across Europe. This includes finance, healthcare, and legal sectors where auditability is mandatory. Starting with this beachhead allows us to capture immediate value, as these organizations already spend on risk mitigation. From there, we expand into broader AI adoption markets. The opportunity is driven not by hype, but by regulation and operational necessity.
+
+--------------------------------
+
+Slide 6 — COMPETITION (what I say to the investor):
+
+The current market is shaped by AI observability tools — Arize AI ($131M raised), Arthur AI ($63M), Patronus AI ($17M). These platforms monitor and analyze model behavior after outputs are generated — a reactive paradigm: detect, explain, report. HESPERIA takes a fundamentally different position. Instead of observing AI uncertainty, it eliminates it by structuring meaning deterministically at the source. Our competition is not only these tools, but also the status quo — manual processes and acceptance of unreliable AI. The status quo is the strongest competitor: free, trusted, already everywhere. We win by redefining where the problem is solved.

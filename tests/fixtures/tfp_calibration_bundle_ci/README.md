@@ -6,7 +6,7 @@ Used by `.github/workflows/sealed-runtime-gate.yml` with:
 
 - `python3 tools/validate_tfp_bundle_schemas.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci`
 - `python3 tools/run_tfp_calibration_goldset.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci`
-- `python3 tools/calibration_release_gate.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci --profile internal_review --skip-schema --skip-gold`
+- `python3 tools/calibration_release_gate.py --bundle-dir tests/fixtures/tfp_calibration_bundle_ci` (same three steps as CI: schema, goldset, gate; `00_manifest.json` carries synthetic `tfp_signal_calibration` + `09_session_topology.json` for `main_engine_release_gate_v1`)
 
 `11_calibration_release_gate.json` may be written by the gate CLI in CI (ephemeral workspace). It is gitignored here.
 

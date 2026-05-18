@@ -5,6 +5,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 from collections import Counter
 from pathlib import Path
@@ -95,7 +96,22 @@ def main() -> int:
 
     raw_corpus = BASE / "dict_a" / "_raw" / "dict_a_ru_full_corpus.jsonl"
     if not raw_corpus.exists():
-        errs.append(f"RAW archive missing (expected {raw_corpus})")
+        # Large file; gitignored — absent in minimal CI clones. Full gate on dev/prod trees with assets.
+        ci = os.environ.get("CI", "").strip().lower() in ("1", "true", "yes")
+        skip = os.environ.get("HESPERIA_SKIP_RAW_DICT_A_CHECK", "").strip().lower() in (
+            "1",
+            "true",
+            "yes",
+            "on",
+        )
+        if ci or skip:
+            print(
+                "WARNING: RAW dict_a corpus not in workspace (expected "
+                f"{raw_corpus}); skipping RAW presence check.",
+                file=sys.stderr,
+            )
+        else:
+            errs.append(f"RAW archive missing (expected {raw_corpus})")
 
     if errs:
         for e in errs:

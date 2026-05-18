@@ -1,0 +1,1510 @@
+{
+  "сессия_id": "tfp_s001",
+  "описание": "Дорожная карта: состояния/переходы + TRIZ/KME сигналы (на русском).",
+  "manifest": {
+    "run": "tfp_file_pipeline_manifest",
+    "run_id": "8687020b-e292-4441-8abe-7ce71b7000f7",
+    "dlcr_mode": "clinical_speech",
+    "domain_pack": "tfp"
+  },
+  "tfp_stage": "integration",
+  "areas_top": {
+    "A7": 0.886875,
+    "A3": 0.045336,
+    "A1": 0.030851,
+    "A2": 0.009682,
+    "A8": 0.006146,
+    "A9": 0.00511,
+    "A10": 0.004364,
+    "A6": 0.00334
+  },
+  "areas_top_ru": {
+    "любовь / реляционная способность": 0.8869,
+    "защитные операции": 0.0453,
+    "влечения и аффекты": 0.0309,
+    "объектные отношения": 0.0097,
+    "структурный диагноз": 0.0061,
+    "терапевтическая техника": 0.0051,
+    "процесс лечения": 0.0044,
+    "нарциссизм": 0.0033
+  },
+  "топология": {
+    "segments_total": null,
+    "segments_truncated": null,
+    "state_sequence": [
+      "A7"
+    ],
+    "transitions": [],
+    "defense_timeline": [
+      "A3_F7"
+    ],
+    "area_curves": {
+      "aggression": [
+        0.002074
+      ],
+      "anxiety": [
+        0.009682
+      ],
+      "shame": [
+        0.886875
+      ],
+      "control": [
+        0.002074
+      ],
+      "identity_diffusion": [
+        0.00511
+      ]
+    },
+    "aggression_curve": [
+      0.002074
+    ],
+    "curve_projection_meta": {
+      "area_competition": "invariant_softmax",
+      "requested_area_competition": "softmax",
+      "requested_softmax_temperature": 1.0,
+      "softmax_temperature": 0.35,
+      "smooth": null,
+      "session_center": "mean_subtracted_per_named_curve",
+      "segment_dominance_confidence": [
+        0.778175
+      ],
+      "segment_dominance_confidence_raw": [
+        0.778175
+      ],
+      "segment_dominance_confidence_stable": [
+        0.778175
+      ],
+      "temporal_momentum": {
+        "alpha1": 0.28,
+        "alpha2": 0.08
+      },
+      "area_curves_raw": {
+        "aggression": [
+          0.002074
+        ],
+        "anxiety": [
+          0.009682
+        ],
+        "shame": [
+          0.886875
+        ],
+        "control": [
+          0.002074
+        ],
+        "identity_diffusion": [
+          0.00511
+        ]
+      },
+      "calibration_reference_bands": {
+        "low_tension": 0.2,
+        "conflict_active": 0.5,
+        "escalation": 0.8
+      },
+      "engine_params": {
+        "window_size": 80,
+        "normalize_scores": true,
+        "area_competition": "invariant_softmax",
+        "requested_area_competition": "softmax",
+        "softmax_temperature": 0.35,
+        "requested_softmax_temperature": 1.0,
+        "curve_smooth_alpha": null,
+        "curve_session_center": true,
+        "apply_token_negation": true,
+        "negation_window": 2,
+        "negation_multiplier": 0.5,
+        "per_concept_score_cap": 5.5,
+        "use_log1p_concept_scores": true,
+        "evidence_volume_normalize": true,
+        "include_curve_projection_meta": true
+      },
+      "area_curve_map": {
+        "aggression": "A4",
+        "anxiety": "A2",
+        "shame": "A7",
+        "control": "A5",
+        "identity_diffusion": "A9"
+      },
+      "lexical_controls": {
+        "apply_token_negation": true,
+        "negation_window": 2,
+        "negation_multiplier": 0.5,
+        "per_concept_score_cap": 5.5,
+        "use_log1p_concept_scores": true,
+        "evidence_volume_normalize": true
+      },
+      "note": "area_curves_raw are audit-only outputs from raw segment activations; area_curves and state_sequence use momentum-stabilized segment areas."
+    }
+  },
+  "границы_состояний": [],
+  "сводка_потока": {
+    "уникальные_состояния": [
+      "A7"
+    ],
+    "уникальные_состояния_ru": [
+      "любовь / реляционная способность"
+    ],
+    "переходов": 0,
+    "границ": 0
+  },
+  "triz": {
+    "contradiction_count": 10,
+    "contradiction_density": 0.002104,
+    "cross_area_contradiction_rate": 0.0,
+    "mean_contradiction_score": 0.282557,
+    "universe_concept_count": 98
+  },
+  "triz_dynamics": {
+    "propagation_velocity": 0.023537,
+    "spillover_strength": 0.0,
+    "narrative_penetration": 0.00021,
+    "avg_graph_degree": 8.163265,
+    "area_coverage": 0.1
+  },
+  "triz_dynamics_pct": {
+    "propagation_velocity": 2.4,
+    "spillover_strength": 0.0,
+    "narrative_penetration": 0.0,
+    "area_coverage": 10.0
+  },
+  "cross_plane_audit": {
+    "topology_activation": 0.250421,
+    "contradiction_count": 10,
+    "anomalies": [],
+    "pass": true
+  },
+  "cross_plane_audit_pct": {
+    "topology_activation": 25.0
+  },
+  "contradiction_hotspots": [
+    {
+      "family": "A10_F10",
+      "contradiction_score": 2.22438,
+      "connected_pairs": 8
+    },
+    {
+      "family": "A10_F11",
+      "contradiction_score": 1.14907,
+      "connected_pairs": 4
+    },
+    {
+      "family": "A10_F3",
+      "contradiction_score": 1.14254,
+      "connected_pairs": 4
+    },
+    {
+      "family": "A10_F20",
+      "contradiction_score": 1.13515,
+      "connected_pairs": 4
+    }
+  ],
+  "kme_triz": {
+    "contradictions": [],
+    "innovation_clusters": [
+      {
+        "cluster_id": "c0000",
+        "concepts": [
+          "B_A10_F10_002",
+          "B_A10_F10_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.029036,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0001",
+        "concepts": [
+          "B_A10_F11_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.014518,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0002",
+        "concepts": [
+          "B_A10_F20_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.014518,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0003",
+        "concepts": [
+          "B_A10_F3_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.014518,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0004",
+        "concepts": [
+          "B_A1_F17_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.014518,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0005",
+        "concepts": [
+          "B_A1_F21_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.014518,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0006",
+        "concepts": [
+          "B_A1_F23_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0007",
+        "concepts": [
+          "B_A1_F24_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0008",
+        "concepts": [
+          "B_A1_F2_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0009",
+        "concepts": [
+          "B_A1_F5_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0010",
+        "concepts": [
+          "B_A1_F8_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0011",
+        "concepts": [
+          "B_A1_F9_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0012",
+        "concepts": [
+          "B_A2_F13_003",
+          "B_A2_F13_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0013",
+        "concepts": [
+          "B_A2_F15_001",
+          "B_A2_F15_002",
+          "B_A2_F15_004"
+        ],
+        "rarity": 0.979381,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.029617,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0014",
+        "concepts": [
+          "B_A2_F18_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0015",
+        "concepts": [
+          "B_A2_F19_001",
+          "B_A2_F20_001"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0016",
+        "concepts": [
+          "B_A2_F2_003",
+          "B_A2_F2_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0017",
+        "concepts": [
+          "B_A2_F3_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0018",
+        "concepts": [
+          "B_A2_F7_002",
+          "B_A2_F7_004"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0019",
+        "concepts": [
+          "B_A2_F9_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0020",
+        "concepts": [
+          "B_A3_F10_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0021",
+        "concepts": [
+          "B_A3_F11_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0022",
+        "concepts": [
+          "B_A3_F15_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0023",
+        "concepts": [
+          "B_A3_F16_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0024",
+        "concepts": [
+          "B_A3_F21_003",
+          "B_A3_F21_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0025",
+        "concepts": [
+          "B_A3_F4_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0026",
+        "concepts": [
+          "B_A3_F7_001",
+          "B_A3_F7_002",
+          "B_A3_F7_003",
+          "B_A3_F7_004",
+          "B_A3_F7_005",
+          "B_A3_F7_006"
+        ],
+        "rarity": 0.948454,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.059233,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0027",
+        "concepts": [
+          "B_A3_F9_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0028",
+        "concepts": [
+          "B_A4_F15_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0029",
+        "concepts": [
+          "B_A4_F16_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0030",
+        "concepts": [
+          "B_A4_F17_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0031",
+        "concepts": [
+          "B_A4_F22_001",
+          "B_A4_F22_002",
+          "B_A4_F22_003",
+          "B_A4_F22_004",
+          "B_A4_F22_005",
+          "B_A4_F22_006"
+        ],
+        "rarity": 0.948454,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.059233,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0032",
+        "concepts": [
+          "B_A4_F2_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0033",
+        "concepts": [
+          "B_A4_F3_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0034",
+        "concepts": [
+          "B_A4_F8_002",
+          "B_A4_F8_004"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0035",
+        "concepts": [
+          "B_A4_F9_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0036",
+        "concepts": [
+          "B_A5_F11_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0037",
+        "concepts": [
+          "B_A5_F21_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0038",
+        "concepts": [
+          "B_A5_F4_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0039",
+        "concepts": [
+          "B_A5_F6_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0040",
+        "concepts": [
+          "B_A5_F7_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0041",
+        "concepts": [
+          "B_A5_F9_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0042",
+        "concepts": [
+          "B_A6_F17_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0043",
+        "concepts": [
+          "B_A6_F19_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0044",
+        "concepts": [
+          "B_A6_F5_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0045",
+        "concepts": [
+          "B_A6_F7_002",
+          "B_A6_F7_004"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0046",
+        "concepts": [
+          "B_A7_F11_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0047",
+        "concepts": [
+          "B_A7_F13_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0048",
+        "concepts": [
+          "B_A7_F17_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0049",
+        "concepts": [
+          "B_A7_F19_001",
+          "B_A7_F19_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0050",
+        "concepts": [
+          "B_A7_F1_003"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0051",
+        "concepts": [
+          "B_A7_F21_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0052",
+        "concepts": [
+          "B_A7_F22_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0053",
+        "concepts": [
+          "B_A7_F24_001",
+          "B_A7_F24_006"
+        ],
+        "rarity": 0.989691,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.019744,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0054",
+        "concepts": [
+          "B_A7_F3_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0055",
+        "concepts": [
+          "B_A7_F5_001",
+          "B_A7_F6_001",
+          "B_A7_F6_002",
+          "B_A7_F6_003",
+          "B_A7_F6_004",
+          "B_A7_F6_005",
+          "B_A7_F6_006"
+        ],
+        "rarity": 0.938144,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.069106,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0056",
+        "concepts": [
+          "B_A8_F12_002",
+          "B_A8_F12_005",
+          "B_A8_F12_006"
+        ],
+        "rarity": 0.979381,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.029617,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0057",
+        "concepts": [
+          "B_A8_F15_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0058",
+        "concepts": [
+          "B_A8_F1_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0059",
+        "concepts": [
+          "B_A8_F5_001"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0060",
+        "concepts": [
+          "B_A9_F10_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0061",
+        "concepts": [
+          "B_A9_F16_002"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0062",
+        "concepts": [
+          "B_A9_F16_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0063",
+        "concepts": [
+          "B_A9_F18_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0064",
+        "concepts": [
+          "B_A9_F20_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0065",
+        "concepts": [
+          "B_A9_F2_004"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0066",
+        "concepts": [
+          "B_A9_F3_005"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      },
+      {
+        "cluster_id": "c0067",
+        "concepts": [
+          "B_A9_F3_006"
+        ],
+        "rarity": 1.0,
+        "contradiction_density": 0.0,
+        "propagation_reach": 0.009872,
+        "innovation_score": 0.0
+      }
+    ],
+    "narratives": [
+      {
+        "narrative_id": "narrative_primary",
+        "activated_areas": [],
+        "penetration": 0.0,
+        "velocity": 0.333333,
+        "consistency_profile": 0.0
+      }
+    ],
+    "narrative_routes": [],
+    "atomic_metrics": {
+      "contradiction_count": 0,
+      "contradiction_density": 0.0,
+      "contradiction_scores": [],
+      "cross_area_contradiction_rate": 0.0,
+      "triz_class_distribution": {
+        "counterbalance": 0.0,
+        "dynamic_adaptation": 0.0,
+        "parameter_change": 0.0,
+        "segmentation": 0.0
+      },
+      "contradiction_hotspots": [],
+      "innovation_score": 0.0,
+      "innovation_score_mean": 0.0,
+      "innovation_cluster_count": 68,
+      "innovation_clusters_detail": [
+        {
+          "cluster_id": "c0000",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0001",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0002",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0003",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0004",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0005",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0006",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0007",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0008",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0009",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0010",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0011",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0012",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0013",
+          "cluster_rarity_score": 0.979592,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 3
+        },
+        {
+          "cluster_id": "c0014",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0015",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0016",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0017",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0018",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0019",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0020",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0021",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0022",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0023",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0024",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0025",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0026",
+          "cluster_rarity_score": 0.94898,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 6
+        },
+        {
+          "cluster_id": "c0027",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0028",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0029",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0030",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0031",
+          "cluster_rarity_score": 0.94898,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 6
+        },
+        {
+          "cluster_id": "c0032",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0033",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0034",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0035",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0036",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0037",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0038",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0039",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0040",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0041",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0042",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0043",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0044",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0045",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0046",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0047",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0048",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0049",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0050",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0051",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0052",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0053",
+          "cluster_rarity_score": 0.989796,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 2
+        },
+        {
+          "cluster_id": "c0054",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0055",
+          "cluster_rarity_score": 0.938776,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 7
+        },
+        {
+          "cluster_id": "c0056",
+          "cluster_rarity_score": 0.979592,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 3
+        },
+        {
+          "cluster_id": "c0057",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0058",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0059",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0060",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0061",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0062",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0063",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0064",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0065",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0066",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        },
+        {
+          "cluster_id": "c0067",
+          "cluster_rarity_score": 1.0,
+          "cluster_reach": 0,
+          "innovation_score": 0.0,
+          "concept_count": 1
+        }
+      ],
+      "innovation_pressure": 0.0,
+      "narrative_penetration": 0.0,
+      "propagation_velocity": 0.0,
+      "spillover_strength": 0.0,
+      "narrative_stability": 1.0,
+      "narrative_route_length": 0,
+      "area_activation": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      },
+      "family_activation": {},
+      "domain_coupling": {
+        "aggregate_cross_area_edge_rate": 0.0
+      },
+      "semantic_pressure": 0.0,
+      "activation_energy": 68.88,
+      "propagation_resistance": 1.0,
+      "concept_mass": 4.76
+    },
+    "primary_signals": {
+      "contradiction_score_peak": 0.0,
+      "contradiction_count": 0,
+      "contradiction_density": 0.0,
+      "innovation_score": 0.0,
+      "innovation_pressure": 0.0,
+      "narrative_penetration": 0.0,
+      "propagation_velocity": 0.0,
+      "semantic_pressure": 0.0,
+      "domain_coupling_aggregate": 0.0,
+      "area_activation": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0,
+        "11": 0.0
+      },
+      "activation_energy": 68.88
+    }
+  },
+  "доп_показатели": {
+    "dlcr": {
+      "lexical_hits_accepted": 3,
+      "lexical_hits_rejected": 0,
+      "degradation_flags": [],
+      "hex_concentration": null,
+      "hex_dispersion": null,
+      "segment_trajectory": null,
+      "segment_hex_geometry_summary": null
+    },
+    "sealed": {
+      "hspr_index": 0.00059,
+      "innovation_index": 7.6e-05,
+      "narrative_density": 4.9e-05,
+      "propagation_strength": 1.2e-05,
+      "contradiction_pressure": 3e-06,
+      "hex_energy_mode": "soft",
+      "product_signals_raw": {
+        "narrative_hotspot_mean": 2.6e-05,
+        "contradiction_pressure": 3e-06,
+        "propagation_strength": 1.2e-05,
+        "narrative_density": 4.9e-05,
+        "innovation_potential": 7.6e-05,
+        "spatial_entropy_hex": 0.70354,
+        "novelty_index": 0.70354
+      },
+      "product_signals_pct_of_max": {
+        "narrative_hotspot_mean": 0.0,
+        "contradiction_pressure": 0.0,
+        "propagation_strength": 0.0,
+        "narrative_density": 0.0,
+        "innovation_potential": 0.0,
+        "spatial_entropy_hex": 100.0,
+        "novelty_index": 100.0
+      }
+    }
+  }
+}
