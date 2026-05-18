@@ -37,7 +37,12 @@ check_path ".cursor"
 check_path "docs"
 check_path "_release_tmp"
 check_path "legacy"
-check_path "specs"
+# specs/ may contain yaml/json config — forbid only markdown under specs/
+while IFS= read -r f; do
+  [[ -z "$f" ]] && continue
+  echo "FORBIDDEN: $f"
+  FAIL=1
+done < <(find specs -name '*.md' -type f 2>/dev/null)
 check_path "AGENTS.md"
 check_path "ROLLBACK-LINE-2026-05-18.md"
 check_path "task_gena_v0_6_0.md"
@@ -73,6 +78,13 @@ while IFS= read -r f; do
       ;;
   esac
 done < <(find assets release deploy -type f -name '*.md' 2>/dev/null)
+
+while IFS= read -r f; do
+  [[ -z "$f" ]] && continue
+  is_corpus_or_sealed_data "$f" && continue
+  echo "FORBIDDEN: $f"
+  FAIL=1
+done < <(find tools -type f -name '*.md' 2>/dev/null)
 
 while IFS= read -r f; do
   [[ -z "$f" ]] && continue
