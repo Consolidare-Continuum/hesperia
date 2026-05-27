@@ -1,0 +1,39 @@
+# HESPERIA logo image set — ingestion manifest
+# Populate images[] when files land in assets/brand/logo/images/
+schema_version: 1
+asset_family: hesperia_logo
+updated: 2026-05-27
+
+canonical_descriptions:
+  v1: docs/brand/logo/HESPERIA_LOGO_CANONICAL_VISUAL_DESCRIPTION_v1.md
+  v1_2: docs/brand/logo/HESPERIA_LOGO_CANONICAL_VISUAL_DESCRIPTION_v1_2.md
+
+ingestion_status: pending_images  # pending_images | ready | ingested
+
+images: []
+
+variants_expected:
+  - id: primary_monochrome_vector
+    role: canonical
+    format: [svg, pdf]
+    notes: Black-and-white vector; must work without color
+  - id: primary_monochrome_raster
+    role: canonical
+    format: [png]
+    notes: High-res export of monochrome mark
+  - id: construction_blueprint
+    role: secondary
+    format: [svg, png]
+    notes: Thin guides, 60-degree hints, optional arcs — not primary lockup
+  - id: digital_premium_gradient
+    role: marketing
+    format: [png, svg]
+    notes: Cyan/blue/violet/magenta; hero and pitch only
+  - id: favicon_app_icon
+    role: product
+    format: [png, ico]
+    notes: Simplified readable at small sizes
+
+ingestion:
+  chroma_layer: null  # set when Abelard schedules team Chroma ingest
+  tags: [hesperia, brand, logo, visual_identity]
