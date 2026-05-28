@@ -8,5 +8,5 @@ try:
 
     ENGINE_DYNAMICS_VERSION = get_system_version()
 except Exception:
-    ENGINE_DYNAMICS_VERSION = "0.5.5"
+    ENGINE_DYNAMICS_VERSION = "0.6.0"
 PRODUCT_LINE = "Hesperia Engine Dynamics"

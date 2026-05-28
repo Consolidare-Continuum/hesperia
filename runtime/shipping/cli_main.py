@@ -15,6 +15,15 @@ import sys
 from pathlib import Path
 
 
+def _runtime_version_fallback() -> str:
+    try:
+        from hesperia.system.version import get_system_version
+
+        return get_system_version()
+    except Exception:
+        return "unknown"
+
+
 def _assets_root(repo_root: Path | None) -> Path:
     if repo_root is not None and repo_root.is_dir():
         d = repo_root / "lexicon" / "curated"
@@ -231,7 +240,7 @@ def main() -> int:
             print(f"build: {BUILD or 'unknown'}")
         except Exception:
             print("HESPERIA Runtime")
-            print("version: 0.5.5")
+            print(f"version: {_runtime_version_fallback()}")
             print("commit: unknown")
             print("build: unknown")
         return 0

@@ -11,12 +11,26 @@
 from __future__ import annotations
 
 import hashlib
+import os
+import re
 import sys
 import zipfile
 
 
+def _expected_version() -> str:
+    v = os.environ.get("HESPERIA_VERSION", "").strip()
+    if v:
+        return v
+    try:
+        text = open("VERSION.yaml", "r", encoding="utf-8").read()
+    except OSError:
+        return "unknown"
+    match = re.search(r'^\s*system_version:\s*"([^"]+)"', text, re.MULTILINE)
+    return match.group(1) if match else "unknown"
+
+
 def main() -> int:
-    path = "release_bundle_v0.5.1.zip"
+    path = f"release_bundle_v{_expected_version()}.zip"
 
     required = [
         "VERSION.yaml",
@@ -65,4 +79,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

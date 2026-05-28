@@ -22,6 +22,15 @@ def _license_ok() -> bool:
     except Exception:
         return True  # If no license module or env bypass, allow
 
+
+def _runtime_version_fallback() -> str:
+    try:
+        from hesperia.system.version import get_system_version
+
+        return get_system_version()
+    except Exception:
+        return "unknown"
+
 # In-memory rate limit: max requests per minute per key (optional)
 _RATE: dict[str, list[float]] = {}
 _RATE_LIMIT = int(os.environ.get("HESPERIA_RATE_LIMIT", "60"))  # requests per minute
@@ -192,7 +201,7 @@ def create_app():
             from runtime.shipping.version_info import VERSION
             ver = VERSION
         except Exception:
-            ver = "0.5.5"
+            ver = _runtime_version_fallback()
         print("HESPERIA runtime initialized", file=sys.stderr)
         print(f"version: {ver}", file=sys.stderr)
         print("mode: sealed_evaluator", file=sys.stderr)
@@ -210,7 +219,7 @@ def create_app():
 
                 return {"version": VERSION, "commit": COMMIT, "build": BUILD or "unknown"}
             except Exception:
-                return {"version": "0.5.5", "commit": "unknown", "build": "unknown"}
+                return {"version": _runtime_version_fallback(), "commit": "unknown", "build": "unknown"}
 
     @app.post("/analyze")
     def analyze(analyze_body: AnalyzeBody = Body(...)):
