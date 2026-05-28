@@ -10,24 +10,6 @@ from dataclasses import replace
 from pathlib import Path
 from typing import Any
 
-from hesperia.extensions.dynamics.phase1 import field_dynamics_enabled, step_phase1
-from hesperia.extensions.dynamics.phase2 import field_dynamics_phase2_enabled, step_phase2
-from hesperia.extensions.dynamics.phase3 import (
-    blend_hit_with_hex_area,
-    blend_hit_with_hex_family,
-    field_dynamics_hex_cap_from_env,
-    field_dynamics_phase3_enabled,
-    step_phase3,
-)
-from hesperia.extensions.dynamics.phase4 import (
-    apply_cluster_gravity_to_area_injection,
-    apply_cluster_gravity_to_family_injection,
-    clusters_to_public_rows,
-    compute_l8_clusters,
-    count_fronts_per_area,
-    ephemeral_hex_from_hits,
-    field_dynamics_phase4_enabled,
-)
 from hesperia.extensions.dynamics.state import FieldDynamicsState, Phase1Theta, Phase3Theta, Phase4Theta
 
 F_FAMILIES = 288
@@ -207,6 +189,25 @@ def run_field_dynamics_e2e_artifact(
     """
     Load prior state; optional L4 (Phase 3) → L5 (Phase 2) or L6 (Phase 1); persist.
     """
+    from hesperia.extensions.dynamics.phase1 import field_dynamics_enabled, step_phase1
+    from hesperia.extensions.dynamics.phase2 import field_dynamics_phase2_enabled, step_phase2
+    from hesperia.extensions.dynamics.phase3 import (
+        blend_hit_with_hex_area,
+        blend_hit_with_hex_family,
+        field_dynamics_hex_cap_from_env,
+        field_dynamics_phase3_enabled,
+        step_phase3,
+    )
+    from hesperia.extensions.dynamics.phase4 import (
+        apply_cluster_gravity_to_area_injection,
+        apply_cluster_gravity_to_family_injection,
+        clusters_to_public_rows,
+        compute_l8_clusters,
+        count_fronts_per_area,
+        ephemeral_hex_from_hits,
+        field_dynamics_phase4_enabled,
+    )
+
     if not field_dynamics_enabled():
         return {"_skipped": True, "reason": "HESPERIA_FIELD_DYNAMICS not set"}
 

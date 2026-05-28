@@ -12,6 +12,7 @@ dist/
 build/
 release/*.tar
 release/*.tar.gz
+release/v*/hesperia-api-v*.tar
 release/*.bin
 *.log
 *.tmp
