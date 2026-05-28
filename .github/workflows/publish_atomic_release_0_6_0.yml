@@ -20,15 +20,21 @@ jobs:
           tag_name: 0.6.0
           name: HESPERIA v0.6.0 Sealed Engine Baseline with External Data Contract
           body: |
-            HESPERIA v0.6.0 sealed engine baseline.
+            HESPERIA v0.6.0 is the sealed engine baseline release for the existing product line.
 
-            Included in this release line:
-            - sealed baseline release contract
-            - checked Docker bundle workflow
-            - release docs for dicts, corpus, Chroma, outputs, Docker
-            - agentic install contract
+            This release includes:
+            - the sealed `0.6.0` engine baseline
+            - the checked Docker bundle workflow
+            - the release contract for dicts, corpus, Chroma, outputs, and runtime packaging
+            - the agentic install contract for host preparation, image load, smoke checks, and gate order
 
-            Key release paths:
+            External data contract:
+            - keep dict payloads external
+            - keep corpus payloads external
+            - keep Chroma state external
+            - prepare external state before runtime seal on target
+
+            Release guide:
             - `release/v0.6.0/RELEASE_CONTENTS.md`
             - `release/v0.6.0/AGENTIC_INSTALL.md`
             - `release/v0.6.0/DOCKER_BUNDLE.md`
