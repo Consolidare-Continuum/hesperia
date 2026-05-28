@@ -28,7 +28,7 @@ tfp_v1/dict_b/*
 tfp_v1/MANIFEST.yaml
 tfp_v1/MIGRATION_LOG.jsonl
 tfp_v1/nlp/*
-!tfp_v1/nlp/README.md
+!tfp_v1/nlp/.gitkeep
 tfp_v1/provenance/api/runs/*
 tfp_v1/provenance/api/batch_ids/*
 !tfp_v1/provenance/api/runs/.gitkeep
