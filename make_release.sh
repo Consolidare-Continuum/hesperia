@@ -1,7 +1,15 @@
 #!/usr/bin/env bash
 set -e
 
-export HESPERIA_VERSION=0.5.1
+export HESPERIA_VERSION="$(
+python3 - <<'PY'
+from pathlib import Path
+import re
+text = Path("VERSION.yaml").read_text(encoding="utf-8")
+match = re.search(r'^\s*system_version:\s*"([^"]+)"', text, re.MULTILINE)
+print(match.group(1) if match else "unknown")
+PY
+)"
 
 echo "[1/4] Running tests"
 python3 -m pytest tests/ -q --tb=no
@@ -18,5 +26,4 @@ python3 tools/build_release_bundle.py
 echo "[5/5] Verifying bundle integrity + determinism"
 python3 tools/verify_release_bundle.py
 
-echo "[OK] Release v0.5.1 ready"
-
+echo "[OK] Release v${HESPERIA_VERSION} ready"

@@ -4,9 +4,27 @@
 set -euo pipefail
 
 ROOT="${1:-/data/hesperia/hesperia}"
+MODE="${2:-repo}"
 if [[ ! -d "$ROOT" ]]; then
   echo "FAIL: not a directory: $ROOT" >&2
   exit 1
+fi
+
+STAGED_ROOT=""
+cleanup() {
+  [[ -n "$STAGED_ROOT" && -d "$STAGED_ROOT" ]] && rm -rf "$STAGED_ROOT"
+}
+trap cleanup EXIT
+
+if [[ "$MODE" == "--shipping-context" ]]; then
+  STAGED_ROOT="$(mktemp -d)"
+  (
+    cd "$ROOT"
+    tar -cf - \
+      --exclude-from=.dockerignore.shipping \
+      runtime core hesperia lexicon assets requirements requirements.txt Dockerfile.shipping
+  ) | tar -xf - -C "$STAGED_ROOT"
+  ROOT="$STAGED_ROOT"
 fi
 
 cd "$ROOT"

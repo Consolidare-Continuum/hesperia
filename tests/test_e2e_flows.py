@@ -17,6 +17,7 @@ import sys
 from pathlib import Path
 
 import pytest
+import yaml
 
 # Repo root first on path (see tests/conftest.py). Do not add a `tests/runtime/` package — it shadows `runtime/`.
 _REPO = Path(__file__).resolve().parents[1]
@@ -24,6 +25,10 @@ _rs = str(_REPO)
 if _rs in sys.path:
     sys.path.remove(_rs)
 sys.path.insert(0, _rs)
+
+_EXPECTED_VERSION = str(
+    (yaml.safe_load((_REPO / "VERSION.yaml").read_text(encoding="utf-8")) or {}).get("system_version")
+)
 
 
 def test_e2e_analyze_sentence_output_exists() -> None:
@@ -90,7 +95,7 @@ def test_e2e_sphere_math_values_output_exists() -> None:
         data = json.loads(out_path.read_text(encoding="utf-8"))
         for key in ("L1", "L2", "L3", "L4", "L5", "L6", "L7", "L8", "L9"):
             assert key in data, f"sphere_math_values missing {key}"
-        assert data.get("system_version") == "0.5.1"
+        assert data.get("system_version") == _EXPECTED_VERSION
         assert data.get("build_id")
 
 
@@ -104,7 +109,7 @@ def test_e2e_sphere_math_100_output_exists() -> None:
         run_e2e_sphere_math_100(out_path, limit=2)
         assert out_path.exists()
         data = json.loads(out_path.read_text(encoding="utf-8"))
-        assert data.get("system_version") == "0.5.1"
+        assert data.get("system_version") == _EXPECTED_VERSION
         payload = data.get("payload")
         assert isinstance(payload, list)
         assert len(payload) >= 1
@@ -148,7 +153,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             summ = json.loads(
                 written["run_output_e2e_calibration_100_summary.json"].read_text(encoding="utf-8")
             )
-            assert summ.get("system_version") == "0.5.1"
+            assert summ.get("system_version") == _EXPECTED_VERSION
             assert summ.get("sentence_count") == 5
             assert summ.get("run") == "e2e_calibration_batch_summary"
             fd_path = written[E2E_OUTPUTS_WITH_FIELD_DYNAMICS[-1]]
@@ -160,7 +165,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             assert "semantic_field_v1" in fd
 
             sf = json.loads(written["run_output_e2e_semantic_field.json"].read_text(encoding="utf-8"))
-            assert sf.get("system_version") == "0.5.1"
+            assert sf.get("system_version") == _EXPECTED_VERSION
             assert sf.get("pipeline_version") == "e2e_v2"
             assert sf.get("matrices_provenance") == "ontology"
             cal = json.loads(written["run_output_e2e_field_calibration.json"].read_text(encoding="utf-8"))
@@ -217,7 +222,7 @@ def test_e2e_run_e2e_all_optional_dlcr_artifact() -> None:
             data = json.loads(dlcr_path.read_text(encoding="utf-8"))
             assert data.get("run") == "e2e_dlcr"
             assert "lexical_hits_accepted" in data
-            assert data.get("system_version") == "0.5.1"
+            assert data.get("system_version") == _EXPECTED_VERSION
     finally:
         for key, old in (
             ("HESPERIA_FIELD_DYNAMICS", old_fd),

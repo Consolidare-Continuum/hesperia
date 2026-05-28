@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import os
+import re
 import shutil
 import zipfile
 
@@ -19,6 +20,10 @@ EXCLUDE_PREFIXES = [
     ".git",
     "__pycache__",
     "research/_noone_local",
+    "assets/calibration/dicts",
+    "hesperia/modules/tfp/data/corpus",
+    "hesperia/modules/tfp/data/tfp_v1/corpus",
+    "outputs",
     # Clinical session Markdown (same sensitivity as research/_noone_local)
     "hesperia/modules/tfp/data/tfp_v1/corpus/sessions",
 ]
@@ -42,7 +47,14 @@ def should_exclude(rel_path: str) -> bool:
 
 def _version_from_env_or_default() -> str:
     v = os.environ.get("HESPERIA_VERSION", "").strip()
-    return v if v else "0.5.1"
+    if v:
+        return v
+    try:
+        text = open("VERSION.yaml", "r", encoding="utf-8").read()
+    except OSError:
+        return "unknown"
+    match = re.search(r'^\s*system_version:\s*"([^"]+)"', text, re.MULTILINE)
+    return match.group(1) if match else "unknown"
 
 
 def main() -> int:
@@ -97,4 +109,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

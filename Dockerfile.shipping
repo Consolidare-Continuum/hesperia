@@ -17,13 +17,14 @@ RUN apt-get update && apt-get install -y --no-install-recommends gcc \
 
 COPY requirements.txt ./
 COPY requirements/ ./requirements/
-RUN pip install --no-cache-dir -r requirements.txt -r requirements/api.txt
+RUN pip install --no-cache-dir -r requirements/shipping.txt
 
 COPY runtime/   /build/runtime
 COPY core/      /build/core
 COPY hesperia/  /build/hesperia
 COPY lexicon/   /build/lexicon
 COPY assets/    /build/assets
+COPY VERSION.yaml /build/VERSION.yaml
 
 # ------------------------------------------------------------------------------
 # Stage 2: Final — minimal runtime, no build tools, no source tree
@@ -41,6 +42,7 @@ COPY --from=builder /build/core      /app/core
 COPY --from=builder /build/hesperia  /app/hesperia
 COPY --from=builder /build/lexicon   /app/lexicon
 COPY --from=builder /build/assets    /app/assets
+COPY --from=builder /build/VERSION.yaml /app/VERSION.yaml
 
 ENV PYTHONPATH=/app
 ENV HESPERIA_ASSETS_ROOT=/app
