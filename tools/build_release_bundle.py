@@ -20,6 +20,10 @@ EXCLUDE_PREFIXES = [
     ".git",
     "__pycache__",
     "research/_noone_local",
+    "assets/calibration/dicts",
+    "hesperia/modules/tfp/data/corpus",
+    "hesperia/modules/tfp/data/tfp_v1/corpus",
+    "outputs",
     # Clinical session Markdown (same sensitivity as research/_noone_local)
     "hesperia/modules/tfp/data/tfp_v1/corpus/sessions",
 ]
