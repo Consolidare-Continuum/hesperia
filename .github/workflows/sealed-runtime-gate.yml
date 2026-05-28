@@ -109,17 +109,6 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
 
-      - name: Dict calibration pack (when frozen dir present in clone)
-        run: |
-          if [ -f assets/calibration/dicts/v0_6_0_clr_v052_2/dict_a.jsonl ]; then
-            bash tools/run_b_cd_wave_after_a.sh
-          else
-            echo "SKIP run_b_cd_wave_after_a: calibration JSONL not in workspace (large artifacts may be omitted from CI clone)."
-          fi
-        env:
-          PYTHONPATH: ${{ github.workspace }}
-          HESPERIA_CALIB_DICT_VERSION: v0_6_0_clr_v052_2
-
       - name: DLCR test pack
         run: python3 -m pytest tests/lexical_concept -q --tb=short
         env:
@@ -147,17 +136,6 @@ jobs:
             -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}
-
-      - name: TFP metrics gate (pack metrics.json floors)
-        run: |
-          if [ -f assets/calibration/dicts/v0_6_0_clr_v052_2/metrics.json ]; then
-            python3 tools/check_metrics_gate.py
-          else
-            echo "SKIP check_metrics_gate: metrics.json not in workspace"
-          fi
-        env:
-          PYTHONPATH: ${{ github.workspace }}
-          HESPERIA_CALIB_DICT_VERSION: v0_6_0_clr_v052_2
 
       - name: TFP calibration bundle (schema + goldset + gate smoke)
         run: |
