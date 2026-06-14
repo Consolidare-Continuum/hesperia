@@ -2,15 +2,15 @@
 # All public outputs MUST trace to these fields + build_id (injected at runtime).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-system_version: "0.6.0"
-release_stage: "modular_tfp_mainline"
+system_version: "0.6.3"
+release_stage: "irc_teacher_application_run"
 
 components:
-  core_engine: "0.6.0"
-  dynamics: "0.6.0"
-  triz: "0.6.0"
-  clinical: "0.6.0-modular"
-  calibration: "0.6.0"
+  core_engine: "0.6.3"
+  dynamics: "0.6.3"
+  triz: "0.6.3"
+  clinical: "0.6.3-modular"
+  calibration: "0.6.3"
 
 schema:
   public_output: "v1"
@@ -22,29 +22,30 @@ pipelines:
   api: "api_v1"
   triz: "triz_v1"
 
-# Governed interaction matrices (L_F, C_F, R_F) under assets/matrices/production/
-# Concept→Hex P_CH under assets/matrices/pch/
 matrices:
   production_bundle: "v1"
   pch_bundle: "v1"
 
-# Governed calibration profiles: assets/calibration/profiles_{bundle}.json
 calibration:
   profile_bundle: "v1"
   active_profile: "default_v1"
 
 defaults:
   calibration_profile: "default_v1"
-  # Pinned dict pack dir under assets/calibration/dicts/<name>/ (TFP-GATE-A0; validate_version_consistency checks existence).
-  active_calibration_dict_pack: "v0_6_0_clr_v052_2"
+  active_calibration_dict_pack: "archive_063_minimal"
 
-# TFP module v1 compatibility (TFP-V1-12): must match defaults.active_calibration_dict_pack for mainline.
 tfp_module_v1:
   seal_requested: false
-  pinned_calibration_dict_pack: "v0_6_0_clr_v052_2"
+  pinned_calibration_dict_pack: "archive_063_minimal"
   data_layout: "tfp_v1"
 
-# Filled at runtime by hesperia.system.version (never commit secrets here)
 build:
   timestamp: null
   git_commit: null
+
+archive:
+  github_release: "0.6.3"
+  excludes_prod_dicts: true
+  excludes_prod_corpus: true
+  e2e_mode: "offline_fixture"
+  tersagor_integration_ref: "igareosh/tersagor@0149120"
