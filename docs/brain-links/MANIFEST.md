@@ -1,6 +1,6 @@
 # Brain repo links (cursor) — manifest only
 
-**Generated:** 2026-06-14T20:07Z  
+**Generated:** 2026-06-14T22:04Z  
 **Brain path:** `/data/altitudine/prichindel.com`  
 **Policy:** brain `governance/ETHAN-POLICY-HESPERIA-BRAIN-DEV-LINK.md`  
 **Dev-ready tag:** `hesperia/dev-ready-line-20260518`
