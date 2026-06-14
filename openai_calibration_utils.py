@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Any, Iterable
 
 
-DEFAULT_OPENAI_MODEL = os.environ.get("HESPERIA_OPENAI_MODEL", "gpt-5.2")
+DEFAULT_OPENAI_MODEL = os.environ.get("HESPERIA_OPENAI_MODEL", os.environ.get("HESPERIA_LLM_INTERPRET_MODEL", "gpt-4o-mini"))
 
 
 def log_stderr(message: str) -> None:
