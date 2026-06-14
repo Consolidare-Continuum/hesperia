@@ -1,0 +1,1696 @@
+HESPERIA 0 → 0.6.3 — COMMIT ROADMAP (numbered, reconciled 2026-06-14)
+Entity: Ethan | Repos: DEV+PROD unified @ 122d45b | BRAIN hesperia scope
+Total entries: 414
+TAGS: hesperia-0.6.1=f87b2bb | hesperia-0.6.2=cc94b09 | 0.6.3=hesperia-0.6.3=122d45b
+Registry: governance/HESPERIA-VERSION-TAG-REGISTRY.md
+====================================================================================================
+
+1 | 2026-02-08 01:57:10 +0200 | BRAIN | bb69391 | Sync all: brain repo, cluster, scripts, CLIENTS, biopole move, removals
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+2 | 2026-02-09 17:03:51 -0500 | DEV+PROD | 26f33c9 | Initial commit
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Creates product repo git history.
+
+3 | 2026-02-09 17:15:58 -0500 | DEV+PROD | 72bf6ec | first commit
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Creates product repo git history.
+
+4 | 2026-02-09 17:21:53 -0500 | DEV+PROD | a05a082 | 123
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+5 | 2026-02-09 17:33:44 -0500 | DEV+PROD | 7f41a93 | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+6 | 2026-02-10 08:02:58 -0500 | DEV+PROD | 176a556 | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+7 | 2026-02-15 15:57:28 +0000 | BRAIN | 4305bdf | Purge repo: remove exposed API keys, archive redundant v0.1, update .gitignore
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+8 | 2026-02-16 17:39:11 -0500 | BRAIN | 15400db | EOD 2026-02-16: Chroma Docker redeploy, books ingest phase, Grace task Abelard phase 2; session lesson; assignments/active; hesperia project bootstrap; FPF/Chroma wiring
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+9 | 2026-02-17 04:11:25 -0500 | BRAIN | c75797d | Chroma fresh start, docs, ingest batching; books done, no further books push
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+10 | 2026-02-17 06:49:49 -0500 | BRAIN | 5999d8e | EOD 2026-02-17: compliance check step 2b; session lesson; CURSOR-REPO-COMPLIANCE-CHECK timestamp; Last run END-OF-DAY-WORKFLOW
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+11 | 2026-02-18 06:28:45 -0500 | BRAIN | f2629e4 | Hesperia V1 fixed point, observability and capacity governance
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+12 | 2026-02-18 08:24:56 -0500 | DEV+PROD | 9a3b770 | Replace with CLIENTS/hesperia from cursor repo (canonical source)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Imports CLIENTS/hesperia from brain; product split from cursor.
+
+13 | 2026-02-18 11:48:02 -0500 | DEV+PROD | fdba4e7 | Add governance (waterline, tasks, schema), project/, scripts/ — full Hesperia team and today's work
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+14 | 2026-02-18 12:29:21 -0500 | DEV+PROD | 8162bf7 | Add MIT license and concepts doc
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+15 | 2026-02-18 12:34:05 -0500 | DEV+PROD | 11de49e | Add Codex context assessment (2026-02-18)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+16 | 2026-02-19 10:22:27 -0500 | DEV+PROD | 50b2933 | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+17 | 2026-02-19 10:48:24 -0500 | DEV+PROD | 4113095 | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+18 | 2026-02-19 17:46:30 +0200 | DEV+PROD | 7481e43 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+
+>>> VERSION v0.2
+
+19 | 2026-02-20 08:41:48 +0200 | DEV+PROD | e9224bf | Add ΣΓΘ guard layer spec and issue-001 closure docs
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+20 | 2026-02-20 08:42:24 +0200 | DEV+PROD | 217e8a7 | Merge pull request #2 from Atomic-Commits-Team/codex/add-new-guard-layer-features-and-documentation
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+21 | 2026-02-20 09:05:46 +0200 | DEV+PROD | 496e67a | Add comprehensive documentation for v0.2 release
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.2 named release with guards and tests.
+
+22 | 2026-02-20 09:27:49 +0200 | DEV+PROD | 13dc935 | Initialize guards module
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+23 | 2026-02-20 09:40:00 +0200 | DEV+PROD | c0a91c3 | Create Hesperia v0.2 Release Invoker script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.2 named release with guards and tests.
+
+24 | 2026-02-20 09:51:04 +0200 | DEV+PROD | 18624ac | Add unit tests for guards: sigma_guard, gamma_guard, and theta_guard
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+25 | 2026-02-20 09:53:14 +0200 | DEV+PROD | 047f19d | Release notes for Hesperia v0.2
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.2 named release with guards and tests.
+
+26 | 2026-02-20 10:03:27 +0200 | DEV+PROD | eea358a | Merge pull request #5 from Atomic-Commits-Team/v0.2
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+27 | 2026-02-20 10:28:24 +0200 | DEV+PROD | d7a05df | Add Hesperia-mapped software engineering tutorial plan
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+28 | 2026-02-20 10:29:13 +0200 | DEV+PROD | aa5ee68 | Merge pull request #6 from Atomic-Commits-Team/codex/create-detailed-.md-file-for-project-plan
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+29 | 2026-02-20 10:43:07 +0200 | DEV+PROD | dcebd8f | docs: expand HESPERIA software engineering tutorial plan
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+30 | 2026-02-20 10:43:27 +0200 | DEV+PROD | d2286b2 | Merge pull request #7 from Atomic-Commits-Team/codex/create-software-engineering-plan-document
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+31 | 2026-02-20 11:37:17 +0200 | DEV+PROD | 5df386d | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+32 | 2026-02-20 11:44:27 +0200 | DEV+PROD | d333580 | Polish Romanian diacritics and clean text artifacts in tutorial
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+33 | 2026-02-20 11:44:51 +0200 | DEV+PROD | 4764eec | Merge pull request #8 from Atomic-Commits-Team/codex/check-romanian-diacritics-and-text-artifacts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+34 | 2026-02-20 12:05:37 +0200 | DEV+PROD | 83a1df2 | Revizuire ediție HESPERIA cu corecturi și detalii noi
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+35 | 2026-02-20 12:12:43 +0200 | DEV+PROD | bbdcd58 | Refine tutorial TXT layout for improved readability
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+36 | 2026-02-20 12:12:54 +0200 | DEV+PROD | cbc539b | Merge pull request #9 from Atomic-Commits-Team/codex/adjust-text-file-structure-for-readability
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+37 | 2026-02-20 17:22:59 -0500 | BRAIN | 2d436bc | hesperia.prichindel.com: nginx, tunnel script, infra fix runbook, endpoint status, OpenAI IP list script
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+38 | 2026-02-20 17:23:12 -0500 | DEV+PROD | e423316 | API: /hesperia/analyze, /health, /privacy; minimal JSON response; logging; CORS/OPTIONS; deploy + systemd
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Analyze API/contract: HTTP /analyze envelope for engine runs.
+
+39 | 2026-02-20 19:47:31 +0200 | DEV+PROD | cbbadcc | Wire Sigma/Gamma/Theta guards into runtime flow
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+40 | 2026-02-20 19:48:13 +0200 | DEV+PROD | 7c781d5 | 0.2.0.1 wired up
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+41 | 2026-02-20 20:13:31 +0200 | DEV+PROD | 9e86998 | Reorganize root Python guards into scripts package
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+42 | 2026-02-20 20:13:47 +0200 | DEV+PROD | c8bc88a | Merge pull request #11 from Atomic-Commits-Team/codex/organize-python-files-and-rename-elements
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+43 | 2026-02-20 20:15:46 +0200 | DEV+PROD | 529bd43 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+44 | 2026-02-20 20:16:54 +0200 | DEV+PROD | 50fcae2 | Delete v0.2 directory
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+45 | 2026-02-21 00:28:16 +0200 | DEV+PROD | 91f3962 | Harden OpenAI Actions API responses and CORS behavior
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+46 | 2026-02-21 00:29:03 +0200 | DEV+PROD | 6f1f1d9 | Merge pull request #12 from Atomic-Commits-Team/codex/debug-openai-gpt-aegle-script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+
+>>> VERSION hesperia-v0.3.0
+
+47 | 2026-02-22 08:19:54 -0500 | BRAIN | 916372d | hesperia: switch to Atomic-Commits-Team/hesperia; unlink igareosh/hesperia
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+48 | 2026-02-22 08:23:43 -0500 | DEV+PROD | 351178c | consolidation (Gena): canonical refs, workspace, DOC_INDEX, fix double extension
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+49 | 2026-02-22 08:47:22 -0500 | DEV+PROD | ffc5371 | Full overwrite from cursor brain: present state (no books). Specs, sphere_rag (shadow_layer v1.0), docs, releases v0.2.1.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.2 named release with guards and tests.
+
+50 | 2026-02-22 08:55:02 -0500 | BRAIN | 8039483 | EOD 2026-02-22: Hesperia to CLIENTS only; backup; refs fixed; compliance + session lesson. Shadow Layer v1.0 in brain; non-CLIENTS hesperia removed.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+51 | 2026-02-22 14:16:57 +0200 | DEV+PROD | 51d4181 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+52 | 2026-02-22 14:28:56 +0200 | DEV+PROD | faec1f9 | Add v0.2.1 semantic stability documentation set
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+53 | 2026-02-22 14:29:07 +0200 | DEV+PROD | 4890dd5 | Merge pull request #13 from Atomic-Commits-Team/codex/implement-repository-hygiene-and-versioning-updates
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+54 | 2026-02-22 14:37:53 +0200 | DEV+PROD | 1786529 | Update 19_SPEC__Semantic_Stability_Control_v1_0.txt
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+55 | 2026-02-22 14:45:39 +0200 | DEV+PROD | 959e4c5 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+56 | 2026-02-22 14:47:00 +0200 | DEV+PROD | 47f59fb | Rename SPEC_18__Indexing_and_Coordinates_v1_0.txt to 18_SPEC__Indexing_and_Coordinates_v1_0.txt
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+57 | 2026-02-22 14:59:24 +0200 | DEV+PROD | b8d1f80 | Expand VARIABLES.md to include spec and academic variable glossary
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+58 | 2026-02-22 15:00:26 +0200 | DEV+PROD | c2f993c | Merge pull request #14 from Atomic-Commits-Team/codex/create-variables.md
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+59 | 2026-02-23 01:26:47 -0500 | BRAIN | 5474c7b | HESPERIA v0.3.0: core math contract, lexical stack, release gate passed
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.3 math/lexical contract and pipeline guarantees.
+
+60 | 2026-02-23 01:30:19 -0500 | BRAIN | 15bed1b | Hesperia v0.3.0: root README + Hesperia README (version, full description, no big dicts)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.3 math/lexical contract and pipeline guarantees.
+
+61 | 2026-02-23 02:14:20 -0500 | BRAIN | 76d72ab | HESPERIA v0.3 + v0.3.1: Sigma/Gamma/Theta guards, invariant catalog, pipeline, tests
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+62 | 2026-02-23 03:03:58 -0500 | BRAIN | bb76480 | Hesperia v0.3.3: serve_v033, single pipeline+shadow flag, legacy Dict A/tokenization/Sigma tests
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+63 | 2026-02-23 04:41:41 -0500 | BRAIN | ff245b6 | Hesperia v0.4.0/v0.4.1: specs, build pipeline, pre-test (no books)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+64 | 2026-02-23 04:44:25 -0500 | DEV+PROD | edeedd4 | v0.4.1 runnable: Dict B build, pre-test, full sphere_rag
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+65 | 2026-02-23 04:47:13 -0500 | DEV+PROD | d08631c | Sync from cursor: specs 22,25-27, README, release notes, docs, guard_config, hesperia_lex (scripts+curated), assets A/B
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+66 | 2026-02-23 04:51:27 -0500 | BRAIN | e225039 | EOD 2026-02-23: PROJECT-NOTES (Grace), compliance timestamp, session lesson (direct mode → register work)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+67 | 2026-02-23 09:00:12 +0200 | DEV+PROD | b6a8b5f | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+68 | 2026-02-23 09:22:29 +0200 | DEV+PROD | 87c4358 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+69 | 2026-02-23 09:32:35 +0200 | DEV+PROD | 6879a68 | Add files via upload
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+70 | 2026-02-23 12:03:57 +0200 | DEV+PROD | c9fda74 | Add v0.4.1 structural audit report against v0.3.3 baseline
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.3 math/lexical contract and pipeline guarantees.
+
+71 | 2026-02-23 12:04:24 +0200 | DEV+PROD | 60ee226 | Merge pull request #15 from Atomic-Commits-Team/codex/perform-structural-audit-of-hesperia
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+72 | 2026-02-23 14:54:40 -0500 | BRAIN | 4675343 | hesperia: Dict A from canonical 288 families (31_FAMILIES) for full v0.4.0 build
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+73 | 2026-02-23 14:54:42 -0500 | BRAIN | f9f0894 | hesperia: build-time prechecks before κ (MIN_DICT_B_TOKENS, MIN_DICT_A_COVERED_FAMILIES)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+74 | 2026-02-23 14:54:44 -0500 | BRAIN | 9a43171 | hesperia: coverage report after full v0.4.0 build (κ PASS, 277 families)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+75 | 2026-02-23 15:12:49 -0500 | BRAIN | 2e0013e | hesperia v0.4.1: Dict A completion and freeze (TASK__v041_DICT_A_COMPLETION_AND_FREEZE)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+76 | 2026-02-23 15:25:19 -0500 | BRAIN | b09a9f8 | hesperia v0.4.1.1: Dict A semantic correction (TASK__v0411_DICT_A_SEMANTIC_CORRECTION)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+77 | 2026-02-23 15:47:42 -0500 | BRAIN | 13c6ca9 | Hesperia: Dict A v0.4.1 deprecated (v0.4.1.1 default); v0.4.1.2 canonical families.yaml + builder + validator
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+78 | 2026-02-23 15:50:53 -0500 | DEV+PROD | 93b5292 | Dict A v0.4.1 deprecated (v0.4.1.1 default); v0.4.1.2 canonical families.yaml + builder + validator
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+79 | 2026-02-23 18:46:56 -0500 | BRAIN | 0b85526 | Hesperia: fix canonical surface freeze format; repeatability venv-agnostic
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+80 | 2026-02-23 18:48:08 -0500 | DEV+PROD | d3fccae | Canonical surface: fix freeze file format; repeatability venv-agnostic
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+81 | 2026-02-23 19:09:42 -0500 | BRAIN | bb9718a | Hesperia: Dict B B1 freeze, canonical procedures, topology truth, coverage
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Dictionary/corpus calibration asset work.
+
+82 | 2026-02-23 19:12:00 -0500 | DEV+PROD | 19d28a4 | Hesperia: Dict B B1 freeze, canonical procedures, topology truth, coverage
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Dictionary/corpus calibration asset work.
+
+83 | 2026-02-23 19:15:13 -0500 | BRAIN | a5970f5 | EOD 2026-02-24: Hesperia behaviour mode; compliance check; session lesson
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+84 | 2026-02-23 23:01:57 +0200 | DEV+PROD | a8e444d | Add v0.4.1.3 semantic family canonicalization pipeline
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+85 | 2026-02-23 23:02:14 +0200 | DEV+PROD | 20bf437 | Merge pull request #16 from Atomic-Commits-Team/codex/rewrite-families.yaml-for-semantic-canonicalization
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Dictionary/corpus calibration asset work.
+
+
+>>> VERSION hesperia-v0.4.0
+
+86 | 2026-02-24 00:33:42 +0200 | DEV+PROD | dd0d107 | v0.4.1.4 Dict B: formalize B0 fallback and scaffold hard-gated B1
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+87 | 2026-02-24 00:34:00 +0200 | DEV+PROD | 37e0f6f | Merge pull request #17 from Atomic-Commits-Team/codex/finalize-b0-token-fallback-and-add-b1-scaffolding
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+88 | 2026-02-24 00:59:02 +0200 | DEV+PROD | 5fc762e | Add deterministic v040 embedding build env and runner
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+89 | 2026-02-24 00:59:19 +0200 | DEV+PROD | 9a67278 | Merge pull request #18 from Atomic-Commits-Team/codex/unblock-v0.4.0-embedding-build
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+90 | 2026-02-24 01:14:16 +0200 | DEV+PROD | d68bab5 | Harden v0.4.0 build outputs with deterministic hashing and provenance
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+91 | 2026-02-24 01:14:29 +0200 | DEV+PROD | fcf778b | Merge pull request #19 from Atomic-Commits-Team/codex/implement-deterministic-json-output-and-checksum-gate
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+92 | 2026-02-24 01:22:12 +0200 | DEV+PROD | 4901aad | Gate v0.4.0 surface build with model pinning and canonical checks
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+93 | 2026-02-24 01:22:33 +0200 | DEV+PROD | b51ef88 | Merge pull request #20 from Atomic-Commits-Team/codex/finalize-surface-artifact-for-dict-b
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+94 | 2026-02-24 02:26:21 +0200 | DEV+PROD | 70dc4dd | Add HESPERIA AI status and milestones technical report
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+95 | 2026-02-24 02:26:36 +0200 | DEV+PROD | 065c2eb | Merge pull request #21 from Atomic-Commits-Team/codex/create-technical-report-on-hesperia-project
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+96 | 2026-02-24 06:38:34 -0500 | BRAIN | 354336e | Hesperia: first full stack run L1-L9 frozen; output log dir + report; L10 removed; sync
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Full L1–L9 layer stack runnable end-to-end.
+
+97 | 2026-02-24 06:44:49 -0500 | BRAIN | bdcdfad | Hesperia v0.4: add RELEASE_NOTES and releases/hesperia-v0.4.md (how to build, use, expected)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+98 | 2026-02-24 06:46:36 -0500 | BRAIN | e9db389 | Hesperia README: v0.4.0, How to build / use / expected, link release notes
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+99 | 2026-02-24 06:48:02 -0500 | BRAIN | 935aeea | Hesperia RUNNABLE: L1–L9 implemented, run_l1_through_l9 full pass and output dir
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Full L1–L9 layer stack runnable end-to-end.
+
+100 | 2026-02-24 06:48:27 -0500 | BRAIN | 782f9d1 | Hesperia DOC_INDEX: add RELEASE_NOTES v0.4 and releases/hesperia-v0.4 reference
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+101 | 2026-02-24 06:53:31 -0500 | BRAIN | 6ca43da | README: Hesperia v0.4.0 on main, add Releases section with v0.4.0 tag link
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+102 | 2026-02-24 06:56:42 -0500 | DEV+PROD | dcbb38b | v0.4.0: first full L1–L9 stack, release notes, layer_runs, RELEASE_NOTES__v0_4
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Full L1–L9 layer stack runnable end-to-end.
+
+103 | 2026-02-24 08:44:37 -0500 | BRAIN | 5a62a94 | docs(api): add HESPERIA Action v0.4.0 operational spec + verification harness
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+104 | 2026-02-24 14:18:46 +0200 | DEV+PROD | 052e194 | Add v0.4 MVP assessment narrative report
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+105 | 2026-02-24 14:18:57 +0200 | DEV+PROD | 01f8c48 | Merge pull request #22 from Atomic-Commits-Team/codex/create-narrative-report-on-v0.4-hesperia-mvp-status
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+106 | 2026-02-24 17:43:07 -0500 | BRAIN | b84dc6d | hesperia: drop v05/dense path; v06 and sparse only
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+107 | 2026-02-24 17:43:11 -0500 | BRAIN | 76de6af | hesperia: add v0.6 operational index, archive manifest, freeze doc
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+108 | 2026-02-24 17:43:21 -0500 | BRAIN | c4416a5 | hesperia: archive deprecated v04/v05 scripts, sphere_rag, docs, runtime outputs, releases
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+109 | 2026-02-24 17:43:36 -0500 | BRAIN | 28310f9 | hesperia: add v0.6 operational api, calibration, specs, scripts, sphere_rag
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+110 | 2026-02-24 17:56:50 -0500 | BRAIN | 6bd51a7 | hesperia v0.6: rename all to v06 — analyze.py, attribution.py, dict_b.py, build_dict_a.py, assets/v06 naming; drop provenance names
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+111 | 2026-02-24 17:56:54 -0500 | BRAIN | 8b2b5ca | hesperia v0.6: wire api and scripts to analyze.analyze(); refresh READMEs and operational docs; add fresh-start note
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+112 | 2026-02-24 17:57:12 -0500 | BRAIN | 89bc563 | hesperia v0.6: FREEZE and runtime output README wording
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+113 | 2026-02-26 17:17:55 -0500 | DEV+PROD | 61ead07 | Team 10 adoption: single repo, deliverables to Atomic-Commits-Team/hesperia. OPERATIONAL.md, TEAM10-PROJECT.md, .gitignore (no Cursor internals), consolidation + cluster config.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+114 | 2026-02-26 17:20:02 -0500 | DEV+PROD | 9d29378 | Operational report: push succeeded, large-file note, single variant.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+115 | 2026-02-26 17:25:40 -0500 | DEV+PROD | 1fe3802 | End of day: nuke summary, sync note, single variant.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+116 | 2026-02-27 03:15:12 -0500 | DEV+PROD | d79d797 | L1 Normative Structure Profile Extension (34_SPEC N1) + Taxonomy v1.0
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+117 | 2026-02-27 06:28:03 -0500 | DEV+PROD | d52498e | R1-R4 pipeline, e2e sentence script, dict_b/surface wiring, docs and governance
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+118 | 2026-02-27 08:18:24 -0500 | DEV+PROD | e6a871f | R1-R4/E2E: token-offset segmentation, unit fixes, spec notes
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+119 | 2026-02-28 17:44:56 -0500 | DEV+PROD | 6d5cb52 | ORDER: repo-wide naming (4 words + version), artifacts in subfolders, specs at root
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+120 | 2026-02-28 17:48:23 -0500 | DEV+PROD | 7765737 | ORDER: document mrt remote (hesperia_mrt fork repo)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+121 | 2026-03-06 01:39:27 -0500 | BRAIN | 20a284d | EOD 2026-03-06: repo cleanup, MCP single source, archive root prichindel, compliance, session lesson; structure and refs aligned
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+122 | 2026-03-07 19:32:44 +0200 | DEV+PROD | a364334 | docs: add naming consistency audit and expand variables index
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+123 | 2026-03-07 19:33:02 +0200 | DEV+PROD | 8c720df | Merge pull request #23 from Atomic-Commits-Team/codex/check-repository-terminology-consistency
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+124 | 2026-03-11 01:27:07 -0700 | DEV+PROD | 934a3f9 | Consolidate v0.4 baseline boot path and fix attribution tests
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.4 Dict A/B, embeddings, build pipeline.
+
+125 | 2026-03-11 01:29:18 -0700 | DEV+PROD | 1ddbb4b | Merge pull request #24 from Atomic-Commits-Team/codex/consolidate-poc-repo-into-canonical-baseline
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+126 | 2026-03-11 06:51:49 -0400 | DEV+PROD | 05fc6fa | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+127 | 2026-03-11 11:15:39 -0400 | DEV+PROD | 6b385b2 | 3
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+128 | 2026-03-11 15:29:08 -0400 | DEV+PROD | 0897549 | Dossier system, batch runner, content-addressed artifacts, and pipeline refactor
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+129 | 2026-03-12 06:02:37 -0400 | DEV+PROD | dcb4695 | Add sphere layer stack: topology, dynamism, logic, metrics, USF, pipeline, guards
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+130 | 2026-03-12 07:09:36 -0400 | DEV+PROD | 802efcf | Add testing framework, interface layer, structural geometry, diagnostics
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+131 | 2026-03-12 07:54:31 -0400 | DEV+PROD | c6bcb11 | v0.5: strip versioning, structural attribution, e2e all, deprecations, README rewrite
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+132 | 2026-03-12 13:16:56 -0400 | DEV+PROD | 63febce | Layer-10 interpretation, USF consolidation, Prolog L9b, multi-step propagation, fingerprint drift
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+133 | 2026-03-12 14:20:32 -0400 | DEV+PROD | c6bcf14 | RAD: legal notice repo-wide, architecture fingerprint, boundaries, layer deps, .gitignore pytest cache
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+134 | 2026-03-12 14:20:55 -0400 | DEV+PROD | c136113 | docs: add Git tag and SHA to ARCHITECTURE_FINGERPRINT proof
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+135 | 2026-03-12 14:24:09 -0400 | DEV+PROD | e23749e | docs: evidence chain in ARCHITECTURE_FINGERPRINT (document→commit→tag), optional OpenTimestamps note
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+136 | 2026-03-12 14:25:50 -0400 | DEV+PROD | b1e0fea | docs: OpenTimestamps proof for HESPERIA_SYSTEM_SPEC_v1.md (.ots), update fingerprint
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+137 | 2026-03-12 14:34:26 -0400 | DEV+PROD | d3aab9a | docs: README capabilities and use sections, push sync
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+138 | 2026-03-13 14:31:30 -0400 | DEV+PROD | 4d0314e | KME domain pipeline: Tasks 1-6 + E2E integration
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+139 | 2026-03-14 14:23:12 -0400 | DEV+PROD | 5eef4a6 | quarantine: move docs/architecture and docs/boot to legacy/docs_archive
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+140 | 2026-03-14 14:30:53 -0400 | DEV+PROD | 8e137b8 | Sealed runtime: release gate, CLI/API shipping, backup, governance and cleanup
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+141 | 2026-03-14 14:41:51 -0400 | DEV+PROD | 5f64eef | Sealing scan: restrict to public surface only; document legacy observation window
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+142 | 2026-03-14 15:15:04 -0400 | DEV+PROD | a1c8276 | Remove legacy/ after sealed runtime gate PASS; add manifest-only build target
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+143 | 2026-03-14 15:25:20 -0400 | DEV+PROD | 9a3a24c | Add push_mirrors.sh and mirror setup docs; document lifecycle and protection layers
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+144 | 2026-03-14 15:43:14 -0400 | DEV+PROD | d17ba52 | Cleanup: archive specs history, remove duplicate A_CORE_STAR_MAP, add CLEANUP_PLAN
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+145 | 2026-03-14 15:47:13 -0400 | DEV+PROD | e1fd3ea | Clean repo root: move guard and layer config out of root
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+146 | 2026-03-14 15:47:41 -0400 | DEV+PROD | 22302cc | Docs: note Phase 2b root cleanup in CLEANUP_PLAN
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+147 | 2026-03-14 16:04:35 -0400 | DEV+PROD | 8e7dfe6 | fix: e2e sealing + move analysis_service to runtime for layer boundary
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+148 | 2026-03-14 16:05:21 -0400 | DEV+PROD | 9e2e0ca | chore: add .dockerignore and release artifacts (checksums, manifest, schema_sha256)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+149 | 2026-03-14 16:12:33 -0400 | DEV+PROD | 80453a3 | docs: from-scratch memo in README + RUN/BUILD/DEPLOY from scratch guides
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+150 | 2026-03-14 16:25:50 -0400 | DEV+PROD | 7722d01 | docs: 10+2 topology decision — 10 operational, 2 reserved service areas
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+151 | 2026-03-15 11:34:51 -0400 | DEV+PROD | e5eed2b | Remark: testing_tfp phase
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+152 | 2026-03-15 17:08:07 -0400 | DEV+PROD | 4bb8a5c | TFP testing stack: speaker-aware, transference, temporal, operational analytics, normalization, negation, n-grams, calibration, config, ontology registry, explainability, logging, corpus, experiments, graph store, benchmark, safety, docs
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+153 | 2026-03-18 05:48:01 -0400 | DEV+PROD | 0493673 | TRIZ engine, KME integration, e2e consolidation (9 stages), product/eval/deploy
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+154 | 2026-03-18 06:58:15 -0400 | DEV+PROD | 2435be0 | docs: Hesperia knowledge base — repo map, dependency graph, variable catalog, product lines/stack
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+155 | 2026-03-18 12:24:39 -0400 | DEV+PROD | 6e3f4e1 | E2E: commit canonical artifacts + calibration batch; track e2e outputs in repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+156 | 2026-03-18 12:26:27 -0400 | DEV+PROD | 0e74002 | Add field_dynamics engine (phase1-4, state, triz_signal, xi_proxy, e2e_bridge) + tests
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+157 | 2026-03-18 12:27:27 -0400 | DEV+PROD | 0d20594 | Docs sync: system awareness, dynamics/calibration specs, governance, triage, research; AGENTS/README; calibration assets
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Grace triage/workflow row or register in brain.
+
+158 | 2026-03-18 12:30:18 -0400 | DEV+PROD | 586acec | docs: EoD repo-wide snapshot 2026-03-18
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+159 | 2026-03-18 13:23:26 -0400 | DEV+PROD | af41d9e | feat: semantic field stack — equations, HCI calibration, ontology matrices, E2E
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+
+>>> VERSION v0.5.0
+
+160 | 2026-03-19 04:33:06 -0400 | DEV+PROD | c6d59b5 | release: Hesperia Engine Dynamics v0.5.0 seal sync
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+161 | 2026-03-19 04:42:09 -0400 | DEV+PROD | 0ba8b73 | fix(release): snapshot git dirty before writing release/v0.5.0 artifacts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+162 | 2026-03-19 04:47:11 -0400 | DEV+PROD | d4671bd | release(v0.5.0): sealed audit artifacts (full pytest, 2026-03-19T12:00:00Z)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+163 | 2026-03-19 04:54:20 -0400 | DEV+PROD | b999798 | fix(ci): sealing scan — word-boundary 3D, skip v0.5.0 audit + triz_demo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+164 | 2026-03-19 09:39:11 -0400 | DEV+PROD | 531d6ff | feat(engine): Tasks 1–11 integration — P_CH, energy, calibration, topology, physics validation, system seal, full E2E stack
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+165 | 2026-03-19 11:25:32 -0400 | DEV+PROD | 342f3f0 | release: Hesperia Engine Dynamics v0.5.1 (enforcement baseline)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+166 | 2026-03-19 11:31:25 -0400 | DEV+PROD | f53569e | release: v0.5.1 sealed audit bundle (final_gate sealed=true)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+167 | 2026-03-19 11:43:06 -0400 | DEV+PROD | f4e33d7 | fix(ci): install pytest for sealed-runtime-gate integrity step
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+168 | 2026-03-19 13:17:05 -0400 | DEV+PROD | 4759cf7 | hardening(release): seal-coupled v0.5.1 version lock + portable bundle
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+169 | 2026-03-19 13:27:45 -0400 | DEV+PROD | cfc30a9 | hardening(release): build_release_bundle matches temp-copy spec
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+170 | 2026-03-19 13:37:21 -0400 | DEV+PROD | a1c1355 | release: add bundle integrity + determinism guard
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: ΣΓΘ guard layer wired into runtime.
+
+171 | 2026-03-20 11:43:39 -0400 | DEV+PROD | 151dfa3 | feat(tfp): RU v060 corpus, DLCR stack, dynamics wiring; drop session transcripts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+172 | 2026-03-21 12:20:24 -0400 | DEV+PROD | 51db235 | sync: TFP calibration pack + OpenAI tooling
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+173 | 2026-03-22 06:19:16 -0400 | DEV+PROD | ea591d7 | OpenAI calibration: stderr progress, smoke check, batch runners
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+174 | 2026-03-22 06:20:51 -0400 | DEV+PROD | 364101e | chore: ignore and untrack research/_noone_local (local-only corpus)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+175 | 2026-03-22 06:22:30 -0400 | DEV+PROD | f0eb1f9 | TFP calibration: engine, pipeline, schemas, tools, tests, small JSON data
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+176 | 2026-03-22 06:25:43 -0400 | DEV+PROD | 94277a7 | docs: refresh IMPORT_GRAPH v0.5.0 (runtime + engine)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Engine Dynamics v0.5.0 seal with audit bundle.
+
+177 | 2026-03-22 06:30:25 -0400 | DEV+PROD | 7eb524a | chore: bump DEAD_WEIGHT RECORDED_COUNT to 67 (import BFS drift)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+178 | 2026-03-26 02:23:57 -0400 | DEV+PROD | 6e60b6b | Ethan ML-07: neutral product docstring for analyze_session_speaker_aware (mainline, no TFP).
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+179 | 2026-03-26 02:25:33 -0400 | DEV+PROD | e6b9a22 | Ethan task H (H_total): mainline-pin h_total_concepts.json; add semantic_dynamics_operator_spec.md.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+180 | 2026-03-26 04:50:02 -0400 | DEV+PROD | e1217ab | release: finalize v0.5.2 technical terminology propagation
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+181 | 2026-03-26 04:50:55 -0400 | DEV+PROD | 296581f | release: seal v0.5.2 technical audit bundle
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+182 | 2026-03-26 07:40:02 -0400 | DEV+PROD | 5cf9905 | release: seal v0.5.3 modular tfp onboard
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+183 | 2026-03-26 09:06:20 -0400 | DEV+PROD | 23f589a | feat: complete modular kernel workflow gates T1-T10
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+184 | 2026-03-26 11:26:55 -0400 | DEV+PROD | ab1905d | release: seal v0.5.4 deterministic modular pipeline system
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+185 | 2026-03-26 13:04:44 -0400 | DEV+PROD | 9f55478 | feat(product): deliver T11-T20 productization workflow slice
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+186 | 2026-03-26 13:06:13 -0400 | BRAIN | e8ac3cf | chore(workflow): complete hesperia T11-T20 productization queue
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+187 | 2026-03-26 14:16:04 -0400 | DEV+PROD | ac87266 | feat(engine): wire versioned calibration dict loader
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+188 | 2026-03-26 14:19:27 -0400 | DEV+PROD | 4479c58 | release: promote system to v0.5.5
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+189 | 2026-03-27 13:48:23 -0400 | DEV+PROD | f52fd57 | feat(cd): Concept Dictionary v1 Phase 1 — executor, asset, pipeline hook (opt-in)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+190 | 2026-03-27 16:36:20 -0400 | BRAIN | f197273 | Ethan: Hesperia Control Layer v1 tasking packet and active.md HC-* OPEN rows.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+191 | 2026-03-27 16:39:36 -0400 | BRAIN | b37b97b | Workflow: Grace HC-GRACE-01 + Ethan HC-ETHAN-01 DONE; HESPERIA_CONTROL_MERGED_v1 appendix; driver→HC-01.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+192 | 2026-03-27 16:47:44 -0400 | DEV+PROD | 25f220e | HC-WAVE1: control layer MVP — schemas, docs, hesperia_control module, tests (HC-01..HC-10).
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+193 | 2026-03-27 16:48:33 -0400 | BRAIN | a8c92ae | HC-WAVE1: mark HC-01..HC-10 DONE; delivery report; workflow OPEN=0.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+194 | 2026-03-27 17:03:29 -0400 | DEV+PROD | 4ae0cd4 | Add TFP module data mirror (README, sync script, docs)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+195 | 2026-03-27 17:10:55 -0400 | DEV+PROD | a142a88 | Dict calibration: default 4 workers, offline bundle, skip API key in mock
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+196 | 2026-03-27 17:12:20 -0400 | DEV+PROD | 0082666 | docs(dict_calibration): Dict A API phase closed; do not re-run LLM stages unless intentional
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Dictionary/corpus calibration asset work.
+
+197 | 2026-03-27 17:16:17 -0400 | DEV+PROD | 1f0b677 | Add B+CD verification wave after green A (script + doc)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+198 | 2026-03-27 17:16:18 -0400 | BRAIN | 02336e0 | operational: B and CD wave after green Dict A (checklist)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Dictionary/corpus calibration asset work.
+
+199 | 2026-03-27 17:19:21 -0400 | DEV+PROD | dbafd41 | governance(Ethan): lock B-before-CD after green A (working + MODEL_CARD)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+200 | 2026-03-27 17:19:21 -0400 | BRAIN | b080364 | operational(Ethan): B-before-CD ruling + implementation log
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+201 | 2026-03-27 17:20:55 -0400 | DEV+PROD | 6ab6a05 | docs(Ethan): 10 tasks to finish dicts and calibrate/check
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+202 | 2026-03-27 17:20:55 -0400 | BRAIN | 5a0bb6e | operational(Ethan): 10 tasks dict finish + calibration; link B-CD packet
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+203 | 2026-03-27 17:25:16 -0400 | DEV+PROD | 294d0ee | docs(Ethan): dict/calibration framework rev.2 (H/S/V/Y + control laws)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+204 | 2026-03-27 17:30:30 -0400 | DEV+PROD | c76aa08 | governance(Ethan): seal v0_6_0_clr_v052_1 dict A/norm/propose/anchor tree
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Dictionary/corpus calibration asset work.
+
+205 | 2026-03-27 17:39:15 -0400 | DEV+PROD | bd85cbe | dict/CD: Phase 2 co_occurs soft math, release gates script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+206 | 2026-03-27 17:42:47 -0400 | BRAIN | 468154c | Ethan: Hesperia wires hygiene WIRE-01..10 tasking for Gena and team
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+207 | 2026-03-27 17:44:08 -0400 | BRAIN | 63fe7a4 | Grace: triage WIRE hygiene pack (WIRE-GRACE-01); WIRE-10 gate unchanged
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+208 | 2026-03-27 17:50:51 -0400 | DEV+PROD | 2e1043d | docs: point E2E and entry commands at runtime.pipeline (not execution_flow)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+209 | 2026-03-27 17:51:01 -0400 | BRAIN | 9676253 | workflow: complete WIRE-02..10 hygiene reports and gap register
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+210 | 2026-03-27 17:57:12 -0400 | DEV+PROD | cc9c49a | GAP-WIRE-01: expand env_guard allowlist; RUNTIME_ENV_VARS tiers; regen script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+211 | 2026-03-27 17:58:47 -0400 | DEV+PROD | 6c2893f | GAP-WIRE-02: document shipping vs dev API; T17 /product/*; OpenAPI bearer for /product/
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+212 | 2026-03-27 17:59:35 -0400 | DEV+PROD | 043b3fe | GAP-WIRE-03: README quick start hesperia.run + dict gate runbooks
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+213 | 2026-03-27 18:00:40 -0400 | DEV+PROD | b668eeb | GAP-WIRE-04: validate_version_consistency in sealed-runtime-gate; policy doc
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+214 | 2026-03-27 18:01:08 -0400 | DEV+PROD | 4b86915 | GAP-WIRE-05: document CI pytest subset vs full tests/ in SHIPPING_PATH_POLICY
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+215 | 2026-03-27 18:02:23 -0400 | DEV+PROD | dcc1636 | GAP-WIRE-06/07: metric registry partial-coverage waiver; tools shell index
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+216 | 2026-03-28 11:49:08 -0400 | DEV+PROD | 033d57d | calibration: v0_6_0_clr_v052_2 B-gap closure (DICT-CAL-02), TFP cluster hex anchors
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+217 | 2026-03-28 12:11:51 -0400 | DEV+PROD | 94af72d | TFP-GATE-A0/A1: determinism env, VERSION calibration pin, wave artifact checks
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+218 | 2026-03-28 12:14:52 -0400 | DEV+PROD | 4f7ec60 | TFP-GATE: phase C smoke script, mirror checksum verify, governance docs (B1/B2/A2A3/METRICS/INV/UNMAPPED/CD-DELTA), test_concept_invariants entrypoint.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+219 | 2026-03-28 12:26:32 -0400 | DEV+PROD | a207888 | TFP-ENF-01..05: behavioral pytest (dominance, co_occurs, saturation, modifiers), CD delta bounds, unmapped fixture gate, check_metrics_gate.py, Phase C latency cap + CI wiring.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+220 | 2026-03-28 12:36:31 -0400 | DEV+PROD | 8e2e575 | TFP-REL-01..05: lexical unmapped token rate API, real corpus test, pipeline CD area delta, per_text_non_empty_ratio, latency ratio vs baseline file.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+221 | 2026-03-28 12:47:58 -0400 | DEV+PROD | e25be82 | TFP-TIGHT-01..05: unmapped cap 0.65 + real dict corpus, relative CD delta bound, semantic stability test, min per-text accepted floor, latency ratio default 18.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+222 | 2026-03-28 13:03:21 -0400 | DEV+PROD | 63cda59 | TFP module v1: governance, seal hook, gold tests, CI path gate
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+223 | 2026-03-28 13:12:28 -0400 | DEV+PROD | aee3cbc | TFP-DATA-T01: Ethan charter — module tfp_v1 SSoT, research evicted for dict ops
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+224 | 2026-03-28 13:14:10 -0400 | DEV+PROD | dc0effe | TFP-DATA-T02: research/_noone_local inventory JSON + index + regen tool
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+225 | 2026-03-28 13:14:43 -0400 | DEV+PROD | 4fe89c7 | TFP-DATA-T03: TFP_V1_LAYOUT.md + data README pointer
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+226 | 2026-03-28 13:27:19 -0400 | DEV+PROD | ff73864 | TFP-DATA-T04–T20: tfp_v1 module data tree, migration, sync, CI gates
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+227 | 2026-03-28 13:28:13 -0400 | DEV+PROD | 1730dc5 | TFP-DATA-T20: mark active.md closure item done in checklist
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+228 | 2026-03-28 13:33:12 -0400 | DEV+PROD | 30daa9b | TFP-DATA-T07: mirror dict_calibration provenance into tfp_v1 runs + manifest
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+229 | 2026-03-28 13:44:50 -0400 | DEV+PROD | 35a56db | Move clinical session corpus to tfp_v1/corpus/sessions (migrate + ingest paths)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+230 | 2026-03-28 14:07:44 -0400 | DEV+PROD | 990f799 | E2E TFP smoke uses primary text; hesperia.tfp shim; NLP session_topology wrappers
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+231 | 2026-03-28 14:27:59 -0400 | DEV+PROD | 3c34695 | R1-R4: tokenize_with_spans fixes RU clinical R1 partition (punct-stripped tokens)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+232 | 2026-03-28 14:36:45 -0400 | DEV+PROD | 0104230 | Add apocalyptic archive triage doc + workflows mirror script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+233 | 2026-03-28 14:36:47 -0400 | BRAIN | 65683b5 | Grace triage packet: Hesperia apocalyptic archive + workflows mirror
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+234 | 2026-03-28 14:39:41 -0400 | DEV+PROD | 36dcaa5 | docs(governance): Ethan flash recovery bundle + workflows must-carry (no server)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+235 | 2026-03-28 14:47:08 -0400 | DEV+PROD | 5e4d02f | tools: mirror cursor brain into /data/hesperia + data root README template
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+236 | 2026-03-28 14:47:38 -0400 | BRAIN | 0f614d8 | Grace: Hesperia /data/hesperia complete cold root packet + APO-DATA-ROOT row
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+237 | 2026-03-28 14:48:24 -0400 | BRAIN | b188222 | Grace: APO-DATA-ROOT DONE + GREEN sign-off in data-root packet
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+238 | 2026-03-29 15:41:11 -0400 | DEV+PROD | 5eb1d33 | docs(reference): add Upcelerator2026 README index (Dreamups Phase 1 N.2)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+239 | 2026-03-29 15:41:11 -0400 | DEV+PROD | 7c5aa5f | docs(reference): Upcelerator2026 Assignment-1 motivation, vision, mission
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+240 | 2026-03-29 15:41:12 -0400 | DEV+PROD | 50fb60d | docs(reference): Upcelerator2026 market definition, sizing, PESTLE (2B)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+241 | 2026-03-29 15:41:12 -0400 | DEV+PROD | d65a720 | docs(reference): Upcelerator2026 competitor analysis (2C)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+242 | 2026-03-29 15:41:12 -0400 | DEV+PROD | 333b00e | docs(reference): Upcelerator2026 BMC and pitch deck (2A, 2D)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+243 | 2026-03-29 15:41:12 -0400 | DEV+PROD | 63983e1 | docs(reference): Upcelerator2026 working assets (generators, templates, notes)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+244 | 2026-03-29 15:41:27 -0400 | DEV+PROD | bec4235 | chore(governance): add cursor session mode artifact
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+245 | 2026-03-29 15:41:27 -0400 | DEV+PROD | 22a20d2 | test: add calibration dict loader and TFP module main run tests
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+246 | 2026-03-29 15:41:27 -0400 | DEV+PROD | dcc4fd9 | docs(tools): document Upcelerator2026 path in data root template
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+247 | 2026-03-29 15:42:00 -0400 | BRAIN | 85a795d | chore(scripts): copy Upcelerator2026 deliverables into hesperia docs/reference
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+248 | 2026-03-30 06:16:58 -0400 | DEV+PROD | d26987c | HPROM-R4: hprom_report_metrics and v6 REPORT eval (force-add ignored reports path).
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+249 | 2026-03-30 06:25:55 -0400 | BRAIN | b11af69 | Ethan: v052_4 STABILIZE assessment (metrics corrections, gates) + single OPEN row for Noah.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+250 | 2026-03-30 06:26:48 -0400 | BRAIN | 50911b8 | Grace triage: STABILIZE v052_3→v052_4 packet; Noah OPEN + Olivia PAUSED handoff; Ethan metric binds.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+251 | 2026-03-30 06:31:02 -0400 | DEV+PROD | 0352a62 | STABILIZE v052_4: sealed calibration dir, stabilize script, hprom_04 tri-version REPORT.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+252 | 2026-03-30 06:40:44 -0400 | DEV+PROD | 9385568 | tools: extended RU natural corpus + REPORT runner for v052_4 validation (no dict edits)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+253 | 2026-03-30 06:42:47 -0400 | DEV+PROD | 2a23ff8 | artifacts: dict field value and status counts snapshot + summarize tool
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+254 | 2026-03-30 06:45:19 -0400 | DEV+PROD | 4d59aa3 | tools: print dict_states snapshot JSON to stdout; --quiet for file-only
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+255 | 2026-03-30 06:49:30 -0400 | DEV+PROD | 3b67968 | lexical: text language heuristic + dict_c language layer analysis (Grace C-layer)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Grace triage/workflow row or register in brain.
+
+256 | 2026-03-30 06:53:33 -0400 | DEV+PROD | 5b52a09 | calibration: v052_5 dict_c language retag (ru/en/mixed) + tools and REPORT artifacts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+257 | 2026-03-30 07:04:34 -0400 | DEV+PROD | e54bb42 | fixtures: extended RU natural corpus v2 (Wikipedia batch) + fetch tool + language layer artifact
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+258 | 2026-03-30 07:33:16 -0400 | DEV+PROD | 47a6bab | fixtures: session 11.09.2023 plain text for DLCR REPORT baseline
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+259 | 2026-03-30 11:55:43 -0400 | BRAIN | cc99168 | chore: commit local operational FPF/HDR handoffs, artifacts, chroma ceres scripts, samba script
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+260 | 2026-03-30 14:27:24 -0400 | BRAIN | f9c7024 | Add HESPERIA-D3-VIEWER v0.5.6 read-only inspection UI and sample session_trace
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+261 | 2026-03-30 14:29:36 -0400 | BRAIN | e207f6f | Add session 11-09 extended corpus report URL; serve_viewer.sh fixes 404 confusion
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+262 | 2026-03-30 14:31:28 -0400 | BRAIN | b315268 | Abelard: Hesperia inspection viewer on LAN :8765 (systemd + UFW)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+263 | 2026-03-30 14:37:12 -0400 | BRAIN | 1e46a5f | Session 11-09 session_trace chunks + Ethan doc: engine export command
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+264 | 2026-03-30 15:01:50 -0400 | BRAIN | bf1c26a | Grace: document Ethan Hesperia visualization foundation for team
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+265 | 2026-03-30 15:03:44 -0400 | BRAIN | c980e6f | Grace: reframe visualization doc as Hesperia v0.5.6+; point to /data/hesperia canonical
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+266 | 2026-04-04 01:53:13 -0400 | BRAIN | cf850f9 | PG-SA Layer B: ontology, ingest CLI, metrics, experiment matrix, traces; mark PGSA-E0–E6 DONE.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+267 | 2026-04-05 15:49:17 -0400 | BRAIN | 15d7ca9 | alunel: Hesperia dev environment (clone path, venv, PYTHONPATH, bootstrap + docs)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+268 | 2026-04-06 14:37:44 -0400 | BRAIN | f5c233f | Ethan policy: Hesperia pushes only igareosh/hesperia and Atomic-Commits-Team/hesperia
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+269 | 2026-04-06 14:38:36 -0400 | BRAIN | 4e283b1 | Ethan policy: add igareosh/hesperia-dev-backup as third allowed Hesperia push remote
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+270 | 2026-04-06 14:40:51 -0400 | BRAIN | 500053c | Hesperia: verify script + policy §4; audit removed hesperia_mrt remote on disk
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+271 | 2026-04-06 14:42:52 -0400 | BRAIN | 9c485a7 | Ethan policy §2a: hesperia_mrt archived, disconnected, purpose served
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+272 | 2026-04-07 01:45:40 -0400 | BRAIN | 2e5bd39 | docs(ethan): Hesperia TFP root tables; link Grace narratives
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+273 | 2026-04-07 01:50:30 -0400 | BRAIN | fec2701 | governance(ethan): Hesperia Django output views + page builder spec
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+274 | 2026-04-07 02:02:15 -0400 | BRAIN | 4a07bb7 | governance(ethan): Hesperia output preview design templates (Black Dashboard + React Datta)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+275 | 2026-04-07 02:12:44 -0400 | BRAIN | 5f0e092 | governance(ethan): Session Iteration Inspector page spec (IDE panes, bundle contract)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+276 | 2026-04-07 02:16:52 -0400 | BRAIN | c7ae2b9 | ops(ethan): Grace tasking 45 tasks — output inspector + Kernberg OpenAI segment
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+277 | 2026-04-07 02:36:52 -0400 | DEV+PROD | a5a17fb | output_views: iteration_segment_openai_v1 schema, segment package, Kernberg prompts, tests (Gena OUT-VIEW-01/02)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+278 | 2026-04-07 02:39:57 -0400 | DEV+PROD | f14e6a6 | output_views: Session Inspector MVP route, panes, deep links, T54/T55 docs (Gena OUT-VIEW-03)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+279 | 2026-04-07 02:43:09 -0400 | DEV+PROD | fbb1e7e | output_views: segment export.json, copy UI, optional OpenAI proxy, rate limit doc, make target (Gena OUT-VIEW-04)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+280 | 2026-04-07 02:45:45 -0400 | DEV+PROD | 22664d4 | output_views: PII export dialog, safety/license/flags/rollback docs (OUT-VIEW-05 Daniel epic)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+281 | 2026-04-07 02:58:15 -0400 | BRAIN | bdd9de2 | OUT-VIEW-08 closure: brain reports T37/T39/T40/T65, yielded-parameters footnote, workflow driver
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+282 | 2026-04-07 03:10:28 -0400 | DEV+PROD | 8af5ab7 | output_views: T02 build session_inspector_v1 from TFP pipeline dir (OUT-VIEW-FULL-01)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+283 | 2026-04-07 03:13:13 -0400 | DEV+PROD | dc333b0 | output_views: generate_inspector_fixture + Makefile; FULL-02 pipeline fixture docs
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+284 | 2026-04-07 03:15:48 -0400 | DEV+PROD | dfc54ed | output_views: FULL-03 Pane C audit planes + relations strip; tests
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+
+>>> VERSION v0.5.8
+
+285 | 2026-04-14 07:21:39 -0400 | BRAIN | c274ccc | Add Hesperia TFP bundle inspection runbook and MCP anchors.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: TFP module/corpus pipeline and calibration.
+
+286 | 2026-04-14 08:19:47 -0400 | DEV+PROD | e29cb70 | v0.5.8 task1: couple contradiction pressure into tfp area inhibition
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+287 | 2026-04-14 08:22:51 -0400 | DEV+PROD | 20f42a5 | fix(nlp): speaker label regex flags for Python 3.12 (import-safe hesperia.nlp)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+288 | 2026-04-14 08:27:49 -0400 | DEV+PROD | 3203808 | v0.5.8 task2: wire contradictions from pipeline into tfp activation
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+289 | 2026-04-14 08:32:53 -0400 | DEV+PROD | 5ddf364 | v0.5.8 task3: couple contradictions into topology segment dynamics
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+290 | 2026-04-14 08:38:59 -0400 | DEV+PROD | 6448bc7 | v0.5.8 task4: propagate contradiction package across dlcr multiscale and product
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+291 | 2026-04-14 08:44:34 -0400 | DEV+PROD | 1327948 | v0.5.8 task5: couple contradiction with lexical and concept uncertainty
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+292 | 2026-04-14 08:52:22 -0400 | DEV+PROD | 5465444 | v0.5.8 task6: couple contradiction with negation and inhibition logic
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+293 | 2026-04-14 09:00:05 -0400 | DEV+PROD | 084d080 | v0.5.8 task7: couple contradiction with family-level structure
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+294 | 2026-04-14 09:08:22 -0400 | DEV+PROD | 1dedcc7 | v0.5.8 task8: feed contradiction patterns into lexical and concept calibration diagnostics
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+295 | 2026-04-14 09:13:20 -0400 | DEV+PROD | 888bbcc | v0.5.8 task9: add contradiction integrity release gating and promotion verdicts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+296 | 2026-04-14 09:22:43 -0400 | DEV+PROD | 904cf94 | v0.5.8 task10: formalize contradiction spec and artifact contract
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+297 | 2026-04-14 09:55:15 -0400 | DEV+PROD | b87ca97 | v0.5.8 task11: centralize contradiction calibration surface and profile
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+298 | 2026-04-14 10:08:28 -0400 | DEV+PROD | 13e5ef8 | docs+tools: v0.5.8 seal register (tasks 1-11), bundle --contradiction-calibration-json
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+299 | 2026-04-14 10:08:36 -0400 | DEV+PROD | 5621345 | Merge branch 'ed-0.5.8-task11-contradiction-calibration-surface': Hesperia v0.5.8 contradiction track (tasks 1-11) sealed
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+300 | 2026-04-14 10:08:49 -0400 | BRAIN | c07b8d1 | governance+ops: Hesperia v0.5.8 seal CHANGE-LOG and Grace release report
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Contradiction track sealed (tasks 1–11).
+
+301 | 2026-04-14 10:28:16 -0400 | DEV+PROD | e135bc6 | shipping: fix sealing scan surface for v0.5.2 audit bundle
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+302 | 2026-04-14 10:47:48 -0400 | DEV+PROD | 2342898 | docs: regenerate IMPORT_GRAPH for contradiction pipeline imports (v0.5.8 drift)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+303 | 2026-04-14 10:56:59 -0400 | DEV+PROD | c84dff9 | fix(tfp): satisfy noone path literal gate (docs, handoff, paths)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+304 | 2026-04-14 11:00:08 -0400 | DEV+PROD | 557a012 | fix(tfp): track tfp_v1 dict_a/runtime and dict_b skeleton for CI layout test
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+305 | 2026-04-14 11:15:34 -0400 | DEV+PROD | dcec99f | docs: rebaseline dead-weight budget for v0.5.8 module growth (91 unreferenced)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+306 | 2026-04-14 11:25:39 -0400 | DEV+PROD | cbc1253 | refactor(engine): move module ALIASES to engine; fix core/modules boundary
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+307 | 2026-04-14 11:30:27 -0400 | DEV+PROD | 2c84f16 | docs: regenerate IMPORT_GRAPH_ENGINE after module_aliases split
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+308 | 2026-04-14 11:34:06 -0400 | DEV+PROD | f3a7746 | tools: skip RAW dict_a corpus check in CI when gitignored asset absent
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+309 | 2026-04-14 11:41:38 -0400 | DEV+PROD | ed42d3c | test: expect contradiction_package on run_sealed_multiscale_stack signature
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Contradiction track sealed (tasks 1–11).
+
+310 | 2026-04-14 12:01:09 -0400 | DEV+PROD | 551fe81 | test(fixtures): commit CI TFP bundle manifest calibration + 09_session_topology for release gate
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+311 | 2026-04-14 12:07:21 -0400 | BRAIN | abc4d23 | ops: Grace v0.5.8 release notes payload for GitHub Hesperia v0.5.8
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Contradiction track sealed (tasks 1–11).
+
+312 | 2026-04-14 14:02:03 -0400 | DEV+PROD | 1d5061d | docs(tfp): single bundle output folder rule (TFP_VALUES_LIST §0)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+313 | 2026-04-14 14:02:04 -0400 | BRAIN | c841751 | docs(operational): Grace pointer for Hesperia TFP single bundle folder (§0)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+314 | 2026-04-14 14:07:47 -0400 | DEV+PROD | b0a8a9c | chore(outputs): standardize TFP dirs under outputs/tfp/ + default paths
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+315 | 2026-04-14 14:07:48 -0400 | BRAIN | 9b35d12 | docs: note Hesperia outputs/tfp physical reorg + defaults
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: TFP module/corpus pipeline and calibration.
+
+316 | 2026-04-14 14:31:01 -0400 | DEV+PROD | f46479e | test(tfp): track operator narrative fixture tests/fixtures/tfp/input.txt
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+317 | 2026-04-15 11:54:28 -0400 | DEV+PROD | 6d9b830 | feat(output_views): Vite hex matrix viewer + build script for browser deploy
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+318 | 2026-04-15 12:28:16 -0400 | DEV+PROD | 9f89613 | feat(hex_matrix_viewer): semantic layout, isolated render modes, coherence, schema
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+319 | 2026-04-15 13:01:37 -0400 | DEV+PROD | abda11e | feat(hex_matrix_viewer): 12x24 F(s,b) lattice + flat/cylinder/sphere projections
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+320 | 2026-04-15 13:17:11 -0400 | DEV+PROD | 8905a30 | feat(hex_matrix_viewer): unified project(s,b,mode); spheroid + pole merge toggle
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+321 | 2026-04-15 13:25:19 -0400 | DEV+PROD | 9894c8e | feat(hex_matrix_viewer): diamond inspection layout (288 cells, band-centered)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+322 | 2026-04-20 06:28:30 -0400 | DEV+PROD | 35d388e | 123
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Placeholder commit; history continuity only.
+
+323 | 2026-05-06 07:12:53 +0000 | BRAIN | fc107e8 | security: Authentik forward-auth wall for all *.prichindel.com services
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+324 | 2026-05-11 04:40:55 -0400 | DEV+PROD | 85e5d7f | feat(api): TFP-CHROMA-04 — /inspector/tfp-corpus/compose endpoint (spec §6)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+325 | 2026-05-11 04:45:32 -0400 | DEV+PROD | 965b9e0 | feat(hex-matrix): TMX-10 — RelationsPanel + appear/disappear side panel
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+326 | 2026-05-11 04:49:04 -0400 | DEV+PROD | 0e3b797 | docs(specs): TMX-11 — T3 supervisor prompt pack + diff slots
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+327 | 2026-05-11 04:50:20 -0400 | DEV+PROD | d69df05 | feat(i18n): TMX-14 — RU UX copy for matrix labels, T1-T3 tiers, tooltips
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+328 | 2026-05-11 04:52:03 -0400 | DEV+PROD | 29fdb82 | test(hex-matrix): TMX-15 — gold fixture + snapshot tests + D3 smoke
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+329 | 2026-05-11 04:53:17 -0400 | DEV+PROD | 8d090f1 | docs(chroma): TMX-16+17 — reference_literature ingest path + timeline layer query contract
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+330 | 2026-05-11 04:57:27 -0400 | DEV+PROD | 0cec2ff | docs(tmx): TMX-18..24 — PII review, operator runbook, QA checklist, a11y, integration, design, closure
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Hex matrix viewer SPA at /hex-matrix/.
+
+331 | 2026-05-16 15:27:14 +0000 | BRAIN | 4d8322f | CHROMA-1 alunel cutover: close migration MIG-01..24, awareness sweep
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+
+>>> REF-20260518 prod/dev split
+
+332 | 2026-05-18 14:18:05 -0400 | DEV+PROD | dca9675 | Restore Django output_views skeleton and deploy docs after cherry-pick.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+333 | 2026-05-18 14:18:33 -0400 | DEV+PROD | 2a69bcb | Add prichindel systemd unit and restore full hesperia nginx vhost.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+334 | 2026-05-18 15:51:33 -0400 | DEV+PROD | f7324ee | merge: origin/main into prod main (keep OUT-VIEW + TMX; align +9 -60)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+335 | 2026-05-18 15:54:33 -0400 | DEV+PROD | 2aa1d43 | prod(prichindel): deploy pins for Session Inspector + site root
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+336 | 2026-05-18 15:59:59 -0400 | DEV+PROD | ff55ef4 | draw-line(2026-05-18): rollback marker — README + ROLLBACK-LINE doc
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+337 | 2026-05-18 16:12:25 -0400 | DEV+PROD | 3b31604 | chore(prod): remove docs/ (documentation on igareosh/hesperia)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+338 | 2026-05-18 16:12:25 -0400 | DEV+PROD | ce5818d | chore(prod): remove root team and planning markdown
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+339 | 2026-05-18 16:12:25 -0400 | DEV+PROD | dedc298 | chore(prod): remove governance/ narrative
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+340 | 2026-05-18 16:12:25 -0400 | DEV+PROD | 137806d | chore(prod): remove release narrative markdown
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+341 | 2026-05-18 16:12:25 -0400 | DEV+PROD | 830e79e | chore(prod): remove specs narrative markdown
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+342 | 2026-05-18 16:12:25 -0400 | DEV+PROD | b13d7f2 | chore(prod): minimal README pointer to dev repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+343 | 2026-05-18 16:16:41 -0400 | DEV+PROD | d3260f9 | ci(prod): prod-code-only workflow and verifier script
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+344 | 2026-05-18 16:16:50 -0400 | DEV+PROD | 326c696 | chore(prod): remove research/ (reference corpus on igareosh/hesperia)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+345 | 2026-05-18 16:16:50 -0400 | DEV+PROD | c8f5633 | chore(prod): remove runtime and tools narrative markdown
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+346 | 2026-05-18 16:16:50 -0400 | DEV+PROD | 594411f | chore(prod): gitignore and untrack outputs markdown
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+347 | 2026-05-18 16:17:03 -0400 | DEV+PROD | e93c6f5 | fix(prod): restore research Python; strip reference markdown to dev repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+348 | 2026-05-18 16:17:11 -0400 | DEV+PROD | 627d461 | ci(prod): allow research Python; forbid research markdown only
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+349 | 2026-05-18 17:34:14 -0400 | DEV+PROD | 00f0990 | chore(prod): remove legacy/ and specs/ (dev documentation on igareosh/hesperia)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+350 | 2026-05-18 17:34:15 -0400 | DEV+PROD | 12f07f9 | chore(prod): remove module and output_views dev markdown (corpus untouched)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+351 | 2026-05-18 17:34:15 -0400 | DEV+PROD | f80cc87 | chore(prod): remove examples, release, assets narrative md (not corpus/dicts)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+352 | 2026-05-18 17:34:50 -0400 | DEV+PROD | fa6f01e | fix(prod): restore specs yaml/json config; strip specs markdown only (corpus untouched)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+353 | 2026-05-18 17:34:54 -0400 | DEV+PROD | 276ea70 | ci(prod): verifier corpus-safe — dev md/specs prose only
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+354 | 2026-05-18 17:35:05 -0400 | DEV+PROD | d7a88d1 | chore(prod): remove dict/tools dev README (corpus yaml/json untouched)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+355 | 2026-05-18 17:35:05 -0400 | DEV+PROD | 12f931a | ci(prod): corpus-safe verifier (specs yaml allowed)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+356 | 2026-05-18 17:37:51 -0400 | DEV+PROD | 8cfb484 | chore(prod): immaculate sweep — dev notes removed (backup on igareosh/hesperia)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+357 | 2026-05-18 17:40:56 -0400 | DEV+PROD | 56f5ac8 | draw-line(2026-05-18): dev-ready — immaculate prod, docs on igareosh/hesperia
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+358 | 2026-05-18 17:41:08 -0400 | DEV+PROD | 18178de | ci(prod): allow DEV-READY-LINE marker on immaculate tree
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+359 | 2026-05-18 20:04:47 +0000 | BRAIN | 48494da | EOD 2026-05-18: Hesperia rollback line — brain pointers and Grace unpause
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+360 | 2026-05-18 21:41:24 +0000 | BRAIN | d8a7285 | draw-line(2026-05-18): dev-ready — immaculate prod, docs on igareosh/hesperia
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Prod/dev split: strip docs from Atomic prod; docs on igareosh/hesperia.
+
+361 | 2026-05-18 21:44:59 +0000 | BRAIN | f06736b | chore(brain): Hesperia brain↔dev links only — remove stray hesperia/ ingest
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+362 | 2026-05-18 22:03:18 +0000 | BRAIN | 84cf62b | EOD 2026-05-19: Hesperia revolution close + operator idle
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+363 | 2026-05-18 22:47:37 +0000 | DEV+PROD | 235ea30 | fix(prod): gunicorn, security settings, sessions view, nginx hardening
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+364 | 2026-05-18 22:49:28 +0000 | DEV+PROD | 77810ff | fix(prod): sync hesperia-api.service to match deployed config
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+365 | 2026-05-18 22:51:31 +0000 | BRAIN | 6b10b3d | sync(hesperia-nginx): update cluster templates to match prod
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+366 | 2026-05-18 23:04:28 +0000 | DEV+PROD | 41e0513 | chore(v0.6.0): Python compliance pass — version bump, API cleanup
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+367 | 2026-05-18 23:14:56 +0000 | BRAIN | a89e158 | feat(governance): Hesperia post-0.6.0 topology + Felix dev authority (Ethan §7)
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+368 | 2026-05-18 23:19:31 +0000 | BRAIN | 9988c3e | Merge remote-tracking branch 'origin/main' + hesperia 0.6.0 governance
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+369 | 2026-05-18 23:28:32 +0000 | DEV+PROD | d4f4f67 | chore: checked by Felix (Claude Code) 2026-05-20 — python compliance v0.6.0 sealed, prod repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+370 | 2026-05-20 14:37:30 +0000 | BRAIN | e842420 | fix(cluster): resolve merge conflicts and lock altitudine vs librarymaster roles
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+371 | 2026-05-21 02:55:52 -0400 | DEV+PROD | 2e71218 | feat(output_views): inspector nav link to hex-matrix viewer (TMX-22)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+372 | 2026-05-21 03:08:19 -0400 | DEV+PROD | d313bfd | fix(output_views): STATIC_URL /static/ and require collectstatic for WhiteNoise
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Django Session Inspector — browser UI at /inspector/.
+
+373 | 2026-05-21 09:28:01 +0000 | BRAIN | 26b1e7e | kjyf
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+374 | 2026-05-22 15:55:33 +0000 | BRAIN | fa9b1bc | EOD 2026-05-22: note CHROMA-1 ingest via prichindel (7300 chunks).
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+375 | 2026-05-24 12:14:25 +0000 | BRAIN | 10ed996 | EOD 2026-05-24: Hesperia PoWV and geodesic sphere GCS_NU85 formalization.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+376 | 2026-05-24 12:37:33 +0000 | BRAIN | b9a199a | EOD 2026-05-24 (pm): Hesperia GTP/GTPA formalization and GTP-01..08 triage.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+377 | 2026-05-27 20:13:29 +0000 | DEV+PROD | 297e408 | Grace: ingest Hesperia logo image drop from operator cache.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Grace triage/workflow row or register in brain.
+
+378 | 2026-05-27 20:13:52 +0000 | BRAIN | 482a278 | Grace: record Hesperia logo image ingest from .cache_to_sort_out.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+379 | 2026-05-27 22:15:30 +0300 | DEV+PROD | 9848c16 | docs(brand): Hesperia logo canonical visual description v1 and v1.2
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Docs/CI/hygiene supporting the release line.
+
+
+>>> VERSION 0.6.0
+
+380 | 2026-05-28 11:34:47 +0000 | DEV+PROD | 257d81e | fix: align release version authority with v0.6.0
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+381 | 2026-05-28 11:34:47 +0000 | DEV+PROD | e196fce | fix: validate prod tree from shipping context
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+382 | 2026-05-28 11:44:24 +0000 | DEV+PROD | fa923ee | release: add sealed v0.6.0 baseline package
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+383 | 2026-05-28 12:08:50 +0000 | DEV+PROD | fc7c5cf | build: add checked docker bundle for v0.6.0
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+384 | 2026-05-28 12:14:22 +0000 | DEV+PROD | c9e9557 | release: add 0.6.0 agentic install contract
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+385 | 2026-05-28 13:33:06 +0000 | DEV+PROD | 6a13eb1 | release: publish atomic 0.6.0 on tag push
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+386 | 2026-05-28 13:34:58 +0000 | DEV+PROD | 676dd1c | ci: trigger atomic 0.6.0 release publish on branch push
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+387 | 2026-05-28 13:40:31 +0000 | DEV+PROD | a06c828 | release: refine atomic 0.6.0 release notes
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+388 | 2026-05-28 13:48:07 +0000 | DEV+PROD | f695936 | release: sanitize 0.6.0 public release artifacts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+389 | 2026-05-28 13:48:07 +0000 | DEV+PROD | 87f5a5b | release: sanitize 0.6.0 public release artifacts
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+390 | 2026-05-28 14:07:19 +0000 | DEV+PROD | ee78240 | ci: drop dict payload gates from sealed runtime release repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+391 | 2026-05-28 14:07:19 +0000 | DEV+PROD | 536323f | ci: drop dict payload gates from sealed runtime release repo
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+392 | 2026-05-28 16:37:39 +0300 | DEV+PROD | 7311d60 | Merge pull request #26 from Atomic-Commits-Team/hesperia-v0.6.0-release
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+393 | 2026-05-28 17:17:41 +0300 | DEV+PROD | 482c252 | ci: drop docs-dependent gates from prod sealed runtime workflow
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+394 | 2026-05-28 17:21:11 +0300 | DEV+PROD | 47c91ca | ci: trigger sealed runtime gate on sanitized main
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+395 | 2026-05-28 17:23:47 +0300 | DEV+PROD | 46f63cf | ci: add workflow_dispatch to sealed runtime gate
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+396 | 2026-05-28 17:37:08 +0300 | DEV+PROD | d06f674 | ci: sealed runtime gate on push to main only (not PR reruns)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Sealed runtime/shipping surface and release gate.
+
+397 | 2026-05-28 17:40:47 +0300 | DEV+PROD | 6df2695 | fix(tfp): restore tfp_v1/nlp skeleton dir for layout gate (TFP-DATA-T15)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: TFP module/corpus pipeline and calibration.
+
+398 | 2026-05-28 17:45:23 +0300 | DEV+PROD | 3de9974 | Merge pull request #27 from Atomic-Commits-Team/hesperia-v0.6.0-release
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: v0.6.0 sealed runtime: VERSION, docker bundle, CI publish.
+
+399 | 2026-05-31 13:51:18 +0000 | BRAIN | 5ec2f9b | Complete MCP appendix wiring and close WF-APP proceed-gates wave.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+400 | 2026-06-03 05:59:49 +0000 | BRAIN | c9b9c1f | Persist repo relocations and ops docs under user_documents.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Docs/CI/hygiene supporting the release line.
+
+401 | 2026-06-03 06:02:22 +0000 | BRAIN | 0a4bda7 | Restore CLIENTS/safonov accidentally dropped in PG purge commit.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+402 | 2026-06-11 13:09:22 +0000 | BRAIN | 7f39836 | docs(hesperia/6.1): close 25 task rows + pre-release report
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.1-final: Python /analyze engine_result contract (HES-61).
+
+403 | 2026-06-13 18:19:21 +0000 | BRAIN | 2b93b4b | Add KSI v0.1 spec: Kolmogorov Semantic Inspection for HESPERIA 0.6.2
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: KSI inspection layer spec/artifacts (0.6.2 brain+tersagor scope).
+
+
+>>> RECONCILE 122d45b — 0.6.1+0.6.3 merged; tags aligned
+
+404 | 2026-06-14 10:06:35 +0000 | BRAIN | 8f88955 | Grace triage: formalize Hesperia 6.1/6.2 states and task rows.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.1-final: Python /analyze engine_result contract (HES-61).
+
+405 | 2026-06-14 10:11:34 +0000 | BRAIN | a67f1f3 | Grace triage: Hesperia 0.6.2 full wave — 81 granular tasks.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Grace triage/workflow row or register in brain.
+
+406 | 2026-06-14 10:24:14 +0000 | BRAIN | 4d4e3e4 | Add Hesperia 0.6.2 governance deliverables (H62-064, exit criteria, KSI runbook stub).
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: KSI inspection layer spec/artifacts (0.6.2 brain+tersagor scope).
+
+407 | 2026-06-14 10:38:54 +0000 | BRAIN | 4ea9b71 | Add Hesperia 0.6.2 workflow execution report.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Product or team commit; see subject.
+
+408 | 2026-06-14 10:43:21 +0000 | BRAIN | 9346935 | Add hesperia-analyze-dev systemd for alunel :18880.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: Brain deploy pointer: nginx/systemd/verify script.
+
+409 | 2026-06-14 12:36:59 +0000 | BRAIN | 108b557 | Felix: post-impl run report — H063 tersagor 465 pass, 3 fixes applied.
+   WHERE: brain /data/altitudine/prichindel.com
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+410 | 2026-06-14 13:31:18 +0300 | DEV+PROD | f87b2bb | HES-61-01: Python /analyze engine_result contract envelope.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Analyze API/contract: HTTP /analyze envelope for engine runs.
+
+411 | 2026-06-14 13:47:57 +0300 | DEV+PROD | cc94b09 | Default OpenAI model gpt-4o-mini (env-driven, not gpt-5.2).
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: Product or team commit; see subject.
+
+412 | 2026-06-14 16:01:41 +0300 | DEV+PROD | 16286fa | Ethan: seal Hesperia 0.6.3 GitHub archive — E2E without prod dicts/corpus.
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+413 | 2026-06-14 16:31:39 +0300 | DEV+PROD | 9bf0289 | Ethan: 0.6.3 archive example outputs (envelope, Teacher, IRC trace, analyze).
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.3 IRC Teacher archive: envelope schemas, examples, E2E gate, zip.
+
+414 | 2026-06-14 16:59:44 +0300 | DEV+PROD | 122d45b | merge: reconcile 0.6.1 analyze line (cc94b09) with 0.6.3 archive seal (16286fa)
+   WHERE: dev+prod unified tree (igareosh/hesperia + Atomic-Commits-Team/hesperia)
+   DOES: 0.6.1-final: Python /analyze engine_result contract (HES-61).
+
+====================================================================================================
+END OF LISTING
+Entries: 1..414
+RECONCILED STATE 2026-06-14:
+  DEV+PROD HEAD: 122d45b (merge 0.6.1 analyze + 0.6.3 archive)
+  Tags 0.6.3 and hesperia-0.6.3 -> 122d45b (was mis-tagged cc94b09 on Atomic)
+  Retro tags: hesperia-0.6.1 -> f87b2bb, hesperia-0.6.2 -> cc94b09
+  Live IRC Teacher runtime: tersagor 0149120 (outside this listing)
+SIGNED: Ethan | reconciled commit roadmap TXT | 2026-06-14

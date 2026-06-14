@@ -1,0 +1,27 @@
+# Hesperia Django output_views on prichindel (sessions index + Session Inspector).
+# Install: sudo cp cluster/prichindel/systemd/hesperia-output-views-prichindel.service /etc/systemd/system/hesperia-output-views.service
+#          sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-output-views
+# URL: https://hesperia.prichindel.com/inspector/<session_id>/ (baseline); /sessions/ ; prod tree: /data/hesperia/hesperia — see cluster/HESPERIA-REPOS-AND-HOSTS.md
+
+[Unit]
+Description=Hesperia output_views Django (Session Inspector + sessions index)
+Documentation=file:///data/hesperia/hesperia/output_views/manage.py
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/hesperia/hesperia/output_views
+Environment=PYTHONUNBUFFERED=1
+Environment=DJANGO_SECRET_KEY=hesperia-output-views-prod
+Environment=DJANGO_DEBUG=False
+Environment=DJANGO_ALLOWED_HOSTS=hesperia.prichindel.com,127.0.0.1,localhost
+Environment=PYTHONPATH=/data/hesperia/hesperia
+ExecStart=/data/hesperia/hesperia/.venv/bin/python manage.py runserver 127.0.0.1:8010
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
