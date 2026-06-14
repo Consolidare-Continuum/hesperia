@@ -81,6 +81,9 @@ from pydantic import BaseModel, Field, field_validator
 
 class AnalyzeBody(BaseModel):
     text: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+    mode: str = Field(default="standard", pattern="^(reflection|standard)$")
+    overlay_hint: dict[str, Any] | None = None
+    temp_relation_overlay: list[dict[str, Any]] | None = None
 
 
 class CompareBody(BaseModel):
@@ -148,6 +151,31 @@ def create_app():
             )
             merged["payload"] = data
         validate_against_public_schema(merged)
+        return JSONResponse(content=merged, media_type="application/json")
+
+    def _safe_response_with_engine(data: dict | list, engine_result: dict[str, Any]):
+        from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
+        from runtime.shipping.schema_guard import validate_against_public_schema
+
+        if isinstance(data, dict):
+            merged = attach_public_output_metadata(
+                data,
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=api_pipeline_version(),
+                execution_flow_version=api_pipeline_version(),
+                orchestration_mode="API_SYNC",
+            )
+        else:
+            merged = attach_public_output_metadata(
+                {},
+                calibration_profile=default_calibration_profile(),
+                pipeline_version=api_pipeline_version(),
+                execution_flow_version=api_pipeline_version(),
+                orchestration_mode="API_SYNC",
+            )
+            merged["payload"] = data
+        validate_against_public_schema(merged)
+        merged["engine_result"] = engine_result
         return JSONResponse(content=merged, media_type="application/json")
 
     def _neutral_500() -> JSONResponse:
@@ -230,7 +258,15 @@ def create_app():
         from runtime.services.analysis_service import run_structural_analysis
         assets = _assets_root()
         summary_payload = run_structural_analysis(analyze_body.text, assets_root=assets, stages="full")
-        return _safe_response(summary_payload)
+        from runtime.services.engine_analyze_contract import run_engine_analyze
+
+        engine_result = run_engine_analyze(
+            analyze_body.text,
+            assets_root=assets,
+            overlay_hint=analyze_body.overlay_hint,
+            temp_relation_overlay=analyze_body.temp_relation_overlay,
+        )
+        return _safe_response_with_engine(summary_payload, engine_result)
 
     @app.post("/compare")
     def compare(compare_body: CompareBody = Body(...)):
