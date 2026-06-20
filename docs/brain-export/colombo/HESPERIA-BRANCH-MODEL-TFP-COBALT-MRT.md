@@ -2,8 +2,7 @@
 
 **Updated:** 2026-06-20  
 **Owner:** Colombo (research) · operator-confirmed branch model  
-**Architecture (canonical):** [HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) — sealed core; modules → scoped result outputs; branches for whole-world coverage.  
-**Dev repo (this tree):** [docs/specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md](../../specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md) · `hesperia/modules/` · `hesperia/engine/module_aliases.py`  
+**Architecture (canonical):** [HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) — modular branch approach; consolidation into systemic runtime semantic engine.  
 **Purpose:** Branch inventory — **core Hesperia** vs **MVP branches/modules** (TFP, COBALT, MRT).  
 **Product pointers:** [CLIENTS/hesperia/README.md](../../CLIENTS/hesperia/README.md) · [cluster/HESPERIA-REPOS-AND-HOSTS.md](../../cluster/HESPERIA-REPOS-AND-HOSTS.md)
 
@@ -13,7 +12,9 @@
 
 **Core Hesperia** = **runtime semantic engine** (shared, long-lived): hex geometry, sealed `/analyze`, modular engine kernel (`hesperia/engine/`), IRC Teacher envelope pattern, dict_a/dict_b calculus, 12×24×250×6 product geometry (288 families), deploy on `Atomic-Commits-Team/hesperia`.
 
-**MVP branches** = purpose slices we **search, research, and build** in parallel. Each uses **most of core**; each has **own corpus, completion criteria, and optional repo**. Branches **do not block** each other. **Consolidation** into one systemic platform happens when branches prove MVP — see [HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) §6.
+**MVP branches** = purpose slices we **search, research, and build** in parallel. Each uses **most of core**; each has **own corpus, completion criteria, and optional repo**. Branches **do not block** each other.
+
+**Module classes:** **Class A** (cored) — universal plumbing consolidated into core. **Class B** (non-cored) — domain/theme/attribution (psy/TFP, IT/MRT, COBALT attribution) — register at runtime, **do not** merge into sealed stack. See [HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) §2c.
 
 | Branch | Codename | Role | Repo / path |
 |--------|----------|------|-------------|

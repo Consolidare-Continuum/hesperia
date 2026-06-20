@@ -16,25 +16,52 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 
 ---
 
-## 2. Modules in this repo (`hesperia/modules/`)
+## 2. Module classes — cored vs non-cored
 
-Registered aliases: `hesperia/engine/module_aliases.py`
+### Class A — Core modules (consolidated in core)
 
-| Alias | Module | Scoped result-oriented output |
-|-------|--------|------------------------------|
-| `dict_a` / `dict_b` | `hesperia.modules.core.*` | Token → sparse activations; surface math |
-| `tfp` | `hesperia.modules.tfp.v1` | Clinical TFP: roadmaps, iterations, corpus compose |
-| `topology` | `hesperia.modules.topology.core` | Topology-phase processing |
-| `nlp` | `hesperia.modules.nlp.basic` | Baseline NLP |
-| `metrics` | `hesperia.modules.metrics.base` | Metric hooks |
+Universal plumbing in `hesperia/modules/`. Branch work that proves **domain-agnostic** value merges back here.
 
-**Pattern:** core measures → module produces **purpose-scoped artifact** → envelope/MCP/LLM consumes.
+| Alias | Module | Cored because |
+|-------|--------|---------------|
+| `dict_a` / `dict_b` | `hesperia.modules.core.*` | Lexical → grid calculus — all domains |
+| `topology` | `hesperia.modules.topology.core` | Shared geometry phase |
+| `nlp` | `hesperia.modules.nlp.basic` | Baseline tokenization |
+| `metrics` | `hesperia.modules.metrics.base` | Shared measurement hooks |
 
-Future on dev: `cobalt` → `runtime/cobalt/` or `hesperia.modules.cobalt.v1` (spec pending).
+### Class B — Non-cored modules (branch-persistent)
+
+**Not folded into sealed core** — semantic attribution, theme, or domain specificity (IT, psy, clinical, library, …).
+
+| Module / branch | Location | Why non-cored |
+|-----------------|----------|---------------|
+| **TFP** | `hesperia.modules.tfp` | **Psy / clinical** — sessions, RU specialized outputs |
+| **MRT** | `igareosh/hesperia_mrt` | **IT / tech** — FPF, 96-fam, `sphere_rag` |
+| **COBALT** | spec → `runtime/cobalt/` | **Semantic attribution** — CHROMA-2 bounding, themes |
+
+**Non-cored modules register** with core (alias, envelope slot, flag) but **do not** enter sealed `/analyze` assets.
+
+**Decision test:** *Universal engine plumbing?* → Class A, consolidate. *Domain / theme / attribution?* → Class B, stay branch.
 
 ---
 
-## 3. Sibling branches (separate repos / trees)
+## 3. Modules in this repo (registry)
+
+Registered aliases: `hesperia/engine/module_aliases.py`
+
+| Alias | Class | Scoped result-oriented output |
+|-------|-------|------------------------------|
+| `dict_a` / `dict_b` | **A** | Token → sparse activations; surface math |
+| `topology`, `nlp`, `metrics` | **A** | Shared engine plumbing |
+| `tfp` | **B** | Clinical TFP: roadmaps, iterations, corpus compose |
+
+Future: `cobalt` → Class **B** (attribution / library).
+
+**Pattern:** core measures → enabled modules produce **scoped artifacts** → envelope/MCP/LLM composes.
+
+---
+
+## 4. Sibling branches (separate repos / trees)
 
 | Branch | Repo | Why separate |
 |--------|------|--------------|
@@ -45,18 +72,18 @@ Dev workspace on **altitudine:** `/data/workspaces/atomic-commit-hesperia` (this
 
 ---
 
-## 4. Whole-world aim → mandatory separation
+## 5. Whole-world aim → mandatory separation
 
-We can realistically cover **many domains** (clinical, technical, library, agentic, academia) **only by separating**:
+We can realistically cover **many domains** only by separating:
 
-1. One **core** engine.
-2. Many **scoped modules/branches**, each with own corpus and output contract.
-3. **Independent MVP** completion per branch.
-4. **Consolidation** when branches prove value — register modules, shared dict pipeline.
+1. One **sealed core** (Class A modules).
+2. Many **non-cored branch modules** (Class B — IT, psy, attribution, …).
+3. **Independent MVP** per branch.
+4. **Consolidation** for Class A only; Class B **registers**, does not merge into sealed stack.
 
 ---
 
-## 5. Read next
+## 6. Read next
 
 | Doc | Path |
 |-----|------|
