@@ -252,9 +252,10 @@ Core engine (prod)      →      Core engine (unchanged physics)
 | **This architecture (start here)** | This file |
 | Branch inventory + repos | [HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md](HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md) |
 | COBALT module spec | [COBALT/COBALT_research_FORMALIZATION-v0_1.md](COBALT/COBALT_research_FORMALIZATION-v0_1.md) |
-| Brain pointers | [CLIENTS/hesperia/README.md](cursor repo CLIENTS/hesperia/README.md) |
-| Repos / hosts | [cluster/HESPERIA-REPOS-AND-HOSTS.md](cursor cluster/HESPERIA-REPOS-AND-HOSTS.md) |
-| Ethan COBALT task | [governance/TASK-ETHAN-HESPERIA-COBALT-MODULE-BRANCH.md](cursor governance/TASK-ETHAN-HESPERIA-COBALT-MODULE-BRANCH.md) |
+| Brain pointers | cursor repo `CLIENTS/hesperia/README.md` |
+| Repos / hosts | cursor `cluster/HESPERIA-REPOS-AND-HOSTS.md` |
+| Ethan COBALT task | cursor `governance/TASK-ETHAN-HESPERIA-COBALT-MODULE-BRANCH.md` |
+| **Dev short spec** | [docs/specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md](../../specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md) |
 
 ---
 
