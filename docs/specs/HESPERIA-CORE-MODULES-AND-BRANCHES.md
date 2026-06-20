@@ -87,6 +87,7 @@ We can realistically cover **many domains** only by separating:
 
 | Doc | Path |
 |-----|------|
+| **Mandatory read policy (dev agents)** | cursor brain `governance/HESPERIA-MODULAR-ARCHITECTURE-MANDATORY-READ.md` |
 | Full architecture | [docs/brain-export/colombo/HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](../brain-export/colombo/HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) |
 | Branch inventory | [docs/brain-export/colombo/HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md](../brain-export/colombo/HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md) |
 | COBALT formalization | [docs/brain-export/colombo/COBALT_research_FORMALIZATION-v0_1.md](../brain-export/colombo/COBALT_research_FORMALIZATION-v0_1.md) |
