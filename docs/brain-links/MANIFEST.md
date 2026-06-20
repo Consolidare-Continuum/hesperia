@@ -44,6 +44,8 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 | Prod strip backup | `docs/backup/prod-immaculate-2026-05-18/` |
 | Dev-ready line | `docs/DEV-READY-LINE-2026-05-18.md` |
 | Dev/prod split | `docs/DEV_PROD_SPLIT.md` |
+| **Core + modules + branches (2026-06-20)** | `docs/specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md` |
+| Colombo modular architecture export | `docs/brain-export/colombo/` |
 
 ## Forbidden
 
