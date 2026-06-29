@@ -91,6 +91,23 @@ def run_product_interpret(
         overlay_hint=overlay_hint,
         temp_relation_overlay=temp_relation_overlay,
     )
+    cobalt_packet: dict[str, Any] | None = None
+    try:
+        from runtime.cobalt.flags import cobalt_enabled
+        from runtime.cobalt.retrieve import cobalt_to_retrieval_context, compose_and_retrieve
+
+        if cobalt_enabled():
+            cobalt_packet = compose_and_retrieve(
+                text,
+                engine_result=envelope.get("engine_trace"),
+                strategy="S1",
+            )
+            envelope = {
+                **envelope,
+                "retrieval_context": cobalt_to_retrieval_context(cobalt_packet),
+            }
+    except Exception:
+        cobalt_packet = None
     engine = envelope.get("engine_trace") or {}
     mode_gov = _router_mode()
     out: dict[str, Any] = {
@@ -106,6 +123,8 @@ def run_product_interpret(
             "policy_snapshot_id": envelope.get("policy_snapshot_id"),
         },
     }
+    if cobalt_packet is not None:
+        out["cobalt_retrieval"] = cobalt_packet
     if mode == "llm":
         from sphere.router.audit import audit_router_output
         from sphere.router.llm_interpret import LlmInterpretConfig, MockLlmClient, interpret_router_envelope

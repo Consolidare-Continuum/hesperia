@@ -22,6 +22,7 @@ class HybridRetrieveOutput:
     interior_pov: dict[str, Any] | None = None
     gtp_coherence: dict[str, Any] | None = None
     context_package: dict[str, Any] | None = None
+    cobalt_retrieval: dict[str, Any] | None = None
 
 
 def _extract_engine_analyze_result(payload: dict[str, Any]) -> dict[str, Any]:
@@ -48,7 +49,7 @@ def _call_engine(query: str, timeout_s: float = 8.0) -> dict[str, Any] | None:
 
 
 def retrieve(inp: HybridRetrieveInput) -> HybridRetrieveOutput:
-    """Minimal hybrid retrieve: engine /analyze + KSI block from engine payload."""
+    """Minimal hybrid retrieve: engine /analyze + KSI block + optional COBALT."""
     engine_result = _call_engine(inp.query.strip())
     ksi_block: dict[str, Any] = {}
     interior_pov = None
@@ -58,9 +59,24 @@ def retrieve(inp: HybridRetrieveInput) -> HybridRetrieveOutput:
         interior_pov = engine_result.get("interior_pov")
         gtp_coherence = engine_result.get("gtp_coherence")
     context_package = {"ksi": ksi_block} if ksi_block else {}
+    cobalt_packet = None
+    try:
+        from runtime.cobalt.flags import cobalt_enabled
+        from runtime.cobalt.retrieve import compose_and_retrieve
+
+        if cobalt_enabled():
+            cobalt_packet = compose_and_retrieve(
+                inp.query.strip(),
+                engine_result=engine_result,
+                strategy="S1",
+            )
+            context_package = {**context_package, "cobalt_retrieval": cobalt_packet}
+    except Exception:
+        cobalt_packet = None
     return HybridRetrieveOutput(
         engine_result=engine_result,
         interior_pov=interior_pov,
         gtp_coherence=gtp_coherence,
         context_package=context_package,
+        cobalt_retrieval=cobalt_packet,
     )
