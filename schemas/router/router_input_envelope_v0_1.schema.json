@@ -30,6 +30,11 @@
     },
     "calculable": { "type": "object", "additionalProperties": true },
     "coherence_hints": { "type": "object", "additionalProperties": true },
+    "observability": {
+      "type": "object",
+      "description": "Read-only context_rag telemetry block (Class A)",
+      "additionalProperties": true
+    },
     "logic_mapping": {
       "type": "object",
       "description": "FPF bridge / fpf-thinking-map llm_prompt_state.logic",

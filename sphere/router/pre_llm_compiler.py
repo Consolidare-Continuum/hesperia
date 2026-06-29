@@ -94,5 +94,6 @@ def compile_router_envelope(
         enabled_modules=["core", "router"],
         calculable=ctx.get("calculable"),
         coherence_hints=ctx.get("coherence_hints"),
+        observability=ctx.get("observability"),
     ).finalize()
     return envelope_to_dict(env)

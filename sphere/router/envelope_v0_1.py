@@ -26,6 +26,7 @@ class RouterInputEnvelope:
     enabled_modules: list[str] = field(default_factory=list)
     calculable: dict[str, Any] | None = None
     coherence_hints: dict[str, Any] | None = None
+    observability: dict[str, Any] | None = None
     router_fingerprint: str = ""
 
     def finalize(self) -> RouterInputEnvelope:
@@ -64,4 +65,6 @@ def envelope_to_dict(env: RouterInputEnvelope) -> dict[str, Any]:
         out["calculable"] = env.calculable
     if env.coherence_hints is not None:
         out["coherence_hints"] = env.coherence_hints
+    if env.observability is not None:
+        out["observability"] = env.observability
     return out
