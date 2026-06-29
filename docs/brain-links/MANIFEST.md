@@ -1,6 +1,6 @@
 # Brain repo links (cursor) — manifest only
 
-**Generated:** 2026-06-14T22:04Z  
+**Generated:** 2026-06-29T16:15Z  
 **Brain path:** `/data/altitudine/prichindel.com`  
 **Policy:** brain `governance/ETHAN-POLICY-HESPERIA-BRAIN-DEV-LINK.md`  
 **Dev-ready tag:** `hesperia/dev-ready-line-20260518`
@@ -44,8 +44,6 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 | Prod strip backup | `docs/backup/prod-immaculate-2026-05-18/` |
 | Dev-ready line | `docs/DEV-READY-LINE-2026-05-18.md` |
 | Dev/prod split | `docs/DEV_PROD_SPLIT.md` |
-| **Core + modules + branches (2026-06-20)** | `docs/specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md` |
-| Colombo modular architecture export | `docs/brain-export/colombo/` |
 
 ## Forbidden
 
