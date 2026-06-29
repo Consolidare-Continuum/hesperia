@@ -103,6 +103,13 @@ class BatchAnalyzeBody(BaseModel):
         return v
 
 
+class InterpretBody(BaseModel):
+    text: str = Field(..., min_length=1, max_length=_MAX_INPUT_CHARS)
+    mode: str = Field(default="deterministic", pattern="^(deterministic|llm)$")
+    overlay_hint: dict[str, Any] | None = None
+    temp_relation_overlay: list[dict[str, Any]] | None = None
+
+
 def create_app():
     from fastapi import Body, FastAPI, HTTPException, Request
     from fastapi.responses import JSONResponse
@@ -111,7 +118,7 @@ def create_app():
 
     app = FastAPI(
         title="HESPERIA API",
-        description="Product surface: POST /analyze, /compare, /batch (alias /batch-analyze). GET /health.",
+        description="Product surface: POST /analyze, /compare, /batch, /product/interpret. GET /health.",
         version="1.0",
         docs_url=None,
         redoc_url=None,
@@ -306,6 +313,24 @@ def create_app():
         assets = _assets_root()
         results = run_structural_analysis_batch(batch_body.texts, assets_root=assets)
         return _safe_response(results)
+
+    @app.post("/product/interpret")
+    def product_interpret(interpret_body: InterpretBody = Body(...)):
+        if not public_capability("interpret"):
+            raise HTTPException(status_code=403, detail="Capability disabled")
+        if not _rate_limit():
+            raise HTTPException(status_code=429, detail="Rate limit exceeded")
+        from runtime.services.product_interpret_service import run_product_interpret
+
+        assets = _assets_root()
+        result = run_product_interpret(
+            interpret_body.text,
+            assets_root=assets,
+            mode=interpret_body.mode,  # type: ignore[arg-type]
+            overlay_hint=interpret_body.overlay_hint,
+            temp_relation_overlay=interpret_body.temp_relation_overlay,
+        )
+        return JSONResponse(content=result, media_type="application/json")
 
     return app
 

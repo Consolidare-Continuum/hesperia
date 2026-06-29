@@ -5,6 +5,7 @@ public:
   analyze: true
   compare: true
   batch: true
+  interpret: true
 
 internal:
   dynamics: true

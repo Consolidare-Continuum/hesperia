@@ -78,7 +78,7 @@ def expose_version_endpoint() -> bool:
 
 
 def public_capability(name: str) -> bool:
-    """Named public command (analyze | compare | batch)."""
+    """Named public command (analyze | compare | batch | interpret)."""
     caps = load_capabilities()
     pub = caps.get("public") if isinstance(caps.get("public"), dict) else {}
     return bool(pub.get(name, True))

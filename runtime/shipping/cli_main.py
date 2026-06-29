@@ -198,7 +198,7 @@ def main() -> int:
 
     ap = argparse.ArgumentParser(
         prog="hesperia",
-        description="Structural analysis. Commands: analyze, compare, batch | batch-analyze.",
+        description="Structural analysis. Commands: analyze, compare, batch | batch-analyze, router-inquire.",
     )
     ap.add_argument("--version", action="store_true", help="Show runtime version and build info.")
     ap.add_argument("--assets", type=str, default=None, help="Path to lexicon assets (default: repo/lexicon/curated)")
@@ -229,6 +229,31 @@ def main() -> int:
     p_batch_alias = sub.add_parser("batch", help="Alias for batch-analyze.")
     _add_batch_args(p_batch_alias)
     p_batch_alias.set_defaults(_run=_cmd_batch_analyze)
+
+    def _cmd_router_inquire(args: object) -> int:
+        text = getattr(args, "text", "") or ""
+        out_path = getattr(args, "out", None)
+        context_json = getattr(args, "context_json", None)
+        assets = getattr(args, "assets", None)
+        assets_path = Path(assets) if assets else _assets_root(Path(__file__).resolve().parents[2])
+        from runtime.services.tool_inquiry_service import run_tool_inquiry
+        from sphere.router.tool_inquiry import load_context_packet_json
+
+        ctx = load_context_packet_json(Path(context_json)) if context_json else None
+        out = run_tool_inquiry(text, assets_path, context_packet=ctx)
+        if out_path:
+            Path(out_path).write_text(out + "\n", encoding="utf-8")
+        print(out)
+        return 0
+
+    p_inquire = sub.add_parser(
+        "router-inquire",
+        help="HSR-V7-07: JSON-only router inquiry packet (no free-form prose).",
+    )
+    p_inquire.add_argument("--text", type=str, required=True, help="Input text for router envelope.")
+    p_inquire.add_argument("--context-json", type=str, default=None, help="Optional context_rag JSON file.")
+    p_inquire.add_argument("--out", type=str, default=None, help="Write JSON packet to this path.")
+    p_inquire.set_defaults(_run=_cmd_router_inquire)
 
     args = ap.parse_args()
     if getattr(args, "version", False):
