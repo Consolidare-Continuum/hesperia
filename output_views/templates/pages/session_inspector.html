@@ -147,6 +147,47 @@
       </div>
     </section>
   </div>
+
+  {% if pane2 %}
+  <section class="pane pane-d insp-pane2" aria-label="Apply gate state" role="region">
+    <h2 class="pane-title">Pane 2 — Apply gates (0.7.0)</h2>
+    <div class="pane-body">
+      <p class="pane2-phase"><strong>Phase:</strong> <code>{{ pane2.phase }}</code> · <strong>Status:</strong> {{ pane2.status|default:"—" }}</p>
+      <ol class="pane2-timeline" aria-label="Gate state machine">
+        {% for step in pane2.timeline %}
+        <li class="pane2-step pane2-step--{{ step.status }}">{{ step.name }}</li>
+        {% endfor %}
+      </ol>
+      <dl class="kv pane2-kv">
+        <dt>Proposal</dt><dd>{{ pane2.proposal_id }}</dd>
+        <dt>Action</dt><dd>{{ pane2.action }}</dd>
+        <dt>Parent SHA</dt><dd class="mono">{{ pane2.parent_sha }}</dd>
+        {% if pane2.approval_id %}<dt>Approval</dt><dd class="mono">{{ pane2.approval_id }}</dd>{% endif %}
+        {% if pane2.sandbox_id %}<dt>Sandbox</dt><dd class="mono">{{ pane2.sandbox_id }}</dd>{% endif %}
+        {% if pane2.canonical_hash %}<dt>Canonical hash</dt><dd class="mono">{{ pane2.canonical_hash }}</dd>{% endif %}
+      </dl>
+      {% if pane2.diff_hunks %}
+      <details class="param-details" open>
+        <summary>Diff (deterministic hunks)</summary>
+        <pre class="mono-block" aria-label="apply diff">{{ pane2.diff_json }}</pre>
+      </details>
+      {% endif %}
+      {% if pane2.scores %}
+      <details class="param-details" open>
+        <summary>Scores (no LLM prose)</summary>
+        <pre class="mono-block" aria-label="scores">{{ pane2.scores_json }}</pre>
+      </details>
+      {% endif %}
+      {% if pane2.evidence_ids %}
+      <p class="pane2-evidence"><strong>Evidence IDs:</strong> {% for eid in pane2.evidence_ids %}<code>{{ eid }}</code>{% if not forloop.last %}, {% endif %}{% endfor %}</p>
+      {% endif %}
+      {% if pane2.rollback_artifact %}
+      <p class="pane2-rollback"><strong>Rollback artifact:</strong> <code class="mono">{{ pane2.rollback_artifact }}</code></p>
+      {% endif %}
+      {% if pane2.error %}<p class="pane2-error muted">Rejected: {{ pane2.error }}</p>{% endif %}
+    </div>
+  </section>
+  {% endif %}
 </div>
 {% endblock %}
 {% block extra_js %}

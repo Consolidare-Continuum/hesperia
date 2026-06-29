@@ -64,6 +64,17 @@ class SessionInspectorMVPTests(TestCase):
         self.assertIn("Pipeline planes", body)
         self.assertIn("01_structural_batch", body)
 
+    def test_inspector_h070_pane2_gate_state(self) -> None:
+        """H070-14..16 — Pane 2 gate state, diff/scores, rollback path."""
+        r = self.client.get("/inspector/session_inspector_h070_apply/")
+        self.assertEqual(r.status_code, 200)
+        body = r.content.decode("utf-8")
+        self.assertIn("Pane 2", body)
+        self.assertIn("applied", body)
+        self.assertIn("Rollback artifact", body)
+        self.assertIn("Evidence IDs", body)
+        self.assertIn("Diff (deterministic hunks)", body)
+
 
 class SessionInspectorExportTests(TestCase):
     """T22–T25 export.json + proxy gate."""

@@ -44,6 +44,14 @@ build:
   timestamp: null
   git_commit: null
 
+apply:
+  version: "0.7.0"
+  gate_chain: "G1-G9"
+  allowlist:
+    - update_edge_weight
+  phase2_allowlist:
+    - add_edge
+
 archive:
   github_release: "0.6.5"
   excludes_prod_dicts: true

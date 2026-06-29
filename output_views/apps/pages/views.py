@@ -18,6 +18,7 @@ from django.views.decorators.http import require_GET, require_POST
 from segment.validate import validate_iteration_segment_openai_v1
 
 from . import inspector as insp
+from . import h070_pane
 from .inspector import _SESSION_ID_RE
 from .openai_export import final_segment_for_bundle
 from segment.constants import DISCLAIMER_FOOTER_EN
@@ -205,6 +206,12 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
         logger.debug("export_segment unavailable session=%s err=%s", session_id, e)
         export_segment = None
 
+    pane2 = h070_pane.pane2_from_iteration(current)
+    if pane2:
+        pane2 = dict(pane2)
+        pane2["diff_json"] = mark_safe(json.dumps(pane2.get("diff_hunks"), indent=2, ensure_ascii=False))
+        pane2["scores_json"] = mark_safe(json.dumps(pane2.get("scores"), indent=2, ensure_ascii=False))
+
     return render(
         request,
         "pages/session_inspector.html",
@@ -237,6 +244,7 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
             "disclaimer": meta.get("disclaimer_footer") or DISCLAIMER_FOOTER_EN,
             "export_segment": export_segment,
             "openai_proxy_enabled": getattr(settings, "HESPERIA_OUTPUT_VIEWS_OPENAI_PROXY", False),
+            "pane2": pane2,
         },
     )
 

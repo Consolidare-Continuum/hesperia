@@ -130,6 +130,31 @@ h1 { font-size: 1.75rem; font-weight: 650; margin-top: 0; }
 .pane-a { grid-column: 1; grid-row: 1 / span 2; }
 .pane-b { grid-column: 2; grid-row: 1; }
 .pane-c { grid-column: 2; grid-row: 2; }
+.pane-d {
+  margin-top: 0.75rem;
+  grid-column: 1 / -1;
+}
+.pane2-timeline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0.75rem;
+}
+.pane2-step {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.45rem;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+.pane2-step--done { opacity: 0.65; }
+.pane2-step--active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.pane2-step--upcoming { opacity: 0.4; }
+.pane2-step--rejected { border-color: #c44; color: #f88; }
+.mono { font-family: ui-monospace, monospace; font-size: 0.85em; word-break: break-all; }
 .pane-title { font-size: 1rem; margin: 0 0 0.5rem; color: var(--accent); font-weight: 600; }
 .pane-body { font-size: 0.92rem; }
 .sent-line { margin: 0.35rem 0; line-height: 1.45; }
