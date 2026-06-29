@@ -6,6 +6,14 @@ import urllib.error
 import urllib.request
 from typing import Any
 
+os.environ.setdefault("ANONYMIZED_TELEMETRY", "FALSE")
+try:
+    import posthog
+
+    posthog.capture = lambda *args, **kwargs: None
+except Exception:
+    pass
+
 from runtime.cobalt.flags import chroma2_url
 
 COLLECTION_NAME = "documents"

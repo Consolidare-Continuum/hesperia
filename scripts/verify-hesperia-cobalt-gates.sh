@@ -5,11 +5,17 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
 
+PY="${HESPERIA_PYTHON:-}"
+if [[ -z "${PY}" && -x "${ROOT}/.venv/bin/python3" ]]; then
+  PY="${ROOT}/.venv/bin/python3"
+fi
+PY="${PY:-python3}"
+
 fail() { echo "COBALT GATE FAIL: $*" >&2; exit 1; }
 ok() { echo "COBALT GATE OK: $*"; }
 
 echo "=== COBALT G1 — CHROMA-2 reachable ==="
-python3 - <<'PY' || fail "G1 CHROMA-2 unreachable"
+$PY - <<'PY' || fail "G1 CHROMA-2 unreachable"
 import urllib.request
 url = "http://chroma-2.prichindel.local:8002/api/v2/heartbeat"
 with urllib.request.urlopen(url, timeout=8) as r:
@@ -19,7 +25,7 @@ PY
 ok "G1"
 
 echo "=== COBALT G2 — Hesperia bounding on chunks (sample) ==="
-python3 - <<'PY'
+$PY - <<'PY'
 import chromadb
 c = chromadb.HttpClient(host="chroma-2.prichindel.local", port=8002)
 col = c.get_collection("documents")
@@ -39,11 +45,11 @@ else
 fi
 
 echo "=== COBALT G3 — pytest COBALT mock suite ==="
-python3 -m pytest tests/cobalt/test_cobalt_retrieve.py -q
+$PY -m pytest tests/cobalt/ -q
 ok "G3 dev tests"
 
 echo "=== COBALT G4 — facet scan (lang/library_layer) ==="
-python3 - <<'PY' || fail "G4 facet scan"
+$PY - <<'PY' || fail "G4 facet scan"
 import chromadb
 c = chromadb.HttpClient(host="chroma-2.prichindel.local", port=8002)
 col = c.get_collection("documents")
