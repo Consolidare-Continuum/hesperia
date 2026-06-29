@@ -39,3 +39,25 @@ def test_product_interpret_endpoint() -> None:
     body = r.json()
     assert body.get("schema") == "hesperia.product_interpret.v0_1"
     assert "router_envelope" in body
+    env = body["router_envelope"]
+    assert env.get("schema") == "hesperia.router_input_envelope.v0_1"
+    assert env.get("router_fingerprint")
+
+
+def test_product_interpret_llm_endpoint_decision_fields() -> None:
+    """HSR-V7-D-47: API returns router_decision + audit on llm path."""
+    app = create_app()
+    client = TestClient(app)
+    r = client.post(
+        "/product/interpret",
+        json={"text": "API LLM path with router decision.", "mode": "llm"},
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body.get("router_decision", {}).get("decision") in (
+        "ALLOW",
+        "WARN",
+        "REVIEW_REQUIRED",
+        "BLOCK",
+    )
+    assert body.get("router_output_audit", {}).get("schema") == "hesperia.router_output_audit.v0_1"
