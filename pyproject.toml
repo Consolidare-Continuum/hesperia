@@ -4,8 +4,8 @@
 
 [project]
 name = "hesperia-engine-dynamics"
-version = "0.6.0"
-description = "Hesperia Engine Dynamics — modular TFP mainline runtime seal (v0.6.0)"
+version = "0.6.5"
+description = "Hesperia Engine Dynamics — v7 router fusion milestone (v0.6.5)"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "Restricted Research Disclosure — see LEGAL_NOTICE.md" }
