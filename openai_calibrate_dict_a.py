@@ -12,7 +12,6 @@ from typing import Any, Iterable
 from openai_calibration_utils import (
     DEFAULT_OPENAI_MODEL,
     StructuredCall,
-    call_structured,
     load_jsonl,
     log_stderr,
     log_tool_banner,
@@ -20,6 +19,7 @@ from openai_calibration_utils import (
     save_json,
     timestamp_dir,
 )
+from sphere.calibration.llm_calibration import call_governed_calibration
 
 
 def _read_json(path: Path) -> Any:
@@ -317,16 +317,24 @@ def main() -> int:
         if args.dry_run:
             out_obj = {"segment_id": seg_id, "concepts": []}
         else:
-            prompt = (
+            task_instructions = (
                 "You are calibrating a TFP lexical concept extractor.\n"
                 "Return JSON that matches the provided schema.\n"
                 "Only use concept_id values from the ALLOWED_CONCEPT_IDS list.\n"
-                "If a concept is not clearly present, do not include it.\n\n"
-                f"SEGMENT_ID: {seg_id}\n"
-                f"TEXT:\n{text}\n\n"
-                f"ALLOWED_CONCEPT_IDS: {catalog}\n"
+                "If a concept is not clearly present, do not include it."
             )
-            out_obj = call_structured(prompt, DICT_A_SCHEMA, cfg=cfg)
+            out_obj = call_governed_calibration(
+                tool="dict_a",
+                task_instructions=task_instructions,
+                substrate={
+                    "segment_id": seg_id,
+                    "text": text,
+                    "allowed_concept_ids": catalog,
+                },
+                schema=DICT_A_SCHEMA,
+                cfg=cfg,
+                dry_run=False,
+            )
 
         pred_fh.write(json.dumps({"session_id": sid, **out_obj}, ensure_ascii=False, sort_keys=True) + "\n")
 

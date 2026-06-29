@@ -11,7 +11,6 @@ from typing import Any
 from openai_calibration_utils import (
     DEFAULT_OPENAI_MODEL,
     StructuredCall,
-    call_structured,
     ema,
     load_jsonl,
     log_tool_banner,
@@ -20,6 +19,7 @@ from openai_calibration_utils import (
     save_json,
     timestamp_dir,
 )
+from sphere.calibration.llm_calibration import call_governed_calibration
 
 
 def _read_json(path: Path) -> Any:
@@ -221,16 +221,24 @@ def main() -> int:
                 if not el:
                     continue
                 sid, seg_id, text = el
-                prompt = (
+                task_instructions = (
                     "You classify a transcript segment into TFP areas.\n"
                     "Return JSON matching the schema.\n"
                     "Provide a probability-like distribution (0..1) over the areas; values should sum to ~1.\n"
-                    "Pick dominant_area as the argmax.\n\n"
-                    f"SEGMENT_ID: {seg_id}\n"
-                    f"TEXT:\n{text}\n\n"
-                    f"AREAS: {area_ids}\n"
+                    "Pick dominant_area as the argmax."
                 )
-                out_obj = call_structured(prompt, schema, cfg=cfg)
+                out_obj = call_governed_calibration(
+                    tool="topology",
+                    task_instructions=task_instructions,
+                    substrate={
+                        "segment_id": seg_id,
+                        "text": text,
+                        "area_ids": area_ids,
+                    },
+                    schema=schema,
+                    cfg=cfg,
+                    dry_run=False,
+                )
                 areas = out_obj.get("areas") if isinstance(out_obj, dict) else None
                 if not isinstance(areas, dict):
                     seg_done += 1

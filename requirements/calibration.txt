@@ -1,0 +1,3 @@
+# Hesperia calibration — fpf-thinking-map pin (FPF-V7-13)
+-r router.txt
+fpf-thinking-map==1.2.1

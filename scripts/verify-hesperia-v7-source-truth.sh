@@ -68,6 +68,28 @@ else
     FAIL=1
 fi
 
+# 8. FPF-V7-13 calibration module (governed openai_calibrate_* path)
+if [ -f "$REPO_ROOT/sphere/calibration/llm_calibration.py" ]; then
+    echo "PASS  sphere/calibration/llm_calibration.py exists"
+else
+    echo "FAIL  sphere/calibration/llm_calibration.py missing"
+    FAIL=1
+fi
+
+if [ -f "$REPO_ROOT/requirements/calibration.txt" ] && grep -q "fpf-thinking-map" "$REPO_ROOT/requirements/calibration.txt"; then
+    echo "PASS  requirements/calibration.txt pins fpf-thinking-map"
+else
+    echo "FAIL  requirements/calibration.txt missing or unpinned"
+    FAIL=1
+fi
+
+if [ -d "$REPO_ROOT/tests/calibration" ]; then
+    echo "PASS  tests/calibration/ exists"
+else
+    echo "FAIL  tests/calibration/ missing"
+    FAIL=1
+fi
+
 echo ""
 if [ $FAIL -eq 0 ]; then
     echo "RESULT: ALL PASS — V7 source-of-truth verified"
