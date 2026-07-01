@@ -98,6 +98,28 @@ provide on their own (each of those describes a single run, not a comparison bet
 | `opposition` relation weight | 0.85 | Slightly discounted — opposition is treated as real but slightly less certain tension than direct conflict/negation. |
 | `LOUVAIN_SEED` | 42 | Makes innovation-cluster membership in the output reproducible run-to-run; without it, the same input could produce different cluster assignments. |
 
+## 8. Field Dynamics extension (`hesperia/extensions/dynamics/`) — internal, not yet on the output path
+
+Full account in `corners/field_dynamics.md`. Listed here for catalog completeness only: these ~47
+constants currently produce a separate, optional E2E artifact
+(`run_output_e2e_field_dynamics.json`) that `runtime/services/product_interpret_service.py` never
+reads — `EXTENSION_STATUS.yaml` classifies this extension's product surface as `internal`, not
+`optional`/shipped. None of the rows below change anything in `/product/interpret` output today;
+they are catalogued because they are live, tested, environment-gated code, not because they are
+reachable.
+
+| Parameter group | Count | Values / range | Meaning it would give the output, if connected |
+|---|---|---|---|
+| `Phase1Theta` (L6 area / L7 pressure / L9 stability) | 9 | `lambda_a=0.35, gamma_f=0.4, gamma_q=0.15, gamma_p=0.08, mu_a=0.4, delta_a=0.12, rho_a=0.02, lambda_c=0.3, alpha_in=0.25` | Decay/inject/diffuse/pressure-penalize dynamics for the 12-area state vector across turns. |
+| `Phase2Theta` (L5 family) | 9 | `lambda_f=0.35, beta_x=0.42, beta_intra=0.08, beta_area=0.1, beta_pf=0.06, mu_f=0.4, delta_f=0.1, rho_f=0.002, area_hit_weight=0.52` | Same shape one level down, at the 288-family grain; `area_hit_weight` blends direct hits vs. family-aggregate injection. |
+| `Phase3Theta` (L4 hex active subgraph) | 9 | `hex_cap=128, lambda_h=0.32, theta_c=0.45, theta_d=0.18, theta_p=0.06, mu_h=0.38, delta_h=0.08, rho_h=0.001, hex_hit_blend=0.48` | Same shape at the hex-cell grain, capped to a sparse active set (env-overridable via `HESPERIA_FIELD_DYNAMICS_HEX_CAP`, clamped `[8, 288]`). |
+| `Phase4Theta` (L8 cluster gravity) | 3 | `gravity_epsilon=0.055, tau_front=0.085, ephemeral_cap=96` | Cross-family cluster attraction and narrative-front-edge detection. |
+| Ξ tension proxy (`xi_proxy.py`) | 4 | `xi_scale=0.14` (env `HESPERIA_FIELD_DYNAMICS_XI_SCALE`), `xi_kme_weight=0.55`, plus hardcoded (non-env) blend constants `0.35`/`0.65` in `boost = xi_scale·(0.35·global + 0.65·per_area)` | Amplifies `contradiction_signal_12` from TRIZ rows (and optionally KME) — **on by default** (`HESPERIA_FIELD_DYNAMICS_XI` defaults `"1"`) whenever the master gate is on, unlike every other phase. |
+| HSPR Calibration Index (`calibration.py`) | 7 | 6 weighted components (`0.25/0.25/0.15/0.15/0.10/0.10` for stability/source-alignment/energy/contradiction/diffusion/resistance) + `source_alignment_kappa=1.0` | Grid-search fitness function for tuning the Phase-N thetas themselves — a meta-calibration score, not a runtime output value. |
+| Semantic Field v1 (`equations.py` / `semantic_field_v1.py`) | 11 | `alpha=0.15, beta=0.08, gamma=0.12, delta=0.25, mu=0.01, dt=0.05, epsilon=0.0001, tau=0.02, resistance_uniform=1.0, production_clip=true, signed_source_experimental=false` | A physically-styled diffusion-equation coefficient set (`E = (α/2)FᵀLF + (β/2)FᵀRF + (γ/2)FᵀCF − δSᵀF`) — **not the same constants** as the Phase-N thetas above despite sharing Greek letter names; gated separately behind `HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1`. |
+| DLCR blend (`e2e_bridge.py`) | 1 | `dlcr_alpha=0.22` | Weight for lexical-concept-recovery hits blended into family injection; gated behind `HESPERIA_FIELD_DYNAMICS_DLCR`. |
+| `profiles_v1.json` hex reference (dead) | 5 | `alpha_H=0.12, beta_H=0.06, gamma_H=0.1, delta_H=0.22, dt=0.05` | Documentation-only values — not loaded by any live code path. Listed to close the count, not because they do anything. |
+
 ## How to use this file
 
 This is a lookup table, not an argument. When a number in an output (a governance score, a

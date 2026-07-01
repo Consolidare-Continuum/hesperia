@@ -299,6 +299,11 @@ not incidental.
   about it.
 - [`corners/corpus_wiring.md`](corners/corpus_wiring.md) — what corpus exists, what's done to it
   (gap analysis, feature extraction, freezing), and what never ships.
+- [`corners/field_dynamics.md`](corners/field_dynamics.md) — the ~47-constant Phase 1–4 field
+  dynamics extension (`hesperia/extensions/dynamics/`): opt-in, environment-gated (Ξ tension on by
+  default, everything else off), wired into the E2E release proof but **not** into
+  `/product/interpret` — `internal` product surface, not `optional`/shipped. The subsystem this
+  Phase 2 documentation pass originally missed because it sits off the traced output path.
 - [`corners/core_math_contract.md`](corners/core_math_contract.md) — the pre-v0.4 Core Math
   Contract (22_SPEC), still live as `core/math/core_math.py`: fusion, diffusion, the five penalties,
   composite governance/obstacle scores, conservation invariants, and an honest accounting of which
@@ -422,6 +427,12 @@ not incidental.
 - [`parameter_catalog.md`](parameter_catalog.md) — every explicit math constant in the system,
   ground up from geometry through FGR calibration to KME/TRIZ, with what specific meaning each one
   contributes to the final output (not what it is — what changes in the output if it changes).
+- [`output_catalog.md`](output_catalog.md) — the other half of that question: every named,
+  user/LLM-facing aggregated variable from L1 through `fpf_bridge`, which of the two live product
+  surfaces (`/analyze` vs. `/product/interpret`) actually returns it, and — for the handful of
+  variables with real multi-layer composition depth (`SYSTEM_CONFIDENCE_SCORE`,
+  `EVIDENCE_SUPPORT_INDEX_BASELINE`) — traced end to end as worked examples rather than left as a
+  layer count.
 - [`parameter_synergies.md`](parameter_synergies.md) — which parameters from different stages
   combine to produce a signal neither gives alone (KME primitive pairs, propagation/shadow-correction
   weight pairs, Sigma-AND-Gamma guard gating), and the worked example of exactly what trust/freshness
@@ -432,3 +443,23 @@ not incidental.
   BELL, KSI, GCS, Sigma/Gamma/Theta): where each name actually comes from, whether `grep` finds it
   running in `core`/`sphere`/`runtime`, and where it's documented. Distinguishes externally-sourced
   theory genuinely wired into the system from names that exist only in a spec.
+
+### Standards-mapped and publication tiers (built on top of, not instead of, the above)
+
+This package (`docs/foundations/`) stays the engineering-reasoning tier. Two further tiers
+re-organize the same source-verified facts for different audiences — every claim in them cites back
+here rather than re-deriving it. Master registry, entry points, and maintenance rule for both tiers:
+[`../iso/DOCUMENTATION_TRACEABILITY_MATRIX.md`](../iso/DOCUMENTATION_TRACEABILITY_MATRIX.md).
+
+- `docs/iso/` — standards-mapped project documentation: `ARCHITECTURE_DESCRIPTION.md` (42010),
+  `REQUIREMENTS_SPECIFICATION.md` (29148), `QUALITY_MODEL.md` (25010), `LIFECYCLE_PROCESS.md`
+  (12207), `OPERATOR_GUIDE.md` (26511/26512).
+- `docs/publication/` — the scientific-publication-facing track:
+  `NOVELTY_AND_POSITIONING.md` (the invention-vs-innovation statement every paper draft should cite
+  instead of re-arguing), `METHODS.md`, `VALIDATION_EVIDENCE.md`, `REPRODUCIBILITY_PACKAGE.md`,
+  `TERMINOLOGY_AND_ABBREVIATIONS.md` (the academic nomenclature register — every abbreviation in
+  this documentation program, verified/inferred/proposed/unresolved, including the 35 KME
+  derived-metric codes that have no stated expansion anywhere in source), `SCIENCE.md` (~35 named
+  scientific/engineering works across 11 disciplines, each scored on a 5-level extent-of-application
+  taxonomy from full-verbatim to explicitly-rejected — the citation register
+  `NOVELTY_AND_POSITIONING.md`'s composition-level claim sits on top of).

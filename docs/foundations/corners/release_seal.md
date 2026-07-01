@@ -85,3 +85,19 @@ external consumers.
 - Is the corner every era documented in `eras/` ultimately answers to: a new
   capability isn't "done" in Hesperia's own terms until it can pass through
   this corner's seal process.
+
+## Documentation seal checklist (added: ISO-grade documentation program)
+
+The same seal discipline this corner applies to code now applies to the standards-mapped
+documentation tier at `docs/iso/` and `docs/publication/` (see
+`docs/iso/DOCUMENTATION_TRACEABILITY_MATRIX.md`). On every version seal, before `system_seal.json`
+is signed:
+
+- Check every `built`-status row in `docs/iso/DOCUMENTATION_TRACEABILITY_MATRIX.md` — if a row's
+  `last_verified_against_commit` is behind the commit being sealed, re-verify that document's
+  specific claims against current source before the seal proceeds. Do not re-seal on an unverified
+  or stale documentation row.
+- This is not a new process; it is the existing seal discipline extended to one more artifact
+  class, following `docs/foundations/corners/calibration.md`'s own precedent, where a stale example
+  pin value was caught and corrected specifically by this documentation program's verification pass
+  (`docs/publication/REPRODUCIBILITY_PACKAGE.md` §1).

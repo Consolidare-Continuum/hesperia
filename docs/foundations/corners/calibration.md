@@ -47,7 +47,9 @@ produces authority": calibration tooling is allowed to use an LLM because its
 output becomes canon *data*, never canon *logic*.
 
 ## Why calibration artifacts are pinned by name in `VERSION.yaml`
-(`active_calibration_dict_pack: "v0_6_0_clr_v052_2"`)
+(`active_calibration_dict_pack: "archive_063_minimal"` as of commit `63a2295b` — this pin moves
+with the release; re-read `VERSION.yaml` directly rather than trusting this example value, per
+`docs/publication/REPRODUCIBILITY_PACKAGE.md` §1)
 
 Pinning the exact dictionary-pack name in the single system-version source of
 truth — rather than letting the runtime pick "whatever calibration data is
@@ -71,3 +73,7 @@ exists to prevent (see `corners/release_seal.md`).
   swapped.
 - Feeds the release/seal process described in `corners/release_seal.md`,
   which checks calibration pin consistency as part of certifying a build.
+- Distinct from `corners/field_dynamics.md`'s own `calibration.py` (HSPR Calibration Index, a
+  grid-search fitness function scoped only to tuning the Phase-N theta constants) — that is a
+  narrower, self-contained instance of "calibration as a governed process," not yet integrated
+  into the pinned `active_calibration_dict_pack` this corner describes.
