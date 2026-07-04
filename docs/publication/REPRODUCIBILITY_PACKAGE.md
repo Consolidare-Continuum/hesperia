@@ -58,7 +58,9 @@ The complete, source-verified list of `core/math/core_math.py`'s `DEFAULT_CONFIG
 `tau_core=0.25`, `k_thin=0.30`, `k_disp=0.25`, `k_guard=0.30`, `k_shadow=0.40`,
 `max_shadow_hops=2`, `w_decay/w_guard_obs/w_shadow_obs = 0.50/0.30/0.20`) is not repeated here to
 avoid a second copy drifting from the first — the authoritative table is
-`docs/foundations/parameter_catalog.md` §3. Cite that table directly.
+`docs/foundations/parameter_catalog.md` §3. If the publication needs the *reason* or theory lineage
+for a value instead of just the value itself, cite
+`docs/foundations/parameter_rationale_and_theory.md` alongside it.
 
 ## 5. Restored canonical specs (for reproducing the layer-level math independently of this code)
 

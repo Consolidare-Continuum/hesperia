@@ -480,6 +480,10 @@ names, branch scope, math claims, and remote choices from drifting during real w
 - [`parameter_catalog.md`](parameter_catalog.md) — every explicit math constant in the system,
   ground up from geometry through FGR calibration to KME/TRIZ, with what specific meaning each one
   contributes to the final output (not what it is — what changes in the output if it changes).
+- [`parameter_rationale_and_theory.md`](parameter_rationale_and_theory.md) — the academic companion
+  to `parameter_catalog.md`: why each parameter or parameter family exists, why its value/range is
+  shaped the way it is, and which theory family it borrows from, with verified-vs-inferred honesty
+  called out explicitly.
 - [`output_catalog.md`](output_catalog.md) — the other half of that question: every named,
   user/LLM-facing aggregated variable from L1 through `fpf_bridge`, which of the two live product
   surfaces (`/analyze` vs. `/product/interpret`) actually returns it, and — for the handful of

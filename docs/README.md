@@ -26,6 +26,7 @@ already there.
 | Understand the whole system, top-down | [`foundations/00_INDEX.md`](foundations/00_INDEX.md) |
 | Start an agentic/code-aware cold run safely | [`foundations/agentic_orientation.md`](foundations/agentic_orientation.md) |
 | Find every calibration constant and what it does to the output | [`foundations/parameter_catalog.md`](foundations/parameter_catalog.md) |
+| Defend why a parameter has its value and what theory family it comes from | [`foundations/parameter_rationale_and_theory.md`](foundations/parameter_rationale_and_theory.md) |
 | Find every user/LLM-facing output variable | [`foundations/output_catalog.md`](foundations/output_catalog.md) |
 | Check what's canonical/cited vs. Hesperia-native | [`foundations/provenance.md`](foundations/provenance.md) |
 | See the master registry of every ISO/publication document, its status, and its verification commit | [`iso/DOCUMENTATION_TRACEABILITY_MATRIX.md`](iso/DOCUMENTATION_TRACEABILITY_MATRIX.md) |
@@ -46,7 +47,9 @@ docs, 11 layer docs, 8 era docs, and the reference/catalog files. Do not re-list
 `00_INDEX.md`'s own "Map of the rest of this package" section is the authoritative index and this
 file would drift from it if duplicated. The companion agentic entrypoint is
 [`foundations/agentic_orientation.md`](foundations/agentic_orientation.md): read that when the job
-is "work in the repo safely" rather than "learn the architecture from bedrock."
+is "work in the repo safely" rather than "learn the architecture from bedrock." The companion
+parametric-academic entrypoint is
+[`foundations/parameter_rationale_and_theory.md`](foundations/parameter_rationale_and_theory.md).
 
 ### `iso/` — standards-mapped project documentation
 

@@ -27,6 +27,7 @@ the top of each spec is authoritative, not this index.
 
 | Doc | Topic |
 |-----|--------|
+| [foundations/parameter_rationale_and_theory.md](foundations/parameter_rationale_and_theory.md) | Why the constants have these values/ranges, and what theory families they belong to |
 | [24_SPEC__Hesperia_Metric_and_Distance_v0_1.md](specs/24_SPEC__Hesperia_Metric_and_Distance_v0_1.md) | **HesperiaMetric** registry, `metric_layer` enum, `S_path`, runtime emit flags |
 | [ENGINE-ANALYZE-CONTRACT.md](../ENGINE-ANALYZE-CONTRACT.md) | `/analyze` response — optional `meta.hesperia_metric` when `HESPERIA_METRIC_EMIT=1` |
 

@@ -1,11 +1,13 @@
 # Parameter catalog — every explicit constant in the system, ground up, and what it means for the output
 
 `parameter_synergies.md` explains which parameters combine and why. The corner docs explain why
-each module exists. This file is the flat reference neither of those is: every named, explicit
-math constant currently live in the system, in pipeline order from geometry up to the final
-LLM-facing output, with **what specific meaning it contributes to the output** — not "what it is,"
-but "what changes in the final artifact if this number changes." Values are read directly from the
-canon YAMLs and `core/math/core_math.py`'s `DEFAULT_CONFIG`, not paraphrased.
+each module exists. `parameter_rationale_and_theory.md` answers the academic companion question:
+why each parameter is there, why its value/range makes sense, and what theory family it belongs to.
+This file is the flat reference neither of those is: every named, explicit math constant currently
+live in the system, in pipeline order from geometry up to the final LLM-facing output, with
+**what specific meaning it contributes to the output** — not "what it is," but "what changes in
+the final artifact if this number changes." Values are read directly from the canon YAMLs and
+`core/math/core_math.py`'s `DEFAULT_CONFIG`, not paraphrased.
 
 ## 0. Geometry constants — the fixed shape everything else is computed over
 
