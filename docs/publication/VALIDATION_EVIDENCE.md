@@ -18,7 +18,11 @@ Command run: `pytest tests/router tests/calibration tests/test_product_interpret
 **Scope note:** this is narrower than the full repository test surface (294 test files total under
 `tests/`, per `docs/iso/QUALITY_MODEL.md`). This figure covers specifically the V7 router,
 calibration, and `/product/interpret` surfaces — the governed LLM-boundary path described in
-`docs/publication/METHODS.md` §5. It does not represent a full-repository pass rate claim.
+`docs/publication/METHODS.md` §5. In the repo's later productization language, this is also the
+strongest currently-cited validation surface behind phrases like **deterministic validation** and
+**audit trace**. It does not represent a full-repository pass rate claim, and it does not by
+itself validate pricing, willingness-to-pay, or other GTM claims preserved separately in
+`UPCELERATOR_PRODUCTIZATION_QA.md`.
 
 ## 2. Source-of-truth verification script
 
@@ -42,7 +46,9 @@ checked against the actual shipped files, not an aspirational roadmap.
 (`docs/iso/LIFECYCLE_PROCESS.md` §4) are the mechanism by which "same input, same output" is
 actively tested per build, not assumed from architecture. This document does not re-run a
 determinism check in this pass — the mechanism's existence and its role in the seal process is
-already verified in `corners/release_seal.md`.
+already verified in `corners/release_seal.md`. This is the technical substrate underneath the
+productization phrase **stable, auditable meaning by design**: the wording is marketing-facing, but
+the determinism claim it points to is meant literally and is backed here by named mechanisms.
 
 ## 5. What this index does not yet cover
 

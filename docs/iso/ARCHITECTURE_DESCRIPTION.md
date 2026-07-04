@@ -97,6 +97,11 @@ boundary is the system's actual novel contribution, not an implementation detail
 **Concern addressed:** what does an external caller actually receive, and under which of the two
 live contracts.
 
+In the repo's later productization wording (`docs/publication/UPCELERATOR_PRODUCTIZATION_QA.md`),
+this viewpoint is the system location closest to phrases like **deterministic validation**,
+**accountable AI**, and **evidence-grade audit trace**. Those are buyer-language summaries of this
+surface, not alternate architecture.
+
 Two independently-versioned response contracts coexist — see `output_catalog.md` §0 for the full,
 source-verified field-by-field breakdown, not restated here:
 
@@ -104,7 +109,8 @@ source-verified field-by-field breakdown, not restated here:
   contract `HesperiaPublicSnapshot.from_engine_result()` parses against.
 - **`/product/interpret`** (FPF-V7-12, `runtime/services/product_interpret_service.py`) — the
   current governed V7 router surface, gated by `HESPERIA_ROUTER_MODE`
-  (`observe`/`warn`/`strict`).
+  (`observe`/`warn`/`strict`). If a product or pilot needs the buyer-facing artifact described in
+  the productization docs, this is the contract family it is actually talking about.
 
 ## 7. Analytical Read-Only Viewpoint
 

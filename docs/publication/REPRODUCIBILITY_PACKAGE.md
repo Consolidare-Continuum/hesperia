@@ -5,6 +5,10 @@ or `docs/foundations/`. All values below were read directly from `VERSION.yaml` 
 `parameter_catalog.md` at commit `63a2295b` — treat any earlier-circulated figure that disagrees
 with this document as stale, not this document as wrong.
 
+In productization language, this is part of what lets Hesperia speak about an **audit trace** with
+technical seriousness: version pins, deterministic seeds, and numeric tolerances are what make a
+claimed validation artifact reproducible instead of merely presentable.
+
 ## 1. System version pins (`VERSION.yaml`)
 
 | Field | Value |

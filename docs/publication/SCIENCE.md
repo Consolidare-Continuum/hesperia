@@ -139,6 +139,14 @@ question about these as about TRIZ or FPF:
 | **ISO/IEC/IEEE 15289** (content of life-cycle information items) | The traceability-matrix-as-information-item-register pattern | **Structural analogy** | `docs/iso/DOCUMENTATION_TRACEABILITY_MATRIX.md` |
 | **ISO/IEC/IEEE 26511/26512** (user documentation) | Practical operator-guide structure | **Structural analogy** | `docs/iso/OPERATOR_GUIDE.md` |
 
+## L. Productization-language boundary
+
+The dated productization wording preserved in `UPCELERATOR_PRODUCTIZATION_QA.md` ("accountable AI,"
+"deterministic validation," "evidence-grade audit trace") is **not** a separate scientific layer.
+It is a buyer-facing summary of mechanisms already registered above: determinism, auditability,
+governed narration, and reproducible evidence routing. This note exists so later documentation runs
+do not accidentally treat product phrasing as if it named a new theory family of its own.
+
 ## Summary count
 
 Approximately **35 distinct named scientific/engineering works** across 11 disciplines are
