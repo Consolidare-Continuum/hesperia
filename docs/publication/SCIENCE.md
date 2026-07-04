@@ -23,6 +23,10 @@ so a co-author knows which citations to double-check against a primary source be
 submission, and which are already load-bearing quotes from this project's own prior verification
 work.
 
+This register follows the same branch discipline as the rest of the documentation program: a
+scientific technique used first in TFP- or COBALT-facing work is still registered here at the level
+of the core mechanism it actually serves, unless a cited spec explicitly narrows the scope.
+
 ## Extent-of-application taxonomy
 
 Every row below is scored against one of five extents, so "we use X" never means five different

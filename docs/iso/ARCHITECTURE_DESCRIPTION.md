@@ -5,6 +5,10 @@ This document does not re-derive Hesperia's architecture — `docs/foundations/0
 facts into the stakeholder/concern/viewpoint structure ISO/IEC/IEEE 42010 expects, so an auditor or
 new engineer can find "what viewpoint answers my concern" without reading the full foundations
 package first. Every factual claim below cites the `docs/foundations/` file it is drawn from.
+For an executing agent rather than an auditor, pair this document with
+`docs/foundations/agentic_orientation.md`: the architecture here says **what exists**; the
+agentic-orientation pass says **how to speak about it without drifting on names, branch scope, or
+math claims**.
 
 ## 1. Stakeholders and their concerns
 
@@ -112,11 +116,14 @@ a caller.
 - **KME** (Knowledge Metrics Engine, `corners/kme.md`) — six bounded primitives (`LD, COH, NC, PR,
   PV, CI`) reduced from the activation graph, 35 pure-algebra derived ratios (formulas verified
   letter-for-letter against `hesperia/engine/kme/derived/calculator.py` — `output_catalog.md` §10),
-  and a 41-element hashed fingerprint for cross-run/cross-document structural comparison.
+  and a 41-element hashed fingerprint for cross-run/cross-document structural comparison. KME is a
+  core semantic mechanism, not a TFP-only subsystem; TFP was simply the first branch it was
+  validated against.
 - **TRIZ** (`corners/triz_extension.md`) — a deliberately narrow slice of Altshuller's framework (3
   relation kinds, 4 of 40 principles, no full 39×39 matrix), exporting three named
   decision-intelligence products (`output_catalog.md` §11), read-only over the same concept graph
-  KME consumes.
+  KME consumes. TRIZ is likewise general-purpose core analytics, not COBALT-only; COBALT is one
+  branch where those exports may be especially useful.
 
 Both are explicitly read-only against everything in §2–§6 — see each corner's own "why read-only"
 section for why that boundary is load-bearing, not incidental (`00_INDEX.md`'s summary of this
@@ -193,7 +200,7 @@ coincidental, not a cross-reference.
 | `layers/L10_analysis_report_placeholder.md` | Declared, not implemented — a placeholder stub in `pipeline_runner.py`; active governance consequence is `THETA_004` (verified, `REQUIREMENTS_SPECIFICATION.md` NFR-G1). Registered here as an honest gap, not a built layer. |
 | `layers/GUARDS_sigma_gamma_theta.md` | Full invariant-by-invariant detail behind §4 Guard Viewpoint — 15 Sigma, 8 Gamma, 5 Theta invariants |
 
-### A.3 Eras (7 total) — why this architecture looks this way, not just what it is
+### A.3 Eras (8 total) — why this architecture looks this way, not just what it is
 
 42010 doesn't require a historical viewpoint, but every architectural boundary in §2–§7 above was a
 response to a specific, dated gap — recording that trace here prevents a future reader from

@@ -42,6 +42,11 @@ Citing it as canonical is not a concession — it is what makes the actually-nov
 reviewer who can verify "yes, that's textbook Shannon entropy" can then evaluate the real claim on
 its own terms instead of being asked to take the whole system on faith.
 
+The same honesty applies to branch naming: KME and TRIZ are not publication-safe to describe as
+"TFP mechanisms" or "COBALT mechanisms" merely because those branches validated or consumed them
+first. They are core semantics with branch-specific applications unless a narrower spec explicitly
+says otherwise.
+
 ## What is genuinely Hesperia's composition — the actual contribution
 
 1. **The pre-LLM/post-LLM measurement boundary itself.** A deterministic pipeline (L1–L10) produces
@@ -72,7 +77,8 @@ its own terms instead of being asked to take the whole system on faith.
    `clamp01`/`safe_div` failure-handling discipline applied uniformly across all 35 derived metrics,
    and the fixed-order 41-element hashed fingerprint are original engineering decisions that make
    two structural reads comparable in a way no single upstream layer provides on its own
-   (`corners/kme.md`).
+   (`corners/kme.md`). This is a comparability artifact over the core concept graph, not a
+   branch-owned metric family.
 6. **The FGR-calibrated evidence-primitive handoff to the LLM** — FGR (Formality/Ground/Scope/
    Reliability) itself is FPF's trust calculus (cited above, not invented), but *applying* it as the
    literal permission gate for what an LLM is allowed to narrate at what confidence level, wired

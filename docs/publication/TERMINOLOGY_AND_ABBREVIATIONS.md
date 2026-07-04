@@ -23,6 +23,7 @@ from; do not re-expand an abbreviation ad hoc in a new document without checking
 | Abbreviation | Expansion | Status | Source |
 |---|---|---|---|
 | L1–L11 | Layer 1 through Layer 11 (the numbered pipeline stack; L1–L9 canonical math, L10 declared placeholder, L11 the fpf_bridge) | VERIFIED | `docs/foundations/00_INDEX.md`, `output_catalog.md` |
+| Core / TFP / COBALT / MRT | Not abbreviations — branch-scope names: core = sealed engine, TFP and COBALT = branch applications on top of core, MRT = closed branch on a different grid | VERIFIED | `AGENTS.md`, `docs/foundations/agentic_orientation.md` |
 | LLM | Large Language Model | VERIFIED | standard field term, used throughout |
 | USF | Universal Structural Fingerprint | VERIFIED | `corners/interpretation_usf.md`, `specs/canon/usf_schema.json` |
 | BFS | Breadth-First Search | VERIFIED | standard graph-theory term; L2 traversal (`corners/topology_geometry.md`) |
@@ -41,6 +42,7 @@ from; do not re-expand an abbreviation ad hoc in a new document without checking
 | FGR | Formality, Ground/Scope, Reliability | VERIFIED | `provenance.md` — FPF Part B.3, "Trust & Assurance Calculus" |
 | FPF | First Principles Framework | VERIFIED | `provenance.md` — external, authored by Anatoly Levenchuk |
 | fpf-thinking-map | Not an acronym — a PyPI package name (the Hesperia/Felix-side engineering artifact operationalizing FPF as executable Python) | VERIFIED | `provenance.md` |
+| agentic bridge | Not an acronym — shorthand for `runtime/agentic_bridge/`, the external-agent, read-only wrapper around Layer 11 | VERIFIED | `AGENTS.md`, `specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md` |
 | NFR / FR | Non-Functional Requirement / Functional Requirement | VERIFIED | `docs/iso/REQUIREMENTS_SPECIFICATION.md` (this documentation program's own convention, ISO/IEC/IEEE 29148-standard usage) |
 | SQuaRE | Software Quality Requirements and Evaluation | VERIFIED | ISO/IEC 25010's own name for its model family, used in `docs/iso/QUALITY_MODEL.md` |
 | LTS | Long-Term Support | VERIFIED | standard industry term, this documentation program's own framing |

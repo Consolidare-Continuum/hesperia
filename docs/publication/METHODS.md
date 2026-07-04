@@ -6,6 +6,11 @@ every claim below lives in `docs/foundations/` and is cited, not repeated. See
 `docs/publication/NOVELTY_AND_POSITIONING.md` for what in this method is canonical vs. original
 composition — this document describes *what the system does*, not *what's new about it*.
 
+Naming discipline matters here: **core** means the sealed measurement engine; **TFP** and
+**COBALT** are branches/applications on top of that core; **MRT** is a closed branch on a different
+grid. A mechanism first validated on one branch is not renamed into branch-exclusive ownership
+unless the cited spec explicitly scopes it that way.
+
 ## 1. Problem setting
 
 Given free text, produce a bounded, falsifiable structural measurement, then — optionally — let a
@@ -77,10 +82,12 @@ producing one of four verdicts: ALLOW, WARN, REVIEW, BLOCK. Mechanism: `sphere/f
 - **KME** (Knowledge Metrics Engine): 6 bounded primitives reduced from the activation graph, 35
   pure-algebra derived ratios/products (formulas verified letter-for-letter against source), and a
   41-element hashed fingerprint enabling cross-run/cross-document structural comparison. Never
-  written back into the measurement cascade. (`output_catalog.md` §10, `corners/kme.md`)
+  written back into the measurement cascade. KME is core semantics, not TFP-only; branch usage does
+  not change that. (`output_catalog.md` §10, `corners/kme.md`)
 - **TRIZ** (contradiction/innovation analytics): a narrow, explicitly-scoped slice of Altshuller's
   framework (3 relation kinds, 4 of 40 principles) applied read-only over the same concept graph,
-  exporting three named decision-intelligence products. (§11, `corners/triz_extension.md`)
+  exporting three named decision-intelligence products. TRIZ is likewise core analytics rather than
+  COBALT-only; some COBALT workflows simply consume it. (§11, `corners/triz_extension.md`)
 
 ## 7. What this method does not include
 
@@ -93,6 +100,12 @@ of this method as evaluated. See `docs/foundations/corners/field_dynamics.md` an
 
 Exact constants, seeds, and version pins needed to reproduce any specific numeric claim from this
 method are catalogued in `docs/publication/REPRODUCIBILITY_PACKAGE.md`, not restated here.
+
+Terminology precision rule for publication drafts built from this Methods section: speak in terms
+of the math actually implemented. Use **Markov-like** for the deterministic state-sequence stepping
+shape in `core/math/core_math.py`, and **Shannon entropy** for the entropy measures; do not upgrade
+those claims to fitted Markov models or Kolmogorov-complexity machinery unless the codebase
+actually changes to implement them.
 
 ## Navigation
 
