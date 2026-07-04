@@ -105,7 +105,8 @@ than assume.
 
 → [`specs/canon/fpf_bridge_v7_2_evidence_expansion.md`](../../specs/canon/fpf_bridge_v7_2_evidence_expansion.md),
 [`specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md`](../../specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md),
-[`specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md`](../../specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md)
+[`specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md`](../../specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md),
+[`eras/08_fpf_bridge_v7_2_v7_4.md`](eras/08_fpf_bridge_v7_2_v7_4.md)
 
 ---
 
@@ -463,6 +464,9 @@ not incidental.
   frozen `anchor_map_v1`.
 - [`eras/07_v7_router_fpf_bridge.md`](eras/07_v7_router_fpf_bridge.md) — the read-only LLM reasoning
   bridge, Layer 11.
+- [`eras/08_fpf_bridge_v7_2_v7_4.md`](eras/08_fpf_bridge_v7_2_v7_4.md) — evidence expansion, the
+  agentic Cursor interface, and COBALT corpus scale-up prep; two self-corrections recorded (KME/TRIZ
+  domain scoping, `GateDecision.BLOCK`).
 
 ### References
 

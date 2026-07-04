@@ -208,6 +208,7 @@ response to a specific, dated gap — recording that trace here prevents a futur
 | `eras/05_sealed_0.6.x.md` | The 0.6.0 sealed mainline and dev/prod split — origin of `docs/iso/LIFECYCLE_PROCESS.md` §5 |
 | `eras/06_metric_wave_v0.7.0.md` | The `metric_layer` registry and frozen `anchor_map_v1` — origin of §7's `metric_registry.md` entry |
 | `eras/07_v7_router_fpf_bridge.md` | The read-only LLM reasoning bridge, Layer 11 — origin of §5 LLM Boundary Viewpoint entirely |
+| `eras/08_fpf_bridge_v7_2_v7_4.md` | Evidence expansion + agentic Cursor interface — extends §5's LLM Boundary Viewpoint (wider evidence surface, same read-only guarantee) without redefining it |
 
 ## Correspondence rules (42010's required cross-viewpoint consistency statement)
 

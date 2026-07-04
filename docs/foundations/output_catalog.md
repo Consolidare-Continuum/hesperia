@@ -445,6 +445,20 @@ a **projection**: one active state, its legal next transitions with evidence req
 pre-evaluated Sigma/Gamma/Theta guard verdicts as closures, and FGR-calibrated evidence primitives
 (`parameter_catalog.md` §5's "permission to narrate at a given confidence level," not a number).
 
+**Evidence surface, as of `fpf_bridge_v7_2` (2026-07-04, flag-gated off by default, ratification
+pending — `specs/canon/fpf_bridge_v7_2_evidence_expansion.md`):** the original 7 signal types (5
+rule types, raw area activations, one stability score) are joined by, when
+`HESPERIA_FPF_EVIDENCE_EXPANSION`/`HESPERIA_FPF_CONTRADICTION_GATE`/`HESPERIA_FPF_KME_EVIDENCE` are
+set — L5's `contradiction_pressure`/`counter_evidence_gate` (with the native `contradicts` field
+finally populated, naming which evidence a contradiction is actually in tension with), L7's
+`trust_tier`/`system_confidence`/`decision_status`, L4's `evidence_support_baseline`, KME's 6
+primitives + `kme_ksi`, and TRIZ's `triz_contradiction_*` (explicitly namespaced apart from
+`contradiction_pressure` — two independently-computed contradiction mechanisms, never averaged).
+KME and TRIZ evidence defaults to the same core bounded context as everything else — both are
+general-purpose Hesperia mechanisms, not TFP-/COBALT-exclusive, a correction made mid-build to the
+spec that introduced them. None of this changes the projection discipline above: still a menu of
+FGR-scored evidence and legal transitions, never the raw L1–L9 dict.
+
 ## 13. Excluded on purpose: `field_dynamics`
 
 `hesperia/extensions/dynamics/` produces real, named, tested output variables (`area_a`, `p_a`,
