@@ -297,6 +297,11 @@ not incidental.
 
 ## Map of the rest of this package
 
+If you are here as an executing agent rather than a reader, pair this file with
+[`agentic_orientation.md`](agentic_orientation.md). `00_INDEX.md` explains the architecture from
+roof to bedrock; `agentic_orientation.md` explains the five-pass cold-start discipline that keeps
+names, branch scope, math claims, and remote choices from drifting during real work.
+
 ### Corners (one file per architectural concern)
 
 - [`corners/lexicon_resolver.md`](corners/lexicon_resolver.md) — Dict A / Dict B / Dict C freeze discipline; the
@@ -470,6 +475,8 @@ not incidental.
 
 ### References
 
+- [`agentic_orientation.md`](agentic_orientation.md) — the shortest safe cold-start path for agents:
+  five passes (surface, branch, names, math, execution), plus the owner map and anti-drift rules.
 - [`parameter_catalog.md`](parameter_catalog.md) — every explicit math constant in the system,
   ground up from geometry through FGR calibration to KME/TRIZ, with what specific meaning each one
   contributes to the final output (not what it is — what changes in the output if it changes).

@@ -2,6 +2,13 @@
 
 **Updated:** 2026-07-04 (fpf_bridge v7.2–v7.4 wave)
 
+## Agentic entry
+
+| Doc | Topic |
+|-----|--------|
+| [foundations/agentic_orientation.md](foundations/agentic_orientation.md) | Five-pass cold-start protocol for agentic work: branch naming, math posture, owner map, anti-drift rules |
+| [../AGENTS.md](../AGENTS.md) | Repo-local execution rules and Hesperia-specific behavior |
+
 ## Layer 11 — fpf_bridge (LLM reasoning bridge) and its extensions
 
 | Doc | Topic |

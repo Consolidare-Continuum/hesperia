@@ -24,6 +24,7 @@ already there.
 | If you need to... | Start at |
 |---|---|
 | Understand the whole system, top-down | [`foundations/00_INDEX.md`](foundations/00_INDEX.md) |
+| Start an agentic/code-aware cold run safely | [`foundations/agentic_orientation.md`](foundations/agentic_orientation.md) |
 | Find every calibration constant and what it does to the output | [`foundations/parameter_catalog.md`](foundations/parameter_catalog.md) |
 | Find every user/LLM-facing output variable | [`foundations/output_catalog.md`](foundations/output_catalog.md) |
 | Check what's canonical/cited vs. Hesperia-native | [`foundations/provenance.md`](foundations/provenance.md) |
@@ -41,9 +42,11 @@ already there.
 ### `foundations/` — engineering reasoning (pre-existing, source-verified)
 
 Entry point: [`foundations/00_INDEX.md`](foundations/00_INDEX.md), which itself indexes 22 corner
-docs, 11 layer docs, 7 era docs, and the reference/catalog files. Do not re-list them here —
+docs, 11 layer docs, 8 era docs, and the reference/catalog files. Do not re-list them here —
 `00_INDEX.md`'s own "Map of the rest of this package" section is the authoritative index and this
-file would drift from it if duplicated.
+file would drift from it if duplicated. The companion agentic entrypoint is
+[`foundations/agentic_orientation.md`](foundations/agentic_orientation.md): read that when the job
+is "work in the repo safely" rather than "learn the architecture from bedrock."
 
 ### `iso/` — standards-mapped project documentation
 
@@ -70,8 +73,9 @@ file would drift from it if duplicated.
 ## For an agent picking up this project cold
 
 1. Read this file.
-2. Read [`foundations/00_INDEX.md`](foundations/00_INDEX.md) if you need system understanding;
-   skip it if you only need one specific fact — use the table above instead.
+2. Read [`foundations/agentic_orientation.md`](foundations/agentic_orientation.md) if you are about
+   to act broadly as an agent; read [`foundations/00_INDEX.md`](foundations/00_INDEX.md) if you
+   need system understanding. For a single narrow fact, use the table above instead.
 3. Read [`iso/DOCUMENTATION_TRACEABILITY_MATRIX.md`](iso/DOCUMENTATION_TRACEABILITY_MATRIX.md) to
    see what's `built` vs. still `todo`/`draft`, and each document's last-verified commit — if your
    `HEAD` has moved past that commit for a row you're about to rely on, re-verify before trusting it.
