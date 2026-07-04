@@ -15,7 +15,22 @@ era — three days with no commits, despite `sphere/fpf_bridge/` (Era 7's entire
 whole v0.7.0 metric wave sitting finished, tested, and documented in the working tree the entire
 time. The first two commits of this era (`6596c6cf`, `df96723c`) are that backlog finally landing —
 not new work, just work that had never been checked in. `707737b9` is this era's actual new code;
-`3b283a1e` is this documentation pass.
+`3b283a1e`, `eec627ac`, `b811319b` are this era's documentation and ISO-traceability passes.
+
+**The "sealed core stays untouched" claim, checked rather than asserted:**
+
+```
+$ git diff --stat 9e22af32..HEAD -- core/
+(empty)
+```
+
+Every corner doc in this program says Layer 11 and its extensions are read-only against the sealed
+pipeline. This era is the first place that claim is checkable against this specific era's own diff,
+not just against the bridge's own read-only file list (`corners/fpf_bridge.md`) or a unit test
+(`tests/test_fpf_bridge.py::TestBridge::test_read_only`, which proves one pipeline result dict isn't
+mutated at runtime, a different and narrower guarantee than "no commit in this era touched `core/`
+at all"). Both checks agree; recording both closes the gap between "the design says core is
+untouched" and "core was, in fact, not touched this era."
 
 ## What this era actually is
 

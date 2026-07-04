@@ -45,3 +45,8 @@ against — the contract *definition* lives in core, the contract *enforcement* 
 (see `corners/sphere_pipeline.md`, `corners/layer_contracts_attribution.md`). `core/topology/invariant_catalog.py`
 and `core/propagation/invariant_enforcer.py` are the lower-level primitives `gamma_invariants.yaml`'s
 rules ultimately resolve to at runtime (see `corners/guards.md`).
+
+**Empirically checked, not just designed this way**: `eras/08_fpf_bridge_v7_2_v7_4.md` confirms
+`git diff --stat 9e22af32..HEAD -- core/` is empty across the entire fpf_bridge evidence-expansion
+and agentic-interface wave — every corner/sphere-level extension since (fpf_bridge, agentic_bridge,
+COBALT scale-up prep) genuinely never touched this directory, not merely by convention.
