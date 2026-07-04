@@ -12,6 +12,13 @@ identified, a minimal addition is made, and the addition is not "done" in the pr
 until it passes the seal process below (`corners/release_governance.md`: "a new capability isn't
 'done' in Hesperia's own terms until it can pass through this corner's seal process").
 
+**Live example as of this writing**: the three `fpf_bridge_v7_2`–`v7_4` specs
+(`docs/foundations/eras/08_fpf_bridge_v7_2_v7_4.md`) are all in the "minimal addition made, not yet
+sealed" state simultaneously — code shipped and tested against synthetic input, every new capability
+flag-gated off, explicit ratification-pending status on each spec's own header, with the specific
+next-owner (Ethan, Sophia, Abelard, Colombo, or Olga) named per open item rather than left implicit.
+This is the process this section describes, not an exception to it.
+
 ## 2. Verification and validation process
 
 - **Verification** (did we build it right): the guard triad — Sigma (static shape), Gamma (dynamic

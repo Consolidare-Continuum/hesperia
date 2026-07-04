@@ -53,6 +53,13 @@ verification discipline.
 |---|---|---|
 | NFR-G1 | An interpretation that does not derive from the canonical L1–L10 chain MUST be flaggable as non-canonical, not silently accepted. | `THETA_004 flag_non_canonical_interpretation` (`specs/canon/theta_governance_rules.yaml`, verified) |
 | NFR-G2 | A release MUST NOT ship proprietary calibration-dictionary or corpus payloads even when shipping the engine logic. | `release/v0.6.0/RELEASE_SCOPE.md`: "Do not ship calibration dict payloads. Do not ship corpus payloads." (`corners/release_governance.md`) |
+| NFR-G3 | A new analytical/evidence capability added to the LLM boundary (Layer 11 and its consumers) MUST default to disabled and change no existing behavior until explicitly enabled via a dedicated environment flag. | `HESPERIA_FPF_EVIDENCE_EXPANSION`/`HESPERIA_FPF_CONTRADICTION_GATE`/`HESPERIA_FPF_KME_EVIDENCE`/`HESPERIA_MCP_BRIDGE_ENABLED`/`HESPERIA_MCP_BRIDGE_ACT_ENABLED` (`sphere/fpf_bridge/bridge.py`, `runtime/agentic_bridge/flags.py`) — verified by `tests/test_fpf_bridge.py::TestContradictionEvidenceExpansion::test_flags_off_by_default_no_behavior_change` and sibling tests, all passing with flags unset |
+
+### 2.5 Analytical-layer isolation
+
+| ID | Requirement | Traced to |
+|---|---|---|
+| NFR-I1 | Layer 11 (`sphere/fpf_bridge/`) and any consumer built on top of it MUST NOT mutate the sphere pipeline result it reads. | `tests/test_fpf_bridge.py::TestBridge::test_read_only` — asserts the input `result` dict is byte-identical (via `json.dumps` comparison) before and after `bridge_pipeline_result()` runs. Same discipline TRIZ already states against KME's active graph (`corners/triz_extension.md`: "No mutation of ontology files, dict A/B, topology adjacency" — cited here as prior art, not independently re-verified by this pass) |
 
 ## 3. What is explicitly out of scope for this requirements set
 
