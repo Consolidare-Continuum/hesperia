@@ -107,6 +107,8 @@ Keep these short rules in working memory:
 | Agent-facing bridge behavior | `specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md` |
 | Branch model / core vs branch boundary | `AGENTS.md`, `docs/brain-export/colombo/HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md` |
 | Operator integration surface | `docs/iso/OPERATOR_GUIDE.md` |
+| Buyer-facing "deterministic validation" / "accountable AI" wording | `docs/publication/UPCELERATOR_PRODUCTIZATION_QA.md` |
+| Regulation-driven market / competitor framing | `docs/publication/UPCELERATOR_MARKET_AND_COMPETITION.md` |
 
 If you still cannot tell whether your claim belongs to core, TFP, COBALT, MRT, or research, stop
 and resolve that first. Most Hesperia mistakes begin with naming the wrong layer.

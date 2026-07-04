@@ -19,6 +19,11 @@ factual claim about the system without citing the `docs/foundations/` file it tr
 about to write a new fact in `iso/` or `publication/`, check `foundations/` first — it's probably
 already there.
 
+**Productization-language rule:** buyer-facing phrases such as `accountable AI`,
+`deterministic validation`, `evidence-grade audit trace`, `forced adoption market`, or
+`status quo competitor` live in the publication/productization docs as a **dated companion
+vocabulary**. Use them to make Hesperia legible, not to smuggle in uncited technical claims.
+
 ## Fastest entry points by task
 
 | If you need to... | Start at |
@@ -33,10 +38,13 @@ already there.
 | Understand system architecture by stakeholder viewpoint | [`iso/ARCHITECTURE_DESCRIPTION.md`](iso/ARCHITECTURE_DESCRIPTION.md) |
 | Check what's required, functionally and non-functionally | [`iso/REQUIREMENTS_SPECIFICATION.md`](iso/REQUIREMENTS_SPECIFICATION.md) |
 | Integrate against `/analyze` or `/product/interpret` | [`iso/OPERATOR_GUIDE.md`](iso/OPERATOR_GUIDE.md) |
+| Build a buyer-facing deterministic validation report or evidence-grade audit trace | [`iso/OPERATOR_GUIDE.md`](iso/OPERATOR_GUIDE.md), then [`publication/VALIDATION_EVIDENCE.md`](publication/VALIDATION_EVIDENCE.md) |
 | State the novelty claim for a paper (innovation, not invention) | [`publication/NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) |
 | Get the time-bounded productization / MVP / buyer-language orientation | [`publication/UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md) |
+| Translate Hesperia into accountable-AI / buyer-language terms without losing technical discipline | [`publication/UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md), then [`publication/METHODS.md`](publication/METHODS.md) |
 | Trace which Upcelerator files said what and how their claims may be reused | [`publication/UPCELERATOR_SOURCE_MAP.md`](publication/UPCELERATOR_SOURCE_MAP.md) |
 | Reuse the dated market/competition baseline without laundering it into timeless truth | [`publication/UPCELERATOR_MARKET_AND_COMPETITION.md`](publication/UPCELERATOR_MARKET_AND_COMPETITION.md) |
+| Reuse the regulation-driven / forced-adoption / status-quo-competitor framing | [`publication/UPCELERATOR_MARKET_AND_COMPETITION.md`](publication/UPCELERATOR_MARKET_AND_COMPETITION.md) |
 | Cite the exact scientist/work behind a specific formula | [`publication/SCIENCE.md`](publication/SCIENCE.md) |
 | Look up what an abbreviation means | [`publication/TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md) |
 | Reproduce a specific numeric claim | [`publication/REPRODUCIBILITY_PACKAGE.md`](publication/REPRODUCIBILITY_PACKAGE.md) |
@@ -53,6 +61,8 @@ file would drift from it if duplicated. The companion agentic entrypoint is
 is "work in the repo safely" rather than "learn the architecture from bedrock." The companion
 parametric-academic entrypoint is
 [`foundations/parameter_rationale_and_theory.md`](foundations/parameter_rationale_and_theory.md).
+For buyer-language or productization routing, foundations is bedrock, not the final stop — hand
+off into `publication/` once the engineering claim is understood.
 
 ### `iso/` — standards-mapped project documentation
 

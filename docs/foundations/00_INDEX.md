@@ -14,6 +14,12 @@ mechanism for making that conversion deterministic, or (b) a mechanism for
 proving, after the fact, that determinism wasn't violated. Nothing in the
 system earns its keep unless it serves one of those two jobs.
 
+If you came here from buyer-language or productization wording such as
+`accountable AI`, `deterministic validation`, or `evidence-grade audit trace`,
+read this file for the architectural why, then route outward to
+`docs/publication/UPCELERATOR_PRODUCTIZATION_QA.md` and `docs/iso/OPERATOR_GUIDE.md` for the dated
+commercial vocabulary and the actual product surface those phrases point at.
+
 ---
 
 ## Roof: the V7 router (unsealed, current working tree)
