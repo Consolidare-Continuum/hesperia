@@ -17,7 +17,9 @@ Given free text, produce a bounded, falsifiable structural measurement, then —
 language model narrate that measurement in natural language, under the constraint that the
 narration is checked against the measurement rather than trusted at face value. The method is a
 two-stage pipeline: a deterministic measurement stage (Sections 2–4) and a governed narration stage
-(Section 5).
+(Section 5). In the dated productization wording preserved in
+`UPCELERATOR_PRODUCTIZATION_QA.md`, this same method is the engine behind **deterministic
+validation** and an **evidence-grade audit trace** for regulated teams.
 
 ## 2. Lexical resolution (the only stage that touches raw text)
 

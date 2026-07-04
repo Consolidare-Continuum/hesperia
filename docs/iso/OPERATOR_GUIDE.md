@@ -11,7 +11,7 @@ Two contracts exist. Use the one matching your integration's age and needs
 | If you... | Use | Because |
 |---|---|---|
 | Already integrated against the legacy shape | `/analyze` | Frozen (HSPR-01/02); `docs/ENGINE-ANALYZE-CONTRACT.md` guarantees the 9 top-level fields never change shape |
-| Are integrating new, or need governance verdicts | `/product/interpret` | Current governed V7 router surface; returns richer envelope + optional LLM narration with audit |
+| Are integrating new, or need governance verdicts | `/product/interpret` | Current governed V7 router surface; returns richer envelope + optional LLM narration with audit. This is the surface closest to Hesperia's productization wording of "deterministic validation" plus audit trace, not the legacy `/analyze` contract |
 
 ## 2. Calling `/analyze`
 
@@ -34,6 +34,9 @@ Call `run_product_interpret(text, mode="deterministic"|"llm")`
 - **`mode="llm"`**: additionally invokes an LLM narration and audits it, adding `llm`,
   `prompt_envelope`, `router_output_audit`, `router_decision`, `governed_decision`, and
   `evidence_ids.output_hash`.
+
+If you are building the buyer-facing artifact the repo's productization docs call a deterministic
+validation report or evidence-grade audit trace, this is the endpoint family to build on.
 
 **Set `HESPERIA_ROUTER_MODE`** to control what a non-`ALLOW` verdict does to your response:
 

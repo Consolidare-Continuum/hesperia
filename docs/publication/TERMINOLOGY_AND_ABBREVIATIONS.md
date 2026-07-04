@@ -33,6 +33,9 @@ from; do not re-expand an abbreviation ad hoc in a new document without checking
 | CLI | Command Line Interface | VERIFIED | standard term |
 | JSON / YAML | JavaScript Object Notation / YAML Ain't Markup Language | VERIFIED | standard data-format terms |
 | MVP | Minimum Viable Product | VERIFIED | standard product-development term, used in this session's own framing |
+| accountable AI | Not an abbreviation — productization shorthand for AI outputs that can be justified, audited, and traced rather than merely generated | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md` |
+| deterministic validation | Not an abbreviation — product/category phrasing for Hesperia's source-side deterministic checking and report generation | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md` |
+| audit trace / evidence-grade audit trace | Not an abbreviation — buyer-facing wording for the evidence/provenance chain attached to a governed result | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md`, `fpf_bridge`/router docs |
 
 ## 2. Governance and guard vocabulary
 

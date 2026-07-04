@@ -21,6 +21,12 @@ The founding memo's own sentence states the actual contribution better than a pa
 evidence or an explicitly marked fallback path."* Everything novel about Hesperia is downstream of
 enforcing that one sentence mechanically, across eleven layers, with guards that fail closed.
 
+In productization language, this same contribution can be stated more buyer-legibly, without
+changing the technical claim: Hesperia is trying to make AI-assisted output **accountable** by
+producing **deterministic validation** and an **audit trace**, rather than asking buyers to trust a
+post-hoc explanation layer. The dated GTM wording for that framing lives in
+`UPCELERATOR_PRODUCTIZATION_QA.md`; this document keeps the scientific/composition-level version.
+
 ## What is canonical (cited, not invented) — the load-bearing honesty check
 
 Verified in `provenance.md`, restated here as the register a publication needs:
@@ -108,6 +114,9 @@ says otherwise.
 - Any reviewer or co-author question of the form "isn't this just X well-known technique?" should be
   answerable by pointing at the specific row in the canonical table that already concedes exactly
   that, followed by the specific composition-level claim that remains.
+- Any productization or investor-facing restatement of this novelty claim should route through
+  `UPCELERATOR_PRODUCTIZATION_QA.md` so the buyer-language layer stays explicitly time-bounded
+  instead of silently replacing the scientific wording here.
 
 ## Navigation
 
