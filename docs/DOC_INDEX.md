@@ -1,6 +1,20 @@
 # Hesperia documentation index
 
-**Updated:** 2026-06-22 (METRIC wave)
+**Updated:** 2026-07-04 (fpf_bridge v7.2–v7.4 wave)
+
+## Layer 11 — fpf_bridge (LLM reasoning bridge) and its extensions
+
+| Doc | Topic |
+|-----|--------|
+| [foundations/corners/fpf_bridge.md](foundations/corners/fpf_bridge.md) | Why the bridge exists, the read-only-against-sphere guarantee, what's borrowed from FPF vs. Hesperia-native |
+| [../specs/canon/fpf_bridge_v7.md](../specs/canon/fpf_bridge_v7.md) | Original v7 bridge spec |
+| [../specs/canon/fpf_bridge_v7_2_evidence_expansion.md](../specs/canon/fpf_bridge_v7_2_evidence_expansion.md) | Full parameter inventory (~239 L1–L9 vars + 41 KME + 3 TRIZ), COBALT+TFP scope, Phase 1–4 code shipped |
+| [../specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md](../specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md) | `runtime/agentic_bridge/` — read-only + validation tools for an external agent (Cursor) |
+| [../specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md](../specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md) | COBALT's pilot-vs-production corpus attribution gap, named explicitly |
+| [foundations/provenance.md](foundations/provenance.md) | Which FPF sections are actually verified-wired vs. spec-only claims |
+
+All three v7.2–v7.4 specs are **ratification-pending** (Ethan) as of this update — status line at
+the top of each spec is authoritative, not this index.
 
 ## Geometry and metric
 

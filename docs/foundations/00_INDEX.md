@@ -65,6 +65,48 @@ unstable: `VERSION.yaml` still reads `0.6.0` because the seal discipline
 → [`corners/fpf_bridge.md`](corners/fpf_bridge.md), [`corners/metric_registry.md`](corners/metric_registry.md),
 [`eras/06_metric_wave_v0.7.0.md`](eras/06_metric_wave_v0.7.0.md), [`eras/07_v7_router_fpf_bridge.md`](eras/07_v7_router_fpf_bridge.md)
 
+### Roof, continued: fpf_bridge v7.2–v7.4 (2026-07-04, specs drafted, Phase-1 code shipped, Ethan ratification pending)
+
+**What existed before:** Layer 11's evidence surface exposed only 7 signal types (5 rule types,
+raw area activations, one stability score) out of roughly 239 L1–L9 variables + 41 KME metrics + 3
+TRIZ export families the sealed pipeline already computes — the vast majority of what Hesperia
+measures never reached the LLM at all. Separately, the only LLM consumer was Hesperia's own
+internal, single-shot, server-side call (`mode="llm"`) — no path existed for an external agentic
+caller (Cursor, or any tool-using LLM) to receive the bridge state and reason over it directly.
+
+**What gap forced the jump:** widening the evidence surface without a plan risks recreating the
+"raw dump" problem the bridge exists to avoid, and handing an external agent the bridge state
+without a stateless, read-only-by-default design risks reopening the same non-determinism the
+sealed core exists to prevent. Both needed a spec before code, same discipline as every prior wave
+in this file.
+
+**What got added:** three specs (`specs/canon/fpf_bridge_v7_2_evidence_expansion.md`,
+`..._v7_3_agentic_cursor_interface.md`, `..._v7_4_cobalt_corpus_scaleup.md`), scoped to COBALT+TFP
+only (MRT explicitly excluded — closed MVP, different grid). v7.2 inventories every unexposed
+variable and ships Phase 1–4 code (contradiction evidence + a block-labeled logic rule, the L7
+trust trio, L4 evidence support, KME's 6 primitives, TRIZ's Policy Contradiction Detector) —
+**correcting itself mid-build**: KME and TRIZ are both general-purpose Hesperia mechanisms, not
+TFP-/COBALT-exclusive, and the first draft wrongly defaulted their evidence to a branch-scoped
+context. v7.3 adds `runtime/agentic_bridge/` — `get_hesperia_bridge_state` (read-only, proven never
+to call an LLM API) and `attempt_hesperia_transition` (validation only, real gold tests proving the
+actual `ABSTAIN`/`COLLECT_EVIDENCE` outcome space rather than a `BLOCK` case the installed
+`fpf-thinking-map` version can't yet produce — a correction found by reading the library source
+directly rather than trusting the original spec draft). v7.4 names COBALT's own exit audit's
+"pilot, not production" gap explicitly (25 attributed documents and a 10-query eval against a
+1,286,742-chunk corpus) and ships a conservative `branch` classifier plus a reusable eval harness,
+both synthetic-tested, neither yet run against the real corpus.
+
+**Why this was the minimal right move:** every addition is read-only against `sphere/`, defaults
+off behind its own env flag, and stops exactly at the boundary between "code Felix can write and
+test against synthetic input" and "decisions that need Ethan, Sophia, Abelard, Colombo, or Olga" —
+the same boundary every prior wave in this file respects, just drawn explicitly this time because
+three specs and three different owners' worth of open work made it necessary to write down rather
+than assume.
+
+→ [`specs/canon/fpf_bridge_v7_2_evidence_expansion.md`](../../specs/canon/fpf_bridge_v7_2_evidence_expansion.md),
+[`specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md`](../../specs/canon/fpf_bridge_v7_3_agentic_cursor_interface.md),
+[`specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md`](../../specs/canon/fpf_bridge_v7_4_cobalt_corpus_scaleup.md)
+
 ---
 
 ## `0.6.x`: the sealed runtime line and the public/prod split

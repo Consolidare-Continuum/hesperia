@@ -116,3 +116,9 @@ without an existing implementation.
   (`fpf-thinking-map`, PyPI) rather than being wholly self-contained — a dependency that is
   acceptable here specifically because the bridge is additive and removable without touching
   anything beneath it.
+- **Extended by fpf_bridge_v7.2–v7.4** (`specs/canon/fpf_bridge_v7_2_evidence_expansion.md` and
+  siblings, 2026-07-04, ratification-pending): widens the evidence surface documented above (still
+  just 7 signal types as of this corner's last enrichment pass) to include L4/L5/L7 composites, KME
+  primitives, and TRIZ's contradiction signal, plus a new `runtime/agentic_bridge/` consumer that
+  hands this corner's `bridge_to_llm_prompt()` output directly to an external agent instead of only
+  Hesperia's own internal single-shot LLM call. Same read-only-against-sphere guarantee, unchanged.

@@ -12,6 +12,10 @@ components:
   clinical: "0.6.3-modular"
   calibration: "0.6.5"
   router: "v7-router-0.1"
+  # fpf_bridge was never tracked here despite corners/fpf_bridge.md status "IMPLEMENTED, v7,
+  # 2026-06-27" — added now for the same reason it got committed to git now: not sealed yet,
+  # but real, and not tracking it risked the same "forgotten" outcome as the uncommitted state.
+  fpf_bridge: "v7.2-v7.4-draft"  # specs ratification-pending (Ethan); code flag-gated off by default
 
 schema:
   public_output: "v1"
