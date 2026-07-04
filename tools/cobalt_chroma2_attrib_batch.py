@@ -25,6 +25,31 @@ from pathlib import Path
 from typing import Any
 
 ATTRIB_VERSION = "cobalt-g2-0.1"
+
+# fpf_bridge_v7_4 §4 — TFP tag pass seed terms. Seeded from the G3 pilot's own proven query set
+# (COLOMBO-COBALT-05-G3-EVAL-2026-06-29.md: Kernberg TFP/borderline/transference/countertransference/
+# Meltzer queries correctly hit clinical docs) — a starting heuristic, not a final classifier.
+# Real scale-up (v7.4 §4) is Colombo's clinical judgment on which docs are genuinely TFP-grounding
+# literature; this keyword match is deliberately conservative (defaults to "cobalt" when unsure)
+# so it never mislabels general library content as TFP, only ever a starting candidate list for
+# Colombo to confirm/expand.
+TFP_SEED_TERMS: tuple[str, ...] = (
+    "kernberg", "transference-focused", "tfp", "transference", "countertransference",
+    "borderline personality", "meltzer", "psychodynamic", "object relations", "narcissistic transference",
+    "керн берг", "кернберг", "перенос", "контрперенос", "пограничн", "объектных отношени",
+)
+
+
+def _compute_branch(text: str) -> str:
+    """fpf_bridge_v7_4 §1/§4 — the `branch` facet (tfp/cobalt/core). Conservative keyword match
+    against TFP_SEED_TERMS; defaults to "cobalt" (general library) when no term matches. Never
+    computed from area_id/family_id alone — TFP's own family/area canon
+    (specs/canon/area_structure_tfp.yaml, domain TFP_KERNBERG) is a separate grid from the
+    production 288-family grid this attribution runs against, so the two don't cleanly map onto
+    each other; text-level matching is the only signal available without Colombo's tagging pass.
+    """
+    lowered = (text or "").lower()
+    return "tfp" if any(term in lowered for term in TFP_SEED_TERMS) else "cobalt"
 CHROMA_HOST = os.environ.get("COBALT_CHROMA_HOST", "chroma-2.prichindel.local")
 CHROMA_PORT = int(os.environ.get("COBALT_CHROMA_PORT", "8002"))
 COLLECTION = "documents"
@@ -104,6 +129,7 @@ def _attrib_from_engine(text: str) -> dict[str, str]:
         "area_name": area_id[:64],
         "family_name": family_id[:64],
         "global_id": family_id[:64],
+        "branch": _compute_branch(text),
     }
 
 
