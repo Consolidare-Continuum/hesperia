@@ -36,6 +36,10 @@ from; do not re-expand an abbreviation ad hoc in a new document without checking
 | accountable AI | Not an abbreviation — productization shorthand for AI outputs that can be justified, audited, and traced rather than merely generated | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md` |
 | deterministic validation | Not an abbreviation — product/category phrasing for Hesperia's source-side deterministic checking and report generation | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md` |
 | audit trace / evidence-grade audit trace | Not an abbreviation — buyer-facing wording for the evidence/provenance chain attached to a governed result | VERIFIED (as repo productization wording) | `UPCELERATOR_PRODUCTIZATION_QA.md`, `fpf_bridge`/router docs |
+| forced adoption market | Not an abbreviation — productization shorthand for a market whose demand is driven by regulation, risk, and compliance pressure rather than discretionary hype | VERIFIED (as dated Upcelerator market wording) | `UPCELERATOR_SOURCE_MAP.md`, `UPCELERATOR_MARKET_AND_COMPETITION.md` |
+| reactive paradigm | Not an abbreviation — Upcelerator competition label for post-hoc AI systems that monitor, evaluate, and explain outputs after generation | VERIFIED (as dated Upcelerator competition wording) | `UPCELERATOR_MARKET_AND_COMPETITION.md` |
+| deterministic paradigm | Not an abbreviation — Upcelerator competition label for source-side systems that define, map, and guarantee meaning rather than only score outputs after the fact | VERIFIED (as dated Upcelerator competition wording) | `UPCELERATOR_MARKET_AND_COMPETITION.md` |
+| status quo competitor | Not an abbreviation — the real incumbent framed in the archive as manual review, tolerated uncertainty, and "good enough" LLM usage rather than a named startup | VERIFIED (as dated Upcelerator competition wording) | `UPCELERATOR_MARKET_AND_COMPETITION.md` |
 
 ## 2. Governance and guard vocabulary
 

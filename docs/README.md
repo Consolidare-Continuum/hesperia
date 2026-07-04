@@ -35,6 +35,8 @@ already there.
 | Integrate against `/analyze` or `/product/interpret` | [`iso/OPERATOR_GUIDE.md`](iso/OPERATOR_GUIDE.md) |
 | State the novelty claim for a paper (innovation, not invention) | [`publication/NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) |
 | Get the time-bounded productization / MVP / buyer-language orientation | [`publication/UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md) |
+| Trace which Upcelerator files said what and how their claims may be reused | [`publication/UPCELERATOR_SOURCE_MAP.md`](publication/UPCELERATOR_SOURCE_MAP.md) |
+| Reuse the dated market/competition baseline without laundering it into timeless truth | [`publication/UPCELERATOR_MARKET_AND_COMPETITION.md`](publication/UPCELERATOR_MARKET_AND_COMPETITION.md) |
 | Cite the exact scientist/work behind a specific formula | [`publication/SCIENCE.md`](publication/SCIENCE.md) |
 | Look up what an abbreviation means | [`publication/TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md) |
 | Reproduce a specific numeric claim | [`publication/REPRODUCIBILITY_PACKAGE.md`](publication/REPRODUCIBILITY_PACKAGE.md) |
@@ -67,8 +69,10 @@ parametric-academic entrypoint is
 
 | Document | Purpose | Status |
 |---|---|---|
-| [`NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) | The invention-vs-innovation statement — cite, don't re-argue | Load-bearing; read first in this tier |
+| [`NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) | The invention-vs-innovation statement - cite, don't re-argue | Load-bearing; read first in this tier |
 | [`UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md) | Dated productization, MVP, and buyer-language orientation from Upcelerator 2026 source material | Time-bounded truth layer; preserve wording, keep caveats |
+| [`UPCELERATOR_SOURCE_MAP.md`](publication/UPCELERATOR_SOURCE_MAP.md) | Canonical intake map for the Upcelerator 2026 archive, with evidence classes and propagation rules | Use before spreading archive wording further |
+| [`UPCELERATOR_MARKET_AND_COMPETITION.md`](publication/UPCELERATOR_MARKET_AND_COMPETITION.md) | Dated market boundary, TAM/SAM/SOM logic, and competition framing from the plain-text Upcelerator set | Productization baseline; keep assumptions attached |
 | [`SCIENCE.md`](publication/SCIENCE.md) | ~35 named scientific/engineering works, 11 disciplines, 5-level extent taxonomy | The citation register beneath `NOVELTY_AND_POSITIONING.md` |
 | [`TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md) | Every abbreviation, verified/inferred/proposed/unresolved | 35 KME metric codes flagged PROPOSED, pending author confirmation |
 | [`METHODS.md`](publication/METHODS.md) | Paper-shaped pipeline description | |
