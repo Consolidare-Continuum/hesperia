@@ -34,6 +34,7 @@ already there.
 | Check what's required, functionally and non-functionally | [`iso/REQUIREMENTS_SPECIFICATION.md`](iso/REQUIREMENTS_SPECIFICATION.md) |
 | Integrate against `/analyze` or `/product/interpret` | [`iso/OPERATOR_GUIDE.md`](iso/OPERATOR_GUIDE.md) |
 | State the novelty claim for a paper (innovation, not invention) | [`publication/NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) |
+| Get the time-bounded productization / MVP / buyer-language orientation | [`publication/UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md) |
 | Cite the exact scientist/work behind a specific formula | [`publication/SCIENCE.md`](publication/SCIENCE.md) |
 | Look up what an abbreviation means | [`publication/TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md) |
 | Reproduce a specific numeric claim | [`publication/REPRODUCIBILITY_PACKAGE.md`](publication/REPRODUCIBILITY_PACKAGE.md) |
@@ -67,6 +68,7 @@ parametric-academic entrypoint is
 | Document | Purpose | Status |
 |---|---|---|
 | [`NOVELTY_AND_POSITIONING.md`](publication/NOVELTY_AND_POSITIONING.md) | The invention-vs-innovation statement — cite, don't re-argue | Load-bearing; read first in this tier |
+| [`UPCELERATOR_PRODUCTIZATION_QA.md`](publication/UPCELERATOR_PRODUCTIZATION_QA.md) | Dated productization, MVP, and buyer-language orientation from Upcelerator 2026 source material | Time-bounded truth layer; preserve wording, keep caveats |
 | [`SCIENCE.md`](publication/SCIENCE.md) | ~35 named scientific/engineering works, 11 disciplines, 5-level extent taxonomy | The citation register beneath `NOVELTY_AND_POSITIONING.md` |
 | [`TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md) | Every abbreviation, verified/inferred/proposed/unresolved | 35 KME metric codes flagged PROPOSED, pending author confirmation |
 | [`METHODS.md`](publication/METHODS.md) | Paper-shaped pipeline description | |
