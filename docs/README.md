@@ -104,4 +104,7 @@ off into `publication/` once the engineering claim is understood.
    [`publication/TERMINOLOGY_AND_ABBREVIATIONS.md`](publication/TERMINOLOGY_AND_ABBREVIATIONS.md)
    first; before citing a scientific work, check
    [`publication/SCIENCE.md`](publication/SCIENCE.md) first.
-6. Register anything new in the traceability matrix before considering it done.
+6. Before spreading any Upcelerator-derived market or buyer-language claim, classify it first in
+   [`publication/UPCELERATOR_SOURCE_MAP.md`](publication/UPCELERATOR_SOURCE_MAP.md) so dated
+   framing, estimates, and open hypotheses do not silently blend together.
+7. Register anything new in the traceability matrix before considering it done.

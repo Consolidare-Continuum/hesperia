@@ -97,6 +97,24 @@ Keep these short rules in working memory:
 5. **Do not guess the remote.** `git push dev main` is ordinary development here; a bare `git push`
    risks prod.
 
+## 3a. Aurel stabilization rules for productization language
+
+When an agent uses buyer-language terms from the Upcelerator layer, apply this extra filter:
+
+1. **Keep the date visible.** Upcelerator 2026 wording is a real repo truth layer, but it is
+   time-bounded, not timeless doctrine.
+2. **Preserve truth class.** Market framing, TAM/SAM/SOM, investor rhetoric, and open hypotheses
+   are not one evidence type and must not be flattened into one.
+3. **Route proof back to the engine docs.** `deterministic validation`, `accountable AI`, and
+   `evidence-grade audit trace` are useful phrases only when tied back to `METHODS.md`,
+   `VALIDATION_EVIDENCE.md`, and `/product/interpret`.
+4. **Treat competition language as framing, not benchmark evidence.** `reactive paradigm`,
+   `deterministic paradigm`, and `status quo competitor` help explain positioning; they do not
+   replace comparative measurements.
+5. **Do not promote commercial estimates into validation claims.** Market-size numbers, pilot
+   pricing, and willingness-to-pay hypotheses belong to productization memory, not to technical
+   proof.
+
 ## 4. Short route by task
 
 | Need | Start here |
@@ -109,6 +127,7 @@ Keep these short rules in working memory:
 | Operator integration surface | `docs/iso/OPERATOR_GUIDE.md` |
 | Buyer-facing "deterministic validation" / "accountable AI" wording | `docs/publication/UPCELERATOR_PRODUCTIZATION_QA.md` |
 | Regulation-driven market / competitor framing | `docs/publication/UPCELERATOR_MARKET_AND_COMPETITION.md` |
+| Truth class for any Upcelerator claim before you spread it | `docs/publication/UPCELERATOR_SOURCE_MAP.md` |
 
 If you still cannot tell whether your claim belongs to core, TFP, COBALT, MRT, or research, stop
 and resolve that first. Most Hesperia mistakes begin with naming the wrong layer.

@@ -72,6 +72,17 @@ With this map in place, later HESPERIA docs can cite Upcelerator material in a d
 - `TERMINOLOGY_AND_ABBREVIATIONS.md` for stable wording candidates
 - ISO/publication docs for where those terms connect back to actual architecture and evidence
 
+## 6. Aurel-style stabilization checklist
+
+Before propagating any Upcelerator phrase into another document, confirm all five:
+
+1. the statement is still visibly tied to **Upcelerator 2026**
+2. its truth class is named or obvious from context
+3. it is not being upgraded from market framing into technical proof
+4. any engine-facing phrase points back to `METHODS.md`, `VALIDATION_EVIDENCE.md`, or
+   `docs/iso/OPERATOR_GUIDE.md`
+5. open or exploratory commercial claims remain open or exploratory after the rewrite
+
 ## Navigation
 
 ← [`../README.md`](../README.md) · [`UPCELERATOR_PRODUCTIZATION_QA.md`](UPCELERATOR_PRODUCTIZATION_QA.md) ·

@@ -20,6 +20,12 @@ from; do not re-expand an abbreviation ad hoc in a new document without checking
 
 ## 1. Pipeline and architecture
 
+Productization-language note: terms such as `accountable AI`, `deterministic validation`, `forced
+adoption market`, and `status quo competitor` are **verified as repo terminology**, but specifically
+as a **dated Upcelerator-derived wording layer**. When used outside the productization docs, route
+them back through `UPCELERATOR_SOURCE_MAP.md` and, where relevant, `METHODS.md` or
+`VALIDATION_EVIDENCE.md` so wording does not outgrow evidence.
+
 | Abbreviation | Expansion | Status | Source |
 |---|---|---|---|
 | L1–L11 | Layer 1 through Layer 11 (the numbered pipeline stack; L1–L9 canonical math, L10 declared placeholder, L11 the fpf_bridge) | VERIFIED | `docs/foundations/00_INDEX.md`, `output_catalog.md` |
