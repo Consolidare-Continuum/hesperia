@@ -13,9 +13,12 @@ Date: 2026-07-06
 - Added metrics-file resolution with fallback support for baseline metrics files.
 - Added repository truth navigation docs.
 - Updated stale v7 source-truth verification text.
+- Renamed `docs/SOURCE_OF_TRUTH.md` to `docs/HSR-V7-SOURCE-TRUTH.md`.
+- Renamed `docs/CONSOLIDATION_REPORT.md` to `docs/HSR-V7-CONSOLIDATION-REPORT.md`.
+- Moved `docs/brain-export/README.md` to `docs/archive/brain-export/README.md`.
+- Added `docs/archive/ARCHIVE-MANIFEST.md` and `docs/archive/HSR-V7-CONSOLIDATION-INVENTORY.md`.
 
 ## Notes
 
-- Historical archive payloads under `docs/brain-export/` were not moved in this pass.
+- Historical payloads under `docs/brain-export/archive/` remain in place for a later prune/move pass.
 - The repo now prefers the complete calibration pack for active development; archive placeholder remains explicitly labeled.
-
