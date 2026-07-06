@@ -51,11 +51,11 @@ else
     FAIL=1
 fi
 
-# 6. VERSION.yaml reports 0.6.3 sealed base
-if grep -q 'system_version: "0.6.3"' "$REPO_ROOT/VERSION.yaml" 2>/dev/null; then
-    echo "PASS  VERSION.yaml sealed base: 0.6.3"
+# 6. VERSION.yaml reports current 0.6.5 system version
+if grep -q 'system_version: "0.6.5"' "$REPO_ROOT/VERSION.yaml" 2>/dev/null; then
+    echo "PASS  VERSION.yaml system version: 0.6.5"
 else
-    echo "FAIL  VERSION.yaml does not report 0.6.3"
+    echo "FAIL  VERSION.yaml does not report 0.6.5"
     FAIL=1
 fi
 

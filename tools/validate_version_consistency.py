@@ -68,16 +68,33 @@ def main() -> int:
             errs.append(
                 "VERSION.yaml tfp_module_v1.data_layout must be 'tfp_v1' (TFP-DATA-T17)"
             )
+    archive = doc.get("archive") or {}
+    placeholder_pack = archive.get("public_archive_placeholder_dict_pack")
+    if placeholder_pack and str(placeholder_pack) != "archive_063_minimal":
+        errs.append(
+            "VERSION.yaml archive.public_archive_placeholder_dict_pack should stay 'archive_063_minimal'"
+        )
     if not pack:
         errs.append("VERSION.yaml defaults.active_calibration_dict_pack missing (pin calibration dir name)")
     else:
         pack_dir = _REPO / "assets" / "calibration" / "dicts" / str(pack)
-        dict_a = pack_dir / "dict_a.jsonl"
         if pack_dir.is_dir():
-            if not dict_a.is_file():
-                errs.append(
-                    f"defaults.active_calibration_dict_pack {pack!r}: expected {dict_a} (missing)"
-                )
+            required = [pack_dir / "dict_a.jsonl", pack_dir / "dict_b.jsonl", pack_dir / "links.jsonl"]
+            for required_path in required:
+                if not required_path.is_file():
+                    errs.append(
+                        f"defaults.active_calibration_dict_pack {pack!r}: expected {required_path} (missing)"
+                    )
+            metrics_candidates = [
+                pack_dir / "metrics.json",
+                pack_dir / "metrics_baseline_v052_2.json",
+            ]
+            if not any(candidate.is_file() for candidate in metrics_candidates):
+                fallback_candidates = list(pack_dir.glob("metrics_baseline*.json"))
+                if not fallback_candidates:
+                    errs.append(
+                        f"defaults.active_calibration_dict_pack {pack!r}: missing metrics.json or metrics_baseline*.json"
+                    )
         else:
             print(
                 f"validate_version_consistency: SKIP calibration pack path check (no {pack_dir}; minimal clone)",

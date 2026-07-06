@@ -2,15 +2,16 @@
 # All public outputs MUST trace to these fields + build_id (injected at runtime).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-system_version: "0.6.0"
-release_stage: "modular_tfp_mainline"
+system_version: "0.6.5"
+release_stage: "v7_router_fusion"
 
 components:
-  core_engine: "0.6.0"
-  dynamics: "0.6.0"
-  triz: "0.6.0"
-  clinical: "0.6.0-modular"
-  calibration: "0.6.0"
+  core_engine: "0.6.5"
+  dynamics: "0.6.3"
+  triz: "0.6.3"
+  clinical: "0.6.3-modular"
+  calibration: "0.6.5"
+  router: "v7-router-0.1"
 
 schema:
   public_output: "v1"
@@ -36,15 +37,30 @@ calibration:
 defaults:
   calibration_profile: "default_v1"
   # Pinned dict pack dir under assets/calibration/dicts/<name>/ (TFP-GATE-A0; validate_version_consistency checks existence).
-  active_calibration_dict_pack: "v0_6_0_clr_v052_2"
+  active_calibration_dict_pack: "v0_6_0_clr_v052_5"
 
-# TFP module v1 compatibility (TFP-V1-12): must match defaults.active_calibration_dict_pack for mainline.
 tfp_module_v1:
   seal_requested: false
-  pinned_calibration_dict_pack: "v0_6_0_clr_v052_2"
+  pinned_calibration_dict_pack: "v0_6_0_clr_v052_5"
   data_layout: "tfp_v1"
 
 # Filled at runtime by hesperia.system.version (never commit secrets here)
 build:
   timestamp: null
   git_commit: null
+
+apply:
+  version: "0.7.0"
+  gate_chain: "G1-G9"
+  allowlist:
+    - update_edge_weight
+  phase2_allowlist:
+    - add_edge
+
+archive:
+  github_release: "0.6.5"
+  public_archive_placeholder_dict_pack: "archive_063_minimal"
+  excludes_prod_dicts: true
+  excludes_prod_corpus: true
+  e2e_mode: "offline_fixture"
+  tersagor_integration_ref: "igareosh/tersagor@0149120"

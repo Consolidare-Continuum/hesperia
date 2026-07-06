@@ -11,4 +11,5 @@ try:
 
     __version__ = get_system_version()
 except Exception:  # import-order / packaging without VERSION.yaml
-    __version__ = "0.6.0"
+    # Emergency fallback only; package metadata should normally resolve VERSION.yaml.
+    __version__ = "0.6.5"

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import copy
+import importlib.resources as resources
 import os
 import subprocess
 from datetime import timezone, datetime
@@ -34,17 +35,31 @@ def _git_commit_short(root: Path) -> str | None:
     return None
 
 
+def _read_version_yaml(path: Path) -> dict[str, Any]:
+    doc = yaml.safe_load(path.read_text(encoding="utf-8"))
+    if not isinstance(doc, dict):
+        raise ValueError(f"VERSION.yaml must be a mapping at top level: {path}")
+    return copy.deepcopy(doc)
+
+
 @lru_cache(maxsize=1)
 def load_version_document() -> dict[str, Any]:
     """Load VERSION.yaml and inject runtime build fields (not written back to disk)."""
     root = _repo_root()
     path = root / "VERSION.yaml"
-    if not path.exists():
-        raise FileNotFoundError(f"Canonical VERSION.yaml missing at {path}")
-    doc = yaml.safe_load(path.read_text(encoding="utf-8"))
-    if not isinstance(doc, dict):
-        raise ValueError("VERSION.yaml must be a mapping at top level")
-    doc = copy.deepcopy(doc)
+    if path.exists():
+        doc = _read_version_yaml(path)
+    else:
+        try:
+            package_path = resources.files("hesperia").joinpath("VERSION.yaml")
+            with resources.as_file(package_path) as resolved:
+                if not resolved.is_file():
+                    raise FileNotFoundError
+                doc = _read_version_yaml(resolved)
+        except FileNotFoundError as exc:
+            raise FileNotFoundError(
+                f"Canonical VERSION.yaml missing at {path} and packaged copy is unavailable"
+            ) from exc
     build = doc.setdefault("build", {})
     env_commit = os.environ.get("HESPERIA_GIT_COMMIT", "").strip()
     env_ts = os.environ.get("HESPERIA_BUILD_TIMESTAMP", "").strip()

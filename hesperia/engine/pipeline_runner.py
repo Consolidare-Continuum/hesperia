@@ -9,8 +9,13 @@ from typing import Any
 
 from hesperia.engine.core import HesperiaEngine
 from hesperia.engine.validators import validate_final_ctx
+from hesperia.system.version import load_version_document
 
-ENGINE_VERSION = "0.7.0"
+
+def _apply_version() -> str:
+    doc = load_version_document()
+    apply_doc = doc.get("apply") or {}
+    return str(apply_doc.get("version", "0.7.0"))
 
 
 def _checksum_text(text: str) -> str:
@@ -49,7 +54,7 @@ def run_pipeline(
     if mismatch and bool(config_payload.get("fail_on_version_mismatch", False)):
         raise ValueError(f"module_version_mismatch_manifest:{mismatch}")
     ctx["meta"]["version_manifest"] = {
-        "engine_version": ENGINE_VERSION,
+        "apply_version": _apply_version(),
         "modules": module_versions,
         "version_mismatch": mismatch,
     }
@@ -75,4 +80,3 @@ def write_run_manifest(dossier: dict[str, Any], output_path: Path) -> None:
         json.dumps(dict(dossier.get("meta", {}).get("run_manifest") or {}), ensure_ascii=False, sort_keys=True, indent=2),
         encoding="utf-8",
     )
-
