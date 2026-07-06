@@ -10,9 +10,10 @@ compatibility surfaces and historical material.
 
 - `core.domain` owns shared KME/domain measurement implementation.
 - `core.runtime` owns generic runtime module implementation.
-- `hesperia.engine.kme` remains a compatibility import surface.
-- `hesperia.modules.core`, `hesperia.modules.metrics.base`, and `hesperia.modules.topology.core`
-  remain compatibility import surfaces.
+- `hesperia.engine.kme` remains a narrowed compatibility package surface.
+- former shim leaves under `hesperia.engine.kme` were removed where no longer required by live code or tests.
+- former shim surfaces `hesperia.modules.core`, `hesperia.modules.metrics.base`, and
+  `hesperia.modules.topology.core` were removed after convergence to canonical `core.runtime.*`.
 - `hesperia.modules.tfp` remains a domain extension.
 
 ## Live source code
@@ -39,7 +40,7 @@ compatibility surfaces and historical material.
 
 When a non-archive document discusses KME or runtime architecture, it should describe canonical
 ownership using `core.domain` and `core.runtime`, and describe old `hesperia.engine.kme` /
-`hesperia.modules.*` paths only as compatibility or historical surfaces.
+`hesperia.modules.*` paths only as compatibility history or protected legacy surfaces.
 
 ## Historical evidence
 

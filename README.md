@@ -6,7 +6,8 @@ Current architecture authority:
 
 - `core.domain` is the canonical shared KME/domain computation layer.
 - `core.runtime` is the canonical generic runtime module layer.
-- `hesperia.engine.kme` and `hesperia.modules.core` / `metrics.base` / `topology.core` remain compatibility import surfaces.
+- `hesperia.engine.kme` remains a narrowed compatibility package surface, with protected legacy bridge behavior.
+- former `hesperia.modules.core` / `metrics.base` / `topology.core` shim files were removed after convergence to `core.runtime.*`.
 - `hesperia.modules.tfp` remains the domain extension.
 
 | Line | Tag |

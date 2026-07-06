@@ -1,2 +1,0 @@
-"""Core dictionary modules."""
-

@@ -14,8 +14,10 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 - Code: `hesperia/engine/`, sealed assets under `assets/data/engine_dynamics_v060/`
 - Deterministic structural computation is canonical under `core/`, with `core.domain` owning shared
   KME/domain measurement logic and `core.runtime` owning generic runtime modules.
-- `hesperia.engine.kme` and `hesperia.modules.core` / `metrics.base` / `topology.core` remain
-  compatibility shim surfaces, not canonical implementation authority.
+- `hesperia.engine.kme` remains only as a narrowed compatibility package surface where explicitly
+  protected legacy behavior still matters.
+- Former `hesperia.modules.core` / `metrics.base` / `topology.core` shim files were removed once
+  live code and tests converged to canonical `core.runtime.*`.
 - **No branch reopens core physics.** MRT, TFP, COBALT, and future work **branch understanding and outputs**, not measurement truth.
 
 ---
@@ -24,7 +26,7 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 
 ### Class A — Core modules (consolidated in core)
 
-Universal plumbing is consolidated under `core/runtime/`. Compatibility shims remain in `hesperia/modules/`. Branch work that proves **domain-agnostic** value merges back here.
+Universal plumbing is consolidated under `core/runtime/`. Branch work that proves **domain-agnostic** value merges back here.
 
 | Alias | Module | Cored because |
 |-------|--------|---------------|

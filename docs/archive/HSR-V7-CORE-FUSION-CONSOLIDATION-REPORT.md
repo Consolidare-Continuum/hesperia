@@ -14,6 +14,9 @@ Pass: Core Fusion Rename and Module Consolidation
 - Updated dynamic module aliases to resolve canonical runtime modules from `core.runtime.*`.
 - Updated the current architecture spec to document `core/runtime/*` as the Class A canonical location.
 
+Historical note: later on 2026-07-06, the core-expulsion delete pass removed obsolete shim files
+that were no longer needed by live code or tests, while keeping protected legacy bridge behavior.
+
 ## Canonical Ownership After Fusion
 
 | Concern | Canonical path | Compatibility path |

@@ -148,7 +148,7 @@ GAMMA=0.25, DELTA=0.20`), turn-to-turn coherence and cumulative drift via cosine
 current codebase: `fragIndex`, `areaEntropy` (as a named function), `bipolar`, `ringSmoothness`,
 `decayRate`/`contextIntegrity`, `turn_coherence`, `cumulative_drift`, and `kl_divergence` — **zero
 matches anywhere in `.py`.** Only `tension_energy` (renamed formula) and `cosine_similarity` (now
-living in `hesperia/engine/kme/fingerprint/builder.py`, repurposed for fingerprint comparison rather
+living in `core/domain/fingerprint.py`, repurposed for fingerprint comparison rather
 than turn-to-turn drift) persisted. The honest reading: 21_MATH was a broader exploratory
 formalization than what 22_SPEC actually committed to building — the DFT ring-smoothness idea in
 particular never got an implementation to grep for. Record it here as real, dated intention that

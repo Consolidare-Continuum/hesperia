@@ -125,3 +125,10 @@ Status:
 PASS.
 
 Active implementation code now imports canonical `core.*` surfaces where canonical owners exist, while compatibility-facing legacy paths remain importable and explicitly tested.
+
+## Historical Note
+
+Later on 2026-07-06, the core-expulsion delete pass removed obsolete shim files under
+`hesperia/modules/core`, `hesperia/modules/metrics`, `hesperia/modules/topology`, and selected
+leaf shim files under `hesperia/engine/kme/` once live code and tests no longer required them.
+Protected legacy bridge behavior under `hesperia.engine.kme.clinical_bridge` remained.
