@@ -6,6 +6,11 @@
 **Date**: 2026-06-11  
 **Status**: Frozen — Python side (`HesperiaPublicSnapshot`, `HesperiaEngineBridge`) parses against this contract.
 
+Product-surface note: `/analyze` is the frozen engine contract, not the main productization-facing
+surface. In the repo's later buyer-language framing (`UPCELERATOR_PRODUCTIZATION_QA.md`), the
+governed `/product/interpret` path is the closer match to a deterministic validation report with
+audit trace.
+
 ---
 
 ## 1. Endpoint
