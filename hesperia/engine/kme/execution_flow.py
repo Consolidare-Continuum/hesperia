@@ -6,7 +6,7 @@
 from __future__ import annotations
 
 # Compatibility re-export from legacy module path.
-from hesperia.engine.kme.pipeline import (  # noqa: F401
+from core.domain.pipeline import (  # noqa: F401
     HesperiaPipelineRunner,
     export_metric_report_json,
     metric_report_to_dict,

@@ -29,7 +29,7 @@ def cosine_distance(a: Any, b: Any) -> float:
     Cosine distance = 1 - cosine_similarity. Range [0, 2]; 0 = identical, 2 = opposite.
     For nonnegative KME vectors typically [0, 1].
     """
-    from hesperia.engine.kme.fingerprint.builder import cosine_similarity
+    from core.domain.fingerprint import cosine_similarity
     va = _vector_from_fingerprint(a)
     vb = _vector_from_fingerprint(b)
     sim = cosine_similarity(va, vb)
@@ -38,7 +38,7 @@ def cosine_distance(a: Any, b: Any) -> float:
 
 def euclidean_distance(a: Any, b: Any) -> float:
     """Euclidean distance between two fingerprint vectors."""
-    from hesperia.engine.kme.fingerprint.builder import euclidean_distance as _euc
+    from core.domain.fingerprint import euclidean_distance as _euc
     return _euc(_vector_from_fingerprint(a), _vector_from_fingerprint(b))
 
 

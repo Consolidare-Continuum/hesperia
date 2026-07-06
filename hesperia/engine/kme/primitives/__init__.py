@@ -3,7 +3,7 @@
 
 """KME — Primitive metric calculator (LD, COH, NC, PR, PV, CI)."""
 
-from hesperia.engine.kme.primitives.calculator import (
+from core.domain.primitive_metrics import (
     build_adjacency,
     clamp01,
     compute_ci,

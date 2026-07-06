@@ -4,7 +4,7 @@
 # No reproduction, redistribution, or use without explicit written permission from the author.
 # See LEGAL_NOTICE.md for full terms.
 
-"""HESPERIA package — Engine Dynamics (KME: hesperia.engine.kme)."""
+"""HESPERIA package — Engine Dynamics (canonical core.domain/core.runtime + compat facades)."""
 
 try:
     from hesperia.system.version import get_system_version

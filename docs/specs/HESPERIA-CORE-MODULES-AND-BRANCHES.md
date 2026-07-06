@@ -20,14 +20,14 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 
 ### Class A — Core modules (consolidated in core)
 
-Universal plumbing in `hesperia/modules/`. Branch work that proves **domain-agnostic** value merges back here.
+Universal plumbing is consolidated under `core/runtime/`. Compatibility shims remain in `hesperia/modules/`. Branch work that proves **domain-agnostic** value merges back here.
 
 | Alias | Module | Cored because |
 |-------|--------|---------------|
-| `dict_a` / `dict_b` | `hesperia.modules.core.*` | Lexical → grid calculus — all domains |
-| `topology` | `hesperia.modules.topology.core` | Shared geometry phase |
+| `dict_a` / `dict_b` | `core.runtime.dict_*_module` | Lexical → grid calculus — all domains |
+| `topology` | `core.runtime.topology_module` | Shared geometry phase |
 | `nlp` | `hesperia.modules.nlp.basic` | Baseline tokenization |
-| `metrics` | `hesperia.modules.metrics.base` | Shared measurement hooks |
+| `metrics` | `core.runtime.metrics_module` | Shared measurement hooks |
 
 ### Class B — Non-cored modules (branch-persistent)
 

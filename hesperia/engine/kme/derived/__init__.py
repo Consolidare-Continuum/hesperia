@@ -3,7 +3,7 @@
 
 """KME — Derived metric engine (35 metrics from 6 primitives)."""
 
-from hesperia.engine.kme.derived.calculator import (
+from core.domain.derived_metrics import (
     compute,
     compute_derived_metrics,
     full_fingerprint,

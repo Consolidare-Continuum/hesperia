@@ -3,7 +3,7 @@
 
 """KME — Domain fingerprint engine (41-value vector, hash, comparison)."""
 
-from hesperia.engine.kme.fingerprint.builder import (
+from core.domain.fingerprint import (
     FULL_ORDER,
     MARKETABLE_DERIVED_ORDER,
     PRIMITIVE_ORDER,

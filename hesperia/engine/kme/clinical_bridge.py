@@ -12,8 +12,8 @@ from typing import Any
 
 import yaml
 
-from hesperia.engine.kme.active_graph import build_active_graph
-from hesperia.engine.kme.models import (
+from core.domain.active_graph import build_active_graph
+from core.domain.models import (
     ConceptHit,
     DomainEdge,
     DomainGraph,
@@ -132,7 +132,7 @@ def build_clinical_active_graph(
     Рёбра — связи Dict-B между активными концептами.
     Метрики KME работают по графу концептов (concept nodes ≈ hex cells).
     """
-    from hesperia.engine.kme.models import ActiveGraph
+    from core.domain.models import ActiveGraph
 
     if domain_graph is None:
         domain_graph = load_domain_graph_from_dict_b()
@@ -150,11 +150,11 @@ def run_kme_from_activation(
     Полный прогон KME по результату активации сессии:
     Clinical ActiveGraph → Primitives → Derived → Fingerprint → MetricReport.
     """
-    from hesperia.engine.kme.extractor import extract_constants
-    from hesperia.engine.kme.fingerprint.builder import build_fingerprint
-    from hesperia.engine.kme.models import MetricReport
-    from hesperia.engine.kme.primitives.calculator import compute_primitives
-    from hesperia.engine.kme.derived.calculator import compute_derived_metrics
+    from core.domain.derived_metrics import compute_derived_metrics
+    from core.domain.extractor import extract_constants
+    from core.domain.fingerprint import build_fingerprint
+    from core.domain.models import MetricReport
+    from core.domain.primitive_metrics import compute_primitives
 
     if domain_graph is None:
         domain_graph = load_domain_graph_from_dict_b()

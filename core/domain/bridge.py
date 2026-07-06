@@ -1,14 +1,37 @@
-# HESPERIA — Legacy re-export. Canonical: hesperia.engine.kme.bridge
-# Copyright © 2026 igareosh.com. All rights reserved.
+# HESPERIA — Reference Architecture Definition (RAD)
+# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Restricted Research Disclosure License. Inspection and reference only.
+# No reproduction, redistribution, or use without explicit written permission from the author.
+# See LEGAL_NOTICE.md for full terms.
 
-"""Re-export KME bridge. Prefer: from hesperia.engine.kme.bridge import ..."""
+"""
+KME — Bridge from sphere pipeline state to KME pipeline.
+Maps (matched, F) → ConceptHits + RelationCandidates and provides a synthetic domain graph.
+"""
 
-from hesperia.engine.kme.bridge import (
-    pipeline_matched_to_hits_relations,
-    synthetic_domain_graph_for_topology,
+from __future__ import annotations
+
+from core.domain.models import (
+    ConceptHit,
+    DomainGraph,
+    DomainNode,
+    RelationCandidate,
 )
 
-__all__ = [
-    "pipeline_matched_to_hits_relations",
-    "synthetic_domain_graph_for_topology",
-]
+
+def synthetic_domain_graph_for_topology(num_families: int = 288) -> DomainGraph:
+    """Build a minimal domain graph with one node per family (f_0 .. f_{N-1}), no edges."""
+    nodes = {f"f_{i}": DomainNode(concept_id=f"f_{i}") for i in range(num_families)}
+    return DomainGraph(nodes=nodes, edges=[])
+
+
+def pipeline_matched_to_hits_relations(
+    matched: list[tuple[int, str]],
+    num_families: int = 288,
+) -> tuple[list[ConceptHit], list[RelationCandidate]]:
+    """Convert pipeline matched list [(family_id, token), ...] to ConceptHits and RelationCandidates."""
+    hits: list[ConceptHit] = []
+    for token_index, (family_id, _token) in enumerate(matched):
+        if 0 <= family_id < num_families:
+            hits.append(ConceptHit(concept_id=f"f_{family_id}", token_index=token_index))
+    return (hits, [])

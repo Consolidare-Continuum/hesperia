@@ -3,7 +3,7 @@
 
 """KME — Domain profile layer (corpus-level aggregation)."""
 
-from hesperia.engine.kme.profiling.profiler import (
+from core.domain.profile import (
     build_profile,
     classify_document,
     domain_distance,
