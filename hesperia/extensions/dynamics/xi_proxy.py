@@ -8,7 +8,7 @@ import math
 from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
-    from hesperia.engine.kme.models import ActiveGraph
+    from core.domain.models import ActiveGraph
 
 NUM_AREAS = 12
 

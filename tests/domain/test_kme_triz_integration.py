@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.kme.models import (
+from core.domain.models import (
     ConceptHit,
     DomainConstants,
     DomainEdge,
@@ -10,7 +10,7 @@ from hesperia.engine.kme.models import (
     DomainNode,
     RelationCandidate,
 )
-from hesperia.engine.kme.pipeline import metric_report_to_dict, run_document
+from core.domain.pipeline import metric_report_to_dict, run_document
 from hesperia.extensions.triz.report_extractors import extract_triz_summary
 from hesperia.extensions.triz.topology_metrics import get_area_adjacency
 
@@ -56,7 +56,7 @@ def test_triz_with_concept_topology() -> None:
 
 
 def test_active_graph_weights() -> None:
-    from hesperia.engine.kme.active_graph import build_active_graph
+    from core.domain.active_graph import build_active_graph
 
     dg = _domain()
     hits = [ConceptHit("contract_law", 0), ConceptHit("legal_obligation", 1)]

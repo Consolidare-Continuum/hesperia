@@ -387,7 +387,7 @@ def _slim_csv_exports(obj: dict[str, Any]) -> None:
 def run_e2e_session_kme(out_path: Path, text: str) -> None:
     """NLP session → clinical ActiveGraph → KME primitives/derived/fingerprint + TRIZ."""
     from hesperia.engine.kme.clinical_bridge import run_session_kme_pipeline
-    from hesperia.engine.kme.pipeline import metric_report_to_dict
+    from core.domain.pipeline import metric_report_to_dict
 
     try:
         report = run_session_kme_pipeline(text, source_id="e2e_session")
@@ -399,7 +399,7 @@ def run_e2e_session_kme(out_path: Path, text: str) -> None:
     from core.projection import apply_public_projection
 
     out = apply_public_projection(out)
-    _write_e2e_json(out_path, out, ["hesperia.engine.kme.clinical_bridge", "hesperia.engine.kme.pipeline"])
+    _write_e2e_json(out_path, out, ["hesperia.engine.kme.clinical_bridge", "core.domain.pipeline"])
 
 
 def run_e2e_triz_complete(out_path: Path, text: str) -> None:
@@ -997,7 +997,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     )
 
     def _kme_doc_corpus() -> dict[str, Any]:
-        from hesperia.engine.kme.models import (
+        from core.domain.models import (
             ConceptHit,
             DocumentInput,
             DomainConstants,
@@ -1006,7 +1006,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
             DomainNode,
             RelationCandidate,
         )
-        from hesperia.engine.kme.pipeline import metric_report_to_dict, run_corpus, run_document
+        from core.domain.pipeline import metric_report_to_dict, run_corpus, run_document
 
         nodes = {"kme_a": DomainNode("kme_a"), "kme_b": DomainNode("kme_b")}
         edges = [DomainEdge("kme_a", "kme_b", "relates")]

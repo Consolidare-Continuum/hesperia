@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
+from core.domain.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.triz.models import ConceptActivation, ConceptRelation, MatrixCoordinate, TRIZSignals
 from hesperia.extensions.triz.topology_metrics import canonical_area_adjacency, neighbors_from_adjacency
 from hesperia.extensions.triz.triz_pipeline import run_triz_analysis

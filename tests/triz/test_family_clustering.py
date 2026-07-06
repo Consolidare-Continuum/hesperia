@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
+from core.domain.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.triz.contradiction_engine import detect_contradictions
 from hesperia.extensions.triz.family_clustering import (
     cluster_contradictions_by_area_family,

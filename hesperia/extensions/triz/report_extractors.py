@@ -10,7 +10,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING, Any
 
 if TYPE_CHECKING:
-    from hesperia.engine.kme.models import MetricReport
+    from core.domain.models import MetricReport
 
 
 def extract_triz_from_metric_report(report: "MetricReport") -> dict[str, Any]:

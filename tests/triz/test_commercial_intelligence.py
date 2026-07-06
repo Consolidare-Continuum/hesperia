@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
+from core.domain.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.triz.commercial_intelligence import (
     build_commercial_intelligence_bundle,
     compare_triz_corpora,

@@ -12,7 +12,7 @@ from typing import TYPE_CHECKING, Any
 from hesperia.extensions.triz.models import NarrativeSignal
 
 if TYPE_CHECKING:
-    from hesperia.engine.kme.models import ActiveGraph
+    from core.domain.models import ActiveGraph
 
 
 def _base_activations(graph: "ActiveGraph") -> dict[str, float]:
@@ -415,5 +415,4 @@ def propagate_topology_mode(
         "family_activation_final": {str(k): round(v, 6) for k, v in sorted(cur_f.items())},
         "contradiction_pressure": {k: round(v, 6) for k, v in sorted(pressure.items())},
     }
-
 

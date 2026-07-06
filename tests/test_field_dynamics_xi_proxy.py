@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
+from core.domain.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.dynamics.xi_proxy import (
     apply_xi_to_contradiction_signal,
     field_dynamics_xi_enabled,

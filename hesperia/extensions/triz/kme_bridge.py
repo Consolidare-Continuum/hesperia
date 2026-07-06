@@ -22,7 +22,7 @@ from hesperia.extensions.triz.models import (
 )
 
 if TYPE_CHECKING:
-    from hesperia.engine.kme.models import ActiveGraph
+    from core.domain.models import ActiveGraph
 
 
 def _parse_area(s: str) -> int | None:

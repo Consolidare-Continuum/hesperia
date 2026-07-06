@@ -810,7 +810,7 @@ def run_pipeline(
         if with_kme:
             try:
                 from hesperia.engine.kme.clinical_bridge import run_session_kme_pipeline
-                from hesperia.engine.kme.pipeline import metric_report_to_dict
+                from core.domain.pipeline import metric_report_to_dict
                 from core.projection import apply_public_projection
 
                 report = run_session_kme_pipeline(t, source_id=sid)

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.kme.models import ActiveEdge, ActiveGraph, ActiveNode
+from core.domain.models import ActiveEdge, ActiveGraph, ActiveNode
 from hesperia.extensions.triz.contradiction_engine import detect_contradictions
 from hesperia.extensions.triz.hex_signals import aggregate_hex_pressure, hex_volatility_index
 from hesperia.extensions.triz.signal_normalization import exponential_smoothing

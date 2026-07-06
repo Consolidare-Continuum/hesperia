@@ -42,7 +42,7 @@ def fetch_triz_contradiction_rows(
     """
     Session → clinical graph → TRIZ complete; return contradiction rows + small meta + ActiveGraph.
 
-    Third value is the clinical :class:`~hesperia.engine.kme.models.ActiveGraph` when built (possibly
+    Third value is the clinical :class:`~core.domain.models.ActiveGraph` when built (possibly
     empty nodes), or ``None`` on hard failure. Used for full-graph Ξ (KME) when TRIZ rows are sparse.
     On failure: ``([], {"_error": ...}, None)``.
     """
