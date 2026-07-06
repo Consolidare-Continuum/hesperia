@@ -17,8 +17,19 @@ Date: 2026-07-06
 - Renamed `docs/CONSOLIDATION_REPORT.md` to `docs/HSR-V7-CONSOLIDATION-REPORT.md`.
 - Moved `docs/brain-export/README.md` to `docs/archive/brain-export/README.md`.
 - Added `docs/archive/ARCHIVE-MANIFEST.md` and `docs/archive/HSR-V7-CONSOLIDATION-INVENTORY.md`.
+- Fused shared KME/domain implementation into canonical `core.domain`.
+- Fused generic runtime modules into canonical `core.runtime`.
+- Preserved `hesperia.engine.kme` and `hesperia.modules.core` / `metrics` / `topology` as compatibility shims.
+- Converged live imports onto canonical `core.domain.*` paths where canonical owners exist.
+- Updated non-archive source-truth docs to reflect post-core-fusion architecture.
 
 ## Notes
 
 - Historical payloads under `docs/brain-export/archive/` remain in place for a later prune/move pass.
 - The repo now prefers the complete calibration pack for active development; archive placeholder remains explicitly labeled.
+- Current architectural authority:
+  - `core.domain` = canonical shared KME/domain computation
+  - `core.runtime` = canonical generic runtime module layer
+  - `hesperia.engine.kme` = compatibility import surface
+  - `hesperia.modules.core` / `metrics.base` / `topology.core` = compatibility import surfaces
+  - `hesperia.modules.tfp` = domain extension

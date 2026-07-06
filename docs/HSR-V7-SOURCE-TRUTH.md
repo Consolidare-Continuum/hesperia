@@ -1,36 +1,59 @@
-# Hesperia source of truth
+# HSR-V7 source truth
 
-This file is the navigation layer for agents and humans. It separates live code from specs, documentation overlays, and historical material.
+This file is the current authority map for live Hesperia code, specs, and documentation after the
+core-fusion and import-convergence passes. It separates canonical implementation authority from
+compatibility surfaces and historical material.
+
+## Canonical implementation authority
+
+`core/` is the canonical home for deterministic structural computation.
+
+- `core.domain` owns shared KME/domain measurement implementation.
+- `core.runtime` owns generic runtime module implementation.
+- `hesperia.engine.kme` remains a compatibility import surface.
+- `hesperia.modules.core`, `hesperia.modules.metrics.base`, and `hesperia.modules.topology.core`
+  remain compatibility import surfaces.
+- `hesperia.modules.tfp` remains a domain extension.
 
 ## Live source code
 
 - `core/`
 - `hesperia/`
 - `runtime/`
-- `sphere/router/`
-- `runtime/h070_apply/`
+- `sphere/`
 
 ## Live specs
 
 - `docs/specs/HSR-V7-*`
+- `docs/specs/HESPERIA-CORE-MODULES-AND-BRANCHES.md`
 - `specs/canon/*`
 - `schemas/*`
 
-## Documentation overlays
+## Live documentation authority
 
+- `docs/HSR-V7-SOURCE-TRUTH.md`
+- `docs/HSR-V7-CONSOLIDATION-REPORT.md`
 - `docs/iso/*`
+- `docs/foundations/*`
 - `docs/publication/*`
+
+When a non-archive document discusses KME or runtime architecture, it should describe canonical
+ownership using `core.domain` and `core.runtime`, and describe old `hesperia.engine.kme` /
+`hesperia.modules.*` paths only as compatibility or historical surfaces.
 
 ## Historical evidence
 
 - `release/v0.5.*`
 - `release/v0.6.*`
 - `docs/archive/*`
-- `docs/brain-export/*` when marked archival
+- `docs/brain-export/*`
+
+`docs/brain-export/*` is useful evidence and research context, but it is not current implementation
+authority unless a live source-truth document explicitly points to a file there for historical
+background.
 
 ## Not source truth
 
-- old brain exports without archival warnings
 - generated debug outputs
-- stale foundation docs that still claim missing paths or old version labels
-
+- stale historical docs without current-authority wording
+- compatibility shims treated as implementation authority

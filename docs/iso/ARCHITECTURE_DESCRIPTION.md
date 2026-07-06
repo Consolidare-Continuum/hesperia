@@ -31,7 +31,9 @@ Three top-level runtime concerns, each independently testable (`corners/core_run
 - **`core/`** — the computational substrate: primitive math (`core/math/core_math.py`,
   `conservation.py`), attribution (`core/attribution/attribution.py`), tie-break resolution
   (`core/resolver/score_rules.py`), and the single canonical runtime entrypoint
-  (`core/runtime/engine.py`'s `analyze_engine()`). Reusable across more than one orchestration
+  (`core/runtime/engine.py`'s `analyze_engine()`). `core.domain` is the canonical home for shared
+  KME/domain measurement implementation and `core.runtime` is the canonical home for generic runtime
+  modules. Reusable across more than one orchestration
   context (the sphere pipeline, calibration scripts, the modular kernel's T1–T10 gates).
 - **`sphere/`** — layer-stack orchestration and interpretation: the L1–L10 pipeline
   (`sphere/pipeline/pipeline_runner.py`), diagnostics, USF generation, the fpf_bridge (Layer 11).
@@ -119,9 +121,10 @@ without being allowed to feed back into it — a distinct concern from the Produ
 because these two subsystems are read-only against L1–L11 by explicit design, not because they lack
 a caller.
 
-- **KME** (Knowledge Metrics Engine, `corners/kme.md`) — six bounded primitives (`LD, COH, NC, PR,
+- **KME** (Knowledge Metrics Engine, `corners/kme.md`) — canonical implementation in `core.domain`
+  with `hesperia.engine.kme` retained as a compatibility facade; six bounded primitives (`LD, COH, NC, PR,
   PV, CI`) reduced from the activation graph, 35 pure-algebra derived ratios (formulas verified
-  letter-for-letter against `hesperia/engine/kme/derived/calculator.py` — `output_catalog.md` §10),
+  letter-for-letter against `core/domain/derived_metrics.py` — `output_catalog.md` §10),
   and a 41-element hashed fingerprint for cross-run/cross-document structural comparison. KME is a
   core semantic mechanism, not a TFP-only subsystem; TFP was simply the first branch it was
   validated against.

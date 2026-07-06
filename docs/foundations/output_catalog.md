@@ -10,7 +10,7 @@ are still parameters in the sense this package uses the word: named, typed, boun
 exact composition a reader needs traceable, not just their existence.
 
 **Every name and formula below was read directly from the implementing source** —
-`core/layers/layer_1.py` through `layer_9.py`, `hesperia/engine/kme/derived/calculator.py`,
+`core/layers/layer_1.py` through `layer_9.py`, `core/domain/derived_metrics.py`,
 `sphere/fpf_bridge/constants.py`, `runtime/services/product_interpret_service.py` — not paraphrased
 from the layer docs in `layers/*.md`. Where the layer's own docstring claim ("25 variables") didn't
 match the literal key count returned, the original per-layer specs (`34_SPEC` through `42_SPEC`)
@@ -401,7 +401,7 @@ these 25 is user-facing by construction; there is no further "internal-only" tie
 
 **Total L9: 25 (spec-exact).**
 
-## 10. KME — six primitives, 35 pure-algebra derived metrics (`hesperia/engine/kme/`)
+## 10. KME — six primitives, 35 pure-algebra derived metrics (`core.domain`, compat facade in `hesperia.engine.kme/`)
 
 Six bounded primitives (`LD, COH, NC, PR, PV, CI`, each `[0,1]`) feed
 `derived/calculator.py::compute_derived_metrics`, which computes **exactly 35** named

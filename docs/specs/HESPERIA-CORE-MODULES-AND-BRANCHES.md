@@ -12,6 +12,10 @@
 The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + deterministic trace on the 12×24×250×6 grid.
 
 - Code: `hesperia/engine/`, sealed assets under `assets/data/engine_dynamics_v060/`
+- Deterministic structural computation is canonical under `core/`, with `core.domain` owning shared
+  KME/domain measurement logic and `core.runtime` owning generic runtime modules.
+- `hesperia.engine.kme` and `hesperia.modules.core` / `metrics.base` / `topology.core` remain
+  compatibility shim surfaces, not canonical implementation authority.
 - **No branch reopens core physics.** MRT, TFP, COBALT, and future work **branch understanding and outputs**, not measurement truth.
 
 ---

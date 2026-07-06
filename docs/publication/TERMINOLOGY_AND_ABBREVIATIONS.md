@@ -78,7 +78,7 @@ them back through `UPCELERATOR_SOURCE_MAP.md` and, where relevant, `METHODS.md` 
 | Abbreviation | Expansion | Status | Source |
 |---|---|---|---|
 | KME | Knowledge Metrics Engine | VERIFIED | `corners/kme.md` |
-| LD | LogicalDensity | VERIFIED | `hesperia/engine/kme/models.py` inline comment, `corners/kme.md` |
+| LD | LogicalDensity | VERIFIED | `core/domain/models.py` inline comment, `corners/kme.md` |
 | COH | Coherence | VERIFIED | same |
 | NC | NodeCoverage | VERIFIED | same |
 | PR | PropagationRadius | VERIFIED | same |
@@ -88,7 +88,7 @@ them back through `UPCELERATOR_SOURCE_MAP.md` and, where relevant, `METHODS.md` 
 ## 5. KME derived metrics (35 codes) — the open item this glossary exists to surface
 
 **None of the 35 derived-metric codes have a stated full-word expansion anywhere in the codebase or
-documentation** — verified by direct source read of `hesperia/engine/kme/derived/calculator.py` and
+documentation** — verified by direct source read of `core/domain/derived_metrics.py` and
 `corners/kme.md`; only `KSI` has any documented gloss at all ("KME-KSI-score," disambiguated from
 "KSI-Inspector," `provenance.md`), and even that names the metric, not what K/S/I individually stand
 for. This is exactly the situation the operator flagged: undefined abbreviations that will surface

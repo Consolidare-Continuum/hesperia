@@ -1,9 +1,10 @@
-# Corner: Knowledge Metrics Engine (KME) — `hesperia/engine/kme/`
+# Corner: Knowledge Metrics Engine (KME) — `core.domain` + compatibility facade
 
-**Location:** `hesperia/engine/kme/{active_graph,clinical_bridge,extractor,pipeline}.py`,
-`derived/calculator.py`, `primitives/calculator.py`, `fingerprint/builder.py`,
-`fingerprint_distance.py`. Standalone from the `sphere/` L1–L10 pipeline — it consumes
-Dict-A/B activation output, not raw text.
+**Canonical location:** `core/domain/{active_graph,bridge,extractor,fingerprint,loader,models,pipeline,primitive_metrics,derived_metrics,profile}.py`
+
+**Compatibility surface:** `hesperia/engine/kme/` remains importable as a shim layer, including
+`clinical_bridge.py` and the preserved legacy import paths. Standalone from the `sphere/` L1–L10
+pipeline — it consumes Dict-A/B activation output, not raw text.
 
 ## Why this corner exists at all
 
@@ -17,7 +18,7 @@ job is per-run structural classification, not cross-run comparability.
 
 ## Why six bounded primitives, not the raw graph, feed everything downstream
 
-`active_graph.py` first canonicalizes activation into a deterministic graph
+`core.domain.active_graph` first canonicalizes activation into a deterministic graph
 `A = (V_A, E_A)` ("same text + same domain graph → identical active graph" — its own docstring
 states the determinism contract directly), then `primitives/calculator.py` reduces that graph plus
 the frozen domain constants (`DomainConstants`: node count, degree p95, distance p95) to exactly
@@ -39,7 +40,7 @@ the raw graph that could reintroduce non-determinism or unbounded values.
 
 ## Why 35 derived metrics are pure ratio/product algebra, not 35 independent measurements
 
-`derived/calculator.py` builds all 35 derived metrics as products and ratios of the same six
+`core.domain.derived_metrics` builds all 35 derived metrics as products and ratios of the same six
 primitives — e.g. `KSI = clamp01(safe_div(COH * LD, PR))` (coherent, dense structure achieved per
 unit of propagation radius spent reaching it — a structural-efficiency reading, not a separate
 measurement), `KDI = clamp01(LD * COH)`, `CII = clamp01(safe_div(NC, PR))`. None of the 35 read the
@@ -53,7 +54,7 @@ every derived metric rather than re-implemented 35 times.
 
 ## Why fingerprints are hashed vectors, not the metrics objects themselves
 
-`fingerprint/builder.py` doesn't ship `PrimitiveMetrics`/`DerivedMetrics` objects as the
+`core.domain.fingerprint` doesn't ship `PrimitiveMetrics`/`DerivedMetrics` objects as the
 comparison artifact — it serializes them into a fixed-order 41-element vector (`PRIMITIVE_ORDER +
 DERIVED_ORDER`), rounds to a fixed scale, and hashes it (`FINGERPRINT_VERSION = "hesperia_fp_v0_1"`,
 docstring: "Same input metrics -> same fingerprint bytes"). A vector with a stable element order and
@@ -64,7 +65,8 @@ or reordered.
 
 ## Relationship to neighboring corners
 
-- `clinical_bridge.py` is the only place KME touches the rest of the system: it converts Dict-A/B
+- `hesperia.engine.kme.clinical_bridge` is the only preserved compatibility-facing place KME
+  touches the rest of the system: it converts Dict-A/B
   session activation (`corners/lexicon_resolver.md`'s output) into the `DomainGraph`/`ConceptHit`
   shapes KME's active-graph canonicalizer expects — "concept nodes ≈ hex cells," explicitly
   reusing the hex substrate's concept identity (`corners/hex_substrate.md`) rather than defining a
