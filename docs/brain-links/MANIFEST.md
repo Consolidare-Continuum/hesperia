@@ -31,7 +31,7 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 | Full export tree | `docs/brain-export/` |
 | Operational reports / formalization | `docs/brain-export/operational/` |
 | Governance specs | `docs/brain-export/governance/` |
-| Archives (0.6.3 zip) | `docs/brain-export/root/` |
+| Archives (0.6.3 zip) | `docs/brain-export/archive/` |
 | Dev-ready line (historical) | `docs/brain-export/operational/assignments/HESPERIA-DEV-READY-LINE-2026-05-18.md` |
 
 **Dev host:** **altitudine** VM (`192.168.100.65`) — not alunel bare metal. Clone: `/data/workspaces/atomic-commit-hesperia`.
@@ -49,4 +49,3 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 
 - Ingest Hesperia product tree into brain repo root.
 - Commit `cursor-brain-mirror/` into either repo (disk-only optional).
-

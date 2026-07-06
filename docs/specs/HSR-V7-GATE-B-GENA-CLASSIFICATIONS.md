@@ -1,7 +1,7 @@
 # HSR-V7 Gate B — Gena classification supplements
 
 **Register:** HSR-V7-B-08, B-13, B-14  
-**Sealed base:** 0.6.3 · **Router:** v7-router-0.1
+**Sealed base:** 0.6.5 · **Router:** v7-router-0.1
 
 See brain report `operational/assignments/reports/GENA-HSR-V7-B-08-B-13-B-14-2026-06-29.md` for full tables.
 
