@@ -193,8 +193,8 @@ def run_kme_from_activation(
     triz_signals = run_triz_for_kme(active_graph, topo)
     return MetricReport(
         source_id=source_id,
-        primitive_map=primitives.to_dict(),
-        derived_map=derived.to_dict(),
+        primitive_map=fingerprint.primitive_map,
+        derived_map=fingerprint.derived_map,
         fingerprint=fingerprint,
         triz_signals=triz_signals,
     )
