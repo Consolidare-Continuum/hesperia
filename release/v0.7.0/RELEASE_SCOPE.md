@@ -25,7 +25,7 @@ Research → product wiring from the 2026-06-22 METRIC/HRES waves:
 
 ## Deferred to follow-on rows (not blocking v0.7.0 scope doc)
 
-- `HESPERIA_GCS_EMIT=1` static geodesic_sphere block (METRIC-22)
+- `HESPERIA_GCS_EMIT=1` static metric-geometry block (METRIC-22)
 - Full `meta.interior_point_of_world_view` live emit (METRIC-23, HRES-04)
 - `path_metric_cost` on traversal (METRIC-24/25)
 

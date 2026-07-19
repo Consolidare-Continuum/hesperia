@@ -52,12 +52,15 @@ SCAN_SKIP_FILES = [
 ]
 
 # Directory prefixes (repo-relative, forward slashes) excluded from scan.
-# - release/v0.5.0: versioned audit bundle (spec index paths, hashes, E2E blobs) — not shipping surface.
+# - release/v0.5.0..v0.6.3: versioned audit bundles (spec index paths, hashes, E2E blobs) — not
+#   shipping surface. Each carries its own internal checksums.txt (e.g. release/v0.6.3/checksums.txt
+#   pins hesperia-0.6.3-archive.zip's sha256); editing content inside would break that seal.
 # - examples/extensions/triz_demo: internal TRIZ narrative demos; uses graph payloads and forbidden vocabulary by design.
 SCAN_SKIP_DIR_PREFIXES = [
     "release/v0.5.0",
     "release/v0.5.1",
     "release/v0.5.2",
+    "release/v0.6.3",
     "examples/extensions/triz_demo",
 ]
 
