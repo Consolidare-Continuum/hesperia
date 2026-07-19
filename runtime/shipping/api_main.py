@@ -37,6 +37,54 @@ _RATE_LIMIT = int(os.environ.get("HESPERIA_RATE_LIMIT", "60"))  # requests per m
 _RATE_WINDOW = 60.0
 _MAX_INPUT_CHARS = int(os.environ.get("HESPERIA_MAX_INPUT_CHARS", "10000"))
 
+# FPF-HSR-11: InterpretBody.context_packet — allowlist aligned with what the router pre-LLM
+# compiler actually reads off `ctx`, plus `thinking_map_outcome` (extracted and forwarded as its
+# own compile_router_envelope() kwarg, not read from ctx directly).
+# Ref: governance/ETHAN-FPF-HSR-02-10-ARCHITECTURE-PACKET-2026-07-19.md §FPF-HSR-05.
+_CONTEXT_PACKET_ALLOWED_KEYS = frozenset(
+    {
+        "retrieval",
+        "retrieval_context",
+        "relation_context",
+        "corpus_snapshot_id",
+        "calculable",
+        "coherence_hints",
+        "observability",
+        "gtp_current_hex",
+        "gtp_powv_position",
+        "thinking_map_outcome",
+    }
+)
+_MAX_CONTEXT_PACKET_BYTES = int(os.environ.get("HESPERIA_MAX_CONTEXT_PACKET_BYTES", "20000"))
+_MAX_CONTEXT_PACKET_DEPTH = 6
+
+
+def _json_depth(value: Any, _current: int = 0) -> int:
+    if _current > _MAX_CONTEXT_PACKET_DEPTH:
+        return _current
+    if isinstance(value, dict):
+        return max((_json_depth(v, _current + 1) for v in value.values()), default=_current)
+    if isinstance(value, list):
+        return max((_json_depth(v, _current + 1) for v in value), default=_current)
+    return _current
+
+
+def _validate_context_packet(cp: dict[str, Any]) -> dict[str, Any]:
+    """FPF-HSR-11: reject unknown top-level keys, oversized or overly nested payloads."""
+    import json
+
+    unknown = set(cp.keys()) - _CONTEXT_PACKET_ALLOWED_KEYS
+    if unknown:
+        raise ValueError(f"context_packet: unknown top-level key(s) {sorted(unknown)}")
+    size = len(json.dumps(cp))
+    if size > _MAX_CONTEXT_PACKET_BYTES:
+        raise ValueError(f"context_packet exceeds max size {_MAX_CONTEXT_PACKET_BYTES} bytes")
+    depth = _json_depth(cp)
+    if depth > _MAX_CONTEXT_PACKET_DEPTH:
+        raise ValueError(f"context_packet exceeds max nesting depth {_MAX_CONTEXT_PACKET_DEPTH}")
+    return cp
+
+
 def _rate_limit(key: str = "default") -> bool:
     now = time.monotonic()
     if key not in _RATE:
@@ -108,6 +156,17 @@ class InterpretBody(BaseModel):
     mode: str = Field(default="deterministic", pattern="^(deterministic|llm)$")
     overlay_hint: dict[str, Any] | None = None
     temp_relation_overlay: list[dict[str, Any]] | None = None
+    # FPF-HSR-11: optional context_packet, allowlisted top-level keys only. Self-contained per
+    # request — no server-side session (same statelessness discipline as the rest of this API).
+    # Does not flip HESPERIA_GTP_ENABLED; GTP stays feature-gated independent of this field.
+    context_packet: dict[str, Any] | None = None
+
+    @field_validator("context_packet")
+    @classmethod
+    def _validate_context_packet_field(cls, v: dict[str, Any] | None) -> dict[str, Any] | None:
+        if v is None:
+            return v
+        return _validate_context_packet(v)
 
 
 def create_app():
@@ -320,16 +379,30 @@ def create_app():
             raise HTTPException(status_code=403, detail="Capability disabled")
         if not _rate_limit():
             raise HTTPException(status_code=429, detail="Rate limit exceeded")
-        from runtime.services.product_interpret_service import run_product_interpret
+        from runtime.services.product_interpret_service import (
+            GroundTruthMissingError,
+            run_product_interpret,
+        )
 
         assets = _assets_root()
-        result = run_product_interpret(
-            interpret_body.text,
-            assets_root=assets,
-            mode=interpret_body.mode,  # type: ignore[arg-type]
-            overlay_hint=interpret_body.overlay_hint,
-            temp_relation_overlay=interpret_body.temp_relation_overlay,
-        )
+        # FPF-HSR-11: thinking_map_outcome travels inside context_packet on the wire (documented
+        # allowlist key) but compile_router_envelope() takes it as its own kwarg — extract here.
+        context_packet = dict(interpret_body.context_packet or {})
+        thinking_map_outcome = context_packet.pop("thinking_map_outcome", None)
+        try:
+            result = run_product_interpret(
+                interpret_body.text,
+                assets_root=assets,
+                mode=interpret_body.mode,  # type: ignore[arg-type]
+                overlay_hint=interpret_body.overlay_hint,
+                temp_relation_overlay=interpret_body.temp_relation_overlay,
+                context_packet=context_packet or None,
+                thinking_map_outcome=thinking_map_outcome,
+            )
+        except GroundTruthMissingError as exc:
+            # FPF-HSR-13: hard fail, not silent omit — never ship a response missing one of the
+            # three mandatory engine-governed blocks.
+            raise HTTPException(status_code=422, detail=str(exc)) from exc
         return JSONResponse(content=result, media_type="application/json")
 
     return app
