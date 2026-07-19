@@ -56,11 +56,17 @@ def build_tool_inquiry_packet(
         context_packet=context_packet,
         thinking_map_outcome=thinking_map_outcome,
     )
+    # FPF-HSR-13: mandatory logical/weight/source_activation blocks on this surface too — the
+    # CLI (router-inquire) and the hesperia-router MCP tool both go through this function, so
+    # this is the one seam that covers both without duplicating the enforcement.
+    from sphere.router.ground_truth import enforce_ground_truth
+
     return {
         "schema": TOOL_INQUIRY_SCHEMA,
         "packet_kind": "router_envelope",
         "json_only": True,
         "router_envelope": envelope,
+        "ground_truth": enforce_ground_truth(envelope),
     }
 
 

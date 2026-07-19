@@ -9,6 +9,10 @@ import os
 from pathlib import Path
 from typing import Any, Literal
 
+from sphere.router.ground_truth import (  # noqa: F401 — GroundTruthMissingError re-exported facade
+    GroundTruthMissingError,
+    enforce_ground_truth,
+)
 from sphere.router.pre_llm_compiler import compile_router_envelope
 
 InterpretMode = Literal["deterministic", "llm"]
@@ -110,6 +114,8 @@ def run_product_interpret(
         cobalt_packet = None
     engine = envelope.get("engine_trace") or {}
     mode_gov = _router_mode()
+    # FPF-HSR-13: mandatory logical/weight/source_activation blocks — hard fail (propagates to
+    # the caller, api_main.py returns 422) rather than silently shipping a response missing one.
     out: dict[str, Any] = {
         "schema": _SCHEMA_ID,
         "mode": mode,
@@ -122,6 +128,7 @@ def run_product_interpret(
             "corpus_snapshot_id": envelope.get("corpus_snapshot_id"),
             "policy_snapshot_id": envelope.get("policy_snapshot_id"),
         },
+        "ground_truth": enforce_ground_truth(envelope),
     }
     if cobalt_packet is not None:
         out["cobalt_retrieval"] = cobalt_packet
