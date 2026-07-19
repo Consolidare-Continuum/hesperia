@@ -35,7 +35,64 @@ Tests: `tests/gtp/` (unit, ~50 cases) + `tests/router/test_gtp_envelope_wiring.p
 
 **No 22_SPEC / anchor_map_v1 claim is made here.** The 288 family anchor directions used by `coherence.py` are a documented, deterministic placeholder (derived from the real 12 area vertices + a small per-family tangent offset), not the frozen GCS embedding — that remains a separate, operator-gated wave.
 
-SIGNED: Developer (Felix) | Claude Code context | 2026-07-19 | GTP-01..08 implementation, closing false-DONE on active.md
+### 0.2 How to invoke this today (internal / Python only — no HTTP surface yet)
+
+GTP is **not reachable over `/product/interpret`**. `InterpretBody` (`runtime/shipping/api_main.py`)
+only accepts `text`, `mode`, `overlay_hint`, `temp_relation_overlay` — there is no `context_packet`
+field on the HTTP request at all, so an external caller has no way to supply `gtp_current_hex` today.
+This is a real gap, not an oversight to route around quietly — anyone extending the HTTP contract to
+carry `context_packet` should go through the same review D-48 (`API security review — auth, rate
+limiting, input validation on /product/interpret`) already applied to the rest of the endpoint.
+
+What works today, Python-level, inside the dev repo:
+
+```python
+from sphere.router.pre_llm_compiler import compile_router_envelope
+
+env = compile_router_envelope(
+    text,
+    context_packet={
+        "gtp_current_hex": {"area_id": 0, "global_id": 3, "hex_index": 10},
+        "gtp_powv_position": [0.3, -0.2, 0.15],  # optional, defaults to PointZero
+    },
+)
+# env["gtp"] present only if HESPERIA_GTP_ENABLED=1 was also set — absent otherwise.
+```
+
+Or standalone, without a full router envelope:
+
+```python
+from sphere.router.pre_llm_compiler import compile_gtp_block
+
+block = compile_gtp_block(text, current_hex={"area_id": 0, "global_id": 3, "hex_index": 10})
+```
+
+Both return the `hesperia.gtp_v0_1` shape validated by `schemas/gtp/gtp_v0_1.schema.json`.
+
+### 0.3 Forward direction (not built, not scoped yet — recorded here per operator intent 2026-07-19)
+
+Operator intent, stated directly, ahead of any implementation: proceed toward full fpf-thinking-map
+integration before sealing, such that the OpenAI API, Felix (Claude Code), Cursor, and MCP servers
+using fpf may invoke Hesperia freely and reason over results **on their own** — i.e. agent-autonomous
+invocation, not just operator-triggered `/product/interpret` calls.
+
+This is flagged rather than quietly built toward, because it intersects a standing V7 invariant this
+same campaign signed off on (`HSR-V7-2026-REGISTER.md` rule 5: "No black-box chain-of-thought treated
+as auditable evidence"; D-46 "No-bypass enforcement — verify no code path exists from raw model text
+to surfaced authority", security-reviewed by Sophia/Daniel). "Agents may invoke Hesperia freely and
+reason on their own" and "no raw-model-text path to surfaced authority without audit" are not
+automatically the same thing — the existing router (`compile_router_envelope` → LLM call → post-LLM
+audit → `RouterDecision`) already lets an LLM reason over engine output *inside* that audited loop; the
+open question this direction raises is whether "freely, on their own" means staying inside that loop
+(propose/verify, same as GTP-03's rotation calibration: "LLM may propose; engine must verify
+deterministically") or means something looser. That distinction is exactly the kind of thing that
+needs its own scoped spec and a fresh security pass before code — not an assumption baked in here.
+
+No new `active.md` row was created for this by me (Felix triages tasks through Grace, not directly)
+— this section exists so the intent is on record and traceable to today's date, ready for Grace
+triage / Ethan ratification when the operator is ready to scope it.
+
+SIGNED: Developer (Felix) | Claude Code context | 2026-07-19 | GTP-01..08 implementation, closing false-DONE on active.md; §0.3 forward-direction note recorded per operator instruction, not yet scoped or built
 
 ---
 
