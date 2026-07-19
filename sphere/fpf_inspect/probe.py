@@ -253,8 +253,8 @@ def probe_l9(analyze_result: dict[str, Any]) -> dict[str, Any]:
 
 def probe_gtp(analyze_result: dict[str, Any]) -> dict[str, Any]:
     gtp = analyze_result.get("gtp") or {}
+    # Option B shipped (FPF-HSR-14) — hex_rotation_r0_interim cleared; keep 03/04 until freeze.
     provisional = [
-        PROVISIONAL_HEX_ROTATION_R0,
         PROVISIONAL_40_POLICY,
         PROVISIONAL_ANCHOR_MAP,
     ]
@@ -274,6 +274,7 @@ def probe_gtp(analyze_result: dict[str, Any]) -> dict[str, Any]:
         logical={
             "gtp_present": bool(gtp),
             "hex_rotation": (gtp.get("hex_rotation") if gtp else None),
+            "hex_rotation_formula": "option_b_primary_side",
         },
         weight={"gtp_coherence": gtp.get("coherence") if gtp else None},
         source_activation={
@@ -281,10 +282,10 @@ def probe_gtp(analyze_result: dict[str, Any]) -> dict[str, Any]:
         },
         evidence_ids=evidence_ids,
         missing_evidence=missing,
-        provisional=provisional,  # BUII-G3: named until ADRs freeze
+        provisional=provisional,
         logic={
             "facts": [
-                {"adr": "FPF-HSR-02", "tag": PROVISIONAL_HEX_ROTATION_R0},
+                {"adr": "FPF-HSR-02", "tag": "option_b_shipped"},
                 {"adr": "FPF-HSR-03", "tag": PROVISIONAL_40_POLICY},
                 {"adr": "FPF-HSR-04", "tag": PROVISIONAL_ANCHOR_MAP},
             ],
@@ -316,6 +317,32 @@ def probe_guards(analyze_result: dict[str, Any]) -> dict[str, Any]:
     )
 
 
+def probe_router(analyze_result: dict[str, Any]) -> dict[str, Any]:
+    """FPF-MWI-10: envelope / ground_truth visibility in climb (read-only)."""
+    envelope = analyze_result.get("router_envelope") or analyze_result.get("envelope") or {}
+    gt = analyze_result.get("ground_truth") or {}
+    missing: list[str] = []
+    evidence_ids: list[str] = []
+    if not envelope and not gt:
+        missing.append("router_envelope_or_ground_truth")
+    else:
+        if envelope:
+            evidence_ids.append("router_envelope")
+        for name in ("logical", "weight", "source_activation"):
+            if name in gt:
+                evidence_ids.append(f"ground_truth_{name}")
+            elif gt:
+                missing.append(f"ground_truth_{name}")
+    return make_inspect_slice(
+        layer_id="Router",
+        logical={"envelope_present": bool(envelope), "ground_truth_present": bool(gt)},
+        weight={"ground_truth_keys": sorted(gt.keys()) if gt else []},
+        source_activation={"router_fingerprint": envelope.get("router_fingerprint") if envelope else None},
+        evidence_ids=evidence_ids,
+        missing_evidence=missing,
+    )
+
+
 _PROBES: dict[str, Callable[[dict[str, Any]], dict[str, Any]]] = {
     "L0": lambda r: probe_l0(r),
     "L1": probe_l1,
@@ -329,6 +356,7 @@ _PROBES: dict[str, Callable[[dict[str, Any]], dict[str, Any]]] = {
     "L9": probe_l9,
     "GTP": probe_gtp,
     "Guards": probe_guards,
+    "Router": probe_router,
 }
 
 

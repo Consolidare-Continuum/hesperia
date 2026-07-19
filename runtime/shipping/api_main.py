@@ -160,6 +160,8 @@ class InterpretBody(BaseModel):
     # request — no server-side session (same statelessness discipline as the rest of this API).
     # Does not flip HESPERIA_GTP_ENABLED; GTP stays feature-gated independent of this field.
     context_packet: dict[str, Any] | None = None
+    # FPF-MWI-03 / BUII P7: optional GapReport attach — default off.
+    include_gap_report: bool = False
 
     @field_validator("context_packet")
     @classmethod
@@ -398,6 +400,7 @@ def create_app():
                 temp_relation_overlay=interpret_body.temp_relation_overlay,
                 context_packet=context_packet or None,
                 thinking_map_outcome=thinking_map_outcome,
+                include_gap_report=interpret_body.include_gap_report,
             )
         except GroundTruthMissingError as exc:
             # FPF-HSR-13: hard fail, not silent omit — never ship a response missing one of the

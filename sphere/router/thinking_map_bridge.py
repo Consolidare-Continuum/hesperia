@@ -15,9 +15,13 @@ def logic_mapping_from_thinking_map(outcome: dict[str, Any]) -> dict[str, Any]:
 
 
 def policy_block_from_thinking_map(outcome: dict[str, Any]) -> dict[str, Any]:
-    """Build policy_block from gate_status, missing_evidence, outcome kind."""
+    """Build policy_block from gate_status, missing_evidence, outcome kind.
+
+    FPF-MWI-04: also pass through ``possible_transitions`` and ``response_contract``
+    when present on the library outcome / llm_prompt_state (no Hesperia-side enforcement).
+    """
     llm = outcome.get("llm_prompt_state") or {}
-    return {
+    block: dict[str, Any] = {
         "outcome_kind": outcome.get("kind"),
         "reason": outcome.get("reason"),
         "missing_evidence": outcome.get("missing_evidence") or llm.get("missing_evidence") or [],
@@ -26,3 +30,10 @@ def policy_block_from_thinking_map(outcome: dict[str, Any]) -> dict[str, Any]:
         "blockers": outcome.get("blockers"),
         "source": "fpf-thinking-map",
     }
+    transitions = outcome.get("possible_transitions") or llm.get("possible_transitions")
+    if transitions is not None:
+        block["possible_transitions"] = transitions
+    response_contract = outcome.get("response_contract") or llm.get("response_contract")
+    if response_contract is not None:
+        block["response_contract"] = response_contract
+    return block

@@ -57,6 +57,14 @@ def test_select_hex_rotation_returns_valid_range() -> None:
     assert set(scores.keys()) == set(range(6))
 
 
+def test_option_b_primary_side_discriminates_includes() -> None:
+    """FPF-HSR-14: Option B scores differ by r; INCLUDES+with → r=0."""
+    r, scores = select_hex_rotation("this includes with something")
+    assert len(set(scores.values())) > 1
+    assert r == 0
+    assert scores[0] >= max(scores.values())
+
+
 def test_side_specs_for_rotation_length() -> None:
     specs = side_specs_for_rotation(3)
     assert len(specs) == 6

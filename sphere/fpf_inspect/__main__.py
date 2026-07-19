@@ -11,6 +11,7 @@ from typing import Any
 
 from sphere.fpf_inspect.climb import gap_detect, inspect_climb
 from sphere.fpf_inspect.map_hesperia_inspect import map_step
+from sphere.fpf_inspect.map_hesperia_ops import ops_map_step
 from sphere.fpf_inspect.probe import probe
 
 
@@ -53,6 +54,11 @@ def main(argv: list[str] | None = None) -> int:
     p_map.add_argument("--evidence", default="")
     p_map.add_argument("--task", default="hesperia dig")
 
+    p_ops = sub.add_parser("ops-map-step", help="thinking_map_step on hesperia_ops")
+    p_ops.add_argument("--state", default="start")
+    p_ops.add_argument("--evidence", default="")
+    p_ops.add_argument("--task", default="hesperia roll")
+
     args = parser.parse_args(argv)
 
     if args.cmd == "probe":
@@ -71,6 +77,8 @@ def main(argv: list[str] | None = None) -> int:
         out = gap_detect(result)
     elif args.cmd == "map-step":
         out = map_step(current_state=args.state, current_evidence=args.evidence, task=args.task)
+    elif args.cmd == "ops-map-step":
+        out = ops_map_step(current_state=args.state, current_evidence=args.evidence, task=args.task)
     else:
         return 2
 

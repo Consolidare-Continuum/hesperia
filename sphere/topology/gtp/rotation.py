@@ -81,30 +81,22 @@ def select_hex_rotation(
     w_semantic: float = W_SEM_DEFAULT,
 ) -> tuple[int, dict[int, float]]:
     """
-    Deterministic hex_rotation' per spec §5.2.
+    Deterministic hex_rotation' — **Option B (primary-side-only)** per Ethan FPF-HSR-02/14.
 
-    Returns (hex_rotation, scores_by_rotation). Same input + same weights -> same output
-    (spec §5.2: "same input + same pins -> same hex_rotation'"). Ties broken by lowest r.
+    For each candidate rotation ``r``, score only the primary active side ``k=0``
+    (``side_active(0, r)``). The literal §5.2 full-sum over ``k=0..5`` is rotation-invariant
+    (cyclic permutation) and always tied to ``r=0``; Option B is the ratified discriminating
+    rewrite. Same input + same weights → same output. Ties broken by lowest ``r``.
 
-    KNOWN SPEC AMBIGUITY (not silently patched — flagged for Ethan/governance, ADR territory
-    per spec §14 "Change INV-LOGICAL-OPS-6 set requires ADR + migration"): the literal §5.2
-    formula sums match() over the full k=0..5 range for every candidate r. Since
-    side_active(k, r) as k ranges over 0..5 is a cyclic permutation of {0,...,5} for any fixed
-    r, that sum is mathematically identical for every r — the formula as written cannot
-    discriminate between rotations; `scores_by_rotation` will always come out uniform and this
-    function always falls through to the lowest-r tie-break. Implemented literally as specified
-    rather than reinterpreted, since redefining it is a governance call, not an implementation
-    one. A real discriminating formula would need e.g. a positionally-weighted sum (earlier k
-    counted more) or scoring only the primary side (k=0) per candidate r.
+    Provisional ADR tag ``hex_rotation_r0_interim`` is cleared when Option B is active (this
+    implementation). See governance ETHAN-FPF-HSR-02-10 packet §FPF-HSR-02 Option B.
     """
     phi = input_features(text)
     scores: dict[int, float] = {}
     for r in range(6):
-        total = 0.0
-        for k in range(6):
-            spec = side_spec(side_active(k, r))
-            total += side_match_score(phi, spec, w_logical=w_logical, w_semantic=w_semantic)
-        scores[r] = total
+        # Option B: primary side only (k=0) — discriminates rotations.
+        spec = side_spec(side_active(0, r))
+        scores[r] = side_match_score(phi, spec, w_logical=w_logical, w_semantic=w_semantic)
     best_r = min(range(6), key=lambda r: (-scores[r], r))
     return best_r, scores
 

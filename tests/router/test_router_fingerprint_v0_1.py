@@ -64,6 +64,19 @@ def test_thinking_map_bridge_sample() -> None:
     assert policy["source"] == "fpf-thinking-map"
 
 
+def test_thinking_map_bridge_pass_through_transitions_and_contract() -> None:
+    """FPF-MWI-04: possible_transitions + response_contract pass through."""
+    outcome = {
+        "kind": "OutcomeKind.COLLECT_EVIDENCE",
+        "possible_transitions": [{"id": "execute_safe", "to_state": "verifying"}],
+        "response_contract": {"formality": "high"},
+        "llm_prompt_state": {"gate_status": {}, "risk_level": "normal"},
+    }
+    policy = policy_block_from_thinking_map(outcome)
+    assert policy["possible_transitions"][0]["id"] == "execute_safe"
+    assert policy["response_contract"]["formality"] == "high"
+
+
 def test_envelope_finalize() -> None:
     env = RouterInputEnvelope(
         router_version="v7-router-0.1",

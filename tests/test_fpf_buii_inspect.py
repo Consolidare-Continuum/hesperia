@@ -13,7 +13,6 @@ from sphere.fpf_inspect.constants import (
     L6_STUB_FIELDS,
     PROVISIONAL_40_POLICY,
     PROVISIONAL_ANCHOR_MAP,
-    PROVISIONAL_HEX_ROTATION_R0,
 )
 from sphere.fpf_inspect.map_hesperia_inspect import map_step
 from sphere.fpf_inspect.probe import probe
@@ -103,11 +102,28 @@ class TestClimbExtended:
 
     def test_gtp_provisional_tags(self):
         s = probe("GTP", _rich_result())
-        for tag in (PROVISIONAL_HEX_ROTATION_R0, PROVISIONAL_40_POLICY, PROVISIONAL_ANCHOR_MAP):
+        for tag in (PROVISIONAL_40_POLICY, PROVISIONAL_ANCHOR_MAP):
             assert tag in s["provisional"]
+        assert "hex_rotation_r0_interim" not in s["provisional"]
         gaps = gap_detect(_rich_result())
         kinds = {g["kind"] for g in gaps["gaps"]}
         assert "provisional_adr" in kinds
+
+    def test_router_layer_probe(self):
+        s = probe(
+            "Router",
+            {
+                "router_envelope": {"router_fingerprint": "fp"},
+                "ground_truth": {
+                    "logical": {},
+                    "weight": {},
+                    "source_activation": {},
+                },
+            },
+        )
+        assert s["layer_id"] == "Router"
+        assert "router_envelope" in s["fpf"]["evidence_ids"]
+        assert "ground_truth_logical" in s["fpf"]["evidence_ids"]
 
     def test_guards_present(self):
         s = probe("Guards", _rich_result())

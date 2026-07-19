@@ -85,6 +85,7 @@ def run_product_interpret(
     thinking_map_outcome: dict[str, Any] | None = None,
     overlay_hint: dict[str, Any] | None = None,
     temp_relation_overlay: list[dict[str, Any]] | None = None,
+    include_gap_report: bool = False,
 ) -> dict[str, Any]:
     """FPF-V7-12: sealed analyze → router envelope → interpretation."""
     envelope = compile_router_envelope(
@@ -132,6 +133,20 @@ def run_product_interpret(
     }
     if cobalt_packet is not None:
         out["cobalt_retrieval"] = cobalt_packet
+    # FPF-MWI-03: GapReport attach behind flag / env (default off).
+    env_gap = os.environ.get("HESPERIA_INTERPRET_GAP_REPORT", "").strip().lower() in (
+        "1",
+        "true",
+        "yes",
+    )
+    if include_gap_report or env_gap:
+        from sphere.fpf_inspect.climb import gap_detect
+
+        # Dig face consumes analyze-shaped engine_trace; envelope carried separately for Router probe.
+        dig_input = dict(engine)
+        dig_input.setdefault("router_envelope", envelope)
+        dig_input.setdefault("ground_truth", out["ground_truth"])
+        out["gap_report"] = gap_detect(dig_input)
     if mode == "llm":
         from sphere.router.audit import audit_router_output
         from sphere.router.llm_interpret import LlmInterpretConfig, MockLlmClient, interpret_router_envelope
