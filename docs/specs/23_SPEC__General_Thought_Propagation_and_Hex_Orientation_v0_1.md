@@ -92,7 +92,16 @@ No new `active.md` row was created for this by me (Felix triages tasks through G
 — this section exists so the intent is on record and traceable to today's date, ready for Grace
 triage / Ethan ratification when the operator is ready to scope it.
 
-SIGNED: Developer (Felix) | Claude Code context | 2026-07-19 | GTP-01..08 implementation, closing false-DONE on active.md; §0.3 forward-direction note recorded per operator instruction, not yet scoped or built
+**Update 2026-07-19, same day:** operator clarified the actual principle directly — *"we dont limit
+llm in operationability, only logically and on weights and on sources activated. the rest what it
+reasons upon it, kinda - not my job."* This resolves the tension above cleanly (verified against the
+D-46 test and rule 5, not just asserted) and is written up as a three-axis model — operational freedom
+unrestricted; logical/weight/source-activation always engine-computed and attached; reasoning content
+unpoliced — in brain repo `governance/SPEC-ETHAN-HESPERIA-AGENT-AUTONOMOUS-INVOCATION.md` (draft for
+Ethan ratification, not yet implemented). GTP-03's propose/verify pattern turns out to already be the
+right template for the whole router, not just hex_rotation.
+
+SIGNED: Developer (Felix) | Claude Code context | 2026-07-19 | GTP-01..08 implementation, closing false-DONE on active.md; §0.3 forward-direction note recorded per operator instruction, resolved same day in governance/SPEC-ETHAN-HESPERIA-AGENT-AUTONOMOUS-INVOCATION.md
 
 ---
 
