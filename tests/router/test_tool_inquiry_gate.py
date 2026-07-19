@@ -59,3 +59,40 @@ def test_cli_router_inquire_json_only() -> None:
     reject_prose_output(proc.stdout)
     body = json.loads(proc.stdout)
     assert body["json_only"] is True
+
+
+def test_cli_router_inquire_thinking_map_outcome_extracted(tmp_path: Path) -> None:
+    """FPF-HSR-12: thinking_map_outcome inside --context-json is extracted and forwarded,
+    same convention as the HTTP context_packet field (api_main.py)."""
+    repo = Path(__file__).resolve().parents[2]
+    ctx_path = tmp_path / "ctx.json"
+    ctx_path.write_text(
+        json.dumps(
+            {
+                "thinking_map_outcome": {
+                    "kind": "cli_gold_outcome",
+                    "llm_prompt_state": {"logic": {"facts": [], "actions": [], "source": "cli_test"}},
+                }
+            }
+        ),
+        encoding="utf-8",
+    )
+    proc = subprocess.run(
+        [
+            sys.executable,
+            str(repo / "runtime" / "shipping" / "cli_main.py"),
+            "router-inquire",
+            "--text",
+            "CLI thinking_map_outcome smoke.",
+            "--context-json",
+            str(ctx_path),
+        ],
+        cwd=str(repo),
+        capture_output=True,
+        text=True,
+    )
+    assert proc.returncode == 0, proc.stderr
+    body = json.loads(proc.stdout)
+    env = body["router_envelope"]
+    assert env["logic_mapping"]["source"] == "cli_test"
+    assert env["policy_block"]["outcome_kind"] == "cli_gold_outcome"

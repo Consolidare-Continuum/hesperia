@@ -242,7 +242,16 @@ def main() -> int:
         )
 
         ctx = load_context_packet_json(Path(context_json)) if context_json else None
-        out = run_tool_inquiry(text, assets_path, context_packet=ctx)
+        # FPF-HSR-11/12: thinking_map_outcome travels inside context_packet on the wire (same
+        # allowlist convention as the HTTP context_packet field) but run_tool_inquiry() takes it
+        # as its own kwarg — extract here, same as runtime/shipping/api_main.py.
+        thinking_map_outcome = None
+        if ctx is not None:
+            ctx = dict(ctx)
+            thinking_map_outcome = ctx.pop("thinking_map_outcome", None)
+        out = run_tool_inquiry(
+            text, assets_path, context_packet=ctx or None, thinking_map_outcome=thinking_map_outcome
+        )
         if out_path:
             Path(out_path).write_text(out + "\n", encoding="utf-8")
         print(out)
