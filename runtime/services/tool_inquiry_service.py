@@ -6,7 +6,16 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from sphere.router.tool_inquiry import build_tool_inquiry_packet, serialize_json_only
+from sphere.router.tool_inquiry import (
+    build_tool_inquiry_packet,
+    load_context_packet_json as _load_context_packet_json,
+    serialize_json_only,
+)
+
+
+def load_context_packet_json(path: Path) -> dict[str, Any]:
+    """Load optional context_rag JSON from file for inquiry augmentation."""
+    return _load_context_packet_json(path)
 
 
 def run_tool_inquiry(

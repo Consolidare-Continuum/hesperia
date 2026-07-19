@@ -236,8 +236,10 @@ def main() -> int:
         context_json = getattr(args, "context_json", None)
         assets = getattr(args, "assets", None)
         assets_path = Path(assets) if assets else _assets_root(Path(__file__).resolve().parents[2])
-        from runtime.services.tool_inquiry_service import run_tool_inquiry
-        from sphere.router.tool_inquiry import load_context_packet_json
+        from runtime.services.tool_inquiry_service import (
+            load_context_packet_json,
+            run_tool_inquiry,
+        )
 
         ctx = load_context_packet_json(Path(context_json)) if context_json else None
         out = run_tool_inquiry(text, assets_path, context_packet=ctx)
