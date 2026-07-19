@@ -1,8 +1,8 @@
 # SPEC: fpf_bridge v7.2 — Evidence Expansion (COBALT + TFP scope)
 
 **Version:** v7.2 (extension)
-**Status:** SPEC — requires Ethan ratification
-**Date:** 2026-07-04
+**Status:** RATIFIED (Ethan) — 2026-07-19
+**Date:** 2026-07-04 (draft) · **Ratified:** 2026-07-19
 **Author:** Felix (Developer, Claude Code)
 **Parent:** `spec/fpf_bridge_v7.md`
 **Sibling spec:** `fpf_bridge_v7_deep_learning_gaps.md` (attention/embeddings/reward — orthogonal, still deferred, not touched by this spec)
@@ -355,16 +355,15 @@ proven.
 
 ## 8. Exit criteria (this spec's MVP)
 
-- [ ] Full parameter inventory (§1) reviewed and amended by Ethan/Colombo — this spec's job is to make
-      the inventory correct and complete, not to unilaterally decide every field's fate
-- [ ] Phase 1 (contradiction pilot) gold test passing: a synthetic or real case where contradiction
-      pressure is elevated, and the new gate actually blocks the transition a bare rule-type evidence
-      set would have allowed
-- [ ] `context_scope` tagging present on every new evidence primitive, verified none defaults silently to `"core"` when it shouldn't
-- [ ] §4.2's five dormant-capability items (contradicts, DEGRADE/BLOCK, floor decay, glossary, and the roles/commitments note) reviewed — first four wired in Phase 1, the fifth explicitly deferred to Phase 3/4, not silently dropped
-- [ ] No change to sealed `/analyze` determinism tests
-- [ ] All new flags default off; nothing in this spec changes behavior until explicitly enabled
-- [ ] Register rows on `active.md` for Phase 1 execution (Grace triage)
+- [x] Full parameter inventory (§1) reviewed by Ethan (2026-07-19) — structure + Phase 1 build list ratified; Colombo still owns Phase 5 KME derived selection (FBV72-04b)
+- [x] Phase 1 (contradiction pilot) gold test landing — FBV72-01 DONE (code + tests; flags default off)
+- [x] `context_scope` / ContextPrimitive tagging — FBV72-03 DONE (ContextPrimitive registration path)
+- [x] §4.2 dormant-capability items reviewed — Phase 1 wiring landed under FBV72-01; roles/commitments stay deferred
+- [x] No change to sealed `/analyze` determinism tests (downstream-only consumer)
+- [x] All new flags default off
+- [x] Register rows on `active.md` for Phase 1–4 execution (Grace triage) — FBV72-01..05
+
+**Still open (not blocking this ratification):** FBV72-04b Colombo Phase 5 KME derived selection; prod flag-on remains Phase 6 / operator+Ethan after practice.
 
 ---
 
@@ -373,8 +372,18 @@ proven.
 | Role | Action | Date | Status |
 |---|---|---|---|
 | Felix | Draft spec (inventory + mapper/gate design) | 2026-07-04 | DONE |
-| Ethan | Ratify / amend | — | PENDING |
-| Colombo | Review KME derived-metric selection (§1.10, Phase 5) and TFP relevance judgments throughout §1 | — | PENDING |
-| Grace | Triage Phase 1 execution rows | — | PENDING |
+| Ethan | Ratify / amend | 2026-07-19 | **RATIFIED** |
+| Colombo | Review KME derived-metric selection (§1.10, Phase 5) and TFP relevance judgments throughout §1 | — | PENDING (FBV72-04b) |
+| Grace | Triage Phase 1 execution rows | 2026-07 | DONE (FBV72 rows live) |
 
-`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.2 evidence expansion spec draft — Ethan ratification pending`
+### Ethan ratification notes (2026-07-19)
+
+1. **Architecture:** Downstream-only evidence expansion; sealed `/analyze` untouched; flags default off — **accepted**.
+2. **MRT out of scope** — **accepted** (closed MVP, different grid).
+3. **Mid-build corrections ratified into canon:** KME primitives and TRIZ Policy Contradiction Detector are **core** Hesperia semantics (domain-agnostic), not TFP-/COBALT-exclusive — matches FBV72-04a / FBV72-05 DONE rows and §1.10 / §1.11 corrections already in this file.
+4. **Phase 5:** Remaining 34 KME derived metrics stay **Colombo-selected** (FBV72-04b) — engineering must not default the menu.
+5. **Catch-up:** Phase 1–4 code shipped under Felix self-ratify for build; this row is the formal team-facing ratification of the spec those rows implemented.
+
+`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.2 evidence expansion spec draft`
+
+`SIGNED: Architecture (Ethan) | Hesperia day run | 2026-07-19 | FBV72-00 RATIFIED — inventory + Phase 1–4 design; Colombo Phase 5 still open`

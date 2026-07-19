@@ -1,8 +1,8 @@
 # SPEC: fpf_bridge v7.4 — COBALT Full-Corpus Attribution & TFP Tagging (scale-up)
 
 **Version:** v7.4 (extension)
-**Status:** SPEC — requires Ethan ratification
-**Date:** 2026-07-04
+**Status:** RATIFIED (Ethan) — 2026-07-19
+**Date:** 2026-07-04 (draft) · **Ratified:** 2026-07-19
 **Author:** Felix (Developer, Claude Code)
 **Relates to:** `fpf_bridge_v7_2_evidence_expansion.md`, `fpf_bridge_v7_3_agentic_cursor_interface.md`
 (both consume this spec's output as a hard prerequisite for real-data operation), and the ratified
@@ -146,15 +146,15 @@ control-miss).
 ## 9. Exit criteria
 
 - [ ] OCR gap resolved, or an explicit, checked textless-document list exists and is excluded from
-      claimed attribution coverage
+      claimed attribution coverage — **FBV74-01 Abelard OPEN**
 - [ ] `concept_id`/`area_name`/`family_name`/`attribution_version`/`branch` present corpus-wide (not a
-      25-document island), verified by a facet recheck, not assumed from the batch job's exit code
-- [ ] `branch=tfp` correctly set on a verified TFP/clinical-literature subset, not inferred silently
-- [ ] Eval re-run at 50–200 Q→doc pairs, pass rate reported plainly (this spec does not pre-commit to a
-      specific number — Colombo's eval result is the actual gate, not a target picked in advance)
-- [ ] v7.2 Phase 4 (TRIZ/COBALT) and v7.3 Phase 4 (`REAL_DATA=1`) both explicitly cite this spec's exit
-      as their precondition, not just "COBALT is enabled"
-- [ ] Register rows on `active.md` (Grace triage)
+      25-document island), verified by a facet recheck, not assumed from the batch job's exit code — **execution OPEN** (classifier code DONE under FBV74-02)
+- [ ] `branch=tfp` correctly set on a verified TFP/clinical-literature subset — **FBV74-03 Colombo OPEN**
+- [ ] Eval re-run at 50–200 Q→doc pairs — harness DONE (FBV74-04); **real CHROMA-2 eval run OPEN**
+- [x] v7.2 Phase 4 / v7.3 Phase 4 cite this spec's exit as precondition (FBV74-05 Grace PAUSED until 01..04 PASS)
+- [x] Register rows on `active.md` (FBV74-00..05)
+
+**Ratification ≠ corpus done.** This row accepts the scale-up plan and gates; Abelard/Colombo/Grace execution rows remain the real exit.
 
 ---
 
@@ -163,9 +163,19 @@ control-miss).
 | Role | Action | Date | Status |
 |---|---|---|---|
 | Felix | Draft spec (gap inventory, scale-up scope, TFP tag pass) | 2026-07-04 | DONE |
-| Ethan | Ratify / amend | — | PENDING |
-| Abelard | OCR gap resolution | — | PENDING |
-| Colombo | TFP tag pass + eval expansion | — | PENDING |
-| Grace | Triage execution rows | — | PENDING |
+| Ethan | Ratify / amend | 2026-07-19 | **RATIFIED** |
+| Abelard | OCR gap resolution | — | PENDING (FBV74-01) |
+| Colombo | TFP tag pass + eval expansion | — | PENDING (FBV74-03; eval run) |
+| Grace | Triage execution rows; FBV74-05 sign-off | 2026-07 | Rows live; FBV74-05 PAUSED |
 
-`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.4 COBALT corpus scale-up spec draft — Ethan ratification pending`
+### Ethan ratification notes (2026-07-19)
+
+1. **Problem statement** (pilot-scale G1–G4 ≠ agentic readiness) — **accepted**.
+2. **OCR gap is blocking, not cosmetic** — **accepted**; FBV74-01 must resolve or publish exclusion list before claiming full-corpus attribution.
+3. **Reuse `cobalt_chroma2_attrib_batch.py` + `branch` facet** — **accepted**; no rebuild.
+4. **TFP tagging is Colombo judgment**, not engineering keyword defaults — **accepted** (FBV74-03).
+5. **No `REAL_DATA=1` / TRIZ-on-library** until this exit passes — **accepted** (keeps FBV72/73 honest).
+
+`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.4 COBALT corpus scale-up spec draft`
+
+`SIGNED: Architecture (Ethan) | Hesperia day run | 2026-07-19 | FBV74-00 RATIFIED — plan + gates; OCR/TFP/eval execution still open`

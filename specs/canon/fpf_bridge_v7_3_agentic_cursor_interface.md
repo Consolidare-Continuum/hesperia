@@ -1,8 +1,8 @@
 # SPEC: fpf_bridge v7.3 — Agentic Cursor Interface (COBALT + TFP scope)
 
 **Version:** v7.3 (extension)
-**Status:** SPEC — requires Ethan ratification
-**Date:** 2026-07-04
+**Status:** RATIFIED (Ethan) — 2026-07-19
+**Date:** 2026-07-04 (draft) · **Ratified:** 2026-07-19
 **Author:** Felix (Developer, Claude Code)
 **Parent:** `specs/canon/fpf_bridge_v7_2_evidence_expansion.md`
 **Depends on:** v7.2 Phase 1 (contradiction pilot) proven in practice — this spec exposes v7.2's evidence
@@ -208,19 +208,15 @@ it" are two separate, separately-gated decisions (`HESPERIA_MCP_BRIDGE_ACT_ENABL
 
 ## 8. Exit criteria
 
-- [ ] `get_hesperia_bridge_state` returns byte-identical evidence/state shape to what
-      `bridge_to_llm_prompt()` already produces internally — no second, drifted schema
-- [ ] No raw session text or clinical excerpt appears in any tool response — verified against the v7.2
-      evidence types specifically (KME primitives, `contradicts[]` labels), not just the original 7
-- [ ] Statelessness proven: two calls with identical `text` produce identical `engine_trace_hash`; a call
-      with changed `text` is never silently treated as a continuation
-- [ ] Security review (§3) complete and passed before `HESPERIA_MCP_BRIDGE_REAL_DATA=1` in any environment
-      Olga actually uses
-- [ ] Gold test for Phase B: a synthetic case where `attempt_hesperia_transition` returns `BLOCK` and the
-      calling agent's narration correctly declines the blocked conclusion
-- [ ] No change to sealed `/analyze` determinism tests; no change to the existing `mode="llm"` production
-      path — this is additive only
-- [ ] Register rows on `active.md` for Phase 1–2 execution (Grace triage)
+- [x] `get_hesperia_bridge_state` returns same evidence/state shape as `bridge_to_llm_prompt()` — FBV73-01 DONE (synthetic path)
+- [ ] No raw session text or clinical excerpt in tool responses under real-data — **blocked on FBV73-03 security + FBV74 exit** before `REAL_DATA=1`
+- [x] Statelessness proven in gold tests — FBV73-01 / FBV73-04
+- [ ] Security review (§3) complete — **FBV73-03 OPEN (Sophia)** — hard gate before `REAL_DATA=1`
+- [x] Phase B `attempt_hesperia_transition` built — FBV73-04 DONE; amendment: installed `fpf-thinking-map` `GatePrimitive.evaluate()` does not currently emit `GateDecision.BLOCK` (only ABSTAIN/DEGRADE/PASS) — gold tests assert real library outcomes, not a fictional BLOCK case
+- [x] No change to sealed `/analyze` or production `mode="llm"` path — additive only
+- [x] Register rows on `active.md` (FBV73-00..04)
+
+**Still open (not blocking design ratification):** FBV73-02 Olga+Gena MCP deploy; FBV73-03 Sophia security; FBV74 exit before any `REAL_DATA=1`.
 
 ---
 
@@ -229,9 +225,20 @@ it" are two separate, separately-gated decisions (`HESPERIA_MCP_BRIDGE_ACT_ENABL
 | Role | Action | Date | Status |
 |---|---|---|---|
 | Felix | Draft spec (MCP interface, statelessness, risk-tier split) | 2026-07-04 | DONE |
-| Ethan | Ratify / amend; confirm v7.2 Phase 1 dependency is satisfied before Phase 1 of this spec starts | — | PENDING |
-| Sophia (or equivalent) | Security review scoped to Cursor/MCP exposure of TFP-scoped evidence (§3) | — | PENDING |
-| Olga | Confirm Phase 2 deployment against her own MCP convention; first real-use sign-off before Phase 4 | — | PENDING |
-| Grace | Triage Phase 1–2 execution rows | — | PENDING |
+| Ethan | Ratify / amend; confirm v7.2 Phase 1 dependency satisfied | 2026-07-19 | **RATIFIED** |
+| Sophia (or equivalent) | Security review scoped to Cursor/MCP exposure of TFP-scoped evidence (§3) | — | PENDING (FBV73-03) |
+| Olga | Confirm Phase 2 deployment against her own MCP convention; first real-use sign-off before Phase 4 | — | PENDING (FBV73-02) |
+| Grace | Triage Phase 1–2 execution rows | 2026-07 | DONE (rows live) |
 
-`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.3 agentic Cursor interface spec draft — Ethan ratification pending`
+### Ethan ratification notes (2026-07-19)
+
+1. **Two-tool / two-risk-tier split** (read-only first, then attempt_transition) — **accepted**.
+2. **v7.2 Phase 1 dependency** — **satisfied** (FBV72-01 DONE; FBV72-00 ratified same day).
+3. **Statelessness / no server session** — **accepted** (hard invariant).
+4. **Does not replace** production `mode="llm"` IRC Teacher path — **accepted**.
+5. **REAL_DATA=1** remains gated on FBV73-03 + FBV74 exit — ratification does **not** unlock real clinical/library input.
+6. **Library BLOCK gap** (FBV73-04) is documented architecture reality, not a silent fail — do not invent BLOCK tests the package cannot produce.
+
+`SIGNED: Developer (Felix) | Claude Code context | 2026-07-04 | fpf_bridge v7.3 agentic Cursor interface spec draft`
+
+`SIGNED: Architecture (Ethan) | Hesperia day run | 2026-07-19 | FBV73-00 RATIFIED — design + Phase A/B code path; security/Olga deploy/REAL_DATA still open`
