@@ -35,6 +35,11 @@
       "description": "Read-only context_rag telemetry block (Class A)",
       "additionalProperties": true
     },
+    "gtp": {
+      "type": "object",
+      "description": "Optional GTP (General Thought Propagation) step block — hesperia.gtp_v0_1, see schemas/gtp/gtp_v0_1.schema.json. Absent unless HESPERIA_GTP_ENABLED=1 and a current_hex was supplied.",
+      "additionalProperties": true
+    },
     "logic_mapping": {
       "type": "object",
       "description": "FPF bridge / fpf-thinking-map llm_prompt_state.logic",

@@ -27,6 +27,7 @@ class RouterInputEnvelope:
     calculable: dict[str, Any] | None = None
     coherence_hints: dict[str, Any] | None = None
     observability: dict[str, Any] | None = None
+    gtp: dict[str, Any] | None = None
     router_fingerprint: str = ""
 
     def finalize(self) -> RouterInputEnvelope:
@@ -67,4 +68,6 @@ def envelope_to_dict(env: RouterInputEnvelope) -> dict[str, Any]:
         out["coherence_hints"] = env.coherence_hints
     if env.observability is not None:
         out["observability"] = env.observability
+    if env.gtp is not None:
+        out["gtp"] = env.gtp
     return out

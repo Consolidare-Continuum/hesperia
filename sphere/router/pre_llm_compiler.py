@@ -18,6 +18,36 @@ from sphere.router.thinking_map_bridge import (
 
 _DEFAULT_CORPUS_SNAPSHOT = "corpus-unset"
 _DEFAULT_POLICY_SNAPSHOT = "HSR-V7-01"
+_GTP_ENABLED_ENV = "HESPERIA_GTP_ENABLED"
+
+
+def _gtp_enabled() -> bool:
+    return os.environ.get(_GTP_ENABLED_ENV, "0").strip() in {"1", "true", "True"}
+
+
+def compile_gtp_block(
+    text: str,
+    *,
+    current_hex: dict[str, int],
+    powv_position: tuple[float, float, float] = (0.0, 0.0, 0.0),
+) -> dict[str, Any]:
+    """
+    GTP-07: compute the `gtp` envelope block for an explicit session position.
+
+    Callers must supply `current_hex` (area_id/global_id/hex_index) — there is no
+    session-position tracker elsewhere in the codebase to derive one from (that is
+    IPoW/GCS session-state, separately gated per 22_SPEC §12). This function is the
+    wiring point; `compile_router_envelope` only calls it when both
+    HESPERIA_GTP_ENABLED=1 and `context_packet["gtp_current_hex"]` is present, so
+    default behavior (absent gtp block) is unchanged — same flag-default-off
+    discipline as HESPERIA_COBALT_ENABLED.
+    """
+    from sphere.topology.gtp.neighbors import HexCell
+    from sphere.topology.gtp.pipeline import gtp_step_to_dict, run_gtp_step
+
+    h = HexCell(**current_hex)
+    result = run_gtp_step(text, h, powv_position=powv_position)
+    return gtp_step_to_dict(result)
 
 
 def _input_hash(text: str) -> str:
@@ -79,6 +109,15 @@ def compile_router_envelope(
         logic_mapping = _logic_from_engine(engine)
         policy_block = _policy_from_engine(engine)
 
+    gtp_block: dict[str, Any] | None = None
+    gtp_current_hex = ctx.get("gtp_current_hex")
+    if _gtp_enabled() and gtp_current_hex:
+        gtp_block = compile_gtp_block(
+            text,
+            current_hex=gtp_current_hex,
+            powv_position=tuple(ctx.get("gtp_powv_position") or (0.0, 0.0, 0.0)),
+        )
+
     preview = text if len(text) <= 2000 else text[:2000] + "…"
     env = RouterInputEnvelope(
         router_version="v7-router-0.1",
@@ -95,5 +134,6 @@ def compile_router_envelope(
         calculable=ctx.get("calculable"),
         coherence_hints=ctx.get("coherence_hints"),
         observability=ctx.get("observability"),
+        gtp=gtp_block,
     ).finalize()
     return envelope_to_dict(env)
