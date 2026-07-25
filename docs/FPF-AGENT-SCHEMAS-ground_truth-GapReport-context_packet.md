@@ -9,7 +9,7 @@
 
 ## MWI-11 pin note
 
-Runtime target pin: **`fpf-thinking-map==1.5.0`** (converged with brain soak).  
+Runtime target pin: **`fpf-thinking-map==1.9.2`** (converged with brain soak).  
 GapReport field `fpf_pin` must resolve to that string. Interim dual-pin claims are **forbidden** in agent-facing docs — see [FPF-PIN-HESPERIA-VS-BRAIN.md](FPF-PIN-HESPERIA-VS-BRAIN.md).
 
 ---
@@ -56,7 +56,7 @@ Dig face output. Evidence for `hesperia_inspect` re-step — not narrative truth
     }
   ],
   "engine_fingerprint": "…",
-  "fpf_pin": "fpf-thinking-map==1.5.0"
+  "fpf_pin": "fpf-thinking-map==1.9.2"
 }
 ```
 

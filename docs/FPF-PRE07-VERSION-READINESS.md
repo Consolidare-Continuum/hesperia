@@ -25,15 +25,15 @@
 ## Pin (mandatory)
 
 ```
-fpf-thinking-map==1.5.0
+fpf-thinking-map==1.9.2
 ```
 
 | Location | Status |
 |----------|--------|
-| `requirements/router.txt` | `==1.5.0` |
-| `requirements/calibration.txt` | `==1.5.0` |
-| `sphere/fpf_inspect/constants.py` `FPF_PIN_EXPECTED` | `fpf-thinking-map==1.5.0` |
-| Brain `requirements-thinking-map.txt` | `==1.5.0` (soak) |
+| `requirements/router.txt` | `==1.9.2` |
+| `requirements/calibration.txt` | `==1.9.2` |
+| `sphere/fpf_inspect/constants.py` `FPF_PIN_EXPECTED` | `fpf-thinking-map==1.9.2` |
+| Brain `requirements-thinking-map.txt` | `==1.9.2` (soak) |
 
 **Converge with brain.** See [FPF-PIN-HESPERIA-VS-BRAIN.md](FPF-PIN-HESPERIA-VS-BRAIN.md). No silent upgrade path — bump is an explicit PR + CI (Felix PRE07-01 / MWI-05).
 
@@ -43,7 +43,7 @@ fpf-thinking-map==1.5.0
 
 **Do**
 
-- Record pin `1.5.0` and readiness criteria here  
+- Record pin `1.9.2` and readiness criteria here  
 - Point operators to HAND runbook (brain) and dig CLI  
 - Keep `VERSION.yaml` honest about `0.6.5` system stage  
 
@@ -58,7 +58,7 @@ fpf-thinking-map==1.5.0
 ## Readiness criteria (wire, not seal)
 
 ```
-[ ] Pin 1.5.0 installable in Hesperia venv on altitudine
+[ ] Pin 1.9.2 installable in Hesperia venv on altitudine
 [ ] sphere/fpf_inspect climb + GapReport runnable
 [ ] Both MCP faces deployable (brain Liam PRE07-16) — not this repo's seal
 [ ] ground_truth three blocks enforced at inquire/interpret seams

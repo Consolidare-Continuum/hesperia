@@ -7,7 +7,7 @@ from __future__ import annotations
 
 GAP_REPORT_SCHEMA = "hesperia.fpf_gap_report.v0_1"
 INSPECT_SLICE_SCHEMA = "hesperia.fpf_inspect_slice.v0_1"
-FPF_PIN_EXPECTED = "fpf-thinking-map==1.5.0"
+FPF_PIN_EXPECTED = "fpf-thinking-map==1.9.2"
 
 # Dig order (SPEC §4) — climb emits slices in this sequence.
 CLIMB_ORDER: tuple[str, ...] = (
