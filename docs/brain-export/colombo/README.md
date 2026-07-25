@@ -10,6 +10,7 @@
 | [HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md](HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md) | Sealed core + modular branches; scoped outputs; whole-world separation |
 | [HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md](HESPERIA-BRANCH-MODEL-TFP-COBALT-MRT.md) | TFP · MRT · COBALT inventory |
 | [COBALT/COBALT_research_FORMALIZATION-v0_1.md](COBALT/COBALT_research_FORMALIZATION-v0_1.md) | COBALT module research |
+| [hesperia-wiki/](hesperia-wiki/) | Parameter/variable wiki mirror (Colombo; edit on brain, re-export) — see [EXPORT-NOTE.md](hesperia-wiki/EXPORT-NOTE.md) |
 
 ## Module code (this repo)
 
@@ -28,4 +29,4 @@
 
 ---
 
-`SIGNED: Researcher (Colombo) | dev brain-export colombo index | 2026-06-20`
+`SIGNED: Researcher (Colombo) | dev brain-export colombo index | 2026-07-25 | +hesperia-wiki mirror`

@@ -23,6 +23,12 @@
 All three v7.2–v7.4 specs are **ratification-pending** (Ethan) as of this update — status line at
 the top of each spec is authoritative, not this index.
 
+## Parameter wiki (Colombo mirror)
+
+| Doc | Topic |
+|-----|--------|
+| [brain-export/colombo/hesperia-wiki/](brain-export/colombo/hesperia-wiki/) | LIVE/DEAD math variables register — mirror of brain `colombo_research/hesperia/wiki/`; LAN serve stays on altitudine |
+
 ## Geometry and metric
 
 | Doc | Topic |

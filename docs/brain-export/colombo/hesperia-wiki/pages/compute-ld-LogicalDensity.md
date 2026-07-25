@@ -1,0 +1,26 @@
+# compute_ld (LogicalDensity)
+
+**Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
+**Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
+**Type:** Formula / function  
+**Responsible (module):** `hesperia/engine/kme/primitives/calculator.py:84`  
+**Value / default:** —
+
+## Yields (formula)
+
+ld = avgActiveDegree / Deg95, clamped to [0,1].
+
+## Produced from (inputs)
+
+- *ActiveGraph (KME concept graph)*
+
+## Needed by (consumers)
+
+- [KME Primitives and Derived Metrics](../pages/KME-Primitives-and-Derived-Metrics.md)
+
+## Origin
+
+No Java ancestor
+
+---
+[← back to category](../categories/Graph-and-Structural-Metrics.md) · [wiki home](../index.md)
