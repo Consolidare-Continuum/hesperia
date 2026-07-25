@@ -20,7 +20,7 @@
 
 ## fpf-thinking-map (we are this library)
 
-Pin: **fpf-thinking-map==1.2.1** (add to product `pyproject.toml` when Felix wires runtime).
+Pin: **fpf-thinking-map==1.9.2** (ATM2-43; `requirements/router.txt` + `calibration.txt`; add to product `pyproject.toml` when Felix wires runtime).
 
 ```python
 from sphere.router.thinking_map_bridge import logic_mapping_from_thinking_map, policy_block_from_thinking_map
