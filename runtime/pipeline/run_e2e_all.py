@@ -1358,7 +1358,8 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
         if _fc in written:
             _post_envelope_e2e_file(written[_fc], ["runtime.semantic_field.run_field_calibration"])
 
-    from hesperia.extensions.dynamics.e2e_bridge import field_dynamics_enabled, run_field_dynamics_e2e_artifact
+    from hesperia.extensions.dynamics.e2e_bridge import run_field_dynamics_e2e_artifact
+    from hesperia.extensions.dynamics.phase1 import field_dynamics_enabled
 
     if field_dynamics_enabled():
         assets = _HESPERIA / "lexicon" / "curated"
@@ -1405,7 +1406,7 @@ def main() -> int:
     for name, path in written.items():
         print(path.resolve(), file=sys.stderr)
     print("e2e_run_ok", len(written), "outputs", file=sys.stderr)
-    from hesperia.extensions.dynamics.e2e_bridge import field_dynamics_enabled as _fd_on
+    from hesperia.extensions.dynamics.phase1 import field_dynamics_enabled as _fd_on
 
     extra = " + field_dynamics" if _fd_on() else ""
     print(
