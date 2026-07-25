@@ -4,7 +4,7 @@
 
 [project]
 name = "hesperia-engine-dynamics"
-version = "0.6.5"
+version = "0.7.0"
 description = "Hesperia Engine Dynamics — v7 router fusion milestone (v0.6.5)"
 readme = "README.md"
 requires-python = ">=3.10"
