@@ -1,0 +1,25 @@
+# Hesperia Django Session Inspector — LAN bind (alunel).
+# Install: sudo cp cluster/alunel/systemd/hesperia-output-views.service /etc/systemd/system/
+#          sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-output-views
+# Requires: DJANGO_ALLOWED_HOSTS includes 192.168.100.62 in /data/hesperia/hesperia/.env
+# URL: http://192.168.100.62:8010/inspector/<session_id>/
+
+[Unit]
+Description=Hesperia output_views Django (Session Inspector)
+Documentation=file:///data/hesperia/hesperia/output_views/manage.py
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/hesperia/hesperia/output_views
+Environment=PYTHONUNBUFFERED=1
+# Pyenv Python used for Hesperia venv alignment (adjust if pyenv version changes)
+ExecStart=/home/igareosh/.pyenv/versions/3.12.8/bin/python3 manage.py runserver 0.0.0.0:8010
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

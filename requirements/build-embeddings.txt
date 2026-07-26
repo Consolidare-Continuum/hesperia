@@ -1,0 +1,6 @@
+# Deterministic build-only embedding environment (legacy v0.4 workflows)
+sentence-transformers==2.7.0
+transformers==4.41.2
+torch==2.2.2
+numpy==1.26.4
+huggingface-hub==0.23.5

@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "description": "Permanently reserved (service) area indices. Space for special purposes; stateless for now. Internal use only. Never expose in public ontology or outputs.",
+  "reserved_indices": [10, 11],
+  "reserved": [
+    { "reserve_id": "AREA_11", "internal_index": 10 },
+    { "reserve_id": "AREA_12", "internal_index": 11 }
+  ],
+  "public_area_count": 10,
+  "total_internal_areas": 12,
+  "policy": "10+2: 10 operational areas, 2 reserved service areas; math unchanged (reserved stateless)."
+}

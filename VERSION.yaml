@@ -1,0 +1,70 @@
+# Hesperia Engine Dynamics — canonical system version (single source of truth).
+# All public outputs MUST trace to these fields + build_id (injected at runtime).
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+
+system_version: "0.7.0"
+release_stage: "modular_branches"
+
+components:
+  core_engine: "0.7.0"
+  dynamics: "0.6.3"
+  triz: "0.6.3"
+  clinical: "0.6.3-modular"
+  calibration: "0.7.0"
+  router: "v7-router-0.1"
+  # fpf_bridge was never tracked here despite corners/fpf_bridge.md status "IMPLEMENTED, v7,
+  # 2026-06-27" — added now for the same reason it got committed to git now: not sealed yet,
+  # but real, and not tracking it risked the same "forgotten" outcome as the uncommitted state.
+  fpf_bridge: "v7.2-v7.4"  # sealed with 0.7.0; flag-gated modules remain opt-in
+
+schema:
+  public_output: "v1"
+  internal_graph: "v1"
+
+pipelines:
+  e2e: "e2e_v2"
+  structural: "structural_v1"
+  api: "api_v1"
+  triz: "triz_v1"
+
+# Governed interaction matrices (L_F, C_F, R_F) under assets/matrices/production/
+# Concept→Hex P_CH under assets/matrices/pch/
+matrices:
+  production_bundle: "v1"
+  pch_bundle: "v1"
+
+# Governed calibration profiles: assets/calibration/profiles_{bundle}.json
+calibration:
+  profile_bundle: "v1"
+  active_profile: "default_v1"
+
+defaults:
+  calibration_profile: "default_v1"
+  # Pinned dict pack dir under assets/calibration/dicts/<name>/ (TFP-GATE-A0; validate_version_consistency checks existence).
+  active_calibration_dict_pack: "v0_6_0_clr_v052_5"
+
+tfp_module_v1:
+  seal_requested: false
+  pinned_calibration_dict_pack: "v0_6_0_clr_v052_5"
+  data_layout: "tfp_v1"
+
+# Filled at runtime by hesperia.system.version (never commit secrets here)
+build:
+  timestamp: null
+  git_commit: null
+
+apply:
+  version: "0.7.0"
+  gate_chain: "G1-G9"
+  allowlist:
+    - update_edge_weight
+  phase2_allowlist:
+    - add_edge
+
+archive:
+  github_release: "0.7.0"
+  public_archive_placeholder_dict_pack: "archive_063_minimal"
+  excludes_prod_dicts: true
+  excludes_prod_corpus: true
+  e2e_mode: "offline_fixture"
+  tersagor_integration_ref: "igareosh/tersagor@0149120"

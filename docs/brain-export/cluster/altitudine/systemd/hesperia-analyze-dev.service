@@ -1,0 +1,25 @@
+# Hesperia shipping /analyze API — altitudine dev VM (:18880).
+# Install: sudo cp cluster/altitudine/systemd/hesperia-analyze-dev.service /etc/systemd/system/
+#          sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-analyze-dev
+[Unit]
+Description=Hesperia shipping analyze API (dev, altitudine :18880)
+After=network.target
+
+[Service]
+Type=simple
+User=igareosh
+Group=igareosh
+WorkingDirectory=/data/hesperia/hesperia
+Environment=PYTHONPATH=/data/hesperia/hesperia
+Environment=HESPERIA_DATA_DIR=/data/hesperia/hesperia
+Environment=CHROMA_SERVER_URL=http://chroma-1.prichindel.local:8002
+EnvironmentFile=-/data/hesperia/hesperia/.env
+ExecStart=/data/hesperia/hesperia/.venv/bin/python -m uvicorn runtime.shipping.api_main:app --host 127.0.0.1 --port 18880
+Restart=on-failure
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=hesperia-analyze-dev
+
+[Install]
+WantedBy=multi-user.target

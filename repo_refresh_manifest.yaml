@@ -1,0 +1,46 @@
+# Hesperia — repo layout contract (structural refresh; sealed line v0.5.1 — see release/v0.5.1/)
+# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Machine-readable companion to REPO_STRUCTURE_POLICY.md and AGENTS.md.
+
+active_paths:
+  - core
+  - hesperia
+  - runtime
+  - sphere
+  - lexicon
+  - schemas
+  - specs
+  - tests
+  - tools
+  - assets
+  - release
+  - docs
+  - examples
+  - deploy
+  - benchmarks
+
+optional_extension_paths:
+  - benchmarks/extensions/triz
+  - examples/extensions/triz_demo
+  - deploy/extensions/triz_mvp
+  - tools/triz
+
+research_paths:
+  - research
+
+legacy_paths:
+  - legacy
+
+experimental_test_paths:
+  - tests/experimental/clinical_tfp
+
+fixture_paths:
+  - tests/fixtures/clinical_tfp
+
+generated_paths:
+  - outputs
+  - tmp
+
+notes:
+  - "Current sealed audit: release/v0.5.1/. Historical frozen bundle: release/v0.5.0/."
+  - "Clinical/TFP code: research/clinical_tfp; tests under tests/experimental/clinical_tfp; fixtures under tests/fixtures/clinical_tfp."

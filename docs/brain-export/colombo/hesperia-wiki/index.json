@@ -1,0 +1,3241 @@
+{
+  "generated_at": "2026-07-23T19:01:38.394544+00:00",
+  "count": 137,
+  "categories": [
+    "Geometry",
+    "Core Math Contract",
+    "Tension and Bipolar Adversity",
+    "Propagation, Diffusion and Markov",
+    "Activation and Diagnostic Thresholds",
+    "Graph and Structural Metrics",
+    "Entropy and Information Theory",
+    "Stability and Control Theory",
+    "Similarity and Retrieval",
+    "Evidence and Trust",
+    "Concept Dictionary",
+    "Dead and Rejected Science"
+  ],
+  "status_vocab": {
+    "LIVE_FULL": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+    "LIVE_SUCCESSOR": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+    "PARTIAL": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+    "DEAD": "🔴 DEAD — no implementation under this name or a successor formula",
+    "DEAD_ALGO_SURVIVED": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
+    "BEYOND": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+    "UNVERIFIED": "⚪ UNVERIFIED — claimed in an earlier doc, did not re-confirm by grep this pass",
+    "REJECTED": "🔴 REJECTED — explicit, reasoned decision against, not an oversight"
+  },
+  "items": [
+    {
+      "name": "activation_threshold",
+      "slug": "activation-threshold",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "diagnostics config",
+      "value": "0.01",
+      "formula": "Sparse activation floor — what counts as a hit.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/activation-threshold.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/activation-threshold.md",
+      "lan_url": "http://192.168.100.65:8901/pages/activation-threshold.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/activation-threshold.html"
+    },
+    {
+      "name": "alpha (fusion weight)",
+      "slug": "alpha-fusion-weight",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (default constant)",
+      "module": "core/math/core_math.py",
+      "value": "0.65",
+      "formula": "E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, E_cap) — 65/35 surface-biased weighted fusion of two normalized evidence vectors S (Dict A) and L (Dict B).",
+      "produced_from": [
+        "S vector (Dict A)",
+        "L vector (Dict B)"
+      ],
+      "needed_by": [
+        "centroid indices (activation)",
+        "E0 (fused energy)",
+        "eta (centroid threshold)"
+      ],
+      "origin": "22_SPEC Core Math Contract v1.0 §3 — Theory Explainer: plain_lang: blend two evidence maps into one energy field; α=0.65 leans toward Dict A (surface). author: convex combination / linear scalarization (ops research pattern; not a single eponym paper). extent: full. reasoning: first stage of evidence fusion before centroid/η and diffusion. application: [[E_cap]], [[eta (centroid threshold)]], [[P_thin (thin-core penalty)]]; contrast dead [[KL divergence]].",
+      "notes": "**HWIKI-DOC-25 (fusion trio):** With [[E_cap]] and [[eta (centroid threshold)]] this is the LIVE fusion spine. Distinct from diffusion α / [[Wiener feedback on alpha (k_s / k_j)]].",
+      "source_page": "pages/alpha-fusion-weight.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/alpha-fusion-weight.md",
+      "lan_url": "http://192.168.100.65:8901/pages/alpha-fusion-weight.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/alpha-fusion-weight.html"
+    },
+    {
+      "name": "ALPHA/BETA/GAMMA/DELTA integrity quartet (Java)",
+      "slug": "ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a — not in DEFAULT_CONFIG",
+      "value": "ALPHA=0.35, BETA=0.30, GAMMA=0.25, DELTA=0.20",
+      "formula": "4-constant exponential decay model driving contextIntegrity / forecastIntegrity / regionReliability.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 21_MATH v1.1 (Stability Control Formalization)",
+      "notes": "**Documented design pivot**: shipped control is additive penalty-governance ([[metric_governance]]), not multiplicative exponential-integrity powers — easier to reason about and CI-test per-penalty. [[LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE]] is the live descendant of the same underlying question ('will this read degrade'), via a different, honestly-labeled proxy.",
+      "source_page": "pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.html"
+    },
+    {
+      "name": "apply_saturation",
+      "slug": "apply-saturation",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/concept_dictionary/executor.py:13",
+      "value": "saturation_k (per-concept)",
+      "formula": "Closed-form weight-capping curve, documented in `docs/governance/cd_v1/SATURATION_CLOSED_FORM.md`.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor (narrower, differently-scoped concept than Java's composite decision-layer `saturation`)",
+      "notes": "Not a gap against [[saturation (Java, 23_PROTOTYPE)]] — different, correctly-scoped tool for a different job.",
+      "source_page": "pages/apply-saturation.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/apply-saturation.md",
+      "lan_url": "http://192.168.100.65:8901/pages/apply-saturation.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/apply-saturation.html"
+    },
+    {
+      "name": "area_active_threshold",
+      "slug": "area-active-threshold",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "diagnostics config",
+      "value": "0.05",
+      "formula": "Aggregated coverage floor — area 'touched'.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/area-active-threshold.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/area-active-threshold.md",
+      "lan_url": "http://192.168.100.65:8901/pages/area-active-threshold.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/area-active-threshold.html"
+    },
+    {
+      "name": "area_entropy (tool-local)",
+      "slug": "area-entropy-tool-local",
+      "category": "Entropy and Information Theory",
+      "category_slug": "Entropy-and-Information-Theory",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Formula / function (duplicate)",
+      "module": "tools/tfp_calibration_audit.py:245-247",
+      "value": "—",
+      "formula": "Local `_entropy()` helper computing the same Shannon formula inline, not calling the canonical function.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 21_MATH `areaEntropy`",
+      "notes": "Cosmetic gap, not a feature gap: [[compute_entropy (Shannon)]] already exists and is used elsewhere. This is a dedup candidate, not new work — see [[Coverage Ledger]].",
+      "source_page": "pages/area-entropy-tool-local.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/area-entropy-tool-local.md",
+      "lan_url": "http://192.168.100.65:8901/pages/area-entropy-tool-local.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/area-entropy-tool-local.html"
+    },
+    {
+      "name": "AREAS",
+      "slug": "AREAS",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "sphere/topology/, core/topology/ (invariants, dict_b)",
+      "value": "12",
+      "formula": "Fixed ontology grain — 12 areas = 12 icosahedron vertices.",
+      "produced_from": [],
+      "needed_by": [
+        "FAMILIES_PER_AREA",
+        "TOTAL_FAMILIES",
+        "Icosahedral Surface Graph",
+        "compute_tension"
+      ],
+      "origin": "Java 20_GEOMETRY (`final int AREAS = 12`); geometric root: regular icosahedron / Platonic solid",
+      "notes": "Every area-activation vector has length 12. Sigma shape checks fail if this drifts.",
+      "source_page": "pages/AREAS.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/AREAS.md",
+      "lan_url": "http://192.168.100.65:8901/pages/AREAS.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/AREAS.html"
+    },
+    {
+      "name": "ASS (KME derived)",
+      "slug": "ASS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:83",
+      "value": "—",
+      "formula": "clamp01(safe_div(COH * LD, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (COH·LD)/PV. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/ASS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/ASS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/ASS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/ASS-KME-derived.html"
+    },
+    {
+      "name": "BFS depth-capped traversal",
+      "slug": "BFS-depth-capped-traversal",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Algorithm",
+      "module": "L2 traversal",
+      "value": "—",
+      "formula": "Unweighted shortest paths, depth-capped breadth-first search.",
+      "produced_from": [],
+      "needed_by": [
+        "Circuit rank (LOOP_COUNT/LOOP_DENSITY)",
+        "Clustering coefficient"
+      ],
+      "origin": "Moore (1959) / Lee (1961)",
+      "notes": "",
+      "source_page": "pages/BFS-depth-capped-traversal.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/BFS-depth-capped-traversal.md",
+      "lan_url": "http://192.168.100.65:8901/pages/BFS-depth-capped-traversal.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/BFS-depth-capped-traversal.html"
+    },
+    {
+      "name": "BM25 retrieval",
+      "slug": "BM25-retrieval",
+      "category": "Similarity and Retrieval",
+      "category_slug": "Similarity-and-Retrieval",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Algorithm",
+      "module": "core/layers/layer_4.py + defaults RETRIEVAL_MODE_ID",
+      "value": "RETRIEVAL_MODE_ID=LEX_BM25_V1",
+      "formula": "Standard BM25 ranking for L4 lexical evidence retrieval.",
+      "produced_from": [],
+      "needed_by": [
+        "Jaccard overlaps"
+      ],
+      "origin": "Robertson & Spärck Jones (1976) — Theory Explainer: plain_lang: classic search ranking that scores how well a query's terms match a document, with length normalization. author: Stephen Robertson & Karen Spärck Jones (1976), crystallized through TREC. extent: full (verbatim lexical retrieval function). reasoning: SCIENCE.md L4; BEYOND Java corpus. application: L4 evidence retrieval path; pairs with [[Jaccard overlaps]] overlap diagnostics.",
+      "notes": "**HWIKI-DOC-15:** Not proposed in the Java corpus — BEYOND retrieval path.",
+      "source_page": "pages/BM25-retrieval.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/BM25-retrieval.md",
+      "lan_url": "http://192.168.100.65:8901/pages/BM25-retrieval.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/BM25-retrieval.html"
+    },
+    {
+      "name": "bridge_weight",
+      "slug": "bridge-weight",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (YAML weight)",
+      "module": "specs/canon/propagation_weights.yaml",
+      "value": "0.22",
+      "formula": "Cross-area coupling — semantic bleed across areas.",
+      "produced_from": [
+        "center_to_inner"
+      ],
+      "needed_by": [
+        "lambda (lazy step)"
+      ],
+      "origin": "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: how much energy can jump across area bridges (semantic bleed), not only along rings. author: Hesperia propagation YAML. extent: full. reasoning: cross-area coupling complementary to radial weights. application: [[center_to_inner]], [[Transition matrix (W)]].",
+      "notes": "**HWIKI-DOC-24:** Cross-area coupling weight.",
+      "source_page": "pages/bridge-weight.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/bridge-weight.md",
+      "lan_url": "http://192.168.100.65:8901/pages/bridge-weight.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/bridge-weight.html"
+    },
+    {
+      "name": "build_exclusion_pairs / area_projection",
+      "slug": "build-exclusion-pairs-area-projection",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/math/dict_b.py:41,78",
+      "value": "—",
+      "formula": "Constructs opposite-area exclusion pairs and projects weights onto areas.",
+      "produced_from": [
+        "OPPOSITE_OFFSET"
+      ],
+      "needed_by": [
+        "structural_coherence_pass",
+        "tension_from_conflict"
+      ],
+      "origin": "No direct Java ancestor",
+      "notes": "",
+      "source_page": "pages/build-exclusion-pairs-area-projection.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/build-exclusion-pairs-area-projection.md",
+      "lan_url": "http://192.168.100.65:8901/pages/build-exclusion-pairs-area-projection.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/build-exclusion-pairs-area-projection.html"
+    },
+    {
+      "name": "causalCoherence / decisionIntegrity / temporalStability (Java)",
+      "slug": "causalCoherence-decisionIntegrity-temporalStability-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Further 23_PROTOTYPE decision composites.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "`temporalStability`/`tauTemporal` is the one item in this cluster worth a second look now that session infrastructure exists (`hesperia/nlp/session_topology.py`) — see [[cumulativeDrift / turnCoherence]] for the concrete mechanism it would reuse.",
+      "source_page": "pages/causalCoherence-decisionIntegrity-temporalStability-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/causalCoherence-decisionIntegrity-temporalStability-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/causalCoherence-decisionIntegrity-temporalStability-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/causalCoherence-decisionIntegrity-temporalStability-Java.html"
+    },
+    {
+      "name": "CCI (KME derived)",
+      "slug": "CCI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:78",
+      "value": "—",
+      "formula": "clamp01(COH * NC)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** COH×NC product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CCI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CCI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CCI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CCI-KME-derived.html"
+    },
+    {
+      "name": "CDD (KME derived)",
+      "slug": "CDD-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:95",
+      "value": "—",
+      "formula": "clamp01(safe_div(NC, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** NC/PV ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CDD-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CDD-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CDD-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CDD-KME-derived.html"
+    },
+    {
+      "name": "CDI (KME derived)",
+      "slug": "CDI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:105",
+      "value": "—",
+      "formula": "clamp01(CI * NC)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** CI×NC product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CDI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CDI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CDI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CDI-KME-derived.html"
+    },
+    {
+      "name": "CDR (KME derived)",
+      "slug": "CDR-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:84",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR, NC))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR/NC ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CDR-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CDR-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CDR-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CDR-KME-derived.html"
+    },
+    {
+      "name": "center_to_inner",
+      "slug": "center-to-inner",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (YAML weight)",
+      "module": "specs/canon/propagation_weights.yaml",
+      "value": "0.25",
+      "formula": "Strongest local spread into the final area vector.",
+      "produced_from": [],
+      "needed_by": [
+        "inner_to_middle / middle_to_inner",
+        "bridge_weight"
+      ],
+      "origin": "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: how strongly energy at the center ring leaks into the first neighborhood ring. author: Hesperia propagation YAML (no single classical paper). extent: full (load-bearing weight). reasoning: distance-sensitive diffusion intuition on the icosahedral neighborhoods. application: [[inner_to_middle / middle_to_inner]], [[bridge_weight]], [[lambda (lazy step)]].",
+      "notes": "**HWIKI-DOC-24:** Strongest local spread weight in the center→inner→middle→outer ladder.",
+      "source_page": "pages/center-to-inner.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/center-to-inner.md",
+      "lan_url": "http://192.168.100.65:8901/pages/center-to-inner.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/center-to-inner.html"
+    },
+    {
+      "name": "Chapman-Kolmogorov Multi-Step",
+      "slug": "Chapman-Kolmogorov-Multi-Step",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Formula / function",
+      "module": "sphere/propagation/multi_step_diffusion.py:21-72 (`propagate_k_steps`, `iterative_diffusion`)",
+      "value": "—",
+      "formula": "v_k = v @ W^k (np.linalg.matrix_power) or iterative current=(1-α)current+α(current@W).",
+      "produced_from": [
+        "Transition matrix (W)"
+      ],
+      "needed_by": [
+        "Mixing Diagnostics",
+        "cumulativeDrift"
+      ],
+      "origin": "Chapman (1928) / Kolmogorov (1931) — Theory Explainer: plain_lang: instead of one hop, raise the transition matrix to the k-th power (or repeat the lazy step) to see mass after many hops. author: Chapman–Kolmogorov equation lineage. extent: full (verbatim matrix_power / iterative). reasoning: multi-step diffusion + mixing diagnostics. application: [[Mixing Diagnostics]], [[lambda (lazy step)]], contrast dead [[cumulativeDrift / turnCoherence]].",
+      "notes": "**HWIKI-DOC-06:** Verified in `propagate_k_steps` (pure power) and `iterative_diffusion` (lazy α loop calling `diffuse_step`).",
+      "source_page": "pages/Chapman-Kolmogorov-Multi-Step.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Chapman-Kolmogorov-Multi-Step.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Chapman-Kolmogorov-Multi-Step.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Chapman-Kolmogorov-Multi-Step.html"
+    },
+    {
+      "name": "CII (KME derived)",
+      "slug": "CII-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:92",
+      "value": "—",
+      "formula": "clamp01(safe_div(NC, PR))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** NC/PR ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CII-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CII-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CII-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CII-KME-derived.html"
+    },
+    {
+      "name": "Circuit rank (LOOP_COUNT/LOOP_DENSITY)",
+      "slug": "Circuit-rank-LOOP-COUNT-LOOP-DENSITY",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/layers/layer_2.py",
+      "value": "—",
+      "formula": "LOOP_COUNT = max(0, induced_edges - used_edges); LOOP_DENSITY = LOOP_COUNT / (TOTAL_REACHABLE_NODES + eps).",
+      "produced_from": [
+        "BFS depth-capped traversal"
+      ],
+      "needed_by": [],
+      "origin": "Kirchhoff (1847) — Theory Explainer: plain_lang: how many independent loops sit in the visited subgraph — cycle-space dimension E−(V−1), reported as LOOP_COUNT/LOOP_DENSITY. author: Gustav Kirchhoff (1847) circuit laws / algebraic graph theory. extent: full (formula), applied to semantic activation graph not electrical circuits. reasoning: SCIENCE.md L2 lineage. application: [[BFS depth-capped traversal]]; same discipline family as dead [[K(R) / L(R) / fragIndex (Java)]] but different invariant (cycle rank vs component count).",
+      "notes": "**HWIKI-DOC-20:** Algebraic graph theory cycle rank on the BFS-induced subgraph.",
+      "source_page": "pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.html"
+    },
+    {
+      "name": "Clustering coefficient",
+      "slug": "Clustering-coefficient",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Formula",
+      "module": "core/layers/layer_2.py:_compute_clustering (LOCAL_CLUSTERING_COEFFICIENT)",
+      "value": "C(v) = 2t/(k(k-1))",
+      "formula": "Local clustering at the dominant family / start node of the L2 BFS.",
+      "produced_from": [
+        "count_triangles / count_connected_triplets",
+        "BFS depth-capped traversal"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "Watts & Strogatz (1998) — Theory Explainer: plain_lang: of the friends of a node, how many are friends with each other — a local clumpiness score. author: Duncan Watts & Steven Strogatz (1998). extent: partial — formula verbatim at dominant/start node only; full small-world network model not adopted. reasoning: SCIENCE.md L2; code pin `_compute_clustering` in `layer_2.py`. application: [[count_triangles / count_connected_triplets]], L2 LOCAL_CLUSTERING_COEFFICIENT.",
+      "notes": "**HWIKI-DOC-19:** PARTIAL + code pin — formula only, not the full small-world apparatus. Felix verify: `core/layers/layer_2.py` lines ~42–43, ~142.",
+      "source_page": "pages/Clustering-coefficient.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Clustering-coefficient.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Clustering-coefficient.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Clustering-coefficient.html"
+    },
+    {
+      "name": "compute_ci (ConcentrationIndex)",
+      "slug": "compute-ci-ConcentrationIndex",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/primitives/calculator.py:64",
+      "value": "—",
+      "formula": "Normalized HHI over node hit-counts: ci = (hhi-baseline)/(1-baseline).",
+      "produced_from": [
+        "ActiveGraph (KME concept graph)"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "Java 20_GEOMETRY `C(R)` concept (dominance/concentration family)",
+      "notes": "Same discipline as C(R)=L/active, different formula (HHI concentration, not component-ratio).",
+      "source_page": "pages/compute-ci-ConcentrationIndex.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-ci-ConcentrationIndex.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-ci-ConcentrationIndex.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-ci-ConcentrationIndex.html"
+    },
+    {
+      "name": "compute_entropy (Shannon)",
+      "slug": "compute-entropy-Shannon",
+      "category": "Entropy and Information Theory",
+      "category_slug": "Entropy-and-Information-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/math/entropy_metrics.py",
+      "value": "—",
+      "formula": "H = −Σ p·log(p); compute_normalized_entropy divides by ln(M).",
+      "produced_from": [
+        "E (energy vector)"
+      ],
+      "needed_by": [
+        "P_disp (dispersion penalty)",
+        "entropy_threshold (monotony)",
+        "Mixing Diagnostics"
+      ],
+      "origin": "Shannon (1948), *A Mathematical Theory of Communication* — Theory Explainer: plain_lang: how spread-out / unpredictable a distribution is; high entropy = energy smeared across many sides, low = concentrated. author: Claude Shannon (1948). extent: full (canonical H and H/ln(M)). reasoning: reused as the system's information primitive rather than inventing a second entropy. application: [[P_disp (dispersion penalty)]], [[entropy_threshold (monotony)]], [[Mixing Diagnostics]] (`compute_normalized_entropy`).",
+      "notes": "**HWIKI-DOC-02:** The single most-reused mathematical primitive in the whole system — canonical, not tool-local. Contrast [[KL divergence]] (REJECTED) and tool-local [[area_entropy (tool-local)]].",
+      "source_page": "pages/compute-entropy-Shannon.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-entropy-Shannon.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-entropy-Shannon.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-entropy-Shannon.html"
+    },
+    {
+      "name": "compute_ld (LogicalDensity)",
+      "slug": "compute-ld-LogicalDensity",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/primitives/calculator.py:84",
+      "value": "—",
+      "formula": "ld = avgActiveDegree / Deg95, clamped to [0,1].",
+      "produced_from": [
+        "ActiveGraph (KME concept graph)"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/compute-ld-LogicalDensity.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-ld-LogicalDensity.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-ld-LogicalDensity.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-ld-LogicalDensity.html"
+    },
+    {
+      "name": "compute_nc (NodeCoverage)",
+      "slug": "compute-nc-NodeCoverage",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/primitives/calculator.py:55",
+      "value": "—",
+      "formula": "NC = n/N — active concept nodes over the full domain node count.",
+      "produced_from": [
+        "ActiveGraph (KME concept graph)"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/compute-nc-NodeCoverage.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-nc-NodeCoverage.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-nc-NodeCoverage.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-nc-NodeCoverage.html"
+    },
+    {
+      "name": "compute_structural_tension",
+      "slug": "compute-structural-tension",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/math/stability_metrics.py",
+      "value": "—",
+      "formula": "structural_tension = 1 − max(area)/sum(area) — dominance-competition tension.",
+      "produced_from": [
+        "A_vec[12] (area activation vector)"
+      ],
+      "needed_by": [],
+      "origin": "No direct Java ancestor named this way",
+      "notes": "Max-share concentration, HHI-adjacent building block.",
+      "source_page": "pages/compute-structural-tension.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-structural-tension.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-structural-tension.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-structural-tension.html"
+    },
+    {
+      "name": "compute_tension",
+      "slug": "compute-tension",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/result/contract.py:63-65",
+      "value": "—",
+      "formula": "pairs = (i, i+6) for i in 0..5 on the 12-area vector; tension = Σ|A[i]-A[i+6]| (L1 abs-sum).",
+      "produced_from": [
+        "Icosahedral Surface Graph",
+        "A_vec[12] (area activation vector)",
+        "OPPOSITE_OFFSET"
+      ],
+      "needed_by": [
+        "Modular tension output (hesperia.result.v1)"
+      ],
+      "origin": "Java 21_MATH `bipolarAxes`: B[k]=A[2k]-A[2k+1], tensionEnergy=ΣB[k]² — interleaved pairing + L2 squares",
+      "notes": "**HWIKI-OPEN-01 resolved 2026-07-23:** `(i,i+6)` is **not** geometrically antipodal after `get_aligned_area_coordinates`. Ran alignment on canonical adj: geometric antipodes remain `(0,3)(1,2)(4,7)(5,6)(8,11)(9,10)` (dot=-1); `(i,i+6)` dots are ±0.447 (~0.35π / ~0.65π), not antipodal. Live pairing is the combinatorial [[OPPOSITE_OFFSET]]=6 index convention for exclusion/tension — not a claim that area i faces area i+6 on the sphere. Differs from Java also in aggregator (L1 abs-sum vs L2 squares).",
+      "source_page": "pages/compute-tension.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/compute-tension.md",
+      "lan_url": "http://192.168.100.65:8901/pages/compute-tension.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/compute-tension.html"
+    },
+    {
+      "name": "CONCEPTUAL_COHERENCE_INDEX (L6)",
+      "slug": "CONCEPTUAL-COHERENCE-INDEX-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:78,105",
+      "value": "—",
+      "formula": "CONCEPTUAL_COHERENCE_INDEX = STABILITY_RADIUS · (1 − NORMALIZED_FAMILY_ENTROPY) · GLOBAL_STABILITY_SCORE.",
+      "produced_from": [
+        "STABILITY_RADIUS (L6)",
+        "LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE"
+      ],
+      "needed_by": [
+        "L7/L8 stability regime consumers"
+      ],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** Combines stability radius, L1 family entropy, and GLOBAL_STABILITY_SCORE.",
+      "source_page": "pages/CONCEPTUAL-COHERENCE-INDEX-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CONCEPTUAL-COHERENCE-INDEX-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CONCEPTUAL-COHERENCE-INDEX-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CONCEPTUAL-COHERENCE-INDEX-L6.html"
+    },
+    {
+      "name": "CONDITION_NUMBER (L6)",
+      "slug": "CONDITION-NUMBER-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:52,91",
+      "value": "1.0 (no-perturbation stub)",
+      "formula": "CONDITION_NUMBER — ill-conditioning proxy of the hit/response surface; enters GLOBAL_STABILITY_SCORE denominator.",
+      "produced_from": [],
+      "needed_by": [
+        "LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE"
+      ],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** When no perturbation data, stubbed to 1.0. Downstream: GLOBAL_STABILITY_SCORE.",
+      "source_page": "pages/CONDITION-NUMBER-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CONDITION-NUMBER-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CONDITION-NUMBER-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CONDITION-NUMBER-L6.html"
+    },
+    {
+      "name": "contradiction_pressure -> tension_energy",
+      "slug": "contradiction-pressure-tension-energy",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Contract mapping",
+      "module": "runtime/services/engine_analyze_contract.py",
+      "value": "—",
+      "formula": "ENGINE-ANALYZE maps sealed contradiction_pressure onto the tension_energy contract scalar.",
+      "produced_from": [
+        "TRIZ contradiction signals",
+        "Relation weights (conflict/opposition)"
+      ],
+      "needed_by": [
+        "metric_tension_energy"
+      ],
+      "origin": "Altshuller / TRIZ contradiction lineage — Theory Explainer: plain_lang: TRIZ calls opposing requirements a 'contradiction'; Hesperia folds that pressure into the same tension_energy slot the rest of the contract already consumes. author: Genrich Altshuller (TRIZ) as theory family; LIVE mapping is Hesperia-native. extent: structural_analogy / partial (not full 39×39 matrix). reasoning: SCIENCE.md — narrow TRIZ slice; sealed analyze maps contradiction_pressure → tension_energy. application: [[metric_tension_energy]], [[Relation weights (conflict/opposition)]], Louvain/TRIZ novelty path.",
+      "notes": "**HWIKI-DOC-22:** Verified in `engine_analyze_contract.py` (`contradiction_p` → `tension_energy`). Not a Java ancestor — BEYOND-era mechanism reused for a Java-named slot.",
+      "source_page": "pages/contradiction-pressure-tension-energy.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/contradiction-pressure-tension-energy.md",
+      "lan_url": "http://192.168.100.65:8901/pages/contradiction-pressure-tension-energy.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/contradiction-pressure-tension-energy.html"
+    },
+    {
+      "name": "cosine_similarity",
+      "slug": "cosine-similarity",
+      "category": "Similarity and Retrieval",
+      "category_slug": "Similarity-and-Retrieval",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/fingerprint/builder.py (cosine_similarity, fingerprint_cosine)",
+      "value": "—",
+      "formula": "Dot product over norms — fingerprint / hit-vector comparison.",
+      "produced_from": [],
+      "needed_by": [
+        "KME Primitives and Derived Metrics",
+        "cumulativeDrift / turnCoherence"
+      ],
+      "origin": "Gerard Salton (1975) VSM — Theory Explainer: plain_lang: angle between two vectors — 1 means same direction, 0 means orthogonal. author: Gerard Salton (1975) vector-space model; also Java 21_MATH `cosine` (turn-drift use). extent: full (formula); LIVE_SUCCESSOR for use-site (fingerprints, not turn-drift). reasoning: SCIENCE.md; repurposed from Java turn-coherence toward KME fingerprints. application: [[KME Primitives and Derived Metrics]]; contrast dead [[cumulativeDrift / turnCoherence]].",
+      "notes": "**HWIKI-DOC-17:** LIVE_SUCCESSOR — fingerprint comparison, not Java turn-to-turn drift.",
+      "source_page": "pages/cosine-similarity.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/cosine-similarity.md",
+      "lan_url": "http://192.168.100.65:8901/pages/cosine-similarity.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/cosine-similarity.html"
+    },
+    {
+      "name": "count_triangles / count_connected_triplets",
+      "slug": "count-triangles-count-connected-triplets",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/primitives/calculator.py:122-145",
+      "value": "—",
+      "formula": "Deterministic triangle count; sum of C(deg(v),2) per node.",
+      "produced_from": [
+        "ActiveGraph (KME concept graph)"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "No Java ancestor",
+      "notes": "Feeds clustering-coefficient-style derived metrics.",
+      "source_page": "pages/count-triangles-count-connected-triplets.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/count-triangles-count-connected-triplets.md",
+      "lan_url": "http://192.168.100.65:8901/pages/count-triangles-count-connected-triplets.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/count-triangles-count-connected-triplets.html"
+    },
+    {
+      "name": "coverage_threshold (monotony)",
+      "slug": "coverage-threshold-monotony",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "specs/canon/diagnostic_rules.yaml",
+      "value": "0.20",
+      "formula": "Joint with entropy_threshold for the monotony regime.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/coverage-threshold-monotony.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/coverage-threshold-monotony.md",
+      "lan_url": "http://192.168.100.65:8901/pages/coverage-threshold-monotony.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/coverage-threshold-monotony.html"
+    },
+    {
+      "name": "CPC (KME derived)",
+      "slug": "CPC-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:98",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR * NC, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (PR·NC)/PV. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CPC-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CPC-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CPC-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CPC-KME-derived.html"
+    },
+    {
+      "name": "CRI (KME derived)",
+      "slug": "CRI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:90",
+      "value": "—",
+      "formula": "clamp01(CI * COH)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** CI×COH product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CRI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CRI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CRI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CRI-KME-derived.html"
+    },
+    {
+      "name": "CSI (KME derived)",
+      "slug": "CSI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:73",
+      "value": "—",
+      "formula": "clamp01(NC * PR)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** Coverage–Presence Index. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CSI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CSI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CSI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CSI-KME-derived.html"
+    },
+    {
+      "name": "CSI2 (KME derived)",
+      "slug": "CSI2-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:81",
+      "value": "—",
+      "formula": "clamp01(CI * LD)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** CI×LD product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/CSI2-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/CSI2-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/CSI2-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/CSI2-KME-derived.html"
+    },
+    {
+      "name": "cumulativeDrift / turnCoherence",
+      "slug": "cumulativeDrift-turnCoherence",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Turn-to-turn coherence and cumulative drift via cosine similarity across a multi-turn session.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 21_MATH",
+      "notes": "**Cleanest 'taken toward, wrong boundary' case in the register.** [[Mixing Diagnostics]] already computes the same shape (consecutive L1 distance + entropy along a state sequence) for within-run diffusion steps; nobody has moved that machinery to a turn-to-turn boundary yet. [[cosine_similarity]] (the other half of what this needed) already exists, repurposed for fingerprints.",
+      "source_page": "pages/cumulativeDrift-turnCoherence.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/cumulativeDrift-turnCoherence.md",
+      "lan_url": "http://192.168.100.65:8901/pages/cumulativeDrift-turnCoherence.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/cumulativeDrift-turnCoherence.html"
+    },
+    {
+      "name": "curvature_threshold / severe",
+      "slug": "curvature-threshold-severe",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constants)",
+      "module": "diagnostics config",
+      "value": "1.20 / 1.50",
+      "formula": "Hesperia-native 3-level adjacency step score — explicitly not Ricci curvature.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/curvature-threshold-severe.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/curvature-threshold-severe.md",
+      "lan_url": "http://192.168.100.65:8901/pages/curvature-threshold-severe.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/curvature-threshold-severe.html"
+    },
+    {
+      "name": "DCI (KME derived)",
+      "slug": "DCI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:80",
+      "value": "—",
+      "formula": "clamp01(LD * NC)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** LD×NC product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/DCI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/DCI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/DCI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/DCI-KME-derived.html"
+    },
+    {
+      "name": "DEAD_ALGO_SURVIVED (status term)",
+      "slug": "DEAD-ALGO-SURVIVED-status-term",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Concept / status vocabulary",
+      "module": "wiki status legend / generate_wiki.py STATUS_LABEL",
+      "value": "DEAD_ALGO_SURVIVED",
+      "formula": "Java *name* is dead; the underlying algorithm still runs under another symbol/substrate.",
+      "produced_from": [],
+      "needed_by": [
+        "largest_component_size",
+        "K(R) / L(R) / fragIndex (Java)"
+      ],
+      "origin": "Hesperia wiki status vocabulary — Theory Explainer: plain_lang: do not revive the Java name — find the live algorithm page and cite that. author: wiki STATUS_LABEL. extent: full (status code). reasoning: flagship case [[largest_component_size]] ≡ Java L(R). application: [[K(R) / L(R) / fragIndex (Java)]], [[largest_component_size]].",
+      "notes": "**HWIKI-DOC-27:** Status vocabulary — name dead, algorithm lived.",
+      "source_page": "pages/DEAD-ALGO-SURVIVED-status-term.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/DEAD-ALGO-SURVIVED-status-term.md",
+      "lan_url": "http://192.168.100.65:8901/pages/DEAD-ALGO-SURVIVED-status-term.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/DEAD-ALGO-SURVIVED-status-term.html"
+    },
+    {
+      "name": "decay",
+      "slug": "decay",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/core_math.py — base_step()",
+      "value": "0.04",
+      "formula": "E_next = clamp(D·(1-decay), 0, E_cap) — damped discrete-time attrition after each diffusion step.",
+      "produced_from": [
+        "lambda (lazy step)"
+      ],
+      "needed_by": [],
+      "origin": "22_SPEC §5",
+      "notes": "Structural analogy to LIF self-decay (Lapicque 1907) noted in related H_self paths; not claimed as literal.",
+      "source_page": "pages/decay.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/decay.md",
+      "lan_url": "http://192.168.100.65:8901/pages/decay.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/decay.html"
+    },
+    {
+      "name": "decay_factor (propagation)",
+      "slug": "decay-factor-propagation",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Parameter (YAML weight)",
+      "module": "specs/canon/propagation_weights.yaml",
+      "value": "1.0",
+      "formula": "Deferred multi-hop attenuation — currently a no-op on single-hop propagation.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: reserved multi-hop attenuation knob; today it is identity (1.0) on single-hop paths. author: Hesperia propagation YAML. extent: partial (reserved slot). reasoning: future multi-hop attenuation without breaking current YAML. application: [[middle_to_outer / outer_to_middle]].",
+      "notes": "**HWIKI-DOC-24:** Reserved slot, not yet load-bearing beyond identity.",
+      "source_page": "pages/decay-factor-propagation.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/decay-factor-propagation.md",
+      "lan_url": "http://192.168.100.65:8901/pages/decay-factor-propagation.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/decay-factor-propagation.html"
+    },
+    {
+      "name": "detect_dominant_area / detect_dominant_family",
+      "slug": "detect-dominant-area-detect-dominant-family",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/math/structural_metrics.py",
+      "value": "—",
+      "formula": "Returns the index of the dominant area / family (argmax), not a share fraction.",
+      "produced_from": [
+        "A_vec[12] (area activation vector)",
+        "F_vec[288]"
+      ],
+      "needed_by": [
+        "dominant_area_share_threshold"
+      ],
+      "origin": "Java `X_A, X_F` alignment concept",
+      "notes": "Index-only; the area side has a share-fraction sibling (`compute_dominant_area_share`), the family side does not — see [[X_A / X_F alignment (Java)]].",
+      "source_page": "pages/detect-dominant-area-detect-dominant-family.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/detect-dominant-area-detect-dominant-family.md",
+      "lan_url": "http://192.168.100.65:8901/pages/detect-dominant-area-detect-dominant-family.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/detect-dominant-area-detect-dominant-family.html"
+    },
+    {
+      "name": "DFT Ring Smoothness",
+      "slug": "DFT-Ring-Smoothness",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "REJECTED",
+      "status_label": "🔴 REJECTED — explicit, reasoned decision against, not an oversight",
+      "kind": "Formula (never implemented)",
+      "module": "n/a — zero matches for `np.fft`/`scipy.fft`/`ringSmoothness` in any `.py`",
+      "value": "—",
+      "formula": "Fourier/DFT-based smoothness measure over a proposed 12-area ring (`AREA_RING_ORDER`), plus a Java `Complex` class.",
+      "produced_from": [
+        "Icosahedral Surface Graph"
+      ],
+      "needed_by": [],
+      "origin": "Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a ring Fourier smoothness score needs areas arranged on a circle (each has two neighbors); Hesperia's areas sit on an icosahedron where each has five neighbors — wrong topology for that DFT. author: Java proposal (DFT/ringSmoothness); rejection is Hesperia geometry decision. extent: rejected_with_reason. reasoning: [[Icosahedral Surface Graph]] is 5-regular (`degree_per_node: 5` in adjacency JSON); ring-DFT needs 2-regular C₁₂. application: contrast [[compute_entropy (Shannon)]] / dominance already covering 'smoothness-like' questions.",
+      "notes": "**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `data/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.",
+      "source_page": "pages/DFT-Ring-Smoothness.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/DFT-Ring-Smoothness.md",
+      "lan_url": "http://192.168.100.65:8901/pages/DFT-Ring-Smoothness.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/DFT-Ring-Smoothness.html"
+    },
+    {
+      "name": "domainFit / scaleConsistency / compatibilityScore (Java)",
+      "slug": "domainFit-scaleConsistency-compatibilityScore-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Further 23_PROTOTYPE decision composites.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "Same pattern as [[utility / strategicScore / actionScore (Java)]].",
+      "source_page": "pages/domainFit-scaleConsistency-compatibilityScore-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/domainFit-scaleConsistency-compatibilityScore-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/domainFit-scaleConsistency-compatibilityScore-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/domainFit-scaleConsistency-compatibilityScore-Java.html"
+    },
+    {
+      "name": "dominant_area_share_threshold",
+      "slug": "dominant-area-share-threshold",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Parameter (constant)",
+      "module": "sphere/diagnostics/monotony_detector.py",
+      "value": "0.65",
+      "formula": "compute_dominant_area_share(area_vector) >= threshold triggers dominance classification.",
+      "produced_from": [
+        "A_vec[12] (area activation vector)"
+      ],
+      "needed_by": [
+        "X_A / X_F alignment (Java)"
+      ],
+      "origin": "Java 20_GEOMETRY `X_A` alignment concept",
+      "notes": "Real, wired successor of Java's X_A — has a threshold AND a rule trigger in `rule_registry.py`. No family-share (`X_F`) counterpart exists yet — see [[X_A / X_F alignment (Java)]].",
+      "source_page": "pages/dominant-area-share-threshold.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/dominant-area-share-threshold.md",
+      "lan_url": "http://192.168.100.65:8901/pages/dominant-area-share-threshold.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/dominant-area-share-threshold.html"
+    },
+    {
+      "name": "DOMINANT_FAMILY_STABILITY (L6)",
+      "slug": "DOMINANT-FAMILY-STABILITY-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:43,87",
+      "value": "True (no-perturbation stub)",
+      "formula": "DOMINANT_FAMILY_STABILITY — boolean: dominant family remains stable under the (stubbed) perturbation regime.",
+      "produced_from": [
+        "INPUT_PERTURBATION_RESPONSE (L6)"
+      ],
+      "needed_by": [],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** Boolean neighbor of Lyapunov/stability cluster; L7 consumes related regime flags.",
+      "source_page": "pages/DOMINANT-FAMILY-STABILITY-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/DOMINANT-FAMILY-STABILITY-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/DOMINANT-FAMILY-STABILITY-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/DOMINANT-FAMILY-STABILITY-L6.html"
+    },
+    {
+      "name": "E_cap",
+      "slug": "E-cap",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/core_math.py",
+      "value": "1.0",
+      "formula": "Clamp ceiling applied after fusion and after every diffusion step.",
+      "produced_from": [
+        "alpha (fusion weight)"
+      ],
+      "needed_by": [
+        "alpha (fusion weight)",
+        "lambda (lazy step)",
+        "eta (centroid threshold)"
+      ],
+      "origin": "22_SPEC §3 — Theory Explainer: plain_lang: no activation cell may exceed 1.0; the field stays a bounded probability-like surface. author: 22_SPEC Core Math Contract. extent: full. reasoning: normalized bounded field + with η manufactures exact zeros that kill KL. application: [[alpha (fusion weight)]], [[lambda (lazy step)]], [[KL divergence]] (REJECTED).",
+      "notes": "**HWIKI-DOC-25:** Clamp after fusion and diffusion — partner of [[eta (centroid threshold)]] in the structural-zero story.",
+      "source_page": "pages/E-cap.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/E-cap.md",
+      "lan_url": "http://192.168.100.65:8901/pages/E-cap.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/E-cap.html"
+    },
+    {
+      "name": "Energy conservation epsilon",
+      "slug": "Energy-conservation-epsilon",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Invariant (constant)",
+      "module": "core/math/core_math.py — check_conservation_pre_decay, check_shadow_non_creation",
+      "value": "1e-6",
+      "formula": "Total energy must be conserved within epsilon after diffusion (E·W), before decay; shadow output must not exceed shadow input.",
+      "produced_from": [
+        "lambda (lazy step)",
+        "shadow_step"
+      ],
+      "needed_by": [],
+      "origin": "22_SPEC — physics-style invariant",
+      "notes": "Row-stochastic W preserves total mass by construction before decay — this check verifies that construction holds at runtime.",
+      "source_page": "pages/Energy-conservation-epsilon.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Energy-conservation-epsilon.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Energy-conservation-epsilon.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Energy-conservation-epsilon.html"
+    },
+    {
+      "name": "entropy_threshold (monotony)",
+      "slug": "entropy-threshold-monotony",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "specs/canon/diagnostic_rules.yaml",
+      "value": "0.35",
+      "formula": "structural_monotony label — entropy below this = structurally narrow discourse.",
+      "produced_from": [
+        "compute_entropy (Shannon)"
+      ],
+      "needed_by": [],
+      "origin": "Shannon (1948)",
+      "notes": "",
+      "source_page": "pages/entropy-threshold-monotony.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/entropy-threshold-monotony.md",
+      "lan_url": "http://192.168.100.65:8901/pages/entropy-threshold-monotony.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/entropy-threshold-monotony.html"
+    },
+    {
+      "name": "eta (centroid threshold)",
+      "slug": "eta-centroid-threshold",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/core_math.py — centroid_indices()",
+      "value": "0.02",
+      "formula": "active = [i for i in range(len(E0)) if E0[i] > eta] — sparse centroid selection floor.",
+      "produced_from": [
+        "alpha (fusion weight)",
+        "E_cap"
+      ],
+      "needed_by": [
+        "K_max",
+        "KL divergence"
+      ],
+      "origin": "22_SPEC §4 — Theory Explainer: plain_lang: ignore near-zero energy cells when picking the 'active' centroid set. author: 22_SPEC Core Math Contract. extent: full. reasoning: sparse activation; **structural reason [[KL divergence]] is REJECTED** (zeros in q). application: [[K_max]], contrast [[compute_entropy (Shannon)]].",
+      "notes": "**HWIKI-DOC-25:** With [[E_cap]] + clamp, η is why centroid selection kills KL — not taste.",
+      "source_page": "pages/eta-centroid-threshold.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/eta-centroid-threshold.md",
+      "lan_url": "http://192.168.100.65:8901/pages/eta-centroid-threshold.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/eta-centroid-threshold.html"
+    },
+    {
+      "name": "evidenceQuality / provenanceWeight (Java)",
+      "slug": "evidenceQuality-provenanceWeight-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Ad hoc per-item evidence-quality scalar from 23_PROTOTYPE.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "**Superseded upward**: [[FGR (Formality/Ground/Reliability)]] is a real, independently-specified external trust calculus that solves the problem this was guessing at, more rigorously. Do not reimplement the Java version — it would be strictly worse than what shipped.",
+      "source_page": "pages/evidenceQuality-provenanceWeight-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/evidenceQuality-provenanceWeight-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/evidenceQuality-provenanceWeight-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/evidenceQuality-provenanceWeight-Java.html"
+    },
+    {
+      "name": "expectedTimeToObstacle (Java)",
+      "slug": "expectedTimeToObstacle-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Predicted turns-to-obstacle metric.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 21_MATH",
+      "notes": "No documented downstream consumer even in the prototype notes; low value if revived.",
+      "source_page": "pages/expectedTimeToObstacle-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/expectedTimeToObstacle-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/expectedTimeToObstacle-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/expectedTimeToObstacle-Java.html"
+    },
+    {
+      "name": "FAMILIES_PER_AREA",
+      "slug": "FAMILIES-PER-AREA",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "gcs_lookup, core/topology/",
+      "value": "24",
+      "formula": "Families per area, fixed ontology grain.",
+      "produced_from": [
+        "AREAS"
+      ],
+      "needed_by": [
+        "TOTAL_FAMILIES"
+      ],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "",
+      "source_page": "pages/FAMILIES-PER-AREA.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/FAMILIES-PER-AREA.md",
+      "lan_url": "http://192.168.100.65:8901/pages/FAMILIES-PER-AREA.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/FAMILIES-PER-AREA.html"
+    },
+    {
+      "name": "FGR (Formality/Ground/Reliability)",
+      "slug": "FGR-Formality-Ground-Reliability",
+      "category": "Evidence and Trust",
+      "category_slug": "Evidence-and-Trust",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "External framework",
+      "module": "sphere/fpf_bridge/constants.py",
+      "value": "⟨F,G,R⟩ tuple",
+      "formula": "F = how rigorously a claim is expressed, G = the context-slice it claims to hold over, R = how well it is evidenced — trust as a computed tuple, not a single scalar.",
+      "produced_from": [],
+      "needed_by": [
+        "FGR DOMINANT_SHARE_HIGH",
+        "FGR freshness stability map"
+      ],
+      "origin": "FPF Part B.3, 'Trust & Assurance Calculus' (Anatoly Levenchuk) — Theory Explainer: plain_lang: trust is three numbers, not one vibe score — how formal the claim is, what scope it covers, how well it is evidenced. author: Anatoly Levenchuk / FPF Part B.3. extent: full application of FGR calculus specifically (not all of FPF Spec). reasoning: SCIENCE.md; superseded Java ad hoc evidenceQuality upward. application: [[FGR DOMINANT_SHARE_HIGH]], [[FGR freshness stability map]]; contrast dead [[evidenceQuality / provenanceWeight (Java)]].",
+      "notes": "**HWIKI-DOC-26:** Explainable Formality/Ground/Reliability terms; share/freshness map applications.",
+      "source_page": "pages/FGR-Formality-Ground-Reliability.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/FGR-Formality-Ground-Reliability.md",
+      "lan_url": "http://192.168.100.65:8901/pages/FGR-Formality-Ground-Reliability.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/FGR-Formality-Ground-Reliability.html"
+    },
+    {
+      "name": "FGR DOMINANT_SHARE_HIGH",
+      "slug": "FGR-DOMINANT-SHARE-HIGH",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "sphere/fpf_bridge/constants.py",
+      "value": "0.35",
+      "formula": "Trust tier on evidence, FPF FGR calculus.",
+      "produced_from": [
+        "FGR (Formality/Ground/Reliability)"
+      ],
+      "needed_by": [],
+      "origin": "FPF Part B.3 (Levenchuk) — Theory Explainer: plain_lang: when a dominant share exceeds 0.35, treat evidence trust tier as high under FGR. author: FPF Part B.3 via fpf_bridge. extent: full. reasoning: operationalizes Formality/Ground/Reliability into a share gate. application: [[FGR (Formality/Ground/Reliability)]], [[FGR freshness stability map]].",
+      "notes": "**HWIKI-DOC-26:** DOMINANT_SHARE application of FGR.",
+      "source_page": "pages/FGR-DOMINANT-SHARE-HIGH.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/FGR-DOMINANT-SHARE-HIGH.md",
+      "lan_url": "http://192.168.100.65:8901/pages/FGR-DOMINANT-SHARE-HIGH.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/FGR-DOMINANT-SHARE-HIGH.html"
+    },
+    {
+      "name": "FGR freshness stability map",
+      "slug": "FGR-freshness-stability-map",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constants)",
+      "module": "sphere/fpf_bridge/",
+      "value": "0.7 / 0.3",
+      "formula": "Stability -> freshness map: CURRENT/STALE/EXPIRED.",
+      "produced_from": [
+        "FGR (Formality/Ground/Reliability)"
+      ],
+      "needed_by": [],
+      "origin": "FPF Part B.3 — Theory Explainer: plain_lang: map stability scores into freshness buckets (CURRENT/STALE/EXPIRED) so Reliability stays time-aware. author: FPF Part B.3 via fpf_bridge. extent: full. reasoning: freshness is part of Reliability in the FGR tuple. application: [[FGR (Formality/Ground/Reliability)]], [[FGR DOMINANT_SHARE_HIGH]].",
+      "notes": "**HWIKI-DOC-26:** Freshness/stability map application of FGR.",
+      "source_page": "pages/FGR-freshness-stability-map.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/FGR-freshness-stability-map.md",
+      "lan_url": "http://192.168.100.65:8901/pages/FGR-freshness-stability-map.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/FGR-freshness-stability-map.html"
+    },
+    {
+      "name": "Gini concentration",
+      "slug": "Gini-concentration",
+      "category": "Entropy and Information Theory",
+      "category_slug": "Entropy-and-Information-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/layers/layer_1.py:_compute_gini (GINI_COEFFICIENT); also layer_4._gini",
+      "value": "—",
+      "formula": "Sorted-array Gini coefficient — concentration alongside entropy (the two can disagree in direction on the same distribution).",
+      "produced_from": [],
+      "needed_by": [
+        "entropy_threshold (monotony)",
+        "dominant_area_share_threshold"
+      ],
+      "origin": "Corrado Gini (1912), *Variabilità e mutabilità* — Theory Explainer: plain_lang: how unevenly hits/activation are piled onto a few families versus spread evenly — inequality as concentration. author: Corrado Gini (1912). extent: full (verbatim sorted-array Gini). reasoning: SCIENCE.md L1; independent concentration measure alongside Shannon. application: L1 `GINI_COEFFICIENT`, L3 `GINI_DELTA`, L4 `EVIDENCE_GINI_BASELINE`; pairs with [[compute_entropy (Shannon)]].",
+      "notes": "**HWIKI-DOC-14:** Concentration alongside entropy — not a Shannon substitute.",
+      "source_page": "pages/Gini-concentration.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Gini-concentration.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Gini-concentration.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Gini-concentration.html"
+    },
+    {
+      "name": "HEXES_PER_FAMILY",
+      "slug": "HEXES-PER-FAMILY",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Parameter (constant)",
+      "module": "hex builders",
+      "value": "250 (GCS defect variant: 251)",
+      "formula": "Hex substrate resolution — finest landing grain before rollup.",
+      "produced_from": [
+        "FAMILIES_PER_AREA"
+      ],
+      "needed_by": [
+        "TOTAL_HEXES"
+      ],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "The 251 GCS-defect variant is a PARTIAL branch, not the base 250 — disclose 72,000 vs 72,240 if claiming a hex census.",
+      "source_page": "pages/HEXES-PER-FAMILY.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/HEXES-PER-FAMILY.md",
+      "lan_url": "http://192.168.100.65:8901/pages/HEXES-PER-FAMILY.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/HEXES-PER-FAMILY.html"
+    },
+    {
+      "name": "Icosahedral Surface Graph",
+      "slug": "Icosahedral-Surface-Graph",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Topology (structural fact)",
+      "module": "data/topology/area_adjacency_matrix.json, sphere/topology/embedding.py",
+      "value": "12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)",
+      "formula": "The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topology` enforces that every graph edge has near-equal angular length and every non-edge is strictly longer.",
+      "produced_from": [
+        "AREAS",
+        "PHI (golden ratio)"
+      ],
+      "needed_by": [
+        "compute_tension",
+        "angular_distance",
+        "DFT Ring Smoothness"
+      ],
+      "origin": "Regular icosahedron (Platonic solid) — Theory Explainer: plain_lang: think of the 12 therapy areas as the corners of a 20-faced solid; each corner touches exactly five others (5-regular), so 'next area' is neighborhood on a sphere, not a circle. author: Platonic solid / icosahedron topology. extent: full (adjacency JSON + embedding validation). reasoning: this graph is the substrate for tension and for rejecting ring-DFT. application: [[compute_tension]], [[OPPOSITE_OFFSET]], contrast [[DFT Ring Smoothness]].",
+      "notes": "**HWIKI-DOC-10:** **Decisive fact against DFT Ring Smoothness**: a meaningful ring-DFT needs a 2-regular cyclic graph (C₁₂); the built topology is 5-regular. See [[DFT Ring Smoothness]].",
+      "source_page": "pages/Icosahedral-Surface-Graph.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Icosahedral-Surface-Graph.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Icosahedral-Surface-Graph.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Icosahedral-Surface-Graph.html"
+    },
+    {
+      "name": "IDE (KME derived)",
+      "slug": "IDE-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:101",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR * COH, NC))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (PR·COH)/NC. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/IDE-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/IDE-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/IDE-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/IDE-KME-derived.html"
+    },
+    {
+      "name": "inner_to_middle / middle_to_inner",
+      "slug": "inner-to-middle-middle-to-inner",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (YAML weight)",
+      "module": "specs/canon/propagation_weights.yaml",
+      "value": "0.18",
+      "formula": "Second-ring leak, distance-sensitive diffusion.",
+      "produced_from": [
+        "center_to_inner"
+      ],
+      "needed_by": [
+        "middle_to_outer / outer_to_middle"
+      ],
+      "origin": "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: second-ring leak — weaker than center_to_inner because farther from the activated core. author: Hesperia propagation YAML. extent: full. reasoning: distance decay ladder. application: [[center_to_inner]], [[middle_to_outer / outer_to_middle]].",
+      "notes": "**HWIKI-DOC-24:** Mid-ring bidirectional weight.",
+      "source_page": "pages/inner-to-middle-middle-to-inner.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/inner-to-middle-middle-to-inner.md",
+      "lan_url": "http://192.168.100.65:8901/pages/inner-to-middle-middle-to-inner.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/inner-to-middle-middle-to-inner.html"
+    },
+    {
+      "name": "INPUT_PERTURBATION_RESPONSE (L6)",
+      "slug": "INPUT-PERTURBATION-RESPONSE-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:42,86",
+      "value": "0.0 (no-perturbation stub)",
+      "formula": "INPUT_PERTURBATION_RESPONSE — first-order response amplitude to input perturbation (stub 0 without perturbation data).",
+      "produced_from": [],
+      "needed_by": [
+        "DOMINANT_FAMILY_STABILITY (L6)"
+      ],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** Part of L6 I. no-perturbation block.",
+      "source_page": "pages/INPUT-PERTURBATION-RESPONSE-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/INPUT-PERTURBATION-RESPONSE-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/INPUT-PERTURBATION-RESPONSE-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/INPUT-PERTURBATION-RESPONSE-L6.html"
+    },
+    {
+      "name": "IPS / QCS (Java)",
+      "slug": "IPS-QCS-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a — word-boundary grep: zero hits",
+      "value": "—",
+      "formula": "Unnamed-in-full composite decision scores from 23_PROTOTYPE.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "Raw substring grep on `IPS`/`QCS` returns false positives (e.g. `SHIPS`); word-boundary-verified zero real hits.",
+      "source_page": "pages/IPS-QCS-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/IPS-QCS-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/IPS-QCS-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/IPS-QCS-Java.html"
+    },
+    {
+      "name": "Jaccard overlaps",
+      "slug": "Jaccard-overlaps",
+      "category": "Similarity and Retrieval",
+      "category_slug": "Similarity-and-Retrieval",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/layers/layer_3.py (VISITED_JACCARD_SIMILARITY); layer_4._jaccard",
+      "value": "—",
+      "formula": "Set overlap |A∩B|/|A∪B| — HIT/VISITED/evidence/bookset overlap variables.",
+      "produced_from": [],
+      "needed_by": [
+        "BM25 retrieval",
+        "cosine_similarity"
+      ],
+      "origin": "Paul Jaccard (1901) — Theory Explainer: plain_lang: of the union of two sets, what fraction is shared — overlap without caring about order. author: Paul Jaccard (1901). extent: full (verbatim). reasoning: SCIENCE.md L3/L4 lineage table. application: VISITED_JACCARD_SIMILARITY, HIT_EVIDENCE_OVERLAP_*, EVIDENCE_JACCARD_BS, BOOKSET_JACCARD_BS.",
+      "notes": "**HWIKI-DOC-16:** Product overlap applications across L3/L4.",
+      "source_page": "pages/Jaccard-overlaps.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Jaccard-overlaps.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Jaccard-overlaps.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Jaccard-overlaps.html"
+    },
+    {
+      "name": "jump_rate_threshold / severe",
+      "slug": "jump-rate-threshold-severe",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constants)",
+      "module": "diagnostics config",
+      "value": "0.30 / 0.50",
+      "formula": "Relative frequency of non-adjacent moves — volatility bands.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/jump-rate-threshold-severe.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/jump-rate-threshold-severe.md",
+      "lan_url": "http://192.168.100.65:8901/pages/jump-rate-threshold-severe.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/jump-rate-threshold-severe.html"
+    },
+    {
+      "name": "K(R) / L(R) / fragIndex (Java)",
+      "slug": "K-R-L-R-fragIndex-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD_ALGO_SURVIVED",
+      "status_label": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
+      "kind": "Formula (name dead)",
+      "module": "n/a — zero matches for `fragIndex`/`frag_index`/`K(R)` style symbols",
+      "value": "—",
+      "formula": "K(R) = discrete graph cluster count, L(R) = largest component, F(R)=K = fragmentation index, over the raw per-side truth-boolean graph.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "**Algorithm survived verbatim, substrate and name changed**: [[largest_component_size]] in KME's primitive calculator is the same deterministic-DFS component sizer, running on `ActiveGraph` (concept graph) instead of the retired per-side truth lattice. See also [[Circuit rank (LOOP_COUNT/LOOP_DENSITY)]] (same discipline, different invariant) and [[Louvain communities (seed 42)]] (different discipline — do not equate).",
+      "source_page": "pages/K-R-L-R-fragIndex-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/K-R-L-R-fragIndex-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/K-R-L-R-fragIndex-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/K-R-L-R-fragIndex-Java.html"
+    },
+    {
+      "name": "K_max",
+      "slug": "K-max",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/core_math.py",
+      "value": "5",
+      "formula": "Cap on the number of centroid indices selected.",
+      "produced_from": [
+        "eta (centroid threshold)"
+      ],
+      "needed_by": [],
+      "origin": "22_SPEC §4",
+      "notes": "Caps 'how many things are active' in one traversal.",
+      "source_page": "pages/K-max.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/K-max.md",
+      "lan_url": "http://192.168.100.65:8901/pages/K-max.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/K-max.html"
+    },
+    {
+      "name": "KBS (KME derived)",
+      "slug": "KBS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:99",
+      "value": "—",
+      "formula": "clamp01(safe_div(COH * NC, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (COH·NC)/PV. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KBS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KBS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KBS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KBS-KME-derived.html"
+    },
+    {
+      "name": "KCI (KME derived)",
+      "slug": "KCI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:77",
+      "value": "—",
+      "formula": "clamp01(safe_div(LD, PR))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** LD/PR ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KCI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KCI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KCI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KCI-KME-derived.html"
+    },
+    {
+      "name": "KCR (KME derived)",
+      "slug": "KCR-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:85",
+      "value": "—",
+      "formula": "clamp01(safe_div(LD, NC))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** LD/NC ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KCR-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KCR-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KCR-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KCR-KME-derived.html"
+    },
+    {
+      "name": "KDI (KME derived)",
+      "slug": "KDI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:72",
+      "value": "—",
+      "formula": "clamp01(LD * COH)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** Knowledge Density Index. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KDI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KDI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KDI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KDI-KME-derived.html"
+    },
+    {
+      "name": "KDI2 (KME derived)",
+      "slug": "KDI2-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:104",
+      "value": "—",
+      "formula": "clamp01(LD * PR * COH)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** LD·PR·COH. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KDI2-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KDI2-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KDI2-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KDI2-KME-derived.html"
+    },
+    {
+      "name": "KE (KME derived)",
+      "slug": "KE-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:88",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR, LD))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR/LD ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KE-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KE-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KE-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KE-KME-derived.html"
+    },
+    {
+      "name": "KEF (KME derived)",
+      "slug": "KEF-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:82",
+      "value": "—",
+      "formula": "clamp01(safe_div(PV, NC))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PV/NC ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KEF-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KEF-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KEF-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KEF-KME-derived.html"
+    },
+    {
+      "name": "KL divergence",
+      "slug": "KL-divergence",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "REJECTED",
+      "status_label": "🔴 REJECTED — explicit, reasoned decision against, not an oversight",
+      "kind": "Formula (never implemented)",
+      "module": "n/a — zero matches for `kl_divergence`/`def kl(` in any `.py`",
+      "value": "—",
+      "formula": "kl(p,q) = Σ p_i·log(p_i/q_i) — Java 21_MATH proposed relative entropy between two distributions.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Kullback & Leibler (1951) / Java 21_MATH `kl(p,q)` — Theory Explainer: plain_lang: how different distribution p is from q; blows up if q has a zero where p does not. author: Kullback–Leibler (1951) as the Java proposal's theory family. extent: rejected_with_reason. reasoning: [[eta (centroid threshold)]] + [[E_cap]] manufacture exact zeros → KL undefined; Shannon [[compute_entropy (Shannon)]] stays. application: contrast Shannon; FPD/APD L2 profile distance fills the comparison slot.",
+      "notes": "**HWIKI-DOC-03:** Structural reason, not taste. Kolmogorov complexity was separately, explicitly rejected as uncomputable — same discipline, different item.",
+      "source_page": "pages/KL-divergence.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KL-divergence.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KL-divergence.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KL-divergence.html"
+    },
+    {
+      "name": "KME Primitives and Derived Metrics",
+      "slug": "KME-Primitives-and-Derived-Metrics",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Hub / concept",
+      "module": "hesperia/engine/kme/derived/calculator.py + primitives/calculator.py",
+      "value": "6 primitives → 35 derived",
+      "formula": "Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics → DerivedMetrics (35) → to_derived_vector / fingerprint.",
+      "produced_from": [
+        "compute_ld (LogicalDensity)",
+        "compute_ci (ConcentrationIndex)",
+        "compute_nc (NodeCoverage)",
+        "largest_component_size",
+        "count_triangles / count_connected_triplets"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "clinical_bridge.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "No Java 1:1 names — BEYOND comparability fingerprint layer",
+      "notes": "**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. Theory depth / plain-lang names expand in later DOC/KME waves.",
+      "source_page": "pages/KME-Primitives-and-Derived-Metrics.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KME-Primitives-and-Derived-Metrics.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KME-Primitives-and-Derived-Metrics.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KME-Primitives-and-Derived-Metrics.html"
+    },
+    {
+      "name": "KNS (KME derived)",
+      "slug": "KNS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:91",
+      "value": "—",
+      "formula": "clamp01(NC * COH * LD)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** NC·COH·LD. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KNS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KNS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KNS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KNS-KME-derived.html"
+    },
+    {
+      "name": "KPS (KME derived)",
+      "slug": "KPS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:102",
+      "value": "—",
+      "formula": "clamp01(safe_div(COH, PR))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** COH/PR ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KPS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KPS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KPS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KPS-KME-derived.html"
+    },
+    {
+      "name": "KSI (KME derived)",
+      "slug": "KSI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:94",
+      "value": "—",
+      "formula": "clamp01(safe_div(COH * LD, PR))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (COH·LD)/PR — catalog exemplar. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KSI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KSI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KSI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KSI-KME-derived.html"
+    },
+    {
+      "name": "KVI (KME derived)",
+      "slug": "KVI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:106",
+      "value": "—",
+      "formula": "clamp01(safe_div(LD * COH * PR, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (LD·COH·PR)/PV. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/KVI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/KVI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/KVI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/KVI-KME-derived.html"
+    },
+    {
+      "name": "lambda (lazy step)",
+      "slug": "lambda-lazy-step",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/core_math.py — base_step()",
+      "value": "0.55",
+      "formula": "D = (1-lambda)·E + lambda·(E·W) — lazy Markov chain step: a (1-lambda) fraction stays put, lambda actually transitions via W.",
+      "produced_from": [
+        "E_cap",
+        "Transition matrix (W)"
+      ],
+      "needed_by": [
+        "decay",
+        "Chapman-Kolmogorov Multi-Step",
+        "Wiener feedback on alpha (k_s / k_j)",
+        "PageRank-shaped walk (structural analogy)"
+      ],
+      "origin": "Markov (1906) — Theory Explainer: plain_lang: each step keeps part of current energy and mixes in neighbor energy; λ is how much of the mix comes from the graph. author: A.A. Markov (1906) chain formalism; laziness = standard aperiodicity technique. extent: structural_analogy (hand-set weights, not fitted HMM). reasoning: 22_SPEC base_step; 'Markov-like' discipline in SCIENCE.md. application: [[Transition matrix (W)]], T_steps=8, [[Chapman-Kolmogorov Multi-Step]], [[PageRank-shaped walk (structural analogy)]], diffusion α modulated by [[Wiener feedback on alpha (k_s / k_j)]].",
+      "notes": "**HWIKI-DOC-04 / DOC-08:** Iterated T_steps=8 times per run. Terminology discipline: 'Markov-like', never 'fitted Markov chain / HMM' — weights are hand-set, not learned. Same lazy form is the PageRank structural analogy (SCIENCE.md) — see [[PageRank-shaped walk (structural analogy)]]. Distinct from [[Wiener feedback on alpha (k_s / k_j)]] which modulates *diffusion* α in `sphere/propagation/weighting.py`, not this fusion/lazy λ.",
+      "source_page": "pages/lambda-lazy-step.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/lambda-lazy-step.md",
+      "lan_url": "http://192.168.100.65:8901/pages/lambda-lazy-step.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/lambda-lazy-step.html"
+    },
+    {
+      "name": "largest_component_size",
+      "slug": "largest-component-size",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "DEAD_ALGO_SURVIVED",
+      "status_label": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
+      "kind": "Formula / function",
+      "module": "hesperia/engine/kme/primitives/calculator.py:96",
+      "value": "—",
+      "formula": "Deterministic DFS over ActiveGraph adjacency; returns the size of the largest connected component.",
+      "produced_from": [
+        "ActiveGraph (KME concept graph)"
+      ],
+      "needed_by": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "origin": "**This is Java's L(R) ('largest component'), verbatim as an algorithm** — see [[K(R) / L(R) / fragIndex (Java)]]",
+      "notes": "The single strongest 'name died, algorithm did not' finding across all passes on this corpus — found by searching for the algorithm shape, not the Java symbol name. See [[DEAD_ALGO_SURVIVED (status term)]].",
+      "source_page": "pages/largest-component-size.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/largest-component-size.md",
+      "lan_url": "http://192.168.100.65:8901/pages/largest-component-size.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/largest-component-size.html"
+    },
+    {
+      "name": "LIVE_SUCCESSOR (status term)",
+      "slug": "LIVE-SUCCESSOR-status-term",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Concept / status vocabulary",
+      "module": "wiki status legend / generate_wiki.py STATUS_LABEL",
+      "value": "LIVE_SUCCESSOR",
+      "formula": "Same scientific idea as a Java ancestor, but different name and/or formula in the LIVE tree.",
+      "produced_from": [],
+      "needed_by": [
+        "cosine_similarity",
+        "compute_tension",
+        "dominant_area_share_threshold"
+      ],
+      "origin": "Hesperia wiki status vocabulary — Theory Explainer: plain_lang: the ancestor idea survived, but the shipped symbol is not a 1:1 rename — check the page's formula before equating. author: wiki STATUS_LABEL (Colombo/Felix audit convention). extent: full (status code). reasoning: prevents false 'DEAD' or false 'identical' claims. application: e.g. [[cosine_similarity]], [[compute_tension]].",
+      "notes": "**HWIKI-DOC-27:** Status vocabulary — contrast [[DEAD_ALGO_SURVIVED (status term)]].",
+      "source_page": "pages/LIVE-SUCCESSOR-status-term.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/LIVE-SUCCESSOR-status-term.md",
+      "lan_url": "http://192.168.100.65:8901/pages/LIVE-SUCCESSOR-status-term.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/LIVE-SUCCESSOR-status-term.html"
+    },
+    {
+      "name": "Louvain communities (seed 42)",
+      "slug": "Louvain-communities-seed-42",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Algorithm",
+      "module": "hesperia/extensions/triz/novelty_engine.py",
+      "value": "LOUVAIN_SEED = 42",
+      "formula": "networkx.community.louvain_communities — modularity-maximization clustering on the concept graph.",
+      "produced_from": [],
+      "needed_by": [
+        "contradiction_pressure -> tension_energy"
+      ],
+      "origin": "Blondel et al. (2008) — Theory Explainer: plain_lang: group concepts into communities by maximizing modularity (denser inside than across); seed 42 makes tie-breaks reproducible. author: Vincent Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre (2008). extent: full (algorithm), Hesperia-specific addition is only the reproducibility seed. reasoning: SCIENCE.md TRIZ/novelty path. application: `detect_concept_clusters_louvain` / novelty_engine; contrast [[K(R) / L(R) / fragIndex (Java)]] (different discipline).",
+      "notes": "**HWIKI-DOC-18:** **Not the same discipline-instance as [[K(R) / L(R) / fragIndex (Java)]]** — community detection by modularity, not connected-component counting.",
+      "source_page": "pages/Louvain-communities-seed-42.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Louvain-communities-seed-42.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Louvain-communities-seed-42.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Louvain-communities-seed-42.html"
+    },
+    {
+      "name": "low_stability_threshold",
+      "slug": "low-stability-threshold",
+      "category": "Activation and Diagnostic Thresholds",
+      "category_slug": "Activation-and-Diagnostic-Thresholds",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "diagnostics config",
+      "value": "0.15",
+      "formula": "Self-loop frequency complement — unstable flag.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "No Java ancestor",
+      "notes": "",
+      "source_page": "pages/low-stability-threshold.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/low-stability-threshold.md",
+      "lan_url": "http://192.168.100.65:8901/pages/low-stability-threshold.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/low-stability-threshold.html"
+    },
+    {
+      "name": "LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE",
+      "slug": "LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/layers/layer_6.py:76-77",
+      "value": "—",
+      "formula": "GLOBAL_STABILITY_SCORE = 1 / (1 + CONDITION_NUMBER + |LYAPUNOV_ESTIMATE|) — single-step perturbation-growth proxy.",
+      "produced_from": [
+        "CONDITION_NUMBER (L6)",
+        "STABILITY_RADIUS (L6)"
+      ],
+      "needed_by": [
+        "CONCEPTUAL_COHERENCE_INDEX (L6)",
+        "sphere/pipeline/contract_validation.py contract"
+      ],
+      "origin": "Lyapunov (1892), *General Problem of the Stability of Motion* — Theory Explainer: plain_lang: a single number claiming 'how stable is this read' from condition + a Lyapunov-named proxy. author: A.M. Lyapunov (1892). extent: structural_analogy (proxy, not iterated exponent). reasoning: SCIENCE.md honesty — not a literal Lyapunov exponent. application: [[GLOBAL_STABILITY_SCORE]] path into L7/L8; [[CONCEPTUAL_COHERENCE_INDEX (L6)]].",
+      "notes": "**HWIKI-DOC-12 / L6:** Explicitly a conceptual proxy — no iterated perturbation, no divergence-rate over many steps. Same honesty discipline as Java [[ALPHA/BETA/GAMMA/DELTA integrity quartet (Java)]]. L6 neighbors: [[CONDITION_NUMBER (L6)]], [[STABILITY_RADIUS (L6)]], [[SPECTRAL_GAP (L6)]].",
+      "source_page": "pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.md",
+      "lan_url": "http://192.168.100.65:8901/pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html"
+    },
+    {
+      "name": "Markov-like (term)",
+      "slug": "Markov-like-term",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Concept / theory term",
+      "module": "docs/publication/SCIENCE.md; core/math/core_math.py",
+      "value": "—",
+      "formula": "Discipline label: hand-set transition weights and lazy steps — *not* a fitted HMM or learned Markov model.",
+      "produced_from": [
+        "lambda (lazy step)",
+        "Transition matrix (W)"
+      ],
+      "needed_by": [
+        "PageRank-shaped walk (structural analogy)",
+        "structural analogy (extent term)"
+      ],
+      "origin": "A.A. Markov (1906) chain formalism — Theory Explainer: plain_lang: 'Markov-like' means the math shape of a chain step is used; it does **not** mean the system learned transition probabilities from data. author: Markov (1906) as the named shape; Hesperia term discipline is SCIENCE.md. extent: terminology / structural_analogy. reasoning: prevents overclaiming HMM. application: [[lambda (lazy step)]], [[Transition matrix (W)]].",
+      "notes": "**HWIKI-DOC-27:** Concept Dictionary entry — pair with [[structural analogy (extent term)]].",
+      "source_page": "pages/Markov-like-term.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Markov-like-term.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Markov-like-term.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Markov-like-term.html"
+    },
+    {
+      "name": "meanTau/varTau/stdTau/fillingRate/adjacencyCorrelation (Java)",
+      "slug": "meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a — `tau_s` itself has zero matches",
+      "value": "TAU_THRESHOLD=0.8",
+      "formula": "Statistics on the per-side boolean truth array tau[].",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 21_MATH",
+      "notes": "Dead by the same root cause as [[K(R) / L(R) / fragIndex (Java)]] — the tau[] substrate itself was replaced by continuous energy vectors; nothing to compute these statistics from without reviving a retired layer.",
+      "source_page": "pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.html"
+    },
+    {
+      "name": "metric_governance",
+      "slug": "metric-governance",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Composite metric",
+      "module": "core/math/core_math.py",
+      "value": "—",
+      "formula": "metric_governance = clamp(1 − (P_amb+P_thin+P_shadow+P_disp+P_guard), 0, 1) — single health number.",
+      "produced_from": [
+        "P_amb (ambiguity penalty)",
+        "P_thin (thin-core penalty)",
+        "P_disp (dispersion penalty)",
+        "P_guard (guard penalty)",
+        "P_shadow (shadow-hop penalty)"
+      ],
+      "needed_by": [],
+      "origin": "22_SPEC §12 — Theory Explainer: plain_lang: five independent taxes (ambiguity, thin-core, dispersion, guard, shadow) sum and invert into one 0–1 health score. author: 22_SPEC Core Math Contract (additive penalty-governance pattern). extent: full (suite as one explainable system). reasoning: preferred over Java multiplicative integrity powers — each penalty CI-testable alone. application: governance consumers; pattern reused by [[KME Primitives and Derived Metrics]]; contrast dead [[ALPHA/BETA/GAMMA/DELTA integrity quartet (Java)]].",
+      "notes": "**HWIKI-DOC-23:** Hub for the penalty suite P_amb/thin/disp/guard/shadow. Clearest 'combine independent criteria into one thresholdable number' example in the repo.",
+      "source_page": "pages/metric-governance.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/metric-governance.md",
+      "lan_url": "http://192.168.100.65:8901/pages/metric-governance.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/metric-governance.html"
+    },
+    {
+      "name": "metric_obstacle_score",
+      "slug": "metric-obstacle-score",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Composite metric",
+      "module": "core/math/core_math.py",
+      "value": "w_decay=0.50, w_guard_obs=0.30, w_shadow_obs=0.20 (CI-enforced sum = 1.0 ± 1e-6)",
+      "formula": "obstacle_score = w_decay·Loss + w_guard_obs·clamp(GuardCount,0,1) + w_shadow_obs·(shadow_hops/max_shadow_hops)",
+      "produced_from": [
+        "decay",
+        "P_guard (guard penalty)",
+        "P_shadow (shadow-hop penalty)"
+      ],
+      "needed_by": [],
+      "origin": "22_SPEC §12 / validate_config §16",
+      "notes": "Weights encode a judgment (half from decay loss) — building a config where these three don't sum to 1 fails CI.",
+      "source_page": "pages/metric-obstacle-score.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/metric-obstacle-score.md",
+      "lan_url": "http://192.168.100.65:8901/pages/metric-obstacle-score.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/metric-obstacle-score.html"
+    },
+    {
+      "name": "metric_tension_energy",
+      "slug": "metric-tension-energy",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/math/core_math.py",
+      "value": "—",
+      "formula": "tension_energy = 1 − gapF (gap between top-2 family energies).",
+      "produced_from": [
+        "F_vec[288]"
+      ],
+      "needed_by": [],
+      "origin": "Java 21_MATH `tensionEnergy` name — formula changed",
+      "notes": "One of the few v0.3-era metric names that survived essentially unchanged in identifier, changed in formula. 17 files consume it across `hesperia/engine/output_trace.py` and `core/propagation/*`.",
+      "source_page": "pages/metric-tension-energy.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/metric-tension-energy.md",
+      "lan_url": "http://192.168.100.65:8901/pages/metric-tension-energy.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/metric-tension-energy.html"
+    },
+    {
+      "name": "middle_to_outer / outer_to_middle",
+      "slug": "middle-to-outer-outer-to-middle",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (YAML weight)",
+      "module": "specs/canon/propagation_weights.yaml",
+      "value": "0.12",
+      "formula": "Peripheral thinning, distance decay.",
+      "produced_from": [
+        "inner_to_middle / middle_to_inner"
+      ],
+      "needed_by": [
+        "bridge_weight"
+      ],
+      "origin": "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: outermost ring gets the thinnest local weight — periphery thins by design. author: Hesperia propagation YAML. extent: full. reasoning: completes the radial diffusion ladder. application: [[inner_to_middle / middle_to_inner]], [[decay_factor (propagation)]].",
+      "notes": "**HWIKI-DOC-24:** Peripheral thinning weight.",
+      "source_page": "pages/middle-to-outer-outer-to-middle.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/middle-to-outer-outer-to-middle.md",
+      "lan_url": "http://192.168.100.65:8901/pages/middle-to-outer-outer-to-middle.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/middle-to-outer-outer-to-middle.html"
+    },
+    {
+      "name": "Mixing Diagnostics",
+      "slug": "Mixing-Diagnostics",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Formula / function",
+      "module": "sphere/propagation/multi_step_diffusion.py:75-103 (`propagation_depth_metric`)",
+      "value": "—",
+      "formula": "propagation_depth_metric(seq): consecutive_l1[i]=Σ|s[i+1]-s[i]| (via vector_sum abs); entropy_sequence[i]=compute_normalized_entropy(s[i]); depth=len(seq)-1.",
+      "produced_from": [
+        "Chapman-Kolmogorov Multi-Step",
+        "compute_entropy (Shannon)"
+      ],
+      "needed_by": [
+        "cumulativeDrift"
+      ],
+      "origin": "Markov-chain mixing characterization (applied) — Theory Explainer: plain_lang: measures how fast a walk sequence spreads (L1 step sizes) and how disordered each snapshot is (normalized Shannon). author: applied mixing / information theory (no single eponym; entropy via Shannon 1948). extent: full (within-run). reasoning: shipped for multi-step diffusion diagnostics, not turn boundaries. application: [[Chapman-Kolmogorov Multi-Step]], [[compute_entropy (Shannon)]], contrast dead [[cumulativeDrift / turnCoherence]].",
+      "notes": "**HWIKI-OPEN-03 / DOC-07 re-read 2026-07-23 (line-by-line):** function is `propagation_depth_metric` — returns dict keys `depth`, `consecutive_l1`, `entropy_sequence`. Entropy calls `core.math.entropy_metrics.compute_normalized_entropy` (canonical Shannon path), not a local copy. Empty/short/mismatched sequences return zeros. **Confidence lifted** — no longer UNVERIFIED companion-doc paraphrase. Structurally same shape as dead [[cumulativeDrift / turnCoherence]], different boundary (within-run steps vs turn-to-turn).",
+      "source_page": "pages/Mixing-Diagnostics.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Mixing-Diagnostics.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Mixing-Diagnostics.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Mixing-Diagnostics.html"
+    },
+    {
+      "name": "OPPOSITE_OFFSET",
+      "slug": "OPPOSITE-OFFSET",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "core/math/dict_b.py:26",
+      "value": "6",
+      "formula": "Offset defining opposite-area exclusion pairs (i, i+6), same offset compute_tension uses.",
+      "produced_from": [
+        "Icosahedral Surface Graph"
+      ],
+      "needed_by": [
+        "compute_tension",
+        "build_exclusion_pairs"
+      ],
+      "origin": "Java 21_MATH bipolar axis convention (offset changed from interleaved to +6)",
+      "notes": "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention.",
+      "source_page": "pages/OPPOSITE-OFFSET.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/OPPOSITE-OFFSET.md",
+      "lan_url": "http://192.168.100.65:8901/pages/OPPOSITE-OFFSET.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/OPPOSITE-OFFSET.html"
+    },
+    {
+      "name": "P_amb (ambiguity penalty)",
+      "slug": "P-amb-ambiguity-penalty",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / penalty",
+      "module": "core/math/core_math.py",
+      "value": "k_amb = 0.35, delta_gap = 0.08",
+      "formula": "gap = (e1-e2)/(e1+eps); P_amb = k_amb·(1-gap)^2 — taxes a too-close top-1/top-2 energy gap; degraded flag if gap < delta_gap.",
+      "produced_from": [
+        "base_step"
+      ],
+      "needed_by": [
+        "metric_governance"
+      ],
+      "origin": "22_SPEC §8 — Theory Explainer: plain_lang: if top-1 and top-2 energies are almost tied, tax governance — the read is ambiguous. author: 22_SPEC penalty suite. extent: full. reasoning: independently tunable additive term. application: [[metric_governance]].",
+      "notes": "**HWIKI-DOC-23:** Member of the five-penalty suite → [[metric_governance]].",
+      "source_page": "pages/P-amb-ambiguity-penalty.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/P-amb-ambiguity-penalty.md",
+      "lan_url": "http://192.168.100.65:8901/pages/P-amb-ambiguity-penalty.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/P-amb-ambiguity-penalty.html"
+    },
+    {
+      "name": "P_disp (dispersion penalty)",
+      "slug": "P-disp-dispersion-penalty",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / penalty",
+      "module": "core/math/core_math.py",
+      "value": "k_disp = 0.25",
+      "formula": "P_disp = k_disp·H_norm, H_norm = H/ln(M) — normalized Shannon entropy of E_end over active sides.",
+      "produced_from": [
+        "compute_entropy (Shannon)"
+      ],
+      "needed_by": [
+        "metric_governance"
+      ],
+      "origin": "22_SPEC §10 — Theory Explainer: plain_lang: smear across many sides → higher dispersion tax. author: Shannon entropy reused as penalty input. extent: full. reasoning: same H tool as [[compute_entropy (Shannon)]]. application: [[metric_governance]].",
+      "notes": "**HWIKI-DOC-23:** Member of the five-penalty suite → [[metric_governance]].",
+      "source_page": "pages/P-disp-dispersion-penalty.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/P-disp-dispersion-penalty.md",
+      "lan_url": "http://192.168.100.65:8901/pages/P-disp-dispersion-penalty.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/P-disp-dispersion-penalty.html"
+    },
+    {
+      "name": "P_guard (guard penalty)",
+      "slug": "P-guard-guard-penalty",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / penalty",
+      "module": "core/math/core_math.py",
+      "value": "k_guard = 0.30",
+      "formula": "P_guard = clamp(k_guard·(sigma_fail+gamma_violation+theta_reject), 0, 1) — Sigma/Gamma/Theta guard failures taxed directly into governance.",
+      "produced_from": [
+        "Sigma/Gamma/Theta guards"
+      ],
+      "needed_by": [
+        "metric_governance"
+      ],
+      "origin": "22_SPEC §11 — Theory Explainer: plain_lang: guard failures are not only hard stops — they also cost governance score. author: 22_SPEC penalty suite. extent: full. reasoning: softens binary gates into a continuous health signal. application: [[metric_governance]], [[metric_obstacle_score]].",
+      "notes": "**HWIKI-DOC-23:** Member of the five-penalty suite → [[metric_governance]].",
+      "source_page": "pages/P-guard-guard-penalty.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/P-guard-guard-penalty.md",
+      "lan_url": "http://192.168.100.65:8901/pages/P-guard-guard-penalty.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/P-guard-guard-penalty.html"
+    },
+    {
+      "name": "P_shadow (shadow-hop penalty)",
+      "slug": "P-shadow-shadow-hop-penalty",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / penalty",
+      "module": "core/math/core_math.py",
+      "value": "k_shadow = 0.40, max_shadow_hops = 2",
+      "formula": "P_shadow = k_shadow·(shadow_hops/max_shadow_hops) — the largest single weight of the five penalties.",
+      "produced_from": [
+        "shadow_step"
+      ],
+      "needed_by": [
+        "metric_governance"
+      ],
+      "origin": "22_SPEC §11 — Theory Explainer: plain_lang: each shadow-propagation hop needed to correct the field costs governance; heaviest single k among the five. author: 22_SPEC penalty suite. extent: full. reasoning: fallback hops are expensive by design. application: [[metric_governance]], [[metric_obstacle_score]].",
+      "notes": "**HWIKI-DOC-23:** Member of the five-penalty suite → [[metric_governance]].",
+      "source_page": "pages/P-shadow-shadow-hop-penalty.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/P-shadow-shadow-hop-penalty.md",
+      "lan_url": "http://192.168.100.65:8901/pages/P-shadow-shadow-hop-penalty.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/P-shadow-shadow-hop-penalty.html"
+    },
+    {
+      "name": "P_thin (thin-core penalty)",
+      "slug": "P-thin-thin-core-penalty",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / penalty",
+      "module": "core/math/core_math.py",
+      "value": "k_thin = 0.30, tau_core = 0.25",
+      "formula": "CoreShare = sumS/(sumS+sumL+eps); P_thin = k_thin·(1-CoreShare) — taxes energy leaning too much on Dict B (L) vs Dict A (S).",
+      "produced_from": [
+        "alpha (fusion weight)"
+      ],
+      "needed_by": [
+        "metric_governance"
+      ],
+      "origin": "22_SPEC §9 — Theory Explainer: plain_lang: if the fused field leans too hard on Dict B vs Dict A, tax it as a thin core. author: 22_SPEC penalty suite. extent: full. reasoning: protects surface-biased fusion intent of [[alpha (fusion weight)]]. application: [[metric_governance]].",
+      "notes": "**HWIKI-DOC-23:** Member of the five-penalty suite → [[metric_governance]].",
+      "source_page": "pages/P-thin-thin-core-penalty.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/P-thin-thin-core-penalty.md",
+      "lan_url": "http://192.168.100.65:8901/pages/P-thin-thin-core-penalty.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/P-thin-thin-core-penalty.html"
+    },
+    {
+      "name": "PageRank-shaped walk (structural analogy)",
+      "slug": "PageRank-shaped-walk-structural-analogy",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Concept / theory term",
+      "module": "docs/publication/SCIENCE.md lineage table; core/math/core_math.py base_step",
+      "value": "v' = (1−λ)v + λ·vW (lazy form)",
+      "formula": "Structural analogy only: the lazy-random-walk mixing form matches PageRank's damping walk; Hesperia's W is semantic adjacency, not a web-link graph, and no eigenvector-convergence claim is made.",
+      "produced_from": [
+        "lambda (lazy step)",
+        "Transition matrix (W)"
+      ],
+      "needed_by": [
+        "Chapman-Kolmogorov Multi-Step",
+        "Mixing Diagnostics"
+      ],
+      "origin": "Brin & Page (1998), 'The Anatomy of a Large-Scale Hypertextual Web Search Engine' — Theory Explainer: plain_lang: PageRank spreads importance by repeatedly mixing 'stay put' with 'follow a link'; Hesperia reuses that *shape* for energy diffusion on areas, not ranking web pages. author: Sergey Brin & Larry Page (1998). extent: structural_analogy only. reasoning: SCIENCE.md cites the form explicitly; do not claim PageRank product semantics. application: [[lambda (lazy step)]], [[Transition matrix (W)]], [[Chapman-Kolmogorov Multi-Step]].",
+      "notes": "**HWIKI-DOC-08:** Cite SCIENCE.md — structural analogy only; never claim Hesperia runs PageRank.",
+      "source_page": "pages/PageRank-shaped-walk-structural-analogy.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/PageRank-shaped-walk-structural-analogy.md",
+      "lan_url": "http://192.168.100.65:8901/pages/PageRank-shaped-walk-structural-analogy.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/PageRank-shaped-walk-structural-analogy.html"
+    },
+    {
+      "name": "PEI (KME derived)",
+      "slug": "PEI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:87",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR/PV ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/PEI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/PEI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/PEI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/PEI-KME-derived.html"
+    },
+    {
+      "name": "PHI (golden ratio)",
+      "slug": "PHI-golden-ratio",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "sphere/topology/embedding.py",
+      "value": "(1 + √5) / 2 ≈ 1.618033988749895",
+      "formula": "Coordinate generator for the 12 icosahedron vertices (`ICOSAHEDRON_VERTICES_RAW`).",
+      "produced_from": [],
+      "needed_by": [
+        "Icosahedral Surface Graph",
+        "angular_distance",
+        "geodesic_distance"
+      ],
+      "origin": "Classical geometry (φ = (1+√5)/2) — Theory Explainer: plain_lang: the golden ratio is the scale that appears when you build a regular icosahedron from unit coordinates; Hesperia uses it so the 12 area points sit on a true Platonic solid, not an arbitrary cloud. author: classical Greek geometry / Euclidean solid construction (not a Hesperia-native invention). extent: full (verbatim φ in `ICOSAHEDRON_VERTICES_RAW`). reasoning: SCIENCE.md — 12 areas are geometrically forced by this construction. application: [[Icosahedral Surface Graph]], [[angular_distance]], [[geodesic_distance]].",
+      "notes": "**HWIKI-DOC-09:** Verified in `embedding.py`. Java corpus stated AREAS/FAMILIES as bare integers without embedding — φ is LIVE geometry, not a Java carry-over name.",
+      "source_page": "pages/PHI-golden-ratio.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/PHI-golden-ratio.md",
+      "lan_url": "http://192.168.100.65:8901/pages/PHI-golden-ratio.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/PHI-golden-ratio.html"
+    },
+    {
+      "name": "Relation weights (conflict/opposition)",
+      "slug": "Relation-weights-conflict-opposition",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Parameter (constants)",
+      "module": "parameter_catalog.md §7",
+      "value": "conflict/negation = 1.0, opposition = 0.85",
+      "formula": "Typed adversity weights on graph edges.",
+      "produced_from": [],
+      "needed_by": [
+        "contradiction_pressure -> tension_energy"
+      ],
+      "origin": "No direct Java ancestor",
+      "notes": "**HWIKI-DOC-22 related:** typed adversity edges feeding TRIZ/tension mapping.",
+      "source_page": "pages/Relation-weights-conflict-opposition.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Relation-weights-conflict-opposition.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Relation-weights-conflict-opposition.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Relation-weights-conflict-opposition.html"
+    },
+    {
+      "name": "runLoop / shouldBreak (Java)",
+      "slug": "runLoop-shouldBreak-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented, as named)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Traversal-control primitive from 23_PROTOTYPE.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "Traversal itself is very much alive under other APIs — the T_steps loop in [[lambda (lazy step)]], BFS in L2, the agentic bridge's state graph. Only this specific named control surface never shipped.",
+      "source_page": "pages/runLoop-shouldBreak-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/runLoop-shouldBreak-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/runLoop-shouldBreak-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/runLoop-shouldBreak-Java.html"
+    },
+    {
+      "name": "S=T·C·X_A / S′ composite (Java)",
+      "slug": "S-T-C-X-A-S-composite-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Composite structural score combining truth, coherence, and area/family alignment shares.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "Six-key metrics (governance, obstacle_score, tension family) replaced the instinct of one composite S; see [[metric_governance]].",
+      "source_page": "pages/S-T-C-X-A-S-composite-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/S-T-C-X-A-S-composite-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/S-T-C-X-A-S-composite-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/S-T-C-X-A-S-composite-Java.html"
+    },
+    {
+      "name": "saturation (Java, 23_PROTOTYPE)",
+      "slug": "saturation-Java-23-PROTOTYPE",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Formula (different concept survives)",
+      "module": "n/a as a decision-layer composite",
+      "value": "—",
+      "formula": "23_PROTOTYPE composite 'saturation' decision score.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "Not the same object as the live [[apply_saturation]] (concept-dictionary weight cap) — no gap, different tool.",
+      "source_page": "pages/saturation-Java-23-PROTOTYPE.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/saturation-Java-23-PROTOTYPE.md",
+      "lan_url": "http://192.168.100.65:8901/pages/saturation-Java-23-PROTOTYPE.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/saturation-Java-23-PROTOTYPE.html"
+    },
+    {
+      "name": "SCS (KME derived)",
+      "slug": "SCS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:89",
+      "value": "—",
+      "formula": "clamp01(safe_div(LD * COH, NC))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (LD·COH)/NC. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/SCS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SCS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SCS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SCS-KME-derived.html"
+    },
+    {
+      "name": "Sentence capacity 3-5/side (Java)",
+      "slug": "Sentence-capacity-3-5-side-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Constraint (schema only)",
+      "module": "lexicon/validation/validate_lexical.py",
+      "value": "3–5 sentences",
+      "formula": "Capacity bound on generated content per side.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "Schema/validation only — no runtime generation-side enforcer found; unclear if any current producer could violate the bound.",
+      "source_page": "pages/Sentence-capacity-3-5-side-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Sentence-capacity-3-5-side-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Sentence-capacity-3-5-side-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Sentence-capacity-3-5-side-Java.html"
+    },
+    {
+      "name": "shadow_step",
+      "slug": "shadow-step",
+      "category": "Core Math Contract",
+      "category_slug": "Core-Math-Contract",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Formula / function",
+      "module": "core/math/core_math.py",
+      "value": "—",
+      "formula": "E_shadow = E · Ws — propagation through a separate shadow transition matrix Ws.",
+      "produced_from": [
+        "E (energy vector)"
+      ],
+      "needed_by": [
+        "P_shadow (shadow-hop penalty)",
+        "check_shadow_non_creation"
+      ],
+      "origin": "22_SPEC §6",
+      "notes": "Shadow field for fallback / correction cost.",
+      "source_page": "pages/shadow-step.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/shadow-step.md",
+      "lan_url": "http://192.168.100.65:8901/pages/shadow-step.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/shadow-step.html"
+    },
+    {
+      "name": "SIDES_PER_HEX",
+      "slug": "SIDES-PER-HEX",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Parameter (constant)",
+      "module": "geometry checks",
+      "value": "6",
+      "formula": "Hexagonal lattice uniform adjacency — 6 sides per hex.",
+      "produced_from": [],
+      "needed_by": [
+        "TOTAL_SIDES"
+      ],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "Dimensionality of energy sides / truth units.",
+      "source_page": "pages/SIDES-PER-HEX.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SIDES-PER-HEX.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SIDES-PER-HEX.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SIDES-PER-HEX.html"
+    },
+    {
+      "name": "SPECTRAL_GAP (L6)",
+      "slug": "SPECTRAL-GAP-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:53,92",
+      "value": "0.0 (no-perturbation stub)",
+      "formula": "SPECTRAL_GAP — gap proxy for mixing/expansion rate of the response operator.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** Stub 0.0 when no perturbation; neighbor of Lyapunov/condition cluster.",
+      "source_page": "pages/SPECTRAL-GAP-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SPECTRAL-GAP-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SPECTRAL-GAP-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SPECTRAL-GAP-L6.html"
+    },
+    {
+      "name": "SPI (KME derived)",
+      "slug": "SPI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:74",
+      "value": "—",
+      "formula": "clamp01(CI)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** Structure Index pass-through. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/SPI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SPI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SPI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SPI-KME-derived.html"
+    },
+    {
+      "name": "SPS (KME derived)",
+      "slug": "SPS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:79",
+      "value": "—",
+      "formula": "clamp01(PR * COH)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR×COH product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/SPS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SPS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SPS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SPS-KME-derived.html"
+    },
+    {
+      "name": "SSR (KME derived)",
+      "slug": "SSR-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:96",
+      "value": "—",
+      "formula": "clamp01(safe_div(PR, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR/PV ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/SSR-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SSR-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SSR-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SSR-KME-derived.html"
+    },
+    {
+      "name": "SSS (KME derived)",
+      "slug": "SSS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:76",
+      "value": "—",
+      "formula": "clamp01(safe_div(COH, PV))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** COH/PV ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/SSS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/SSS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/SSS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/SSS-KME-derived.html"
+    },
+    {
+      "name": "STABILITY_RADIUS (L6)",
+      "slug": "STABILITY-RADIUS-L6",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Layer variable",
+      "module": "core/layers/layer_6.py:46,78",
+      "value": "1.0 (no-perturbation stub)",
+      "formula": "STABILITY_RADIUS — radius of claimed local stability; multiplies into CONCEPTUAL_COHERENCE_INDEX.",
+      "produced_from": [],
+      "needed_by": [
+        "CONCEPTUAL_COHERENCE_INDEX (L6)"
+      ],
+      "origin": "39_SPEC Layer-6",
+      "notes": "**HWIKI-L6-01:** Stub 1.0 without perturbation; live formula path reserved.",
+      "source_page": "pages/STABILITY-RADIUS-L6.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/STABILITY-RADIUS-L6.md",
+      "lan_url": "http://192.168.100.65:8901/pages/STABILITY-RADIUS-L6.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/STABILITY-RADIUS-L6.html"
+    },
+    {
+      "name": "structural analogy (extent term)",
+      "slug": "structural-analogy-extent-term",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Concept / extent vocabulary",
+      "module": "docs/publication/SCIENCE.md extent column; Theory Explainer schema",
+      "value": "structural_analogy",
+      "formula": "Shared mathematical *form* with a named theory, without claiming the theory's full product semantics or proofs.",
+      "produced_from": [
+        "PageRank-shaped walk (structural analogy)",
+        "Markov-like (term)"
+      ],
+      "needed_by": [
+        "LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE",
+        "Wiener feedback on alpha (k_s / k_j)"
+      ],
+      "origin": "HWIKI-DOC-01 Theory Explainer extent label — Theory Explainer: plain_lang: 'looks like X mathematically' is not 'implements X'. author: SCIENCE.md extent taxonomy + DOC-01 schema. extent: meta (how we label other pages). reasoning: honesty discipline for PageRank/Lyapunov/Wiener cites. application: [[PageRank-shaped walk (structural analogy)]], [[Markov-like (term)]], [[LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE]].",
+      "notes": "**HWIKI-DOC-27:** Extent vocabulary — pairs with full / partial / rejected_with_reason.",
+      "source_page": "pages/structural-analogy-extent-term.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/structural-analogy-extent-term.md",
+      "lan_url": "http://192.168.100.65:8901/pages/structural-analogy-extent-term.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/structural-analogy-extent-term.html"
+    },
+    {
+      "name": "structural_coherence_pass",
+      "slug": "structural-coherence-pass",
+      "category": "Concept Dictionary",
+      "category_slug": "Concept-Dictionary",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/math/dict_b.py:51",
+      "value": "—",
+      "formula": "Coherence pass over Dict-B exclusion structure.",
+      "produced_from": [
+        "build_exclusion_pairs"
+      ],
+      "needed_by": [
+        "tension_from_conflict"
+      ],
+      "origin": "Java 20_GEOMETRY `C(R)=L/active`",
+      "notes": "Successor concept, different formula from the Java coherence ratio.",
+      "source_page": "pages/structural-coherence-pass.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/structural-coherence-pass.md",
+      "lan_url": "http://192.168.100.65:8901/pages/structural-coherence-pass.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/structural-coherence-pass.html"
+    },
+    {
+      "name": "summaryFidelity / compressionRatio (Java)",
+      "slug": "summaryFidelity-compressionRatio-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Product-compression quality composites from 23_PROTOTYPE.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "Covered functionally via loopability/stability in the product-compression path; no gap.",
+      "source_page": "pages/summaryFidelity-compressionRatio-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/summaryFidelity-compressionRatio-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/summaryFidelity-compressionRatio-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/summaryFidelity-compressionRatio-Java.html"
+    },
+    {
+      "name": "tau_s per-side truth (Java)",
+      "slug": "tau-s-per-side-truth-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Data structure (never implemented)",
+      "module": "n/a — zero matches for `tau_s`",
+      "value": "tau_s ∈ [0,1]",
+      "formula": "Atomic per-side boolean/scalar truth value.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "Replaced by continuous energy vectors ([[alpha (fusion weight)|E0]]) — a deliberate substrate change, not an oversight. Root cause for [[K(R) / L(R) / fragIndex (Java)]] and [[meanTau/varTau/stdTau/fillingRate/adjacencyCorrelation (Java)]] both being dead.",
+      "source_page": "pages/tau-s-per-side-truth-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/tau-s-per-side-truth-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/tau-s-per-side-truth-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/tau-s-per-side-truth-Java.html"
+    },
+    {
+      "name": "TBI (KME derived)",
+      "slug": "TBI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:103",
+      "value": "—",
+      "formula": "clamp01(NC * PV)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** NC×PV product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TBI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TBI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TBI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TBI-KME-derived.html"
+    },
+    {
+      "name": "TCI (KME derived)",
+      "slug": "TCI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:86",
+      "value": "—",
+      "formula": "clamp01(COH * LD * CI)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** COH·LD·CI. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TCI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TCI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TCI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TCI-KME-derived.html"
+    },
+    {
+      "name": "TDS (KME derived)",
+      "slug": "TDS-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:75",
+      "value": "—",
+      "formula": "clamp01(PR * LD)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PR×LD product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TDS-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TDS-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TDS-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TDS-KME-derived.html"
+    },
+    {
+      "name": "tension_from_conflict",
+      "slug": "tension-from-conflict",
+      "category": "Tension and Bipolar Adversity",
+      "category_slug": "Tension-and-Bipolar-Adversity",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "core/math/dict_b.py",
+      "value": "—",
+      "formula": "tension = min(1, C·4) from exclusion conflict energy C.",
+      "produced_from": [
+        "build_exclusion_pairs",
+        "structural_coherence_pass"
+      ],
+      "needed_by": [],
+      "origin": "No direct Java ancestor",
+      "notes": "Dict-B's own tension channel, from exclusion-pair conflict energy.",
+      "source_page": "pages/tension-from-conflict.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/tension-from-conflict.md",
+      "lan_url": "http://192.168.100.65:8901/pages/tension-from-conflict.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/tension-from-conflict.html"
+    },
+    {
+      "name": "TEP (KME derived)",
+      "slug": "TEP-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:93",
+      "value": "—",
+      "formula": "clamp01(PV * LD)",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** PV×LD product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TEP-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TEP-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TEP-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TEP-KME-derived.html"
+    },
+    {
+      "name": "TER (KME derived)",
+      "slug": "TER-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:97",
+      "value": "—",
+      "formula": "clamp01(safe_div(CI, LD))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** CI/LD ratio. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TER-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TER-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TER-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TER-KME-derived.html"
+    },
+    {
+      "name": "TOTAL_FAMILIES",
+      "slug": "TOTAL-FAMILIES",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived variable",
+      "module": "throughout core/",
+      "value": "288",
+      "formula": "TOTAL_FAMILIES = AREAS × FAMILIES_PER_AREA = 12 × 24",
+      "produced_from": [
+        "AREAS",
+        "FAMILIES_PER_AREA"
+      ],
+      "needed_by": [
+        "F_vec[288]",
+        "detect_dominant_family"
+      ],
+      "origin": "Java 20_GEOMETRY (product)",
+      "notes": "Family-activation vector length; Sigma shape check.",
+      "source_page": "pages/TOTAL-FAMILIES.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TOTAL-FAMILIES.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TOTAL-FAMILIES.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TOTAL-FAMILIES.html"
+    },
+    {
+      "name": "TOTAL_HEXES",
+      "slug": "TOTAL-HEXES",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived variable",
+      "module": "hex census tooling",
+      "value": "72,000 (72,240 GCS defect variant)",
+      "formula": "TOTAL_HEXES = TOTAL_FAMILIES × HEXES_PER_FAMILY; Euler's theorem requires 12 pentagon defects to close a hex sphere, which produces the 72,240 GCS variant.",
+      "produced_from": [
+        "TOTAL_FAMILIES",
+        "HEXES_PER_FAMILY"
+      ],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY + Euler closed-sphere constraint (SCIENCE.md)",
+      "notes": "",
+      "source_page": "pages/TOTAL-HEXES.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TOTAL-HEXES.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TOTAL-HEXES.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TOTAL-HEXES.html"
+    },
+    {
+      "name": "TOTAL_SIDES",
+      "slug": "TOTAL-SIDES",
+      "category": "Geometry",
+      "category_slug": "Geometry",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived variable",
+      "module": "docs/catalog",
+      "value": "432,000",
+      "formula": "TOTAL_SIDES = TOTAL_HEXES × SIDES_PER_HEX (using the 72,000 base variant)",
+      "produced_from": [
+        "TOTAL_HEXES",
+        "SIDES_PER_HEX"
+      ],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY (product)",
+      "notes": "Absolute side census from the Java corpus.",
+      "source_page": "pages/TOTAL-SIDES.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TOTAL-SIDES.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TOTAL-SIDES.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TOTAL-SIDES.html"
+    },
+    {
+      "name": "Transition matrix (W)",
+      "slug": "Transition-matrix-W",
+      "category": "Propagation, Diffusion and Markov",
+      "category_slug": "Propagation-Diffusion-and-Markov",
+      "status": "BEYOND",
+      "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
+      "kind": "Data structure / formula",
+      "module": "core/math/transition_matrix.py",
+      "value": "—",
+      "formula": "Transition counts a_t -> a_{t+1}, row-normalized to a stochastic matrix.",
+      "produced_from": [],
+      "needed_by": [
+        "lambda (lazy step)",
+        "Chapman-Kolmogorov Multi-Step"
+      ],
+      "origin": "Markov (1906) finite-state formalism — Theory Explainer: plain_lang: a table of 'from this area, probability of next area' built from counted moves, then normalized so each row sums to 1. author: Markov finite-state chain. extent: full construction (counts→probabilities). reasoning: BEYOND Java; supports lazy step and multi-step diffusion. application: [[lambda (lazy step)]], [[Chapman-Kolmogorov Multi-Step]], [[Mixing Diagnostics]].",
+      "notes": "**HWIKI-DOC-05:** Full construction (counts -> probabilities); not proposed in the Java corpus, built later for L6 dynamism.",
+      "source_page": "pages/Transition-matrix-W.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Transition-matrix-W.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Transition-matrix-W.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Transition-matrix-W.html"
+    },
+    {
+      "name": "TRI (KME derived)",
+      "slug": "TRI-KME-derived",
+      "category": "Graph and Structural Metrics",
+      "category_slug": "Graph-and-Structural-Metrics",
+      "status": "LIVE_FULL",
+      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "kind": "Derived metric (stub)",
+      "module": "hesperia/engine/kme/derived/calculator.py:100",
+      "value": "—",
+      "formula": "clamp01(safe_div(CI * LD, PR))",
+      "produced_from": [
+        "KME Primitives and Derived Metrics"
+      ],
+      "needed_by": [
+        "hesperia/engine/kme/pipeline.py",
+        "fingerprint/builder.py"
+      ],
+      "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
+      "notes": "**HWIKI-KME-01 stub:** (CI·LD)/PR. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.",
+      "source_page": "pages/TRI-KME-derived.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/TRI-KME-derived.md",
+      "lan_url": "http://192.168.100.65:8901/pages/TRI-KME-derived.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/TRI-KME-derived.html"
+    },
+    {
+      "name": "utility / strategicScore / actionScore (Java)",
+      "slug": "utility-strategicScore-actionScore-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
+      "kind": "Formula (never implemented)",
+      "module": "n/a",
+      "value": "—",
+      "formula": "Decision-layer composite scores from `23_PROTOTYPE`.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 23_PROTOTYPE",
+      "notes": "**Pattern survived, proliferation did not.** [[metric_governance]] and [[metric_obstacle_score]] are the same linear-scalarization pattern, consolidated to two CI-governed composites instead of many loosely-named ones with no stated distinguishing formula.",
+      "source_page": "pages/utility-strategicScore-actionScore-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/utility-strategicScore-actionScore-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/utility-strategicScore-actionScore-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/utility-strategicScore-actionScore-Java.html"
+    },
+    {
+      "name": "Wiener feedback on alpha (k_s / k_j)",
+      "slug": "Wiener-feedback-on-alpha-k-s-k-j",
+      "category": "Stability and Control Theory",
+      "category_slug": "Stability-and-Control-Theory",
+      "status": "LIVE_SUCCESSOR",
+      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "kind": "Formula / function",
+      "module": "sphere/propagation/weighting.py:78-127 (`apply_stability_modulation`, `apply_jump_rate_modulation`, `compute_effective_diffusion_rate`)",
+      "value": "k_stability=0.5, k_jump=0.3 (defaults)",
+      "formula": "effective_α = base_α·(1 − k_stability·stability_index) then ·(1 + k_jump·jump_rate), each clamped to [0,1] — cybernetic feedback on *diffusion* α.",
+      "produced_from": [
+        "lambda (lazy step)"
+      ],
+      "needed_by": [
+        "sphere/propagation/engine.py (compute_effective_diffusion_rate call)"
+      ],
+      "origin": "Wiener (1948) cybernetic feedback lineage — Theory Explainer: plain_lang: when the system looks stable, slow the spread; when it jumps a lot, allow slightly more spread. author: Norbert Wiener (1948) cybernetics as theory family (not a cited import). extent: structural_analogy. reasoning: renamed symbols `k_stability`/`k_jump` (not `k_s`/`k_j`); modulates propagation diffusion α, **not** [[alpha (fusion weight)]]. application: `sphere/propagation/engine.py`, tests in `tests/propagation/test_stability_modulation.py`.",
+      "notes": "**HWIKI-OPEN-02 / DOC-13 resolved 2026-07-23:** Grep for `wiener`/`k_s`/`k_j` as claimed names = zero real hits, but the *formula* lives under `k_stability`/`k_jump` in `weighting.py`. Relocated LIVE_SUCCESSOR — do not cite as DEAD. Not fusion α.",
+      "source_page": "pages/Wiener-feedback-on-alpha-k-s-k-j.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/Wiener-feedback-on-alpha-k-s-k-j.md",
+      "lan_url": "http://192.168.100.65:8901/pages/Wiener-feedback-on-alpha-k-s-k-j.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/Wiener-feedback-on-alpha-k-s-k-j.html"
+    },
+    {
+      "name": "X_A / X_F alignment (Java)",
+      "slug": "X-A-X-F-alignment-Java",
+      "category": "Dead and Rejected Science",
+      "category_slug": "Dead-and-Rejected-Science",
+      "status": "PARTIAL",
+      "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
+      "kind": "Formula (name dead, concept partial)",
+      "module": "n/a — literal `X_A`/`X_F` symbols: zero word-boundary hits",
+      "value": "—",
+      "formula": "Dominant area (X_A) / family (X_F) alignment shares.",
+      "produced_from": [],
+      "needed_by": [],
+      "origin": "Java 20_GEOMETRY",
+      "notes": "X_A side: real, wired successor — [[dominant_area_share_threshold]]. X_F side: only an index detector exists ([[detect_dominant_area / detect_dominant_family]]), **no `compute_dominant_family_share` counterpart** — the single cheapest genuine gap identified across all three prior passes.",
+      "source_page": "pages/X-A-X-F-alignment-Java.md",
+      "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/X-A-X-F-alignment-Java.md",
+      "lan_url": "http://192.168.100.65:8901/pages/X-A-X-F-alignment-Java.html",
+      "tailnet_url": "http://100.89.236.59:8901/pages/X-A-X-F-alignment-Java.html"
+    }
+  ]
+}

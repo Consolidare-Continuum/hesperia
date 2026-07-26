@@ -1,0 +1,2032 @@
+================================================================================
+HESPERIA EVOLUTION TREE — FROM ZERO CELL TO THE DISH WE SERVE NOW
+================================================================================
+
+Copyright © 2026 igareosh.com · prichindel.com (dev company).
+All rights reserved. Governance and archive text — not MIT-licensed product code.
+Redistribution: cite this path and pass number; do not strip copyright block.
+Canonical path: operational/assignments/reports/ETHAN-HESPERIA-EVOLUTION-TREE-0-TO-NOW-2026-06-14.txt
+
+Entity:     Ethan (product governance)
+Archive:    Grace (operational awareness)
+Date:       2026-06-14 — PASS 4 AUDIT FINAL (live verify, realign, close)
+Audience:   igareosh, team prichindel, future agents, archive readers
+Pass:       4 of 4 — last check; bells, whistles, verified SHAs where checked
+
+Companions:
+  • ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP-2026-06-14.txt   (414 numbered commits)
+  • ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP-2026-06-14.md    (phase narrative)
+  • GRACE-0.6.3-PRE-RELEASE-PACKAGE-NARRATIVE-2026-06-14.md (0.6.3 package)
+  • governance/HESPERIA-VERSION-TAG-REGISTRY.md
+  • cluster/HESPERIA-REPOS-AND-HOSTS.md
+
+================================================================================
+DOCUMENT MAP — NAVIGATE THE TREE (pass 4)
+================================================================================
+
+  §0–§4     How to read · four surfaces · spine · data flow · cell narratives (0–15)
+  §5–§9     Tags · surfaces · contracts · done ledger · scope matrix · reconcile
+  §10–§14   Reconcile story · retired · owners · operator gates · changelog
+  §15–§21   Calendar context · decisions · glossary · artifacts · waves · cluster
+  §22–§26   Verify evidence · tersagor alignment · companions · deltas · tags
+  §27–§35   Quick ref · env flags · MySQL · intent · collisions · Jun-14 hour log
+  §36–§38   JSON field guide · entities · commit diary map
+  §39–§40   AUDIT CHECKLIST (pass 4) · ONE-PAGE SYNTHESIS
+
+  Start here if…
+    • new agent / lost context     → §40 synthesis, then §2 spine
+    • cite a SHA                   → CONSISTENCY RULES below, then §26 tags
+    • run Lounge Teacher           → §28 flags, §36 JSON, Grace 0.6.3 narrative
+    • forensic commit              → companion 414 TXT, §38 map
+    • prod vs dev bytes            → §9 matrix, §1 four surfaces
+
+================================================================================
+PROLOGUE — WHAT THIS DOCUMENT IS
+================================================================================
+
+Hesperia did not arrive as a version number. It arrived as a problem: how to
+make a Russian TFP scientific statement executable, inspectable, and eventually
+teachable — without letting prose leak into parameters, without letting team chat
+become product bytes, and without pretending that a git tag equals a live API.
+
+This file is the **evolution tree** — not the autopsy log. The autopsy log is
+414 commits wide; this tree is **sixteen cell divisions** wide, each division
+named for what it added to the organism: membrane, nucleus, organ, nerve, voice.
+
+Read it when you need to answer:
+  • What existed at version X, and what did NOT exist yet?
+  • Why did we split prod from dev, brain from product, tersagor from hesperia?
+  • What is DONE vs what is deliberately deferred to 0.7.0?
+  • Where do bytes live, and who owns the closure?
+
+The metaphor is intentional. Biology keeps structure without lying about history.
+A liver does not contain the memory of the zygote — but the lineage is traceable.
+Same here: `runtime/shipping/` does not contain the Feb 2026 pivot docs — but
+`hesperia-v0.4.0` is still an ancestor commit you can checkout.
+
+CURRENT ORGANISM STATE (2026-06-14, pass 4 audit — live-checked alunel + prichindel):
+  DEV workspace HEAD       →  e9eaa07  (/data/workspaces/atomic-commit-hesperia)
+  PROD disk HEAD           →  e9eaa07  (/data/hesperia/hesperia on prichindel)
+  Tag 0.6.3 / hesperia-0.6.3 → 122d45b  (both remotes; frozen milestone)
+  runtime/irc_teacher/     →  10 modules @ e9eaa07 (verified on dev clone)
+  Tersagor live integration→  0149120  (separate repo; wrap optional)
+  Alunel analyze mirror    →  cc94b09  (/data/hesperia/hesperia — **lags main**; optional ff)
+  Brain board              →  OPEN 0 · DONE ~343 (snapshot at 0.6.3 close)
+  Operator next beat       →  Lounge live Teacher run (flags off until you)
+
+CONSISTENCY RULES (pass 4 — authoritative for this document):
+  1. Tag 0.6.3 / hesperia-0.6.3  = 122d45b always (registry + both remotes verified).
+  2. main HEAD dev workspace + prod disk = e9eaa07 (verified pass 4).
+  3. Archive zip lineage          = 16286fa seal → 9bf0289 examples → merged 122d45b.
+  4. Tersagor live Teacher        = 0149120 until wrapper imports product path.
+  5. Historical prod lag (d313bfd)= closed; do not cite as current.
+  6. Two "0.6" meanings           = Feb v06 layout (CELL 4) ≠ May 0.6.0 tag (CELL 9).
+  7. hesperia-v0.4.0 tag          = dcbb38b (not tag object d9abcbf — registry aligned pass 4).
+  8. Analyze mirror on alunel     = cc94b09 at audit — not e9eaa07; ff optional for :18880 parity.
+
+================================================================================
+§0  ANATOMY KEY — HOW TO READ EACH CELL
+================================================================================
+
+Every CELL uses the same skeleton. Narrative fields expanded passes 2–3; pass 4 audits SHAs.
+
+  CELL n · <poetic name> · <version or ref>
+  STATUS          DONE | PARTIAL | PLANNED | RETIRED
+  WHEN            calendar range
+  TAG / SHA       git anchors (short)
+  OWNERS          who closed the wave (entity names, not hero worship)
+  WHAT FOR        purpose in operator and scientific terms
+  REASON          causal chain — why then, not why theoretically
+  NARRATIVE       [expanded] story of the division in plain language
+  INCLUDES        trees, modules, contracts, URLs — concrete inventory
+  DOES            behaviour you could observe or invoke at this stage
+  SCOPE           IN (explicit) / OUT (explicit) — hold the line
+  REPOS           where bytes canonicalize
+  COMMIT SPAN     approximate roadmap TXT entry range (1..414)
+  DONE            evidence of closure — tests, tags, reports, verify scripts
+  FEEDS           downstream cells enabled
+  RETired/notes   branches that died or names that collide
+
+Cross-reference rule:
+  Commit diary entry N  ≈  one git commit;  CELL n  ≈  one evolutionary leap.
+  They do not map 1:1. A single cell often spans dozens or hundreds of commits.
+
+================================================================================
+§1  THE FOUR SURFACES — ONE DISH, FOUR MEMBRANES
+================================================================================
+
+Think of four tissues wrapping the same meal:
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  BRAIN — igareosh/cursor                                                 │
+  │  The genome notebook. Specs, Grace rows, exit criteria, Ethan policies, │
+  │  nginx/systemd templates, runbooks, triage registers.                    │
+  │  It instructs the body; it is not served on the plate.                  │
+  └──────────────────────────────────────────────────────────────────────────┘
+                    │ Grace triage · deploy pointers · compliance gates
+                    ▼
+  ┌─────────────────────────────┐         promote          ┌─────────────────────────┐
+  │  DEV — igareosh/hesperia    │  ─────────────────────►  │  PROD — Atomic-Commits  │
+  │  alunel workspace           │   code + sealed corpus   │  prichindel disk        │
+  │  Full history + docs prose  │   never strip corpus     │  Runnable product only  │
+  │  Archive zips · pytest home │                          │  :9005 API · :8010 UI   │
+  └─────────────────────────────┘                          └─────────────────────────┘
+                    │                                                   │
+                    │  mirror :18880 analyze                            │  MySQL ledger
+                    ▼                                                   ▼
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  TERSAGOR — igareosh/tersagor @ VM 192.168.100.68                        │
+  │  The social limb: IRC mesh, Ergo, Lounge, hybrid retrieve richness,        │
+  │  OpenAI executor when flags allow. Product repo now owns runtime bytes;    │
+  │  tersagor may wrap them — integration host ≠ canonical source.           │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+Policy frozen at CELL 8 (May 2026 — immaculate prod):
+  • Sealed TFP corpus, dict JSONL, session book markdown under tfp/data  →  PROD
+  • Team specs, tutorials, release narrative, Grace packets             →  DEV or BRAIN
+  • Workflow registers, exit criteria, destructive runbooks             →  BRAIN
+  • Live IRC Teacher orchestration at runtime                           →  PROD code;
+    live mesh execution                                                 →  TERSAGOR host
+
+Argue (Ethan, ratified 2026-06-14): Hesperia repo must retain runtime even when
+tersagor runs it live. Propose (accepted): CELL 14 lands runtime/irc_teacher/ on
+both remotes @ e9eaa07. Tersagor remains integration limb, not second product.
+
+================================================================================
+§2  EVOLUTION SPINE — THE TREE YOU CAN SKETCH ON A NAPKIN
+================================================================================
+
+                         ╔══════════════════════╗
+                         ║  CELL 0 · zygote     ║
+                         ║  brain CLIENTS → repo║
+                         ╚══════════╤═══════════╝
+                                    │
+         ┌──────────────────────────┼──────────────────────────┐
+         │                          │                          │
+         ▼                          ▼                          ▼
+   [CELL 1 · membrane]      [CELL 2 · nucleus]        [CELL 3 · organs]
+   v0.2 guards + API         v0.3 math contract         v0.4 L1–L9 + Dict A/B
+         │                          │                          │
+         └──────────────────────────┴────────────┬─────────────┘
+                                                 ▼
+                                    [CELL 4 · skeleton reframe]
+                                    Feb "v06" layout (not May 0.6.0 tag)
+                                                 │
+                    ┌────────────────────────────┴────────────────────────────┐
+                    ▼                                                         ▼
+           [CELL 5 · heart]                                          [CELL 7 · cortex]
+           v0.5 dynamics + patch train                               Session Inspector
+           + control + contradiction (CELL 6)                          + Hex Matrix + TMX
+                    │                                                         │
+                    └────────────────────────────┬────────────────────────────┘
+                                                 ▼
+                                    [CELL 8 · diploid split]
+                                    prod code / dev docs / brain genome
+                                                 │
+                                                 ▼
+                                    [CELL 9 · exoskeleton]
+                                    v0.6.0 sealed runtime tag
+                                                 │
+                    ┌────────────────────────────┼────────────────────────────┐
+                    ▼                            ▼                            ▼
+           [CELL 10 · nerve]            [CELL 11 · immune]           [CELL 12 · skin]
+           0.6.1 analyze contract       0.6.2 KSI inspection         HINS prod hygiene
+                    │                            │                            │
+                    └────────────────────────────┴─────────────┬──────────────┘
+                                                                 ▼
+                                                    [CELL 13 · voice]
+                                                    0.6.3 IRC Teacher run
+                                                                 │
+                                                                 ▼
+                                                    [CELL 14 · canonical limb]
+                                                    runtime/irc_teacher/ in product
+                                                                 │
+                                                                 ▼
+                                                    [CELL 15 · planned molt]
+                                                    0.7.0 sandbox apply + Pane 2
+
+  RETIRED branches (not on spine — see §13): Dict A primary path, v05/dense,
+  headless/Telegram, chroma-new, live LLM in 0.6.2 contract.
+
+================================================================================
+§3  DATA FLOW — RU STATEMENT TO PENDING PROPOSAL (0.6.3 arc)
+================================================================================
+
+  Operator / IRC
+       │
+       │  Russian TFP scientific statement (raw text)
+       ▼
+  ┌─────────────────┐     HTTP POST /analyze      ┌──────────────────────────┐
+  │ tersagor mesh   │ ──────────────────────────► │ prichindel hesperia-api  │
+  │ or product      │     (HESPERIA_ENGINE_URL)   │ :9005 shipping runtime   │
+  │ analyze_adapter │ ◄────────────────────────── │ engine_result sidecar    │
+  └────────┬────────┘     trace, areas, KSI block └──────────────────────────┘
+           │
+           │  build_engine_run_envelope (v063 schema)
+           ▼
+  ┌─────────────────┐     IRC JSONL audit         ┌──────────────────────────┐
+  │ ENGINE_ENVELOPE │ ──────────────────────────► │ ~/ergo/logs/hesperia-    │
+  │ full visibility │     RUN_START … RUN_DONE    │ teacher/irc-trace.jsonl  │
+  └────────┬────────┘                             └──────────────────────────┘
+           │
+           │  build_teacher_request_from_envelope (sanitized KSI packet)
+           │  *** operator raw text NOT in OpenAI payload ***
+           ▼
+  ┌─────────────────┐     strict JSON only        ┌──────────────────────────┐
+  │ Teacher v063    │ ──────────────────────────► │ OpenAI (when flags on)   │
+  │ proposals[]     │     no justification        │ numeric deltas only      │
+  └────────┬────────┘                             └──────────────────────────┘
+           │
+           │  reweight_preview (applied=0 always in 0.6.3)
+           ▼
+  ┌─────────────────┐     MYSQL_HESPERIA_DSN      ┌──────────────────────────┐
+  │ mysql_ledger    │ ──────────────────────────► │ prichindel mysql_db      │
+  │ pending rows    │     5 tables                │ hesperia.*               │
+  └─────────────────┘                             └──────────────────────────┘
+
+  What 0.6.3 deliberately does NOT do: write graph files, mutate CD fields on
+  disk, set applied=1. That is CELL 15 (0.7.0) — different exit criteria, different
+  approval story, different rollback contract.
+
+================================================================================
+§4  CELLS — FULL NARRATIVE (0 through 15)
+================================================================================
+
+--------------------------------------------------------------------------------
+CELL 0 · ZYGOTE · GENESIS · Ref-0.0
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-02-09 → 2026-02-18
+TAG/SHA:   (no release tag) · 26f33c9 … fdba4e7 · brain 15400db, f2629e4
+OWNERS:    igareosh (split decision) · brain bootstrap rows · early Gena context
+
+WHAT FOR:
+  Birth Hesperia as its own git organism — separate from the cursor brain that
+  housed CLIENTS/hesperia — while preserving one remote policy and one team story.
+
+REASON:
+  A dev company cannot ship a scientific product whose bytes live inside the same
+  tree as Grace triage and Abelard nginx templates. Extraction was not cleanup;
+  it was **identity**. The product needed mitochondria of its own.
+
+NARRATIVE:
+  February opens with an almost empty Atomic repo and a mirror pull from brain.
+  Twelve commits later the tree carries governance/, project/, scripts/, MIT
+  license, Codex assessment — the amniotic fluid of a repo that knows it will
+  grow layers but does not yet run them. Brain parallel: Hesperia V1 fixed point,
+  observability governance, GitHub remote wiring. No guards yet. No API. No shame
+  in that — a zygote is not judged for lacking a cortex.
+
+INCLUDES:
+  • Canonical import: Replace with CLIENTS/hesperia from cursor (9a3b770)
+  • governance/, project/, scripts/ (later stripped from prod in CELL 8)
+  • MIT license, concepts doc, Codex context assessment
+  • Brain: project bootstrap, capacity governance seeds
+
+DOES:
+  • Establishes git history and remote to Atomic-Commits-Team/hesperia
+  • Brain stops being a second product source (policy seed — enforced harder in CELL 2)
+
+SCOPE:
+  IN:   repo creation, license, team skeleton, brain client path
+  OUT:  ΣΓΘ guards, HTTP API, math contract, any sealed runtime claim
+
+REPOS:     DEV+PROD unified · BRAIN bootstrap
+COMMITS:   roadmap TXT ~2–15 · brain ~8–11
+DONE:      Standalone repo exists; CLIENTS import merged; remote policy written
+FEEDS:     CELL 1 (first membrane)
+
+--------------------------------------------------------------------------------
+CELL 1 · OUTER MEMBRANE · GUARD + API · v0.2
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-02-19 → 2026-02-20
+TAG/SHA:   hesperia-v0.2-20260220 → eea358a · API e423316
+OWNERS:    Gena (guards module) · Abelard parallel (nginx/tunnel planning in brain)
+
+WHAT FOR:
+  First **named release**: put ΣΓΘ guard layer on the analyze path and expose a
+  minimal HTTP surface so external callers never need to import Python internals.
+
+REASON:
+  Scientific code without enforceable invariants is a demo. Public exposure without
+  guards is negligence. v0.2 is the first time Hesperia says: *these transforms are
+  allowed; these are not* — and proves it with tests before `/analyze` exists.
+
+NARRATIVE:
+  The guard layer spec lands with issue-001 closure docs — early discipline signal.
+  PR #5 merges guards into runtime (`0.2.0.1`). Then the membrane opens: POST
+  `/hesperia/analyze`, GET `/health`, GET `/privacy`, CORS, deploy stub, systemd
+  sketch. Brain simultaneously plans hesperia.prichindel.com — **how** the organism
+  touches the LAN/internet while product holds **what** it computes. First division
+  complete: Hesperia is no longer a folder; it is a **service-shaped** entity.
+
+INCLUDES:
+  • Guard layer spec (ΣΓΘ), guards module, unit tests, release invoker
+  • HTTP: /hesperia/analyze, /health, /privacy, CORS
+  • v0.2 release notes; PR #5 merge
+  • Brain: nginx template seeds, tunnel script, infra runbook drafts
+
+DOES:
+  • HTTP analyze with guard enforcement on the path
+  • Ops can ping health; privacy endpoint exists for compliance posture
+  • Deploy scaffolding for future prichindel gate
+
+SCOPE:
+  IN:   guards, minimal REST, release packaging v0.2
+  OUT:  versioned math contract, L1–L9 stack, dictionary seals, browser UI
+
+REPOS:     DEV+PROD · BRAIN infra parallel
+COMMITS:   roadmap TXT ~16–45 (guard era)
+DONE:      Tag hesperia-v0.2-20260220; API commit e423316 on tree
+FEEDS:     CELL 2 (math nucleus needs guarded pipeline)
+
+--------------------------------------------------------------------------------
+CELL 2 · NUCLEUS · MATH CONTRACT · v0.3.0 – v0.3.3
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-02-22 → 2026-02-23
+TAG/SHA:   hesperia-v0.3.0 → ffc5371 · serve_v033 path · v0.3.1/v0.3.3 commits
+OWNERS:    Gena · Felix (pipeline tests) · brain mirror rows (Ethan docs)
+
+WHAT FOR:
+  Freeze **what Hesperia computes** as a versioned math contract and wire ΣΓΘ
+  guards into the execution pipeline — not adjacent to it.
+
+REASON:
+  v0.2 proved guards can run. It did not yet prove the pipeline they guard is
+  stable enough to teach, diff, or seal. v0.3 is the **nucleus**: VARIABLES.md,
+  core math contract, lexical stack, shadow layer (sphere_rag v1.0).
+
+NARRATIVE:
+  A consolidation wave hits: full overwrite sync from brain — specs, sphere_rag,
+  releases v0.2.1 path toward v0.3.0. Brain enforces CLIENTS-only: duplicate
+  hesperia trees removed from brain root. Remote switches to Atomic-Commits-Team
+  as product authority. v0.3.1 puts guards **inside** the pipeline; v0.3.3 delivers
+  `serve_v033`, single pipeline + shadow flag, legacy Dict A tests kept as regression
+  anchors. From here every later cell assumes: *math contract version is a real
+  dimension*, not README prose.
+
+INCLUDES:
+  • Core math contract, VARIABLES.md glossary
+  • v0.3.1 guards-in-pipeline; v0.3.3 serve path
+  • sphere_rag shadow_layer v1.0
+  • Spec renames: 18_INDEXING, 19_SEMANTIC_STABILITY
+  • Brain: remote policy, CLIENTS-only rule
+
+DOES:
+  • Runnable serve_v033
+  • Release gate tied to math contract version string
+  • Dict A legacy tests still run — intentional debt visible
+
+SCOPE:
+  IN:   math contract, pipeline-integrated guards, shadow layer v1
+  OUT:  full L1–L9 product stack, Dict B freeze, dynamics seals, UI
+
+REPOS:     DEV+PROD · BRAIN policy + mirrors
+COMMITS:   roadmap TXT ~46–80
+DONE:      Tag hesperia-v0.3.0; brain duplicate trees removed
+FEEDS:     CELL 3 (layers need nucleus)
+
+--------------------------------------------------------------------------------
+CELL 3 · ORGAN SYSTEM · L1–L9 + DICTIONARIES · v0.4.0 + Ref-0.4.1.x
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-02-23 → 2026-02-24
+TAG/SHA:   hesperia-v0.4.0 → dcbb38b (tag on clone) · Dict B freeze d3fccae
+OWNERS:    Gena (layers, dict builds) · Felix (gates) · Ethan (RUNNABLE declaration in brain)
+
+WHAT FOR:
+  First **end-to-end** runnable stack: layers L1 through L9, dictionary calibration
+  (Dict A deprecation chain, Dict B build and B1 freeze), repeatable surface artifacts
+  for TFP scientific statements.
+
+REASON:
+  A math nucleus without organs is a PDF. Operators need layer_runs, deterministic
+  embedding builds, sphere_rag runnable path, and dictionary gates that say *this
+  calibration tree is the one we trust today*.
+
+NARRATIVE:
+  Four days after v0.3.0, v0.4.0 tag marks the first time Hesperia earns the word
+  **product** without apology: RELEASE_NOTES v0.4, MVP assessment, specs 22 and
+  25–27 synced from brain. Ref-0.4.1.x is the long afternoon of dictionary work —
+  Dict A deprecated across v0.4.1.1→1.4, B0/B1 scaffolding, surface artifact gates,
+  canonical repeatability checks. Dict B B1 freeze (d3fccae) is a small commit SHA
+  that carries enormous semantic weight: *the calibration tree is no longer draft*.
+  Brain parallel: L1–L9 frozen report, RUNNABLE declaration — team language catches
+  up to git reality.
+
+INCLUDES:
+  • L1–L9 stack, layer_runs, RELEASE_NOTES v0.4
+  • Dict B build, pre-test, sphere_rag integration
+  • Dict A deprecation chain; deterministic embedding build
+  • Specs 22, 25–27; MVP assessment
+
+DOES:
+  • Full layer pipeline execution for TFP inputs
+  • Dictionary calibration pre-test and freeze gates
+  • Surface artifacts reproducible across runs
+
+SCOPE:
+  IN:   layers, dict A/B era, sphere_rag runnable, surface gates
+  OUT:  v0.5 engine dynamics, contradiction track, Django inspector, KSI
+
+REPOS:     DEV+PROD · BRAIN frozen reports
+COMMITS:   roadmap TXT ~81–120
+DONE:      Tag hesperia-v0.4.0; Dict B B1 freeze on tree
+FEEDS:     CELL 4 (skeleton reframe), CELL 5 (shipping runtime precursor)
+
+--------------------------------------------------------------------------------
+CELL 4 · SKELETON REFRAME · Feb "v06" LAYOUT · Ref-v06-pivot
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-02-24 (single intense day on the git graph)
+TAG/SHA:   b84dc6d … 89bc563
+OWNERS:    Gena · Felix (archive hygiene)
+
+WHAT FOR:
+  Archive deprecated v04/v05 dense experimental scripts; rename operational tree to
+  **v06 layout** — analyze.py, assets/v06 — without claiming May 2026 sealed tag.
+
+REASON:
+  Folder names had become archaeology. Operators said "v0.6" meaning **generation**
+  while release managers would later say "0.6.0" meaning **tag**. This cell separates
+  those meanings explicitly so nobody merges them in a triage row.
+
+NARRATIVE:
+  Drop v05/dense. Archive dead scripts. Wire `analyze.analyze()` as the front door.
+  FREEZE docs mark what must not be resurrected casually. The organism gets a spine
+  label it will keep through shipping runtime — but the **exoskeleton seal** (CELL 9)
+  is still three months away. Naming is not shipping; do not confuse them.
+
+INCLUDES:
+  • analyze.analyze() entry; assets/v06 tree
+  • Archived scripts; FREEZE documentation
+  • Removed v05/dense paths
+
+DOES:
+  • Single analyze entry under v06 naming
+  • Cleaner tree for Team-10 adoption wave (CELL 5 precursor)
+
+SCOPE:
+  IN:   tree rename, archive, FREEZE markers
+  OUT:  May 2026 tag 0.6.0, prod/dev split, sealed release automation
+
+REPOS:     DEV+PROD · BRAIN mirrored SHAs
+COMMITS:   roadmap TXT ~121–135
+DONE:      Pivot merged; FREEZE docs in tree
+FEEDS:     CELL 5, CELL 9
+NOTE:      "v06 layout" (Feb) ≠ "0.6.0 tag" (May) — write this on walls
+
+--------------------------------------------------------------------------------
+CELL 5 · HEART AND CIRCULATION · ENGINE DYNAMICS · v0.5.0 train
+--------------------------------------------------------------------------------
+STATUS:    DONE (includes sub-cells 5b patch train, 5c control, CELL 6 contradiction)
+WHEN:      2026-02-26 → 2026-04-14
+TAG/SHA:
+  v0.5.0   → d4671bd    Engine Dynamics seal (Tasks 1–11)
+  v0.5.1   → f53569e    enforcement baseline; sealed audit bundle
+  v0.5.2   → 296581f    terminology propagation seal
+  v0.5.3   → 5cf9905    modular TFP onboard
+  v0.5.4   → ab1905d    deterministic modular pipeline T1–T10
+  v0.5.5   → 4479c58    T11–T20 productization; versioned dict loader
+  v0.5.8   → 5621345    contradiction track (Tasks 1–11)
+  birth    → 8e137b8    runtime/shipping/ — CLI/API shipping surface
+OWNERS:    Felix (seals, pytest gates) · Gena (TFP module) · Ethan (control layer tasking)
+           Abelard (D3 viewer LAN :8765)
+
+WHAT FOR:
+  Transform Hesperia from **layer POC** into **shippable runtime**: dynamics physics,
+  modular TFP gates, control layer, contradiction as first-class calibration signal,
+  release gate discipline — each tag an audit artifact, not a sticker.
+
+REASON:
+  Scientific credibility at team scale requires: sealed pytest audits, versioned
+  calibration dict loader, explicit contradiction pressure, and a `/shipping` surface
+  Abelard can deploy without reading fifty markdown files.
+
+NARRATIVE:
+  This is the long March — the organism grows a cardiovascular system.
+
+  **Precursor (Feb–Mar):** Team-10 adoption, ORDER naming, dossier system, sphere
+  layer stack, v0.5 strip, RAD legal/fingerprint, legacy removal after gate PASS.
+  Commit 8e137b8 is the moment `runtime/shipping/` exists — everything after assumes it.
+
+  **v0.5.0 (Mar 19):** Engine Dynamics integration — P_CH, energy, calibration,
+  topology, physics validation, system seal. Tasks 1–11. Full pytest sealed audit.
+  The heart starts beating on a schedule.
+
+  **Patch train 5b (v0.5.1–5.5):** Not cosmetic patches — each tag tightens a different
+  muscle: enforcement baseline (5.1), terminology propagation (5.2), modular TFP onboard
+  (5.3), deterministic T1–T10 gates (5.4), productization T11–T20 (5.5). This is how
+  Hesperia learned **rhythm**: small seals frequently rather than one heroic release.
+
+  **5c — control layer + D3 viewer (Mar 27–30):** HC-WAVE1 control layer MVP;
+  tfp_v1 data tree as SSoT; STABILIZE calibration waves; HESPERIA-D3-VIEWER v0.5.6 on
+  Abelard LAN :8765 — read-only graph inspection before Django Session Inspector.
+  Ethan tasking in brain: HC-01..10 workflow, cold root packet under /data/hesperia.
+
+  **CELL 6 — contradiction (Apr 14, v0.5.8):** Tasks 1–11 through TFP, topology, DLCR,
+  lexical/concept, negation, family structure, calibration diagnostics, integrity release
+  gating. Contradiction is not an error message — it is a **signal** the engine uses.
+  Last major engine feature seal before UI dominates the operator story.
+
+INCLUDES (cumulative):
+  • runtime/shipping/ — FastAPI shipping path ancestor of prod :9005
+  • Team-10 repo structure; dossier system; sphere layer stack
+  • RAD legal/fingerprint; release gate; mirror scripts
+  • tfp_v1 module SSoT; migration; CI gates
+  • Control layer schemas; D3 viewer (precursor to inspector)
+  • Contradiction integrity gating; seal register
+
+DOES:
+  • Engine Dynamics runs with sealed audit trail
+  • Modular pipeline gates T1–T20 on productization path
+  • Contradiction influences release gating
+  • D3 viewer inspects graph offline on LAN
+  • Shipping runtime invocable as CLI/API precursor
+
+SCOPE:
+  IN:   dynamics, shipping, TFP v1 module, control, contradiction, D3 viewer
+  OUT:  Django output_views, prod/dev diploid split, KSI, IRC Teacher
+
+REPOS:     DEV+PROD primary · BRAIN Ethan control-layer specs
+COMMITS:   roadmap TXT ~136–280
+DONE:      Tags v0.5.0–v0.5.8; sealed runtime gate PASS; shipping/ on tree
+FEEDS:     CELL 7 (UI), CELL 8 (split), CELL 9 (0.6.0 seal)
+
+--------------------------------------------------------------------------------
+CELL 7 · SENSORY CORTEX · SESSION INSPECTOR + HEX MATRIX · Ref-0.5.9-ui
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-04-07 → 2026-05-11
+TAG/SHA:   OUT-VIEW a5a17fb … · Hex 6d9b830 … · TMX 85e5d7f …
+OWNERS:    Gena (Django output_views, inspector) · Felix (fixtures, gold tests)
+           Grace (~45 task wave) · Abelard (nginx /hex-matrix/, :8010 systemd)
+
+WHAT FOR:
+  Make Hesperia **visible in a browser**: Session Inspector for TFP session JSON,
+  Hex Matrix for 12×24 lattice, TMX relations panel with Russian i18n — read-only,
+  operator-trustworthy, Authentik-gated in prod.
+
+REASON:
+  Sealed runtime without inspection UI is a black box with pytest confidence.
+  Operators validate sessions in prod; IRC Teacher later needs a **boundary** between
+  full envelope visibility (IRC) and sanitized Teacher packet (OpenAI). Inspector
+  trains the team to see structure before KSI names incidents formally.
+
+NARRATIVE:
+  The OUT-VIEW epic is Hesperia growing eyes. Django `output_views/` lands Session
+  Inspector MVP — Kernberg OpenAI segment schema, PII export rules, pipeline fixtures.
+  Felix and Gena chain fixtures; Daniel thinks about export boundaries. Hex matrix
+  viewer (Vite) delivers diamond 288-cell layout, projections, 12×24 lattice — the
+  pretty surface that is not decoration; it is **calibration intuition** made clickable.
+  TMX-10..24 adds RelationsPanel, RU strings, gold tests, Chroma reference_literature
+  contract. Brain: 45-task Grace wave, nginx template for /hex-matrix/, alunel systemd
+  :8010. Today these URLs are prod reality:
+    https://hesperia.prichindel.com/inspector/<session_id>/
+    https://hesperia.prichindel.com/hex-matrix/
+
+INCLUDES:
+  • output_views/ Django app — Session Inspector, sessions index
+  • hex_matrix_viewer/ Vite dist → /var/www/hesperia-sites/hex-matrix/
+  • TMX RelationsPanel; RU i18n; gold tests
+  • Brain: OUT-VIEW specs, nginx, systemd templates
+
+DOES:
+  • Browse session JSON in inspector; baseline session 1-11-09-2023
+  • Hex matrix static deploy; site root redirect to inspector min fixture
+  • Export paths with PII rules; fixture-driven CI
+
+SCOPE:
+  IN:   read-only UI, fixtures, static hex, Authentik-facing prod URLs
+  OUT:  KSI Inspector Pane 2 (0.7.0), graph apply, live Teacher (0.6.3)
+
+REPOS:     DEV+PROD code · BRAIN specs/deploy templates
+COMMITS:   roadmap TXT ~281–340
+DONE:      Prod surfaces live; verify-hesperia-prod-https.sh path exists
+FEEDS:     CELL 8 (deploy split), CELL 11 (H62-064 boundary), CELL 13 (IRC full view)
+
+--------------------------------------------------------------------------------
+CELL 8 · DIPLOID SPLIT · IMMACULATE PROD · Ref-20260518
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-05-18 → 2026-05-19
+TAG/SHA:   hesperia/rollback-line-20260518 → ff55ef4
+           hesperia/dev-ready-line-20260518 → d9a7cdf
+OWNERS:    Ethan (policy) · Felix (Python compliance 41e0513) · Grace (rollback narrative)
+
+WHAT FOR:
+  **2×2 model:** prod holds runnable code + sealed corpus; dev holds docs and planning
+  prose; brain holds genome — never duplicate product as second source.
+
+REASON:
+  Prod repo had become unreadable for deploy scripts: markdown specs beside sealed
+  dict JSONL, Grace packets beside runtime/shipping. verify scripts could not answer
+  the only question that matters on prichindel: *what bytes execute tonight?*
+
+NARRATIVE:
+  Rollback line ff55ef4 is not shame — it is a named coordinate you can return to.
+  Immaculate sweep (~20 commits): strip docs/, governance/, specs markdown, release
+  narrative from Atomic main; prod-code-only CI; corpus-safe verifier; backup prose
+  to igareosh/hesperia under docs/backup/prod-immaculate-20260518/. Dev remote
+  becomes documentation sink. Brain writes ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md.
+  Tag dev-ready-line-20260518 marks the line you proceed from. Every later promote
+  is disciplined by this cell — including the June reconcile that unified SHAs without
+  undoing the split's **purpose**.
+
+INCLUDES:
+  • Prod strip list (docs, governance md, specs md, release README prose, etc.)
+  • verify-hesperia-prod-code-only.sh
+  • Dev backup of stripped markdown
+  • Felix v0.6.0 Python compliance on prod history
+
+DOES:
+  • CI rejects non-allowlisted prose on prod main
+  • Two remotes on alunel: dev + origin
+  • Brain owns deploy runbooks; prod owns nginx snippets only if deploy-critical
+
+SCOPE:
+  IN:   policy, CI, doc migration, dev-ready tag
+  OUT:  byte-for-byte dev/prod equality (never required)
+
+REPOS:     PROD stripped · DEV docs sink · BRAIN policy
+COMMITS:   roadmap TXT ~341–365
+DONE:      Tag hesperia/dev-ready-line-20260518; immaculate backup on dev
+FEEDS:     CELL 9, all future promotes, CELL 14 (runtime on prod is allowed code)
+
+--------------------------------------------------------------------------------
+CELL 9 · EXOSKELETON · SEALED RUNTIME · v0.6.0
+--------------------------------------------------------------------------------
+STATUS:    DONE (dev tag); prod lag resolved 2026-06-14 reconcile
+WHEN:      2026-05-28
+TAG/SHA:   0.6.0 → d06f674 · 0.6.0-sealed
+OWNERS:    Felix (release gate, CI) · Ethan (post-0.6.0 topology in brain)
+
+WHAT FOR:
+  Public **sealed runtime baseline** for GitHub/archive consumers: sanitized artifacts,
+  docker bundle, agentic install contract, atomic publish on tag push, CI gate that
+  says `sealed=true` means something.
+
+REASON:
+  Main HEAD moves daily. Archive users and agent installers need a tag that means
+  *this pytest gate passed, dict payload rules explicit, layout gate satisfied* —
+  not "we think it worked Friday."
+
+NARRATIVE:
+  May 28 tag 0.6.0 is the exoskeleton hardening: sanitized public release artifacts,
+  atomic 0.6.0 release notes, CI sealed-runtime gate on main, TFP layout fix for
+  gate TFP-DATA-T15, drop dict payload gates from sealed release repo (ee78240) —
+  corpus stays on prod disk, not repacked into every GitHub zip blindly. Brain writes
+  post-0.6.0 topology governance. **Historical lag:** prod disk stopped at May 21
+  (d313bfd) until June inspection — not forgotten, tracked, fixed in CELL 12 and
+  reconcile. Tag on dev; prod history always contained the commits; HEAD needed pull.
+
+INCLUDES:
+  • Sanitized release artifacts; docker bundle; install contract
+  • CI sealed-runtime gate; atomic tag publish workflow
+  • TFP layout skeleton fix (tfp_v1/nlp)
+  • Brain: post-0.6.0 topology doc
+
+DOES:
+  • Tag-triggered release pipeline on dev
+  • Offline-capable runtime tree for archive consumers
+  • Explicit dict payload policy in sealed repo
+
+SCOPE:
+  IN:   sealed runtime product, release automation, public sanitize path
+  OUT:  0.6.1 analyze contract, KSI, IRC Teacher, prod/dev reconcile (later)
+
+REPOS:     DEV tag authoritative · PROD contains commits · BRAIN topology
+COMMITS:   roadmap TXT ~366–390 · tag d06f674
+DONE:      Tag 0.6.0; Felix seal note; CI gate on main
+FEEDS:     CELL 10, CELL 13 (archive baseline)
+
+--------------------------------------------------------------------------------
+CELL 10 · SPINAL NERVE · ANALYZE CONTRACT · 0.6.1 (HES-61)
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-06-11 → 2026-06-14
+TAG/SHA:   hesperia-0.6.1 → f87b2bb (retro-tagged on reconcile day)
+OWNERS:    Gena (engine_analyze_contract.py) · Grace (HES-61-01..12 triage)
+           Felix (E2E smoke) · Ethan (6.1 pre-release report)
+
+WHAT FOR:
+  `/analyze` returns a **structured engine_result envelope** — propagation trace,
+  areas, families, IPoV/GTP blocks — stable for tersagor hybrid retrieve, MCP
+  context_rag, and the 0.6.3 envelope builder.
+
+REASON:
+  Ad-hoc dict keys per commit cannot be taught on IRC, stored in MySQL, or validated
+  by JSON schema. 0.6.1 is the **nerve wire** standardization wave — workflow-heavy,
+  brain-audited, retro-tagged when branches reconciled.
+
+NARRATIVE:
+  Twenty-five task rows close. Grace maps HES-61-01 through HES-61-12. Python path
+  lands in runtime/services/engine_analyze_contract.py — HSPR-01/02 envelope from
+  multiscale internal raw. Alunel mirror hesperia-analyze-dev on :18880 lets Felix
+  smoke without touching prod mid-wave. cc94b09 on the 6.1 line sets OpenAI default
+  to gpt-4o-mini env-driven — small commit, large operational sanity. When 0.6.3
+  archive branch diverged from 6.1 line, f87b2bb became a tag anchor on reconcile —
+  the nerve wire did not get lost in the merge.
+
+INCLUDES:
+  • runtime/services/engine_analyze_contract.py
+  • HES-61 workflow rows; 6.1 pre-release report (brain)
+  • alunel :18880 analyze mirror
+  • Engine analyze sidecar shape consumed by hybrid retrieve
+
+DOES:
+  • POST /analyze → engine_result with trace, invariant_activation, gtp_coherence
+  • context_rag and analyze_adapter consume same shape
+  • E2E smoke on dev mirror
+
+SCOPE:
+  IN:   analyze JSON contract, smoke, seal ratification
+  OUT:  live LLM Teacher (0.6.3), graph apply (0.7.0)
+
+REPOS:     PROD runtime · DEV mirror · BRAIN workflow audit
+COMMITS:   brain-dominant wave · product f87b2bb cc94b09
+DONE:      Tag hesperia-0.6.1; merged into 122d45b
+FEEDS:     CELL 13 envelope, CELL 14 analyze_adapter
+
+--------------------------------------------------------------------------------
+CELL 11 · IMMUNE LOGIC · KSI INSPECTION · 0.6.2
+--------------------------------------------------------------------------------
+STATUS:    DONE (governance seal) — live LLM explicitly OUT
+WHEN:      2026-06-13 → 2026-06-14
+TAG/SHA:   hesperia-0.6.2 → cc94b09 (retro-tagged)
+OWNERS:    Ethan (KSI v0.1 spec) · Grace (81 tasks H62-001..072)
+           Sophia (H62-064 IRC vs Teacher boundary) · Daniel (justification rejection)
+           Felix/Gena (implementation rows on product + tersagor)
+
+WHAT FOR:
+  Kolmogorov Semantic Inspection v0.1 — Φ_e residuals, incident detection,
+  missing-bridge ranking, Teacher **packet** serializer, gate/sandbox schemas.
+  Numeric proposal **shape** without live OpenAI and without graph write.
+
+REASON:
+  You do not invite a Teacher into a room that cannot define *incident* and *bridge*.
+  KSI-P0..P3 sealed in brain says what inspection means. Live LLM was KSI-P4 / 0.7.0
+  in earlier tagging; **ratified split:** 0.6.3 = application run (see, call, store);
+  0.7.0 = apply (mutate graph with approvals).
+
+NARRATIVE:
+  Eighty-one task rows in one Grace wave — one of the densest immune system installs
+  in Hesperia history. Brain holds KSI v0.1 spec, exit criteria, H62 register.
+  Sophia draws the line: IRC sees full engine envelope; OpenAI sees sanitized packet
+  only — no raw operator Russian in the Teacher call. Daniel ensures validator rejects
+  justification keys. Full KSI tree lives on tersagor (ksi/teacher.py, pipeline, phi_e);
+  product receives minimal teacher_packet.py in CELL 14. 0.6.2 is **done** when the
+  contract is sealed and tests reject prose — not when OpenAI returns first token.
+
+INCLUDES:
+  • Brain: KSI v0.1 spec; H62 register; HESPERIA-0-6-2-EXIT-CRITERIA.md
+  • H62-064 boundary doc (Sophia)
+  • tersagor: ksi/ package — serialize_teacher_packet, pipeline attach
+  • Gate/sandbox JSON schemas (no apply executor)
+
+DOES:
+  • Build incidents + missing_bridges from propagation
+  • Serialize teacher packet for strict downstream JSON
+  • Reject justification in response validators (tests)
+  • **Does not** call OpenAI in 0.6.2 contract scope
+
+SCOPE:
+  IN:   inspection math, packet shape, sandbox schemas, boundary docs
+  OUT:  live LLM, MySQL ledger, IRC trace emitter (0.6.3)
+
+REPOS:     BRAIN spec/registers · TERSAGOR ksi/ · PROD hooks/tests
+COMMITS:   brain wave Jun 13–14 · product cc94b09 line
+DONE:      Tag hesperia-0.6.2; workflow wave close; exit criteria signed
+FEEDS:     CELL 13 Teacher request, CELL 14 teacher_packet.py
+
+--------------------------------------------------------------------------------
+CELL 12 · SKIN REPAIR · PROD HYGIENE · Ref-HINS
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-06-14 (before H063 wave execution)
+TAG/SHA:   (no tag) · HINS-00..16 brain register
+OWNERS:    Abelard (deploy, API, inspector, MySQL prep) · Gena (env_guard KSI vars)
+           Ethan (inspection report) · Grace (16-row wave)
+
+WHAT FOR:
+  Restore **prod trust** so 0.6.3 claims are not lies: API up, venvs valid,
+  env_guard KSI vars on disk, verify-hesperia-prod-https.sh PASS.
+
+REASON:
+  Ethan full inspection found hesperia-api down, broken venvs, drifted env_guard —
+  a sealed story with dead :9005 is theatre. HINS is not a version; it is **skin
+  graft before showing the new face**.
+
+NARRATIVE:
+  Sixteen tasks, all DONE in one remediation arc. Abelard enables hesperia-api on
+  :9005 (shipping runtime), inspector on :8010, PASS on HTTPS verify. Nine
+  HESPERIA_KSI_* vars return to env_guard.py on prod tree. Brain systemd units
+  point at prod .venv + shipping API. Tersagor pytest.ini gets pythonpath = src.
+  H063 does not start until HINS closes — Grace enforces ordering even when
+  execution feels urgent.
+
+INCLUDES:
+  • hesperia-api.service → runtime.shipping.api_main:app :9005
+  • hesperia-output-views.service :8010
+  • verify-hesperia-prod-https.sh PASS artifact
+  • env_guard KSI block re-applied
+  • HINS-2026-REGISTER.md; HINS-WAVE-CLOSE report
+
+DOES:
+  • Prod URLs respond with Authentik gate
+  • Analyze path reachable for tersagor engine URL wiring
+  • Test harnesses runnable on tersagor and alunel
+
+SCOPE:
+  IN:   ops remediation, verify gates, env alignment
+  OUT:  new product features, 0.6.3 feature code (follows)
+
+REPOS:     PROD deploy · BRAIN HINS register · TERSAGOR pytest fix
+COMMITS:   brain operational reports (not product version bump)
+DONE:      16/16 HINS DONE; verify PASS documented
+FEEDS:     CELL 13 (0.6.3 execution on trustworthy prod)
+
+--------------------------------------------------------------------------------
+CELL 13 · VOICE · IRC TEACHER APPLICATION RUN · v0.6.3
+--------------------------------------------------------------------------------
+STATUS:    DONE (archive + governance + integration code); PARTIAL (first live operator row)
+WHEN:      2026-06-14
+TAG/SHA:
+  hesperia-0.6.3 / 0.6.3 → 122d45b (reconcile merge)
+  archive seal alone       → 16286fa
+  examples                 → 9bf0289
+  tersagor live            → 0149120
+OWNERS:    Ethan (spec, 0.6.3 vs 0.7.0 split) · Grace (H063-00..49 triage)
+           Felix (modules, 465 pytest, post-impl fixes) · Gena (schemas, env_guard)
+           Abelard (VM deploy, MySQL, engine URL) · Sophia/Daniel/Liam (boundary, security, runbook)
+
+WHAT FOR:
+  Operator-facing **application run**: Russian TFP statement in → full JSON visibility
+  on IRC → OpenAI Teacher returns **numeric proposals only** → MySQL **pending** ledger.
+  **No graph write.** Apply is 0.7.0.
+
+REASON:
+  Hesperia board was clean after 0.6.2 seal; operator asked for product inspection;
+  HINS fixed prod lies; Ethan scoped increment that proves end-to-end **visibility
+  and storage** before **mutation** — the civilized order of operations.
+
+NARRATIVE:
+  Fifty tasks H063-00..49 hit the register same day Grace triaged PROJECT-CREATED.
+  JSON schemas forbid justification in Teacher response. Exit criteria G1–G5 written
+  before code pretends done. Felix implements on tersagor first — engine_run_envelope,
+  teacher_v063, irc_teacher_emitter, irc_teacher_run, mysql_ledger — because IRC mesh
+  lives there. Archive seal 16286fa adds VERSION.yaml 0.6.3, examples under
+  release/v0.6.3/, dist/hesperia-0.6.3-archive.zip, E2E gate without prod corpus in zip.
+  Branch divergence after d06f674: 6.1 line vs archive line. Reconcile merge 122d45b
+  unifies without erasing either story. Post-impl 0149120: three regression fixes,
+  465 pytest green. Abelard: VM pull, MySQL DDL deployed, engine URL → prod HTTPS,
+  Teacher flags **off** until Lounge test. Package label: **0.6.3-alpha pre-release**.
+
+INCLUDES:
+  • Schemas: engine_run_envelope_v063, teacher_response_v063
+  • release/v0.6.3/examples/*; docs/specs/0.6.3-IRC-TEACHER-RUN.md (dev)
+  • tests/test_archive_063_e2e_gate.py; dist/hesperia-0.6.3-archive.zip
+  • Brain: ETHAN-HESPERIA-0-6-3-IRC-TEACHER-RUN-SPEC.md; H063 register; exit criteria
+  • MySQL: 001_h063_schema.sql → hesperia_teacher_run + 4 child tables
+  • Tersagor modules @ 0149120; runbook SCRIPT-RUNBOOK-hesperia-irc-teacher-run.md
+  • IRC trace types: RUN_START, ENGINE_ENVELOPE, TEACHER_REQUEST, TEACHER_RESPONSE,
+    REWEIGHT_PREVIEW, RUN_DONE
+
+DOES:
+  • Full orchestration path when flags enabled
+  • IRC JSONL audit with chunking for large envelopes
+  • Teacher strict JSON; empty proposals when LLM disabled
+  • MySQL persist with proposal status **pending**; reweight_preview applied=0
+
+SCOPE:
+  IN:   application run, IRC visibility, ledger, archive E2E, governance closure
+  OUT:  graph apply, CD file mutation, Inspector Pane 2, applied=1
+
+REPOS:     DEV archive · PROD reconcile 122d45b · BRAIN spec/DDL · TERSAGOR live
+COMMITS:   16286fa 9bf0289 122d45b · tersagor 0149120
+DONE:      H063 50/50; board OPEN 0; G1–G5 code-complete; G4 awaits operator live row
+FEEDS:     CELL 14 (product ownership), CELL 15 (apply)
+
+--------------------------------------------------------------------------------
+CELL 14 · CANONICAL LIMB · PRODUCT OWNS RUNTIME · e9eaa07
+--------------------------------------------------------------------------------
+STATUS:    DONE
+WHEN:      2026-06-14 (after operator policy: "hesperia repo retains runtime")
+TAG/SHA:   e9eaa07 (main HEAD dev+prod) · parent reconcile 122d45b
+OWNERS:    Ethan (policy) · Felix (port + tests) · Cursor execution on alunel
+
+WHAT FOR:
+  **One dish aligned:** runtime/irc_teacher/ on dev AND prod — tersagor may host live
+  IRC, but Hesperia product repo owns bytes for audit, promote, and future deploy.
+
+REASON:
+  Staging-only in brain cluster/tersagor-h063/ or tersagor-only imports creates a
+  second hidden product. Operator mandate rejected that. CELL 14 is not duplicate work —
+  it is **canonical relocation** with hesperia-native imports.
+
+NARRATIVE:
+  Nine Python modules and two JSON schemas land under runtime/irc_teacher/ — same
+  orchestration as 0149120 but no tersagor_agent.hesperia.* dependency. analyze_adapter
+  calls HESPERIA_ENGINE_URL/analyze (prod :9005 or alunel :18880). flags.py accepts
+  HESPERIA_* and legacy TERSAGOR_* env names so Lounge docs stay valid. teacher_packet.py
+  carries minimal serializer — full KSI richness remains on tersagor for hybrid retrieve.
+  Four gold tests pass on alunel dev venv. Both remotes pushed; prichindel fast-forwarded.
+  Tag 0.6.3 stays at 122d45b; main HEAD moves to e9eaa07 — read both SHAs intentionally.
+
+INCLUDES:
+  runtime/irc_teacher/
+    __init__.py, run.py, engine_run_envelope.py, teacher_packet.py,
+    teacher_v063.py, analyze_adapter.py, mysql_ledger.py,
+    irc_teacher_emitter.py, flags.py
+  schemas/engine_run_envelope_v063.json, teacher_response_v063.json
+  tests/test_irc_teacher_v063.py
+
+DOES:
+  • from runtime.irc_teacher import run_irc_teacher_path
+  • Same JSON contracts as CELL 13; hesperia-native import graph
+  • Envelope records hesperia_ref + optional integration_host_ref
+
+SCOPE:
+  IN:   product-owned runtime, schemas, unit tests on both remotes
+  OUT:  full ksi/ pipeline port (stays tersagor until needed)
+
+REPOS:     DEV+PROD @ e9eaa07 · brain cluster/tersagor-h063/ = reference staging only
+COMMITS:   e9eaa07 single commit (+829 lines)
+DONE:      Pushed both remotes; prod pulled; 4 pytest pass dev
+FEEDS:     tersagor thin wrapper; prod service redeploy; CELL 15 apply layer
+
+--------------------------------------------------------------------------------
+CELL 15 · PLANNED MOLT · SANDBOX APPLY · v0.7.0
+--------------------------------------------------------------------------------
+STATUS:    PLANNED — explicitly outside 0.6.3 DONE scope
+WHEN:      not started
+OWNERS:    (future) Ethan spec · Grace triage · Felix/Gena implementation · Daniel approvals
+
+WHAT FOR:
+  Sandbox graph apply, CD/graph file mutation, KSI-19 Inspector UI Pane 2,
+  proposal applied=1 path with approval gates and rollback story.
+
+REASON:
+  0.6.3 stops at **pending** because mutation without sandbox is how calibrated graphs
+  die. The organism needs a molt — new exit criteria, new runbooks, new operator fear
+  management — not a silent flag on 0.6.3.
+
+NARRATIVE:
+  Not written yet — deliberately. When CELL 15 starts, it gets its own register,
+  its own exit criteria, and its own Grace wave. 0.6.3 archive remains valid without it.
+
+INCLUDES:  (future) apply executor, sandbox schemas, Inspector pane wiring, approval MCP
+SCOPE:    IN mutation + UI · OUT retroactive relabel of 0.6.3 as "complete product"
+
+REPOS:     TBD — expect PROD runtime + BRAIN governance + approval gates
+FEEDS:     (end of current known tree)
+
+================================================================================
+§5  TAG CHRONOLOGY — SPINE DATES AND MEANINGS
+================================================================================
+
+  DATE        TAG                              SHA       CELL   MEANING IN ONE LINE
+  ----------  -------------------------------  --------  ----   ---------------------------
+  2026-02-20  hesperia-v0.2-20260220           eea358a   1      First named release; guards
+  2026-02-22  hesperia-v0.3.0                  ffc5371   2      Math contract nucleus
+  2026-02-24  hesperia-v0.4.0                  dcbb38b   3      L1–L9 + dictionaries
+  2026-03-19  v0.5.0                           d4671bd   5      Engine Dynamics seal
+  2026-03-26  v0.5.5                           4479c58   5b     Productization T11–T20
+  2026-04-14  v0.5.8                           5621345   6      Contradiction track
+  2026-05-18  hesperia/rollback-line           ff55ef4   8      Named rollback coordinate
+  2026-05-19  hesperia/dev-ready-line          d9a7cdf   8      Proceed from here (prod clean)
+  2026-05-28  0.6.0                            d06f674   9      Sealed runtime baseline
+  2026-06-14  hesperia-0.6.1                   f87b2bb   10     Analyze contract retro-tag
+  2026-06-14  hesperia-0.6.2                   cc94b09   11     KSI seal retro-tag
+  2026-06-14  0.6.3 / hesperia-0.6.3           122d45b   13     Archive + reconcile merge
+  2026-06-14  (main, post-tag)                 e9eaa07   14     IRC runtime in product repo
+
+================================================================================
+§6  SURFACES — WHAT RUNS WHERE (operator map)
+================================================================================
+
+  SURFACE                    HOST           ENDPOINT / PATH
+  -------------------------  -------------  ----------------------------------------
+  Hesperia shipping API      prichindel     127.0.0.1:9005  /hesperia/ /health
+  Session Inspector          prichindel     127.0.0.1:8010  /inspector/<id>/
+  Hex Matrix (static)          prichindel     /var/www/hesperia-sites/hex-matrix/
+  Public HTTPS               prichindel     https://hesperia.prichindel.com/
+  Dev analyze mirror         alunel         :18880
+  IRC Lounge                 tersagor VM    lounge.tersagor.prichindel.com
+  IRC Teacher audit JSONL    tersagor VM    ~/ergo/logs/hesperia-teacher/irc-trace.jsonl
+  MySQL 0.6.3 ledger         prichindel     docker mysql_db → database hesperia
+  Product git canonical      dev + prod     e9eaa07 on main
+
+================================================================================
+§7  CONTRACT STACK — 0.6.x CUMULATIVE (what each layer speaks)
+================================================================================
+
+  ORDER  CONTRACT / MODULE                      CELL   SPEAKS TO
+  -----  ------------------------------------  ----   --------------------------
+  1      engine_analyze / HES-61 sidecar       10     tersagor hybrid, MCP, adapter
+  2      KSI incidents, bridges, phi_trace     11     inspection, packet builder
+  3      hesperia.engine_run_envelope.v063     13     IRC, MySQL, archive examples
+  4      teacher_request (sanitized packet)    11–13  OpenAI input only
+  5      hesperia.teacher_response.v063        13     OpenAI output; no justification
+  6      IRC trace record types                13     JSONL audit
+  7      MySQL hesperia_* tables               13     relational face of run
+  8      runtime/irc_teacher/*                 14     product-native orchestration
+
+  Forbidden forever in Teacher JSON (0.6.3): justification, message, explanation,
+  reasoning, comment. Validator failure is success at the gate.
+
+  Graph mutation: none until CELL 15. reweight_preview.applied = 0 in 0.6.3.
+
+================================================================================
+§8  DONE LEDGER — WORKFLOW ROWS AND PRODUCT SEALS
+================================================================================
+
+  ERA / WAVE           ROWS      CELL   CLOSURE ARTIFACT
+  -------------------  --------  ----   ------------------------------------------
+  Feb genesis          (git)     0–4    first tags v0.2–v0.4
+  Mar–Apr v0.5         (git)     5–6    tags v0.5.0–v0.5.8; shipping/
+  Apr–May OUT-VIEW       ~45       7      Grace wave; prod URLs live
+  May immaculate         ~20       8      dev-ready-line tag; policy doc
+  May 0.6.0              ~10       9      0.6.0 tag; CI sealed gate
+  Jun HES-61             ~25      10      hesperia-0.6.1 tag; analyze contract
+  Jun H62 KSI            ~81      11      hesperia-0.6.2 tag; exit criteria
+  Jun HINS               16       12      verify PASS; HINS-WAVE-CLOSE
+  Jun H063               50       13      0.6.3 tag 122d45b; board OPEN 0
+  Jun runtime port        1       14      e9eaa07; 4 gold pytest
+
+  Cumulative hesperia board at 0.6.3 package close: **OPEN 0 · DONE ~343**
+
+  The "~343" is cumulative human triage rows — not git commit count (~302 dev product
+  commits). Both numbers are true in their domain.
+
+================================================================================
+§9  INCLUDES / SCOPE MATRIX — WHERE BYTES BELONG (hold the line)
+================================================================================
+
+  ARTIFACT TYPE                         CANONICAL HOME
+  ------------------------------------  ------------------------------------------
+  Runnable Python, runtime/             PROD → promoted from DEV
+  Sealed TFP corpus, dict JSONL         PROD only — never strip for "cleanliness"
+  Session/book .md under tfp/data       PROD corpus paths (not team specs)
+  specs/*.md, docs/, release narrative  DEV igareosh/hesperia
+  Exit criteria, H0* registers           BRAIN governance/
+  nginx, systemd templates              BRAIN cluster/prichindel/
+  IRC Teacher runtime (canonical)       PROD runtime/irc_teacher/ @ e9eaa07
+  IRC Teacher live mesh executor        TERSAGOR (wrap product import)
+  Full KSI pipeline (hybrid richness)   TERSAGOR ksi/
+  0.6.3 archive zip                     DEV dist/ (122d45b lineage)
+  MySQL DDL                             BRAIN cluster/hesperia/mysql/ → prichindel
+  Grace pre-release narrative           BRAIN operational/assignments/reports/
+
+================================================================================
+§10  RECONCILE STORY — TWO SHAs ON ONE JUNE DAY
+================================================================================
+
+  After d06f674 (0.6.0), branches diverged:
+    • Atomic main: 6.1 line f87b2bb → cc94b09 (analyze + model default)
+    • Dev branch:  0.6.3 archive 16286fa → 9bf0289 (examples, zip, E2E gate)
+    • Tag 0.6.3 on Atomic wrongly pointed at cc94b09
+
+  Fix (2026-06-14):
+    • Merge → 122d45b
+    • Retro-tags hesperia-0.6.1, hesperia-0.6.2
+    • Push igareosh/hesperia + Atomic-Commits-Team/hesperia
+    • Prod disk fast-forward
+
+  Same day follow-up:
+    • e9eaa07 adds runtime/irc_teacher/ on main HEAD (beyond tag 122d45b)
+
+  Read rule for agents:
+    Tag 0.6.3     = archive/reconcile milestone (122d45b) — "what we sealed and merged"
+    main HEAD     = current dish (e9eaa07) — "what we serve now including IRC runtime"
+
+================================================================================
+§11  RETIRED BRANCHES — GHOSTS ON THE TREE (do not resurrect casually)
+================================================================================
+
+  NAME              RETIRED WHEN / WHY                          REPLACED BY
+  ----------------  ----------------------------------------  -----------------
+  Dict A primary    v0.4.1.x deprecation chain                Dict B / tfp_v1 SSoT
+  v05/dense scripts CELL 4 pivot archive                       v06 layout → shipping/
+  headless/Telegram 2026-02-14 archive                         Abelard direct ops
+  chroma-new        2026-05-16 team policy                     CHROMA-1 alunel
+  Live LLM in 0.6.2 contract  Jun 14 ratified split            0.6.3 application run
+  Graph apply in 0.6.3        Jun 14 ratified split            0.7.0 CELL 15
+  Prod docs on main           CELL 8 immaculate sweep          DEV docs sink
+  Second product source       CELL 2 brain CLIENTS-only        Atomic repo authority
+
+================================================================================
+§12  OWNER ROSTER BY CONCERN (who to invoke, not who heroed)
+================================================================================
+
+  CONCERN                    PRIMARY ENTITIES
+  -------------------------  ------------------------------------------
+  Product governance         Ethan
+  Triage / registers         Grace
+  Prod deploy / MySQL/nginx  Abelard
+  Java/API adjacency         Gena
+  Python runtime / pytest    Felix
+  IRC vs Teacher boundary    Sophia
+  Security / pending-only    Daniel
+  Runbooks                   Liam
+  Inspector / hex UI         Gena + Felix fixtures
+  Cluster policy             Abelard + Ethan
+
+================================================================================
+§13  OPERATOR STATUS — GATES AT DOCUMENT CLOSE
+================================================================================
+
+  GATE                              STATUS
+  --------------------------------  -----------------------------------------
+  Prod HTTPS + API (HINS)           DONE — verify PASS
+  0.6.3 archive E2E                 DONE — dev gate PASS
+  IRC Teacher code (product+tersagor) DONE — e9eaa07 + 0149120
+  IRC Teacher live Lounge run       AWAITS — flags off; operator enables
+  MySQL first live row              AWAITS — schema up; DSN on tersagor
+  Prod service redeploy @ e9eaa07   DONE on disk — verify systemd units if needed
+  Alunel analyze mirror ff          OPTIONAL — mirror @ cc94b09 lags e9eaa07 (pass 4 audit)
+  tersagor → product import wrap    OPTIONAL — thin adapter over runtime/irc_teacher
+  0.7.0 sandbox apply               PLANNED — CELL 15
+
+================================================================================
+§14  CHANGELOG — DOCUMENT PASSES
+================================================================================
+
+  2026-06-14 pass 1:  Initial evolution tree; 16 cells; spine; matrices.
+  2026-06-14 pass 2:  Expanded NARRATIVE per cell; owners; data flow; v0.5 detail;
+                      retired branches; reconcile + e9eaa07 read rule.
+  2026-06-14 pass 3:  Consistency rules; calendar timeline §15; decision log §16;
+                      glossary §17; artifact index §18; wave cross-ref §19;
+                      cluster co-evolution §20; before/after matrix §21;
+                      verify/pytest evidence §22; tersagor/product alignment §23;
+                      companion index §24; cell context deltas §25; copyright block.
+  2026-06-14 pass 4:  AUDIT FINAL — live SHA verify; document map; §39 checklist;
+                      §40 synthesis; v0.4.0 → dcbb38b align; analyze mirror lag note;
+                      registry + HESPERIA-REPOS-AND-HOSTS realign; series closed.
+
+================================================================================
+§15  CALENDAR TIMELINE — EVOLVING CONTEXT MONTH BY MONTH
+================================================================================
+
+This section answers: *what did the team believe was true at each month*, not
+only what git records. Context evolves; this is the honest map of that drift
+and correction.
+
+  FEBRUARY 2026 — extraction and first membranes
+  ───────────────────────────────────────────────
+  Context: Hesperia lives inside brain CLIENTS/; operator wants product repo.
+  Belief: one repo can hold product + governance + team docs together.
+  Reality shift: Atomic-Commits-Team/hesperia born; brain keeps client row only.
+  Cells: 0 → 1 → 2 → 3 → 4 in ten days of calendar time.
+  External: nginx/tunnel planning for hesperia.prichindel.com starts in brain.
+  Not yet true: prod/dev split, sealed runtime tag, inspector UI, KSI, IRC Teacher.
+
+  MARCH 2026 — shipping heart and patch rhythm
+  ─────────────────────────────────────────────
+  Context: Layer stack exists; team adopts Team-10 repo structure and dossier system.
+  Belief: frequent small seals (v0.5.1…5.5) beat rare big bangs.
+  Reality: runtime/shipping/ born; Engine Dynamics v0.5.0 tag; TFP module v1 SSoT.
+  Cells: 5, 5b, 5c precursor.
+  External: brain sparse — product velocity high on Atomic repo.
+  Not yet true: contradiction seal (April), Session Inspector prod URL, 0.6.0 tag.
+
+  APRIL 2026 — contradiction signal and eyes
+  ───────────────────────────────────────────
+  Context: Engine seals pass; operator needs to *see* sessions in browser.
+  Belief: contradiction is calibration signal, not error spam.
+  Reality: v0.5.8 tag; OUT-VIEW epic starts; hex matrix Vite app lands.
+  Cells: 6, 7 (start).
+  External: Grace 45-task wave for output_views in brain.
+  Not yet true: immaculate prod, Authentik wall complete story, 0.6.x line.
+
+  MAY 2026 — diploid split and sealed shell
+  ──────────────────────────────────────────
+  Context: Prod repo cluttered with markdown; deploy verify confused.
+  Belief: prod must be code+corpus only; docs belong on igareosh/hesperia.
+  Reality: rollback line → immaculate sweep → dev-ready-line-20260518 tag.
+  Cells: 7 (complete prod URLs), 8, 9 (0.6.0 tag on dev May 28).
+  Drift warning: prod **disk** stopped pulling at d313bfd (May 21) while dev
+  continued — this drift was **not** intentional policy; HINS fixes June 14.
+  External: post-0.6.0 topology governance in brain; CHROMA-1 team path retires
+  chroma-new on prichindel for team work.
+
+  JUNE 2026 (through 14) — nerves, immune layer, voice, canonical limb
+  ────────────────────────────────────────────────────────────────────
+  Context: Board clean after 0.6.2; operator asks full product inspection.
+  Belief sequence (evolving in one week):
+    (a) Prod must match sealed story → HINS 16 tasks.
+    (b) Live LLM belongs in application run, not 0.7.0 only → 0.6.3 scope.
+    (c) Product repo must own IRC runtime, not tersagor-only → e9eaa07.
+  Reality: HES-61 analyze contract; H62 KSI seal; H063 50 tasks; reconcile
+  122d45b; runtime/irc_teacher/ on main e9eaa07; board OPEN 0.
+  Cells: 10, 11, 12, 13, 14.
+  External: tersagor VM deploy 0149120; MySQL on prichindel; Lounge test waiting.
+
+  WHAT CHANGED IN OPERATOR CONTEXT (pass 3 summary):
+  • Feb: "get product out of brain" → May: "keep docs out of prod"
+  • Apr: "see sessions in browser" → Jun: "see Teacher run on IRC with ledger"
+  • Jun morning: "0.6.3 tag = cc94b09" → Jun evening: "tag = 122d45b, HEAD = e9eaa07"
+  • Jun policy: "tersagor has the runtime" → "product owns runtime; tersagor integrates"
+
+================================================================================
+§16  DECISION LOG — ETHAN RATIFICATIONS (hold the line)
+================================================================================
+
+  ID          DATE        DECISION                                      AFFECTS CELL
+  ----------  ----------  --------------------------------------------  ------------
+  ETH-D-001   2026-05-18  Immaculate prod: code+corpus on Atomic main   8
+  ETH-D-002   2026-05-28  0.6.0 = sealed runtime tag on dev (not fluff) 9
+  ETH-D-003   2026-06-13  0.6.2 = KSI seal; no live LLM in contract     11
+  ETH-D-004   2026-06-14  0.6.3 = IRC application run; 0.7.0 = apply   13, 15
+  ETH-D-005   2026-06-14  HINS blocks H063 until prod verify PASS       12→13
+  ETH-D-006   2026-06-14  Reconcile branches → 122d45b; retro-tags 6.1/6.2 13
+  ETH-D-007   2026-06-14  Product repo retains IRC runtime dev+prod     14
+  ETH-D-008   2026-06-14  Teacher JSON: no justification field ever       13
+  ETH-D-009   2026-06-14  MySQL proposals status pending until 0.7.0    13, 15
+  ETH-D-010   2026-06-14  IRC full envelope ≠ OpenAI packet (Sophia)    11, 13
+
+  Argue / propose pattern used when definitions violated:
+    "Argue: X. Propose: Y." — operator endorsed; execution follows ratification.
+
+================================================================================
+§17  GLOSSARY — TERMS THAT STAY ENGLISH IN ALL CHAT
+================================================================================
+
+  TFP          Translational Formalism Pack — Russian scientific statement corpus
+               and propagation model; core domain Hesperia executes.
+
+  ΣΓΘ (SGTh)   Guard layer — semantic/graph/theory guards on analyze path (CELL 1).
+
+  L1–L9        Layer stack — v0.4 organ system for multiscale propagation (CELL 3).
+
+  Dict A / B   Dictionary calibration trees; A deprecated through v0.4.1.x; B and
+               tfp_v1 become SSoT (CELL 3–5).
+
+  runtime/shipping/  FastAPI/CLI shipping surface; ancestor of prod :9005 API (CELL 5).
+
+  output_views Django app — Session Inspector, sessions index (CELL 7).
+
+  KSI          Kolmogorov Semantic Inspection — incidents, bridges, Φ_e (CELL 11).
+
+  engine_result  HES-61 sidecar JSON from /analyze — trace, areas, KSI block (CELL 10).
+
+  envelope v063  hesperia.engine_run_envelope.v063 — full run document (CELL 13).
+
+  Teacher v063   OpenAI strict JSON — proposals[] only, no prose (CELL 13).
+
+  HINS         Hesperia inspection remediation wave — prod hygiene (CELL 12).
+
+  H063         Hesperia 0.6.3 task register H063-00..49 (CELL 13).
+
+  HES-61       6.1-final analyze contract workflow rows (CELL 10).
+
+  H62          0.6.2 KSI workflow register H62-001..072 (CELL 11).
+
+  2×2 model    dev docs / prod code / brain genome / tersagor IRC (CELL 8, §1).
+
+  pending      MySQL proposal status — no graph apply in 0.6.3 (CELL 13).
+
+  main dish    Runnable aligned product bytes — not tag alone (Epilogue).
+
+================================================================================
+§18  ARTIFACT INDEX — BRAIN PATHS BY CELL
+================================================================================
+
+  CELL   ARTIFACT (brain repo unless noted)
+  ----   -----------------------------------------------------------------
+  0      CLIENTS.md row; brain bootstrap commits 15400db era
+  1      cluster/prichindel/nginx-hesperia*.conf seeds
+  5      governance/SPEC-ETHAN-* control layer; cluster D3 viewer notes
+  7      operational/ OUT-VIEW specs; 45-task wave in active.md history
+  8      governance/ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md
+         operational/assignments/HESPERIA-DEV-READY-LINE-2026-05-18.md
+  9      governance post-0.6.0 topology docs; Felix dev authority policy
+  10     active.md HES-61-* rows; 6.1 pre-release reports
+  11     governance/HESPERIA-0-6-2-EXIT-CRITERIA.md
+         governance/H063-adjacent KSI v0.1 spec (2b93b4b era)
+         operational/ H062 register / Sophia H62-064 boundary report
+  12     governance/HINS-2026-REGISTER.md
+         operational/ ETHAN-HESPERIA-FULL-INSPECTION-2026-06-14.md
+         operational/ HINS-WAVE-CLOSE-2026-06-14.md
+  13     governance/ETHAN-HESPERIA-0-6-3-IRC-TEACHER-RUN-SPEC.md
+         governance/HESPERIA-0-6-3-EXIT-CRITERIA.md
+         governance/H063-2026-REGISTER.md
+         cluster/hesperia/mysql/001_h063_schema.sql
+         cluster/tersagor-h063/ (staging mirror — not canonical)
+         scripts/SCRIPT-RUNBOOK-hesperia-irc-teacher-run.md
+         operational/ GRACE-0.6.3-PRE-RELEASE-PACKAGE-NARRATIVE-2026-06-14.md
+         operational/ FELIX-H063-POST-IMPL-FIXES-2026-06-14.md
+         operational/ ABELARD-H063-DEPLOY-2026-06-14.md
+  14     cluster/HESPERIA-REPOS-AND-HOSTS.md (IRC Teacher section)
+         governance/HESPERIA-VERSION-TAG-REGISTRY.md (update e9eaa07 note)
+  9–13   operational/assignments/reports/hesperia-0.6.x/
+         HESPERIA-KAN-FEASIBILITY-RESEARCH-AND-CONCEPT-LAYER-SPECIFICATION-
+         0.6.0-0.6.3-REASONING.pdf  (0.6.0→0.6.3 reasoning; LAMAITA archive 2026-06-14)
+  all    operational/assignments/reports/ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP*
+         governance/HESPERIA-VERSION-TAG-REGISTRY.md
+         cluster/HESPERIA-REPOS-AND-HOSTS.md
+
+================================================================================
+§19  WAVE REGISTER CROSS-REFERENCE
+================================================================================
+
+  WAVE      IDS              ROWS  CELL  REGISTER / REPORT
+  --------  ---------------  ----  ----  ----------------------------------------
+  (git)     v0.2–v0.4        —     0–4   tags + roadmap TXT 1..~120
+  (git)     v0.5 train       —     5–6   tags v0.5.0–v0.5.8
+  OUT-VIEW  Grace ~45        ~45   7     brain active.md history Apr–May
+  IMMAC     debloat          ~20   8     dev-ready-line tag; policy doc
+  0.6.0     release          ~10   9     tag d06f674; CI sealed gate
+  HES-61    HES-61-01..12    ~25   10    hesperia-0.6.1 → f87b2bb
+  H62       H62-001..072     ~81   11    hesperia-0.6.2 → cc94b09
+  HINS      HINS-00..16      16    12    prod verify PASS
+  H063      H063-00..49      50    13    0.6.3 → 122d45b
+  RUNTIME   product port      1    14    e9eaa07 main HEAD
+
+  Cumulative board: OPEN 0 · DONE ~343 (includes earlier hesperia epics 0.6.1
+  workflow history and pre-June rows not repeated here).
+
+================================================================================
+§20  CLUSTER CO-EVOLUTION — HOSTS BESIDE THE PRODUCT
+================================================================================
+
+  Hesperia product history is not isolated from cluster topology. Pass 3 records
+  host context beside cells so agents do not infer wrong machine from path name.
+
+  HOST / PATH                         ROLE IN HESPERIA STORY
+  ----------------------------------  ------------------------------------------
+  prichindel /data/hesperia/hesperia   Prod product disk; :9005 :8010; MySQL
+  alunel /data/workspaces/atomic-*    Dev clone; pytest home; push both remotes
+  alunel /data/hesperia/hesperia      Analyze mirror :18880 — **cc94b09 at pass 4 audit**
+                                      (lags atomic-commit-hesperia @ e9eaa07; ff optional)
+  tersagor VM 192.168.100.68          IRC mesh, Lounge, OpenAI executor live
+  brain /data/altitudine/prichindel.com  Path name altitudine ≠ VM altitudine
+  vaporas (Hetzner)                   Public HTTPS gate to hesperia.prichindel.com
+  librarymaster                       Papra/CHROMA-2 — not Hesperia dev office
+  CHROMA-1 alunel                     Team brain MCP; not product runtime
+
+  Co-evolution beats:
+  • Feb: tunnel/nginx planning for prod URL (brain) while v0.2 API lands (product).
+  • May: Authentik wall on inspector/API; immaculate prod strip same week.
+  • Jun: Abelard wires tersagor engine URL → prod HTTPS; MySQL on prichindel;
+    product runtime copied to e9eaa07 while tersagor stays at 0149120 until wrap.
+
+================================================================================
+§21  BEFORE / AFTER MATRIX — WHAT APPEARED AT EACH MAJOR TAG
+================================================================================
+
+  AT TAG v0.2 (eea358a)     AFTER: guards, HTTP analyze
+                            BEFORE: nothing runnable named Hesperia externally
+
+  AT TAG v0.4.0 (dcbb38b)   AFTER: L1–L9, Dict A/B era
+                            BEFORE: math-only nucleus, no full layer product
+
+  AT TAG v0.5.0 (d4671bd)   AFTER: dynamics seal, shipping precursor
+                            BEFORE: layers without dynamics heart rhythm
+
+  AT TAG v0.5.8 (5621345)   AFTER: contradiction in release gating
+                            BEFORE: contradiction not first-class signal
+
+  AT dev-ready (d9a7cdf)    AFTER: prod prose stripped; verify prod-code-only
+                            BEFORE: docs and code mixed on Atomic main
+
+  AT 0.6.0 (d06f674)       AFTER: sealed runtime tag; atomic release CI
+                            BEFORE: no tag meaning "sealed=true" for archive users
+
+  AT hesperia-0.6.1        AFTER: engine_result contract on /analyze
+                            BEFORE: ad-hoc analyze JSON shapes
+
+  AT hesperia-0.6.2        AFTER: KSI packet + boundary docs; no live LLM
+                            BEFORE: Teacher concept without inspection layer
+
+  AT 0.6.3 (122d45b)       AFTER: archive zip, examples, reconcile unified 6.1+6.3
+                            BEFORE: diverged branches; wrong tag on Atomic
+
+  AT main e9eaa07          AFTER: runtime/irc_teacher/ in product repo
+                            BEFORE: IRC runtime tersagor/brain-staging only
+
+  AT 0.7.0 (planned)       AFTER: (future) sandbox apply, applied=1, Pane 2
+                            BEFORE: pending-only proposals; read-only inspector panes
+
+================================================================================
+§22  VERIFY AND PYTEST EVIDENCE — CLOSURE BY CELL
+================================================================================
+
+  CELL  EVIDENCE TYPE              RESULT / ARTIFACT
+  ----  -------------------------  ------------------------------------------
+  1     guard unit tests           merged PR #5; tag v0.2
+  3     serve_v033 + Dict A legacy regression  tag v0.3.0
+  5     sealed pytest audit        tags v0.5.0–v0.5.8 chain
+  7     inspector fixtures CI      prod URLs manual/automation verify
+  8     verify-hesperia-prod-code-only.sh  policy gate
+  9     CI sealed-runtime on main  tag 0.6.0
+  10    E2E smoke alunel :18880    HES-61 workflow close
+  11    justification reject tests  KSI exit criteria signed
+  12    verify-hesperia-prod-https.sh  PASS — HINS close
+  13    archive E2E gate           test_archive_063_e2e_gate.py PASS
+        tersagor full suite        465 passed (0149120); 3 post-impl fixes
+        gold v063                  4 tests test_irc_teacher_v063.py alunel
+  14    product gold tests         4 passed on alunel dev venv @ e9eaa07
+
+  Live operator row (MySQL first insert, IRC flags on) intentionally AWAITS —
+  not a pytest failure; G4 exit criterion for 0.6.3 pre-release package.
+
+================================================================================
+§23  TERSAGOR ↔ PRODUCT ALIGNMENT — TWO SHAs, ONE CONTRACT
+================================================================================
+
+  Problem (pass 2–3 consistency):
+    Tersagor 0149120 implements IRC Teacher with tersagor_agent.hesperia.* imports.
+    Product e9eaa07 implements same contracts with runtime.irc_teacher.* imports.
+    Both speak identical JSON schemas; import graph differs.
+
+  Ratified alignment (ETH-D-007):
+    • Canonical runtime bytes: product repo @ e9eaa07.
+    • Live integration host: tersagor VM until thin wrapper imports product path.
+    • Brain cluster/tersagor-h063/: staging reference only — not second product.
+    • Full KSI hybrid richness: remains tersagor ksi/ until product needs port.
+
+  Migration path (optional, not blocking Lounge test):
+    1. tersagor requirements include editable install from /data/hesperia/hesperia
+    2. imirc-mesh-executor calls runtime.irc_teacher.run_irc_teacher_path
+    3. Retire duplicate modules in tersagor_agent/hesperia/ for 0.6.3 surface
+    4. Single pytest gate on product; tersagor runs integration smoke only
+
+  Contract equality checklist (must match across SHAs):
+    [x] engine_run_envelope_v063 schema
+    [x] teacher_response_v063 schema (no justification)
+    [x] IRC trace message types RUN_START … RUN_DONE
+    [x] MySQL table set from 001_h063_schema.sql
+    [x] reweight_preview applied=0
+    [ ] single import path (future wrap)
+
+================================================================================
+§24  COMPANION DOCUMENT INDEX — READ ORDER
+================================================================================
+
+  ORDER  DOCUMENT                                              USE WHEN
+  -----  ----------------------------------------------------  -----------------
+  1      THIS FILE (evolution tree pass 3)                     lineage + cells
+  2      ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP-2026-06-14.txt  forensic commits
+  3      ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP-2026-06-14.md   phase summary
+  4      GRACE-0.6.3-PRE-RELEASE-PACKAGE-NARRATIVE-2026-06-14.md  operator package
+  5      governance/HESPERIA-VERSION-TAG-REGISTRY.md            tag → SHA
+  6      cluster/HESPERIA-REPOS-AND-HOSTS.md                    2×2 + URLs
+  7      governance/ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md   prod allowlist
+  8      governance/ETHAN-HESPERIA-0-6-3-IRC-TEACHER-RUN-SPEC.md 0.6.3 spec
+  9      scripts/SCRIPT-RUNBOOK-hesperia-irc-teacher-run.md       Lounge procedure
+
+  Full path prefix for brain repo:
+    /data/altitudine/prichindel.com/
+  (Path name altitudine ≠ hostname altitudine VM — see §20.)
+
+================================================================================
+§25  CELL CONTEXT DELTAS — WHAT CHANGED IN THE WORLD (PASS 3 ADD)
+================================================================================
+
+  For each cell, three lines: BEFORE (belief/state), AFTER (new truth), DRIFT (if any).
+
+  CELL 0   BEFORE: product in brain CLIENTS/
+           AFTER:  Atomic repo exists
+           DRIFT:  none — intentional extraction
+
+  CELL 1   BEFORE: import-only Python
+           AFTER:  HTTP service exists
+           DRIFT:  none
+
+  CELL 8   BEFORE: docs on prod main
+           AFTER:  immaculate prod
+           DRIFT:  prod disk pull lag until Jun — **unintended**; fixed HINS+reconcile
+
+  CELL 9   BEFORE: main moves freely
+           AFTER:  0.6.0 tag = sealed claim
+           DRIFT:  prod HEAD d313bfd while dev had 0.6.0 — **unintended** until Jun
+
+  CELL 13  BEFORE: single branch story
+           AFTER:  archive + 6.1 merged 122d45b
+           DRIFT:  tag 0.6.3 briefly wrong on Atomic — **fixed same day**
+
+  CELL 14  BEFORE: runtime on tersagor only
+           AFTER:  product owns runtime/irc_teacher/
+           DRIFT:  two SHAs 0149120 vs e9eaa07 — **policy-resolved**, wrap optional
+
+  CELL 15  BEFORE: pending proposals
+           AFTER:  (future) apply with approvals
+           DRIFT:  none — deliberately not started
+
+================================================================================
+§26  TAG REGISTRY EXTENSION — POST-RECONCILE (PASS 3 CANONICAL)
+================================================================================
+
+  Extend governance/HESPERIA-VERSION-TAG-REGISTRY.md mentally with this row:
+
+  | (no tag yet) | e9eaa07 | 2026-06-14 | main HEAD: runtime/irc_teacher/ in product |
+
+  Full table (unchanged tags + HEAD):
+
+  TAG                      SHA       DATE        MARKS
+  -----------------------  --------  ----------  ------------------------------
+  hesperia-v0.2-20260220   eea358a   2026-02-20  CELL 1
+  hesperia-v0.3.0          ffc5371   2026-02-22  CELL 2
+  hesperia-v0.4.0          dcbb38b   2026-02-24  CELL 3 (tag → commit)
+  v0.5.0                   d4671bd   2026-03-19  CELL 5
+  v0.5.5                   4479c58   2026-03-26  CELL 5b
+  v0.5.8                   5621345   2026-04-14  CELL 6
+  hesperia/rollback-line   ff55ef4   2026-05-18  CELL 8
+  hesperia/dev-ready-line  d9a7cdf   2026-05-19  CELL 8
+  0.6.0                    d06f674   2026-05-28  CELL 9
+  hesperia-0.6.1           f87b2bb   2026-06-14  CELL 10
+  hesperia-0.6.2           cc94b09   2026-06-14  CELL 11
+  0.6.3 / hesperia-0.6.3   122d45b   2026-06-14  CELL 13 reconcile
+  main (HEAD)              e9eaa07   2026-06-14  CELL 14 runtime port
+
+  Intermediate archive-only commits (not tags):
+    16286fa — 0.6.3 archive seal without 6.1 merge
+    9bf0289 — example outputs for archive
+    0149120 — tersagor live integration (separate repo)
+
+================================================================================
+§27  CELL QUICK REFERENCE — ONE TABLE FOR THE WHOLE ORGANISM
+================================================================================
+
+  n   NAME (poetic)          VERSION/REF      STATUS    TAG/HEAD anchor
+  --  ---------------------  ---------------  --------  ------------------
+  0   zygote                 Ref-0.0          DONE      26f33c9…fdba4e7
+  1   outer membrane         v0.2             DONE      eea358a
+  2   nucleus                v0.3.0–3.3       DONE      ffc5371
+  3   organ system           v0.4.0           DONE      dcbb38b
+  4   skeleton reframe       Ref-v06-pivot    DONE      b84dc6d…89bc563
+  5   heart/circulation      v0.5.0 train     DONE      d4671bd…5621345
+  6   (inside 5)             v0.5.8 contra    DONE      5621345
+  7   sensory cortex         Ref-0.5.9-ui     DONE      OUT-VIEW…TMX
+  8   diploid split          Ref-20260518     DONE      d9a7cdf
+  9   exoskeleton            v0.6.0           DONE      d06f674
+  10  spinal nerve           0.6.1 HES-61     DONE      f87b2bb
+  11  immune logic           0.6.2 KSI        DONE      cc94b09
+  12  skin repair            Ref-HINS         DONE      (verify PASS)
+  13  voice                  v0.6.3           DONE      122d45b
+  14  canonical limb         runtime port     DONE      e9eaa07
+  15  planned molt           v0.7.0           PLANNED   —
+
+  n   PRIMARY OUTPUT                         REPO(S)        FEEDS
+  --  -------------------------------------  -------------  ------
+  0   standalone git organism                DEV+PROD       1
+  1   guards + HTTP API                      DEV+PROD       2
+  2   math contract in pipeline              DEV+PROD       3
+  3   L1–L9 + dictionaries                   DEV+PROD       4,5
+  4   v06 layout entry                       DEV+PROD       5,9
+  5   shipping runtime + dynamics            DEV+PROD       7,8,9
+  7   inspector + hex URLs                   DEV+PROD       8,11,13
+  8   immaculate prod policy                 PROD+DEV+BRAIN all later
+  9   sealed 0.6.0 tag                       DEV            10,13
+  10  engine_result contract                 PROD           13,14
+  11  KSI packet + boundaries                BRAIN+TERSAGOR 13,14
+  12  prod API/inspector up                  PROD           13
+  13  IRC Teacher run + archive              ALL FOUR       14,15
+  14  runtime/irc_teacher/ product           DEV+PROD       15
+
+================================================================================
+§28  ENVIRONMENT FLAGS — OPERATOR KNOBS (0.6.3 ARC)
+================================================================================
+
+  Pass 3 documents flags so Lounge test does not become archaeology.
+
+  HESPERIA / TERSAGOR IRC Teacher path
+  ------------------------------------
+  HESPERIA_IRC_TEACHER=1              Enable orchestrator (product flags.py)
+  TERSAGOR_HESPERIA_IRC_TEACHER=1     Legacy alias — same gate
+  HESPERIA_KSI_ENABLED=1              KSI block expected on analyze path
+  HESPERIA_KSI_LLM_TEACHER=1          Allow OpenAI call (else empty proposals)
+  HESPERIA_KSI_TEACHER_MODEL=...      Default gpt-4o-mini (cc94b09 line)
+
+  Engine reachability
+  -------------------
+  HESPERIA_ENGINE_URL=...             Product analyze_adapter target
+  TERSAGOR_HESPERIA_ENGINE_URL=...    Legacy alias
+  TERSAGOR_HESPERIA_ENGINE_ENABLED=1  Hybrid path calls engine
+
+  Prod engine (typical tersagor deploy post-Abelard):
+    https://hesperia.prichindel.com  (analyze behind Bearer / path routing)
+
+  Dev mirror (Felix smoke):
+    http://127.0.0.1:18880  on alunel
+
+  Persistence and audit
+  ---------------------
+  MYSQL_HESPERIA_DSN=mysql://...      prichindel hesperia DB; optional no-op
+  HESPERIA_TEACHER_AUDIT_DIR=...      IRC JSONL default ~/ergo/logs/hesperia-teacher
+
+  Roots for envelope git refs
+  ---------------------------
+  HESPERIA_ROOT / HESPERIA_REPO_ROOT  Product tree for hesperia_ref in envelope
+  TERSAGOR_ROOT / HESPERIA_INTEGRATION_ROOT  integration_host_ref optional
+
+  Safe default at pre-release close: Teacher flags OFF until operator enables.
+
+================================================================================
+§29  MYSQL 0.6.3 — RELATIONAL FACE OF THE RUN (CELL 13)
+================================================================================
+
+  DDL source: cluster/hesperia/mysql/001_h063_schema.sql (brain) → prichindel.
+
+  TABLE                      HOLDS
+  -------------------------  ------------------------------------------------
+  hesperia_teacher_run       run_id, correlation_id, full envelope JSON,
+                             teacher_request/response, status, git refs
+  hesperia_activation_snapshot  per-concept observed/expected from engine
+  hesperia_edge_snapshot     KSI phi_trace edges W_e, R_e, phi_sat
+  hesperia_proposal          each Teacher proposal; status **pending** in 0.6.3
+  hesperia_reweight_event    preview events; applied=0 in 0.6.3
+
+  Why MySQL on prichindel while IRC on tersagor:
+    Historical prod data home is prichindel docker mysql_db; IRC mesh executes on
+    tersagor VM. Application run spans both — envelope built from prod analyze,
+    audit on tersagor disk, ledger on prichindel. This is topology, not mistake.
+
+  Operator check (from Abelard deploy report):
+    SELECT run_id, status, created_at
+    FROM hesperia.hesperia_teacher_run
+    ORDER BY created_at DESC LIMIT 5;
+
+================================================================================
+§30  SCIENTIFIC INTENT — WHAT HESPERIA IS FOR (STABLE ACROSS CELLS)
+================================================================================
+
+  Cells change code; scientific intent changes slowly. Pass 3 states intent so
+  version numbers do not obscure the research program.
+
+  CORE PROPOSITION:
+    Hesperia executes Translational Formalism Pack (TFP) propagation on Russian
+    scientific statements — mapping utterances through layered graphs, dictionaries,
+    and dynamics — producing traces and activations operators can inspect.
+
+  STABLE GOALS (Feb → Jun):
+    1. Deterministic or gated-deterministic propagation (ΣΓΘ, seals, pytest).
+    2. Calibration via dictionaries and contradiction — not one-shot LLM magic.
+    3. Inspection before mutation — Inspector, KSI, IRC envelope before apply.
+    4. Numeric parameter proposals — Teacher returns weights, not prose lessons.
+    5. Corpus on prod disk — sessions and dict JSONL are product, not clutter.
+
+  WHAT HESPERIA IS NOT (repeated because teams forget):
+    • Not a chatbot product (Teacher is inspector of parameters, not tutor prose).
+    • Not a second brain repo (team workflow stays in cursor).
+    • Not a tersagor fork (integration ≠ canonical source after CELL 14).
+    • Not finished at 0.6.3 (apply and Pane 2 remain 0.7.0).
+
+  HESPERIA AND CLIENTS/:
+    Hesperia is a client under CLIENTS.md with its own product repos; brain holds
+    list, paths, deploy pointers — not duplicate product implementation.
+
+================================================================================
+§31  NAMING COLLISIONS — DO NOT MERGE THESE IN TRIAGE OR DOCS
+================================================================================
+
+  COLLISION                           MEANING A                    MEANING B
+  ----------------------------------  ---------------------------  ---------------------------
+  0.6 / v0.6 / 0.6.0                  Feb v06 layout (CELL 4)      May tag 0.6.0 (CELL 9)
+  0.6.1                               workflow HES-61 contract       (not a month-long branch name only)
+  0.6.2                               KSI seal                       (not "second 0.6.0")
+  0.6.3                               IRC application run            (not sandbox apply)
+  0.7.0                               graph apply + Pane 2           (not "0.6.3 part 2")
+  hesperia-0.6.3 vs main HEAD         tag 122d45b                    e9eaa07 runtime port
+  altitudine path vs VM               brain dir name                 dev VM .65 ULIM lab
+  librarymaster vs altitudine         Papra CHROMA-2 .66             dev VM .65
+  chroma-new vs CHROMA-1              retired prichindel             team brain alunel
+  prod vs dev repo                    Atomic-Commits-Team            igareosh/hesperia
+  sealed vs live                      tag/pytest gate passed         operator flags on + row in MySQL
+
+  When Grace triages, use CELL ids or exact tags — not "the 0.6 thing".
+
+================================================================================
+§32  EXTENDED NARRATIVE — JUNE 14 HOUR BY HOUR (RECONCILE DAY)
+================================================================================
+
+  Pass 3 adds hour-scale context for the busiest calendar day in the 0.6.x line.
+
+  Morning arc:
+    Board clean after 0.6.2. Ethan inspection report drops P0 gaps — prod API
+    down, venvs broken, env_guard drift. HINS wave executes: 16 rows, all DONE.
+    verify-hesperia-prod-https.sh PASS becomes the trust gate for anything called
+    "prod sealed."
+
+  Midday arc:
+    H063-00..49 already triaged; Felix implements tersagor modules; schemas land;
+    MySQL DDL deployed to prichindel; Sophia boundary doc separates IRC view from
+    Teacher packet; Daniel locks pending-only and justification rejection.
+
+  Afternoon arc — branch divergence discovered:
+    Dev carried 0.6.3 archive seal 16286fa with examples and zip.
+    Atomic main carried 6.1 analyze line to cc94b09.
+    Tag 0.6.3 on Atomic pointed at wrong commit relative to dev tag story.
+    **This is not acceptable for a product line** — reconcile executes same day.
+
+  Reconcile arc:
+    Merge origin/main into dev workspace → 122d45b.
+    Retro-tag hesperia-0.6.1, hesperia-0.6.2, retag 0.6.3/hesperia-0.6.3.
+    Push both remotes; prichindel fast-forward; prod disk matches dev for that tag.
+
+  Evening arc — operator policy:
+    "Live IRC may stay on tersagor; product repo must retain runtime."
+    e9eaa07 lands runtime/irc_teacher/ on main; 4 gold tests pass alunel;
+    both remotes pushed again; prod pulled to e9eaa07.
+
+  Late arc:
+    Grace pre-release narrative; this evolution tree pass 1→2→3; board OPEN 0.
+    Operator beat remains: enable flags in Lounge, first MySQL row, optional
+    tersagor import wrap.
+
+  Lesson for future cells:
+    Archive seals and contract lines may diverge under parallel waves — schedule
+    reconcile before tagging public 0.6.x, or tag only after merge commit exists.
+
+================================================================================
+§33  PRODUCT TREE ANATOMY AT e9eaa07 — WHERE MODULES LIVE
+================================================================================
+
+  Pass 3 maps directories so agents do not grep blindly.
+
+  runtime/shipping/           FastAPI prod :9005 — analyze, health (CELL 5→9→10)
+  runtime/services/           engine_analyze_contract.py (CELL 10)
+  runtime/irc_teacher/          0.6.3 IRC Teacher orchestration (CELL 14)
+  output_views/                 Django Session Inspector (CELL 7)
+  output_views/hex_matrix_viewer/  Vite static hex (CELL 7)
+  hesperia/modules/tfp/         TFP module, data corpus paths (CELL 3–5)
+  schemas/                      JSON contracts including v063 pair (CELL 13–14)
+  tests/                        pytest including test_irc_teacher_v063.py
+  release/v0.6.3/               examples, archive metadata (CELL 13)
+  dist/                         hesperia-0.6.3-archive.zip (CELL 13)
+  assets/calibration/dicts/     sealed dict JSONL — prod sacred (CELL 3+)
+  docs/                         DEV remote primarily; stripped from prod main
+
+  Brain never replaces these trees for execution — it points Abelard/Gena/Felix to them.
+
+================================================================================
+§34  RETIRED SYSTEMS — EXPANDED NOTES (PASS 3)
+================================================================================
+
+  Dict A primary path
+    Retired across v0.4.1.x chain. Tests may remain as regression ghosts.
+    Do not rebuild Dict A as primary without new Ethan spec — use tfp_v1 SSoT.
+
+  v05/dense scripts
+    Archived at CELL 4 pivot. If found in old branches, do not merge forward without
+    archaeology pass — likely superseded by v06 layout and shipping/.
+
+  headless / Telegram abelard-headless
+    Archived 2026-02-14. Telegram bot path is not operator default for Hesperia 0.6.3.
+    IRC Teacher uses tersagor mesh + JSONL audit — different integration.
+
+  chroma-new on prichindel
+    Retired 2026-05-16 for team path. Team knowledge uses CHROMA-1 on alunel.
+    Colombo/Papra library uses CHROMA-2 on librarymaster — not Hesperia runtime.
+
+  Live LLM inside 0.6.2 exit criteria
+    Explicitly rejected by ETH-D-004. 0.6.2 ships packet and schemas; OpenAI call
+    is 0.6.3 application run — preserves inspection-before-teacher ordering.
+
+  Prod markdown specs
+    Stripped CELL 8. If markdown appears on Atomic main outside allowlist, CI and
+    verify-hesperia-prod-code-only.sh should fail — treat as regression.
+
+  d313bfd as "prod truth"
+    Historical stuck HEAD pre-HINS. Citing it after 2026-06-14 reconcile is error
+    unless discussing drift narrative explicitly.
+
+================================================================================
+§35  ARCHIVIST NOTES — PASS 3 FOR FUTURE READERS
+================================================================================
+
+  If you read this in 2027 or later:
+
+  1. Check main HEAD on both remotes before citing e9eaa07 — organism may molt.
+  2. Tag 0.6.3 at 122d45b should remain frozen milestone unless force-retag disaster.
+  3. Companion 414-commit TXT is forensic; this tree is conceptual — use both.
+  4. Grace board DONE count grows after 0.6.3; OPEN 0 at close was moment snapshot.
+  5. CELL 15 (0.7.0) may split into multiple cells when apply work starts — append
+     §14 changelog and new dated evolution supplement; do not rewrite history silently.
+  6. Copyright block must remain for operational redistribution.
+  7. Path /data/altitudine/prichindel.com is brain on alunel-class hosts — not the
+     altitudine VM (.65) despite directory name (see HOST-ALTITUDINE doc).
+
+  Questions this document intentionally does not answer:
+    • Exact byte size of corpus at each tag (run git checkout + du if needed).
+    • Every pytest count before v0.5.0 (see sealed audit bundles in tags).
+    • Biopole/client work (separate CLIENTS/ row — not Hesperia cells).
+
+================================================================================
+§36  v0.6.3 JSON SHAPES — FIELD GUIDE (OPERATOR VISIBILITY)
+================================================================================
+
+  Pass 3 documents shapes referenced across CELL 11–14 so IRC logs and MySQL rows
+  are readable without opening Python sources.
+
+  hesperia.engine_run_envelope.v063 (top level)
+  ---------------------------------------------
+  schema              const "hesperia.engine_run_envelope.v063"
+  lang                "ru"
+  correlation_id      ties IRC chunks and MySQL row cluster
+  run_id              uuid for this application run
+  input.text_ru       operator Russian TFP statement (full visibility on IRC)
+  input.kind          e.g. tfp_scientific_statement
+  engine.*            propagation_trace, areas, families, tfp_vector,
+                      invariant_activation, interior_pov, gtp_coherence,
+                      corpus_activations[], roads[], hesperia_ref,
+                      integration_host_ref (optional)
+  ksi.*               incidents[], missing_bridges[], phi_trace (from analyze)
+  parameters.*        W_e edges[], ksi_config_ref
+
+  teacher_request (sanitized — OpenAI input)
+  ------------------------------------------
+  ksi_version         "0.1"
+  session_id          typically run_id
+  iteration_id        typically correlation_id
+  incidents[]         enriched with incoming_edges
+  missing_bridges[]   ranked by bridge_need_score
+  topology            optional concept topology block
+  *** raw input.text_ru does NOT appear here (Sophia boundary) ***
+
+  hesperia.teacher_response.v063
+  ------------------------------
+  schema              const "hesperia.teacher_response.v063"
+  lang                "ru"
+  proposals[]         each with action, confidence, numeric fields
+  allowed actions:    add_edge, remove_edge, update_edge_weight,
+                      add_concept, update_cd_field
+  forbidden keys:     justification, message, explanation, reasoning, comment
+
+  IRC trace JSONL record
+  ----------------------
+  ts                  ISO UTC timestamp
+  channel             e.g. #hesperia-teacher
+  type                RUN_START | ENGINE_ENVELOPE | TEACHER_REQUEST |
+                      TEACHER_RESPONSE | REWEIGHT_PREVIEW | RUN_DONE
+  payload             object or chunked body for large envelopes
+
+  reweight_preview[] (emitted, not applied in 0.6.3)
+  ---------------------------------------------------
+  parameter_key       e.g. W_e:A->B or concept.field
+  value_before        numeric
+  value_after         numeric
+  applied             0 always in 0.6.3
+
+================================================================================
+§37  ENTITY TOUCHPOINTS BY CELL — WHO ENTERED THE STORY WHEN
+================================================================================
+
+  CELL  ENTITIES (primary touch)              NATURE OF TOUCH
+  ----  ------------------------------------  ----------------------------------
+  0     igareosh, brain bootstrap             split decision, remote policy
+  1     Gena, Abelard                          guards code, nginx planning
+  2     Gena, Felix, Ethan                     math contract, brain mirrors
+  3     Gena, Felix, Ethan                     layers, dict builds, RUNNABLE
+  4     Gena, Felix                            pivot hygiene
+  5     Felix, Gena, Ethan, Abelard            seals, shipping, D3 viewer
+  7     Gena, Felix, Grace, Abelard            OUT-VIEW, hex, nginx :8010
+  8     Ethan, Felix, Grace                    immaculate prod policy
+  9     Felix, Ethan                           0.6.0 tag, CI gate
+  10    Gena, Grace, Felix, Ethan              HES-61 contract wave
+  11    Ethan, Grace, Sophia, Daniel, Felix    KSI 81-row wave
+  12    Abelard, Gena, Ethan, Grace            HINS remediation
+  13    Felix, Abelard, Gena, Grace, Sophia,   H063 50-row wave, deploy,
+        Daniel, Liam, Ethan, Marcus, Noah…      MySQL, tersagor 0149120
+  14    Ethan, Felix, Cursor                   product runtime port e9eaa07
+  15    (future) Grace, Felix, Gena, Daniel    apply + approvals — not started
+
+  Cursor default orchestrates; invocation by name switches entity context.
+  Hesperia product execution rows assign owners in active.md — this table is
+  historical summary for evolution readers, not live workflow state.
+
+================================================================================
+§38  COMMIT DIARY MAP — ROUGH TXT ENTRY RANGES BY CELL
+================================================================================
+
+  For forensic work open ETHAN-HESPERIA-0-TO-063-COMMIT-ROADMAP-2026-06-14.txt
+
+  CELL  APPROX TXT ENTRIES  ERA
+  ----  -----------------  ------------------------------------------
+  0     2–15                 Feb 9–18 genesis
+  1     16–45                Feb 19–20 v0.2
+  2     46–80                Feb 22–23 v0.3
+  3     81–120               Feb 23–24 v0.4
+  4     121–135              Feb 24 pivot
+  5–6   136–280              Feb 26 – Apr 14 v0.5 train
+  7     281–340              Apr 7 – May 11 UI
+  8     341–365              May 18–19 split
+  9     366–390              May 28 0.6.0
+  10–14 brain+product Jun     391–414 + post-diary e9eaa07 (after TXT cut)
+
+  TXT diary frozen at 414 entries 2026-06-14; e9eaa07 commit is after diary end —
+  documented in §10, §26, CELL 14 narrative.
+
+================================================================================
+§39  PASS 4 AUDIT CHECKLIST — VERIFIED VS DOCUMENTED
+================================================================================
+
+  Audit run: 2026-06-14 · Ethan pass 4 · SSH alunel + prichindel.
+
+  CHECK                                         RESULT
+  --------------------------------------------  ---------------------------------
+  dev workspace HEAD == e9eaa07                 VERIFIED
+  prod disk HEAD == e9eaa07                     VERIFIED
+  tag 0.6.3^{commit} == 122d45b                 VERIFIED
+  tag hesperia-0.6.3^{commit} == 122d45b        VERIFIED
+  runtime/irc_teacher/ (10 modules)             VERIFIED @ e9eaa07 dev clone
+  hesperia-v0.4.0 tag → dcbb38b                 VERIFIED; registry corrected
+  alunel /data/hesperia/hesperia HEAD           cc94b09 — LAG vs e9eaa07 (rule 8)
+  tersagor 0149120                              per Abelard report; not re-SSH pass 4
+  Companion 414 TXT + Grace narrative           VERIFIED paths in brain repo
+  IRC Teacher spec in governance/               VERIFIED
+
+  Realignments pass 4: CONSISTENCY RULES 7–8 · §13 gates · tag registry · host map
+  analyze mirror · document map · this §39 · §40 synthesis · signature pass 4.
+
+  Residual ops (not doc defects): ff analyze mirror to e9eaa07; first MySQL live row;
+  optional systemd restart on prichindel; tersagor import wrap.
+
+  Sign-off: internally consistent for cited SHAs at pass 4 close.
+
+================================================================================
+§40  ONE-PAGE SYNTHESIS — HESPERIA 0 → NOW (COLD START)
+================================================================================
+
+  WHAT IT IS
+    Russian TFP execution through layered graphs, dictionaries, dynamics —
+    browser-inspectable, IRC-auditable, Teacher proposals pending until 0.7.0 apply.
+
+  WHERE BYTES LIVE
+    PROD   Atomic-Commits-Team/hesperia @ e9eaa07 (prichindel disk)
+    DEV    igareosh/hesperia + docs/archive (alunel workspace @ e9eaa07)
+    BRAIN  igareosh/cursor — specs, Grace, deploy, this tree
+    IRC    tersagor VM @ 0149120 integration; product runtime canonical @ e9eaa07
+
+  VERSION SPINE (today)
+    0.6.0 d06f674  sealed runtime · 0.6.1 f87b2bb  analyze contract
+    0.6.2 cc94b09  KSI seal · 0.6.3 122d45b  archive/reconcile tag
+    main  e9eaa07  runtime/irc_teacher/ in product repo
+
+  SIXTEEN CELLS IN ONE BREATH
+    0 zygote → 1 membrane → 2 nucleus → 3 organs → 4 skeleton → 5 heart →
+    7 cortex → 8 split → 9 shell → 10 nerve → 11 immune → 12 skin →
+    13 voice → 14 limb → 15 apply (planned)
+
+  OPERATOR NEXT: Lounge · §28 flags · RU TFP · irc-trace.jsonl · MySQL §29
+
+  DO NOT: apply graph in 0.6.3 · cite d313bfd · prod team docs · raw text to OpenAI ·
+         applied=1 before 0.7.0
+
+================================================================================
+EPILOGUE — WHAT "MAIN DISH" MEANS
+================================================================================
+
+The main dish is not the prettiest commit. It is not the tag with the best name.
+The main dish is what an operator can point to and say: **this runs, this is sealed,
+this is where bytes live, this is what we refuse to mix.**
+
+Today that dish is:
+  • Product repo @ e9eaa07 with runtime/irc_teacher/ on both remotes
+  • Prod surfaces @ hesperia.prichindel.com with API and inspector up (HINS)
+  • 0.6.3 contracts in schemas/ and governance specs in brain
+  • Tag 0.6.3 @ 122d45b frozen as reconcile/archive milestone
+  • Tersagor ready to speak on IRC when flags lift (0149120 integration)
+  • 0.7.0 waiting politely outside the kitchen door
+
+The tree from zero cell to now is not finished — organisms never are — but the lineage
+is no longer ambiguous. Read the 414-commit diary when you need forensic precision.
+Read this tree when you need to know **what kind of creature Hesperia became** at each
+division, what the team believed at each month, and which drifts were fixed vs which
+capabilities were deliberately deferred.
+
+Pass 4 audit closes this artifact series. Further Hesperia history: new dated
+supplement or §14 changelog append only — not silent rewrites of pass 1–3 history.
+
+Document stats at close: 1970+ lines · sections §0–§40 · 16 cells · 4 passes ·
+live SHA audit pass 4 (2026-06-14).
+
+================================================================================
+SIGNATURE AND COPYRIGHT
+================================================================================
+
+SIGNED: Team lead (Ethan) | Hesperia evolution tree | 2026-06-14 | pass 4 AUDIT FINAL
+       Grace archive · live verify · realign · last bells and whistles
+       Companion: 414-commit roadmap · 0.6.3 Grace narrative · tag registry v2
+
+Copyright © 2026 igareosh.com · prichindel.com (dev company). All rights reserved.
+
+This document is team governance and product-history archive text published in the
+igareosh/cursor brain repository. It is not a substitute for Hesperia product
+LEGAL_NOTICE.md or LICENSE in Atomic-Commits-Team/hesperia. Permission to copy
+within the team cluster and Proton brain sync is implicit for operational use;
+external redistribution should preserve this copyright block and canonical path.
+
+Canonical file link (brain repo):
+  operational/assignments/reports/ETHAN-HESPERIA-EVOLUTION-TREE-0-TO-NOW-2026-06-14.txt
+
+Full workspace path:
+  /data/altitudine/prichindel.com/operational/assignments/reports/ETHAN-HESPERIA-EVOLUTION-TREE-0-TO-NOW-2026-06-14.txt
+
+GitHub (when pushed):
+  https://github.com/igareosh/cursor/blob/main/operational/assignments/reports/ETHAN-HESPERIA-EVOLUTION-TREE-0-TO-NOW-2026-06-14.txt
+
+================================================================================

@@ -1,0 +1,17 @@
+# Ethan PO-30 — switchable domain packs (same engine, different policy + dict paths).
+active_pack: default
+packs:
+  default:
+    note: Base dlcr_policy.yaml only
+  scientific:
+    dict_a_max_accepted: 80
+    hex_smooth_alpha: 0.0
+  clinical_speech:
+    dict_a_max_accepted: 120
+    hex_smooth_alpha: 0.08
+  tfp:
+    dict_a_max_accepted: 120
+    hex_smooth_alpha: 0.06
+  psychodynamic:
+    dict_a_max_accepted: 100
+    hex_smooth_alpha: 0.07

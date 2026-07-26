@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>CLAUDE — Hesperia Wiki</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+<link rel="stylesheet" href="style.css"></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">CLAUDE — Hesperia Wiki</h1>
+</header>
+<h1
+id="claudemd--hesperia-parametervariable-wiki-read-this-first">CLAUDE.md
+— Hesperia Parameter/Variable Wiki (read this first)</h1>
+<p><strong>Scope of this file:</strong> only
+<code>colombo_research/hesperia/wiki/</code> and its rendered sibling
+<code>colombo_research/hesperia/wiki_site/</code>. Claude Code loads
+this automatically for any agent working in this directory, in addition
+to the repo-root <a
+href="../../../CLAUDE.html"><code>CLAUDE.md</code></a> — same
+convention, narrower scope. If you were pointed at this wiki and haven't
+read the root file yet, read that one first for entity identity
+(Felix/Colombo/Abelard/…); this file assumes it.</p>
+<hr />
+<h2 id="what-this-is">What this is</h2>
+<p>A <strong>wikipedia-style, interlinked register</strong> of every
+Hesperia math variable/parameter this research thread has verified in
+<code>/data/hesperia/hesperia</code> — one page per item, LIVE and DEAD
+alike, each with: <strong>status, type, responsible module, value,
+formula (yields), produced-from (inputs), needed-by (consumers), origin,
+notes</strong>. Built bottom-up from a one-year
+Java-prototype-vs-shipped-code audit, not top-down from a spec — every
+claim traces to a <code>grep</code>/file-read done during that research,
+not to a memory of what should be true.</p>
+<p><strong>Why it exists:</strong> Colombo's research kept regenerating
+the same lookups (is X live? what replaced it? why did Y die?) across
+separate one-off <code>.md</code> audits. This wiki is the durable,
+navigable form of that research — the thing to open <em>before</em>
+re-deriving an answer that's already been found once.</p>
+<p><strong>Operator mandate (2026-07-19):</strong> all-encompassing
+grind — theory, decisions, science; per step / line of code what and
+where happens, for what reasons, relations interlinked. Expand via
+<code>HWIKI-*</code> wave. Do not treat Coverage-Ledger gaps as
+permanent silence.</p>
+<h2 id="structure">Structure</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Path</th>
+<th>What</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>index.md</code></td>
+<td>Home page — category list, status legend, full alphabetical page
+list</td>
+</tr>
+<tr class="even">
+<td><code>categories/*.md</code></td>
+<td>12 hub pages (Geometry, Core Math Contract, Tension, Propagation,
+Thresholds, Graph Metrics, Entropy, Stability, Similarity, Trust,
+Concept Dictionary, Dead/Rejected) — each a table of its member
+pages</td>
+</tr>
+<tr class="odd">
+<td><code>pages/*.md</code></td>
+<td>One page per variable/parameter/formula — the actual content</td>
+</tr>
+<tr class="even">
+<td><code>Coverage-Ledger.md</code></td>
+<td><strong>Read before assuming completeness.</strong> States
+explicitly what's <em>not</em> wikified yet (full L1–L11 layer
+variables, KME's 35 derived metrics individually, TRIZ internals) and
+open/unresolved questions carried over from the research passes</td>
+</tr>
+<tr class="odd">
+<td><code>tools/generate_wiki.py</code></td>
+<td><strong>Source of truth generator.</strong> All 90 pages + 12
+category hubs + <code>index.md</code> + <code>Coverage-Ledger.md</code>
+are rendered from the <code>ITEMS</code> list in this script — not
+hand-authored</td>
+</tr>
+<tr class="even">
+<td><code>tools/render_wiki_html.py</code></td>
+<td>Converts every <code>.md</code> in this folder to static HTML (via
+<code>pandoc</code>) into <code>../wiki_site/</code>, rewriting
+<code>.md</code> links to <code>.html</code></td>
+</tr>
+<tr class="odd">
+<td><code>tools/serve.py</code></td>
+<td>Copy of the server actually running (canonical source; the live copy
+is <code>../wiki_site/serve.py</code>, colocated with what it
+serves)</td>
+</tr>
+<tr class="even">
+<td><code>../wiki_site/</code></td>
+<td>Rendered HTML output + the running server. Not the source of truth —
+regenerated from this folder, don't hand-edit <code>.html</code>
+there</td>
+</tr>
+</tbody>
+</table>
+<h2 id="where-its-served">Where it's served</h2>
+<p>Systemd unit <strong><code>hesperia-wiki.service</code></strong> on
+the <strong>altitudine</strong> dev VM, always-on (<code>enabled</code>,
+survives reboot), threaded static server with
+reverse-DNS-lookup-on-request disabled (a known <code>http.server</code>
+stall cause — see <code>tools/serve.py</code>):</p>
+<ul>
+<li>LAN DNS: <code>http://wiki.hesperia.local/</code> (dnsmaster AdGuard
+→ <code>192.168.100.65</code>; nginx <code>:80</code> → wiki
+<code>:8901</code>; also <code>wiki.hesperia</code>,
+<code>wiki.hesperia.prichindel.local</code>)</li>
+<li>LAN direct: <code>http://192.168.100.65:8901/index.html</code> (or
+<code>:80</code> via nginx)</li>
+<li>Tailnet: <code>http://100.89.236.59:8901/index.html</code> (or
+<code>:80</code> if using LAN DNS name over tailnet IP)</li>
+</ul>
+<p><strong>Note:</strong> bare <code>.local</code> is mDNS-reserved on
+Linux <code>systemd-resolved</code>. altitudine routes
+<code>~hesperia.local</code> → dnsmaster
+(<code>/etc/systemd/resolved.conf.d/20-hesperia-local.conf</code>).
+Prefer <code>wiki.hesperia.prichindel.local</code> on hosts that only
+route <code>prichindel.local</code>.</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">systemctl</span> status hesperia-wiki.service      <span class="co"># check</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> systemctl restart hesperia-wiki.service <span class="co"># after changing tools/serve.py (content-only changes don&#39;t need a restart)</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">sudo</span> journalctl <span class="at">-u</span> hesperia-wiki.service <span class="at">-f</span>  <span class="co"># tail logs</span></span></code></pre></div>
+<p><code>ufw</code> on this host allow-lists per service — port
+<code>8901/tcp</code> has explicit rules for
+<code>192.168.100.0/24</code> (LAN) and <code>100.64.0.0/10</code>
+(tailnet), tagged <code>hesperia-wiki</code> in
+<code>sudo ufw status</code>. If reachability breaks again, check there
+before assuming the app is at fault — that's what actually caused the
+first "it hangs" report on 2026-07-19.</p>
+<h2 id="how-to-update-this-wiki">How to update this wiki</h2>
+<p><strong>Two ways, different durability:</strong></p>
+<ol type="1">
+<li><p><strong>Durable (do this for anything worth keeping):</strong>
+edit <code>tools/generate_wiki.py</code> — add or modify an
+<code>add(name, category, status, kind, module, value, formula, produced_from, needed_by, origin, notes)</code>
+call, then regenerate:</p>
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> tools/generate_wiki.py          <span class="co"># rewrites pages/, categories/, index.md, Coverage-Ledger.md</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> tools/render_wiki_html.py        <span class="co"># re-renders ../wiki_site/*.html from the updated .md</span></span></code></pre></div>
+<p>No service restart needed — the running server just serves whatever
+is on disk.</p></li>
+<li><p><strong>Quick, non-durable:</strong> hand-edit a file directly in
+<code>pages/*.md</code>. Fine for a one-off correction someone needs to
+see <em>now</em>, but <strong>the next <code>generate_wiki.py</code> run
+overwrites it</strong> — anything worth keeping has to make it back into
+the generator's <code>ITEMS</code> list, or it's lost on the next
+regen.</p></li>
+</ol>
+<p><strong>Adding cross-links:</strong> <code>produced_from</code> /
+<code>needed_by</code> entries are plain strings; the generator
+auto-links any string that exactly matches another item's
+<code>name</code>, and renders anything else as plain italic text (an
+external input with no page). Inline <code>[[Page Name]]</code> or
+<code>[[Page Name|label]]</code> also works inside
+<code>formula</code>/<code>origin</code>/<code>notes</code> strings —
+same auto-link-or-italicize rule.</p>
+<h2 id="status-vocabulary">Status vocabulary</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Code</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>🟢 <code>LIVE_FULL</code></td>
+<td>Matches proposal (if any), running in production path</td>
+</tr>
+<tr class="even">
+<td>🟢 <code>LIVE_SUCCESSOR</code></td>
+<td>Same idea, different name/formula than any Java ancestor</td>
+</tr>
+<tr class="odd">
+<td>🟡 <code>PARTIAL</code></td>
+<td>Present in a narrow slice/tool, not the full contract</td>
+</tr>
+<tr class="even">
+<td>🔴 <code>DEAD</code></td>
+<td>No implementation under this name or a successor formula</td>
+</tr>
+<tr class="odd">
+<td>🔴/🟢 <code>DEAD_ALGO_SURVIVED</code></td>
+<td>Name dead, but the underlying algorithm runs elsewhere — see the
+linked live page (the <code>largest_component_size</code> ↔︎ Java
+<code>L(R)</code> case is the flagship example)</td>
+</tr>
+<tr class="even">
+<td>🔵 <code>BEYOND</code></td>
+<td>Shipped in LIVE, not proposed in the Java corpus</td>
+</tr>
+<tr class="odd">
+<td>⚪ <code>UNVERIFIED</code></td>
+<td>Claimed in an earlier doc, did not re-confirm by direct
+<code>grep</code>/read — don't cite as fact without re-checking</td>
+</tr>
+<tr class="even">
+<td>🔴 <code>REJECTED</code></td>
+<td>Explicit, reasoned decision against (e.g. KL divergence, DFT ring
+smoothness) — not an oversight</td>
+</tr>
+</tbody>
+</table>
+<h2 id="source-research-what-this-wiki-was-built-from">Source research
+(what this wiki was built from)</h2>
+<ul>
+<li><a
+href="../COLOMBO-HESPERIA-JAVA-PROPOSED-VS-ACCOMPLISHED-AUDIT-2026-07-19.html"><code>COLOMBO-HESPERIA-JAVA-PROPOSED-VS-ACCOMPLISHED-AUDIT-2026-07-19.md</code></a>
+— symbol-level DEAD/PARTIAL register (Colombo)</li>
+<li><a
+href="../COLOMBO-HESPERIA-MATH-PARAMS-THEORY-MAP-2026-07-19.html"><code>COLOMBO-HESPERIA-MATH-PARAMS-THEORY-MAP-2026-07-19.md</code></a>
+— LIVE math register, provenance chains (Colombo)</li>
+<li><a
+href="../FELIX-HESPERIA-DEAD-PARTIAL-REIMPLEMENTATION-VIABILITY-2026-07-19.html"><code>FELIX-HESPERIA-DEAD-PARTIAL-REIMPLEMENTATION-VIABILITY-2026-07-19.md</code></a>
+— engineering viability of reviving each DEAD/PARTIAL item (Felix)</li>
+<li><a
+href="../COLOMBO-HESPERIA-DEAD-SCIENCE-BOTTOM-UP-SURFACE-2026-07-19.html"><code>COLOMBO-HESPERIA-DEAD-SCIENCE-BOTTOM-UP-SURFACE-2026-07-19.md</code></a>
+— discipline-level bottom-up trace of where the underlying science
+survived (Colombo)</li>
+</ul>
+<p>If a wiki page's claim conflicts with one of these docs, the wiki
+should win <em>only if</em> it was independently re-verified — check the
+page's <strong>Notes</strong> section; several pages explicitly flag
+where a claim from an earlier doc did <strong>not</strong> re-confirm
+(e.g. <code>Wiener feedback on alpha (k_s / k_j)</code> —
+<code>UNVERIFIED</code>, contradicted by a direct grep). Don't silently
+trust older docs over the wiki, or the wiki over the docs — check what
+was actually re-run.</p>
+<h2 id="mcp-tooling-hwiki-mcp-wave-2026-07-19">MCP tooling (HWIKI-MCP
+wave, 2026-07-19)</h2>
+<p>Two complementary lookup paths — semantic recall vs. exact structured
+record:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Path</th>
+<th>Tool</th>
+<th>When</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Semantic</strong></td>
+<td><code>query_knowledge(query=…, layer="hesperia_wiki")</code>
+(<code>chroma-knowledge</code> MCP)</td>
+<td>Fuzzy recall across many pages; "what do we know about X area"</td>
+</tr>
+<tr class="even">
+<td><strong>Exact/structured</strong></td>
+<td><code>query_hesperia_wiki(query, top_k)</code>,
+<code>get_hesperia_wiki_page(name)</code> (<code>hesperia-wiki</code>
+MCP)</td>
+<td>One named symbol, precise status/module/formula fields, no
+Chroma/ingest-lag dependency — reads <code>index.json</code>
+directly</td>
+</tr>
+</tbody>
+</table>
+<p><code>hesperia-wiki</code> MCP server:
+<code>agent_mcp_hesperia_wiki/</code> (repo root), registered in
+<code>governance/mcp-config.json</code> → mirrored to
+<code>.mcp.json</code> / <code>.cursor/mcp.json</code> / VSCode via
+<code>scripts/deploy-mcp-config-global.sh</code>. Runs locally
+(<code>bash scripts/agent-mcp-hesperia-wiki.sh</code>) — no SSH, no
+Chroma, works even when prichindel/CHROMA-1 is unreachable. Third tool,
+<code>format_hesperia_wiki_science(name_or_query)</code>, returns the
+fixed citation block below directly.</p>
+<p><strong><code>index.json</code></strong> (sibling to
+<code>index.md</code>, same <code>tools/generate_wiki.py</code> regen
+step) is the structured mirror every tool above reads —
+<code>{name, status, module, formula, produced_from, needed_by, origin, notes, source_page, lan_url, tailnet_url}</code>
+per item. Never hand-edit it; it's derived, same rule as the
+<code>.md</code> pages.</p>
+<p><strong>Context RAG</strong>:
+<code>cluster/chroma-server/context_rag.py --query "…"</code>
+auto-includes <code>retrieval.wiki_hits</code> when the query matches a
+wiki item (or force with <code>--hesperia-wiki</code>) — schema:
+<code>governance/CONTEXT-RAG-PACKET-SCHEMA.md</code> §5.</p>
+<p><strong>Code↔︎wiki linker</strong>
+(<code>tools/link_symbol.py &lt;symbol&gt;</code>): grep-based evidence
+gatherer, not a status-decider — finds real definitions + call sites in
+the Hesperia checkout and prints a <code>generate_wiki.py</code>
+<code>add(...)</code> stub with <code>module</code>/call-sites
+pre-filled from actual grep hits and
+<code>STATUS_TODO</code>/<code>FORMULA_TODO</code> left for a human
+(status is a judgment call, never auto-assigned). Use this before
+writing a new page by hand.</p>
+<p><strong>Science (wiki) citation block</strong> — fixed format for
+agent/runbook responses that need to cite a wiki fact without
+re-deriving it:</p>
+<pre><code>**Science (wiki):** &lt;name&gt; — `&lt;status&gt;` · module: `&lt;module&gt;` · &lt;why, from notes/formula/origin&gt; · &lt;LAN or tailnet URL&gt;</code></pre>
+<p>Get it via <code>format_hesperia_wiki_science(name_or_query)</code>
+(MCP tool) or
+<code>python3 tools/science_citation.py "&lt;name or query&gt;"</code>
+(no-MCP-client CLI fallback, e.g. from a shell runbook step). Formatting
+logic lives once in <code>agent_mcp_hesperia_wiki/citation.py</code> —
+both callers use it, so the shape never drifts between them. On no match
+it says so explicitly ("no matching wiki record") — never invents a
+status.</p>
+<h2 id="ownership">Ownership</h2>
+<p><strong>Content</strong> (adding items, correcting status,
+re-verifying claims) — <strong>Colombo</strong> (research/formalization
+role). <strong>Serving infrastructure + MCP tooling</strong> (systemd
+unit, firewall, <code>agent_mcp_hesperia_wiki</code>, context-rag
+wiring, linker CLI) — <strong>Felix</strong>. <strong>CHROMA-1
+mirror</strong> (<code>layer=hesperia_wiki</code>) — Abelard ingest
+after VECTOR-STORAGE-APPROVAL. Team policy: <a
+href="../../../governance/HESPERIA-PARAMETER-WIKI-SOURCE.html">HESPERIA-PARAMETER-WIKI-SOURCE.md</a>
+· runbook <code>SCRIPT-RUNBOOK-hesperia-parameter-wiki</code>. Agents
+query via <code>query_knowledge(layer="hesperia_wiki")</code> (semantic)
+or <code>query_hesperia_wiki</code>/<code>get_hesperia_wiki_page</code>
+(exact) before re-deriving status. Report a broken link or a wrong
+status the same way any defect gets reported in this repo: <strong>task
+Grace</strong>.</p>
+<hr />
+<p>SIGNED: Developer (Felix) + Research (Colombo) | wiki onboarding /
+operating doc | 2026-07-19 | HWIKI-MCP-01..05 tooling section added</p>
+</body>
+</html>
