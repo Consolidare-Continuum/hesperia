@@ -1,60 +1,52 @@
-# HESPERIA — Reference Architecture Definition (RAD)
+# HESPERIA — Legal notice (proprietary)
 
-**Copyright © 2026 igareosh.com**
+**Copyright © 2026 Societatea cu Răspundere Limitată „CONSOLIDARE CONTINUUM”**  
+**(„CONSOLIDARE CONTINUUM” S.R.L.)** — IDNO **1026023120076**, Republic of Moldova.
 
-**Author and Architect:** Platonov Igor (aka @igareosh)  
-**All rights reserved.**
+**All rights reserved. Proprietary. No shared rights.**
 
 ## Ownership
 
-The HESPERIA Reference Architecture Definition (RAD), including its architecture, structural concepts, specifications, documentation, diagrams, and associated system design materials, constitutes the intellectual property of:
+The Hesperia product — including source code, architecture, structural concepts,
+specifications, documentation, diagrams, calibration assets, and associated
+system design materials in this repository — is the exclusive intellectual
+property of:
 
-**Platonov Igor (aka @igareosh)**  
-https://igareosh.com
+**Societatea cu Răspundere Limitată „CONSOLIDARE CONTINUUM”**  
+IDNO 1026023120076 · Registered 09.07.2026 (CUD2026027832)  
+Seat: str. 31 August 1989, nr. 139, apt. 24, MD-2004, Buiucani, Chișinău
 
-The architecture described herein represents the original conceptual and structural design of the HESPERIA system.
+| Role | Person |
+|------|--------|
+| Sole shareholder (100%) | Platonov Igor |
+| Administrator | Platonov Igor |
+| Beneficial owner | Platonov Igor |
+| Creator of novatory ideas | Platonov Igor |
+| Author-implementor | Platonov Igor |
 
-## License Status
+## Access
 
-This repository and its architectural materials are provided under a **Restricted Research Disclosure License**.
+Access to this private repository is granted **only** under a written company
+agreement (typically a non-disclosure agreement + access grant).  
 
-The contents are made available for **inspection and reference purposes only**.
+There is **no** public disclosure, **no** open-source license, **no** implied
+research or inspection grant, and **no** shared rights with any third party
+unless CONSOLIDARE CONTINUUM S.R.L. so agrees in writing, or as compelled by
+a competent court.
 
-No rights to reproduce, redistribute, or implement the architecture are granted except with **explicit written permission** from the author.
+See `LICENSE`, `NOTICE`, and `docs/corporate/ACCESS-UNDER-NDA.md`.
 
-## Restrictions
+## Historical trail
 
-Without explicit written authorization from the author, the following are **strictly prohibited**:
-
-- reproduction of the architecture in whole or in part  
-- creation of derivative architectures or systems based on this design  
-- commercial or production use of the architecture or its structural concepts  
-- redistribution or republication of the architecture documentation  
-- implementation of systems derived from or substantially based on this design  
-
-These restrictions apply to, but are not limited to: system structure; layer definitions and compute execution_flow; topology and structural geometry design; structural measurement metrics; Universal Structural Fingerprint (USF) model; propagation and dynamism mechanisms; rule-based structural logic architecture; interpretation framework.
-
-## Allowed Use
-
-The materials may be used **solely** for:
-
-- academic inspection and study  
-- internal technical evaluation of the repository  
-- review of architectural concepts and system design  
-
-No rights to implementation, reproduction, redistribution, or derivative development are granted.
-
-## Reference Architecture Scope
-
-The HESPERIA RAD documentation defines the canonical structure of the system, including: reference architecture definition; dependency boundary rules; math authority enforcement; topology invariants; layer execution_flow ordering; Universal Structural Fingerprint (USF) schema; architecture guard mechanisms and tests. These documents collectively establish the architectural contract of the HESPERIA system.
-
-## RAD Freeze
-
-The repository is in **Reference Architecture Definition (RAD) freeze** state: the architecture is considered stable; structural boundaries are enforced by design; modifications require formal architectural review.
+Earlier notices naming igareosh.com, prichindel.com, or Platonov Igor in a
+personal capacity remain **historical**. For this company repository and
+product line, copyright and ownership are vested in the SRL
+(executed dual-MSign deeds CC-HES-IP-ASSIGN-2026-07-26 — see `docs/corporate/`).
 
 ## Contact
 
-**Author:** Platonov Igor (@igareosh)  
-**Website:** https://igareosh.com  
+- consolidare_continuum@proton.me (legal entity)  
+- igareosh@igareosh.com (corporate)
 
-All licensing inquiries or requests for permission to use the architecture must be directed to the author.
+Do **not** publish or redistribute this repository or its contents without
+written authorization from CONSOLIDARE CONTINUUM S.R.L.

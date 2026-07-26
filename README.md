@@ -1,8 +1,16 @@
-# Hesperia (prod)
+# Hesperia
 
-Runnable product. Documentation and context: https://github.com/igareosh/hesperia
+**Copyright © 2026 CONSOLIDARE CONTINUUM S.R.L.** (IDNO 1026023120076) — All rights reserved.  
+**Proprietary.** Access only under company written agreement (NDA). See `LICENSE`, `NOTICE`, `LEGAL_NOTICE.md`, `docs/corporate/`.
 
-Current architecture authority:
+Private company product repository of Societatea cu Răspundere Limitată „CONSOLIDARE CONTINUUM”.  
+Sole shareholder / administrator / author-implementor: **Platonov Igor**.
+
+---
+
+## Product (sealed line)
+
+Runnable product tree. Architecture authority:
 
 - `core.domain` is the canonical shared KME/domain computation layer.
 - `core.runtime` is the canonical generic runtime module layer.
@@ -13,4 +21,7 @@ Current architecture authority:
 | Line | Tag |
 |------|-----|
 | Rollback (2026-05-18) | `hesperia/rollback-line-20260518` |
-| Dev-ready (this) | `hesperia/dev-ready-line-20260518` |
+| Dev-ready | `hesperia/dev-ready-line-20260518` |
+
+Upstream sealed tips are received from the Atomic-Commits-Team prod line under
+company mirror discipline. **Do not** invent version bumps in this org repo.
