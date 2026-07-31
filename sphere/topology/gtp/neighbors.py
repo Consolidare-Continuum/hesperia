@@ -1,5 +1,5 @@
 # HESPERIA — GTP-05 support: legal-neighbor rule N(h) for GTPA.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """
 Spec §10.1 (23_SPEC__) calls for N(h) from "loopability / traversal policy (area ring
 steps, family patch steps, hex index steps — frozen graph)", citing an external
@@ -17,9 +17,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 
 from sphere.topology.topology_loader import get_icosahedral_adjacency
+from core.topology.invariant_catalog import AREAS as NUM_AREAS, FAMILIES_PER_AREA
 
-NUM_AREAS = 12
-FAMILIES_PER_AREA = 24
 HEX_PER_FAMILY = 250  # INV-HEX-PER-FAM-SEM
 
 

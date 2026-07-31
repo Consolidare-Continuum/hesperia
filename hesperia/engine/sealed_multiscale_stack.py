@@ -1,5 +1,5 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
 # See LEGAL_NOTICE.md for full terms.
 
@@ -38,10 +38,11 @@ from hesperia.system.version import pch_bundle_id
 from hesperia.engine.hex_dynamics import LocalHexMicrophysicsParams, step_hex_local_microphysics
 from hesperia.engine.hspr_index import compute_hspr_index, field_state_from_hex_stack
 from hesperia.engine.product_signals import compute_product_signals, hex_hotspot_ring_values, try_triz_contradiction_pressure
-
-NUM_FAMILIES = 288
-NUM_AREAS = 12
-FAM_PER_AREA = 24
+from core.topology.invariant_catalog import (
+    AREAS as NUM_AREAS,
+    FAMILIES_PER_AREA as FAM_PER_AREA,
+    TOTAL_FAMILIES as NUM_FAMILIES,
+)
 
 
 def _area_from_family(F: np.ndarray) -> np.ndarray:

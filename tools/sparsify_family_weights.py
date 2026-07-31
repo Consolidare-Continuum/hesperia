@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# HESPERIA — RAD. family_weights → family_weights_sparse_v052 (graph sparsification v0.5.2).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# HESPERIA — RAD. family_weights → family_weights_sparse (graph sparsification).
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ if str(REPO) not in sys.path:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Build family_weights_sparse_v052.json from full matrix + concept clusters.")
+    ap = argparse.ArgumentParser(description="Build family_weights_sparse.json from full matrix + concept clusters.")
     ap.add_argument("--family-weights", type=Path, required=True, help="family_weights.json or family_contradiction_matrix.json")
     ap.add_argument("--concept-clusters", type=Path, required=True, help="concept_clusters.json (clusters[].concepts or .families)")
     ap.add_argument("--out", type=Path, required=True)
@@ -23,7 +23,7 @@ def main() -> int:
     ap.add_argument("--include-matrix", action="store_true", help="Write full matrix_sparse (large)")
     args = ap.parse_args()
 
-    from hesperia.extensions.triz.family_weights_sparsify_v052 import run_sparsify_from_paths
+    from hesperia.extensions.triz.family_weights_sparsify import run_sparsify_from_paths
 
     try:
         body = run_sparsify_from_paths(

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — Product E2E (Task 4): RAW_TEXT -> analysis_service -> projection (inside service) -> schema guard.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 #
 # Internal / full repo E2E remains: python3 -m runtime.pipeline.run_e2e_all
 # This component is the minimal auditable product proof (no TRIZ, clinical, research, field calibration grid).

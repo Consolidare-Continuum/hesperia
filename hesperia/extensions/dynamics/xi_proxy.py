@@ -10,7 +10,7 @@ from typing import TYPE_CHECKING, Any
 if TYPE_CHECKING:
     from core.domain.models import ActiveGraph
 
-NUM_AREAS = 12
+from core.topology.invariant_catalog import AREAS as NUM_AREAS
 
 
 def _xi_scale_from_env() -> float:

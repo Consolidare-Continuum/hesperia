@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Any
 
-NUM_AREAS = 12
+from core.topology.invariant_catalog import AREAS as NUM_AREAS
 
 
 def contradiction_signal_12_from_con_rows(con_rows: list[dict[str, Any]]) -> list[float]:

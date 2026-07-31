@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -16,9 +16,15 @@ from pathlib import Path
 from typing import Any
 
 from .attribution_shared import DEFAULT_TEXT_CAP, normalize, tokenize
-from core.topology.invariant_catalog import FAMILIES_PER_AREA, HEXES_PER_FAMILY, SIDES_PER_HEX, forward, validate_side_id
+from core.topology.invariant_catalog import (
+    FAMILIES_PER_AREA,
+    HEXES_PER_FAMILY,
+    SIDES_PER_HEX,
+    TOTAL_FAMILIES,
+    forward,
+    validate_side_id,
+)
 
-TOTAL_FAMILIES = 288
 TOP_K = 32
 EPS = 1e-9
 

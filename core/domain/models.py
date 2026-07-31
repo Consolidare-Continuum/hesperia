@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -313,13 +313,16 @@ class DocumentInput:
 
 @dataclass
 class MetricReport:
-    """Full pipeline output: 41 metrics, fingerprint vector, hash, TRIZ signals (optional), JSON maps."""
+    """Full pipeline output: 41 metrics, fingerprint vector, hash, JSON maps."""
 
     source_id: str
     primitive_map: dict[str, float]
     derived_map: dict[str, float]
     fingerprint: DomainFingerprint
-    triz_signals: object | None = None  # hesperia.extensions.triz.models.TRIZSignals when set
+    # Always None from core (core.domain.pipeline has no relation to any extension/module).
+    # An integration layer outside core (e.g. hesperia/engine/kme/clinical_bridge.py) may
+    # attach an extension-defined object here after the fact if it wants to.
+    triz_signals: object | None = None
 
 
 # ---------------------------------------------------------------------------

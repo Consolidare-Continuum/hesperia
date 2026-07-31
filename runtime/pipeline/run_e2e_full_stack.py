@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — Single encompassing E2E: all run_e2e_all artifacts + product surface + physics + system seal + manifest.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 #
 # Usage:
 #   python3 -m runtime.pipeline.run_e2e_full_stack [--out-dir DIR] [--text "..."] [--calibration-batch-n N]

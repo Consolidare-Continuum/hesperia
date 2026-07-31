@@ -1,4 +1,4 @@
-PROPRIETARY SOFTWARE LICENSE
+RESTRICTED RESEARCH DISCLOSURE LICENSE
 
 Copyright (c) 2026 Societatea cu Răspundere Limitată „CONSOLIDARE CONTINUUM”
 („CONSOLIDARE CONTINUUM” S.R.L.), IDNO 1026023120076, Republic of Moldova.
@@ -8,28 +8,25 @@ This software and all associated documentation, architecture, specifications,
 data, assets, and materials in this repository (the "Software") are the
 exclusive proprietary property of CONSOLIDARE CONTINUUM S.R.L.
 
-No license is granted to any person except by a separate written agreement
-with CONSOLIDARE CONTINUUM S.R.L. (including a duly executed non-disclosure
-agreement and access grant). Without such written agreement, you may not
-use, copy, modify, merge, publish, distribute, sublicense, sell, implement,
-or create derivative works based on the Software, in whole or in part.
+This is the development repository. The contents are made available for
+inspection and reference purposes only, per LEGAL_NOTICE.md. No license is
+granted to reproduce, redistribute, sublicense, sell, implement, or create
+derivative works based on the Software, in whole or in part, except by a
+separate written agreement with CONSOLIDARE CONTINUUM S.R.L.
 
-THERE IS NO IMPLIED LICENSE. THERE IS NO OPEN-SOURCE GRANT. THERE IS NO
-RESEARCH, ACADEMIC, OR "INSPECTION-ONLY" GRANT EXCEPT AS EXPRESSLY WRITTEN
-BY THE COMPANY.
+Permitted, absent such written agreement:
+- academic inspection and study
+- internal technical evaluation of the repository
+- review of architectural concepts and system design
 
-Unauthorized disclosure, reverse engineering for the purpose of replication,
-or commercial use is prohibited to the maximum extent permitted by applicable
-law of the Republic of Moldova and other applicable jurisdictions.
+Not permitted, absent such written agreement:
+- reproduction of the architecture in whole or in part
+- creation of derivative architectures or systems based on this design
+- commercial or production use of the architecture or its structural concepts
+- redistribution or republication of the architecture documentation
+- implementation of systems derived from or substantially based on this design
 
-Court-ordered disclosure or process is reserved as required by law.
+THERE IS NO IMPLIED LICENSE BEYOND THE PERMITTED USES ABOVE. THE SOFTWARE IS
+PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
-For licensing or access inquiries:
-  consolidare_continuum@proton.me
-  igareosh@igareosh.com
-
-Founder, sole shareholder (100%), administrator, and beneficial owner:
-  Platonov Igor
-
-Creator of the novatory ideas and author-implementor of the Hesperia product:
-  Platonov Igor
+See LEGAL_NOTICE.md and NOTICE for full terms and ownership details.

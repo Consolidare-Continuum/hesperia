@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -41,88 +41,82 @@ CANONICAL_AREA_SET: frozenset[str] = frozenset({
 
 # -----------------------------------------------------------------------------
 # AREA_FAMILY_MAP: area name -> tuple of 24 family names (canonical order)
+# Sourced from the genesis book-corpus-derived taxonomy (sphere/families.txt in
+# sphereV_0.1_.zip) — see docs/foundations/genesis_taxonomy_provenance.md.
+# Area order kept as sealed in 0.7.0; only family names were adopted from genesis.
 # -----------------------------------------------------------------------------
 AREA_FAMILY_MAP: dict[str, tuple[str, ...]] = {
     "GOOD": (
-        "Altruism", "Generosity", "Compassion", "Mercy", "Forgiveness", "Gratitude",
-        "Integrity", "Reliability", "Courage", "Loyalty", "Solidarity", "Fairness",
-        "Justice", "Respect", "Trust-building", "Service", "Stewardship", "Responsibility",
-        "Reconciliation", "Inclusion", "Community-building", "Mentorship", "Protection", "Care-giving",
+        "Altruism", "Protection", "Healing", "Mercy", "Generosity", "Mentorship",
+        "Community", "Hospitality", "Forgiveness", "Integrity", "Gratitude", "Stewardship",
+        "Solidarity", "Rehabilitation", "Inclusion", "Fairness", "Conservation", "Education",
+        "Mediation", "Service", "Safety", "Trust", "Compassion", "Courage",
     ),
     "CARE": (
-        "Nurturing", "Compassionate-response", "Comfort-and-soothing", "De-escalation",
-        "Listening-and-attention", "Emotional-support", "Practical-assistance", "Shelter-and-safety-net",
-        "Health-support", "Recovery-support", "Accessibility-support", "Inclusion-support",
-        "Guardianship-and-trusteeship", "Ongoing-check-ins", "Hospitality-and-welcome", "Relational-repair",
-        "Mentoring-and-guidance", "Community-care", "Volunteerism", "Protection-of-vulnerable",
-        "Responsibility-taking", "Safeguarding-duties", "Restoration-care", "End-of-life-and-grief-care",
+        "Compassion", "Nursing", "Comfort", "Inclusion", "Medication", "Preservation",
+        "Protection", "Support", "Accessibility", "Attendance", "De-escalation", "Mediation",
+        "Restore", "Shelter", "Help", "Hospitality", "Security", "Stewardship",
+        "Volunteerism", "Aid", "Mentoring", "Kindness", "Responsibility", "Guardianship",
     ),
     "ORDER": (
-        "Structure", "Stability", "Predictability", "Coordination", "Role-clarity", "Governance",
-        "Compliance", "Procedures", "Protocols", "Standards", "Risk-management", "Capacity-planning",
-        "Quality-assurance", "Documentation-discipline", "Record-keeping", "Scheduling",
-        "Prioritization", "Escalation-paths", "Monitoring-routines", "Redundancy-and-backups",
-        "Budget-discipline", "Access-structure", "Version-control", "Change-management",
+        "Standard", "Schedule", "Governance", "Access", "Quality", "Documentation",
+        "Change", "Response", "Risk", "Roles", "Versioning", "Backups",
+        "Budgeting", "Compliance", "Protocol", "Checklists", "Metrics", "Playbooks",
+        "Workflows", "Symmetry", "Capacity", "Directives", "Escalation", "Review",
     ),
     "CONTROL": (
-        "Oversight", "Enforcement", "Gatekeeping", "Licensing", "Monitoring", "Takedowns-and-removals",
-        "Quarantine-and-isolation", "Centralization", "Access-restrictions", "Permission-systems",
-        "Revocation", "Sanctions", "Curfews-and-limits", "Price-and-rate-controls", "Censorship", "Moderation",
-        "Blocklists-and-allowlists", "Inspection-and-audit", "Registration", "Supervision",
-        "Statutory-rules", "Eligibility-criteria", "Priority-queues", "Safety-constraints",
+        "Safeguards", "Takedowns", "Isolation", "Entitlements", "Inspection", "Permit",
+        "Monitoring", "Revocation", "Gatekeeping", "Centralization", "Price-controls", "Curfews",
+        "Hierarchy", "Quarantine", "Listing", "Blocklist", "Moderation", "Statutes",
+        "Oversight", "Safety", "Regulation", "Supervise", "Register", "Directing",
     ),
     "INDIFFERENCE": (
-        "Neglect", "Bystanding", "Callousness", "Withholding-help", "Buckpassing", "Ghosting-and-avoidance",
-        "Stonewalling", "Tokenism", "Cynicism", "Burnout-numbness", "Complacency", "Apathy",
-        "Stalling", "Exclusion", "Detachment", "Ignorance-maintained", "Information-dumping", "Dehumanization",
-        "Nonchalance", "Fatalism", "Moral-disengagement", "Instrumentalization-of-people", "Indifference-to-risk", "Indifference-to-harm",
+        "Neglect", "Ostracism", "Dodging", "Dehumanization", "Bystanding", "Callousness",
+        "Withholding", "Buckpassing", "Neutrality", "Ghosting", "Stonewalling", "Tokenism",
+        "Cynicism", "Burnout", "Complacency", "Apathy", "Stalling", "Exclusion",
+        "Detachment", "Ignorance", "Dumping", "Negation", "Dispassion", "Nonchalance",
     ),
     "HARM": (
         "Violence", "Exploitation", "Corruption", "Betrayal", "Negligence", "Oppression",
-        "Sabotage", "Fraud", "Defamation", "Harassment", "Hatred", "Vengeance",
-        "Coercion", "Intimidation", "Injury", "Predation", "Hazard", "Ruthlessness",
-        "Abuse of power", "Systemic harm", "Resource stripping", "Environmental harm", "Self-harm patterns", "Social breakdown",
+        "Sabotage", "Fraud", "Defamation", "Addiction-harms", "Pollution", "Waste",
+        "Harassment", "Hatred", "Vengeance", "Coercion", "Intimidation", "Injury",
+        "Predation", "Hazard", "Dereliction", "Cronyism", "Ruthlessness", "Vandalism",
     ),
     "DESTRUCTION": (
-        "Decommissioning", "Pruning", "Culling", "Dismantling", "Disassembly", "Erasure-of-records",
-        "Neutralization-of-threats", "Demolition", "Aggression", "Eradication", "Damage", "Collapse",
-        "Devastation", "Shredding-and-wiping", "Partition-and-splitting", "Controlled-burns",
-        "Sunsetting-systems", "Recall-and-withdrawal", "Unlearning-harmful-patterns", "Asset-stripping",
-        "Sabotage-destruction", "Scorched-earth-actions", "Decay-and-erosion", "Abandonment",
+        "Decommissioning", "Strike", "Refusal", "Pruning", "Culling", "Removal",
+        "Dismantling", "Erasure", "Neutralization", "Demolition", "Invasion", "Destroying",
+        "Death", "Aggression", "Eradication", "Damage", "Shred", "Unlearning",
+        "Collapse", "Devastation", "Splitting", "Partition", "Decay", "Recalls",
     ),
     "CHAOS": (
-        "Unpredictability", "Instability", "Flux", "Turbulence", "Overload", "Conflict-swarms",
-        "Uncoordinated-change", "Cascading-failure", "Breakdown-of-rules", "Signal-noise",
-        "Information-overflow", "Rumor-spread", "Spontaneous-mobilization", "Crowd-dynamics",
-        "Volatility", "Fragmentation", "Strife", "Subversion-of-order", "Hijacking-processes",
-        "Manias-and-panics", "Ad-hoc-workarounds", "Rogue-actors", "System-drift", "Entropy-build-up",
+        "Swarming", "Drift", "Ideation", "Divergence", "Disruption", "Anomaly",
+        "Emergence", "Volatility", "Strife", "Outliers", "Discord", "Subversion",
+        "Hijacking", "Turmoil", "Commotion", "Mutation", "Instigation", "Manias",
+        "Randomness", "Madness", "Instability", "Confusion", "Entropy", "Disorder",
     ),
     "FREEDOM": (
-        "Autonomy", "Consent", "Expression", "Privacy", "Mobility", "Association",
-        "Choice", "Pluralism", "Tolerance", "Experimentation", "Innovation-space", "Decentralization",
-        "Interoperability", "Open-access", "Whistleblowing-space", "Dissent-protection",
-        "Minority-protection", "Due-process", "Non-discrimination", "Information-access",
-        "Transparency-claims", "Exit-options", "Entry-opportunities", "Sandboxing",
+        "Autonomy", "Consent", "Openness", "Exit", "Entry", "Expression",
+        "Privacy", "Mobility", "Permissionless", "Association", "Liberties", "Sandbox-testing",
+        "Experimentation", "Representation", "Choice", "Interoperability", "Transparency", "Decentralization",
+        "Pluralism", "Tolerance", "Whistleblowing", "Laws", "Rights", "Fair",
     ),
     "TRUTH": (
-        "Accuracy", "Evidence", "Reasoning", "Objectivity", "Clarity", "Disclosure",
-        "Scrutiny", "Verification", "Reliability-of-sources", "Coherence", "Completeness", "Honesty-in-reporting",
-        "Traceability", "Transparency-of-methods", "Uncertainty-awareness", "Plural-evidence",
-        "Error-correction", "Review-and-critique", "Methodological-soundness", "Replicability",
-        "Open-debate", "Grounded-definitions", "Classification-discipline", "Measurement-discipline",
+        "Evidence", "Measurement", "Reproducibility", "Transparency", "Auditability", "Citation",
+        "Calibration", "Openness", "Review", "Clarity", "Fallibilism", "Verification",
+        "Signal", "Validation", "Versioning", "Explainability", "Groundtruth", "Traceability",
+        "Definitions", "Taxonomy", "Testing", "Methodology", "Consensus", "Uncertainty",
     ),
     "DECEIT": (
-        "Lies", "Propaganda", "Misinformation", "Disinformation", "Concealment", "Forgery",
-        "Scapegoating", "Gaslighting", "Statistical-abuse", "Plagiarism", "Manipulative-framing", "Scams",
-        "Imposture", "Subterfuge", "Conspiracism", "Mislabeling", "Duplicity", "Fraudulence",
-        "Misattribution", "Hoaxes", "Astroturfing", "False-balance", "Selective-disclosure", "Data-fabrication",
+        "Lies", "Propaganda", "Falsehood", "Concealment", "Forgery", "Invalid",
+        "Scapegoating", "Gaslighting", "Unbalance", "Pseudostatistics", "Plagiarism", "Clickbait",
+        "Trickery", "Scams", "Mendacity", "Imposture", "Subterfuge", "Conspiracism",
+        "Mislabeling", "Duplicity", "Fraudulence", "Misattribution", "Chicanery", "Hoaxes",
     ),
     "CREATION": (
-        "Imagination", "Ideation", "Design-thinking", "Invention", "Prototyping", "Craft-and-making",
-        "Engineering-solutions", "System-design", "Synthesis", "Integration", "Refinement", "Pattern-finding",
-        "Renovation-and-upgrades", "Entrepreneurial-building", "Collaboration-in-making", "Co-creation-with-users",
-        "Artistic-expression", "Music-and-rhythm", "Storytelling-and-writing", "Research-and-discovery",
-        "Experiment-design", "Tool-building", "Production-systems", "Growth-and-expansion",
+        "Invention", "Design", "Craft", "Cultivation", "Engineering", "Composition",
+        "Music-and-rhythm", "Writing", "Entrepreneurship", "Fusion", "Toolmaking", "Discovery",
+        "Integration", "Prototyping", "Refactoring", "Synthesis", "Pattern-language", "User-experience",
+        "Renovation", "Production", "Growth", "Art", "Researching", "Collaboration",
     ),
 }
 

@@ -1,5 +1,5 @@
 # HESPERIA COBALT — library RAG enhancer (Class B branch).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """Optional CHROMA-2 retrieval into runtime envelopes. Default off."""
 

@@ -1,4 +1,4 @@
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """TFP module v1 seal hook (TFP-V1-09).
 
 ``HESPERIA_TFP_MODULE_SEALED``:

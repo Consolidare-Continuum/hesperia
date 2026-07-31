@@ -4,13 +4,9 @@ import math
 from collections import Counter, defaultdict
 from typing import Any
 
+from core.math.basic_stats import clamp01 as _clamp01
+
 _EPS = 1e-15
-
-
-def _clamp01(x: float) -> float:
-    if not math.isfinite(x):
-        return 0.0
-    return max(0.0, min(1.0, float(x)))
 
 
 def score_lexical_calibration_risk(

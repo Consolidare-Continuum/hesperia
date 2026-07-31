@@ -1,5 +1,5 @@
 # HESPERIA — Optional runtime integrity check: SHA256 of public_output_schema.json.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """At startup, optionally verify SHA256 of public schema to prevent accidental drift."""
 

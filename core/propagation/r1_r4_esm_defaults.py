@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 # Load R1-R4 ESM defaults (Part D). Ref: r1_r4_esm_defaults_v1_0.json, docs/SPEC__Reading_Scale_Levels_R1_R4_Structural_Audit_v1_0.md

@@ -1,5 +1,5 @@
 # HESPERIA — RAD. DLCR policy packs (Ethan PO-13, PO-14, PO-30).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 

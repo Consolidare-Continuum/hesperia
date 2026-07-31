@@ -1,11 +1,12 @@
 # HESPERIA — Contradiction coupling for TFP area activation (deterministic).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
 import math
 from typing import Any
 
+from core.math.signal_normalization import sublinear_compress as _smooth_pressure_accum
 from hesperia.extensions.triz.contradiction_negation import (
     build_negation_activation_summary,
     classify_contradiction_mode,
@@ -13,15 +14,7 @@ from hesperia.extensions.triz.contradiction_negation import (
 )
 
 _EPS = 1e-15
-CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
-
-
-def _smooth_pressure_accum(x: float, compression: float) -> float:
-    """Sublinear dampening of large accumulated pressure when ``compression`` > 1."""
-    k = float(compression)
-    if k <= 1.0 + _EPS:
-        return float(x)
-    return float(x) ** (1.0 / min(max(k, 1.000001), 10.0))
+CONTRADICTION_COUPLING_VERSION = "contradiction_coupling_task6"
 
 
 def _extract_pair_and_score(row: dict[str, Any]) -> tuple[str | None, str | None, float]:

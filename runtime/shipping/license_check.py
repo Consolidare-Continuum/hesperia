@@ -1,5 +1,5 @@
 # HESPERIA — License token check. Redistribution friction, not absolute security.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """
 Startup gate: env var or license file, optional expiry, optional reviewer token.

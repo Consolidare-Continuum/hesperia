@@ -1,5 +1,5 @@
 # HESPERIA — Lock supported environment variables. Reject or warn on unknown HESPERIA_*.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """Ensure runtime behavior cannot be altered by unknown env vars.
 

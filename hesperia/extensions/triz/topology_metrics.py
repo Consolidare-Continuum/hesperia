@@ -1,16 +1,29 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
 # See LEGAL_NOTICE.md for full terms.
 
-"""Canonical 12-area icosahedral metrics: adjacency load, shortest-path distance, locality."""
+"""Canonical 12-area icosahedral metrics: adjacency load, shortest-path distance, locality.
+
+MOVED 2026-07-31: the pure graph algorithms (BFS distance, neighbor maps, locality score)
+now live in core.math.graph_topology — no domain semantics, no sphere/TRIZ coupling. This
+module keeps the sphere-loading + TRIZ-guard wrapper (canonical_area_adjacency and friends)
+that produces the 12-area adjacency data, and calls the core functions with it. Public API
+unchanged — every function here has the same name and signature as before the split.
+"""
 
 from __future__ import annotations
 
-from collections import deque
 from functools import lru_cache
 from pathlib import Path
 from typing import Any
+
+from core.math.graph_topology import (
+    are_adjacent,
+    graph_distance,
+    locality_score,
+    neighbors_from_adjacency,
+)
 
 # Lazy import numpy only when loading file
 
@@ -44,14 +57,6 @@ def canonical_area_adjacency(data_root: Path | None = None) -> tuple[tuple[int, 
     return tuple(tuple(int(x) for x in row) for row in adj.tolist())
 
 
-def neighbors_from_adjacency(adj: tuple[tuple[int, ...], ...]) -> dict[int, list[int]]:
-    n = len(adj)
-    out: dict[int, list[int]] = {}
-    for i in range(n):
-        out[i] = sorted(j for j in range(n) if adj[i][j] == 1)
-    return out
-
-
 @lru_cache(maxsize=1)
 def _neighbor_map() -> dict[int, tuple[int, ...]]:
     adj = canonical_area_adjacency()
@@ -61,32 +66,16 @@ def _neighbor_map() -> dict[int, tuple[int, ...]]:
 
 def area_distance(area_a: int, area_b: int) -> int:
     """Shortest path length on icosahedral area graph; 0 = same, 1 = adjacent."""
-    if area_a == area_b:
-        return 0
-    nm = {k: list(v) for k, v in _neighbor_map().items()}
-    if area_a not in nm or area_b not in nm:
-        return 12
-    q = deque([(area_a, 0)])
-    seen = {area_a}
-    while q:
-        u, d = q.popleft()
-        if u == area_b:
-            return d
-        for v in nm.get(u, ()):
-            if v not in seen:
-                seen.add(v)
-                q.append((v, d + 1))
-    return 12
+    return graph_distance(area_a, area_b, _neighbor_map(), not_found_distance=12)
 
 
 def contradiction_locality_score(area_a: int, area_b: int) -> float:
     """1/(1+d): local contradiction high, cross-domain spread low."""
-    d = area_distance(area_a, area_b)
-    return round(1.0 / (1.0 + float(d)), 6)
+    return locality_score(area_distance(area_a, area_b))
 
 
 def areas_are_adjacent(area_a: int, area_b: int) -> bool:
-    return area_a != area_b and area_distance(area_a, area_b) == 1
+    return are_adjacent(area_a, area_b, area_distance(area_a, area_b))
 
 
 def get_area_neighbors() -> dict[int, list[int]]:

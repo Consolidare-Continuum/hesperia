@@ -1,5 +1,5 @@
 # HESPERIA — Public schema validation. Fail if internal-revealing key appears before serialization.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """Runtime assertion before serialization. Walks every node in the JSON tree."""
 

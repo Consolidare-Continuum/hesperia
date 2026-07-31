@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — RAD. Gena: file-in → multi-artifact TFP + main engine paths (testing / research).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """
 Run TFP-oriented pipelines on one or more session texts from a file.
 

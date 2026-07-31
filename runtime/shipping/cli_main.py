@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — Shipping CLI. Single entry point; calls only service façades.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """
 Sealed CLI entry point. Commands: analyze, compare, batch (alias batch-analyze).

@@ -1,5 +1,5 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
 # See LEGAL_NOTICE.md for full terms.
 
@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 from fpf_thinking_map.primitives import FGR
+from core.topology.invariant_catalog import AREAS as NUM_AREAS
 
 CONTEXT_ID = "hesperia_structural_analysis"
 CONTEXT_LABEL = "Hesperia Structural Analysis"
@@ -27,8 +28,7 @@ ALL_STATES = frozenset({
     STATE_DIFFUSE_SPREAD,
 })
 
-AREA_LABELS = {i: f"A{i}" for i in range(12)}
-NUM_AREAS = 12
+AREA_LABELS = {i: f"A{i}" for i in range(NUM_AREAS)}
 
 # structural_state -> fpf risk_level
 STATE_RISK_MAP: dict[str, str] = {

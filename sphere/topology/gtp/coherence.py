@@ -1,5 +1,5 @@
 # HESPERIA — GTP-04: PointZeroDelta broadcast + CoherenceField Psi.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """
 Spec §9 (23_SPEC__): broadcast delta_powv to every area/family anchor, then aggregate
 into one coherence object Psi (vector + scalar summaries) that steers GTPA (sphere/topology/gtp/gtpa.py).
@@ -21,10 +21,12 @@ from dataclasses import dataclass
 
 from sphere.topology.embedding import get_aligned_area_coordinates
 from sphere.topology.gtp.ipow import Vec3
+from core.topology.invariant_catalog import (
+    AREAS as NUM_AREAS,
+    FAMILIES_PER_AREA,
+    TOTAL_FAMILIES as NUM_FAMILIES,
+)
 
-NUM_AREAS = 12
-FAMILIES_PER_AREA = 24
-NUM_FAMILIES = NUM_AREAS * FAMILIES_PER_AREA  # 288
 VECTOR_DIM = NUM_AREAS + NUM_FAMILIES  # 300, spec §9.2
 
 

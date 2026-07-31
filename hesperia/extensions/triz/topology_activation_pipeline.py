@@ -1,5 +1,5 @@
 # HESPERIA — RAD. TRIZ activation from session topology (co-contradiction surface).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """
 Tasks 1–9: concept co-activation from segment concepts, family matrix, contradiction chain,
 classification, metrics, hotspots, cluster enrichment, dynamics, cross-plane audit.
@@ -478,9 +478,9 @@ def run_topology_triz_activation(
     if not cc_list:
         cc_list = synthetic_clusters_from_coactivation_edges(graph)
 
-    from hesperia.extensions.triz.family_weights_sparsify_v052 import build_sparse_family_weights_v052
+    from hesperia.extensions.triz.family_weights_sparsify import build_sparse_family_weights
 
-    sparse_body = build_sparse_family_weights_v052(family_matrix, cc_list)
+    sparse_body = build_sparse_family_weights(family_matrix, cc_list)
     sparse_lookup = {
         tuple(sorted((str(e["family_i"]), str(e["family_j"])))): float(e["weight"])
         for e in sparse_body.get("edges") or []

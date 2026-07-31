@@ -1,5 +1,5 @@
 # HESPERIA — Engine /analyze contract envelope (HES-61-01 Python path).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """Build HSPR-01/02 engine_analyze envelope from multiscale internal raw (pre-public projection)."""
 
@@ -10,7 +10,8 @@ import json
 from pathlib import Path
 from typing import Any
 
-FAMILIES_PER_AREA = 24
+from core.topology.invariant_catalog import FAMILIES_PER_AREA
+
 _CONTRACT_VERSION = "v1.0"
 
 

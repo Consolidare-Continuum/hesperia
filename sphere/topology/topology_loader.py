@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -28,7 +28,8 @@ ADJACENCY_FILENAME = "area_adjacency_matrix.json"
 FAMILY_AREA_FILENAME = "family_to_area_map.json"
 
 # Icosahedral surface graph invariants
-NUM_AREAS = 12
+from core.topology.invariant_catalog import AREAS as NUM_AREAS
+
 ICOSAHEDRAL_DEGREE = 5
 ICOSAHEDRAL_EDGES = 30
 # Meta reference nodes (A6, A12): semantic control anchors; propagation weight reduced

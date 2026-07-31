@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -65,22 +65,19 @@ class HesperiaPipelineRunner:
         concept_to_area_family: dict[str, tuple[str, str]] | None = None,
     ) -> "MetricReport":
         """
-        Run pipeline and return full metric report (primitives, derived, fingerprint, TRIZ signals).
+        Run pipeline and return full metric report (primitives, derived, fingerprint).
 
-        Optional ``concept_to_area_family`` (concept_id → (area, family) strings) feeds
-        explainability ``build_activation_trace`` → topology for TRIZ binding and routes.
+        Core has no relation to any extension/module (TRIZ, TFP, clinical, or otherwise) —
+        ``triz_signals`` is always None here. TRIZ integration, when wanted, happens at the
+        integration layer (e.g. ``hesperia/engine/kme/clinical_bridge.py``, which computes it
+        independently), not in core. ``concept_to_area_family`` is accepted for callers that
+        carry it as domain data but is not consumed by this function.
         """
-        from hesperia.engine.explainability import build_activation_trace
         from core.domain.active_graph import build_active_graph
         from core.domain.derived_metrics import compute_derived_metrics
         from core.domain.fingerprint import build_fingerprint
         from core.domain.models import MetricReport
         from core.domain.primitive_metrics import compute_primitives
-        from hesperia.extensions.triz.kme_bridge import (
-            build_topology_from_activation_trace,
-            run_triz_for_kme,
-            topology_from_graph_coordinates,
-        )
 
         active_graph = build_active_graph(hits, relations, self.domain_graph)
         primitives = compute_primitives(active_graph, self.domain_constants)
@@ -92,23 +89,12 @@ class HesperiaPipelineRunner:
             source_id=source_id,
         )
 
-        topo: dict | None = None
-        if concept_to_area_family:
-            markers = [(cid, float(n.hit_count)) for cid, n in sorted(active_graph.nodes.items())]
-            trace = build_activation_trace(markers, concept_to_area_family)
-            topo = build_topology_from_activation_trace(trace) or None
-        elif active_graph.concept_coordinates:
-            topo = topology_from_graph_coordinates(active_graph)
-
-        # TRIZ: hesperia.extensions.triz.triz_pipeline.run_triz_analysis (via run_triz_layer)
-        triz_signals = run_triz_for_kme(active_graph, topo)
-
         return MetricReport(
             source_id=source_id,
             primitive_map=fingerprint.primitive_map,
             derived_map=fingerprint.derived_map,
             fingerprint=fingerprint,
-            triz_signals=triz_signals,
+            triz_signals=None,
         )
 
 
@@ -134,7 +120,7 @@ def run_document(
     domain_release: str = "",
     **kwargs: object,
 ) -> "MetricReport":
-    """One-shot: domain + document inputs → MetricReport (optional ``concept_to_area_family`` for TRIZ topology)."""
+    """One-shot: domain + document inputs → MetricReport. ``triz_signals`` is always None (core has no relation to any extension/module)."""
     runner = HesperiaPipelineRunner(domain_graph, domain_constants)
     caf = kwargs.pop("concept_to_area_family", None)
     if kwargs:

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -23,7 +23,8 @@ REPO = Path(__file__).resolve().parents[2]
 if str(REPO) not in sys.path:
     sys.path.insert(0, str(REPO))
 
-TOTAL_FAMILIES = 288
+from core.topology.invariant_catalog import TOTAL_FAMILIES
+
 SUM_TOL = 1e-6
 OUT_DIR = REPO / "lexicon" / "frozen" / "v0_5_0"
 DICT_A_JSONL = "dict_a_v06.jsonl"

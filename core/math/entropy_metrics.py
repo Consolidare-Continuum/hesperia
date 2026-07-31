@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -14,6 +14,8 @@ from __future__ import annotations
 import math
 
 import numpy as np
+
+from core.math.basic_stats import clamp01
 
 
 def compute_entropy(vector: np.ndarray | list[float]) -> float:
@@ -56,3 +58,26 @@ def compute_normalized_entropy(vector: np.ndarray | list[float]) -> float:
     if H <= 0:
         return 0.0
     return float(H / math.log2(N))
+
+
+def compute_normalized_entropy_from_weights(weights: dict[str, float], *, eps: float = 1e-15) -> float:
+    """
+    Normalized entropy (natural-log form) over a keyed weight distribution, clamped to [0,1].
+    Near-zero weights (<=eps) are excluded before normalizing; log argument is epsilon-smoothed.
+
+    Graduated to core 2026-07-31 (was hesperia.extensions.triz.contradiction_uncertainty.
+    _entropy_normalized — mathematically equivalent to compute_normalized_entropy's ratio
+    (log base cancels in H/H_max) but with different edge-case handling: dict-keyed input,
+    near-zero-weight filtering, and epsilon smoothing inside the log. Kept as a distinct
+    function rather than merged, to preserve exact existing numeric behavior.
+    """
+    vals = [max(0.0, float(v)) for v in weights.values() if float(v) > eps]
+    if not vals:
+        return 0.0
+    s = sum(vals)
+    if s <= eps:
+        return 0.0
+    ps = [v / s for v in vals]
+    h = -sum(p * math.log(p + eps) for p in ps)
+    h_max = math.log(len(ps)) if len(ps) > 1 else 1.0
+    return clamp01(h / h_max) if h_max > eps else 0.0

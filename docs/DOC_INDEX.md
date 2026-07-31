@@ -37,6 +37,14 @@ the top of each spec is authoritative, not this index.
 | [24_SPEC__Hesperia_Metric_and_Distance_v0_1.md](specs/24_SPEC__Hesperia_Metric_and_Distance_v0_1.md) | **HesperiaMetric** registry, `metric_layer` enum, `S_path`, runtime emit flags |
 | [ENGINE-ANALYZE-CONTRACT.md](../ENGINE-ANALYZE-CONTRACT.md) | `/analyze` response — optional `meta.hesperia_metric` when `HESPERIA_METRIC_EMIT=1` |
 
+## Canon matrix and attribution
+
+| Doc | Topic |
+|-----|--------|
+| [TOPOLOGY_INVARIANTS.md](TOPOLOGY_INVARIANTS.md) | The canon matrix (12 areas × 24 families = 288): canonical source, full named taxonomy (sphereV genesis, adopted 2026-07-30), geometry constants, do-not-duplicate rule |
+| [foundations/genesis_taxonomy_provenance.md](foundations/genesis_taxonomy_provenance.md) | Where the family names came from (sphereV genesis book corpus), what was/wasn't changed, what Stage 2 (real dictionaries) still needs |
+| [foundations/attribution_layer.md](foundations/attribution_layer.md) | Which `core.attribution` module is live (attribution_shared.py, sole path) vs. retired (attribution.py/"v06" — synthetic placeholder dictionary) vs. r1_r4-only, and core's severance from every extension/module |
+
 ## Cross-links (brain authority)
 
 - **20_GEOMETRY** — icosahedral area layout (brain `user_documents/HESPERIA_ACADEMIA/`)

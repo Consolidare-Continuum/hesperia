@@ -1,11 +1,12 @@
 # HESPERIA — Cross-plane contradiction package (deterministic, v0.5.8 task4–5).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
 import math
 from typing import Any
 
+from core.math.basic_stats import clamp01 as _clamp01, mean as _mean, variance as _variance
 from hesperia.engine.tfp_signal_calibration import load_tfp_signal_calibration
 from hesperia.extensions.triz.contradiction_coupling import build_area_contradiction_pressure
 from hesperia.extensions.triz.contradiction_negation import (
@@ -23,26 +24,7 @@ from hesperia.extensions.triz.contradiction_feedback import build_contradiction_
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
 _EPS = 1e-15
-CROSSPLANE_VERSION = "tfp_v0_5_8_task6"
-
-
-def _clamp01(x: float) -> float:
-    if not math.isfinite(x):
-        return 0.0
-    return max(0.0, min(1.0, float(x)))
-
-
-def _mean(xs: list[float]) -> float:
-    if not xs:
-        return 0.0
-    return float(sum(xs)) / float(len(xs))
-
-
-def _variance(xs: list[float]) -> float:
-    if len(xs) < 2:
-        return 0.0
-    m = _mean(xs)
-    return float(sum((x - m) ** 2 for x in xs)) / float(len(xs))
+CROSSPLANE_VERSION = "crossplane_task6"
 
 
 def _row_activation_latent_lists(rows: list[dict[str, Any]]) -> tuple[list[float], list[float]]:

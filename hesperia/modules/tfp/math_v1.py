@@ -6,6 +6,8 @@ import math
 import re
 from typing import Any
 
+from core.math.entropy_metrics import compute_entropy as _entropy
+
 TFP_STAGES = (
     "chaotic",
     "defense_clarification",
@@ -73,14 +75,6 @@ def estimate_affect_intensity(text: str, tokens: list[str] | None = None) -> flo
         if any(t in affect_tokens for t in norm):
             score = 0.25
     return round(min(1.0, max(0.0, score)), 2)
-
-
-def _entropy(values: list[float]) -> float:
-    if not values or sum(values) <= 0:
-        return 0.0
-    s = sum(values)
-    p = [v / s for v in values if v > 0]
-    return -sum(x * math.log2(x) for x in p) if p else 0.0
 
 
 def compute_confidence_scores(activation: dict[str, Any]) -> dict[str, Any]:

@@ -3,13 +3,9 @@ from __future__ import annotations
 import math
 from typing import Any
 
+from core.math.basic_stats import clamp01 as _clamp01
+
 _EPS = 1e-15
-
-
-def _clamp01(x: float) -> float:
-    if not math.isfinite(x):
-        return 0.0
-    return max(0.0, min(1.0, float(x)))
 
 
 def _row_score(row: dict[str, Any], *, use_effective: bool) -> float:

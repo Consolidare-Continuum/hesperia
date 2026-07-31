@@ -8,9 +8,12 @@ from typing import Any
 
 import numpy as np
 
-NUM_AREAS = 12
-NUM_FAMILIES = 288
-FAMILIES_PER_AREA = NUM_FAMILIES // NUM_AREAS  # 24
+from core.topology.invariant_catalog import (
+    AREAS as NUM_AREAS,
+    FAMILIES_PER_AREA,
+    TOTAL_FAMILIES as NUM_FAMILIES,
+)
+
 STATE_VERSION = 4
 
 

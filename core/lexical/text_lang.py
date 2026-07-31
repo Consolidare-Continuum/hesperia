@@ -1,4 +1,4 @@
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """Heuristic document language labels for lexical calibration (RU vs EN, no external API)."""
 
 from __future__ import annotations

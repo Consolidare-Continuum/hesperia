@@ -11,10 +11,11 @@ from pathlib import Path
 from typing import Any
 
 from hesperia.extensions.dynamics.state import FieldDynamicsState, Phase1Theta, Phase3Theta, Phase4Theta
-
-F_FAMILIES = 288
-A_AREAS = 12
-FAMILIES_PER_AREA = F_FAMILIES // A_AREAS  # 24
+from core.topology.invariant_catalog import (
+    AREAS as A_AREAS,
+    FAMILIES_PER_AREA,
+    TOTAL_FAMILIES as F_FAMILIES,
+)
 
 
 def markers_to_concept_activation(text: str, assets_root: Path) -> dict[str, Any]:

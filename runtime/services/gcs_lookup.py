@@ -1,14 +1,13 @@
 # HESPERIA — Semantic→GCS lookup J_sem→gcs + spacing_factor (24_SPEC §4.4, §6 / METRIC-26).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
 from functools import lru_cache
 from typing import Any
 
-FAMILIES_PER_AREA = 24
-AREAS = 12
-TOTAL_FAMILIES = FAMILIES_PER_AREA * AREAS  # 288
+from core.topology.invariant_catalog import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES
+
 SEMANTIC_HEX_COUNT = 72000
 HEXES_PER_FAMILY_SEMANTIC = 250
 GCS_HEX_SLOT_250 = 250

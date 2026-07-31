@@ -1,5 +1,5 @@
 # HESPERIA — Engine Dynamics invariant activation (markers → concepts → hex → areas).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 #
 # Mainline sealed path. Calibration loads from engine_signal_calibration (semantic_dynamics/).
 # Legacy module name: hesperia.nlp.tfp_activation (compatibility shim only).
@@ -40,7 +40,7 @@ from hesperia.nlp.semantic_state_update import (
 )
 from hesperia.ontology.dictB.loader import build_concept_to_area_family
 
-CONTRADICTION_COUPLING_VERSION = "tfp_v0_5_8_task6"
+CONTRADICTION_COUPLING_VERSION = "contradiction_coupling_task6"
 
 
 def _repo_root() -> Path:

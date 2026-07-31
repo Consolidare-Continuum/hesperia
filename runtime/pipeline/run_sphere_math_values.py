@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — Thin wrapper over measurement service. No direct layer import.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """
 Public entry point: structural analysis, write one JSON. Delegates to runtime.services.analysis_service only.

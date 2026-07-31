@@ -1,32 +1,16 @@
 # HESPERIA — Lexical/concept uncertainty package for contradiction coupling (v0.5.8 task5).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
 import math
 from typing import Any
 
+from core.math.basic_stats import clamp01 as _clamp01
+from core.math.entropy_metrics import compute_normalized_entropy_from_weights as _entropy_normalized
+
 _EPS = 1e-15
-UNCERTAINTY_VERSION = "tfp_v0_5_8_task6"
-
-
-def _clamp01(x: float) -> float:
-    if not math.isfinite(x):
-        return 0.0
-    return max(0.0, min(1.0, float(x)))
-
-
-def _entropy_normalized(weights: dict[str, float]) -> float:
-    vals = [max(0.0, float(v)) for v in weights.values() if float(v) > _EPS]
-    if not vals:
-        return 0.0
-    s = sum(vals)
-    if s <= _EPS:
-        return 0.0
-    ps = [v / s for v in vals]
-    h = -sum(p * math.log(p + _EPS) for p in ps)
-    h_max = math.log(len(ps)) if len(ps) > 1 else 1.0
-    return _clamp01(h / h_max) if h_max > _EPS else 0.0
+UNCERTAINTY_VERSION = "uncertainty_task6"
 
 
 def build_uncertainty_package(

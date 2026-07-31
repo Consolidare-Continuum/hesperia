@@ -1,13 +1,15 @@
 # HESPERIA — Contradiction × negation × inhibition modes (v0.5.8 task6).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 
 import math
 from typing import Any, Literal
 
+from core.math.basic_stats import clamp01 as _clamp01
+
 _EPS = 1e-15
-CONTRADICTION_NEGATION_VERSION = "tfp_v0_5_8_task6"
+CONTRADICTION_NEGATION_VERSION = "contradiction_negation_task6"
 
 OppositionMode = Literal[
     "coactive_opposition",
@@ -15,12 +17,6 @@ OppositionMode = Literal[
     "inhibited_opposition",
     "ambiguous_opposition",
 ]
-
-
-def _clamp01(x: float) -> float:
-    if not math.isfinite(x):
-        return 0.0
-    return max(0.0, min(1.0, float(x)))
 
 
 def build_negation_activation_summary(

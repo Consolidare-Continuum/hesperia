@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # HESPERIA — Shipping API. FastAPI; endpoints: POST /analyze, /compare, /batch-analyze, GET /health.
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """
 Sealed API entry point. No internal endpoints. Uses only runtime.services (analysis_service).

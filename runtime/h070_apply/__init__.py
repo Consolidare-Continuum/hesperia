@@ -1,5 +1,5 @@
 # HESPERIA 0.7.0 — sandbox apply (narrow update_edge_weight).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 """Sandbox graph copy and gated apply executor."""
 

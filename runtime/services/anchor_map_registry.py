@@ -1,5 +1,5 @@
 # HESPERIA — frozen anchor_map_v1 registry (METRIC-17/19, IPoV-01 reconcile).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 
 from __future__ import annotations
 

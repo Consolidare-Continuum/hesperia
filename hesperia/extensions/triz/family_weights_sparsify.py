@@ -1,14 +1,31 @@
-# HESPERIA — RAD. Family graph sparsification + weight recalibration (v0.5.2).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# HESPERIA — RAD. Family graph sparsification + weight recalibration.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
+#
+# MOVED 2026-07-31: the generic sparsification/degree-normalization algorithms now live in
+# core.math.graph_sparsify — this file keeps the TRIZ weight-calibration business rules
+# (recalculated_pair_weight, forbidden-weight nudging, locality-by-family-distance) and
+# calls the core functions with this file's own calibration constants. Debloated of stale
+# version-number naming (was family_weights_sparsify_v052.py) — irrelevant post-0.7.0-seal.
 
 from __future__ import annotations
 
 import json
 import math
-import zlib
 from collections import Counter, defaultdict
 from typing import Any
 
+from core.math.graph_sparsify import (
+    bump_avg_degree_from_pool,
+    deterministic_jitter,
+    graph_avg_degree,
+    median_float,
+    normalize_row_sums,
+    percentile_int,
+    scale_by_membership,
+    tiered_distance_multiplier,
+    top_k_prune_symmetric,
+    trim_avg_degree_high,
+)
 from hesperia.extensions.triz.topology_activation_pipeline import concept_id_to_area_family
 
 TOP_K = 8
@@ -23,6 +40,8 @@ AVG_DEG_MAX = 10.0
 UNIFORMITY_FRAC_MAX = 0.30
 ACTIVE_CONTRA_THRESHOLD = 0.4
 
+_LOCALITY_TIERS = {0: 1.0, 1: 0.8, 2: 0.5}
+
 
 def _area(fk: str) -> str:
     return fk.split("_", 1)[0]
@@ -34,10 +53,6 @@ def _family_distance(fa: str, fb: str) -> int:
     if _area(fa) == _area(fb):
         return 1
     return 2
-
-
-def _locality_mult(d: int) -> float:
-    return {0: 1.0, 1: 0.8, 2: 0.5}.get(d, 0.5)
 
 
 def load_family_weights(path: Any) -> dict[str, dict[str, float]]:
@@ -90,22 +105,6 @@ def family_pair_cooccurrence(clusters: list[dict[str, Any]]) -> dict[tuple[str, 
     return counts
 
 
-def _median_float(vals: list[float]) -> float:
-    if not vals:
-        return 0.0
-    s = sorted(vals)
-    m = len(s) // 2
-    return float(s[m]) if len(s) % 2 else (s[m - 1] + s[m]) / 2.0
-
-
-def _p95_int(vals: list[int]) -> int:
-    if not vals:
-        return 1
-    s = sorted(vals)
-    idx = min(len(s) - 1, int(0.95 * max(len(s) - 1, 1)))
-    return max(1, s[idx])
-
-
 def recalculated_pair_weight(
     fa: str,
     fb: str,
@@ -123,13 +122,13 @@ def recalculated_pair_weight(
     dist_area = _family_distance(fa, fb)
 
     if dist_area == 1:
-        med = _median_float([float(x) for x in same_area_cooc_values])
+        med = median_float([float(x) for x in same_area_cooc_values])
         high = float(cooc) > med if same_area_cooc_values else bool(cooc > 0)
         w = 0.85 if high else 0.7
     elif dist_area == 2:
         if not share_cluster:
             return None
-        mx = _p95_int(global_cross_coocs)
+        mx = percentile_int(global_cross_coocs, pct=0.95)
         w = 0.35 + 0.25 * min(1.0, float(cooc) / float(mx))
     else:
         return None
@@ -140,12 +139,13 @@ def recalculated_pair_weight(
 
 
 def apply_cluster_scale(w: float, share: bool) -> float:
-    return w if share else w * 0.5
+    return scale_by_membership(w, share)
 
 
 def apply_locality(w: float, fa: str, fb: str) -> float:
     d = _family_distance(fa, fb)
-    return min(MAX_WEIGHT, max(0.0, w * _locality_mult(d)))
+    mult = tiered_distance_multiplier(d, _LOCALITY_TIERS, default=0.5)
+    return min(MAX_WEIGHT, max(0.0, w * mult))
 
 
 def _nudge_forbidden(w: float) -> float:
@@ -156,186 +156,17 @@ def _nudge_forbidden(w: float) -> float:
 
 def deterministic_weight_jitter(fa: str, fb: str, w: float) -> float:
     """Break >30%% identical weights; stable for fixed (fa,fb)."""
-    z = zlib.adler32(f"{fa}|{fb}".encode("utf-8")) % 1000
-    delta = z * 1e-5
-    return min(MAX_WEIGHT, max(MIN_WEIGHT, w + delta))
+    return deterministic_jitter(fa, fb, w, min_weight=MIN_WEIGHT, max_weight=MAX_WEIGHT)
 
 
-def top_k_prune_symmetric(
-    weights: dict[tuple[str, str], float],
-    *,
-    k: int,
-) -> dict[tuple[str, str], float]:
-    """
-    Per node keep top-K neighbors by weight; edge survives if **either** endpoint ranks the other in its top-K
-    (union / “at least one side cares”), then cap degree per node by trimming weakest incident edges to ≤K.
-    """
-    nodes: set[str] = set()
-    for a, b in weights:
-        nodes.add(a)
-        nodes.add(b)
-    adj: dict[str, list[tuple[str, float]]] = defaultdict(list)
-    for (a, b), w in weights.items():
-        if w <= 0:
-            continue
-        adj[a].append((b, w))
-        adj[b].append((a, w))
-    topk: dict[str, set[str]] = {}
-    for node in nodes:
-        neigh = sorted(adj[node], key=lambda x: (-x[1], x[0]))
-        topk[node] = {other for other, _ in neigh[:k]}
-    cand: dict[tuple[str, str], float] = {}
-    for (a, b), w in weights.items():
-        if w <= 0:
-            continue
-        if b in topk.get(a, set()) or a in topk.get(b, set()):
-            key = tuple(sorted((a, b)))
-            cand[key] = max(cand.get(key, 0.0), w)
-    # Cap degree at K per node: drop weakest incident edges until satisfied.
-    def degree_excess(e_map: dict[tuple[str, str], float]) -> dict[str, int]:
-        deg: dict[str, int] = defaultdict(int)
-        for (x, y), ww in e_map.items():
-            if ww <= 0:
-                continue
-            deg[x] += 1
-            deg[y] += 1
-        return {n: max(0, deg[n] - k) for n in nodes if deg[n] > k}
-
-    out = dict(cand)
-    for _ in range(len(nodes) * 3):
-        ex = degree_excess(out)
-        over = [n for n, x in ex.items() if x > 0]
-        if not over:
-            break
-        n_drop = min(over, key=lambda z: z)
-        # remove weakest edge incident to n_drop
-        inc = [(key, out[key]) for key in out if n_drop in key]
-        if not inc:
-            break
-        weakest = min(inc, key=lambda t: (t[1], t[0]))
-        del out[weakest[0]]
-    return out
-
-
-def row_sums(nodes: list[str], edges: dict[tuple[str, str], float]) -> dict[str, float]:
-    sums: dict[str, float] = defaultdict(float)
-    for (a, b), w in edges.items():
-        if w <= 0:
-            continue
-        sums[a] += w
-        sums[b] += w
-    return {n: sums.get(n, 0.0) for n in nodes}
-
-
-def normalize_row_sums(
-    edges: dict[tuple[str, str], float],
-    nodes: list[str],
-    *,
-    promotion_pool: list[tuple[tuple[str, str], float]],
-) -> dict[tuple[str, str], float]:
-    """
-    Scale down if any incident sum > NORM_SUM_MAX.
-    One pass: for nodes with sum in (0, NORM_SUM_MIN), add up to MAX_PROMOTE edges from promotion_pool
-    (pairs pruned by top-K only, strongest first).
-    """
-    e = dict(edges)
-    pool = sorted(promotion_pool, key=lambda x: -x[1])
-    pool_idx = 0
-
-    for _ in range(32):
-        rs = row_sums(nodes, e)
-        mx = max(rs.values(), default=0.0)
-        if mx > NORM_SUM_MAX:
-            f_down = NORM_SUM_MAX / mx
-            for k in list(e.keys()):
-                e[k] = min(MAX_WEIGHT, max(0.0, e[k] * f_down))
-            continue
-        break
-
-    rs = row_sums(nodes, e)
-    under = [n for n in nodes if 0.0 < rs.get(n, 0.0) < NORM_SUM_MIN]
-    for n in under:
-        added = 0
-        while added < MAX_PROMOTE and pool_idx < len(pool):
-            key, w0 = pool[pool_idx]
-            pool_idx += 1
-            a, b = key
-            if n not in (a, b) or key in e:
-                continue
-            if w0 < MIN_WEIGHT:
-                continue
-            e[key] = min(MAX_WEIGHT, _nudge_forbidden(w0))
-            added += 1
-        rs2 = row_sums(nodes, e)
-        if rs2.get(n, 0.0) > NORM_SUM_MAX:
-            f2 = NORM_SUM_MAX / rs2[n]
-            for k in list(e.keys()):
-                a, b = k
-                if a == n or b == n:
-                    e[k] = min(MAX_WEIGHT, max(0.0, e[k] * f2))
-    return e
-
-
-def bump_avg_degree_from_pool(
-    e: dict[tuple[str, str], float],
-    nodes: list[str],
-    pool: list[tuple[tuple[str, str], float]],
-    *,
-    target: float = AVG_DEG_MIN,
-    max_add: int = 2500,
-) -> dict[tuple[str, str], float]:
-    """If graph too sparse, add strongest pruned edges until avg degree target or cap."""
-    n_v = len(nodes)
-    if n_v == 0:
-        return e
-
-    def avg_deg() -> float:
-        return (2.0 * len(e)) / n_v
-
-    adds = 0
-    for key, w0 in sorted(pool, key=lambda x: -x[1]):
-        if avg_deg() >= target:
-            break
-        if adds >= max_add:
-            break
-        if key in e or w0 < MIN_WEIGHT:
-            continue
-        e[key] = min(MAX_WEIGHT, _nudge_forbidden(w0))
-        adds += 1
-    return e
-
-
-def trim_avg_degree_high(
-    e: dict[tuple[str, str], float],
-    nodes: list[str],
-    *,
-    max_avg: float = AVG_DEG_MAX,
-    max_rem: int = 8000,
-) -> dict[tuple[str, str], float]:
-    n_v = len(nodes)
-    if n_v == 0:
-        return e
-    rem = 0
-    while (2.0 * len(e)) / n_v > max_avg and e and rem < max_rem:
-        weakest = min(e, key=lambda k: e[k])
-        del e[weakest]
-        rem += 1
-    return e
-
-
-def graph_avg_degree(nodes: list[str], edges: dict[tuple[str, str], float]) -> float:
-    n_v = len(nodes)
-    return (2.0 * len(edges)) / n_v if n_v else 0.0
-
-
-def build_sparse_family_weights_v052(
+def build_sparse_family_weights(
     family_weights: dict[str, dict[str, float]],
     clusters: list[dict[str, Any]],
     *,
     use_effective_weight: bool = True,
 ) -> dict[str, Any]:
     """
-    Full v0.5.2 pipeline. Raises ValueError on validation failure.
+    Full family-weight sparsification pipeline. Raises ValueError on validation failure.
     """
     nodes = sorted(family_weights.keys())
     node_set = set(nodes)
@@ -395,9 +226,27 @@ def build_sparse_family_weights_v052(
         [(k, raw_edges[k]) for k in raw_edges if k not in pruned2],
         key=lambda x: -x[1],
     )
-    normalized = normalize_row_sums(pruned2, nodes, promotion_pool=promotion_pool)
-    normalized = bump_avg_degree_from_pool(normalized, nodes, promotion_pool)
-    normalized = trim_avg_degree_high(normalized, nodes)
+    normalized = normalize_row_sums(
+        pruned2,
+        nodes,
+        promotion_pool=promotion_pool,
+        sum_min=NORM_SUM_MIN,
+        sum_max=NORM_SUM_MAX,
+        max_promote=MAX_PROMOTE,
+        min_weight=MIN_WEIGHT,
+        max_weight=MAX_WEIGHT,
+        nudge_fn=_nudge_forbidden,
+    )
+    normalized = bump_avg_degree_from_pool(
+        normalized,
+        nodes,
+        promotion_pool,
+        target=AVG_DEG_MIN,
+        min_weight=MIN_WEIGHT,
+        max_weight=MAX_WEIGHT,
+        nudge_fn=_nudge_forbidden,
+    )
+    normalized = trim_avg_degree_high(normalized, nodes, max_avg=AVG_DEG_MAX)
 
     edge_list: list[dict[str, Any]] = []
     for key, w in sorted(normalized.items(), key=lambda x: (-x[1], x[0][0], x[0][1])):
@@ -455,7 +304,6 @@ def build_sparse_family_weights_v052(
         raise ValueError("; ".join(errors))
 
     return {
-        "version": "0.5.2",
         "params": {
             "top_k": TOP_K,
             "min_weight": MIN_WEIGHT,
@@ -482,4 +330,4 @@ def run_sparsify_from_paths(
 ) -> dict[str, Any]:
     fw = load_family_weights(family_weights_path)
     cl = load_concept_clusters(concept_clusters_path)
-    return build_sparse_family_weights_v052(fw, cl, use_effective_weight=use_effective_weight)
+    return build_sparse_family_weights(fw, cl, use_effective_weight=use_effective_weight)

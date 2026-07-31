@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -28,9 +28,7 @@ from sphere.propagation.weighting import (
 )
 from sphere.propagation.diagnostics import build_propagation_diagnostics
 from sphere.topology import META_AREA_INDICES
-
-NUM_AREAS = 12
-NUM_FAMILIES = 288
+from core.topology.invariant_catalog import AREAS as NUM_AREAS, TOTAL_FAMILIES as NUM_FAMILIES
 
 
 def compute_propagation(

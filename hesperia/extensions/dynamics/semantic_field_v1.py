@@ -13,10 +13,11 @@ from typing import Any, Iterable, Mapping, Sequence
 import numpy as np
 
 from . import equations as eq
-
-NUM_FAMILIES = 288
-NUM_AREAS = 12
-FAMILIES_PER_AREA = NUM_FAMILIES // NUM_AREAS
+from core.topology.invariant_catalog import (
+    AREAS as NUM_AREAS,
+    FAMILIES_PER_AREA,
+    TOTAL_FAMILIES as NUM_FAMILIES,
+)
 
 SPEC_ID = "SEMANTIC_FIELD_EQUATIONS_v1"
 

@@ -1,5 +1,5 @@
 # HESPERIA — Contradiction integrity release gating (v0.5.8 task9).
-# Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). See LEGAL_NOTICE.md.
 """Evaluate contradiction *handling* integrity for promotion — not mere presence of conflict."""
 
 from __future__ import annotations

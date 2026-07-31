@@ -1,12 +1,20 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
 HESPERIA Engine Dynamics — analyze: RAW_TEXT -> attribution -> guards -> SUMMARY.
-Single execution entry point. Dict A/B via lexicon frozen bundle v0_5_0 (see VERSION.yaml).
+Single execution entry point. Dict A/B via core.attribution.attribution_shared
+(curated lexicon, lexicon/curated/A_CORE_STAR_MAP_v0_4_1_3.json + frozen B0/B1).
+
+Core has no relation to any extension/module. The former "v06" attribution path
+(core.attribution.attribution, a synthetic-placeholder dictionary — no real
+vocabulary) has been retired; see core/attribution/_deprecated/README.md and
+docs/foundations/attribution_layer.md. Sealed matrix is 0.7.0 + the sphereV
+genesis areas/families (core/topology/invariant_catalog.py); real dictionaries
+sourced from that same corpus are future work (not yet built).
 """
 from __future__ import annotations
 
@@ -19,19 +27,8 @@ try:
     from core.propagation.guard_pipeline import run_pipeline as run_propagation_guard_pipeline
     from core.math.core_math import load_config, analyze as _core_analyze
     from core.propagation.output_contracts import to_minimal_operational_result
-    import os
-    try:
-        from core.attribution import attribution
-        _MODE = os.environ.get("HESPERIA_ATTRIBUTION_MODE", "v06").lower()
-        if _MODE not in ("sparse", "v06"):
-            _MODE = "v06"  # legacy mode name: dense bundle loader (path v0_5_0)
-    except Exception:
-        attribution = None  # type: ignore[assignment]
-        _MODE = "sparse"
 except ImportError:
     from attribution_shared import DEFAULT_TEXT_CAP, run_attribution_pipeline
-    attribution = None  # type: ignore[assignment]
-    _MODE = "sparse"  # noqa: F811
     from guard_pipeline import run_pipeline as run_propagation_guard_pipeline
     from core_math import load_config, analyze as _core_analyze
     from output_contracts import to_minimal_operational_result
@@ -230,48 +227,23 @@ def analyze(
     cfg = load_config()
     cap = int(cfg.get("text_cap", text_cap))
     shadow = shadow_enabled if shadow_enabled is not None else bool(cfg.get("shadow_enabled", False))
-    if _MODE == "v06" and attribution is not None:
-        v06_dir = (assets_root / "v0_5_0") if assets_root else None
-        dominant_family, dominant_area, seed, attr_metrics, extended = attribution.run_attribution_pipeline(
-            text, cap=cap, assets_root=assets_root, v06_dir=v06_dir
-        )
-    else:
-        dominant_family, dominant_area, seed, attr_metrics, extended = run_attribution_pipeline(
-            text, cap=cap, assets_root=assets_root, mode=_MODE
-        )
+    dominant_family, dominant_area, seed, attr_metrics, extended = run_attribution_pipeline(
+        text, cap=cap, assets_root=assets_root
+    )
     family_vector = extended.get("family_vector") if isinstance(extended, dict) else None
-    diagnostics_dict_b: dict[str, Any] | None = None
-    if _MODE == "v06" and family_vector and len(family_vector) == 288:
+    initial_S, initial_L = None, None
+    if family_vector and len(family_vector) == 288:
         try:
-            from core.math.dict_b import run_dict_b_pipeline
-            diagnostics_dict_b = run_dict_b_pipeline(list(family_vector))
-            raw = {
-                "dominant_area": diagnostics_dict_b["dominant_area"],
-                "dominant_family": diagnostics_dict_b["dominant_family"],
-                "governance": diagnostics_dict_b["governance"],
-                "loopability": diagnostics_dict_b["loopability"],
-                "tension_energy": diagnostics_dict_b["tension_energy"],
-                "obstacle_score": diagnostics_dict_b["obstacle_score"],
-            }
+            from core.math.core_math import perturb_shadow, reduce_288_to_5
+            vec = list(family_vector)
+            if shadow:
+                vec = perturb_shadow(vec, cfg)
+            initial_S, initial_L = reduce_288_to_5(vec)
         except Exception:
-            raw = None
-            diagnostics_dict_b = None
-    else:
-        raw = None
-    if raw is None:
-        initial_S, initial_L = None, None
-        if family_vector and len(family_vector) == 288:
-            try:
-                from core.math.core_math import perturb_shadow, reduce_288_to_5
-                vec = list(family_vector)
-                if shadow:
-                    vec = perturb_shadow(vec, cfg)
-                initial_S, initial_L = reduce_288_to_5(vec)
-            except Exception:
-                pass
-        raw = _core_analyze(initial_S=initial_S, initial_L=initial_L)
-        raw["dominant_family"] = dominant_family
-        raw["dominant_area"] = dominant_area
+            pass
+    raw = _core_analyze(initial_S=initial_S, initial_L=initial_L)
+    raw["dominant_family"] = dominant_family
+    raw["dominant_area"] = dominant_area
     result = run_propagation_guard_pipeline(
         raw,
         traversal_length=0,
@@ -328,12 +300,6 @@ def analyze(
             }
         except Exception as e:
             extended_out["lexical_evidence_dlcr"] = {"_error": str(e)[:240]}
-    if diagnostics_dict_b is not None:
-        extended_out["dict_b"] = {
-            "exclusion_conflict_energy": diagnostics_dict_b["exclusion_conflict_energy"],
-            "coherence_index": diagnostics_dict_b["coherence_index"],
-            "entropy_area": diagnostics_dict_b["entropy_area"],
-        }
     if r1_r4:
         try:
             from runtime.pipeline.r1_r4_pipeline import run_full_pipeline

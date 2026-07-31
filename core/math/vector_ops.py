@@ -1,7 +1,7 @@
 # HESPERIA — Reference Architecture Definition (RAD)
-# Copyright © 2026 igareosh.com — Platonov Igor (aka @igareosh). All rights reserved.
+# Copyright © 2026 Societatea cu Răspundere Limitată "CONSOLIDARE CONTINUUM" (IDNO 1026023120076). All rights reserved.
 # Restricted Research Disclosure License. Inspection and reference only.
-# No reproduction, redistribution, or use without explicit written permission from the author.
+# No reproduction, redistribution, or use without explicit written permission from CONSOLIDARE CONTINUUM S.R.L.
 # See LEGAL_NOTICE.md for full terms.
 
 """
@@ -13,8 +13,7 @@ from __future__ import annotations
 
 import numpy as np
 
-DEFAULT_NUM_AREAS = 12
-DEFAULT_NUM_FAMILIES = 288
+from core.topology.invariant_catalog import AREAS as DEFAULT_NUM_AREAS, TOTAL_FAMILIES as DEFAULT_NUM_FAMILIES
 
 
 def vector_sum(v: np.ndarray | list[float]) -> float:
