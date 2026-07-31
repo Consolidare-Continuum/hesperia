@@ -129,7 +129,9 @@ def test_multiscale_persistent_contradiction() -> None:
 def test_product_reflects_contradiction() -> None:
     from runtime.pipeline.analyze import analyze
 
-    text = "clinical session narrative with sufficient tokens for attribution pipeline"
+    # Real genesis-taxonomy vocabulary (v06 retired; attribution_shared has no
+    # generic-filler fallback, so this must contain words the live dictionary knows).
+    text = "trust and compassion and courage build community despite conflict and betrayal"
     pkg = {
         "global_contradiction_load": 0.72,
         "cross_area_contradiction_mass": 0.5,

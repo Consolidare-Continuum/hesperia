@@ -99,7 +99,11 @@ def test_metric_report_contract_uses_current_json_keys() -> None:
     )
 
     payload = metric_report_to_dict(report)
-    assert sorted(payload.keys()) == ["derived", "fingerprint", "primitives", "sourceId", "triz"]
+    # core.domain.pipeline.run_document no longer computes triz_signals (core has
+    # zero relation to TRIZ or any other module); "triz" is only added by the
+    # hesperia.engine.kme.clinical_bridge integration layer, exercised separately
+    # in test_clinical_bridge_report_maps_follow_fingerprint_source_of_truth above.
+    assert sorted(payload.keys()) == ["derived", "fingerprint", "primitives", "sourceId"]
     assert "primitiveMap" in payload["fingerprint"]
     assert "derivedMap" in payload["fingerprint"]
     assert "metricValues" in payload["fingerprint"]
