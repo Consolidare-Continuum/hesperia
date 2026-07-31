@@ -1,6 +1,6 @@
 # Brain repo links (cursor) — manifest only
 
-**Generated:** 2026-06-29T16:15Z  
+**Generated:** 2026-07-26T14:52Z  
 **Brain path:** `/data/altitudine/prichindel.com`  
 **Policy:** brain `governance/ETHAN-POLICY-HESPERIA-BRAIN-DEV-LINK.md`  
 **Dev-ready tag:** `hesperia/dev-ready-line-20260518`
@@ -31,10 +31,10 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 | Full export tree | `docs/brain-export/` |
 | Operational reports / formalization | `docs/brain-export/operational/` |
 | Governance specs | `docs/brain-export/governance/` |
-| Archives (0.6.3 zip) | `docs/brain-export/archive/` |
+| Archives (0.6.3 zip) | `docs/brain-export/root/` |
 | Dev-ready line (historical) | `docs/brain-export/operational/assignments/HESPERIA-DEV-READY-LINE-2026-05-18.md` |
 
-**Dev host:** **altitudine** VM (`192.168.100.65`) — not alunel bare metal. Clone: `/data/workspaces/atomic-commit-hesperia`.
+**Dev host:** **altitudine** VM (`192.168.100.65`) — not alunel bare metal. Clone: `/data/workspaces/hesperia`.
 
 ## Canonical Hesperia documentation (this repo — dev)
 
@@ -49,3 +49,4 @@ Moved from brain 2026-06-14. **Do not re-import into cursor.**
 
 - Ingest Hesperia product tree into brain repo root.
 - Commit `cursor-brain-mirror/` into either repo (disk-only optional).
+

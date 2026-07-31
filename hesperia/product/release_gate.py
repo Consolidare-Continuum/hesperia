@@ -14,8 +14,8 @@ from typing import Any
 
 from hesperia.extensions.triz.guards import TrizStructuralViolation, guard_no_meta_lexical_activation
 from hesperia.extensions.triz.pipeline import active_graph_from_payload, run_triz_analysis_complete
-from hesperia.evaluation.baselines.compare import run_triz_vs_baselines
-from hesperia.evaluation.triz_evaluator import (
+from research.evaluation.baselines.compare import run_triz_vs_baselines
+from research.evaluation.triz_evaluator import (
     evaluate_innovation_radar,
     evaluate_narrative_monitor,
     evaluate_policy_detector,

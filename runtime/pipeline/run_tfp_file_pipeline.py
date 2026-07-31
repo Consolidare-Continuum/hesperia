@@ -29,7 +29,7 @@ Usage::
 
 **Gena all-in-one** (same pipeline + audit + schema validation + release gate): ``python3 tools/gena_tfp_bundle_run.py -i path/to/note.md``.
 
-**Output folder discipline:** If ``--out-dir`` is omitted, defaults to ``outputs/tfp/runs/tfp_pipeline_run/<run_id>``. Wrappers: ``gena_tfp_bundle_run`` → ``outputs/tfp/runs/tfp_gena_<stem>``; ``tfp_pipeline_standard_run`` → ``outputs/tfp/runs/tfp_pipeline_run/<uuid>``. See repo root ``TFP_VALUES_LIST`` §0 and ``outputs/README.md``.
+**Output folder discipline:** If ``--out-dir`` is omitted, defaults to ``outputs/tfp/runs/tfp_pipeline_run/<run_id>``. Wrappers: ``gena_tfp_bundle_run`` → ``outputs/tfp/runs/tfp_gena_<stem>``; ``tfp_pipeline_standard_run`` → ``outputs/tfp/runs/tfp_pipeline_run/<uuid>``. See ``docs/specs/TFP_VALUES_LIST`` §0 and ``outputs/README.md``.
 
 Forces ``HESPERIA_DLCR_DOMAIN_PACK=tfp`` unless ``--no-dlcr-domain-pack``. Optional: ``HESPERIA_ANALYZE_DLCR_EVIDENCE=1`` for DLCR evidence inside ``analyze()``.
 """
@@ -436,15 +436,15 @@ def run_pipeline(
     topology_run_params: dict[str, Any] | None = None,
     contradiction_calibration_path: Path | None = None,
 ) -> dict[str, Any]:
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
-    from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
     from hesperia.nlp.session_parser import analyze_session
     from research.clinical_tfp.stage_detection import TFP_STAGES, detect_tfp_stage
     from runtime.pipeline.analyze import analyze
     from runtime.services.analysis_service import run_structural_analysis_batch
 
-    from hesperia.engine.output_anomalies import (
+    from core.engine.output_anomalies import (
         aggregate_file_envelope,
         apply_envelopes_standalone_sealed_analyze,
         apply_session_envelopes,
@@ -729,7 +729,7 @@ def run_pipeline(
 
         if not skip_dlcr:
             try:
-                from hesperia.engine.lexical_concept.pipeline import apply_crossplane_contradiction_fields_to_dlcr_result
+                from core.engine.lexical_concept.pipeline import apply_crossplane_contradiction_fields_to_dlcr_result
 
                 if dlcr_body is not None and not dlcr_body.get("_error"):
                     body = dict(dlcr_body)

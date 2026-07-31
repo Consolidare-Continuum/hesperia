@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from core.result.compare import compare
-from hesperia.engine.lexical_concept.pipeline import analyze
+from core.engine.lexical_concept.pipeline import analyze
 
 
 def test_result_schema_is_frozen() -> None:

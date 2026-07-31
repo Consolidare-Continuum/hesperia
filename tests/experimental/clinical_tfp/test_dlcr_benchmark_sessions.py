@@ -22,7 +22,7 @@ def _load_benchmark_sessions() -> list[dict]:
     ["bench_001", "bench_002", "bench_003"],
 )
 def test_dlcr_pipeline_runs_on_benchmark_session(session_id: str) -> None:
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
     sessions = {str(s.get("session_id")): s for s in _load_benchmark_sessions()}
     assert session_id in sessions
@@ -36,7 +36,7 @@ def test_dlcr_pipeline_runs_on_benchmark_session(session_id: str) -> None:
 
 def test_bench_001_dlcr_expected_bounds() -> None:
     """Optional expected.dlcr in benchmark_sessions.yaml (INT-019)."""
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
     sessions = {str(s.get("session_id")): s for s in _load_benchmark_sessions()}
     s = sessions["bench_001"]

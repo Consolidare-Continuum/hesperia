@@ -56,7 +56,7 @@ for broot in $BATCH_GLOB; do
   fi
 
   # dict_a + areas in parallel
-  python3 -u openai_calibrate_dict_a.py \
+  python3 -u tools/openai_calibration/openai_calibrate_dict_a.py \
     --bundle-dir "$broot/bundle" \
     --corpus "$broot/corpus.jsonl" \
     --out "$broot/openai" \
@@ -64,7 +64,7 @@ for broot in $BATCH_GLOB; do
     2>&1 | tee "$broot/logs/openai_dict_a.log" &
   p1=$!
 
-  python3 -u openai_calibrate_areas.py \
+  python3 -u tools/openai_calibration/openai_calibrate_areas.py \
     --bundle-dir "$broot/bundle" \
     --corpus "$broot/corpus.jsonl" \
     --out "$broot/openai" \
@@ -74,7 +74,7 @@ for broot in $BATCH_GLOB; do
   wait "$p1"
 
   # topology after areas (reuses area_openai_segments.jsonl)
-  python3 -u openai_calibrate_topology.py \
+  python3 -u tools/openai_calibration/openai_calibrate_topology.py \
     --bundle-dir "$broot/bundle" \
     --corpus "$broot/corpus.jsonl" \
     --out "$broot/openai" \
@@ -83,7 +83,7 @@ for broot in $BATCH_GLOB; do
     2>&1 | tee "$broot/logs/openai_topology.log"
 
   # audit last (consumes the three OpenAI reports + bundle plane outputs)
-  python3 -u openai_calibration_audit.py \
+  python3 -u tools/openai_calibration/openai_calibration_audit.py \
     --bundle-dir "$broot/bundle" \
     --openai-dir "$broot/openai" \
     --out "$broot/openai" \

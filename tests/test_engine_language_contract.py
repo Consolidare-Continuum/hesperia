@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import pytest
 
-from hesperia.engine.context_guard import GuardedContext
-from hesperia.engine.language import language_schema, validate_signals
+from core.engine.context_guard import GuardedContext
+from core.engine.language import language_schema, validate_signals
 
 
 def test_language_schema_has_ctx_signal_result() -> None:

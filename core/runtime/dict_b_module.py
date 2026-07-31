@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 from hesperia.engine.calibration_dict_paths import resolve_dict_file
-from hesperia.engine.calculus import concepts_to_family_area_scores
+from core.engine.calculus import concepts_to_family_area_scores
 
 
 class DictBModule:

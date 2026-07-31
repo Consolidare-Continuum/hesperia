@@ -12,8 +12,8 @@ _REPO = Path(__file__).resolve().parents[2]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
-from hesperia.engine.hex_matrix_builders import HEXES_PER_FAMILY_CANON, NUM_FAMILIES_HEX  # noqa: E402
-from hesperia.engine.pch_builder import build_pch_v1, pch_manifest_dict  # noqa: E402
+from core.engine.hex_matrix_builders import HEXES_PER_FAMILY_CANON, NUM_FAMILIES_HEX  # noqa: E402
+from core.engine.pch_builder import build_pch_v1, pch_manifest_dict  # noqa: E402
 from scipy.sparse import save_npz  # noqa: E402
 
 OUT_DIR = _REPO / "assets" / "matrices" / "pch"

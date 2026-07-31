@@ -18,7 +18,7 @@ from hesperia.extensions.dynamics.semantic_field_v1 import (
     source_from_hits_normalized,
     step_field_euler,
 )
-from hesperia.engine.observables import FieldObservables, compute_field_observables, observables_from_timestep
+from core.engine.observables import FieldObservables, compute_field_observables, observables_from_timestep
 
 
 def test_observables_E_half_L():

@@ -23,7 +23,7 @@ the minimal addition that supports composing facts through true logical inferenc
 imperative branching logic that would defeat the "no thresholds in Python" discipline Layer-9
 itself follows. `explanation_graph.py` exists specifically because a composed conclusion is only
 auditable if the system can show *which* underlying facts and *which* inference steps produced it —
-the same explainability requirement `theory_description.txt` demands of concept resolution
+the same explainability requirement `docs/foundations/theory_description.txt` demands of concept resolution
 ("explainable trace: for every concept hit, you can show which span matched which rule and why one
 sense won over alternatives") applied here to composite risk/state predicates instead of lexical
 matches.

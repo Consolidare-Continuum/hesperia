@@ -24,7 +24,7 @@ SPEC_ID = "SEMANTIC_FIELD_EQUATIONS_v1"
 # When True, bundle output notes that matrices were not caller-supplied.
 STUB_MATRICES_PROVENANCE = "stub_canonical_ring_DEV_ONLY_explicit_registry_required_for_production"
 
-# Legacy unit tests only — production must use ``hesperia.engine.matrix_loader.load_production_matrices``.
+# Legacy unit tests only — production must use ``core.engine.matrix_loader.load_production_matrices``.
 _STUB_MATRICES_ENV = "HESPERIA_SEMANTIC_FIELD_STUB_MATRICES"
 
 
@@ -422,12 +422,12 @@ def build_stub_matrices_dev_only(
     """
     **DEV / tests only.** Builds L_F, R_F, C from the canonical ring stub adjacency unless
     caller passes explicit adjacency. Production must load matrices via
-    ``hesperia.engine.matrix_loader.load_production_matrices``.
+    ``core.engine.matrix_loader.load_production_matrices``.
     """
     if not _stub_matrices_allowed():
         raise RuntimeError(
             "Stub matrices are forbidden outside dev/tests. "
-            "Use hesperia.engine.matrix_loader.load_production_matrices(). "
+            "Use core.engine.matrix_loader.load_production_matrices(). "
             f"For legacy tests only, set {_STUB_MATRICES_ENV}=1."
         )
     from core.layers.layer_2 import build_canonical_stub_adjacency
@@ -458,7 +458,7 @@ def build_default_matrices(
     if not _stub_matrices_allowed():
         raise RuntimeError(
             "build_default_matrices() is not allowed in production. "
-            "Use hesperia.engine.matrix_loader.load_production_matrices(). "
+            "Use core.engine.matrix_loader.load_production_matrices(). "
             f"For legacy tests only, set {_STUB_MATRICES_ENV}=1."
         )
     return build_stub_matrices_dev_only(
@@ -486,7 +486,7 @@ def semantic_field_e2e_bundle(
         mats = dict(matrices)
         prov = "caller_supplied"
     else:
-        from hesperia.engine.matrix_loader import load_production_matrices
+        from core.engine.matrix_loader import load_production_matrices
 
         loaded = load_production_matrices()
         mats = {

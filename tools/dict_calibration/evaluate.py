@@ -7,7 +7,7 @@ import math
 from pathlib import Path
 from typing import Any
 
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 from . import repo_root
 

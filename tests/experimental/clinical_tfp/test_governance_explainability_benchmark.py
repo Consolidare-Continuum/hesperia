@@ -24,7 +24,7 @@ def test_ontology_registry() -> None:
 
 
 def test_build_activation_trace() -> None:
-    from hesperia.engine.explainability import build_activation_trace, trace_to_readable
+    from core.engine.explainability import build_activation_trace, trace_to_readable
 
     markers = [("B_A3_F1_001", 0.5), ("B_A4_F1_001", 0.3)]
     af = {"B_A3_F1_001": ("A3", "F1"), "B_A4_F1_001": ("A4", "F1")}

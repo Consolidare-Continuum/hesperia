@@ -255,7 +255,7 @@ def _module_audit() -> dict[str, Any]:
     docker_ship = (_REPO / "Dockerfile.shipping").read_text(encoding="utf-8")
     bad = re.search(r"COPY\s+research", docker_product + docker_ship, re.I)
     analysis = (_REPO / "runtime" / "services" / "analysis_service.py").read_text(encoding="utf-8")
-    has_gate = "project_to_public" in analysis and "hesperia.engine.projection" in analysis
+    has_gate = "project_to_public" in analysis and "core.engine.projection" in analysis
     return {
         "dockerfiles_copy_research": bool(bad),
         "analysis_service_uses_project_to_public": has_gate,

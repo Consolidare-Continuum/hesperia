@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.hex_family_bridge import (
+from core.engine.hex_family_bridge import (
     compute_family_activation,
     default_hex_family_weight_matrix_2d,
     parse_hex_id_to_linear_index,

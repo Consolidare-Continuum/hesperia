@@ -34,4 +34,4 @@
 
 ## Promote path
 
-Dev: `igareosh/hesperia` branch `hsr-v7-router-implementation` → prod: `Atomic-Commits-Team/hesperia` after Abelard A-12 clean + tag.
+Dev: `igareosh/hesperia` branch `hsr-v7-router-implementation` → prod: `Atomic-Commits-Team/hesperia` after Abelard A-12 clean + tag. **Historical** — Atomic abandoned 2026-07-26 (copyright assigned to Consolidare Continuum S.R.L.); prod promotion is now the same repo, `igareosh/hesperia`.

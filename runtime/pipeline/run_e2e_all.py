@@ -155,7 +155,7 @@ def run_e2e_l1_l9(out_path: Path, text: str) -> None:
     assets = _HESPERIA / "lexicon" / "curated"
     out = run_pipeline_for_text(text, assets_root=assets)
     try:
-        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+        from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
 
         out["narrative_microstructure_e2e"] = hex_microstructure_bundle_for_text(
             text, assets, list_cap=64
@@ -164,7 +164,7 @@ def run_e2e_l1_l9(out_path: Path, text: str) -> None:
         out["narrative_microstructure_e2e"] = {"_error": str(e)}
     from core.projection import apply_public_projection
     out = apply_public_projection(out)
-    _write_e2e_json(out_path, out, ["runtime.pipeline.run_l1_through_l9", "hesperia.engine.hex_outputs"])
+    _write_e2e_json(out_path, out, ["runtime.pipeline.run_l1_through_l9", "core.engine.hex_outputs"])
 
 
 def run_e2e_r1_r4(out_path: Path, text: str) -> None:
@@ -585,7 +585,7 @@ def run_e2e_tfp_smoke(out_path: Path, primary_text: str | None = None) -> None:
         dialogue_for_speaker_aware = primary
     session_hex_microstructure_tfp: list[dict[str, Any]] = []
     try:
-        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+        from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
 
         for sid, t in zip(sids, texts):
             if not (t or "").strip():
@@ -616,7 +616,7 @@ def run_e2e_tfp_smoke(out_path: Path, primary_text: str | None = None) -> None:
     session_dlcr_bundles: list[dict[str, Any]] = []
     if os.environ.get("HESPERIA_TFP_DLCR", "").strip().lower() in ("1", "true", "yes", "on"):
         try:
-            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+            from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
             for sid, t in zip(sids, texts):
                 if not (t or "").strip():
@@ -654,18 +654,18 @@ def run_e2e_tfp_smoke(out_path: Path, primary_text: str | None = None) -> None:
 
 def run_e2e_dlcr(out_path: Path, text: str) -> None:
     """DLCR L0–L6 bundle for primary E2E text (Ethan INT-015)."""
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
     t = (text or "").strip() or "justice order fairness truth"
     body = run_dlcr_pipeline(t, repo_root=_HESPERIA)
     # Preserve artifact run id (pipeline body also sets run=dlcr_pipeline_v1).
     out = _round_floats({**body, "run": "e2e_dlcr", "input": _text_preview(t)})
-    _write_e2e_json(out_path, out, ["hesperia.engine.lexical_concept.pipeline"])
+    _write_e2e_json(out_path, out, ["core.engine.lexical_concept.pipeline"])
 
 
 def run_e2e_sealed_multiscale(out_path: Path, text: str) -> None:
     """Sealed multiscale: hex → family bridge → area → product signals → hspr_index."""
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
     assets = _HESPERIA / "lexicon" / "curated"
     use_triz = os.environ.get("HESPERIA_SEALED_E2E_TRIZ", "").strip() in ("1", "true", "yes")
@@ -675,7 +675,7 @@ def run_e2e_sealed_multiscale(out_path: Path, text: str) -> None:
         use_triz_contradiction=use_triz,
     )
     out = _round_floats({"run": "e2e_sealed_multiscale", **out})
-    _write_e2e_json(out_path, out, ["hesperia.engine.sealed_multiscale_stack"])
+    _write_e2e_json(out_path, out, ["core.engine.sealed_multiscale_stack"])
 
 
 def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
@@ -683,7 +683,7 @@ def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
     Dedicated artifact: hex microstructure + Option A closure + TFP topology provenance
     for primary E2E text and each TFP smoke session transcript.
     """
-    from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+    from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
 
     assets = _HESPERIA / "lexicon" / "curated"
     smoke_path = _HESPERIA / "tests" / "fixtures" / "clinical_tfp" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
@@ -718,7 +718,7 @@ def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
             "tfp_smoke_session_bundles": session_bundles,
         }
     )
-    _write_e2e_json(out_path, out, ["hesperia.engine.hex_outputs.e2e_integration"])
+    _write_e2e_json(out_path, out, ["research.hex_outputs_e2e"])
 
 
 def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
@@ -813,14 +813,14 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put("interpret_session", _interpret)
 
     def _micro_hex_tfp() -> dict[str, Any]:
-        from hesperia.engine.hex_outputs.e2e_integration import hex_microstructure_bundle_for_text
+        from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
 
         return hex_microstructure_bundle_for_text(text_s[:2000], assets, list_cap=40)
 
     _put("narrative_microstructure_tfp_wire", _micro_hex_tfp)
 
     def _sealed_stack() -> dict[str, Any]:
-        from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+        from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
         r = run_sealed_multiscale_stack(text_s[:1500], assets, use_triz_contradiction=False)
         av = r.get("area_activation_vector") or []
@@ -833,7 +833,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put("sealed_multiscale_hspr", _sealed_stack)
 
     def _dlcr_cap() -> dict[str, Any]:
-        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+        from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
         d = run_dlcr_pipeline(text_s[:1500], repo_root=_HESPERIA)
         return {
@@ -875,13 +875,13 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put(
         "baseline_keyword",
         lambda: __import__(
-            "hesperia.evaluation.baselines.keyword_baseline", fromlist=["run_keyword_baseline"]
+            "research.evaluation.baselines.keyword_baseline", fromlist=["run_keyword_baseline"]
         ).run_keyword_baseline(text_s),
     )
 
     def _graph() -> dict[str, Any]:
         return __import__(
-            "hesperia.evaluation.baselines.graph_baseline", fromlist=["run_graph_baseline"]
+            "research.evaluation.baselines.graph_baseline", fromlist=["run_graph_baseline"]
         ).run_graph_baseline(
             "growth freedom market cut ban crisis against support " * 3
         )
@@ -890,7 +890,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put(
         "baseline_tfidf",
         lambda: __import__(
-            "hesperia.evaluation.baselines.tfidf_baseline", fromlist=["run_tfidf_style_baseline"]
+            "research.evaluation.baselines.tfidf_baseline", fromlist=["run_tfidf_style_baseline"]
         ).run_tfidf_style_baseline(text_s),
     )
 
@@ -1071,7 +1071,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     _put("mvp_acceptance", _mvp_acceptance)
 
     def _experiment_runner() -> dict[str, Any]:
-        from hesperia.experiments.experiment_runner import run_experiment
+        from research.experiments.experiment_runner import run_experiment
         from hesperia.nlp.session_parser import analyze_session
 
         def slim_analyze(t: str) -> dict[str, Any]:

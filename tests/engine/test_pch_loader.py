@@ -6,8 +6,8 @@ import pytest
 
 import numpy as np
 
-from hesperia.engine.hex_matrix_builders import apply_pch_to_concept_activation
-from hesperia.engine.pch_loader import load_pch
+from core.engine.hex_matrix_builders import apply_pch_to_concept_activation
+from core.engine.pch_loader import load_pch
 
 
 def test_load_pch_shape_column_sums_sparsity():
@@ -61,7 +61,7 @@ def test_missing_pch_manifest_raises(tmp_path):
 
 def test_uniform_hex_injection_forbidden_without_dev(monkeypatch):
     monkeypatch.delenv("HESPERIA_PCH_UNIFORM_INJECTION_DEV", raising=False)
-    from hesperia.engine.hex_matrix_builders import concept_family_weights_to_hex_source
+    from core.engine.hex_matrix_builders import concept_family_weights_to_hex_source
 
     with pytest.raises(RuntimeError, match="forbidden"):
         concept_family_weights_to_hex_source([1.0, 2.0, 3.0], n_hex_per_family=5)

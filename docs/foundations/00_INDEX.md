@@ -258,7 +258,7 @@ inherits without re-arguing it.
 ## Bedrock: why Hesperia has to exist as a *separate* thing from an LLM call
 
 This is the foundation stone underneath every era above it, and it is stated
-explicitly in `theory_description.txt` (the design memo that predates most of
+explicitly in `docs/foundations/theory_description.txt` (the design memo that predates most of
 the engineering): an LLM can produce fluent, plausible structure from text,
 but it cannot be forced to be the same fluent, plausible structure twice, nor
 can it show its work span-by-span. Hesperia's reason to exist is the gap

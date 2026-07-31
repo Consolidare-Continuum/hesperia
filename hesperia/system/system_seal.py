@@ -37,8 +37,8 @@ def _check_pipeline_integrity(repo: Path) -> tuple[bool, str]:
     """
     files = (
         repo / "runtime" / "services" / "analysis_service.py",
-        repo / "hesperia" / "engine" / "multiscale_product_bridge.py",
-        repo / "hesperia" / "engine" / "sealed_multiscale_stack.py",
+        repo / "core" / "engine" / "multiscale_product_bridge.py",
+        repo / "core" / "engine" / "sealed_multiscale_stack.py",
         repo / "runtime" / "artifact_writer" / "writer.py",
     )
     call_pat = re.compile(r"sphere\.pipeline\.run_pipeline\s*\(")
@@ -57,7 +57,7 @@ def _check_pipeline_integrity(repo: Path) -> tuple[bool, str]:
 
 def _check_hex_dependency() -> tuple[bool, str]:
     try:
-        from hesperia.engine.product_signals import compute_product_signals
+        from core.engine.product_signals import compute_product_signals
     except Exception as e:
         return False, str(e)
     try:
@@ -83,7 +83,7 @@ def _check_production_matrices(repo: Path) -> tuple[bool, str]:
         return False, "HESPERIA_SEMANTIC_FIELD_STUB_MATRICES must be unset for seal"
     old = os.environ.pop("HESPERIA_SEMANTIC_FIELD_STUB_MATRICES", None)
     try:
-        from hesperia.engine.matrix_loader import load_production_matrices
+        from core.engine.matrix_loader import load_production_matrices
 
         mats = load_production_matrices()
         if "matrix_manifest.json" not in str(mats.get("matrix_directory", "")) and not (
@@ -105,8 +105,8 @@ def _check_production_matrices(repo: Path) -> tuple[bool, str]:
 def _check_pch(repo: Path) -> tuple[bool, str]:
     old_pch = os.environ.pop("HESPERIA_PCH_UNIFORM_INJECTION_DEV", None)
     try:
-        from hesperia.engine.hex_matrix_builders import apply_pch_to_concept_activation
-        from hesperia.engine.pch_loader import load_pch
+        from core.engine.hex_matrix_builders import apply_pch_to_concept_activation
+        from core.engine.pch_loader import load_pch
 
         pch = load_pch()
         if pch.nnz / float(pch.shape[0] * pch.shape[1]) >= 0.01:
@@ -126,7 +126,7 @@ def _check_pch(repo: Path) -> tuple[bool, str]:
 
 def _check_energy() -> tuple[bool, str]:
     try:
-        from hesperia.engine.energy import EnergyControlParams, EnergyMode
+        from core.engine.energy import EnergyControlParams, EnergyMode
         from hesperia.extensions.dynamics.equations import (
             SemanticFieldParams,
             build_contradiction_matrix,
@@ -163,7 +163,7 @@ def _check_energy() -> tuple[bool, str]:
 
 
 def _check_concept_layer(repo: Path) -> tuple[bool, str]:
-    p = repo / "hesperia" / "engine" / "sealed_multiscale_stack.py"
+    p = repo / "core" / "engine" / "sealed_multiscale_stack.py"
     if not p.is_file():
         return False, "sealed_multiscale_stack.py missing"
     t = p.read_text(encoding="utf-8")
@@ -191,7 +191,7 @@ def _check_topology(repo: Path) -> tuple[bool, str]:
     if not path.is_file():
         return False, f"missing {path}"
     try:
-        from hesperia.engine.hex_topology_authority import validate_topology_invariants
+        from core.engine.hex_topology_authority import validate_topology_invariants
 
         validate_topology_invariants()
     except Exception as e:

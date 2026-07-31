@@ -78,7 +78,7 @@ def test_crossplane_package_required_fields() -> None:
 
 
 def test_dlcr_with_and_without_package() -> None:
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
     text = "clinical material for dlcr pipeline test"
     base = run_dlcr_pipeline(text, repo_root=_REPO, mode="clinical_speech")
@@ -97,7 +97,7 @@ def test_dlcr_with_and_without_package() -> None:
 
 
 def test_multiscale_persistent_contradiction() -> None:
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
     assets = _REPO / "lexicon" / "curated"
     text = "test"

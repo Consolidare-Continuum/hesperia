@@ -96,7 +96,7 @@ _EXPORT_MAP: dict[str, tuple[str, str]] = {
     "Phase2Theta": ("hesperia.extensions.dynamics.state", "Phase2Theta"),
     "Phase3Theta": ("hesperia.extensions.dynamics.state", "Phase3Theta"),
     "Phase4Theta": ("hesperia.extensions.dynamics.state", "Phase4Theta"),
-    "load_production_matrices": ("hesperia.engine.matrix_loader", "load_production_matrices"),
+    "load_production_matrices": ("core.engine.matrix_loader", "load_production_matrices"),
 }
 
 

@@ -18,7 +18,7 @@ REPO = Path(__file__).resolve().parents[1]
 if str(REPO) not in sys.path:
     sys.path.insert(0, str(REPO))
 
-from hesperia.engine.output_anomalies import codes_to_envelope, default_operational_envelope
+from core.engine.output_anomalies import codes_to_envelope, default_operational_envelope
 
 NEAR_EQUAL_DOMINANT_TOLERANCE = 0.015
 NEAR_EQUAL_DOMINANT_COUNT = 3

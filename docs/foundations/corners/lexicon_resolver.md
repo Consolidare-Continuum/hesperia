@@ -8,7 +8,7 @@ this layer is non-deterministic or unauditable, nothing built on top of it —
 hex projection, propagation, shadow correction, logic rules, guards — can be
 trusted, because they would all be amplifying noise from an unstable input.
 
-The founding design memo (`theory_description.txt`) states the problem
+The founding design memo (`docs/foundations/theory_description.txt`) states the problem
 precisely: the hard part was never designing families or areas (those can be
 specified by hand); the hard part is deterministically converting messy
 natural language into stable concept evidence. An LLM can do this conversion

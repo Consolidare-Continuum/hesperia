@@ -3,7 +3,7 @@
 **Canonical on dev repo:** `igareosh/hesperia` (this tree)  
 **Updated:** 2026-06-20  
 **Author:** Colombo (research) · operator-confirmed  
-**Prod push:** `Atomic-Commits-Team/hesperia` — **docs only on dev** until Ethan release wave
+**Prod push:** `igareosh/hesperia` (same repo as dev; was `Atomic-Commits-Team/hesperia`, abandoned 2026-07-26 — copyright assigned to Consolidare Continuum S.R.L.) — **docs only on dev** until Ethan release wave
 
 ---
 
@@ -74,7 +74,7 @@ Future: `cobalt` → Class **B** (attribution / library).
 | **MRT** | `igareosh/hesperia_mrt` | 96-family tech/FPF grid; `sphere_rag`; not prod 288-fam |
 | **COBALT** | spec → this dev repo | CHROMA-2 library RAG; corpus gate first |
 
-Dev workspace on **altitudine:** `/data/workspaces/atomic-commit-hesperia` (this repo) · `/data/workspaces/hesperia_mrt` (MRT).
+Dev workspace on **altitudine:** `/data/workspaces/hesperia` (this repo) · `/data/workspaces/hesperia_mrt` (MRT).
 
 ---
 

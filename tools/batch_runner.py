@@ -8,7 +8,7 @@ import concurrent.futures
 import json
 from pathlib import Path
 
-from hesperia.engine.pipeline_runner import run_pipeline
+from core.engine.pipeline_runner import run_pipeline
 
 
 def _run_file(path: Path, config: Path) -> tuple[str, dict]:

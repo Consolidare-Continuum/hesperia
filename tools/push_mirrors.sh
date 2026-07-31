@@ -3,7 +3,8 @@
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
 # Prerequisites:
-#   - origin: GitHub main repo (Atomic-Commits-Team/hesperia)
+#   - origin: GitHub main repo (igareosh/hesperia — was Atomic-Commits-Team/hesperia,
+#     abandoned/disconnected 2026-07-26, copyright assigned to Consolidare Continuum S.R.L.)
 #   - backup: GitHub mirror (igareosh/hesperia-dev-backup, private, no init)
 #
 # Usage: from repo root, ./tools/push_mirrors.sh

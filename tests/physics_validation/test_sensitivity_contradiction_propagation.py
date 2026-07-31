@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.product_signals import compute_product_signals
+from core.engine.product_signals import compute_product_signals
 from hesperia.extensions.dynamics.equations import (
     SemanticFieldParams,
     build_contradiction_matrix,

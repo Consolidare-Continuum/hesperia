@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from hesperia.engine.calibration_profile import load_calibration_profile, semantic_field_params_from_profile
-from hesperia.engine.hex_topology_authority import neighbor_global_hex_ids, validate_topology_invariants
+from core.engine.hex_topology_authority import neighbor_global_hex_ids, validate_topology_invariants
 from hesperia.ontology.concept_registry import n_concept_canon
 
 

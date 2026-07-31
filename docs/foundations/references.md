@@ -99,7 +99,7 @@ decision it backs, not a general endorsement of the source.
 
 ## Association and salience measures
 
-- **TF-IDF** — cited in the founding design memo (`theory_description.txt`)
+- **TF-IDF** — cited in the founding design memo (`docs/foundations/theory_description.txt`)
   as the deterministic baseline for concept salience relative to a text;
   informs why attribution/weighting in `corners/layer_contracts_attribution.md`
   is computed via explicit, fixed aggregation formulas rather than learned

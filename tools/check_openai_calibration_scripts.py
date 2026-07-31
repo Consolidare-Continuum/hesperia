@@ -8,6 +8,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+_CALIBRATION_DIR = REPO_ROOT / "tools" / "openai_calibration"
 
 SCRIPTS = (
     "openai_calibrate_dict_a.py",
@@ -20,7 +21,7 @@ SCRIPTS = (
 def main() -> int:
     failed = False
     for name in SCRIPTS:
-        path = REPO_ROOT / name
+        path = _CALIBRATION_DIR / name
         if not path.is_file():
             print(f"FAIL missing {path}", file=sys.stderr)
             failed = True
@@ -49,7 +50,7 @@ def main() -> int:
         [
             sys.executable,
             "-c",
-            "from openai_calibration_utils import log_stderr, log_tool_banner, log_tool_progress; "
+            "from tools.openai_calibration.openai_calibration_utils import log_stderr, log_tool_banner, log_tool_progress; "
             "log_tool_banner('check', x=1); log_tool_progress('check', 1, 3, every=1, detail='t'); "
             "log_stderr('[check] ok')",
         ],

@@ -88,7 +88,7 @@ def compile_router_envelope(
     corpus_snapshot_id: str | None = None,
 ) -> dict[str, Any]:
     """HSR-V7-06: single inspectable routed envelope before LLM."""
-    from runtime.services.engine_analyze_contract import run_engine_analyze
+    from sphere.router.engine_analyze_bridge import run_engine_analyze
 
     engine = run_engine_analyze(
         text,

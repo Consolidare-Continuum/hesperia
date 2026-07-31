@@ -16,7 +16,7 @@ from typing import Any
 
 import numpy as np
 
-from hesperia.engine.observables import FieldObservables
+from core.engine.observables import FieldObservables
 
 
 @dataclass(frozen=True)

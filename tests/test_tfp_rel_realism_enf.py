@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from hesperia.engine.lexical_concept.pipeline import (
+from core.engine.lexical_concept.pipeline import (
     compute_lexical_unmapped_token_rate,
     run_dlcr_pipeline,
 )

@@ -13,7 +13,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from hesperia.engine.projection import project_to_public
+from core.engine.projection import project_to_public
 
 
 def build_public_report(

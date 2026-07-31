@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 
 from hesperia.engine.calibration_release_gate import evaluate_bundle, write_gate_report
-from hesperia.engine.output_anomalies import default_operational_envelope
+from core.engine.output_anomalies import default_operational_envelope
 
 
 def test_release_gate_research_profile_passes_without_manifest(tmp_path: Path) -> None:

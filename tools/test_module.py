@@ -6,9 +6,9 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from hesperia.engine.context_schema import validate_context
-from hesperia.engine.core import HesperiaEngine
-from hesperia.engine.module_loader import resolve_module_path
+from core.engine.context_schema import validate_context
+from core.engine.core import HesperiaEngine
+from core.engine.module_loader import resolve_module_path
 
 
 def main() -> int:

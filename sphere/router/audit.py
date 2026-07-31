@@ -157,7 +157,7 @@ def audit_router_output(
     assets_root: Path | None = None,
 ) -> dict[str, Any]:
     """HSR-V7-09: full RouterOutputAudit + RouterDecision."""
-    from runtime.services.engine_analyze_contract import run_engine_analyze
+    from sphere.router.engine_analyze_bridge import run_engine_analyze
 
     output_text = _raw_output_to_text(raw_output)
     out_hash = _output_hash(raw_output if not isinstance(raw_output, str) else output_text)

@@ -6,7 +6,7 @@ import hashlib
 import json
 from pathlib import Path
 
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 REPO = Path(__file__).resolve().parents[1]
 

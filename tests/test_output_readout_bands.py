@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.output_readout import band_for_value, format_scalar_readout
+from core.engine.output_readout import band_for_value, format_scalar_readout
 
 
 def test_band_for_value_unit_interval_edges() -> None:

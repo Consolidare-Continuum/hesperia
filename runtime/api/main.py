@@ -285,7 +285,7 @@ async def internal_dlcr_trace(
     if os.environ.get("HESPERIA_API_INSTRUMENTATION", "").strip().lower() not in ("1", "true", "yes", "on"):
         return JSONResponse(status_code=404, content={"error": True, "message": "instrumentation disabled", "code": 404})
     try:
-        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+        from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
         out = run_dlcr_pipeline(body.text, repo_root=_HESPERIA_ROOT, mode=body.mode)
         return JSONResponse(content=out)

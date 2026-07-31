@@ -64,7 +64,7 @@ def run_pipeline(
     if os.environ.get("HESPERIA_SPHERE_PIPELINE_DEV") != "1":
         raise RuntimeError(
             "sphere.pipeline.run_pipeline is deprecated for production. "
-            "Use hesperia.engine.sealed_multiscale_stack.run_sealed_multiscale_stack (via "
+            "Use core.engine.sealed_multiscale_stack.run_sealed_multiscale_stack (via "
             "runtime.services.analysis_service). For legacy tests/tools only, set "
             "HESPERIA_SPHERE_PIPELINE_DEV=1."
         )

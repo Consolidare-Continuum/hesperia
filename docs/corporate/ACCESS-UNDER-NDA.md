@@ -26,7 +26,7 @@ records — MinIO `consolidare-continuum` / Grace custody).
 
 ## Contacts
 
-- Legal / entity: consolidare_continuum@proton.me  
+- Legal / entity: legal@consolidare-continuum.com
 - Corporate: igareosh@igareosh.com  
 - Administrator: Platonov Igor
 

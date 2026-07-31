@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.hex_outputs.hex_output_engine import (
+from core.engine.hex_outputs.hex_output_engine import (
     HexOutputParams,
     attach_hex_product_outputs,
     attach_microstructure_analytics_public,

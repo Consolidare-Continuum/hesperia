@@ -29,7 +29,7 @@ def main() -> int:
 
     repo = Path(__file__).resolve().parents[1]
     sys.path.insert(0, str(repo))
-    from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+    from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
     out = run_dlcr_pipeline(text, repo_root=repo, mode=args.mode)
     js = json.dumps(out, indent=2)

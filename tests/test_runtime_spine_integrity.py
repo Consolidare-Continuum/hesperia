@@ -20,9 +20,9 @@ def _assets() -> Path:
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
 def test_spine_modules_importable() -> None:
     from core.projection import apply_public_projection
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
-    from hesperia.engine.projection.public_projection import project_to_public
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.projection.public_projection import project_to_public
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
     from runtime.services.analysis_service import run_structural_analysis
 
     assert callable(run_structural_analysis)
@@ -38,8 +38,8 @@ def test_zero_marker_hits_hex_and_L1_not_silently_annihilated() -> None:
     Regression (Ethan calibration pack / Task 2): uniform concept prior + microphysics must not
     clip to all-zero hex; L1 must align with sealed family mass via bridge fallback.
     """
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
     from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
 
     text = "абвгд абвгд ежзий " * 80
@@ -62,7 +62,7 @@ def test_zero_marker_hits_hex_and_L1_not_silently_annihilated() -> None:
 
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
 def test_sealed_multiscale_stack_produces_hex_activation() -> None:
-    from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+    from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
     out = run_sealed_multiscale_stack(
         "justice fairness social order",
@@ -77,8 +77,8 @@ def test_sealed_multiscale_stack_produces_hex_activation() -> None:
 
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
 def test_product_bridge_to_projection_roundtrip() -> None:
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
-    from hesperia.engine.projection.public_projection import project_to_public
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.projection.public_projection import project_to_public
 
     raw = build_structural_internal_from_multiscale(
         "harm conflict trust repair",
@@ -108,8 +108,8 @@ def test_analysis_service_matches_spine() -> None:
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")
 def test_multiscale_bridge_stack_runner_wiring_and_signature() -> None:
     """Refactor resistance: module-level binding + canonical object + frozen parameter lists."""
-    import hesperia.engine.multiscale_product_bridge as mpb
-    import hesperia.engine.sealed_multiscale_stack as sms
+    import core.engine.multiscale_product_bridge as mpb
+    import core.engine.sealed_multiscale_stack as sms
 
     assert "run_sealed_multiscale_stack" in mpb.__dict__, (
         "bridge must bind run_sealed_multiscale_stack at module level"
@@ -142,8 +142,8 @@ def test_multiscale_bridge_stack_runner_wiring_and_signature() -> None:
 def test_analysis_service_exclusive_path_once(monkeypatch: pytest.MonkeyPatch) -> None:
     """Detect hidden parallel preprocessing / alternate projection / sphere runner side-calls."""
     import core.projection as cp
-    import hesperia.engine.multiscale_product_bridge as mpb
-    import hesperia.engine.sealed_multiscale_stack as sms
+    import core.engine.multiscale_product_bridge as mpb
+    import core.engine.sealed_multiscale_stack as sms
     import sphere.pipeline.pipeline_runner as spr
 
     assert "run_sealed_multiscale_stack" in mpb.__dict__

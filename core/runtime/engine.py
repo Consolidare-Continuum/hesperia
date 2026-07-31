@@ -7,7 +7,7 @@ from typing import Any
 
 from core.guards.determinism import guard_determinism
 from core.output.result_builder import build_result
-from hesperia.engine.runner import run_orchestration
+from core.engine.runner import run_orchestration
 
 
 def analyze_engine(text: str) -> dict[str, Any]:

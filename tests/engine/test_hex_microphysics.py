@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.hex_dynamics import (
+from core.engine.hex_dynamics import (
     HexFieldParams,
     canonical_family_field,
     compute_hex_observables,
@@ -14,7 +14,7 @@ from hesperia.engine.hex_dynamics import (
     run_option_a_hex_primary,
     step_hex_field_euler,
 )
-from hesperia.engine.hex_matrix_builders import (
+from core.engine.hex_matrix_builders import (
     build_ring_laplacian,
     build_uniform_hex_resistance,
     concept_family_weights_to_hex_source,

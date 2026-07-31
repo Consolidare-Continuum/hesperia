@@ -20,7 +20,7 @@ from typing import Any, Dict, List, Mapping, Optional, Sequence, Tuple
 
 import numpy as np
 
-from hesperia.engine.energy import (
+from core.engine.energy import (
     EnergyControlParams,
     EnergyMode,
     apply_clip_01_with_stats,
@@ -350,7 +350,7 @@ def compute_energy(
     params: SemanticFieldParams,
 ) -> float:
     """
-    Canonical linearized energy (delegates to ``hesperia.engine.energy``):
+    Canonical linearized energy (delegates to ``core.engine.energy``):
         E(F) = (alpha/2) F^T L F + (beta/2) F^T R F + (gamma/2) F^T C F - delta S^T F
     """
     params.validate()

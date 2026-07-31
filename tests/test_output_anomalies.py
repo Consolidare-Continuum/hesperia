@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.output_anomalies import (
+from core.engine.output_anomalies import (
     apply_session_envelopes,
     assess_structural_row,
     cross_plane_codes,

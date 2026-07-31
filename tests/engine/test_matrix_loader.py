@@ -8,7 +8,7 @@ from pathlib import Path
 import numpy as np
 import pytest
 
-from hesperia.engine.matrix_loader import load_production_matrices, resolve_production_matrix_dir
+from core.engine.matrix_loader import load_production_matrices, resolve_production_matrix_dir
 
 
 def test_load_production_matrices_smoke():
@@ -38,7 +38,7 @@ def test_build_default_matrices_forbidden_without_stub_env(monkeypatch: pytest.M
 
 def test_contradiction_pressure_positive_with_production_cf():
     """Cross-area C_F + mass in two areas → strictly positive hex Gram contradiction."""
-    from hesperia.engine.product_signals import contradiction_pressure_hex
+    from core.engine.product_signals import contradiction_pressure_hex
 
     m = load_production_matrices()
     C_F = m["C_F"]

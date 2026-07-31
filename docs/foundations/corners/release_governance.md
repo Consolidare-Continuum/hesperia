@@ -2,7 +2,7 @@
 
 **Location:** `release_sealed_runtime.sh`, `make_release.sh`, `build_shipping.sh`,
 `Dockerfile.shipping`, `Dockerfile.product`, `release/` (per-version release notes and scopes),
-`DEV-READY-LINE-2026-05-18.md`, `EXTENSION_STATUS.yaml`, `VERSION.yaml`'s `build:` block.
+`docs/DEV-READY-LINE-2026-05-18.md`, `EXTENSION_STATUS.yaml`, `VERSION.yaml`'s `build:` block.
 
 **Born:** first sealed-runtime gate and architecture-fingerprint provenance chain at the v0.4.1 era
 (`c1361131 docs: add Git tag and SHA to ARCHITECTURE_FINGERPRINT proof`, `e23749e3 docs: evidence

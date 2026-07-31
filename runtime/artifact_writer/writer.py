@@ -42,7 +42,7 @@ def write_public_json(path: Path | str, data: dict[str, Any] | list[Any], *, ind
     Injects canonical version envelope (VERSION.yaml) when not already present.
     List roots are wrapped as {"payload": [...], ...envelope} for schema-safe tracing.
     """
-    from hesperia.engine.projection import project_to_public, sanitize_public_trace
+    from core.engine.projection import project_to_public, sanitize_public_trace
     from hesperia.system.version import attach_public_output_metadata, default_calibration_profile, structural_pipeline_version
 
     path = Path(path)

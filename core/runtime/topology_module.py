@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.calculus import normalize_area_scores
+from core.engine.calculus import normalize_area_scores
 
 
 class TopologyModule:

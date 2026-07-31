@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from hesperia.engine.pipeline_runner import run_pipeline
+from core.engine.pipeline_runner import run_pipeline
 
 
 def test_tfp_module_is_executed_in_main_pipeline(monkeypatch) -> None:

@@ -14,7 +14,7 @@ _ROOT = Path(__file__).resolve().parents[1]
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
-from hesperia.engine.pipeline_runner import run_pipeline
+from core.engine.pipeline_runner import run_pipeline
 
 
 def _quantiles(values: list[float]) -> tuple[float, float]:

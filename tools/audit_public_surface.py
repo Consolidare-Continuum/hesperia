@@ -40,7 +40,7 @@ def main() -> int:
     bad = [r for r in sorted(set(routes)) if r not in ALLOWED]
 
     svc = (_REPO / "runtime" / "services" / "analysis_service.py").read_text(encoding="utf-8")
-    proj_ok = "project_to_public" in svc and "hesperia.engine.projection" in svc
+    proj_ok = "project_to_public" in svc and "core.engine.projection" in svc
 
     assets = _REPO / "lexicon" / "curated"
     fixture = _REPO / "tests" / "fixtures" / "release_v0_5_0" / "canonical_input.txt"

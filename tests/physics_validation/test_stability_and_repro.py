@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.energy import EnergyControlParams, EnergyMode
+from core.engine.energy import EnergyControlParams, EnergyMode
 from hesperia.extensions.dynamics.equations import (
     SemanticFieldParams,
     build_contradiction_matrix,

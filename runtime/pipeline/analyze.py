@@ -273,7 +273,7 @@ def analyze(
     if _os_ev.environ.get("HESPERIA_ANALYZE_DLCR_EVIDENCE", "").strip().lower() in ("1", "true", "yes", "on"):
         try:
             _repo = Path(__file__).resolve().parents[2]
-            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+            from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
             snip = (text or "")[:8000]
             dlcr = run_dlcr_pipeline(

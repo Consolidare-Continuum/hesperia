@@ -60,6 +60,38 @@ def compute_normalized_entropy(vector: np.ndarray | list[float]) -> float:
     return float(H / math.log2(N))
 
 
+def compute_entropy_nats(vector: np.ndarray | list[float]) -> float:
+    """
+    Shannon entropy (natural log / nats) over a non-negative distribution.
+
+    Formula:
+      p_i = vector[i] / sum(vector)
+      entropy = - Σ (p_i * ln(p_i))   for p_i > 0
+
+    Zero probabilities are ignored. If total mass is zero, returns 0.0.
+    Distinct from compute_entropy (base-2, for normalized/bits use) — this is the
+    raw natural-log form needed by callers (e.g. GTP CoherenceField Psi_ent) that
+    do not divide by log(N).
+
+    Graduated to core 2026-07-31 (was sphere/topology/gtp/coherence.py's inline
+    math.log entropy sum). Deliberately built on Python's built-in sum() rather
+    than numpy or a manual accumulation loop: this must stay bit-exact with the
+    original inline formula for the GTP gold-matrix fixtures, and both np.sum's
+    pairwise summation and a naive running-total loop round differently in the
+    last bit than sum()'s compensated summation (Python 3.12+) for 300-element
+    vectors.
+    """
+    vals = [float(x) for x in vector]
+    if not vals:
+        return 0.0
+    if any(v < 0 for v in vals):
+        raise ValueError("Entropy input must be non-negative")
+    total = sum(vals)
+    if total <= 0:
+        return 0.0
+    return -sum((v / total) * math.log(v / total) for v in vals if v > 0.0)
+
+
 def compute_normalized_entropy_from_weights(weights: dict[str, float], *, eps: float = 1e-15) -> float:
     """
     Normalized entropy (natural-log form) over a keyed weight distribution, clamped to [0,1].

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.output_trace import explain_metric
+from core.engine.output_trace import explain_metric
 
 
 def test_explain_metric_governance_path() -> None:

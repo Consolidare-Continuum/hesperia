@@ -6,7 +6,7 @@ concept_id, area_name, family_name on all chunks for that doc_id.
 
 Run from altitudine with Hesperia dev on PYTHONPATH:
 
-  export HESPERIA_DEV_ROOT=/data/workspaces/atomic-commit-hesperia
+  export HESPERIA_DEV_ROOT=/data/workspaces/hesperia
   export PYTHONPATH=$HESPERIA_DEV_ROOT
   python3 tools/cobalt_chroma2_attrib_batch.py --pilot --max-docs 30 --dry-run
   python3 tools/cobalt_chroma2_attrib_batch.py --pilot --max-docs 30 --apply

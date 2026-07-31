@@ -138,8 +138,6 @@ def call_governed_calibration(
 
     On gate block or missing provider: returns schema-empty object (audit downstream as BLOCK).
     """
-    from openai_calibration_utils import StructuredCall, call_structured
-
     outcome = step_calibration_gate(tool=tool, dry_run=dry_run)
     kind = str(outcome.get("kind") or "").lower()
     if dry_run:
@@ -148,6 +146,8 @@ def call_governed_calibration(
         return _empty_for_schema(schema, substrate)
     if kind not in {k.lower() for k in _ALLOWED_OUTCOME_KINDS}:
         return _empty_for_schema(schema, substrate)
+
+    from tools.openai_calibration.openai_calibration_utils import StructuredCall, call_structured
 
     prompt = build_governed_calibration_prompt(
         tool=tool,

@@ -6,7 +6,7 @@ import argparse
 import json
 from pathlib import Path
 
-from hesperia.engine.pipeline_runner import run_pipeline, write_run_manifest
+from core.engine.pipeline_runner import run_pipeline, write_run_manifest
 
 
 def main() -> int:

@@ -117,6 +117,7 @@ def test_e2e_sphere_math_100_output_exists() -> None:
             assert "L1" in item or "text_preview" in item
 
 
+@pytest.mark.tfp
 def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
     """Unified run_e2e_all with field dynamics: 19 base + field_dynamics; second run bumps state_t."""
     import os
@@ -191,6 +192,7 @@ def test_e2e_run_e2e_all_produces_all_artifacts() -> None:
             os.environ["HESPERIA_E2E_CALIBRATION_BATCH_N"] = old_cal
 
 
+@pytest.mark.tfp
 def test_e2e_run_e2e_all_optional_dlcr_artifact() -> None:
     """With HESPERIA_E2E_DLCR=1, run_all emits run_output_e2e_dlcr.json (Ethan INT-015)."""
     import os
@@ -324,6 +326,7 @@ def test_e2e_tfp_smoke_artifact_shape() -> None:
                 assert "hex_option_a_summary" in row
 
 
+@pytest.mark.tfp
 def test_e2e_tfp_smoke_with_dlcr_bundles() -> None:
     """HESPERIA_TFP_DLCR=1 adds session_dlcr_bundles (Ethan INT-017)."""
     import os
@@ -352,6 +355,7 @@ def test_e2e_tfp_smoke_with_dlcr_bundles() -> None:
             os.environ["HESPERIA_TFP_DLCR"] = old
 
 
+@pytest.mark.tfp
 def test_e2e_hex_microstructure_tfp_artifact() -> None:
     from runtime.pipeline.run_e2e_all import run_e2e_hex_microstructure_tfp
 

@@ -9,7 +9,7 @@ from pathlib import Path
 
 FORBIDDEN_PREFIX = "hesperia.modules."
 ALLOWED_FILES = {
-    "hesperia/engine/core.py",
+    "core/engine/core.py",
 }
 SCAN_DIRS = (
     "core",

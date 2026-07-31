@@ -5,12 +5,14 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-HESPERIA v0.3 — minimal reference implementation of 22_SPEC (Core Math Contract v1.0).
+Core Math Contract v1.0 (22_SPEC) — canonical implementation, wired into the live
+runtime/pipeline/analyze.py `/analyze` entry point.
 
 Implements: fusion (Dict A + Dict B → E0), centroid selection, base traversal step,
-shadow step (skeleton), penalties (ambiguity, thin-core, dispersion, guard, shadow),
-metrics (governance, loopability, tension_energy, obstacle_score), invariant checks.
-No full side graph; uses small row-stochastic W for demo.
+shadow step, penalties (ambiguity, thin-core, dispersion, guard, shadow), metrics
+(governance, loopability, tension_energy, obstacle_score), invariant checks. `run_demo()`
+below is a standalone illustrative entry point (small row-stochastic W), not the module's
+purpose — the rest of the file is production code.
 Config: assets/config/guard_config_v1.json (fallback: repo root).
 """
 

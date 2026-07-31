@@ -10,7 +10,7 @@ import pytest
 # ---------------------------------------------------------------------------
 
 def test_serialize_hex_outputs_includes_path_metric() -> None:
-    from hesperia.engine.hex_outputs.hex_output_engine import (
+    from core.engine.hex_outputs.hex_output_engine import (
         build_sparse_hex_scene,
         compute_hex_outputs,
         serialize_hex_outputs,
@@ -43,7 +43,7 @@ def test_serialize_hex_outputs_includes_path_metric() -> None:
 # ---------------------------------------------------------------------------
 
 def test_sparse_hex_scene_distance_uses_spacing_factor() -> None:
-    from hesperia.engine.hex_outputs.hex_output_engine import build_sparse_hex_scene
+    from core.engine.hex_outputs.hex_output_engine import build_sparse_hex_scene
     from runtime.services.gcs_lookup import spacing_factor
 
     hits = [0] * 288
@@ -160,7 +160,7 @@ def test_multiscale_bridge_includes_ipow_when_enabled(monkeypatch: pytest.Monkey
 
     load_anchor_map_v1.cache_clear()
 
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
     from pathlib import Path
 
     assets = Path(__file__).resolve().parents[1] / "lexicon" / "curated"

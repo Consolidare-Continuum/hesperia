@@ -5,7 +5,7 @@ from __future__ import annotations
 import numpy as np
 import pytest
 
-from hesperia.engine.product_signals import (
+from core.engine.product_signals import (
     compute_product_signals,
     contradiction_pressure_hex,
     narrative_hotspot_mean_hex,

@@ -4,9 +4,9 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from hesperia.engine.hex_dynamics import LocalHexMicrophysicsParams, step_hex_local_microphysics
-from hesperia.engine.hspr_index import compute_hspr_index
-from hesperia.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
+from core.engine.hex_dynamics import LocalHexMicrophysicsParams, step_hex_local_microphysics
+from core.engine.hspr_index import compute_hspr_index
+from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
 
 def test_step_hex_local_microphysics_nonneg():

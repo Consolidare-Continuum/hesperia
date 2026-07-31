@@ -5,8 +5,8 @@ from __future__ import annotations
 
 import pytest
 
-from hesperia.engine.projection import enforce_public_schema, project_to_public
-from hesperia.engine.projection.schema_enforcer import enforce_public_schema as enforce2
+from core.engine.projection import enforce_public_schema, project_to_public
+from core.engine.projection.schema_enforcer import enforce_public_schema as enforce2
 
 
 def test_project_to_public_strips_forbidden_keys_nested() -> None:

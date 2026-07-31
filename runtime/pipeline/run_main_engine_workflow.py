@@ -51,9 +51,9 @@ def main() -> int:
         "run": "main_engine_workflow_v1",
         "canonical_path": [
             "runtime.services.analysis_service.run_structural_analysis",
-            "hesperia.engine.multiscale_product_bridge.build_structural_internal_from_multiscale",
-            "hesperia.engine.sealed_multiscale_stack.run_sealed_multiscale_stack",
-            "hesperia.engine.projection.project_to_public",
+            "core.engine.multiscale_product_bridge.build_structural_internal_from_multiscale",
+            "core.engine.sealed_multiscale_stack.run_sealed_multiscale_stack",
+            "core.engine.projection.project_to_public",
         ],
         "determinism": {
             "payload_hash_first": hash_first,

@@ -16,7 +16,7 @@ They do **not** create shared rights in this company repository:
 | igareosh.com | Personal / prior brand |
 | prichindel.com | Dev company brand / cluster |
 | Platonov Igor (personal) | Same founder; now sole shareholder of the SRL |
-| Atomic-Commits-Team/hesperia | Consulting / blue-team delivery line (separate org); not a license grant |
+| Atomic-Commits-Team/hesperia | **Abandoned 2026-07-26** (historical GitHub only; copyright transfer ack). Not a license grant; not cluster path |
 
 **Vesting executed 2026-07-26:** Deed of IP Assignment / Act de cesiune DPI
 (Document No. CC-HES-IP-ASSIGN-2026-07-26), dual MSign (two distinct signatures)

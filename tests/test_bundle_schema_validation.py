@@ -9,7 +9,7 @@ from pathlib import Path
 
 import pytest
 
-from hesperia.engine.output_anomalies import aggregate_file_envelope, default_operational_envelope
+from core.engine.output_anomalies import aggregate_file_envelope, default_operational_envelope
 
 _REPO = Path(__file__).resolve().parents[1]
 

@@ -1,6 +1,7 @@
 # Policy: Hesperia brain repo ↔ dev repo linking (no destructive ingest)
 
 **Owner:** Ethan (governance). **Effective:** 2026-05-18 (post `hesperia/dev-ready-line-20260518`).  
+**Amended 2026-07-26:** `Atomic-Commits-Team/hesperia` abandoned for cluster; prod is now `igareosh/hesperia` (same repo as dev, `origin` retargeted) — [ETHAN-POLICY-HESPERIA-PUSH-AND-REMOTES.md](ETHAN-POLICY-HESPERIA-PUSH-AND-REMOTES.md) §2b, [ARCHIVE-ATOMIC-COMMITS-TEAM-HESPERIA-2026-07-26.md](ARCHIVE-ATOMIC-COMMITS-TEAM-HESPERIA-2026-07-26.md).  
 **Refs:** [ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md](ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md), [cluster/HESPERIA-REPOS-AND-HOSTS.md](../cluster/HESPERIA-REPOS-AND-HOSTS.md), [CLIENTS.md](../CLIENTS.md).
 
 ---
@@ -10,8 +11,8 @@
 | Repo | Path (alunel / prichindel) | Holds |
 |------|---------------------------|--------|
 | **Brain (cursor)** | `/data/altitudine/prichindel.com` or `/data/workspaces/cursor` | Team triage, Grace rows, governance, **pointers only** to Hesperia |
-| **Dev (igareosh/hesperia)** | `/data/workspaces/atomic-commit-hesperia` | **All** Hesperia dev documentation, backups, specs markdown, brain-link manifest |
-| **Prod (Atomic-Commits-Team/hesperia)** | `/data/hesperia/hesperia` | Runnable product + corpus + sealed (immaculate) |
+| **Dev (igareosh/hesperia)** | `/data/workspaces/hesperia` | **All** Hesperia dev documentation, backups, specs markdown, brain-link manifest |
+| **Prod (igareosh/hesperia** — was `Atomic-Commits-Team/hesperia`, abandoned 2026-07-26) | `/data/hesperia/hesperia` | Runnable product + corpus + sealed (immaculate) |
 
 ---
 
@@ -78,6 +79,16 @@ bash scripts/verify-hesperia-git-remotes.sh
 
 ---
 
+## 9. Final purge (2026-06-14)
+
+Brain holds **19 paths** with `hesperia` in the name — all links, governance, or `scripts/hesperia/` orchestration. Zero specs, stubs, nginx copies, or archives in brain.
+
+- Export: `docs/brain-export/final-sweep-2026-06-14/` + tarball in `docs/brain-export/archive/`
+- Script: `scripts/brain/brain-hesperia-final-purge.sh`
+- **`user_documents/`** still untouched in brain.
+
+---
+
 ## 7. Felix (Claude Code) — dev agent authority
 
 **Effective:** 2026-05-20 (post Python compliance run v0.6.0)
@@ -89,7 +100,7 @@ bash scripts/verify-hesperia-git-remotes.sh
 | Deploy | **NOT authorized** — Abelard only |
 | Sealing | **NOT authorized** without explicit operator signal |
 
-**Primary dev path (alunel):** `/data/workspaces/atomic-commit-hesperia` — as per [cluster/alunel/HESPERIA-DEV.md](../cluster/alunel/HESPERIA-DEV.md).
+**Primary dev path (alunel):** `/data/workspaces/hesperia` — as per [cluster/alunel/HESPERIA-DEV.md](../cluster/alunel/HESPERIA-DEV.md).
 
 **Librarymaster — forbidden for Hesperia/team dev (2026-05-20 onward):** One-time Python compliance on librarymaster (`3095dd4` / `41e0513`) is **closed** — do **not** repeat. Hesperia and team brain work = **alunel** only. **librarymaster** = Papra + **CHROMA-2** only. Host/path separation: [HOST-ALTITUDINE-VS-LIBRARYMASTER.md](HOST-ALTITUDINE-VS-LIBRARYMASTER.md).
 

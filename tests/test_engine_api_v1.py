@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from hesperia.engine.api import ENGINE_API_VERSION, run_engine_api_v1
+from core.engine.api import ENGINE_API_VERSION, run_engine_api_v1
 
 
 def test_engine_api_v1_id_is_frozen() -> None:

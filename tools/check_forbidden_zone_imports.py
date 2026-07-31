@@ -20,6 +20,7 @@ STRICT_TREES = [
     "runtime/shipping",
     "runtime/api",
     "hesperia/engine",
+    "core/engine",
 ]
 
 PIPELINE_TREE = "runtime/pipeline"

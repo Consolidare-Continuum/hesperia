@@ -18,7 +18,7 @@ REPO = Path(__file__).resolve().parents[1]
 if str(REPO) not in sys.path:
     sys.path.insert(0, str(REPO))
 
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 
 def _shannon_entropy(weights: dict[str, float]) -> float:

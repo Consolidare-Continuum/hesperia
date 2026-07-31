@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.calculus import compute_metrics_bundle
+from core.engine.calculus import compute_metrics_bundle
 
 
 class MetricsModule:

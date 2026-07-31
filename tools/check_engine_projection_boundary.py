@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# HESPERIA — Engine may not call core.projection except under hesperia/engine/projection/.
+# HESPERIA — Engine may not call core.projection except under core/engine/projection/.
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 #
 # Rationale: single choke point is project_to_public; bypass breaks auditability.
@@ -12,14 +12,14 @@ import ast
 import sys
 from pathlib import Path
 
-_ENGINE_ROOT = Path("hesperia/engine")
+_ENGINE_ROOT = Path("core/engine")
 
 
 def _violations_for_file(repo: Path, py: Path) -> list[str]:
     rel = py.relative_to(repo).as_posix()
-    if not rel.startswith("hesperia/engine/"):
+    if not rel.startswith("core/engine/"):
         return []
-    sub = rel[len("hesperia/engine/") :]
+    sub = rel[len("core/engine/") :]
     if sub == "projection" or sub.startswith("projection/"):
         return []
     bad: list[str] = []
@@ -43,7 +43,7 @@ def _is_core_projection(mod: str) -> bool:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Forbid core.projection imports outside hesperia/engine/projection/.")
+    ap = argparse.ArgumentParser(description="Forbid core.projection imports outside core/engine/projection/.")
     ap.add_argument("--repo", type=Path, default=Path(__file__).resolve().parents[1])
     args = ap.parse_args()
     repo = args.repo.resolve()

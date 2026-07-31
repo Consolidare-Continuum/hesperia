@@ -86,8 +86,8 @@ def analyze_text(
     try:
         from pathlib import Path
 
-        from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
-        from hesperia.engine.projection import project_to_public
+        from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+        from core.engine.projection import project_to_public
 
         assets_root = config.get("assets_root")
         assets = Path(assets_root) if assets_root else Path(__file__).resolve().parents[2] / "lexicon" / "curated"

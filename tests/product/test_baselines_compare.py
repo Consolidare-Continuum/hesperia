@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from hesperia.evaluation.baselines.compare import run_triz_vs_baselines
+from research.evaluation.baselines.compare import run_triz_vs_baselines
 
 
 def test_run_triz_vs_baselines_shape() -> None:

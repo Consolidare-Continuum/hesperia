@@ -33,7 +33,7 @@ Hesperia **targets 1.9.2**, converging with brain soak. Do not document a dual-r
 # Brain
 grep fpf-thinking-map /data/altitudine/prichindel.com/requirements-thinking-map.txt
 # Hesperia
-grep fpf-thinking-map /data/workspaces/atomic-commit-hesperia/requirements/router.txt
+grep fpf-thinking-map /data/workspaces/hesperia/requirements/router.txt
 pip show fpf-thinking-map | grep Version
 ```
 

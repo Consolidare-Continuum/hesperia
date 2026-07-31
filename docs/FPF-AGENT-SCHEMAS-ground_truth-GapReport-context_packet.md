@@ -94,7 +94,7 @@ Self-contained invoke payload for inquire / dig. **No server session.** Agents p
 ## 4. CLI sugar (MWI-12) — `climb --full`
 
 ```bash
-cd /data/workspaces/atomic-commit-hesperia
+cd /data/workspaces/hesperia
 python -m sphere.fpf_inspect climb --full --analyze-file path/to/analyze.json
 ```
 

@@ -65,6 +65,6 @@ def test_engine_projection_boundary_tool_locked() -> None:
     _must_contain(
         "tools/check_engine_projection_boundary.py",
         "core.projection",
-        "hesperia/engine/projection/",
+        "core/engine/projection/",
         "_is_core_projection",
     )

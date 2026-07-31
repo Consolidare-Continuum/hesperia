@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 _REPO = Path(__file__).resolve().parents[1]
 _V060 = _REPO / "assets/data/engine_dynamics_v060"

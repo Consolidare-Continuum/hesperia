@@ -11,8 +11,9 @@
 #   - tools/audit_shipping_allowlist.py       (allowlist prefixes used + creep cap)
 #   - tools/check_engine_projection_boundary.py (no core.projection outside engine/projection/)
 #
-# Prod release repo (Atomic-Commits-Team): no docs/ tree — import-graph drift and dead-weight
-# budget run on igareosh/hesperia dev mirror only (see tools/ci/verify_prod_code_only.sh).
+# Prod release repo is igareosh/hesperia itself (was Atomic-Commits-Team, abandoned 2026-07-26):
+# no docs/ tree — import-graph drift and dead-weight budget run on this repo only
+# (see tools/ci/verify_prod_code_only.sh).
 
 name: Sealed runtime gate
 

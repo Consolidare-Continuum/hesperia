@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from hesperia.engine.output_anomalies import aggregate_file_envelope, codes_to_envelope, default_operational_envelope
+from core.engine.output_anomalies import aggregate_file_envelope, codes_to_envelope, default_operational_envelope
 
 _LEGACY_PROFILE_ALIAS = {
     "research_allow_degraded": "exploratory_allow_degraded",

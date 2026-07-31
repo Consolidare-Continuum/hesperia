@@ -7,6 +7,7 @@ Load lexical_markers.yaml and build marker → concept_id lookup for session tex
 
 from __future__ import annotations
 
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -24,6 +25,18 @@ CONFIDENCE_TYPE_MULTIPLIER: dict[str, float] = {
 }
 
 
+@lru_cache(maxsize=None)
+def _load_yaml_cached(p: Path) -> Any:
+    """Parse one YAML file once per process. Static ontology assets never change at runtime;
+    lexical_markers.yaml alone is ~1.2MB/57k lines and costs ~15s to re-parse via PyYAML —
+    every function below routes through this so the file is read once, not once per call.
+    Callers must treat the returned object as read-only (it's the shared cached instance)."""
+    if not p.exists():
+        return None
+    with open(p, encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
 def _effective_marker_weight(entry: dict[str, Any], default_weight: float = 1.0) -> float:
     w = float(entry.get("weight", default_weight))
     ct = str(entry.get("confidence_type") or "strong").strip().lower()
@@ -37,10 +50,7 @@ def load_lexical_markers(path: Path | str | None = None) -> dict[str, Any]:
     Возвращает сырой dict с ключами version, domain, entries, marker_count, concept_count.
     """
     p = Path(path) if path is not None else _MARKERS_PATH
-    if not p.exists():
-        return {}
-    with open(p, encoding="utf-8") as f:
-        return yaml.safe_load(f) or {}
+    return _load_yaml_cached(p) or {}
 
 
 def build_marker_to_concepts(path: Path | str | None = None) -> dict[str, list[tuple[str, float]]]:
@@ -80,10 +90,9 @@ def get_marker_stats(path: Path | str | None = None) -> dict[str, Any]:
 
 def _entries_from_path(p: Path) -> list[dict]:
     """Load entries list from a YAML file (top-level 'entries' or list of marker dicts)."""
-    if not p.exists():
+    data = _load_yaml_cached(p)
+    if data is None:
         return []
-    with open(p, encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
     if isinstance(data, list):
         return data
     return data.get("entries") or []
@@ -172,11 +181,7 @@ def build_colloquial_marker_index(path: Path | str | None = None) -> dict[str, l
 
 def load_stopwords(path: Path | str | None = None) -> set[str]:
     """Загрузить clinical stopwords из dictA_stopwords.yaml (нормализованные, lowercase)."""
-    import yaml
     p = Path(path) if path is not None else _STOPWORDS_PATH
-    if not p.exists():
-        return set()
-    with open(p, encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
+    data = _load_yaml_cached(p) or {}
     words = data.get("stopwords") or []
     return {str(w).strip().lower() for w in words if w}

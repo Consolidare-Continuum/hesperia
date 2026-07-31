@@ -21,6 +21,7 @@ from dataclasses import dataclass
 
 from sphere.topology.embedding import get_aligned_area_coordinates
 from sphere.topology.gtp.ipow import Vec3
+from core.math.entropy_metrics import compute_entropy_nats
 from core.topology.invariant_catalog import (
     AREAS as NUM_AREAS,
     FAMILIES_PER_AREA,
@@ -116,11 +117,7 @@ def compute_coherence_field(delta_powv: Vec3) -> CoherenceField:
     )
     psi_abs = math.sqrt(sum(d * d for d in delta_powv))
     abs_vals = [abs(x) for x in vector]
-    total = sum(abs_vals)
-    if total > 0.0:
-        psi_ent = -sum((a / total) * math.log(a / total) for a in abs_vals if a > 0.0)
-    else:
-        psi_ent = 0.0
+    psi_ent = compute_entropy_nats(abs_vals)
     psi_align = (max(vector) - min(vector)) if vector else 0.0
     return CoherenceField(vector=vector, psi_abs=psi_abs, psi_ent=psi_ent, psi_align=psi_align)
 

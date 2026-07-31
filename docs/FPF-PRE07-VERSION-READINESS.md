@@ -3,7 +3,7 @@
 **Date:** 2026-07-19  
 **Owner:** Gena (Main developer)  
 **Rows:** FPF-PRE07-08  
-**Repo:** `igareosh/hesperia` · path `/data/workspaces/atomic-commit-hesperia`  
+**Repo:** `igareosh/hesperia` · path `/data/workspaces/hesperia`  
 **Brain hold:** `HSR-V7-SEAL-OPERATOR-HOLD.md` — X-01..14 PAUSED
 
 ---

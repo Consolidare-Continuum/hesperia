@@ -58,7 +58,7 @@ def load_jsonl(path: Path) -> list[dict]:
 
 
 def merge_dict_a_files(paths: list[Path]) -> list[dict]:
-    """Same merge policy as ``hesperia.engine.lexical_concept.pipeline._merge_dict_a``."""
+    """Same merge policy as ``core.engine.lexical_concept.pipeline._merge_dict_a``."""
     rows: list[dict] = []
     seen_nf: set[str] = set()
     for p in paths:

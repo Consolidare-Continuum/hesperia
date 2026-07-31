@@ -1,4 +1,4 @@
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 
 def test_run_is_deterministic_hash_stable() -> None:

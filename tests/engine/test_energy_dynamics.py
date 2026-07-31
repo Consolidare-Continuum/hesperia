@@ -4,20 +4,20 @@ from __future__ import annotations
 
 import numpy as np
 
-from hesperia.engine.energy import (
+from core.engine.energy import (
     EnergyControlParams,
     EnergyMode,
     compute_energy_family_1d,
     compute_energy_hex_2d,
 )
-from hesperia.engine.hex_dynamics import (
+from core.engine.hex_dynamics import (
     HexFieldParams,
     LocalHexMicrophysicsParams,
     run_hex_microphysics,
     step_hex_field_euler,
     step_hex_local_microphysics,
 )
-from hesperia.engine.hex_matrix_builders import build_ring_laplacian, build_uniform_hex_resistance
+from core.engine.hex_matrix_builders import build_ring_laplacian, build_uniform_hex_resistance
 from hesperia.extensions.dynamics.equations import (
     SemanticFieldParams,
     build_contradiction_matrix,

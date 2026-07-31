@@ -94,15 +94,20 @@ If the task crosses those boundaries, say so explicitly instead of quietly blend
 
 ## Remotes — do not guess which one to push to
 
+**Amended 2026-07-26:** `Atomic-Commits-Team/hesperia` is **abandoned/permanently disconnected**
+— copyright assigned to Consolidare Continuum S.R.L. (dual-MSign deed). Never push there again.
+`origin` was retargeted the same day: it now points at `igareosh/hesperia` too, so **dev and prod
+are the same repo** — there is no longer a separate promotion remote.
+
 | Remote | Points to | Use for |
 |---|---|---|
 | `dev` | `igareosh/hesperia` | Day-to-day dev work, unsealed/in-progress material — default target |
-| `origin` | `Atomic-Commits-Team/hesperia` | **Prod.** Promotion only, a deliberate separate step — never the default `git push` target |
+| `origin` | `igareosh/hesperia` (same repo as `dev`; was `Atomic-Commits-Team/hesperia`, abandoned) | Prod runtime pulls from here on prichindel |
 | `backup` | `igareosh/hesperia-dev-backup` | Backup line |
 
-Local `main` tracks `origin` (prod) even though `dev` is where day-to-day work belongs — always
-push explicitly (`git push dev main`), never a bare `git push`, unless you've confirmed prod
-promotion is actually what's being asked for.
+Local `main` tracks `origin`, which is now the same repo as `dev` — push either name, they land
+on `igareosh/hesperia`. There is no separate "prod promotion" step anymore; a seal/version bump
+is still a deliberate, explicit act (see below), it just isn't gated by pushing to a different repo.
 
 ## Sealing vs. committing — they are not the same thing
 

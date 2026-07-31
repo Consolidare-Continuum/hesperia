@@ -55,8 +55,8 @@ def run_structural_analysis(
 
     attach_version: when False, skip VERSION.yaml envelope (for rows embedded in a parent E2E artifact).
     """
-    from hesperia.engine.projection import project_to_public
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.projection import project_to_public
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
 
     if stages != "full":
         raise ValueError(
@@ -80,8 +80,8 @@ def run_structural_analysis(
     from hesperia.system.capabilities import structural_dlcr_allowed
 
     if structural_dlcr_allowed():
-        from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
-        from hesperia.engine.projection.dlcr_public import project_dlcr_public_summary
+        from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
+        from core.engine.projection.dlcr_public import project_dlcr_public_summary
 
         dlcr_bundle = run_dlcr_pipeline(text, repo_root=repo_root)
         lr = project_dlcr_public_summary(dlcr_bundle)
@@ -92,7 +92,7 @@ def run_structural_analysis(
             out["payload"] = merged
         else:
             out["payload"] = {"lexical_resolution": lr}
-        from hesperia.engine.projection.schema_enforcer import enforce_public_schema
+        from core.engine.projection.schema_enforcer import enforce_public_schema
 
         enforce_public_schema(out)
 
@@ -119,8 +119,8 @@ def run_structural_analysis_batch(
     attach_version: bool = True,
 ) -> list[dict[str, Any]]:
     """Run canonical multiscale analysis on each text. Returns projected public-safe rows."""
-    from hesperia.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
-    from hesperia.engine.projection import project_to_public
+    from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
+    from core.engine.projection import project_to_public
 
     assets = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
     results: list[dict[str, Any]] = []

@@ -1,5 +1,5 @@
 from core.diagnostics.noise_harness import run_noise_sensitivity
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 
 def test_noise_sensitivity_is_bounded() -> None:

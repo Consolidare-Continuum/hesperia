@@ -53,7 +53,7 @@ def test_check_engine_projection_boundary_defines_enforcement_helpers() -> None:
     assert callable(e._is_core_projection)
     assert e._is_core_projection("core.projection")
     assert e._is_core_projection("core.projection.foo")
-    assert not e._is_core_projection("hesperia.engine.projection")
+    assert not e._is_core_projection("core.engine.projection")
 
 
 def test_audit_shipping_allowlist_defines_collector() -> None:

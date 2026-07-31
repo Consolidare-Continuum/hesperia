@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from hesperia.engine.calculus import compute_tfp_bundle
+from core.engine.calculus import compute_tfp_bundle
 
 from hesperia.modules.tfp.seal import enforce_tfp_module_seal_on_project
 

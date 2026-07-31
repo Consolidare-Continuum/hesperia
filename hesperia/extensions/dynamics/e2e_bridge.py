@@ -235,7 +235,7 @@ def run_field_dynamics_e2e_artifact(
         try:
             from pathlib import Path
 
-            from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+            from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
             rr = Path(__file__).resolve().parents[3]
             dlcr = run_dlcr_pipeline(text, repo_root=rr)

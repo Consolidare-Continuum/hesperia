@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from hesperia.engine.calibration_dict_paths import calibration_manifest, resolve_dict_file, resolve_metrics_file
-from hesperia.engine.lexical_concept.pipeline import run_dlcr_pipeline
+from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
 
 
 def test_versioned_calibration_dict_paths_resolve(monkeypatch) -> None:

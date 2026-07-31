@@ -3,7 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
-from hesperia.engine.pipeline_runner import run_pipeline
+from core.engine.pipeline_runner import run_pipeline
 from hesperia.product.compression import compress_product_output
 from hesperia.product.contracts.validator import validate_contract
 from hesperia.product.guardrails import classify_status

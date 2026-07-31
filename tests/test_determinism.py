@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from hesperia.engine.pipeline_runner import run_pipeline
+from core.engine.pipeline_runner import run_pipeline
 
 
 def test_phase_hashes_stable_across_repeated_runs() -> None:
