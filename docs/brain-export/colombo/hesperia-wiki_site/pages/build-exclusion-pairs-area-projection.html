@@ -171,14 +171,15 @@ Wiki</h1>
 </header>
 <h1 id="build_exclusion_pairs--area_projection">build_exclusion_pairs /
 area_projection</h1>
-<p><strong>Status:</strong> 🟢 LIVE_FULL — matches proposal (if any),
-running in production path<br />
+<p><strong>Status:</strong> 🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see
+linked live page<br />
 <strong>Category:</strong> <a
 href="../categories/Concept-Dictionary.html">Concept
 Dictionary</a><br />
 <strong>Type:</strong> Formula / function<br />
 <strong>Responsible (module):</strong>
-<code>core/math/dict_b.py:41,78</code><br />
+<code>core/result/contract.py:64 (inlined </code>i,
+i+6<code> in compute_tension)</code><br />
 <strong>Value / default:</strong> —</p>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Constructs opposite-area exclusion pairs and projects weights onto
@@ -196,6 +197,17 @@ href="../pages/tension-from-conflict.html">tension_from_conflict</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>No direct Java ancestor</p>
+<h2 id="notes">Notes</h2>
+<p>Reclassified 2026-08-04: no standalone function survives
+(core/math/dict_b.py deleted, f44b3454), but the exclusion-pair
+construction itself is inlined verbatim as
+<code>pairs = [(i, i + 6) for i in range(6)]</code> inside <a
+href="../pages/compute-tension.html">compute_tension</a> — same as <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a>'s finding. Not
+to be confused with <code>build_family_area_projection</code> in
+sphere/propagation/family_projection.py — despite the similar name, that
+function distributes propagated mass across families within an area (a
+different job); it is not this function's successor.</p>
 <hr />
 <p><a href="../categories/Concept-Dictionary.html">← back to
 category</a> · <a href="../index.html">wiki home</a></p>

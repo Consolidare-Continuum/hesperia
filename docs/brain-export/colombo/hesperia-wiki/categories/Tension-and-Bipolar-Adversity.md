@@ -8,7 +8,7 @@
 | [compute_tension](../pages/compute-tension.md) | LIVE_SUCCESSOR | Formula / function |
 | [contradiction_pressure -> tension_energy](../pages/contradiction-pressure-tension-energy.md) | LIVE_SUCCESSOR | Contract mapping |
 | [metric_tension_energy](../pages/metric-tension-energy.md) | LIVE_FULL | Formula / function |
-| [OPPOSITE_OFFSET](../pages/OPPOSITE-OFFSET.md) | LIVE_FULL | Parameter (constant) |
+| [OPPOSITE_OFFSET](../pages/OPPOSITE-OFFSET.md) | DEAD_ALGO_SURVIVED | Parameter (constant) |
 | [Relation weights (conflict/opposition)](../pages/Relation-weights-conflict-opposition.md) | LIVE_SUCCESSOR | Parameter (constants) |
-| [tension_from_conflict](../pages/tension-from-conflict.md) | LIVE_SUCCESSOR | Formula / function |
+| [tension_from_conflict](../pages/tension-from-conflict.md) | DEAD | Formula / function |
 

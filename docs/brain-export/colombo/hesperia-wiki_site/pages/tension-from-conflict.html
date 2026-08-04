@@ -169,28 +169,39 @@
 <h1 class="title">tension from conflict — Hesperia Wiki</h1>
 </header>
 <h1 id="tension_from_conflict">tension_from_conflict</h1>
-<p><strong>Status:</strong> 🟢 LIVE_SUCCESSOR — same idea, different
-name/formula than any Java ancestor<br />
+<p><strong>Status:</strong> 🔴 DEAD — no implementation under this name
+or a successor formula<br />
 <strong>Category:</strong> <a
 href="../categories/Tension-and-Bipolar-Adversity.html">Tension and
 Bipolar Adversity</a><br />
 <strong>Type:</strong> Formula / function<br />
 <strong>Responsible (module):</strong>
-<code>core/math/dict_b.py</code><br />
+<code>n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)</code><br />
 <strong>Value / default:</strong> —</p>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>tension = min(1, C·4) from exclusion conflict energy C.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
-<li><em>build_exclusion_pairs</em></li>
+<li><a
+href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
+/ area_projection</a></li>
 <li><a
 href="../pages/structural-coherence-pass.html">structural_coherence_pass</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>No direct Java ancestor</p>
 <h2 id="notes">Notes</h2>
-<p>Dict-B's own tension channel, from exclusion-pair conflict
-energy.</p>
+<p>Reclassified 2026-08-04: dict-specific logic belongs in its
+respective registered module (core.dict_a/core.dict_b at
+core/runtime/dict_{a,b}_module.py, wired via
+core/engine/module_aliases.py), not in generic core/math/ — that's why
+core/math/dict_b.py was correctly deleted as dead duplicate, not just
+relocated. <a href="../pages/compute-tension.html">compute_tension</a>
+is the live general-purpose tension formula today, but it uses a
+different formula (L1 abs-sum over (i,i+6) opposite pairs, not
+conflict-energy C — see compute_tension notes) — this specific
+conflict-energy channel has no successor formula anywhere in current
+source.</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
 category</a> · <a href="../index.html">wiki home</a></p>

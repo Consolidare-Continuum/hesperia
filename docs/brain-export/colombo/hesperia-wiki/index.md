@@ -65,7 +65,7 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [BFS depth-capped traversal](pages/BFS-depth-capped-traversal.md) — LIVE_FULL
 - [BM25 retrieval](pages/BM25-retrieval.md) — BEYOND
 - [bridge_weight](pages/bridge-weight.md) — LIVE_FULL
-- [build_exclusion_pairs / area_projection](pages/build-exclusion-pairs-area-projection.md) — LIVE_FULL
+- [build_exclusion_pairs / area_projection](pages/build-exclusion-pairs-area-projection.md) — DEAD_ALGO_SURVIVED
 - [causalCoherence / decisionIntegrity / temporalStability (Java)](pages/causalCoherence-decisionIntegrity-temporalStability-Java.md) — DEAD
 - [CCI (KME derived)](pages/CCI-KME-derived.md) — LIVE_FULL
 - [CDD (KME derived)](pages/CDD-KME-derived.md) — LIVE_FULL
@@ -163,7 +163,7 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [metric_tension_energy](pages/metric-tension-energy.md) — LIVE_FULL
 - [middle_to_outer / outer_to_middle](pages/middle-to-outer-outer-to-middle.md) — LIVE_FULL
 - [Mixing Diagnostics](pages/Mixing-Diagnostics.md) — BEYOND
-- [OPPOSITE_OFFSET](pages/OPPOSITE-OFFSET.md) — LIVE_FULL
+- [OPPOSITE_OFFSET](pages/OPPOSITE-OFFSET.md) — DEAD_ALGO_SURVIVED
 - [P_amb (ambiguity penalty)](pages/P-amb-ambiguity-penalty.md) — LIVE_FULL
 - [P_disp (dispersion penalty)](pages/P-disp-dispersion-penalty.md) — LIVE_FULL
 - [P_guard (guard penalty)](pages/P-guard-guard-penalty.md) — LIVE_FULL
@@ -195,14 +195,14 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [STABILITY_CURRENT_THRESHOLD / STABILITY_STALE_THRESHOLD](pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.md) — LIVE_FULL
 - [STABILITY_RADIUS (L6)](pages/STABILITY-RADIUS-L6.md) — LIVE_FULL
 - [structural analogy (extent term)](pages/structural-analogy-extent-term.md) — LIVE_FULL
-- [structural_coherence_pass](pages/structural-coherence-pass.md) — LIVE_SUCCESSOR
+- [structural_coherence_pass](pages/structural-coherence-pass.md) — DEAD
 - [summaryFidelity / compressionRatio (Java)](pages/summaryFidelity-compressionRatio-Java.md) — DEAD
 - [SYSTEM_CONFIDENCE_SCORE (L7)](pages/SYSTEM-CONFIDENCE-SCORE-L7.md) — LIVE_FULL
 - [tau_s per-side truth (Java)](pages/tau-s-per-side-truth-Java.md) — DEAD
 - [TBI (KME derived)](pages/TBI-KME-derived.md) — LIVE_FULL
 - [TCI (KME derived)](pages/TCI-KME-derived.md) — LIVE_FULL
 - [TDS (KME derived)](pages/TDS-KME-derived.md) — LIVE_FULL
-- [tension_from_conflict](pages/tension-from-conflict.md) — LIVE_SUCCESSOR
+- [tension_from_conflict](pages/tension-from-conflict.md) — DEAD
 - [TEP (KME derived)](pages/TEP-KME-derived.md) — LIVE_FULL
 - [TER (KME derived)](pages/TER-KME-derived.md) — LIVE_FULL
 - [TOTAL_FAMILIES](pages/TOTAL-FAMILIES.md) — LIVE_FULL

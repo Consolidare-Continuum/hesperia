@@ -2,7 +2,7 @@
 
 [← wiki home](index.md)
 
-This wiki covers **163 items** verified on `/data/hesperia/hesperia` (131 live/beyond, 15 partial, 17 dead/rejected, 0 unverified). It is **not** a full census of every variable in the codebase — bounded to inspected research passes plus HWIKI expansion waves.
+This wiki covers **163 items** verified on `/data/hesperia/hesperia` (127 live/beyond, 15 partial, 21 dead/rejected, 0 unverified). It is **not** a full census of every variable in the codebase — bounded to inspected research passes plus HWIKI expansion waves.
 
 **Expansion waves:** all-encompassing `HWIKI-*` — [GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.md). **Theory-depth 30** (`HWIKI-DOC-01..30`) — [GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md). **Structure / how-it-works (post 0.7.0)** (`HWIKI-STRUCT-*`) — [GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md). Gaps below are backlog, not permanent silence.
 

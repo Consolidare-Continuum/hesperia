@@ -1,9 +1,9 @@
 # structural_coherence_pass
 
-**Status:** 🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor  
+**Status:** 🔴 DEAD — no implementation under this name or a successor formula  
 **Category:** [Concept Dictionary](../categories/Concept-Dictionary.md)  
 **Type:** Formula / function  
-**Responsible (module):** `core/math/dict_b.py:51`  
+**Responsible (module):** `n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)`  
 **Value / default:** —
 
 ## Yields (formula)
@@ -12,7 +12,7 @@ Coherence pass over Dict-B exclusion structure.
 
 ## Produced from (inputs)
 
-- *build_exclusion_pairs*
+- [build_exclusion_pairs / area_projection](../pages/build-exclusion-pairs-area-projection.md)
 
 ## Needed by (consumers)
 
@@ -24,7 +24,7 @@ Java 20_GEOMETRY `C(R)=L/active`
 
 ## Notes
 
-Successor concept, different formula from the Java coherence ratio.
+Reclassified 2026-08-04 — repo-wide grep for `structural_coherence_pass` (any case) returns zero hits outside this wiki's own generator. No successor formula found anywhere in current source; see [tension_from_conflict](../pages/tension-from-conflict.md) notes for the module-ownership reasoning.
 
 ---
 [← back to category](../categories/Concept-Dictionary.md) · [wiki home](../index.md)

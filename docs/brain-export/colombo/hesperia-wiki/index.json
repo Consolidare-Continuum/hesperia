@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:13:42.818668+00:00",
+  "generated_at": "2026-08-04T06:21:21.127455+00:00",
   "count": 163,
   "categories": [
     "Geometry",
@@ -277,10 +277,10 @@
       "slug": "build-exclusion-pairs-area-projection",
       "category": "Concept Dictionary",
       "category_slug": "Concept-Dictionary",
-      "status": "LIVE_FULL",
-      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "status": "DEAD_ALGO_SURVIVED",
+      "status_label": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
       "kind": "Formula / function",
-      "module": "core/math/dict_b.py:41,78",
+      "module": "core/result/contract.py:64 (inlined `i, i+6` in compute_tension)",
       "value": "—",
       "formula": "Constructs opposite-area exclusion pairs and projects weights onto areas.",
       "produced_from": [
@@ -291,7 +291,7 @@
         "tension_from_conflict"
       ],
       "origin": "No direct Java ancestor",
-      "notes": "",
+      "notes": "Reclassified 2026-08-04: no standalone function survives (core/math/dict_b.py deleted, f44b3454), but the exclusion-pair construction itself is inlined verbatim as `pairs = [(i, i + 6) for i in range(6)]` inside [[compute_tension]] — same as [[OPPOSITE_OFFSET]]'s finding. Not to be confused with `build_family_area_projection` in sphere/propagation/family_projection.py — despite the similar name, that function distributes propagated mass across families within an area (a different job); it is not this function's successor.",
       "source_page": "pages/build-exclusion-pairs-area-projection.md",
       "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/build-exclusion-pairs-area-projection.md",
       "lan_url": "http://192.168.100.65:8901/pages/build-exclusion-pairs-area-projection.html",
@@ -2587,10 +2587,10 @@
       "slug": "OPPOSITE-OFFSET",
       "category": "Tension and Bipolar Adversity",
       "category_slug": "Tension-and-Bipolar-Adversity",
-      "status": "LIVE_FULL",
-      "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
+      "status": "DEAD_ALGO_SURVIVED",
+      "status_label": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
       "kind": "Parameter (constant)",
-      "module": "core/math/dict_b.py:26",
+      "module": "core/result/contract.py:64 (inlined `i, i+6` in compute_tension)",
       "value": "6",
       "formula": "Offset defining opposite-area exclusion pairs (i, i+6), same offset compute_tension uses.",
       "produced_from": [
@@ -2598,10 +2598,10 @@
       ],
       "needed_by": [
         "compute_tension",
-        "build_exclusion_pairs"
+        "build_exclusion_pairs / area_projection"
       ],
       "origin": "Java 21_MATH bipolar axis convention (offset changed from interleaved to +6)",
-      "notes": "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention.",
+      "notes": "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention. Reclassified 2026-08-04: no longer a named module constant since core/math/dict_b.py was deleted (f44b3454) as dead duplicate — but the `+6` pairing it defined is inlined verbatim in [[compute_tension]]'s `pairs = [(i, i + 6) for i in range(6)]`, so the value/algorithm survives even though the standalone constant does not.",
       "source_page": "pages/OPPOSITE-OFFSET.md",
       "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/OPPOSITE-OFFSET.md",
       "lan_url": "http://192.168.100.65:8901/pages/OPPOSITE-OFFSET.html",
@@ -3337,20 +3337,20 @@
       "slug": "structural-coherence-pass",
       "category": "Concept Dictionary",
       "category_slug": "Concept-Dictionary",
-      "status": "LIVE_SUCCESSOR",
-      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
       "kind": "Formula / function",
-      "module": "core/math/dict_b.py:51",
+      "module": "n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)",
       "value": "—",
       "formula": "Coherence pass over Dict-B exclusion structure.",
       "produced_from": [
-        "build_exclusion_pairs"
+        "build_exclusion_pairs / area_projection"
       ],
       "needed_by": [
         "tension_from_conflict"
       ],
       "origin": "Java 20_GEOMETRY `C(R)=L/active`",
-      "notes": "Successor concept, different formula from the Java coherence ratio.",
+      "notes": "Reclassified 2026-08-04 — repo-wide grep for `structural_coherence_pass` (any case) returns zero hits outside this wiki's own generator. No successor formula found anywhere in current source; see [[tension_from_conflict]] notes for the module-ownership reasoning.",
       "source_page": "pages/structural-coherence-pass.md",
       "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/structural-coherence-pass.md",
       "lan_url": "http://192.168.100.65:8901/pages/structural-coherence-pass.html",
@@ -3503,19 +3503,19 @@
       "slug": "tension-from-conflict",
       "category": "Tension and Bipolar Adversity",
       "category_slug": "Tension-and-Bipolar-Adversity",
-      "status": "LIVE_SUCCESSOR",
-      "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
+      "status": "DEAD",
+      "status_label": "🔴 DEAD — no implementation under this name or a successor formula",
       "kind": "Formula / function",
-      "module": "core/math/dict_b.py",
+      "module": "n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)",
       "value": "—",
       "formula": "tension = min(1, C·4) from exclusion conflict energy C.",
       "produced_from": [
-        "build_exclusion_pairs",
+        "build_exclusion_pairs / area_projection",
         "structural_coherence_pass"
       ],
       "needed_by": [],
       "origin": "No direct Java ancestor",
-      "notes": "Dict-B's own tension channel, from exclusion-pair conflict energy.",
+      "notes": "Reclassified 2026-08-04: dict-specific logic belongs in its respective registered module (core.dict_a/core.dict_b at core/runtime/dict_{a,b}_module.py, wired via core/engine/module_aliases.py), not in generic core/math/ — that's why core/math/dict_b.py was correctly deleted as dead duplicate, not just relocated. [[compute_tension]] is the live general-purpose tension formula today, but it uses a different formula (L1 abs-sum over (i,i+6) opposite pairs, not conflict-energy C — see compute_tension notes) — this specific conflict-energy channel has no successor formula anywhere in current source.",
       "source_page": "pages/tension-from-conflict.md",
       "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/tension-from-conflict.md",
       "lan_url": "http://192.168.100.65:8901/pages/tension-from-conflict.html",

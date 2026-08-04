@@ -169,14 +169,15 @@
 <h1 class="title">OPPOSITE OFFSET — Hesperia Wiki</h1>
 </header>
 <h1 id="opposite_offset">OPPOSITE_OFFSET</h1>
-<p><strong>Status:</strong> 🟢 LIVE_FULL — matches proposal (if any),
-running in production path<br />
+<p><strong>Status:</strong> 🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see
+linked live page<br />
 <strong>Category:</strong> <a
 href="../categories/Tension-and-Bipolar-Adversity.html">Tension and
 Bipolar Adversity</a><br />
 <strong>Type:</strong> Parameter (constant)<br />
 <strong>Responsible (module):</strong>
-<code>core/math/dict_b.py:26</code><br />
+<code>core/result/contract.py:64 (inlined </code>i,
+i+6<code> in compute_tension)</code><br />
 <strong>Value / default:</strong> 6</p>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Offset defining opposite-area exclusion pairs (i, i+6), same offset
@@ -189,7 +190,9 @@ Surface Graph</a></li>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/compute-tension.html">compute_tension</a></li>
-<li><em>build_exclusion_pairs</em></li>
+<li><a
+href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
+/ area_projection</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Java 21_MATH bipolar axis convention (offset changed from interleaved
@@ -199,7 +202,14 @@ to +6)</p>
 <code>get_aligned_area_coordinates</code>, true antipodes are a
 different pairing (see <a
 href="../pages/compute-tension.html">compute_tension</a> HWIKI-OPEN-01).
-OPPOSITE_OFFSET is the shipped bipolar <em>index</em> convention.</p>
+OPPOSITE_OFFSET is the shipped bipolar <em>index</em> convention.
+Reclassified 2026-08-04: no longer a named module constant since
+core/math/dict_b.py was deleted (f44b3454) as dead duplicate — but the
+<code>+6</code> pairing it defined is inlined verbatim in <a
+href="../pages/compute-tension.html">compute_tension</a>'s
+<code>pairs = [(i, i + 6) for i in range(6)]</code>, so the
+value/algorithm survives even though the standalone constant does
+not.</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
 category</a> · <a href="../index.html">wiki home</a></p>

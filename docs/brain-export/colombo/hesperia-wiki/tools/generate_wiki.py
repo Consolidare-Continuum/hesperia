@@ -242,9 +242,11 @@ add("compute_structural_tension", CAT_TENSION, "LIVE_SUCCESSOR", "Formula / func
     "core/math/stability_metrics.py", "—", "structural_tension = 1 − max(area)/sum(area) — dominance-competition tension.",
     ["A_vec[12] (area activation vector)"], [], "No direct Java ancestor named this way", "Max-share concentration, HHI-adjacent building block.")
 
-add("tension_from_conflict", CAT_TENSION, "LIVE_SUCCESSOR", "Formula / function",
-    "core/math/dict_b.py", "—", "tension = min(1, C·4) from exclusion conflict energy C.",
-    ["build_exclusion_pairs", "structural_coherence_pass"], [], "No direct Java ancestor", "Dict-B's own tension channel, from exclusion-pair conflict energy.")
+add("tension_from_conflict", CAT_TENSION, "DEAD", "Formula / function",
+    "n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)", "—",
+    "tension = min(1, C·4) from exclusion conflict energy C.",
+    ["build_exclusion_pairs / area_projection", "structural_coherence_pass"], [], "No direct Java ancestor",
+    "Reclassified 2026-08-04: dict-specific logic belongs in its respective registered module (core.dict_a/core.dict_b at core/runtime/dict_{a,b}_module.py, wired via core/engine/module_aliases.py), not in generic core/math/ — that's why core/math/dict_b.py was correctly deleted as dead duplicate, not just relocated. [[compute_tension]] is the live general-purpose tension formula today, but it uses a different formula (L1 abs-sum over (i,i+6) opposite pairs, not conflict-energy C — see compute_tension notes) — this specific conflict-energy channel has no successor formula anywhere in current source.")
 
 add("contradiction_pressure -> tension_energy", CAT_TENSION, "LIVE_SUCCESSOR", "Contract mapping",
     "runtime/services/engine_analyze_contract.py", "—", "ENGINE-ANALYZE maps sealed contradiction_pressure onto the tension_energy contract scalar.",
@@ -257,10 +259,10 @@ add("Relation weights (conflict/opposition)", CAT_TENSION, "LIVE_SUCCESSOR", "Pa
     "Typed adversity weights on graph edges.", [], ["contradiction_pressure -> tension_energy"], "No direct Java ancestor",
     "**HWIKI-DOC-22 related:** typed adversity edges feeding TRIZ/tension mapping.")
 
-add("OPPOSITE_OFFSET", CAT_TENSION, "LIVE_FULL", "Parameter (constant)",
-    "core/math/dict_b.py:26", "6", "Offset defining opposite-area exclusion pairs (i, i+6), same offset compute_tension uses.",
-    ["Icosahedral Surface Graph"], ["compute_tension", "build_exclusion_pairs"], "Java 21_MATH bipolar axis convention (offset changed from interleaved to +6)",
-    "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention.")
+add("OPPOSITE_OFFSET", CAT_TENSION, "DEAD_ALGO_SURVIVED", "Parameter (constant)",
+    "core/result/contract.py:64 (inlined `i, i+6` in compute_tension)", "6", "Offset defining opposite-area exclusion pairs (i, i+6), same offset compute_tension uses.",
+    ["Icosahedral Surface Graph"], ["compute_tension", "build_exclusion_pairs / area_projection"], "Java 21_MATH bipolar axis convention (offset changed from interleaved to +6)",
+    "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention. Reclassified 2026-08-04: no longer a named module constant since core/math/dict_b.py was deleted (f44b3454) as dead duplicate — but the `+6` pairing it defined is inlined verbatim in [[compute_tension]]'s `pairs = [(i, i + 6) for i in range(6)]`, so the value/algorithm survives even though the standalone constant does not.")
 
 # ===== PROPAGATION =====
 add("center_to_inner", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "0.25",
@@ -762,13 +764,14 @@ add("apply_saturation", CAT_CD, "LIVE_FULL", "Formula / function",
     "Closed-form weight-capping curve, documented in `docs/governance/cd_v1/SATURATION_CLOSED_FORM.md`.",
     [], [], "No Java ancestor (narrower, differently-scoped concept than Java's composite decision-layer `saturation`)",
     "Not a gap against [[saturation (Java, 23_PROTOTYPE)]] — different, correctly-scoped tool for a different job.")
-add("structural_coherence_pass", CAT_CD, "LIVE_SUCCESSOR", "Formula / function",
-    "core/math/dict_b.py:51", "—", "Coherence pass over Dict-B exclusion structure.",
-    ["build_exclusion_pairs"], ["tension_from_conflict"], "Java 20_GEOMETRY `C(R)=L/active`",
-    "Successor concept, different formula from the Java coherence ratio.")
-add("build_exclusion_pairs / area_projection", CAT_CD, "LIVE_FULL", "Formula / function",
-    "core/math/dict_b.py:41,78", "—", "Constructs opposite-area exclusion pairs and projects weights onto areas.",
-    ["OPPOSITE_OFFSET"], ["structural_coherence_pass", "tension_from_conflict"], "No direct Java ancestor", "")
+add("structural_coherence_pass", CAT_CD, "DEAD", "Formula / function",
+    "n/a — core/math/dict_b.py deleted (f44b3454, confirmed-dead duplicate, zero importers)", "—", "Coherence pass over Dict-B exclusion structure.",
+    ["build_exclusion_pairs / area_projection"], ["tension_from_conflict"], "Java 20_GEOMETRY `C(R)=L/active`",
+    "Reclassified 2026-08-04 — repo-wide grep for `structural_coherence_pass` (any case) returns zero hits outside this wiki's own generator. No successor formula found anywhere in current source; see [[tension_from_conflict]] notes for the module-ownership reasoning.")
+add("build_exclusion_pairs / area_projection", CAT_CD, "DEAD_ALGO_SURVIVED", "Formula / function",
+    "core/result/contract.py:64 (inlined `i, i+6` in compute_tension)", "—", "Constructs opposite-area exclusion pairs and projects weights onto areas.",
+    ["OPPOSITE_OFFSET"], ["structural_coherence_pass", "tension_from_conflict"], "No direct Java ancestor",
+    "Reclassified 2026-08-04: no standalone function survives (core/math/dict_b.py deleted, f44b3454), but the exclusion-pair construction itself is inlined verbatim as `pairs = [(i, i + 6) for i in range(6)]` inside [[compute_tension]] — same as [[OPPOSITE_OFFSET]]'s finding. Not to be confused with `build_family_area_projection` in sphere/propagation/family_projection.py — despite the similar name, that function distributes propagated mass across families within an area (a different job); it is not this function's successor.")
 
 # ===== DEAD / REJECTED =====
 add("KL divergence", CAT_DEAD, "REJECTED", "Formula (never implemented)",
