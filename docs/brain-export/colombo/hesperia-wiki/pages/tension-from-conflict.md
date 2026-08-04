@@ -21,7 +21,7 @@ No direct Java ancestor
 
 ## Notes
 
-Reclassified 2026-08-04: dict-specific logic belongs in its respective registered module (core.dict_a/core.dict_b at core/runtime/dict_{a,b}_module.py, wired via core/engine/module_aliases.py), not in generic core/math/ — that's why core/math/dict_b.py was correctly deleted as dead duplicate, not just relocated. [compute_tension](../pages/compute-tension.md) is the live general-purpose tension formula today, but it uses a different formula (L1 abs-sum over (i,i+6) opposite pairs, not conflict-energy C — see compute_tension notes) — this specific conflict-energy channel has no successor formula anywhere in current source.
+Reclassified 2026-08-04, module path updated 2026-08-04 (same day, second pass): dict-specific logic belongs in its respective registered module (core.dict_a/core.dict_b at hesperia/modules/default/dict_{a,b}_module.py — moved same day from core/runtime/ so core/ holds no module-registry-shaped code, wired via core/engine/module_aliases.py), not in generic core/math/ — that's why core/math/dict_b.py was correctly deleted as dead duplicate, not just relocated. [compute_tension](../pages/compute-tension.md) is the live general-purpose tension formula today, but it uses a different formula (L1 abs-sum over (i,i+6) opposite pairs, not conflict-energy C — see compute_tension notes) — this specific conflict-energy channel has no successor formula anywhere in current source.
 
 ---
 [← back to category](../categories/Tension-and-Bipolar-Adversity.md) · [wiki home](../index.md)

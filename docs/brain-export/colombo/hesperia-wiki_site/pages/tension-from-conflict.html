@@ -191,9 +191,11 @@ href="../pages/structural-coherence-pass.html">structural_coherence_pass</a></li
 <h2 id="origin">Origin</h2>
 <p>No direct Java ancestor</p>
 <h2 id="notes">Notes</h2>
-<p>Reclassified 2026-08-04: dict-specific logic belongs in its
-respective registered module (core.dict_a/core.dict_b at
-core/runtime/dict_{a,b}_module.py, wired via
+<p>Reclassified 2026-08-04, module path updated 2026-08-04 (same day,
+second pass): dict-specific logic belongs in its respective registered
+module (core.dict_a/core.dict_b at
+hesperia/modules/default/dict_{a,b}_module.py — moved same day from
+core/runtime/ so core/ holds no module-registry-shaped code, wired via
 core/engine/module_aliases.py), not in generic core/math/ — that's why
 core/math/dict_b.py was correctly deleted as dead duplicate, not just
 relocated. <a href="../pages/compute-tension.html">compute_tension</a>

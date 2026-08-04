@@ -13,47 +13,56 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 
 - Code: `hesperia/engine/`, sealed assets under `assets/data/engine_dynamics_v060/`
 - Deterministic structural computation is canonical under `core/`, with `core.domain` owning shared
-  KME/domain measurement logic and `core.runtime` owning generic runtime modules.
+  KME/domain measurement logic and `core.engine`/`core.math`/etc. owning the pure engine internals.
+- **2026-08-04:** the pluggable Class A modules (dict_a, dict_b, topology, metrics — see §2) moved out
+  of `core/runtime/` into `hesperia/modules/default/`, sibling to `hesperia/modules/{nlp,tfp}/`. Reasoning:
+  `core/` should hold engine-internal compute with no module-registry shape (no `provides`/`requires`/
+  `capabilities`/`create()`); anything with that pluggable-module shape belongs under `hesperia/modules/`
+  regardless of whether it's Class A (universal/default) or Class B (branch-specific) — the class
+  distinction is about *scope*, not about living inside `core/` vs not. `core/runtime/__init__.py` still
+  re-exports the four classes for back-compat.
 - `hesperia.engine.kme` remains only as a narrowed compatibility package surface where explicitly
   protected legacy behavior still matters.
 - Former `hesperia.modules.core` / `metrics.base` / `topology.core` shim files were removed once
-  live code and tests converged to canonical `core.runtime.*`.
+  live code and tests converged to canonical `core.runtime.*` (2026-07) — since re-homed again to
+  `hesperia.modules.default.*` per the note above.
 - **No branch reopens core physics.** MRT, TFP, COBALT, and future work **branch understanding and outputs**, not measurement truth.
 
 ---
 
-## 2. Module classes — cored vs non-cored
+## 2. Module classes — default (universal) vs branch (domain-specific)
 
-### Class A — Core modules (consolidated in core)
+### Class A — Default modules (universal, domain-agnostic)
 
-Universal plumbing is consolidated under `core/runtime/`. Branch work that proves **domain-agnostic** value merges back here.
+Universal plumbing lives under `hesperia/modules/default/` (moved from `core/runtime/` 2026-08-04 —
+see §1). Branch work that proves **domain-agnostic** value merges back here.
 
-| Alias | Module | Cored because |
-|-------|--------|---------------|
-| `dict_a` / `dict_b` | `core.runtime.dict_*_module` | Lexical → grid calculus — all domains |
-| `topology` | `core.runtime.topology_module` | Shared geometry phase |
+| Alias | Module | Universal because |
+|-------|--------|--------------------|
+| `dict_a` / `dict_b` | `hesperia.modules.default.dict_*_module` | Lexical → grid calculus — all domains |
+| `topology` | `hesperia.modules.default.topology_module` | Shared geometry phase |
 | `nlp` | `hesperia.modules.nlp.basic` | Baseline tokenization |
-| `metrics` | `core.runtime.metrics_module` | Shared measurement hooks |
+| `metrics` | `hesperia.modules.default.metrics_module` | Shared measurement hooks |
 
-### Class B — Non-cored modules (branch-persistent)
+### Class B — Branch modules (domain-specific)
 
-**Not folded into sealed core** — semantic attribution, theme, or domain specificity (IT, psy, clinical, library, …).
+**Not universal** — semantic attribution, theme, or domain specificity (IT, psy, clinical, library, …). Already live under `hesperia/modules/` (sibling to `default/`), never inside `core/`.
 
-| Module / branch | Location | Why non-cored |
-|-----------------|----------|---------------|
+| Module / branch | Location | Why branch-scoped |
+|-----------------|----------|--------------------|
 | **TFP** | `hesperia.modules.tfp` | **Psy / clinical** — sessions, RU specialized outputs |
 | **MRT** | `igareosh/hesperia_mrt` | **IT / tech** — FPF, 96-fam, `sphere_rag` |
 | **COBALT** | spec → `runtime/cobalt/` | **Semantic attribution** — CHROMA-2 bounding, themes |
 
-**Non-cored modules register** with core (alias, envelope slot, flag) but **do not** enter sealed `/analyze` assets.
+**Class B modules register** with core (alias, envelope slot, flag) but **do not** enter sealed `/analyze` assets.
 
-**Decision test:** *Universal engine plumbing?* → Class A, consolidate. *Domain / theme / attribution?* → Class B, stay branch.
+**Decision test:** *Universal engine plumbing?* → Class A, `hesperia/modules/default/`. *Domain / theme / attribution?* → Class B, own `hesperia/modules/<branch>/`.
 
 ---
 
 ## 3. Modules in this repo (registry)
 
-Registered aliases: `hesperia/engine/module_aliases.py`
+Registered aliases: `core/engine/module_aliases.py`
 
 | Alias | Class | Scoped result-oriented output |
 |-------|-------|------------------------------|
@@ -102,3 +111,7 @@ We can realistically cover **many domains** only by separating:
 ---
 
 `SIGNED: Researcher (Colombo) | dev repo core+modules+branches | 2026-06-20 | igareosh/hesperia`
+
+---
+
+`SIGNED: Developer (Felix) | Claude Code context | 2026-08-04 | Class A modules re-homed core/runtime/ -> hesperia/modules/default/, per operator directive to keep core/ free of module-registry shapes`
