@@ -56,7 +56,7 @@ def test_e2e_l1_l9_output_exists() -> None:
     from runtime.pipeline.run_l1_through_l9 import run_pipeline_for_text
 
     text = "justice lie fairness truth good order harm freedom"
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     out = run_pipeline_for_text(text, assets_root=assets)
     assert out is not None
     assert "run" in out and out["run"] == "L1_through_L9"

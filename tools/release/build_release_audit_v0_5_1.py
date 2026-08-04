@@ -130,7 +130,7 @@ def _canonical_analyze_dict(text: str) -> dict[str, Any]:
     sys.path.insert(0, str(_REPO))
     from runtime.services.analysis_service import run_structural_analysis
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     raw = run_structural_analysis(text, assets_root=assets, stages="full")
     return _round_floats(raw, 10)  # type: ignore[return-value]
 
@@ -519,7 +519,7 @@ def main() -> int:
     from runtime.services.analysis_service import run_structural_analysis, run_structural_analysis_batch
     from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     r1 = run_structural_analysis(canonical_text, assets_root=assets, stages="full")
     r2 = run_structural_analysis(canonical_text + "\u00a0", assets_root=assets, stages="full")
     d1 = (r1.get("L7") or {}) if isinstance(r1, dict) else {}

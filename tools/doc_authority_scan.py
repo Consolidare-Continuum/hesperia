@@ -16,7 +16,7 @@ _TMP = _REPO / "tmp"
 
 def classify(rel: str) -> str:
     s = rel.replace("\\", "/").lower()
-    if s.startswith("specs/") or s.startswith("spec/"):
+    if s.startswith("assets/specs/") or s.startswith("spec/"):
         if "release" in s or "historical" in s:
             return "descriptive_doc"
         return "canonical_spec"

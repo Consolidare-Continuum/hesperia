@@ -183,7 +183,7 @@ def run_engine_analyze(
     from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
 
     repo_root = Path(__file__).resolve().parents[2]
-    assets = assets_root or repo_root / "lexicon" / "curated"
+    assets = assets_root or repo_root / "assets" / "lexicon" / "curated"
     raw = build_structural_internal_from_multiscale(
         text,
         assets,

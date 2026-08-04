@@ -27,7 +27,7 @@ def main() -> None:
     args = ap.parse_args()
     out_path = args.out or args.write
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     print("Note: L1_L2 entry now maps to full sealed multiscale path (hex unavoidable).", file=sys.stderr)
     out = run_structural_analysis(args.text, assets_root=assets, stages="full")
     if out_path:

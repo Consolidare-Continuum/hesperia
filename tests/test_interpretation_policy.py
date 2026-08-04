@@ -97,7 +97,7 @@ def test_l8_receives_policy_and_sets_scope() -> None:
     from sphere.pipeline.pipeline_state import PipelineState
 
     text = "Justice and order."
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()
     defaults = load_defaults()

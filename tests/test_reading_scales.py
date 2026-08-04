@@ -50,7 +50,7 @@ def test_segment_r4_document() -> None:
 def test_run_multiscale_dossier_shape() -> None:
     """run_multiscale returns R1, R2, R3, R4 and topology_summary."""
     text = "Justice. Fairness. Order."
-    dossier = run_multiscale(text, assets_root=_REPO / "lexicon" / "curated")
+    dossier = run_multiscale(text, assets_root=_REPO / "assets" / "lexicon" / "curated")
     assert "R1" in dossier and "R2" in dossier and "R3" in dossier and "R4" in dossier
     assert "topology_summary" in dossier
     g = dossier["topology_summary"]
@@ -64,7 +64,7 @@ def test_run_multiscale_dossier_shape() -> None:
 def test_run_multiscale_r1_entries_full_pipeline() -> None:
     """Each R1 entry contains full pipeline output (L1–L9, diagnostics)."""
     text = "First. Second."
-    dossier = run_multiscale(text, assets_root=_REPO / "lexicon" / "curated")
+    dossier = run_multiscale(text, assets_root=_REPO / "assets" / "lexicon" / "curated")
     r1 = dossier["R1"]
     assert len(r1) == 2
     for entry in r1:
@@ -77,7 +77,7 @@ def test_run_multiscale_r1_entries_full_pipeline() -> None:
 def test_document_anomaly_mean_of_stability_scores() -> None:
     """document_anomaly is mean of segment Δ stability layer anomaly_score."""
     text = "A. B. C."
-    dossier = run_multiscale(text, assets_root=_REPO / "lexicon" / "curated")
+    dossier = run_multiscale(text, assets_root=_REPO / "assets" / "lexicon" / "curated")
     g = dossier["topology_summary"]
     scores = [
         dossier["R1"][i].get("diagnostics", {}).get("consistency_profile", {}).get("anomaly_score", 0.0)

@@ -17,10 +17,11 @@ A **wikipedia-style, interlinked register** of every Hesperia math variable/para
 | Path | What |
 |------|------|
 | `index.md` | Home page — category list, status legend, full alphabetical page list |
+| `structure/` | **System structure / how-it-works hubs @ sealed 0.7.0** (hand-authored; not ITEMS). Start: [SYSTEM-STRUCTURE-0.7.0.md](structure/SYSTEM-STRUCTURE-0.7.0.md), [HOW-IT-WORKS-0.7.0.md](structure/HOW-IT-WORKS-0.7.0.md). Wave: `HWIKI-STRUCT-*` |
 | `categories/*.md` | 12 hub pages (Geometry, Core Math Contract, Tension, Propagation, Thresholds, Graph Metrics, Entropy, Stability, Similarity, Trust, Concept Dictionary, Dead/Rejected) — each a table of its member pages |
 | `pages/*.md` | One page per variable/parameter/formula — the actual content |
-| `Coverage-Ledger.md` | **Read before assuming completeness.** States explicitly what's *not* wikified yet (full L1–L11 layer variables, KME's 35 derived metrics individually, TRIZ internals) and open/unresolved questions carried over from the research passes |
-| `tools/generate_wiki.py` | **Source of truth generator.** All 90 pages + 12 category hubs + `index.md` + `Coverage-Ledger.md` are rendered from the `ITEMS` list in this script — not hand-authored |
+| `Coverage-Ledger.md` | **Read before assuming completeness.** States explicitly what's *not* wikified yet (full L1–L11 layer variables, KME's 35 derived metrics individually, TRIZ internals, STRUCT depth) and open/unresolved questions carried over from the research passes |
+| `tools/generate_wiki.py` | **Source of truth generator.** Parameter pages + 12 category hubs + `index.md` + `Coverage-Ledger.md` are rendered from the `ITEMS` list in this script — not hand-authored. Links to `structure/` hubs are emitted by the generator; hub bodies themselves are hand-authored |
 | `tools/render_wiki_html.py` | Converts every `.md` in this folder to static HTML (via `pandoc`) into `../wiki_site/`, rewriting `.md` links to `.html` |
 | `tools/serve.py` | Copy of the server actually running (canonical source; the live copy is `../wiki_site/serve.py`, colocated with what it serves) |
 | `../wiki_site/` | Rendered HTML output + the running server. Not the source of truth — regenerated from this folder, don't hand-edit `.html` there |

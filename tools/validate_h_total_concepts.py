@@ -20,7 +20,7 @@ DEFAULT_PATH = (
     / "semantic_dynamics"
     / "h_total_concepts.json"
 )
-SCHEMA_PATH = REPO_ROOT / "schemas" / "semantic_dynamics" / "h_total_concepts.schema.json"
+SCHEMA_PATH = REPO_ROOT / "assets" / "schemas" / "semantic_dynamics" / "h_total_concepts.schema.json"
 
 
 def main() -> int:

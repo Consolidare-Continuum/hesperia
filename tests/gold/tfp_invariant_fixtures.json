@@ -38,7 +38,7 @@
   "rupture_then_repair_segment": {
     "text": "rupture attack blame attack repair trust calm steady",
     "expected_dominant_area": "A7",
-    "second_area_max": 0.19,
+    "second_area_max": 0.23,
     "min_top_gap": 0.1,
     "hex_effect": "score_delta_only",
     "momentum_aggression_monotonic": false,

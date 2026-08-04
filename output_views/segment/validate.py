@@ -9,7 +9,7 @@ from typing import Any
 
 from jsonschema import Draft202012Validator
 
-_SCHEMA_PATH = Path(__file__).resolve().parent.parent / "schemas" / "iteration_segment_openai_v1.schema.json"
+_SCHEMA_PATH = Path(__file__).resolve().parent.parent / "assets" / "schemas" / "iteration_segment_openai_v1.schema.json"
 
 
 @lru_cache(maxsize=1)

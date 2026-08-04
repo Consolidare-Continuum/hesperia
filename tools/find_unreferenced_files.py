@@ -15,7 +15,7 @@ from collections import deque
 from pathlib import Path
 
 # Repo packages we can resolve to paths (top-level names).
-ROOT_PREFIXES = frozenset({"hesperia", "core", "runtime", "sphere", "lexicon", "research"})
+ROOT_PREFIXES = frozenset({"hesperia", "core", "runtime", "sphere", "research"})
 
 SKIP_DIR_PARTS = frozenset(
     {

@@ -6,7 +6,7 @@ from hesperia.product.package_builder import PRODUCT_SKUS, build_policy_package,
 
 
 def test_policy_package_complete() -> None:
-    root = Path(__file__).resolve().parents[2] / "benchmarks" / "extensions" / "triz" / "corpus_policy_polarized"
+    root = Path(__file__).resolve().parents[2] / "hesperia" / "extensions" / "triz" / "benchmarks" / "corpus_policy_polarized"
     spec = json.loads((root / "graph.json").read_text(encoding="utf-8"))
     triz = run_triz_analysis_complete(
         active_graph_from_payload(spec["active_graph"]),

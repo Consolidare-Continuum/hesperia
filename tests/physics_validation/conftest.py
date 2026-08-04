@@ -15,5 +15,5 @@ def repo_root() -> Path:
 
 @pytest.fixture(scope="session")
 def validation_thresholds(repo_root: Path) -> dict:
-    p = repo_root / "specs" / "validation_thresholds.json"
+    p = repo_root / "assets" / "specs" / "validation_thresholds.json"
     return json.loads(p.read_text(encoding="utf-8"))

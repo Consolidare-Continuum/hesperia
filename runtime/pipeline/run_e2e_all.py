@@ -152,7 +152,7 @@ def run_e2e_l1_l9(out_path: Path, text: str) -> None:
     """Run L1–L9 pipeline; write JSON."""
     from runtime.pipeline.run_l1_through_l9 import run_pipeline_for_text
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     out = run_pipeline_for_text(text, assets_root=assets)
     try:
         from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
@@ -195,7 +195,7 @@ def run_e2e_domain_metrics(out_path: Path, text: str) -> None:
     from runtime.services.analysis_service import run_structural_analysis
     from runtime.artifact_writer import write_public_json
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     domain_constants_path = _HESPERIA / "assets" / "data" / "domain_constants.json"
     summary_payload = run_structural_analysis(
         text,
@@ -257,7 +257,7 @@ def run_e2e_calibration_batch_artifacts(
     from runtime.artifact_writer import write_public_json
 
     sentences_path = _HESPERIA / "tools" / "calibration" / "data" / "calibration_100_sentences.json"
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
 
     if not sentences_path.exists():
         stub = [
@@ -538,7 +538,7 @@ def run_e2e_tfp_smoke(out_path: Path, primary_text: str | None = None) -> None:
 
     texts = [str(s.get("text") or "") for s in sessions]
     sids = [str(s.get("session_id") or f"s{i}") for i, s in enumerate(sessions)]
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
 
     structural_batch: list[dict[str, Any]] = []
     try:
@@ -667,7 +667,7 @@ def run_e2e_sealed_multiscale(out_path: Path, text: str) -> None:
     """Sealed multiscale: hex → family bridge → area → product signals → hspr_index."""
     from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     use_triz = os.environ.get("HESPERIA_SEALED_E2E_TRIZ", "").strip() in ("1", "true", "yes")
     out = run_sealed_multiscale_stack(
         text.strip() or "justice order fairness care",
@@ -685,7 +685,7 @@ def run_e2e_hex_microstructure_tfp(out_path: Path, text: str) -> None:
     """
     from research.hex_outputs_e2e import hex_microstructure_bundle_for_text
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     smoke_path = _HESPERIA / "tests" / "fixtures" / "clinical_tfp" / "tfp_kernberg" / "session_transcripts_smoke_english.json"
     if smoke_path.exists():
         payload = json.loads(smoke_path.read_text(encoding="utf-8"))
@@ -726,7 +726,7 @@ def run_e2e_capability_matrix(out_path: Path, text: str) -> None:
     Gena capability sweep: one JSON bundling thin calls across runtime, sphere, hesperia.engine,
     clinical, nlp, triz, product, evaluation baselines, topology propagation, reading multiscale (optional).
     """
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     text_s = (text or "").strip()[:2000]
     blocks: dict[str, Any] = {}
 
@@ -1362,7 +1362,7 @@ def run_all(out_dir: Path | None = None, text: str | None = None) -> dict[str, P
     from hesperia.extensions.dynamics.phase1 import field_dynamics_enabled
 
     if field_dynamics_enabled():
-        assets = _HESPERIA / "lexicon" / "curated"
+        assets = _HESPERIA / "assets" / "lexicon" / "curated"
         _prev_sf = os.environ.get("HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1")
         try:
             os.environ["HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1"] = "1"

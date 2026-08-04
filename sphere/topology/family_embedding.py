@@ -17,7 +17,7 @@ import yaml
 _REPO_ROOT = Path(__file__).resolve().parents[3]
 # Legacy layout (often absent); canonical file lives under specs/canon/ (see AGENTS.md spec symlink).
 _LEGACY_SPEC = Path(__file__).resolve().parents[2] / "spec" / "family_embedding_tfp.yaml"
-_CANON_EMBEDDING = _REPO_ROOT / "specs" / "canon" / "family_embedding_tfp.yaml"
+_CANON_EMBEDDING = _REPO_ROOT / "assets" / "specs" / "canon" / "family_embedding_tfp.yaml"
 _SYMLINK_SPEC = _REPO_ROOT / "spec" / "family_embedding_tfp.yaml"
 
 # Zone keys in embedding YAML per area

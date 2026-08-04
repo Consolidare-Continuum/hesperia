@@ -2,7 +2,7 @@
 
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
-**Type:** Derived metric (stub)  
+**Type:** Derived metric  
 **Responsible (module):** `hesperia/engine/kme/derived/calculator.py:105`  
 **Value / default:** —
 
@@ -21,11 +21,11 @@ clamp01(CI * NC)
 
 ## Origin
 
-BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)
+BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: CI×NC product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.
 
 ## Notes
 
-**HWIKI-KME-01 stub:** CI×NC product. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.
+**HWIKI-KME-01/03:** CI×NC product. Formula `clamp01(CI * NC)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.
 
 ---
 [← back to category](../categories/Graph-and-Structural-Metrics.md) · [wiki home](../index.md)

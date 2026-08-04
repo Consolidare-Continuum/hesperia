@@ -65,7 +65,7 @@ def run_release_gate(
     bench_sum: dict[str, Any] = {}
     schema_sum: dict[str, Any] = {"dashboard_ok": True}
 
-    root = benchmark_root or Path(__file__).resolve().parents[2] / "benchmarks" / "extensions" / "triz"
+    root = benchmark_root or Path(__file__).resolve().parents[2] / "hesperia" / "extensions" / "triz" / "benchmarks"
     manifest_path = root / "manifest.json"
     if not manifest_path.is_file():
         failures.append("benchmark manifest missing")

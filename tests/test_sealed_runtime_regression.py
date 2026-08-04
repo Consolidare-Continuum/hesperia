@@ -49,8 +49,8 @@ def _sample_texts() -> list[str]:
 
 def _assets_root() -> Path:
     repo = Path(__file__).resolve().parents[1]
-    cur = repo / "lexicon" / "curated"
-    return cur if cur.is_dir() else repo / "lexicon" / "curated"
+    cur = repo / "assets" / "lexicon" / "curated"
+    return cur if cur.is_dir() else repo / "assets" / "lexicon" / "curated"
 
 
 @pytest.fixture(scope="module")

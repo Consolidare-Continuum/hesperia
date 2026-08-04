@@ -7,7 +7,7 @@ from jsonschema import Draft202012Validator
 
 
 REPO = Path(__file__).resolve().parents[2]
-SCHEMA_PATH = REPO / "schemas" / "lexical_concept" / "dict_b.schema.json"
+SCHEMA_PATH = REPO / "assets" / "schemas" / "lexical_concept" / "dict_b.schema.json"
 
 
 def test_dict_b_schema_accepts_minimal_valid_concept() -> None:

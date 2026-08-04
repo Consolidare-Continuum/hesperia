@@ -25,7 +25,7 @@ def _sha256_file(path: Path) -> str:
 
 def build_index() -> dict:
     entries: list[dict[str, str]] = []
-    for base in (_REPO / "specs", _REPO / "spec"):
+    for base in (_REPO / "assets" / "specs", _REPO / "spec"):
         if not base.is_dir():
             continue
         for p in sorted(base.rglob("*.md")):

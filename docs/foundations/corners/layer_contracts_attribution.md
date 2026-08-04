@@ -37,7 +37,7 @@ correctly" with "what does the resolved evidence add up to for this text,"
 which need different test strategies (the first is tested per-span against
 fixtures; the second is tested against whole-text calibration corpora). The
 attribution module's explicit dependence on a frozen lexicon bundle
-(`lexicon/frozen/v0_5_0`) is what lets attribution be re-run and get bit-identical
+(`assets/lexicon/frozen/v0_5_0`) is what lets attribution be re-run and get bit-identical
 results without re-deriving resolver logic each time.
 
 ## Why result contracts (`core/result/contract.py`, `compare.py`) exist separately from the pipeline itself

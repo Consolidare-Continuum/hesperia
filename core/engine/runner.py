@@ -16,7 +16,7 @@ def run_orchestration(
     signals: list[dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
     root = repo_root or Path(__file__).resolve().parents[2]
-    cfg = config_path or (root / "configs" / "pipeline.yaml")
+    cfg = config_path or (root / "assets" / "config" / "pipeline.yaml")
     engine = HesperiaEngine()
     engine.load_from_config(cfg)
     return engine.run(text, signals=signals)

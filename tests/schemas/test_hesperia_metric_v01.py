@@ -9,7 +9,7 @@ import pytest
 from jsonschema import Draft202012Validator
 
 _REPO = Path(__file__).resolve().parents[2]
-_SCHEMA = _REPO / "schemas" / "hesperia_metric_v01.json"
+_SCHEMA = _REPO / "assets" / "schemas" / "hesperia_metric_v01.json"
 _FIXTURE = _REPO / "tests" / "fixtures" / "hesperia_metric_v01_minimal.json"
 
 

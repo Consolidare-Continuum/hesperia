@@ -6,7 +6,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from hesperia.modules.tfp.math_v1 import TFP_STAGES, detect_tfp_stage, stage_from_timeline
+from hesperia.engine.tfp_math import TFP_STAGES, detect_tfp_stage, stage_from_timeline
 
 __all__ = [
     "TFP_STAGES",

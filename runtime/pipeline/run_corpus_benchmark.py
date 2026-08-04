@@ -121,7 +121,7 @@ def main() -> int:
     ap.add_argument("--corpora-root", type=Path, default=DEFAULT_CORPORA_ROOT)
     args = ap.parse_args()
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     all_aggregates = {}
     for domain in DOMAINS:
         results = _run_domain(args.corpora_root, domain, assets)

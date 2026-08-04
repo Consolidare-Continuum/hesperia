@@ -13,7 +13,7 @@ from hesperia.product.rules.engine import apply_rules
 
 def run_product_profile(text: str, profile_name: str) -> dict[str, Any]:
     repo_root = Path(__file__).resolve().parents[2]
-    config = repo_root / "configs" / "pipeline.yaml"
+    config = repo_root / "assets" / "config" / "pipeline.yaml"
     dossier = run_pipeline(text, config_path=config)
     profile = load_profile(profile_name)
     metrics = dict(dossier.get("metrics") or {})

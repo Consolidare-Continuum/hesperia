@@ -12,7 +12,7 @@ from pathlib import Path
 from jsonschema import Draft202012Validator
 
 REPO = Path(__file__).resolve().parents[1]
-SCHEMA_DIR = REPO / "schemas" / "tfp_bundle"
+SCHEMA_DIR = REPO / "assets" / "schemas" / "tfp_bundle"
 
 ARTIFACTS = [
     ("01_structural_batch.json", "01_structural_batch.schema.json"),

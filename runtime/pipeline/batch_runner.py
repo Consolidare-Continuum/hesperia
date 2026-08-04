@@ -50,7 +50,7 @@ def _batch_worker_item(
         from runtime.pipeline.run_l1_through_l9 import run_pipeline_for_text
         from core.layers import load_defaults
 
-        assets = Path(hesperia_root) / "lexicon" / "curated"
+        assets = Path(hesperia_root) / "assets" / "lexicon" / "curated"
         defaults = load_defaults()
         out = run_pipeline_for_text(
             text,
@@ -135,7 +135,7 @@ def run_batch(
     if not entries:
         return []
 
-    assets = assets_root if assets_root is not None else _HESPERIA / "lexicon" / "curated"
+    assets = assets_root if assets_root is not None else _HESPERIA / "assets" / "lexicon" / "curated"
     defaults = load_defaults()
     profile_id = None
     profile = None

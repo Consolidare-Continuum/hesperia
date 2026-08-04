@@ -12,7 +12,7 @@ from sphere.router.pre_llm_compiler import compile_router_envelope
 from sphere.router.prompt_envelope import build_prompt_envelope
 
 _FIXTURE_DIR = Path(__file__).resolve().parent.parent / "fixtures" / "router"
-_SCHEMA_DIR = Path(__file__).resolve().parents[2] / "schemas" / "router"
+_SCHEMA_DIR = Path(__file__).resolve().parents[2] / "assets" / "schemas" / "router"
 
 _TFP_GOLD = (
     "TFP gold fixture: reflective mood sleep anxiety narrative for router envelope baseline."

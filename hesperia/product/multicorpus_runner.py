@@ -23,7 +23,7 @@ ProductMode = Literal["policy_detector", "innovation_radar", "narrative_monitor"
 
 
 def load_benchmark_pack_inputs(benchmark_root: Path | str) -> list[CorpusInput]:
-    """Expand benchmarks/extensions/triz manifest into CorpusInput list (read-only)."""
+    """Expand hesperia/extensions/triz/benchmarks manifest into CorpusInput list (read-only)."""
     root = Path(benchmark_root)
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     out: list[CorpusInput] = []

@@ -74,7 +74,7 @@ def run_pipeline(
 
     document_id = document_id or "unknown"
     source_metadata = source_metadata or {}
-    assets_root = config.get("assets_root") or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    assets_root = config.get("assets_root") or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     defaults = config.get("defaults")
     if defaults is None:
         defaults = load_defaults()

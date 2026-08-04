@@ -15,6 +15,9 @@ after the fact, that determinism wasn't violated.
 
 ## Where things live
 
+Root itself is a closed, formalized set — 15 real directories + 1 symlink, why each one is
+top-level rather than nested, and the process for adding a 16th: [REPO_STRUCTURE_POLICY.md](REPO_STRUCTURE_POLICY.md).
+
 | Need | Look in |
 |---|---|
 | The sealed measurement pipeline (L1–L9) | `core/layers/`, `sphere/pipeline/` |
@@ -25,7 +28,7 @@ after the fact, that determinism wasn't violated.
 | Library RAG (COBALT, CHROMA-2) | `runtime/cobalt/` |
 | Knowledge Metrics Engine (KME) | `hesperia/engine/kme/` |
 | TRIZ contradiction/innovation analytics | `hesperia/extensions/triz/` |
-| Ratified & draft specs | `specs/canon/*.md` (status line at the top of each tells you if it's ratified or pending) |
+| Ratified & draft specs | `assets/specs/canon/*.md` (status line at the top of each tells you if it's ratified or pending) |
 | Deep engineering reasoning, per-layer math, provenance audits | `docs/foundations/` |
 
 ## Branch model — know which one you're in

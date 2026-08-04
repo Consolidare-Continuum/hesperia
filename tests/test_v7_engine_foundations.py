@@ -9,6 +9,12 @@ import pytest
 # path_metric wired into propagation corridor serialization
 # ---------------------------------------------------------------------------
 
+@pytest.mark.xfail(
+    reason="path_metric_cost on traversal (METRIC-24/25) explicitly deferred to follow-on rows, "
+    "not v0.7.0 scope — release/v0.7.0/RELEASE_SCOPE.md. runtime/services/path_metric.py exists "
+    "and is unit-tested but never wired into hex_output_engine.serialize_hex_outputs.",
+    strict=True,
+)
 def test_serialize_hex_outputs_includes_path_metric() -> None:
     from core.engine.hex_outputs.hex_output_engine import (
         build_sparse_hex_scene,
@@ -42,6 +48,13 @@ def test_serialize_hex_outputs_includes_path_metric() -> None:
 # GCS spacing_factor wired into distance matrix
 # ---------------------------------------------------------------------------
 
+@pytest.mark.xfail(
+    reason="HESPERIA_GCS_EMIT=1 static metric-geometry block (METRIC-22) explicitly deferred to "
+    "follow-on rows, not v0.7.0 scope — release/v0.7.0/RELEASE_SCOPE.md. "
+    "runtime/services/gcs_lookup.spacing_factor exists and is unit-tested but never wired into "
+    "hex_output_engine.build_sparse_hex_scene's distance_matrix.",
+    strict=True,
+)
 def test_sparse_hex_scene_distance_uses_spacing_factor() -> None:
     from core.engine.hex_outputs.hex_output_engine import build_sparse_hex_scene
     from runtime.services.gcs_lookup import spacing_factor
@@ -95,8 +108,9 @@ def test_engine_analyze_contract_has_metric_when_enabled(monkeypatch: pytest.Mon
         },
     }
     result = build_engine_analyze_from_raw(raw)
-    assert "hesperia_metric" in result
-    hm = result["hesperia_metric"]
+    # 24_SPEC §10.1: the block lives at meta.hesperia_metric, not top-level.
+    assert "hesperia_metric" in result["meta"]
+    hm = result["meta"]["hesperia_metric"]
     assert hm["hesperia_metric_version"] == "0.1.0"
     assert "interior_point_of_world_view" in hm
     assert hm["interior_point_of_world_view"]["powv_point_zero"] is True
@@ -154,6 +168,12 @@ def test_engine_analyze_contract_path_metric_on_area_crossings(monkeypatch: pyte
 # IPoW in multiscale_product_bridge output
 # ---------------------------------------------------------------------------
 
+@pytest.mark.xfail(
+    reason="Full meta.interior_point_of_world_view live emit (METRIC-23, HRES-04) explicitly "
+    "deferred to follow-on rows, not v0.7.0 scope — release/v0.7.0/RELEASE_SCOPE.md. "
+    "build_structural_internal_from_multiscale never attaches it.",
+    strict=True,
+)
 def test_multiscale_bridge_includes_ipow_when_enabled(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setenv("HESPERIA_METRIC_EMIT", "1")
     from runtime.services.anchor_map_registry import load_anchor_map_v1
@@ -163,7 +183,7 @@ def test_multiscale_bridge_includes_ipow_when_enabled(monkeypatch: pytest.Monkey
     from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
     from pathlib import Path
 
-    assets = Path(__file__).resolve().parents[1] / "lexicon" / "curated"
+    assets = Path(__file__).resolve().parents[1] / "assets" / "lexicon" / "curated"
     if not assets.exists():
         pytest.skip("lexicon assets not available")
 

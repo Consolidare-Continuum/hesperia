@@ -26,10 +26,10 @@ def _runtime_version_fallback() -> str:
 
 def _assets_root(repo_root: Path | None) -> Path:
     if repo_root is not None and repo_root.is_dir():
-        d = repo_root / "lexicon" / "curated"
+        d = repo_root / "assets" / "lexicon" / "curated"
         if d.is_dir():
             return d
-    return Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    return Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
 
 
 def _cmd_analyze(args: object) -> int:
@@ -201,7 +201,7 @@ def main() -> int:
         description="Structural analysis. Commands: analyze, compare, batch | batch-analyze, router-inquire.",
     )
     ap.add_argument("--version", action="store_true", help="Show runtime version and build info.")
-    ap.add_argument("--assets", type=str, default=None, help="Path to lexicon assets (default: repo/lexicon/curated)")
+    ap.add_argument("--assets", type=str, default=None, help="Path to lexicon assets (default: repo/assets/lexicon/curated)")
     sub = ap.add_subparsers(dest="command", required=False)
 
     # analyze

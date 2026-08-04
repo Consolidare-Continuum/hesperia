@@ -32,7 +32,7 @@ def _stable_hash(payload: dict[str, Any]) -> str:
 def _run_once(text: str) -> dict[str, Any]:
     from runtime.services.analysis_service import run_structural_analysis
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     return run_structural_analysis(text, assets_root=assets, stages="full")
 
 

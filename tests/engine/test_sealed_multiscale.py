@@ -36,7 +36,7 @@ def test_compute_hspr_index():
 
 def test_run_sealed_multiscale_stack_smoke():
     root = Path(__file__).resolve().parents[2]
-    assets = root / "lexicon" / "curated"
+    assets = root / "assets" / "lexicon" / "curated"
     out = run_sealed_multiscale_stack("justice fairness order care trust", assets, use_triz_contradiction=False)
     assert out["execution_flow"] == "sealed_multiscale_v1"
     assert out.get("pch_bundle_version") == "v1"

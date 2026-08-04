@@ -1,4 +1,4 @@
-# Corner: Calibration (`hesperia/engine/calibration*`, `assets/calibration/`, `openai_calibrate_*.py`, `lexicon/frozen/v06/calibration_stats_v06.json`)
+# Corner: Calibration (`hesperia/engine/calibration*`, `assets/calibration/`, `openai_calibrate_*.py`, `assets/lexicon/frozen/v06/calibration_stats_v06.json`)
 
 ## Why this corner exists at all
 

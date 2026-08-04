@@ -56,7 +56,7 @@ def test_gtp_block_validates_against_its_own_schema() -> None:
 
     schema = json.loads(
         (
-            Path(__file__).resolve().parents[2] / "schemas" / "gtp" / "gtp_v0_1.schema.json"
+            Path(__file__).resolve().parents[2] / "assets" / "schemas" / "gtp" / "gtp_v0_1.schema.json"
         ).read_text(encoding="utf-8")
     )
     block = compile_gtp_block(_TEXT, current_hex={"area_id": 0, "global_id": 3, "hex_index": 10})

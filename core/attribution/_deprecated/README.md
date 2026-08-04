@@ -9,10 +9,15 @@ for reuse or reverse-engineering.
 - `attribution_compat.py` — a deprecation shim re-exporting from `core.attribution.structural`.
   Already stale advice by the time it was retired: `structural` was never the sole canonical
   module either, just one of three live paths.
+- `attribution_v06.py` — the former production-default module (`core.attribution.attribution`),
+  retired 2026-07-30: its underlying dictionary (`dict_a_v06.jsonl`) was synthetic placeholder
+  data, never a real calibrated vocabulary. See `docs/foundations/attribution_layer.md` for the
+  measured scores that forced the retirement.
 
-Live attribution modules: `core.attribution.attribution` (v0.6, production default),
-`core.attribution.attribution_shared` (v0.3.3 fallback + r1_r4 surface-map capability),
-`core.attribution.structural` (r1_r4 non-surface-map branch + `exclude_landing_sources` guard).
+Live attribution modules (current, post-2026-07-30): `core.attribution.attribution_shared`
+(sole path via `runtime/pipeline/analyze.py`), `core.attribution.structural` (r1_r4 non-surface-map
+branch + `exclude_landing_sources` guard). `core.attribution.attribution` (v0.6) is **not** live —
+it is the retired module now sitting in this directory as `attribution_v06.py`.
 
 See [docs/foundations/attribution_layer.md](../../../docs/foundations/attribution_layer.md) for
 the full picture.

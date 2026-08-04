@@ -10,7 +10,7 @@ _REPO = Path(__file__).resolve().parents[1]
 
 
 def test_anchor_map_v1_frozen_registry() -> None:
-    path = _REPO / "schemas" / "anchor_map_v1.json"
+    path = _REPO / "assets" / "schemas" / "anchor_map_v1.json"
     data = json.loads(path.read_text(encoding="utf-8"))
     assert data["anchor_map_id"] == "anchor_map_v1"
     assert data["status"] == "FROZEN"

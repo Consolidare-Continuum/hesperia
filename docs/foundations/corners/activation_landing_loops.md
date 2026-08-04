@@ -60,7 +60,7 @@ terminology/thesaurus construction (the same idea behind a domain thesaurus's
 formalization).
 
 **2. External-lexicographic sourcing, frozen with provenance
-(`lexicon/curated/FREEZE_RECORD_v1.json`).** A separate generation's Dict A
+(`assets/lexicon/curated/FREEZE_RECORD_v1.json`).** A separate generation's Dict A
 (`A_CORE_STAR_MAP_v1.json`) is sourced in part from named, dated external
 lexical resources: `oewn` (Open English WordNet, version `v2023.1` —
 Princeton WordNet's open-licensed continuation, Miller et al., 1990, the

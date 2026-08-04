@@ -58,7 +58,7 @@ def _write_product_surface(out_dir: Path, text: str) -> Path:
     from runtime.services.analysis_service import run_structural_analysis
     from runtime.shipping.schema_guard import validate_against_public_schema
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     summary_payload = run_structural_analysis(text, assets_root=assets, stages="full")
     validate_against_public_schema(summary_payload)
     path = out_dir / "run_output_e2e_full_product_surface.json"

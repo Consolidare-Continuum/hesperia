@@ -31,10 +31,10 @@ is what this corner is responsible for.
 
 ## The Dict A / Dict B split
 
-- **Dict A** (`lexicon/curated/DICT_A_SURFACE_MAP_*`, `A_CORE_STAR_MAP_*`) is
+- **Dict A** (`assets/lexicon/curated/DICT_A_SURFACE_MAP_*`, `A_CORE_STAR_MAP_*`) is
   the surface-evidence layer: words, stems, phrases, transcript variants,
   colloquial forms. Dict A does not classify — it *proposes* candidates.
-- **Dict B** (`lexicon/frozen/dict_b_v040_from_a_v0413.json`, `B0_TOKEN_TO_FAMILY`,
+- **Dict B** (`assets/lexicon/frozen/dict_b_v040_from_a_v0413.json`, `B0_TOKEN_TO_FAMILY`,
   `B1_SIDE_TO_FAMILY`) is the concept/family layer: semantic units, hierarchy,
   family and area membership, disambiguation clues. Dict B does not guess
   words — it receives resolved evidence.
@@ -95,7 +95,7 @@ works.
 
 ### 1. Build-time collapse: B0/B1 as a coarsened projection of A (original v0.4.1.x lineage)
 
-In the frozen `lexicon/frozen/` lineage, Dict A's entries point at a
+In the frozen `assets/lexicon/frozen/` lineage, Dict A's entries point at a
 **side_id** — one of `TOTAL_SIDES = 432,000` addressable leaves
 (`core/topology/invariant_catalog.py`: `SIDES_PER_FAMILY = 1,500`). Dict B's
 token-level table in this lineage — `B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json`
@@ -121,7 +121,7 @@ artifacts.
 
 ### 2. Build-time expansion: the surface-alias field as a graded synonym ring around A's side
 
-`lexicon/curated/B_SURFACE_LEX_FIELD_v1.json` does the *opposite* of
+`assets/lexicon/curated/B_SURFACE_LEX_FIELD_v1.json` does the *opposite* of
 collapsing — for a given `side_id`, it expands the single concept A's entry
 points at into a **confidence-graded alias set**:
 
@@ -129,7 +129,7 @@ points at into a **confidence-graded alias set**:
 side_id → { canonical_lemma, aliases: [{alias, grade: "A"|"B"|"C"}, ...] }
 ```
 
-`lexicon/curated/FREEZE_RECORD_v1.json`'s own rules state the constraint
+`assets/lexicon/curated/FREEZE_RECORD_v1.json`'s own rules state the constraint
 precisely: "Dict B: alias grades A/B/C only; `canonical_lemma` must appear as
 grade A; no duplicate alias after normalization." Grade A is the exact
 canonical surface form (always present, always identical to

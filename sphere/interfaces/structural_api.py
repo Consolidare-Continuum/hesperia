@@ -90,7 +90,7 @@ def analyze_text(
         from core.engine.projection import project_to_public
 
         assets_root = config.get("assets_root")
-        assets = Path(assets_root) if assets_root else Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+        assets = Path(assets_root) if assets_root else Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
         mode = config.get("interpretation_policy_mode")
         internal = build_structural_internal_from_multiscale(
             text,

@@ -16,7 +16,7 @@ def test_threshold_calibration_report(tmp_path: Path) -> None:
         "tools/calibrate_product_thresholds.py",
         str(c),
         "--config",
-        "configs/pipeline.yaml",
+        "assets/config/pipeline.yaml",
         "--out",
         str(out),
     ]

@@ -91,7 +91,7 @@ def test_dossier_written_contains_run_manifest() -> None:
     from runtime.provenance import build_run_manifest, get_engine_provenance
 
     args = _FakeArgs(policy_mode="STRUCTURE_ONLY")
-    manifest = build_run_manifest(args, {"F": 288}, None, None, str(_REPO / "lexicon" / "curated"))
+    manifest = build_run_manifest(args, {"F": 288}, None, None, str(_REPO / "assets" / "lexicon" / "curated"))
     dossier = {"run": "L1_through_L9", "text_preview": "x", "diagnostics": {}}
     for i in range(1, 10):
         dossier[f"L{i}"] = {}

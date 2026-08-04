@@ -6,7 +6,7 @@ from core.engine.pipeline_runner import run_pipeline
 
 
 def test_phase_hashes_stable_across_repeated_runs() -> None:
-    config = Path(__file__).resolve().parents[1] / "configs" / "pipeline.yaml"
+    config = Path(__file__).resolve().parents[1] / "assets" / "config" / "pipeline.yaml"
     hashes = []
     for _ in range(10):
         out = run_pipeline("determinism stability sample text", config_path=config)

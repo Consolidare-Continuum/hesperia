@@ -40,7 +40,7 @@ from core.attribution.attribution_shared import (
 )
 from core.topology.invariant_catalog import AREAS, FAMILIES_PER_AREA, TOTAL_FAMILIES
 
-GROUND_TRUTH_PATH = REPO / "lexicon" / "frozen" / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
+GROUND_TRUTH_PATH = REPO / "assets" / "lexicon" / "frozen" / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
 REPORT_JSON = REPO / "outputs" / "reports" / "fuel_chamber_capacity.json"
 REPORT_MD = REPO / "outputs" / "reports" / "FUEL-CHAMBER-CAPACITY-LEDGER.md"
 

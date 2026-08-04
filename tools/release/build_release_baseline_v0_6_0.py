@@ -119,7 +119,7 @@ def _build_reference_output() -> dict:
     from runtime.services.analysis_service import run_structural_analysis
 
     text = CANONICAL_INPUT.read_text(encoding="utf-8").strip()
-    return run_structural_analysis(text, assets_root=REPO / "lexicon" / "curated", stages="full")
+    return run_structural_analysis(text, assets_root=REPO / "assets" / "lexicon" / "curated", stages="full")
 
 
 def _baseline_scope_md(version: str, dict_pack: str) -> str:

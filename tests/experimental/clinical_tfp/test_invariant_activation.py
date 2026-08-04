@@ -166,9 +166,10 @@ def test_release_gate_fails_when_invariant_path_is_bypassed(tmp_path: Path) -> N
     gate = evaluate_bundle(bundle, profile="internal_review", schema_ok=True, gold_failed=0)
     assert gate["pass"] is False
     checks = {row["check"]: row["pass"] for row in gate["checks"]}
-    assert checks["invariant_path_used"] is False
-    assert checks["post_hex_path_active"] is False
-    assert checks["inhibition_matrix_present"] is False
+    # Renamed in e1217ab6 "v0.5.2 technical terminology propagation" (invariant/hex/inhibition -> operator/coupling).
+    assert checks["operator_path_used"] is False
+    assert checks["post_operator_feedback_active"] is False
+    assert checks["coupling_matrix_present"] is False
 
 
 def test_signal_calibration_declares_invariant_defaults() -> None:

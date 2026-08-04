@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>SYSTEM STRUCTURE 0.7.0 — Hesperia Wiki</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+<link rel="stylesheet" href="../style.css"></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">SYSTEM STRUCTURE 0.7.0 — Hesperia Wiki</h1>
+</header>
+<h1 id="hesperia-system-structure--070">Hesperia system structure @
+0.7.0</h1>
+<p><strong>Status:</strong> LIVE structure hub (hand-authored; not a
+parameter ITEMS page)<br />
+<strong>Wave:</strong> HWIKI-STRUCT-02<br />
+<strong>Seal:</strong> <code>system_version 0.7.0</code> ·
+<code>release_stage: modular_branches</code> · tag
+<code>v0.7.0</code><br />
+<strong>Verified:</strong> <code>/data/hesperia/hesperia</code> and
+<code>/data/workspaces/atomic-commit-hesperia</code>
+<code>VERSION.yaml</code> (2026-07-26)</p>
+<p><a href="../index.html">← wiki home</a> · <a
+href="HOW-IT-WORKS-0.7.0.html">How it works</a> · <a
+href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">Class A/B hub</a> · <a
+href="../Coverage-Ledger.html">Coverage Ledger</a></p>
+<hr />
+<h2 id="one-sentence">One sentence</h2>
+<p><strong>Hesperia 0.7.0</strong> is a <strong>multipurpose sealed
+runtime semantic engine</strong> (dictionaries · logic · areas/families
+· grid measurement) plus <strong>modular branches</strong> and a
+<strong>V7 router composition layer</strong>
+(<code>/product/interpret</code>) — not a single pipeline, not an LLM,
+not a clinical/medicine product, and not an open graph editor.</p>
+<p><strong>Identity:</strong> <a
+href="../../../../governance/ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.html">ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.md</a></p>
+<hr />
+<h2 id="layers-do-not-merge">Layers (do not merge)</h2>
+<pre class="mermaid"><code>flowchart TB
+  subgraph identity[&quot;Identity&quot;]
+    V[&quot;VERSION.yaml system_version 0.7.0&quot;]
+  end
+  subgraph core[&quot;Core — Class A measurement&quot;]
+    A[&quot;POST /analyze&quot;]
+    S[&quot;analysis_service → sealed_multiscale_stack&quot;]
+    G[&quot;hex → family → area → product signals → HSPR&quot;]
+  end
+  subgraph compose[&quot;Composition — not new physics&quot;]
+    I[&quot;POST /product/interpret&quot;]
+    R[&quot;sphere/router + product_interpret_service&quot;]
+    GT[&quot;ground_truth: logical · weight · source_activation&quot;]
+  end
+  subgraph branch[&quot;Class B — branch-persistent&quot;]
+    TFP[&quot;TFP module (one field app)&quot;]
+    MRT[&quot;MRT IT&quot;]
+    COB[&quot;COBALT attribution — prod flag off&quot;]
+  end
+  subgraph gated[&quot;Explicitly gated&quot;]
+    APP[&quot;H070 apply allowlist — mutate ≠ observe&quot;]
+    RD[&quot;module REAL_DATA (legacy label ≠ identity)&quot;]
+  end
+  V --&gt; A
+  V --&gt; I
+  A --&gt; S --&gt; G
+  I --&gt; R --&gt; GT
+  G -.-&gt;|engine_trace consumed| R
+  TFP -.-&gt;|envelope only| I
+  MRT -.-&gt;|envelope only| I
+  COB -.-&gt;|flag 0| gated
+  APP --&gt; gated</code></pre>
+<hr />
+<h2 id="what-each-layer-is-for">What each layer is for</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Layer</th>
+<th>Answers</th>
+<th>Code anchors (0.7.0)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Core /analyze</strong></td>
+<td>Where does this text land on the semantic grid,
+deterministically?</td>
+<td><code>runtime/shipping/api_main.py</code> <code>POST /analyze</code>
+· <code>runtime/services/analysis_service.py</code> ·
+<code>hesperia/engine/sealed_multiscale_stack.py</code></td>
+</tr>
+<tr class="even">
+<td><strong>Product interpret</strong></td>
+<td>What structural / agent-facing interpretation sits <em>above</em>
+sealed measurement?</td>
+<td><code>POST /product/interpret</code> ·
+<code>runtime/services/product_interpret_service.py</code> ·
+<code>sphere/router/*</code> ·
+<code>sphere/router/ground_truth.py</code></td>
+</tr>
+<tr class="odd">
+<td><strong>Class A modules</strong></td>
+<td>Universal plumbing safe to consolidate into core</td>
+<td><code>dict_a</code> / <code>dict_b</code>, topology, nlp, metrics —
+see <a href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">CLASS-AB
+hub</a></td>
+</tr>
+<tr class="even">
+<td><strong>Class B modules</strong></td>
+<td>Domain/theme/attribution — must <strong>not</strong> fold into
+sealed <code>/analyze</code></td>
+<td>TFP · MRT · COBALT</td>
+</tr>
+<tr class="odd">
+<td><strong>Apply (H070)</strong></td>
+<td>May we mutate the governed graph?</td>
+<td>Allowlist-gated; seal did <strong>not</strong> flip open apply</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="versionyaml-components-sealed-identity">VERSION.yaml components
+(sealed identity)</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Component</th>
+<th>Value @ seal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>core_engine</code></td>
+<td><code>0.7.0</code></td>
+</tr>
+<tr class="even">
+<td><code>dynamics</code> / <code>triz</code></td>
+<td><code>0.6.3</code></td>
+</tr>
+<tr class="odd">
+<td><code>clinical</code></td>
+<td><code>0.6.3-modular</code> — <strong>component/module label in
+VERSION.yaml</strong>, not “Hesperia is medicine”</td>
+</tr>
+<tr class="even">
+<td><code>calibration</code></td>
+<td><code>0.7.0</code></td>
+</tr>
+<tr class="odd">
+<td><code>router</code></td>
+<td><code>v7-router-0.1</code></td>
+</tr>
+<tr class="even">
+<td><code>fpf_bridge</code></td>
+<td><code>v7.2-v7.4</code> (sealed; flag-gated modules remain
+opt-in)</td>
+</tr>
+</tbody>
+</table>
+<p>Pin note: brain thinking-map soak may track <strong>1.9.3</strong>
+while Hesperia product sealed with <strong>1.9.2</strong> — documented
+diverge in Ethan castle report; do not silently equate.</p>
+<hr />
+<h2 id="relation-to-the-parameter-wiki">Relation to the parameter
+wiki</h2>
+<ul>
+<li><strong>Parameter pages</strong> (<code>pages/*</code>) answer: is
+symbol X LIVE/DEAD, formula, module path.</li>
+<li><strong>This hub</strong> answers: which <em>system layer</em> owns
+the path you are on.</li>
+<li>Cross-link: when a param is Class A vs B, prefer <a
+href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">CLASS-AB hub</a> + <a
+href="../TEMPLATES-DECISION-THEORY.html">TEMPLATES-DECISION-THEORY.md</a>.</li>
+</ul>
+<p>Architecture canon: <a
+href="../../HESPERIA-MODULAR-BRANCH-ARCHITECTURE.html">HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md</a>
+§2 / §2c.</p>
+<p>SIGNED: Researcher (Colombo) | HWIKI-STRUCT-02 system structure |
+2026-07-26 | v0.7.0</p>
+</body>
+</html>

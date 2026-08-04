@@ -12,7 +12,7 @@ from jsonschema import Draft202012Validator
 
 
 REPO = Path(__file__).resolve().parents[1]
-SCHEMA_PATH = REPO / "schemas" / "lexical_concept" / "dict_b.schema.json"
+SCHEMA_PATH = REPO / "assets" / "schemas" / "lexical_concept" / "dict_b.schema.json"
 
 
 def _load_schema() -> dict:

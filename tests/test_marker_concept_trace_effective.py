@@ -22,7 +22,7 @@ def test_trace_b0_fallback_annotation_under_strict(monkeypatch: pytest.MonkeyPat
 
     from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
 
-    act = markers_to_concept_activation("tok", REPO / "lexicon" / "curated")
+    act = markers_to_concept_activation("tok", REPO / "assets" / "lexicon" / "curated")
     trace = act.get("marker_concept_trace") or []
     assert trace, "expected one trace row for stubbed tok"
     row = trace[0]
@@ -46,7 +46,7 @@ def test_trace_no_effective_key_when_guard_off(monkeypatch: pytest.MonkeyPatch) 
 
     from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
 
-    act = markers_to_concept_activation("tok2", REPO / "lexicon" / "curated")
+    act = markers_to_concept_activation("tok2", REPO / "assets" / "lexicon" / "curated")
     trace = act.get("marker_concept_trace") or []
     assert trace
     assert "effective_landing_source" not in trace[0]

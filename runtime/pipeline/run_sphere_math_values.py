@@ -28,7 +28,7 @@ def main() -> None:
     ap.add_argument("--text", default="justice lie fairness truth good order harm freedom")
     args = ap.parse_args()
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     out = run_structural_analysis(
         args.text,
         assets_root=assets,

@@ -14,7 +14,7 @@ def test_stability_audit_report(tmp_path: Path) -> None:
         "tools/stability_audit.py",
         str(inp),
         "--config",
-        "configs/pipeline.yaml",
+        "assets/config/pipeline.yaml",
         "--runs",
         "3",
         "--out",

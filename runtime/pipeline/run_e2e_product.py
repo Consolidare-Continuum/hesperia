@@ -24,7 +24,7 @@ def main() -> int:
     from runtime.services.analysis_service import run_structural_analysis
     from runtime.shipping.schema_guard import validate_against_public_schema
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     summary_payload = run_structural_analysis(_DEFAULT_TEXT, assets_root=assets, stages="full")
     validate_against_public_schema(summary_payload)
     _OUT.parent.mkdir(parents=True, exist_ok=True)

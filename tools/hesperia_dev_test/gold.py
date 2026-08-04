@@ -1,8 +1,10 @@
 # HESPERIA — hesperia-dev-test Bench-0 gold loader. Copyright © 2026 igareosh.com.
-"""Loads the pinned Bench-0 gold artifact (gold/bench0_v0_1.json) and compares live /analyze +
+"""Loads the pinned Bench-0 gold artifact (gold/bench0_v0_2.json) and compares live /analyze +
 /product/interpret responses against it. Read-only: this module never writes the gold file.
 Re-gold is an explicit Felix/Ethan step (see the artifact's own `re_gold_procedure` field), never
-a silent overwrite here or in CI.
+a silent overwrite here or in CI. v0_1 kept in gold/ for history — re-golded to v0_2 2026-08-03
+(direct operator task, system_version 0.7.0 -> 0.7.1 seal; every other pinned field verified
+unchanged, see bench0_v0_2.json's generated_by note).
 """
 
 from __future__ import annotations
@@ -11,7 +13,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-GOLD_PATH = Path(__file__).resolve().parent / "gold" / "bench0_v0_1.json"
+GOLD_PATH = Path(__file__).resolve().parent / "gold" / "bench0_v0_2.json"
 
 
 def load_gold() -> dict[str, Any]:

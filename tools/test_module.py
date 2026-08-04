@@ -17,7 +17,7 @@ def main() -> int:
     args = ap.parse_args()
 
     engine = HesperiaEngine()
-    config_path = Path(__file__).resolve().parents[1] / "configs" / "pipeline.yaml"
+    config_path = Path(__file__).resolve().parents[1] / "assets" / "config" / "pipeline.yaml"
     engine.load_from_config(config_path)
     resolved = resolve_module_path(args.module)
     target = [m for m in engine.modules if m.name == args.module or engine._module_paths.get(m.name) in {args.module, resolved}]

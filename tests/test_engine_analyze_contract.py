@@ -15,7 +15,7 @@ from runtime.shipping.api_main import AnalyzeBody
 
 
 REPO = Path(__file__).resolve().parents[1]
-ASSETS = REPO / "lexicon" / "curated"
+ASSETS = REPO / "assets" / "lexicon" / "curated"
 
 
 def test_analyze_body_accepts_overlay_fields() -> None:

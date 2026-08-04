@@ -119,7 +119,7 @@ def test_stability_passed_to_l7() -> None:
     from sphere.pipeline.pipeline_state import PipelineState
 
     text = "justice fairness order"
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()
     defaults = load_defaults()

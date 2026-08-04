@@ -14,7 +14,7 @@ def _repo() -> Path:
 
 
 def _assets() -> Path:
-    return _repo() / "lexicon" / "curated"
+    return _repo() / "assets" / "lexicon" / "curated"
 
 
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")

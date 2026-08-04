@@ -60,6 +60,6 @@ echo 'clinical language borderline splitting identity diffusion' >"$TMP_IN"
 
 echo "=== Runtime smoke: HESPERIA_CALIB_DICT_VERSION=$CALIB HESPERIA_CD_ENABLED=1 ==="
 HESPERIA_CALIB_DICT_VERSION="$CALIB" HESPERIA_CD_ENABLED=1 \
-  python3 -m hesperia.run "$TMP_IN" --config configs/pipeline.yaml --out "$TMP_OUT" --manifest-out "$TMP_MAN"
+  python3 -m hesperia.run "$TMP_IN" --config assets/config/pipeline.yaml --out "$TMP_OUT" --manifest-out "$TMP_MAN"
 
 echo "DONE: B+CD wave after green A (see docs/governance/cd_v1/MODEL_CARD_CD_PIPELINE.md: A→B→CD→C_agg→Topology)."

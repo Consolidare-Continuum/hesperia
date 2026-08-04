@@ -99,7 +99,7 @@ def test_dlcr_with_and_without_package() -> None:
 def test_multiscale_persistent_contradiction() -> None:
     from core.engine.sealed_multiscale_stack import run_sealed_multiscale_stack
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     text = "test"
     seg_loads = [
         {"contradiction_load_normalized": 0.9, "contradiction_load": 1.0, "cross_area_contradiction_mass": 0.5},

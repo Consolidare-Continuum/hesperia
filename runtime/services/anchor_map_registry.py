@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any
 
 _REPO_ROOT = Path(__file__).resolve().parents[2]
-_ANCHOR_MAP_PATH = _REPO_ROOT / "schemas" / "anchor_map_v1.json"
+_ANCHOR_MAP_PATH = _REPO_ROOT / "assets" / "schemas" / "anchor_map_v1.json"
 
 FROZEN_ANCHOR_MAP_ID = "anchor_map_v1"
 

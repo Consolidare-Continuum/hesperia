@@ -30,7 +30,7 @@ EPS = 1e-9
 
 _REPO = Path(__file__).resolve().parents[2]
 # Canonical frozen bundle id (v0.5.0): physical dir v0_5_0 → symlink to legacy v06 payload layout.
-_DEFAULT_LEXICON_FROZEN_BUNDLE = _REPO / "lexicon" / "frozen" / "v0_5_0"
+_DEFAULT_LEXICON_FROZEN_BUNDLE = _REPO / "assets" / "lexicon" / "frozen" / "v0_5_0"
 _dict_a: dict[str, dict[str, Any]] | None = None
 _family_prior: list[float] | None = None
 _surface_map: dict[str, str] | None = None
@@ -68,7 +68,7 @@ def load_dict_a(
         raise ValueError(f"family_prior must have {TOTAL_FAMILIES} entries, got {len(prior)}")
     try:
         from .attribution_shared import load_dict_a_surface_map_v033
-        _surface_map = load_dict_a_surface_map_v033(assets_root=assets_root or _REPO / "lexicon" / "frozen")
+        _surface_map = load_dict_a_surface_map_v033(assets_root=assets_root or _REPO / "assets" / "lexicon" / "frozen")
     except Exception:
         _surface_map = {}
     _dict_a = out
@@ -169,7 +169,7 @@ def run_attribution_pipeline(
     if _dict_a is None or _family_prior is None:
         load_dict_a(
             v06_dir=base,
-            assets_root=assets_root or (_REPO / "lexicon" / "frozen"),
+            assets_root=assets_root or (_REPO / "assets" / "lexicon" / "frozen"),
         )
     sentence_vector = _sentence_vector(tokens)
     dominant_family, dominant_area = _dominant_from_vector(sentence_vector)

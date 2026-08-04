@@ -280,43 +280,53 @@ permanent silence.</p>
 list</td>
 </tr>
 <tr class="even">
+<td><code>structure/</code></td>
+<td><strong>System structure / how-it-works hubs @ sealed 0.7.0</strong>
+(hand-authored; not ITEMS). Start: <a
+href="structure/SYSTEM-STRUCTURE-0.7.0.html">SYSTEM-STRUCTURE-0.7.0.md</a>,
+<a href="structure/HOW-IT-WORKS-0.7.0.html">HOW-IT-WORKS-0.7.0.md</a>.
+Wave: <code>HWIKI-STRUCT-*</code></td>
+</tr>
+<tr class="odd">
 <td><code>categories/*.md</code></td>
 <td>12 hub pages (Geometry, Core Math Contract, Tension, Propagation,
 Thresholds, Graph Metrics, Entropy, Stability, Similarity, Trust,
 Concept Dictionary, Dead/Rejected) — each a table of its member
 pages</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>pages/*.md</code></td>
 <td>One page per variable/parameter/formula — the actual content</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>Coverage-Ledger.md</code></td>
 <td><strong>Read before assuming completeness.</strong> States
 explicitly what's <em>not</em> wikified yet (full L1–L11 layer
-variables, KME's 35 derived metrics individually, TRIZ internals) and
-open/unresolved questions carried over from the research passes</td>
-</tr>
-<tr class="odd">
-<td><code>tools/generate_wiki.py</code></td>
-<td><strong>Source of truth generator.</strong> All 90 pages + 12
-category hubs + <code>index.md</code> + <code>Coverage-Ledger.md</code>
-are rendered from the <code>ITEMS</code> list in this script — not
-hand-authored</td>
+variables, KME's 35 derived metrics individually, TRIZ internals, STRUCT
+depth) and open/unresolved questions carried over from the research
+passes</td>
 </tr>
 <tr class="even">
+<td><code>tools/generate_wiki.py</code></td>
+<td><strong>Source of truth generator.</strong> Parameter pages + 12
+category hubs + <code>index.md</code> + <code>Coverage-Ledger.md</code>
+are rendered from the <code>ITEMS</code> list in this script — not
+hand-authored. Links to <code>structure/</code> hubs are emitted by the
+generator; hub bodies themselves are hand-authored</td>
+</tr>
+<tr class="odd">
 <td><code>tools/render_wiki_html.py</code></td>
 <td>Converts every <code>.md</code> in this folder to static HTML (via
 <code>pandoc</code>) into <code>../wiki_site/</code>, rewriting
 <code>.md</code> links to <code>.html</code></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>tools/serve.py</code></td>
 <td>Copy of the server actually running (canonical source; the live copy
 is <code>../wiki_site/serve.py</code>, colocated with what it
 serves)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>../wiki_site/</code></td>
 <td>Rendered HTML output + the running server. Not the source of truth —
 regenerated from this folder, don't hand-edit <code>.html</code>

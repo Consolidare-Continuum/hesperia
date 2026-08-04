@@ -25,7 +25,7 @@ from pathlib import Path
 from typing import Any
 
 _HESPERIA_ROOT = Path(__file__).resolve().parents[2]
-_LEXICON_CURATED = _HESPERIA_ROOT / "lexicon" / "curated"
+_LEXICON_CURATED = _HESPERIA_ROOT / "assets" / "lexicon" / "curated"
 
 from fastapi import Depends, FastAPI, Request, Security
 from fastapi.exceptions import RequestValidationError
@@ -202,7 +202,7 @@ def health() -> dict[str, Any]:
 
 
 def _assets_curated() -> Path:
-    return _LEXICON_CURATED if _LEXICON_CURATED.is_dir() else _HESPERIA_ROOT / "lexicon" / "curated"
+    return _LEXICON_CURATED if _LEXICON_CURATED.is_dir() else _HESPERIA_ROOT / "assets" / "lexicon" / "curated"
 
 
 @app.post("/product/llm-audit", response_model=None)

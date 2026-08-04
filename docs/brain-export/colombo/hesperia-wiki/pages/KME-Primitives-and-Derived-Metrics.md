@@ -30,7 +30,7 @@ No Java 1:1 names — BEYOND comparability fingerprint layer
 
 ## Notes
 
-**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. Theory depth / plain-lang names expand in later DOC/KME waves.
+**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. **HWIKI-KME-03:** plain-lang / theory notes expanded on each derived page.
 
 ---
 [← back to category](../categories/Graph-and-Structural-Metrics.md) · [wiki home](../index.md)

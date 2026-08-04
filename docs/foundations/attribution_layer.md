@@ -6,7 +6,7 @@
 guards -> SUMMARY"). It calls `attribution_shared.run_attribution_pipeline(...)` unconditionally
 — no mode switch, no fallback branch. This is the only attribution pipeline core runs.
 
-Loads `lexicon/curated/A_CORE_STAR_MAP_v0_4_1_3.json` plus the frozen Dict B fallback
+Loads `assets/lexicon/curated/A_CORE_STAR_MAP_v0_4_1_3.json` plus the frozen Dict B fallback
 (`B0_TOKEN_TO_FAMILY_v0_4_1_4...json` / `B1_SIDE_TO_FAMILY_v0_4_1_4.json`) — real curated
 lexicon content, not synthetic data.
 
@@ -14,8 +14,8 @@ lexicon content, not synthetic data.
 
 Until this date, this module was the **production default** — selected via
 `HESPERIA_ATTRIBUTION_MODE` (default `"v06"`) in `analyze.py`. It loaded
-`lexicon/frozen/v0_5_0/dict_a_v06.jsonl` + `family_prior_v06.json` (`v0_5_0` was a symlink to
-`lexicon/frozen/v06`).
+`assets/lexicon/frozen/v0_5_0/dict_a_v06.jsonl` + `family_prior_v06.json` (`v0_5_0` was a symlink to
+`assets/lexicon/frozen/v06`).
 
 **That file was synthetic placeholder data — every token a fake string like `access_100_10`,
 `area10_217_11`, zero real vocabulary anywhere in it.** The production default had never had a
@@ -27,15 +27,15 @@ from an unrelated, uncorrelated calibration generation.
 Retired as part of severing core from every extension/module and moving the placeholder dictionary
 out of the active path:
 - `core/attribution/attribution.py` → `core/attribution/_deprecated/attribution_v06.py`
-- `lexicon/frozen/v06/` (+ the `v0_5_0` symlink) → `lexicon/frozen/_deprecated/v06/`
+- `assets/lexicon/frozen/v06/` (+ the `v0_5_0` symlink) → `assets/lexicon/frozen/_deprecated/v06/`
 - `runtime/pipeline/analyze.py` simplified to call `attribution_shared` unconditionally; the
   `_MODE`/`HESPERIA_ATTRIBUTION_MODE` env-var branch and the now-dead `dict_b` diagnostics block
   it fed (`core.math.dict_b.run_dict_b_pipeline`, only ever reachable in v06 mode) were removed.
 - `core.attribution.attribution_shared.load_dict_a_v06()` (an optional fallback loader used by
-  `r1_r4_pipeline.py`'s surface-map branch) degrades gracefully when `lexicon/frozen/v0_5_0` is
+  `r1_r4_pipeline.py`'s surface-map branch) degrades gracefully when `assets/lexicon/frozen/v0_5_0` is
   absent — returns `{}`, verified this does not break r1_r4.
 
-See `lexicon/frozen/_deprecated/README.md` and `core/attribution/_deprecated/README.md`.
+See `assets/lexicon/frozen/_deprecated/README.md` and `core/attribution/_deprecated/README.md`.
 
 ## Also live: `core/attribution/structural.py`
 

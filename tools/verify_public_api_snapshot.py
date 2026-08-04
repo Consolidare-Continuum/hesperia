@@ -11,8 +11,8 @@ import hashlib
 import sys
 from pathlib import Path
 
-_CANONICAL = Path("schemas/public/public_output_schema.json")
-_SNAPSHOT = Path("schemas/public_api_v0_5_1.snapshot.json")
+_CANONICAL = Path("assets/schemas/public/public_output_schema.json")
+_SNAPSHOT = Path("assets/schemas/public_api_v0_5_1.snapshot.json")
 
 
 def _sha256(data: bytes) -> str:

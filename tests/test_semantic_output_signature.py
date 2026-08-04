@@ -17,7 +17,7 @@ _STRUCTURED_SIGNAL = (
 
 
 def _assets() -> Path:
-    return Path(__file__).resolve().parents[1] / "lexicon" / "curated"
+    return Path(__file__).resolve().parents[1] / "assets" / "lexicon" / "curated"
 
 
 @pytest.mark.skipif(not _assets().is_dir(), reason="lexicon/curated missing")

@@ -6,6 +6,15 @@ import math
 import re
 from typing import Any
 
+from core.math.entropy_metrics import compute_entropy as _entropy
+
+TFP_STAGES = (
+    "chaotic",
+    "defense_clarification",
+    "interpretation",
+    "integration",
+)
+
 
 def detect_tfp_stage(areas: dict[str, float], families: dict[str, float] | None = None) -> str:
     areas = areas or {}
@@ -22,6 +31,20 @@ def detect_tfp_stage(areas: dict[str, float], families: dict[str, float] | None 
     if a2 >= 0.2 or a3 >= 0.2:
         return "interpretation"
     return "chaotic"
+
+
+def stage_from_timeline(timeline: list[dict[str, Any]], last_n: int = 1) -> str:
+    if not timeline or last_n < 1:
+        return "chaotic"
+    slice_ = timeline[-last_n:]
+    areas_agg: dict[str, float] = {}
+    for step in slice_:
+        for k, v in (step.get("areas") or {}).items():
+            areas_agg[k] = areas_agg.get(k, 0.0) + float(v)
+    n = len(slice_)
+    if n > 0:
+        areas_agg = {k: v / n for k, v in areas_agg.items()}
+    return detect_tfp_stage(areas_agg)
 
 
 LOW_INTENSITY = re.compile(r"\b(недоволен|раздражен|грустно|обижен|злюсь|злиться)\b", re.IGNORECASE)
@@ -52,14 +75,6 @@ def estimate_affect_intensity(text: str, tokens: list[str] | None = None) -> flo
         if any(t in affect_tokens for t in norm):
             score = 0.25
     return round(min(1.0, max(0.0, score)), 2)
-
-
-def _entropy(values: list[float]) -> float:
-    if not values or sum(values) <= 0:
-        return 0.0
-    s = sum(values)
-    p = [v / s for v in values if v > 0]
-    return -sum(x * math.log2(x) for x in p) if p else 0.0
 
 
 def compute_confidence_scores(activation: dict[str, Any]) -> dict[str, Any]:

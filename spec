@@ -1,1 +1,1 @@
-specs/canon
+assets/specs/canon

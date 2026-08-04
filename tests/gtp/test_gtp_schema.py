@@ -11,7 +11,7 @@ from sphere.topology.gtp.neighbors import HexCell
 from sphere.topology.gtp.pipeline import gtp_step_to_dict, run_gtp_step
 
 _SCHEMA_PATH = (
-    Path(__file__).resolve().parents[2] / "schemas" / "gtp" / "gtp_v0_1.schema.json"
+    Path(__file__).resolve().parents[2] / "assets" / "schemas" / "gtp" / "gtp_v0_1.schema.json"
 )
 _FIXTURE_PATH = (
     Path(__file__).resolve().parents[2] / "tests" / "fixtures" / "gtp" / "gtp_v0_1_fixture.json"

@@ -15,7 +15,7 @@ from runtime.irc_teacher.teacher_v063 import (
     validate_teacher_response_v063,
 )
 
-SCHEMAS = Path(__file__).resolve().parents[1] / "schemas"
+SCHEMAS = Path(__file__).resolve().parents[1] / "assets" / "schemas"
 
 
 class _FakeHybrid:

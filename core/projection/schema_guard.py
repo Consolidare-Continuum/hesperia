@@ -127,7 +127,7 @@ def _repo_root() -> Path:
 
 def load_public_output_top_level_allowlist() -> frozenset[str]:
     """Keys declared under ``schemas/public/public_output_schema.json`` ``properties``."""
-    path = _repo_root() / "schemas" / "public" / "public_output_schema.json"
+    path = _repo_root() / "assets" / "schemas" / "public" / "public_output_schema.json"
     data = json.loads(path.read_text(encoding="utf-8"))
     props = data.get("properties") or {}
     return frozenset(str(k) for k in props.keys())

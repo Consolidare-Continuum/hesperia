@@ -22,7 +22,7 @@ if [[ "$MODE" == "--shipping-context" ]]; then
     cd "$ROOT"
     tar -cf - \
       --exclude-from=.dockerignore.shipping \
-      runtime core hesperia lexicon assets requirements requirements.txt Dockerfile.shipping
+      runtime core hesperia assets requirements requirements.txt Dockerfile.shipping
   ) | tar -xf - -C "$STAGED_ROOT"
   ROOT="$STAGED_ROOT"
 fi
@@ -65,7 +65,7 @@ while IFS= read -r f; do
   [[ -z "$f" ]] && continue
   echo "FORBIDDEN: $f"
   FAIL=1
-done < <(find specs -name '*.md' -type f 2>/dev/null)
+done < <(find assets/specs -name '*.md' -type f 2>/dev/null)
 
 if [[ -f README.md ]]; then
   lines=$(wc -l <README.md 2>/dev/null || echo 0)

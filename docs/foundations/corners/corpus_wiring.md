@@ -1,7 +1,7 @@
 # Corner: Corpus — what exists, what's done to it, what never ships
 
 **Location:** `research/clinical_tfp/` (13 modules), `research/tfp4_corpus_gap_manifest.json`,
-`lexicon/frozen/v06/`, `lexicon/curated/`, `assets/calibration/`, `openai_calibrate_*.py`.
+`assets/lexicon/frozen/v06/`, `assets/lexicon/curated/`, `assets/calibration/`, `openai_calibrate_*.py`.
 Not a "corner" in the architectural sense of the others — this is an audit of how raw material
 enters the system, since the user-facing question ("how is this wired to corpus, what do we do to
 it") cuts across several corners rather than living in one module.
@@ -31,7 +31,7 @@ feature extractor is checked against before being frozen into canon.
    corpus, not learned end-to-end from it.
 3. **Freezing what gets used at runtime.** Whatever the corpus validates (a threshold, a dictionary
    entry, a calibration profile) is pinned by name into `VERSION.yaml`
-   (`active_calibration_dict_pack`) and `lexicon/frozen/v06/` — the corpus itself never ships, only
+   (`active_calibration_dict_pack`) and `assets/lexicon/frozen/v06/` — the corpus itself never ships, only
    the frozen, versioned conclusions drawn from it.
 
 ## What never ships

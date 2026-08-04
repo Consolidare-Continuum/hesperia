@@ -474,7 +474,7 @@ def run_pipeline(
     if topology_run_params:
         topo_params.update(topology_run_params)
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     texts = [t for _, t in sessions]
     sids = [sid for sid, t in sessions]
 

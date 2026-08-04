@@ -13,7 +13,7 @@ from sphere.router.audit import audit_router_output
 from sphere.router.pre_llm_compiler import compile_router_envelope
 from sphere.router.prompt_envelope import build_prompt_envelope
 
-_SCHEMA_DIR = Path(__file__).resolve().parents[2] / "schemas" / "router"
+_SCHEMA_DIR = Path(__file__).resolve().parents[2] / "assets" / "schemas" / "router"
 _GOLD_TEXT = (
     "TFP reflective narrative: patient mood regulation sleep anxiety therapy session."
 )

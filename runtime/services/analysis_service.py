@@ -65,7 +65,7 @@ def run_structural_analysis(
     _reject_legacy_profile_args(profile_path=profile_path, profile_id=profile_id, profile=profile)
 
     repo_root = Path(__file__).resolve().parents[2]
-    assets = assets_root or repo_root / "lexicon" / "curated"
+    assets = assets_root or repo_root / "assets" / "lexicon" / "curated"
     raw = build_structural_internal_from_multiscale(
         text,
         assets,
@@ -122,7 +122,7 @@ def run_structural_analysis_batch(
     from core.engine.multiscale_product_bridge import build_structural_internal_from_multiscale
     from core.engine.projection import project_to_public
 
-    assets = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    assets = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     results: list[dict[str, Any]] = []
     for i, text in enumerate(texts):
         raw = build_structural_internal_from_multiscale(

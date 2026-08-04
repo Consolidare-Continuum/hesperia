@@ -167,7 +167,7 @@ def load_dict_a_v033(path: Path | None = None, assets_root: Path | None = None) 
       - Legacy weight semantics (locked): weight = strength (higher = stronger). altitude = 1 - clamp(weight).
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
-    root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    root = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     # Default: last frozen A (v0.4.1.3 filename lineage — LEGACY asset label; bundle path v0_5_0).
     default = root / "A_CORE_STAR_MAP_v0_4_1_3.json"
     path = path or default
@@ -208,12 +208,12 @@ def load_dict_a_surface_map_v033(assets_root: Path | None = None) -> dict[str, s
     At runtime, normalized token is resolved via this map before Dict A lookup; no structural IDs exposed to users.
     Returns dict: surface_lower -> structural_key. Empty if file missing.
     """
-    root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    root = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     repo_root = Path(__file__).resolve().parents[2]
     candidates = [
         root / "DICT_A_SURFACE_MAP_v0_4_1_3.json",
-        repo_root / "lexicon" / "curated" / "DICT_A_SURFACE_MAP_v0_4_1_3.json",
-        repo_root / "lexicon" / "frozen" / "DICT_A_SURFACE_MAP_v0_4_1_3.json",
+        repo_root / "assets" / "lexicon" / "curated" / "DICT_A_SURFACE_MAP_v0_4_1_3.json",
+        repo_root / "assets" / "lexicon" / "frozen" / "DICT_A_SURFACE_MAP_v0_4_1_3.json",
     ]
     for path in candidates:
         if path.exists():
@@ -230,7 +230,7 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
     Legacy B: side_id (str) -> { canonical_lemma, aliases } -> build inverse: lemma/alias -> side_id -> familyGlobal.
     Returns dict: token_lower -> familyGlobal (0..287).
     """
-    root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    root = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     repo_root = Path(__file__).resolve().parents[2]
     b0_name = "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
     b1_name = "B1_SIDE_TO_FAMILY_v0_4_1_4.json"
@@ -241,8 +241,8 @@ def load_dict_b_v033(path: Path | None = None, assets_root: Path | None = None) 
         ax = Path(assets_root)
         b0_candidates.append(ax.parent / "frozen" / b0_name)
         b1_candidates.append(ax.parent / "frozen" / b1_name)
-    b0_candidates.append(repo_root / "lexicon" / "frozen" / b0_name)
-    b1_candidates.append(repo_root / "lexicon" / "frozen" / b1_name)
+    b0_candidates.append(repo_root / "assets" / "lexicon" / "frozen" / b0_name)
+    b1_candidates.append(repo_root / "assets" / "lexicon" / "frozen" / b1_name)
     token_to_side_path = root / "token_to_side_id_v040.json"
     legacy_path = path or (root / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json")
 

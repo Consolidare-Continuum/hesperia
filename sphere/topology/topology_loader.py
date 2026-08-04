@@ -20,9 +20,9 @@ from typing import Any, Optional
 
 import numpy as np
 
-# Default data directory: repo_root/data/topology
+# Default data directory: repo_root/assets/topology
 _REPO_ROOT = Path(__file__).resolve().parents[2]
-_DEFAULT_DATA_DIR = _REPO_ROOT / "data" / "topology"
+_DEFAULT_DATA_DIR = _REPO_ROOT / "assets" / "topology"
 
 ADJACENCY_FILENAME = "area_adjacency_matrix.json"
 FAMILY_AREA_FILENAME = "family_to_area_map.json"

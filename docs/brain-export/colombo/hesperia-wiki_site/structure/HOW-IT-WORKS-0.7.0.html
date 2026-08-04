@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>HOW IT WORKS 0.7.0 — Hesperia Wiki</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+<link rel="stylesheet" href="../style.css"></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">HOW IT WORKS 0.7.0 — Hesperia Wiki</h1>
+</header>
+<h1 id="how-hesperia-works--070">How Hesperia works @ 0.7.0</h1>
+<p><strong>Status:</strong> LIVE how-it-works hub (hand-authored)<br />
+<strong>Wave:</strong> HWIKI-STRUCT-03<br />
+<strong>Seal:</strong> <code>v0.7.0</code><br />
+<strong>Companion:</strong> <a href="SYSTEM-STRUCTURE-0.7.0.html">System
+structure</a></p>
+<p><a href="../index.html">← wiki home</a> · <a
+href="../Coverage-Ledger.html">Coverage Ledger</a></p>
+<hr />
+<h2 id="rule">Rule</h2>
+<p><strong>Name the plane before reasoning.</strong> Sealed
+<code>/analyze</code>, product <code>/product/interpret</code>, legacy
+guard pipeline, and sphere-dev pipeline are <strong>different</strong>
+execution surfaces. Mixing their outputs invents false science.</p>
+<hr />
+<h2 id="plane-a--sealed-multiscale-production-measurement">Plane A —
+Sealed multiscale (production measurement)</h2>
+<p><strong>Entry:</strong> <code>POST /analyze</code> →
+<code>runtime/services/analysis_service.py</code> →
+<code>hesperia/engine/sealed_multiscale_stack.py</code><br />
+<strong>Module docstring (verified):</strong> concept hits → hex → local
+microphysics → family bridge → area → product signals → HSPR → public
+projection.</p>
+<pre class="mermaid"><code>flowchart LR
+  T[text] --&gt; C[concept activation]
+  C --&gt; H[hex microphysics A0 → A1]
+  H --&gt; F[family_activation_vector]
+  F --&gt; AR[area_activation_vector 12]
+  AR --&gt; P[product_signals]
+  P --&gt; HSPR[hspr_index]
+  HSPR --&gt; PUB[L1–L7 public projection]</code></pre>
+<p><strong>What this plane is:</strong> deterministic
+<strong>measurement</strong> on the semantic grid.<br />
+<strong>What it is not:</strong> graph apply; Nash settlement; Class B
+domain narrative as core physics; medicine/clinical product; an LLM with
+built-in knowledge.<br />
+<strong>Identity:</strong> <a
+href="../../../../governance/ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.html">ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.md</a></p>
+<p>Wiki symbols that live on this path include tension / entropy /
+fusion / threshold pages under Geometry, Core Math, Propagation,
+Activation — look up via MCP <code>query_hesperia_wiki</code> /
+<code>get_hesperia_wiki_page</code>.</p>
+<hr />
+<h2 id="product-interpret--composition-above-plane-a">Product interpret
+— composition above Plane A</h2>
+<p><strong>Entry:</strong> <code>POST /product/interpret</code> →
+<code>runtime/services/product_interpret_service.py</code> (builds
+router envelope from sealed analyze path) →
+<code>sphere/router/*</code>.</p>
+<pre class="mermaid"><code>flowchart TB
+  IN[InterpretBody text + mode] --&gt; SVC[product_interpret_service]
+  SVC --&gt; SEAL[sealed /analyze path / engine_trace]
+  SVC --&gt; ENV[RouterInputEnvelope]
+  ENV --&gt; RTR[sphere/router compile · audit · decision]
+  RTR --&gt; GT[ground_truth three blocks]
+  GT --&gt; OUT[agent-facing response]</code></pre>
+<h3 id="ground-truth-doctrine-mandatory">Ground-truth doctrine
+(mandatory)</h3>
+<p>From <code>sphere/router/ground_truth.py</code> (FPF-HSR-13): every
+agent-facing response on this seam must carry three
+<strong>engine-authored</strong> blocks — never optional omit:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Block</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>logical</strong></td>
+<td>engine_trace / logic_mapping / GTP imprint sides</td>
+</tr>
+<tr class="even">
+<td><strong>weight</strong></td>
+<td>governance, loopability, tension_energy, obstacle_score, risk</td>
+</tr>
+<tr class="odd">
+<td><strong>source_activation</strong></td>
+<td>corpus/policy snapshots, retrieval, GTP hex</td>
+</tr>
+</tbody>
+</table>
+<p>Seams that inherit this: HTTP <code>/product/interpret</code> and
+<code>sphere/router/tool_inquiry.py</code> (CLI / hesperia-router
+MCP).</p>
+<hr />
+<h2 id="observe-vs-apply-070-boundary">Observe vs apply (0.7.0
+boundary)</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Action</th>
+<th>Status @ seal</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Measure / analyze</td>
+<td><strong>On</strong> — sealed stack</td>
+</tr>
+<tr class="even">
+<td>Interpret / router compose</td>
+<td><strong>On</strong> — <code>/product/interpret</code></td>
+</tr>
+<tr class="odd">
+<td>Preview reweight / proposals</td>
+<td>Observe/propose patterns remain; see H070 research</td>
+</tr>
+<tr class="even">
+<td><strong>Mutate governed graph (apply)</strong></td>
+<td><strong>Allowlist-gated</strong> — seal did not open unrestricted
+apply</td>
+</tr>
+<tr class="odd">
+<td>COBALT prod · module REAL_DATA</td>
+<td><strong>Still gated</strong> (separate Grace gates)</td>
+</tr>
+</tbody>
+</table>
+<p>Do not cite 0.6.3 “applied=0 forever” as if apply were impossible
+forever — cite <strong>allowlist gate</strong> instead.</p>
+<hr />
+<h2 id="other-planes-awareness-only">Other planes (awareness only)</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Plane</th>
+<th>Entry</th>
+<th>Use in 0.7.0 wiki</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Legacy guard ΣΓΘ</td>
+<td><code>runtime/pipeline/analyze.py</code> →
+<code>guard_pipeline.py</code></td>
+<td>Historical / narrow; not primary shipping story</td>
+</tr>
+<tr class="even">
+<td>Sphere-dev</td>
+<td><code>sphere/pipeline/pipeline_runner.py</code> +
+<code>HESPERIA_SPHERE_PIPELINE_DEV=1</code></td>
+<td>Dev/tests; sealed docstring marks legacy sphere path as
+non-shipping</td>
+</tr>
+<tr class="odd">
+<td>L3 attribution shadow</td>
+<td><code>core/layers/layer_3.py</code></td>
+<td>Distinct from sphere L8 field correction</td>
+</tr>
+</tbody>
+</table>
+<p>Detail inventory: <a
+href="../../NASH_research/NASH_research_HESPERIA-HOW-IT-WORKS.html">NASH
+how-it-works</a> — re-verify before citing numbers older than seal.</p>
+<hr />
+<h2 id="operator--agent-lookup-path">Operator / agent lookup path</h2>
+<ol type="1">
+<li>Structure question → this file + <a
+href="SYSTEM-STRUCTURE-0.7.0.html">SYSTEM-STRUCTURE-0.7.0.md</a></li>
+<li>Symbol live/dead → parameter wiki MCP / <code>pages/</code></li>
+<li>Class A vs B placement → <a
+href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">CLASS-AB-SCIENCE-NARRATIVE-HUB.md</a></li>
+</ol>
+<p>SIGNED: Researcher (Colombo) | HWIKI-STRUCT-03 how-it-works |
+2026-07-26 | v0.7.0</p>
+</body>
+</html>

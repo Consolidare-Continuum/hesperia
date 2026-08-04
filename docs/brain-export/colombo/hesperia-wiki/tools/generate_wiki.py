@@ -376,8 +376,7 @@ add("KME Primitives and Derived Metrics", CAT_GRAPH, "BEYOND", "Hub / concept",
      "largest_component_size", "count_triangles / count_connected_triplets"],
     ["hesperia/engine/kme/pipeline.py", "clinical_bridge.py", "fingerprint/builder.py"],
     "No Java 1:1 names — BEYOND comparability fingerprint layer",
-    "**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. Theory depth / plain-lang names expand in later DOC/KME waves.")
-
+    "**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. **HWIKI-KME-03:** plain-lang / theory notes expanded on each derived page.")
 _KME_DERIVED = [
     ("KDI (KME derived)", "clamp01(LD * COH)", 72, "Knowledge Density Index"),
     ("CSI (KME derived)", "clamp01(NC * PR)", 73, "Coverage–Presence Index"),
@@ -416,13 +415,13 @@ _KME_DERIVED = [
     ("KVI (KME derived)", "clamp01(safe_div(LD * COH * PR, PV))", 106, "(LD·COH·PR)/PV"),
 ]
 for _name, _formula, _line, _hint in _KME_DERIVED:
-    add(_name, CAT_GRAPH, "LIVE_FULL", "Derived metric (stub)",
+    add(_name, CAT_GRAPH, "LIVE_FULL", "Derived metric",
         f"hesperia/engine/kme/derived/calculator.py:{_line}", "—",
         _formula,
         ["KME Primitives and Derived Metrics"],
         ["hesperia/engine/kme/pipeline.py", "fingerprint/builder.py"],
-        "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)",
-        f"**HWIKI-KME-01 stub:** {_hint}. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Expand theory later.")
+        "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: {_hint} built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.".format(_hint=_hint),
+        f"**HWIKI-KME-01/03:** {_hint}. Formula `{_formula}`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.")
 
 add("Clustering coefficient", CAT_GRAPH, "PARTIAL", "Formula",
     "core/layers/layer_2.py:_compute_clustering (LOCAL_CLUSTERING_COEFFICIENT)", "C(v) = 2t/(k(k-1))",
@@ -509,6 +508,180 @@ add("DOMINANT_FAMILY_STABILITY (L6)", CAT_STABILITY, "LIVE_FULL", "Layer variabl
     "DOMINANT_FAMILY_STABILITY — boolean: dominant family remains stable under the (stubbed) perturbation regime.",
     ["INPUT_PERTURBATION_RESPONSE (L6)"], [], "39_SPEC Layer-6",
     "**HWIKI-L6-01:** Boolean neighbor of Lyapunov/stability cluster; L7 consumes related regime flags.")
+
+# ===== L6 curvature / gradient / depth-growth (HWIKI-L6-02) =====
+add("DEPTH_GROWTH_RATIO (L6)", CAT_STABILITY, "LIVE_FULL", "Layer variable",
+    "core/layers/layer_6.py (L6_LIVE_FIELDS)", "mass_at_depth[1]/mass_at_depth[0]",
+    "DEPTH_GROWTH_RATIO = mass_at_depth[1] / (mass_at_depth[0] + eps) when len≥2 and mass[0]>0; else 0.",
+    [], ["FIBONACCI_DEVIATION_SCORE (L6)", "EXPONENTIAL_FIT_ERROR (L6)"], "39_SPEC Layer-6 Group IV",
+    "**HWIKI-L6-02:** Truly LIVE depth-growth signal from activation mass ladder — not a stub.")
+
+add("FIBONACCI_DEVIATION_SCORE (L6)", CAT_STABILITY, "LIVE_FULL", "Layer variable",
+    "core/layers/layer_6.py (L6_LIVE_FIELDS)", "|m2 − (m1+m0)|",
+    "FIBONACCI_DEVIATION_SCORE = |mass_at_depth[2] − (mass_at_depth[1] + mass_at_depth[0])| when len≥3; else 0.",
+    ["DEPTH_GROWTH_RATIO (L6)"], [], "39_SPEC Layer-6 Group IV",
+    "**HWIKI-L6-02:** LIVE fibonacci-like deviation on the depth mass ladder; companion of DEPTH_GROWTH_RATIO.")
+
+add("COVERAGE_GRADIENT (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py (L6_STUB_FIELDS)", "0.0 (stub)",
+    "COVERAGE_GRADIENT — reserved first-difference of coverage along depth/perturbation; stubbed 0 without series.",
+    [], ["DOMINANCE_CURVATURE (L6)"], "39_SPEC Layer-6 Group I",
+    "**HWIKI-L6-02:** PARTIAL stub — slot present in layer_6 output allowlist.")
+
+add("ENTROPY_GRADIENT (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py (L6_STUB_FIELDS)", "0.0 (stub)",
+    "ENTROPY_GRADIENT — reserved first-difference of entropy along depth; stubbed 0.",
+    [], ["ENTROPY_CURVATURE (L6)"], "39_SPEC Layer-6 Group I",
+    "**HWIKI-L6-02:** PARTIAL stub — pairs with ENTROPY_CURVATURE.")
+
+add("DOMINANCE_CURVATURE (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py + core/stability/stability_delta.py", "0.0 (stub)",
+    "DOMINANCE_CURVATURE — second-order dominance response slot; stub 0; anomaly path ANOMALY_CURVATURE_SPIKE watches related spikes.",
+    ["COVERAGE_GRADIENT (L6)"], ["core/stability/stability_delta.py"], "39_SPEC Layer-6 Group II",
+    "**HWIKI-L6-02:** PARTIAL stub — curvature-of-dominance reserved; consumed conceptually by stability_delta.")
+
+add("ENTROPY_CURVATURE (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py (L6_STUB_FIELDS)", "0.0 (stub)",
+    "ENTROPY_CURVATURE — second-order entropy response slot; stub 0.",
+    ["ENTROPY_GRADIENT (L6)"], [], "39_SPEC Layer-6 Group II",
+    "**HWIKI-L6-02:** PARTIAL stub — companion curvature of ENTROPY_GRADIENT.")
+
+add("SECOND_ORDER_RESPONSE (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py (L6_STUB_FIELDS)", "0.0 (stub)",
+    "SECOND_ORDER_RESPONSE — curvature-of-response slot between first-order perturbation and curvature groups; stub 0.",
+    ["INPUT_PERTURBATION_RESPONSE (L6)"], ["DOMINANCE_CURVATURE (L6)"], "39_SPEC Layer-6",
+    "**HWIKI-L6-02:** PARTIAL stub — bridges perturbation response to curvature block.")
+
+add("POTENTIAL_GRADIENT (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py (L6_STUB_FIELDS)", "0.0 (stub)",
+    "POTENTIAL_GRADIENT — potential-analogy gradient in Group IV; stub 0.",
+    [], ["ESCAPE_ENERGY_THRESHOLD reserved"], "39_SPEC Layer-6 Group IV",
+    "**HWIKI-L6-02:** PARTIAL stub — potential analogy alongside depth-growth LIVE fields.")
+
+add("EXPONENTIAL_FIT_ERROR (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py", "0.0 (reserved)",
+    "EXPONENTIAL_FIT_ERROR — reserved fit residual for exponential depth-growth model; currently forced 0.",
+    ["DEPTH_GROWTH_RATIO (L6)"], [], "39_SPEC Layer-6 Group IV",
+    "**HWIKI-L6-02:** PARTIAL reserved — LIVE depth ratio exists; fit error not yet computed.")
+
+add("POWER_LAW_FIT_ERROR (L6)", CAT_STABILITY, "PARTIAL", "Layer variable",
+    "core/layers/layer_6.py", "0.0 (reserved)",
+    "POWER_LAW_FIT_ERROR — reserved fit residual for power-law depth-growth model; currently forced 0.",
+    ["DEPTH_GROWTH_RATIO (L6)"], [], "39_SPEC Layer-6 Group IV",
+    "**HWIKI-L6-02:** PARTIAL reserved — companion of EXPONENTIAL_FIT_ERROR.")
+
+# ===== L7 / L8 consumers of GLOBAL_STABILITY_SCORE (HWIKI-L7-01 / L8-01) =====
+add("SYSTEM_CONFIDENCE_SCORE (L7)", CAT_TRUST, "LIVE_FULL", "Layer variable",
+    "core/layers/layer_7.py (~conf product; out SYSTEM_CONFIDENCE_SCORE)", "clamp01 product",
+    "SYSTEM_CONFIDENCE_SCORE folds L1–L6 consistency gates and includes l6[GLOBAL_STABILITY_SCORE] in the confidence product path.",
+    ["LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE", "CONSIST_STABILITY_REGIME_VALID (L7)"],
+    ["SI_SYSTEM_CONFIDENCE_U1000 (L8)", "SI_SYSTEM_CONFIDENCE_PCT (L8)", "L9 pillars"],
+    "40_SPEC Layer-7",
+    "**HWIKI-L7-01:** Primary L7 consumer of GLOBAL_STABILITY_SCORE — not a full L7 census; slice is stability→confidence only.")
+
+add("CONSIST_STABILITY_REGIME_VALID (L7)", CAT_TRUST, "LIVE_FULL", "Layer gate",
+    "core/layers/layer_7.py (g10)", "boolean gate",
+    "CONSIST_STABILITY_REGIME_VALID (g10) — consistency gate that the L6 Lyapunov/stability regime is within MAX_CHAOS_LEVEL / MAX_LYAPUNOV bounds.",
+    ["LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE"], ["SYSTEM_CONFIDENCE_SCORE (L7)", "DECISION_STATUS_CODE"],
+    "40_SPEC Layer-7",
+    "**HWIKI-L7-01:** Gate sibling of SYSTEM_CONFIDENCE — Lyapunov/stability regime validity.")
+
+add("SI_GLOBAL_STABILITY_U1000 (L8)", CAT_TRUST, "LIVE_FULL", "Scaled indicator",
+    "core/layers/layer_8.py:48", "0–1000",
+    "SI_GLOBAL_STABILITY_U1000 = _ratio_to_u1000(l6[GLOBAL_STABILITY_SCORE]) — scaled publish of L6 global stability.",
+    ["LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE"], ["SI_GLOBAL_STABILITY_PCT (L8)"],
+    "41_SPEC Layer-8",
+    "**HWIKI-L8-01:** Direct L8 scaled consumer of GLOBAL_STABILITY_SCORE.")
+
+add("SI_GLOBAL_STABILITY_PCT (L8)", CAT_TRUST, "LIVE_FULL", "Scaled indicator",
+    "core/layers/layer_8.py:49", "0–100%",
+    "SI_GLOBAL_STABILITY_PCT = _ratio_to_pct(l6[GLOBAL_STABILITY_SCORE]).",
+    ["LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE", "SI_GLOBAL_STABILITY_U1000 (L8)"],
+    ["SI_SYSTEM_CONFIDENCE_PCT (L8)"],
+    "41_SPEC Layer-8",
+    "**HWIKI-L8-01:** Percent twin of SI_GLOBAL_STABILITY_U1000.")
+
+add("SI_SYSTEM_CONFIDENCE_U1000 (L8)", CAT_TRUST, "LIVE_FULL", "Scaled indicator",
+    "core/layers/layer_8.py:50", "0–1000",
+    "SI_SYSTEM_CONFIDENCE_U1000 = _ratio_to_u1000(l7[SYSTEM_CONFIDENCE_SCORE]) — publishes L7 confidence (which already folded GLOBAL_STABILITY).",
+    ["SYSTEM_CONFIDENCE_SCORE (L7)"], [], "41_SPEC Layer-8",
+    "**HWIKI-L8-01:** Indirect consumer chain L6→L7→L8.")
+
+# ===== CAT-02 diagnostic thresholds =====
+add("ultra_sparse_coverage_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
+    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.02",
+    "Below this coverage, the read is flagged zero-signal / anomalous rather than substantive structure.",
+    [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
+    "**HWIKI-CAT-02:** From CAT-01 delta — diagnostic ultra-sparse gate.")
+
+add("excessive_jump_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
+    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.60",
+    "Above this, a single-step trajectory change is anomalous rather than normal dynamics.",
+    [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
+    "**HWIKI-CAT-02:** CAT-01 delta — change-point / jump anomaly.")
+
+add("transition_concentration_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
+    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.75",
+    "Above this, transition mass collapsing into one route is flagged artifact-like concentration.",
+    [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
+    "**HWIKI-CAT-02:** CAT-01 delta — transition concentration.")
+
+add("unique_areas_max", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
+    "sphere/diagnostics/monotony_detector.py:51,89", "2",
+    "Caps how many distinct areas a read can touch and still be labeled monotonous.",
+    [], ["sphere/diagnostics/monotony_detector.py"], "parameter_catalog.md §4",
+    "**HWIKI-CAT-02:** CAT-01 delta — monotony cardinality cap.")
+
+add("ENTROPY_DROP_SIGNIFICANT", CAT_TRUST, "LIVE_FULL", "Parameter (constants)",
+    "sphere/fpf_bridge/constants.py + sphere/interpretation/state_classifier.py", "0.15",
+    "Cutoff for when an entropy drop upgrades FGR / trust tier vs mild fluctuation.",
+    [], ["sphere/fpf_bridge/evidence_mapper.py", "state_classifier.py"], "parameter_catalog.md §5 / synergies",
+    "**HWIKI-CAT-02:** FGR freshness numeric — entropy-drop significance.")
+
+add("STABILITY_CURRENT_THRESHOLD / STABILITY_STALE_THRESHOLD", CAT_TRUST, "LIVE_FULL", "Parameter (constants)",
+    "sphere/fpf_bridge/constants.py + evidence_mapper.py", "0.7 / 0.3",
+    "Stability→freshness map: ≥CURRENT_THRESHOLD → CURRENT; ≥STALE else EXPIRED below STALE.",
+    ["LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE"], ["sphere/fpf_bridge/evidence_mapper.py"],
+    "parameter_catalog.md §5",
+    "**HWIKI-CAT-02:** FGR freshness numeric pair from CAT-01 delta.")
+
+# ===== TRIZ contradiction core (HWIKI-TRIZ-02) =====
+add("TRIZ contradiction core hub", CAT_GRAPH, "BEYOND", "Hub / concept",
+    "hesperia/extensions/triz/{pipeline,contradiction_engine,triz_classifier,contradiction_contract}.py", "—",
+    "Hub: run_triz_layer / detect_contradictions / classify_contradiction(s) over ContradictionSignal models; contract forbids synonym drift.",
+    ["Louvain communities (seed 42)"],
+    ["TRIZ pipeline.run_triz_layer", "contradiction_engine.detect_contradictions", "triz_classifier.classify_contradiction"],
+    "extensions/triz — Class B inventives surface",
+    "**HWIKI-TRIZ-02:** Core hub beyond Louvain inventory (TRIZ-01). Pins: pipeline.py, contradiction_engine.py, triz_classifier.py, contradiction_contract.py.")
+
+add("run_triz_layer / run_triz_analysis_complete", CAT_GRAPH, "LIVE_FULL", "Function",
+    "hesperia/extensions/triz/pipeline.py", "—",
+    "Orchestration entry: ActiveGraph bridge → contradiction + novelty signals → TRIZSignals bundle.",
+    ["TRIZ contradiction core hub"], ["product/API TRIZ surfaces", "tests/triz/"],
+    "extensions/triz/pipeline.py",
+    "**HWIKI-TRIZ-02 / TRIZ-03 pin:** orchestration hub — call sites under product/runtime/tests/triz.")
+
+add("detect_contradictions / build_contradiction_signals", CAT_GRAPH, "LIVE_FULL", "Function",
+    "hesperia/extensions/triz/contradiction_engine.py", "—",
+    "Core contradiction detection + ContradictionSignal construction / pattern classify.",
+    ["TRIZ contradiction core hub", "models.ContradictionSignal"],
+    ["triz_classifier.classify_contradiction", "family_contradiction.py"],
+    "extensions/triz/contradiction_engine.py",
+    "**HWIKI-TRIZ-02 / TRIZ-03 pin:** engine core — inventory role: core contradiction.")
+
+add("classify_contradiction(s) principle table", CAT_GRAPH, "LIVE_FULL", "Function",
+    "hesperia/extensions/triz/triz_classifier.py", "—",
+    "Maps contradiction patterns onto TRIZ inventives / principle table classifications.",
+    ["detect_contradictions / build_contradiction_signals"], ["report_builders.py", "direct_outputs.py"],
+    "extensions/triz/triz_classifier.py",
+    "**HWIKI-TRIZ-02 / TRIZ-03 pin:** classification science surface.")
+
+add("contradiction_contract (canonical fields)", CAT_GRAPH, "LIVE_FULL", "Contract",
+    "hesperia/extensions/triz/contradiction_contract.py", "v0.5.8 field sets",
+    "Canonical field sets / forbidden synonyms for contradiction payloads — governance edge of TRIZ core.",
+    ["TRIZ contradiction core hub"], ["contradiction_engine.py", "contradiction_calibration.py"],
+    "extensions/triz/contradiction_contract.py",
+    "**HWIKI-TRIZ-02:** Contract pointer — do not invent synonym fields outside contract.")
 
 add("Wiener feedback on alpha (k_s / k_j)", CAT_STABILITY, "LIVE_SUCCESSOR", "Formula / function",
     "sphere/propagation/weighting.py:78-127 (`apply_stability_modulation`, `apply_jump_rate_modulation`, `compute_effective_diffusion_rate`)",
@@ -771,6 +944,16 @@ def render_index():
     lines.append("- [FELIX-HESPERIA-DEAD-PARTIAL-REIMPLEMENTATION-VIABILITY-2026-07-19.md](../FELIX-HESPERIA-DEAD-PARTIAL-REIMPLEMENTATION-VIABILITY-2026-07-19.md)")
     lines.append("- [COLOMBO-HESPERIA-DEAD-SCIENCE-BOTTOM-UP-SURFACE-2026-07-19.md](../COLOMBO-HESPERIA-DEAD-SCIENCE-BOTTOM-UP-SURFACE-2026-07-19.md)\n")
     lines.append("**[Coverage Ledger — what's in this wiki and what isn't yet](Coverage-Ledger.md)** — read this before assuming completeness.\n")
+    lines.append("## System structure @ 0.7.0 (how it works)\n")
+    lines.append("Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):\n")
+    lines.append("- [Phase @ 0.7.0 — freeze · grind · awareness](structure/PHASE-070-FREEZE-GRIND-AWARE.md) — post-seal product phase")
+    lines.append("- [System structure @ 0.7.0](structure/SYSTEM-STRUCTURE-0.7.0.md) — core / interpret / Class A·B / apply gate")
+    lines.append("- [How it works @ 0.7.0](structure/HOW-IT-WORKS-0.7.0.md) — Plane A sealed analyze + `/product/interpret` + ground_truth schemes")
+    lines.append("- [HAND faces @ 0.7.0](structure/HAND-FACES-0.7.0.md) — inquire vs dig under fpf-thinking-map HAND")
+    lines.append("- [Apply allowlist @ 0.7.0](structure/APPLY-ALLOWLIST-0.7.0.md) — H070 `update_edge_weight` only")
+    lines.append("- [COBALT / REAL_DATA gates @ 0.7.0](structure/COBALT-REAL-DATA-GATES-0.7.0.md) — Class B flags stay off")
+    lines.append("- [Class A/B science narrative hub](CLASS-AB-SCIENCE-NARRATIVE-HUB.md) — theories binding core vs TFP/MRT/COBALT")
+    lines.append("- Phase frame: [HESPERIA-POST-070-PHASE-FRAME.md](../../../governance/HESPERIA-POST-070-PHASE-FRAME.md) · Inventory: [COLOMBO-HWIKI-STRUCT-01](../../../operational/assignments/COLOMBO-HWIKI-STRUCT-01-INVENTORY-070-2026-07-26.md)\n")
     lines.append("## Categories\n")
     for cat in CATEGORIES:
         n = len([it for it in ITEMS if it["category"] == cat])
@@ -795,15 +978,20 @@ def render_coverage_ledger():
                   f"({len(live)} live/beyond, {len(partial)} partial, {len(dead)} dead/rejected, {len(unverified)} unverified). "
                   "It is **not** a full census of every variable in the codebase — bounded to inspected research passes plus HWIKI expansion waves.\n")
     lines.append("**Expansion waves:** all-encompassing `HWIKI-*` — [GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.md). "
-                  "**Theory-depth 30** (`HWIKI-DOC-01..30`) — [GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md). Gaps below are backlog, not permanent silence.\n")
+                  "**Theory-depth 30** (`HWIKI-DOC-01..30`) — [GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md). "
+                  "**Structure / how-it-works (post 0.7.0)** (`HWIKI-STRUCT-*`) — [GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md). Gaps below are backlog, not permanent silence.\n")
     lines.append("## Explicitly NOT yet covered (real gaps in this wiki, not silently omitted)\n")
-    lines.append("- **L1–L11 pipeline layer variables** (`34_SPEC`…`42_SPEC`, ~25 named variables per layer × 9 layers) — **L6 first slice started** (%d pages: Lyapunov cluster + neighbors). Remaining L6 variables (gradients/curvature/depth-growth/…) and other layers still open." % len(l6))
-    lines.append("- **KME derived metrics** — **35 stubs + hub now wikified** (%d derived pages + [KME Primitives and Derived Metrics](pages/%s.md)). Theory/plain-lang expansion still open." % (len(kme_derived), slug("KME Primitives and Derived Metrics")))
-    lines.append("- **TRIZ extension internals** (`hesperia/extensions/triz/`, 30+ modules) beyond Louvain and the contradiction-pressure mapping already pulled in.")
-    lines.append("- **Full `parameter_catalog.md` sweep** — delta list of still-unwikified catalog symbols: [COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md](../../../operational/assignments/COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md).")
+    lines.append("- **L1–L11 pipeline layer variables** (`34_SPEC`…`42_SPEC`, ~25 named variables per layer × 9 layers) — **L6 Lyapunov + curvature/gradient/depth-growth block wikified** (%d L6-related pages). Remaining L6 Group-IV stubs (HIT_VECTOR_RANK, ESCAPE_ENERGY, …) and **L1–L5 / L9–L11** full census still open. L7/L8 stability consumers of GLOBAL_STABILITY_SCORE landed (HWIKI-L7-01 / L8-01)." % len(l6))
+    lines.append("- **KME derived metrics** — **35 derived + hub wikified** (%d derived pages + [KME Primitives and Derived Metrics](pages/%s.md)). **HWIKI-KME-03:** plain-lang Theory Explainer notes on each derived page." % (len(kme_derived), slug("KME Primitives and Derived Metrics")))
+    lines.append("- **TRIZ extension internals** (`hesperia/extensions/triz/`, 30+ modules) — **contradiction core hub landed** (HWIKI-TRIZ-02); remaining novelty/topology/commercial modules still open beyond Louvain.")
+    lines.append("- **Full `parameter_catalog.md` sweep** — CAT-02 landed top diagnostic + FGR freshness pair; field-dynamics env knobs and remaining CAT-01 leftovers still open: [COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md](../../../operational/assignments/COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md).")
+    lines.append("- **Post-0.7.0 structure depth:** hubs under [structure/](structure/README.md) — SYSTEM-STRUCTURE, HOW-IT-WORKS, HAND-FACES, APPLY-ALLOWLIST, COBALT-REAL-DATA-GATES. Felix STRUCT-05 code-anchor PASS; Cursor STRUCT-06 ingest DONE.")
     lines.append("\n## Theory-depth wave (HWIKI-DOC-02..29) — refreshed 2026-07-23 (DOC-30)\n")
     lines.append("- **Explainer blocks landed** on OPEN DOC targets this pass: PageRank structural analogy, PHI/icosahedron, DFT REJECTED, Gini, BM25, Jaccard, cosine, Louvain, clustering (PARTIAL+`layer_2` pin), circuit rank, contradiction→tension, penalty suite hub, propagation YAML ladder, fusion α/E_cap/η, FGR + share/freshness, Concept Dictionary status/extent terms, Geometry/Core Math/Propagation hub preambles.")
     lines.append("- **Remaining theory gaps (next batch candidates):** deeper TRIZ inventives beyond Louvain/contradiction map; L7/L8 consumers of GLOBAL_STABILITY_SCORE; KME derived plain-lang names beyond stubs; CAT-01 leftover symbols; turn-boundary Mixing (dead [[cumulativeDrift / turnCoherence]] revival decision).")
+    lines.append("\n## Structure / how-it-works wave (HWIKI-STRUCT) — opened 2026-07-26\n")
+    lines.append("- **Landed:** [System structure](structure/SYSTEM-STRUCTURE-0.7.0.md) · [How it works](structure/HOW-IT-WORKS-0.7.0.md) · [HAND faces](structure/HAND-FACES-0.7.0.md) · [Apply allowlist](structure/APPLY-ALLOWLIST-0.7.0.md) · [COBALT/REAL_DATA gates](structure/COBALT-REAL-DATA-GATES-0.7.0.md).")
+    lines.append("- **Verify:** [FELIX-HWIKI-STRUCT-05](../../../operational/assignments/FELIX-HWIKI-STRUCT-05-CODE-ANCHOR-VERIFY-2026-07-26.md) PASS · ingest includes `structure/*.md`.")
     lines.append("\n## Resolved questions (were open; evidence now on the page)\n")
     lines.append("- **[compute_tension](pages/%s.md)** (HWIKI-OPEN-01): `(i,i+6)` is **not** geometrically antipodal after `get_aligned_area_coordinates` — combinatorial [[OPPOSITE_OFFSET]], not sphere antipodes." % slug("compute_tension"))
     lines.append("- **[Wiener feedback on alpha (k_s / k_j)](pages/%s.md)** (HWIKI-OPEN-02): relocated LIVE_SUCCESSOR → `sphere/propagation/weighting.py` as `k_stability`/`k_jump` (diffusion α, not fusion α)." % slug("Wiener feedback on alpha (k_s / k_j)"))

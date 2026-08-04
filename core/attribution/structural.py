@@ -100,7 +100,7 @@ def load_dict_a(path: Path | None = None, assets_root: Path | None = None) -> di
     Legacy format: lemma -> list of { "side_id": int, "coefficient": float }.
     Returns dict: lemma -> { "familyGlobal": int, "altitude": float }.
     """
-    root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    root = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     if path is None:
         candidates = [
             root / "A_CORE_STAR_MAP_v0_4_1_3.json",
@@ -143,11 +143,11 @@ def load_dict_b(path: Path | None = None, assets_root: Path | None = None) -> di
     Load Dict B: token -> familyGlobal.
     Returns dict: token_lower -> familyGlobal (0..287).
     """
-    root = assets_root or Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    root = assets_root or Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
     repo_root = Path(__file__).resolve().parents[2]
-    b0_path = repo_root / "lexicon/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
-    legacy_b0_path = repo_root / "lexicon/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
-    b1_path = repo_root / "lexicon/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json"
+    b0_path = repo_root / "assets/lexicon/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
+    legacy_b0_path = repo_root / "assets/lexicon/frozen/B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json"
+    b1_path = repo_root / "assets/lexicon/frozen/B1_SIDE_TO_FAMILY_v0_4_1_4.json"
     token_to_side_path = root / "token_to_side_id_v040.json"
     legacy_path = path or (root / "B0_TOKEN_TO_FAMILY_v0_4_1_4_from_A_v0_4_1_3.json")
 

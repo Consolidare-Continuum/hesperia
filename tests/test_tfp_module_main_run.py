@@ -13,7 +13,7 @@ def test_tfp_module_is_executed_in_main_pipeline(monkeypatch) -> None:
         "В терапии проявляются перенос и контрперенос, "
         "нарастает агрессия и поляризация объектных отношений."
     )
-    dossier = run_pipeline(text, config_path=repo / "configs" / "pipeline.yaml")
+    dossier = run_pipeline(text, config_path=repo / "assets" / "config" / "pipeline.yaml")
 
     run_manifest = dict((dossier.get("meta") or {}).get("run_manifest") or {})
     loaded = list(run_manifest.get("modules_loaded") or [])

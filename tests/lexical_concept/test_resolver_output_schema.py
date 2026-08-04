@@ -7,7 +7,7 @@ from jsonschema import Draft202012Validator
 
 
 REPO = Path(__file__).resolve().parents[2]
-SCHEMA_PATH = REPO / "schemas" / "lexical_concept" / "resolver_output.schema.json"
+SCHEMA_PATH = REPO / "assets" / "schemas" / "lexical_concept" / "resolver_output.schema.json"
 
 
 def test_resolver_output_schema_accepts_unresolved_span() -> None:

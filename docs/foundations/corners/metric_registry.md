@@ -57,3 +57,36 @@ rows," per `release/v0.7.0/RELEASE_SCOPE.md`. It is gated behind `HESPERIA_METRI
 `HESPERIA_GCS_EMIT` env flags, shipping disabled by default — the same incremental, reversible
 rollout discipline the sealed-release era (`corners/release_governance.md`) uses for everything
 that touches canonical output.
+
+## Wiring status found 2026-08-03 (Felix, productization gap-surfacing pass)
+
+`tests/test_v7_engine_foundations.py` exercises this corner's four `runtime/services/` modules
+end-to-end and, before this pass, 4 of its 6 tests failed — not because the modules were broken
+(each is independently real, deterministic, and unit-tested in `tests/test_metric_22_26.py` /
+`tests/test_family_graph.py`), but because none of them were ever called from the production
+pipeline that owns the shape the test exercises:
+
+- **Fixed this pass.** `meta.hesperia_metric` (§10.1's base block, `HESPERIA_METRIC_EMIT=1`) is
+  explicitly listed as in-scope for v0.7.0 in `release/v0.7.0/RELEASE_SCOPE.md`, but
+  `attach_hesperia_metric_meta` had **zero callers anywhere in the repo** — `git log` shows
+  `hesperia_metric_emit.py` unchanged since the METRIC wave landed (`6596c6cf`); the attach call
+  was simply never added at any consumer. It could not be wired from
+  `sphere/router/engine_analyze_bridge.py` directly — `hesperia_metric_emit.py` lives in
+  `runtime/services/`, and `tests/architecture/test_layer_dependencies.py::test_sphere_does_not_import_runtime`
+  forbids that import direction (the same RAD rule this file's own docstring cites for why it was
+  graduated to sphere in the first place). Fixed by attaching at `runtime/services/engine_analyze_contract.py`
+  instead — the runtime-boundary re-export shim, which *can* import `runtime.services.*` — wrapping
+  `build_engine_analyze_from_raw`/`run_engine_analyze` there. `sphere/router/pre_llm_compiler.py`
+  and `audit.py`, which call the sphere-local function directly, correctly do **not** get the
+  metric block (it is a runtime/external-contract concern, not something the internal LLM bridge
+  needs).
+- **Left failing on purpose, now `xfail(strict=True)`** with a citation to the scope doc: GCS
+  `spacing_factor` into `hex_output_engine.build_sparse_hex_scene`'s distance matrix (METRIC-22),
+  `path_metric_cost` on `serialize_hex_outputs` (METRIC-24/25), and IPoW in
+  `multiscale_product_bridge`'s output (METRIC-23/HRES-04) — all three are the exact items
+  `release/v0.7.0/RELEASE_SCOPE.md` names under "Deferred to follow-on rows (not blocking v0.7.0
+  scope doc)." The modules these tests import (`path_metric.py`, `gcs_lookup.py`) are real and
+  correct in isolation; only the traversal-time call site is genuinely unbuilt, matching the scope
+  doc's own account. `strict=True` means the marker itself will fail loudly (not silently pass) the
+  day someone actually builds the follow-on row and forgets to remove it — a live pointer to pick
+  this work up, not a permanent excuse to ignore it.

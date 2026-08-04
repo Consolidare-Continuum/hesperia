@@ -12,7 +12,7 @@ from pathlib import Path
 
 _ROOT = Path(__file__).resolve().parents[4]  # repo root (examples/extensions/triz_demo/triz/this_file)
 sys.path.insert(0, str(_ROOT))
-_BENCH = _ROOT / "benchmarks" / "extensions" / "triz"
+_BENCH = _ROOT / "hesperia" / "extensions" / "triz" / "benchmarks"
 _OUT = Path(__file__).resolve().parent / "outputs"
 _ASSETS = Path(__file__).resolve().parent / "assets"
 

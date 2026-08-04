@@ -8,7 +8,7 @@ Canonical hex → family aggregation: F_j = Σ_h w_hj A_h.
 
 Engine Dynamics v0.5: default singleton columns; JSON overrides sparse only (no full 72k×288 matrix shipped).
 Swampy: hex_id string format (A3_F12_H05) must stay aligned with invariant_catalog layout.
-Spec: spec/hex_family_bridge.md · data/topology/hex_family_weights.json
+Spec: spec/hex_family_bridge.md · assets/topology/hex_family_weights.json
 """
 
 from __future__ import annotations
@@ -62,7 +62,7 @@ def load_hex_family_overrides(
     Returns map linear_hex_index -> {family_global: weight, ...} normalized to sum 1.
     """
     root = Path(__file__).resolve().parents[2]
-    p = Path(path) if path else root / "data" / "topology" / "hex_family_weights.json"
+    p = Path(path) if path else root / "assets" / "topology" / "hex_family_weights.json"
     if not p.is_file():
         return {}
     raw = json.loads(p.read_text(encoding="utf-8"))

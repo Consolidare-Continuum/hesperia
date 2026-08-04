@@ -49,7 +49,7 @@ Verified before making the change: nothing outside `invariant_catalog.py` hardco
 family name strings — `core/propagation/invariant_enforcer.py` and `tests/test_invariant.py` only
 do structural membership checks (`family_name in AREA_FAMILY_MAP[area_name]`), not name-specific
 ones. The production dictionary the names would otherwise need to stay compatible with
-(`lexicon/frozen/v06/dict_a_v06.jsonl`) turned out to be synthetic placeholder data with zero real
+(`assets/lexicon/frozen/v06/dict_a_v06.jsonl`) turned out to be synthetic placeholder data with zero real
 vocabulary anyway — see `docs/foundations/attribution_layer.md` — so there was no real calibration
 to preserve compatibility with.
 

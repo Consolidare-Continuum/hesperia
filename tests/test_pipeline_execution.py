@@ -37,7 +37,7 @@ from sphere.pipeline.pipeline_state import PipelineState
 def test_pipeline_execution_all_nine_layers() -> None:
     """Run pipeline on a short sample sentence; verify all 9 layers executed and state contains 9 layer outputs."""
     text = "justice lie fairness truth good order harm freedom"
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()
     defaults = load_defaults()
@@ -98,7 +98,7 @@ def test_pipeline_execution_all_nine_layers() -> None:
 def test_pipeline_l7_l9_reportable_keys() -> None:
     """After full run, L7 and L9 contain expected reportable keys."""
     text = "justice fairness order"
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     dict_a = load_dict_a(assets_root=assets) or {}
     dict_b = load_dict_b()
     defaults = load_defaults()

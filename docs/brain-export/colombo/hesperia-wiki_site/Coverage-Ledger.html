@@ -170,8 +170,8 @@
 </header>
 <h1 id="coverage-ledger">Coverage Ledger</h1>
 <p><a href="index.html">← wiki home</a></p>
-<p>This wiki covers <strong>137 items</strong> verified on
-<code>/data/hesperia/hesperia</code> (113 live/beyond, 7 partial, 17
+<p>This wiki covers <strong>163 items</strong> verified on
+<code>/data/hesperia/hesperia</code> (131 live/beyond, 15 partial, 17
 dead/rejected, 0 unverified). It is <strong>not</strong> a full census
 of every variable in the codebase — bounded to inspected research passes
 plus HWIKI expansion waves.</p>
@@ -180,6 +180,9 @@ plus HWIKI expansion waves.</p>
 href="../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.html">GRACE-TRIAGE-HESPERIA-WIKI-ALL-ENCOMPASSING-2026-07-19.md</a>.
 <strong>Theory-depth 30</strong> (<code>HWIKI-DOC-01..30</code>) — <a
 href="../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.html">GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md</a>.
+<strong>Structure / how-it-works (post 0.7.0)</strong>
+(<code>HWIKI-STRUCT-*</code>) — <a
+href="../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.html">GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md</a>.
 Gaps below are backlog, not permanent silence.</p>
 <h2
 id="explicitly-not-yet-covered-real-gaps-in-this-wiki-not-silently-omitted">Explicitly
@@ -187,19 +190,30 @@ NOT yet covered (real gaps in this wiki, not silently omitted)</h2>
 <ul>
 <li><strong>L1–L11 pipeline layer variables</strong>
 (<code>34_SPEC</code>…<code>42_SPEC</code>, ~25 named variables per
-layer × 9 layers) — <strong>L6 first slice started</strong> (7 pages:
-Lyapunov cluster + neighbors). Remaining L6 variables
-(gradients/curvature/depth-growth/…) and other layers still open.</li>
-<li><strong>KME derived metrics</strong> — <strong>35 stubs + hub now
+layer × 9 layers) — <strong>L6 Lyapunov +
+curvature/gradient/depth-growth block wikified</strong> (17 L6-related
+pages). Remaining L6 Group-IV stubs (HIT_VECTOR_RANK, ESCAPE_ENERGY, …)
+and <strong>L1–L5 / L9–L11</strong> full census still open. L7/L8
+stability consumers of GLOBAL_STABILITY_SCORE landed (HWIKI-L7-01 /
+L8-01).</li>
+<li><strong>KME derived metrics</strong> — <strong>35 derived + hub
 wikified</strong> (35 derived pages + <a
 href="pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives and
-Derived Metrics</a>). Theory/plain-lang expansion still open.</li>
+Derived Metrics</a>). <strong>HWIKI-KME-03:</strong> plain-lang Theory
+Explainer notes on each derived page.</li>
 <li><strong>TRIZ extension internals</strong>
-(<code>hesperia/extensions/triz/</code>, 30+ modules) beyond Louvain and
-the contradiction-pressure mapping already pulled in.</li>
+(<code>hesperia/extensions/triz/</code>, 30+ modules) —
+<strong>contradiction core hub landed</strong> (HWIKI-TRIZ-02);
+remaining novelty/topology/commercial modules still open beyond
+Louvain.</li>
 <li><strong>Full <code>parameter_catalog.md</code> sweep</strong> —
-delta list of still-unwikified catalog symbols: <a
+CAT-02 landed top diagnostic + FGR freshness pair; field-dynamics env
+knobs and remaining CAT-01 leftovers still open: <a
 href="../../../operational/assignments/COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.html">COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md</a>.</li>
+<li><strong>Post-0.7.0 structure depth:</strong> hubs under <a
+href="structure/README.html">structure/</a> — SYSTEM-STRUCTURE,
+HOW-IT-WORKS, HAND-FACES, APPLY-ALLOWLIST, COBALT-REAL-DATA-GATES. Felix
+STRUCT-05 code-anchor PASS; Cursor STRUCT-06 ingest DONE.</li>
 </ul>
 <h2
 id="theory-depth-wave-hwiki-doc-0229--refreshed-2026-07-23-doc-30">Theory-depth
@@ -217,6 +231,21 @@ deeper TRIZ inventives beyond Louvain/contradiction map; L7/L8 consumers
 of GLOBAL_STABILITY_SCORE; KME derived plain-lang names beyond stubs;
 CAT-01 leftover symbols; turn-boundary Mixing (dead [[cumulativeDrift /
 turnCoherence]] revival decision).</li>
+</ul>
+<h2
+id="structure--how-it-works-wave-hwiki-struct--opened-2026-07-26">Structure
+/ how-it-works wave (HWIKI-STRUCT) — opened 2026-07-26</h2>
+<ul>
+<li><strong>Landed:</strong> <a
+href="structure/SYSTEM-STRUCTURE-0.7.0.html">System structure</a> · <a
+href="structure/HOW-IT-WORKS-0.7.0.html">How it works</a> · <a
+href="structure/HAND-FACES-0.7.0.html">HAND faces</a> · <a
+href="structure/APPLY-ALLOWLIST-0.7.0.html">Apply allowlist</a> · <a
+href="structure/COBALT-REAL-DATA-GATES-0.7.0.html">COBALT/REAL_DATA
+gates</a>.</li>
+<li><strong>Verify:</strong> <a
+href="../../../operational/assignments/FELIX-HWIKI-STRUCT-05-CODE-ANCHOR-VERIFY-2026-07-26.html">FELIX-HWIKI-STRUCT-05</a>
+PASS · ingest includes <code>structure/*.md</code>.</li>
 </ul>
 <h2 id="resolved-questions-were-open-evidence-now-on-the-page">Resolved
 questions (were open; evidence now on the page)</h2>

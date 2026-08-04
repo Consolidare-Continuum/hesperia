@@ -29,7 +29,7 @@ def main() -> None:
 
     summary_payload = run_structural_analysis(
         args.text,
-        assets_root=args.assets_root or (ROOT / "lexicon" / "curated"),
+        assets_root=args.assets_root or (ROOT / "assets" / "lexicon" / "curated"),
         policy_mode=args.policy_mode,
         stages="full",
     )

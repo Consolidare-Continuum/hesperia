@@ -10,8 +10,12 @@
 | [curvature_threshold / severe](../pages/curvature-threshold-severe.md) | LIVE_FULL | Parameter (constants) |
 | [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md) | LIVE_SUCCESSOR | Parameter (constant) |
 | [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md) | LIVE_FULL | Parameter (constant) |
+| [excessive_jump_threshold](../pages/excessive-jump-threshold.md) | LIVE_FULL | Parameter (constants) |
 | [FGR DOMINANT_SHARE_HIGH](../pages/FGR-DOMINANT-SHARE-HIGH.md) | LIVE_FULL | Parameter (constant) |
 | [FGR freshness stability map](../pages/FGR-freshness-stability-map.md) | LIVE_FULL | Parameter (constants) |
 | [jump_rate_threshold / severe](../pages/jump-rate-threshold-severe.md) | LIVE_FULL | Parameter (constants) |
 | [low_stability_threshold](../pages/low-stability-threshold.md) | LIVE_FULL | Parameter (constant) |
+| [transition_concentration_threshold](../pages/transition-concentration-threshold.md) | LIVE_FULL | Parameter (constants) |
+| [ultra_sparse_coverage_threshold](../pages/ultra-sparse-coverage-threshold.md) | LIVE_FULL | Parameter (constants) |
+| [unique_areas_max](../pages/unique-areas-max.md) | LIVE_FULL | Parameter (constants) |
 

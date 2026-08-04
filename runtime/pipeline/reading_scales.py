@@ -21,7 +21,7 @@ from .run_l1_through_l9 import run_pipeline_for_text
 
 def _assets_root() -> Path:
     _here = Path(__file__).resolve().parent
-    return _here.parents[1] / "lexicon" / "curated"
+    return _here.parents[1] / "assets" / "lexicon" / "curated"
 
 
 # ---- Deterministic segmentation (no NLP) ----

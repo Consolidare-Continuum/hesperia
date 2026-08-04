@@ -42,7 +42,7 @@ def main() -> int:
     svc = (_REPO / "runtime" / "services" / "analysis_service.py").read_text(encoding="utf-8")
     proj_ok = "project_to_public" in svc and "core.engine.projection" in svc
 
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     fixture = _REPO / "tests" / "fixtures" / "release_v0_5_0" / "canonical_input.txt"
     text = fixture.read_text(encoding="utf-8").strip() if fixture.is_file() else "x"
     out = run_structural_analysis(text, assets_root=assets, stages="full")

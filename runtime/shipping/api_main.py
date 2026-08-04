@@ -100,10 +100,10 @@ def _rate_limit(key: str = "default") -> bool:
 def _assets_root() -> Path:
     root = os.environ.get("HESPERIA_ASSETS_ROOT")
     if root and Path(root).is_dir():
-        d = Path(root) / "lexicon" / "curated"
+        d = Path(root) / "assets" / "lexicon" / "curated"
         if d.is_dir():
             return d
-    return Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    return Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
 
 
 def _same_dominant(metrics1: dict, metrics2: dict) -> bool:

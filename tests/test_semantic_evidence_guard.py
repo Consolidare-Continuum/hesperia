@@ -33,12 +33,12 @@ def test_po02_public_dlcr_span_strips_audit() -> None:
     assert out.get("winning_concept_id") == "C1"
 
 
-@pytest.mark.skipif(not (REPO / "lexicon" / "curated").is_dir(), reason="lexicon curated missing")
+@pytest.mark.skipif(not (REPO / "assets" / "lexicon" / "curated").is_dir(), reason="lexicon curated missing")
 def test_markers_to_concept_activation_observe_includes_semantic_evidence(monkeypatch: pytest.MonkeyPatch) -> None:
     monkeypatch.setenv("HESPERIA_CONCEPT_EVIDENCE_GUARD", "observe")
     from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
 
-    act = markers_to_concept_activation("justice fairness order", REPO / "lexicon" / "curated")
+    act = markers_to_concept_activation("justice fairness order", REPO / "assets" / "lexicon" / "curated")
     assert "semantic_evidence" in act
     se = act["semantic_evidence"]
     assert se.get("guard_mode") == "observe"
@@ -46,7 +46,7 @@ def test_markers_to_concept_activation_observe_includes_semantic_evidence(monkey
     monkeypatch.delenv("HESPERIA_CONCEPT_EVIDENCE_GUARD", raising=False)
 
 
-_V06_DICT_A = REPO / "lexicon" / "curated" / "v0_5_0" / "dict_a_v06.jsonl"
+_V06_DICT_A = REPO / "assets" / "lexicon" / "curated" / "v0_5_0" / "dict_a_v06.jsonl"
 
 
 @pytest.mark.skipif(not _V06_DICT_A.is_file(), reason="v0_5_0 dict_a_v06.jsonl not present (CI optional)")
@@ -54,7 +54,7 @@ def test_analyze_dlcr_evidence_extended_when_env(monkeypatch: pytest.MonkeyPatch
     monkeypatch.setenv("HESPERIA_ANALYZE_DLCR_EVIDENCE", "1")
     from runtime.pipeline.analyze import analyze
 
-    assets = REPO / "lexicon" / "curated"
+    assets = REPO / "assets" / "lexicon" / "curated"
     _m, ext = analyze("justice fairness order truth", assets_root=assets)
     assert "lexical_evidence_dlcr" in ext
     lev = ext["lexical_evidence_dlcr"]
@@ -66,7 +66,7 @@ def test_analyze_dlcr_evidence_extended_when_env(monkeypatch: pytest.MonkeyPatch
         assert isinstance(lev["evidence_spans"], list)
         assert lev.get("evidence_spans_schema_id")
         schema = json.loads(
-            (REPO / "schemas" / "lexical_concept" / "resolver_output.schema.json").read_text(encoding="utf-8")
+            (REPO / "assets" / "schemas" / "lexical_concept" / "resolver_output.schema.json").read_text(encoding="utf-8")
         )
         validator = Draft202012Validator(schema)
         for row in lev["evidence_spans"]:

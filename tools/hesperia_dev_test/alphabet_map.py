@@ -14,7 +14,7 @@ from typing import Any
 from tools.hesperia_dev_test.corpus import letters
 
 _REPO_ROOT = Path(__file__).resolve().parents[2]
-_ASSETS_ROOT = _REPO_ROOT / "lexicon" / "curated"
+_ASSETS_ROOT = _REPO_ROOT / "assets" / "lexicon" / "curated"
 
 
 def letter_activation(letter: str) -> dict[str, Any]:

@@ -277,7 +277,7 @@ simply trust either alone.
   layers and guards can weight against. A reading with failed evidence gate is not aborted —
   it proceeds with a known evidence-quality caveat.
 - **`corners/corpus_wiring.md`:** The corpus chunks in R_B/R_S come from
-  `research/clinical_tfp/` (13 modules), versioned via `lexicon/frozen/v06/` and gated by
+  `research/clinical_tfp/` (13 modules), versioned via `assets/lexicon/frozen/v06/` and gated by
   `release/v0.6.0/RELEASE_SCOPE.md` ("Do not ship corpus payloads"). L4 measures the quality
   of what the corpus delivered; `corners/corpus_wiring.md` documents what the corpus is.
 - **`corners/lexicon_resolver.md`:** The `HIT_EVIDENCE_OVERLAP` variable is the quantified

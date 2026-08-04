@@ -2,15 +2,15 @@
 # All public outputs MUST trace to these fields + build_id (injected at runtime).
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
 
-system_version: "0.7.0"
+system_version: "0.7.1"
 release_stage: "modular_branches"
 
 components:
-  core_engine: "0.7.0"
+  core_engine: "0.7.1"
   dynamics: "0.6.3"
   triz: "0.6.3"
   clinical: "0.6.3-modular"
-  calibration: "0.7.0"
+  calibration: "0.7.1"
   router: "v7-router-0.1"
   # fpf_bridge was never tracked here despite corners/fpf_bridge.md status "IMPLEMENTED, v7,
   # 2026-06-27" — added now for the same reason it got committed to git now: not sealed yet,
@@ -62,7 +62,7 @@ apply:
     - add_edge
 
 archive:
-  github_release: "0.7.0"
+  github_release: "0.7.1"
   public_archive_placeholder_dict_pack: "archive_063_minimal"
   excludes_prod_dicts: true
   excludes_prod_corpus: true

@@ -174,7 +174,7 @@ def _check_concept_layer(repo: Path) -> tuple[bool, str]:
     try:
         from hesperia.extensions.dynamics.e2e_bridge import markers_to_concept_activation
 
-        assets = repo / "lexicon" / "curated"
+        assets = repo / "assets" / "lexicon" / "curated"
         if not assets.is_dir():
             return True, "concept API present (assets skipped)"
         act = markers_to_concept_activation("justice fairness", assets)
@@ -259,7 +259,7 @@ def _check_product_truth(repo: Path) -> tuple[bool, str]:
         from runtime.services.analysis_service import run_structural_analysis
         from runtime.shipping.schema_guard import validate_against_public_schema
 
-        assets = repo / "lexicon" / "curated"
+        assets = repo / "assets" / "lexicon" / "curated"
         out = run_structural_analysis("justice fairness order care", assets_root=assets, stages="full")
         validate_against_public_schema(out)
         req = ("system_version", "schema_version", "build_id", "calibration_profile")

@@ -154,7 +154,7 @@ def _write_preseal_snapshot() -> Path:
 
     fixture = _REPO / "tests" / "fixtures" / "release_v0_5_0" / "canonical_input.txt"
     text = fixture.read_text(encoding="utf-8").strip() if fixture.is_file() else "smoke"
-    assets = _REPO / "lexicon" / "curated"
+    assets = _REPO / "assets" / "lexicon" / "curated"
     result = run_structural_analysis(text, assets_root=assets, stages="full")
     snap = {
         "generated_utc": datetime.now(timezone.utc).isoformat(),

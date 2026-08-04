@@ -42,7 +42,7 @@ def test_fingerprint_contract_version() -> None:
 
 def test_envelope_schema_file_exists() -> None:
     root = Path(__file__).resolve().parents[2]
-    schema = root / "schemas" / "router" / "router_input_envelope_v0_1.schema.json"
+    schema = root / "assets" / "schemas" / "router" / "router_input_envelope_v0_1.schema.json"
     assert schema.is_file()
     data = json.loads(schema.read_text(encoding="utf-8"))
     assert data["properties"]["schema"]["const"] == "hesperia.router_input_envelope.v0_1"

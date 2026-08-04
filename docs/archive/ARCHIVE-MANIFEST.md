@@ -36,41 +36,41 @@ This manifest records archive moves made during the HSR-V7 ISO-grade rename and 
 
 ### 4
 
-- Old path: `lexicon/curated/A_CORE_STAR_MAP_v0_4_1_1.json`
-- New path: `lexicon/curated/_deprecated/A_CORE_STAR_MAP_v0_4_1_1.json`
-- Reason: Only referenced by the now-archived `lexical_loader.py`. A checksum-pinned copy remains at `lexicon/frozen/A_CORE_STAR_MAP_v0_4_1_1.json` and was intentionally left in place (immutable release ledger).
+- Old path: `assets/lexicon/curated/A_CORE_STAR_MAP_v0_4_1_1.json`
+- New path: `assets/lexicon/curated/_deprecated/A_CORE_STAR_MAP_v0_4_1_1.json`
+- Reason: Only referenced by the now-archived `lexical_loader.py`. A checksum-pinned copy remains at `assets/lexicon/frozen/A_CORE_STAR_MAP_v0_4_1_1.json` and was intentionally left in place (immutable release ledger).
 - Status: moved
 - Authority level: `HISTORICAL-REFERENCE`
-- Referenced by: `lexicon/curated/_deprecated/README.md`
+- Referenced by: `assets/lexicon/curated/_deprecated/README.md`
 - Date: 2026-07-30
 
 ### 5
 
-- Old path: `lexicon/curated/A_CORE_STAR_MAP_v0_4_1_2.json`
-- New path: `lexicon/curated/_deprecated/A_CORE_STAR_MAP_v0_4_1_2.json`
+- Old path: `assets/lexicon/curated/A_CORE_STAR_MAP_v0_4_1_2.json`
+- New path: `assets/lexicon/curated/_deprecated/A_CORE_STAR_MAP_v0_4_1_2.json`
 - Reason: Zero references anywhere in the repo. Superseded by `A_CORE_STAR_MAP_v0_4_1_3.json`, the live asset used by `structural.py`/`attribution_shared.py`.
 - Status: moved
 - Authority level: `HISTORICAL-REFERENCE`
-- Referenced by: `lexicon/curated/_deprecated/README.md`
+- Referenced by: `assets/lexicon/curated/_deprecated/README.md`
 - Date: 2026-07-30
 
 ### 6
 
-- Old path: `lexicon/curated/A_CORE_STAR_MAP_v1.json`
-- New path: `lexicon/curated/_deprecated/A_CORE_STAR_MAP_v1.json`
+- Old path: `assets/lexicon/curated/A_CORE_STAR_MAP_v1.json`
+- New path: `assets/lexicon/curated/_deprecated/A_CORE_STAR_MAP_v1.json`
 - Reason: Referenced only by the now-archived `lexical_loader.py` and the standalone, non-runtime `lexicon/validation/validate_lexical.py`.
 - Status: moved
 - Authority level: `HISTORICAL-REFERENCE`
-- Referenced by: `lexicon/curated/_deprecated/README.md`
+- Referenced by: `assets/lexicon/curated/_deprecated/README.md`
 - Date: 2026-07-30
 
 ### 7
 
-- Old path: `lexicon/curated/B_SURFACE_LEX_FIELD_v1.json`
-- New path: `lexicon/curated/_deprecated/B_SURFACE_LEX_FIELD_v1.json`
+- Old path: `assets/lexicon/curated/B_SURFACE_LEX_FIELD_v1.json`
+- New path: `assets/lexicon/curated/_deprecated/B_SURFACE_LEX_FIELD_v1.json`
 - Reason: Referenced only by the now-archived `lexical_loader.py` and the standalone, non-runtime `lexicon/validation/validate_lexical.py`.
 - Status: moved
 - Authority level: `HISTORICAL-REFERENCE`
-- Referenced by: `lexicon/curated/_deprecated/README.md`
+- Referenced by: `assets/lexicon/curated/_deprecated/README.md`
 - Date: 2026-07-30
 

@@ -26,7 +26,7 @@ itself validate pricing, willingness-to-pay, or other GTM claims preserved separ
 
 ## 2. Source-of-truth verification script
 
-`scripts/verify-hesperia-v7-source-truth.sh` (HSR-V7-A-11) checks, on a dev clone: that
+`tools/verify-hesperia-v7-source-truth.sh` (HSR-V7-A-11) checks, on a dev clone: that
 `sphere/router/thinking_map_bridge.py` exists, that the `fpf-thinking-map` package pin is
 documented, and that router tests pass. This is the mechanized version of the same claim §1 verifies
 manually — cited here as the repeatable check, not re-run in this pass since §1 already covers its

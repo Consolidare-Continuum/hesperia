@@ -290,7 +290,7 @@ def run_full_pipeline(
     """
     _here = Path(__file__).resolve().parent
     root = _here.parents[1]
-    assets = assets_root or root / "lexicon" / "curated"
+    assets = assets_root or root / "assets" / "lexicon" / "curated"
     # Prefer v06 dict when available so per-segment counts match main analyze (lemma-keyed tokens).
     v06_path = (Path(assets) / "v06" / "dict_a_v06.jsonl") if assets else None
     if v06_path and v06_path.exists():
@@ -413,7 +413,7 @@ def run_r1_pipeline(
     """
     _here = Path(__file__).resolve().parent
     root = _here.parents[1]
-    assets = assets_root or root / "lexicon" / "curated"
+    assets = assets_root or root / "assets" / "lexicon" / "curated"
     dict_a = dict_a or load_dict_a(assets_root=assets) or {}
     dict_b = dict_b or load_dict_b(assets_root=assets) or {}
     surface_map = load_dict_a_surface_map_v033(assets_root=assets) or None

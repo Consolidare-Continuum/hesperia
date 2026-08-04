@@ -30,7 +30,7 @@ def run_pipeline_for_text(
     """Thin wrapper: run canonical multiscale measurement and return projected summary. For e2e and callers."""
     _ = (defaults, profile_id, profile, profile_path)  # deprecated; rejected if passed to service
     from runtime.services.analysis_service import run_structural_analysis
-    assets = assets_root or _HESPERIA / "lexicon" / "curated"
+    assets = assets_root or _HESPERIA / "assets" / "lexicon" / "curated"
     out = run_structural_analysis(
         text,
         assets_root=assets,
@@ -64,7 +64,7 @@ def main() -> None:
     ap.add_argument("--validate-dossier", action="store_true")
     args = ap.parse_args()
 
-    assets = _HESPERIA / "lexicon" / "curated"
+    assets = _HESPERIA / "assets" / "lexicon" / "curated"
     out = run_structural_analysis(
         args.text,
         assets_root=assets,

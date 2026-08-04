@@ -18,7 +18,7 @@ from typing import Any
 
 # Default assets root: hesperia root / assets
 def _assets_root() -> Path:
-    return Path(__file__).resolve().parents[2] / "lexicon" / "curated"
+    return Path(__file__).resolve().parents[2] / "assets" / "lexicon" / "curated"
 
 
 def _canonical_side_count() -> int:

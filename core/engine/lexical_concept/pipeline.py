@@ -819,6 +819,7 @@ def _analyze_internal(
     )
     guard_determinism(result)
     # Keep legacy DLCR fields for calibration/eval tooling.
+    result["run"] = "dlcr_pipeline_v1"
     result["concept_weights"] = {k: quantize(v) for k, v in sorted(cw.items())}
     result["family_activation"] = {k: quantize(v) for k, v in sorted(fam_d.items())}
     result["area_activation"] = {k: quantize(v) for k, v in sorted(area_d.items())}
