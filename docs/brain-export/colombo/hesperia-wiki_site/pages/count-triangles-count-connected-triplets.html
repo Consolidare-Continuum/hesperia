@@ -180,6 +180,23 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/domain/primitive_metrics.py:122-145</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>count three-node cliques (and connected triplets) in the visited
+graph — feeds local clustering-style metrics.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>ActiveGraph (KME concept
+graph)</em></li>
+<li><strong>Does:</strong> Deterministic triangle count; sum of
+C(deg(v),2) per node.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a>, <a
+href="../pages/Clustering-coefficient.html">Clustering
+coefficient</a></li>
+<li><strong>Exists for:</strong> triangle/triplet census for
+clustering</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Deterministic triangle count; sum of C(deg(v),2) per node.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
@@ -190,13 +207,32 @@ Structural Metrics</a><br />
 <ul>
 <li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
 Primitives and Derived Metrics</a></li>
+<li><a href="../pages/Clustering-coefficient.html">Clustering
+coefficient</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
+Primitives and Derived Metrics</a></li>
+<li><a href="../pages/Clustering-coefficient.html">Clustering
+coefficient</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>No Java ancestor</p>
+<p>No Java ancestor — Theory Explainer: plain_lang: count three-node
+cliques (and connected triplets) in the visited graph — feeds local
+clustering-style metrics. author: Hesperia wiki
+(core/domain/primitive_metrics.py:122-145). extent: full. reasoning:
+triangle/triplet census for clustering. application: <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Feeds clustering-coefficient-style derived metrics.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Feeds clustering-coefficient-style derived
+metrics.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

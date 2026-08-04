@@ -178,6 +178,22 @@ Control Theory</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_6.py:52,91</code><br />
 <strong>Value / default:</strong> 1.0 (no-perturbation stub)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how ill-conditioned the hit/response surface looks — enters global
+stability; stubs to 1.0 when no perturbation data exists.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> CONDITION_NUMBER — ill-conditioning proxy of
+the hit/response surface; enters GLOBAL_STABILITY_SCORE
+denominator.</li>
+<li><strong>Outputs:</strong> <code>1.0 (no-perturbation stub)</code> →
+<a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><strong>Exists for:</strong> L6 ill-conditioning proxy</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>CONDITION_NUMBER — ill-conditioning proxy of the hit/response
 surface; enters GLOBAL_STABILITY_SCORE denominator.</p>
@@ -187,13 +203,29 @@ surface; enters GLOBAL_STABILITY_SCORE denominator.</p>
 href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
 / GLOBAL_STABILITY_SCORE</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>39_SPEC Layer-6</p>
+<p>39_SPEC Layer-6 — Theory Explainer: plain_lang: how ill-conditioned
+the hit/response surface looks — enters global stability; stubs to 1.0
+when no perturbation data exists. author: Hesperia wiki
+(core/layers/layer_6.py:52,91). extent: full. reasoning: L6
+ill-conditioning proxy. application: <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L6-01:</strong> When no perturbation data, stubbed to
-1.0. Downstream: GLOBAL_STABILITY_SCORE.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L6-01:</strong> When no
+perturbation data, stubbed to 1.0. Downstream:
+GLOBAL_STABILITY_SCORE.</p>
 <hr />
 <p><a href="../categories/Stability-and-Control-Theory.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

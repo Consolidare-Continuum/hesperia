@@ -180,13 +180,42 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_2.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how many independent loops sit in the visited subgraph — cycle-space
+dimension E−(V−1), reported as LOOP_COUNT/LOOP_DENSITY.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/BFS-depth-capped-traversal.html">BFS depth-capped
+traversal</a></li>
+<li><strong>Does:</strong> LOOP_COUNT = max(0, induced_edges -
+used_edges); LOOP_DENSITY = LOOP_COUNT / (<a
+href="../pages/TOTAL-REACHABLE-NODES.html">TOTAL_REACHABLE_NODES</a> +
+eps).</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>no named wiki
+consumer yet</em></li>
+<li><strong>Exists for:</strong> SCIENCE.md L2 lineage</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>LOOP_COUNT = max(0, induced_edges - used_edges); LOOP_DENSITY =
-LOOP_COUNT / (TOTAL_REACHABLE_NODES + eps).</p>
+LOOP_COUNT / (<a
+href="../pages/TOTAL-REACHABLE-NODES.html">TOTAL_REACHABLE_NODES</a> +
+eps).</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/BFS-depth-capped-traversal.html">BFS depth-capped
 traversal</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/BFS-depth-capped-traversal.html">BFS depth-capped
+traversal</a></li>
+<li><a href="../pages/K-R-L-R-fragIndex-Java.html">K(R) / L(R) /
+fragIndex (Java)</a></li>
+<li><a href="../pages/Clustering-coefficient.html">Clustering
+coefficient</a></li>
+<li><a href="../pages/L2-Topology-Traversal.html">L2 — Topology
+Traversal</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Kirchhoff (1847) — Theory Explainer: plain_lang: how many independent
@@ -204,6 +233,7 @@ href="../pages/K-R-L-R-fragIndex-Java.html">K(R) / L(R) / fragIndex
 the BFS-induced subgraph.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

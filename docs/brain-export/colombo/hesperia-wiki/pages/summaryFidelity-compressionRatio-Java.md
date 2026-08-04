@@ -6,17 +6,46 @@
 **Responsible (module):** `n/a`  
 **Value / default:** —
 
+## In plain words
+
+Product-compression quality composites from 23_PROTOTYPE.
+
+## Definition
+
+- **Receives:** [KL divergence](../pages/KL-divergence.md)
+- **Does:** Product-compression quality composites from 23_PROTOTYPE.
+- **Outputs:** `—` → *no named wiki consumer yet*
+- **Exists for:** Covered functionally via loopability/stability in the product-compression path; no gap
+
 ## Yields (formula)
 
 Product-compression quality composites from 23_PROTOTYPE.
 
+## Produced from (inputs)
+
+- [KL divergence](../pages/KL-divergence.md)
+
+## See also
+
+- [KL divergence](../pages/KL-divergence.md)
+- [S=T·C·X_A / S′ composite (Java)](../pages/S-T-C-X-A-S-composite-Java.md)
+- [meanTau/varTau/stdTau/fillingRate/adjacencyCorrelation (Java)](../pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.md)
+- [expectedTimeToObstacle (Java)](../pages/expectedTimeToObstacle-Java.md)
+- [utility / strategicScore / actionScore (Java)](../pages/utility-strategicScore-actionScore-Java.md)
+- [causalCoherence / decisionIntegrity / temporalStability (Java)](../pages/causalCoherence-decisionIntegrity-temporalStability-Java.md)
+- [IPS / QCS (Java)](../pages/IPS-QCS-Java.md)
+- [domainFit / scaleConsistency / compatibilityScore (Java)](../pages/domainFit-scaleConsistency-compatibilityScore-Java.md)
+- [runLoop / shouldBreak (Java)](../pages/runLoop-shouldBreak-Java.md)
+- [Sentence capacity 3-5/side (Java)](../pages/Sentence-capacity-3-5-side-Java.md)
+- [tau_s per-side truth (Java)](../pages/tau-s-per-side-truth-Java.md)
+
 ## Origin
 
-Java 23_PROTOTYPE
+Java 23_PROTOTYPE — Theory Explainer: plain_lang: Product-compression quality composites from 23_PROTOTYPE. author: Hesperia wiki (n/a). extent: dead. reasoning: Covered functionally via loopability/stability in the product-compression path; no gap. application: Dead and Rejected Science.
 
 ## Notes
 
-Covered functionally via loopability/stability in the product-compression path; no gap.
+**HWIKI-WIRE:** attached to category anchor [KL divergence](../pages/KL-divergence.md). **HWIKI-PLAIN-B:** plain_lang backfilled from formula/notes 2026-08-04. Covered functionally via loopability/stability in the product-compression path; no gap.
 
 ---
-[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md)
+[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

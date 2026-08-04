@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>L4 Evidence Retrieval — Hesperia Wiki</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+<link rel="stylesheet" href="../style.css"></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">L4 Evidence Retrieval — Hesperia Wiki</h1>
+</header>
+<h1 id="l4--evidence-retrieval">L4 — Evidence Retrieval</h1>
+<p><strong>Status:</strong> 🔵 BEYOND — shipped in LIVE, not proposed in
+the Java corpus<br />
+<strong>Category:</strong> <a
+href="../categories/Evidence-and-Trust.html">Evidence and
+Trust</a><br />
+<strong>Type:</strong> Hub / concept<br />
+<strong>Responsible (module):</strong>
+<code>core/layers/layer_4.py::compute_L4 (37_SPEC)</code><br />
+<strong>Value / default:</strong> 25</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>retrieves supporting text chunks (BM25) for both baseline and shadow
+runs, then scores how well retrieval actually backs up what L1/L2
+measured structurally.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/BM25-retrieval.html">BM25 retrieval</a>, <a
+href="../pages/L1-Structural-Activation-Census.html">L1 — Structural
+Activation Census</a>, <a href="../pages/L2-Topology-Traversal.html">L2
+— Topology Traversal</a></li>
+<li><strong>Does:</strong> Hub: retrieves supporting text chunks (BM25)
+for both baseline and shadow runs, then scores how well retrieval
+actually backs up what L1/L2 measured structurally.</li>
+<li><strong>Outputs:</strong> <code>25</code> → <a
+href="../pages/L5-Counter-Evidence-Trig-Invariants.html">L5 —
+Counter-Evidence &amp; Trig Invariants</a>, <a
+href="../pages/RETRIEVAL-MODE-ID.html">RETRIEVAL_MODE_ID</a>, <a
+href="../pages/TOP-K.html">TOP_K</a>, <a
+href="../pages/RETRIEVED-COUNT-BASELINE.html">RETRIEVED_COUNT_BASELINE</a>,
+<a
+href="../pages/RETRIEVED-COUNT-SHADOW.html">RETRIEVED_COUNT_SHADOW</a>,
+<a
+href="../pages/RETRIEVAL-SHORTFALL-BASELINE.html">RETRIEVAL_SHORTFALL_BASELINE</a>,
+<a
+href="../pages/RETRIEVAL-SHORTFALL-SHADOW.html">RETRIEVAL_SHORTFALL_SHADOW</a>,
+<a href="../pages/UNIQUE-BOOKS-BASELINE.html">UNIQUE_BOOKS_BASELINE</a>,
+<a href="../pages/UNIQUE-BOOKS-SHADOW.html">UNIQUE_BOOKS_SHADOW</a>, <a
+href="../pages/DUPLICATE-BOOK-RATIO-BASELINE.html">DUPLICATE_BOOK_RATIO_BASELINE</a>,
+<a
+href="../pages/DUPLICATE-BOOK-RATIO-SHADOW.html">DUPLICATE_BOOK_RATIO_SHADOW</a>,
+<a
+href="../pages/FAMILY-MATCH-COUNT-BASELINE.html">FAMILY_MATCH_COUNT_BASELINE</a>,
+<a
+href="../pages/FAMILY-MATCH-RATIO-BASELINE.html">FAMILY_MATCH_RATIO_BASELINE</a>,
+<a
+href="../pages/AREA-MATCH-RATIO-BASELINE.html">AREA_MATCH_RATIO_BASELINE</a>,
+<a
+href="../pages/TOP-K-FAMILY-COVERAGE-BASELINE.html">TOP_K_FAMILY_COVERAGE_BASELINE</a>,
+<a
+href="../pages/EVIDENCE-ENTROPY-BASELINE.html">EVIDENCE_ENTROPY_BASELINE</a>,
+<a
+href="../pages/EVIDENCE-GINI-BASELINE.html">EVIDENCE_GINI_BASELINE</a>,
+<a
+href="../pages/RANK-WEIGHTED-ALIGNMENT-BASELINE.html">RANK_WEIGHTED_ALIGNMENT_BASELINE</a>,
+<a
+href="../pages/HIT-EVIDENCE-OVERLAP-BASELINE.html">HIT_EVIDENCE_OVERLAP_BASELINE</a>,
+<a
+href="../pages/HIT-EVIDENCE-OVERLAP-SHADOW.html">HIT_EVIDENCE_OVERLAP_SHADOW</a>,
+<a href="../pages/EVIDENCE-JACCARD-BS.html">EVIDENCE_JACCARD_BS</a>, <a
+href="../pages/BOOKSET-JACCARD-BS.html">BOOKSET_JACCARD_BS</a>, <a
+href="../pages/EVIDENCE-SHIFT-SCORE.html">EVIDENCE_SHIFT_SCORE</a>, <a
+href="../pages/INTEGRITY-CHECK-PASS-RATIO.html">INTEGRITY_CHECK_PASS_RATIO</a>,
+<a
+href="../pages/EVIDENCE-SUPPORT-INDEX-BASELINE.html">EVIDENCE_SUPPORT_INDEX_BASELINE</a>,
+<a
+href="../pages/EVIDENCE-ACCEPTABILITY-GATE.html">EVIDENCE_ACCEPTABILITY_GATE</a>,
+<a href="../pages/L7-Consistency-and-Decision.html">L7 — Consistency and
+Decision</a>, <a href="../pages/L8-Unit-Standardization.html">L8 — Unit
+Standardization</a>, <a
+href="../pages/ENTROPY-DROP-SIGNIFICANT.html">ENTROPY_DROP_SIGNIFICANT</a></li>
+<li><strong>Exists for:</strong> <strong>HWIKI-CATALOG-L4:</strong>
+Source: <code>docs/foundations/output_catalog.md</code> §4, re-verified
+against <code>compute_L4</code> 2026-08-04</li>
+</ul>
+<h2 id="yields-formula">Yields (formula)</h2>
+<p>Hub: retrieves supporting text chunks (BM25) for both baseline and
+shadow runs, then scores how well retrieval actually backs up what L1/L2
+measured structurally.</p>
+<h2 id="produced-from-inputs">Produced from (inputs)</h2>
+<ul>
+<li><a href="../pages/BM25-retrieval.html">BM25 retrieval</a></li>
+<li><a href="../pages/L1-Structural-Activation-Census.html">L1 —
+Structural Activation Census</a></li>
+<li><a href="../pages/L2-Topology-Traversal.html">L2 — Topology
+Traversal</a></li>
+</ul>
+<h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/L5-Counter-Evidence-Trig-Invariants.html">L5 —
+Counter-Evidence &amp; Trig Invariants</a></li>
+<li><a href="../pages/RETRIEVAL-MODE-ID.html">RETRIEVAL_MODE_ID</a></li>
+<li><a href="../pages/TOP-K.html">TOP_K</a></li>
+<li><a
+href="../pages/RETRIEVED-COUNT-BASELINE.html">RETRIEVED_COUNT_BASELINE</a></li>
+<li><a
+href="../pages/RETRIEVED-COUNT-SHADOW.html">RETRIEVED_COUNT_SHADOW</a></li>
+<li><a
+href="../pages/RETRIEVAL-SHORTFALL-BASELINE.html">RETRIEVAL_SHORTFALL_BASELINE</a></li>
+<li><a
+href="../pages/RETRIEVAL-SHORTFALL-SHADOW.html">RETRIEVAL_SHORTFALL_SHADOW</a></li>
+<li><a
+href="../pages/UNIQUE-BOOKS-BASELINE.html">UNIQUE_BOOKS_BASELINE</a></li>
+<li><a
+href="../pages/UNIQUE-BOOKS-SHADOW.html">UNIQUE_BOOKS_SHADOW</a></li>
+<li><a
+href="../pages/DUPLICATE-BOOK-RATIO-BASELINE.html">DUPLICATE_BOOK_RATIO_BASELINE</a></li>
+<li><a
+href="../pages/DUPLICATE-BOOK-RATIO-SHADOW.html">DUPLICATE_BOOK_RATIO_SHADOW</a></li>
+<li><a
+href="../pages/FAMILY-MATCH-COUNT-BASELINE.html">FAMILY_MATCH_COUNT_BASELINE</a></li>
+<li><a
+href="../pages/FAMILY-MATCH-RATIO-BASELINE.html">FAMILY_MATCH_RATIO_BASELINE</a></li>
+<li><a
+href="../pages/AREA-MATCH-RATIO-BASELINE.html">AREA_MATCH_RATIO_BASELINE</a></li>
+<li><a
+href="../pages/TOP-K-FAMILY-COVERAGE-BASELINE.html">TOP_K_FAMILY_COVERAGE_BASELINE</a></li>
+<li><a
+href="../pages/EVIDENCE-ENTROPY-BASELINE.html">EVIDENCE_ENTROPY_BASELINE</a></li>
+<li><a
+href="../pages/EVIDENCE-GINI-BASELINE.html">EVIDENCE_GINI_BASELINE</a></li>
+<li><a
+href="../pages/RANK-WEIGHTED-ALIGNMENT-BASELINE.html">RANK_WEIGHTED_ALIGNMENT_BASELINE</a></li>
+<li><a
+href="../pages/HIT-EVIDENCE-OVERLAP-BASELINE.html">HIT_EVIDENCE_OVERLAP_BASELINE</a></li>
+<li><a
+href="../pages/HIT-EVIDENCE-OVERLAP-SHADOW.html">HIT_EVIDENCE_OVERLAP_SHADOW</a></li>
+<li><a
+href="../pages/EVIDENCE-JACCARD-BS.html">EVIDENCE_JACCARD_BS</a></li>
+<li><a
+href="../pages/BOOKSET-JACCARD-BS.html">BOOKSET_JACCARD_BS</a></li>
+<li><a
+href="../pages/EVIDENCE-SHIFT-SCORE.html">EVIDENCE_SHIFT_SCORE</a></li>
+<li><a
+href="../pages/INTEGRITY-CHECK-PASS-RATIO.html">INTEGRITY_CHECK_PASS_RATIO</a></li>
+<li><a
+href="../pages/EVIDENCE-SUPPORT-INDEX-BASELINE.html">EVIDENCE_SUPPORT_INDEX_BASELINE</a></li>
+<li><a
+href="../pages/EVIDENCE-ACCEPTABILITY-GATE.html">EVIDENCE_ACCEPTABILITY_GATE</a></li>
+<li><a href="../pages/L7-Consistency-and-Decision.html">L7 — Consistency
+and Decision</a></li>
+<li><a href="../pages/L8-Unit-Standardization.html">L8 — Unit
+Standardization</a></li>
+<li><a
+href="../pages/ENTROPY-DROP-SIGNIFICANT.html">ENTROPY_DROP_SIGNIFICANT</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/BM25-retrieval.html">BM25 retrieval</a></li>
+<li><a href="../pages/L1-Structural-Activation-Census.html">L1 —
+Structural Activation Census</a></li>
+<li><a href="../pages/L2-Topology-Traversal.html">L2 — Topology
+Traversal</a></li>
+<li><a href="../pages/L5-Counter-Evidence-Trig-Invariants.html">L5 —
+Counter-Evidence &amp; Trig Invariants</a></li>
+<li><a href="../pages/RETRIEVAL-MODE-ID.html">RETRIEVAL_MODE_ID</a></li>
+<li><a href="../pages/TOP-K.html">TOP_K</a></li>
+<li><a
+href="../pages/RETRIEVED-COUNT-BASELINE.html">RETRIEVED_COUNT_BASELINE</a></li>
+<li><a
+href="../pages/RETRIEVED-COUNT-SHADOW.html">RETRIEVED_COUNT_SHADOW</a></li>
+<li><a
+href="../pages/RETRIEVAL-SHORTFALL-BASELINE.html">RETRIEVAL_SHORTFALL_BASELINE</a></li>
+<li><a
+href="../pages/RETRIEVAL-SHORTFALL-SHADOW.html">RETRIEVAL_SHORTFALL_SHADOW</a></li>
+<li><a
+href="../pages/UNIQUE-BOOKS-BASELINE.html">UNIQUE_BOOKS_BASELINE</a></li>
+<li><a
+href="../pages/UNIQUE-BOOKS-SHADOW.html">UNIQUE_BOOKS_SHADOW</a></li>
+</ul>
+<h2 id="origin">Origin</h2>
+<p>Hesperia-native <code>37_SPEC</code> L4 instrumentation — no Java
+prototype ancestor — Theory Explainer: plain_lang: retrieves supporting
+text chunks (BM25) for both baseline and shadow runs, then scores how
+well retrieval actually backs up what L1/L2 measured structurally.
+author: Hesperia wiki (core/layers/layer_4.py::compute_L4 (37_SPEC)).
+extent: full. reasoning: <strong>HWIKI-CATALOG-L4:</strong> Source:
+<code>docs/foundations/output_catalog.md</code> §4, re-verified against
+<code>compute_L4</code> 2026-08-04. application: <a
+href="../pages/L5-Counter-Evidence-Trig-Invariants.html">L5 —
+Counter-Evidence &amp; Trig Invariants</a>.</p>
+<h2 id="notes">Notes</h2>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-CATALOG-L4:</strong> Source:
+<code>docs/foundations/output_catalog.md</code> §4, re-verified against
+<code>compute_L4</code> 2026-08-04.</p>
+<hr />
+<p><a href="../categories/Evidence-and-Trust.html">← back to
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
+</body>
+</html>

@@ -178,19 +178,58 @@ Dictionary</a><br />
 <strong>Responsible (module):</strong>
 <code>hesperia/engine/concept_dictionary/executor.py:13</code><br />
 <strong>Value / default:</strong> saturation_k (per-concept)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>closed-form curve that caps concept-dictionary weights so no single
+weight runs away — documented saturation, not the dead Java composite
+score.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/LIVE-SUCCESSOR-status-term.html">LIVE_SUCCESSOR (status
+term)</a></li>
+<li><strong>Does:</strong> Closed-form weight-capping curve, documented
+in <code>docs/governance/cd_v1/SATURATION_CLOSED_FORM.md</code>.</li>
+<li><strong>Outputs:</strong> <code>saturation_k (per-concept)</code> →
+<em>no named wiki consumer yet</em></li>
+<li><strong>Exists for:</strong> LIVE weight-capping; distinct from Java
+23_PROTOTYPE saturation</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Closed-form weight-capping curve, documented in
 <code>docs/governance/cd_v1/SATURATION_CLOSED_FORM.md</code>.</p>
+<h2 id="produced-from-inputs">Produced from (inputs)</h2>
+<ul>
+<li><a href="../pages/LIVE-SUCCESSOR-status-term.html">LIVE_SUCCESSOR
+(status term)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/LIVE-SUCCESSOR-status-term.html">LIVE_SUCCESSOR
+(status term)</a></li>
+<li><a href="../pages/saturation-Java-23-PROTOTYPE.html">saturation
+(Java, 23_PROTOTYPE)</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>No Java ancestor (narrower, differently-scoped concept than Java's
-composite decision-layer <code>saturation</code>)</p>
+composite decision-layer <code>saturation</code>) — Theory Explainer:
+plain_lang: closed-form curve that caps concept-dictionary weights so no
+single weight runs away — documented saturation, not the dead Java
+composite score. author: Hesperia wiki
+(hesperia/engine/concept_dictionary/executor.py:13). extent: full.
+reasoning: LIVE weight-capping; distinct from Java 23_PROTOTYPE
+saturation. application: Concept Dictionary.</p>
 <h2 id="notes">Notes</h2>
-<p>Not a gap against <a
+<p><strong>HWIKI-WIRE:</strong> attached to category anchor <a
+href="../pages/LIVE-SUCCESSOR-status-term.html">LIVE_SUCCESSOR (status
+term)</a>. <strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Not a gap against <a
 href="../pages/saturation-Java-23-PROTOTYPE.html">saturation (Java,
 23_PROTOTYPE)</a> — different, correctly-scoped tool for a different
 job.</p>
 <hr />
 <p><a href="../categories/Concept-Dictionary.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

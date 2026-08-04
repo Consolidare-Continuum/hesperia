@@ -178,6 +178,22 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>push energy through a separate shadow transition matrix to estimate
+correction cost without rewriting the main field.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>E (energy vector)</em></li>
+<li><strong>Does:</strong> E_shadow = E · Ws — propagation through a
+separate shadow transition matrix Ws.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow (shadow-hop
+penalty)</a>, <em>check_shadow_non_creation</em>, <a
+href="../pages/Energy-conservation-epsilon.html">Energy conservation
+epsilon</a></li>
+<li><strong>Exists for:</strong> shadow propagation for fallback
+costing</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>E_shadow = E · Ws — propagation through a separate shadow transition
 matrix Ws.</p>
@@ -190,13 +206,32 @@ matrix Ws.</p>
 <li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
 (shadow-hop penalty)</a></li>
 <li><em>check_shadow_non_creation</em></li>
+<li><a href="../pages/Energy-conservation-epsilon.html">Energy
+conservation epsilon</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
+(shadow-hop penalty)</a></li>
+<li><a href="../pages/Energy-conservation-epsilon.html">Energy
+conservation epsilon</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>22_SPEC §6</p>
+<p>22_SPEC §6 — Theory Explainer: plain_lang: push energy through a
+separate shadow transition matrix to estimate correction cost without
+rewriting the main field. author: Hesperia wiki
+(core/math/core_math.py). extent: full. reasoning: shadow propagation
+for fallback costing. application: <a
+href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow (shadow-hop
+penalty)</a>, <em>check_shadow_non_creation</em>.</p>
 <h2 id="notes">Notes</h2>
-<p>Shadow field for fallback / correction cost.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Shadow field for fallback / correction
+cost.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

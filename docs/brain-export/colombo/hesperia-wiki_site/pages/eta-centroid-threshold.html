@@ -178,6 +178,23 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py — centroid_indices()</code><br />
 <strong>Value / default:</strong> 0.02</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>ignore near-zero energy cells when picking the 'active' centroid
+set.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/alpha-fusion-weight.html">alpha (fusion weight)</a>, <a
+href="../pages/E-cap.html">E_cap</a></li>
+<li><strong>Does:</strong> active = [i for i in range(len(E0)) if E0[i]
+&gt; eta] — sparse centroid selection floor.</li>
+<li><strong>Outputs:</strong> <code>0.02</code> → <a
+href="../pages/K-max.html">K_max</a>, <a
+href="../pages/KL-divergence.html">KL divergence</a></li>
+<li><strong>Exists for:</strong> sparse activation; <strong>structural
+reason <a href="../pages/KL-divergence.html">KL divergence</a> is
+REJECTED</strong> (zeros in q)</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>active = [i for i in range(len(E0)) if E0[i] &gt; eta] — sparse
 centroid selection floor.</p>
@@ -191,6 +208,19 @@ weight)</a></li>
 <ul>
 <li><a href="../pages/K-max.html">K_max</a></li>
 <li><a href="../pages/KL-divergence.html">KL divergence</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/alpha-fusion-weight.html">alpha (fusion
+weight)</a></li>
+<li><a href="../pages/E-cap.html">E_cap</a></li>
+<li><a href="../pages/K-max.html">K_max</a></li>
+<li><a href="../pages/KL-divergence.html">KL divergence</a></li>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a></li>
+<li><a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §4 — Theory Explainer: plain_lang: ignore near-zero energy
@@ -207,6 +237,7 @@ href="../pages/E-cap.html">E_cap</a> + clamp, η is why centroid
 selection kills KL — not taste.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -179,6 +179,21 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>assets/specs/canon/propagation_weights.yaml</code><br />
 <strong>Value / default:</strong> 0.18</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>second-ring leak — weaker than <a
+href="../pages/center-to-inner.html">center_to_inner</a> because farther
+from the activated core.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/center-to-inner.html">center_to_inner</a></li>
+<li><strong>Does:</strong> Second-ring leak, distance-sensitive
+diffusion.</li>
+<li><strong>Outputs:</strong> <code>0.18</code> → <a
+href="../pages/middle-to-outer-outer-to-middle.html">middle_to_outer /
+outer_to_middle</a></li>
+<li><strong>Exists for:</strong> distance decay ladder</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Second-ring leak, distance-sensitive diffusion.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
@@ -191,11 +206,20 @@ Diffusion and Markov</a><br />
 href="../pages/middle-to-outer-outer-to-middle.html">middle_to_outer /
 outer_to_middle</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/center-to-inner.html">center_to_inner</a></li>
+<li><a
+href="../pages/middle-to-outer-outer-to-middle.html">middle_to_outer /
+outer_to_middle</a></li>
+<li><a href="../pages/bridge-weight.html">bridge_weight</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>Graph diffusion on layered neighborhoods — Theory Explainer:
-plain_lang: second-ring leak — weaker than center_to_inner because
-farther from the activated core. author: Hesperia propagation YAML.
-extent: full. reasoning: distance decay ladder. application: <a
+plain_lang: second-ring leak — weaker than <a
+href="../pages/center-to-inner.html">center_to_inner</a> because farther
+from the activated core. author: Hesperia propagation YAML. extent:
+full. reasoning: distance decay ladder. application: <a
 href="../pages/center-to-inner.html">center_to_inner</a>, <a
 href="../pages/middle-to-outer-outer-to-middle.html">middle_to_outer /
 outer_to_middle</a>.</p>
@@ -203,6 +227,7 @@ outer_to_middle</a>.</p>
 <p><strong>HWIKI-DOC-24:</strong> Mid-ring bidirectional weight.</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

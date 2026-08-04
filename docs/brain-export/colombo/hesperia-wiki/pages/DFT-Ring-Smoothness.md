@@ -6,6 +6,17 @@
 **Responsible (module):** `n/a — zero matches for `np.fft`/`scipy.fft`/`ringSmoothness` in any `.py``  
 **Value / default:** —
 
+## In plain words
+
+a ring Fourier smoothness score needs areas arranged on a circle (each has two neighbors); Hesperia's areas sit on an icosahedron where each has five neighbors — wrong topology for that DFT.
+
+## Definition
+
+- **Receives:** [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md)
+- **Does:** Fourier/DFT-based smoothness measure over a proposed 12-area ring (`AREA_RING_ORDER`), plus a Java `Complex` class.
+- **Outputs:** `—` → [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md), [compute_entropy (Shannon)](../pages/compute-entropy-Shannon.md)
+- **Exists for:** [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md) is 5-regular (`degree_per_node: 5` in adjacency JSON); ring-DFT needs 2-regular C₁₂
+
 ## Yields (formula)
 
 Fourier/DFT-based smoothness measure over a proposed 12-area ring (`AREA_RING_ORDER`), plus a Java `Complex` class.
@@ -13,6 +24,16 @@ Fourier/DFT-based smoothness measure over a proposed 12-area ring (`AREA_RING_OR
 ## Produced from (inputs)
 
 - [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md)
+
+## Needed by (consumers)
+
+- [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md)
+- [compute_entropy (Shannon)](../pages/compute-entropy-Shannon.md)
+
+## See also
+
+- [Icosahedral Surface Graph](../pages/Icosahedral-Surface-Graph.md)
+- [compute_entropy (Shannon)](../pages/compute-entropy-Shannon.md)
 
 ## Origin
 
@@ -23,4 +44,4 @@ Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a ring Fourie
 **HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `assets/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.
 
 ---
-[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md)
+[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

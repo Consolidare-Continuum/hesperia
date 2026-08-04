@@ -2,7 +2,7 @@
 
 **New here or an agent picking this up cold? Read [CLAUDE.md](CLAUDE.md) first** — what this is, how it's served, how to update it, ownership.
 
-Bottom-up, wikipedia-style register of every math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — LIVE, PARTIAL, and DEAD/proposed-but-never-built alike. Each page: **status, type, responsible module, value, formula (yields), produced-from (inputs), needed-by (consumers), origin, notes** — interlinked for navigation.
+Bottom-up, wikipedia-style register of every math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — LIVE, PARTIAL, and DEAD/proposed-but-never-built alike. Each page: **In plain words**, **Definition** (Receives / Does / Outputs / Exists for), **See also**, **status, type, module, value, formula, inputs, consumers, origin, notes** — interlinked. Plain-language: [TEMPLATES-PLAIN-DEFINITION.md](TEMPLATES-PLAIN-DEFINITION.md) (HWIKI-PLAIN). Wire: [TEMPLATES-WIKI-WIRE.md](TEMPLATES-WIKI-WIRE.md) · **[Wiki Wire Map](pages/Wiki-Wire-Map.md)**.
 
 Companion research (symbol-level and discipline-level audits this wiki is built from):
 
@@ -29,16 +29,16 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 ## Categories
 
 - [Geometry](categories/Geometry.md) (9 items)
-- [Core Math Contract](categories/Core-Math-Contract.md) (15 items)
+- [Core Math Contract](categories/Core-Math-Contract.md) (16 items)
 - [Tension and Bipolar Adversity](categories/Tension-and-Bipolar-Adversity.md) (7 items)
 - [Propagation, Diffusion and Markov](categories/Propagation-Diffusion-and-Markov.md) (8 items)
 - [Activation and Diagnostic Thresholds](categories/Activation-and-Diagnostic-Thresholds.md) (14 items)
-- [Graph and Structural Metrics](categories/Graph-and-Structural-Metrics.md) (51 items)
-- [Entropy and Information Theory](categories/Entropy-and-Information-Theory.md) (3 items)
-- [Stability and Control Theory](categories/Stability-and-Control-Theory.md) (18 items)
+- [Graph and Structural Metrics](categories/Graph-and-Structural-Metrics.md) (136 items)
+- [Entropy and Information Theory](categories/Entropy-and-Information-Theory.md) (5 items)
+- [Stability and Control Theory](categories/Stability-and-Control-Theory.md) (106 items)
 - [Similarity and Retrieval](categories/Similarity-and-Retrieval.md) (3 items)
-- [Evidence and Trust](categories/Evidence-and-Trust.md) (8 items)
-- [Concept Dictionary](categories/Concept-Dictionary.md) (8 items)
+- [Evidence and Trust](categories/Evidence-and-Trust.md) (66 items)
+- [Concept Dictionary](categories/Concept-Dictionary.md) (12 items)
 - [Dead and Rejected Science](categories/Dead-and-Rejected-Science.md) (19 items)
 
 ## Status legend
@@ -52,19 +52,55 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - **UNVERIFIED**: ⚪ UNVERIFIED — claimed in an earlier doc, did not re-confirm by grep this pass
 - **REJECTED**: 🔴 REJECTED — explicit, reasoned decision against, not an oversight
 
-## All pages (163 total)
+## All pages (401 total)
 
+- [ACTION_ALLOW_HUMAN_SUMMARY (L9)](pages/ACTION-ALLOW-HUMAN-SUMMARY-L9.md) — LIVE_FULL
+- [ACTION_REQUIRE_EVIDENCE_REBUILD (L9)](pages/ACTION-REQUIRE-EVIDENCE-REBUILD-L9.md) — LIVE_FULL
+- [ACTION_REQUIRE_GOVERNANCE_REVIEW (L9)](pages/ACTION-REQUIRE-GOVERNANCE-REVIEW-L9.md) — LIVE_FULL
+- [ACTION_REQUIRE_MORE_INPUT (L9)](pages/ACTION-REQUIRE-MORE-INPUT-L9.md) — LIVE_FULL
 - [activation_threshold](pages/activation-threshold.md) — LIVE_FULL
+- [ACTIVE_NEIGHBOR_COUNT](pages/ACTIVE-NEIGHBOR-COUNT.md) — LIVE_FULL
 - [alpha (fusion weight)](pages/alpha-fusion-weight.md) — LIVE_FULL
 - [ALPHA/BETA/GAMMA/DELTA integrity quartet (Java)](pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.md) — DEAD
+- [ALTITUDE_DEVIATION](pages/ALTITUDE-DEVIATION.md) — PARTIAL
+- [ALTITUDE_DOMINANT_DELTA](pages/ALTITUDE-DOMINANT-DELTA.md) — LIVE_FULL
+- [ALTITUDE_MEAN_DELTA](pages/ALTITUDE-MEAN-DELTA.md) — LIVE_FULL
+- [ALTITUDE_VARIANCE_GLOBAL](pages/ALTITUDE-VARIANCE-GLOBAL.md) — LIVE_FULL
+- [ALTITUDE_WEIGHTED_MASS](pages/ALTITUDE-WEIGHTED-MASS.md) — LIVE_FULL
+- [ANGLE_RANGE_VIOLATION_COUNT](pages/ANGLE-RANGE-VIOLATION-COUNT.md) — LIVE_FULL
+- [ANTI_REGION_SIZE](pages/ANTI-REGION-SIZE.md) — LIVE_FULL
 - [apply_saturation](pages/apply-saturation.md) — LIVE_FULL
 - [area_active_threshold](pages/area-active-threshold.md) — LIVE_FULL
+- [AREA_BOUNDARY_CROSSINGS](pages/AREA-BOUNDARY-CROSSINGS.md) — LIVE_FULL
+- [AREA_CONTAINMENT_U1000 (L9)](pages/AREA-CONTAINMENT-U1000-L9.md) — LIVE_FULL
+- [AREA_DOMINANCE_RATIO](pages/AREA-DOMINANCE-RATIO.md) — LIVE_FULL
 - [area_entropy (tool-local)](pages/area-entropy-tool-local.md) — PARTIAL
+- [AREA_LEAKAGE_WITHIN_LIMITS](pages/AREA-LEAKAGE-WITHIN-LIMITS.md) — LIVE_FULL
+- [AREA_MATCH_RATIO_BASELINE](pages/AREA-MATCH-RATIO-BASELINE.md) — LIVE_FULL
+- [AREA_PROFILE_DEVIATION](pages/AREA-PROFILE-DEVIATION.md) — PARTIAL
+- [AREA_SPREAD](pages/AREA-SPREAD.md) — LIVE_FULL
+- [AREA_SPREAD_DELTA](pages/AREA-SPREAD-DELTA.md) — LIVE_FULL
 - [AREAS](pages/AREAS.md) — LIVE_FULL
 - [ASS (KME derived)](pages/ASS-KME-derived.md) — LIVE_FULL
+- [ATTRIBUTED_TOKENS](pages/ATTRIBUTED-TOKENS.md) — LIVE_FULL
+- [BAND_0_CRITICAL (L9)](pages/BAND-0-CRITICAL-L9.md) — LIVE_FULL
+- [BAND_1_POOR (L9)](pages/BAND-1-POOR-L9.md) — LIVE_FULL
+- [BAND_2_FAIR (L9)](pages/BAND-2-FAIR-L9.md) — LIVE_FULL
+- [BAND_3_GOOD (L9)](pages/BAND-3-GOOD-L9.md) — LIVE_FULL
+- [BAND_4_VERY_GOOD (L9)](pages/BAND-4-VERY-GOOD-L9.md) — LIVE_FULL
+- [BAND_5_EXCELLENT (L9)](pages/BAND-5-EXCELLENT-L9.md) — LIVE_FULL
+- [BASE_NEIGHBOR_COUNT](pages/BASE-NEIGHBOR-COUNT.md) — LIVE_FULL
 - [BFS depth-capped traversal](pages/BFS-depth-capped-traversal.md) — LIVE_FULL
 - [BM25 retrieval](pages/BM25-retrieval.md) — BEYOND
+- [BOOKSET_JACCARD_BS](pages/BOOKSET-JACCARD-BS.md) — LIVE_FULL
+- [BRANCHING_FACTOR_MEAN](pages/BRANCHING-FACTOR-MEAN.md) — LIVE_FULL
+- [BRAND_WORD_CONTRADICTION (L9)](pages/BRAND-WORD-CONTRADICTION-L9.md) — LIVE_FULL
+- [BRAND_WORD_EVIDENCE (L9)](pages/BRAND-WORD-EVIDENCE-L9.md) — LIVE_FULL
+- [BRAND_WORD_GEOMETRY (L9)](pages/BRAND-WORD-GEOMETRY-L9.md) — LIVE_FULL
+- [BRAND_WORD_SHADOW (L9)](pages/BRAND-WORD-SHADOW-L9.md) — LIVE_FULL
+- [BRAND_WORD_TRUST (L9)](pages/BRAND-WORD-TRUST-L9.md) — LIVE_FULL
 - [bridge_weight](pages/bridge-weight.md) — LIVE_FULL
+- [BUDGET_VIOLATION_SCORE](pages/BUDGET-VIOLATION-SCORE.md) — PARTIAL
 - [build_exclusion_pairs / area_projection](pages/build-exclusion-pairs-area-projection.md) — DEAD_ALGO_SURVIVED
 - [causalCoherence / decisionIntegrity / temporalStability (Java)](pages/causalCoherence-decisionIntegrity-temporalStability-Java.md) — DEAD
 - [CCI (KME derived)](pages/CCI-KME-derived.md) — LIVE_FULL
@@ -72,9 +108,11 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [CDI (KME derived)](pages/CDI-KME-derived.md) — LIVE_FULL
 - [CDR (KME derived)](pages/CDR-KME-derived.md) — LIVE_FULL
 - [center_to_inner](pages/center-to-inner.md) — LIVE_FULL
+- [CENTRALITY_SHIFT](pages/CENTRALITY-SHIFT.md) — LIVE_FULL
 - [Chapman-Kolmogorov Multi-Step](pages/Chapman-Kolmogorov-Multi-Step.md) — BEYOND
 - [CII (KME derived)](pages/CII-KME-derived.md) — LIVE_FULL
 - [Circuit rank (LOOP_COUNT/LOOP_DENSITY)](pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.md) — LIVE_FULL
+- [CLAMP_POLICY (L8)](pages/CLAMP-POLICY-L8.md) — LIVE_FULL
 - [classify_contradiction(s) principle table](pages/classify-contradiction-s-principle-table.md) — LIVE_FULL
 - [Clustering coefficient](pages/Clustering-coefficient.md) — PARTIAL
 - [compute_ci (ConcentrationIndex)](pages/compute-ci-ConcentrationIndex.md) — LIVE_SUCCESSOR
@@ -85,53 +123,122 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [compute_tension](pages/compute-tension.md) — LIVE_SUCCESSOR
 - [CONCEPTUAL_COHERENCE_INDEX (L6)](pages/CONCEPTUAL-COHERENCE-INDEX-L6.md) — LIVE_FULL
 - [CONDITION_NUMBER (L6)](pages/CONDITION-NUMBER-L6.md) — LIVE_FULL
+- [CONSIST_AREA_MAPPING (L7, g5)](pages/CONSIST-AREA-MAPPING-L7-g5.md) — LIVE_FULL
+- [CONSIST_ATTRIBUTION_MASS_EQUALITY (L7, g2)](pages/CONSIST-ATTRIBUTION-MASS-EQUALITY-L7-g2.md) — LIVE_FULL
+- [CONSIST_COUNTER_EVIDENCE_VALID (L7, g9)](pages/CONSIST-COUNTER-EVIDENCE-VALID-L7-g9.md) — LIVE_FULL
+- [CONSIST_COVERAGE_MIN_GATE (L7, g1)](pages/CONSIST-COVERAGE-MIN-GATE-L7-g1.md) — LIVE_FULL
+- [CONSIST_DOMINANT_FAMILY_IN_TRAVERSAL (L7, g4)](pages/CONSIST-DOMINANT-FAMILY-IN-TRAVERSAL-L7-g4.md) — LIVE_FULL
+- [CONSIST_EVIDENCE_INTEGRITY_HARD (L7, g6)](pages/CONSIST-EVIDENCE-INTEGRITY-HARD-L7-g6.md) — LIVE_FULL
+- [CONSIST_PROFILE_CONFORMANCE (L7)](pages/CONSIST-PROFILE-CONFORMANCE-L7.md) — PARTIAL
+- [CONSIST_SHADOW_DELTA_ONLY_IF_SHADOW (L7, g7)](pages/CONSIST-SHADOW-DELTA-ONLY-IF-SHADOW-L7-g7.md) — LIVE_FULL
 - [CONSIST_STABILITY_REGIME_VALID (L7)](pages/CONSIST-STABILITY-REGIME-VALID-L7.md) — LIVE_FULL
+- [CONSIST_TRAVERSAL_NONEMPTY_WHEN_ATTRIBUTED (L7, g3)](pages/CONSIST-TRAVERSAL-NONEMPTY-WHEN-ATTRIBUTED-L7-g3.md) — LIVE_FULL
+- [CONSIST_TRIG_REQUIRED_FOR_ANGLE_METRICS (L7, g8)](pages/CONSIST-TRIG-REQUIRED-FOR-ANGLE-METRICS-L7-g8.md) — LIVE_FULL
+- [CONSISTENCY_U1000 (L9)](pages/CONSISTENCY-U1000-L9.md) — LIVE_FULL
+- [CONTRADICTION_ADJUSTED_SUPPORT](pages/CONTRADICTION-ADJUSTED-SUPPORT.md) — LIVE_FULL
 - [contradiction_contract (canonical fields)](pages/contradiction-contract-canonical-fields.md) — LIVE_FULL
 - [contradiction_pressure -> tension_energy](pages/contradiction-pressure-tension-energy.md) — LIVE_SUCCESSOR
+- [CONTRADICTION_PRESSURE_SCORE](pages/CONTRADICTION-PRESSURE-SCORE.md) — LIVE_FULL
+- [CONTRADICTION_WITHIN_LIMITS](pages/CONTRADICTION-WITHIN-LIMITS.md) — LIVE_FULL
+- [COSI_CLAMP_VIOLATION_COUNT](pages/COSI-CLAMP-VIOLATION-COUNT.md) — LIVE_FULL
 - [cosine_similarity](pages/cosine-similarity.md) — LIVE_SUCCESSOR
 - [count_triangles / count_connected_triplets](pages/count-triangles-count-connected-triplets.md) — LIVE_FULL
 - [COVERAGE_GRADIENT (L6)](pages/COVERAGE-GRADIENT-L6.md) — PARTIAL
+- [COVERAGE_RATIO](pages/COVERAGE-RATIO.md) — LIVE_FULL
+- [COVERAGE_RATIO_DELTA](pages/COVERAGE-RATIO-DELTA.md) — LIVE_FULL
 - [coverage_threshold (monotony)](pages/coverage-threshold-monotony.md) — LIVE_FULL
 - [CPC (KME derived)](pages/CPC-KME-derived.md) — LIVE_FULL
 - [CRI (KME derived)](pages/CRI-KME-derived.md) — LIVE_FULL
+- [CROSS_AREA_RATIO](pages/CROSS-AREA-RATIO.md) — LIVE_FULL
+- [CROSS_AREA_RATIO_DELTA](pages/CROSS-AREA-RATIO-DELTA.md) — LIVE_FULL
+- [CROSS_AREA_TRAVERSAL_COUNT](pages/CROSS-AREA-TRAVERSAL-COUNT.md) — LIVE_FULL
 - [CSI (KME derived)](pages/CSI-KME-derived.md) — LIVE_FULL
 - [CSI2 (KME derived)](pages/CSI2-KME-derived.md) — LIVE_FULL
 - [cumulativeDrift / turnCoherence](pages/cumulativeDrift-turnCoherence.md) — DEAD
 - [curvature_threshold / severe](pages/curvature-threshold-severe.md) — LIVE_FULL
+- [CYCLE_DETECTION_FUNCTIONAL (L6)](pages/CYCLE-DETECTION-FUNCTIONAL-L6.md) — LIVE_FULL
 - [DCI (KME derived)](pages/DCI-KME-derived.md) — LIVE_FULL
 - [DEAD_ALGO_SURVIVED (status term)](pages/DEAD-ALGO-SURVIVED-status-term.md) — LIVE_FULL
 - [decay](pages/decay.md) — LIVE_FULL
 - [decay_factor (propagation)](pages/decay-factor-propagation.md) — PARTIAL
+- [DECISION_STATUS_CODE](pages/DECISION-STATUS-CODE.md) — LIVE_FULL
 - [DEPTH_GROWTH_RATIO (L6)](pages/DEPTH-GROWTH-RATIO-L6.md) — LIVE_FULL
 - [detect_contradictions / build_contradiction_signals](pages/detect-contradictions-build-contradiction-signals.md) — LIVE_FULL
 - [detect_dominant_area / detect_dominant_family](pages/detect-dominant-area-detect-dominant-family.md) — LIVE_SUCCESSOR
 - [DFT Ring Smoothness](pages/DFT-Ring-Smoothness.md) — REJECTED
+- [DIRECTIONALIZE_HIGH_IS_GOOD (L9)](pages/DIRECTIONALIZE-HIGH-IS-GOOD-L9.md) — LIVE_FULL
+- [DIRECTIONALIZE_LOW_IS_GOOD (L9)](pages/DIRECTIONALIZE-LOW-IS-GOOD-L9.md) — LIVE_FULL
 - [domainFit / scaleConsistency / compatibilityScore (Java)](pages/domainFit-scaleConsistency-compatibilityScore-Java.md) — DEAD
 - [DOMINANCE_CURVATURE (L6)](pages/DOMINANCE-CURVATURE-L6.md) — PARTIAL
+- [DOMINANCE_RATIO](pages/DOMINANCE-RATIO.md) — LIVE_FULL
+- [DOMINANCE_RATIO_DELTA](pages/DOMINANCE-RATIO-DELTA.md) — LIVE_FULL
+- [DOMINANT_AREA_CHANGED](pages/DOMINANT-AREA-CHANGED.md) — LIVE_FULL
+- [DOMINANT_AREA_ID](pages/DOMINANT-AREA-ID.md) — LIVE_FULL
 - [dominant_area_share_threshold](pages/dominant-area-share-threshold.md) — LIVE_SUCCESSOR
+- [DOMINANT_FAMILY_CHANGED](pages/DOMINANT-FAMILY-CHANGED.md) — LIVE_FULL
+- [DOMINANT_FAMILY_DELTA_HITS](pages/DOMINANT-FAMILY-DELTA-HITS.md) — LIVE_FULL
+- [DOMINANT_FAMILY_ID](pages/DOMINANT-FAMILY-ID.md) — LIVE_FULL
 - [DOMINANT_FAMILY_STABILITY (L6)](pages/DOMINANT-FAMILY-STABILITY-L6.md) — LIVE_FULL
+- [DOT_SELF_NONNEG_RESIDUAL](pages/DOT-SELF-NONNEG-RESIDUAL.md) — LIVE_FULL
+- [DOT_SYMMETRY_RESIDUAL](pages/DOT-SYMMETRY-RESIDUAL.md) — LIVE_FULL
+- [DUPLICATE_BOOK_RATIO_BASELINE](pages/DUPLICATE-BOOK-RATIO-BASELINE.md) — LIVE_FULL
+- [DUPLICATE_BOOK_RATIO_SHADOW](pages/DUPLICATE-BOOK-RATIO-SHADOW.md) — LIVE_FULL
 - [E_cap](pages/E-cap.md) — LIVE_FULL
+- [EDGE_UTILIZATION_DELTA](pages/EDGE-UTILIZATION-DELTA.md) — LIVE_FULL
+- [EDGE_UTILIZATION_RATIO](pages/EDGE-UTILIZATION-RATIO.md) — LIVE_FULL
 - [Energy conservation epsilon](pages/Energy-conservation-epsilon.md) — LIVE_FULL
+- [energy_conservation_tolerance](pages/energy-conservation-tolerance.md) — LIVE_FULL
 - [ENTROPY_CURVATURE (L6)](pages/ENTROPY-CURVATURE-L6.md) — PARTIAL
+- [ENTROPY_DELTA](pages/ENTROPY-DELTA.md) — LIVE_FULL
 - [ENTROPY_DROP_SIGNIFICANT](pages/ENTROPY-DROP-SIGNIFICANT.md) — LIVE_FULL
 - [ENTROPY_GRADIENT (L6)](pages/ENTROPY-GRADIENT-L6.md) — PARTIAL
 - [entropy_threshold (monotony)](pages/entropy-threshold-monotony.md) — LIVE_FULL
+- [EPSILON_POLICY (L8)](pages/EPSILON-POLICY-L8.md) — LIVE_FULL
+- [ESCAPE_ENERGY_THRESHOLD (L6)](pages/ESCAPE-ENERGY-THRESHOLD-L6.md) — LIVE_FULL
 - [eta (centroid threshold)](pages/eta-centroid-threshold.md) — LIVE_FULL
+- [EVIDENCE_ACCEPTABILITY_GATE](pages/EVIDENCE-ACCEPTABILITY-GATE.md) — LIVE_FULL
+- [EVIDENCE_ENTROPY_BASELINE](pages/EVIDENCE-ENTROPY-BASELINE.md) — LIVE_FULL
+- [EVIDENCE_GINI_BASELINE](pages/EVIDENCE-GINI-BASELINE.md) — LIVE_FULL
+- [EVIDENCE_JACCARD_BS](pages/EVIDENCE-JACCARD-BS.md) — LIVE_FULL
+- [EVIDENCE_SHIFT_SCORE](pages/EVIDENCE-SHIFT-SCORE.md) — LIVE_FULL
+- [EVIDENCE_SUPPORT_INDEX_BASELINE](pages/EVIDENCE-SUPPORT-INDEX-BASELINE.md) — LIVE_FULL
 - [evidenceQuality / provenanceWeight (Java)](pages/evidenceQuality-provenanceWeight-Java.md) — DEAD
 - [excessive_jump_threshold](pages/excessive-jump-threshold.md) — LIVE_FULL
 - [expectedTimeToObstacle (Java)](pages/expectedTimeToObstacle-Java.md) — DEAD
 - [EXPONENTIAL_FIT_ERROR (L6)](pages/EXPONENTIAL-FIT-ERROR-L6.md) — PARTIAL
 - [FAMILIES_PER_AREA](pages/FAMILIES-PER-AREA.md) — LIVE_FULL
+- [FAMILY_ACTIVATION_DENSITY](pages/FAMILY-ACTIVATION-DENSITY.md) — LIVE_FULL
+- [FAMILY_ENTROPY](pages/FAMILY-ENTROPY.md) — LIVE_FULL
+- [FAMILY_HIT_VECTOR_L1](pages/FAMILY-HIT-VECTOR-L1.md) — LIVE_FULL
+- [FAMILY_HIT_VECTOR_L1_DELTA](pages/FAMILY-HIT-VECTOR-L1-DELTA.md) — LIVE_FULL
+- [FAMILY_HIT_VECTOR_L2](pages/FAMILY-HIT-VECTOR-L2.md) — LIVE_FULL
+- [FAMILY_MATCH_COUNT_BASELINE](pages/FAMILY-MATCH-COUNT-BASELINE.md) — LIVE_FULL
+- [FAMILY_MATCH_RATIO_BASELINE](pages/FAMILY-MATCH-RATIO-BASELINE.md) — LIVE_FULL
+- [FAMILY_PROFILE_DEVIATION](pages/FAMILY-PROFILE-DEVIATION.md) — PARTIAL
 - [FGR (Formality/Ground/Reliability)](pages/FGR-Formality-Ground-Reliability.md) — BEYOND
 - [FGR DOMINANT_SHARE_HIGH](pages/FGR-DOMINANT-SHARE-HIGH.md) — LIVE_FULL
 - [FGR freshness stability map](pages/FGR-freshness-stability-map.md) — LIVE_FULL
 - [FIBONACCI_DEVIATION_SCORE (L6)](pages/FIBONACCI-DEVIATION-SCORE-L6.md) — LIVE_FULL
+- [FIXED_POINT_DETECTION (L6)](pages/FIXED-POINT-DETECTION-L6.md) — LIVE_FULL
+- [FORBIDDEN_MASS_PENALTY](pages/FORBIDDEN-MASS-PENALTY.md) — PARTIAL
+- [FORCE_ANALOG_MAGNITUDE (L6)](pages/FORCE-ANALOG-MAGNITUDE-L6.md) — LIVE_FULL
+- [fpf_bridge structural states](pages/fpf-bridge-structural-states.md) — LIVE_FULL
+- [GEOMETRIC_STABILITY_INDEX](pages/GEOMETRIC-STABILITY-INDEX.md) — LIVE_FULL
 - [Gini concentration](pages/Gini-concentration.md) — LIVE_FULL
+- [GINI_DELTA](pages/GINI-DELTA.md) — LIVE_FULL
 - [HEXES_PER_FAMILY](pages/HEXES-PER-FAMILY.md) — PARTIAL
+- [HIT_EVIDENCE_OVERLAP_BASELINE](pages/HIT-EVIDENCE-OVERLAP-BASELINE.md) — LIVE_FULL
+- [HIT_EVIDENCE_OVERLAP_SHADOW](pages/HIT-EVIDENCE-OVERLAP-SHADOW.md) — LIVE_FULL
+- [HIT_VECTOR_COSINE_SIMILARITY](pages/HIT-VECTOR-COSINE-SIMILARITY.md) — LIVE_FULL
+- [HIT_VECTOR_RANK (L6)](pages/HIT-VECTOR-RANK-L6.md) — LIVE_FULL
 - [Icosahedral Surface Graph](pages/Icosahedral-Surface-Graph.md) — LIVE_FULL
 - [IDE (KME derived)](pages/IDE-KME-derived.md) — LIVE_FULL
 - [inner_to_middle / middle_to_inner](pages/inner-to-middle-middle-to-inner.md) — LIVE_FULL
+- [Innovation Radar (TRIZ export)](pages/Innovation-Radar-TRIZ-export.md) — LIVE_FULL
 - [INPUT_PERTURBATION_RESPONSE (L6)](pages/INPUT-PERTURBATION-RESPONSE-L6.md) — LIVE_FULL
+- [INTEGRITY_CHECK_PASS_RATIO](pages/INTEGRITY-CHECK-PASS-RATIO.md) — LIVE_FULL
+- [INTERPRETATION_CONSTRAINTS (L8)](pages/INTERPRETATION-CONSTRAINTS-L8.md) — LIVE_FULL
+- [INTERPRETATION_SCOPE (L8)](pages/INTERPRETATION-SCOPE-L8.md) — LIVE_FULL
 - [IPS / QCS (Java)](pages/IPS-QCS-Java.md) — DEAD
 - [Jaccard overlaps](pages/Jaccard-overlaps.md) — LIVE_FULL
 - [jump_rate_threshold / severe](pages/jump-rate-threshold-severe.md) — LIVE_FULL
@@ -150,52 +257,159 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [KPS (KME derived)](pages/KPS-KME-derived.md) — LIVE_FULL
 - [KSI (KME derived)](pages/KSI-KME-derived.md) — LIVE_FULL
 - [KVI (KME derived)](pages/KVI-KME-derived.md) — LIVE_FULL
+- [L1 — Structural Activation Census](pages/L1-Structural-Activation-Census.md) — BEYOND
+- [L2 — Topology Traversal](pages/L2-Topology-Traversal.md) — BEYOND
+- [L3 — Baseline/Shadow Comparison](pages/L3-Baseline-Shadow-Comparison.md) — BEYOND
+- [L4 — Evidence Retrieval](pages/L4-Evidence-Retrieval.md) — BEYOND
+- [L5 — Counter-Evidence & Trig Invariants](pages/L5-Counter-Evidence-Trig-Invariants.md) — BEYOND
+- [L7 — Consistency and Decision](pages/L7-Consistency-and-Decision.md) — BEYOND
+- [L8 — Unit Standardization](pages/L8-Unit-Standardization.md) — BEYOND
+- [L9 — Pillars, Brand Labels, Action Triggers](pages/L9-Pillars-Brand-Labels-Action-Triggers.md) — BEYOND
 - [lambda (lazy step)](pages/lambda-lazy-step.md) — LIVE_FULL
 - [largest_component_size](pages/largest-component-size.md) — DEAD_ALGO_SURVIVED
+- [LAW_OF_COSINES_RESIDUAL](pages/LAW-OF-COSINES-RESIDUAL.md) — PARTIAL
 - [LIVE_SUCCESSOR (status term)](pages/LIVE-SUCCESSOR-status-term.md) — LIVE_FULL
+- [LOOP_DENSITY_DELTA](pages/LOOP-DENSITY-DELTA.md) — LIVE_FULL
 - [Louvain communities (seed 42)](pages/Louvain-communities-seed-42.md) — BEYOND
 - [low_stability_threshold](pages/low-stability-threshold.md) — LIVE_FULL
 - [LYAPUNOV_ESTIMATE / GLOBAL_STABILITY_SCORE](pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.md) — LIVE_SUCCESSOR
 - [Markov-like (term)](pages/Markov-like-term.md) — LIVE_FULL
+- [MASS_AT_DEPTH](pages/MASS-AT-DEPTH.md) — LIVE_FULL
+- [MASS_RETENTION_RATIO](pages/MASS-RETENTION-RATIO.md) — LIVE_FULL
+- [MAX_ALLOWABLE_CONTRADICTION](pages/MAX-ALLOWABLE-CONTRADICTION.md) — LIVE_FULL
+- [MAX_ALLOWABLE_SHADOW_DEVIATION](pages/MAX-ALLOWABLE-SHADOW-DEVIATION.md) — LIVE_FULL
+- [MAX_AREA_LEAKAGE](pages/MAX-AREA-LEAKAGE.md) — LIVE_FULL
+- [MAX_CHAOS_LEVEL](pages/MAX-CHAOS-LEVEL.md) — LIVE_FULL
+- [MAX_DISTANCE_DELTA](pages/MAX-DISTANCE-DELTA.md) — LIVE_FULL
+- [MAX_FAMILY_HITS](pages/MAX-FAMILY-HITS.md) — LIVE_FULL
+- [MAX_TRAVERSAL_DISTANCE](pages/MAX-TRAVERSAL-DISTANCE.md) — LIVE_FULL
+- [MEAN_ALTITUDE_DOMINANT](pages/MEAN-ALTITUDE-DOMINANT.md) — LIVE_FULL
+- [MEAN_ALTITUDE_GLOBAL](pages/MEAN-ALTITUDE-GLOBAL.md) — LIVE_FULL
+- [MEAN_TRAVERSAL_DISTANCE](pages/MEAN-TRAVERSAL-DISTANCE.md) — LIVE_FULL
 - [meanTau/varTau/stdTau/fillingRate/adjacencyCorrelation (Java)](pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.md) — DEAD
 - [metric_governance](pages/metric-governance.md) — LIVE_FULL
+- [METRIC_IDENTITY_RESIDUAL](pages/METRIC-IDENTITY-RESIDUAL.md) — PARTIAL
 - [metric_obstacle_score](pages/metric-obstacle-score.md) — LIVE_FULL
+- [METRIC_SYMMETRY_RESIDUAL](pages/METRIC-SYMMETRY-RESIDUAL.md) — PARTIAL
 - [metric_tension_energy](pages/metric-tension-energy.md) — LIVE_FULL
 - [middle_to_outer / outer_to_middle](pages/middle-to-outer-outer-to-middle.md) — LIVE_FULL
 - [Mixing Diagnostics](pages/Mixing-Diagnostics.md) — BEYOND
+- [MONOTONICITY_CHECK (L6)](pages/MONOTONICITY-CHECK-L6.md) — LIVE_FULL
+- [Narrative Propagation Monitor (TRIZ export)](pages/Narrative-Propagation-Monitor-TRIZ-export.md) — LIVE_FULL
+- [NEG_AREA_MATCH_RATIO](pages/NEG-AREA-MATCH-RATIO.md) — LIVE_FULL
+- [NEG_DUPLICATE_BOOK_RATIO](pages/NEG-DUPLICATE-BOOK-RATIO.md) — LIVE_FULL
+- [NEG_SHORTFALL](pages/NEG-SHORTFALL.md) — LIVE_FULL
+- [NEG_SUPPORT_INDEX](pages/NEG-SUPPORT-INDEX.md) — LIVE_FULL
+- [NEG_UNIQUE_BOOKS](pages/NEG-UNIQUE-BOOKS.md) — LIVE_FULL
+- [NEIGHBOR_ACTIVATION_RATIO](pages/NEIGHBOR-ACTIVATION-RATIO.md) — LIVE_FULL
+- [NORM_CONSISTENCY_RESIDUAL](pages/NORM-CONSISTENCY-RESIDUAL.md) — LIVE_FULL
+- [NORMALIZED_FAMILY_ENTROPY](pages/NORMALIZED-FAMILY-ENTROPY.md) — LIVE_FULL
 - [OPPOSITE_OFFSET](pages/OPPOSITE-OFFSET.md) — DEAD_ALGO_SURVIVED
+- [ORTHONORMALITY_RESIDUAL_FROBENIUS](pages/ORTHONORMALITY-RESIDUAL-FROBENIUS.md) — PARTIAL
+- [OUTPUT_TRUST_TAG](pages/OUTPUT-TRUST-TAG.md) — LIVE_FULL
 - [P_amb (ambiguity penalty)](pages/P-amb-ambiguity-penalty.md) — LIVE_FULL
 - [P_disp (dispersion penalty)](pages/P-disp-dispersion-penalty.md) — LIVE_FULL
 - [P_guard (guard penalty)](pages/P-guard-guard-penalty.md) — LIVE_FULL
 - [P_shadow (shadow-hop penalty)](pages/P-shadow-shadow-hop-penalty.md) — LIVE_FULL
 - [P_thin (thin-core penalty)](pages/P-thin-thin-core-penalty.md) — LIVE_FULL
 - [PageRank-shaped walk (structural analogy)](pages/PageRank-shaped-walk-structural-analogy.md) — LIVE_FULL
+- [PATH_COUNT](pages/PATH-COUNT.md) — LIVE_FULL
 - [PEI (KME derived)](pages/PEI-KME-derived.md) — LIVE_FULL
 - [PHI (golden ratio)](pages/PHI-golden-ratio.md) — LIVE_FULL
+- [PILLAR_CONSISTENCY_U1000 (L9)](pages/PILLAR-CONSISTENCY-U1000-L9.md) — LIVE_FULL
+- [PILLAR_EVIDENCE_U1000 (L9)](pages/PILLAR-EVIDENCE-U1000-L9.md) — LIVE_FULL
+- [PILLAR_GEOMETRY_U1000 (L9)](pages/PILLAR-GEOMETRY-U1000-L9.md) — LIVE_FULL
+- [PILLAR_GOVERNANCE_U1000 (L9)](pages/PILLAR-GOVERNANCE-U1000-L9.md) — LIVE_FULL
+- [PILLAR_INPUT_QUALITY_U1000 (L9)](pages/PILLAR-INPUT-QUALITY-U1000-L9.md) — LIVE_FULL
+- [PILLAR_STABILITY_U1000 (L9)](pages/PILLAR-STABILITY-U1000-L9.md) — LIVE_FULL
+- [Policy Contradiction Detector (TRIZ export)](pages/Policy-Contradiction-Detector-TRIZ-export.md) — LIVE_FULL
+- [POLICY_MODE (L8)](pages/POLICY-MODE-L8.md) — LIVE_FULL
+- [POS_NEG_BOOKSET_JACCARD](pages/POS-NEG-BOOKSET-JACCARD.md) — LIVE_FULL
+- [POS_NEG_CHUNK_JACCARD](pages/POS-NEG-CHUNK-JACCARD.md) — LIVE_FULL
+- [POS_SUPPORT_INDEX](pages/POS-SUPPORT-INDEX.md) — LIVE_FULL
 - [POTENTIAL_GRADIENT (L6)](pages/POTENTIAL-GRADIENT-L6.md) — PARTIAL
 - [POWER_LAW_FIT_ERROR (L6)](pages/POWER-LAW-FIT-ERROR-L6.md) — PARTIAL
+- [PRINCIPAL_COMPONENT_ENERGY_RATIO (L6)](pages/PRINCIPAL-COMPONENT-ENERGY-RATIO-L6.md) — LIVE_FULL
+- [PROFILE_CHECKSUM](pages/PROFILE-CHECKSUM.md) — PARTIAL
+- [PROFILE_CHECKSUM (L7)](pages/PROFILE-CHECKSUM-L7.md) — PARTIAL
+- [PROFILE_CONFORMANCE_SCORE](pages/PROFILE-CONFORMANCE-SCORE.md) — PARTIAL
+- [PROFILE_ID](pages/PROFILE-ID.md) — PARTIAL
+- [PROFILE_MODE_ACTIVE](pages/PROFILE-MODE-ACTIVE.md) — LIVE_FULL
+- [PROFILE_VERSION](pages/PROFILE-VERSION.md) — PARTIAL
+- [PROPAGATION_MASS_DECAY](pages/PROPAGATION-MASS-DECAY.md) — LIVE_FULL
+- [RANK_WEIGHTED_ALIGNMENT_BASELINE](pages/RANK-WEIGHTED-ALIGNMENT-BASELINE.md) — LIVE_FULL
+- [REACH_RATIO](pages/REACH-RATIO.md) — LIVE_FULL
+- [REACHABLE_NODES_DELTA](pages/REACHABLE-NODES-DELTA.md) — LIVE_FULL
+- [REALITY_GATE_COUNTER_EVIDENCE](pages/REALITY-GATE-COUNTER-EVIDENCE.md) — LIVE_FULL
+- [REALITY_GATE_TRIG](pages/REALITY-GATE-TRIG.md) — LIVE_FULL
 - [Relation weights (conflict/opposition)](pages/Relation-weights-conflict-opposition.md) — LIVE_SUCCESSOR
+- [RETRIEVAL_MODE_ID](pages/RETRIEVAL-MODE-ID.md) — LIVE_FULL
+- [RETRIEVAL_SHORTFALL_BASELINE](pages/RETRIEVAL-SHORTFALL-BASELINE.md) — LIVE_FULL
+- [RETRIEVAL_SHORTFALL_SHADOW](pages/RETRIEVAL-SHORTFALL-SHADOW.md) — LIVE_FULL
+- [RETRIEVED_COUNT_BASELINE](pages/RETRIEVED-COUNT-BASELINE.md) — LIVE_FULL
+- [RETRIEVED_COUNT_NEG](pages/RETRIEVED-COUNT-NEG.md) — LIVE_FULL
+- [RETRIEVED_COUNT_SHADOW](pages/RETRIEVED-COUNT-SHADOW.md) — LIVE_FULL
+- [ROTATION_NORM_PRESERVATION_RESIDUAL](pages/ROTATION-NORM-PRESERVATION-RESIDUAL.md) — PARTIAL
+- [ROUNDING_POLICY (L8)](pages/ROUNDING-POLICY-L8.md) — LIVE_FULL
 - [run_triz_layer / run_triz_analysis_complete](pages/run-triz-layer-run-triz-analysis-complete.md) — LIVE_FULL
 - [runLoop / shouldBreak (Java)](pages/runLoop-shouldBreak-Java.md) — DEAD
 - [S=T·C·X_A / S′ composite (Java)](pages/S-T-C-X-A-S-composite-Java.md) — DEAD
 - [saturation (Java, 23_PROTOTYPE)](pages/saturation-Java-23-PROTOTYPE.md) — PARTIAL
+- [SCALE_POLICY_ENUM (L8)](pages/SCALE-POLICY-ENUM-L8.md) — LIVE_FULL
 - [SCS (KME derived)](pages/SCS-KME-derived.md) — LIVE_FULL
 - [SECOND_ORDER_RESPONSE (L6)](pages/SECOND-ORDER-RESPONSE-L6.md) — PARTIAL
+- [SECONDARY_FAMILY_RATIO](pages/SECONDARY-FAMILY-RATIO.md) — LIVE_FULL
 - [Sentence capacity 3-5/side (Java)](pages/Sentence-capacity-3-5-side-Java.md) — PARTIAL
+- [SHADOW_ACCEPTABILITY_GATE](pages/SHADOW-ACCEPTABILITY-GATE.md) — LIVE_FULL
+- [SHADOW_DEVIATION_SCORE](pages/SHADOW-DEVIATION-SCORE.md) — LIVE_FULL
+- [SHADOW_ENABLED](pages/SHADOW-ENABLED.md) — LIVE_FULL
+- [SHADOW_EVIDENCE_ALIGNMENT_DELTA](pages/SHADOW-EVIDENCE-ALIGNMENT-DELTA.md) — LIVE_FULL
+- [SHADOW_JUSTIFICATION_SCORE](pages/SHADOW-JUSTIFICATION-SCORE.md) — LIVE_FULL
 - [shadow_step](pages/shadow-step.md) — LIVE_FULL
+- [SHADOW_WITHIN_LIMITS](pages/SHADOW-WITHIN-LIMITS.md) — LIVE_FULL
+- [SI_AREA_LEAKAGE_PCT (L8)](pages/SI-AREA-LEAKAGE-PCT-L8.md) — LIVE_FULL
+- [SI_AREA_LEAKAGE_U1000 (L8)](pages/SI-AREA-LEAKAGE-U1000-L8.md) — LIVE_FULL
+- [SI_CONTRADICTION_PRESSURE_PCT (L8)](pages/SI-CONTRADICTION-PRESSURE-PCT-L8.md) — LIVE_FULL
+- [SI_CONTRADICTION_PRESSURE_U1000 (L8)](pages/SI-CONTRADICTION-PRESSURE-U1000-L8.md) — LIVE_FULL
+- [SI_COVERAGE_PCT (L8)](pages/SI-COVERAGE-PCT-L8.md) — LIVE_FULL
+- [SI_COVERAGE_U1000 (L8)](pages/SI-COVERAGE-U1000-L8.md) — LIVE_FULL
+- [SI_DOMINANCE_PCT (L8)](pages/SI-DOMINANCE-PCT-L8.md) — LIVE_FULL
+- [SI_DOMINANCE_U1000 (L8)](pages/SI-DOMINANCE-U1000-L8.md) — LIVE_FULL
+- [SI_ENTROPY_PCT (L8)](pages/SI-ENTROPY-PCT-L8.md) — LIVE_FULL
+- [SI_ENTROPY_U1000 (L8)](pages/SI-ENTROPY-U1000-L8.md) — LIVE_FULL
+- [SI_EVIDENCE_SUPPORT_PCT (L8)](pages/SI-EVIDENCE-SUPPORT-PCT-L8.md) — LIVE_FULL
+- [SI_EVIDENCE_SUPPORT_U1000 (L8)](pages/SI-EVIDENCE-SUPPORT-U1000-L8.md) — LIVE_FULL
+- [SI_GEOMETRIC_STABILITY_PCT (L8)](pages/SI-GEOMETRIC-STABILITY-PCT-L8.md) — LIVE_FULL
+- [SI_GEOMETRIC_STABILITY_U1000 (L8)](pages/SI-GEOMETRIC-STABILITY-U1000-L8.md) — LIVE_FULL
 - [SI_GLOBAL_STABILITY_PCT (L8)](pages/SI-GLOBAL-STABILITY-PCT-L8.md) — LIVE_FULL
 - [SI_GLOBAL_STABILITY_U1000 (L8)](pages/SI-GLOBAL-STABILITY-U1000-L8.md) — LIVE_FULL
+- [SI_SHADOW_DEVIATION_PCT (L8)](pages/SI-SHADOW-DEVIATION-PCT-L8.md) — LIVE_FULL
+- [SI_SHADOW_DEVIATION_U1000 (L8)](pages/SI-SHADOW-DEVIATION-U1000-L8.md) — LIVE_FULL
+- [SI_SYSTEM_CONFIDENCE_PCT (L8)](pages/SI-SYSTEM-CONFIDENCE-PCT-L8.md) — LIVE_FULL
 - [SI_SYSTEM_CONFIDENCE_U1000 (L8)](pages/SI-SYSTEM-CONFIDENCE-U1000-L8.md) — LIVE_FULL
+- [SI_TOTAL_TOKENS_COUNT (L8)](pages/SI-TOTAL-TOKENS-COUNT-L8.md) — LIVE_FULL
+- [SI_TRIG_REALITY_FLAG (L8)](pages/SI-TRIG-REALITY-FLAG-L8.md) — LIVE_FULL
 - [SIDES_PER_HEX](pages/SIDES-PER-HEX.md) — LIVE_FULL
+- [SIGNAL_TO_NOISE_RATIO](pages/SIGNAL-TO-NOISE-RATIO.md) — LIVE_FULL
+- [SIN_COS_IDENTITY_RESIDUAL](pages/SIN-COS-IDENTITY-RESIDUAL.md) — LIVE_FULL
+- [SPARSITY_INDEX](pages/SPARSITY-INDEX.md) — LIVE_FULL
 - [SPECTRAL_GAP (L6)](pages/SPECTRAL-GAP-L6.md) — LIVE_FULL
 - [SPI (KME derived)](pages/SPI-KME-derived.md) — LIVE_FULL
 - [SPS (KME derived)](pages/SPS-KME-derived.md) — LIVE_FULL
 - [SSR (KME derived)](pages/SSR-KME-derived.md) — LIVE_FULL
 - [SSS (KME derived)](pages/SSS-KME-derived.md) — LIVE_FULL
+- [STABILITY_ANOMALY_SCORE (L7)](pages/STABILITY-ANOMALY-SCORE-L7.md) — PARTIAL
 - [STABILITY_CURRENT_THRESHOLD / STABILITY_STALE_THRESHOLD](pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.md) — LIVE_FULL
 - [STABILITY_RADIUS (L6)](pages/STABILITY-RADIUS-L6.md) — LIVE_FULL
+- [STATE_DIFFUSE_SPREAD](pages/STATE-DIFFUSE-SPREAD.md) — LIVE_FULL
+- [STATE_DISTRIBUTED_BALANCED](pages/STATE-DISTRIBUTED-BALANCED.md) — LIVE_FULL
+- [STATE_FOCUSED_DOMINANT](pages/STATE-FOCUSED-DOMINANT.md) — LIVE_FULL
+- [STATE_TENSION_ELEVATED](pages/STATE-TENSION-ELEVATED.md) — LIVE_FULL
+- [STATE_UNSTABLE_TRANSITION](pages/STATE-UNSTABLE-TRANSITION.md) — LIVE_FULL
 - [structural analogy (extent term)](pages/structural-analogy-extent-term.md) — LIVE_FULL
 - [structural_coherence_pass](pages/structural-coherence-pass.md) — DEAD
+- [STRUCTURAL_STABILITY_INDEX](pages/STRUCTURAL-STABILITY-INDEX.md) — LIVE_FULL
+- [STRUCTURE_EVIDENCE_ALIGNMENT](pages/STRUCTURE-EVIDENCE-ALIGNMENT.md) — LIVE_FULL
 - [summaryFidelity / compressionRatio (Java)](pages/summaryFidelity-compressionRatio-Java.md) — DEAD
 - [SYSTEM_CONFIDENCE_SCORE (L7)](pages/SYSTEM-CONFIDENCE-SCORE-L7.md) — LIVE_FULL
 - [tau_s per-side truth (Java)](pages/tau-s-per-side-truth-Java.md) — DEAD
@@ -205,15 +419,39 @@ Sealed identity hubs (hand-authored under `structure/` — not parameter ITEMS):
 - [tension_from_conflict](pages/tension-from-conflict.md) — DEAD
 - [TEP (KME derived)](pages/TEP-KME-derived.md) — LIVE_FULL
 - [TER (KME derived)](pages/TER-KME-derived.md) — LIVE_FULL
+- [TOKEN_REDUNDANCY_RATIO](pages/TOKEN-REDUNDANCY-RATIO.md) — LIVE_FULL
+- [TOP_K](pages/TOP-K.md) — LIVE_FULL
+- [TOP_K_FAMILY_COVERAGE_BASELINE](pages/TOP-K-FAMILY-COVERAGE-BASELINE.md) — LIVE_FULL
+- [TOP_K_OVERLAP_RATIO](pages/TOP-K-OVERLAP-RATIO.md) — LIVE_FULL
 - [TOTAL_FAMILIES](pages/TOTAL-FAMILIES.md) — LIVE_FULL
 - [TOTAL_HEXES](pages/TOTAL-HEXES.md) — LIVE_FULL
+- [TOTAL_REACHABLE_NODES](pages/TOTAL-REACHABLE-NODES.md) — LIVE_FULL
 - [TOTAL_SIDES](pages/TOTAL-SIDES.md) — LIVE_FULL
+- [TOTAL_TOKENS](pages/TOTAL-TOKENS.md) — LIVE_FULL
 - [Transition matrix (W)](pages/Transition-matrix-W.md) — BEYOND
 - [transition_concentration_threshold](pages/transition-concentration-threshold.md) — LIVE_FULL
+- [TRAVERSAL_COMPACTNESS](pages/TRAVERSAL-COMPACTNESS.md) — LIVE_FULL
+- [TRAVERSAL_DEPTH_DELTA](pages/TRAVERSAL-DEPTH-DELTA.md) — LIVE_FULL
+- [TRAVERSAL_DEPTH_REACHED](pages/TRAVERSAL-DEPTH-REACHED.md) — LIVE_FULL
+- [TRAVERSAL_RADIUS_RATIO](pages/TRAVERSAL-RADIUS-RATIO.md) — LIVE_FULL
+- [TRAVERSAL_START_FAMILY](pages/TRAVERSAL-START-FAMILY.md) — LIVE_FULL
+- [TRAVERSAL_SYMMETRY_INDEX](pages/TRAVERSAL-SYMMETRY-INDEX.md) — LIVE_FULL
 - [TRI (KME derived)](pages/TRI-KME-derived.md) — LIVE_FULL
+- [TRIANGLE_INEQUALITY_VIOLATION_COUNT](pages/TRIANGLE-INEQUALITY-VIOLATION-COUNT.md) — PARTIAL
 - [TRIZ contradiction core hub](pages/TRIZ-contradiction-core-hub.md) — BEYOND
+- [TRIZ decision-intelligence exports](pages/TRIZ-decision-intelligence-exports.md) — LIVE_FULL
+- [TRUST_TIER](pages/TRUST-TIER.md) — LIVE_FULL
 - [ultra_sparse_coverage_threshold](pages/ultra-sparse-coverage-threshold.md) — LIVE_FULL
+- [UNIQUE_AREAS_HIT](pages/UNIQUE-AREAS-HIT.md) — LIVE_FULL
 - [unique_areas_max](pages/unique-areas-max.md) — LIVE_FULL
+- [UNIQUE_BOOKS_BASELINE](pages/UNIQUE-BOOKS-BASELINE.md) — LIVE_FULL
+- [UNIQUE_BOOKS_SHADOW](pages/UNIQUE-BOOKS-SHADOW.md) — LIVE_FULL
+- [UNIQUE_FAMILIES_HIT](pages/UNIQUE-FAMILIES-HIT.md) — LIVE_FULL
+- [UNIQUE_FAMILIES_HIT_DELTA](pages/UNIQUE-FAMILIES-HIT-DELTA.md) — LIVE_FULL
+- [UNIT_TYPE_ENUM (L8)](pages/UNIT-TYPE-ENUM-L8.md) — LIVE_FULL
 - [utility / strategicScore / actionScore (Java)](pages/utility-strategicScore-actionScore-Java.md) — DEAD
+- [VISITED_IDS](pages/VISITED-IDS.md) — LIVE_FULL
+- [VISITED_JACCARD_SIMILARITY](pages/VISITED-JACCARD-SIMILARITY.md) — LIVE_FULL
+- [VISITED_SYMMETRIC_DIFFERENCE_RATIO](pages/VISITED-SYMMETRIC-DIFFERENCE-RATIO.md) — LIVE_FULL
 - [Wiener feedback on alpha (k_s / k_j)](pages/Wiener-feedback-on-alpha-k-s-k-j.md) — LIVE_SUCCESSOR
 - [X_A / X_F alignment (Java)](pages/X-A-X-F-alignment-Java.md) — PARTIAL

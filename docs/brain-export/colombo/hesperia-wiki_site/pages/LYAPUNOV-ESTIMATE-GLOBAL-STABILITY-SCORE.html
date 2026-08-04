@@ -180,6 +180,33 @@ Control Theory</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_6.py:76-77</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>a single number claiming 'how stable is this read' from condition + a
+Lyapunov-named proxy.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/CONDITION-NUMBER-L6.html">CONDITION_NUMBER (L6)</a>, <a
+href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS (L6)</a></li>
+<li><strong>Does:</strong> GLOBAL_STABILITY_SCORE = 1 / (1 +
+CONDITION_NUMBER + |LYAPUNOV_ESTIMATE|) — single-step
+perturbation-growth proxy.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/CONCEPTUAL-COHERENCE-INDEX-L6.html">CONCEPTUAL_COHERENCE_INDEX
+(L6)</a>, <em>sphere/pipeline/contract_validation.py contract</em>, <a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a>, <a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a>, <a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a>, <a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a>, <a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
+<li><strong>Exists for:</strong> SCIENCE.md honesty — not a literal
+Lyapunov exponent</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>GLOBAL_STABILITY_SCORE = 1 / (1 + CONDITION_NUMBER +
 |LYAPUNOV_ESTIMATE|) — single-step perturbation-growth proxy.</p>
@@ -196,6 +223,48 @@ Control Theory</a><br />
 href="../pages/CONCEPTUAL-COHERENCE-INDEX-L6.html">CONCEPTUAL_COHERENCE_INDEX
 (L6)</a></li>
 <li><em>sphere/pipeline/contract_validation.py contract</em></li>
+<li><a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a></li>
+<li><a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a></li>
+<li><a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/CONDITION-NUMBER-L6.html">CONDITION_NUMBER
+(L6)</a></li>
+<li><a href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS
+(L6)</a></li>
+<li><a
+href="../pages/CONCEPTUAL-COHERENCE-INDEX-L6.html">CONCEPTUAL_COHERENCE_INDEX
+(L6)</a></li>
+<li><a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a></li>
+<li><a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a></li>
+<li><a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
+<li><a href="../pages/structural-analogy-extent-term.html">structural
+analogy (extent term)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Lyapunov (1892), <em>General Problem of the Stability of Motion</em>
@@ -218,6 +287,7 @@ href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS (L6)</a>, <a
 href="../pages/SPECTRAL-GAP-L6.html">SPECTRAL_GAP (L6)</a>.</p>
 <hr />
 <p><a href="../categories/Stability-and-Control-Theory.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

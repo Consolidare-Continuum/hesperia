@@ -182,14 +182,49 @@ Science</a><br />
 <code>n/a — not in DEFAULT_CONFIG</code><br />
 <strong>Value / default:</strong> ALPHA=0.35, BETA=0.30, GAMMA=0.25,
 DELTA=0.20</p>
-<h2 id="yields-formula">Yields (formula)</h2>
+<h2 id="in-plain-words">In plain words</h2>
 <p>4-constant exponential decay model driving contextIntegrity /
 forecastIntegrity / regionReliability.</p>
-<h2 id="origin">Origin</h2>
-<p>Java 21_MATH v1.1 (Stability Control Formalization)</p>
-<h2 id="notes">Notes</h2>
-<p><strong>Documented design pivot</strong>: shipped control is additive
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> 4-constant exponential <a
+href="../pages/decay.html">decay</a> model driving contextIntegrity /
+forecastIntegrity / regionReliability.</li>
+<li><strong>Outputs:</strong>
+<code>ALPHA=0.35, BETA=0.30, GAMMA=0.25, DELTA=0.20</code> → <a
+href="../pages/metric-governance.html">metric_governance</a></li>
+<li><strong>Exists for:</strong> shipped control is additive
 penalty-governance (<a
+href="../pages/metric-governance.html">metric_governance</a>), not
+multiplicative exponential-integrity powers — easier to reason about and
+CI-test per-penalty</li>
+</ul>
+<h2 id="yields-formula">Yields (formula)</h2>
+<p>4-constant exponential <a href="../pages/decay.html">decay</a> model
+driving contextIntegrity / forecastIntegrity / regionReliability.</p>
+<h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+</ul>
+<h2 id="origin">Origin</h2>
+<p>Java 21_MATH v1.1 (Stability Control Formalization) — Theory
+Explainer: plain_lang: 4-constant exponential decay model driving
+contextIntegrity / forecastIntegrity / regionReliability. author:
+Hesperia wiki (n/a — not in DEFAULT_CONFIG). extent: dead. reasoning:
+shipped control is additive penalty-governance (<a
+href="../pages/metric-governance.html">metric_governance</a>), not
+multiplicative exponential-integrity powers — easier to reason about and
+CI-test per-penalty. application: Dead and Rejected Science.</p>
+<h2 id="notes">Notes</h2>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>Documented design pivot</strong>:
+shipped control is additive penalty-governance (<a
 href="../pages/metric-governance.html">metric_governance</a>), not
 multiplicative exponential-integrity powers — easier to reason about and
 CI-test per-penalty. <a
@@ -199,6 +234,7 @@ underlying question ('will this read degrade'), via a different,
 honestly-labeled proxy.</p>
 <hr />
 <p><a href="../categories/Dead-and-Rejected-Science.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

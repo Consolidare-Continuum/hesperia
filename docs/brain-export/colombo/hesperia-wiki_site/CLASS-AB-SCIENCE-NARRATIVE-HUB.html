@@ -175,19 +175,38 @@ Class B science narrative hub (HWIKI-DOC-28)</h1>
 <strong>Owners:</strong> Ethan + Colombo</p>
 <h2 id="purpose">Purpose</h2>
 <p>Bind wiki theory pages to Hesperia modular architecture —
-<strong>Class A (cored)</strong> vs <strong>Class B (non-cored)</strong>
-— so science narratives do not smuggle Class B into sealed
+<strong>Class A (universal,
+<code>hesperia/modules/default/</code>)</strong> vs <strong>Class B
+(branch, <code>hesperia/modules/&lt;branch&gt;/</code>)</strong> — so
+science narratives do not smuggle Class B into sealed
 <code>/analyze</code> stacks.</p>
+<p><strong>Location correction 2026-08-04:</strong> neither class lives
+inside <code>core/</code> — <code>core/</code> holds zero
+module-registry-shaped code as of this date
+(dict_a/dict_b/topology/metrics moved <code>core/runtime/</code> →
+<code>hesperia/modules/default/</code>). "Cored" below is legacy
+terminology meaning "universal, registered with core" — not a physical
+location claim.</p>
 <p>Refs: <a
 href="../HESPERIA-MODULAR-BRANCH-ARCHITECTURE.html">HESPERIA-MODULAR-BRANCH-ARCHITECTURE.md</a>
-§2c · <a
+§2c (see its own 2026-08-04 correction note) · <a
 href="TEMPLATES-DECISION-THEORY.html">TEMPLATES-DECISION-THEORY.md</a></p>
-<h2 id="class-a-cored--wiki-binding">Class A (cored) — wiki binding</h2>
-<p>Core / TFP / MRT / COBALT sealed math: LIVE pages must cite engine
-modules + call sites (CODE template). Theory pages (Shannon, Markov λ,
-tension, etc.) explain <strong>why the formula exists in the cored
-path</strong>.</p>
-<h2 id="class-b-non-cored">Class B (non-cored)</h2>
+<h2 id="class-a-universal--wiki-binding">Class A (universal) — wiki
+binding</h2>
+<p><code>hesperia/modules/default/</code>
+(dict_a/dict_b/topology/metrics/nlp) / TFP / MRT / COBALT sealed math:
+LIVE pages must cite engine modules + call sites (CODE template). Theory
+pages (Shannon, Markov λ, tension, etc.) explain <strong>why the formula
+exists in the registered-with-core path</strong> — not "inside core"
+itself.</p>
+<p>Also Class-A-shaped but <em>not</em> module-registry-shaped, living
+directly in <code>core/domain/</code> alongside KME (pure-function
+derived-measurement, not
+<code>provides</code>/<code>requires</code>/<code>create()</code>):
+<code>core/domain/ksi/</code> (KSI-Inspector) and
+<code>sphere/topology/ipov/</code>/<code>sphere/topology/gtp/</code>
+(positional/geometry math) — added 2026-08-04.</p>
+<h2 id="class-b-branch">Class B (branch)</h2>
 <p>Psy / IT / semantic attribution / themes: wiki may document, but must
 label <strong>Class B</strong> and must not imply membership in sealed
 analyze core.</p>

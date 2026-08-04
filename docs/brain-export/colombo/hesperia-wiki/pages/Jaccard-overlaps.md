@@ -6,6 +6,17 @@
 **Responsible (module):** `core/layers/layer_3.py (VISITED_JACCARD_SIMILARITY); layer_4._jaccard`  
 **Value / default:** —
 
+## In plain words
+
+of the union of two sets, what fraction is shared — overlap without caring about order.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** Set overlap |A∩B|/|A∪B| — HIT/VISITED/evidence/bookset overlap variables.
+- **Outputs:** `—` → [BM25 retrieval](../pages/BM25-retrieval.md), [cosine_similarity](../pages/cosine-similarity.md)
+- **Exists for:** SCIENCE.md L3/L4 lineage table
+
 ## Yields (formula)
 
 Set overlap |A∩B|/|A∪B| — HIT/VISITED/evidence/bookset overlap variables.
@@ -15,13 +26,18 @@ Set overlap |A∩B|/|A∪B| — HIT/VISITED/evidence/bookset overlap variables.
 - [BM25 retrieval](../pages/BM25-retrieval.md)
 - [cosine_similarity](../pages/cosine-similarity.md)
 
+## See also
+
+- [BM25 retrieval](../pages/BM25-retrieval.md)
+- [cosine_similarity](../pages/cosine-similarity.md)
+
 ## Origin
 
-Paul Jaccard (1901) — Theory Explainer: plain_lang: of the union of two sets, what fraction is shared — overlap without caring about order. author: Paul Jaccard (1901). extent: full (verbatim). reasoning: SCIENCE.md L3/L4 lineage table. application: VISITED_JACCARD_SIMILARITY, HIT_EVIDENCE_OVERLAP_*, EVIDENCE_JACCARD_BS, BOOKSET_JACCARD_BS.
+Paul Jaccard (1901) — Theory Explainer: plain_lang: of the union of two sets, what fraction is shared — overlap without caring about order. author: Paul Jaccard (1901). extent: full (verbatim). reasoning: SCIENCE.md L3/L4 lineage table. application: [VISITED_JACCARD_SIMILARITY](../pages/VISITED-JACCARD-SIMILARITY.md), HIT_EVIDENCE_OVERLAP_*, EVIDENCE_JACCARD_BS, BOOKSET_JACCARD_BS.
 
 ## Notes
 
 **HWIKI-DOC-16:** Product overlap applications across L3/L4.
 
 ---
-[← back to category](../categories/Similarity-and-Retrieval.md) · [wiki home](../index.md)
+[← back to category](../categories/Similarity-and-Retrieval.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

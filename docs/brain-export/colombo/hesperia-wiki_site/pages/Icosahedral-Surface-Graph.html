@@ -178,6 +178,28 @@ href="../categories/Geometry.html">Geometry</a><br />
 <code>assets/topology/area_adjacency_matrix.json, sphere/topology/embedding.py</code><br />
 <strong>Value / default:</strong> 12 nodes, 30 edges, 5-regular
 (<code>degree_per_node: 5</code>)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>think of the 12 therapy areas as the corners of a 20-faced solid;
+each corner touches exactly five others (5-regular), so 'next area' is
+neighborhood on a sphere, not a circle.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a href="../pages/AREAS.html">AREAS</a>,
+<a href="../pages/PHI-golden-ratio.html">PHI (golden ratio)</a></li>
+<li><strong>Does:</strong> The 12 areas are literal icosahedron
+vertices; <code>validate_embedding_matches_topology</code> enforces that
+every graph edge has near-equal angular length and every non-edge is
+strictly longer.</li>
+<li><strong>Outputs:</strong>
+<code>12 nodes, 30 edges, 5-regular (</code>degree_per_node:
+5<code>)</code> → <a
+href="../pages/compute-tension.html">compute_tension</a>,
+<em>angular_distance</em>, <a
+href="../pages/DFT-Ring-Smoothness.html">DFT Ring Smoothness</a>, <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><strong>Exists for:</strong> this graph is the substrate for tension
+and for rejecting ring-DFT</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>The 12 areas are literal icosahedron vertices;
 <code>validate_embedding_matches_topology</code> enforces that every
@@ -194,6 +216,18 @@ longer.</p>
 <li><em>angular_distance</em></li>
 <li><a href="../pages/DFT-Ring-Smoothness.html">DFT Ring
 Smoothness</a></li>
+<li><a href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/AREAS.html">AREAS</a></li>
+<li><a href="../pages/PHI-golden-ratio.html">PHI (golden ratio)</a></li>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+<li><a href="../pages/DFT-Ring-Smoothness.html">DFT Ring
+Smoothness</a></li>
+<li><a href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><a href="../pages/FAMILIES-PER-AREA.html">FAMILIES_PER_AREA</a></li>
+<li><a href="../pages/TOTAL-FAMILIES.html">TOTAL_FAMILIES</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Regular icosahedron (Platonic solid) — Theory Explainer: plain_lang:
@@ -207,12 +241,14 @@ href="../pages/compute-tension.html">compute_tension</a>, <a
 href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a>, contrast <a
 href="../pages/DFT-Ring-Smoothness.html">DFT Ring Smoothness</a>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-DOC-10:</strong> <strong>Decisive fact against DFT Ring
-Smoothness</strong>: a meaningful ring-DFT needs a 2-regular cyclic
+<p><strong>HWIKI-DOC-10:</strong> <strong>Decisive fact against <a
+href="../pages/DFT-Ring-Smoothness.html">DFT Ring
+Smoothness</a></strong>: a meaningful ring-DFT needs a 2-regular cyclic
 graph (C₁₂); the built topology is 5-regular. See <a
 href="../pages/DFT-Ring-Smoothness.html">DFT Ring Smoothness</a>.</p>
 <hr />
 <p><a href="../categories/Geometry.html">← back to category</a> · <a
-href="../index.html">wiki home</a></p>
+href="../index.html">wiki home</a> · <a href="Wiki-Wire-Map.html">Wire
+Map</a></p>
 </body>
 </html>

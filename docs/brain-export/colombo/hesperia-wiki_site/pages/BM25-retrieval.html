@@ -178,11 +178,34 @@ Retrieval</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_4.py + defaults RETRIEVAL_MODE_ID</code><br />
 <strong>Value / default:</strong> RETRIEVAL_MODE_ID=LEX_BM25_V1</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>classic search ranking that scores how well a query's terms match a
+document, with length normalization.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> Standard BM25 ranking for L4 lexical evidence
+retrieval.</li>
+<li><strong>Outputs:</strong> <code>RETRIEVAL_MODE_ID=LEX_BM25_V1</code>
+→ <a href="../pages/Jaccard-overlaps.html">Jaccard overlaps</a>, <a
+href="../pages/L4-Evidence-Retrieval.html">L4 — Evidence
+Retrieval</a></li>
+<li><strong>Exists for:</strong> SCIENCE.md L4; BEYOND Java corpus</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Standard BM25 ranking for L4 lexical evidence retrieval.</p>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/Jaccard-overlaps.html">Jaccard overlaps</a></li>
+<li><a href="../pages/L4-Evidence-Retrieval.html">L4 — Evidence
+Retrieval</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/Jaccard-overlaps.html">Jaccard overlaps</a></li>
+<li><a href="../pages/L4-Evidence-Retrieval.html">L4 — Evidence
+Retrieval</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Robertson &amp; Spärck Jones (1976) — Theory Explainer: plain_lang:
@@ -198,6 +221,7 @@ diagnostics.</p>
 BEYOND retrieval path.</p>
 <hr />
 <p><a href="../categories/Similarity-and-Retrieval.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

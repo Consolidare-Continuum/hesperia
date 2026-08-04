@@ -178,6 +178,28 @@ Science</a><br />
 <strong>Responsible (module):</strong>
 <code>n/a — zero matches for </code>np.fft<code>/</code>scipy.fft<code>/</code>ringSmoothness<code>in any</code>.py``<br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>a ring Fourier smoothness score needs areas arranged on a circle
+(each has two neighbors); Hesperia's areas sit on an icosahedron where
+each has five neighbors — wrong topology for that DFT.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/Icosahedral-Surface-Graph.html">Icosahedral Surface
+Graph</a></li>
+<li><strong>Does:</strong> Fourier/DFT-based smoothness measure over a
+proposed 12-area ring (<code>AREA_RING_ORDER</code>), plus a Java
+<code>Complex</code> class.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/Icosahedral-Surface-Graph.html">Icosahedral Surface
+Graph</a>, <a
+href="../pages/compute-entropy-Shannon.html">compute_entropy
+(Shannon)</a></li>
+<li><strong>Exists for:</strong> <a
+href="../pages/Icosahedral-Surface-Graph.html">Icosahedral Surface
+Graph</a> is 5-regular (<code>degree_per_node: 5</code> in adjacency
+JSON); ring-DFT needs 2-regular C₁₂</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Fourier/DFT-based smoothness measure over a proposed 12-area ring
 (<code>AREA_RING_ORDER</code>), plus a Java <code>Complex</code>
@@ -186,6 +208,20 @@ class.</p>
 <ul>
 <li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
 Surface Graph</a></li>
+</ul>
+<h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
+Surface Graph</a></li>
+<li><a href="../pages/compute-entropy-Shannon.html">compute_entropy
+(Shannon)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
+Surface Graph</a></li>
+<li><a href="../pages/compute-entropy-Shannon.html">compute_entropy
+(Shannon)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a
@@ -206,6 +242,7 @@ verify degree: <code>assets/topology/area_adjacency_matrix.json</code>
 <code>degree_per_node: 5</code>. Not an oversight.</p>
 <hr />
 <p><a href="../categories/Dead-and-Rejected-Science.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -178,6 +178,27 @@ Control Theory</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_6.py (L6_LIVE_FIELDS)</code><br />
 <strong>Value / default:</strong> mass_at_depth[1]/mass_at_depth[0]</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how much activation mass grows from BFS depth 0 to depth 1 —
+mass_at_depth[1] over mass_at_depth[0]; 0 if the ladder is too
+short.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> DEPTH_GROWTH_RATIO = mass_at_depth[1] /
+(mass_at_depth[0] + eps) when len≥2 and mass[0]&gt;0; else 0.</li>
+<li><strong>Outputs:</strong>
+<code>mass_at_depth[1]/mass_at_depth[0]</code> → <a
+href="../pages/FIBONACCI-DEVIATION-SCORE-L6.html">FIBONACCI_DEVIATION_SCORE
+(L6)</a>, <a
+href="../pages/EXPONENTIAL-FIT-ERROR-L6.html">EXPONENTIAL_FIT_ERROR
+(L6)</a>, <a
+href="../pages/POWER-LAW-FIT-ERROR-L6.html">POWER_LAW_FIT_ERROR
+(L6)</a></li>
+<li><strong>Exists for:</strong> LIVE L6 depth-growth signal from the
+activation mass ladder</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>DEPTH_GROWTH_RATIO = mass_at_depth[1] / (mass_at_depth[0] + eps) when
 len≥2 and mass[0]&gt;0; else 0.</p>
@@ -189,14 +210,39 @@ href="../pages/FIBONACCI-DEVIATION-SCORE-L6.html">FIBONACCI_DEVIATION_SCORE
 <li><a
 href="../pages/EXPONENTIAL-FIT-ERROR-L6.html">EXPONENTIAL_FIT_ERROR
 (L6)</a></li>
+<li><a href="../pages/POWER-LAW-FIT-ERROR-L6.html">POWER_LAW_FIT_ERROR
+(L6)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/FIBONACCI-DEVIATION-SCORE-L6.html">FIBONACCI_DEVIATION_SCORE
+(L6)</a></li>
+<li><a
+href="../pages/EXPONENTIAL-FIT-ERROR-L6.html">EXPONENTIAL_FIT_ERROR
+(L6)</a></li>
+<li><a href="../pages/POWER-LAW-FIT-ERROR-L6.html">POWER_LAW_FIT_ERROR
+(L6)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>39_SPEC Layer-6 Group IV</p>
+<p>39_SPEC Layer-6 Group IV — Theory Explainer: plain_lang: how much
+activation mass grows from BFS depth 0 to depth 1 — mass_at_depth[1]
+over mass_at_depth[0]; 0 if the ladder is too short. author: Hesperia
+wiki (core/layers/layer_6.py (L6_LIVE_FIELDS)). extent: full. reasoning:
+LIVE L6 depth-growth signal from the activation mass ladder.
+application: <a
+href="../pages/FIBONACCI-DEVIATION-SCORE-L6.html">FIBONACCI_DEVIATION_SCORE
+(L6)</a>, <a
+href="../pages/EXPONENTIAL-FIT-ERROR-L6.html">EXPONENTIAL_FIT_ERROR
+(L6)</a>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L6-02:</strong> Truly LIVE depth-growth signal from
-activation mass ladder — not a stub.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L6-02:</strong> Truly LIVE
+depth-growth signal from activation mass ladder — not a stub.</p>
 <hr />
 <p><a href="../categories/Stability-and-Control-Theory.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -177,19 +177,60 @@ href="../categories/Geometry.html">Geometry</a><br />
 <strong>Responsible (module):</strong>
 <code>hex census tooling</code><br />
 <strong>Value / default:</strong> 72,000 (72,240 GCS defect variant)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>finest hex count under the ontology — TOTAL_FAMILIES × <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a>; Euler checks
+use this lattice size.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/TOTAL-FAMILIES.html">TOTAL_FAMILIES</a>, <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a></li>
+<li><strong>Does:</strong> TOTAL_HEXES = TOTAL_FAMILIES × <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a>; Euler's
+theorem requires 12 pentagon defects to close a hex sphere, which
+produces the 72,240 GCS variant.</li>
+<li><strong>Outputs:</strong>
+<code>72,000 (72,240 GCS defect variant)</code> → <a
+href="../pages/TOTAL-SIDES.html">TOTAL_SIDES</a></li>
+<li><strong>Exists for:</strong> hex substrate census</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
-<p>TOTAL_HEXES = TOTAL_FAMILIES × HEXES_PER_FAMILY; Euler's theorem
-requires 12 pentagon defects to close a hex sphere, which produces the
-72,240 GCS variant.</p>
+<p>TOTAL_HEXES = TOTAL_FAMILIES × <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a>; Euler's
+theorem requires 12 pentagon defects to close a hex sphere, which
+produces the 72,240 GCS variant.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/TOTAL-FAMILIES.html">TOTAL_FAMILIES</a></li>
 <li><a href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a></li>
 </ul>
+<h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/TOTAL-SIDES.html">TOTAL_SIDES</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/TOTAL-FAMILIES.html">TOTAL_FAMILIES</a></li>
+<li><a href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a></li>
+<li><a href="../pages/TOTAL-SIDES.html">TOTAL_SIDES</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>Java 20_GEOMETRY + Euler closed-sphere constraint (SCIENCE.md)</p>
+<p>Java 20_GEOMETRY + Euler closed-sphere constraint (SCIENCE.md) —
+Theory Explainer: plain_lang: finest hex count under the ontology —
+TOTAL_FAMILIES × <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a>; Euler checks
+use this lattice size. author: Hesperia wiki (hex census tooling).
+extent: full. reasoning: hex substrate census. application: <a
+href="../pages/TOTAL-FAMILIES.html">TOTAL_FAMILIES</a>, <a
+href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a>.</p>
+<h2 id="notes">Notes</h2>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04.</p>
 <hr />
 <p><a href="../categories/Geometry.html">← back to category</a> · <a
-href="../index.html">wiki home</a></p>
+href="../index.html">wiki home</a> · <a href="Wiki-Wire-Map.html">Wire
+Map</a></p>
 </body>
 </html>

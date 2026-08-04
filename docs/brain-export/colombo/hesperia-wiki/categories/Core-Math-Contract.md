@@ -10,6 +10,7 @@
 | [decay](../pages/decay.md) | LIVE_FULL | Parameter (constant) |
 | [E_cap](../pages/E-cap.md) | LIVE_FULL | Parameter (constant) |
 | [Energy conservation epsilon](../pages/Energy-conservation-epsilon.md) | LIVE_FULL | Invariant (constant) |
+| [energy_conservation_tolerance](../pages/energy-conservation-tolerance.md) | LIVE_FULL | Parameter (constant) |
 | [eta (centroid threshold)](../pages/eta-centroid-threshold.md) | LIVE_FULL | Parameter (constant) |
 | [K_max](../pages/K-max.md) | LIVE_FULL | Parameter (constant) |
 | [lambda (lazy step)](../pages/lambda-lazy-step.md) | LIVE_FULL | Parameter (constant) |

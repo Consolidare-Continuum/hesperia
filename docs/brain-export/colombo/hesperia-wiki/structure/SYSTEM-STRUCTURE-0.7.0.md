@@ -24,10 +24,13 @@ flowchart TB
   subgraph identity["Identity"]
     V["VERSION.yaml system_version 0.7.0"]
   end
-  subgraph core["Core — Class A measurement"]
+  subgraph core["Core — sealed physics, zero module shapes"]
     A["POST /analyze"]
     S["analysis_service → sealed_multiscale_stack"]
     G["hex → family → area → product signals → HSPR"]
+  end
+  subgraph classA["hesperia/modules/default/ — Class A, registered not consolidated"]
+    DA["dict_a / dict_b / topology / metrics"]
   end
   subgraph compose["Composition — not new physics"]
     I["POST /product/interpret"]
@@ -46,6 +49,7 @@ flowchart TB
   V --> A
   V --> I
   A --> S --> G
+  DA -.->|registered via module_aliases.py, not merged into core| S
   I --> R --> GT
   G -.->|engine_trace consumed| R
   TFP -.->|envelope only| I
@@ -62,9 +66,15 @@ flowchart TB
 |-------|---------|----------------------|
 | **Core /analyze** | Where does this text land on the semantic grid, deterministically? | `runtime/shipping/api_main.py` `POST /analyze` · `runtime/services/analysis_service.py` · `hesperia/engine/sealed_multiscale_stack.py` |
 | **Product interpret** | What structural / agent-facing interpretation sits *above* sealed measurement? | `POST /product/interpret` · `runtime/services/product_interpret_service.py` · `sphere/router/*` · `sphere/router/ground_truth.py` |
-| **Class A modules** | Universal plumbing safe to consolidate into core | `dict_a` / `dict_b`, topology, nlp, metrics — see [CLASS-AB hub](../CLASS-AB-SCIENCE-NARRATIVE-HUB.md) |
+| **Class A modules** | Universal plumbing, registered with core but never merged into it | `dict_a` / `dict_b`, topology, metrics → `hesperia/modules/default/`; `nlp` → `hesperia/modules/nlp/` — see [CLASS-AB hub](../CLASS-AB-SCIENCE-NARRATIVE-HUB.md) |
 | **Class B modules** | Domain/theme/attribution — must **not** fold into sealed `/analyze` | TFP · MRT · COBALT |
 | **Apply (H070)** | May we mutate the governed graph? | Allowlist-gated; seal did **not** flip open apply |
+
+**2026-08-04 additions (not yet in the 0.7.0 seal, landed same day as the Class A re-home above):**
+
+- `core/domain/ksi/` — KSI-Inspector (Φ_e → Expected_j → residual → incident classifiers → mirror deficit → bridge need), same category as `core/domain/derived_metrics.py` (KME): pure-function derived-measurement over Hesperia's own concept-activation graph, not a registered module. Drained from a Tersagor vendored copy that had it built but never merged upstream.
+- `sphere/topology/ipov/` — full IPoV (`InteriorPointOfWorldView`, `PoWVState`, anchor/surface-event geometry) — this is METRIC-23/HRES-04, previously listed as deferred in `release/v0.7.0/RELEASE_SCOPE.md`. Sibling to `sphere/topology/gtp/`, both "where is the reader positioned in the concept sphere" concerns. Distinct from `sphere/topology/gtp/ipow.py`'s deliberately narrow PointZero-only stub.
+- Neither is wired into `/analyze` or `/product/interpret` yet — code landed, live-emit wiring is a separate follow-on step.
 
 ---
 

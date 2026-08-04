@@ -6,17 +6,46 @@
 **Responsible (module):** `n/a`  
 **Value / default:** —
 
+## In plain words
+
+Composite structural score combining truth, coherence, and area/family alignment shares.
+
+## Definition
+
+- **Receives:** [KL divergence](../pages/KL-divergence.md)
+- **Does:** Composite structural score combining truth, coherence, and area/family alignment shares.
+- **Outputs:** `—` → *no named wiki consumer yet*
+- **Exists for:** Six-key metrics (governance, obstacle_score, tension family) replaced the instinct of one composite S; see [metric_governance](../pages/metric-governance.md)
+
 ## Yields (formula)
 
 Composite structural score combining truth, coherence, and area/family alignment shares.
 
+## Produced from (inputs)
+
+- [KL divergence](../pages/KL-divergence.md)
+
+## See also
+
+- [KL divergence](../pages/KL-divergence.md)
+- [meanTau/varTau/stdTau/fillingRate/adjacencyCorrelation (Java)](../pages/meanTau-varTau-stdTau-fillingRate-adjacencyCorrelation-Java.md)
+- [expectedTimeToObstacle (Java)](../pages/expectedTimeToObstacle-Java.md)
+- [utility / strategicScore / actionScore (Java)](../pages/utility-strategicScore-actionScore-Java.md)
+- [causalCoherence / decisionIntegrity / temporalStability (Java)](../pages/causalCoherence-decisionIntegrity-temporalStability-Java.md)
+- [IPS / QCS (Java)](../pages/IPS-QCS-Java.md)
+- [domainFit / scaleConsistency / compatibilityScore (Java)](../pages/domainFit-scaleConsistency-compatibilityScore-Java.md)
+- [runLoop / shouldBreak (Java)](../pages/runLoop-shouldBreak-Java.md)
+- [summaryFidelity / compressionRatio (Java)](../pages/summaryFidelity-compressionRatio-Java.md)
+- [Sentence capacity 3-5/side (Java)](../pages/Sentence-capacity-3-5-side-Java.md)
+- [tau_s per-side truth (Java)](../pages/tau-s-per-side-truth-Java.md)
+
 ## Origin
 
-Java 20_GEOMETRY
+Java 20_GEOMETRY — Theory Explainer: plain_lang: Composite structural score combining truth, coherence, and area/family alignment shares. author: Hesperia wiki (n/a). extent: dead. reasoning: Six-key metrics (governance, obstacle_score, tension family) replaced the instinct of one composite S; see [metric_governance](../pages/metric-governance.md). application: Dead and Rejected Science.
 
 ## Notes
 
-Six-key metrics (governance, obstacle_score, tension family) replaced the instinct of one composite S; see [metric_governance](../pages/metric-governance.md).
+**HWIKI-WIRE:** attached to category anchor [KL divergence](../pages/KL-divergence.md). **HWIKI-PLAIN-B:** plain_lang backfilled from formula/notes 2026-08-04. Six-key metrics (governance, obstacle_score, tension family) replaced the instinct of one composite S; see [metric_governance](../pages/metric-governance.md).
 
 ---
-[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md)
+[← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

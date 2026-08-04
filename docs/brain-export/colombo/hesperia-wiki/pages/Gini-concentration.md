@@ -6,11 +6,27 @@
 **Responsible (module):** `core/layers/layer_1.py:_compute_gini (GINI_COEFFICIENT); also layer_4._gini`  
 **Value / default:** —
 
+## In plain words
+
+how unevenly hits/activation are piled onto a few families versus spread evenly — inequality as concentration.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** Sorted-array Gini coefficient — concentration alongside entropy (the two can disagree in direction on the same distribution).
+- **Outputs:** `—` → [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md), [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md)
+- **Exists for:** SCIENCE.md L1; independent concentration measure alongside Shannon
+
 ## Yields (formula)
 
 Sorted-array Gini coefficient — concentration alongside entropy (the two can disagree in direction on the same distribution).
 
 ## Needed by (consumers)
+
+- [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md)
+- [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md)
+
+## See also
 
 - [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md)
 - [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md)
@@ -24,4 +40,4 @@ Corrado Gini (1912), *Variabilità e mutabilità* — Theory Explainer: plain_la
 **HWIKI-DOC-14:** Concentration alongside entropy — not a Shannon substitute.
 
 ---
-[← back to category](../categories/Entropy-and-Information-Theory.md) · [wiki home](../index.md)
+[← back to category](../categories/Entropy-and-Information-Theory.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

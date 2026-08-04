@@ -179,6 +179,26 @@ Contract</a><br />
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> w_decay=0.50, w_guard_obs=0.30,
 w_shadow_obs=0.20 (CI-enforced sum = 1.0 ± 1e-6)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>a weighted health tax from <a href="../pages/decay.html">decay</a>
+loss, guard failures, and shadow hops — higher means the run paid more
+structural friction.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a href="../pages/decay.html">decay</a>,
+<a href="../pages/P-guard-guard-penalty.html">P_guard (guard
+penalty)</a>, <a
+href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow (shadow-hop
+penalty)</a></li>
+<li><strong>Does:</strong> obstacle_score = w_decay·Loss +
+w_guard_obs·clamp(GuardCount,0,1) +
+w_shadow_obs·(shadow_hops/max_shadow_hops)</li>
+<li><strong>Outputs:</strong>
+<code>w_decay=0.50, w_guard_obs=0.30, w_shadow_obs=0.20 (CI-enforced sum = 1.0 ± 1e-6)</code>
+→ <em>no named wiki consumer yet</em></li>
+<li><strong>Exists for:</strong> composite obstacle score feeding
+governance</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>obstacle_score = w_decay·Loss + w_guard_obs·clamp(GuardCount,0,1) +
 w_shadow_obs·(shadow_hops/max_shadow_hops)</p>
@@ -190,13 +210,33 @@ penalty)</a></li>
 <li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
 (shadow-hop penalty)</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/decay.html">decay</a></li>
+<li><a href="../pages/P-guard-guard-penalty.html">P_guard (guard
+penalty)</a></li>
+<li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
+(shadow-hop penalty)</a></li>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>22_SPEC §12 / validate_config §16</p>
+<p>22_SPEC §12 / validate_config §16 — Theory Explainer: plain_lang: a
+weighted health tax from <a href="../pages/decay.html">decay</a> loss,
+guard failures, and shadow hops — higher means the run paid more
+structural friction. author: Hesperia wiki (core/math/core_math.py).
+extent: full. reasoning: composite obstacle score feeding governance.
+application: <a href="../pages/decay.html">decay</a>, <a
+href="../pages/P-guard-guard-penalty.html">P_guard (guard
+penalty)</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Weights encode a judgment (half from decay loss) — building a config
-where these three don't sum to 1 fails CI.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Weights encode a judgment (half from <a
+href="../pages/decay.html">decay</a> loss) — building a config where
+these three don't sum to 1 fails CI.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

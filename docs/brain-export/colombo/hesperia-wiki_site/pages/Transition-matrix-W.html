@@ -178,6 +178,27 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/transition_matrix.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>a table of 'from this area, probability of next area' built from
+counted moves, then normalized so each row sums to 1.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> Transition counts a_t -&gt; a_{t+1},
+row-normalized to a stochastic matrix.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>, <a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a>, <a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a>, <a
+href="../pages/Markov-like-term.html">Markov-like (term)</a>, <a
+href="../pages/decay-factor-propagation.html">decay_factor
+(propagation)</a></li>
+<li><strong>Exists for:</strong> BEYOND Java; supports lazy step and
+multi-step diffusion</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Transition counts a_t -&gt; a_{t+1}, row-normalized to a stochastic
 matrix.</p>
@@ -187,6 +208,25 @@ matrix.</p>
 <li><a
 href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
 Multi-Step</a></li>
+<li><a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a></li>
+<li><a href="../pages/Markov-like-term.html">Markov-like (term)</a></li>
+<li><a href="../pages/decay-factor-propagation.html">decay_factor
+(propagation)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a></li>
+<li><a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a></li>
+<li><a href="../pages/Markov-like-term.html">Markov-like (term)</a></li>
+<li><a href="../pages/decay-factor-propagation.html">decay_factor
+(propagation)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Markov (1906) finite-state formalism — Theory Explainer: plain_lang:
@@ -205,6 +245,7 @@ probabilities); not proposed in the Java corpus, built later for L6
 dynamism.</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

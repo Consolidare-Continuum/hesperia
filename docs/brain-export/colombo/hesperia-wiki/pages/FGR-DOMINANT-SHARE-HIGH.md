@@ -6,6 +6,17 @@
 **Responsible (module):** `sphere/fpf_bridge/constants.py`  
 **Value / default:** 0.35
 
+## In plain words
+
+when a dominant share exceeds 0.35, treat evidence trust tier as high under FGR.
+
+## Definition
+
+- **Receives:** [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+- **Does:** Trust tier on evidence, FPF FGR calculus.
+- **Outputs:** `0.35` → *no named wiki consumer yet*
+- **Exists for:** operationalizes Formality/Ground/Reliability into a share gate
+
 ## Yields (formula)
 
 Trust tier on evidence, FPF FGR calculus.
@@ -13,6 +24,11 @@ Trust tier on evidence, FPF FGR calculus.
 ## Produced from (inputs)
 
 - [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+
+## See also
+
+- [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+- [FGR freshness stability map](../pages/FGR-freshness-stability-map.md)
 
 ## Origin
 
@@ -23,4 +39,4 @@ FPF Part B.3 (Levenchuk) — Theory Explainer: plain_lang: when a dominant share
 **HWIKI-DOC-26:** DOMINANT_SHARE application of FGR.
 
 ---
-[← back to category](../categories/Activation-and-Diagnostic-Thresholds.md) · [wiki home](../index.md)
+[← back to category](../categories/Activation-and-Diagnostic-Thresholds.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

@@ -6,6 +6,17 @@
 **Responsible (module):** `core/math/transition_matrix.py`  
 **Value / default:** —
 
+## In plain words
+
+a table of 'from this area, probability of next area' built from counted moves, then normalized so each row sums to 1.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** Transition counts a_t -> a_{t+1}, row-normalized to a stochastic matrix.
+- **Outputs:** `—` → [lambda (lazy step)](../pages/lambda-lazy-step.md), [Chapman-Kolmogorov Multi-Step](../pages/Chapman-Kolmogorov-Multi-Step.md), [PageRank-shaped walk (structural analogy)](../pages/PageRank-shaped-walk-structural-analogy.md), [Markov-like (term)](../pages/Markov-like-term.md), [decay_factor (propagation)](../pages/decay-factor-propagation.md)
+- **Exists for:** BEYOND Java; supports lazy step and multi-step diffusion
+
 ## Yields (formula)
 
 Transition counts a_t -> a_{t+1}, row-normalized to a stochastic matrix.
@@ -14,6 +25,17 @@ Transition counts a_t -> a_{t+1}, row-normalized to a stochastic matrix.
 
 - [lambda (lazy step)](../pages/lambda-lazy-step.md)
 - [Chapman-Kolmogorov Multi-Step](../pages/Chapman-Kolmogorov-Multi-Step.md)
+- [PageRank-shaped walk (structural analogy)](../pages/PageRank-shaped-walk-structural-analogy.md)
+- [Markov-like (term)](../pages/Markov-like-term.md)
+- [decay_factor (propagation)](../pages/decay-factor-propagation.md)
+
+## See also
+
+- [lambda (lazy step)](../pages/lambda-lazy-step.md)
+- [Chapman-Kolmogorov Multi-Step](../pages/Chapman-Kolmogorov-Multi-Step.md)
+- [PageRank-shaped walk (structural analogy)](../pages/PageRank-shaped-walk-structural-analogy.md)
+- [Markov-like (term)](../pages/Markov-like-term.md)
+- [decay_factor (propagation)](../pages/decay-factor-propagation.md)
 
 ## Origin
 
@@ -24,4 +46,4 @@ Markov (1906) finite-state formalism — Theory Explainer: plain_lang: a table o
 **HWIKI-DOC-05:** Full construction (counts -> probabilities); not proposed in the Java corpus, built later for L6 dynamism.
 
 ---
-[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md)
+[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

@@ -180,6 +180,29 @@ Dictionary</a><br />
 <strong>Responsible (module):</strong>
 <code>docs/publication/SCIENCE.md lineage table; core/math/core_math.py base_step</code><br />
 <strong>Value / default:</strong> v' = (1−λ)v + λ·vW (lazy form)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>PageRank spreads importance by repeatedly mixing 'stay put' with
+'follow a link'; Hesperia reuses that <em>shape</em> for energy
+diffusion on areas, not ranking web pages.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>, <a
+href="../pages/Transition-matrix-W.html">Transition matrix (W)</a></li>
+<li><strong>Does:</strong> Structural analogy only: the lazy-random-walk
+mixing form matches PageRank's damping walk; Hesperia's W is semantic
+adjacency, not a web-link graph, and no eigenvector-convergence claim is
+made.</li>
+<li><strong>Outputs:</strong>
+<code>v' = (1−λ)v + λ·vW (lazy form)</code> → <a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a>, <a href="../pages/Mixing-Diagnostics.html">Mixing
+Diagnostics</a>, <a
+href="../pages/structural-analogy-extent-term.html">structural analogy
+(extent term)</a></li>
+<li><strong>Exists for:</strong> SCIENCE.md cites the form explicitly;
+do not claim PageRank product semantics</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Structural analogy only: the lazy-random-walk mixing form matches
 PageRank's damping walk; Hesperia's W is semantic adjacency, not a
@@ -197,6 +220,22 @@ href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
 Multi-Step</a></li>
 <li><a href="../pages/Mixing-Diagnostics.html">Mixing
 Diagnostics</a></li>
+<li><a href="../pages/structural-analogy-extent-term.html">structural
+analogy (extent term)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a href="../pages/Transition-matrix-W.html">Transition matrix
+(W)</a></li>
+<li><a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a></li>
+<li><a href="../pages/Mixing-Diagnostics.html">Mixing
+Diagnostics</a></li>
+<li><a href="../pages/structural-analogy-extent-term.html">structural
+analogy (extent term)</a></li>
+<li><a href="../pages/Markov-like-term.html">Markov-like (term)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Brin &amp; Page (1998), 'The Anatomy of a Large-Scale Hypertextual
@@ -215,6 +254,7 @@ Multi-Step</a>.</p>
 only; never claim Hesperia runs PageRank.</p>
 <hr />
 <p><a href="../categories/Concept-Dictionary.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

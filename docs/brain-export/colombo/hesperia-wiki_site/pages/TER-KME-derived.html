@@ -178,6 +178,24 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/domain/derived_metrics.py:97</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>CI/LD ratio — a clamped [0,1] fingerprint feature from KME primitives
+(LD=logical density, COH=coherence, NC=node coverage, PR=presence,
+PV=volume, CI=concentration); algebra
+<code>clamp01(safe_div(CI, LD))</code> only, not a clinical TFP
+judgment.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a></li>
+<li><strong>Does:</strong> clamp01(safe_div(CI, LD))</li>
+<li><strong>Outputs:</strong> <code>—</code> →
+<em>core/domain/pipeline.py</em>,
+<em>core/domain/fingerprint.py</em></li>
+<li><strong>Exists for:</strong> clamp01+safe_div keeps fingerprint
+comparable across runs</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>clamp01(safe_div(CI, LD))</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
@@ -190,20 +208,40 @@ Primitives and Derived Metrics</a></li>
 <li><em>core/domain/pipeline.py</em></li>
 <li><em>core/domain/fingerprint.py</em></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
+Primitives and Derived Metrics</a></li>
+<li><a href="../pages/KDI-KME-derived.html">KDI (KME derived)</a></li>
+<li><a href="../pages/CSI-KME-derived.html">CSI (KME derived)</a></li>
+<li><a href="../pages/SPI-KME-derived.html">SPI (KME derived)</a></li>
+<li><a href="../pages/TDS-KME-derived.html">TDS (KME derived)</a></li>
+<li><a href="../pages/SSS-KME-derived.html">SSS (KME derived)</a></li>
+<li><a href="../pages/KCI-KME-derived.html">KCI (KME derived)</a></li>
+<li><a href="../pages/CCI-KME-derived.html">CCI (KME derived)</a></li>
+<li><a href="../pages/SPS-KME-derived.html">SPS (KME derived)</a></li>
+<li><a href="../pages/DCI-KME-derived.html">DCI (KME derived)</a></li>
+<li><a href="../pages/CSI2-KME-derived.html">CSI2 (KME derived)</a></li>
+<li><a href="../pages/KEF-KME-derived.html">KEF (KME derived)</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div)
-— Theory Explainer: plain_lang: CI/LD ratio built only from
-LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no
+— Theory Explainer: plain_lang: CI/LD ratio — a clamped [0,1]
+fingerprint feature from KME primitives (LD=logical density,
+COH=coherence, NC=node coverage, PR=presence, PV=volume,
+CI=concentration); algebra <code>clamp01(safe_div(CI, LD))</code> only,
+not a clinical TFP judgment. author: Hesperia KME derived layer (no
 classical namesake). extent: product_metric. reasoning: clamp01+safe_div
-keeps fingerprint comparable. application: pipeline / clinical_bridge /
-fingerprint.</p>
+keeps fingerprint comparable across runs. application: pipeline /
+clinical_bridge / fingerprint.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-KME-01/03:</strong> CI/LD ratio. Formula
-<code>clamp01(safe_div(CI, LD))</code>. Consumers: pipeline /
+<p><strong>HWIKI-KME-01/03 / HWIKI-PLAIN-C:</strong> CI/LD ratio.
+Formula <code>clamp01(safe_div(CI, LD))</code>. Consumers: pipeline /
 clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP
 judgment — algebra only.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

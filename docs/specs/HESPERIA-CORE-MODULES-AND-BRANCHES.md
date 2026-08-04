@@ -19,8 +19,10 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
   `core/` should hold engine-internal compute with no module-registry shape (no `provides`/`requires`/
   `capabilities`/`create()`); anything with that pluggable-module shape belongs under `hesperia/modules/`
   regardless of whether it's Class A (universal/default) or Class B (branch-specific) — the class
-  distinction is about *scope*, not about living inside `core/` vs not. `core/runtime/__init__.py` still
-  re-exports the four classes for back-compat.
+  distinction is about *scope*, not about living inside `core/` vs not. `core/runtime/__init__.py`'s
+  back-compat re-export was removed the same day — `tools/check_core_module_boundary.py` flagged it as
+  a forbidden `core` → `hesperia.modules.*` import (zero real importers existed anyway); resolve these
+  modules via `core.engine.module_loader.load_module()`/`module_aliases.py` instead.
 - `hesperia.engine.kme` remains only as a narrowed compatibility package surface where explicitly
   protected legacy behavior still matters.
 - Former `hesperia.modules.core` / `metrics.base` / `topology.core` shim files were removed once

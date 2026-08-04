@@ -6,9 +6,20 @@
 **Responsible (module):** `assets/specs/canon/propagation_weights.yaml`  
 **Value / default:** 0.12
 
+## In plain words
+
+outermost ring gets the thinnest local weight — periphery thins by design.
+
+## Definition
+
+- **Receives:** [inner_to_middle / middle_to_inner](../pages/inner-to-middle-middle-to-inner.md)
+- **Does:** Peripheral thinning, distance [decay](../pages/decay.md).
+- **Outputs:** `0.12` → [bridge_weight](../pages/bridge-weight.md)
+- **Exists for:** completes the radial diffusion ladder
+
 ## Yields (formula)
 
-Peripheral thinning, distance decay.
+Peripheral thinning, distance [decay](../pages/decay.md).
 
 ## Produced from (inputs)
 
@@ -16,6 +27,11 @@ Peripheral thinning, distance decay.
 
 ## Needed by (consumers)
 
+- [bridge_weight](../pages/bridge-weight.md)
+
+## See also
+
+- [inner_to_middle / middle_to_inner](../pages/inner-to-middle-middle-to-inner.md)
 - [bridge_weight](../pages/bridge-weight.md)
 
 ## Origin
@@ -27,4 +43,4 @@ Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: outer
 **HWIKI-DOC-24:** Peripheral thinning weight.
 
 ---
-[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md)
+[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

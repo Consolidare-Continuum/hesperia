@@ -180,6 +180,68 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/domain/derived_metrics.py + core/domain/primitive_metrics.py</code><br />
 <strong>Value / default:</strong> 6 primitives → 35 derived</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics →
+DerivedMetrics (35) → to_derived_vector / fingerprint.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/compute-ld-LogicalDensity.html">compute_ld
+(LogicalDensity)</a>, <a
+href="../pages/compute-ci-ConcentrationIndex.html">compute_ci
+(ConcentrationIndex)</a>, <a
+href="../pages/compute-nc-NodeCoverage.html">compute_nc
+(NodeCoverage)</a>, <a
+href="../pages/largest-component-size.html">largest_component_size</a>,
+<a
+href="../pages/count-triangles-count-connected-triplets.html">count_triangles
+/ count_connected_triplets</a></li>
+<li><strong>Does:</strong> Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) →
+compute_derived_metrics → DerivedMetrics (35) → to_derived_vector /
+fingerprint.</li>
+<li><strong>Outputs:</strong> <code>6 primitives → 35 derived</code> →
+<em>core/domain/pipeline.py</em>,
+<em>hesperia/engine/kme/clinical_bridge.py</em>,
+<em>core/domain/fingerprint.py</em>, <a
+href="../pages/KDI-KME-derived.html">KDI (KME derived)</a>, <a
+href="../pages/CSI-KME-derived.html">CSI (KME derived)</a>, <a
+href="../pages/SPI-KME-derived.html">SPI (KME derived)</a>, <a
+href="../pages/TDS-KME-derived.html">TDS (KME derived)</a>, <a
+href="../pages/SSS-KME-derived.html">SSS (KME derived)</a>, <a
+href="../pages/KCI-KME-derived.html">KCI (KME derived)</a>, <a
+href="../pages/CCI-KME-derived.html">CCI (KME derived)</a>, <a
+href="../pages/SPS-KME-derived.html">SPS (KME derived)</a>, <a
+href="../pages/DCI-KME-derived.html">DCI (KME derived)</a>, <a
+href="../pages/CSI2-KME-derived.html">CSI2 (KME derived)</a>, <a
+href="../pages/KEF-KME-derived.html">KEF (KME derived)</a>, <a
+href="../pages/ASS-KME-derived.html">ASS (KME derived)</a>, <a
+href="../pages/CDR-KME-derived.html">CDR (KME derived)</a>, <a
+href="../pages/KCR-KME-derived.html">KCR (KME derived)</a>, <a
+href="../pages/TCI-KME-derived.html">TCI (KME derived)</a>, <a
+href="../pages/PEI-KME-derived.html">PEI (KME derived)</a>, <a
+href="../pages/KE-KME-derived.html">KE (KME derived)</a>, <a
+href="../pages/SCS-KME-derived.html">SCS (KME derived)</a>, <a
+href="../pages/CRI-KME-derived.html">CRI (KME derived)</a>, <a
+href="../pages/KNS-KME-derived.html">KNS (KME derived)</a>, <a
+href="../pages/CII-KME-derived.html">CII (KME derived)</a>, <a
+href="../pages/TEP-KME-derived.html">TEP (KME derived)</a>, <a
+href="../pages/KSI-KME-derived.html">KSI (KME derived)</a>, <a
+href="../pages/CDD-KME-derived.html">CDD (KME derived)</a>, <a
+href="../pages/SSR-KME-derived.html">SSR (KME derived)</a>, <a
+href="../pages/TER-KME-derived.html">TER (KME derived)</a>, <a
+href="../pages/CPC-KME-derived.html">CPC (KME derived)</a>, <a
+href="../pages/KBS-KME-derived.html">KBS (KME derived)</a>, <a
+href="../pages/TRI-KME-derived.html">TRI (KME derived)</a>, <a
+href="../pages/IDE-KME-derived.html">IDE (KME derived)</a>, <a
+href="../pages/KPS-KME-derived.html">KPS (KME derived)</a>, <a
+href="../pages/TBI-KME-derived.html">TBI (KME derived)</a>, <a
+href="../pages/KDI2-KME-derived.html">KDI2 (KME derived)</a>, <a
+href="../pages/CDI-KME-derived.html">CDI (KME derived)</a>, <a
+href="../pages/KVI-KME-derived.html">KVI (KME derived)</a></li>
+<li><strong>Exists for:</strong> <strong>HWIKI-KME-01:</strong>
+Individual derived symbols below are stubs with formula+module pins from
+Felix HWIKI-KME-02</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics
 → DerivedMetrics (35) → to_derived_vector / fingerprint.</p>
@@ -202,16 +264,83 @@ href="../pages/count-triangles-count-connected-triplets.html">count_triangles
 <li><em>core/domain/pipeline.py</em></li>
 <li><em>hesperia/engine/kme/clinical_bridge.py</em></li>
 <li><em>core/domain/fingerprint.py</em></li>
+<li><a href="../pages/KDI-KME-derived.html">KDI (KME derived)</a></li>
+<li><a href="../pages/CSI-KME-derived.html">CSI (KME derived)</a></li>
+<li><a href="../pages/SPI-KME-derived.html">SPI (KME derived)</a></li>
+<li><a href="../pages/TDS-KME-derived.html">TDS (KME derived)</a></li>
+<li><a href="../pages/SSS-KME-derived.html">SSS (KME derived)</a></li>
+<li><a href="../pages/KCI-KME-derived.html">KCI (KME derived)</a></li>
+<li><a href="../pages/CCI-KME-derived.html">CCI (KME derived)</a></li>
+<li><a href="../pages/SPS-KME-derived.html">SPS (KME derived)</a></li>
+<li><a href="../pages/DCI-KME-derived.html">DCI (KME derived)</a></li>
+<li><a href="../pages/CSI2-KME-derived.html">CSI2 (KME derived)</a></li>
+<li><a href="../pages/KEF-KME-derived.html">KEF (KME derived)</a></li>
+<li><a href="../pages/ASS-KME-derived.html">ASS (KME derived)</a></li>
+<li><a href="../pages/CDR-KME-derived.html">CDR (KME derived)</a></li>
+<li><a href="../pages/KCR-KME-derived.html">KCR (KME derived)</a></li>
+<li><a href="../pages/TCI-KME-derived.html">TCI (KME derived)</a></li>
+<li><a href="../pages/PEI-KME-derived.html">PEI (KME derived)</a></li>
+<li><a href="../pages/KE-KME-derived.html">KE (KME derived)</a></li>
+<li><a href="../pages/SCS-KME-derived.html">SCS (KME derived)</a></li>
+<li><a href="../pages/CRI-KME-derived.html">CRI (KME derived)</a></li>
+<li><a href="../pages/KNS-KME-derived.html">KNS (KME derived)</a></li>
+<li><a href="../pages/CII-KME-derived.html">CII (KME derived)</a></li>
+<li><a href="../pages/TEP-KME-derived.html">TEP (KME derived)</a></li>
+<li><a href="../pages/KSI-KME-derived.html">KSI (KME derived)</a></li>
+<li><a href="../pages/CDD-KME-derived.html">CDD (KME derived)</a></li>
+<li><a href="../pages/SSR-KME-derived.html">SSR (KME derived)</a></li>
+<li><a href="../pages/TER-KME-derived.html">TER (KME derived)</a></li>
+<li><a href="../pages/CPC-KME-derived.html">CPC (KME derived)</a></li>
+<li><a href="../pages/KBS-KME-derived.html">KBS (KME derived)</a></li>
+<li><a href="../pages/TRI-KME-derived.html">TRI (KME derived)</a></li>
+<li><a href="../pages/IDE-KME-derived.html">IDE (KME derived)</a></li>
+<li><a href="../pages/KPS-KME-derived.html">KPS (KME derived)</a></li>
+<li><a href="../pages/TBI-KME-derived.html">TBI (KME derived)</a></li>
+<li><a href="../pages/KDI2-KME-derived.html">KDI2 (KME derived)</a></li>
+<li><a href="../pages/CDI-KME-derived.html">CDI (KME derived)</a></li>
+<li><a href="../pages/KVI-KME-derived.html">KVI (KME derived)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/compute-ld-LogicalDensity.html">compute_ld
+(LogicalDensity)</a></li>
+<li><a href="../pages/compute-ci-ConcentrationIndex.html">compute_ci
+(ConcentrationIndex)</a></li>
+<li><a href="../pages/compute-nc-NodeCoverage.html">compute_nc
+(NodeCoverage)</a></li>
+<li><a
+href="../pages/largest-component-size.html">largest_component_size</a></li>
+<li><a
+href="../pages/count-triangles-count-connected-triplets.html">count_triangles
+/ count_connected_triplets</a></li>
+<li><a href="../pages/KDI-KME-derived.html">KDI (KME derived)</a></li>
+<li><a href="../pages/CSI-KME-derived.html">CSI (KME derived)</a></li>
+<li><a href="../pages/SPI-KME-derived.html">SPI (KME derived)</a></li>
+<li><a href="../pages/TDS-KME-derived.html">TDS (KME derived)</a></li>
+<li><a href="../pages/SSS-KME-derived.html">SSS (KME derived)</a></li>
+<li><a href="../pages/KCI-KME-derived.html">KCI (KME derived)</a></li>
+<li><a href="../pages/CCI-KME-derived.html">CCI (KME derived)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>No Java 1:1 names — BEYOND comparability fingerprint layer</p>
+<p>No Java 1:1 names — BEYOND comparability fingerprint layer — Theory
+Explainer: plain_lang: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) →
+compute_derived_metrics → DerivedMetrics (35) → to_derived_vector /
+fingerprint. author: Hesperia wiki (core/domain/derived_metrics.py +
+core/domain/primitive_metrics.py). extent: full. reasoning:
+<strong>HWIKI-KME-01:</strong> Individual derived symbols below are
+stubs with formula+module pins from Felix HWIKI-KME-02. application:
+<em>core/domain/pipeline.py</em>,
+<em>hesperia/engine/kme/clinical_bridge.py</em>,
+<em>core/domain/fingerprint.py</em>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-KME-01:</strong> Individual derived symbols below are
-stubs with formula+module pins from Felix HWIKI-KME-02.
-<strong>HWIKI-KME-03:</strong> plain-lang / theory notes expanded on
-each derived page.</p>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-KME-01:</strong> Individual
+derived symbols below are stubs with formula+module pins from Felix
+HWIKI-KME-02. <strong>HWIKI-KME-03:</strong> plain-lang / theory notes
+expanded on each derived page.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

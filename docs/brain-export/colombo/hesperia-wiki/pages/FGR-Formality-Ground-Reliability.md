@@ -6,6 +6,17 @@
 **Responsible (module):** `sphere/fpf_bridge/constants.py`  
 **Value / default:** ⟨F,G,R⟩ tuple
 
+## In plain words
+
+trust is three numbers, not one vibe score — how formal the claim is, what scope it covers, how well it is evidenced.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** F = how rigorously a claim is expressed, G = the context-slice it claims to hold over, R = how well it is evidenced — trust as a computed tuple, not a single scalar.
+- **Outputs:** `⟨F,G,R⟩ tuple` → [FGR DOMINANT_SHARE_HIGH](../pages/FGR-DOMINANT-SHARE-HIGH.md), [FGR freshness stability map](../pages/FGR-freshness-stability-map.md)
+- **Exists for:** SCIENCE.md; superseded Java ad hoc evidenceQuality upward
+
 ## Yields (formula)
 
 F = how rigorously a claim is expressed, G = the context-slice it claims to hold over, R = how well it is evidenced — trust as a computed tuple, not a single scalar.
@@ -14,6 +25,12 @@ F = how rigorously a claim is expressed, G = the context-slice it claims to hold
 
 - [FGR DOMINANT_SHARE_HIGH](../pages/FGR-DOMINANT-SHARE-HIGH.md)
 - [FGR freshness stability map](../pages/FGR-freshness-stability-map.md)
+
+## See also
+
+- [FGR DOMINANT_SHARE_HIGH](../pages/FGR-DOMINANT-SHARE-HIGH.md)
+- [FGR freshness stability map](../pages/FGR-freshness-stability-map.md)
+- [evidenceQuality / provenanceWeight (Java)](../pages/evidenceQuality-provenanceWeight-Java.md)
 
 ## Origin
 
@@ -24,4 +41,4 @@ FPF Part B.3, 'Trust & Assurance Calculus' (Anatoly Levenchuk) — Theory Explai
 **HWIKI-DOC-26:** Explainable Formality/Ground/Reliability terms; share/freshness map applications.
 
 ---
-[← back to category](../categories/Evidence-and-Trust.md) · [wiki home](../index.md)
+[← back to category](../categories/Evidence-and-Trust.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

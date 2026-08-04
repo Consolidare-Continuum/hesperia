@@ -178,10 +178,31 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> 0.65</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>blend two evidence maps into one energy field; α=0.65 leans toward
+Dict A (surface).</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>S vector (Dict A)</em>, <em>L vector
+(Dict B)</em></li>
+<li><strong>Does:</strong> E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i],
+0, <a href="../pages/E-cap.html">E_cap</a>) — 65/35 surface-biased
+weighted fusion of two normalized evidence vectors S (Dict A) and L
+(Dict B).</li>
+<li><strong>Outputs:</strong> <code>0.65</code> → <em>centroid indices
+(activation)</em>, <em>E0 (fused energy)</em>, <a
+href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a>, <a href="../pages/E-cap.html">E_cap</a>, <a
+href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a>, <a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
+<li><strong>Exists for:</strong> first stage of evidence fusion before
+centroid/η and diffusion</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
-<p>E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, E_cap) — 65/35
-surface-biased weighted fusion of two normalized evidence vectors S
-(Dict A) and L (Dict B).</p>
+<p>E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, <a
+href="../pages/E-cap.html">E_cap</a>) — 65/35 surface-biased weighted
+fusion of two normalized evidence vectors S (Dict A) and L (Dict B).</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><em>S vector (Dict A)</em></li>
@@ -193,6 +214,21 @@ surface-biased weighted fusion of two normalized evidence vectors S
 <li><em>E0 (fused energy)</em></li>
 <li><a href="../pages/eta-centroid-threshold.html">eta (centroid
 threshold)</a></li>
+<li><a href="../pages/E-cap.html">E_cap</a></li>
+<li><a href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a></li>
+<li><a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a></li>
+<li><a href="../pages/E-cap.html">E_cap</a></li>
+<li><a href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a></li>
+<li><a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC Core Math Contract v1.0 §3 — Theory Explainer: plain_lang:
@@ -214,6 +250,7 @@ href="../pages/Wiener-feedback-on-alpha-k-s-k-j.html">Wiener feedback on
 alpha (k_s / k_j)</a>.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -178,6 +178,21 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> k_amb = 0.35, delta_gap = 0.08</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>if top-1 and top-2 energies are almost tied, tax governance — the
+read is ambiguous.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>base_step</em></li>
+<li><strong>Does:</strong> gap = (e1-e2)/(e1+eps); P_amb =
+k_amb·(1-gap)^2 — taxes a too-close top-1/top-2 energy gap; degraded
+flag if gap &lt; delta_gap.</li>
+<li><strong>Outputs:</strong>
+<code>k_amb = 0.35, delta_gap = 0.08</code> → <a
+href="../pages/metric-governance.html">metric_governance</a></li>
+<li><strong>Exists for:</strong> independently tunable additive
+term</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>gap = (e1-e2)/(e1+eps); P_amb = k_amb·(1-gap)^2 — taxes a too-close
 top-1/top-2 energy gap; degraded flag if gap &lt; delta_gap.</p>
@@ -186,6 +201,10 @@ top-1/top-2 energy gap; degraded flag if gap &lt; delta_gap.</p>
 <li><em>base_step</em></li>
 </ul>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
 <ul>
 <li><a href="../pages/metric-governance.html">metric_governance</a></li>
 </ul>
@@ -200,6 +219,7 @@ href="../pages/metric-governance.html">metric_governance</a>.</p>
 href="../pages/metric-governance.html">metric_governance</a>.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

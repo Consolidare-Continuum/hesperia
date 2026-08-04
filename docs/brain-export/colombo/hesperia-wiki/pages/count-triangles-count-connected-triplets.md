@@ -6,6 +6,17 @@
 **Responsible (module):** `core/domain/primitive_metrics.py:122-145`  
 **Value / default:** —
 
+## In plain words
+
+count three-node cliques (and connected triplets) in the visited graph — feeds local clustering-style metrics.
+
+## Definition
+
+- **Receives:** *ActiveGraph (KME concept graph)*
+- **Does:** Deterministic triangle count; sum of C(deg(v),2) per node.
+- **Outputs:** `—` → [KME Primitives and Derived Metrics](../pages/KME-Primitives-and-Derived-Metrics.md), [Clustering coefficient](../pages/Clustering-coefficient.md)
+- **Exists for:** triangle/triplet census for clustering
+
 ## Yields (formula)
 
 Deterministic triangle count; sum of C(deg(v),2) per node.
@@ -17,14 +28,20 @@ Deterministic triangle count; sum of C(deg(v),2) per node.
 ## Needed by (consumers)
 
 - [KME Primitives and Derived Metrics](../pages/KME-Primitives-and-Derived-Metrics.md)
+- [Clustering coefficient](../pages/Clustering-coefficient.md)
+
+## See also
+
+- [KME Primitives and Derived Metrics](../pages/KME-Primitives-and-Derived-Metrics.md)
+- [Clustering coefficient](../pages/Clustering-coefficient.md)
 
 ## Origin
 
-No Java ancestor
+No Java ancestor — Theory Explainer: plain_lang: count three-node cliques (and connected triplets) in the visited graph — feeds local clustering-style metrics. author: Hesperia wiki (core/domain/primitive_metrics.py:122-145). extent: full. reasoning: triangle/triplet census for clustering. application: [KME Primitives and Derived Metrics](../pages/KME-Primitives-and-Derived-Metrics.md).
 
 ## Notes
 
-Feeds clustering-coefficient-style derived metrics.
+**HWIKI-PLAIN-C:** algebra plain_lang polished 2026-08-04. **HWIKI-PLAIN-B:** plain_lang backfilled from formula/notes 2026-08-04. Feeds clustering-coefficient-style derived metrics.
 
 ---
-[← back to category](../categories/Graph-and-Structural-Metrics.md) · [wiki home](../index.md)
+[← back to category](../categories/Graph-and-Structural-Metrics.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

@@ -6,6 +6,17 @@
 **Responsible (module):** `wiki status legend / generate_wiki.py STATUS_LABEL`  
 **Value / default:** LIVE_SUCCESSOR
 
+## In plain words
+
+the ancestor idea survived, but the shipped symbol is not a 1:1 rename — check the page's formula before equating.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** Same scientific idea as a Java ancestor, but different name and/or formula in the LIVE tree.
+- **Outputs:** `LIVE_SUCCESSOR` → [cosine_similarity](../pages/cosine-similarity.md), [compute_tension](../pages/compute-tension.md), [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md), [apply_saturation](../pages/apply-saturation.md)
+- **Exists for:** prevents false 'DEAD' or false 'identical' claims
+
 ## Yields (formula)
 
 Same scientific idea as a Java ancestor, but different name and/or formula in the LIVE tree.
@@ -15,6 +26,14 @@ Same scientific idea as a Java ancestor, but different name and/or formula in th
 - [cosine_similarity](../pages/cosine-similarity.md)
 - [compute_tension](../pages/compute-tension.md)
 - [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md)
+- [apply_saturation](../pages/apply-saturation.md)
+
+## See also
+
+- [cosine_similarity](../pages/cosine-similarity.md)
+- [compute_tension](../pages/compute-tension.md)
+- [dominant_area_share_threshold](../pages/dominant-area-share-threshold.md)
+- [apply_saturation](../pages/apply-saturation.md)
 
 ## Origin
 
@@ -25,4 +44,4 @@ Hesperia wiki status vocabulary — Theory Explainer: plain_lang: the ancestor i
 **HWIKI-DOC-27:** Status vocabulary — contrast [DEAD_ALGO_SURVIVED (status term)](../pages/DEAD-ALGO-SURVIVED-status-term.md).
 
 ---
-[← back to category](../categories/Concept-Dictionary.md) · [wiki home](../index.md)
+[← back to category](../categories/Concept-Dictionary.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

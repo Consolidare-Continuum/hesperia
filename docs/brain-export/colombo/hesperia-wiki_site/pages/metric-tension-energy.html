@@ -178,21 +178,55 @@ Bipolar Adversity</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how close the top two family energies are — when the gap shrinks,
+tension_energy rises (ambiguous which family leads).</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>F_vec[288]</em>, <a
+href="../pages/compute-tension.html">compute_tension</a></li>
+<li><strong>Does:</strong> tension_energy = 1 − gapF (gap between top-2
+family energies).</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>no named wiki
+consumer yet</em></li>
+<li><strong>Exists for:</strong> surviving v0.3-era tension name used by
+governance/TRIZ consumers</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>tension_energy = 1 − gapF (gap between top-2 family energies).</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><em>F_vec[288]</em></li>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+<li><a
+href="../pages/contradiction-pressure-tension-energy.html">contradiction_pressure
+-&gt; tension_energy</a></li>
+<li><a
+href="../pages/compute-structural-tension.html">compute_structural_tension</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>Java 21_MATH <code>tensionEnergy</code> name — formula changed</p>
+<p>Java 21_MATH <code>tensionEnergy</code> name — formula changed —
+Theory Explainer: plain_lang: how close the top two family energies are
+— when the gap shrinks, tension_energy rises (ambiguous which family
+leads). author: Hesperia wiki (core/math/core_math.py). extent: full.
+reasoning: surviving v0.3-era tension name used by governance/TRIZ
+consumers. application: <em>F_vec[288</em>].</p>
 <h2 id="notes">Notes</h2>
-<p>One of the few v0.3-era metric names that survived essentially
-unchanged in identifier, changed in formula. 17 files consume it across
-<code>hesperia/engine/output_trace.py</code> and
+<p><strong>HWIKI-WIRE:</strong> attached to category anchor <a
+href="../pages/compute-tension.html">compute_tension</a>.
+<strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished 2026-08-04.
+<strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from formula/notes
+2026-08-04. One of the few v0.3-era metric names that survived
+essentially unchanged in identifier, changed in formula. 17 files
+consume it across <code>hesperia/engine/output_trace.py</code> and
 <code>core/propagation/*</code>.</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

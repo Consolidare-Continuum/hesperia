@@ -181,6 +181,23 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/vector_ops.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>Returns the index of the dominant area / family (argmax), not a share
+fraction.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>A_vec[12] (area activation
+vector)</em>, <em>F_vec[288]</em></li>
+<li><strong>Does:</strong> Returns the index of the dominant area /
+family (argmax), not a share fraction.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/dominant-area-share-threshold.html">dominant_area_share_threshold</a></li>
+<li><strong>Exists for:</strong> Index-only; the area side has a
+share-fraction sibling (<code>compute_dominant_area_share</code>), the
+family side does not — see <a
+href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
+(Java)</a></li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Returns the index of the dominant area / family (argmax), not a share
 fraction.</p>
@@ -194,15 +211,31 @@ fraction.</p>
 <li><a
 href="../pages/dominant-area-share-threshold.html">dominant_area_share_threshold</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/dominant-area-share-threshold.html">dominant_area_share_threshold</a></li>
+<li><a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
+(Java)</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>Java <code>X_A, X_F</code> alignment concept</p>
+<p>Java <code>X_A, X_F</code> alignment concept — Theory Explainer:
+plain_lang: Returns the index of the dominant area / family (argmax),
+not a share fraction. author: Hesperia wiki (core/math/vector_ops.py).
+extent: full. reasoning: Index-only; the area side has a share-fraction
+sibling (<code>compute_dominant_area_share</code>), the family side does
+not — see <a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F
+alignment (Java)</a>. application: <a
+href="../pages/dominant-area-share-threshold.html">dominant_area_share_threshold</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Index-only; the area side has a share-fraction sibling
-(<code>compute_dominant_area_share</code>), the family side does not —
-see <a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
-(Java)</a>.</p>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Index-only; the area side has a share-fraction
+sibling (<code>compute_dominant_area_share</code>), the family side does
+not — see <a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F
+alignment (Java)</a>.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

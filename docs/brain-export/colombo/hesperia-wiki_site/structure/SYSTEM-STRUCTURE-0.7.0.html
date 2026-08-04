@@ -199,10 +199,13 @@ href="../../../../governance/ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.html">E
   subgraph identity[&quot;Identity&quot;]
     V[&quot;VERSION.yaml system_version 0.7.0&quot;]
   end
-  subgraph core[&quot;Core — Class A measurement&quot;]
+  subgraph core[&quot;Core — sealed physics, zero module shapes&quot;]
     A[&quot;POST /analyze&quot;]
     S[&quot;analysis_service → sealed_multiscale_stack&quot;]
     G[&quot;hex → family → area → product signals → HSPR&quot;]
+  end
+  subgraph classA[&quot;hesperia/modules/default/ — Class A, registered not consolidated&quot;]
+    DA[&quot;dict_a / dict_b / topology / metrics&quot;]
   end
   subgraph compose[&quot;Composition — not new physics&quot;]
     I[&quot;POST /product/interpret&quot;]
@@ -221,6 +224,7 @@ href="../../../../governance/ETHAN-HESPERIA-MULTIPURPOSE-ENGINE-IDENTITY.html">E
   V --&gt; A
   V --&gt; I
   A --&gt; S --&gt; G
+  DA -.-&gt;|registered via module_aliases.py, not merged into core| S
   I --&gt; R --&gt; GT
   G -.-&gt;|engine_trace consumed| R
   TFP -.-&gt;|envelope only| I
@@ -257,10 +261,12 @@ sealed measurement?</td>
 </tr>
 <tr class="odd">
 <td><strong>Class A modules</strong></td>
-<td>Universal plumbing safe to consolidate into core</td>
-<td><code>dict_a</code> / <code>dict_b</code>, topology, nlp, metrics —
-see <a href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">CLASS-AB
-hub</a></td>
+<td>Universal plumbing, registered with core but never merged into
+it</td>
+<td><code>dict_a</code> / <code>dict_b</code>, topology, metrics →
+<code>hesperia/modules/default/</code>; <code>nlp</code> →
+<code>hesperia/modules/nlp/</code> — see <a
+href="../CLASS-AB-SCIENCE-NARRATIVE-HUB.html">CLASS-AB hub</a></td>
 </tr>
 <tr class="even">
 <td><strong>Class B modules</strong></td>
@@ -275,6 +281,27 @@ sealed <code>/analyze</code></td>
 </tr>
 </tbody>
 </table>
+<p><strong>2026-08-04 additions (not yet in the 0.7.0 seal, landed same
+day as the Class A re-home above):</strong></p>
+<ul>
+<li><code>core/domain/ksi/</code> — KSI-Inspector (Φ_e → Expected_j →
+residual → incident classifiers → mirror deficit → bridge need), same
+category as <code>core/domain/derived_metrics.py</code> (KME):
+pure-function derived-measurement over Hesperia's own concept-activation
+graph, not a registered module. Drained from a Tersagor vendored copy
+that had it built but never merged upstream.</li>
+<li><code>sphere/topology/ipov/</code> — full IPoV
+(<code>InteriorPointOfWorldView</code>, <code>PoWVState</code>,
+anchor/surface-event geometry) — this is METRIC-23/HRES-04, previously
+listed as deferred in <code>release/v0.7.0/RELEASE_SCOPE.md</code>.
+Sibling to <code>sphere/topology/gtp/</code>, both "where is the reader
+positioned in the concept sphere" concerns. Distinct from
+<code>sphere/topology/gtp/ipow.py</code>'s deliberately narrow
+PointZero-only stub.</li>
+<li>Neither is wired into <code>/analyze</code> or
+<code>/product/interpret</code> yet — code landed, live-emit wiring is a
+separate follow-on step.</li>
+</ul>
 <hr />
 <h2 id="versionyaml-components-sealed-identity">VERSION.yaml components
 (sealed identity)</h2>

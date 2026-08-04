@@ -178,6 +178,28 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>five independent taxes (ambiguity, thin-core, dispersion, guard,
+shadow) sum and invert into one 0–1 health score.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/P-amb-ambiguity-penalty.html">P_amb (ambiguity
+penalty)</a>, <a href="../pages/P-thin-thin-core-penalty.html">P_thin
+(thin-core penalty)</a>, <a
+href="../pages/P-disp-dispersion-penalty.html">P_disp (dispersion
+penalty)</a>, <a href="../pages/P-guard-guard-penalty.html">P_guard
+(guard penalty)</a>, <a
+href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow (shadow-hop
+penalty)</a></li>
+<li><strong>Does:</strong> metric_governance = clamp(1 −
+(P_amb+P_thin+P_shadow+P_disp+P_guard), 0, 1) — single health
+number.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>no named wiki
+consumer yet</em></li>
+<li><strong>Exists for:</strong> preferred over Java multiplicative
+integrity powers — each penalty CI-testable alone</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>metric_governance = clamp(1 − (P_amb+P_thin+P_shadow+P_disp+P_guard),
 0, 1) — single health number.</p>
@@ -193,6 +215,24 @@ penalty)</a></li>
 penalty)</a></li>
 <li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
 (shadow-hop penalty)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/P-amb-ambiguity-penalty.html">P_amb (ambiguity
+penalty)</a></li>
+<li><a href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a></li>
+<li><a href="../pages/P-disp-dispersion-penalty.html">P_disp (dispersion
+penalty)</a></li>
+<li><a href="../pages/P-guard-guard-penalty.html">P_guard (guard
+penalty)</a></li>
+<li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
+(shadow-hop penalty)</a></li>
+<li><a
+href="../pages/ALPHA-BETA-GAMMA-DELTA-integrity-quartet-Java.html">ALPHA/BETA/GAMMA/DELTA
+integrity quartet (Java)</a></li>
+<li><a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §12 — Theory Explainer: plain_lang: five independent taxes
@@ -212,6 +252,7 @@ P_amb/thin/disp/guard/shadow. Clearest 'combine independent criteria
 into one thresholdable number' example in the repo.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

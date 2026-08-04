@@ -446,7 +446,7 @@ pre-evaluated Sigma/Gamma/Theta guard verdicts as closures, and FGR-calibrated e
 (`parameter_catalog.md` §5's "permission to narrate at a given confidence level," not a number).
 
 **Evidence surface, as of `fpf_bridge_v7_2` (2026-07-04, flag-gated off by default, ratification
-pending — `specs/canon/fpf_bridge_v7_2_evidence_expansion.md`):** the original 7 signal types (5
+pending — `assets/specs/canon/fpf_bridge_v7_2_evidence_expansion.md`):** the original 7 signal types (5
 rule types, raw area activations, one stability score) are joined by, when
 `HESPERIA_FPF_EVIDENCE_EXPANSION`/`HESPERIA_FPF_CONTRADICTION_GATE`/`HESPERIA_FPF_KME_EVIDENCE` are
 set — L5's `contradiction_pressure`/`counter_evidence_gate` (with the native `contradicts` field

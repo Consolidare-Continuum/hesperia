@@ -178,6 +178,24 @@ Trust</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_8.py:49</code><br />
 <strong>Value / default:</strong> 0–100%</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>same L6 global stability, published as a percent (0–100) twin of the
+U1000 form.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a>, <a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><strong>Does:</strong> SI_GLOBAL_STABILITY_PCT =
+_ratio_to_pct(l6[GLOBAL_STABILITY_SCORE]).</li>
+<li><strong>Outputs:</strong> <code>0–100%</code> → <a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a></li>
+<li><strong>Exists for:</strong> percent twin of
+SI_GLOBAL_STABILITY_U1000</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>SI_GLOBAL_STABILITY_PCT =
 _ratio_to_pct(l6[GLOBAL_STABILITY_SCORE]).</p>
@@ -192,15 +210,46 @@ href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
 </ul>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
-<li><em>SI_SYSTEM_CONFIDENCE_PCT (L8)</em></li>
+<li><a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a></li>
+<li><a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a></li>
+<li><a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>41_SPEC Layer-8</p>
+<p>41_SPEC Layer-8 — Theory Explainer: plain_lang: same L6 global
+stability, published as a percent (0–100) twin of the U1000 form.
+author: Hesperia wiki (core/layers/layer_8.py:49). extent: full.
+reasoning: percent twin of SI_GLOBAL_STABILITY_U1000. application: <a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L8-01:</strong> Percent twin of
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L8-01:</strong> Percent twin of
 SI_GLOBAL_STABILITY_U1000.</p>
 <hr />
 <p><a href="../categories/Evidence-and-Trust.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

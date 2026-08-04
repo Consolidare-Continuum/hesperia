@@ -178,6 +178,23 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> 1.0</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>no activation cell may exceed 1.0; the field stays a bounded
+probability-like surface.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/alpha-fusion-weight.html">alpha (fusion weight)</a></li>
+<li><strong>Does:</strong> Clamp ceiling applied after fusion and after
+every diffusion step.</li>
+<li><strong>Outputs:</strong> <code>1.0</code> → <a
+href="../pages/alpha-fusion-weight.html">alpha (fusion weight)</a>, <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>, <a
+href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a></li>
+<li><strong>Exists for:</strong> normalized bounded field + with η
+manufactures exact zeros that kill KL</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Clamp ceiling applied after fusion and after every diffusion
 step.</p>
@@ -194,6 +211,19 @@ weight)</a></li>
 <li><a href="../pages/eta-centroid-threshold.html">eta (centroid
 threshold)</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/alpha-fusion-weight.html">alpha (fusion
+weight)</a></li>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a></li>
+<li><a href="../pages/KL-divergence.html">KL divergence</a></li>
+<li><a href="../pages/P-thin-thin-core-penalty.html">P_thin (thin-core
+penalty)</a></li>
+<li><a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §3 — Theory Explainer: plain_lang: no activation cell may
 exceed 1.0; the field stays a bounded probability-like surface. author:
@@ -208,6 +238,7 @@ partner of <a href="../pages/eta-centroid-threshold.html">eta (centroid
 threshold)</a> in the structural-zero story.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -178,19 +178,51 @@ Bipolar Adversity</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/stability_metrics.py</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how contested the area field is — one minus the dominant area's share
+of total activation (closer to 1 means no clear winner).</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>A_vec[12] (area activation
+vector)</em>, <a
+href="../pages/compute-tension.html">compute_tension</a></li>
+<li><strong>Does:</strong> structural_tension = 1 − max(area)/sum(area)
+— dominance-competition tension.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>no named wiki
+consumer yet</em></li>
+<li><strong>Exists for:</strong> dominance-competition tension;
+HHI-adjacent building block</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>structural_tension = 1 − max(area)/sum(area) — dominance-competition
 tension.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><em>A_vec[12] (area activation vector)</em></li>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+<li><a
+href="../pages/metric-tension-energy.html">metric_tension_energy</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>No direct Java ancestor named this way</p>
+<p>No direct Java ancestor named this way — Theory Explainer:
+plain_lang: how contested the area field is — one minus the dominant
+area's share of total activation (closer to 1 means no clear winner).
+author: Hesperia wiki (core/math/stability_metrics.py). extent: full.
+reasoning: dominance-competition tension; HHI-adjacent building block.
+application: [[A_vec[12] (area activation vector)]].</p>
 <h2 id="notes">Notes</h2>
-<p>Max-share concentration, HHI-adjacent building block.</p>
+<p><strong>HWIKI-WIRE:</strong> attached to category anchor <a
+href="../pages/compute-tension.html">compute_tension</a>.
+<strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished 2026-08-04.
+<strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from formula/notes
+2026-08-04. Max-share concentration, HHI-adjacent building block.</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

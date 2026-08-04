@@ -178,6 +178,24 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_2.py:_compute_clustering (LOCAL_CLUSTERING_COEFFICIENT)</code><br />
 <strong>Value / default:</strong> C(v) = 2t/(k(k-1))</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>of the friends of a node, how many are friends with each other — a
+local clumpiness score.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/count-triangles-count-connected-triplets.html">count_triangles
+/ count_connected_triplets</a>, <a
+href="../pages/BFS-depth-capped-traversal.html">BFS depth-capped
+traversal</a></li>
+<li><strong>Does:</strong> Local clustering at the dominant family /
+start node of the L2 BFS.</li>
+<li><strong>Outputs:</strong> <code>C(v) = 2t/(k(k-1))</code> → <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a></li>
+<li><strong>Exists for:</strong> SCIENCE.md L2; code pin
+<code>_compute_clustering</code> in <code>layer_2.py</code></li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Local clustering at the dominant family / start node of the L2
 BFS.</p>
@@ -193,6 +211,20 @@ traversal</a></li>
 <ul>
 <li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
 Primitives and Derived Metrics</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/count-triangles-count-connected-triplets.html">count_triangles
+/ count_connected_triplets</a></li>
+<li><a href="../pages/BFS-depth-capped-traversal.html">BFS depth-capped
+traversal</a></li>
+<li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
+Primitives and Derived Metrics</a></li>
+<li><a href="../pages/Circuit-rank-LOOP-COUNT-LOOP-DENSITY.html">Circuit
+rank (LOOP_COUNT/LOOP_DENSITY)</a></li>
+<li><a href="../pages/L2-Topology-Traversal.html">L2 — Topology
+Traversal</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Watts &amp; Strogatz (1998) — Theory Explainer: plain_lang: of the
@@ -210,6 +242,7 @@ the full small-world apparatus. Felix verify:
 <code>core/layers/layer_2.py</code> lines ~42–43, ~142.</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -6,11 +6,27 @@
 **Responsible (module):** `assets/specs/canon/propagation_weights.yaml`  
 **Value / default:** 0.25
 
+## In plain words
+
+how strongly energy at the center ring leaks into the first neighborhood ring.
+
+## Definition
+
+- **Receives:** *none declared (constant, hub, or external)*
+- **Does:** Strongest local spread into the final area vector.
+- **Outputs:** `0.25` → [inner_to_middle / middle_to_inner](../pages/inner-to-middle-middle-to-inner.md), [bridge_weight](../pages/bridge-weight.md)
+- **Exists for:** distance-sensitive diffusion intuition on the icosahedral neighborhoods
+
 ## Yields (formula)
 
 Strongest local spread into the final area vector.
 
 ## Needed by (consumers)
+
+- [inner_to_middle / middle_to_inner](../pages/inner-to-middle-middle-to-inner.md)
+- [bridge_weight](../pages/bridge-weight.md)
+
+## See also
 
 - [inner_to_middle / middle_to_inner](../pages/inner-to-middle-middle-to-inner.md)
 - [bridge_weight](../pages/bridge-weight.md)
@@ -24,4 +40,4 @@ Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: how s
 **HWIKI-DOC-24:** Strongest local spread weight in the center→inner→middle→outer ladder.
 
 ---
-[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md)
+[← back to category](../categories/Propagation-Diffusion-and-Markov.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

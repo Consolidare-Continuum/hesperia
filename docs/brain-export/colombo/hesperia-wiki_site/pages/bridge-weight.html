@@ -178,6 +178,20 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>assets/specs/canon/propagation_weights.yaml</code><br />
 <strong>Value / default:</strong> 0.22</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how much energy can jump across area bridges (semantic bleed), not
+only along rings.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/center-to-inner.html">center_to_inner</a></li>
+<li><strong>Does:</strong> Cross-area coupling — semantic bleed across
+areas.</li>
+<li><strong>Outputs:</strong> <code>0.22</code> → <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><strong>Exists for:</strong> cross-area coupling complementary to
+radial weights</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Cross-area coupling — semantic bleed across areas.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
@@ -187,6 +201,17 @@ Diffusion and Markov</a><br />
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/center-to-inner.html">center_to_inner</a></li>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a
+href="../pages/middle-to-outer-outer-to-middle.html">middle_to_outer /
+outer_to_middle</a></li>
+<li><a
+href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
+middle_to_inner</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Graph diffusion on layered neighborhoods — Theory Explainer:
@@ -200,6 +225,7 @@ href="../pages/Transition-matrix-W.html">Transition matrix (W)</a>.</p>
 <p><strong>HWIKI-DOC-24:</strong> Cross-area coupling weight.</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

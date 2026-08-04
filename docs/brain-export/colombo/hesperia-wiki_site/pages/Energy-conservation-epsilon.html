@@ -178,21 +178,60 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py — check_conservation_pre_decay, check_shadow_non_creation</code><br />
 <strong>Value / default:</strong> 1e-6</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>after diffusion, total energy must match the pre-diffusion total
+within this tiny epsilon (before <a
+href="../pages/decay.html">decay</a>) — catches broken stochastic
+matrices.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>, <a
+href="../pages/shadow-step.html">shadow_step</a></li>
+<li><strong>Does:</strong> Total energy must be conserved within epsilon
+after diffusion (E·W), before <a href="../pages/decay.html">decay</a>;
+shadow output must not exceed shadow input.</li>
+<li><strong>Outputs:</strong> <code>1e-6</code> → <em>no named wiki
+consumer yet</em></li>
+<li><strong>Exists for:</strong> conservation check on E·W before
+decay</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Total energy must be conserved within epsilon after diffusion (E·W),
-before decay; shadow output must not exceed shadow input.</p>
+before <a href="../pages/decay.html">decay</a>; shadow output must not
+exceed shadow input.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
 <li><a href="../pages/shadow-step.html">shadow_step</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a href="../pages/shadow-step.html">shadow_step</a></li>
+<li><a href="../pages/decay.html">decay</a></li>
+<li><a href="../pages/P-shadow-shadow-hop-penalty.html">P_shadow
+(shadow-hop penalty)</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>22_SPEC — physics-style invariant</p>
+<p>22_SPEC — physics-style invariant — Theory Explainer: plain_lang:
+after diffusion, total energy must match the pre-diffusion total within
+this tiny epsilon (before <a href="../pages/decay.html">decay</a>) —
+catches broken stochastic matrices. author: Hesperia wiki
+(core/math/core_math.py — check_conservation_pre_decay,
+check_shadow_non_creation). extent: full. reasoning: conservation check
+on E·W before decay. application: <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>, <a
+href="../pages/shadow-step.html">shadow_step</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Row-stochastic W preserves total mass by construction before decay —
-this check verifies that construction holds at runtime.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Row-stochastic W preserves total mass by
+construction before <a href="../pages/decay.html">decay</a> — this check
+verifies that construction holds at runtime.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -178,6 +178,27 @@ Trust</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_7.py (~conf product; out SYSTEM_CONFIDENCE_SCORE)</code><br />
 <strong>Value / default:</strong> clamp01 product</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>L7's overall confidence that the structural read is trustworthy —
+folds consistency gates and includes L6 global stability.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a>, <a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><strong>Does:</strong> SYSTEM_CONFIDENCE_SCORE folds L1–L6
+consistency gates and includes l6[GLOBAL_STABILITY_SCORE] in the
+confidence product path.</li>
+<li><strong>Outputs:</strong> <code>clamp01 product</code> → <a
+href="../pages/SI-SYSTEM-CONFIDENCE-U1000-L8.html">SI_SYSTEM_CONFIDENCE_U1000
+(L8)</a>, <a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a>, <em>L9 pillars</em></li>
+<li><strong>Exists for:</strong> primary L7 consumer of
+GLOBAL_STABILITY_SCORE</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>SYSTEM_CONFIDENCE_SCORE folds L1–L6 consistency gates and includes
 l6[GLOBAL_STABILITY_SCORE] in the confidence product path.</p>
@@ -195,17 +216,55 @@ href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_
 <li><a
 href="../pages/SI-SYSTEM-CONFIDENCE-U1000-L8.html">SI_SYSTEM_CONFIDENCE_U1000
 (L8)</a></li>
-<li><em>SI_SYSTEM_CONFIDENCE_PCT (L8)</em></li>
+<li><a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a></li>
 <li><em>L9 pillars</em></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><a
+href="../pages/SI-SYSTEM-CONFIDENCE-U1000-L8.html">SI_SYSTEM_CONFIDENCE_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a></li>
+<li><a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>40_SPEC Layer-7</p>
+<p>40_SPEC Layer-7 — Theory Explainer: plain_lang: L7's overall
+confidence that the structural read is trustworthy — folds consistency
+gates and includes L6 global stability. author: Hesperia wiki
+(core/layers/layer_7.py (~conf product; out SYSTEM_CONFIDENCE_SCORE)).
+extent: full. reasoning: primary L7 consumer of GLOBAL_STABILITY_SCORE.
+application: <a
+href="../pages/SI-SYSTEM-CONFIDENCE-U1000-L8.html">SI_SYSTEM_CONFIDENCE_U1000
+(L8)</a>, <a
+href="../pages/SI-SYSTEM-CONFIDENCE-PCT-L8.html">SI_SYSTEM_CONFIDENCE_PCT
+(L8)</a>, <em>L9 pillars</em>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L7-01:</strong> Primary L7 consumer of
-GLOBAL_STABILITY_SCORE — not a full L7 census; slice is
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L7-01:</strong> Primary L7
+consumer of GLOBAL_STABILITY_SCORE — not a full L7 census; slice is
 stability→confidence only.</p>
 <hr />
 <p><a href="../categories/Evidence-and-Trust.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

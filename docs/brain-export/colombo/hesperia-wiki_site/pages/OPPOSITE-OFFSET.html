@@ -179,9 +179,29 @@ Bipolar Adversity</a><br />
 <code>core/result/contract.py:64 (inlined </code>i,
 i+6<code> in compute_tension)</code><br />
 <strong>Value / default:</strong> 6</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>Offset defining opposite-area exclusion pairs (i, i+6), same offset
+<a href="../pages/compute-tension.html">compute_tension</a> uses.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/Icosahedral-Surface-Graph.html">Icosahedral Surface
+Graph</a></li>
+<li><strong>Does:</strong> Offset defining opposite-area exclusion pairs
+(i, i+6), same offset <a
+href="../pages/compute-tension.html">compute_tension</a> uses.</li>
+<li><strong>Outputs:</strong> <code>6</code> → <a
+href="../pages/compute-tension.html">compute_tension</a>, <a
+href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
+/ area_projection</a></li>
+<li><strong>Exists for:</strong> <strong>Not geometric
+antipodes.</strong> After <code>get_aligned_area_coordinates</code>,
+true antipodes are a different pairing (see compute_tension
+HWIKI-OPEN-01)</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Offset defining opposite-area exclusion pairs (i, i+6), same offset
-compute_tension uses.</p>
+<a href="../pages/compute-tension.html">compute_tension</a> uses.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
@@ -194,12 +214,32 @@ Surface Graph</a></li>
 href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
 / area_projection</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
+Surface Graph</a></li>
+<li><a href="../pages/compute-tension.html">compute_tension</a></li>
+<li><a
+href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
+/ area_projection</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>Java 21_MATH bipolar axis convention (offset changed from interleaved
-to +6)</p>
-<h2 id="notes">Notes</h2>
-<p><strong>Not geometric antipodes.</strong> After
+to +6) — Theory Explainer: plain_lang: Offset defining opposite-area
+exclusion pairs (i, i+6), same offset <a
+href="../pages/compute-tension.html">compute_tension</a> uses. author:
+Hesperia wiki (core/result/contract.py:64 (inlined <code>i, i+6</code>
+in compute_tension)). extent: structural_analogy. reasoning: <strong>Not
+geometric antipodes.</strong> After
 <code>get_aligned_area_coordinates</code>, true antipodes are a
+different pairing (see compute_tension HWIKI-OPEN-01). application: <a
+href="../pages/compute-tension.html">compute_tension</a>, <a
+href="../pages/build-exclusion-pairs-area-projection.html">build_exclusion_pairs
+/ area_projection</a>.</p>
+<h2 id="notes">Notes</h2>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>Not geometric antipodes.</strong>
+After <code>get_aligned_area_coordinates</code>, true antipodes are a
 different pairing (see <a
 href="../pages/compute-tension.html">compute_tension</a> HWIKI-OPEN-01).
 OPPOSITE_OFFSET is the shipped bipolar <em>index</em> convention.
@@ -212,6 +252,7 @@ value/algorithm survives even though the standalone constant does
 not.</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

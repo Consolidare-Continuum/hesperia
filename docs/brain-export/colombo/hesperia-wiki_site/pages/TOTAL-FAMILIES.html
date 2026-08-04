@@ -177,8 +177,26 @@ href="../categories/Geometry.html">Geometry</a><br />
 <strong>Responsible (module):</strong>
 <code>throughout core/</code><br />
 <strong>Value / default:</strong> 288</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>size of the family vector — always 12 areas × 24 families per area =
+288 slots Sigma shape-checks against.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a href="../pages/AREAS.html">AREAS</a>,
+<a href="../pages/FAMILIES-PER-AREA.html">FAMILIES_PER_AREA</a></li>
+<li><strong>Does:</strong> TOTAL_FAMILIES = AREAS × <a
+href="../pages/FAMILIES-PER-AREA.html">FAMILIES_PER_AREA</a> = 12 ×
+24</li>
+<li><strong>Outputs:</strong> <code>288</code> → <em>F_vec[288]</em>,
+<em>detect_dominant_family</em>, <a
+href="../pages/TOTAL-HEXES.html">TOTAL_HEXES</a></li>
+<li><strong>Exists for:</strong> fixed ontology grain for
+family-activation vectors</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
-<p>TOTAL_FAMILIES = AREAS × FAMILIES_PER_AREA = 12 × 24</p>
+<p>TOTAL_FAMILIES = AREAS × <a
+href="../pages/FAMILIES-PER-AREA.html">FAMILIES_PER_AREA</a> = 12 ×
+24</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/AREAS.html">AREAS</a></li>
@@ -188,13 +206,32 @@ href="../categories/Geometry.html">Geometry</a><br />
 <ul>
 <li><em>F_vec[288]</em></li>
 <li><em>detect_dominant_family</em></li>
+<li><a href="../pages/TOTAL-HEXES.html">TOTAL_HEXES</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/AREAS.html">AREAS</a></li>
+<li><a href="../pages/FAMILIES-PER-AREA.html">FAMILIES_PER_AREA</a></li>
+<li><a href="../pages/TOTAL-HEXES.html">TOTAL_HEXES</a></li>
+<li><a href="../pages/HEXES-PER-FAMILY.html">HEXES_PER_FAMILY</a></li>
+<li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
+Surface Graph</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>Java 20_GEOMETRY (product)</p>
+<p>Java 20_GEOMETRY (product) — Theory Explainer: plain_lang: size of
+the family vector — always 12 areas × 24 families per area = 288 slots
+Sigma shape-checks against. author: Hesperia wiki (throughout core/).
+extent: full. reasoning: fixed ontology grain for family-activation
+vectors. application: <em>F_vec[288</em>],
+<em>detect_dominant_family</em>.</p>
 <h2 id="notes">Notes</h2>
-<p>Family-activation vector length; Sigma shape check.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Family-activation vector length; Sigma shape
+check.</p>
 <hr />
 <p><a href="../categories/Geometry.html">← back to category</a> · <a
-href="../index.html">wiki home</a></p>
+href="../index.html">wiki home</a> · <a href="Wiki-Wire-Map.html">Wire
+Map</a></p>
 </body>
 </html>

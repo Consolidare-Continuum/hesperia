@@ -178,6 +178,25 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>sphere/propagation/multi_step_diffusion.py:75-103 (</code>propagation_depth_metric<code>)</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>measures how fast a walk sequence spreads (L1 step sizes) and how
+disordered each snapshot is (normalized Shannon).</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a>, <a
+href="../pages/compute-entropy-Shannon.html">compute_entropy
+(Shannon)</a></li>
+<li><strong>Does:</strong> propagation_depth_metric(seq):
+consecutive_l1[i]=Σ|s[i+1]-s[i]| (via vector_sum abs);
+entropy_sequence[i]=compute_normalized_entropy(s[i]);
+depth=len(seq)-1.</li>
+<li><strong>Outputs:</strong> <code>—</code> →
+<em>cumulativeDrift</em></li>
+<li><strong>Exists for:</strong> shipped for multi-step diffusion
+diagnostics, not turn boundaries</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>propagation_depth_metric(seq): consecutive_l1[i]=Σ|s[i+1]-s[i]| (via
 vector_sum abs); entropy_sequence[i]=compute_normalized_entropy(s[i]);
@@ -193,6 +212,20 @@ Multi-Step</a></li>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><em>cumulativeDrift</em></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a></li>
+<li><a href="../pages/compute-entropy-Shannon.html">compute_entropy
+(Shannon)</a></li>
+<li><a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a></li>
+<li><a
+href="../pages/cumulativeDrift-turnCoherence.html">cumulativeDrift /
+turnCoherence</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Markov-chain mixing characterization (applied) — Theory Explainer:
@@ -222,6 +255,7 @@ turnCoherence</a>, different boundary (within-run steps vs
 turn-to-turn).</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

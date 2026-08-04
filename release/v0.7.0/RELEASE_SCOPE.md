@@ -26,7 +26,13 @@ Research → product wiring from the 2026-06-22 METRIC/HRES waves:
 ## Deferred to follow-on rows (not blocking v0.7.0 scope doc)
 
 - `HESPERIA_GCS_EMIT=1` static metric-geometry block (METRIC-22)
-- Full `meta.interior_point_of_world_view` live emit (METRIC-23, HRES-04)
+- Full `meta.interior_point_of_world_view` live emit (METRIC-23, HRES-04) — **implementation
+  landed** internally (2026-08-04, drained from a Tersagor vendored copy that had it built but
+  never merged upstream — same pattern as the KSI-Inspector drain). Full
+  `InteriorPointOfWorldView` (ellipsoid geometry, geodesic distances, barycentric weights,
+  coupling, provenance), distinct from the deliberately narrow PointZero-only stub already in
+  the sealed GTP path. Still not wired into the live `/analyze` emit path — that wiring is the
+  remaining METRIC-23 scope, tracked separately from this code landing.
 - `path_metric_cost` on traversal (METRIC-24/25)
 
 ## Pin

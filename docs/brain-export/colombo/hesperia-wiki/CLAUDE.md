@@ -6,7 +6,7 @@
 
 ## What this is
 
-A **wikipedia-style, interlinked register** of every Hesperia math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — one page per item, LIVE and DEAD alike, each with: **status, type, responsible module, value, formula (yields), produced-from (inputs), needed-by (consumers), origin, notes**. Built bottom-up from a one-year Java-prototype-vs-shipped-code audit, not top-down from a spec — every claim traces to a `grep`/file-read done during that research, not to a memory of what should be true.
+A **wikipedia-style, interlinked register** of every Hesperia math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — one page per item, LIVE and DEAD alike, each with: **In plain words**, **Definition** (Receives / Does / Outputs / Exists for), **status, type, responsible module, value, formula (yields), produced-from (inputs), needed-by (consumers), origin, notes**. Plain-language contract: [TEMPLATES-PLAIN-DEFINITION.md](TEMPLATES-PLAIN-DEFINITION.md) (HWIKI-PLAIN). Built bottom-up from a one-year Java-prototype-vs-shipped-code audit, not top-down from a spec — every claim traces to a `grep`/file-read done during that research, not to a memory of what should be true. Prod-of-record wiki mirror lives under `Consolidare-Continuum/hesperia` → `docs/brain-export/colombo/hesperia-wiki/`; live browse is [http://wiki.hesperia.local/](http://wiki.hesperia.local/).
 
 **Why it exists:** Colombo's research kept regenerating the same lookups (is X live? what replaced it? why did Y die?) across separate one-off `.md` audits. This wiki is the durable, navigable form of that research — the thing to open *before* re-deriving an answer that's already been found once.
 
@@ -21,6 +21,9 @@ A **wikipedia-style, interlinked register** of every Hesperia math variable/para
 | `categories/*.md` | 12 hub pages (Geometry, Core Math Contract, Tension, Propagation, Thresholds, Graph Metrics, Entropy, Stability, Similarity, Trust, Concept Dictionary, Dead/Rejected) — each a table of its member pages |
 | `pages/*.md` | One page per variable/parameter/formula — the actual content |
 | `Coverage-Ledger.md` | **Read before assuming completeness.** States explicitly what's *not* wikified yet (full L1–L11 layer variables, KME's 35 derived metrics individually, TRIZ internals, STRUCT depth) and open/unresolved questions carried over from the research passes |
+| `TEMPLATES-PLAIN-DEFINITION.md` | HWIKI-PLAIN — Receives / Does / Outputs / Exists for |
+| `TEMPLATES-WIKI-WIRE.md` | HWIKI-WIRE — interlinking / See also / Wire Map |
+| `pages/Wiki-Wire-Map.md` | Generated hub membership + orphan list |
 | `tools/generate_wiki.py` | **Source of truth generator.** Parameter pages + 12 category hubs + `index.md` + `Coverage-Ledger.md` are rendered from the `ITEMS` list in this script — not hand-authored. Links to `structure/` hubs are emitted by the generator; hub bodies themselves are hand-authored |
 | `tools/render_wiki_html.py` | Converts every `.md` in this folder to static HTML (via `pandoc`) into `../wiki_site/`, rewriting `.md` links to `.html` |
 | `tools/serve.py` | Copy of the server actually running (canonical source; the live copy is `../wiki_site/serve.py`, colocated with what it serves) |

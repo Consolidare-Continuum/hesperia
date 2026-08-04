@@ -179,6 +179,23 @@ Contract</a><br />
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> k_shadow = 0.40, max_shadow_hops =
 2</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>each shadow-propagation hop needed to correct the field costs
+governance; heaviest single k among the five.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/shadow-step.html">shadow_step</a></li>
+<li><strong>Does:</strong> P_shadow =
+k_shadow·(shadow_hops/max_shadow_hops) — the largest single weight of
+the five penalties.</li>
+<li><strong>Outputs:</strong>
+<code>k_shadow = 0.40, max_shadow_hops = 2</code> → <a
+href="../pages/metric-governance.html">metric_governance</a>, <a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
+<li><strong>Exists for:</strong> fallback hops are expensive by
+design</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>P_shadow = k_shadow·(shadow_hops/max_shadow_hops) — the largest
 single weight of the five penalties.</p>
@@ -189,6 +206,17 @@ single weight of the five penalties.</p>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/metric-governance.html">metric_governance</a></li>
+<li><a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/shadow-step.html">shadow_step</a></li>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+<li><a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
+<li><a href="../pages/Energy-conservation-epsilon.html">Energy
+conservation epsilon</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §11 — Theory Explainer: plain_lang: each shadow-propagation
@@ -202,6 +230,7 @@ href="../pages/metric-obstacle-score.html">metric_obstacle_score</a>.</p>
 href="../pages/metric-governance.html">metric_governance</a>.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

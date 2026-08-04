@@ -180,9 +180,31 @@ Trust</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_7.py (g10)</code><br />
 <strong>Value / default:</strong> boolean gate</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>CONSIST_STABILITY_REGIME_VALID (g10) — consistency gate that the L6
+Lyapunov/stability regime is within <a
+href="../pages/MAX-CHAOS-LEVEL.html">MAX_CHAOS_LEVEL</a> / MAX_LYAPUNOV
+bounds.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><strong>Does:</strong> CONSIST_STABILITY_REGIME_VALID (g10) —
+consistency gate that the L6 Lyapunov/stability regime is within <a
+href="../pages/MAX-CHAOS-LEVEL.html">MAX_CHAOS_LEVEL</a> / MAX_LYAPUNOV
+bounds.</li>
+<li><strong>Outputs:</strong> <code>boolean gate</code> → <a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a>, <a
+href="../pages/DECISION-STATUS-CODE.html">DECISION_STATUS_CODE</a></li>
+<li><strong>Exists for:</strong> <strong>HWIKI-L7-01:</strong> Gate
+sibling of SYSTEM_CONFIDENCE — Lyapunov/stability regime validity</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>CONSIST_STABILITY_REGIME_VALID (g10) — consistency gate that the L6
-Lyapunov/stability regime is within MAX_CHAOS_LEVEL / MAX_LYAPUNOV
+Lyapunov/stability regime is within <a
+href="../pages/MAX-CHAOS-LEVEL.html">MAX_CHAOS_LEVEL</a> / MAX_LYAPUNOV
 bounds.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
@@ -195,15 +217,47 @@ href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
 <li><a
 href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
 (L7)</a></li>
-<li><em>DECISION_STATUS_CODE</em></li>
+<li><a
+href="../pages/DECISION-STATUS-CODE.html">DECISION_STATUS_CODE</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a></li>
+<li><a
+href="../pages/DECISION-STATUS-CODE.html">DECISION_STATUS_CODE</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a></li>
+<li><a
+href="../pages/STABILITY-CURRENT-THRESHOLD-STABILITY-STALE-THRESHOLD.html">STABILITY_CURRENT_THRESHOLD
+/ STABILITY_STALE_THRESHOLD</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>40_SPEC Layer-7</p>
+<p>40_SPEC Layer-7 — Theory Explainer: plain_lang:
+CONSIST_STABILITY_REGIME_VALID (g10) — consistency gate that the L6
+Lyapunov/stability regime is within <a
+href="../pages/MAX-CHAOS-LEVEL.html">MAX_CHAOS_LEVEL</a> / MAX_LYAPUNOV
+bounds. author: Hesperia wiki (core/layers/layer_7.py (g10)). extent:
+full. reasoning: <strong>HWIKI-L7-01:</strong> Gate sibling of
+SYSTEM_CONFIDENCE — Lyapunov/stability regime validity. application: <a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a>, <a
+href="../pages/DECISION-STATUS-CODE.html">DECISION_STATUS_CODE</a>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L7-01:</strong> Gate sibling of SYSTEM_CONFIDENCE —
-Lyapunov/stability regime validity.</p>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L7-01:</strong> Gate sibling of
+SYSTEM_CONFIDENCE — Lyapunov/stability regime validity.</p>
 <hr />
 <p><a href="../categories/Evidence-and-Trust.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

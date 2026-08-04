@@ -178,6 +178,23 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> k_thin = 0.30, tau_core = 0.25</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>if the fused field leans too hard on Dict B vs Dict A, tax it as a
+thin core.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/alpha-fusion-weight.html">alpha (fusion weight)</a></li>
+<li><strong>Does:</strong> CoreShare = sumS/(sumS+sumL+eps); P_thin =
+k_thin·(1-CoreShare) — taxes energy leaning too much on Dict B (L) vs
+Dict A (S).</li>
+<li><strong>Outputs:</strong>
+<code>k_thin = 0.30, tau_core = 0.25</code> → <a
+href="../pages/metric-governance.html">metric_governance</a></li>
+<li><strong>Exists for:</strong> protects surface-biased fusion intent
+of <a href="../pages/alpha-fusion-weight.html">alpha (fusion
+weight)</a></li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>CoreShare = sumS/(sumS+sumL+eps); P_thin = k_thin·(1-CoreShare) —
 taxes energy leaning too much on Dict B (L) vs Dict A (S).</p>
@@ -189,6 +206,17 @@ weight)</a></li>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/metric-governance.html">metric_governance</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/alpha-fusion-weight.html">alpha (fusion
+weight)</a></li>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+<li><a href="../pages/E-cap.html">E_cap</a></li>
+<li><a href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a></li>
+<li><a
+href="../pages/energy-conservation-tolerance.html">energy_conservation_tolerance</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §9 — Theory Explainer: plain_lang: if the fused field leans
@@ -202,6 +230,7 @@ href="../pages/metric-governance.html">metric_governance</a>.</p>
 href="../pages/metric-governance.html">metric_governance</a>.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

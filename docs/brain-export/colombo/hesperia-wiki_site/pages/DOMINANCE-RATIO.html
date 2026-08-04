@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>DOMINANCE RATIO — Hesperia Wiki</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+<link rel="stylesheet" href="../style.css"></head>
+<body>
+<header id="title-block-header">
+<h1 class="title">DOMINANCE RATIO — Hesperia Wiki</h1>
+</header>
+<h1 id="dominance_ratio">DOMINANCE_RATIO</h1>
+<p><strong>Status:</strong> 🟢 LIVE_FULL — matches proposal (if any),
+running in production path<br />
+<strong>Category:</strong> <a
+href="../categories/Graph-and-Structural-Metrics.html">Graph and
+Structural Metrics</a><br />
+<strong>Type:</strong> Derived variable<br />
+<strong>Responsible (module):</strong>
+<code>core/layers/layer_1.py::compute_L1 -&gt; result["DOMINANCE_RATIO"]</code><br />
+<strong>Value / default:</strong> float [0,1]</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>How much of all attributed activity landed in the single dominant
+family — feeds <a
+href="../pages/STRUCTURAL-STABILITY-INDEX.html">STRUCTURAL_STABILITY_INDEX</a>
+directly.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/L1-Structural-Activation-Census.html">L1 — Structural
+Activation Census</a></li>
+<li><strong>Does:</strong> max_hits / (attributed + eps)</li>
+<li><strong>Outputs:</strong> <code>float [0,1]</code> → <em>no named
+wiki consumer yet</em></li>
+<li><strong>Exists for:</strong> L1 census field — first pipeline layer
+every later layer reads</li>
+</ul>
+<h2 id="yields-formula">Yields (formula)</h2>
+<p>max_hits / (attributed + eps)</p>
+<h2 id="produced-from-inputs">Produced from (inputs)</h2>
+<ul>
+<li><a href="../pages/L1-Structural-Activation-Census.html">L1 —
+Structural Activation Census</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/L1-Structural-Activation-Census.html">L1 —
+Structural Activation Census</a></li>
+<li><a
+href="../pages/PROFILE-MODE-ACTIVE.html">PROFILE_MODE_ACTIVE</a></li>
+<li><a href="../pages/TOTAL-TOKENS.html">TOTAL_TOKENS</a></li>
+<li><a href="../pages/ATTRIBUTED-TOKENS.html">ATTRIBUTED_TOKENS</a></li>
+<li><a href="../pages/COVERAGE-RATIO.html">COVERAGE_RATIO</a></li>
+<li><a
+href="../pages/UNIQUE-FAMILIES-HIT.html">UNIQUE_FAMILIES_HIT</a></li>
+<li><a
+href="../pages/FAMILY-ACTIVATION-DENSITY.html">FAMILY_ACTIVATION_DENSITY</a></li>
+<li><a
+href="../pages/FAMILY-HIT-VECTOR-L1.html">FAMILY_HIT_VECTOR_L1</a></li>
+<li><a
+href="../pages/FAMILY-HIT-VECTOR-L2.html">FAMILY_HIT_VECTOR_L2</a></li>
+<li><a href="../pages/MAX-FAMILY-HITS.html">MAX_FAMILY_HITS</a></li>
+<li><a
+href="../pages/DOMINANT-FAMILY-ID.html">DOMINANT_FAMILY_ID</a></li>
+<li><a href="../pages/DOMINANT-AREA-ID.html">DOMINANT_AREA_ID</a></li>
+</ul>
+<h2 id="origin">Origin</h2>
+<p>Hesperia-native <code>34_SPEC</code> L1 instrumentation — no Java
+prototype ancestor for the L1-L9 layer pipeline as a whole — Theory
+Explainer: plain_lang: How much of all attributed activity landed in the
+single dominant family — feeds <a
+href="../pages/STRUCTURAL-STABILITY-INDEX.html">STRUCTURAL_STABILITY_INDEX</a>
+directly.. author: Hesperia L1 (34_SPEC / output_catalog §1). extent:
+full. reasoning: L1 census field — first pipeline layer every later
+layer reads. application: <a
+href="../pages/L1-Structural-Activation-Census.html">L1 — Structural
+Activation Census</a>, L2–L9.</p>
+<h2 id="notes">Notes</h2>
+<p><strong>HWIKI-CATALOG-L1 / HWIKI-PLAIN:</strong> How much of all
+attributed activity landed in the single dominant family — feeds <a
+href="../pages/STRUCTURAL-STABILITY-INDEX.html">STRUCTURAL_STABILITY_INDEX</a>
+directly. Source: <code>docs/foundations/output_catalog.md</code> §1,
+re-verified against <code>compute_L1</code> 2026-08-04.</p>
+<hr />
+<p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
+</body>
+</html>

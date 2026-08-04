@@ -178,6 +178,21 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py</code><br />
 <strong>Value / default:</strong> k_guard = 0.30</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>guard failures are not only hard stops — they also cost governance
+score.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>Sigma/Gamma/Theta guards</em></li>
+<li><strong>Does:</strong> P_guard =
+clamp(k_guard·(sigma_fail+gamma_violation+theta_reject), 0, 1) —
+Sigma/Gamma/Theta guard failures taxed directly into governance.</li>
+<li><strong>Outputs:</strong> <code>k_guard = 0.30</code> → <a
+href="../pages/metric-governance.html">metric_governance</a>, <a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
+<li><strong>Exists for:</strong> softens binary gates into a continuous
+health signal</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>P_guard = clamp(k_guard·(sigma_fail+gamma_violation+theta_reject), 0,
 1) — Sigma/Gamma/Theta guard failures taxed directly into
@@ -189,6 +204,14 @@ governance.</p>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><a href="../pages/metric-governance.html">metric_governance</a></li>
+<li><a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/metric-governance.html">metric_governance</a></li>
+<li><a
+href="../pages/metric-obstacle-score.html">metric_obstacle_score</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>22_SPEC §11 — Theory Explainer: plain_lang: guard failures are not
@@ -202,6 +225,7 @@ href="../pages/metric-obstacle-score.html">metric_obstacle_score</a>.</p>
 href="../pages/metric-governance.html">metric_governance</a>.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

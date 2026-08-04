@@ -6,6 +6,17 @@
 **Responsible (module):** `assets/topology/area_adjacency_matrix.json, sphere/topology/embedding.py`  
 **Value / default:** 12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)
 
+## In plain words
+
+think of the 12 therapy areas as the corners of a 20-faced solid; each corner touches exactly five others (5-regular), so 'next area' is neighborhood on a sphere, not a circle.
+
+## Definition
+
+- **Receives:** [AREAS](../pages/AREAS.md), [PHI (golden ratio)](../pages/PHI-golden-ratio.md)
+- **Does:** The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topology` enforces that every graph edge has near-equal angular length and every non-edge is strictly longer.
+- **Outputs:** `12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)` → [compute_tension](../pages/compute-tension.md), *angular_distance*, [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md), [OPPOSITE_OFFSET](../pages/OPPOSITE-OFFSET.md)
+- **Exists for:** this graph is the substrate for tension and for rejecting ring-DFT
+
 ## Yields (formula)
 
 The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topology` enforces that every graph edge has near-equal angular length and every non-edge is strictly longer.
@@ -20,6 +31,17 @@ The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topol
 - [compute_tension](../pages/compute-tension.md)
 - *angular_distance*
 - [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md)
+- [OPPOSITE_OFFSET](../pages/OPPOSITE-OFFSET.md)
+
+## See also
+
+- [AREAS](../pages/AREAS.md)
+- [PHI (golden ratio)](../pages/PHI-golden-ratio.md)
+- [compute_tension](../pages/compute-tension.md)
+- [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md)
+- [OPPOSITE_OFFSET](../pages/OPPOSITE-OFFSET.md)
+- [FAMILIES_PER_AREA](../pages/FAMILIES-PER-AREA.md)
+- [TOTAL_FAMILIES](../pages/TOTAL-FAMILIES.md)
 
 ## Origin
 
@@ -27,7 +49,7 @@ Regular icosahedron (Platonic solid) — Theory Explainer: plain_lang: think of 
 
 ## Notes
 
-**HWIKI-DOC-10:** **Decisive fact against DFT Ring Smoothness**: a meaningful ring-DFT needs a 2-regular cyclic graph (C₁₂); the built topology is 5-regular. See [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md).
+**HWIKI-DOC-10:** **Decisive fact against [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md)**: a meaningful ring-DFT needs a 2-regular cyclic graph (C₁₂); the built topology is 5-regular. See [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md).
 
 ---
-[← back to category](../categories/Geometry.md) · [wiki home](../index.md)
+[← back to category](../categories/Geometry.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

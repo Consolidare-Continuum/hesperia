@@ -179,9 +179,29 @@ Control Theory</a><br />
 <strong>Responsible (module):</strong>
 <code>core/layers/layer_6.py:78,105</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>a single L6 coherence read: stability radius × (1 − family entropy) ×
+global stability — high when the structure is both stable and
+focused.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS (L6)</a>, <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><strong>Does:</strong> CONCEPTUAL_COHERENCE_INDEX = STABILITY_RADIUS
+· (1 − <a
+href="../pages/NORMALIZED-FAMILY-ENTROPY.html">NORMALIZED_FAMILY_ENTROPY</a>)
+· GLOBAL_STABILITY_SCORE.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>L7/L8 stability
+regime consumers</em></li>
+<li><strong>Exists for:</strong> combines STABILITY_RADIUS, L1 entropy,
+and GLOBAL_STABILITY_SCORE</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
-<p>CONCEPTUAL_COHERENCE_INDEX = STABILITY_RADIUS · (1 −
-NORMALIZED_FAMILY_ENTROPY) · GLOBAL_STABILITY_SCORE.</p>
+<p>CONCEPTUAL_COHERENCE_INDEX = STABILITY_RADIUS · (1 − <a
+href="../pages/NORMALIZED-FAMILY-ENTROPY.html">NORMALIZED_FAMILY_ENTROPY</a>)
+· GLOBAL_STABILITY_SCORE.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS
@@ -194,13 +214,29 @@ href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
 <ul>
 <li><em>L7/L8 stability regime consumers</em></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/STABILITY-RADIUS-L6.html">STABILITY_RADIUS
+(L6)</a></li>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>39_SPEC Layer-6</p>
+<p>39_SPEC Layer-6 — Theory Explainer: plain_lang: a single L6 coherence
+read: stability radius × (1 − family entropy) × global stability — high
+when the structure is both stable and focused. author: Hesperia wiki
+(core/layers/layer_6.py:78,105). extent: full. reasoning: combines
+STABILITY_RADIUS, L1 entropy, and GLOBAL_STABILITY_SCORE. application:
+<em>L7/L8 stability regime consumers</em>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-L6-01:</strong> Combines stability radius, L1 family
-entropy, and GLOBAL_STABILITY_SCORE.</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-L6-01:</strong> Combines
+stability radius, L1 family entropy, and GLOBAL_STABILITY_SCORE.</p>
 <hr />
 <p><a href="../categories/Stability-and-Control-Theory.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

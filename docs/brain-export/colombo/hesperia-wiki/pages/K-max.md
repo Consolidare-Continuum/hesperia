@@ -6,6 +6,17 @@
 **Responsible (module):** `core/math/core_math.py`  
 **Value / default:** 5
 
+## In plain words
+
+hard cap on how many centroid indices may be selected as 'active' in one traversal.
+
+## Definition
+
+- **Receives:** [eta (centroid threshold)](../pages/eta-centroid-threshold.md)
+- **Does:** Cap on the number of centroid indices selected.
+- **Outputs:** `5` → *no named wiki consumer yet*
+- **Exists for:** limits how many simultaneous activation foci the core math keeps
+
 ## Yields (formula)
 
 Cap on the number of centroid indices selected.
@@ -14,13 +25,17 @@ Cap on the number of centroid indices selected.
 
 - [eta (centroid threshold)](../pages/eta-centroid-threshold.md)
 
+## See also
+
+- [eta (centroid threshold)](../pages/eta-centroid-threshold.md)
+
 ## Origin
 
-22_SPEC §4
+22_SPEC §4 — Theory Explainer: plain_lang: hard cap on how many centroid indices may be selected as 'active' in one traversal. author: Hesperia wiki (core/math/core_math.py). extent: full. reasoning: limits how many simultaneous activation foci the core math keeps. application: [eta (centroid threshold)](../pages/eta-centroid-threshold.md).
 
 ## Notes
 
-Caps 'how many things are active' in one traversal.
+**HWIKI-PLAIN-C:** algebra plain_lang polished 2026-08-04. **HWIKI-PLAIN-B:** plain_lang backfilled from formula/notes 2026-08-04. Caps 'how many things are active' in one traversal.
 
 ---
-[← back to category](../categories/Core-Math-Contract.md) · [wiki home](../index.md)
+[← back to category](../categories/Core-Math-Contract.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

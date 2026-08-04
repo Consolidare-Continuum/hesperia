@@ -170,8 +170,8 @@
 </header>
 <h1 id="coverage-ledger">Coverage Ledger</h1>
 <p><a href="index.html">← wiki home</a></p>
-<p>This wiki covers <strong>163 items</strong> verified on
-<code>/data/hesperia/hesperia</code> (127 live/beyond, 15 partial, 21
+<p>This wiki covers <strong>401 items</strong> verified on
+<code>/data/hesperia/hesperia</code> (347 live/beyond, 33 partial, 21
 dead/rejected, 0 unverified). It is <strong>not</strong> a full census
 of every variable in the codebase — bounded to inspected research passes
 plus HWIKI expansion waves.</p>
@@ -188,14 +188,22 @@ Gaps below are backlog, not permanent silence.</p>
 id="explicitly-not-yet-covered-real-gaps-in-this-wiki-not-silently-omitted">Explicitly
 NOT yet covered (real gaps in this wiki, not silently omitted)</h2>
 <ul>
-<li><strong>L1–L11 pipeline layer variables</strong>
-(<code>34_SPEC</code>…<code>42_SPEC</code>, ~25 named variables per
-layer × 9 layers) — <strong>L6 Lyapunov +
-curvature/gradient/depth-growth block wikified</strong> (17 L6-related
-pages). Remaining L6 Group-IV stubs (HIT_VECTOR_RANK, ESCAPE_ENERGY, …)
-and <strong>L1–L5 / L9–L11</strong> full census still open. L7/L8
-stability consumers of GLOBAL_STABILITY_SCORE landed (HWIKI-L7-01 /
-L8-01).</li>
+<li><strong>L1–L9 pipeline layer variables</strong>
+(<code>34_SPEC</code>…<code>42_SPEC</code>) — <strong>HWIKI-CATALOG
+wave, 2026-08-04: full census landed, including L6.</strong> L1 through
+L9 all wikified (L1 hub <a
+href="pages/L1-Structural-Activation-Census.html">L1 — Structural
+Activation Census</a>, L2–L9 hubs alongside), and L6's Group-IV stubs
+(HIT_VECTOR_RANK, PRINCIPAL_COMPONENT_ENERGY_RATIO,
+ESCAPE_ENERGY_THRESHOLD, FORCE_ANALOG_MAGNITUDE, MONOTONICITY_CHECK,
+FIXED_POINT_DETECTION, CYCLE_DETECTION_FUNCTIONAL) closed the same day —
+all 25 L6 keys now wikified, 24 L6-related pages total.
+<strong>Correction:</strong> the pipeline terminates at L9
+(<code>docs/foundations/output_catalog.md</code> calls it "the terminus"
+explicitly) — there is no L10/L11; the old "L1–L11" phrasing in this
+ledger was stale/aspirational, not a real gap. See <a
+href="../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-CATALOG-ABSORB-2026-08-04.html">GRACE-TRIAGE-HESPERIA-WIKI-CATALOG-ABSORB-2026-08-04.md</a>
+for the closure record.</li>
 <li><strong>KME derived metrics</strong> — <strong>35 derived + hub
 wikified</strong> (35 derived pages + <a
 href="pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives and
@@ -204,8 +212,15 @@ Explainer notes on each derived page.</li>
 <li><strong>TRIZ extension internals</strong>
 (<code>hesperia/extensions/triz/</code>, 30+ modules) —
 <strong>contradiction core hub landed</strong> (HWIKI-TRIZ-02);
-remaining novelty/topology/commercial modules still open beyond
-Louvain.</li>
+<strong>the three named export products landed 2026-08-04</strong>
+(HWIKI-CATALOG-BRIDGE: <a
+href="pages/Policy-Contradiction-Detector-TRIZ-export.html">Policy
+Contradiction Detector</a>, <a
+href="pages/Innovation-Radar-TRIZ-export.html">Innovation Radar</a>, <a
+href="pages/Narrative-Propagation-Monitor-TRIZ-export.html">Narrative
+Propagation Monitor</a>). Remaining: the internal implementation modules
+beneath these exports (30+ files) are not individually wikified — only
+their shaped output products are.</li>
 <li><strong>Full <code>parameter_catalog.md</code> sweep</strong> —
 CAT-02 landed top diagnostic + FGR freshness pair; field-dynamics env
 knobs and remaining CAT-01 leftovers still open: <a
@@ -274,18 +289,67 @@ settled)</h2>
 <li><em>(none from the original three Coverage-Ledger open Qs — all
 resolved 2026-07-23.)</em></li>
 </ul>
+<h2
+id="plain-language-definition-wave-hwiki-plain--opened-2026-08-04">Plain-language
+definition wave (HWIKI-PLAIN) — opened 2026-08-04</h2>
+<p><strong>Mandate:</strong> every parameter/term page answers
+<strong>Receives / Does / Outputs / Exists for</strong> in ordinary
+words <strong>and</strong> keeps the formula. Template: <a
+href="TEMPLATES-PLAIN-DEFINITION.html">TEMPLATES-PLAIN-DEFINITION.md</a>.
+Live: <a
+href="http://wiki.hesperia.local/"><span>http://wiki.hesperia.local/</span></a>.
+Prod-of-record mirror: <code>Consolidare-Continuum/hesperia</code> →
+<code>docs/brain-export/colombo/hesperia-wiki/</code>.</p>
+<ul>
+<li><strong>Batch A landed:</strong> page renderer always emits
+<strong>In plain words</strong> + <strong>Definition</strong>; L1–L9
+catalog + L9 terminus + fpf_bridge states promote <code>_meaning</code>
+→ Theory Explainer <code>plain_lang</code>.</li>
+<li><strong>Batch B landed (2026-08-04):</strong>
+<code>backfill_plain_lang()</code> fills remaining
+LIVE/PARTIAL/BEYOND/DEAD rows from existing formula+notes (no invented
+science).</li>
+<li><strong>Batch C landed (2026-08-04):</strong> hand-polish for
+algebra-shaped rows (KME derived sentences + curated core/L6/SI/ontology
+plains). Coverage <strong>401/401</strong> with
+<code>plain_lang</code>.</li>
+<li><strong>HWIKI-WIRE landed (2026-08-04):</strong> bidirectional
+hub↔︎member edges, orphan→category anchors, DEAD→LIVE successors,
+autolink of known names, <strong>See also</strong> on every page, <a
+href="pages/Wiki-Wire-Map.html">Wiki Wire Map</a>. Orphans remaining:
+<strong>0</strong>.</li>
+<li><strong>Still open:</strong> Felix export/promote to
+<code>Consolidare-Continuum/hesperia</code>; Abelard CHROMA-1
+<code>hesperia_wiki</code> re-ingest.</li>
+</ul>
 <h2 id="cheap-concrete-next-wave-candidates">Cheap, concrete next-wave
 candidates</h2>
 <ul>
-<li>Add <code>compute_dominant_family_share</code> as a real page
-once/if built (mirrors <a
+<li><strong>Still open:</strong> Add
+<code>compute_dominant_family_share</code> as a real page once/if built
+(mirrors <a
 href="pages/dominant-area-share-threshold.html">dominant_area_share_threshold</a>)
 — see <a href="pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
-(Java)</a>.</li>
-<li>Finish remaining L6 variables (curvature/gradient/depth-growth
-block) then L7/L8 consumers of GLOBAL_STABILITY_SCORE.</li>
-<li>Wikify CAT-01 delta list (diagnostic ultra_sparse / field-dynamics /
-FGR numeric table leftovers).</li>
+(Java)</a>. Re-checked 2026-08-04: still doesn't exist in source.</li>
+<li><strong>DONE 2026-08-04:</strong> <del>Finish remaining L6
+variables</del> — all 25 L6 keys now wikified (Group-IV stubs
+HIT_VECTOR_RANK/PRINCIPAL_COMPONENT_ENERGY_RATIO/ESCAPE_ENERGY_THRESHOLD/FORCE_ANALOG_MAGNITUDE/MONOTONICITY_CHECK/FIXED_POINT_DETECTION/CYCLE_DETECTION_FUNCTIONAL
+landed HWIKI-CATALOG-L6-GROUP-IV). <del>then L7/L8 consumers of
+GLOBAL_STABILITY_SCORE</del> — subsumed by the full L7/L8/L9
+HWIKI-CATALOG batches.</li>
+<li><strong>DONE 2026-08-04, re-verified not just assumed:</strong>
+<del>Wikify CAT-01 delta list</del> — the CAT-01 delta doc itself
+(<code>COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md</code>,
+linked above) doesn't exist on disk, so checked source directly:
+diagnostic <code>ultra_sparse_coverage_threshold</code> already has its
+own page, all 4 FGR numeric-table constants
+(<code>DOMINANT_SHARE_HIGH</code>,
+<code>ENTROPY_DROP_SIGNIFICANT</code>,
+<code>STABILITY_CURRENT_THRESHOLD</code>,
+<code>STABILITY_STALE_THRESHOLD</code>) already wikified. Field Dynamics
+extension constants remain a deliberate scope exclusion (no consumer
+path — <code>EXTENSION_STATUS.yaml</code> classifies it
+<code>internal</code>), not an oversight.</li>
 </ul>
 </body>
 </html>

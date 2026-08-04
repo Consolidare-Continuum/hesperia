@@ -6,9 +6,20 @@
 **Responsible (module):** `core/math/core_math.py`  
 **Value / default:** 0.65
 
+## In plain words
+
+blend two evidence maps into one energy field; α=0.65 leans toward Dict A (surface).
+
+## Definition
+
+- **Receives:** *S vector (Dict A)*, *L vector (Dict B)*
+- **Does:** E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, [E_cap](../pages/E-cap.md)) — 65/35 surface-biased weighted fusion of two normalized evidence vectors S (Dict A) and L (Dict B).
+- **Outputs:** `0.65` → *centroid indices (activation)*, *E0 (fused energy)*, [eta (centroid threshold)](../pages/eta-centroid-threshold.md), [E_cap](../pages/E-cap.md), [P_thin (thin-core penalty)](../pages/P-thin-thin-core-penalty.md), [energy_conservation_tolerance](../pages/energy-conservation-tolerance.md)
+- **Exists for:** first stage of evidence fusion before centroid/η and diffusion
+
 ## Yields (formula)
 
-E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, E_cap) — 65/35 surface-biased weighted fusion of two normalized evidence vectors S (Dict A) and L (Dict B).
+E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, [E_cap](../pages/E-cap.md)) — 65/35 surface-biased weighted fusion of two normalized evidence vectors S (Dict A) and L (Dict B).
 
 ## Produced from (inputs)
 
@@ -20,6 +31,16 @@ E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, E_cap) — 65/35 surface-biase
 - *centroid indices (activation)*
 - *E0 (fused energy)*
 - [eta (centroid threshold)](../pages/eta-centroid-threshold.md)
+- [E_cap](../pages/E-cap.md)
+- [P_thin (thin-core penalty)](../pages/P-thin-thin-core-penalty.md)
+- [energy_conservation_tolerance](../pages/energy-conservation-tolerance.md)
+
+## See also
+
+- [eta (centroid threshold)](../pages/eta-centroid-threshold.md)
+- [E_cap](../pages/E-cap.md)
+- [P_thin (thin-core penalty)](../pages/P-thin-thin-core-penalty.md)
+- [energy_conservation_tolerance](../pages/energy-conservation-tolerance.md)
 
 ## Origin
 
@@ -30,4 +51,4 @@ E0[i] = clamp(alpha·S'[i] + (1-alpha)·L'[i], 0, E_cap) — 65/35 surface-biase
 **HWIKI-DOC-25 (fusion trio):** With [E_cap](../pages/E-cap.md) and [eta (centroid threshold)](../pages/eta-centroid-threshold.md) this is the LIVE fusion spine. Distinct from diffusion α / [Wiener feedback on alpha (k_s / k_j)](../pages/Wiener-feedback-on-alpha-k-s-k-j.md).
 
 ---
-[← back to category](../categories/Core-Math-Contract.md) · [wiki home](../index.md)
+[← back to category](../categories/Core-Math-Contract.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

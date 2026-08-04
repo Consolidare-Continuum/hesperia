@@ -179,6 +179,21 @@ Structural Metrics</a><br />
 <strong>Responsible (module):</strong>
 <code>core/domain/primitive_metrics.py:64</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how piled-up hits are on a few nodes versus spread evenly — a
+normalized Herfindahl (HHI) concentration score on node hit-counts.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>ActiveGraph (KME concept
+graph)</em></li>
+<li><strong>Does:</strong> Normalized HHI over node hit-counts: ci =
+(hhi-baseline)/(1-baseline).</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a></li>
+<li><strong>Exists for:</strong> KME primitive CI — concentration, not
+component count</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Normalized HHI over node hit-counts: ci =
 (hhi-baseline)/(1-baseline).</p>
@@ -191,14 +206,28 @@ Structural Metrics</a><br />
 <li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
 Primitives and Derived Metrics</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/KME-Primitives-and-Derived-Metrics.html">KME
+Primitives and Derived Metrics</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
 <p>Java 20_GEOMETRY <code>C(R)</code> concept (dominance/concentration
-family)</p>
+family) — Theory Explainer: plain_lang: how piled-up hits are on a few
+nodes versus spread evenly — a normalized Herfindahl (HHI) concentration
+score on node hit-counts. author: Hesperia wiki
+(core/domain/primitive_metrics.py:64). extent: full. reasoning: KME
+primitive CI — concentration, not component count. application: <a
+href="../pages/KME-Primitives-and-Derived-Metrics.html">KME Primitives
+and Derived Metrics</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Same discipline as C(R)=L/active, different formula (HHI
-concentration, not component-ratio).</p>
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Same discipline as C(R)=L/active, different
+formula (HHI concentration, not component-ratio).</p>
 <hr />
 <p><a href="../categories/Graph-and-Structural-Metrics.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

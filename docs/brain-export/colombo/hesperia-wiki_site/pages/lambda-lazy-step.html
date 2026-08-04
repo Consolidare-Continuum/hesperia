@@ -178,6 +178,31 @@ Contract</a><br />
 <strong>Responsible (module):</strong>
 <code>core/math/core_math.py — base_step()</code><br />
 <strong>Value / default:</strong> 0.55</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>each step keeps part of current energy and mixes in neighbor energy;
+λ is how much of the mix comes from the graph.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a href="../pages/E-cap.html">E_cap</a>,
+<a href="../pages/Transition-matrix-W.html">Transition matrix
+(W)</a></li>
+<li><strong>Does:</strong> D = (1-lambda)·E + lambda·(E·W) — lazy Markov
+chain step: a (1-lambda) fraction stays put, lambda actually transitions
+via W.</li>
+<li><strong>Outputs:</strong> <code>0.55</code> → <a
+href="../pages/decay.html">decay</a>, <a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a>, <a
+href="../pages/Wiener-feedback-on-alpha-k-s-k-j.html">Wiener feedback on
+alpha (k_s / k_j)</a>, <a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a>, <a
+href="../pages/Energy-conservation-epsilon.html">Energy conservation
+epsilon</a>, <a href="../pages/Markov-like-term.html">Markov-like
+(term)</a></li>
+<li><strong>Exists for:</strong> 22_SPEC base_step; 'Markov-like'
+discipline in SCIENCE.md</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>D = (1-lambda)·E + lambda·(E·W) — lazy Markov chain step: a
 (1-lambda) fraction stays put, lambda actually transitions via W.</p>
@@ -198,6 +223,30 @@ feedback on alpha (k_s / k_j)</a></li>
 <li><a
 href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
 walk (structural analogy)</a></li>
+<li><a href="../pages/Energy-conservation-epsilon.html">Energy
+conservation epsilon</a></li>
+<li><a href="../pages/Markov-like-term.html">Markov-like (term)</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/E-cap.html">E_cap</a></li>
+<li><a href="../pages/Transition-matrix-W.html">Transition matrix
+(W)</a></li>
+<li><a href="../pages/decay.html">decay</a></li>
+<li><a
+href="../pages/Chapman-Kolmogorov-Multi-Step.html">Chapman-Kolmogorov
+Multi-Step</a></li>
+<li><a href="../pages/Wiener-feedback-on-alpha-k-s-k-j.html">Wiener
+feedback on alpha (k_s / k_j)</a></li>
+<li><a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a></li>
+<li><a href="../pages/Energy-conservation-epsilon.html">Energy
+conservation epsilon</a></li>
+<li><a href="../pages/Markov-like-term.html">Markov-like (term)</a></li>
+<li><a href="../pages/bridge-weight.html">bridge_weight</a></li>
+<li><a href="../pages/eta-centroid-threshold.html">eta (centroid
+threshold)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Markov (1906) — Theory Explainer: plain_lang: each step keeps part of
@@ -227,6 +276,7 @@ alpha (k_s / k_j)</a> which modulates <em>diffusion</em> α in
 λ.</p>
 <hr />
 <p><a href="../categories/Core-Math-Contract.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

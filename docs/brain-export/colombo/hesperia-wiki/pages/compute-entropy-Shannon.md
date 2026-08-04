@@ -6,6 +6,17 @@
 **Responsible (module):** `core/math/entropy_metrics.py`  
 **Value / default:** —
 
+## In plain words
+
+how spread-out / unpredictable a distribution is; high entropy = energy smeared across many sides, low = concentrated.
+
+## Definition
+
+- **Receives:** *E (energy vector)*
+- **Does:** H = −Σ p·log(p); compute_normalized_entropy divides by ln(M).
+- **Outputs:** `—` → [P_disp (dispersion penalty)](../pages/P-disp-dispersion-penalty.md), [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md), [Mixing Diagnostics](../pages/Mixing-Diagnostics.md)
+- **Exists for:** reused as the system's information primitive rather than inventing a second entropy
+
 ## Yields (formula)
 
 H = −Σ p·log(p); compute_normalized_entropy divides by ln(M).
@@ -20,6 +31,15 @@ H = −Σ p·log(p); compute_normalized_entropy divides by ln(M).
 - [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md)
 - [Mixing Diagnostics](../pages/Mixing-Diagnostics.md)
 
+## See also
+
+- [P_disp (dispersion penalty)](../pages/P-disp-dispersion-penalty.md)
+- [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md)
+- [Mixing Diagnostics](../pages/Mixing-Diagnostics.md)
+- [area_entropy (tool-local)](../pages/area-entropy-tool-local.md)
+- [KL divergence](../pages/KL-divergence.md)
+- [DFT Ring Smoothness](../pages/DFT-Ring-Smoothness.md)
+
 ## Origin
 
 Shannon (1948), *A Mathematical Theory of Communication* — Theory Explainer: plain_lang: how spread-out / unpredictable a distribution is; high entropy = energy smeared across many sides, low = concentrated. author: Claude Shannon (1948). extent: full (canonical H and H/ln(M)). reasoning: reused as the system's information primitive rather than inventing a second entropy. application: [P_disp (dispersion penalty)](../pages/P-disp-dispersion-penalty.md), [entropy_threshold (monotony)](../pages/entropy-threshold-monotony.md), [Mixing Diagnostics](../pages/Mixing-Diagnostics.md) (`compute_normalized_entropy`).
@@ -29,4 +49,4 @@ Shannon (1948), *A Mathematical Theory of Communication* — Theory Explainer: p
 **HWIKI-DOC-02:** The single most-reused mathematical primitive in the whole system — canonical, not tool-local. Contrast [KL divergence](../pages/KL-divergence.md) (REJECTED) and tool-local [area_entropy (tool-local)](../pages/area-entropy-tool-local.md).
 
 ---
-[← back to category](../categories/Entropy-and-Information-Theory.md) · [wiki home](../index.md)
+[← back to category](../categories/Entropy-and-Information-Theory.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

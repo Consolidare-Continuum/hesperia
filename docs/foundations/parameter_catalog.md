@@ -22,14 +22,14 @@ the final artifact if this number changes." Values are read directly from the ca
 
 | Parameter | Value | Source | Meaning it gives the output |
 |---|---|---|---|
-| `activation_threshold` | 0.01 | `specs/canon/activation_calibration.yaml` | The floor below which a concept hit is treated as noise, not signal — directly determines `active_sides`/`activeSides`, the denominator of nearly every downstream ratio (coherence, fragmentation). |
+| `activation_threshold` | 0.01 | `assets/specs/canon/activation_calibration.yaml` | The floor below which a concept hit is treated as noise, not signal — directly determines `active_sides`/`activeSides`, the denominator of nearly every downstream ratio (coherence, fragmentation). |
 | `area_active_threshold` | 0.05 | same | Same floor, one level up — determines whether an *area* counts as touched at all in coverage (`Φ`, `NodeCoverage`) calculations. |
 
 ## 2. Propagation weights — how far and how strongly a signal spreads
 
 | Parameter | Value | Source | Meaning it gives the output |
 |---|---|---|---|
-| `center_to_inner` | 0.25 | `specs/canon/propagation_weights.yaml` | How much of a concept's activation reaches the next ring out within the same family — the strongest single edge weight in the system. |
+| `center_to_inner` | 0.25 | `assets/specs/canon/propagation_weights.yaml` | How much of a concept's activation reaches the next ring out within the same family — the strongest single edge weight in the system. |
 | `inner_to_middle` / `middle_to_inner` | 0.18 | same | Second-ring spread, symmetric in both directions. |
 | `middle_to_outer` / `outer_to_middle` | 0.12 | same | Outermost-ring spread — the weakest in-area edge, meaning activation thins fastest at the periphery. |
 | `bridge_weight` | 0.22 | same | Cross-*area* spread — deliberately close to the strongest in-area weight (0.25), not suppressed; directly controls how much a text's activation in one area "leaks" into a thematically adjacent one in the final area vector. |
@@ -56,7 +56,7 @@ the final artifact if this number changes." Values are read directly from the ca
 | `w_decay`, `w_guard_obs`, `w_shadow_obs` | 0.50, 0.30, 0.20 | `metric_obstacle_score` (convex combination, CI-enforced to sum to 1.0) | Exact proportional attribution of the final "obstacle score" to energy loss vs. guard pressure vs. shadow cost — half the obstacle reading is always about energy loss, never less. |
 | `energy_conservation_tolerance` | 1e-6 | `check_conservation_pre_decay` | How strict the conservation-of-energy check is before an output is allowed to be trusted as a valid diffusion step at all. |
 
-## 4. Diagnostic rule thresholds (`specs/canon/diagnostic_rules.yaml`) — what the output is allowed to call itself
+## 4. Diagnostic rule thresholds (`assets/specs/canon/diagnostic_rules.yaml`) — what the output is allowed to call itself
 
 | Parameter | Value | Meaning it gives the output |
 |---|---|---|

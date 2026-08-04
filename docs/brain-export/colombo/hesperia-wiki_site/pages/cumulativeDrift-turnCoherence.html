@@ -178,22 +178,63 @@ Science</a><br />
 <strong>Type:</strong> Formula (never implemented)<br />
 <strong>Responsible (module):</strong> <code>n/a</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>Turn-to-turn coherence and cumulative drift via cosine similarity
+across a multi-turn session.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> Turn-to-turn coherence and cumulative drift
+via cosine similarity across a multi-turn session.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/cosine-similarity.html">cosine_similarity</a>, <a
+href="../pages/Mixing-Diagnostics.html">Mixing Diagnostics</a></li>
+<li><strong>Exists for:</strong> <strong>Cleanest 'taken toward, wrong
+boundary' case in the register.</strong> <a
+href="../pages/Mixing-Diagnostics.html">Mixing Diagnostics</a> already
+computes the same shape (consecutive L1 distance + entropy along a state
+sequence) for within-run diffusion steps; nobody has moved that
+machinery</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Turn-to-turn coherence and cumulative drift via cosine similarity
 across a multi-turn session.</p>
+<h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a href="../pages/cosine-similarity.html">cosine_similarity</a></li>
+<li><a href="../pages/Mixing-Diagnostics.html">Mixing
+Diagnostics</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/cosine-similarity.html">cosine_similarity</a></li>
+<li><a href="../pages/Mixing-Diagnostics.html">Mixing
+Diagnostics</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>Java 21_MATH</p>
+<p>Java 21_MATH — Theory Explainer: plain_lang: Turn-to-turn coherence
+and cumulative drift via cosine similarity across a multi-turn session.
+author: Hesperia wiki (n/a). extent: dead. reasoning: <strong>Cleanest
+'taken toward, wrong boundary' case in the register.</strong> <a
+href="../pages/Mixing-Diagnostics.html">Mixing Diagnostics</a> already
+computes the same shape (consecutive L1 distance + entropy along a state
+sequence) for within-run diffusion steps; nobody has moved that
+machinery . application: Dead and Rejected Science.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>Cleanest 'taken toward, wrong boundary' case in the
-register.</strong> <a href="../pages/Mixing-Diagnostics.html">Mixing
-Diagnostics</a> already computes the same shape (consecutive L1 distance
-+ entropy along a state sequence) for within-run diffusion steps; nobody
-has moved that machinery to a turn-to-turn boundary yet. <a
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>Cleanest 'taken toward, wrong
+boundary' case in the register.</strong> <a
+href="../pages/Mixing-Diagnostics.html">Mixing Diagnostics</a> already
+computes the same shape (consecutive L1 distance + entropy along a state
+sequence) for within-run diffusion steps; nobody has moved that
+machinery to a turn-to-turn boundary yet. <a
 href="../pages/cosine-similarity.html">cosine_similarity</a> (the other
 half of what this needed) already exists, repurposed for
 fingerprints.</p>
 <hr />
 <p><a href="../categories/Dead-and-Rejected-Science.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

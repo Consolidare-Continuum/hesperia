@@ -249,12 +249,19 @@ read the root file yet, read that one first for entity identity
 <p>A <strong>wikipedia-style, interlinked register</strong> of every
 Hesperia math variable/parameter this research thread has verified in
 <code>/data/hesperia/hesperia</code> — one page per item, LIVE and DEAD
-alike, each with: <strong>status, type, responsible module, value,
-formula (yields), produced-from (inputs), needed-by (consumers), origin,
-notes</strong>. Built bottom-up from a one-year
+alike, each with: <strong>In plain words</strong>,
+<strong>Definition</strong> (Receives / Does / Outputs / Exists for),
+<strong>status, type, responsible module, value, formula (yields),
+produced-from (inputs), needed-by (consumers), origin, notes</strong>.
+Plain-language contract: <a
+href="TEMPLATES-PLAIN-DEFINITION.html">TEMPLATES-PLAIN-DEFINITION.md</a>
+(HWIKI-PLAIN). Built bottom-up from a one-year
 Java-prototype-vs-shipped-code audit, not top-down from a spec — every
 claim traces to a <code>grep</code>/file-read done during that research,
-not to a memory of what should be true.</p>
+not to a memory of what should be true. Prod-of-record wiki mirror lives
+under <code>Consolidare-Continuum/hesperia</code> →
+<code>docs/brain-export/colombo/hesperia-wiki/</code>; live browse is <a
+href="http://wiki.hesperia.local/"><span>http://wiki.hesperia.local/</span></a>.</p>
 <p><strong>Why it exists:</strong> Colombo's research kept regenerating
 the same lookups (is X live? what replaced it? why did Y die?) across
 separate one-off <code>.md</code> audits. This wiki is the durable,
@@ -307,6 +314,18 @@ depth) and open/unresolved questions carried over from the research
 passes</td>
 </tr>
 <tr class="even">
+<td><code>TEMPLATES-PLAIN-DEFINITION.md</code></td>
+<td>HWIKI-PLAIN — Receives / Does / Outputs / Exists for</td>
+</tr>
+<tr class="odd">
+<td><code>TEMPLATES-WIKI-WIRE.md</code></td>
+<td>HWIKI-WIRE — interlinking / See also / Wire Map</td>
+</tr>
+<tr class="even">
+<td><code>pages/Wiki-Wire-Map.md</code></td>
+<td>Generated hub membership + orphan list</td>
+</tr>
+<tr class="odd">
 <td><code>tools/generate_wiki.py</code></td>
 <td><strong>Source of truth generator.</strong> Parameter pages + 12
 category hubs + <code>index.md</code> + <code>Coverage-Ledger.md</code>
@@ -314,19 +333,19 @@ are rendered from the <code>ITEMS</code> list in this script — not
 hand-authored. Links to <code>structure/</code> hubs are emitted by the
 generator; hub bodies themselves are hand-authored</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>tools/render_wiki_html.py</code></td>
 <td>Converts every <code>.md</code> in this folder to static HTML (via
 <code>pandoc</code>) into <code>../wiki_site/</code>, rewriting
 <code>.md</code> links to <code>.html</code></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><code>tools/serve.py</code></td>
 <td>Copy of the server actually running (canonical source; the live copy
 is <code>../wiki_site/serve.py</code>, colocated with what it
 serves)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><code>../wiki_site/</code></td>
 <td>Rendered HTML output + the running server. Not the source of truth —
 regenerated from this folder, don't hand-edit <code>.html</code>

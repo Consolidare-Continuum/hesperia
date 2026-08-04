@@ -181,6 +181,21 @@ Trust</a><br />
 <strong>Responsible (module):</strong>
 <code>sphere/fpf_bridge/constants.py + evidence_mapper.py</code><br />
 <strong>Value / default:</strong> 0.7 / 0.3</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>Stability→freshness map: ≥CURRENT_THRESHOLD → CURRENT; ≥STALE else
+EXPIRED below STALE.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><strong>Does:</strong> Stability→freshness map: ≥CURRENT_THRESHOLD →
+CURRENT; ≥STALE else EXPIRED below STALE.</li>
+<li><strong>Outputs:</strong> <code>0.7 / 0.3</code> →
+<em>sphere/fpf_bridge/evidence_mapper.py</em></li>
+<li><strong>Exists for:</strong> <strong>HWIKI-CAT-02:</strong> FGR
+freshness numeric pair from CAT-01 delta</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Stability→freshness map: ≥CURRENT_THRESHOLD → CURRENT; ≥STALE else
 EXPIRED below STALE.</p>
@@ -194,13 +209,39 @@ href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
 <ul>
 <li><em>sphere/fpf_bridge/evidence_mapper.py</em></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/LYAPUNOV-ESTIMATE-GLOBAL-STABILITY-SCORE.html">LYAPUNOV_ESTIMATE
+/ GLOBAL_STABILITY_SCORE</a></li>
+<li><a
+href="../pages/SYSTEM-CONFIDENCE-SCORE-L7.html">SYSTEM_CONFIDENCE_SCORE
+(L7)</a></li>
+<li><a
+href="../pages/CONSIST-STABILITY-REGIME-VALID-L7.html">CONSIST_STABILITY_REGIME_VALID
+(L7)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-U1000-L8.html">SI_GLOBAL_STABILITY_U1000
+(L8)</a></li>
+<li><a
+href="../pages/SI-GLOBAL-STABILITY-PCT-L8.html">SI_GLOBAL_STABILITY_PCT
+(L8)</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>parameter_catalog.md §5</p>
+<p>parameter_catalog.md §5 — Theory Explainer: plain_lang:
+Stability→freshness map: ≥CURRENT_THRESHOLD → CURRENT; ≥STALE else
+EXPIRED below STALE. author: Hesperia wiki
+(sphere/fpf_bridge/constants.py + evidence_mapper.py). extent: full.
+reasoning: <strong>HWIKI-CAT-02:</strong> FGR freshness numeric pair
+from CAT-01 delta. application:
+<em>sphere/fpf_bridge/evidence_mapper.py</em>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-CAT-02:</strong> FGR freshness numeric pair from CAT-01
-delta.</p>
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-CAT-02:</strong> FGR freshness
+numeric pair from CAT-01 delta.</p>
 <hr />
 <p><a href="../categories/Evidence-and-Trust.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

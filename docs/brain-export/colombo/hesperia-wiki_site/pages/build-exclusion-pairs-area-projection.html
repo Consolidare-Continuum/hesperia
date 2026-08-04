@@ -181,6 +181,25 @@ Dictionary</a><br />
 <code>core/result/contract.py:64 (inlined </code>i,
 i+6<code> in compute_tension)</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>Constructs opposite-area exclusion pairs and projects weights onto
+areas.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><strong>Does:</strong> Constructs opposite-area exclusion pairs and
+projects weights onto areas.</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/structural-coherence-pass.html">structural_coherence_pass</a>,
+<a
+href="../pages/tension-from-conflict.html">tension_from_conflict</a></li>
+<li><strong>Exists for:</strong> Reclassified 2026-08-04: no standalone
+function survives (core/math/dict_b.py deleted, f44b3454), but the
+exclusion-pair construction itself is inlined verbatim as
+<code>pairs = [(i, i + 6) for i in range(6)]</code> inside
+compute_tension — same as OP</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Constructs opposite-area exclusion pairs and projects weights onto
 areas.</p>
@@ -195,12 +214,32 @@ href="../pages/structural-coherence-pass.html">structural_coherence_pass</a></li
 <li><a
 href="../pages/tension-from-conflict.html">tension_from_conflict</a></li>
 </ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><a
+href="../pages/structural-coherence-pass.html">structural_coherence_pass</a></li>
+<li><a
+href="../pages/tension-from-conflict.html">tension_from_conflict</a></li>
+</ul>
 <h2 id="origin">Origin</h2>
-<p>No direct Java ancestor</p>
+<p>No direct Java ancestor — Theory Explainer: plain_lang: Constructs
+opposite-area exclusion pairs and projects weights onto areas. author:
+Hesperia wiki (core/result/contract.py:64 (inlined <code>i, i+6</code>
+in <a href="../pages/compute-tension.html">compute_tension</a>)).
+extent: structural_analogy. reasoning: Reclassified 2026-08-04: no
+standalone function survives (core/math/dict_b.py deleted, f44b3454),
+but the exclusion-pair construction itself is inlined verbatim as
+<code>pairs = [(i, i + 6) for i in range(6)]</code> inside
+compute_tension — same as OP. application: <a
+href="../pages/structural-coherence-pass.html">structural_coherence_pass</a>,
+<a
+href="../pages/tension-from-conflict.html">tension_from_conflict</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Reclassified 2026-08-04: no standalone function survives
-(core/math/dict_b.py deleted, f44b3454), but the exclusion-pair
-construction itself is inlined verbatim as
+<p><strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Reclassified 2026-08-04: no standalone
+function survives (core/math/dict_b.py deleted, f44b3454), but the
+exclusion-pair construction itself is inlined verbatim as
 <code>pairs = [(i, i + 6) for i in range(6)]</code> inside <a
 href="../pages/compute-tension.html">compute_tension</a> — same as <a
 href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a>'s finding. Not
@@ -210,6 +249,7 @@ function distributes propagated mass across families within an area (a
 different job); it is not this function's successor.</p>
 <hr />
 <p><a href="../categories/Concept-Dictionary.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

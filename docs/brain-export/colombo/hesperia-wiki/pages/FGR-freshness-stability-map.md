@@ -6,6 +6,17 @@
 **Responsible (module):** `sphere/fpf_bridge/`  
 **Value / default:** 0.7 / 0.3
 
+## In plain words
+
+map stability scores into freshness buckets (CURRENT/STALE/EXPIRED) so Reliability stays time-aware.
+
+## Definition
+
+- **Receives:** [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+- **Does:** Stability -> freshness map: CURRENT/STALE/EXPIRED.
+- **Outputs:** `0.7 / 0.3` → *no named wiki consumer yet*
+- **Exists for:** freshness is part of Reliability in the FGR tuple
+
 ## Yields (formula)
 
 Stability -> freshness map: CURRENT/STALE/EXPIRED.
@@ -13,6 +24,11 @@ Stability -> freshness map: CURRENT/STALE/EXPIRED.
 ## Produced from (inputs)
 
 - [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+
+## See also
+
+- [FGR (Formality/Ground/Reliability)](../pages/FGR-Formality-Ground-Reliability.md)
+- [FGR DOMINANT_SHARE_HIGH](../pages/FGR-DOMINANT-SHARE-HIGH.md)
 
 ## Origin
 
@@ -23,4 +39,4 @@ FPF Part B.3 — Theory Explainer: plain_lang: map stability scores into freshne
 **HWIKI-DOC-26:** Freshness/stability map application of FGR.
 
 ---
-[← back to category](../categories/Activation-and-Diagnostic-Thresholds.md) · [wiki home](../index.md)
+[← back to category](../categories/Activation-and-Diagnostic-Thresholds.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)

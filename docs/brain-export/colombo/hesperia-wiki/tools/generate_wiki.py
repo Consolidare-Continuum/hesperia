@@ -37,6 +37,312 @@ STATUS_LABEL = {
 # ---------------------------------------------------------------------------
 ITEMS = []
 
+def theory_explainer(plain, author, extent="full", reasoning="", application=""):
+    """HWIKI-PLAIN — durable plain-language block embedded in origin (see TEMPLATES-PLAIN-DEFINITION.md)."""
+    parts = [
+        f"Theory Explainer: plain_lang: {plain}. author: {author}. extent: {extent}."
+    ]
+    if reasoning:
+        parts.append(f" reasoning: {reasoning}.")
+    if application:
+        parts.append(f" application: {application}.")
+    return "".join(parts)
+
+def extract_plain_lang(*blobs):
+    """Pull Theory Explainer plain_lang from origin/notes text."""
+    for blob in blobs:
+        if not blob:
+            continue
+        m = re.search(r"plain_lang:\s*(.+?)(?:\s+author:|\s*$)", blob, re.DOTALL)
+        if m:
+            return re.sub(r"\s+", " ", m.group(1)).strip().rstrip(".")
+    return ""
+
+def extract_te_field(blob, field):
+    if not blob:
+        return ""
+    m = re.search(rf"{field}:\s*(.+?)(?:\s+(?:author|extent|reasoning|application):|\s*$)", blob, re.DOTALL)
+    if not m:
+        return ""
+    return re.sub(r"\s+", " ", m.group(1)).strip().rstrip(".")
+
+def _first_note_sentence(notes):
+    if not notes:
+        return ""
+    s = re.sub(r"\*\*[^*]+\*\*:\s*", "", notes)
+    s = re.sub(r"\[\[([^\]]+)\]\]", r"\1", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    parts = re.split(r"(?<=[.!?])\s+", s, maxsplit=1)
+    return (parts[0] if parts else s).strip().rstrip(".")[:280]
+
+def backfill_plain_lang():
+    """HWIKI-PLAIN batch B — every ITEMS row gets Theory Explainer plain_lang in origin if missing.
+    Uses existing formula (often already plain) + notes; does not invent science."""
+    extent_map = {
+        "LIVE_FULL": "full",
+        "LIVE_SUCCESSOR": "full",
+        "BEYOND": "full",
+        "PARTIAL": "partial",
+        "DEAD": "dead",
+        "DEAD_ALGO_SURVIVED": "structural_analogy",
+        "REJECTED": "rejected_with_reason",
+        "UNVERIFIED": "unverified",
+    }
+    filled = 0
+    for it in ITEMS:
+        if extract_plain_lang(it.get("origin"), it.get("notes")):
+            continue
+        formula = (it.get("formula") or "").strip()
+        notes = it.get("notes") or ""
+        plain = formula
+        if plain.lower().startswith("hub:"):
+            plain = plain[4:].strip()
+        if len(plain) < 16 and notes:
+            plain = _first_note_sentence(notes) or plain
+        plain = re.sub(r"\s+", " ", plain).strip().rstrip(".")
+        if not plain:
+            plain = f"{it['kind']}: {it['name']}"
+        reason = _first_note_sentence(notes)
+        if not reason or reason.lower() == plain.lower():
+            reason = f"{it['status']} {it['kind']} in {it['category']}"
+        apps = list(it.get("needed_by") or [])[:3] or list(it.get("produced_from") or [])[:2]
+        application = ", ".join(f"[[{a}]]" for a in apps) if apps else it["category"]
+        te = theory_explainer(
+            plain,
+            f"Hesperia wiki ({it['module']})"[:100],
+            extent=extent_map.get(it["status"], "full"),
+            reasoning=reason[:240],
+            application=application[:220],
+        )
+        origin = (it.get("origin") or "").rstrip()
+        it["origin"] = f"{origin} — {te}" if origin else te
+        tag = "**HWIKI-PLAIN-B:** plain_lang backfilled from formula/notes 2026-08-04."
+        it["notes"] = f"{tag} {notes}".strip() if notes else tag
+        filled += 1
+    return filled
+
+def rewrite_plain_lang(it, plain, reasoning=None, tag="**HWIKI-PLAIN-C:**"):
+    """Replace Theory Explainer plain_lang in origin (keeps author/extent/application when present)."""
+    origin = it.get("origin") or ""
+    author = extract_te_field(origin, "author") or f"Hesperia wiki ({it.get('module', '')})"[:100]
+    extent = extract_te_field(origin, "extent") or {
+        "PARTIAL": "partial", "REJECTED": "rejected_with_reason", "DEAD": "dead",
+        "DEAD_ALGO_SURVIVED": "structural_analogy", "LIVE_SUCCESSOR": "full",
+        "BEYOND": "full", "LIVE_FULL": "full", "UNVERIFIED": "unverified",
+    }.get(it.get("status"), "full")
+    reason = reasoning or extract_te_field(origin, "reasoning") or f"{it['status']} {it['kind']} in {it['category']}"
+    application = extract_te_field(origin, "application") or it.get("category", "")
+    # Drop any prior Theory Explainer block, then append polished one
+    base = re.sub(r"\s*—?\s*Theory Explainer:.*$", "", origin, flags=re.DOTALL).rstrip(" —")
+    te = theory_explainer(plain.rstrip("."), author, extent=extent, reasoning=reason, application=application)
+    it["origin"] = f"{base} — {te}" if base else te
+    notes = it.get("notes") or ""
+    if tag not in notes:
+        it["notes"] = f"{tag} algebra plain_lang polished 2026-08-04. {notes}".strip()
+
+def polish_plain_lang():
+    """HWIKI-PLAIN batch C — hand-polish rows where plain_lang was still formula-shaped."""
+    # name -> (plain_lang, optional reasoning)
+    polish = {
+        "compute_ld (LogicalDensity)": (
+            "how densely the active concept graph is wired — average degree of active nodes over a high-degree reference (Deg95), clamped to [0,1]",
+            "KME primitive LD — connectivity intensity of the live subgraph",
+        ),
+        "compute_ci (ConcentrationIndex)": (
+            "how piled-up hits are on a few nodes versus spread evenly — a normalized Herfindahl (HHI) concentration score on node hit-counts",
+            "KME primitive CI — concentration, not component count",
+        ),
+        "compute_nc (NodeCoverage)": (
+            "what fraction of the whole concept domain lit up — active nodes divided by total nodes (n/N)",
+            "KME primitive NC — coverage of the domain",
+        ),
+        "compute_tension": (
+            "how uneven opposite area-pairs are — sum absolute gaps between each area and its partner six indices away on the 12-area vector",
+            "LIVE tension aggregator; pairing is combinatorial OPPOSITE_OFFSET, not sphere antipodes",
+        ),
+        "compute_structural_tension": (
+            "how contested the area field is — one minus the dominant area's share of total activation (closer to 1 means no clear winner)",
+            "dominance-competition tension; HHI-adjacent building block",
+        ),
+        "decay": (
+            "after each diffusion step, shrink remaining energy by a fixed fraction so the field does not stay forever-hot — damped attrition before the next step",
+            "discrete-time attrition after diffusion; partner of E_cap",
+        ),
+        "shadow_step": (
+            "run the same energy through a separate 'shadow' transition matrix to estimate fallback/correction cost without changing the main field",
+            "shadow propagation for governance/obstacle costing",
+        ),
+        "metric_tension_energy": (
+            "how close the top two family energies are — when the gap shrinks, tension_energy rises (ambiguous which family leads)",
+            "surviving v0.3-era tension name used by governance/TRIZ consumers",
+        ),
+        "metric_obstacle_score": (
+            "a weighted health tax from decay loss, guard failures, and shadow hops — higher means the run paid more structural friction",
+            "composite obstacle score feeding governance",
+        ),
+        "DEPTH_GROWTH_RATIO (L6)": (
+            "how much activation mass grows from BFS depth 0 to depth 1 — mass_at_depth[1] over mass_at_depth[0]; 0 if the ladder is too short",
+            "LIVE L6 depth-growth signal from the activation mass ladder",
+        ),
+        "FIBONACCI_DEVIATION_SCORE (L6)": (
+            "how far the depth-2 mass strays from 'depth1 + depth0' (Fibonacci-like growth) — large deviation means the ladder is not additive",
+            "LIVE L6 fibonacci-like deviation on the depth mass ladder",
+        ),
+        "CONCEPTUAL_COHERENCE_INDEX (L6)": (
+            "a single L6 coherence read: stability radius × (1 − family entropy) × global stability — high when the structure is both stable and focused",
+            "combines STABILITY_RADIUS, L1 entropy, and GLOBAL_STABILITY_SCORE",
+        ),
+        "CONDITION_NUMBER (L6)": (
+            "how ill-conditioned the hit/response surface looks — enters global stability; stubs to 1.0 when no perturbation data exists",
+            "L6 ill-conditioning proxy",
+        ),
+        "TOTAL_FAMILIES": (
+            "size of the family vector — always 12 areas × 24 families per area = 288 slots Sigma shape-checks against",
+            "fixed ontology grain for family-activation vectors",
+        ),
+        "TOTAL_HEXES": (
+            "finest hex count under the ontology — TOTAL_FAMILIES × HEXES_PER_FAMILY; Euler checks use this lattice size",
+            "hex substrate census",
+        ),
+        "TOTAL_SIDES": (
+            "absolute side census — TOTAL_HEXES × 6 sides per hex (72,000-base variant)",
+            "dimensionality of energy sides / truth units at full rollup",
+        ),
+        "FAMILIES_PER_AREA": (
+            "fixed ontology grain — each of the 12 areas owns exactly this many families (24)",
+            "partner of AREAS and TOTAL_FAMILIES",
+        ),
+        "AREAS": (
+            "fixed ontology grain — always 12 therapy areas, one per icosahedron vertex; area vectors must be length 12",
+            "geometry/ontology constant under Sigma shape checks",
+        ),
+        "SIDES_PER_HEX": (
+            "each hex has six sides — uniform hexagonal adjacency for the finest energy grain",
+            "lattice constant for TOTAL_SIDES",
+        ),
+        "HEXES_PER_FAMILY": (
+            "how many hex cells roll up into one family — finest landing grain before family aggregation (PARTIAL 251-variant disclosed separately)",
+            "hex→family resolution",
+        ),
+        "SI_GLOBAL_STABILITY_U1000 (L8)": (
+            "publish L6's global stability score on the 0–1000 unit scale so L9 and humans never see the raw ratio",
+            "L8 rescale consumer of GLOBAL_STABILITY_SCORE",
+        ),
+        "SI_GLOBAL_STABILITY_PCT (L8)": (
+            "same L6 global stability, published as a percent (0–100) twin of the U1000 form",
+            "percent twin of SI_GLOBAL_STABILITY_U1000",
+        ),
+        "SI_SYSTEM_CONFIDENCE_U1000 (L8)": (
+            "publish L7's system confidence on the 0–1000 scale — the confidence number L9 bands and brand words read",
+            "L8 rescale of SYSTEM_CONFIDENCE_SCORE (L6→L7→L8 chain)",
+        ),
+        "SYSTEM_CONFIDENCE_SCORE (L7)": (
+            "L7's overall confidence that the structural read is trustworthy — folds consistency gates and includes L6 global stability",
+            "primary L7 consumer of GLOBAL_STABILITY_SCORE",
+        ),
+        "REALITY_GATE_TRIG": (
+            "hard pass/fail: every trig/metric-space self-test residual must sit inside tolerance — if this fails, do not trust angle-based claims",
+            "summary gate over the 13 L5 trig residuals",
+        ),
+        "K_max": (
+            "hard cap on how many centroid indices may be selected as 'active' in one traversal",
+            "limits how many simultaneous activation foci the core math keeps",
+        ),
+        "activation_threshold": (
+            "sparse activation floor — below this energy a cell does not count as a hit",
+            "diagnostics/config threshold for hit detection",
+        ),
+        "area_active_threshold": (
+            "coverage floor that decides whether an area counts as 'touched' for aggregation",
+            "area-level activation threshold",
+        ),
+        "dominant_area_share_threshold": (
+            "if the dominant area's share of activation clears this threshold, classify the read as dominance (wired successor of Java X_A)",
+            "share-fraction rule trigger in rules config",
+        ),
+        "entropy_threshold (monotony)": (
+            "if family entropy falls below this, label the discourse structurally narrow (monotony regime)",
+            "pairs with coverage_threshold for monotony",
+        ),
+        "coverage_threshold (monotony)": (
+            "coverage floor used with entropy_threshold to decide the monotony regime",
+            "joint monotony gate with entropy",
+        ),
+        "Energy conservation epsilon": (
+            "after diffusion, total energy must match the pre-diffusion total within this tiny epsilon (before decay) — catches broken stochastic matrices",
+            "conservation check on E·W before decay",
+        ),
+        "energy_conservation_tolerance": (
+            "how much drift the pre-decay energy-conservation check allows before rejecting the step",
+            "tolerance twin of Energy conservation epsilon",
+        ),
+        "BFS depth-capped traversal": (
+            "walk outward from the start family by unweighted shortest hops, stopping at a max depth — the L2 reachability engine",
+            "Moore/Lee BFS used by L2 topology",
+        ),
+        "count_triangles / count_connected_triplets": (
+            "count three-node cliques (and connected triplets) in the visited graph — feeds local clustering-style metrics",
+            "triangle/triplet census for clustering",
+        ),
+        "shadow_step": (
+            "push energy through a separate shadow transition matrix to estimate correction cost without rewriting the main field",
+            "shadow propagation for fallback costing",
+        ),
+        "Relation weights (conflict/opposition)": (
+            "fixed edge weights for conflict/negation (1.0) and opposition (0.85) — how strongly adversity edges feed tension",
+            "typed adversity weights into tension_energy / TRIZ",
+        ),
+        "apply_saturation": (
+            "closed-form curve that caps concept-dictionary weights so no single weight runs away — documented saturation, not the dead Java composite score",
+            "LIVE weight-capping; distinct from Java 23_PROTOTYPE saturation",
+        ),
+        "STABILITY_RADIUS (L6)": (
+            "claimed radius of local structural stability — multiplies into conceptual coherence; stubs to 1.0 without perturbation data",
+            "L6 stability-radius factor",
+        ),
+        "SPECTRAL_GAP (L6)": (
+            "proxy for how fast the response operator mixes/expands — neighbor of Lyapunov/condition; stubs to 0 without perturbation",
+            "L6 mixing/expansion gap proxy",
+        ),
+        "HIT_VECTOR_RANK (L6)": (
+            "rank of the family hit vector (scaffold; often stubbed as rank-1) reserved for a future perturbation-analysis pass",
+            "L6 Group-IV scaffold constant",
+        ),
+        "PRINCIPAL_COMPONENT_ENERGY_RATIO (L6)": (
+            "fraction of hit-vector energy sitting in the leading component — scaffold for future PCA-style analysis",
+            "L6 Group-IV scaffold constant",
+        ),
+        "ESCAPE_ENERGY_THRESHOLD (L6)": (
+            "how much energy would be needed to leave the current structural basin — scaffold threshold, not a live escape simulation today",
+            "L6 Group-IV scaffold constant",
+        ),
+        "FORCE_ANALOG_MAGNITUDE (L6)": (
+            "force-like magnitude from the potential-field scaffold (usually stubbed 0 until perturbation analysis is live)",
+            "L6 Group-IV scaffold constant",
+        ),
+        "MONOTONICITY_CHECK (L6)": (
+            "whether activation mass decays monotonically across BFS depth — flags non-monotonic ladders",
+            "L6 Group-IV depth-ladder check",
+        ),
+        "FIXED_POINT_DETECTION (L6)": (
+            "whether the structural read has settled into a fixed point (no further meaningful change under the scaffold test)",
+            "L6 Group-IV dynamical fixed-point flag",
+        ),
+        "CYCLE_DETECTION_FUNCTIONAL (L6)": (
+            "whether a dynamical cycle was detected across the functional/response scaffold",
+            "L6 Group-IV cycle-detection flag",
+        ),
+    }
+    n = 0
+    by_name = {it["name"]: it for it in ITEMS}
+    for name, (plain, reason) in polish.items():
+        it = by_name.get(name)
+        if not it:
+            continue
+        rewrite_plain_lang(it, plain, reasoning=reason)
+        n += 1
+    return n
+
 def add(name, category, status, kind, module, value, formula, produced_from, needed_by, origin, notes):
     ITEMS.append(dict(name=name, category=category, status=status, kind=kind, module=module,
                        value=value, formula=formula, produced_from=produced_from, needed_by=needed_by,
@@ -417,13 +723,25 @@ _KME_DERIVED = [
     ("KVI (KME derived)", "clamp01(safe_div(LD * COH * PR, PV))", 106, "(LD·COH·PR)/PV"),
 ]
 for _name, _formula, _line, _hint in _KME_DERIVED:
+    _plain = (
+        f"{_hint} — a clamped [0,1] fingerprint feature from KME primitives "
+        f"(LD=logical density, COH=coherence, NC=node coverage, PR=presence, PV=volume, CI=concentration); "
+        f"algebra `{_formula}` only, not a clinical TFP judgment"
+    )
     add(_name, CAT_GRAPH, "LIVE_FULL", "Derived metric",
         f"core/domain/derived_metrics.py:{_line}", "—",
         _formula,
         ["KME Primitives and Derived Metrics"],
         ["core/domain/pipeline.py", "core/domain/fingerprint.py"],
-        "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: {_hint} built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.".format(_hint=_hint),
-        f"**HWIKI-KME-01/03:** {_hint}. Formula `{_formula}`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.")
+        "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — "
+        + theory_explainer(
+            _plain,
+            "Hesperia KME derived layer (no classical namesake)",
+            extent="product_metric",
+            reasoning="clamp01+safe_div keeps fingerprint comparable across runs",
+            application="pipeline / clinical_bridge / fingerprint",
+        ),
+        f"**HWIKI-KME-01/03 / HWIKI-PLAIN-C:** {_hint}. Formula `{_formula}`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.")
 
 add("Clustering coefficient", CAT_GRAPH, "PARTIAL", "Formula",
     "core/layers/layer_2.py:_compute_clustering (LOCAL_CLUSTERING_COEFFICIENT)", "C(v) = 2t/(k(k-1))",
@@ -773,6 +1091,723 @@ add("build_exclusion_pairs / area_projection", CAT_CD, "DEAD_ALGO_SURVIVED", "Fo
     ["OPPOSITE_OFFSET"], ["structural_coherence_pass", "tension_from_conflict"], "No direct Java ancestor",
     "Reclassified 2026-08-04: no standalone function survives (core/math/dict_b.py deleted, f44b3454), but the exclusion-pair construction itself is inlined verbatim as `pairs = [(i, i + 6) for i in range(6)]` inside [[compute_tension]] — same as [[OPPOSITE_OFFSET]]'s finding. Not to be confused with `build_family_area_projection` in sphere/propagation/family_projection.py — despite the similar name, that function distributes propagated mass across families within an area (a different job); it is not this function's successor.")
 
+# ===== L1 — STRUCTURAL ACTIVATION CENSUS (HWIKI-CATALOG-L1, docs/foundations/output_catalog.md §1) =====
+# Source-verified against core/layers/layer_1.py::compute_L1 directly (not just output_catalog.md's
+# table) 2026-08-04. GINI_COEFFICIENT excluded — already wikified as "Gini concentration". Base 27 keys
+# always present; 6 profile keys only when a structure profile is supplied to compute_L1.
+add("L1 — Structural Activation Census", CAT_GRAPH, "BEYOND", "Hub / concept",
+    "core/layers/layer_1.py::compute_L1 (34_SPEC)", "27 base + up to 6 profile",
+    "Hub: token-attribution census — the first of nine pipeline layers (L1-L9), everything downstream is built on this layer's family/area hit counts.",
+    ["ActiveGraph (KME concept graph)"], ["STRUCTURAL_STABILITY_INDEX", "L2 — Topology Traversal"],
+    "Hesperia-native `34_SPEC` L1 instrumentation — docstring claims 25 variables, actual base return dict has 27 keys (recovered-spec resolution: item 18 bundles two names into one spec entry; PROFILE_MODE_ACTIVE is a code-only flag outside the spec's numbered list) — "
+    + theory_explainer(
+        "token-attribution census — the first of nine pipeline layers; everything downstream is built on this layer's family/area hit counts",
+        "Hesperia L1 hub (34_SPEC)",
+        reasoning="foundation layer for L2–L9 structural and trust pipeline",
+        application="[[STRUCTURAL_STABILITY_INDEX]], [[L2 — Topology Traversal]]",
+    ),
+    "**HWIKI-CATALOG-L1 / HWIKI-PLAIN:** `docs/foundations/output_catalog.md` §1 already did the source-verification — this hub + per-variable pages transcribe that research, re-verified against `compute_L1`.")
+
+_L1_BASE = [
+    ("PROFILE_MODE_ACTIVE", "LIVE_FULL", "Parameter (flag)", "bool", "profile is not None",
+     "Whether a structure profile was supplied for this run — set explicitly from the input argument, never inferred from downstream profile-conformance keys being present."),
+    ("TOTAL_TOKENS", "LIVE_FULL", "Derived variable", "int", "len(input tokens)", "Token count of the input — the denominator for coverage."),
+    ("ATTRIBUTED_TOKENS", "LIVE_FULL", "Derived variable", "int", "sum(hits)", "Tokens matched to Dict A/B — the numerator for coverage, and the base for every downstream ratio in this layer."),
+    ("COVERAGE_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "attributed / total_tokens", "Fraction of input tokens that produced a concept hit at all."),
+    ("UNIQUE_FAMILIES_HIT", "LIVE_FULL", "Derived variable", "int [0,288]", "count(hits[f] > 0)", "Count of distinct families with at least one hit."),
+    ("FAMILY_ACTIVATION_DENSITY", "LIVE_FULL", "Derived variable", "float [0,1]", "unique_families / F", "Fraction of all 288 families touched at all this run."),
+    ("FAMILY_HIT_VECTOR_L1", "LIVE_FULL", "Derived variable", "float", "float(attributed)", "L1 norm of the family hit vector — numerically identical to ATTRIBUTED_TOKENS, kept as a separate named field for the norm-pair symmetry with L2."),
+    ("FAMILY_HIT_VECTOR_L2", "LIVE_FULL", "Derived variable", "float", "sqrt(sum(h*h for h in hits))", "L2 norm of the family hit vector — how concentrated the hit distribution is (higher relative to L1 norm = fewer families carrying more weight each)."),
+    ("MAX_FAMILY_HITS", "LIVE_FULL", "Derived variable", "int", "max(hits)", "Peak single-family hit count."),
+    ("DOMINANT_FAMILY_ID", "LIVE_FULL", "Derived variable", "int [0,287]", "argmax(hits), first index on ties", "Which family had the most hits this run."),
+    ("DOMINANT_AREA_ID", "LIVE_FULL", "Derived variable", "int [0,11]", "dominant_family // FAMILIES_PER_AREA", "Which of the 12 areas the dominant family belongs to."),
+    ("DOMINANCE_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "max_hits / (attributed + eps)", "How much of all attributed activity landed in the single dominant family — feeds STRUCTURAL_STABILITY_INDEX directly."),
+    ("MEAN_ALTITUDE_GLOBAL", "LIVE_FULL", "Derived variable", "float [0,1]", "sum(altitude_sum) / (attributed + eps)", "Hit-weighted mean altitude across all families — altitude is the per-hit depth/specificity score carried in from concept matching."),
+    ("MEAN_ALTITUDE_DOMINANT", "LIVE_FULL", "Derived variable", "float [0,1]", "altitude_sum[dominant] / (hits[dominant] + eps)", "Mean altitude within the dominant family only, not the global average."),
+    ("ALTITUDE_VARIANCE_GLOBAL", "LIVE_FULL", "Derived variable", "float", "hit-weighted variance of per-family mean altitude", "How much altitude varies across the families that were hit — low variance means a consistent depth of match everywhere."),
+    ("FAMILY_ENTROPY", "LIVE_FULL", "Derived variable", "float [0, ln F]", "-sum(p*log(p) for p in family_probs)", "Shannon entropy of the family hit distribution — raw (unnormalized) information-theoretic spread."),
+    ("NORMALIZED_FAMILY_ENTROPY", "LIVE_FULL", "Derived variable", "float [0,1]", "min(1.0, FAMILY_ENTROPY / ln(F))", "FAMILY_ENTROPY rescaled to [0,1] — the form every downstream consumer (STRUCTURAL_STABILITY_INDEX, L7 SYSTEM_CONFIDENCE_SCORE) actually uses."),
+    ("UNIQUE_AREAS_HIT", "LIVE_FULL", "Derived variable", "int [0,12]", "count of distinct areas with >=1 hit", "How many of the 12 areas were touched at all — coarser-grained version of UNIQUE_FAMILIES_HIT."),
+    ("AREA_SPREAD", "LIVE_FULL", "Derived variable", "float [0,1]", "unique_areas / A", "Fraction of the 12 areas touched — area-level counterpart to FAMILY_ACTIVATION_DENSITY."),
+    ("AREA_DOMINANCE_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "hits_in_dominant_area / (attributed + eps)", "How much of all activity landed in the dominant family's area specifically, not just the dominant family itself."),
+    ("SECONDARY_FAMILY_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "second_max_hits / (max_hits + eps)", "How close the runner-up family came to the dominant one — near 1.0 means a genuine two-way split, not a clear single dominant."),
+    ("SIGNAL_TO_NOISE_RATIO", "LIVE_FULL", "Derived variable", "float >=0", "max_hits / (attributed - max_hits + eps)", "Dominant family's hits versus everything else combined — how much the read is 'about one thing' versus diffuse."),
+    ("SPARSITY_INDEX", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - FAMILY_ACTIVATION_DENSITY", "Direct complement of activation density — how much of the 288-family space stayed completely untouched."),
+    ("TOKEN_REDUNDANCY_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - (unique_families / (attributed + eps))", "How much repeated hitting of the same few families happened versus each attributed token landing somewhere new."),
+    ("ALTITUDE_WEIGHTED_MASS", "LIVE_FULL", "Derived variable", "float >=0", "sum(hits[f] * mean_altitude[f] for hit families)", "Total activation mass weighted by how deep/specific each hit was, summed across every family that was touched."),
+    ("STRUCTURAL_STABILITY_INDEX", "LIVE_FULL", "Derived variable", "float [0,1]", "DOMINANCE_RATIO * (1 - NORMALIZED_FAMILY_ENTROPY)", "L1's single composite read on 'how structurally settled is this activation' — high when one family dominates AND the overall spread is low-entropy. Feeds L7 SYSTEM_CONFIDENCE_SCORE directly (see output_catalog.md's worked 'Confidence' example)."),
+]
+_L1_ENTROPY_NAMES = {"FAMILY_ENTROPY", "NORMALIZED_FAMILY_ENTROPY"}
+for _name, _status, _kind, _rng, _formula_expr, _meaning in _L1_BASE:
+    _cat = CAT_ENTROPY if _name in _L1_ENTROPY_NAMES else CAT_GRAPH
+    add(_name, _cat, _status, _kind,
+        f"core/layers/layer_1.py::compute_L1 -> result[\"{_name}\"]", _rng,
+        _formula_expr,
+        ["L1 — Structural Activation Census"], [],
+        "Hesperia-native `34_SPEC` L1 instrumentation — no Java prototype ancestor for the L1-L9 layer pipeline as a whole — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L1 (34_SPEC / output_catalog §1)",
+            reasoning="L1 census field — first pipeline layer every later layer reads",
+            application="[[L1 — Structural Activation Census]], L2–L9",
+        ),
+        f"**HWIKI-CATALOG-L1 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §1, re-verified against `compute_L1` 2026-08-04.")
+
+_L1_PROFILE = [
+    ("PROFILE_ID", "PARTIAL", "Parameter (flag)", "str", "Name/version string identifying the active profile."),
+    ("PROFILE_VERSION", "PARTIAL", "Parameter (flag)", "str", "The profile's own version tag."),
+    ("PROFILE_CHECKSUM", "PARTIAL", "Parameter (flag)", "str", "Content hash of the profile, for audit trail."),
+    ("FAMILY_PROFILE_DEVIATION", "PARTIAL", "Derived variable", "float", "L2 distance between observed and expected family distribution, normalized by /sqrt(2)."),
+    ("AREA_PROFILE_DEVIATION", "PARTIAL", "Derived variable", "float", "Same L2-distance deviation measure, at area grain instead of family grain."),
+    ("PROFILE_CONFORMANCE_SCORE", "PARTIAL", "Derived variable", "float", "1 - weighted_penalty — hard-gates L7 decision code 75 when too low."),
+]
+for _name, _status, _kind, _rng, _meaning in _L1_PROFILE:
+    add(_name, CAT_GRAPH, _status, _kind,
+        f"core/layers/layer_1.py::compute_L1 -> result[\"{_name}\"] (profile-conditional)", _rng,
+        "See notes — profile-conformance formula, only computed when a StructureProfile is supplied.",
+        ["L1 — Structural Activation Census"], [],
+        "Hesperia-native `34_SPEC N1` profile-conformance extension — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L1 profile extension (34_SPEC N1)",
+            extent="partial",
+            reasoning="only present when a StructureProfile is supplied to compute_L1",
+            application="[[L1 — Structural Activation Census]], L7 conformance gates",
+        ),
+        f"**HWIKI-CATALOG-L1 / HWIKI-PLAIN:** {_meaning} PARTIAL because these keys only appear in `compute_L1`'s return dict when a `profile` argument is supplied — absent on every unprofiled run. Source: `docs/foundations/output_catalog.md` §1.")
+
+_L1_PROFILE_CONDITIONAL = [
+    ("FORBIDDEN_MASS_PENALTY", "profile has `DENY_FAMILIES`", "Hit mass landing in denied families."),
+    ("ALTITUDE_DEVIATION", "profile has `ALT_BAND`/`ALT_TARGET`", "Distance from the profile's altitude band/target."),
+    ("BUDGET_VIOLATION_SCORE", "profile has any `MAX_*`/`MIN_*` cap", "Worst single budget-cap breach (max, not averaged)."),
+]
+for _name, _condition, _meaning in _L1_PROFILE_CONDITIONAL:
+    add(_name, CAT_GRAPH, "PARTIAL", "Derived variable",
+        f"core/layers/layer_1.py::compute_L1 -> result[\"{_name}\"] (doubly-conditional)", "float",
+        "See notes — only computed when both a profile is supplied and the profile sets the specific field this key checks.",
+        ["L1 — Structural Activation Census"], [],
+        "Hesperia-native `34_SPEC N1` profile-conformance extension — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L1 profile extension (34_SPEC N1)",
+            extent="partial",
+            reasoning=f"only when {_condition}",
+            application="[[L1 — Structural Activation Census]]",
+        ),
+        f"**HWIKI-CATALOG-L1 / HWIKI-PLAIN:** {_meaning} Narrower than the other 6 profile keys: only appears when {_condition}, not merely when a profile is supplied at all. Source: `docs/foundations/output_catalog.md` §1.")
+
+# ===== L2 — TOPOLOGY TRAVERSAL (HWIKI-CATALOG-L2, docs/foundations/output_catalog.md §2) =====
+# Source-verified against core/layers/layer_2.py::compute_L2 2026-08-04. LOCAL_CLUSTERING_COEFFICIENT
+# and LOOP_COUNT/LOOP_DENSITY excluded — already wikified as "Clustering coefficient" and
+# "Circuit rank (LOOP_COUNT/LOOP_DENSITY)".
+add("L2 — Topology Traversal", CAT_GRAPH, "BEYOND", "Hub / concept",
+    "core/layers/layer_2.py::compute_L2 (35_SPEC)", "27",
+    "Hub: BFS traversal from L1's dominant family outward — how far and how densely activation reaches through the concept graph.",
+    ["L1 — Structural Activation Census", "BFS depth-capped traversal"], ["L3 — Baseline/Shadow Comparison"],
+    "Hesperia-native `35_SPEC` L2 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L2:** Source: `docs/foundations/output_catalog.md` §2, re-verified against `compute_L2` 2026-08-04.")
+
+_L2_BASE = [
+    ("TRAVERSAL_START_FAMILY", "LIVE_FULL", "Derived variable", "int", "= L1 DOMINANT_FAMILY_ID", "BFS root — L2 always starts traversal from L1's dominant family, not an independent choice."),
+    ("BASE_NEIGHBOR_COUNT", "LIVE_FULL", "Derived variable", "int", "degree(start_family)", "Graph degree of the start family — how many families it's directly adjacent to."),
+    ("ACTIVE_NEIGHBOR_COUNT", "LIVE_FULL", "Derived variable", "int", "count(neighbors with >=1 hit)", "Of the start family's direct neighbors, how many were themselves hit this run."),
+    ("NEIGHBOR_ACTIVATION_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "ACTIVE_NEIGHBOR_COUNT / BASE_NEIGHBOR_COUNT", "Fraction of the start family's immediate neighborhood that lit up alongside it."),
+    ("TRAVERSAL_DEPTH_REACHED", "LIVE_FULL", "Derived variable", "int", "max BFS depth with nonzero mass", "Deepest BFS ring that still carried any activation mass."),
+    ("TOTAL_REACHABLE_NODES", "LIVE_FULL", "Derived variable", "int", "count(families visited within MAX_ALLOWED_DEPTH)", "Total families the BFS actually visited — the denominator for most of this layer's ratios."),
+    ("REACH_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "TOTAL_REACHABLE_NODES / F", "Visited families as a fraction of the full 288-family space."),
+    ("MEAN_TRAVERSAL_DISTANCE", "LIVE_FULL", "Derived variable", "float", "mean(BFS hop distance over visited set)", "Average how-many-hops-away the visited families were from the start."),
+    ("MAX_TRAVERSAL_DISTANCE", "LIVE_FULL", "Derived variable", "int", "max single hop distance reached", "Deepest single hop the BFS reached — bounded by MAX_ALLOWED_DEPTH."),
+    ("TRAVERSAL_RADIUS_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "MAX_TRAVERSAL_DISTANCE / MAX_ALLOWED_DEPTH", "How much of the allowed traversal depth budget actually got used."),
+    ("PATH_COUNT", "LIVE_FULL", "Derived variable", "int", "TOTAL_REACHABLE_NODES - 1", "Edge count of the BFS spanning tree — one less than the node count, by construction."),
+    ("BRANCHING_FACTOR_MEAN", "LIVE_FULL", "Derived variable", "float", "mean(degree over visited set)", "Average graph degree across every visited family, not just the start."),
+    ("PROPAGATION_MASS_DECAY", "LIVE_FULL", "Derived variable", "float", "mass ratio, two deepest populated depths", "How fast activation mass thins out at the traversal's outer edge."),
+    ("MASS_RETENTION_RATIO", "LIVE_FULL", "Derived variable", "float", "total visited-set mass / start family's own mass", "How much total activation the traversal picked up relative to just the start family alone — feeds GEOMETRIC_STABILITY_INDEX."),
+    ("CROSS_AREA_TRAVERSAL_COUNT", "LIVE_FULL", "Derived variable", "int", "count(visited families outside dominant area)", "How many visited families live in a different area than the dominant one."),
+    ("CROSS_AREA_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "CROSS_AREA_TRAVERSAL_COUNT / TOTAL_REACHABLE_NODES", "Fraction of the traversal that spilled outside the dominant area — feeds L9 area-containment classification."),
+    ("AREA_BOUNDARY_CROSSINGS", "LIVE_FULL", "Derived variable", "int", "count(BFS tree edges crossing an area boundary)", "How many single hops in the BFS tree itself crossed from one area into another."),
+    ("TRAVERSAL_COMPACTNESS", "LIVE_FULL", "Derived variable", "float", "TOTAL_REACHABLE_NODES / (MAX_TRAVERSAL_DISTANCE + 1)", "How many families were reached per unit of traversal depth — high value means a wide, shallow spread rather than a narrow, deep one."),
+    ("CENTRALITY_SHIFT", "LIVE_FULL", "Derived variable", "float", "abs(degree(start) - mean degree over visited set)", "How atypical the start family's connectivity is compared to the rest of the visited neighborhood."),
+    ("EDGE_UTILIZATION_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "BFS tree edges / total induced-subgraph edges", "What fraction of all edges among visited families the BFS tree itself actually used, versus edges that exist but weren't traversal edges."),
+    ("TRAVERSAL_SYMMETRY_INDEX", "LIVE_FULL", "Derived variable", "float", "variance(BFS distance from start, over visited set)", "How evenly distances from the start are spread across the visited set — low variance means a roughly uniform ring-by-ring spread."),
+    ("GEOMETRIC_STABILITY_INDEX", "LIVE_FULL", "Derived variable", "float [0,1]", "MASS_RETENTION_RATIO * (1-CROSS_AREA_RATIO) * (1-LOOP_DENSITY)", "L2's composite structural-settledness read — high when the traversal keeps its mass, stays within one area, and doesn't loop back on itself. Feeds L7/L9 PILLAR_GEOMETRY directly."),
+    ("VISITED_IDS", "LIVE_FULL", "Derived variable", "list[int]", "family IDs reached by BFS", "Not an independent measurement — an internal handoff. Consumed by L3's Jaccard similarity and L7's g4 gate."),
+    ("MASS_AT_DEPTH", "LIVE_FULL", "Derived variable", "list[float]", "per-depth mass profile", "Not an independent measurement — an internal handoff. Consumed by L6's DEPTH_GROWTH_RATIO."),
+]
+for _name, _status, _kind, _rng, _formula_expr, _meaning in _L2_BASE:
+    add(_name, CAT_GRAPH, _status, _kind,
+        f"core/layers/layer_2.py::compute_L2 -> result[\"{_name}\"]", _rng,
+        _formula_expr,
+        ["L2 — Topology Traversal"], [],
+        "Hesperia-native `35_SPEC` L2 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L2 (35_SPEC / output_catalog §2)",
+            reasoning="L2 topology-traversal field — how activation spreads from L1 dominant",
+            application="[[L2 — Topology Traversal]], L3–L9",
+        ),
+        f"**HWIKI-CATALOG-L2 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §2, re-verified against `compute_L2` 2026-08-04.")
+
+# ===== L3 — BASELINE/SHADOW COMPARISON (HWIKI-CATALOG-L3, docs/foundations/output_catalog.md §3) =====
+# Source-verified against core/layers/layer_3.py::compute_L3 2026-08-04. GINI_DELTA and
+# VISITED_JACCARD_SIMILARITY are separately mentioned inside "Gini concentration" / "Jaccard overlaps"
+# (algorithm-level pages) but had no dedicated output-variable page of their own — added here.
+add("L3 — Baseline/Shadow Comparison", CAT_GRAPH, "BEYOND", "Hub / concept",
+    "core/layers/layer_3.py::compute_L3 (36_SPEC)", "25",
+    "Hub: runs L1+L2 twice (baseline text vs. shadow/counter text) and diffs every metric — the layer that turns single-run measurements into a comparison.",
+    ["L1 — Structural Activation Census", "L2 — Topology Traversal"], ["L4 — Evidence Retrieval"],
+    "Hesperia-native `36_SPEC` L3 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L3:** Source: `docs/foundations/output_catalog.md` §3, re-verified against `compute_L3` 2026-08-04.")
+
+_L3_BASE = [
+    ("SHADOW_ENABLED", "LIVE_FULL", "Parameter (flag)", "bool", "True whenever L3 runs", "Always True when L3 runs at all — a shadow pair was supplied, this isn't a conditional check on the data itself."),
+    ("DOMINANT_FAMILY_CHANGED", "LIVE_FULL", "Derived variable", "bool", "baseline.DOMINANT_FAMILY_ID != shadow.DOMINANT_FAMILY_ID", "Whether the single most-active family differs between baseline and shadow runs."),
+    ("DOMINANT_AREA_CHANGED", "LIVE_FULL", "Derived variable", "bool", "baseline.DOMINANT_AREA_ID != shadow.DOMINANT_AREA_ID", "Coarser version of DOMINANT_FAMILY_CHANGED, at area grain."),
+    ("DOMINANT_FAMILY_DELTA_HITS", "LIVE_FULL", "Derived variable", "int", "hit-count delta at each run's own dominant family", "How many more/fewer hits the (possibly different) dominant family got, shadow vs. baseline."),
+    ("DOMINANCE_RATIO_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.DOMINANCE_RATIO - baseline.DOMINANCE_RATIO", "Change in how concentrated activation is in the single dominant family."),
+    ("COVERAGE_RATIO_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.COVERAGE_RATIO - baseline.COVERAGE_RATIO", "Change in what fraction of tokens got attributed at all."),
+    ("UNIQUE_FAMILIES_HIT_DELTA", "LIVE_FULL", "Derived variable", "int", "shadow.UNIQUE_FAMILIES_HIT - baseline.UNIQUE_FAMILIES_HIT", "Change in how many distinct families were touched."),
+    ("AREA_SPREAD_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.AREA_SPREAD - baseline.AREA_SPREAD", "Change in how many of the 12 areas were touched."),
+    ("ENTROPY_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.NORMALIZED_FAMILY_ENTROPY - baseline.NORMALIZED_FAMILY_ENTROPY", "Change in how spread-out (versus concentrated) the family hit distribution is."),
+    ("GINI_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.GINI_COEFFICIENT - baseline.GINI_COEFFICIENT", "Change in [[Gini concentration]] between the two runs — L3's application of the general Jaccard/Gini algorithm pages to a paired comparison."),
+    ("ALTITUDE_MEAN_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.MEAN_ALTITUDE_GLOBAL - baseline.MEAN_ALTITUDE_GLOBAL", "Change in average hit-weighted altitude across all families."),
+    ("ALTITUDE_DOMINANT_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.MEAN_ALTITUDE_DOMINANT - baseline.MEAN_ALTITUDE_DOMINANT", "Change in mean altitude within just the (possibly different) dominant family."),
+    ("TRAVERSAL_DEPTH_DELTA", "LIVE_FULL", "Derived variable", "int", "shadow.TRAVERSAL_DEPTH_REACHED - baseline.TRAVERSAL_DEPTH_REACHED", "Change in how deep the L2 BFS traversal reached."),
+    ("REACHABLE_NODES_DELTA", "LIVE_FULL", "Derived variable", "int", "shadow.TOTAL_REACHABLE_NODES - baseline.TOTAL_REACHABLE_NODES", "Change in how many families the L2 traversal visited."),
+    ("MAX_DISTANCE_DELTA", "LIVE_FULL", "Derived variable", "int", "shadow.MAX_TRAVERSAL_DISTANCE - baseline.MAX_TRAVERSAL_DISTANCE", "Change in the single deepest hop the L2 traversal reached."),
+    ("CROSS_AREA_RATIO_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.CROSS_AREA_RATIO - baseline.CROSS_AREA_RATIO", "Change in how much the traversal spilled outside its dominant area."),
+    ("LOOP_DENSITY_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.LOOP_DENSITY - baseline.LOOP_DENSITY", "Change in [[Circuit rank (LOOP_COUNT/LOOP_DENSITY)]] between the two runs."),
+    ("EDGE_UTILIZATION_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.EDGE_UTILIZATION_RATIO - baseline.EDGE_UTILIZATION_RATIO", "Change in what fraction of available edges the BFS tree actually used."),
+    ("VISITED_JACCARD_SIMILARITY", "LIVE_FULL", "Derived variable", "float [0,1]", "jaccard(baseline.VISITED_IDS, shadow.VISITED_IDS)", "How much the two runs' visited-family sets overlap — L3's specific application of [[Jaccard overlaps]] to L2's VISITED_IDS handoff."),
+    ("VISITED_SYMMETRIC_DIFFERENCE_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - VISITED_JACCARD_SIMILARITY", "Direct complement of the Jaccard similarity — how much of the combined visited set was NOT shared."),
+    ("FAMILY_HIT_VECTOR_L1_DELTA", "LIVE_FULL", "Derived variable", "float", "shadow.FAMILY_HIT_VECTOR_L1 - baseline.FAMILY_HIT_VECTOR_L1", "Change in the L1-norm hit-vector magnitude between the two runs."),
+    ("HIT_VECTOR_COSINE_SIMILARITY", "LIVE_FULL", "Derived variable", "float [-1,1]", "cosine(baseline hit vector, shadow hit vector)", "How aligned the two runs' full family-hit-count vectors are in direction, independent of magnitude — see [[cosine_similarity]]."),
+    ("TOP_K_OVERLAP_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "overlap(top-K families, baseline vs. shadow) / K", "Whether the two runs agree on which families mattered most, not just on the single dominant one."),
+    ("SHADOW_DEVIATION_SCORE", "LIVE_FULL", "Derived variable", "float", "0.35*(1-cosine) + 0.35*sym_diff + 0.30*abs(dominance_delta)", "L3's single composite read on how different the shadow run is from baseline — feeds L7/L9 decision logic."),
+    ("SHADOW_ACCEPTABILITY_GATE", "LIVE_FULL", "Derived variable", "bool", "deviation, cross-area delta, and area-flip all within policy caps", "The hard pass/fail gate downstream layers check before trusting a shadow comparison at all."),
+]
+for _name, _status, _kind, _rng, _formula_expr, _meaning in _L3_BASE:
+    add(_name, CAT_GRAPH, _status, _kind,
+        f"core/layers/layer_3.py::compute_L3 -> result[\"{_name}\"]", _rng,
+        _formula_expr,
+        ["L3 — Baseline/Shadow Comparison"], [],
+        "Hesperia-native `36_SPEC` L3 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L3 (36_SPEC / output_catalog §3)",
+            reasoning="L3 baseline/shadow delta field — turns single-run measures into comparison",
+            application="[[L3 — Baseline/Shadow Comparison]], L4–L9",
+        ),
+        f"**HWIKI-CATALOG-L3 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §3, re-verified against `compute_L3` 2026-08-04.")
+
+# ===== L4 — EVIDENCE RETRIEVAL (HWIKI-CATALOG-L4, docs/foundations/output_catalog.md §4) =====
+# Source-verified against core/layers/layer_4.py::compute_L4 2026-08-04.
+add("L4 — Evidence Retrieval", CAT_TRUST, "BEYOND", "Hub / concept",
+    "core/layers/layer_4.py::compute_L4 (37_SPEC)", "25",
+    "Hub: retrieves supporting text chunks (BM25) for both baseline and shadow runs, then scores how well retrieval actually backs up what L1/L2 measured structurally.",
+    ["BM25 retrieval", "L1 — Structural Activation Census", "L2 — Topology Traversal"], ["L5 — Counter-Evidence & Trig Invariants"],
+    "Hesperia-native `37_SPEC` L4 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L4:** Source: `docs/foundations/output_catalog.md` §4, re-verified against `compute_L4` 2026-08-04.")
+
+_L4_BASE = [
+    ("RETRIEVAL_MODE_ID", "LIVE_FULL", "Parameter (flag)", "string", "\"LEX_BM25_V1\"", "Identifies which retrieval engine produced this layer's output — currently always the lexical BM25 implementation."),
+    ("TOP_K", "LIVE_FULL", "Parameter (constant)", "int", "20 (default)", "Target retrieval count — how many chunks the engine tries to return."),
+    ("RETRIEVED_COUNT_BASELINE", "LIVE_FULL", "Derived variable", "int", "len(retrieved chunks, baseline)", "Chunks actually retrieved for the baseline text — may fall short of TOP_K."),
+    ("RETRIEVED_COUNT_SHADOW", "LIVE_FULL", "Derived variable", "int", "len(retrieved chunks, shadow)", "Same, for the shadow/counter text."),
+    ("RETRIEVAL_SHORTFALL_BASELINE", "LIVE_FULL", "Derived variable", "int", "max(0, TOP_K - RETRIEVED_COUNT_BASELINE)", "How far baseline retrieval fell short of the TOP_K target — gates L9's ACTION_REQUIRE_EVIDENCE_REBUILD."),
+    ("RETRIEVAL_SHORTFALL_SHADOW", "LIVE_FULL", "Derived variable", "int", "max(0, TOP_K - RETRIEVED_COUNT_SHADOW)", "Same shortfall measure, for the shadow run."),
+    ("UNIQUE_BOOKS_BASELINE", "LIVE_FULL", "Derived variable", "int", "count(distinct source books, baseline retrieval)", "How many distinct source books the baseline retrieval drew from."),
+    ("UNIQUE_BOOKS_SHADOW", "LIVE_FULL", "Derived variable", "int", "count(distinct source books, shadow retrieval)", "Same, for the shadow run."),
+    ("DUPLICATE_BOOK_RATIO_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - UNIQUE_BOOKS_BASELINE / RETRIEVED_COUNT_BASELINE", "How much of the baseline retrieval is repeat chunks from the same book rather than new sources."),
+    ("DUPLICATE_BOOK_RATIO_SHADOW", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - UNIQUE_BOOKS_SHADOW / RETRIEVED_COUNT_SHADOW", "Same, for the shadow run."),
+    ("FAMILY_MATCH_COUNT_BASELINE", "LIVE_FULL", "Derived variable", "int", "count(retrieved chunks tagged with dominant family)", "How many retrieved chunks are actually tagged with L1's dominant family."),
+    ("FAMILY_MATCH_RATIO_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "FAMILY_MATCH_COUNT_BASELINE / RETRIEVED_COUNT_BASELINE", "Fraction of retrieval that matches the dominant family — the single heaviest-weighted term (0.45) in EVIDENCE_SUPPORT_INDEX_BASELINE."),
+    ("AREA_MATCH_RATIO_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "count(retrieved in dominant area) / RETRIEVED_COUNT_BASELINE", "Coarser version of FAMILY_MATCH_RATIO_BASELINE, at area grain — 0.35 weight in the support index."),
+    ("TOP_K_FAMILY_COVERAGE_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "count(distinct families in retrieval) / F", "How many of the 288 families the retrieved evidence set touches at all, not just the dominant one."),
+    ("EVIDENCE_ENTROPY_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "normalized Shannon entropy of retrieved-chunk family distribution", "How spread-out (versus concentrated) the retrieved evidence is across families."),
+    ("EVIDENCE_GINI_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "[[Gini concentration]] of retrieved-chunk family distribution", "Inequality measure on the same distribution EVIDENCE_ENTROPY_BASELINE covers — the two can disagree in direction, same as L1's GINI_COEFFICIENT/FAMILY_ENTROPY pair."),
+    ("RANK_WEIGHTED_ALIGNMENT_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "sum(1/(rank+1) for chunks in dominant area) / normalizer", "Like AREA_MATCH_RATIO_BASELINE but weighted so higher-ranked (more relevant) retrieved chunks count more."),
+    ("HIT_EVIDENCE_OVERLAP_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "jaccard(hit families, retrieved-chunk families)", "How much overlap there is between which families L1 actually hit and which families the retrieved evidence covers — a [[Jaccard overlaps]] application, 0.20 weight in the support index."),
+    ("HIT_EVIDENCE_OVERLAP_SHADOW", "LIVE_FULL", "Derived variable", "float [0,1]", "jaccard(hit families, retrieved-chunk families), shadow", "Same overlap measure, for the shadow run."),
+    ("EVIDENCE_JACCARD_BS", "LIVE_FULL", "Derived variable", "float [0,1]", "jaccard(baseline retrieved chunk IDs, shadow retrieved chunk IDs)", "How much the baseline and shadow runs' actual retrieved chunk sets overlap — a [[Jaccard overlaps]] application."),
+    ("BOOKSET_JACCARD_BS", "LIVE_FULL", "Derived variable", "float [0,1]", "jaccard(baseline book set, shadow book set)", "Coarser version of EVIDENCE_JACCARD_BS, at source-book grain instead of chunk grain."),
+    ("EVIDENCE_SHIFT_SCORE", "LIVE_FULL", "Derived variable", "float [0,1]", "1 - EVIDENCE_JACCARD_BS", "Direct complement of EVIDENCE_JACCARD_BS — how much the evidence set shifted between baseline and shadow."),
+    ("INTEGRITY_CHECK_PASS_RATIO", "LIVE_FULL", "Derived variable", "float [0,1]", "count(chunks with valid checksum) / retrieved", "Fraction of retrieved chunks that pass a checksum integrity check — gates L7's g6 hard guard."),
+    ("EVIDENCE_SUPPORT_INDEX_BASELINE", "LIVE_FULL", "Derived variable", "float [0,1]", "0.45*FAMILY_MATCH_RATIO + 0.35*AREA_MATCH_RATIO + 0.20*HIT_EVIDENCE_OVERLAP", "L4's single most load-bearing output — the composite read on how well retrieved evidence actually supports what was structurally measured. Traces through L7/L8 rescale to L9 PILLAR_EVIDENCE_U1000 (see output_catalog.md's worked 'Trust' example)."),
+    ("EVIDENCE_ACCEPTABILITY_GATE", "LIVE_FULL", "Derived variable", "bool", "integrity, shortfall, support, and duplication all within policy caps", "The hard pass/fail gate downstream layers check before trusting this layer's evidence at all — same pattern as L3's SHADOW_ACCEPTABILITY_GATE."),
+]
+for _name, _status, _kind, _rng, _formula_expr, _meaning in _L4_BASE:
+    add(_name, CAT_TRUST, _status, _kind,
+        f"core/layers/layer_4.py::compute_L4 -> result[\"{_name}\"]", _rng,
+        _formula_expr,
+        ["L4 — Evidence Retrieval"], [],
+        "Hesperia-native `37_SPEC` L4 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L4 (37_SPEC / output_catalog §4)",
+            reasoning="L4 evidence-retrieval field — how well retrieved text backs structural measures",
+            application="[[L4 — Evidence Retrieval]], L5–L9",
+        ),
+        f"**HWIKI-CATALOG-L4 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §4, re-verified against `compute_L4` 2026-08-04.")
+
+# ===== L5 — COUNTER-EVIDENCE & TRIG INVARIANTS (HWIKI-CATALOG-L5, docs/foundations/output_catalog.md §5) =====
+# Source-verified against core/layers/layer_5.py::compute_L5 2026-08-04. Two unrelated halves:
+# 5A counter-evidence/contradiction pressure, 5B trig/metric-space axiom self-test (6 of 13 residuals
+# are hardcoded 0.0 reserved placeholders in the current deterministic-only mode -> marked PARTIAL,
+# not LIVE_FULL, per the code's own explicit reservation comments, not silently upgraded).
+add("L5 — Counter-Evidence & Trig Invariants", CAT_TRUST, "BEYOND", "Hub / concept",
+    "core/layers/layer_5.py::compute_L5 (38_SPEC)", "25 (12 counter-evidence + 13 trig)",
+    "Hub: two unrelated jobs sharing one layer — 5A retrieves and scores evidence AGAINST the dominant read (contradiction pressure); 5B self-tests the vector-space math itself (dot product, norm, angle axioms) as a sanity gate, not a content measurement.",
+    ["L4 — Evidence Retrieval"], ["L7 — Consistency and Decision"],
+    "Hesperia-native `38_SPEC` L5 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L5:** Source: `docs/foundations/output_catalog.md` §5, re-verified against `compute_L5` 2026-08-04.")
+
+_L5A_BASE = [
+    ("ANTI_REGION_SIZE", "int", "count(families flagged anti-dominant)", "How many families are flagged as structurally contradicting the dominant read."),
+    ("RETRIEVED_COUNT_NEG", "int", "len(counter-evidence chunks retrieved)", "How many counter-evidence chunks the retrieval engine found, mirroring L4's RETRIEVED_COUNT_BASELINE but for the 'against' side."),
+    ("NEG_SHORTFALL", "int", "max(0, TOP_K - RETRIEVED_COUNT_NEG)", "Counter-evidence version of L4's RETRIEVAL_SHORTFALL_BASELINE."),
+    ("NEG_UNIQUE_BOOKS", "int", "count(distinct books, counter-evidence set)", "Counter-evidence version of L4's UNIQUE_BOOKS_BASELINE."),
+    ("NEG_DUPLICATE_BOOK_RATIO", "float [0,1]", "1 - NEG_UNIQUE_BOOKS / RETRIEVED_COUNT_NEG", "Counter-evidence version of L4's DUPLICATE_BOOK_RATIO_BASELINE."),
+    ("NEG_AREA_MATCH_RATIO", "float [0,1]", "count(counter-evidence in dominant area) / RETRIEVED_COUNT_NEG", "How much of the counter-evidence still lands in the dominant area — high values here weaken the 'genuine contradiction' read."),
+    ("POS_NEG_BOOKSET_JACCARD", "float [0,1]", "jaccard(positive book set, negative book set)", "How much source overlap there is between supporting and contradicting evidence — 0.20 weight in CONTRADICTION_PRESSURE_SCORE."),
+    ("POS_NEG_CHUNK_JACCARD", "float [0,1]", "jaccard(positive chunks, negative chunks)", "Finer-grained version of POS_NEG_BOOKSET_JACCARD, at chunk instead of book grain."),
+    ("POS_SUPPORT_INDEX", "float [0,1]", "= L4 EVIDENCE_SUPPORT_INDEX_BASELINE (passthrough)", "Not independently computed — L5's name for L4's support index, kept alongside NEG_SUPPORT_INDEX so both sides of the pressure formula live in one place."),
+    ("NEG_SUPPORT_INDEX", "float [0,1]", "count(counter-evidence tagged anti-family) / RETRIEVED_COUNT_NEG", "How well the counter-evidence actually supports the anti-dominant read — 0.55 weight, the heaviest term in CONTRADICTION_PRESSURE_SCORE."),
+    ("CONTRADICTION_PRESSURE_SCORE", "float", "0.55*neg_support + 0.25*(1-pos_support) + 0.20*bookset_jaccard", "L5A's single composite read on how much genuine contradicting evidence exists — feeds L9 CONSISTENCY_U1000."),
+    ("REALITY_GATE_COUNTER_EVIDENCE", "bool", "integrity, shortfall, and pressure all within policy caps", "Hard pass/fail gate on the counter-evidence half — gates L7's g9 guard."),
+]
+for _name, _rng, _formula_expr, _meaning in _L5A_BASE:
+    add(_name, CAT_TRUST, "LIVE_FULL", "Derived variable",
+        f"core/layers/layer_5.py::compute_L5 -> result[\"{_name}\"]", _rng,
+        _formula_expr,
+        ["L5 — Counter-Evidence & Trig Invariants"], [],
+        "Hesperia-native `38_SPEC` L5 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L5 (38_SPEC / output_catalog §5)",
+            reasoning="L5 counter-evidence field — pressure against the dominant read",
+            application="[[L5 — Counter-Evidence & Trig Invariants]], L7",
+        ),
+        f"**HWIKI-CATALOG-L5 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §5, re-verified against `compute_L5` 2026-08-04.")
+
+_L5B_TRIG = [
+    ("DOT_SYMMETRY_RESIDUAL", "LIVE_FULL", "abs(dot(v,w) - dot(w,v))", "Self-test: dot product should be symmetric — near-zero residual confirms the implementation actually is."),
+    ("DOT_SELF_NONNEG_RESIDUAL", "LIVE_FULL", "max(0, -dot(v,v))", "Self-test: a vector dotted with itself should never be negative."),
+    ("NORM_CONSISTENCY_RESIDUAL", "LIVE_FULL", "abs(norm(v)**2 - dot(v,v))", "Self-test: squared norm should equal the vector dotted with itself."),
+    ("COSI_CLAMP_VIOLATION_COUNT", "LIVE_FULL", "1 if raw cosine outside [-1,1] else 0", "Self-test: counts whether the raw (pre-clamp) cosine similarity ever left its valid range."),
+    ("ANGLE_RANGE_VIOLATION_COUNT", "LIVE_FULL", "1 if arccos angle outside [0,pi] else 0", "Self-test: counts whether the derived angle ever left its valid range."),
+    ("LAW_OF_COSINES_RESIDUAL", "PARTIAL", "hardcoded 0.0", "Reserved for a future non-deterministic-input mode — not a live computation today. The code sets this literal 0.0, explicitly flagged as reserved, not silently omitted."),
+    ("SIN_COS_IDENTITY_RESIDUAL", "LIVE_FULL", "abs(sin(theta)**2 + cos(theta)**2 - 1)", "Self-test: the Pythagorean trig identity, checked against the actual computed angle."),
+    ("ROTATION_NORM_PRESERVATION_RESIDUAL", "PARTIAL", "hardcoded 0.0", "Reserved placeholder — not live today, same status as LAW_OF_COSINES_RESIDUAL."),
+    ("ORTHONORMALITY_RESIDUAL_FROBENIUS", "PARTIAL", "hardcoded 0.0", "Reserved placeholder — not live today."),
+    ("TRIANGLE_INEQUALITY_VIOLATION_COUNT", "PARTIAL", "hardcoded 0", "Reserved placeholder — not live today."),
+    ("METRIC_SYMMETRY_RESIDUAL", "PARTIAL", "hardcoded 0.0", "Reserved placeholder — not live today."),
+    ("METRIC_IDENTITY_RESIDUAL", "PARTIAL", "hardcoded 0.0", "Reserved placeholder — not live today."),
+]
+for _name, _status, _formula_expr, _meaning in _L5B_TRIG:
+    add(_name, CAT_TRUST, _status, "Derived variable (self-test)",
+        f"core/layers/layer_5.py::compute_L5 -> result[\"{_name}\"]", "float/int, near-zero expected",
+        _formula_expr,
+        ["L5 — Counter-Evidence & Trig Invariants"], ["REALITY_GATE_TRIG"],
+        "Hesperia-native `38_SPEC` L5 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L5 trig self-test (38_SPEC)",
+            extent="partial" if "hardcoded" in _formula_expr else "full",
+            reasoning="vector-space axiom self-test — not a content measurement",
+            application="[[REALITY_GATE_TRIG]], L7 g8",
+        ),
+        f"**HWIKI-CATALOG-L5 / HWIKI-PLAIN:** {_meaning} Not a content measurement — a self-test that the vector-space math the rest of the engine relies on actually holds its own axioms. Source: `docs/foundations/output_catalog.md` §5.")
+
+add("REALITY_GATE_TRIG", CAT_TRUST, "LIVE_FULL", "Derived variable",
+    "core/layers/layer_5.py::compute_L5 -> result[\"REALITY_GATE_TRIG\"]", "bool",
+    "AND of all 13 trig/metric-space residual checks within tolerance",
+    ["DOT_SYMMETRY_RESIDUAL", "DOT_SELF_NONNEG_RESIDUAL", "NORM_CONSISTENCY_RESIDUAL"], [],
+    "Hesperia-native `38_SPEC` L5 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L5:** The single hard gate summarizing all 13 trig self-tests (5 live + 6 reserved-0.0 + itself) — gates L7's g8 guard and L9's ACTION_ALLOW_HUMAN_SUMMARY. Source: `docs/foundations/output_catalog.md` §5.")
+
+# ===== L7 — CONSISTENCY AND DECISION (HWIKI-CATALOG-L7, docs/foundations/output_catalog.md §7) =====
+# Source-verified against core/layers/layer_7.py::compute_L7 2026-08-04. Two items
+# (CONSIST_STABILITY_REGIME_VALID (L7), SYSTEM_CONFIDENCE_SCORE (L7)) already wikified — excluded.
+# Naming follows the existing "(L7)" suffix convention those two items already established.
+add("L7 — Consistency and Decision", CAT_STABILITY, "BEYOND", "Hub / concept",
+    "core/layers/layer_7.py::compute_L7 (40_SPEC)", "25 base + up to 3 conditional",
+    "Hub: ten pass/fail consistency gates (g1-g10) plus alignment/confidence aggregation — the layer where L1-L6's separate measurements collapse into one trust tier and one decision code.",
+    ["L1 — Structural Activation Census", "L2 — Topology Traversal", "L3 — Baseline/Shadow Comparison", "L4 — Evidence Retrieval", "L5 — Counter-Evidence & Trig Invariants"], ["L8 — Unit Standardization"],
+    "Hesperia-native `40_SPEC` L7 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L7:** Source: `docs/foundations/output_catalog.md` §7, re-verified against `compute_L7` 2026-08-04. `docs/specs/history/40_SPEC` recovery confirmed `OUTPUT_TRUST_TAG` is spec item 25, correcting an earlier miscounted '24 base' claim.")
+
+_L7_GATES = [
+    ("CONSIST_COVERAGE_MIN_GATE (L7, g1)", "bool", "COVERAGE_RATIO >= MIN_COVERAGE_RATIO", "First consistency gate — L1's coverage must clear a policy floor before anything else is trusted."),
+    ("CONSIST_ATTRIBUTION_MASS_EQUALITY (L7, g2)", "bool", "L1 FAMILY_HIT_VECTOR_L1 ~= ATTRIBUTED_TOKENS", "Sanity check that L1's own two ways of counting attributed mass agree with each other."),
+    ("CONSIST_TRAVERSAL_NONEMPTY_WHEN_ATTRIBUTED (L7, g3)", "bool", "traversal empty iff attribution empty", "Sanity check that L2's traversal and L1's attribution agree on whether there was anything to work with at all."),
+    ("CONSIST_DOMINANT_FAMILY_IN_TRAVERSAL (L7, g4)", "bool", "L1 DOMINANT_FAMILY_ID in L2 VISITED_IDS", "Sanity check that the family L1 called dominant is actually one the L2 traversal reached — uses L2's VISITED_IDS handoff directly."),
+    ("CONSIST_AREA_MAPPING (L7, g5)", "bool", "L1 DOMINANT_AREA_ID == DOMINANT_FAMILY_ID // FAMILIES_PER_AREA", "Sanity check that the dominant area was derived correctly from the dominant family, not independently computed and possibly inconsistent."),
+    ("CONSIST_EVIDENCE_INTEGRITY_HARD (L7, g6)", "bool", "L4 INTEGRITY_CHECK_PASS_RATIO == 1.0", "Hard gate — unlike most others here this demands exact 1.0, not just 'within policy cap'."),
+    ("CONSIST_SHADOW_DELTA_ONLY_IF_SHADOW (L7, g7)", "bool", "shadow delta is zero unless a shadow run happened", "Sanity check that L3's delta fields don't silently carry nonzero values when there was no actual shadow comparison to produce them."),
+    ("CONSIST_TRIG_REQUIRED_FOR_ANGLE_METRICS (L7, g8)", "bool", "= L5 REALITY_GATE_TRIG", "Passthrough — L7's name for L5's trig self-test gate, kept alongside the other nine g-gates so all ten live in one namespace."),
+    ("CONSIST_COUNTER_EVIDENCE_VALID (L7, g9)", "bool", "= L5 REALITY_GATE_COUNTER_EVIDENCE", "Passthrough — L7's name for L5's counter-evidence gate."),
+    ("TRUST_TIER", "int [0,3]", "0 if g1 fails; 1 if g6 fails; 2 if g8 fails; else 3", "The first tier-defining escalation — how far down the gate chain the run got before something failed. Directly feeds SYSTEM_CONFIDENCE_SCORE as the (tier/3) factor."),
+    ("MAX_ALLOWABLE_SHADOW_DEVIATION", "float", "echoed policy constant", "Not a measurement — the policy cap value itself, echoed into the output so a consumer can see what threshold SHADOW_WITHIN_LIMITS was checked against."),
+    ("SHADOW_WITHIN_LIMITS", "bool", "= L3 SHADOW_ACCEPTABILITY_GATE", "Passthrough — L7's name for L3's shadow gate."),
+    ("MAX_ALLOWABLE_CONTRADICTION", "float", "echoed policy constant", "Policy cap echo, paired with CONTRADICTION_WITHIN_LIMITS."),
+    ("CONTRADICTION_WITHIN_LIMITS", "bool", "L5 CONTRADICTION_PRESSURE_SCORE <= policy cap", "Whether L5's contradiction pressure stayed under the configured ceiling."),
+    ("MAX_AREA_LEAKAGE", "float", "echoed policy constant", "Policy cap echo, paired with AREA_LEAKAGE_WITHIN_LIMITS."),
+    ("AREA_LEAKAGE_WITHIN_LIMITS", "bool", "L2 CROSS_AREA_RATIO <= policy cap", "Whether L2's cross-area traversal spillover stayed under the configured ceiling."),
+    ("MAX_CHAOS_LEVEL", "float", "echoed policy constant (Lyapunov cap)", "Policy cap echo for the L6 Lyapunov stability estimate — no paired *_WITHIN_LIMITS field in this layer's own output, unlike the other policy-cap rows."),
+    ("STRUCTURE_EVIDENCE_ALIGNMENT", "float [0,1]", "0.60*L4_support + 0.40*L2_geometric_stability", "How well the structural read (L2's geometry) and the evidence read (L4's support) agree with each other."),
+    ("SHADOW_EVIDENCE_ALIGNMENT_DELTA", "float", "shadow support - baseline support", "How much the evidence-alignment picture changes between baseline and shadow runs."),
+    ("SHADOW_JUSTIFICATION_SCORE", "float [0,1]", "nonzero only if shadow gate passed AND shadow improved support", "Whether running the shadow comparison at all was worthwhile — zero unless it both passed its own gate and actually made the evidence picture better."),
+    ("CONTRADICTION_ADJUSTED_SUPPORT", "float [0,1]", "L4_support * (1 - L5_pressure)", "L4's evidence support discounted by however much L5 found contradicting it — feeds directly into SYSTEM_CONFIDENCE_SCORE."),
+    ("DECISION_STATUS_CODE", "int", "0 pass; else 10/20/30/40/50/60/70 by which gate failed first; 75 reserved for profile-conformance failure", "The single number a consumer checks to know exactly which gate (if any) blocked this run — a full audit trail compressed to one int."),
+    ("OUTPUT_TRUST_TAG", "string", "HIGH/MED/LOW from code+confidence thresholds; spec item 25", "The human-readable trust label — closes the `40_SPEC` recovery finding that this is spec item 25, not an unspecced code-only addition as an earlier pass of the catalog miscounted."),
+]
+for _name, _rng, _formula_expr, _meaning in _L7_GATES:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        f"core/layers/layer_7.py::compute_L7 -> out[...]", _rng,
+        _formula_expr,
+        ["L7 — Consistency and Decision"], [],
+        "Hesperia-native `40_SPEC` L7 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L7 (40_SPEC / output_catalog §7)",
+            reasoning="L7 consistency/decision field — collapses L1–L6 into trust tier and decision code",
+            application="[[L7 — Consistency and Decision]], L8–L9",
+        ),
+        f"**HWIKI-CATALOG-L7 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §7, re-verified against `compute_L7` 2026-08-04.")
+
+_L7_CONDITIONAL = [
+    ("CONSIST_PROFILE_CONFORMANCE (L7)", "profile is active", "Only present when a structure profile is active — not in `40_SPEC`'s original 25, a later profile-mode addition."),
+    ("PROFILE_CHECKSUM (L7)", "profile is active and supplies a checksum", "Same conditional family as CONSIST_PROFILE_CONFORMANCE (L7) — later addition, not in the original spec."),
+    ("STABILITY_ANOMALY_SCORE (L7)", "run() receives a stability dict", "Only present when the `run()` wrapper (not `compute_L7` itself) receives a stability anomaly score — also demotes OUTPUT_TRUST_TAG to \"LOW_CONFIDENCE\" post-hoc when high enough. This demotion path lives in `run()`, not visible inside `compute_L7` itself — code-only, post-spec addition."),
+]
+for _name, _condition, _meaning in _L7_CONDITIONAL:
+    add(_name, CAT_STABILITY, "PARTIAL", "Derived variable",
+        "core/layers/layer_7.py -> run() wrapper (profile/stability-conditional)", "varies",
+        "See notes — only computed under the stated condition, not part of compute_L7's guaranteed base output.",
+        ["L7 — Consistency and Decision"], [],
+        "Hesperia-native `40_SPEC` L7 instrumentation, code-only post-spec addition — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L7 post-spec conditional",
+            extent="partial",
+            reasoning=f"only under condition: {_condition}",
+            application="[[L7 — Consistency and Decision]]",
+        ),
+        f"**HWIKI-CATALOG-L7 / HWIKI-PLAIN:** {_meaning} Condition: {_condition}. Source: `docs/foundations/output_catalog.md` §7.")
+
+# ===== L8 — UNIT STANDARDIZATION (HWIKI-CATALOG-L8, docs/foundations/output_catalog.md §8) =====
+# Source-verified against core/layers/layer_8.py::compute_L8 2026-08-04. Three items already
+# wikified (SI_GLOBAL_STABILITY_PCT/U1000 (L8), SI_SYSTEM_CONFIDENCE_U1000 (L8)) — excluded.
+add("L8 — Unit Standardization", CAT_STABILITY, "BEYOND", "Hub / concept",
+    "core/layers/layer_8.py::compute_L8 (41_SPEC)", "30",
+    "Hub: takes every L1-L7 raw ratio/score and rescales it into fixed, documented unit families (PCT, U1000) so L9 and downstream consumers never have to know each upstream layer's native scale.",
+    ["L1 — Structural Activation Census", "L2 — Topology Traversal", "L3 — Baseline/Shadow Comparison", "L4 — Evidence Retrieval", "L5 — Counter-Evidence & Trig Invariants", "L7 — Consistency and Decision"], ["L9 — Pillars, Brand Labels, Action Triggers"],
+    "Hesperia-native `41_SPEC` L8 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L8:** Source: `docs/foundations/output_catalog.md` §8, re-verified against `compute_L8` 2026-08-04. 5 policy/metadata constants (always identical text) + 22 SI_* metrics from `compute_L8` + 3 more (POLICY_MODE, INTERPRETATION_CONSTRAINTS, INTERPRETATION_SCOPE) always added by the `run()` wrapper regardless of whether a policy was supplied.")
+
+_L8_POLICY_CONST = [
+    ("UNIT_TYPE_ENUM (L8)", "Fixed reference string", '"COUNT,RATIO,PERCENT,U1000,RADIANS,SECONDS,BYTES,HASH,BOOLEAN,CODE"', "Enumerates every unit family this layer knows how to tag a value with — a fixed reference constant, not a measurement."),
+    ("SCALE_POLICY_ENUM (L8)", "Fixed reference string", '"RAW,CLAMP_0_1,CLAMP_0_100,CLAMP_0_1000,ZSCORE,LOG10"', "Enumerates every rescaling policy this layer knows how to apply — fixed reference constant."),
+    ("EPSILON_POLICY (L8)", "Fixed constant", "1e-12", "The floor epsilon this layer's rescaling math uses to avoid division-by-zero — distinct from the `eps=1e-9` used in L1's own internal formulas."),
+    ("CLAMP_POLICY (L8)", "Fixed formula string", '"max(lo,min(hi,v))"', "Documents the exact clamp formula every SI_* bounded value was put through — a fixed reference constant, not itself a computation."),
+    ("ROUNDING_POLICY (L8)", "Fixed string", '"DECIMALS_RATIO=6,DECIMALS_PCT=2,DECIMALS_U1000=0"', "Documents the rounding precision applied per unit family."),
+]
+for _name, _kind, _val, _meaning in _L8_POLICY_CONST:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Parameter (constant)",
+        "core/layers/layer_8.py::compute_L8 -> result[...]", _val,
+        "Fixed reference constant, identical every run.",
+        ["L8 — Unit Standardization"], [],
+        "Hesperia-native `41_SPEC` L8 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L8 (41_SPEC / output_catalog §8)",
+            reasoning="L8 unit-policy constant — documents how SI_* values are tagged and scaled",
+            application="[[L8 — Unit Standardization]], L9",
+        ),
+        f"**HWIKI-CATALOG-L8 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §8.")
+
+_L8_SI = [
+    ("SI_TOTAL_TOKENS_COUNT (L8)", "int", "= L1 TOTAL_TOKENS", "Passthrough, tagged with the COUNT unit type — not itself rescaled, just re-labeled for consumers that read every field through the same unit-tagged interface."),
+    ("SI_COVERAGE_PCT (L8)", "float [0,100]", "L1 COVERAGE_RATIO -> [0,100]", "L1's coverage ratio rescaled to a percent."),
+    ("SI_COVERAGE_U1000 (L8)", "float [0,1000]", "L1 COVERAGE_RATIO -> [0,1000]", "Same value, U1000 scale — feeds L9's banding logic, which reads U1000 not PCT."),
+    ("SI_DOMINANCE_PCT (L8)", "float [0,100]", "L1 DOMINANCE_RATIO -> [0,100]", "L1's dominance ratio rescaled to a percent."),
+    ("SI_DOMINANCE_U1000 (L8)", "float [0,1000]", "L1 DOMINANCE_RATIO -> [0,1000]", "Same value, U1000 scale."),
+    ("SI_ENTROPY_U1000 (L8)", "float [0,1000]", "L1 NORMALIZED_FAMILY_ENTROPY -> [0,1000]", "L1's normalized entropy rescaled to U1000."),
+    ("SI_ENTROPY_PCT (L8)", "float [0,100]", "L1 NORMALIZED_FAMILY_ENTROPY -> [0,100]", "Same value, percent scale."),
+    ("SI_GEOMETRIC_STABILITY_U1000 (L8)", "float [0,1000]", "L2 GEOMETRIC_STABILITY_INDEX -> [0,1000]", "L2's composite geometric-stability read, rescaled to U1000."),
+    ("SI_GEOMETRIC_STABILITY_PCT (L8)", "float [0,100]", "L2 GEOMETRIC_STABILITY_INDEX -> [0,100]", "Same value, percent scale."),
+    ("SI_AREA_LEAKAGE_PCT (L8)", "float [0,100]", "L2 CROSS_AREA_RATIO -> [0,100]", "L2's cross-area spillover, rescaled to a percent."),
+    ("SI_AREA_LEAKAGE_U1000 (L8)", "float [0,1000]", "L2 CROSS_AREA_RATIO -> [0,1000]", "Same value, U1000 scale — L9 inverts this into AREA_CONTAINMENT_U1000 (leakage vs. containment are complementary framings of the same measurement)."),
+    ("SI_SHADOW_DEVIATION_U1000 (L8)", "float [0,1000]", "L3 SHADOW_DEVIATION_SCORE -> [0,1000]", "L3's composite shadow-deviation score, rescaled to U1000."),
+    ("SI_SHADOW_DEVIATION_PCT (L8)", "float [0,100]", "L3 SHADOW_DEVIATION_SCORE -> [0,100]", "Same value, percent scale."),
+    ("SI_EVIDENCE_SUPPORT_U1000 (L8)", "float [0,1000]", "L4 EVIDENCE_SUPPORT_INDEX_BASELINE -> [0,1000]", "L4's evidence support index, rescaled to U1000 — the rescale-only hop in output_catalog.md's worked 'Trust' example chain."),
+    ("SI_EVIDENCE_SUPPORT_PCT (L8)", "float [0,100]", "L4 EVIDENCE_SUPPORT_INDEX_BASELINE -> [0,100]", "Same value, percent scale."),
+    ("SI_CONTRADICTION_PRESSURE_U1000 (L8)", "float [0,1000]", "L5 CONTRADICTION_PRESSURE_SCORE -> [0,1000]", "L5's contradiction pressure score, rescaled to U1000."),
+    ("SI_CONTRADICTION_PRESSURE_PCT (L8)", "float [0,100]", "L5 CONTRADICTION_PRESSURE_SCORE -> [0,100]", "Same value, percent scale."),
+    ("SI_TRIG_REALITY_FLAG (L8)", "bool", "= L5 REALITY_GATE_TRIG (passthrough)", "Not rescaled, just re-tagged with a BOOLEAN unit type for the same unified-interface reason as SI_TOTAL_TOKENS_COUNT."),
+    ("SI_SYSTEM_CONFIDENCE_PCT (L8)", "float [0,100]", "L7 SYSTEM_CONFIDENCE_SCORE -> [0,100]", "Percent-scale sibling of the already-wikified SI_SYSTEM_CONFIDENCE_U1000 (L8) — same source value, feeds L9's confidence bands alongside the U1000 form."),
+    ("POLICY_MODE (L8)", "string", 'default "STRUCTURE_PLUS_CONTEXT"', "Always present regardless of whether a policy dict was actually supplied to `run()` — falls back to this default string."),
+    ("INTERPRETATION_CONSTRAINTS (L8)", "dict", "{allow_text, allow_context, allow_structure}", "Always present — the three-flag permission set L9/the LLM must respect for what kind of claim they're allowed to make."),
+    ("INTERPRETATION_SCOPE (L8)", "string", '"structure_only" or "structure_and_context"', "The Pi gate limiting what L9 and the LLM substrate may claim — derived from INTERPRETATION_CONSTRAINTS, not independently set."),
+]
+for _name, _rng, _formula_expr, _meaning in _L8_SI:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        f"core/layers/layer_8.py::compute_L8 -> result[...]", _rng,
+        _formula_expr,
+        ["L8 — Unit Standardization"], [],
+        "Hesperia-native `41_SPEC` L8 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L8 (41_SPEC / output_catalog §8)",
+            reasoning="L8 SI_* rescale — fixed unit family so L9 never sees each layer's native scale",
+            application="[[L8 — Unit Standardization]], L9 pillars/bands",
+        ),
+        f"**HWIKI-CATALOG-L8 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §8, re-verified against `compute_L8` 2026-08-04.")
+
+# ===== L9 — PILLARS, BRAND LABELS, ACTION TRIGGERS — TERMINUS (HWIKI-CATALOG-L9, docs/foundations/output_catalog.md §9) =====
+# Source-verified against core/layers/layer_9.py::compute_L9 2026-08-04. Every one of these 25 is
+# user-facing by construction — no wiki duplicates found, clean batch.
+add("L9 — Pillars, Brand Labels, Action Triggers", CAT_STABILITY, "BEYOND", "Hub / concept",
+    "core/layers/layer_9.py::compute_L9 (42_SPEC)", "25 (spec-exact)",
+    "Hub: the terminus of the L1-L9 pipeline — bands, directional reframes, six pillar scores, five brand words, and four action triggers, all derived from L8's rescaled SI_* values. Every field here is user-facing; there is no further internal-only tier above this layer.",
+    ["L8 — Unit Standardization"], ["fpf_bridge"],
+    "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor",
+    "**HWIKI-CATALOG-L9:** Source: `docs/foundations/output_catalog.md` §9, re-verified against `compute_L9` 2026-08-04. `docs/specs/history/42_SPEC` recovery confirms all 25 spec-exact; item order here follows the spec, not the code's dict-literal order.")
+
+_L9_BANDS = [
+    ("BAND_0_CRITICAL (L9)", "bool", "SI_SYSTEM_CONFIDENCE_U1000 < 200"),
+    ("BAND_1_POOR (L9)", "bool", "200 <= SI_SYSTEM_CONFIDENCE_U1000 < 400"),
+    ("BAND_2_FAIR (L9)", "bool", "400 <= SI_SYSTEM_CONFIDENCE_U1000 < 600"),
+    ("BAND_3_GOOD (L9)", "bool", "600 <= SI_SYSTEM_CONFIDENCE_U1000 < 800"),
+    ("BAND_4_VERY_GOOD (L9)", "bool", "800 <= SI_SYSTEM_CONFIDENCE_U1000 < 950"),
+    ("BAND_5_EXCELLENT (L9)", "bool", "SI_SYSTEM_CONFIDENCE_U1000 >= 950"),
+]
+for _name, _rng, _formula_expr in _L9_BANDS:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        "core/layers/layer_9.py::compute_L9 -> result[...]", _rng, _formula_expr,
+        ["L9 — Pillars, Brand Labels, Action Triggers", "SI_SYSTEM_CONFIDENCE_U1000 (L8)"], [],
+        "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            "One of six mutually-exclusive confidence bands on L8 SI_SYSTEM_CONFIDENCE_U1000 — exactly one True per run",
+            "Hesperia L9 (42_SPEC / output_catalog §9)",
+            reasoning="terminus confidence banding for human-facing labels and actions",
+            application="[[L9 — Pillars, Brand Labels, Action Triggers]], brand words / actions",
+        ),
+        "**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** One of six mutually-exclusive confidence bands on L8's SI_SYSTEM_CONFIDENCE_U1000 — exactly one is True per run. Source: `docs/foundations/output_catalog.md` §9.")
+
+add("DIRECTIONALIZE_HIGH_IS_GOOD (L9)", CAT_STABILITY, "LIVE_FULL", "Parameter (constant)",
+    "core/layers/layer_9.py::compute_L9 -> result[...]", '"clamp(u,0,1000)"',
+    "Fixed formula string, not a value.",
+    ["L9 — Pillars, Brand Labels, Action Triggers"], [],
+    "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+    + theory_explainer(
+        "Documents the i18n/reporting convention for metrics where higher U1000 means better — a reference string, not a per-run computation",
+        "Hesperia L9 (42_SPEC)",
+        reasoning="shared directionalize convention for reporting",
+        application="[[L9 — Pillars, Brand Labels, Action Triggers]]",
+    ),
+    "**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** Documents the i18n/reporting convention for metrics where higher U1000 means better (most of them) — a reference string other layers/consumers can cite, not itself computed per-run. Source: `docs/foundations/output_catalog.md` §9.")
+add("DIRECTIONALIZE_LOW_IS_GOOD (L9)", CAT_STABILITY, "LIVE_FULL", "Parameter (constant)",
+    "core/layers/layer_9.py::compute_L9 -> result[...]", '"1000-clamp(u,0,1000)"',
+    "Fixed formula string, not a value.",
+    ["L9 — Pillars, Brand Labels, Action Triggers"], [],
+    "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+    + theory_explainer(
+        "Counterpart convention for metrics where lower U1000 means better (leakage/pressure before containment/consistency reframes)",
+        "Hesperia L9 (42_SPEC)",
+        reasoning="shared directionalize convention for inverted 'bad-when-high' metrics",
+        application="[[AREA_CONTAINMENT_U1000 (L9)]], [[CONSISTENCY_U1000 (L9)]]",
+    ),
+    "**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** Counterpart to DIRECTIONALIZE_HIGH_IS_GOOD (L9) for metrics where lower U1000 means better — a reference string, not itself computed per-run. Source: `docs/foundations/output_catalog.md` §9.")
+
+add("AREA_CONTAINMENT_U1000 (L9)", CAT_STABILITY, "LIVE_FULL", "Derived variable",
+    "core/layers/layer_9.py::compute_L9 -> result[...]", "int [0,1000]",
+    "1000 - L8 SI_AREA_LEAKAGE_U1000",
+    ["SI_AREA_LEAKAGE_PCT (L8)"], ["PILLAR_GEOMETRY_U1000 (L9)"],
+    "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+    + theory_explainer(
+        "Reframes L8 area leakage into containment (good when high) for geometry pillar scoring",
+        "Hesperia L9 (42_SPEC item 9)",
+        reasoning="directionalize leakage→containment so pillars stay 'higher is better'",
+        application="[[PILLAR_GEOMETRY_U1000 (L9)]]",
+    ),
+    "**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** Spec item 9 — reframes leakage into containment; feeds PILLAR_GEOMETRY_U1000. Source: `docs/foundations/output_catalog.md` §9.")
+add("CONSISTENCY_U1000 (L9)", CAT_STABILITY, "LIVE_FULL", "Derived variable",
+    "core/layers/layer_9.py::compute_L9 -> result[...]", "int [0,1000]",
+    "1000 - L8 SI_CONTRADICTION_PRESSURE_U1000",
+    ["SI_CONTRADICTION_PRESSURE_PCT (L8)"], ["PILLAR_CONSISTENCY_U1000 (L9)", "BRAND_WORD_CONTRADICTION (L9)"],
+    "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+    + theory_explainer(
+        "Reframes contradiction pressure into consistency (good when high) for pillar and brand labels",
+        "Hesperia L9 (42_SPEC item 10)",
+        reasoning="directionalize pressure→consistency so pillars stay 'higher is better'",
+        application="[[PILLAR_CONSISTENCY_U1000 (L9)]], [[BRAND_WORD_CONTRADICTION (L9)]]",
+    ),
+    "**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** Item 10 — reframes contradiction pressure into consistency. Source: `docs/foundations/output_catalog.md` §9.")
+
+_L9_PILLARS = [
+    ("PILLAR_INPUT_QUALITY_U1000 (L9)", "round(0.60*SI_COVERAGE + 0.40*SI_DOMINANCE), clamped", "How much and how concentrated the raw input activation was — the earliest, most upstream pillar."),
+    ("PILLAR_GEOMETRY_U1000 (L9)", "round(0.70*SI_GEOMETRIC_STABILITY + 0.30*AREA_CONTAINMENT_U1000), clamped", "How structurally settled and contained the L2 traversal was."),
+    ("PILLAR_EVIDENCE_U1000 (L9)", "= L8 SI_EVIDENCE_SUPPORT_U1000 (direct passthrough)", "Not independently blended — a direct rename/passthrough of L8's evidence-support rescale, four layers downstream of L4's original EVIDENCE_SUPPORT_INDEX_BASELINE with zero re-blends (see output_catalog.md's worked 'Trust' example)."),
+    ("PILLAR_CONSISTENCY_U1000 (L9)", "round(0.60*CONSISTENCY_U1000 + 0.40*(1000-SI_ENTROPY)), clamped", "Blends the contradiction-derived consistency reframe with low-entropy (focused, not diffuse) structure."),
+    ("PILLAR_STABILITY_U1000 (L9)", "= L8 SI_GLOBAL_STABILITY_U1000 (direct passthrough)", "Direct rename/passthrough of L8's L6-Lyapunov-derived global stability rescale — no re-blend."),
+    ("PILLAR_GOVERNANCE_U1000 (L9)", "1000 if DECISION_STATUS_CODE==0 else clamp(1000-10*code, 0, 1000)", "The one pillar keyed directly off L7's gate-chain outcome rather than an SI_* rescale — a clean pass scores 1000, each unit of failure code linearly costs 10 points."),
+]
+for _name, _formula_expr, _meaning in _L9_PILLARS:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        "core/layers/layer_9.py::compute_L9 -> result[...]", "int [0,1000]",
+        _formula_expr,
+        ["L9 — Pillars, Brand Labels, Action Triggers"], ["BRAND_WORD_GEOMETRY (L9)" if "GEOMETRY" in _name else "BRAND_WORD_TRUST (L9)"],
+        "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L9 pillar (42_SPEC)",
+            reasoning="mid-level aggregation between L8 SI_* rescales and L9 brand words",
+            application="[[L9 — Pillars, Brand Labels, Action Triggers]]",
+        ),
+        f"**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** {_meaning} One of six pillar scores. Source: `docs/foundations/output_catalog.md` §9.")
+
+_L9_BRAND_WORDS = [
+    ("BRAND_WORD_TRUST (L9)", '"BLOCKED" if code!=0 else "TRUSTED">=850 else "USABLE">=650 else "TENTATIVE">=450 else "FRAGILE"', "The single headline trust label — checks the gate-chain outcome first, then bands SI_SYSTEM_CONFIDENCE_U1000."),
+    ("BRAND_WORD_EVIDENCE (L9)", '"SUPPORTED">=800 else "BACKED">=600 else "THIN">=400 else "UNSUPPORTED"', "Human-readable label on SI_EVIDENCE_SUPPORT_U1000."),
+    ("BRAND_WORD_CONTRADICTION (L9)", '"CONSISTENT">=800 else "MIXED">=600 else "CONTESTED">=400 else "CONTRADICTED"', "Human-readable label on CONSISTENCY_U1000 (L9)."),
+    ("BRAND_WORD_GEOMETRY (L9)", '"CONTAINED">=800 else "STABLE">=600 else "DIFFUSE">=400 else "CHAOTIC"', "Human-readable label on PILLAR_GEOMETRY_U1000 (L9)."),
+    ("BRAND_WORD_SHADOW (L9)", '"OFF" if not shadow_enabled else "REJECTED" if gate failed else "JUSTIFIED" if justification>0 else "NEUTRAL"', "Stateful, four-way label — the only brand word whose first branch depends on whether a shadow run happened at all (L3 SHADOW_ENABLED), not just on a threshold."),
+]
+for _name, _formula_expr, _meaning in _L9_BRAND_WORDS:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        "core/layers/layer_9.py::compute_L9 -> result[...]", "string enum",
+        _formula_expr,
+        ["L9 — Pillars, Brand Labels, Action Triggers"], [],
+        "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L9 brand word (42_SPEC)",
+            reasoning="human-readable terminus label from U1000 / gate thresholds",
+            application="[[L9 — Pillars, Brand Labels, Action Triggers]]",
+        ),
+        f"**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §9, thresholds re-verified against `layer_9.py` 2026-08-04.")
+
+_L9_ACTIONS = [
+    ("ACTION_REQUIRE_MORE_INPUT (L9)", "SI_COVERAGE_U1000 < 500", "Fires when too little of the input actually got attributed to trust any read from it."),
+    ("ACTION_REQUIRE_EVIDENCE_REBUILD (L9)", "L4 INTEGRITY_CHECK_PASS_RATIO < 1.0 or L4 RETRIEVAL_SHORTFALL_BASELINE > MAX_SHORTFALL", "Fires when the evidence retrieval itself was broken or incomplete — a rebuild-the-index signal, not a content judgment."),
+    ("ACTION_REQUIRE_GOVERNANCE_REVIEW (L9)", "L7 DECISION_STATUS_CODE != 0 or SI_SYSTEM_CONFIDENCE_U1000 < 450", "Fires when either a hard gate failed or confidence is too low to auto-trust — routes to human review."),
+    ("ACTION_ALLOW_HUMAN_SUMMARY (L9)", "code==0 and confidence>=650 and SI_TRIG_REALITY_FLAG", "The release gate — the single field that decides whether the pipeline is even allowed to hand a human-readable summary onward. Requires a clean gate chain, a Good-or-better confidence band, and passing trig self-tests, all three at once."),
+]
+for _name, _formula_expr, _meaning in _L9_ACTIONS:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Derived variable",
+        "core/layers/layer_9.py::compute_L9 -> result[...]", "bool",
+        _formula_expr,
+        ["L9 — Pillars, Brand Labels, Action Triggers"], [],
+        "Hesperia-native `42_SPEC` L9 instrumentation — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia L9 action trigger (42_SPEC)",
+            reasoning="terminus action flag — what the product may ask a human or allow next",
+            application="[[L9 — Pillars, Brand Labels, Action Triggers]]",
+        ),
+        f"**HWIKI-CATALOG-L9 / HWIKI-PLAIN:** {_meaning} Source: `docs/foundations/output_catalog.md` §9.")
+
+# ===== FPF_BRIDGE + TRIZ EXPORTS (HWIKI-CATALOG-BRIDGE, docs/foundations/output_catalog.md §11-12) =====
+# Source-verified against sphere/fpf_bridge/constants.py 2026-08-04. TRIZ contradiction-detection
+# pipeline already wikified (classify_contradiction, contradiction_contract, detect_contradictions,
+# run_triz_layer, TRIZ contradiction core hub) — these are the three separate NAMED EXPORT PRODUCTS
+# (Policy Contradiction Detector / Innovation Radar / Narrative Propagation Monitor) the Coverage-Ledger
+# flagged as "novelty/topology/commercial modules still open beyond Louvain".
+add("fpf_bridge structural states", CAT_TRUST, "LIVE_FULL", "Hub / concept",
+    "sphere/fpf_bridge/constants.py", "5 states",
+    "The state machine the LLM actually sees — bridge_to_llm_prompt()'s envelope is a projection (one active state + legal next transitions + evidence requirements + pre-evaluated guard verdicts), never L1-L9's ~190 raw variables directly.",
+    ["L9 — Pillars, Brand Labels, Action Triggers"], [],
+    "Hesperia-native fpf_bridge design — no Java prototype ancestor",
+    "**HWIKI-CATALOG-BRIDGE:** Source: `docs/foundations/output_catalog.md` §12, re-verified against `sphere/fpf_bridge/constants.py` 2026-08-04. Evidence surface (as of `fpf_bridge_v7_2`, flag-gated off by default) can additionally join L5 contradiction_pressure/counter_evidence_gate, L7 trust_tier/system_confidence/decision_status, L4 evidence_support_baseline, KME's 6 primitives + kme_ksi, and TRIZ's triz_contradiction_* (explicitly namespaced apart from contradiction_pressure — two independently-computed mechanisms, never averaged) — gated behind `HESPERIA_FPF_EVIDENCE_EXPANSION`/`HESPERIA_FPF_CONTRADICTION_GATE`/`HESPERIA_FPF_KME_EVIDENCE`. None of this changes the projection discipline: still a menu of FGR-scored evidence and legal transitions, never the raw dict.")
+
+_FPF_STATES = [
+    ("STATE_FOCUSED_DOMINANT", '"focused_dominant"', "normal", "One family/area clearly dominates the activation — the calmest, most legible read."),
+    ("STATE_DISTRIBUTED_BALANCED", '"distributed_balanced"', "low", "Activation spread fairly evenly across multiple families/areas without any one dominating — read as balanced, not alarming."),
+    ("STATE_UNSTABLE_TRANSITION", '"unstable_transition"', "high", "The structural read is mid-shift between states — highest risk tier, since a snapshot in transition is the least trustworthy to narrate confidently."),
+    ("STATE_TENSION_ELEVATED", '"tension_elevated"', "high", "Contradiction/tension signals are high enough to flag — same risk tier as UNSTABLE_TRANSITION but a distinct cause (opposition, not instability)."),
+    ("STATE_DIFFUSE_SPREAD", '"diffuse_spread"', "normal", "Activation is spread very thin across many families — different from DISTRIBUTED_BALANCED in degree, but not flagged as risky on its own."),
+]
+for _name, _val, _risk, _meaning in _FPF_STATES:
+    add(_name, CAT_TRUST, "LIVE_FULL", "Parameter (constant)",
+        "sphere/fpf_bridge/constants.py", _val,
+        f"Risk level: {_risk}",
+        ["fpf_bridge structural states"], [],
+        "Hesperia-native fpf_bridge design — no Java prototype ancestor — "
+        + theory_explainer(
+            _meaning,
+            "Hesperia fpf_bridge (output_catalog §12)",
+            reasoning="one of five structural states the LLM actually sees — not the raw L1–L9 dict",
+            application="[[fpf_bridge structural states]]",
+        ),
+        f"**HWIKI-CATALOG-BRIDGE / HWIKI-PLAIN:** {_meaning} One of exactly 5 structural states in `ALL_STATES`. Source: `docs/foundations/output_catalog.md` §12.")
+
+add("TRIZ decision-intelligence exports", CAT_CD, "LIVE_FULL", "Hub / concept",
+    "hesperia/extensions/triz/ (corners/triz_extension.md)", "3 export products",
+    "Three named, shaped export products the TRIZ extension produces — read-only against everything in L1-L9/KME, not part of either HTTP contract (/analyze or /product/interpret).",
+    ["TRIZ contradiction core hub", "Louvain communities (seed 42)"], [],
+    "Hesperia-native TRIZ extension design — no Java prototype ancestor",
+    "**HWIKI-CATALOG-BRIDGE:** Distinct from the already-wikified contradiction-*detection* pipeline (classify_contradiction, contradiction_contract, detect_contradictions, run_triz_layer) — these are the shaped *export products* built on top of it. Closes the Coverage-Ledger's 'novelty/topology/commercial modules still open beyond Louvain' gap. Source: `docs/foundations/output_catalog.md` §11.")
+
+add("Policy Contradiction Detector (TRIZ export)", CAT_CD, "LIVE_FULL", "Formula / function",
+    "hesperia/extensions/triz/ (corners/triz_extension.md)", "per-item export",
+    "Per contradicting item: contradiction_score, contradiction_density, area_id, family_ids, triz_principle (segmentation/counterbalance/parameter_change/dynamic_adaptation).",
+    ["TRIZ decision-intelligence exports"], [],
+    "Hesperia-native TRIZ extension design, TRIZ inventive-principle naming (Altshuller) applied to Hesperia's own contradiction detection — no Java prototype ancestor",
+    "**HWIKI-CATALOG-BRIDGE:** The `triz_principle` field borrows Altshuller's TRIZ inventive-principle vocabulary (segmentation, counterbalance, parameter_change, dynamic_adaptation) to label *how* a detected contradiction could structurally resolve, not just that one exists. Source: `docs/foundations/output_catalog.md` §11.")
+
+add("Innovation Radar (TRIZ export)", CAT_CD, "LIVE_FULL", "Formula / function",
+    "hesperia/extensions/triz/ (corners/triz_extension.md)", "per-cluster + aggregate export",
+    "Per cluster: innovation_score, rarity, contradiction_density, propagation_reach. Aggregate: cluster_count, max_innovation_score, mean_innovation_score.",
+    ["TRIZ decision-intelligence exports", "Louvain communities (seed 42)"], [],
+    "Hesperia-native TRIZ extension design — no Java prototype ancestor",
+    "**HWIKI-CATALOG-BRIDGE:** Built on the Louvain clustering (seed 42, reproducible run-to-run) — scores each innovation cluster on rarity and reach, not just size. Source: `docs/foundations/output_catalog.md` §11.")
+
+add("Narrative Propagation Monitor (TRIZ export)", CAT_CD, "LIVE_FULL", "Formula / function",
+    "hesperia/extensions/triz/ (corners/triz_extension.md)", "per-narrative + aggregate export",
+    "Per narrative: penetration, velocity, stability. Aggregate versions of the same three.",
+    ["TRIZ decision-intelligence exports"], [],
+    "Hesperia-native TRIZ extension design — no Java prototype ancestor",
+    "**HWIKI-CATALOG-BRIDGE:** Tracks how a narrative thread spreads (penetration), how fast (velocity), and how settled it is (stability) — the one TRIZ export explicitly about change over time/turns rather than a single-run snapshot. Source: `docs/foundations/output_catalog.md` §11.")
+
+add("energy_conservation_tolerance", CAT_COREMATH, "LIVE_FULL", "Parameter (constant)",
+    "core/math/core_math.py -> DEFAULT_CONFIG[\"energy_conservation_tolerance\"]; check_conservation_pre_decay", "1e-6 (must be < 1e-3)",
+    "Tolerance the pre-decay energy-conservation check allows before rejecting a step as physically invalid.",
+    [], ["check_conservation_pre_decay"],
+    "Hesperia-native Core Math Contract constant — no Java prototype ancestor",
+    "**HWIKI-CATALOG-CROSSCHECK (2026-08-04):** Last genuine gap found in a full parameter_catalog.md-vs-wiki cross-check after the HWIKI-CATALOG wave — every other §3/§4 constant (k_amb, tau_core, k_thin, k_disp, k_guard, k_shadow, delta_gap, max_shadow_hops, w_decay/w_guard_obs/w_shadow_obs, severe_curvature_threshold, severe_jump_rate_threshold) turned out already covered inside the P_amb/P_disp/P_guard/P_shadow/P_thin penalty pages or the paired curvature/jump_rate threshold pages, just not under their own bare name. This one genuinely had no page.")
+
+# ===== L6 GROUP-IV STUBS — CLOSES THE COVERAGE-LEDGER'S NAMED NEXT-WAVE CANDIDATE =====
+# 7 remaining no-perturbation scaffold constants, same "documented stub, not an oversight" status
+# as the 8 L6 items already wikified (HWIKI-L6-01) — matching that entry's exact style/convention.
+_L6_GROUP_IV = [
+    ("HIT_VECTOR_RANK (L6)", "1 (no-perturbation stub)", "core/layers/layer_6.py:50,89",
+     "HIT_VECTOR_RANK — rank of the family hit vector (stub 1, a rank-1/degenerate placeholder without perturbation data).",
+     [], ["PRINCIPAL_COMPONENT_ENERGY_RATIO (L6)"]),
+    ("PRINCIPAL_COMPONENT_ENERGY_RATIO (L6)", "1.0 (no-perturbation stub)", "core/layers/layer_6.py:51,90",
+     "PRINCIPAL_COMPONENT_ENERGY_RATIO — fraction of hit-vector energy in the top principal component (stub 1.0, i.e. fully concentrated, without real PCA).",
+     ["HIT_VECTOR_RANK (L6)"], []),
+    ("ESCAPE_ENERGY_THRESHOLD (L6)", "1.0 (no-perturbation stub)", "core/layers/layer_6.py:70,98",
+     "ESCAPE_ENERGY_THRESHOLD — energy needed to leave the current structural basin (stub 1.0, i.e. maximally sticky, without a real potential-field model).",
+     [], ["FORCE_ANALOG_MAGNITUDE (L6)"]),
+    ("FORCE_ANALOG_MAGNITUDE (L6)", "0.0 (no-perturbation stub)", "core/layers/layer_6.py:71,99",
+     "FORCE_ANALOG_MAGNITUDE — force-like quantity analog from the potential-field scaffold (stub 0.0, i.e. no net force, without real dynamics).",
+     ["ESCAPE_ENERGY_THRESHOLD (L6)"], []),
+    ("MONOTONICITY_CHECK (L6)", "True (no-perturbation stub)", "core/layers/layer_6.py:72,100",
+     "MONOTONICITY_CHECK — whether mass decay across BFS depth is monotonic (stub True, vacuously, without a real multi-sample trajectory to check).",
+     [], ["FIXED_POINT_DETECTION (L6)"]),
+    ("FIXED_POINT_DETECTION (L6)", "True (no-perturbation stub)", "core/layers/layer_6.py:73,101",
+     "FIXED_POINT_DETECTION — whether the structural read has settled into a fixed point (stub True, vacuously, without a real iterative dynamical model).",
+     ["MONOTONICITY_CHECK (L6)"], ["CYCLE_DETECTION_FUNCTIONAL (L6)"]),
+    ("CYCLE_DETECTION_FUNCTIONAL (L6)", "False (no-perturbation stub)", "core/layers/layer_6.py:74,102",
+     "CYCLE_DETECTION_FUNCTIONAL — whether a dynamical cycle was detected across turns (stub False, vacuously, without real turn-over-turn state to cycle-check).",
+     ["FIXED_POINT_DETECTION (L6)"], []),
+]
+for _name, _val, _module, _formula, _pf, _nb in _L6_GROUP_IV:
+    add(_name, CAT_STABILITY, "LIVE_FULL", "Layer variable",
+        _module, _val, _formula, _pf, _nb, "39_SPEC Layer-6",
+        "**HWIKI-CATALOG-L6-GROUP-IV (2026-08-04):** Closes the Coverage-Ledger's named next-wave candidate — Group-IV scaffold constant, same status as the other 21 L6 stubs (`docs/foundations/output_catalog.md` §6: \"documented no-perturbation identity constants... a named scaffold reserved for a future perturbation-analysis pass — not an oversight\"). Verified against `layer_6.py` directly.")
+
 # ===== DEAD / REJECTED =====
 add("KL divergence", CAT_DEAD, "REJECTED", "Formula (never implemented)",
     "n/a — zero matches for `kl_divergence`/`def kl(` in any `.py`", "—",
@@ -864,9 +1899,216 @@ add("saturation (Java, 23_PROTOTYPE)", CAT_DEAD, "PARTIAL", "Formula (different 
 
 
 # ---------------------------------------------------------------------------
-# Rendering
+# Rendering + HWIKI-WIRE graph passes
 # ---------------------------------------------------------------------------
-NAME_TO_SLUG = {it["name"]: slug(it["name"]) for it in ITEMS}
+NAME_TO_SLUG = {}
+INBOUND = {}
+
+def refresh_name_index():
+    global NAME_TO_SLUG
+    NAME_TO_SLUG = {it["name"]: slug(it["name"]) for it in ITEMS}
+
+def wire_bidirectional():
+    """If A.produced_from contains B, ensure B.needed_by contains A."""
+    by_name = {it["name"]: it for it in ITEMS}
+    added = 0
+    for it in ITEMS:
+        for p in list(it.get("produced_from") or []):
+            parent = by_name.get(p)
+            if not parent:
+                continue
+            nb = parent.setdefault("needed_by", [])
+            if it["name"] not in nb:
+                nb.append(it["name"])
+                added += 1
+    return added
+
+def wire_orphans_and_successors():
+    """Attach orphan I/O pages to category anchors; wire known DEAD→LIVE successors."""
+    by_name = {it["name"]: it for it in ITEMS}
+    category_anchor = {
+        CAT_GEOMETRY: "Icosahedral Surface Graph",
+        CAT_COREMATH: "alpha (fusion weight)",
+        CAT_TENSION: "compute_tension",
+        CAT_PROP: "Transition matrix (W)",
+        CAT_THRESH: "dominant_area_share_threshold",
+        CAT_GRAPH: "L1 — Structural Activation Census",
+        CAT_ENTROPY: "compute_entropy (Shannon)",
+        CAT_STABILITY: "L7 — Consistency and Decision",
+        CAT_SIM: "cosine_similarity",
+        CAT_TRUST: "L4 — Evidence Retrieval",
+        CAT_CD: "LIVE_SUCCESSOR (status term)",
+        CAT_DEAD: "KL divergence",
+    }
+    # Verify anchors exist; drop missing
+    category_anchor = {k: v for k, v in category_anchor.items() if v in by_name}
+    successors = {
+        "KL divergence": ["compute_entropy (Shannon)", "eta (centroid threshold)", "E_cap"],
+        "DFT Ring Smoothness": ["Icosahedral Surface Graph", "compute_entropy (Shannon)"],
+        "saturation (Java, 23_PROTOTYPE)": ["apply_saturation"],
+        "X_A / X_F alignment (Java)": ["dominant_area_share_threshold", "detect_dominant_area / detect_dominant_family"],
+        "ALPHA/BETA/GAMMA/DELTA integrity quartet (Java)": ["metric_governance"],
+        "evidenceQuality / provenanceWeight (Java)": ["FGR (Formality/Ground/Reliability)"],
+        "cumulativeDrift / turnCoherence": ["cosine_similarity", "Mixing Diagnostics"],
+        "K(R) / L(R) / fragIndex (Java)": ["largest_component_size", "Circuit rank (LOOP_COUNT/LOOP_DENSITY)"],
+        "area_entropy (tool-local)": ["compute_entropy (Shannon)"],
+    }
+    attached = 0
+    for it in ITEMS:
+        pf = it.setdefault("produced_from", [])
+        nb = it.setdefault("needed_by", [])
+        # successors
+        for live in successors.get(it["name"], []):
+            if live in by_name and live not in nb:
+                nb.append(live)
+                attached += 1
+            # reverse: live receives this dead/partial as origin context
+            if live in by_name:
+                lpf = by_name[live].setdefault("produced_from", [])
+                # don't claim dead as input — mention via needed_by only on dead side
+        # orphans: no named wiki edges at all
+        named_pf = [x for x in pf if x in by_name]
+        named_nb = [x for x in nb if x in by_name]
+        if named_pf or named_nb:
+            continue
+        anchor = category_anchor.get(it["category"])
+        if not anchor or anchor == it["name"]:
+            continue
+        pf.append(anchor)
+        anb = by_name[anchor].setdefault("needed_by", [])
+        if it["name"] not in anb:
+            anb.append(it["name"])
+        attached += 1
+        notes = it.get("notes") or ""
+        tag = "**HWIKI-WIRE:** attached to category anchor"
+        if tag not in notes:
+            it["notes"] = f"{tag} [[{anchor}]]. {notes}".strip()
+    return attached
+
+def _protect_spans(text):
+    """Stash [[wikilinks]] and `code` so autolink cannot nest inside them."""
+    protected = []
+    def stash(m):
+        protected.append(m.group(0))
+        return f"\x00P{len(protected)-1}\x00"
+    text = re.sub(r"\[\[[^\]]+\]\]", stash, text)
+    text = re.sub(r"`[^`]+`", stash, text)
+    return text, protected
+
+def _restore_spans(text, protected):
+    for i, chunk in enumerate(protected):
+        text = text.replace(f"\x00P{i}\x00", chunk)
+    return text
+
+def autolink_known_names():
+    """Wrap first exact page-name hit in formula/origin/notes with [[name]] (longest-first)."""
+    names = sorted(NAME_TO_SLUG.keys(), key=len, reverse=True)
+    # Skip very short / ambiguous tokens
+    names = [n for n in names if len(n) >= 4]
+    hits = 0
+    for it in ITEMS:
+        self_name = it["name"]
+        for field in ("formula", "origin", "notes"):
+            text = it.get(field) or ""
+            if not text:
+                continue
+            work, protected = _protect_spans(text)
+            changed = False
+            for name in names:
+                if name == self_name:
+                    continue
+                if name not in work:
+                    continue
+                pat = re.escape(name)
+                new_work, nsub = re.subn(
+                    rf"(?<![A-Za-z0-9_\x00]){pat}(?![A-Za-z0-9_\x00\]])",
+                    f"[[{name}]]",
+                    work,
+                    count=1,
+                )
+                if nsub:
+                    work = new_work
+                    hits += 1
+                    changed = True
+                    break  # one new link per field per page — keep readable
+            if changed:
+                it[field] = _restore_spans(work, protected)
+    return hits
+
+def rebuild_inbound():
+    global INBOUND
+    INBOUND = {it["name"]: [] for it in ITEMS}
+    for it in ITEMS:
+        for p in it.get("produced_from") or []:
+            if p in INBOUND:
+                INBOUND[p].append(it["name"])
+        for n in it.get("needed_by") or []:
+            if n in INBOUND:
+                INBOUND[n].append(it["name"])
+
+def see_also_names(it, limit=12):
+    related = []
+    seen = {it["name"]}
+    for bucket in (
+        list(it.get("produced_from") or []),
+        list(it.get("needed_by") or []),
+        list(INBOUND.get(it["name"]) or []),
+    ):
+        for name in bucket:
+            if name in NAME_TO_SLUG and name not in seen:
+                related.append(name)
+                seen.add(name)
+            if len(related) >= limit:
+                return related
+    # same-category peers that share a produced_from hub
+    my_hubs = [p for p in (it.get("produced_from") or []) if p in NAME_TO_SLUG]
+    if my_hubs:
+        for other in ITEMS:
+            if other["name"] in seen or other["category"] != it["category"]:
+                continue
+            if any(h in (other.get("produced_from") or []) for h in my_hubs):
+                related.append(other["name"])
+                seen.add(other["name"])
+                if len(related) >= limit:
+                    break
+    return related
+
+def render_wire_map():
+    """Generated navigation spine for HWIKI-WIRE."""
+    hubs = [it for it in ITEMS if "Hub" in (it.get("kind") or "") or it["name"].startswith("L") and "—" in it["name"]]
+    hubs = sorted(hubs, key=lambda it: (-len(it.get("needed_by") or []), it["name"].lower()))
+    orphan = []
+    for it in ITEMS:
+        pf = [x for x in (it.get("produced_from") or []) if x in NAME_TO_SLUG]
+        nb = [x for x in (it.get("needed_by") or []) if x in NAME_TO_SLUG]
+        if not pf and not nb:
+            orphan.append(it["name"])
+    lines = [
+        "# Wiki Wire Map\n",
+        "[← wiki home](../index.md) · template [TEMPLATES-WIKI-WIRE.md](../TEMPLATES-WIKI-WIRE.md)\n",
+        "Generated navigation spine: hub membership (`needed_by` after bidirectional wire), orphans, and how to follow links.\n",
+        "## How to read a page\n",
+        "1. **In plain words** / **Definition** — Receives → Does → Outputs → Exists for  ",
+        "2. **Produced from / Needed by** — formal graph edges  ",
+        "3. **See also** — parents, children, inbound, same-hub peers  ",
+        "4. Inline `[[wikilinks]]` in formula / origin / notes\n",
+        f"## Hubs ({len(hubs)})\n",
+        "| Hub | Members (needed_by) | Status |",
+        "|---|---:|---|",
+    ]
+    for it in hubs:
+        n = len([x for x in (it.get("needed_by") or []) if x in NAME_TO_SLUG])
+        lines.append(f"| [{it['name']}]({slug(it['name'])}.md) | {n} | {it['status']} |")
+    lines.append(f"\n## Orphans (no named wiki I/O edges)\n")
+    if not orphan:
+        lines.append("*None — every page has at least one named produced_from or needed_by edge.*\n")
+    else:
+        lines.append(f"{len(orphan)} pages still lack named edges:\n")
+        for name in sorted(orphan, key=str.lower):
+            lines.append(f"- [{name}]({slug(name)}.md)")
+        lines.append("")
+    lines.append("---\n[← wiki home](../index.md)\n")
+    return "\n".join(lines)
 
 def link_or_text(name):
     name = name.strip()
@@ -903,6 +2145,29 @@ def render_page(it):
     lines.append(f"**Type:** {s['kind']}  ")
     lines.append(f"**Responsible (module):** `{s['module']}`  ")
     lines.append(f"**Value / default:** {s['value']}\n")
+    plain = extract_plain_lang(s.get("origin"), s.get("notes"))
+    exists_for = extract_te_field(s.get("origin") or "", "reasoning") or plain
+    lines.append("## In plain words\n")
+    if plain:
+        plain_out = linkify_inline(plain)
+        if not plain_out.endswith((".", "!", "?")):
+            plain_out += "."
+        lines.append(f"{plain_out}\n")
+    else:
+        lines.append("*(plain-language definition pending — HWIKI-PLAIN wave; formula and I/O below still authoritative)*\n")
+    lines.append("## Definition\n")
+    if s["produced_from"]:
+        recv = ", ".join(link_or_text(p) for p in s["produced_from"])
+    else:
+        recv = "*none declared (constant, hub, or external)*"
+    if s["needed_by"]:
+        out_cons = ", ".join(link_or_text(n) for n in s["needed_by"])
+    else:
+        out_cons = "*no named wiki consumer yet*"
+    lines.append(f"- **Receives:** {recv}")
+    lines.append(f"- **Does:** {linkify_inline(s['formula'])}")
+    lines.append(f"- **Outputs:** `{s['value']}` → {out_cons}")
+    lines.append(f"- **Exists for:** {linkify_inline(exists_for) if exists_for else '*purpose pending (HWIKI-PLAIN)*'}\n")
     lines.append("## Yields (formula)\n")
     lines.append(f"{linkify_inline(s['formula'])}\n")
     if s["produced_from"]:
@@ -912,8 +2177,21 @@ def render_page(it):
         lines.append("")
     if s["needed_by"]:
         lines.append("## Needed by (consumers)\n")
-        for n in s["needed_by"]:
+        # Cap huge hub fan-out for readability; full list still in Wire Map
+        consumers = s["needed_by"]
+        show = consumers
+        if len(consumers) > 40:
+            show = consumers[:40]
+        for n in show:
             lines.append(f"- {link_or_text(n)}")
+        if len(consumers) > 40:
+            lines.append(f"- *… +{len(consumers) - 40} more — see [Wiki Wire Map](Wiki-Wire-Map.md)*")
+        lines.append("")
+    related = see_also_names(s)
+    if related:
+        lines.append("## See also\n")
+        for name in related:
+            lines.append(f"- {link_or_text(name)}")
         lines.append("")
     lines.append("## Origin\n")
     lines.append(f"{linkify_inline(s['origin'])}\n")
@@ -921,7 +2199,10 @@ def render_page(it):
         lines.append("## Notes\n")
         lines.append(f"{linkify_inline(s['notes'])}\n")
     lines.append("---")
-    lines.append("[← back to category](../categories/%s.md) · [wiki home](../index.md)" % slug(s['category']))
+    lines.append(
+        "[← back to category](../categories/%s.md) · [wiki home](../index.md) · [Wire Map](Wiki-Wire-Map.md)"
+        % slug(s["category"])
+    )
     return "\n".join(lines) + "\n"
 
 def render_category(cat_name):
@@ -940,7 +2221,7 @@ def render_category(cat_name):
 def render_index():
     lines = ["# Hesperia Parameter & Variable Wiki\n"]
     lines.append("**New here or an agent picking this up cold? Read [CLAUDE.md](CLAUDE.md) first** — what this is, how it's served, how to update it, ownership.\n")
-    lines.append("Bottom-up, wikipedia-style register of every math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — LIVE, PARTIAL, and DEAD/proposed-but-never-built alike. Each page: **status, type, responsible module, value, formula (yields), produced-from (inputs), needed-by (consumers), origin, notes** — interlinked for navigation.\n")
+    lines.append("Bottom-up, wikipedia-style register of every math variable/parameter this research thread has verified in `/data/hesperia/hesperia` — LIVE, PARTIAL, and DEAD/proposed-but-never-built alike. Each page: **In plain words**, **Definition** (Receives / Does / Outputs / Exists for), **See also**, **status, type, module, value, formula, inputs, consumers, origin, notes** — interlinked. Plain-language: [TEMPLATES-PLAIN-DEFINITION.md](TEMPLATES-PLAIN-DEFINITION.md) (HWIKI-PLAIN). Wire: [TEMPLATES-WIKI-WIRE.md](TEMPLATES-WIKI-WIRE.md) · **[Wiki Wire Map](pages/Wiki-Wire-Map.md)**.\n")
     lines.append("Companion research (symbol-level and discipline-level audits this wiki is built from):\n")
     lines.append("- [COLOMBO-HESPERIA-JAVA-PROPOSED-VS-ACCOMPLISHED-AUDIT-2026-07-19.md](../COLOMBO-HESPERIA-JAVA-PROPOSED-VS-ACCOMPLISHED-AUDIT-2026-07-19.md)")
     lines.append("- [COLOMBO-HESPERIA-MATH-PARAMS-THEORY-MAP-2026-07-19.md](../COLOMBO-HESPERIA-MATH-PARAMS-THEORY-MAP-2026-07-19.md)")
@@ -984,9 +2265,9 @@ def render_coverage_ledger():
                   "**Theory-depth 30** (`HWIKI-DOC-01..30`) — [GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-DOC-THEORY-DEPTH-30-2026-07-19.md). "
                   "**Structure / how-it-works (post 0.7.0)** (`HWIKI-STRUCT-*`) — [GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-STRUCT-070-2026-07-26.md). Gaps below are backlog, not permanent silence.\n")
     lines.append("## Explicitly NOT yet covered (real gaps in this wiki, not silently omitted)\n")
-    lines.append("- **L1–L11 pipeline layer variables** (`34_SPEC`…`42_SPEC`, ~25 named variables per layer × 9 layers) — **L6 Lyapunov + curvature/gradient/depth-growth block wikified** (%d L6-related pages). Remaining L6 Group-IV stubs (HIT_VECTOR_RANK, ESCAPE_ENERGY, …) and **L1–L5 / L9–L11** full census still open. L7/L8 stability consumers of GLOBAL_STABILITY_SCORE landed (HWIKI-L7-01 / L8-01)." % len(l6))
+    lines.append("- **L1–L9 pipeline layer variables** (`34_SPEC`…`42_SPEC`) — **HWIKI-CATALOG wave, 2026-08-04: full census landed, including L6.** L1 through L9 all wikified (L1 hub [L1 — Structural Activation Census](pages/%s.md), L2–L9 hubs alongside), and L6's Group-IV stubs (HIT_VECTOR_RANK, PRINCIPAL_COMPONENT_ENERGY_RATIO, ESCAPE_ENERGY_THRESHOLD, FORCE_ANALOG_MAGNITUDE, MONOTONICITY_CHECK, FIXED_POINT_DETECTION, CYCLE_DETECTION_FUNCTIONAL) closed the same day — all 25 L6 keys now wikified, %d L6-related pages total. **Correction:** the pipeline terminates at L9 (`docs/foundations/output_catalog.md` calls it \"the terminus\" explicitly) — there is no L10/L11; the old \"L1–L11\" phrasing in this ledger was stale/aspirational, not a real gap. See [GRACE-TRIAGE-HESPERIA-WIKI-CATALOG-ABSORB-2026-08-04.md](../../../operational/assignments/GRACE-TRIAGE-HESPERIA-WIKI-CATALOG-ABSORB-2026-08-04.md) for the closure record." % (slug("L1 — Structural Activation Census"), len(l6)))
     lines.append("- **KME derived metrics** — **35 derived + hub wikified** (%d derived pages + [KME Primitives and Derived Metrics](pages/%s.md)). **HWIKI-KME-03:** plain-lang Theory Explainer notes on each derived page." % (len(kme_derived), slug("KME Primitives and Derived Metrics")))
-    lines.append("- **TRIZ extension internals** (`hesperia/extensions/triz/`, 30+ modules) — **contradiction core hub landed** (HWIKI-TRIZ-02); remaining novelty/topology/commercial modules still open beyond Louvain.")
+    lines.append("- **TRIZ extension internals** (`hesperia/extensions/triz/`, 30+ modules) — **contradiction core hub landed** (HWIKI-TRIZ-02); **the three named export products landed 2026-08-04** (HWIKI-CATALOG-BRIDGE: [Policy Contradiction Detector](pages/%s.md), [Innovation Radar](pages/%s.md), [Narrative Propagation Monitor](pages/%s.md)). Remaining: the internal implementation modules beneath these exports (30+ files) are not individually wikified — only their shaped output products are." % (slug("Policy Contradiction Detector (TRIZ export)"), slug("Innovation Radar (TRIZ export)"), slug("Narrative Propagation Monitor (TRIZ export)")))
     lines.append("- **Full `parameter_catalog.md` sweep** — CAT-02 landed top diagnostic + FGR freshness pair; field-dynamics env knobs and remaining CAT-01 leftovers still open: [COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md](../../../operational/assignments/COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md).")
     lines.append("- **Post-0.7.0 structure depth:** hubs under [structure/](structure/README.md) — SYSTEM-STRUCTURE, HOW-IT-WORKS, HAND-FACES, APPLY-ALLOWLIST, COBALT-REAL-DATA-GATES. Felix STRUCT-05 code-anchor PASS; Cursor STRUCT-06 ingest DONE.")
     lines.append("\n## Theory-depth wave (HWIKI-DOC-02..29) — refreshed 2026-07-23 (DOC-30)\n")
@@ -1001,10 +2282,23 @@ def render_coverage_ledger():
     lines.append("- **[Mixing Diagnostics](pages/%s.md)** (HWIKI-OPEN-03): line-by-line confirmed as `propagation_depth_metric` (`consecutive_l1` + `entropy_sequence` via canonical `compute_normalized_entropy`)." % slug("Mixing Diagnostics"))
     lines.append("\n## Open / unresolved questions carried into this wiki (do not treat as settled)\n")
     lines.append("- *(none from the original three Coverage-Ledger open Qs — all resolved 2026-07-23.)*")
+    lines.append("\n## Plain-language definition wave (HWIKI-PLAIN) — opened 2026-08-04\n")
+    lines.append("**Mandate:** every parameter/term page answers **Receives / Does / Outputs / Exists for** in ordinary words **and** keeps the formula. Template: [TEMPLATES-PLAIN-DEFINITION.md](TEMPLATES-PLAIN-DEFINITION.md). Live: [http://wiki.hesperia.local/](http://wiki.hesperia.local/). Prod-of-record mirror: `Consolidare-Continuum/hesperia` → `docs/brain-export/colombo/hesperia-wiki/`.\n")
+    n_plain = sum(1 for it in ITEMS if "plain_lang" in ((it.get("origin") or "") + (it.get("notes") or "")))
+    lines.append(f"- **Batch A landed:** page renderer always emits **In plain words** + **Definition**; L1–L9 catalog + L9 terminus + fpf_bridge states promote `_meaning` → Theory Explainer `plain_lang`.")
+    lines.append(f"- **Batch B landed (2026-08-04):** `backfill_plain_lang()` fills remaining LIVE/PARTIAL/BEYOND/DEAD rows from existing formula+notes (no invented science).")
+    lines.append(f"- **Batch C landed (2026-08-04):** hand-polish for algebra-shaped rows (KME derived sentences + curated core/L6/SI/ontology plains). Coverage **{n_plain}/{len(ITEMS)}** with `plain_lang`.")
+    orphan_n = sum(
+        1 for it in ITEMS
+        if not any(x in NAME_TO_SLUG for x in (it.get("produced_from") or []))
+        and not any(x in NAME_TO_SLUG for x in (it.get("needed_by") or []))
+    )
+    lines.append(f"- **HWIKI-WIRE landed (2026-08-04):** bidirectional hub↔member edges, orphan→category anchors, DEAD→LIVE successors, autolink of known names, **See also** on every page, [Wiki Wire Map](pages/Wiki-Wire-Map.md). Orphans remaining: **{orphan_n}**.")
+    lines.append("- **Still open:** Felix export/promote to `Consolidare-Continuum/hesperia`; Abelard CHROMA-1 `hesperia_wiki` re-ingest.\n")
     lines.append("\n## Cheap, concrete next-wave candidates\n")
-    lines.append("- Add `compute_dominant_family_share` as a real page once/if built (mirrors [dominant_area_share_threshold](pages/%s.md)) — see [X_A / X_F alignment (Java)](pages/%s.md)." % (slug("dominant_area_share_threshold"), slug("X_A / X_F alignment (Java)")))
-    lines.append("- Finish remaining L6 variables (curvature/gradient/depth-growth block) then L7/L8 consumers of GLOBAL_STABILITY_SCORE.")
-    lines.append("- Wikify CAT-01 delta list (diagnostic ultra_sparse / field-dynamics / FGR numeric table leftovers).")
+    lines.append("- **Still open:** Add `compute_dominant_family_share` as a real page once/if built (mirrors [dominant_area_share_threshold](pages/%s.md)) — see [X_A / X_F alignment (Java)](pages/%s.md). Re-checked 2026-08-04: still doesn't exist in source." % (slug("dominant_area_share_threshold"), slug("X_A / X_F alignment (Java)")))
+    lines.append("- **DONE 2026-08-04:** ~~Finish remaining L6 variables~~ — all 25 L6 keys now wikified (Group-IV stubs HIT_VECTOR_RANK/PRINCIPAL_COMPONENT_ENERGY_RATIO/ESCAPE_ENERGY_THRESHOLD/FORCE_ANALOG_MAGNITUDE/MONOTONICITY_CHECK/FIXED_POINT_DETECTION/CYCLE_DETECTION_FUNCTIONAL landed HWIKI-CATALOG-L6-GROUP-IV). ~~then L7/L8 consumers of GLOBAL_STABILITY_SCORE~~ — subsumed by the full L7/L8/L9 HWIKI-CATALOG batches.")
+    lines.append("- **DONE 2026-08-04, re-verified not just assumed:** ~~Wikify CAT-01 delta list~~ — the CAT-01 delta doc itself (`COLOMBO-HWIKI-CAT-01-PARAMETER-CATALOG-DELTA-2026-07-23.md`, linked above) doesn't exist on disk, so checked source directly: diagnostic `ultra_sparse_coverage_threshold` already has its own page, all 4 FGR numeric-table constants (`DOMINANT_SHARE_HIGH`, `ENTROPY_DROP_SIGNIFICANT`, `STABILITY_CURRENT_THRESHOLD`, `STABILITY_STALE_THRESHOLD`) already wikified. Field Dynamics extension constants remain a deliberate scope exclusion (no consumer path — `EXTENSION_STATUS.yaml` classifies it `internal`), not an oversight.")
     return "\n".join(lines) + "\n"
 
 
@@ -1046,11 +2340,24 @@ def render_json():
 
 
 def main():
+    filled = backfill_plain_lang()
+    polished = polish_plain_lang()
+    refresh_name_index()
+    bi = wire_bidirectional()
+    attached = wire_orphans_and_successors()
+    refresh_name_index()
+    auto = autolink_known_names()
+    # second bidirectional pass after orphan attach
+    bi2 = wire_bidirectional()
+    refresh_name_index()
+    rebuild_inbound()
     os.makedirs(PAGES, exist_ok=True)
     os.makedirs(CATS, exist_ok=True)
     for it in ITEMS:
         with open(os.path.join(PAGES, slug(it["name"]) + ".md"), "w") as f:
             f.write(render_page(it))
+    with open(os.path.join(PAGES, "Wiki-Wire-Map.md"), "w") as f:
+        f.write(render_wire_map())
     for cat in CATEGORIES:
         with open(os.path.join(CATS, slug(cat) + ".md"), "w") as f:
             f.write(render_category(cat))
@@ -1061,6 +2368,9 @@ def main():
     with open(os.path.join(ROOT, "index.json"), "w") as f:
         f.write(render_json())
     print(f"Generated {len(ITEMS)} pages, {len(CATEGORIES)} category hubs, index.md, Coverage-Ledger.md, index.json")
+    print(f"HWIKI-PLAIN-B backfill: {filled} pages gained plain_lang")
+    print(f"HWIKI-PLAIN-C polish: {polished} pages hand-polished")
+    print(f"HWIKI-WIRE: bidirectional +{bi}+{bi2} edges; orphan/successor attach {attached}; autolink hits {auto}")
 
 if __name__ == "__main__":
     main()

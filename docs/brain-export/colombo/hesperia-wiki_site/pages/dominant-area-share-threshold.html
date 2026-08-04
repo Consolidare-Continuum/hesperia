@@ -179,6 +179,37 @@ and Diagnostic Thresholds</a><br />
 <strong>Responsible (module):</strong>
 <code>sphere/diagnostics/monotony_detector.py</code><br />
 <strong>Value / default:</strong> 0.65</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>if the dominant area's share of activation clears this threshold,
+classify the read as dominance (wired successor of Java X_A).</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>A_vec[12] (area activation
+vector)</em></li>
+<li><strong>Does:</strong> compute_dominant_area_share(area_vector)
+&gt;= threshold triggers dominance classification.</li>
+<li><strong>Outputs:</strong> <code>0.65</code> → <a
+href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
+(Java)</a>, <a
+href="../pages/activation-threshold.html">activation_threshold</a>, <a
+href="../pages/area-active-threshold.html">area_active_threshold</a>, <a
+href="../pages/coverage-threshold-monotony.html">coverage_threshold
+(monotony)</a>, <a
+href="../pages/curvature-threshold-severe.html">curvature_threshold /
+severe</a>, <a
+href="../pages/jump-rate-threshold-severe.html">jump_rate_threshold /
+severe</a>, <a
+href="../pages/low-stability-threshold.html">low_stability_threshold</a>,
+<a
+href="../pages/ultra-sparse-coverage-threshold.html">ultra_sparse_coverage_threshold</a>,
+<a
+href="../pages/excessive-jump-threshold.html">excessive_jump_threshold</a>,
+<a
+href="../pages/transition-concentration-threshold.html">transition_concentration_threshold</a>,
+<a href="../pages/unique-areas-max.html">unique_areas_max</a></li>
+<li><strong>Exists for:</strong> share-fraction rule trigger in rules
+config</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>compute_dominant_area_share(area_vector) &gt;= threshold triggers
 dominance classification.</p>
@@ -190,17 +221,78 @@ dominance classification.</p>
 <ul>
 <li><a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
 (Java)</a></li>
+<li><a
+href="../pages/activation-threshold.html">activation_threshold</a></li>
+<li><a
+href="../pages/area-active-threshold.html">area_active_threshold</a></li>
+<li><a
+href="../pages/coverage-threshold-monotony.html">coverage_threshold
+(monotony)</a></li>
+<li><a
+href="../pages/curvature-threshold-severe.html">curvature_threshold /
+severe</a></li>
+<li><a
+href="../pages/jump-rate-threshold-severe.html">jump_rate_threshold /
+severe</a></li>
+<li><a
+href="../pages/low-stability-threshold.html">low_stability_threshold</a></li>
+<li><a
+href="../pages/ultra-sparse-coverage-threshold.html">ultra_sparse_coverage_threshold</a></li>
+<li><a
+href="../pages/excessive-jump-threshold.html">excessive_jump_threshold</a></li>
+<li><a
+href="../pages/transition-concentration-threshold.html">transition_concentration_threshold</a></li>
+<li><a href="../pages/unique-areas-max.html">unique_areas_max</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
+(Java)</a></li>
+<li><a
+href="../pages/activation-threshold.html">activation_threshold</a></li>
+<li><a
+href="../pages/area-active-threshold.html">area_active_threshold</a></li>
+<li><a
+href="../pages/coverage-threshold-monotony.html">coverage_threshold
+(monotony)</a></li>
+<li><a
+href="../pages/curvature-threshold-severe.html">curvature_threshold /
+severe</a></li>
+<li><a
+href="../pages/jump-rate-threshold-severe.html">jump_rate_threshold /
+severe</a></li>
+<li><a
+href="../pages/low-stability-threshold.html">low_stability_threshold</a></li>
+<li><a
+href="../pages/ultra-sparse-coverage-threshold.html">ultra_sparse_coverage_threshold</a></li>
+<li><a
+href="../pages/excessive-jump-threshold.html">excessive_jump_threshold</a></li>
+<li><a
+href="../pages/transition-concentration-threshold.html">transition_concentration_threshold</a></li>
+<li><a href="../pages/unique-areas-max.html">unique_areas_max</a></li>
+<li><a
+href="../pages/detect-dominant-area-detect-dominant-family.html">detect_dominant_area
+/ detect_dominant_family</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
-<p>Java 20_GEOMETRY <code>X_A</code> alignment concept</p>
+<p>Java 20_GEOMETRY <code>X_A</code> alignment concept — Theory
+Explainer: plain_lang: if the dominant area's share of activation clears
+this threshold, classify the read as dominance (wired successor of Java
+X_A). author: Hesperia wiki (sphere/diagnostics/monotony_detector.py).
+extent: full. reasoning: share-fraction rule trigger in rules config.
+application: <a href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F
+alignment (Java)</a>.</p>
 <h2 id="notes">Notes</h2>
-<p>Real, wired successor of Java's X_A — has a threshold AND a rule
-trigger in <code>rule_registry.py</code>. No family-share
-(<code>X_F</code>) counterpart exists yet — see <a
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. Real, wired successor of Java's X_A — has a
+threshold AND a rule trigger in <code>rule_registry.py</code>. No
+family-share (<code>X_F</code>) counterpart exists yet — see <a
 href="../pages/X-A-X-F-alignment-Java.html">X_A / X_F alignment
 (Java)</a>.</p>
 <hr />
 <p><a href="../categories/Activation-and-Diagnostic-Thresholds.html">←
-back to category</a> · <a href="../index.html">wiki home</a></p>
+back to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

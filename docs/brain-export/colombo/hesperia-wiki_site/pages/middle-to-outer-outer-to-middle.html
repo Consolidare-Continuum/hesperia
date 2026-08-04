@@ -179,8 +179,24 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>assets/specs/canon/propagation_weights.yaml</code><br />
 <strong>Value / default:</strong> 0.12</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>outermost ring gets the thinnest local weight — periphery thins by
+design.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
+middle_to_inner</a></li>
+<li><strong>Does:</strong> Peripheral thinning, distance <a
+href="../pages/decay.html">decay</a>.</li>
+<li><strong>Outputs:</strong> <code>0.12</code> → <a
+href="../pages/bridge-weight.html">bridge_weight</a></li>
+<li><strong>Exists for:</strong> completes the radial diffusion
+ladder</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
-<p>Peripheral thinning, distance decay.</p>
+<p>Peripheral thinning, distance <a
+href="../pages/decay.html">decay</a>.</p>
 <h2 id="produced-from-inputs">Produced from (inputs)</h2>
 <ul>
 <li><a
@@ -189,6 +205,13 @@ middle_to_inner</a></li>
 </ul>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
+<li><a href="../pages/bridge-weight.html">bridge_weight</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a
+href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
+middle_to_inner</a></li>
 <li><a href="../pages/bridge-weight.html">bridge_weight</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
@@ -204,6 +227,7 @@ href="../pages/decay-factor-propagation.html">decay_factor
 <p><strong>HWIKI-DOC-24:</strong> Peripheral thinning weight.</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

@@ -179,6 +179,21 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>sphere/propagation/multi_step_diffusion.py:21-72 (</code>propagate_k_steps<code>, </code>iterative_diffusion<code>)</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>instead of one hop, raise the transition matrix to the k-th power (or
+repeat the lazy step) to see mass after many hops.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/Transition-matrix-W.html">Transition matrix (W)</a></li>
+<li><strong>Does:</strong> v_k = v @ W^k (np.linalg.matrix_power) or
+iterative current=(1-α)current+α(current@W).</li>
+<li><strong>Outputs:</strong> <code>—</code> → <a
+href="../pages/Mixing-Diagnostics.html">Mixing Diagnostics</a>,
+<em>cumulativeDrift</em></li>
+<li><strong>Exists for:</strong> multi-step diffusion + mixing
+diagnostics</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>v_k = v @ W^k (np.linalg.matrix_power) or iterative
 current=(1-α)current+α(current@W).</p>
@@ -192,6 +207,19 @@ current=(1-α)current+α(current@W).</p>
 <li><a href="../pages/Mixing-Diagnostics.html">Mixing
 Diagnostics</a></li>
 <li><em>cumulativeDrift</em></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/Transition-matrix-W.html">Transition matrix
+(W)</a></li>
+<li><a href="../pages/Mixing-Diagnostics.html">Mixing
+Diagnostics</a></li>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a
+href="../pages/PageRank-shaped-walk-structural-analogy.html">PageRank-shaped
+walk (structural analogy)</a></li>
+<li><a href="../pages/decay-factor-propagation.html">decay_factor
+(propagation)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Chapman (1928) / Kolmogorov (1931) — Theory Explainer: plain_lang:
@@ -211,6 +239,7 @@ turnCoherence</a>.</p>
 <code>diffuse_step</code>).</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

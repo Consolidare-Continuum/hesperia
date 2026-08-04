@@ -180,6 +180,26 @@ Control Theory</a><br />
 <code>sphere/propagation/weighting.py:78-127 (</code>apply_stability_modulation<code>, </code>apply_jump_rate_modulation<code>, </code>compute_effective_diffusion_rate<code>)</code><br />
 <strong>Value / default:</strong> k_stability=0.5, k_jump=0.3
 (defaults)</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>when the system looks stable, slow the spread; when it jumps a lot,
+allow slightly more spread.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><strong>Does:</strong> effective_α = base_α·(1 −
+k_stability·stability_index) then ·(1 + k_jump·jump_rate), each clamped
+to [0,1] — cybernetic feedback on <em>diffusion</em> α.</li>
+<li><strong>Outputs:</strong>
+<code>k_stability=0.5, k_jump=0.3 (defaults)</code> →
+<em>sphere/propagation/engine.py (compute_effective_diffusion_rate
+call)</em></li>
+<li><strong>Exists for:</strong> renamed symbols
+<code>k_stability</code>/<code>k_jump</code> (not
+<code>k_s</code>/<code>k_j</code>); modulates propagation diffusion α,
+<strong>not</strong> <a href="../pages/alpha-fusion-weight.html">alpha
+(fusion weight)</a></li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>effective_α = base_α·(1 − k_stability·stability_index) then ·(1 +
 k_jump·jump_rate), each clamped to [0,1] — cybernetic feedback on
@@ -192,6 +212,12 @@ k_jump·jump_rate), each clamped to [0,1] — cybernetic feedback on
 <ul>
 <li><em>sphere/propagation/engine.py (compute_effective_diffusion_rate
 call)</em></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/lambda-lazy-step.html">lambda (lazy step)</a></li>
+<li><a href="../pages/structural-analogy-extent-term.html">structural
+analogy (extent term)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Wiener (1948) cybernetic feedback lineage — Theory Explainer:
@@ -214,6 +240,7 @@ zero real hits, but the <em>formula</em> lives under
 DEAD. Not fusion α.</p>
 <hr />
 <p><a href="../categories/Stability-and-Control-Theory.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

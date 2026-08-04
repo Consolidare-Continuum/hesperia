@@ -178,9 +178,32 @@ Diffusion and Markov</a><br />
 <strong>Responsible (module):</strong>
 <code>assets/specs/canon/propagation_weights.yaml</code><br />
 <strong>Value / default:</strong> 0.25</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how strongly energy at the center ring leaks into the first
+neighborhood ring.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <em>none declared (constant, hub, or
+external)</em></li>
+<li><strong>Does:</strong> Strongest local spread into the final area
+vector.</li>
+<li><strong>Outputs:</strong> <code>0.25</code> → <a
+href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
+middle_to_inner</a>, <a
+href="../pages/bridge-weight.html">bridge_weight</a></li>
+<li><strong>Exists for:</strong> distance-sensitive diffusion intuition
+on the icosahedral neighborhoods</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>Strongest local spread into the final area vector.</p>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
+<ul>
+<li><a
+href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
+middle_to_inner</a></li>
+<li><a href="../pages/bridge-weight.html">bridge_weight</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
 <ul>
 <li><a
 href="../pages/inner-to-middle-middle-to-inner.html">inner_to_middle /
@@ -203,6 +226,7 @@ href="../pages/lambda-lazy-step.html">lambda (lazy step)</a>.</p>
 center→inner→middle→outer ladder.</p>
 <hr />
 <p><a href="../categories/Propagation-Diffusion-and-Markov.html">← back
-to category</a> · <a href="../index.html">wiki home</a></p>
+to category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>

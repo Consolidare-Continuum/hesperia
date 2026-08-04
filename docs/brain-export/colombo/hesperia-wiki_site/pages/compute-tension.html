@@ -178,6 +178,26 @@ Bipolar Adversity</a><br />
 <strong>Responsible (module):</strong>
 <code>core/result/contract.py:63-65</code><br />
 <strong>Value / default:</strong> —</p>
+<h2 id="in-plain-words">In plain words</h2>
+<p>how uneven opposite area-pairs are — sum absolute gaps between each
+area and its partner six indices away on the 12-area vector.</p>
+<h2 id="definition">Definition</h2>
+<ul>
+<li><strong>Receives:</strong> <a
+href="../pages/Icosahedral-Surface-Graph.html">Icosahedral Surface
+Graph</a>, <em>A_vec[12] (area activation vector)</em>, <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><strong>Does:</strong> pairs = (i, i+6) for i in 0..5 on the 12-area
+vector; tension = Σ|A[i]-A[i+6]| (L1 abs-sum).</li>
+<li><strong>Outputs:</strong> <code>—</code> → <em>Modular tension
+output (hesperia.result.v1)</em>, <a
+href="../pages/metric-tension-energy.html">metric_tension_energy</a>, <a
+href="../pages/compute-structural-tension.html">compute_structural_tension</a></li>
+<li><strong>Exists for:</strong> LIVE tension aggregator; pairing is
+combinatorial <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a>, not sphere
+antipodes</li>
+</ul>
 <h2 id="yields-formula">Yields (formula)</h2>
 <p>pairs = (i, i+6) for i in 0..5 on the 12-area vector; tension =
 Σ|A[i]-A[i+6]| (L1 abs-sum).</p>
@@ -191,15 +211,41 @@ Surface Graph</a></li>
 <h2 id="needed-by-consumers">Needed by (consumers)</h2>
 <ul>
 <li><em>Modular tension output (hesperia.result.v1)</em></li>
+<li><a
+href="../pages/metric-tension-energy.html">metric_tension_energy</a></li>
+<li><a
+href="../pages/compute-structural-tension.html">compute_structural_tension</a></li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../pages/Icosahedral-Surface-Graph.html">Icosahedral
+Surface Graph</a></li>
+<li><a href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a></li>
+<li><a
+href="../pages/metric-tension-energy.html">metric_tension_energy</a></li>
+<li><a
+href="../pages/compute-structural-tension.html">compute_structural_tension</a></li>
+<li><a href="../pages/AREAS.html">AREAS</a></li>
+<li><a href="../pages/LIVE-SUCCESSOR-status-term.html">LIVE_SUCCESSOR
+(status term)</a></li>
 </ul>
 <h2 id="origin">Origin</h2>
 <p>Java 21_MATH <code>bipolarAxes</code>: B[k]=A[2k]-A[2k+1],
-tensionEnergy=ΣB[k]² — interleaved pairing + L2 squares</p>
+tensionEnergy=ΣB[k]² — interleaved pairing + L2 squares — Theory
+Explainer: plain_lang: how uneven opposite area-pairs are — sum absolute
+gaps between each area and its partner six indices away on the 12-area
+vector. author: Hesperia wiki (core/result/contract.py:63-65). extent:
+full. reasoning: LIVE tension aggregator; pairing is combinatorial <a
+href="../pages/OPPOSITE-OFFSET.html">OPPOSITE_OFFSET</a>, not sphere
+antipodes. application: <em>Modular tension output
+(hesperia.result.v1)</em>.</p>
 <h2 id="notes">Notes</h2>
-<p><strong>HWIKI-OPEN-01 resolved 2026-07-23:</strong>
-<code>(i,i+6)</code> is <strong>not</strong> geometrically antipodal
-after <code>get_aligned_area_coordinates</code>. Ran alignment on
-canonical adj: geometric antipodes remain
+<p><strong>HWIKI-PLAIN-C:</strong> algebra plain_lang polished
+2026-08-04. <strong>HWIKI-PLAIN-B:</strong> plain_lang backfilled from
+formula/notes 2026-08-04. <strong>HWIKI-OPEN-01 resolved
+2026-07-23:</strong> <code>(i,i+6)</code> is <strong>not</strong>
+geometrically antipodal after <code>get_aligned_area_coordinates</code>.
+Ran alignment on canonical adj: geometric antipodes remain
 <code>(0,3)(1,2)(4,7)(5,6)(8,11)(9,10)</code> (dot=-1);
 <code>(i,i+6)</code> dots are ±0.447 (~0.35π / ~0.65π), not antipodal.
 Live pairing is the combinatorial <a
@@ -209,6 +255,7 @@ i+6 on the sphere. Differs from Java also in aggregator (L1 abs-sum vs
 L2 squares).</p>
 <hr />
 <p><a href="../categories/Tension-and-Bipolar-Adversity.html">← back to
-category</a> · <a href="../index.html">wiki home</a></p>
+category</a> · <a href="../index.html">wiki home</a> · <a
+href="Wiki-Wire-Map.html">Wire Map</a></p>
 </body>
 </html>
