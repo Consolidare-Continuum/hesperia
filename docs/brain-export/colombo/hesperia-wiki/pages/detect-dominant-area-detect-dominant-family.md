@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Formula / function  
-**Responsible (module):** `core/math/structural_metrics.py`  
+**Responsible (module):** `core/math/vector_ops.py`  
 **Value / default:** —
 
 ## Yields (formula)

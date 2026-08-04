@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Derived metric  
-**Responsible (module):** `hesperia/engine/kme/derived/calculator.py:105`  
+**Responsible (module):** `core/domain/derived_metrics.py:105`  
 **Value / default:** —
 
 ## Yields (formula)
@@ -16,8 +16,8 @@ clamp01(CI * NC)
 
 ## Needed by (consumers)
 
-- *hesperia/engine/kme/pipeline.py*
-- *fingerprint/builder.py*
+- *core/domain/pipeline.py*
+- *core/domain/fingerprint.py*
 
 ## Origin
 

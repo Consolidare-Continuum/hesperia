@@ -3,7 +3,7 @@
 **Status:** 🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Hub / concept  
-**Responsible (module):** `hesperia/engine/kme/derived/calculator.py + primitives/calculator.py`  
+**Responsible (module):** `core/domain/derived_metrics.py + core/domain/primitive_metrics.py`  
 **Value / default:** 6 primitives → 35 derived
 
 ## Yields (formula)
@@ -20,9 +20,9 @@ Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics → Deriv
 
 ## Needed by (consumers)
 
-- *hesperia/engine/kme/pipeline.py*
-- *clinical_bridge.py*
-- *fingerprint/builder.py*
+- *core/domain/pipeline.py*
+- *hesperia/engine/kme/clinical_bridge.py*
+- *core/domain/fingerprint.py*
 
 ## Origin
 

@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Activation and Diagnostic Thresholds](../categories/Activation-and-Diagnostic-Thresholds.md)  
 **Type:** Parameter (constant)  
-**Responsible (module):** `specs/canon/diagnostic_rules.yaml`  
+**Responsible (module):** `assets/specs/canon/diagnostic_rules.yaml`  
 **Value / default:** 0.20
 
 ## Yields (formula)

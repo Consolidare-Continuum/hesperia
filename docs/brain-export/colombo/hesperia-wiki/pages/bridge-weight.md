@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Propagation, Diffusion and Markov](../categories/Propagation-Diffusion-and-Markov.md)  
 **Type:** Parameter (YAML weight)  
-**Responsible (module):** `specs/canon/propagation_weights.yaml`  
+**Responsible (module):** `assets/specs/canon/propagation_weights.yaml`  
 **Value / default:** 0.22
 
 ## Yields (formula)

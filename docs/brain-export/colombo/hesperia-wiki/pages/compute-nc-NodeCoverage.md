@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Formula / function  
-**Responsible (module):** `hesperia/engine/kme/primitives/calculator.py:55`  
+**Responsible (module):** `core/domain/primitive_metrics.py:55`  
 **Value / default:** —
 
 ## Yields (formula)

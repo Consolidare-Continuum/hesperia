@@ -3,7 +3,7 @@
 **Status:** 🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Formula / function  
-**Responsible (module):** `hesperia/engine/kme/primitives/calculator.py:96`  
+**Responsible (module):** `core/domain/primitive_metrics.py:96`  
 **Value / default:** —
 
 ## Yields (formula)

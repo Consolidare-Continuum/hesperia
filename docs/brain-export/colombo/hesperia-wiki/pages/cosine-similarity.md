@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor  
 **Category:** [Similarity and Retrieval](../categories/Similarity-and-Retrieval.md)  
 **Type:** Formula / function  
-**Responsible (module):** `hesperia/engine/kme/fingerprint/builder.py (cosine_similarity, fingerprint_cosine)`  
+**Responsible (module):** `core/domain/fingerprint.py (cosine_similarity, fingerprint_cosine)`  
 **Value / default:** —
 
 ## Yields (formula)

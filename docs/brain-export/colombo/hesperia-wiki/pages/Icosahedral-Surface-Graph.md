@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Geometry](../categories/Geometry.md)  
 **Type:** Topology (structural fact)  
-**Responsible (module):** `data/topology/area_adjacency_matrix.json, sphere/topology/embedding.py`  
+**Responsible (module):** `assets/topology/area_adjacency_matrix.json, sphere/topology/embedding.py`  
 **Value / default:** 12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)
 
 ## Yields (formula)

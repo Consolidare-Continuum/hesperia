@@ -20,7 +20,7 @@ Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a ring Fourie
 
 ## Notes
 
-**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `data/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.
+**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `assets/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.
 
 ---
 [← back to category](../categories/Dead-and-Rejected-Science.md) · [wiki home](../index.md)

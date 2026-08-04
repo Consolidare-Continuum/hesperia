@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_FULL — matches proposal (if any), running in production path  
 **Category:** [Activation and Diagnostic Thresholds](../categories/Activation-and-Diagnostic-Thresholds.md)  
 **Type:** Parameter (constants)  
-**Responsible (module):** `specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py`  
+**Responsible (module):** `assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py`  
 **Value / default:** 0.75
 
 ## Yields (formula)

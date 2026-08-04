@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:26:43.850683+00:00",
+  "generated_at": "2026-08-04T06:13:42.818668+00:00",
   "count": 163,
   "categories": [
     "Geometry",
@@ -186,15 +186,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:83",
+      "module": "core/domain/derived_metrics.py:83",
       "value": "—",
       "formula": "clamp01(safe_div(COH * LD, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (COH·LD)/PV built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (COH·LD)/PV. Formula `clamp01(safe_div(COH * LD, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -256,7 +256,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (YAML weight)",
-      "module": "specs/canon/propagation_weights.yaml",
+      "module": "assets/specs/canon/propagation_weights.yaml",
       "value": "0.22",
       "formula": "Cross-area coupling — semantic bleed across areas.",
       "produced_from": [
@@ -325,15 +325,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:78",
+      "module": "core/domain/derived_metrics.py:78",
       "value": "—",
       "formula": "clamp01(COH * NC)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: COH×NC product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** COH×NC product. Formula `clamp01(COH * NC)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -350,15 +350,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:95",
+      "module": "core/domain/derived_metrics.py:95",
       "value": "—",
       "formula": "clamp01(safe_div(NC, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: NC/PV ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** NC/PV ratio. Formula `clamp01(safe_div(NC, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -375,15 +375,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:105",
+      "module": "core/domain/derived_metrics.py:105",
       "value": "—",
       "formula": "clamp01(CI * NC)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: CI×NC product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** CI×NC product. Formula `clamp01(CI * NC)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -400,15 +400,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:84",
+      "module": "core/domain/derived_metrics.py:84",
       "value": "—",
       "formula": "clamp01(safe_div(PR, NC))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR/NC ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR/NC ratio. Formula `clamp01(safe_div(PR, NC))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -425,7 +425,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (YAML weight)",
-      "module": "specs/canon/propagation_weights.yaml",
+      "module": "assets/specs/canon/propagation_weights.yaml",
       "value": "0.25",
       "formula": "Strongest local spread into the final area vector.",
       "produced_from": [],
@@ -473,15 +473,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:92",
+      "module": "core/domain/derived_metrics.py:92",
       "value": "—",
       "formula": "clamp01(safe_div(NC, PR))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: NC/PR ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** NC/PR ratio. Formula `clamp01(safe_div(NC, PR))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -570,7 +570,7 @@
       "status": "LIVE_SUCCESSOR",
       "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/primitives/calculator.py:64",
+      "module": "core/domain/primitive_metrics.py:64",
       "value": "—",
       "formula": "Normalized HHI over node hit-counts: ci = (hhi-baseline)/(1-baseline).",
       "produced_from": [
@@ -620,7 +620,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/primitives/calculator.py:84",
+      "module": "core/domain/primitive_metrics.py:84",
       "value": "—",
       "formula": "ld = avgActiveDegree / Deg95, clamped to [0,1].",
       "produced_from": [
@@ -644,7 +644,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/primitives/calculator.py:55",
+      "module": "core/domain/primitive_metrics.py:55",
       "value": "—",
       "formula": "NC = n/N — active concept nodes over the full domain node count.",
       "produced_from": [
@@ -838,7 +838,7 @@
       "status": "LIVE_SUCCESSOR",
       "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/fingerprint/builder.py (cosine_similarity, fingerprint_cosine)",
+      "module": "core/domain/fingerprint.py (cosine_similarity, fingerprint_cosine)",
       "value": "—",
       "formula": "Dot product over norms — fingerprint / hit-vector comparison.",
       "produced_from": [],
@@ -861,7 +861,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/primitives/calculator.py:122-145",
+      "module": "core/domain/primitive_metrics.py:122-145",
       "value": "—",
       "formula": "Deterministic triangle count; sum of C(deg(v),2) per node.",
       "produced_from": [
@@ -907,7 +907,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (constant)",
-      "module": "specs/canon/diagnostic_rules.yaml",
+      "module": "assets/specs/canon/diagnostic_rules.yaml",
       "value": "0.20",
       "formula": "Joint with entropy_threshold for the monotony regime.",
       "produced_from": [],
@@ -927,15 +927,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:98",
+      "module": "core/domain/derived_metrics.py:98",
       "value": "—",
       "formula": "clamp01(safe_div(PR * NC, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (PR·NC)/PV built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (PR·NC)/PV. Formula `clamp01(safe_div(PR * NC, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -952,15 +952,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:90",
+      "module": "core/domain/derived_metrics.py:90",
       "value": "—",
       "formula": "clamp01(CI * COH)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: CI×COH product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** CI×COH product. Formula `clamp01(CI * COH)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -977,15 +977,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:73",
+      "module": "core/domain/derived_metrics.py:73",
       "value": "—",
       "formula": "clamp01(NC * PR)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: Coverage–Presence Index built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** Coverage–Presence Index. Formula `clamp01(NC * PR)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -1002,15 +1002,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:81",
+      "module": "core/domain/derived_metrics.py:81",
       "value": "—",
       "formula": "clamp01(CI * LD)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: CI×LD product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** CI×LD product. Formula `clamp01(CI * LD)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -1067,15 +1067,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:80",
+      "module": "core/domain/derived_metrics.py:80",
       "value": "—",
       "formula": "clamp01(LD * NC)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: LD×NC product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** LD×NC product. Formula `clamp01(LD * NC)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -1137,7 +1137,7 @@
       "status": "PARTIAL",
       "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
       "kind": "Parameter (YAML weight)",
-      "module": "specs/canon/propagation_weights.yaml",
+      "module": "assets/specs/canon/propagation_weights.yaml",
       "value": "1.0",
       "formula": "Deferred multi-hop attenuation — currently a no-op on single-hop propagation.",
       "produced_from": [],
@@ -1206,7 +1206,7 @@
       "status": "LIVE_SUCCESSOR",
       "status_label": "🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor",
       "kind": "Formula / function",
-      "module": "core/math/structural_metrics.py",
+      "module": "core/math/vector_ops.py",
       "value": "—",
       "formula": "Returns the index of the dominant area / family (argmax), not a share fraction.",
       "produced_from": [
@@ -1239,7 +1239,7 @@
       ],
       "needed_by": [],
       "origin": "Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a ring Fourier smoothness score needs areas arranged on a circle (each has two neighbors); Hesperia's areas sit on an icosahedron where each has five neighbors — wrong topology for that DFT. author: Java proposal (DFT/ringSmoothness); rejection is Hesperia geometry decision. extent: rejected_with_reason. reasoning: [[Icosahedral Surface Graph]] is 5-regular (`degree_per_node: 5` in adjacency JSON); ring-DFT needs 2-regular C₁₂. application: contrast [[compute_entropy (Shannon)]] / dominance already covering 'smoothness-like' questions.",
-      "notes": "**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `data/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.",
+      "notes": "**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `assets/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.",
       "source_page": "pages/DFT-Ring-Smoothness.md",
       "source_page_abs": "/data/altitudine/prichindel.com/colombo_research/hesperia/wiki/pages/DFT-Ring-Smoothness.md",
       "lan_url": "http://192.168.100.65:8901/pages/DFT-Ring-Smoothness.html",
@@ -1459,7 +1459,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (constant)",
-      "module": "specs/canon/diagnostic_rules.yaml",
+      "module": "assets/specs/canon/diagnostic_rules.yaml",
       "value": "0.35",
       "formula": "structural_monotony label — entropy below this = structurally narrow discourse.",
       "produced_from": [
@@ -1527,7 +1527,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (constants)",
-      "module": "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
+      "module": "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
       "value": "0.60",
       "formula": "Above this, a single-step trajectory change is anomalous rather than normal dynamics.",
       "produced_from": [],
@@ -1751,7 +1751,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Topology (structural fact)",
-      "module": "data/topology/area_adjacency_matrix.json, sphere/topology/embedding.py",
+      "module": "assets/topology/area_adjacency_matrix.json, sphere/topology/embedding.py",
       "value": "12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)",
       "formula": "The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topology` enforces that every graph edge has near-equal angular length and every non-edge is strictly longer.",
       "produced_from": [
@@ -1778,15 +1778,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:101",
+      "module": "core/domain/derived_metrics.py:101",
       "value": "—",
       "formula": "clamp01(safe_div(PR * COH, NC))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (PR·COH)/NC built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (PR·COH)/NC. Formula `clamp01(safe_div(PR * COH, NC))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -1803,7 +1803,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (YAML weight)",
-      "module": "specs/canon/propagation_weights.yaml",
+      "module": "assets/specs/canon/propagation_weights.yaml",
       "value": "0.18",
       "formula": "Second-ring leak, distance-sensitive diffusion.",
       "produced_from": [
@@ -1954,15 +1954,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:99",
+      "module": "core/domain/derived_metrics.py:99",
       "value": "—",
       "formula": "clamp01(safe_div(COH * NC, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (COH·NC)/PV built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (COH·NC)/PV. Formula `clamp01(safe_div(COH * NC, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -1979,15 +1979,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:77",
+      "module": "core/domain/derived_metrics.py:77",
       "value": "—",
       "formula": "clamp01(safe_div(LD, PR))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: LD/PR ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** LD/PR ratio. Formula `clamp01(safe_div(LD, PR))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2004,15 +2004,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:85",
+      "module": "core/domain/derived_metrics.py:85",
       "value": "—",
       "formula": "clamp01(safe_div(LD, NC))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: LD/NC ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** LD/NC ratio. Formula `clamp01(safe_div(LD, NC))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2029,15 +2029,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:72",
+      "module": "core/domain/derived_metrics.py:72",
       "value": "—",
       "formula": "clamp01(LD * COH)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: Knowledge Density Index built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** Knowledge Density Index. Formula `clamp01(LD * COH)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2054,15 +2054,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:104",
+      "module": "core/domain/derived_metrics.py:104",
       "value": "—",
       "formula": "clamp01(LD * PR * COH)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: LD·PR·COH built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** LD·PR·COH. Formula `clamp01(LD * PR * COH)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2079,15 +2079,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:88",
+      "module": "core/domain/derived_metrics.py:88",
       "value": "—",
       "formula": "clamp01(safe_div(PR, LD))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR/LD ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR/LD ratio. Formula `clamp01(safe_div(PR, LD))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2104,15 +2104,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:82",
+      "module": "core/domain/derived_metrics.py:82",
       "value": "—",
       "formula": "clamp01(safe_div(PV, NC))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PV/NC ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PV/NC ratio. Formula `clamp01(safe_div(PV, NC))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2149,7 +2149,7 @@
       "status": "BEYOND",
       "status_label": "🔵 BEYOND — shipped in LIVE, not proposed in the Java corpus",
       "kind": "Hub / concept",
-      "module": "hesperia/engine/kme/derived/calculator.py + primitives/calculator.py",
+      "module": "core/domain/derived_metrics.py + core/domain/primitive_metrics.py",
       "value": "6 primitives → 35 derived",
       "formula": "Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics → DerivedMetrics (35) → to_derived_vector / fingerprint.",
       "produced_from": [
@@ -2160,9 +2160,9 @@
         "count_triangles / count_connected_triplets"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "clinical_bridge.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "hesperia/engine/kme/clinical_bridge.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "No Java 1:1 names — BEYOND comparability fingerprint layer",
       "notes": "**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. **HWIKI-KME-03:** plain-lang / theory notes expanded on each derived page.",
@@ -2179,15 +2179,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:91",
+      "module": "core/domain/derived_metrics.py:91",
       "value": "—",
       "formula": "clamp01(NC * COH * LD)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: NC·COH·LD built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** NC·COH·LD. Formula `clamp01(NC * COH * LD)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2204,15 +2204,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:102",
+      "module": "core/domain/derived_metrics.py:102",
       "value": "—",
       "formula": "clamp01(safe_div(COH, PR))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: COH/PR ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** COH/PR ratio. Formula `clamp01(safe_div(COH, PR))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2229,15 +2229,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:94",
+      "module": "core/domain/derived_metrics.py:94",
       "value": "—",
       "formula": "clamp01(safe_div(COH * LD, PR))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (COH·LD)/PR — catalog exemplar built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (COH·LD)/PR — catalog exemplar. Formula `clamp01(safe_div(COH * LD, PR))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2254,15 +2254,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:106",
+      "module": "core/domain/derived_metrics.py:106",
       "value": "—",
       "formula": "clamp01(safe_div(LD * COH * PR, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (LD·COH·PR)/PV built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (LD·COH·PR)/PV. Formula `clamp01(safe_div(LD * COH * PR, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2307,7 +2307,7 @@
       "status": "DEAD_ALGO_SURVIVED",
       "status_label": "🔴 DEAD (name) / 🟢 ALGORITHM SURVIVED — see linked live page",
       "kind": "Formula / function",
-      "module": "hesperia/engine/kme/primitives/calculator.py:96",
+      "module": "core/domain/primitive_metrics.py:96",
       "value": "—",
       "formula": "Deterministic DFS over ActiveGraph adjacency; returns the size of the largest connected component.",
       "produced_from": [
@@ -2541,7 +2541,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (YAML weight)",
-      "module": "specs/canon/propagation_weights.yaml",
+      "module": "assets/specs/canon/propagation_weights.yaml",
       "value": "0.12",
       "formula": "Peripheral thinning, distance decay.",
       "produced_from": [
@@ -2761,15 +2761,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:87",
+      "module": "core/domain/derived_metrics.py:87",
       "value": "—",
       "formula": "clamp01(safe_div(PR, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR/PV ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR/PV ratio. Formula `clamp01(safe_div(PR, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -2961,15 +2961,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:89",
+      "module": "core/domain/derived_metrics.py:89",
       "value": "—",
       "formula": "clamp01(safe_div(LD * COH, NC))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (LD·COH)/NC built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (LD·COH)/NC. Formula `clamp01(safe_div(LD * COH, NC))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3010,7 +3010,7 @@
       "status": "PARTIAL",
       "status_label": "🟡 PARTIAL — present in a narrow slice/tool, not the full contract",
       "kind": "Constraint (schema only)",
-      "module": "lexicon/validation/validate_lexical.py",
+      "module": "assets/lexicon/validation/validate_lexical.py",
       "value": "3–5 sentences",
       "formula": "Capacity bound on generated content per side.",
       "produced_from": [],
@@ -3168,15 +3168,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:74",
+      "module": "core/domain/derived_metrics.py:74",
       "value": "—",
       "formula": "clamp01(CI)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: Structure Index pass-through built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** Structure Index pass-through. Formula `clamp01(CI)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3193,15 +3193,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:79",
+      "module": "core/domain/derived_metrics.py:79",
       "value": "—",
       "formula": "clamp01(PR * COH)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR×COH product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR×COH product. Formula `clamp01(PR * COH)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3218,15 +3218,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:96",
+      "module": "core/domain/derived_metrics.py:96",
       "value": "—",
       "formula": "clamp01(safe_div(PR, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR/PV ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR/PV ratio. Formula `clamp01(safe_div(PR, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3243,15 +3243,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:76",
+      "module": "core/domain/derived_metrics.py:76",
       "value": "—",
       "formula": "clamp01(safe_div(COH, PV))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: COH/PV ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** COH/PV ratio. Formula `clamp01(safe_div(COH, PV))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3431,15 +3431,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:103",
+      "module": "core/domain/derived_metrics.py:103",
       "value": "—",
       "formula": "clamp01(NC * PV)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: NC×PV product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** NC×PV product. Formula `clamp01(NC * PV)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3456,15 +3456,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:86",
+      "module": "core/domain/derived_metrics.py:86",
       "value": "—",
       "formula": "clamp01(COH * LD * CI)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: COH·LD·CI built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** COH·LD·CI. Formula `clamp01(COH * LD * CI)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3481,15 +3481,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:75",
+      "module": "core/domain/derived_metrics.py:75",
       "value": "—",
       "formula": "clamp01(PR * LD)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PR×LD product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PR×LD product. Formula `clamp01(PR * LD)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3529,15 +3529,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:93",
+      "module": "core/domain/derived_metrics.py:93",
       "value": "—",
       "formula": "clamp01(PV * LD)",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: PV×LD product built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** PV×LD product. Formula `clamp01(PV * LD)`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3554,15 +3554,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:97",
+      "module": "core/domain/derived_metrics.py:97",
       "value": "—",
       "formula": "clamp01(safe_div(CI, LD))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: CI/LD ratio built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** CI/LD ratio. Formula `clamp01(safe_div(CI, LD))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3674,7 +3674,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (constants)",
-      "module": "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
+      "module": "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
       "value": "0.75",
       "formula": "Above this, transition mass collapsing into one route is flagged artifact-like concentration.",
       "produced_from": [],
@@ -3696,15 +3696,15 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Derived metric",
-      "module": "hesperia/engine/kme/derived/calculator.py:100",
+      "module": "core/domain/derived_metrics.py:100",
       "value": "—",
       "formula": "clamp01(safe_div(CI * LD, PR))",
       "produced_from": [
         "KME Primitives and Derived Metrics"
       ],
       "needed_by": [
-        "hesperia/engine/kme/pipeline.py",
-        "fingerprint/builder.py"
+        "core/domain/pipeline.py",
+        "core/domain/fingerprint.py"
       ],
       "origin": "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: (CI·LD)/PR built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.",
       "notes": "**HWIKI-KME-01/03:** (CI·LD)/PR. Formula `clamp01(safe_div(CI * LD, PR))`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.",
@@ -3747,7 +3747,7 @@
       "status": "LIVE_FULL",
       "status_label": "🟢 LIVE_FULL — matches proposal (if any), running in production path",
       "kind": "Parameter (constants)",
-      "module": "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
+      "module": "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py",
       "value": "0.02",
       "formula": "Below this coverage, the read is flagged zero-signal / anomalous rather than substantive structure.",
       "produced_from": [],

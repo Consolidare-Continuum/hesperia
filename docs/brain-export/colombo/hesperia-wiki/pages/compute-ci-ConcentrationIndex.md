@@ -3,7 +3,7 @@
 **Status:** 🟢 LIVE_SUCCESSOR — same idea, different name/formula than any Java ancestor  
 **Category:** [Graph and Structural Metrics](../categories/Graph-and-Structural-Metrics.md)  
 **Type:** Formula / function  
-**Responsible (module):** `hesperia/engine/kme/primitives/calculator.py:64`  
+**Responsible (module):** `core/domain/primitive_metrics.py:64`  
 **Value / default:** —
 
 ## Yields (formula)

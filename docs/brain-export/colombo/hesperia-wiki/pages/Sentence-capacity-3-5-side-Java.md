@@ -3,7 +3,7 @@
 **Status:** 🟡 PARTIAL — present in a narrow slice/tool, not the full contract  
 **Category:** [Dead and Rejected Science](../categories/Dead-and-Rejected-Science.md)  
 **Type:** Constraint (schema only)  
-**Responsible (module):** `lexicon/validation/validate_lexical.py`  
+**Responsible (module):** `assets/lexicon/validation/validate_lexical.py`  
 **Value / default:** 3–5 sentences
 
 ## Yields (formula)

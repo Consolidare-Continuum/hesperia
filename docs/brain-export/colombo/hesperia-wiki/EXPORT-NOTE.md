@@ -1,8 +1,7 @@
 # Hesperia parameter wiki — brain-export mirror
 
-**Promoted:** 2026-07-25  
-**Role:** Published mirror for Hesperia **dev** (`igareosh/hesperia`).  
-**Not** for Atomic prod (`Atomic-Commits-Team/hesperia`) — docs stay off prod per [ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT](https://github.com/igareosh/cursor/blob/main/governance/ETHAN-POLICY-HESPERIA-DEV-PROD-CONTENT.md).
+**Re-exported:** 2026-08-04 (previously 2026-07-25)  
+**Role:** Published mirror for Hesperia **dev** (`igareosh/hesperia`), tree-synced onward to **prod-of-record** (`Consolidare-Continuum/hesperia`) on each gated promote per [SPEC-ETHAN-HESPERIA-REPO-STATE-MACHINE](https://github.com/igareosh/cursor/blob/main/governance/SPEC-ETHAN-HESPERIA-REPO-STATE-MACHINE.md) — the old Atomic-Commits-Team split this note originally described no longer applies (Atomic abandoned 2026-07-26).
 
 ## Canonical edit path (brain)
 
@@ -22,4 +21,4 @@ Durable edits happen on **brain**, then re-export here. Hand-edits under this ex
 | `./` (this folder) | Markdown pages, categories, `index.json`, generator tools |
 | `../hesperia-wiki_site/` | Rendered HTML sibling (static browse) |
 
-`SIGNED: Researcher (Colombo) | wiki brain-export | 2026-07-25 | docs only → igareosh/hesperia`
+`SIGNED: Developer (Felix) | wiki brain-export re-sync | 2026-08-04 | igareosh/hesperia → Consolidare-Continuum/hesperia (promoted)`

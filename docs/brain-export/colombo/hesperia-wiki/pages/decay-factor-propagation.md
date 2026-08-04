@@ -3,7 +3,7 @@
 **Status:** 🟡 PARTIAL — present in a narrow slice/tool, not the full contract  
 **Category:** [Propagation, Diffusion and Markov](../categories/Propagation-Diffusion-and-Markov.md)  
 **Type:** Parameter (YAML weight)  
-**Responsible (module):** `specs/canon/propagation_weights.yaml`  
+**Responsible (module):** `assets/specs/canon/propagation_weights.yaml`  
 **Value / default:** 1.0
 
 ## Yields (formula)

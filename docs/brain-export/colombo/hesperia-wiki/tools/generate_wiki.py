@@ -124,7 +124,7 @@ add("PHI (golden ratio)", CAT_GEOMETRY, "LIVE_FULL", "Parameter (constant)",
     "**HWIKI-DOC-09:** Verified in `embedding.py`. Java corpus stated AREAS/FAMILIES as bare integers without embedding — φ is LIVE geometry, not a Java carry-over name.")
 
 add("Icosahedral Surface Graph", CAT_GEOMETRY, "LIVE_FULL", "Topology (structural fact)",
-    "data/topology/area_adjacency_matrix.json, sphere/topology/embedding.py",
+    "assets/topology/area_adjacency_matrix.json, sphere/topology/embedding.py",
     "12 nodes, 30 edges, 5-regular (`degree_per_node: 5`)",
     "The 12 areas are literal icosahedron vertices; `validate_embedding_matches_topology` enforces that every graph edge has near-equal angular length and every non-edge is strictly longer.",
     ["AREAS", "PHI (golden ratio)"], ["compute_tension", "angular_distance", "DFT Ring Smoothness"],
@@ -263,27 +263,27 @@ add("OPPOSITE_OFFSET", CAT_TENSION, "LIVE_FULL", "Parameter (constant)",
     "**Not geometric antipodes.** After `get_aligned_area_coordinates`, true antipodes are a different pairing (see [[compute_tension]] HWIKI-OPEN-01). OPPOSITE_OFFSET is the shipped bipolar *index* convention.")
 
 # ===== PROPAGATION =====
-add("center_to_inner", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "specs/canon/propagation_weights.yaml", "0.25",
+add("center_to_inner", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "0.25",
     "Strongest local spread into the final area vector.", [], ["inner_to_middle / middle_to_inner", "bridge_weight"],
     "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: how strongly energy at the center ring leaks into the first neighborhood ring. author: Hesperia propagation YAML (no single classical paper). extent: full (load-bearing weight). reasoning: distance-sensitive diffusion intuition on the icosahedral neighborhoods. application: [[inner_to_middle / middle_to_inner]], [[bridge_weight]], [[lambda (lazy step)]].",
     "**HWIKI-DOC-24:** Strongest local spread weight in the center→inner→middle→outer ladder.")
 
-add("inner_to_middle / middle_to_inner", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "specs/canon/propagation_weights.yaml", "0.18",
+add("inner_to_middle / middle_to_inner", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "0.18",
     "Second-ring leak, distance-sensitive diffusion.", ["center_to_inner"], ["middle_to_outer / outer_to_middle"],
     "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: second-ring leak — weaker than center_to_inner because farther from the activated core. author: Hesperia propagation YAML. extent: full. reasoning: distance decay ladder. application: [[center_to_inner]], [[middle_to_outer / outer_to_middle]].",
     "**HWIKI-DOC-24:** Mid-ring bidirectional weight.")
 
-add("middle_to_outer / outer_to_middle", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "specs/canon/propagation_weights.yaml", "0.12",
+add("middle_to_outer / outer_to_middle", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "0.12",
     "Peripheral thinning, distance decay.", ["inner_to_middle / middle_to_inner"], ["bridge_weight"],
     "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: outermost ring gets the thinnest local weight — periphery thins by design. author: Hesperia propagation YAML. extent: full. reasoning: completes the radial diffusion ladder. application: [[inner_to_middle / middle_to_inner]], [[decay_factor (propagation)]].",
     "**HWIKI-DOC-24:** Peripheral thinning weight.")
 
-add("bridge_weight", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "specs/canon/propagation_weights.yaml", "0.22",
+add("bridge_weight", CAT_PROP, "LIVE_FULL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "0.22",
     "Cross-area coupling — semantic bleed across areas.", ["center_to_inner"], ["lambda (lazy step)"],
     "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: how much energy can jump across area bridges (semantic bleed), not only along rings. author: Hesperia propagation YAML. extent: full. reasoning: cross-area coupling complementary to radial weights. application: [[center_to_inner]], [[Transition matrix (W)]].",
     "**HWIKI-DOC-24:** Cross-area coupling weight.")
 
-add("decay_factor (propagation)", CAT_PROP, "PARTIAL", "Parameter (YAML weight)", "specs/canon/propagation_weights.yaml", "1.0",
+add("decay_factor (propagation)", CAT_PROP, "PARTIAL", "Parameter (YAML weight)", "assets/specs/canon/propagation_weights.yaml", "1.0",
     "Deferred multi-hop attenuation — currently a no-op on single-hop propagation.", [], [],
     "Graph diffusion on layered neighborhoods — Theory Explainer: plain_lang: reserved multi-hop attenuation knob; today it is identity (1.0) on single-hop paths. author: Hesperia propagation YAML. extent: partial (reserved slot). reasoning: future multi-hop attenuation without breaking current YAML. application: [[middle_to_outer / outer_to_middle]].",
     "**HWIKI-DOC-24:** Reserved slot, not yet load-bearing beyond identity.")
@@ -314,10 +314,10 @@ add("activation_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constant)", "di
 add("area_active_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constant)", "diagnostics config", "0.05",
     "Aggregated coverage floor — area 'touched'.", [], [], "No Java ancestor", "")
 add("entropy_threshold (monotony)", CAT_THRESH, "LIVE_FULL", "Parameter (constant)",
-    "specs/canon/diagnostic_rules.yaml", "0.35", "structural_monotony label — entropy below this = structurally narrow discourse.",
+    "assets/specs/canon/diagnostic_rules.yaml", "0.35", "structural_monotony label — entropy below this = structurally narrow discourse.",
     ["compute_entropy (Shannon)"], [], "Shannon (1948)", "")
 add("coverage_threshold (monotony)", CAT_THRESH, "LIVE_FULL", "Parameter (constant)",
-    "specs/canon/diagnostic_rules.yaml", "0.20", "Joint with entropy_threshold for the monotony regime.", [], [], "No Java ancestor", "")
+    "assets/specs/canon/diagnostic_rules.yaml", "0.20", "Joint with entropy_threshold for the monotony regime.", [], [], "No Java ancestor", "")
 add("dominant_area_share_threshold", CAT_THRESH, "LIVE_SUCCESSOR", "Parameter (constant)",
     "sphere/diagnostics/monotony_detector.py", "0.65",
     "compute_dominant_area_share(area_vector) >= threshold triggers dominance classification.",
@@ -347,34 +347,34 @@ add("Circuit rank (LOOP_COUNT/LOOP_DENSITY)", CAT_GRAPH, "LIVE_FULL", "Formula /
     "**HWIKI-DOC-20:** Algebraic graph theory cycle rank on the BFS-induced subgraph.")
 
 add("largest_component_size", CAT_GRAPH, "DEAD_ALGO_SURVIVED", "Formula / function",
-    "hesperia/engine/kme/primitives/calculator.py:96", "—",
+    "core/domain/primitive_metrics.py:96", "—",
     "Deterministic DFS over ActiveGraph adjacency; returns the size of the largest connected component.",
     ["ActiveGraph (KME concept graph)"], ["KME Primitives and Derived Metrics"],
     "**This is Java's L(R) ('largest component'), verbatim as an algorithm** — see [[K(R) / L(R) / fragIndex (Java)]]",
     "The single strongest 'name died, algorithm did not' finding across all passes on this corpus — found by searching for the algorithm shape, not the Java symbol name. See [[DEAD_ALGO_SURVIVED (status term)]].")
 
 add("compute_nc (NodeCoverage)", CAT_GRAPH, "LIVE_FULL", "Formula / function",
-    "hesperia/engine/kme/primitives/calculator.py:55", "—", "NC = n/N — active concept nodes over the full domain node count.",
+    "core/domain/primitive_metrics.py:55", "—", "NC = n/N — active concept nodes over the full domain node count.",
     ["ActiveGraph (KME concept graph)"], ["KME Primitives and Derived Metrics"], "No Java ancestor", "")
 add("compute_ci (ConcentrationIndex)", CAT_GRAPH, "LIVE_SUCCESSOR", "Formula / function",
-    "hesperia/engine/kme/primitives/calculator.py:64", "—", "Normalized HHI over node hit-counts: ci = (hhi-baseline)/(1-baseline).",
+    "core/domain/primitive_metrics.py:64", "—", "Normalized HHI over node hit-counts: ci = (hhi-baseline)/(1-baseline).",
     ["ActiveGraph (KME concept graph)"], ["KME Primitives and Derived Metrics"], "Java 20_GEOMETRY `C(R)` concept (dominance/concentration family)",
     "Same discipline as C(R)=L/active, different formula (HHI concentration, not component-ratio).")
 add("compute_ld (LogicalDensity)", CAT_GRAPH, "LIVE_FULL", "Formula / function",
-    "hesperia/engine/kme/primitives/calculator.py:84", "—", "ld = avgActiveDegree / Deg95, clamped to [0,1].",
+    "core/domain/primitive_metrics.py:84", "—", "ld = avgActiveDegree / Deg95, clamped to [0,1].",
     ["ActiveGraph (KME concept graph)"], ["KME Primitives and Derived Metrics"], "No Java ancestor", "")
 add("count_triangles / count_connected_triplets", CAT_GRAPH, "LIVE_FULL", "Formula / function",
-    "hesperia/engine/kme/primitives/calculator.py:122-145", "—", "Deterministic triangle count; sum of C(deg(v),2) per node.",
+    "core/domain/primitive_metrics.py:122-145", "—", "Deterministic triangle count; sum of C(deg(v),2) per node.",
     ["ActiveGraph (KME concept graph)"], ["KME Primitives and Derived Metrics"], "No Java ancestor",
     "Feeds clustering-coefficient-style derived metrics.")
 
 # ===== KME derived metrics (HWIKI-KME-01 stubs; pins from FELIX-HWIKI-KME-02) =====
 add("KME Primitives and Derived Metrics", CAT_GRAPH, "BEYOND", "Hub / concept",
-    "hesperia/engine/kme/derived/calculator.py + primitives/calculator.py", "6 primitives → 35 derived",
+    "core/domain/derived_metrics.py + core/domain/primitive_metrics.py", "6 primitives → 35 derived",
     "Hub: PrimitiveMetrics (LD,COH,NC,PR,PV,CI) → compute_derived_metrics → DerivedMetrics (35) → to_derived_vector / fingerprint.",
     ["compute_ld (LogicalDensity)", "compute_ci (ConcentrationIndex)", "compute_nc (NodeCoverage)",
      "largest_component_size", "count_triangles / count_connected_triplets"],
-    ["hesperia/engine/kme/pipeline.py", "clinical_bridge.py", "fingerprint/builder.py"],
+    ["core/domain/pipeline.py", "hesperia/engine/kme/clinical_bridge.py", "core/domain/fingerprint.py"],
     "No Java 1:1 names — BEYOND comparability fingerprint layer",
     "**HWIKI-KME-01:** Individual derived symbols below are stubs with formula+module pins from Felix HWIKI-KME-02. **HWIKI-KME-03:** plain-lang / theory notes expanded on each derived page.")
 _KME_DERIVED = [
@@ -416,10 +416,10 @@ _KME_DERIVED = [
 ]
 for _name, _formula, _line, _hint in _KME_DERIVED:
     add(_name, CAT_GRAPH, "LIVE_FULL", "Derived metric",
-        f"hesperia/engine/kme/derived/calculator.py:{_line}", "—",
+        f"core/domain/derived_metrics.py:{_line}", "—",
         _formula,
         ["KME Primitives and Derived Metrics"],
-        ["hesperia/engine/kme/pipeline.py", "fingerprint/builder.py"],
+        ["core/domain/pipeline.py", "core/domain/fingerprint.py"],
         "BEYOND Java — pure algebra over PrimitiveMetrics (clamp01 + safe_div) — Theory Explainer: plain_lang: {_hint} built only from LD/COH/NC/PR/PV/CI primitives. author: Hesperia KME derived layer (no classical namesake). extent: product_metric. reasoning: clamp01+safe_div keeps fingerprint comparable. application: pipeline / clinical_bridge / fingerprint.".format(_hint=_hint),
         f"**HWIKI-KME-01/03:** {_hint}. Formula `{_formula}`. Consumers: pipeline / clinical_bridge / fingerprint (Felix HWIKI-KME-02). Not clinical TFP judgment — algebra only.")
 
@@ -441,7 +441,7 @@ add("Louvain communities (seed 42)", CAT_GRAPH, "BEYOND", "Algorithm",
     "Blondel et al. (2008) — Theory Explainer: plain_lang: group concepts into communities by maximizing modularity (denser inside than across); seed 42 makes tie-breaks reproducible. author: Vincent Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Etienne Lefebvre (2008). extent: full (algorithm), Hesperia-specific addition is only the reproducibility seed. reasoning: SCIENCE.md TRIZ/novelty path. application: `detect_concept_clusters_louvain` / novelty_engine; contrast [[K(R) / L(R) / fragIndex (Java)]] (different discipline).",
     "**HWIKI-DOC-18:** **Not the same discipline-instance as [[K(R) / L(R) / fragIndex (Java)]]** — community detection by modularity, not connected-component counting.")
 add("detect_dominant_area / detect_dominant_family", CAT_GRAPH, "LIVE_SUCCESSOR", "Formula / function",
-    "core/math/structural_metrics.py", "—", "Returns the index of the dominant area / family (argmax), not a share fraction.",
+    "core/math/vector_ops.py", "—", "Returns the index of the dominant area / family (argmax), not a share fraction.",
     ["A_vec[12] (area activation vector)", "F_vec[288]"], ["dominant_area_share_threshold"],
     "Java `X_A, X_F` alignment concept", "Index-only; the area side has a share-fraction sibling (`compute_dominant_area_share`), the family side does not — see [[X_A / X_F alignment (Java)]].")
 
@@ -609,19 +609,19 @@ add("SI_SYSTEM_CONFIDENCE_U1000 (L8)", CAT_TRUST, "LIVE_FULL", "Scaled indicator
 
 # ===== CAT-02 diagnostic thresholds =====
 add("ultra_sparse_coverage_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
-    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.02",
+    "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.02",
     "Below this coverage, the read is flagged zero-signal / anomalous rather than substantive structure.",
     [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
     "**HWIKI-CAT-02:** From CAT-01 delta — diagnostic ultra-sparse gate.")
 
 add("excessive_jump_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
-    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.60",
+    "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.60",
     "Above this, a single-step trajectory change is anomalous rather than normal dynamics.",
     [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
     "**HWIKI-CAT-02:** CAT-01 delta — change-point / jump anomaly.")
 
 add("transition_concentration_threshold", CAT_THRESH, "LIVE_FULL", "Parameter (constants)",
-    "specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.75",
+    "assets/specs/canon/diagnostic_rules.yaml + sphere/diagnostics/anomaly_detector.py", "0.75",
     "Above this, transition mass collapsing into one route is flagged artifact-like concentration.",
     [], ["sphere/diagnostics/anomaly_detector.py"], "parameter_catalog.md §4",
     "**HWIKI-CAT-02:** CAT-01 delta — transition concentration.")
@@ -693,7 +693,7 @@ add("Wiener feedback on alpha (k_s / k_j)", CAT_STABILITY, "LIVE_SUCCESSOR", "Fo
 
 # ===== SIMILARITY =====
 add("cosine_similarity", CAT_SIM, "LIVE_SUCCESSOR", "Formula / function",
-    "hesperia/engine/kme/fingerprint/builder.py (cosine_similarity, fingerprint_cosine)", "—",
+    "core/domain/fingerprint.py (cosine_similarity, fingerprint_cosine)", "—",
     "Dot product over norms — fingerprint / hit-vector comparison.",
     [], ["KME Primitives and Derived Metrics", "cumulativeDrift / turnCoherence"],
     "Gerard Salton (1975) VSM — Theory Explainer: plain_lang: angle between two vectors — 1 means same direction, 0 means orthogonal. author: Gerard Salton (1975) vector-space model; also Java 21_MATH `cosine` (turn-drift use). extent: full (formula); LIVE_SUCCESSOR for use-site (fingerprints, not turn-drift). reasoning: SCIENCE.md; repurposed from Java turn-coherence toward KME fingerprints. application: [[KME Primitives and Derived Metrics]]; contrast dead [[cumulativeDrift / turnCoherence]].",
@@ -783,7 +783,7 @@ add("DFT Ring Smoothness", CAT_DEAD, "REJECTED", "Formula (never implemented)",
     "Fourier/DFT-based smoothness measure over a proposed 12-area ring (`AREA_RING_ORDER`), plus a Java `Complex` class.",
     ["Icosahedral Surface Graph"], [],
     "Java 21_MATH §10 / 23_PROTOTYPE — Theory Explainer: plain_lang: a ring Fourier smoothness score needs areas arranged on a circle (each has two neighbors); Hesperia's areas sit on an icosahedron where each has five neighbors — wrong topology for that DFT. author: Java proposal (DFT/ringSmoothness); rejection is Hesperia geometry decision. extent: rejected_with_reason. reasoning: [[Icosahedral Surface Graph]] is 5-regular (`degree_per_node: 5` in adjacency JSON); ring-DFT needs 2-regular C₁₂. application: contrast [[compute_entropy (Shannon)]] / dominance already covering 'smoothness-like' questions.",
-    "**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `data/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.")
+    "**HWIKI-DOC-11:** Topology incompatibility — Felix verify degree: `assets/topology/area_adjacency_matrix.json` `degree_per_node: 5`. Not an oversight.")
 
 add("K(R) / L(R) / fragIndex (Java)", CAT_DEAD, "DEAD_ALGO_SURVIVED", "Formula (name dead)",
     "n/a — zero matches for `fragIndex`/`frag_index`/`K(R)` style symbols", "—",
@@ -847,7 +847,7 @@ add("X_A / X_F alignment (Java)", CAT_DEAD, "PARTIAL", "Formula (name dead, conc
     "X_A side: real, wired successor — [[dominant_area_share_threshold]]. X_F side: only an index detector exists ([[detect_dominant_area / detect_dominant_family]]), **no `compute_dominant_family_share` counterpart** — the single cheapest genuine gap identified across all three prior passes.")
 
 add("Sentence capacity 3-5/side (Java)", CAT_DEAD, "PARTIAL", "Constraint (schema only)",
-    "lexicon/validation/validate_lexical.py", "3–5 sentences", "Capacity bound on generated content per side.",
+    "assets/lexicon/validation/validate_lexical.py", "3–5 sentences", "Capacity bound on generated content per side.",
     [], [], "Java 20_GEOMETRY", "Schema/validation only — no runtime generation-side enforcer found; unclear if any current producer could violate the bound.")
 
 add("tau_s per-side truth (Java)", CAT_DEAD, "DEAD", "Data structure (never implemented)",
