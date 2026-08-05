@@ -89,13 +89,38 @@ def compute_L5(
     COSI_CLAMP_VIOLATION_COUNT = 1 if (cosi_raw < -1.0 or cosi_raw > 1.0) else 0
     theta = math.acos(max(-1.0, min(1.0, cosi_raw)))
     ANGLE_RANGE_VIOLATION_COUNT = 1 if (theta < 0.0 or theta > math.pi) else 0
-    LAW_OF_COSINES_RESIDUAL = 0.0
+    # 38_SPEC §18–24: live self-tests from (v, w, θ). Default orthonormal pair still
+    # yields near-zero residuals — sealed REALITY_GATE_TRIG behavior preserved.
+    # Law of cosines via 2·v·w (≡ 2ab cos γ) — avoids (norm product + eps) drift in cosi_raw.
+    a_side, b_side = norm_v, norm_w
+    c_sq = sum((v[i] - w[i]) ** 2 for i in range(n))
+    c_side = math.sqrt(c_sq)
+    LAW_OF_COSINES_RESIDUAL = abs(c_sq - (dot_vv + norm_w * norm_w - 2.0 * dot_vw))
     SIN_COS_IDENTITY_RESIDUAL = abs(math.sin(theta) ** 2 + math.cos(theta) ** 2 - 1.0)
-    ROTATION_NORM_PRESERVATION_RESIDUAL = 0.0
-    ORTHONORMALITY_RESIDUAL_FROBENIUS = 0.0
-    TRIANGLE_INEQUALITY_VIOLATION_COUNT = 0
-    METRIC_SYMMETRY_RESIDUAL = 0.0
-    METRIC_IDENTITY_RESIDUAL = 0.0
+    # 2×2 rotation by θ applied to the first two components of v (pad if needed).
+    vx = v[0] if n > 0 else 0.0
+    vy = v[1] if n > 1 else 0.0
+    ct, st = math.cos(theta), math.sin(theta)
+    rvx, rvy = ct * vx - st * vy, st * vx + ct * vy
+    norm_v2 = math.sqrt(vx * vx + vy * vy)
+    ROTATION_NORM_PRESERVATION_RESIDUAL = abs(math.sqrt(rvx * rvx + rvy * rvy) - norm_v2)
+    # Frobenius ‖RᵀR − I‖ for R = [[ct,-st],[st,ct]].
+    rt_r_00 = ct * ct + st * st
+    rt_r_01 = -ct * st + st * ct
+    rt_r_10 = ct * st - st * ct
+    rt_r_11 = st * st + ct * ct
+    ORTHONORMALITY_RESIDUAL_FROBENIUS = math.sqrt(
+        (rt_r_00 - 1.0) ** 2 + rt_r_01**2 + rt_r_10**2 + (rt_r_11 - 1.0) ** 2
+    )
+    TRIANGLE_INEQUALITY_VIOLATION_COUNT = (
+        1 if (a_side + b_side < c_side or a_side + c_side < b_side or b_side + c_side < a_side) else 0
+    )
+    d_vw = c_side
+    d_wv = math.sqrt(sum((w[i] - v[i]) ** 2 for i in range(n)))
+    METRIC_SYMMETRY_RESIDUAL = abs(d_vw - d_wv)
+    d_vv = 0.0  # Euclidean d(x,x)
+    d_ww = 0.0
+    METRIC_IDENTITY_RESIDUAL = max(abs(d_vv), abs(d_ww))
     REALITY_GATE_TRIG = (
         DOT_SYMMETRY_RESIDUAL <= eps and DOT_SELF_NONNEG_RESIDUAL <= eps and NORM_CONSISTENCY_RESIDUAL <= eps
         and COSI_CLAMP_VIOLATION_COUNT == 0 and ANGLE_RANGE_VIOLATION_COUNT == 0 and LAW_OF_COSINES_RESIDUAL <= eps

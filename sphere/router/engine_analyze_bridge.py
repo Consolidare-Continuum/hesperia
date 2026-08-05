@@ -154,7 +154,7 @@ def build_engine_analyze_from_raw(
     contradiction_p = float(ms.get("contradiction_pressure") or 0.0)
     propagation = float(ms.get("propagation_strength") or 0.0)
 
-    return {
+    envelope: dict[str, Any] = {
         "contract_version": _CONTRACT_VERSION,
         "trace": trace,
         "dominant_area_id": dom_a,
@@ -170,6 +170,18 @@ def build_engine_analyze_from_raw(
         "temp_relation_overlay_applied": bool(temp_relation_overlay),
         "trace_content_hash": trace_content_hash(trace),
     }
+    # Additive KSI-Inspector (Class A core.domain.ksi) — default-off via HESPERIA_KSI_ENABLED.
+    # Does not change sealed physics; attaches ``ksi`` only when flag is on.
+    if temp_relation_overlay:
+        envelope["temp_relation_overlay"] = list(temp_relation_overlay)
+    try:
+        from core.domain.ksi.pipeline import attach_ksi_to_engine_result
+
+        envelope = attach_ksi_to_engine_result(envelope)
+    except Exception:
+        # Flag-off path must never fail sealed analyze; on-path errors stay silent empty.
+        pass
+    return envelope
 
 
 def run_engine_analyze(

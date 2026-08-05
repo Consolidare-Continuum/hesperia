@@ -27,6 +27,14 @@ from .expected_j import (
     is_under_explained_activation,
     load_ksi_config,
 )
+from .flags import (
+    ksi_enabled,
+    ksi_phi_trace_enabled,
+    ksi_sandbox_fixtures_enabled,
+    phi_trace_enabled,
+    teacher_inspect_only,
+    teacher_packet_enabled,
+)
 from .gate import GateVerdict, validate_proposal, validate_proposal_packet
 from .mirror import (
     MirrorCauseCandidate,
@@ -35,6 +43,13 @@ from .mirror import (
     compute_mirror_deficit,
 )
 from .phi_e import PhiEParams, phi_e, phi_e_raw, phi_e_trace, r_e_for_type, sat
+from .pipeline import (
+    attach_ksi_to_engine_result,
+    attach_ksi_to_extended,
+    build_ksi_analyze_block,
+    run_ksi_inspect,
+    run_ksi_inspect_from_engine,
+)
 from .sandbox import replay_concept_residuals, sandbox_residual_improved
 from .teacher import (
     TEACHER_RELATIONS_TEMPLATE,
@@ -56,6 +71,9 @@ __all__ = [
     "PhiEParams",
     "TEACHER_RELATIONS_TEMPLATE",
     "TEACHER_STRUCTURE_TEMPLATE",
+    "attach_ksi_to_engine_result",
+    "attach_ksi_to_extended",
+    "build_ksi_analyze_block",
     "build_teacher_prompt_sections",
     "classify_concept_incident",
     "classify_mirror_deficit_incident",
@@ -71,17 +89,25 @@ __all__ = [
     "is_dead_concept",
     "is_over_activated",
     "is_under_explained_activation",
+    "ksi_enabled",
+    "ksi_phi_trace_enabled",
+    "ksi_sandbox_fixtures_enabled",
     "load_ksi_config",
     "missing_bridge_incident_payload",
     "phi_e",
     "phi_e_raw",
     "phi_e_trace",
+    "phi_trace_enabled",
     "rank_missing_bridges",
     "replay_concept_residuals",
     "r_e_for_type",
+    "run_ksi_inspect",
+    "run_ksi_inspect_from_engine",
     "sandbox_residual_improved",
     "sat",
     "serialize_teacher_packet",
+    "teacher_inspect_only",
+    "teacher_packet_enabled",
     "validate_proposal",
     "validate_proposal_packet",
 ]

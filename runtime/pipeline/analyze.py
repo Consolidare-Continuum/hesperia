@@ -315,4 +315,14 @@ def analyze(
             extended_out["r1_r4"] = {"error": str(e), "units": [], "book_profile": None}
     if contradiction_package:
         extended_out.update(_product_contradiction_extensions(minimal, extended_out, contradiction_package))
+    # KSI-Inspector neighbour lens (HES-MATH-BEHAV wire) — default off via HESPERIA_KSI_ENABLED.
+    try:
+        from core.domain.ksi.pipeline import attach_ksi_to_extended
+
+        extended_out = attach_ksi_to_extended(extended_out, summary=minimal)
+    except Exception as e:
+        from core.domain.ksi.flags import ksi_enabled
+
+        if ksi_enabled():
+            extended_out["ksi"] = {"_error": str(e)[:240], "teacher_mode": "inspect_only"}
     return minimal, extended_out

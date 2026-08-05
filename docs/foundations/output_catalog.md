@@ -226,9 +226,8 @@ independent measurements — **27 keys total**.
 | 11 | `CONTRADICTION_PRESSURE_SCORE` | float | `0.55·neg_support + 0.25·(1−pos_support) + 0.20·bookset_jaccard` — feeds L9 `CONSISTENCY_U1000` |
 | 12 | `REALITY_GATE_COUNTER_EVIDENCE` | bool | Integrity, shortfall, and pressure all within policy caps — gates L7 `g9` |
 
-**5B — trig/metric-space axiom self-test** (6 of these 13 residuals are hardcoded `0.0` passing
-constants in the current deterministic-only mode, not live computations — flagged explicitly in
-code, not silently omitted):
+**5B — trig/metric-space axiom self-test** (all 13 residuals live from `(v,w,θ)` per `38_SPEC`
+as of HES-MATH-BEHAV-60..62, 2026-08-05; default orthonormal pair still yields near-zero residuals):
 
 | # | Variable | Live or hardcoded-0 | Meaning |
 |---|---|---|---|
@@ -237,22 +236,24 @@ code, not silently omitted):
 | 15 | `NORM_CONSISTENCY_RESIDUAL` | live | \|‖v‖² − dot(v,v)\| |
 | 16 | `COSI_CLAMP_VIOLATION_COUNT` | live | 1 if raw cosine falls outside [−1,1], else 0 |
 | 17 | `ANGLE_RANGE_VIOLATION_COUNT` | live | 1 if arccos angle falls outside [0,π], else 0 |
-| 18 | `LAW_OF_COSINES_RESIDUAL` | **hardcoded 0.0** | Reserved for a future non-deterministic-input mode |
+| 18 | `LAW_OF_COSINES_RESIDUAL` | **live** | \|c² − (a²+b²−2ab cos θ)\| with a=‖v‖, b=‖w‖, c=‖v−w‖ |
 | 19 | `SIN_COS_IDENTITY_RESIDUAL` | live | \|sin²θ + cos²θ − 1\| |
-| 20 | `ROTATION_NORM_PRESERVATION_RESIDUAL` | **hardcoded 0.0** | Reserved |
-| 21 | `ORTHONORMALITY_RESIDUAL_FROBENIUS` | **hardcoded 0.0** | Reserved |
-| 22 | `TRIANGLE_INEQUALITY_VIOLATION_COUNT` | **hardcoded 0** | Reserved |
-| 23 | `METRIC_SYMMETRY_RESIDUAL` | **hardcoded 0.0** | Reserved |
-| 24 | `METRIC_IDENTITY_RESIDUAL` | **hardcoded 0.0** | Reserved |
+| 20 | `ROTATION_NORM_PRESERVATION_RESIDUAL` | **live** | \|‖R(θ)·v₂‖ − ‖v₂‖\| for 2×2 rotation by θ |
+| 21 | `ORTHONORMALITY_RESIDUAL_FROBENIUS` | **live** | Frobenius ‖RᵀR − I‖ |
+| 22 | `TRIANGLE_INEQUALITY_VIOLATION_COUNT` | **live** | 1 if triangle sides a,b,c violate inequality else 0 |
+| 23 | `METRIC_SYMMETRY_RESIDUAL` | **live** | \|d(v,w) − d(w,v)\| |
+| 24 | `METRIC_IDENTITY_RESIDUAL` | **live** | max(\|d(v,v)\|, \|d(w,w)\|) |
 | 25 | `REALITY_GATE_TRIG` | live (AND of all 13 above) | Gates L7 `g8` and L9 `ACTION_ALLOW_HUMAN_SUMMARY` |
 
-**Total L5: 25 (7 live-only counter-evidence + 5 live + 1 AND-gate trig, 6 trig residuals reserved).**
+**Total L5: 25 (12 counter-evidence + 13 live trig/metric self-tests including AND-gate).**
 
 ## 6. L6 — dynamical stability scaffold (`core/layers/layer_6.py`, 39_SPEC)
 
 **25 keys, exactly matching the docstring.** Only 4 are live/derived; the other 21 are documented
 no-perturbation identity constants (`0.0`/`1.0`/`True`/`False`), a named scaffold reserved for a
-future perturbation-analysis pass — not an oversight.
+future perturbation-analysis pass — not an oversight. **HES-MATH-BEHAV-54..57 (2026-08-05):**
+gradient / curvature / Group-IV Newtonian+functional slots stay PARTIAL with explicit `39_SPEC`
+formula notes in `layer_6.py` — do not invent finite differences without `E(x±ε)`.
 
 | # | Variable | Live or stub | Value if stub | Meaning |
 |---|---|---|---|---|

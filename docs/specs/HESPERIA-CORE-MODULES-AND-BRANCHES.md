@@ -14,6 +14,8 @@ The **runtime semantic engine** is **sealed**: `/analyze` + dict calculus + dete
 - Code: `hesperia/engine/`, sealed assets under `assets/data/engine_dynamics_v060/`
 - Deterministic structural computation is canonical under `core/`, with `core.domain` owning shared
   KME/domain measurement logic and `core.engine`/`core.math`/etc. owning the pure engine internals.
+- **KSI-Inspector** (Class A, not module-registry-shaped): `core/domain/ksi/` — wire surface + flags
+  → [KSI-WIRE-SURFACE.md](KSI-WIRE-SURFACE.md). Additive neighbour lens on sealed `/analyze`; default-off.
 - **2026-08-04:** the pluggable Class A modules (dict_a, dict_b, topology, metrics — see §2) moved out
   of `core/runtime/` into `hesperia/modules/default/`, sibling to `hesperia/modules/{nlp,tfp}/`. Reasoning:
   `core/` should hold engine-internal compute with no module-registry shape (no `provides`/`requires`/

@@ -49,12 +49,22 @@ def _call_engine(query: str, timeout_s: float = 8.0) -> dict[str, Any] | None:
 
 
 def retrieve(inp: HybridRetrieveInput) -> HybridRetrieveOutput:
-    """Minimal hybrid retrieve: engine /analyze + KSI block + optional COBALT."""
+    """Minimal hybrid retrieve: engine /analyze + KSI block + optional COBALT.
+
+    Wire: if engine envelope lacks ``ksi`` and ``HESPERIA_KSI_ENABLED=1``, run
+    ``core.domain.ksi.pipeline.attach_ksi_to_engine_result`` locally (same entry as sealed analyze).
+    """
     engine_result = _call_engine(inp.query.strip())
     ksi_block: dict[str, Any] = {}
     interior_pov = None
     gtp_coherence = None
     if isinstance(engine_result, dict):
+        try:
+            from core.domain.ksi.pipeline import attach_ksi_to_engine_result
+
+            engine_result = attach_ksi_to_engine_result(engine_result)
+        except Exception:
+            pass
         ksi_block = engine_result.get("ksi") or {}
         interior_pov = engine_result.get("interior_pov")
         gtp_coherence = engine_result.get("gtp_coherence")

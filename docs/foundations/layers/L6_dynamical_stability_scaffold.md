@@ -46,6 +46,11 @@ default (1.0) in the no-perturbation path. None of these can be anything but the
 declared constants without an actual perturbed input being run through the
 pipeline a second time, the way L3 does for its baseline/shadow comparison.
 
+**HES-MATH-BEHAV-54..57 (2026-08-05):** Gradient / curvature / Group-IV Newtonian
+slots remain PARTIAL with `39_SPEC` formula notes in `layer_6.py` and
+`L6_PARTIAL_*_SLOTS` inventory constants. Fill deferred until `E(x±ε)` is wired —
+do not invent finite differences from `MASS_AT_DEPTH` alone.
+
 ## Group II — Curvature & rank stubs (6 variables, all constant)
 
 `DOMINANCE_CURVATURE=0.0`, `ENTROPY_CURVATURE=0.0`, `HIT_VECTOR_RANK=1`,

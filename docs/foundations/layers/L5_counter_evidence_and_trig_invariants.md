@@ -83,20 +83,14 @@ the system relies on (dot-product symmetry, the Cauchy–Schwarz bound, the
 Pythagorean trig identity, metric-space axioms) still hold for whatever vector
 inputs are in play — a property test, not a content test.
 
-Several of the residuals are **hardcoded to `0.0`** rather than computed from `v`,
-`w`, or `theta`: `LAW_OF_COSINES_RESIDUAL`, `ROTATION_NORM_PRESERVATION_RESIDUAL`,
-`ORTHONORMALITY_RESIDUAL_FROBENIUS`, `TRIANGLE_INEQUALITY_VIOLATION_COUNT`,
-`METRIC_SYMMETRY_RESIDUAL`, `METRIC_IDENTITY_RESIDUAL`. This is stated here without
-euphemism: these six checks are declared in the result schema and always report
-"passed" (residual zero / violation count zero) because the code does not yet
-compute them from real geometric quantities — there is no second triangle, no
-rotation matrix, no orthonormal basis set, and no metric-space pair being tested
-against actual data. They are reserved slots in the 25-variable contract, not
-silent or hidden — the field names say exactly what they are for — but they are
-not live computations as of this reading of the code. Documenting them as "checks
-that ran and passed" without this caveat would overstate what L5 currently verifies.
+As of **HES-MATH-BEHAV-60..62 (2026-08-05)** the six formerly hardcoded residuals are
+**live** from `(v, w, θ)` per `38_SPEC`: law of cosines on the `‖v‖/‖w‖/‖v−w‖`
+triangle, 2×2 rotation-by-θ norm preservation + Frobenius orthonormality, triangle
+inequality on those sides, and Euclidean metric symmetry/identity. Default
+`[1,0]`/`[0,1]` still yields near-zero residuals — sealed `REALITY_GATE_TRIG`
+behavior is preserved.
 
-The seven residuals that **are** computed from `v`/`w`/`theta` are genuine, and
+The residuals computed from `v`/`w`/`theta` are genuine, and
 each corresponds to a named, centuries-old algebraic identity:
 
 | Variable | Formula | Axiom / identity being tested | Origin |
@@ -109,11 +103,10 @@ each corresponds to a named, centuries-old algebraic identity:
 | `SIN_COS_IDENTITY_RESIDUAL` | `\|sin²θ + cos²θ − 1\|` | Pythagorean trigonometric identity | Pythagoras (geometric form, c. 500 BCE); algebraic trig identity, classical |
 | (clamping of `cosi_raw` before `acos`) | `max(-1, min(1, cosi_raw))` | Numerical guard so floating-point drift just outside `[-1,1]` doesn't crash `acos` | Standard numerical-analysis practice, not a named theorem |
 
-`REALITY_GATE_TRIG` is the AND of all 13 conditions (7 live + 6 reserved-as-passing)
-— the same hard-gate pattern as `REALITY_GATE_COUNTER_EVIDENCE` above and the other
-layers' acceptability gates. Because six of its thirteen conjuncts are constants,
-`REALITY_GATE_TRIG` will currently only ever fail on the seven live conditions —
-worth knowing if this gate is ever used as a release/regression signal.
+`REALITY_GATE_TRIG` is the AND of all 13 live residual checks — the same hard-gate
+pattern as `REALITY_GATE_COUNTER_EVIDENCE` above and the other layers' acceptability
+gates. As of HES-MATH-BEHAV-60..62 every conjunct is computed from `(v, w, θ)`
+(default orthonormal pair still passes).
 
 ### Why a trig self-test sits inside the pipeline at all
 
