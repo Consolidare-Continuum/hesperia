@@ -97,7 +97,19 @@ def _run_layers_for_tokens(
         k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults
     })
     L5 = compute_L5(L1, L4, R_B, [], F=F, A=A, TOP_K=defaults.get("TOP_K", 20), MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2), MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50))
-    L6 = compute_L6(L1, L2, F=F)
+    from runtime.services.l6_perturbation_producer import compute_l6_with_optional_producer
+
+    L6 = compute_l6_with_optional_producer(
+        L1,
+        L2,
+        hits,
+        F=F,
+        A=A,
+        eps=eps,
+        D=D,
+        adjacency=adj,
+        total_tokens=token_count,
+    )
     L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{
         k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults
     })
@@ -142,7 +154,19 @@ def _run_layers_for_text(
         k: defaults.get(k) for k in ("RETRIEVAL_MODE_ID", "TOP_K", "MAX_SHORTFALL", "MIN_SUPPORT", "MAX_DUP_BOOK_CONC") if k in defaults
     })
     L5 = compute_L5(L1, L4, R_B, [], F=F, A=A, TOP_K=defaults.get("TOP_K", 20), MAX_SHORTFALL=defaults.get("MAX_SHORTFALL", 2), MAX_CONTRADICTION=defaults.get("MAX_CONTRADICTION", 0.50))
-    L6 = compute_L6(L1, L2, F=F)
+    from runtime.services.l6_perturbation_producer import compute_l6_with_optional_producer
+
+    L6 = compute_l6_with_optional_producer(
+        L1,
+        L2,
+        hits,
+        F=F,
+        A=A,
+        eps=eps,
+        D=D,
+        adjacency=adj,
+        total_tokens=token_count,
+    )
     L7 = compute_L7(L1, L2, L3, L4, L5, L6, visited_B=visited_B, F=F, A=A, **{
         k: defaults.get(k) for k in ("MIN_COVERAGE_RATIO", "MAX_CROSS_AREA_RATIO", "MAX_LYAPUNOV", "HIGH_CONF", "MED_CONF", "MIN_PCS") if k in defaults
     })

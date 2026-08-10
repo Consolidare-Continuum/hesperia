@@ -6,15 +6,9 @@ import pytest
 
 
 # ---------------------------------------------------------------------------
-# path_metric wired into propagation corridor serialization
+# path_metric wired into propagation corridor serialization (METRIC-24/25)
 # ---------------------------------------------------------------------------
 
-@pytest.mark.xfail(
-    reason="path_metric_cost on traversal (METRIC-24/25) explicitly deferred to follow-on rows, "
-    "not v0.7.0 scope — release/v0.7.0/RELEASE_SCOPE.md. runtime/services/path_metric.py exists "
-    "and is unit-tested but never wired into hex_output_engine.serialize_hex_outputs.",
-    strict=True,
-)
 def test_serialize_hex_outputs_includes_path_metric() -> None:
     from core.engine.hex_outputs.hex_output_engine import (
         build_sparse_hex_scene,

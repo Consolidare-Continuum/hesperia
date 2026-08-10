@@ -68,6 +68,7 @@ Bare "KSI" in runtime docs is ambiguous — always qualify (24_SPEC §7).
 | Variable | Default | Effect |
 |----------|---------|--------|
 | `HESPERIA_METRIC_EMIT` | `0` | When `1`, attach `meta.hesperia_metric` + `coordinate_fingerprint` on analyze |
+| `HESPERIA_L6_PERTURBATION` | `0` | When `1`, attach `meta.layer_6` via hit-vector E(x±ε) producer |
 | `HESPERIA_GCS_EMIT` | `0` | When `1`, emit static `geodesic_sphere` block (requires frozen `anchor_map_v1`) |
 
 See 24_SPEC §10 and promotion checklist §12.

@@ -231,6 +231,7 @@ Engine responses should optionally include `"contract_version": "v1.0"`. Python 
 
 The frozen default response remains unchanged when both flags are absent or false.
 
+- `HESPERIA_L6_PERTURBATION=1` adds `engine_result.meta.layer_6` (producer; default off).
 - `HESPERIA_METRIC_EMIT=1` adds `engine_result.meta.hesperia_metric` and
   `engine_result.meta.interior_point_of_world_view`.
 - `HESPERIA_GCS_EMIT=1`, when metric emit is enabled, adds the static

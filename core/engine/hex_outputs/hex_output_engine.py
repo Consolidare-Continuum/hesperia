@@ -91,20 +91,33 @@ def compute_hex_outputs(
 
 
 def serialize_hex_outputs(raw: dict[str, Any], *, digits: int = 6) -> dict[str, Any]:
-    """JSON-friendly lists (truncate large matrices in callers if needed)."""
+    """JSON-friendly lists (truncate large matrices in callers if needed).
+
+    METRIC-24/25: attach path_metric_cost over corridor hex_graph edges (24_SPEC §5).
+    Formula matches ``runtime.services.path_metric.compute_s_path`` for ``hex_graph``
+    without importing runtime (core↛runtime boundary).
+    """
     prop = raw["propagation_corridors"]
     flow = prop["propagation_flow_matrix"]
     flow_list = np.asarray(flow).round(digits).tolist()
+    corridor_edges = [
+        {"from": e["from"], "to": e["to"], "gradient": round(float(e["gradient"]), digits)}
+        for e in prop["corridor_edges"]
+    ]
+    path_cost = 0.0
+    for edge in corridor_edges:
+        path_cost += abs(float(edge["gradient"]))
+    path_layers = ["hex_graph"] if corridor_edges else []
     return {
         "hex_hotspot_map": np.asarray(raw["hex_hotspot_map"]).round(digits).tolist(),
         "hex_contradiction_front": np.asarray(raw["hex_contradiction_front"]).round(digits).tolist(),
         "propagation_corridors": {
             "hex_propagation_vector": np.asarray(prop["hex_propagation_vector"]).round(digits).tolist(),
             "propagation_flow_matrix": flow_list,
-            "corridor_edges": [
-                {"from": e["from"], "to": e["to"], "gradient": round(float(e["gradient"]), digits)}
-                for e in prop["corridor_edges"]
-            ],
+            "corridor_edges": corridor_edges,
+            "path_metric_cost": round(path_cost, digits),
+            "path_metric_layers": path_layers,
+            "path_action_version": "0.1",
         },
         "hex_cluster_gravity": np.asarray(raw["hex_cluster_gravity"]).round(digits).tolist(),
         "family_multiscale_consistency": {
