@@ -71,3 +71,6 @@ Thumbs.db
 
 # prod: no committed outputs markdown
 outputs/**/*.md
+
+# local secret — do not commit
+openai_api_key.txt
