@@ -6,6 +6,9 @@ from __future__ import annotations
 import os
 from typing import Any
 
+from runtime.services.anchor_map_registry import frozen_anchor_map_id
+from sphere.topology.embedding import coordinate_fingerprint, get_area_coordinates
+
 _TRUTHY = ("1", "true", "yes", "on")
 
 
@@ -19,8 +22,6 @@ def _gcs_emit_enabled() -> bool:
 
 def _build_geodesic_sphere_block() -> dict[str, Any]:
     """22_SPEC §9.1 static descriptor — verbatim constants from frozen spec."""
-    from runtime.services.anchor_map_registry import frozen_anchor_map_id
-
     return {
         "gcs_id": "GCS_NU85_v0_1",
         "nu": 85,
@@ -56,9 +57,6 @@ def _build_point_zero_ipow_block() -> dict[str, Any]:
 
 
 def build_hesperia_metric_block() -> dict[str, Any]:
-    from runtime.services.anchor_map_registry import frozen_anchor_map_id
-    from sphere.topology.embedding import coordinate_fingerprint, get_area_coordinates
-
     coords = get_area_coordinates()
     fp = coordinate_fingerprint(coords)
     anchor_map_id = frozen_anchor_map_id()
@@ -88,7 +86,10 @@ def attach_hesperia_metric_meta(payload: dict[str, Any]) -> dict[str, Any]:
     if not hesperia_metric_emit_enabled():
         return payload
     meta = dict(payload.get("meta") or {})
-    meta["hesperia_metric"] = build_hesperia_metric_block()
+    metric = build_hesperia_metric_block()
+    meta["hesperia_metric"] = metric
+    # METRIC-23/G10 is a public sibling field, not only an internal metric-registry detail.
+    meta["interior_point_of_world_view"] = dict(metric["interior_point_of_world_view"])
     out = dict(payload)
     out["meta"] = meta
     return out

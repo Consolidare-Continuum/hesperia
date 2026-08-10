@@ -39,11 +39,16 @@ is not yet wired into `/analyze` or `/product/interpret`.
 
 ## Deferred (unchanged, inherited from v0.7.1)
 
-- The static metric-geometry emit block (METRIC-22)
-- Live `/analyze`/`/product/interpret` emit wiring for the point-of-view geometry landed above
-  (METRIC-23, HRES-04 code is now in-tree; the request-path wiring itself is a separate,
-  not-yet-scheduled step)
 - Traversal cost metric (METRIC-24/25)
+
+## Post-seal flag-gated wiring (2026-08-10)
+
+- METRIC-22/23 is live on `/analyze` only when `HESPERIA_METRIC_EMIT=1`; the public
+  PointZero snapshot emits at `engine_result.meta.interior_point_of_world_view`.
+- `HESPERIA_GCS_EMIT=1`, together with metric emit, adds the frozen static
+  `geodesic_sphere` descriptor inside `engine_result.meta.hesperia_metric`.
+- Both flags default OFF, so the frozen public response and schema snapshot remain unchanged.
+- The system seal remains **0.7.2**; this additive opt-in wiring does not create a new seal.
 
 ## Verification
 

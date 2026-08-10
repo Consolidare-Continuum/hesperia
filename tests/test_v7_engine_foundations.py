@@ -114,6 +114,7 @@ def test_engine_analyze_contract_has_metric_when_enabled(monkeypatch: pytest.Mon
     assert hm["hesperia_metric_version"] == "0.1.0"
     assert "interior_point_of_world_view" in hm
     assert hm["interior_point_of_world_view"]["powv_point_zero"] is True
+    assert result["meta"]["interior_point_of_world_view"] == hm["interior_point_of_world_view"]
 
 
 def test_engine_analyze_contract_no_metric_without_env(monkeypatch: pytest.MonkeyPatch) -> None:
@@ -130,7 +131,7 @@ def test_engine_analyze_contract_no_metric_without_env(monkeypatch: pytest.Monke
         "diagnostics": {"interpretability_trace": {"marker_concept_sample": []}},
     }
     result = build_engine_analyze_from_raw(raw)
-    assert "hesperia_metric" not in result
+    assert "meta" not in result
 
 
 # ---------------------------------------------------------------------------

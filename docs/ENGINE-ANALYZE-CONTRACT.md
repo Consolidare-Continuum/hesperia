@@ -227,6 +227,17 @@ The smoke test at `tests/test_hesperia_engine_bridge.py` (HSPR-03, blocked on li
 
 Engine responses should optionally include `"contract_version": "v1.0"`. Python side ignores unknown fields for forward compatibility.
 
+### 7.1 Flag-gated metric metadata (METRIC-22/23)
+
+The frozen default response remains unchanged when both flags are absent or false.
+
+- `HESPERIA_METRIC_EMIT=1` adds `engine_result.meta.hesperia_metric` and
+  `engine_result.meta.interior_point_of_world_view`.
+- `HESPERIA_GCS_EMIT=1`, when metric emit is enabled, adds the static
+  `engine_result.meta.hesperia_metric.geodesic_sphere` descriptor.
+- `meta.interior_point_of_world_view` is the METRIC-23 public read-only PointZero snapshot;
+  the nested copy in `meta.hesperia_metric` remains part of the metric registry schema.
+
 ---
 
 SIGNED: Developer (Felix) | Claude Code context | 2026-06-11 | ENGINE-ANALYZE-CONTRACT.md HSPR-01/HSPR-02
