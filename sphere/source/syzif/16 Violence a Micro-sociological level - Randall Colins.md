@@ -707,7 +707,7 @@ know about their encounters with violence. By providing a vocabulary,
 we make our informants often quite good reporters of details they otherwise gloss over.
 
 The three kinds of situational evidence fit together. They complement
-each other not only ethodologically but also substantively. They all reveal
+each other not only methodologically but also substantively. They all reveal
 a common situational dynamic. That is what this book is about.
 
 8 • Chapter 1
@@ -779,7 +779,7 @@ disparate forms of violence thus uncover similar mechanisms of emotional interac
 
 In another large set of situations, a very different pathway circumvents
 situational tension and fear. Instead of finding a weak victim, the focus
-of emotional attention is on the audience before whom the fight is performed. These fights differ greatly from the attacking-the-situationallyweak kind of pathway, because the fighters attend much more to their
+of emotional attention is on the audience before whom the fight is performed. These fights differ greatly from the attacking-the-situationally weak kind of pathway, because the fighters attend much more to their
 audience than to each other; as we shall see from evidence presented in
 chapter 6, the stance of the audience has an overwhelming effect on
 whether and how much violence is carried out. Such fights are typically
@@ -1143,7 +1143,7 @@ humor, or even display sardonic wit.8 The laughing villain image comes
 across so well precisely because it is unrealistic, giving a coded message
 that the villainous deeds are not real, but encapsulated within an entertainment frame; hence it is a favored stereotype for cartoons and comic/
 fantasy melodrama, and introduces just such a comic tinge into allegedly
-serious drama. The image enables the viewer to take the entertainmentaudience attitude, not the horrified attitude that would occur with real
+serious drama. The image enables the viewer to take the entertainment audience attitude, not the horrified attitude that would occur with real
 violence. Once again, entertainment violence manages to present violence
 so that its key feature—confrontational tension and fear—is covered up.
 
@@ -1264,7 +1264,7 @@ The micro-situational mechanism still has to be supplied.
 A similar limitation exists with Donald Black's (1998) theory of the
 behavior of law. The theory is valid as far as it goes, but where it goes is
 an explanation of how conflict is managed once it breaks out; varying
-amounts of formal legal intervention are determined by repetitive, transsituational features of the social structure: the hierarchical distance
+amounts of formal legal intervention are determined by repetitive, trans-situational features of the social structure: the hierarchical distance
 among the parties to the dispute, and their degree of intimacy. It is an
 important theoretical advance to see that moralizing about violence is a
 variable that can be explained by the participants' and the social controllers' locations in social space. But the theory still assumes that violence is
@@ -10718,7 +10718,7 @@ as the evening wore on. When the young women first arrived, their hosts
 acted courteously, holding doors for them, attentively asking them if they
 would like more drinks or snacks. As the drinking progressed, the fraternity brothers' attentions became more blatant. A typical line: "Hey girl.
 What's your name? Linda? Linda, Linda, let-me-in-da! I'm Dave. You
-enjoying yourself? Did you get some of Pi Delta's beer? Likin'' it? Want
+enjoying yourself? Did you get some of Pi Delta's beer? Likin''' it? Want
 some more? You let me know if you want some more!" After his sixth
 drink, a student who had started out as shy cornered one of the women
 against a wall, removed her sweater and fondled her breasts. Women too

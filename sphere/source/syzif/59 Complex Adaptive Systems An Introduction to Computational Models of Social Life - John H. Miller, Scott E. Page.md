@@ -2557,7 +2557,7 @@ allowing neighbors to switch places), we quickly descend into the realm
 of disorganized complexity. In such a world, the photograph quickly
 resembles the white noise we see on the television (at least prior to
 the advent of late-night infomercials) when stations end their broadcast
-day. While it would be possible to construct the usual disorganizedcomplexity emergence theorems about, say, the average tone of the
+day. While it would be possible to construct the usual disorganized complexity emergence theorems about, say, the average tone of the
 picture or the likelihood of an eyelike shape arising somewhere in
 the photograph, such theorems would fail to capture the essence of
 the problem of understanding how a decentralized set of pixels can
@@ -3146,7 +3146,7 @@ these abstractions.
 The property of close association is often known as "agent-based"
 modeling, though of course this name is confusing given that most
 modeling has as its basis the underlying agents. A marginally better
-term might be modeling using "agent-based objects" versus "abstractionbased objects," with the understanding that agent-based objects require
+term might be modeling using "agent-based objects" versus "abstraction-based objects," with the understanding that agent-based objects require
 abstractions as well.
 
 Thus,
@@ -3774,7 +3774,7 @@ Why Agent-Based Objects?
 
 Water which is too pure has no fish.
 
-—Ts'ai Ken T'an Ken T'an
+—Ts'ai Ken T'an
 
 Scientific laws have conventionally been constructed in terms
 of a particular set of mathematical functions and constructs,
@@ -4187,8 +4187,8 @@ controlled in artificial worlds.
 
 Agent-based object models inherently provide constructive "proofs" to
 propositions. In particular, once we specify an agent-based object model
-and find that it leads to a coherent macrophenomenon, we have thereby
-found at least one set of microconditions that is sufficient to generate
+and find that it leads to a coherent macro-phenomenon, we have thereby
+found at least one set of micro-conditions that is sufficient to generate
 the macro-observations. This, of course, does not imply that our set
 of conditions is the one that actually produced the phenomenon in the
 real world. Nonetheless, Epstein (1999) argues that this "generative"
@@ -5320,7 +5320,7 @@ Of course, omniscient agents are not necessarily driven by global
 optimization. If an agent only obtains value by producing a tree, then
 that agent would never pick a growth rate of zero, and we will never end
 up at a production-optimizing equilibria. However, if having a tree burn
-is worse than not having a tree at all, we can show that the productionoptimizing outcome is a possibility with omniscient agents. If the agents
+is worse than not having a tree at all, we can show that the production-optimizing outcome is a possibility with omniscient agents. If the agents
 all cared a great deal about equity, and side payments were allowed,
 then the homogeneous outcome at the critical growth rate emerges as
 the equilibrium.
@@ -5703,7 +5703,7 @@ choose their next actions based on the rule in table 8.1 and the actions
 observed in the previous time step.
 
 This simple rule results in some interesting systemwide behavior.
-As can be seen in table 8.2, coherent macrostructures in the form
+As can be seen in table 8.2, coherent macro-structures in the form
 
 3A standard way of referring to such rules is by using the integer equivalent of the bits
 that define the rule table. Thus, in table 8.1 the defining bits of the rule table are 00010110,
@@ -12671,7 +12671,7 @@ Hayek, Friedrich. 1945. "The Use of Knowledge in Society." American Economic
 
 Review 35:519–30.
 
-Hebb, Donald O. 1949. The Organization of Behavior: A Neuropschological
+Hebb, Donald O. 1949. The Organization of Behavior: A Neuropsychological
 
 Theory. New York: Wiley.
 

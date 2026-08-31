@@ -1205,7 +1205,7 @@ introduce some new concepts that enhance the theoretical apparat h e c e n t r a
 tus of the Capabilities Approach. The first is that of capability security. They argue, plausibly, that public policy must not simply give
 people a capability, but give it to them in such a way that they can
 count on it for the future. Consider Vasanti: when she had a loan
-from her brothers, she had a range of health- and employmentrelated capabilities, but they were not secure, since her brothers
+from her brothers, she had a range of health- and employment-related capabilities, but they were not secure, since her brothers
 could call in the loan at any point, or turn her out of the house. The
 SEWA loan gave her security: so long as she worked regularly, she
 could make the payments and even build up some savings.
@@ -1455,7 +1455,7 @@ medical assessment, had few complaints: after all, society told them
 that they had no right to continue to exist after their husband's
 death.
 Vasanti's life brings such prob lems sharply to the fore, since she
-would never have reported dissatisfaction with illiteracy, or with being cut off from po lit i cal par tic i pa tion, before the consciousnessraising experience in the SEWA group showed her the importance
+would never have reported dissatisfaction with illiteracy, or with being cut off from po lit i cal par tic i pa tion, before the consciousness-raising experience in the SEWA group showed her the importance
 of these capabilities and encouraged her to think of herself as a person whose worth is equal to that of others. Although she certainly
 did not adapt to domestic violence, she did adjust to a life that
 lacked some of the Central Capabilities on the list—until she was
@@ -2080,7 +2080,7 @@ into his theory.
 
 Jean Hampton, focusing on the dif ficulties that preference- based
 views confront when we think of women's deformed preferences in
-abusive or asymmetrical relationships, proposes corrections involving equal respect and nonintimidation: the preferences that count
+abusive or asymmetrical relationships, proposes corrections involving equal respect and non-intimidation: the preferences that count
 
 are the ones people would have if they lived in such conditions.
 These corrections seem to go to the heart of the matter, making the

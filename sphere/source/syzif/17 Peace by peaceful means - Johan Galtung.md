@@ -1203,7 +1203,7 @@ up as an event. The variable is a discontinuous function of time.
 
 So we are dealing with events, processes (in the sense of a continuous function of
 time) and permanents. All three are relative to human and social time; in the
-AnnaleslBraudel tradition of recent French historiography called evenementielle, conjoncturelle, and la longue duree respectively. This becomes more interesting when we
+Annales/Braudel tradition of recent French historiography called evenementielle, conjoncturelle, and la longue duree respectively. This becomes more interesting when we
 combine these three modes of temporal phenomena with each other, which we have to do
 to reflect, and reflect on, a reality where the parts are all moving, but in different modes.
 
@@ -2971,7 +2971,7 @@ the 1 7th-century Florentine painter Artemisia Gentileschi is that she portrays 
 with women killing men brutally, and dispassionately.
 
 II. Thus, Konrad Lorenz seems to have been a conservative extremist as described by one of his
-former assistants, Norbert Bischof, Gescheiter als alle die Affen (Hamburg: Rasch und Rohring,
+former assistants, Norbert Bischof, gescheiter als alle die Affen (Hamburg: Rasch und Rohring,
 1 990). Lorenz always talked about 'Mensch' when 'Mann' would have been appropriate. Or were the
 two identical for him?
 
@@ -5879,7 +5879,7 @@ Peace Research, vol. V (Copenhagen: Ejlers, 1980), ch. 13.
 
 6. See, for instance, Michael W. Weithmann, 'Zwischen Orient und Okzident: Die Geschichte der
 Konfliktregion Jugoslawien', p. 56 in Rudolf H . Dittel, Ex-Jugoslawien: Versuch einer
-BestandsauJnahme (Konigsbrunn: Mundi Reales, 1 993).
+Bestandsaufnahme (Konigsbrunn: Mundi Reales, 1 993).
 
 7. For instance on the author of these lines, one more victim of lesJichocrates in that country.
 8. The intifada ('shaking otT') is in the West mainly associated with throwing stones, which, even
@@ -6525,7 +6525,7 @@ completely, not to mention the shadows in the future.
 1 0. Rapists, or sexually aroused males in general, will tend to claim this. Rightly, or wrongly?
 I I . Among the many texts in this field the reader may find Roger Fisher and William Ury, Getting
 to Yes (Boston, MA: Houghton Miffiin, 1 982); John W. Burton, Resolving Deep-Rooted Conflict
-(Lanham, MD: University Press of America, 1 987), and E. Victoria Shook, Ho 'ho'oponopono
+(Lanham, MD: University Press of America, 1 987), and E. Victoria Shook, Ho 'ho'ho'oponopono
 (Honolulu, HI: University of Hawai'i Press, 1 985) useful. I have serious reservations about Fisher's
 book, and they all relate to the subtitle, 'Negotiating Agreement Without Giving In'. A non-yielding attitude cannot be a good basis. On the other hand, the basic point is, of course, to seek a
 transcendence whereby no party to the conflict has to give in. Burton's book contains 56 very useful rules, particularly about third parties, sponsors, panels. And Shook's book serves as an
@@ -6882,7 +6882,7 @@ in that case is to try again; another is capitulation, which should never be vie
 
 Gandhians would emphasize the role of greater purification of Self for conflict transformation to take place. This theory has the advantage of placing the burden on oneSelf
 and on something one can do (e.g., through meditation), and the additional advantage of
-being non-falsifiable (,There has been no change of heart in Other? You need more Selfpurification!').
+being non-falsifiable (,There has been no change of heart in Other? You need more Self-purification!').
 
 This factor should certainly not be excluded, as nonviolence so obviously does work
 spiritually, from spirit to spirit. But that need not exclude political work on, and with,
@@ -8640,7 +8640,7 @@ Based on local economic cycles and Civil Society,26 the system has neither natio
 idea is local self-reliance, even self-sufficiency, meaning local consumption of what is produced and local production of what is consumed. The logic is in Table 2.3. Clearly, the
 Green system is based on beta structures: small, more horizontal, keeping people
 together, not segmented in small tasks, or fragmented in different roles. Instead, there is
-job integration, job rotation, and job reconstructionY Concretely, this means small economic organizations - say, no more than 30 persons - so that everybody can be relevant
+job integration, job rotation, and job reconstruction Concretely, this means small economic organizations - say, no more than 30 persons - so that everybody can be relevant
 to everybody, and hierarchies do not arise. This also opens the possibility of expanding
 households, from the four-person nuclear family of today to the extended family, or to the
 'commune' with which many in the West have had recent experiences. In the latter a-, hetero-, homo- and bi-sexual relations might well coexist.
@@ -14670,12 +14670,12 @@ SPECIFICA nONS
 supremacy with not only the right but also the duty of the Herrenvolk to exercise its
 supremacy to the fullest, including eradication of those at the very bottom, as one does
 to vermin. Between states it took the form of extreme Center-Periphery relations with the
-German state as the Herrenstaat. Within states, it took the form of party dictatorship.
+German state as the herrenstaat. Within states, it took the form of party dictatorship.
 
 Transpersonal: Nazism as an extreme version of the relation to God paves the way for
 an understanding of general German or teutonic thought. It spans the gulf between the
 sacred and the secular. It is sacred in its relation to a mythical and mystical past and
-future, and in proclaiming the Fahrer and the Fahrerprinzip as standing above ordinary
+future, and in proclaiming the Fahrer and the fahrerprinzip as standing above ordinary
 humans. Der Fahrer is close to the ' Vorsehung', Providence; an expression of generalized
 religiousness, a bridging figure of thought could make it easier for Christians to accept an
 essentially non-Christian, even anti-Christian, Nordic-pagan, Nazism.
@@ -14727,7 +14727,7 @@ particular; a people easily mobilized with a strongly vertical image of social r
 even to the point of legitimizing exterminism; and with its eschatological conclusion in
 terms of catharsis/apocalypse.
 
-Result: Gotterdammerung. heaven or hell. Tausendjahriges Reich or Vernichtung. including Vernichtung of Self. The last point cannot be stressed enough as a key aspect of
+Result: Gotterdammerung. heaven or hell. tausendjähriges Reich or Vernichtung. including Vernichtung of Self. The last point cannot be stressed enough as a key aspect of
 Nazism. There is not only the right. but even the duty to exterminate others. the vermin.
 But even so triumph is not guaranteed. Hence there is also the duty to sacrifice oneSelf.
 or rather ourSelves in plural. not only in singular. If the enemy wins. the world is not worthy of our presence. The Germans have not fulfilled their duty. hence their lives are not
@@ -14742,7 +14742,7 @@ of nature had to be enacted; 'there is nothing personal about it'. the SS man mi
 Extermination was a God-like act. a question of setting the universe straight. with SS as
 the instrument of the New Order. The enactment of apocalypsis.
 
-4.3 Homo russicuslsovieticus = Homo occidentalis in extremis
+4.3 Homo russicus/sovieticus = Homo occidentalis in extremis
 
 'Stalinism', or right-wing national Bolshevism, as a social phenomenon is not historically
 limited to the period in which Stalin was the undisputed ruler of the Soviet Union,
@@ -15258,7 +15258,7 @@ by God as
 
 Post World War II
 
-New Cana'an
+New cana'an
 
 unipolarity
 

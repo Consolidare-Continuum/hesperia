@@ -1565,7 +1565,7 @@ second system succeeding the 1410-7010 Disk Operating System,
 
 §8
 
-a batch system unmultiprogranuned except for input-output and
+a batch system unmultiprogrammed except for input-output and
 intended chiefly for business applications. As such, the OS/360
 scheduler is good. But it is almost totally uninfluenced by the
 OS/360 needs of remote job entry, multiprogramming, and permanently resident interactive subsystems. Indeed, the scheduler's
@@ -1802,7 +1802,7 @@ decision, and avoids committee-drafted inconsistencies.
 As time goes by, some decisions don't wear well. Some minor
 matters have never been wholeheartedly accepted by one or another of the participants. Other decisions have developed unforeseen problems, and sometimes the weekly meeting didn't agree to
 reconsider these. So there builds up a backlog of minor appeals,
-open issues, or disgruntlements. To settle these we held annual
+open issues, or disgruntlement. To settle these we held annual
 supreme court sessions, lasting typically two weeks. (I would hold
 them every six months if I were doing it again.)
 

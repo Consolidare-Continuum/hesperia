@@ -8345,7 +8345,7 @@ is, have full-time representation from every
 functional department in the company that will be involved in the
 creation or launch of their early products. They have to be able to
 build and ship actual functioning products and services, not just
-prototypes. Handos and approvals slow down the Build-Measureprototypes. Handos and approvals slow down the Build-Measure-
+prototypes. Handos and approvals slow down the Build-Measure-Prototypes. Handos and approvals slow down the Build-Measure-
 Learn feedback loop and inhibit both learning and accountability.
 Startups require that they be kept to an absolute minimum.
 Of course, this level of development autonomy is liable to raise
@@ -8717,7 +8717,7 @@ optimization, delegation, control, and execution. Company stock
 prices depend on this kind of predictable growth.
 There is a fourth phase as well, one dominated by operating costs
 and legacy products. This is the domain of outsourcing, automation,
-and cost reduction. Nonetheless, infrastructure is still missioncritical. Failure of facilities or important infrastructure or the
+and cost reduction. Nonetheless, infrastructure is still mission-critical. Failure of facilities or important infrastructure or the
 abandonment of loyal customers could derail the whole company.
 However, unlike the growth and optimization phase, investments in
 this area will not help the company achieve top-line growth.
@@ -10241,7 +10241,7 @@ Hua Chien, Randy Komisar, Matt Murphy, Bing Gordon, Aileen Lee,
 and Ellen Pao, and to my officemate and EIR, Cyriac Roeding.
 My research team helped me document case studies, interview
 hundreds of startups, and lter thousands of stories. I want to thank
-Marisa Porzig, who logged countless hours documenting, crossinvestigating. Additional case studies were
+Marisa Porzig, who logged countless hours documenting, cross-investigating. Additional case studies were
 referencing, and
 developed by Sara Gaviser Leslie and Sarah Milstein.
 Traditional publishing is a complicated and insular business. I

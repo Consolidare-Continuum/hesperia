@@ -3007,7 +3007,7 @@ the depravity of the other.
 Men are not blamed for such actions as they perform ignorantly and casually,
 whatever may be the consequences. Why? but because the principles of these actions
 are only momentary, and terminate in them alone. Men are less blamed for such
-actions as they perform hastily and unpremeditately than for such as proceed from
+actions as they perform hastily and unpremeditatedly than for such as proceed from
 deliberation. For what reason? but because a hasty temper, though a constant cause or
 principle in the mind, operates only by intervals, and infects not the whole character.
 Again, repentance wipes off every crime, if attended with a reformation of life and
@@ -7938,7 +7938,7 @@ Where these too fail, as often happens, precedents are called for; and a former
 decision, though given itself without any sufficient reason, justly becomes a sufficient
 reason for a new decision. If direct laws and precedents be wanting, imperfect and
 indirect ones are brought in aid; and the controverted case is ranged under them by
-analogical reasonings and comparisons, and similitudes, and correspondencies, which
+analogical reasonings and comparisons, and similitudes, and correspondences, which
 are often more fanciful than real. In general, it may safely be affirmed that
 jurisprudence is, in this respect, different from all the sciences; and that in many of its
 nicer questions, there cannot properly be said to be truth or falsehood on either side. If

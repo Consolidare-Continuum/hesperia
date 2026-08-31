@@ -3836,7 +3836,7 @@ half a million years' existence as a wandering hunter, and that created problems
 3 Cf. Adam Ferguson, History of Civil Society, p. 12: "If the palace be unnatural the cottage is
 so no less: and the highest refinements of political and moral apprehension, are no more artifi -
 cial in their kind, than the first operations of sentiment and reason." Wilhelm Roscher, Ansichten
-der Volkswirthschaft aus dem geschichtlichen Standpunkt (Leipzig and Heidelberg: C. F. Winter, 1861),
+der Volkswirtschaft aus dem geschichtlichen Standpunkt (Leipzig and Heidelberg: C. F. Winter, 1861),
 pp. 408–9, gives, as illustrations of the "pernicious refinements" against which austere moralists have thundered at one time or another, forks, gloves, and glazed windows; Plato in his Phaedo
 makes one of the speakers fear that the invention of writing, by weakening memory, would lead
 to degeneration! [Hayek is here confusing the Phaedo with the Phaedrus. It is in the Phaedrus that
@@ -5474,7 +5474,7 @@ beings, and this seemed to eliminate the spontaneity of human action. It had,
 of course, to be admitted that there was no more than a general presumption
 that human actions were also subject to natural law and that we actually did
 
-and most subsequent editions contain, in addition to the play's text, the "Revolutionist's Handbook Handbook" and "Maxims for Revolutionists."—Ed.]). The theme has, of course, been treated fully
+and most subsequent editions contain, in addition to the play's text, the "Revolutionists Handbook Handbook" and "Maxims for Revolutionists."—Ed.]). The theme has, of course, been treated fully
 in some of the novels of Fyodor Dostoevsky (especially in the Grand Inquisitor episode of The
 Brothers Karamazov), and there is not much that modern psychoanalysts and existentialist philosophers have been able to add to his psychological insight. But see Erich Fromm, Escape from
 Freedom (New York: Farrar and Rinehart, Inc., 1941; English edition entitled The Fear of Freedom
@@ -7085,7 +7085,7 @@ standards of the majority is in fact a reversal of the principle by which civili
 if not the decay, of civilization. Advance consists in the few convincing the
 many. New views must appear somewhere before they can become majority views. There is no experience of society which is not first the experience
 of a few individuals. Nor is the process of forming majority opinion entirely,
-or even chiefly, a matter of discussion, as the overintellectualized conception
+or even chiefly, a matter of discussion, as the overintellectualised conception
 would have it. There is some truth in the view that democracy is government
 by discussion, but this refers only to the last stage of the process by which the
 merits of alternative views and desires are tested. Though discussion is essential, it is not the main process by which people learn. Their views and desires
@@ -12009,7 +12009,7 @@ der merkwürdigstenümerkwürdigsten Völker rechtshistorisch entwickelt (Giesse
 dissertation; WestfälischeäWestfälische Wilhelms- Universität, Münster, 1938). The best account of the role of
 the ideal in the German liberal movement is to be found in Franz Schnabel, Deutsche Geschichte
 im neunzehnten Jahrhundert (4 vols.; Freiburg im Breisgau: Herder, 1933–59), vol. 2, pp. 99–109.
-See also Thomas Ellwein, Das Erbe der Monarchie in der deutschen Staatskrise: Zur Geschichte des Verfassungsstaates in Deutschland (Munich: Isar, 1954).
+See also Thomas Ellwein, Das Erbe der Monarchie in der deutschen Staatskrise: Zur Geschichte des Verfassungsstaat in Deutschland (Munich: Isar, 1954).
 
 It is probably no accident that the beginning of the theoretical movement that led to the development of the ideal of the Rechtsstaat came from Hanover, which, through its kings, had had
 more contact with England than the rest of Germany. See Franz Rosin, Gesetz und Verordnung:
@@ -12053,7 +12053,7 @@ tendency of recent times. It should exactly and irrevocably determine and secure
 and the limits of its activity and the free sphere of the citizen, and not enforce on its own behalf
 or directly any moral ideas beyond the sphere of law. This is the conception of the Rechtsstaat
 and not that the state should confine itself to administering the law and pursue no administrative purpose or only protect the rights of the individual. It says nothing about the content or aim
-of the state but defines only the manner and method of achieving them." [ The original German reads: "Der Staat soll Rechtsstaat seyn, das ist die Lösung und ist auch in Wahrheit der Entwickelungstrieb der neueren Zeit. Er soll die Bahnen und Gränzen seiner Wirksamkeit wie die
+of the state but defines only the manner and method of achieving them." [ The original German reads: "Der Staat soll Rechtsstaat seyn, das ist die Lösung und ist auch in Wahrheit der Entwicklungstrieb der neueren Zeit. Er soll die Bahnen und Gränzen seiner Wirksamkeit wie die
 freie Sphäre seiner Bürger in der Weise des Rechts genau bestimmen und unverbrüchlichüchlich sichern und soll die sittlichen Ideen von Staats wegen also direkt, nicht weiter verwirklichen (erzwingen), als es der Rechtssphäre angehört, d.i. nur bis zur nothwendigsten UmzäUmzäunung. Dieß
 ist der Begriff des Rechtsstaates, nicht etwa daß der Staat bloß die Rechtsordnung handhabe
 ohne administrative Zwecke, oder vollends bloß die Rechte der Einzelnen schütze, er bedeutet überhaupt nicht Ziel und Inhalt des Staates, sondern nur Art und Charakter, dieselben zu
@@ -12541,7 +12541,7 @@ and Carl Schmitt, Verfassungslehre (Munich and Leipzig: Duncker und Humblot, 192
 Vol. 2: Die organisatorische Entwicklung der deutschen Reichsverfassung. Gesetz im formellen und materiellen
 Sinne (2 vols.; Leipzig: Verlag H. Haessel, 1873–88); and, for a discussion of the subsequent development and current state of German teaching, Karl Zeidler, Maßnahmegesetz und "klassisches" Gesetz: Eine
 Kritik (Karlsruhe: C. F. Müller, 1961); Ernest Wolfgang Böckenförde, Gesetz und gesetzgebende Ge walt:
-Von den Anfängen der deutschen Staatsrechtslehre bis zur Höhe des staatsrechslichen P Positivismus
+Von den Anfängen der deutschen Staatsrechtslehre bis zur Höhe des staatsrechtlichen P Positivismus
 (Tübingen: Mohr Siebeck, 1958); Hans Werner Kopp, Inhalt und Form der Gesetze als ein Prob lem der
 Rechtstheorie; mit vergleichender Berücksichtigung der Schweiz, Deutschlands, Frankreichs, Grossbritanniens und der USA. (dissertation; 2 vols.; Zürich: Polygraphischer Verlag, 1958); and especially Konrad
 Huber, Rechtsgesetz und Maßnahmegesetz: eine Studie zum rechtsstaatlichen Gesetz esbegriff (dissertation; Berlin: Duncker und Humblot, 1963); Léon Duguit, Traité de droit constitutionnel. Vol. 1, pp. 539–
@@ -14516,7 +14516,7 @@ simply and solely legal positivism in political practice."
 Virginia Law Review, 44 (1958): 1233–72, and, concerning the revival of natural law, Helmut
 Coing, Grundzüge der Rechtsphilosophie (Berlin: Walter de Gruyter, 1950); Heinrich Mitteis, Über das
 Naturrecht (Berlin: Akademie- Verlag, 1948); Klaus Ritter, Zwischen Naturrecht und Rechtspositivismus:
-Eine rrkenntnistheoretische Auseinandersetzung mit den neueren Versuchen zur Wiederherstellung einer Rechtsmetaphysik (Witten- Ruhr: Luther- Verlag, 1956).
+Eine erkenntnistheoretische Auseinandersetzung mit den neueren Versuchen zur Wiederherstellung einer Rechtsmetaphysik (Witten- Ruhr: Luther- Verlag, 1956).
 
 a certain single- mindedness which prevents them from seeing the practical
 conclusions which others will draw from their disinterested doctrines."85
@@ -16888,7 +16888,7 @@ contained in an essay by Walter Hagenbuch, "The Rationale of the Social Services
 Bank Review, n.s., 29 ( July 1953): 9–12; partly reproduced in the Epilogue of Walter Hagenbuch, Social Economics (Cambridge: Cambridge University Press, 1958), pp. 298–305, where he
 contends: "Without realizing it, we may be drifting into a system in which everyone becomes
 permanently dependent on the State for certain basic needs and will inevitably become more
-and more dependent. Not only are the social services no longer self- liquidating; they are selfpropagating. . . . There is surely all the difference in the world between a regime in which a few
+and more dependent. Not only are the social services no longer self- liquidating; they are self-propagating. . . . There is surely all the difference in the world between a regime in which a few
 unfortunate people receive occasional and temporary benefits to tide them over their misfortune
 and one in which a large slice of everybody's income is continually channelled through the State.
 The absence of any direct links between what the individual puts in and what he takes out, the
@@ -23651,7 +23651,7 @@ Coke by, 114–115n22; law as command and, 218n7; legal positivism and,
 345n8; Mathew Hale's critique of, 114,
 252n63; rationalism and, 111; sovereignty and, 269
 
-Hobhouse, LeonardTrelawny, 373–
+Hobhouse, Leonard Trelawny, 373–
 
 374n12
 

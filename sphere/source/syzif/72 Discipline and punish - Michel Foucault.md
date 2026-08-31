@@ -12346,7 +12346,7 @@ Corre, A., Documents de criminologie retrospective, 1895.
 
 Documents pour servir a !' histoire de la torture judiciaire en Bretagne, 1 896.
 
-Cournol, G., Consitlirations J'interlt puhlic sur le droit J' exploiter les mines,
+Cournol, G., Considérations J'interlt puhlic sur le droit J' exploiter les mines,
 
 1790, Arch. nat. A XIII14•
 
@@ -12372,7 +12372,7 @@ Ducpetiaux, E., De Ia réforme penitentiaire, III, 1837·
 
 Des colonies agricoles, 1 8 5 1 .
 De Ia condition physique et morale des jeunes ouvriers, II, 1854.
-Du systeme de l'emprisonnement cellulaire, 1857.
+Du systeme de emprisonnement cellulaire, 1857.
 
 Dufau, 'Discours a Ia Constituante', Arch. pari., XXVI.
 Dufriche de Valaze, C. E., Des lois plénales, 1784.
@@ -12562,7 +12562,7 @@ Parfouru, P., Memoires de Ia societe archeologique Île-et- Vilaine, XXV,
 1896.
 
 Pastoret, C. E. de, Des lois penales, 1790.
-PauYre Jacques, 1st year, no. 3·
+Pauyre Jacques, 1st year, no. 3·
 Perrot, Michele, Délinquance et systeme pénitentiaire de France au XIXe
 
 siecle (unpublished).
@@ -12656,7 +12656,7 @@ Charite, 1 847.
 
 Vattel, E. de, Le Droit des gens, 1768.
 Vaux, Roberts, Notices, 1 82.6.
-Vermeil, F. M., Essai sur les racontee a faire dans notre legislation criminelle,
+Vermeil, F. M., Essai sur les racontée a faire dans notre legislation criminelle,
 
 1781.
 

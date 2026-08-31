@@ -10274,7 +10274,7 @@ impurities in solid solution, and the Matthiessen rule, which states that the
 change in resistance due to a small quantity of foreign metal in solid
 solution is independent of the temperature.
 (4) The dependence of the resistance on temperature and on pressure.
-(5) The appearance of supraconductivity [superconductivity] .
+(5) The appearance of superconductivity [superconductivity] .
 
 Mott and J ones go on to say that ' with the exception of (5) the
 theory of conductivity based on quantum mechanics has given at

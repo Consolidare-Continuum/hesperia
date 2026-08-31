@@ -763,7 +763,7 @@ the poverty line?
 
 I would submit that the 'policy definition' is based on a fundamental confusion. It is certainly true that with economic
 development there are changes in the notion of what counts as deprivation and poverty, and there are changes also in
-the ideas as to what should be done. But while these two types of changes are interdependent and also inter temporally
+the ideas as to what should be done. But while these two types of changes are interdependent and also intertemporally
 correlated with each other, neither can be defined entirely in terms of the other. Oil-rich Kuwait may be 'more able to
 support their dependent citizens' with its new prosperity, but the notion of what is poverty may not go up immediately
 to the corresponding level. Similarly, the war-devastated Netherlands may keep up its standard of what counts as
@@ -6893,7 +6893,7 @@ Second, it is of interest that famines can arise in over-all boom conditions (as
 conditions (as in Ethiopia in 1974). Slump famines may appear to be less contrary to the 'common sense' about
 famines, even though it is, in fact, quite possible for such a slump to involve contraction of
 
-283 However, anecdotal accounts of dietary inflexibilities can be less flexible than the dietary habits themselves, as judged by the following interesting statement by Dom Moraes,
+283 However, anecdotal accounts of dietary inflexibility can be less flexible than the dietary habits themselves, as judged by the following interesting statement by Dom Moraes,
 the distinguished poet: ' . . . in India in the 1940's there was a famine in Bengal and millions of people died. During the famine, the British brought in a large amount of
 wheat. Now, the people of Bengal are traditionally rice eaters and they would not change their eating habits; they literally starved to death in front of shops and mobile units
 where wheat was available. Education must reach such people' (Moraes, 1975, p. 40). Education must, of course, reach all, but there is, in fact, little evidence of the hungry

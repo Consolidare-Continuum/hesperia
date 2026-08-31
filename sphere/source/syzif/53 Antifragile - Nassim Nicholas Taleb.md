@@ -2533,7 +2533,7 @@ Tensions among the three tendencies have always existed over time—and I put my
 The Ancients Were More Caustic
 
 This problem of iatrogenics is not new—and doctors have been traditionally the butt of jokes.
-Martial in his epigrams gives us an idea of the perceived expert problem in medicine in his time: "I thought that Diaulus was a doctor, not a caretaker—but for him it appears to be the same job" (Nuper erat medicus, nunc est uispillo Diaulus: quod uispillo facit, fecerat et medicus) or "I did not feel ill, Symmache; now I do (after your ministrations)." (Non habui febrem, Symmache, nunc habeo).
+Martial in his epigrams gives us an idea of the perceived expert problem in medicine in his time: "I thought that Diaulus was a doctor, not a caretaker—but for him it appears to be the same job" (nuper erat medicus, nunc est uispillo Diaulus: quod uispillo facit, fecerat et medicus) or "I did not feel ill, Symmache; now I do (after your ministrations)." (Non habui febrem, Symmache, nunc habeo).
 The Greek term pharmakon is ambiguous, as it can mean both "poison" and "cure" and has been used as a pun to warn against iatrogenics by the Arab doctor Ruhawi.
 An attribution problem arises when the person imputes his positive results to his own skills and his failures to luck. Nicocles, as early as the fourth century B.C., asserts that doctors claimed responsibility for success and blamed failure on nature, or on some external cause. The very same idea was rediscovered by psychologists some twenty-four centuries later, and applied to stockbrokers, doctors, and managers of companies.
 According to an ancient anecdote, the Emperor Hadrian continually exclaimed, as he was dying, that it was his doctors who had killed him.
@@ -3397,7 +3397,7 @@ A2 [feedback effects]—If securities rise nonlinearly in value in response to p
 A3—If feedback effects are concave to size (it costs more per unit to sell 10 than to sell 1), then negative skewness of the security and the wealth process will emerge. (Simply, like the "negative gamma" of portfolio insurance, the agent has an option in buying, but no option in selling, hence negative skewness. The forced selling is exactly like the hedging of a short option.)
 
 Note on path dependence exacerbating skewness: More specifically, if wealth increases first, this causes more risk and skew. Squeezes and forced selling on the way down: the market drops more (but less frequently) than it rises on the way up.
-B—Multiagents: if, furthermore, more than one agent is involved, then the effect is compounded by the dynamic adjustment (hedging) of one agent causing the adjustment of another, something commonly called "contagion."
+B—multiagents: if, furthermore, more than one agent is involved, then the effect is compounded by the dynamic adjustment (hedging) of one agent causing the adjustment of another, something commonly called "contagion."
 C—One can generalize to anything, such as home prices rising in response to home purchases from excess liquidity, etc.
 The same general idea of forced execution plus concavity of costs leads to the superiority of systems with distributed randomness.
 Increase of risk upon being provided numbers: See the literature on anchoring (reviewed in The Black Swan). Also Mary Kate Stimmler's doctoral thesis at Berkeley (2012), courtesy Phil Tetlock.

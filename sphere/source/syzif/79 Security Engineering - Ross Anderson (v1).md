@@ -9373,7 +9373,7 @@ kids in Soweto observed that when there was a brown-out—a fall in voltage from
 to 180 volts—a particular make of meter went to maximum credit. Soon kids were
 throwing steel chains over the 11 KV feeders and crediting all the meters in the neighborhood. This was the fault of a simple bug in the meter ROM, which wasn't picked up
 because brownout testing hadn't been specified. In fact, developed country environmental standards were inadequate and had to be rewritten. The effect on the business
-was that 100,000 meters had to be pulled out and re-Re-ROMmed; the responsible company almost went bust.
+was that 100,000 meters had to be pulled out and re-Re-re-ROMmed; the responsible company almost went bust.
 
 There were numerous other bugs. One make of meter didn't vend a specified quantity of electricity, rather so much worth of electricity at such-and-such a rate. It turned
 out that the tariff could be set to a tiny amount by vending staff, so that it would operate almost forever. Another make allowed refunds, but a copy of the refunded token

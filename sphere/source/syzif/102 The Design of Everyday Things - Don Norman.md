@@ -4331,7 +4331,7 @@ unambiguous.
 Want	 excellent	 examples	 of	 natural	 mapping?	 Consider	 gesture-controlled
 faucets,	 soap	 dispensers,	 and	 hand	 dryers.	 Put	 your	 hands	 under	 the	 faucet	 or
 soap	 dispenser	 and	 the	 water	 or	 soap	 appears.	 Wave	 your	 hand	 in	 front	 of	 the
-paper	 towel	 dispenser	 and	 out	 pops	 a	 new	 towel,	 or	 in	 the	 case	 of	 blowercontrolled	hand	dryers,	simply	put	your	hands	beneath	or	into	the	dryer	and	the
+paper	 towel	 dispenser	 and	 out	 pops	 a	 new	 towel,	 or	 in	 the	 case	 of	 blower-controlled	hand	dryers,	simply	put	your	hands	beneath	or	into	the	dryer	and	the
 drying	 air	 turns	 on.	 Mind	 you,	 although	 the	 mappings	 of	 these	 devices	 are
 appropriate,	they	do	have	problems.	First,	they	often	lack	signifiers,	hence	they
 lack	 discoverability.	 The	 controls	 are	 often	 invisible,	 so	 we	 sometimes	 put	 our
@@ -4968,7 +4968,7 @@ smoothly	 only	 when	 a	 technician	 is	 hired	 to	 sit	 in	 a	 control	 room	 s
 turning	them	on	and	off.
 
 The	switch	problems	in	an	auditorium	are	annoying,	but	similar	problems	in
-industry	could	be	dangerous.	In	many	control	rooms,	row	upon	row	of	identicallooking	switches	confront	the	operators.	How	do	they	avoid	the	occasional	error,
+industry	could	be	dangerous.	In	many	control	rooms,	row	upon	row	of	identical-looking	switches	confront	the	operators.	How	do	they	avoid	the	occasional	error,
 confusion,	or	accidental	bumping	against	the	wrong	control?	Or	mis-aim?	They
 don't.	 Fortunately,	 industrial	 settings	 are	 usually	 pretty	 robust.	 A	 few	 errors
 every	now	and	then	are	not	important—usually.
@@ -5137,7 +5137,7 @@ require	some	stage	lights	so	the	speaker	can	be	seen.	Activity-based	controls	ar
 excellent	in	theory,	but	the	practice	is	difficult	to	get	right.	When	it	is	done	badly,
 it	creates	difficulties.
 
-A	 related	 but	 wrong	 approach	 is	 to	 be	 device-centered	 rather	 than	 activitycentered.	When	they	are	device-centered,	different	control	screens	cover	lights,
+A	 related	 but	 wrong	 approach	 is	 to	 be	 device-centered	 rather	 than	 activity-centered.	When	they	are	device-centered,	different	control	screens	cover	lights,
 
 sound,	 computer,	 and	 video	 projection.	 This	 requires	 the	 lecturer	 to	 go	 to	 one
 screen	 to	 adjust	 the	 light,	 a	 different	 screen	 to	 adjust	 sound	 levels,	 and	 yet	 a
@@ -5316,7 +5316,7 @@ which	people	enter	or	exit	a	room.	What	is	considered	correct	and	proper	in	one
 culture	may	be	considered	impolite	in	another.
 
 Although	 conventions	 provide	 valuable	 guidance	 for	 novel	 situations,	 their
-existence	can	make	it	difficult	to	enact	change:	consider	the	story	of	destinationcontrol	elevators.
+existence	can	make	it	difficult	to	enact	change:	consider	the	story	of	destination-control	elevators.
 
 WHEN	CONVENTIONS	CHANGE:	THE	CASE	OF	DESTINATION-CONTROL	ELEVATORS
 
@@ -7516,7 +7516,7 @@ ignored	in	another?
 
 Some	 activities	 have	 height,	 age,	 or	 strength	 requirements.	 Others	 require
 considerable	skills	or	technical	knowledge:	people	not	trained	or	not	competent
-should	 not	 be	 doing	 them.	 That	 is	 why	 many	 activities	 require	 governmentapproved	 training	 and	 licensing.	 Some	 examples	 are	 automobile	 driving,
+should	 not	 be	 doing	 them.	 That	 is	 why	 many	 activities	 require	 government-approved	 training	 and	 licensing.	 Some	 examples	 are	 automobile	 driving,
 
 airplane	 piloting,	 and	 medical	 practice.	 All	 require	 instructional	 courses	 and
 tests.	In	aviation,	it	isn't	sufficient	to	be	trained:	pilots	must	also	keep	in	practice

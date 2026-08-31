@@ -890,7 +890,7 @@ me, because it feels destructive of progress as process.
 
 We arrived in Samarkand about 9:30 P.M., quite wearied by a
 very full day. We got into the main square just in time to catch
-the last light-show at T amerlane's tomb. The less said about
+the last light-show at T Tamerlane's tomb. The less said about
 that the better. But the following day, Helen, Fikre, and I
 played hooky from one mausoleum and ran across the street
 and went to a market. It is very reassuring and good as always.
@@ -909,7 +909,7 @@ almost as if I had come there to find them. The Tomb of Be be
 
 has beautiful minarets, but the Tomb itself was never used. The
 mosque was never used. There is a story that Bebe was
-T amerlane's favorite wife and he "loved her with all of his
+T Tamerlane's favorite wife and he "loved her with all of his
 heart." However, he had many, many journeys to go upon and
 he left her so often that he broke her heart and she died. When
 he returned and found she was dead, he was very upset because

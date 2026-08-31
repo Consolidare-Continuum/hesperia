@@ -945,7 +945,7 @@ the powerlessness of the world to help when thousands of
 
 ( '4 >
 
-Jl1.inistry in a 'Dislocatel'World
+Jl1.inistry in a 'DislocatedWorld
 
 people die from lack of food. We are confronted not only
 
@@ -2274,7 +2274,7 @@ nervous people, unable to concentrate and often suffering
 
 from a growing sense of depression. They know that what
 
-is shouldn't 't be the way it is, but they see no workable alter­
+is shouldn't't 't be the way it is, but they see no workable alter­
 
 native. Thus they are saddled with frustration, which often
 

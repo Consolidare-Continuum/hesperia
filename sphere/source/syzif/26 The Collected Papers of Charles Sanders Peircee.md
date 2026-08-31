@@ -13942,7 +13942,7 @@ psychology. Some call it psychological-metaphysical. Others deny it has any
 psychology in it. Benno Erdmann, himself a psychologist, formulates the problem of
 Erkenntnisslehre as follows: "What right have we to assume that ideas refer to
 objects out of the mind?" (Mit welchen Rechte nehmen wir an, dass sich das
-Vorgestellte überhaupt auf ein Transscendentes bezieht?)†1 Certainly psychology
+Vorgestellte überhaupt auf ein transcendent bezieht?)†1 Certainly psychology
 has no dealings with objects out of the mind. Still less has logic. Whether or not there
 is, at all, any such thing as Reality, the logician need not decide. He cannot hide from
 himself, any more than another man can, that objects very nearly like real things there
@@ -20261,7 +20261,7 @@ dicta, et hoc quia talia concreta significant unum in recto et aliud in obliquo,
 est dictu, in diffinitione exprimente quid nominis debet poni unus rectus significans
 unam rem et alius obliquus significans aliam rem, sicut patet de omnibus talibus,
 iustus, albus, animatus, et sic de aliis. Huiusmodi etiam nomina sunt omnia nomina
-relatiua, quia semper in eorum diffinitionibus ponuntur diversa idem divers modis
+relatiua, quia semper in eorum definitionibus ponuntur diversa idem divers modis
 vel diverse significantia, sicut patet de hoc nomine simile. Mere autem absoluta sunt
 illa quae non significant aliquid principaliter et aliud vel idem secundario, sed
 quicquid significatur per tale nomen aeque primo significatur sicut patet de hoc
@@ -30557,7 +30557,7 @@ concerning connote and signify.
 Peirce: CP 2.323 Fn P1 p 185 Cross-Ref:††
 †P1 The Summulae Logicales of Petrus Hispanus, which Prantl [Geschichte
 der Logik, II, 266ff, a writer of little judgment and over-rated learning, whose useful
-history of Logic is full of blunders, misappreciations, and insensate theories, and
+history of Logic is full of blunders, misapprehensions, and insensate theories, and
 whose own Billingsgate justifies almost any tone toward him, absurdly maintains that
 this book was substantially translated from a Greek book, which is manifestly from
 the Latin. The Summulae of Petrus Hispanus are nearly identical with some other
@@ -48114,7 +48114,7 @@ Peirce: CP 3.589 Cross-Ref:††
 in use is a repeating relation, an extragranilation being called a non-repeating
 relation. Every juxtasuilation is a granilation, and every juxtagranilation is a suilation.
 Peirce: CP 3.589 Cross-Ref:††
-Extragranilations are of subsidiary importance (yet not of very little
+Extragranulations are of subsidiary importance (yet not of very little
 importance), since an essential extragranilation closely approximates to the nature of
 
 a reference.
@@ -64192,7 +64192,7 @@ line, which part is bounded by that line and by the infinitely distant parts of 
 plane." . . .
 
 Peirce: CP 4.472 Cross-Ref:††
-C. RecapitulationP
+C. Recapitulation
 
 472. The principles of interpretation may now be restated more concisely and
 more comprehensibly. In this resume, it will be assumed that selectives, which should
@@ -64272,7 +64272,7 @@ outside of the sep.†1
 regarded as an ens rationis.
 
 Peirce: CP 4.475 Cross-Ref:††
-PART II. THE PRINCIPLES OF ILLATIVE TRANSFORMATIONP
+PART II. THE PRINCIPLES OF ILLATIVE TRANSFORMATION
 
 A. Basic Principles
 
@@ -81717,7 +81717,7 @@ habit-change a modification of a person's tendencies toward action, resulting fr
 previous experiences or from previous exertions of his will or acts, or from a
 complexus of both kinds of cause. It excludes natural dispositions, as the term "habit"
 does, when it is accurately used; but it includes beside associations, what may be
-called "transsociations," or alterations of association, and even includes dissociation,
+called "transassociations," or alterations of association, and even includes dissociation,
 which has usually been looked upon by psychologists (I believe mistakenly), as of
 deeply contrary nature to association.
 Peirce: CP 5.477 Cross-Ref:††
@@ -83391,7 +83391,7 @@ interpreter images of things such as he has seen or imagined and may see again. 
 interpreter has had many experiences in which gifts were made; and a sort of
 composite photograph of them appears in his imagination. I am told that "Saccharin is
 500 times as sweet as cane-sugar." But I never heard of saccharin. On inquiry, I find it
-is the sulfonamide of orthosulphobenzoic acid; that is, it is phthalimide in which one
+is the sulfonamide of orthosulfonbenzoic acid; that is, it is phthalimide in which one
 CO group is replaced by SO[2]. I can see on paper that there might be such a body.
 That it is "500 times sweeter than sugar" produces a rather confused idea of a very
 familiar general kind. What I am to expect is expressed by the predicate, while the
@@ -83526,7 +83526,7 @@ assuming responsibility, of "taking the consequences."
 Peirce: CP 5.547 Cross-Ref:††
 547. That is the first point of this argument; namely, that the judgment, which
 is the sole vehicle in which a concept can be conveyed to a person's cognizance or
-acquaintance, is not a purely representitious event, but involves an act, an exertion of
+acquaintance, is not a purely representational event, but involves an act, an exertion of
 energy, and is liable to real consequences, or effects. To this an eager adversary of
 pragmaticism might make answer to the effect that if there be an assumption of
 responsibility in a judgment, it can only be in a ripe judgment; whereas the concept
@@ -83647,7 +83647,7 @@ Dictionary which he daily studies, the Standard which he would be glad sometimes
 consult, all contain the word yes; but that word is not true simply because he is going
 to ask on this eighth of January 1906, in Pike County, Pennsylvania, whether it is
 snowing. There must be an action of the object upon the sign to render the latter true.
-Without that, the object is not the representamen's object. If a colonel hands a paper to
+Without that, the object is not the representamen object. If a colonel hands a paper to
 an orderly and says, "You will go immediately and deliver this to Captain Hanno,"
 and if the orderly does so, we do not say the colonel told the truth; we say the orderly
 was obedient, since it was not the orderly's conduct which determined the colonel to
@@ -88113,7 +88113,7 @@ sample-character selected, induction still has the essential validity which my p
 account of it shows it to have.
 
 Peirce: CP 6.43 Cross-Ref:††
-§3. THE OBSERVATIONAL EVIDENCE FOR NECESSITARIANISME
+§3. THE OBSERVATIONAL EVIDENCE FOR NECESSITARIANISM
 
 43. I do not think a man who combines a willingness to be convinced with a
 power of appreciating an argument upon a difficult subject can resist the reasons
@@ -92716,7 +92716,7 @@ theory has been ridiculed by theologians as the merest whimsey while philosopher
 have pronounced it to be absurd upon metaphysical grounds; but students of physical
 and natural science are somewhat more favorable to it. Its advocates maintain that it is
 a perfectly consistent and legitimate working hypothesis, that it unmistakably
-commits itself to certain predictions and predesignations, that its truth or falsity ought
+commits itself to certain predictions and predictions, that its truth or falsity ought
 to be judged exclusively from the comparison of these consequences of it with
 observation, and that, as far as it has been carried, this comparison has been quite
 favorable to the theory.
@@ -95278,7 +95278,7 @@ view, however, substance is form, not matter.
 Positive whole: a whole consisting of parts. See Negative whole (above).
 Potential whole: same as Universal whole (below); so called because the
 genus does not actually, but only potentially, contain the species, etc.
-Potestative whole: a term of Aquinas; equivalent to Potential whole (above).
+potestative whole: a term of Aquinas; equivalent to Potential whole (above).
 Predicative whole: a whole of logical depth.
 Quantitative whole: same as Integral whole (above).
 Similar whole: see Homogeneous whole (above).
@@ -97437,7 +97437,7 @@ those attributes are at least as vague. I shall, therefore, if you please, subst
 for "Supreme Being" in the question.
 Peirce: CP 6.495 Cross-Ref:††
 495. I will also take the liberty of substituting "reality" for "existence." This is
-perhaps overscrupulosity; but I myself always use exist in its strict philosophical
+perhaps overscrupulousness; but I myself always use exist in its strict philosophical
 sense of "react with the other like things in the environment."†3 Of course, in that
 sense, it would be fetichism to say that God "exists." The word "reality," on the
 contrary, is used in ordinary parlance in its correct philosophical sense. It is curious
@@ -98513,7 +98513,7 @@ Peirce: CP 6.561 Cross-Ref:††
 561. "Myopia" and "presbyopia": inability to focus objects too far away;
 corresponding inability for objects too near. I suppose we scientific specialists,
 technical sharps, connoisseurs, travelers, scholars, are myopic minds, seeing
-microscopically, but only things under our several noses. Presbyopic minds, with
+microscopically, but only things under our several noses. presbyopic minds, with
 defective accommodation, would be able to see only what stands open to all men's
 apprehension: these are fogies, average board-members, men whom one believes to
 be very wise, but whom one perceives to be very ignorant.
@@ -100069,7 +100069,7 @@ Dr. Carus admits that absolute chance is "not unimaginable."
 (PARASYMBOLQX 150.) Chance itself pours in at every avenue of sense: it is of all
 things the most obtrusive. That it is absolute is the most manifest of all intellectual
 perceptions. That it is a being, living and conscious, is what all the dullness that
-belongs to ratiocination's self can scarce muster hardihood to deny.
+belongs to ratiocination self can scarce muster hardihood to deny.
 Almost as unthinking is the objection (PARASYMBOLQX 61) that absolute
 chance could never beget order. I have noticed elsewhere the historic oblivion of
 this objection.†1 Must I once again repeat that the tendency to take habits, being itself
@@ -100244,7 +100244,7 @@ would be utterly illogical. But it can be used to explain universal facts, just 
 chance is used to explain statistical facts. Now, the diversity of nature is a universal
 fact.
 To explain diversity is to go behind the chaos, to the original undiversified
-nothing. Diversificacity was the first germ.
+nothing. diversificity was the first germ.
 Argument number 4 was, upon its negative side, sufficiently well presented in
 my "Doctrine of Necessity Examined." Mechanical causation, if absolute, leaves
 nothing for consciousness to do in the world of matter; and if the world of mind is
@@ -104796,7 +104796,7 @@ formal propositions, laws of logic, having no more application to one state of t
 than they would have to any other.
 Peirce: CP 7.133 Cross-Ref:††
 133. In the first place, I would call your attention to the quantitative
-indeterminateness of both propositions. The first speaks of a good many samples
+indeterminacy of both propositions. The first speaks of a good many samples
 being selected, and of pretty much all the things in the class from which they are
 taken being like them, and of this occurring almost always. The second speaks of a
 good many characters of a thing being taken, and of any thing found to have them
@@ -105641,7 +105641,7 @@ Peirce: CP 7.177 Cross-Ref:††
 sciences;†4 and it is known to be the basis of the vast business of insurance; and
 therefore when a literary man learns that the method which he has been pursuing has
 the sanction of such a great mathematical doctrine, he begins to feel that he is a very
-scientific person. I notice that this sense of personal scientificality is far more
+scientific person. I notice that this sense of personal scientificity is far more
 developed in men who write second-hand commentaries on ancient authors than it is
 in the Faradays, the Helmholtzes, and the Mendeléefs. It is, therefore, well to point
 out to such persons that the word probability, taken in the sense in which the
@@ -121002,7 +121002,7 @@ fundamental but perhaps not less important, having been delayed by accidental ca
 until 1876, after the first edition of the 'Physiological Psychology' had appeared. Four
 traits of the 'Mechanik der Nerven' command admiration. One of them is a natural
 gift; two are results of scientific training; and one is a moral virtue. The gift is an
-astonishing sagacity about nerve-physiology -- a subterconscious susceptibility to the
+astonishing sagacity about nerve-physiology -- a subconscious susceptibility to the
 noeto-meteorological premonitions of a hailstorm of evidence that, when it bursts,
 will be cold, hard, and cutting enough.
 Peirce: CP 8.201 Cross-Ref:††

@@ -2617,7 +2617,7 @@ to Nature. "However, this is a subsidiary phenomenon." He was one of
 
 many scientists who got a glimpse of chaos but had no language to
 
-understand it. For people trying to build vacuum tubes, the frequencylocking was important. But for people trying to understand the nature of
+understand it. For people trying to build vacuum tubes, the frequency locking was important. But for people trying to understand the nature of
 
 complexity, the truly interesting behavior would turn out to be the
 
@@ -15903,7 +15903,7 @@ basic mystery. Life sucks order from a sea of disorder. Erwin Schrödinger,
 
 the quantum pioneer and one of several physicists who made a
 
-nonspecialist's foray into biological speculation, put it this way forty years
+nonspecialist foray into biological speculation, put it this way forty years
 
 ago: A living organism has the "astonishing gift of concentrating a 'stream
 

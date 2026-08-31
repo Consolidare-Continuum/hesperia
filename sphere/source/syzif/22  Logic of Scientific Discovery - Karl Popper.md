@@ -3383,7 +3383,7 @@ can be found out only by consulting our sense-experience. By the
 immediate feeling of conviction which it conveys, we can distinguish
 the true statement, the one whose terms agree with experience, from
 
-1 J. F. Fries, Neue oder anthropologische Kritik der Vernunft (1828 to 1831).
+1 J. F. Fries, Neue oder anthropological Kritik der Vernunft (1828 to 1831).
 2 Cf. for example, J. Kraft, Von Husserl zu Heidegger, 1932, pp. 102 f. (*Second edition, 1957,
 pp. 108 f.)
 3 I am following here almost word for word the expositions of P. Frank (cf. section 27,
@@ -4882,7 +4882,7 @@ relatively atomic statement. The dimension of the theory with respect to
 this field (defined in appendix 1) is then identical with the dimension of
 the set of curves corresponding to the theory. I shall discuss these relations with the help of the two statements q and s of section 36. (Our
 comparison of dimensions applies to statements with different predicates.) The hypothesis q—that all planetary orbits are circles—is threedimensional: for its falsification at least four singular statements of the
-field are necessary, corresponding to four points of its graphic representation. The hypothesis s, that all planetary orbits are ellipses, is fivedimensional, since for its falsification at least six singular statements are
+field are necessary, corresponding to four points of its graphic representation. The hypothesis s, that all planetary orbits are ellipses, is five-dimensional, since for its falsification at least six singular statements are
 necessary, corresponding to six points of the graph. We saw in section
 36 that q is more easily falsifiable than s: since all circles are ellipses, it
 was possible to base the comparison on the subclass relation. But the use
@@ -16811,7 +16811,7 @@ Co(x, z) & ∼ Co(y, z) & C(x, z) < C(y, z)
 than y') is clearly self-contradictory.
 
 Thus we have proved that the identification of degree of corroboration or confirmation with probability (and even with likelihood) is
-absurd on both formal and intuitive grounds: it leads to selfcontradiction.
+absurd on both formal and intuitive grounds: it leads to self-contradiction.
 
 Here 'degree of corroboration or confirmation' may be taken in a
 sense wider than the one I usually have in mind. While I usually take it
@@ -17041,7 +17041,7 @@ appendix *ix 413
 and thus entails part of the content of x, supporting x; and partial undermining of x by y (when y partially supports x¯); for example, if y follows
 from x¯. We shall say, then, that y supports x, or that it undermines x,
 whenever P(xy), or P(x¯y), respectively, exceed their values for
-indeindependence. (The
+independence. (The
 pendence—are easily seen to be exhaustive and exclusive in view of
 this definition.)
 
@@ -17447,7 +17447,7 @@ defined by (1) becomes closely related to the fundamental idea
 of information theory. Good also comments on this point (see
 footnote 4).
 
-The transition from the old to the new definitions is orderpreserving. (This holds also for explanatory power, as Hamblin's
+The transition from the old to the new definitions is order-preserving. (This holds also for explanatory power, as Hamblin's
 observations imply.) Thus the difference is metrical only.
 
 2. The definitions of explanatory power, and even more of degree of
@@ -17991,7 +17991,7 @@ the objective odds. The odds which he is ready to accept do not represent a
 measure of his 'degree of belief' (as is usually assumed), but they are,
 rather, the object of his belief. He believes that there are, objectively,
 such odds: he believes in a probabilistic hypothesis h. If we wish to
-measure, behaviouristically, the degree of his belief (in these odds or in
+measure, behavioristically, the degree of his belief (in these odds or in
 anything else) then we might have to find out, perhaps, what proportion of his fortune he is ready to risk on a one-to-one bet that his
 belief—his estimate of the odds—was correct, provided that this can
 be ascertained.
@@ -18093,7 +18093,7 @@ reports upon samples, in the main).
 Their efforts were, no doubt, directed to a large extent towards
 establishing a probabilistic theory of induction; they certainly tended
 to identify C with p. I need not say that I believe they were mistaken in
-this: statistical theories are, like all other theories, hypotheticodeductive. And statistical hypotheses are tested, like all other hypotheses,
+this: statistical theories are, like all other theories, hypothetico-deductive. And statistical hypotheses are tested, like all other hypotheses,
 by attempts to falsify them—by attempts to reduce their secondary
 
 appendix *ix 437
@@ -21042,7 +21042,7 @@ Fine structure, of probabilities
 
 388t–91, 394
 
-Fluctuationsprobabilistic 140–1,
+Fluctuations, probabilistic 140–1,
 
 165, 169, 193&n, 195–7, 198, 202,
 

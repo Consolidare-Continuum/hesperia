@@ -594,7 +594,7 @@ if they remain isolated, turn towards this Individualist Anarchism of the
 bourgeois which is nothing but the epicurean let it go of the Economists,
 spiced with a few 'terrific' phrases of Nihilism." This was "food to frighten
 the Philistines" and best left to "the Nietzscheans . . . Bernard Shawists,
-and all the similar arch-Philistine'ists.'"51
+and all the similar arch-Philistinists.'"51
 
 If the Nietzscheans' lofty dismissal of organization endangered the
 spread of mutual aid, the imposition of a singular model was at least as dangerous to the prospects of cooperation. This was the threat that Kropotkin
@@ -8276,7 +8276,7 @@ for celebration. Within a few days of his arrival in early March, Kropotkin
 was invited to speak at an event organized by the Socialist League (1884–
 1901) honouring the Paris Commune (1871), and this is where he met Morris,
 who was the League's driving force and editor of its journal, Commonweal.13
-Morris was an antiparliamentarian "communist" who, Ruth Kinna
+Morris was an anti-parliamentarian "communist" who, Ruth Kinna
 summarizes, shared Kropotkin's political vision of decentralized federalism but declined to join the movement on the grounds that it was tainted
 by "individualist" tendencies (advocating "terrorism" and "violent revolution" was also, tactically, problematic).14 Nevertheless, affinities often
 trump differences. After their first meeting, Morris wrote to a friend
@@ -8638,7 +8638,7 @@ Lucien enthused to his father that The Queen of Fishes was an "original" concept
 the panel depicting the girl returning fish to the river.84 Drawing and then
 carving his woodblock depictions in "a style completely natural,"85 he and
 Esther adapted harmonizing color values to the printing process, resulting
-in a new variation of the Arts and Crafts illustrated book following neoimpressionist tenets. For example, in one instance Lucien incorporates a
+in a new variation of the Arts and Crafts illustrated book following neo-impressionist tenets. For example, in one instance Lucien incorporates a
 decorative "picture frame" composed of complementary pigments (red and
 green) to amplify his illustration's predominating colours [], just as
 numerous neoimpressionists did with their canvases.86 Marcella D. Genz

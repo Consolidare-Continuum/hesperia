@@ -3436,7 +3436,7 @@ DEC, IBM, AND THE PERSONAL COMPUTER
 
 Quite naturally, the computer industry and the disk drive industry have parallel histories, because value
 networks of the latter are embedded in those of the former. In fact, if the axes and intersecting
-trajectories depicted on the disk drive trajectory map in .7 were relabeled with computerrelevant terms, it would summarize equally well the failure of leading computer industry firms. IBM,
+trajectories depicted on the disk drive trajectory map in .7 were relabeled with computer relevant terms, it would summarize equally well the failure of leading computer industry firms. IBM,
 the industry's first leader, sold its mainframe computers to the central accounting and data processing
 departments of large organizations. The emergence of the minicomputer represented a disruptive
 technology to IBM and its competitors. Their customers had no use for it; it promised lower, not
@@ -3971,7 +3971,7 @@ like all large and successful companies, it found itself having to add large chu
 to preserve its equity value and organizational vitality. In the early 1990s, the emerging market for
 hand-held PDAs presented itself as a potential vehicle for achieving that needed growth. In many ways,
 this opportunity, analogous to that in 1978 when the Apple II computer helped shape its industry, was a
-great fit for Apple. Apple's distinctive design expertise was in user-friendly products, and userfriendliness and convenience were the basis of the PDA concept.
+great fit for Apple. Apple's distinctive design expertise was in user-friendly products, and user-friendliness and convenience were the basis of the PDA concept.
 
 How did Apple approach this opportunity? Aggressively. It invested scores of millions of dollars to
 develop its product, dubbed the "Newton." The Newton's features were defined through one of the

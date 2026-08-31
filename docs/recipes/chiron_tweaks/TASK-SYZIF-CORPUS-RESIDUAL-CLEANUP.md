@@ -122,4 +122,18 @@ sinking real API spend into another round; don't just assume it does either.
 - Test small before running the full corpus — a 60-item free API test caught the confusion-table
   approach's ~35-40% error rate before it touched a single file; always worth the few minutes.
 
+## Cursor pass result (2026-08-31, IDE only — no new scripts)
+
+Session: `execution_host=altitudine`, worktree `/data/hesperia/hesperia`.
+
+| Brief item | Result |
+|------------|--------|
+| §1 fingerprint keys before next apply | Confirmed needed; **not coded** this pass. Evidence: ~3,120 whole-token progress/`fix` rows still in corpus; Moral boundaries alone ~2,594 (book is doubled extraction — re-extract, don’t patch). |
+| §2 long-run residual pool | **Assessment holds** — reject pool ≈ real words + Moral-boundaries noise; no API re-round. |
+| §3 short-token re-audit | Progress≠corpus (offset drift). Do not blind-replay JSONL. Named Chiron wording + a few clear English compounds fixed in prose; URL-path tokens held. |
+| Stage 2 | Still out of scope. |
+
+Detail + fix table: `BACKLOG.md` entry **2026-08-31 (6th pass)**.
+
 SIGNED: Chiron (Hesperia calibration entity) | task brief for Cursor | 2026-08-31
+SIGNED: Cursor | IDE residual wording + brief answers | 2026-08-31 | no new scripts

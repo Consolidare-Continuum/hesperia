@@ -4409,7 +4409,7 @@ choice of linguistic primitives and not a feature of physical reality. For examp
 and Yt stand for the positions of two interacting particles at time t, with Xt the position
 of their center of gravity and Yt their relative distance, then describing the particles' motion in the (X, Y) versus (X, Y) coordinate system is (in principle) a matter of choice.
 Evidently, however, this choice is not entirely whimsical; it reflects a preference toward
-in (2.3)) are orthogocoordinate systems in which the forward disturbances (
+in (2.3)) are orthogonal coordinate systems in which the forward disturbances (
 nal to each other, rather than the corresponding backward disturbances (
 ). Pearl
 and
@@ -6965,7 +6965,7 @@ misinterpretations (Whittaker 1990, p. 302; Wermuth 1992; Cox and Wermuth 1993).
 To a large extent, this history of controversy and miscommunication stems from the
 absence of an adequate mathematical notation for defining basic notions of causal modeling. For example, standard probabilistic notation cannot express the empirical content
 of the coefficient b in the structural equation y bx eY, even if one is prepared to
-Y (an unobserved quantity) is uncorrelated with X.8 Nor can any probabilisassume that tic meaning be attached to the analyst's excluding from the equation variables that do
+Y (an unobserved quantity) is uncorrelated with X.8 Nor can any probabilistic that tic meaning be attached to the analyst's excluding from the equation variables that do
 not "directly affect" Y.9
 
 xˆ
@@ -10508,7 +10508,7 @@ denote the diagram that results when
 12 This can be seen when the relation between Y and its parents,
 
 is substituted into the expression for rYX.Z, which yields plus an expression IYX.Z involving partial
-Because Y is assumed not to be an ancescorrelations among the variables
+Because Y is assumed not to be an ancestral correlations among the variables
 tor of any of these variables, their joint density is unaffected by the equation for Y; hence, IYX.Z
 is independent of
 
@@ -13554,7 +13554,7 @@ X x
 
 (7.1)
 
-In words, Fx is formed by deleting from F all functions ficorresponding to members of
+In words, Fx is formed by deleting from F all functions corresponding to members of
 set X and replacing them with the set of constant functions X x.
 
 Submodels are useful for representing the effect of local actions and hypothetical
@@ -14038,7 +14038,7 @@ latter (an observation by David Heckerman, personal communication).
 
 fi6
 
-Note also that this two-step procedure for evaluating counterfactuals can be combined into one. If we use an asterisk to distinguish postmodification from premodification variables, then we can combine M and Mx into one logical theory and prove the
+Note also that this two-step procedure for evaluating counterfactuals can be combined into one. If we use an asterisk to distinguish post-modification from pre-modification variables, then we can combine M and Mx into one logical theory and prove the
 validity of S5 by purely logical deduction in the combined theory. To illustrate, we
 (read: If D is true in the actual world, then D would also be true
 write S5 as
@@ -14792,7 +14792,7 @@ xP(y do(x))
 P(Yxyx, y),
 
 To rid ourselves of this difficulty, we must go beyond probabilistic measures and
-and counterconcentrate instead on causal parameters, such as causal effects
+and counter-concentrate instead on causal parameters, such as causal effects
 as the basis for defining explanatory power. Here
 factual probabilities
 range over the set of alternative explanations, and Y is the set of response varix and
@@ -21189,7 +21189,7 @@ Minimality removes "sneezing" from the causal event X x.
 
 Yxy.
 
-YxIncorporating Probabilities and Evidence
+Incorporating Probabilities and Evidence
 
 Suppose that the state u is uncertain and that the uncertainty is characterized by the probability P(u). If e is the evidence available in the case, then the probability that x caused
 y can be obtained by summing up the weight of evidence P(u ƒ e) over all states u in

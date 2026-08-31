@@ -6803,7 +6803,7 @@ dispersion of Jewry. By the first century CE, Josephus writes that
 repeat them as readily as his own name. The result of our
 thorough education in our laws from the very dawn of intelligence
 is that they are, as it were, engraved on our souls.' 15 H. G. Wells
-observed that 'the Jewish religion, because it was a literaturesustained religion, led to the first efforts to provide elementary
+observed that 'the Jewish religion, because it was a literature-sustained religion, led to the first efforts to provide elementary
 education for all the children in the community' . 16
 
 Universal literacy is a relatively recent idea in the West.
@@ -8031,7 +8031,7 @@ land', says God, 'is Mine; you are but strangers resident with Me'
 Another group of commandments is directed against interference
 with nature. The Bible forbids crossbreeding livestock, planting a
 field with mixed seeds, and wearing a garment of mixed wool and
-linen. It calls these rules chukkim or 'statutes'. The thirteenthcentury scholar Nahmanides understood this term to mean laws
+linen. It calls these rules chukkim or 'statutes'. The thirteenth-century scholar Nahmanides understood this term to mean laws
 which respect the integrity of nature. To mix different species, he
 argued, was to presume to be able to improve on the order of
 creation, and thus an affront to the Creator. Each species has its
@@ -9558,7 +9558,7 @@ are not here today', says Moses at the end of his life (Deuteronomy
 are to be born'.9 It reminds us that we are guardians of the past for
 the sake of the future. It extends our horizons to the chain of the
 generations of which we are a part. I t holds us to the consequences
-of our actions, from exploitation of the environment to the overcommercialization of society to the utterly unforgivable ar1ns trade
+of our actions, from exploitation of the environment to the over-commercialization of society to the utterly unforgivable ar1ns trade
 and all the other ways in which self-interested conduct in the short
 te1111 creates hazard in the long term. Covenant means extended
 responsibility, horizontally across space, vertically across time, to

@@ -70,7 +70,7 @@ Glen Urban. Other excellent research collaborators and friends of long standing 
 Carliss Baldwin, Sonali Shah, Sarah Slaughter, and Lars Jeppesen.
 
 At some point as interest in a topic grows, there is a transition from dyadic academic
-In my case, the essential person in enrelationships to a real research community.
+In my case, the essential person in enabling relationships to a real research community.
 abling that transition was my close friend and colleague Dietmar Harhoff. He began
 to send wonderful Assistant Professors (Habilitanden) over from his university, Ludwig
 Maximilians Universität in Munich, to do collaborative research with me as MIT Visiting
@@ -471,7 +471,7 @@ It is also important to note that users (and manufacturers) tend to build protot
 their innovations economically by modifying products already available on the market
 to serve a new purpose. Laws such as the (US) Digital Millennium Copyright Act, intended to prevent consumers from illegally copying protected works, also can have the
 unintended side effect of preventing users from modifying products that they purchase
-(Varian 2002). Both fairness and social welfare considerations suggest that innovationrelated policies should be made neutral with respect to the sources of innovation.
+(Varian 2002). Both fairness and social welfare considerations suggest that innovation-related policies should be made neutral with respect to the sources of innovation.
 
 It may be that current impediments to user innovation will be solved by legislation or
 by policy making. However, beneficiaries of existing law and policy will predictably
@@ -1047,7 +1047,7 @@ Lead user characteristic 1: being ahead of the trendd
 "I have benefited significantly by the early adoption and use of new products."
 "I have tested prototype versions of new products for manufacturers."
 "In my sport I am regarded as being on the "cutting edge."
-"I improved and developed new techniques in boardercrossing."
+"I improved and developed new techniques in border crossing."
 Lead user characteristic 2: high benefit from innovationd
 "I have new needs which are not satisfied by existing products."
 "I am dissatisfied with the existing equipment."
@@ -1363,7 +1363,7 @@ sparse. Those most interested in studying the matter are generally mass manufact
 prospecting for heterogeneity.
 Instead, they are interested in finding areas where
 users' needs are similar enough to represent profitable markets for standard products
-produced in large volumes. Manufacturers customarily seek such areas via marketsegmentation studies that partition markets into a very few segments—perhaps only
+produced in large volumes. Manufacturers customarily seek such areas via market segmentation studies that partition markets into a very few segments—perhaps only
 three, four, or five. Each segment identified consists of customers with relatively similar needs for a particular product (Punj and Stewart 1983; Wind 1978). For example,
 toothpaste manufacturers may divide their markets into segments such as boys and
 girls, adults interested in tooth whitening, and so on.
@@ -2669,7 +2669,7 @@ learning by doing at the same time.
 
 In sharp contrast, if that same user decides to stray outside his chosen activity in 288
 order to develop innovations of interest to others with needs that are different from
-his own, the cost properly assignable to innovation will rise. To gain an equivalentquality context for innovation, such a user must invest in developing personal skill
+his own, the cost properly assignable to innovation will rise. To gain an equivalent quality context for innovation, such a user must invest in developing personal skill
 related to the new innovation topic. Only in this way will he gain an equivalently deep
 understanding of the problems relevant to practitioners of that skill, and acquire a
 "field laboratory" appropriate to developing and testing possible solutions to those new
@@ -3895,7 +3895,7 @@ Similar innovation-retarding strategies can be applied by owners of large collec
 copyrighted work in the movie, publishing, and software fields. Copyright owners can
 prevent others from building new works on characters (e.g. Mickey Mouse) that are already familiar to customers. The result is that owners of large portfolios of copyrighted
 work can gain an advantage over those with no or small portfolios in the creation of
-Indeed, Benkler (2002) argues that institutional changes strengthderivative works.
+Indeed, Benkler (2002) argues that institutional changes strengthening derivative works.
 ening intellectual property protection tend to foster concentration of information production in general. Lessig (2001) and Boldrin and Levine (2002) arrive at a similarly
 negative valuation of overly strong and lengthy copyright protection.
 
@@ -5061,7 +5061,7 @@ from those requiring access to users' sticky need information.
 The same basic principle can be illustrated in a less technical context: food design. In 574
 this field, manufacturer-based designers have traditionally undertaken the entire job of
 developing a novel food, and so they have freely blended need-specific design into any
-or all of the recipe-design elements wherever convenient. For example, manufacturerbased developers might find it convenient to create a novel cake by both designing
+or all of the recipe-design elements wherever convenient. For example, manufacturer-based developers might find it convenient to create a novel cake by both designing
 a novel flavor and texture for the cake body, and designing a complementary novel
 flavor and texture into the frosting. However, it is possible to repartition these same
 tasks so that only a few draw on need-related information, and these can then be more
@@ -5343,7 +5343,7 @@ by a toolkit, by the quality of fit of the solution space offered to users' desi
 by the user friendliness of the tools provided, and by the quality of module libraries
 offered with the toolkit. Schreier and Franke (2004) also obtained information on the
 importance of toolkit quality in a study of the value that users placed on consumer
-products (scarves, T shirts, cell phone covers) customized with a simple, manufacturersupplied toolkit. They found user willingness to pay for custom designs, as measured
+products (scarves, T shirts, cell phone covers) customized with a simple, manufacturer-supplied toolkit. They found user willingness to pay for custom designs, as measured
 by Vickrey auctions, was significantly negatively affected by the difficulty of creating
 custom designs with a toolkit. In contrast, willingness to pay was significantly positively
 affected by enjoyment experienced in using a toolkit.
@@ -5474,7 +5474,7 @@ with relatively rare conditions can for the first time find each other and also 
 can both provide and get access to information that previously was scattered and for
 most practical purposes inaccessible.
 
-Just as is the case in user innovation groups, open information communities are developing rapidly, and the behaviors and infrastructure needed for success are being increasingly learned and codified. These communities are by no means restricted to userparticipants. Thus, both patients and doctors frequently participate in medical information communities. Also, information communities can be run by profit-making firms
+Just as is the case in user innovation groups, open information communities are developing rapidly, and the behaviors and infrastructure needed for success are being increasingly learned and codified. These communities are by no means restricted to user participants. Thus, both patients and doctors frequently participate in medical information communities. Also, information communities can be run by profit-making firms
 and/or on a non-profit basis for and by information providers and users themselves—
 just as we earlier saw was the case with innovation communities. Firms and users
 are developing many versions of open information communities and testing them in

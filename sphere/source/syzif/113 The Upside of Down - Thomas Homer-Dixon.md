@@ -14825,7 +14825,7 @@ Indonesia, Malaysia, Thailand, Myanmar, and the Philippines; in Africa, forests
 are disappearing at a high rate in Zambia, Malawi, and Zimbabwe and across a
 swath of West African countries from Nigeria through Guinea; and in Latin
 America, deforestation is severe in Brazil, Argentina, and Mexico. On virgin forests,
-see James Gustave Speth, "Recycling Envronmentalism," Foreign Policy
+see James Gustave Speth, "Recycling Environmentalism," Foreign Policy
 (July/August 2002): 74–75; and on mangroves, see FAO, "Part 1: The Situation and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 351
@@ -17643,7 +17643,7 @@ paper 11305, National Bureau of Economic Research, April 2005.
 
 66. It's commonly assumed among economists, business analysts, and systems managers that just-in-time production increases vulnerability to cascading failures.
 But in some circumstances just-in-time production can actually boost resilience
-by stimulating continuous learning of better problem-solving and crisismanagement techniques among firms in the production chain. See Toshihiro
+by stimulating continuous learning of better problem-solving and crisis management techniques among firms in the production chain. See Toshihiro
 Nishiguchi and Alexandre Beaudet, "Case Study: The Toyota Group and the
 Aisin Fire," Sloan Management Review 40, no. 1 (Fall 1998): 49–59. More information on improving the resilience of industrial enterprises is available from the
 Center for Resilience at the Ohio State University. See http://resilience.osu.edu/.

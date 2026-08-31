@@ -15553,7 +15553,7 @@ or a movie executive or a hotshot banker or a big thinker) suggests
 
 * There is a finer epistemological point. Remember that in a virtuous Black Swan
 business, what the past did not reveal is almost certainly going to be good for you.
-When you look at past biotech revenues, you do not see the superblockbuster in
+When you look at past biotech revenues, you do not see the super blockbuster in
 them, and owing to the potential for a cure for cancer (or headaches, or baldness,
 or bad sense of humor, etc.), there is a small probability that the sales in that indus
 try may turn out to be monstrous, far larger than might be expected. On the other
@@ -23643,7 +23643,7 @@ ence 307(5713): 1 3 0 5 - 1 3 0 7.
 
 Clark, Barrett, and Pascal Boyer, 2006, "Causal Inferences: Evolutionary Domains and Neural
 
-Systems. " Interdisciplines Conference on Causality, see www.interdiscplines.org.
+Systems. " Interdisciplines Conference on Causality, see www.interdisciplines.org.
 
 Clark, Michael, 2 0 0 2, Paradoxes from A to Z. London: Routledge.
 Clemen, R. T., 1986, "Calibration and the Aggregation of Probabilities." Management Science 32:

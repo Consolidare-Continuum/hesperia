@@ -2533,7 +2533,7 @@ specific product quality problem.
 
 program was in good shape. (It
 represented
-informationonly
+information only
 gathering; no further action was
 stimulated.)
 
@@ -2560,7 +2560,7 @@ The bulk of the meeting involved
 getting sufficient information on the
 status of the product and the
 corrective action that had been
-(informationimplemented
+(information implemented
 gathering). The meeting ended in a
 decision made by
 the division
@@ -2615,7 +2615,7 @@ large
 understanding
 number of employees to whom I
 would not otherwise have access. So
-this also represented informationgathering, characteristic of
+this also represented information gathering, characteristic of
 the
 "visit" type in its efficiency.
 

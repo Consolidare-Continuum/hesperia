@@ -514,7 +514,7 @@ Richard Jolly, who succeeded Mahbub. Other collaborators, advisors
 
 and critics on whose help I have relied include Tony Atkinson (on
 
-whose ideas I have often drawn), and also Kaushik Basu, Alok Bhar­gava­
+whose ideas I have often drawn), and also Kaushik Basu, Alok Bhargava 
 
 gava, David Bloom, Anne Case, Lincoln Chen, Martha Chen, Stanley
 
@@ -546,9 +546,7 @@ tation of James Wolfensohn, President of the World Bank, and I have
 
 greatly benefited from many discussions with him. The lectures at the
 
-Bank were chaired respectively by James Wolfensohn, Caio Koch­
-
-Koch­weser, Ismail Serageldin, Callisto Madavo and Sven Sandstrom, and
+Bank were chaired respectively by James Wolfensohn, Caio Koch-Weser, Ismail Serageldin, Callisto Madavo and Sven Sandstrom, and
 they each made significant observations on the problems I tried to
 
 address. I was, furthermore, very stimulated by the questions that
@@ -2471,7 +2469,7 @@ is a two-way relation between ( r) social arrangements to expand
 individual freedoms and (2) the use of individual freedoms not
 only to improve the respective lives but also to make the social
 arrangements more appropriate and effective. Also, individual conceptions of justice and propriety, which influence the specific uses that
-individuals make of their freedoms, depend on social associationsparticularly on the interactive formation of public perceptions and
+individuals make of their freedoms, depend on social associations particularly on the interactive formation of public perceptions and
 on collaborative comprehension of problems and remedies. The
 analysis and assessment of public policies have to be sensitive to these
 diverse connections.
@@ -3009,7 +3007,7 @@ famine relief or emergency public employment to generate income
 
 for destitutes.
 
-INTERCONNECTrONS AND COMPLEMENTARITY
+INTERCONNECTIONS AND COMPLEMENTARITY
 
 These instrumental freedoms directly enhance the capabilities of
 
@@ -16984,7 +16982,7 @@ On the domain and coverage of tolerance, Ashoka was a univer­
 
 salist, and demanded this for all, including those whom he described
 
-as "forest people," the tribal population living in preagricultural eco­
+as "forest people," the tribal population living in pre-agricultural eco­
 
 nomic formations. Ashoka's championing of egalitarian and univer­
 
@@ -21156,7 +21154,7 @@ I. Brihadaranyaka Upanishad 2.4, 2-3.
 
 University Press, revised edition, I 9 So), book I, section 5, p. 7.
 
-3. I have discussed, in earlier publications, different aspects of a freedomcentered view of social evaluation; on this see my �'Equality of What?�· in Tanner
+3. I have discussed, in earlier publications, different aspects of a freedom-centered view of social evaluation; on this see my �'Equality of What?�· in Tanner
 Lectures on Human Values, volume I, edited by S. McMurrin (Cambridge: Cambridge University Press, 1980); Choice, Welfare and Measurement (Oxford: Blackwell; Cambridge, Mass.: MIT Press, 1982; republished, Cambridge, Mass.: Harvard
 University Press, I997); Resources, Values and Development (Cambridge, Mass.:
 Harvard University Press, 1984); "Well-Being, Agency and Freedom: The Dewey
@@ -24436,7 +24434,7 @@ Delbono, Flavio, 3ron. 43
 Delgado, C., 3 3 2.n. 2.9
 Deolalikar, Anil B., 3 28n. 6o
 Desai, Meghnad, xv-.xvi, 309n. 40, 32.9n. 4
-De De Santis, Gustavo, 34on. :u.
+De Santis, Gustavo, 34on. :u.
 de Waal, Alex, 32.7n. 47, 330n. I5
 Dickens, Charles, 138
 Dixit, Avinash, 3 2.:rn. 12

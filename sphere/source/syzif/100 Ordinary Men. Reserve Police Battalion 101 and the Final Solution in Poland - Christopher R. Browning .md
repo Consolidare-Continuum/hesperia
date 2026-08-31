@@ -612,7 +612,7 @@ By 1938 Daluege had over 62,000 policemen under his
 The Order Police / 5
 
 jurisdiction. Nearly 9,000 of them were organized into police
-companies called Polizei-HundertschaJten of 108 men each. In
+companies called Polizei-Hundertschaften of 108 men each. In
 each of ten cities in Germany, three police companies were
 brought together into yet larger "police training units" (Polizei­
 Ausbildungsabteilungen ).
@@ -6445,7 +6445,7 @@ year in a "punishment camp" for Violating the ban on sexual
 relations with Poles.6 The very existence of such a ban, of course,
 a great deal about the reality of German-Polish relations so
 
-IlOrlveniemtlly omitted from the bulk of the testimony.
+conveniently omitted from the bulk of the testimony.
 
 Could the German policemen have done to the Poles what
 did to the Jews? Though on a much smaller scale, the same
@@ -7474,7 +7474,7 @@ the naive subjects found it much easier to follow.
 Milgram also attempted to test for the reverse, that is, the role
 conformity in intensifying the capacity to inflict pain. 28 Three
 sui>jec:ts, two collaborators and one naive, were instructed by the
-�ientisltfatltborilty figure to inflict pain at the lowest level anyone
+�scientist-authority figure to inflict pain at the lowest level anyone
 1Dl<>ng them proposed. When a naive subject acting alone had
 ;'�m given full discretion to set the level of electric shock, the
 JUi>jec:t had almost invariably inflicted minimal pain. But when
@@ -8633,7 +8633,7 @@ murder on a staggering scale that did not depend on the
 about the .
 
 !'Diilllilei Goldhagen has recently written that even if he is "not
-entirely correct about the scope and character of German anti-Semitism does not follow that this would invalidate" his "concluperpetrators and their motives."32 Central to
+entirely correct about the scope and character of German anti-Semitism does not follow that this would invalidate" his "conclusions about perpetrators and their motives."32 Central to
 interpretation is that these men were not only "willing
 but in fact "wanted to be genocidal executioners" of
 (italics mine).33 They "slaked their Jewish blood-lust" with
@@ -9281,8 +9281,7 @@ was multilayered. Different groups within the battalion
 )behaved�d in different ways. The "eager killers"-whose numbers
 increased over time-sought the opportunity to kill, and celebrated
 murderous deeds. The smallest group within the battalion
-('Comprised�d the nonshooters. With the exception of lieutenant
-:Ju(�hrrlann, they did not make principled objections against the
+('Comprised�d the nonshooters. With the exception of lieutenant Buchmann, they did not make principled objections against the
 ',!,"');U1I'''' and its murderous policies; they did not reproach their
 'flOlmnldes. They took advantage of Trapp's policy within the battalion exempting from shooting those who "didn't feel up to it" by
 
@@ -9882,7 +9881,7 @@ Office of the State Prosecutor, Hamburg, 141 Js 1957/62
 Trials of the Major War Criminals before the International
 Military Tribunal, 42 vots.
 
-Jusnz lind NS-Verbrechen. Sammlllng Strafurteile wegen Nationalsozialistische TOtllngsverbrechen 1945-1966, 20 vots.
+Jusnz lind NS-Verbrechen. Sammlllng Strafurteile wegen Nationalsozialistische Tötungsverbrechen 1945-1966, 20 vots.
 
 Niimberg document relating to party organizations
 
@@ -9905,7 +9904,7 @@ marches, etc. The Destruction of the European Jews (New York, 1985),
 2. The only other major study of an individual killing unit is Hans·
 Heinrich Wilhelm, "Die Einsatzgruppe A der Sicherheitspolizei und de!
 SD 1941-42: Eine exemplarische Studie," part 2 of Die Truppe de�
-Weltall8chauungskriege8: Die Eill8atzgruppen der Sicherheitspollzei unci
+Weltall8chauungskriege8: Die Eill8atzgruppen der Sicherheitspolizei unci
 des SD 1938-1942, by Helmut Krausnick and Hans-Heinrich Wilhelm
 ( Stuttgart, 1981). Wilhelm study is based on much more plentiful
 contemporary documentation than exists for Reserve Police Battalion 101.
@@ -9977,8 +9976,8 @@ place on July 23, 1941. YV A, 0-531127/53 (war diary of PB 322, entry
 23, 1941; hereafter war diary).
 
 KOMMISSARBEFEHL-I076 (Kommissarbefehl,Kommissarbefehl, June 6, 1941).
-Gerichtsbarkeiterlau Barbarossa, signed by Keitel, May 13, 1941, in
-IDS-Jl.OCU Jacobsen, "Kommissarbefehl und Massenexelrutionen sowjetischen­
+Gerichtsbarkeit Barbarossa, signed by Keitel, May 13, 1941, in
+IDS-Jl.OCU Jacobsen, "Kommissarbefehl und Massenexekutionen sowjetischen­
 Kriegsgefangener," Anatolien des SS-State, (Freiburg, 1965),
 
 ... u-.�o (doc. 8).
@@ -10131,15 +10130,15 @@ and Wohlauf):206 (hereafter Holfman/Wohlauf indictment).
 21. Ernst C., HW 1835.
 U. BOC, Wilhelm Trapp party carel. Julius Wohlauf, HW 2882. 432
 Wolfgang Hoffmann, HW 2930, 431S-19, 4322.
-23. HoIfmannIWohlauf indictment. 47-49.
-14. HollinannIWohlauf indictment, 49-51.
+23. Hoffmann/Wohlauf indictment. 47-49.
+14. Hollinann/Wohlauf indictment, 49-51.
 
 Notes 1 23 3
 
 Staatsanwaltschaft Hamburg, 141 Js 1457/62, Sonderband: DC statistical breakdown of Reserve Police Battalion 101 is based upon
 irmation(J'n from 210 interrogations conducted by the Hamburg prosecuting
 in the 1960s. Not including the officers, administrative officials,
-ooocommissioned officers, the interrogations provided a sample base of
+noncommissioned officers, the interrogations provided a sample base of
 , men from the ranks. While all interrogations included data on age, not
 Information fuU infonnation on employment. Some men gave only postwar
 employment status, and many of those-given the age group-were listed
@@ -10706,7 +10705,7 @@ il. Wolfgang Hoffmann, HW 7B1h':19.
 
 I. YVA, TR-IOI970 {Staatsanwaltschaft Hamburg, 147 Js 8175, indictmel
 of Arpad Wigand):81-92. See also Christopher R. Browning, "Genocide
-and Public Health: German Doctor and Polish Jews, 193� 1," HoWcou
+and Public Health: German Doctor and Polish Jews, 193� 1," Holocaust
 and Genocide Studies 3, no. 1 ( 1988): 21-36.
 
 i. YV A, TR-I01970 {Staatsanwaltschaft Hamburg 147 Js 8175, indictment ,
@@ -11075,13 +11074,13 @@ Order Police in wartime, June 2, 1940).
 252 / Notes
 
 39. YVA, 0-53/121 W I (KdO, Police Regiment 25, December 17, 1942,
-ChristmasINewYear's greetings and recognitions, signed Peter).
-40. BA, RD 18/15-1, Gruppe A and 2, Gruppe B: Politischer lnformationsdienst, Mitteilungsbliitter for die weltanschauliche Schulung der Orpo.
+Christmas/New Year's greetings and recognitions, signed Peter).
+40. BA, RD 18/15-1, Gruppe A and 2, Gruppe B: Politischer Informationsdienst, Mitteilungsblätter for die weltanschauliche Schulung der Orpo.
 41. BA, R D 18115-1, Gruppe A, Foige 16, June 10, 1941.
 42. BA, RD 18115-1, Gruppe A, Foige 27, December 1, 1941.
 43, BA, RD 18115-2, Gruppe B, Foige 22, September 20, 1942.
 44. BA, RD 18142, Schriftenreihe for die weltanschauliche Schulung der Ordnungspolizei, 1941, Heft 5, "Die Blutsgemeinschaft der germanischen Volker"
-and "Das grossgermanische Reich."
+and "Das großgermanische Reich."
 45. BA, RD 18116, 1942, Heft 4, "Deutschland ordnet Europa neu!"; RD
 18119, 1942, Sonderheft, "55-Mann und B1Umsatzfrage."
 46. BA, RD 19/41, 1943, Heft 4-6, "Rassenpolitik."
@@ -11112,17 +11111,17 @@ Higher Education (Oct. 18, 1996), A72. We also had an exchange of views at
 the opening academic symposium of the U.S. Holocaust Memorial Museum in
 December 1993, though these papers have not yet been published.
 2. At least two anthologies of responses to Hitler's Willing Executioners have
-already appeared: Julius H. Morden, ed., Ein Yolk von Littel? (Hamburg,
-1996), and Franklin H. Merion, ed., Hyping the Holocaust: Scholars Answer the
+already appeared: Julius H. Schoeps, ed., Ein Volk von Mördern? (Hamburg,
+1996), and Franklin H. Littell, ed., Hyping the Holocaust: Scholars Answer the
 
 Notes / 253
 
-Holocaust (Thesen Station, Pa., 1997). More are apparently on the way. The
+Holocaust (Merion Station, Pa., 1997). More are apparently on the way. The
 two most detailed and sustained critiques of Hitler's Willing Executioners are:
 Ruth Bettina Birn, "Revising the Holocaust," Historical Journal 40/no. 1
 (1997), 195-2 15; and Norman Finkelstein, "Daniel Goldhagen's 'Crazy' Thesis: A Critique of Hitler's Willing Executioners," New Left Review 224 (1997):
 '. 39-87. Another very detailed assessment is: Dieter Pohl. "Die Holocaust­
-Forschung und Goldhagen's Vierteljahrshefte," Vierteljahrshef Fur Zeitgeschichte 45/1
+Forschung und Goldhagen's Vierteljahrshefte," Vierteljahrshefte Fur Zeitgeschichte 45/1
 
 ( 1997), 1-48.
 
@@ -11130,7 +11129,7 @@ Forschung und Goldhagen's Vierteljahrshefte," Vierteljahrshef Fur Zeitgeschichte
 
 revised and expanded edition (New York, 1985), 1011, 994.
 
-4. Herbert Jager, Verbrechen unter Wehler Herrschaft (Frankfurt/M .,
+4. Herbert Jager, Verbrechen unter totaler Herrschaft (Frankfurt/M .,
 
 1982), 81-82, 95-122, 158-60.
 
@@ -11142,8 +11141,8 @@ B. Goldhagen, Willing Executioners, 39, 43.
 
 10. Goldhagen, Willing Executioners, 35-36.
 1 1 . Goldhagen, Willing Executioners, 444.
-12. Hans-Ulrich Retallack, The German Empire (Wehler Spa, 1985). James
-Vemunft, "Social History with a Vengeance? Some Reactions to H-U Biographische
+12. Hans-Ulrich Wehler, The German Empire (Leamington Spa, 1985). James
+Retallack, "Social History with a Vengeance? Some Reactions to H-U Wehler's
 'Das Kaiserreich,' " German Studies Review, 7/no. 3 (1984), 423-50. Roger
 Fletcher, "Recent Developments in West German HistOriography: The Bielefeld School and Its Critics," German Studies Review 7/no. 3 (1984), 451-80.
 13. George Mosse, The Crisis of German Ideology (New York, 1964); Fritz
@@ -11172,7 +11171,7 @@ lB. Saul Friedlander, Nazi Germany and the Jews (New York, 1997), 73-112.
 21. William Sheridan Allen, The Nazi Seizure of Power (Revised Edition: New
 York, 1984), 84.
 22. Goldhagen, "Reply to My Critics," 4l.
-23. Ulrich Herbert, Best: Radikalismus Studien iiber Vernunft, Weltanschauung und Nationalsozialistischen 1 903-1989 (Bonn, 1996).
+23. Ulrich Herbert, Best: Biographische Studien über Radikalismus, Weltanschauung und Vernunft, 1903-1989 (Bonn, 1996).
 24. Ian Kershaw, "The Persecution of the Jews and German Public Opinion in
 the Third Reich," Leo Baeck Institute Yearbook 26 (1981), 261-89; Popular
 Opinion and Political Dissent in the Third Reich: Bavaria 1933-1945 (Oxford,

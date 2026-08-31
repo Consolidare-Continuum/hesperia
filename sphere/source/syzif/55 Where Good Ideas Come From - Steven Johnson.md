@@ -733,7 +733,7 @@ transmitting HDTV signals in 1999, but HD television didn't become a
 
 1. The convoluted history of HDTV's origins could be the subject of an entire book, but the
 condensed version goes something like this: in the early 1980sthe Japanese public broadcasting
-company NHK gave a series of demonstrations of a prototype high-definition television'plat
+company NHK gave a series of demonstrations of a prototype high-definition television platform
 form to members of the U.S.Congress and other government officials. This was at the height
 of American fears about Japan's economic ascendancy, a time when Sony televisions were al
 ready outselling venerable American brands like RCA and Zenith. The idea that the Japanese
@@ -5887,7 +5887,7 @@ diamond mines, but it was exactly what you needed.
 
 This is indeed a superb example of serendipity,and there is no
 
-doubt that newspapers facilitated comparableaccidental discoveries
+doubt that newspapers facilitated comparable accidental discoveries
 
 countless times over countless breakfast tables during their heyday.
 
@@ -6052,7 +6052,7 @@ car, drive fifteen minutes down to your public library and check out
 
 a book on the subject? Go through all the magazines in your house,
 
-scouring their table-of-contents pages for any climate-climate changerelated articles?
+scouring their table-of-contents pages for any climate-climate climate change-related articles?
 
 Let's say you live in a particularly information-rich household
 
@@ -9285,7 +9285,7 @@ follow their curiosity.Equally important, it was an environment
 
 wherein kids, with an initial success, could turn to colleagues
 
-who were broadly expert in relevant fields, andparticularly be
+who were broadly expert in relevant fields, and particularly be
 
 cause of the genius of the Laboratory Directorship, colleagues
 
@@ -9323,7 +9323,7 @@ Most hotbeds of innovation have similar physical spaces as
 
 sociated with them: the Homebrew Computing Club in Silicon Val
 
-ley; Freud'sWednesday salon at 19Berggasse; the eighteenth-century
+ley; Freud's Wednesday salon at 19Berggasse; the eighteenth-century
 
 English coffeehouse. All these spaces were, in their own smaller scale fashion, emergent platforms. Coffeehouse proprietors like Ed
 
@@ -11643,7 +11643,7 @@ Absolute Zero
 Atomic Theory
 Stethoscope
 
-UniformitarianisFtT
+Uniformitarianism
 
 Cell Nucleus
 
@@ -13041,7 +13041,7 @@ ELLIPTICAL ORBITS (1605-1609)
 
 The German astronomer and mathematician Johannes Kepler was the first
 
-to document the ellipticalorbit that the planetstookaround the sun, though
+to document the elliptical orbit that the planets took around the sun, though
 
 he built his equations by analyzing data collected by Tycho Brahe, his friend
 
@@ -15335,7 +15335,7 @@ Equivalence." American Journalof Sociology92, no. 6 (1987): 1287.
 
 www.uchicago.edu/fac/ronald.burt/research/SOGI.pdf.
 
-Buss,David M., et al. "Adaptations, Exaptations, and Spandrels." AmericanPsychol
+Buss,David M., et al. "Adaptations, Exaptations, and Spandrels." American Psychologist
 
 ogist 53, no. 5 (1998): 533-48.
 
@@ -15393,7 +15393,7 @@ Darwin, Charles, and Francis, Sir Darwin. The Autobiography of CharlesDarwin.
 
 Amherst, N.Y.: Prometheus Books, 2000.
 
-Darwin, Charles, and R. D. Keynes. CharlesDarwin'sBeagle Diary. Cambridge, UK:
+Darwin, Charles, and R. D. Keynes. Charles Darwin's Beagle Diary. Cambridge, UK:
 
 Cambridge University Press, 1988.
 
@@ -15415,7 +15415,7 @@ doi: 10.1038/news.2009.864.
 
 Dunbar, Kevin. "How Scientists Build Models: InVivo Science as a Window on the
 
-Scientific Mind." In Model-based Reasoning ScientificDiscovery, edited by
+Scientific Mind." In Model-based Reasoning Scientific Discovery, edited by
 
 Lorenzo Magnani, Nancy J. Nersessian, and Paul Thagard, 89-98. New York:
 
@@ -15437,7 +15437,7 @@ Settings, edited by Kevin Crowley, Christian D. Schunn, and Takeshi Okada,
 
 115—40. Mahwah, N.J.: Lawrence Erlbaum Associates, 2001.
 
-Edwards, John Richard. A Historyof FinancialAccounting. London: Routledge, 1989.
+Edwards, John Richard. A Historyof Financial Accounting. London: Routledge, 1989.
 
 t BIBLIOGRAPHY
 
@@ -15453,7 +15453,7 @@ ment." American Journalof Sociology 101, no. 3 (1995): 543-77.
 
 ogy 80, no. 6 (1975): 1319-41.
 
-Florida, Richard L. CitiesandtheCreative Class. New York: Routledge, 2005.
+Florida, Richard L. Cities and the Creative Class. New York: Routledge, 2005.
 
 . The Rise of the Creative Class and How It's Transforming Work, Leisure,
 
@@ -17355,7 +17355,7 @@ material... Fluidly written, entertaining, and smart without being arcane."
 Dovey design by K en in
 
 www.penguin.com
-www.stevenberiinjohnson.com
+www.stevenberrijnjohnson.com
 www.riverheadbooks.com
 
 $16.00U.S. $18.50CAN

@@ -1311,7 +1311,7 @@ the US housing market.
 A final layer of market distortion was provided by the Chinese
 government, which spent literally trillions of dollars' worth of its own
 currency to prevent it from appreciating relative to the dollar. The primary
-objective of this policy was to keep Chinese manufacturing exports ultracompetitive in Western markets. Nor were the Chinese the only ones who
+objective of this policy was to keep Chinese manufacturing exports ultra-competitive in Western markets. Nor were the Chinese the only ones who
 chose to plough their current account surpluses into dollars. The secondary
 and unintended consequence was to provide the United States with a vast
 credit line. Because much of what the surplus countries bought was US
@@ -1995,7 +1995,7 @@ development of the state as a coercive force able to monitor property rights
 and enforce contracts effectively.'9
 
 The problem is getting the state not to abuse its power – hence the need
-to constrain it. As Stanford's Avner Greif has argued, if public contractenforcing institutions reveal information about the location and amount of
+to constrain it. As Stanford's Avner Greif has argued, if public contract-enforcing institutions reveal information about the location and amount of
 private wealth, the state (or its functionaries) may be tempted to steal some
 or all of it.10 Where states are not constrained by law, therefore, private
 contract-enforcing institutions are safer, like the network operated by
@@ -2799,7 +2799,7 @@ Idioma=I.
 (2009):
 
 The decline of British 'social capital' has manifestly accelerated. Not
-only has membership of political parties and trade unions plummeted, longestablished charities have seen 'a marked drop in numbers'. Membership of
+only has membership of political parties and trade unions plummeted, long-established charities have seen 'a marked drop in numbers'. Membership of
 any type of organization was also lower in 2007 than in 1997. Remarkably,
 according to the National Council of Voluntary Organizations, just '8 per
 cent of the population [accounts] for almost half of all volunteer hours'.17
@@ -2963,7 +2963,7 @@ by either the State of Massachusetts or the federal government? You know
 the answer.
 
 In the United Kingdom, we have the opposite system: it is the
-universities that have essentially been reduced to agencies of a governmentfinanced National Higher Education Service – despite the advent in England
+universities that have essentially been reduced to agencies of a government-financed National Higher Education Service – despite the advent in England
 and Wales of top-up fees that are still below what the best institutions
 should be charging – whereas there is a lively and financially unconstrained
 independent sector in secondary education. The results? Apart from the

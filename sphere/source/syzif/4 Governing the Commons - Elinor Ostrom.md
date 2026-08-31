@@ -319,7 +319,7 @@ prodding. When Kenneth Shepsle and James Alt asked me to present a
 series of lectures at Harvard University, during a semester of sabbatical
 leave, the die was cast.
 Actual work on the manuscript began in January 1988, when again I was
-fortunate to spend a sabbatical semester at the Center for Interdistiplinary
+fortunate to spend a sabbatical semester at the Center for Interdisciplinary
 Research at the University of Bielefeld. During that time I participated in
 a Research Group on Game Theory and the Behavioral Sciences organized
 by Dr. Reinhard Selten, Department of Economics, University of Bonn. I
@@ -566,7 +566,7 @@ excluded from obtaining the benefits of a collective good once the good is
 produced has little incentive to contribute voluntarily to the provision of
 that good. His book is less pessimistic than it is asserted to be by many who
 cite this famous passage. Olson considers it an open question whether
-intermediate'liize groups will or will not voluntarily provide collective
+intermediate groups will or will not voluntarily provide collective
 benefits. His definition of an intermediate-size group depends not on the
 number oE actors in\involved bur on how noti,cable each person's actions are.
 The tragedy of the commons, the prisoner's dilemma, and the logic of
@@ -627,7 +627,7 @@ similarit)· between one or two variables in a natural setting and one or two
 
 GOlleNling the commo1ls
 variables m a model. If calling attention to similarities is all dut is intended
-by the metaphor, it serves the usual purpose of rapidly conveying information in graphic form. These three models have frequently been used nletaphorically, however, for another purpose. The similarity between the many
+by the metaphor, it serves the usual purpose of rapidly conveying information in graphic form. These three models have frequently been used metaphorically, however, for another purpose. The similarity between the many
 Individuals jointly using a resource in 3 natural setting and the many
 individuals j ointly producing a suboptimal result in the model has heen
 used to convey a sense that funher similarities are present. 8y referring to
@@ -653,7 +653,7 @@ The implication, of course, was that Canadian fisheries universally met that
 description -an empirically incorrect inference.' But many observers have
 come to assume that most resources are like those specified in the: three
 models. As such, it has been assumed that the individuals have been caught
-in a grim trap. The resulting policy recommendarions have had an .equally
+in a grim trap. The resulting policy recommendations have had an .equally
 grim character.
 CURRENT POLICY PRESCRIPTIONS
 Leviathan as tbe "only'· 11JURY
@@ -1157,12 +1157,12 @@ results substantially different from those: presumed to be likely. Nationalizing
 been advocated on the grounds that local villagers cannot manage forests
 so as to sustain their productivity and their value tn reducing soil erosion.
 In countries where small villages had owned and regulated their local
-communal forests for generations, :tationalization meant expropriation. In
+communal forests for generations, :nationalization meant expropriation. In
 such localities, villagers had earlier exercised considerable restraint over
 the rate and manner of harvesting forest products. In some of these Countries, national agencies issued elaborate regulations concerning the use of
 forests, bUf were unable to employ sufficient numbers of foresters to enforce those: regulations. The foresters who were employed were paid such
 low salaries that accepting bribes became a common means of supplement­
-Ing their Income. The consequence was that nationalizatiull c:created=d unprecedented resources where limited-access common-property resources had previously existed. The disastrous effects of nationalizing formerly communal
+Ing their Income. The consequence was that nationalization c:created=d unprecedented resources where limited-access common-property resources had previously existed. The disastrous effects of nationalizing formerly communal
 forests have been well documented for Thailand (Feeny 1988a), Niger
 (Thomson 1977; Thomson, Feeny)·, and Ouenon 1986). Nepal (Arnold
 and Campbell 1986; Messerschmidt 1986), and India (Gadgil and Iyer
@@ -1192,7 +1192,7 @@ to the diversity o( situations it can explain. All theories, however, have
 limits. Models of a theory arc limited still fu"her because many parameters
 must � fixed in a model, rather than allowed to vary. Confusing a model
 -such a$ chart of n perfectly competitive market -with the theory of which
-it is one representOltion can limit applicability still fun her.
+it is one representation can limit applicability still fun her.
 Scientific knowledge is as much an understanding of the diversity o(
 situations for which a theory or its models are relevant as an understanding
 of its limits. The conviction that all physical structures could be described
@@ -1809,7 +1809,7 @@ collective-action problem. can solve (1) the problem of supplying a new set
 of institutions. (2) the problem of making credible commitments, and (3)
 the problem of mutual monitoring.
 The problem of supply
-In a recent commentary on contractarianism and the new instirutionalism,
+In a recent commentary on contractarianism and the new institutionalism,
 Robert Bates (1988) raises the issue that modem institutional theories do
 not adequately address the problem of supply. As he points out, "the new
 institutionalism is contractarian in spirit. Institutions are demanded because they enhance the welfare of rational actors. The problem is: Why arc
@@ -2076,10 +2076,10 @@ models of "rent dissipation" in tlte fisheries literature (Clark 1980; Clark,
 Munro, and Charles have focused on the time-dependent relationship between current withdrawals and future yields. The same rules that
 affect the allocation of this year's resource units will have an impact on the
 availability of resource units next year an:! the years thereafter.
-The underlying uniformities of all CPR situations relate to the nonseparability of one's choice of strategy and the choices made by others, as
+The underlying uniformities of all CPR situations relate to the non-separability of one's choice of strategy and the choices made by others, as
 well as the fact that solving provision problems depends on achieving
 
-adequate solutions to appropriation problems, not the panicular gametheoretical representations for these commonalities. U Many factors affect
+adequate solutions to appropriation problems, not the panicular game-theoretical representations for these commonalities. U Many factors affect
 the strategic structure of II particular appropriation or provision problem,
 including the physical structure of a particular CPR., the technology available to the appropriators. the economic environment, and the sets of rules
 that affect the incentives that appropriators face. As Oliver (1980. p.
@@ -4293,7 +4293,7 @@ the Raymond Basin producers had been a privileged group, the cit)" of
 Pasadena would have: borne all of the costs associated with stopping the
 pumping race. The prediction one derives from Olson's model is consistent
 with some, but not all. of the activities pursued by the city of Pasadena.
-The city of Pasadena for some years adopted the strategy of the dominant player in a priviJegedgroup. From 1914 to 1923, for example, the city
+The city of Pasadena for some years adopted the strategy of the dominant player in a privileged group. From 1914 to 1923, for example, the city
 replenished the basin by capturing floodwaters and spreading them on the
 gravel areas located at the feet of the San Gabriel Mountains. The water
 that percolated into the basin was then available for capture by the city of
@@ -5283,7 +5283,7 @@ arenas and rules for microinstitutional change i$ frequently blurred.
 Reformulating the analysis of institutional change
 Trying to understand the incremental, sequential, and self-transforming
 process of institutional change in these groundwater basins leads me to
-suggest that insritutionalanalysts should reconsider the ways in which they
+suggest that institutional analysts should reconsider the ways in which they
 conceptualize;conceptualize� the problem of supplying ill�institutions. Such a formulation
 should involve several subtle but important changes in the way analysts
 think about instirutional rules, their origin, and their changes. An important step is to assume that all recurring situations are shaped by a set of
@@ -5733,7 +5733,7 @@ were relati\'ely low. But demographic pressure, market opportunities, and
 the relationship between internal rules and external rules together changed
 that situation markedly.
 The population of Mawelle grew by 70% between 190] and 1931, with
-a disproporrionate amount of the growth occurring among beach-seining
+a disproportionate amount of the growth occurring among beach-seining
 families (Alexander 1982, p. 204). That disproportionate growth was due
 to an earlier labor shortage that had led the heads of beach·seining families
 to encourage their sons-in-law to live in Mawelle and invest in one of the
@@ -5969,7 +5969,7 @@ feet for the major (maha) growing season, when precipitation augments
 irrigation, and 7-9 feet for the minor (ya/a) growing season, when the� is
 little or no precipitation. l"he most effective use of water to be recorded
 was in a small pilot project run by the Irrigation Department, with tight
-controls: a total water use between 8.4 and 10.2 feet. The 1969 projectplanning document for the Mahaweli Development Programme -the largest of all the Sri Lankan projects - estimated the amount of land to he
+controls: a total water use between 8.4 and 10.2 feet. The 1969 project planning document for the Mahaweli Development Programme -the largest of all the Sri Lankan projects - estimated the amount of land to he
 irrigated based on a presumption that 8.3 feet of water would be applied
 to yield two crops of paddy rice. When the project was evaluated again in
 1977, planners reestimated the amount of land that could be irrigated
@@ -6331,7 +6331,7 @@ field channel. Further, lOs identified problems beyond those that could be
 solved by the farmers working together, problems that needed to be articulated to ID officials and others. Once farmers were used to working
 together and had achieved benefits from group action, the 10 would then
 
-help form a local organIzation and select, th rough consensus, a farmerrepresentative. This representative could articulate the interests of the
+help form a local organIzation and select, th rough consensus, a farmer representative. This representative could articulate the interests of the
 other farmers on his field channel at larger meerings and report back to the
 others what had happened in larger arenas.
 The ARTI/Cornell team tried to get these bottom-up organi7.organizations in
@@ -6469,7 +6469,7 @@ that had e\'olved in Sri Lanka, the fact that the day-to-day problem-solving
 regarding irrigation and agricultural problems could be taken away from
 politicized channels was an extremely important step.
 Mutual trust and reciprocity were nourished on a face-to-face basis prior
-ro attempts to organize farmers into larger groups. At the distributorychannel level, formal organizations were developed by the farmers without.'
+ro attempts to organize farmers into larger groups. At the distributory channel level, formal organizations were developed by the farmers without.'
 following a single, externally authorized model. Eventually, farmers were,
 organized on four mutually reinforcing levels and were given recognition.
 j
@@ -7937,7 +7937,7 @@ The role of the surrounding political institutions in the California
 groundwater cases did not stop simply with providing generalized facilities.
 State and local officials also have oversight responsibilities. When special
 districts were considered, the proposed boundaries of new districts had to
-be reviewed to ensure that nonbeneficiaries, who would receive nothing
+be reviewed to ensure that non-beneficiaries, who would receive nothing
 for the taxes they contributed, would be excluded. Although the court was
 willing to agree to a negotiated settlement drawing on a new concept
 negotiated around a bargaining table, the participants would not have

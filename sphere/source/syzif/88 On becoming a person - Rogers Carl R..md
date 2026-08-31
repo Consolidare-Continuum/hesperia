@@ -2097,7 +2097,7 @@ you also have the right to tell him he is bad. So I have come to feel
 that the more I can keep a relationship free o f judgm ent and evaluation, the more this will permit the other person to reach the point
 where he recognizes that the locus o f evaluation, the center o f responsibility, lies within himself. T h e meaning and value o f his experience is in the last analysis something which is up to him, and
 no amount o f external judgm ent can alter this. So I should like to
-w ork toward a relationship in which I am not, even in m y own feelings, evaluating him. T h is I believe can set him free to be a selfresponsible person.
+w ork toward a relationship in which I am not, even in m y own feelings, evaluating him. T h is I believe can set him free to be a self-responsible person.
 
 10.
 
@@ -2958,11 +2958,11 @@ mentions this experience as being the outstanding one. W hat docs it
 mean?
 
 T h e phenomenon is m ost ccrtainly not one o f transference and
-countcrtransfcrcnce. Some experienced psychologists who had undergone psychoanalysis had the opportunity of observing the de­
+countertransference. Some experienced psychologists who had undergone psychoanalysis had the opportunity of observing the de­
 
 velopment o f the relationship in another case than the one cited.
 T h ey were the first to object to the use o f the terms transference and
-countertransfercnce to describe the phenomena. T h e gist o f their
+countertransference to describe the phenomena. T h e gist o f their
 remarks was that this is something which is mutual and appropriate,
 where transference or countertransference are phenomena which are
 characteristically one-way and inappropriate to the realities o f the
@@ -4822,7 +4822,7 @@ Example: " W ell, I'll tell you, it always seems a little bit nonsensical­
 cal to talk about one's self except in times o f dire necessity." *
 
 Feelings and personal meanings are neither recognized nor owned.
-Personal constructs (to borrow K elly's helpful ter?n (3 ) ) are extremely rigid.
+Personal constructs (to borrow K Kelly's helpful ter?n (3 ) ) are extremely rigid.
 Close and communicative relationships are construed as dangerous.
 N o problem s are recognized or perceived at this stage.
 There is no desire to change.
@@ -5623,7 +5623,7 @@ though this still seems helpful. H ow ever, because o f the tendency
 for the sixth stage to be irreversible, the client often seems to go on
 into the seventh and final stage without much need o f the therapist's
 help. This stage occurs as much outside o f the therapeutic relationship as in it, and is often reported, rather than experienced in the
-therapeutic hour. I shall try to describe some o f its characterictics
+therapeutic hour. I shall try to describe some o f its characteristics
 as I feel I have observed them.
 
 N ew feelings are experienced with immediacy and richness of detail ilb o th in the therapeutic relationship and outside.
@@ -7530,7 +7530,7 @@ in psychology has gone fa r beyond a primitive behaviorism, and has recognized t
 not upon its content. T h u s the most subjective feelings, apprehensions, tensions, satisfactions, o r reactions, m ay be dealt with scientifically, providing only
 that they may be given clearcut operational definition. Stephenson, among
 others, presents this point o f view forcefully lly (in his Postulates o f Behaviorism)
-and through his Q Technique, has contributed im portantly to the oojcctification of such subjective materials fo r scientific study.
+and through his Q Technique, has contributed im portantly to the objectification of such subjective materials fo r scientific study.
 
 2 0 8
 
@@ -14881,7 +14881,7 @@ W hat it means to become a person. In C. E. Moustakas (E d .), The
 
 Self. N e w York: Harper and Bros., 1956, 195-211.
 
-Intellectualized psychotherapy. R eview of G eorge K elly's The Psychology of Personal Constructs, Contemporary Psychology, /, 1956,
+Intellectualized psychotherapy. R eview of G eorge K Kelly's The Psychology of Personal Constructs, Contemporary Psychology, /, 1956,
 357-358.
 
 Some issues concerning the control of human behavior.

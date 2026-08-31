@@ -1503,7 +1503,7 @@ Dozens of cases that would be similar to Laczko's remained.
 
 Cook County officials brought Laczko's corpse to the morgue, where
 the intake staff of pathologists assembled by Chief Medical Examiner
-Edmund Donoghue was racing to keep up with the demand. After examining the body, pathologists determined that Laczko had died of artherosclerotic cardiovascular disease and heat stress. They penned these
+Edmund Donoghue was racing to keep up with the demand. After examining the body, pathologists determined that Laczko had died of atherosclerotic cardiovascular disease and heat stress. They penned these
 findings on his death certificate, entered his records into a computer
 database, and moved his cadaver into storage. The office waited for
 Laczko's next of kin to take care of his remains, but no one ever came.

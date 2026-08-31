@@ -834,7 +834,7 @@ of	 which	 was	 aimed	 at	 figuring	 out	 how	 to	 integrate	 the	 computer	 wit
 animation.
 
 In	 1977,	 for	 example,	 I	 wrote	 a	 2D	 animation	 program	 called	 Tween,	 which	 performed
-what's	known	as	"automatic	in-in-betweening"—filling	in	frames	of	motion	between	key	shots,
+what's	known	as	"automatic	in-betweening"—filling	in	frames	of	motion	between	key	shots,
 an	 otherwise	 expensive	 and	 labor-intensive	 process.	 Another	 technical	 challenge	 that
 occupied	us	was	the	need	for	something	called	"motion	blur."	With	animation	in	general	and
 computer	 animation	 in	 particular,	 the	 images	 created	 are	 in	 perfect	 focus.	 That	 may	 sound

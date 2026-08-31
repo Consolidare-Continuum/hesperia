@@ -682,7 +682,7 @@ ciency," American Economic Review, 56:392-415 (June 1966).
 For many (perhaps most) of these .
 
 ailments the
-morbid causes will be found not in the malfuilctioning of
+morbid causes will be found not in the malfunctioning of
 the life processes in the body economic, such as the low
 rate of savings, or the high level of prices, or the insufficient allocation of national resources to research and development, but in specific failures of its individual cells management, design, salesmanship, or the behavior of
 groups of labor.10
@@ -933,7 +933,7 @@ lacking in recent interdisciplinary work as economists
 have claimed that concepts developed for the purpose of
 analyzing phenomena of scarcity and resource allocation can be successfully used for explaining political phenomena as diverse as power, democracy, and nationalism.
 They have thus succeeded in occupying large portions
-of the neighboring discipline while political scientistswhose inferiority complex vis-a-vis the tool-rich economist
+of the neighboring discipline while political scientists whose inferiority complex vis-a-vis the tool-rich economist
 is equaled only by that of the economist vis-a-vis the physicist-have shown themselves quite eager to be colonized
 and have often actively joined the invaders. Perhaps it
 
@@ -3545,7 +3545,7 @@ will the boring activities seem to the member.10 Assume
 now, that there is not only some limit to self-deception
 but, and this is more important, room for making the activities of the organization more interesting as a result of
 members' initiative : then the same basic experimental
-constellation would lead to the prediction that severeinitiation members will display more initiative and will
+constellation would lead to the prediction that severe initiation members will display more initiative and will
 be more activist than the rest after having at first been
 more complacent and passive. Hence, a situation of dissonance may produce not only alterations of beliefs, attitudes, and cognitions, but could lead to actions designed
 to change the real world when that is an alternative way
@@ -4289,7 +4289,7 @@ so has the United States long been the ' ' country of last
 resort." To most of its citizens-with the important excepti on of those whose forefathers came as slaves-exit from
 the country has long been peculiarly unthinkable.
 
-Suppose, however, things are not fully satisfactorywhat then ? In line with the earlier argument about the
+Suppose, however, things are not fully satisfactory what then ? In line with the earlier argument about the
 effects of a high pri ce of entry on loyalty, it may be expected that the point at which one avo,vs any qualms \viii
 be postponed. This is precisely the phase of compulsive
 Situations may well arise , however, in which
@@ -6851,7 +6851,7 @@ Influence : political, 39 ; and exercising of voice option, 40-
 41, 70-71, 121 ; and loyalty,
 77-79, 81-82, 83
 
-Initiation, 92-98 ; and qualityconsciousness, 96 ;
+Initiation, 92-98 ; and quality consciousness, 96 ;
 and activism, 146-155 ; and liking for
 a group, 146-149 ; and
 improvement of group, 150-1 5 1

@@ -214,7 +214,7 @@ personnel, 1870-1950 100
 10 Patent applications in respect to research inputs 101
 11 Productivity of the U. S. health care system, 1930-82 103
 12 American expenditures on higher education, 1900-60 104
-13 SpecializationinAmericaneducation, 1870-1960 105
+13 Specialization in American education, 1870-1960 105
 14 Productivity of educational investment for the development of specialized
 
 expertise 106
@@ -370,7 +370,7 @@ fears become widespread. As Dawson has noted:
 
 Of all the changes that the twentieth century has brought, none goes deeper
 than the disappearance of that unquestioning faith in the future and the absolute
-value of our civilization'which was the dominant note of the nineteenth century
+value of our civilization' which was the dominant note of the nineteenth century
 (1956: 54).
 
 Although collapse has been of interest for as long as societies have proven vulner
@@ -435,13 +435,13 @@ less centralized control; that is, less regulation and integration of diverse ec
 mic and political groups by elites;
 less behavioral control and regimentation;
 less investment in the epiphenomena of complexity, those elements that define
-the concept of'civilization'': monumental architecture, artistic and literary
+the concept of 'civilization': monumental architecture, artistic and literary
 achievements, and the like;
 
 less flow of information between individuals, between political and economic
 
 groups, and between a center and its periphery;
-less sharing, trading^ and'redistribution of resources;
+less sharing, trading, and redistribution of resources;
 less overall coordination and organization of individuals and groups;
 a smaller territory integrated within a single political unit.
 
@@ -960,7 +960,7 @@ be abandoned. Trade networks declined, and the towns were scavenged for building
 materials. By 1300 A.D. the last sedentary peoples had either left, or reverted to a
 simple, mobile lifestyle.
 
-The Chacoans were not alone among prehistoric Southwestferners in this
+The Chacoans were not alone among prehistoric Southwesterners in this
 experience. Peoples such as the Mimbres, the Jornada, and many others lived through
 their own episodes of collapse and abandonment of settled areas (Powers et al. 1983;
 Schelberg 1982; Tainter and* Gillio 1980; Jelinek 1967; Stuart and Gauthier 1981;
@@ -1014,7 +1014,7 @@ Cahokia contained some 120 mounds spread across 8 square kilometers, and with it
 outlying settlements had a population of perhaps 40,000 persons. It contains Monks
 Mound, a 6 hectare, 600,000 cubic meter, 30 meter high earthwork that is the third
 largest pyramid in the Americas and one of the largest features ever built by
-prehistoric peoples. A timber'stockade was built around the central part of Cahokia,
+prehistoric peoples. A timber stockade was built around the central part of Cahokia,
 including Monks Mound. Several circular astronomical observatories were built,
 considered by some to be wooden versions of England's famous Stonehenge (and
 misappropriately labeled 'woodhenges').
@@ -3360,7 +3360,7 @@ appropriated, a conqueror must thereafter incur costs to administer, garrison, a
 defend the province. And when the accumulated surpluses have been spent, this must
 be paid for out of yearly income. Costs rise and benefits decline. For a one-time
 infusion of wealth from each conquered province, Rome had to undertake
-administrative and military responsibihties that lasted centuries. For Rome, the costs
+administrative and military responsibilities that lasted centuries. For Rome, the costs
 of administering some provinces (such as Spain and Macedonia) exceeded their
 revenues. And although he was probably exaggerating, Cicero complained in 66 B.C.
 that, of all Roman conquests, only Asia yielded a surplus. In general, most revenues
@@ -3866,7 +3866,7 @@ shallow hillslopes to direct drainage, trap silt, and create fertile areas; and 
 of miscellaneous features (R. E. W. Adams 1977a: 93; Adams and Hammond 1982:
 502). These techniques have been found in various areas across the Lowlands.
 
-Canalizationiraised fields. Raised field systems and associated canals provided dry,
+Canalization, raised fields. Raised field systems and associated canals provided dry,
 cultivable land in areas otherwise subject to inundation. This includes lakes and
 lagoons, river margins, and, primarily, bajos. Other benefits of raised fields/canals
 would be fish propagation in the canals between fields, maintenance of a moist
@@ -4093,7 +4093,7 @@ permission of Human Relations Area Files, Inc., New Haven. One katun is approxim
 Human Relations Area Files, Ific., New Haven. One katun is approximately 20 years,
 
 1979: 51} Culbert 1974: 101; Marcus 1976: 22, 190; Rands 1973: 174; Willey 1974:
-422; Willey and Shimkin 1973: 461). Major fortificationsdn the Rio Bee area at the
+422; Willey and Shimkin 1973: 461). Major fortifications in the Rio Bee area at the
 sites of Calakmul and Oxpemul (R. E. W. Adams 1981: 2^4) may date to this time
 (Demarest 1979: 108).
 
@@ -6016,7 +6016,7 @@ features, with low marginal return, may have little or no reserve for containing
 surges. Such a state may compete inefficiently with a population that is smaller, and
 on paper weaker, but that invests in little but high-return military ventures.
 
-Conflicticontradictionsimismanagement. It was argued earlier in this chapter that
+Conflict contradictions mismanagement. It was argued earlier in this chapter that
 peasant political action is less likely to occur under a high but static tax load than in a
 situation where a high tax load is yielding a perceptibly declining return to the local
 level. In such a situation inequity becomes obvious. Similarly, class conflict is more

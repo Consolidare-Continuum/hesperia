@@ -3903,7 +3903,7 @@ classify living room tables into two categories—end tables and
 coffee tables—but Sofia may maintain forty categories of living
 room tables in her head. In addition, two people may use different
 perspectives. If so, the interpretations based on those perspectives
-are bound to differ as well. This distinction between perspectivelevel and interpretation-level diversity reappears when we discuss
+are bound to differ as well. This distinction between perspective-level and interpretation-level diversity reappears when we discuss
 projection interpretations.
 
 Time:
@@ -16287,7 +16287,7 @@ existing models and ideas produced by some
 
 summarize, condense, and synthesize
 synthesize
-scienpsychologists, organizational
+scientists psychologists, organizational
 scientists, and statisticians.
 tists, economists, biologists, political
 These frameworks have various origins. The perspectives,

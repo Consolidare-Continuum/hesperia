@@ -353,7 +353,7 @@ author's doctoral dissertation submitted to the University of Warsaw in 1923.
 The paper appeared in print in Polish under the title *0 wyrazie pierwotnym
 logistyki' in Przeglqd Filozoficzny, vol. 26 (1923), pp. 68-89. A somewhat
 modified version was published in French in two parts under separate titles:
-'Sur le terme primitif de la Logistique*, Fundamental Mathematicae, vol. 4
+'Sur le terme primitif de la Logistique', Fundamental Mathematicae, vol. 4
 (1923), pp. 196-200, and ' Sur les truth-functions au sens de MM. Bussell et
 Whitehead', ibid., vol. 6 (1924), pp. 69-74. The present English translation
 is based partly on the Polish and partly on the French original.
@@ -2687,10 +2687,10 @@ O F M E T A M A T H E M A T I C S f
 Our object in this com m unication is to define the meaning,
 and to establish the elem entary properties, o f some im portant
 concepts belonging to the methodology of the deductive sciences,
-which, follow ing H ilbert, it is custom ary to call metamaihematics.1
+which, follow ing H ilbert, it is custom ary to call metamathematics.1
 
 Form alized deductive disciplines form the field o f research of
-metaniathemafcics roughly in the same sense in which spatial
+metamathematics roughly in the same sense in which spatial
 entities form the field o f research in geom etry. These disciplines
 are regarded, from the standpoint o f metamathematics, as sets
 o f sentences, Those sentences which (following a suggestion o f
@@ -2714,7 +2714,7 @@ prim itive and will be characterized by means o f a series o f
 
 a more detailed way in two later articles of the author, V and X II.
 
-+ BiBLioGRAPHiCAii
++ BIBLIOGRAPHICAL
 
 The main ideas of this article were outlined by
 the author in a lecture to the Polish Mathematical Society, Warsaw ~ Section, in
@@ -2722,7 +2722,7 @@ the author in a lecture to the Polish Mathematical Society, Warsaw ~ Section, in
 was presented {by 3. ; •-'ke.siewies) to the Warsaw Scientific Society on 27
 March 1920; it was published under the title 4Über eimge fundamental
 Begriffe der Metamathematik5 in Compte* Bendus des seance* c*. la &société de*
-dcs LeMree de Varsovie, vol 22, 1920. cl. iii, pp, 22-29.
+des Sciences de Varsovie, vol 22, 1920. cl. iii, pp, 22-29.
 Sciences
 
 n i
@@ -3098,7 +3098,7 @@ apparatus which was developed hi the preceding article (see I II ).
 t BIBLIOGRAPHICAL N oth:. This joint <'communication of J\ Lukasiewicz and
 A. Tarski was presented (by Lukasiewicz) to the Warsaw Scientific Society on
 27 March 1930; it was published under the title 4 Untersuchungen iiber den
-Ausaagenkallriil ' in Oomptes Rendus des stances de la Societé des Sciences ei des
+Aussagenkalkül ' in Oomptes Rendus des stances de la Societé des Sciences ei des
 Lettres de Varsovie, vol. 23, 1930, cl. iii, pp. 80-50.
 
 % To avoid misunderstandings it should be stated that the present article
@@ -3127,7 +3127,7 @@ sentences) and are closed under the operations of forming implications and negat
 
 The concepts o f sentential variable, o f implication and o f negation cannot be explained further; th ey m ust rather be regarded as
 prim itive concepts o f the m etatheory o f sentential calculus (i.e.
-o f that part o f metamathematiGS in which sentential calculus
+o f that part o f metamathematics in which sentential calculus
 is investigated). The fundam ental properties o f these concepts,
 which suffice for the construction o f the part o f m etam athem atics w ith w hich we are here concerned, can be expressed in
 a series o f sim ple sentences (axiom s) which need not now be
@@ -3201,7 +3201,7 @@ system o f the sentential calculus different from the usual one, namely his
 three-valued system (see below, p. 47, note 2). This he did in the year 1920.
 Many-valued systems, defined by matrices, were also known to Post (see Post,
 E. L. (60), pp. 180 ffi). The method used by P. Bernays (' Axiomatische
-Untersuchung des Ausaagenkalkiiis der " Principia Mathematica" \ Math. Z .%
+Untersuchung des Aussagenkalkül der " Principia Mathematica" \ Math. Z .%
 vol. 25, 1926, pp. 305-20) for the proof of his theorems on independence also
 rests on matrix formation. The view o f matrix formation as a general method
 o f constructing systems is due to Tarski.
@@ -3343,7 +3343,7 @@ first proof of completeness of this kind is found in Post (60).
 
 6 Bemays has published, in his article (6), which dates from the year 1926
 (but according to the author's statement contains results from his unpublished
-Habilitationeschrift presented in the year 1918), a method based upon matrix
+Habilitationsschrift presented in the year 1918), a method based upon matrix
 formations, which enables us to investigate the independence of given Bets of
 sentences. The method given by Bemays was known before its publication
 to Lukasiewicz who, independently of Bemays, and following a suggestion
@@ -3747,11 +3747,11 @@ Lukasiewicz has form ulated the hypothesis that the system L*t
 *j There L3 a comprehensive ve .literature related to The, 22-2-1 and, more
 generally, concerning the axiomatizability of various systems of sentential
 calculus, We list a few papers on this subject in which further bibliographical
-references can also be found: M. W&Wajsberg,' ' Aksjomatyzacja trOjwartosciowego rachunku zdah' Axiomatization o f the three-valued sentential calculus
+references can also be found: M. W&Wajsberg,' ' Aksjomatyzacja trójwartościowego rachunku zdah' Axiomatization o f the three-valued sentential calculus
 in Polish), Comptes Bendus des stances de la Société des Sciences et- des Lettres
 de Varsovie, vol. 24 (1S31/, ol. iii, pp. 126-48. A further relevant paper by
-the same author; ' Beitrage zum Mefcaaussagenkalklil I *, Monatshefte fCr Mathematik und Physik, vol. 42 (1935), pp. 221—42. B. Sobocihski, * Beitrage
-pewnych wieiowartosciowych systemów teorji dedukcji ' (' Axiomatization
+the same author; ' Beitrage zum Möndchensagenkalkül I *, Monatshefte fCr Mathematik und Physik, vol. 42 (1935), pp. 221—42. B. Sobocihski, * Beitrage
+pewnych wieowlartosciowych systemów teorji dedukcji ' (' Axiomatization
 of certain many- valued systems of the theory of deduction * in Polish). Bocznik:
 prawo naukowych.i&ych Zrzeszenia Asystentów Uniwersytetu Józefa Pilsudskiego w
 V/Warszawie. vol, 1 (1936), Wydział Matematyczno^o Przyrodniczy JST.
@@ -3804,7 +3804,7 @@ This result was improved by Tarski as follow s:
 Theorem 28. S . 2 B . § = 2* but f T t O T l = K0.§
 
 f This hypothesis has proved to be correct; see M. Wajsberg, ' Beitrage
-mm Metaaussagenkallrtil 1% Monatshefte fur Mathematik und Physik, vol. 42
+mm Metaaussagenkalkül 1% Monatshefte fur Mathematik und Physik, vol. 42
 (1935), pp. 221-42, in particular p. 240. As far as we know, however, W Wajsberg's proof has not appeared in print.
 
 The axiom-system above is not independent: C. A. Meredith has shown that
@@ -5204,7 +5204,7 @@ sentences xv satisfies all conditions o f the conclusion.
 
 In the p roof above we have used a m ethod o f reasoning which
 is repeatedly em ployed in set-theoretical considerations. F or
-the idea o f applying it to m etamathematieal problem s we are
+the idea o f applying it to m metamathematical problem s we are
 indebted to Lindenbaum , who em ployed it in the p roof o f
 Th. 56 given below.
 
@@ -7456,7 +7456,7 @@ the proper ku-its o f m athem atics altogether. The problem s o f
 making it* referring more precise, o f rem oving the confusions
 and misunderstandings landings connected with it, and o f establishing
 its fundamental properties, belong to another branch o f science
-—-metama'ihematics.
+—-metamathematics.
 
 In this article I shall try to convince the reader that the
 opinion just m entioned is net altogether correct, W ithout doubt
@@ -7474,7 +7474,7 @@ Society, -be n-xon of Lvrb/, in 1930; so3 a >uixmx&ry c f this talk mid^r- the t
 E liber def dficibaie Mengen reeller £&h!en', AanaZsn dc Ui Soci4t6 Poloruii&a ie
 /oh 9 (1030), pp. 20C- 7. The article itself first appeared under
 the title 1
-do norrifies r£e(3.1.' in JlPvndnifrwitote
+do norrifies r£e(3.1.' in Jlvandnifrwitote
 Mathematics&ii.xe. vol. 17 (1931), pp. SI'>-39, The present English edition has
 been suppler^supplemented by some new passages which contain elaborations o f the
 original te^t. Ths most, important addition has been made in § 2, after Th. 6 ;
@@ -7512,7 +7512,7 @@ dem onstration.1
 
 § 1 . T h e C o n c e p t o f D e f i n a b l e S e t s o f R e a l N u m b e r s
 
-FROM TITLE MffiTAldATREMATlOAL STANDPOINT
+FROM TITLE METAMATHEMATICAL STANDPOINT
 
 The problem set in this article belongs in principle to the
 type o f problem s which, frequently occur in the course o f m athem atical investigations. Our interest is directed towards a term
@@ -7673,7 +7673,7 @@ property J f \ or '« se-tishes the condition X '); I prefer here, however, to
 conform to the current language o f mathematical works.
 
 s I especially emphasize that I constantly use the torso 'sentential function'
-as a metamathetaaticai term, denoting expressions ol one category (for this
+as a metamathematical term, denoting expressions ol one category (for this
 term is sometimes interpreted in a logical sense, a meaning feeling given to it
 like that of the terms ' property' , ' condition', or ' classes' ).
 
@@ -7712,7 +7712,7 @@ prim itive sentential functions w e write
 
 Finally, setting aside the m echanical w ay o f using parentheses
 exem plified above in the construction o f sentential functions,®
-we omit, parentheses everywhere so long as no nfisrmderstandmg
+we omit, parentheses everywhere so long as no misunderstanding
 w ill arise.
 
 W e can classify sentential functions according to the order
@@ -7989,7 +7989,7 @@ have there been explained.1
 
 The principal instrum ent o f these investigations will be form ed
 b y finite sequences o f real numbers and sets o f such sequences.
-In order to avoid all possible m isunderstanding the notion o f
+In order to avoid all possible m misunderstanding the notion o f
 finite sequence w ill first be considered more closely.
 
 Let r be any binary relation. B y the domain of the relation r9
@@ -9722,7 +9722,7 @@ and 246.
 § 4 . I m p l ic it D e f in it io n s
 
 Hitherto we have supposed that the 'unknown' function a is
-by performobtained from a system o f given functions
+by obtained by performing from a system o f given functions
 ing upon them logical operations; the type of this definition is
 
 These are definitions properly so called, or explicit definitions.
@@ -9783,7 +9783,7 @@ t B ib lio graphical Bibliographical. This article was presented (by J. Lukasiew
 to the Warsaw Scientific Society on 21 March 1931. For reasons beyond
 the author's control, publication was delayed by two years. The arada
 appeared in Polish in Tarski, A. (73). A German translation was published
-under the title ' Der Wahrheitsbegrif? in den formalisierfcen Sprachen*, in
+under the title ' Der Wahrheitsbegriff? in den formalisieren Sprachen*, in
 Studia Philosophica, vol. 1 (1930) (reprint dated 1935), pp. 201-405; it is
 provided with a Postscript in which some views which had been stated in the
 Polish original underwent a rather essential revision and modification. The
@@ -10187,7 +10187,7 @@ using the expression 'true sentence' at all, by introducing the
 a sentence-forming functor with one individual name as argument); also ' sees'
 sees y* (a sentence-forming functor with two name arguments the expression
 ments), and ' father' in the expression ' the father of a?' (a name-forming functor
-with one name argument), as well as ' or' in the expression lp or g' (a sentenceforming functor with two sentence arguments) ; quotation marks provide an
+with one name argument), as well as ' or' in the expression lp or g' (a sentence-forming functor with two sentence arguments) ; quotation marks provide an
 example of a name-forming functor with one sentence argument. The term
 ' functor' we owe to T. Kotarbidski, the terms ' sentence-forming functor* and
 ' name-forming functor' to K . Ajdukiewicz; cf. Ajdukiewicz, K . (3).
@@ -11995,7 +11995,7 @@ defines the concept of true sentence in a finite domain (pp. 108-12). A comparis
 lead the reader at once to the conclusion that we have to do here with like-sounding terms rather than with a relationship of content. Nevertheless, it
 is possible that with respect to certain concrete deductive sciences, and under
 special assumptions for the corresponding metatheory, Herbrand's oonoept
-has the same extension (and also the same importance for metamathematioal
+has the same extension (and also the same importance for metamathematical
 investigations) as a certain special case of the concept introduced in Def. 25.
 
 V m , § 3 CONCEPT OF TROTH IN FORMALIZED LANGUAGES 201
@@ -12079,7 +12079,7 @@ things) which follow s from D ef. 24:
 L emma F. Let a and b be two classes o f individuals and It a
 relation which satisfies the following conditions: (a) for any / '
 and g\ if f ,Rgf then f* is an infinite sequence of subclasses of a,
-and g' of subclasses of b; (jS) if f ' is any infinite sequence of subclasses of a, then there is a sequence g' such thatf'Rg'; (y) ifg ' is any
+and g' of subclasses of b; (jS) if f ' is any infinite sequence of subclasses of a, then there is a sequence g' such that'Rg'; (y) ifg ' is any
 infinite sequence o f subclasses of b, then there is a sequence / ' such
 t h a t f ' R g (8) for all
 g \ f\ g\ k and l, if f'R g ', f 'B g ", and
@@ -14301,7 +14301,7 @@ that in certain elementary oases in which we can construct- such a definition,
 it is nevertheless impossible to give a general structural criterion of the truth
 o f & sentence. The first of these result* applies, for instance, to the logic of
 two-termed and many-tanned relations discussed in § 4. The second result
-applies, for example, to the lower predicate calculus {'engender Fimkticnenkalkul*) of HUbert'Aohnrmann (80}> pp. 43 ff.; in this case, however, the
+applies, for example, to the lower predicate calculus {'engender Funktionenkalkül*) of Hilbert-Ackermann (80}> pp. 43 ff.; in this case, however, the
 result is applied^ not to the notion of a true sentence, but to the related notion
 of a universally valid ('aligemeingfiltig*) sentential function.
 
@@ -15265,7 +15265,7 @@ appeared for the first time in a universal language, the questions here
 discussed have boon treated several tim es. In the German language, in
 addition to m y summary. Tarski, A . (76), works by Carnap have appeared
 in which quite similar ideas were developed (cf. R . Carnap, 'D ie A n Antinomien und die Unvollst&ndigkeit der Mathematik Monatshefte/ . M ath.
-u. Phys. vol. 41 (Leipzig, 1934), pp. 2 6 3-84 and ' Ein Gultigkeitskriterium
+u. Phys. vol. 41 (Leipzig, 1934), pp. 2 6 3-84 and ' Ein Gültigkeitskriterium
 fur die Satze der klassischen M Mathematik, ibid., vol. 42. pp. 1 6 3 -9 0 ; both
 articles being supplementations of R . Carnap (10)). The *wo articles have
 been incorporated in the English edition of O&Oroap's book, entitled Logical
@@ -15348,8 +15348,8 @@ a most exciting scientific event.
 
 or a very similar language.
 
-t BiBiiiOGRAFHiOAi N ote. This article first appeared under the title
-'Einige Betrachtungen fiber die Begriffe m-Widerspmchsfreiheit und der
+t Bibliographia N ote. This article first appeared under the title
+'Einige Betrachtungen fiber die Begriffe m-Widerspruchsfreiheit und der
 w-Vollst&ndigkeit ', Monatshefte für Mathematik und Physik, vol. 40 (1933),
 pp. 97-112. For the historical information about the results of this article
 see footnote 2 above.
@@ -16308,7 +16308,7 @@ com bined with the above view o f the deductive method.*
 1 In contrast to all other rules of inference the rule of infinite induction is
 only applicable if we have succeeded in showing that all sentences of a par*
 ticular infinite sequence belong to the system constructed. But since in every
-phase of development of the system only a finite number of sentences is ' effectively' given to us, this fact can only be established by means of raetamathematical considerations. The rule of inference mentioned has recently been
+phase of development of the system only a finite number of sentences is ' effectively' given to us, this fact can only be established by means of metamathematical considerations. The rule of inference mentioned has recently been
 discussed by D. Hilbert, see Hilbert, D . (29).
 
 1 The validity of the remarks stated in the last paragraph essentially
@@ -17067,7 +17067,7 @@ h\ 6* ...).#(*** b\ b% . ) . ? . * -
 I f this sentence is proved, then we can even replace (I) by the simpler
 equivalent formula
 (B) *(a;
-for the two conditions for a correot definition— consistency and re-tranalatability— are guaranteed by sentence (A).
+for the two conditions for a correot definition— consistency and re-translatability— are guaranteed by sentence (A).
 
 SOS
 
@@ -17703,7 +17703,7 @@ im portant and best known interpretation is the calculus of classes*
 The present article contains a* study o f some alternative
 system s o f Boolean algebra. O f the results I have obtained concerning these problem s I shall, give here only those which can
 be established with the help o f the usual mathema tical methods
-and dem and no special metamathernatieal apparatus.
+and dem and no special metamathematical apparatus.
 
 § 1. T h e O r d in a r y a n d t h e E x t e n d e d
 
@@ -19063,7 +19063,7 @@ O F S Y S T E M S !
 
 The results here communicated belong to general metamathematics (which I formerly called the general methodology of the
 deductive sciences), and thus to a discipline whose task it is to
-define the meaning of general metamathomatical concepts which
+define the meaning of general metamathematical concepts which
 appear in the discussion of the most diverse deductive theories
 and to establish the basic properties of these concepts. Only
 those theories will be considered here, however, whose construction presupposes a logical basis of a greater or lesser extent,
@@ -19087,7 +19087,7 @@ cardinality and structure. In § 5 the general results will be
 
 t B ib lio g r a ph ic a l N o te. This article originally appeared in two parts
 under the title ' Grundzuge des SystemenkaJkiil, Erster Toil*, Fundamenta
-Mathematical, vol. 25 (1935), pp. 603-26, and ' Grundzuege des Systemenkalkiil, Zweiter Teil\ ibid., vol. 26 (1936), pp. 283-301. The first part comprised the Introduction and §§ 1-3, the second part §§ 4-6 and the Appendix.
+Mathematical, vol. 25 (1935), pp. 603-26, and ' Grundzuege des Systemenkalkül, Zweiter Teil\ ibid., vol. 26 (1936), pp. 283-301. The first part comprised the Introduction and §§ 1-3, the second part §§ 4-6 and the Appendix.
 Earlier publications of the author in the same directions are III and V ; ses
 also the historical remarks at the end of the article.
 
@@ -19303,7 +19303,7 @@ XII, § 2
 § 2 . T h e C a l c u l u s o f S y s t e m s
 
 On the basis outlined in the previous paragraph two calculi.
-can be constructed which are verv useful in metamathematiea!
+can be constructed which are verv useful in metamathematical!
 investigations, namely the calculus of sentences and the calculus
 of deductive systems] the first is a complete and the second partial interpretation of the formal system which is usually
 called the algebra of logic or Boolean algebra.
@@ -19786,7 +19786,7 @@ we restrict ourselves to the discussion o f axiom atizable system s.
 a single axiom atizable system is correlated w ith all equivalent
 
 1 Of. m , p. 35, Def. 9 ; also V , p. 76, § 4, ©specially Def. 35. (I use the
-concept of axiomatizabiiity in these two articles in a wider sense than here,
+concept of axiomatizability in these two articles in a wider sense than here,
 sinoe I relate it not only to deductive systems but to arbitrary sets of sentences.)
 
 FO U N D A T IO N S OF THE
@@ -21001,7 +21001,7 @@ x Cf. article X I , p. 334 of the present work. (Nevertheless, we have in mind
 here an atomistic theory of the algebra of logic in which infinite operations do
 not occur.) The structural properties of the theory in question can be derived
 from the results in Skolem (64). In article V III, pp. 199-2081 have given the
-most important metaznathematical theorems concerning the atomistic algebra
+most important metamathematical theorems concerning the atomistic algebra
 of logic (although there the problem is treated from quite a different point of
 view).
 
@@ -21167,7 +21167,7 @@ order type, it cannot be expressed in the elementary theory o f order.
 It seems that a new, wide realm o f investigation is here opened
 up. It is perhaps of interest that these investigations can be
 carried out within the framework o f mathematics itself (e.g.
-set theory) and that the concepts and methods o f metamathematios are essentially superfluous: all ooncepts which occur in
+set theory) and that the concepts and methods o f metamathematics are essentially superfluous: all ooncepts which occur in
 these investigations (e.g. the concept of an elementary property
 o f an order type or the oonoept o f elementarily indistinguishable
 order types) can be defined in purely mathematical terms.1
@@ -21246,7 +21246,7 @@ methodological questions connected with the foundations of Geometry, I) and on
 the same circle of ideas belong Tarski, A. and Lindenbaum, A. (85) and article
 X of the present work.
 
-f B ibxjograjphical N ote. This article is the text of a lecture given by the
+f B bibliographical N ote. This article is the text of a lecture given by the
 author on 12 June 1935 to the Mathematical Colloquium conducted by Karl
 Menger in the University of Vienna. The article first appeared under the title
 ' tTber die Beschr&Eingeschränktheit der Ausdrucksmittel deduktiver Theorien' in
@@ -21623,7 +21623,7 @@ how ever, whether the converse o f Th. 9 holds quite generally.
 In all such considerations it is im portant to bear in mind the
 relativity o f the three concepts— categoricity, non-ram ifiability,
 and completeness, w ith respect to the adopted system o f logic.
-J /, for exam ple, the logic is complete, then the concepts of nonramifiability and completeness have the same extension for every
+J /, for exam ple, the logic is complete, then the concepts of non-ramifiability and completeness have the same extension for every
 axiom system, so that every categorical system is (not only non-ramifiability ifiable but also) complete. The three concepts discussed
 were here introduced as a-concepts in the sense o f Carnap. I f
 we consider the corresponding f-con cepts,1 then we find that f-completeness pleteness and f-non-non-ramifiability have the same extension;
@@ -21693,7 +21693,7 @@ f B bibliographical bibliographical N oth. This artiole contains the text of a l
 by the author in 1936 to the Mathematical Colloquium conducted by Karl
 Monger in the University of Vienna. The article first appeared under the title
 ' tTber die Erweiterungen der unvollst&ndigen Systeme des Aussagenkalktils *
-mJUrgebniese eines mathematiecfien Kolloquiums, fascicule 7 (1934-6), pp. 61-07.
+mJUrgebniese eines mathematical Kolloquiums, fascicule 7 (1934-6), pp. 61-07.
 
 ON E X T E N S IO N S OF IN CO M PLETE
 
@@ -22693,7 +22693,7 @@ with that o f Carnap. F or we can agree to call a class o f sentences
 
 t After the original of this paper had appeared in print, K . Scholz in his
 article
-' Die Wistenschaftslehxe Bc-Bolzano, Eine Jahrhundert-Betrachtung',
+' Die Wissenschaftslehre Bc-Bolzano, Eine Jahrhundert-Betrachtung',
 Abhandlungen der Fri&Fries'schen Schule, new series, vol. 6, pp. $99-472 (see in
 particular p. 472, footnote 58) pointed out a far-reaching analogy between this
 definition of consequence and the one suggested by B. Bolzano about a
@@ -25149,7 +25149,7 @@ foundations of teaching), Encyklopedia Wychowania, ii (Warszawa, 1934), 1-75.
 
 (5) P. Bern ay s, ' Axiomatische Untersuchung des Aussagenkalkuls
 der Prinoipia mathematical, Math. Z., xxv (1926), 305-20.
-(5a) P. Born-ays and M. SchOkpinkjeel, ' Zum Entecheiduiigsproblem
+(5a) P. Born-ays and M. Schönfinkel, ' Zum Entscheidungsproblem
 der mathematischen Logik', Math. Ann., xcix (1928), 342-
 72.
 
@@ -25173,7 +25173,7 @@ cations X X V (revised ed.). (New York, 1948).
 (9) B. Carnap, ' Bericht fiber Untersuchungen zur allgemeinen Axiomatik*, Erkenntnis, i (1930), 303-7.
 
 (10) B. Carnap, Logische Syntax der Sprache (Wien, 1934).
-(11) B. Carnap, ' Ein Gfiltigkeitskriterium fur die S&tze der klassischen Mathematik', Mh. Math. Phys., xlii (1935), 163-90.
+(11) B. Carnap, ' Ein Gültigkeitskriterium fur die S&tze der klassischen Mathematik', Mh. Math. Phys., xlii (1935), 163-90.
 (11a) A. Church, ' Special cases of the decision problem*, Revue Philosophique de Louvain, xlix (1951), 203-21.
 
 (12) L. Chw istek, ' The theory of constructive types (Principles of
@@ -25217,19 +25217,19 @@ Math. Z., xxxix (1934), 176-210 and 406-31.
 Academie Royale de Belgique, Bull. Glasse dee Sciences, xv (1929),
 183-8.
 
-(20) K. Godel, ' Die Vollstandigkeit der Axiome dee logischen FunktionenkalkulsMh. Math. Phys., xxxvii (1930), 349-60.
+(20) K. Godel, ' Die Vollständigkeit der Axiome dee logischen Funktionenkalkül. Math. Phys., xxxvii (1930), 349-60.
 
 (21) K . Godel,
 
-' Einige metamatbematische Resultate iiber Entscheidungsdefinitheit und Widerspruchsfreiheit', AJead. der
-Wise, in Wien, Mathematisch-natururisserischaftliche Klasse,
+' Einige metamathematische Resultate iiber Entscheidungsdefinitheit und Widerspruchsfreiheit', AJead. der
+Wise, in Wien, Mathematisch-naturwissenschaftliche Klasse,
 Akademischer Anzeiger, lxvii (1930), 214-16.
 
 (22) K . Godel, ' Ober formal unentscheidbare Satze der Principia
 mathematica und verwandte Systems I ', Mh. Math. Phys.,
 xxxviii (1931), 173-98.
 
-(23) K. G5d e i,, 'Eine Interpretation des intuitionistisohen Aussagen*
+(23) K. G5d e i,, 'Eine Interpretation des intuitionistische Aussagen*
 
 kalkül', Erg. math. Kott., iv (1933), 39-40.
 
@@ -25280,7 +25280,7 @@ Logik (Berlin, 1928).
 
 algebra o f logic', Trans. Amer. math. Soc., v (1904), 288-309.
 
-(33) E. V. H untington, ' A set of postulates for abstract geometryexposed in terms of the simple relation o f inclusion ', Math. Ann.,
+(33) E. V. H untington, ' A set of postulates for abstract geometry, exposed in terms of the simple relation o f inclusion ', Math. Ann.,
 lxxiii (1916), 522-59.
 
 (34) E . V. H untington, ' New sets of independent postulates for the
@@ -25441,7 +25441,7 @@ Società Italiana d-elle Scienze, Serie Terza, xv (1908), 345-450.
 
 proposition s' , Amer. J. Math., xliii (1921), 163-85.
 
-(61) M. P Presjbtctrger, ' tjb er die Vollstaxidigkeit eine3 gewissen Systems
+(61) M. P Presjbtctrger, ' tjb er die Vollständigkeit eine3 gewissen Systems
 der Aritmetik etik ganzerZahlen, in nel quale die A ddition ala einzige
 Operation hervortritt C.R. Premier Congr&s den Mathimaticiens
 des Pays Slaves, Warszawa- 1929 (W arszawa, J930), 92-3 01.
@@ -25477,7 +25477,7 @@ Mass,, 1921).
 with application to logical constants' . Trans. Amer. math. Soc.,
 x v (1913), 481-8.
 
-(64) T h . Schojbm, ' Untersuchungen iiber die A xiom e des Kiassenkalkiils und iiber Produktions- und Sumniationsproblem e,
+(64) T h . Schojbm, ' Untersuchungen iiber die A xiom e des Klassenkalküls und iiber Produktions- und Summationsproblem e,
 welche gewisse Klassen von Aussagen betreffen' , Shrift Viden*
 shapsseUJcapet, I . Mat.-nal. hlasse 1919, N o. 3 (1919).
 
@@ -25506,7 +25506,7 @@ Curie-Sklodowska, i (1946), 193-209.
 upon the theory of deduction) Przeglqd Filozo^zny, xxxv
 (1932), 171-93.
 
-(60d) B. Soboct&sxi, * Aksj omatyzacj a pewnych wielowarfcoScicwych
+(60d) B. Soboct&sxi, * Aksj omatyzacj a pewnych wielowartościowych
 system6w teorji dedukcji' (Axiomatization of certain manyvalued systems of the theory of deduction, in Polish), Roczniki
 Prac Naukowych Zrzeszenia Asystentów Uniwersytetu Jozefa
 Pilsudskiego w Warszawie, i (1936), 399-419.
@@ -25581,7 +25581,7 @@ J . Symbolic Logic, xiii (1948), 107-11.
 2nd ed. (Berkeley, Calif., 1961).
 
 (84a) A. Tarski, ' Some notions and methods on the borderline of
-algebra and metamathomatics *, Proc. International Congress of
+algebra and metamathematics *, Proc. International Congress of
 Mathematicians, Cambridge, M ass., 1950, i (Providence, Rhode
 Island, 1952), 705-20.
 
@@ -25593,7 +25593,7 @@ math., v (1927), 111-13.
 
 Soc., v (1904), 343-81.
 
-(87) O. V omatyzac, ' The square root and the relations of order', Trans.
+(87) O. Veblen, ' The square root and the relations of order', Trans.
 
 Am er. math. Soc., vii (1906), 197-9.
 
@@ -26578,7 +26578,7 @@ D, 2, 348.
 171.
 
 £ , 170, 321 fh.
-stTy, 172, 281.
+≠, 172, 281.
 = , 171, 323, 347.
 
 171.

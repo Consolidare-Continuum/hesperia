@@ -1252,7 +1252,7 @@ Bandura_1e_ch01.indd 21
 
 is then ascribed to them with caution against efforts to change existing
 sociostructural arrangements and practices allegedly ruled by these evolved
-dispositions. In contrast, social cognitive theory is rooted in an agentic conception of human nature. As such, it is in keeping with the potentionialist
+dispositions. In contrast, social cognitive theory is rooted in an agentic conception of human nature. As such, it is in keeping with the potentialist
 view of biological endowment.
 
 Growing Primacy of Human Agency in Coevolution Process
@@ -2169,7 +2169,7 @@ learning can say little about how to devise learning conditions in terms
 of level of challenge; how to get people to study particular subjects; and
 whether learning is best achieved independently, cooperatively, or competitively. These factors have no conceptual counterpart in neurobiological
 theory. Hence, they are not derivable from biological theory. How to make
-things happen is among the leading principles of psychological and socialstructural theories.
+things happen is among the leading principles of psychological and social-structural theories.
 
 In sum, people are contributors to their activities, not merely onlooking
 hosts of subpersonal networks autonomously creating and regulating their
@@ -5305,7 +5305,7 @@ Bandura_1e_ch03.indd 111
 
 112 The Entertainment Industry
 
-hijackings. The first hijacker to try it was overpowered by the money courier, who was an FBI agent. This led to further refinements of the hijackingextortion procedure. Hijackers insisted that the money couriers be nude!
+hijackings. The first hijacker to try it was overpowered by the money courier, who was an FBI agent. This led to further refinements of the hijacking-extortion procedure. Hijackers insisted that the money couriers be nude!
 
 These unintended powerful natural experiments, with fictional dramas
 and authentic newscasts as the vehicle, provide insights into the role of
@@ -7498,7 +7498,7 @@ unenforced, and easily circumvented. The gun lobby pressured Congress to
 defeat legislative efforts to close the gun-show loophole by requiring background checks at those sales. Having legislators justify their opposition to
 even minimal gun regulation makes it easy for gun sellers to justify their
 sales practices. Under a poorly monitored distribution system, manufacturers and wholesale distributors can shield themselves from knowledge of
-what happens to their guns in sales to the public. Unknowingness by design
+what happens to their guns in sales to the public. unknowingness by design
 not only assuages moral concern, but permits deniability, nonresponsibility,
 and protection against legal liability. An executive representing gun manufacturers, Richard Feldman, succinctly described the nonaccountability for
 what happens to the guns that the industry produces: "We design weapons,
@@ -13784,7 +13784,7 @@ e
 
 –0.4
 
-Noninvolved
+noninvolved
 Support team
 Execution team
 
@@ -13797,7 +13797,7 @@ Association. Reprinted with permission.
 assigned them a job that saves lives and protects the social order, and they
 performed that job professionally. In contrast, members of the support team
 were wary of the common justifications for executing condemned inmates
-and disavowed attributing subhuman and bestial natures to them. Noninvolved guards displayed a similar pattern of moral involvement but to a
+and disavowed attributing subhuman and bestial natures to them. noninvolved guards displayed a similar pattern of moral involvement but to a
 much lesser degree.
 
 .3 presents the changes in moral disengagement by members
@@ -24763,7 +24763,7 @@ Strauss, B. H. (2015, July 9). How 2˚C of warming could reshape the U.S. Climat
 Central. Retrieved from http://www.climatecentral.org
 
 Strauss, B. H., Ziemlinski, R., Weiss, J. L., & Overpeck, J. T. (2012, March 14).
-Tidally adjusted estimates of topographic vulnerability to sea level rise and
+tidally adjusted estimates of topographic vulnerability to sea level rise and
 flooding for the contiguous United States. Environmental Research Letters, 7.
 Retrieved from http://iopscience.iop.org
 

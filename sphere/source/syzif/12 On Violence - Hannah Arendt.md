@@ -329,7 +329,7 @@ being a fascist, notwithstanding his enthusiastic approval
 of Lenin and the Russian Revolution. Sartre, who in his
 preface to Fanon's The Wretched of the Earth goes much
 farther in his glorification of violence than Sorel in his
-famous Reflections on Violence-farther than Fanon himself, whose argument he wishes to bring to its conclusionstill mentions "Sorel 's fascist utterances." This shows to
+famous Reflections on Violence-farther than Fanon himself, whose argument he wishes to bring to its conclusion still mentions "Sorel 's fascist utterances." This shows to
 what extent Sartre is unaware of his basic disagreement
 with Marx on the question of violence, especially when he
 states that "irrepressible violence . . . is man recreating

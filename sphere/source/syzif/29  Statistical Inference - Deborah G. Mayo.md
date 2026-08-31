@@ -4925,7 +4925,7 @@ manipulation, we'd have some grounds to deny it was validly measuring the
 effect of the treatment.
 
 Here's an incentive: They're finding that the replication revolution has
-not made top psychology journals more inclined to publish nonreplications – even of effects they have published. The journals want new,
+not made top psychology journals more inclined to publish non-replications – even of effects they have published. The journals want new,
 sexy effects. Here's sexy: stringently test (and perhaps falsify) some of the
 seminal measurements or types of inquiry used in psychology. In many
 cases we may be able to falsify given studies. If that's not exciting enough,
@@ -7164,7 +7164,7 @@ if there is a high probability the test would have given a worse fit with H0 (i.
 P-value) were a discrepancy δ to exist (ibid., pp. 83–4).
 This again is an "if-then" or conditional claim. These are canonical pieces of
 statistical reasoning, in their naked form as it were. To dress them up to
-connect with actual questions and problems of inquiry requires contextdependent, background information.
+connect with actual questions and problems of inquiry requires context-dependent, background information.
 
 FIRST Interpretations: Fairly Intimately Related to the Statistical
 Test – Cox's Taxonomy
@@ -10054,7 +10054,7 @@ population who favor Fisher, θ, at least at this point in time, is typically
 given by means of confidence limits. A 95% confidence interval for θ is
 X where x is the observed proportion and we estimate σ
 x 1:96σ
-X by plugffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+X by plugging
 ging x in for θ to get σ
 ¼ 0:048. The 95% CI limits for
 Þ=100ð
@@ -10780,7 +10780,7 @@ results than we observed, even in a world where μ = μ0, then we block an
 inference to μ > μ0 (following weak severity).
 
 This rule will be at odds with some common interpretations of tests. Bear with
-me. I maintain those interpretations are viewing tests through "probabilistcolored" glasses, while the correct error-statistical view is this one.
+me. I maintain those interpretations are viewing tests through "probabilist-colored" glasses, while the correct error-statistical view is this one.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 202 [189–218] 30.7.2018
 
@@ -12569,7 +12569,7 @@ Standardizing X yields Z = √400 (0.1 − 0.24)/1 = 20(−0.14) = −2.8. So SE
 0.24) = 0.003! Were µ as large as 0.24, we'd have observed a larger observed
 mean than we did with 0.997 probability! It's terrible evidence for H1: µ = 0.24.
 This is redolent of the Binomial example in discussing Royall (Section 1.4). To
-underscore the difference between the Likelihoodist's comparative appraisal and
+underscore the difference between the Likelihoodist comparative appraisal and
 the significance tester, you might go further. Consider an alternative that the
 Likelihoodist takes as favored over H0: µ = 0 with x ¼ 0:1, namely, the maximum
 likely alternative H1: µ = 0.1. This is one of our key benchmarks for a
@@ -15219,7 +15219,7 @@ or incorrectly represents some phenomenon in some respect or to some
 degree. Such assertions clearly can be true. As Cox observes, "the very word
 model implies simplification and idealization." To declare, "all models are
 false" by dint of their being idealizations or approximations, is to stick us
-with one of those "all flesh is grass" trivializations (Section 4.1). So understood,
+with one of those "all flesh is grass" trivialization (Section 4.1). So understood,
 it follows that all statistical models are false, but we have learned nothing about
 how statistical models may be used to infer true claims about problems of
 interest. Since the severe tester's goal in using approximate statistical models is
@@ -22436,7 +22436,7 @@ by users of significance tests or confidence intervals as to the relevance of er
 probabilities in the case at hand. Ironically, those who promote methodologies
 that reject error probabilities are forced to beat around the bush rather than
 directly upbraid researchers for committing QRPs that damage error probabilities. They give the guilty party a life raft (Section 4.6). If you're in the
-market for a method that directly registers flexibilities, p-hacking, outcomeswitching and all the rest, then you want one that picks up on a method's error
+market for a method that directly registers flexibilities, p-hacking, outcome switching and all the rest, then you want one that picks up on a method's error
 probing capacities.
 
 Granted the rejection of error probabilities is often tied to presupposing they

@@ -3304,7 +3304,7 @@ seven chunks; what is the physiological structure that corresponds to a "chunk";
 what goes on during the eight seconds that a chunk is being fixated; how are
 associational structures realized in the brain?
 
-As our knowledge increases, the relation between physiological and informationprocessing explanations will become just like the relation between quantummechanical and physiological explanations in biology (or the relation between
+As our knowledge increases, the relation between physiological and informationprocessing explanations will become just like the relation between quantum mechanical and physiological explanations in biology (or the relation between
 solid-state physics and programming explanations in computer science). They
 constitute two linked levels of explanation with (in the case before us) the
 limiting properties of the inner system showing up at the interface between them.
@@ -6949,7 +6949,7 @@ until we reach some lowest level of elementary subsystem. In most systems in
 nature it is somewhat arbitrary as to where we leave off
 
 2. See also John R. Platt, "Properties of Large Molecules that Go beyond the Properties of Their
-Chemical Sub-groups," Journal of Theoretical Biology, 1(1961):342 358. Since the reductionismholism issue is a major cause de guerre between scientists and humanists, perhaps we might even
+Chemical Sub-groups," Journal of Theoretical Biology, 1(1961):342 358. Since the reductionism-holism issue is a major cause de guerre between scientists and humanists, perhaps we might even
 hope that peace could be negotiated between the two cultures along the lines of the compromise just
 suggested. As I go along, I shall have a little to say about complexity in the arts as well as in the
 natural sciences. I must emphasize the pragmatism of my holism to distinguish it sharply from the
@@ -7287,7 +7287,7 @@ assembly or specialization, that provides the potential for rapid evolution.
 The claim is that the potential for rapid evolution exists in any complex system
 that consists of a set of stable subsystems, each operating nearly independently of
 the detailed processes going on within the other subsystems, hence influenced
-mainly by the net inputs and outputs of the other subsystems. If the neardecomposability condition is met, the efficiency of one component (hence its
+mainly by the net inputs and outputs of the other subsystems. If the near-decomposability condition is met, the efficiency of one component (hence its
 contribution to the organism's fitness) does not depend on the detailed structure
 of other components.
 
@@ -9015,7 +9015,7 @@ Bond strength, chemical, 201
 
 hierarchy of, 201
 
-Boundaries, organizationmarket, 40-41
+Boundaries, organization market, 40-41
 
 Bounded rationality. See
 Rationality, bounded

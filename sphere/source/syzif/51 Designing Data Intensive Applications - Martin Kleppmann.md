@@ -8428,7 +8428,7 @@ partitions of the index (every term in the document might be on a different part
 on a different node).
 
 In an ideal world, the index would always be up to date, and every document written
-to the database would immediately be reflected in the index. However, in a termpartitioned index, that would require a distributed transaction across all partitions
+to the database would immediately be reflected in the index. However, in a term-partitioned index, that would require a distributed transaction across all partitions
 affected by a write, which is not supported in all databases (see Chapter 7 and Chapter 9).
 
 In practice, updates to global secondary indexes are often asynchronous (that is, if
@@ -12821,7 +12821,7 @@ doi:10.1145/2460276.2462076
 
 [93] Jay Kreps: "A Few Notes on Kafka and Jepsen," blog.empathybox.com, September 25, 2013.
 
-[94] Thanh Do, Mingzhe Hao, Tanakorn Leesatapornwongsa, et al.: "Limplock:
+[94] Thanh Do, Mingzhe Hao, Tanakorn Leesatapornwongsa, et al.: "LimpLock:
 Understanding the Impact of Limpware on Scale-out Cloud Systems," at 4th ACM
 Symposium
 doi:
@@ -15664,7 +15664,7 @@ top5.each{|count, url| puts "#{count} #{url}" }
 counts is a hash table that keeps a counter for the number of times we've seen
 each URL. A counter is zero by default.
 
-From each line of the log, we take the URL to be the seventh whitespaceseparated field (the array index here is 6 because Ruby's arrays are zero-indexed).
+From each line of the log, we take the URL to be the seventh whitespace-separated field (the array index here is 6 because Ruby's arrays are zero-indexed).
 
 Increment the counter for the URL in the current line of the log.
 
@@ -18155,7 +18155,7 @@ indicates that a key was deleted, and causes it to be removed during log compact
 But as long as a key is not overwritten or deleted, it stays in the log forever. The disk
 space required for such a compacted log depends only on the current contents of the
 database, not the number of writes that have ever occurred in the database. If the
-same key is frequently overwritten, previous values will eventually be garbagecollected, and only the latest value will be retained.
+same key is frequently overwritten, previous values will eventually be garbage-collected, and only the latest value will be retained.
 
 The same idea works in the context of log-based message brokers and change data
 capture. If the CDC system is set up such that every change has a primary key, and

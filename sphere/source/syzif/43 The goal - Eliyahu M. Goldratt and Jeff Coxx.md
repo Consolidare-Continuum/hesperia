@@ -3677,7 +3677,7 @@ Other North River Press Books by
 
  "Yeah, she's out of town for a few days,'' I tell her. "Fran, you've got a couple of kids. How do you manage to hold a job and take care of them?''
 
- She laughs. "Well, ''tain't easy. On the other hand, I don't work the long hours you do. If I were you, I'd get some help until she gets back.''
+ She laughs. "Well, '''tain't easy. On the other hand, I don't work the long hours you do. If I were you, I'd get some help until she gets back.''
 
  When she leaves, I pick up the phone again.
 

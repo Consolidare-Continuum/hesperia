@@ -1674,7 +1674,7 @@ other possibility, also accepted by many doctors and scientists, was
 that stomach acid was the culprit. In the early twentieth century,
 scientists investigated both theories and found evidence in favor of
 each. But then, in 1954, the bacterial theory suffered a devastating
-setback. Gastroenterologist E. D. Palmer E. D. Palmer biopsied the stomachs of
+setback. gastroenterologist E. D. Palmer E. D. Palmer biopsied the stomachs of
 more than one thousand patients and found no evidence of bacteria
 
 at all.25 The conclusion seemed to be that bacteria could not live

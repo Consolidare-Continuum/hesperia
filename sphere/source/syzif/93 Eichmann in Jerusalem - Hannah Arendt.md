@@ -2892,7 +2892,7 @@ followed in the footsteps of a "great and cultured nation." (This
 revealed
 enonnous arsenal of potential refugees had been
 during the Evian Conference, called in the summer of 1938 to
-solve the problem of German Jewry through intergovemmentai
+solve the problem of German Jewry through intergovernmental
 action, It was a resounding fiasco and did great harm to German
 Jews.) The avenues for emigration overseas now became clogged
 
@@ -7012,7 +7012,7 @@ are considering proceedings against Rajakowitsch, who seems
 to live in either Switzerland or Italy. All these details have
 become known in the last year through the public ation of Dutch
 documents and the report by E. Jacob, D Dutch correspondent
-for the Basler Nationalzeitimg, a Swiss newspaper.) The prose-
+for the Basler Nationalzeitung, a Swiss newspaper.) The prose-
 
 16 8
 
@@ -7419,7 +7419,7 @@ fulfill them, Mussolini would make excuses for them on the
 ground of their "different intellectual formation." Only occasionally would the Nazis be m et with a flat refusal, as when
 General Roatta declared that it was "incompatible with the honor
 of the Italian Army" to deliver the Jews from Italian-occupied
-the appropriate German authorterritory in Yugoslavia to
+the appropriate German authority territory in Yugoslavia to
 ities.
 
 to
@@ -8161,7 +8161,7 @@ and, from Vienna, Hermann Krumey, who became his deputy
 in Hungary. From Berlin, he brought all the more important
 members of his office staff: Rolf Günther, who had been his
 chief deputy; Franz Novak, his deportation officer; and Otto
-Hunsche, his legal expert, Thus, the Sondereinsatzkommondo
+Hunsche, his legal expert, Thus, the Sondereinsatzkommando
 Eichmann (Eichmann Special Operation Unit) consisted of about
 ten men, plus some clerical assistants, when it set up its headquarters in Budapest. On the very evening of their arrival, Eichmann and his men invited the Jewish leaders to a conference, to
 persuade them to form a Jewish Council, through which they
@@ -8301,7 +8301,7 @@ matter that took no more than two weeks. The question now was
 whether he himself would be able to enlist the help of Hungarian
 officials for an operation of this magnitude. For him this was
 something new. In the ordinary course of events, it would have
-been handled for him by the Foreign Office and its reprcsentatives, in this instance, by the newly appointed Reich plenipotentiary, Dr. Edmund Veesenmayer, to whom Eichmann would
+been handled for him by the Foreign Office and its representatives, in this instance, by the newly appointed Reich plenipotentiary, Dr. Edmund Veesenmayer, to whom Eichmann would
 have sent a "Jewish adviser." Eichmann himself clearly had no
 inclination io r playing the role of adviser, a post that had nowhere carried a rank higher than Hauptsturmführer, or captain,
 whereas he was an Obersturmbannführer, or lieutenant colonel,
@@ -9584,7 +9584,7 @@ domination tried to establish these holes öf oblivion into which
 all deeds, good and evil would disappear» but just as the Nazis'
 feverish attempts, from June, 1942, on, to erase all traces of the
 massacres— through cremation, through burning in open pits,
-through the use of explosives and flame-throwers and burning failure, so all efTortscrushing machinery— were doomed
+through the use of explosives and flame-throwers and burning failure, so all efforts crushing machinery— were doomed
 to let their opponents "disappear in silent anonymity" were in
 vain. The holes of oblivion do not exist. Nothing human is that
 

@@ -8269,7 +8269,7 @@ themselves against the high barriers erected against them, only
 to blame themselves for their failure to scale them. The few
 who do manage the feat will be convinced that they did so out
 of their own individual merit. They then will be used as pawns
-in a propaganda game of legitimatization of the dominant ideology. The situation will seem deceitful to no one.
+in a propaganda game of legitimation of the dominant ideology. The situation will seem deceitful to no one.
 
 On the assumption that belief in the meritocratic nature
 of society is a flawed ideological belief, it will be held more
@@ -8918,7 +8918,7 @@ degraded and mechanical, there exists a minimum of technical qualification, that
 activity. . . . All men are intellectuals, one could therefore say,
 but not all men have the function of intellectuals.
 
-When one distinguishes between intellectuals and nonintellectuals, one is referring in reality only to the immediate social function of the professional category of the intellectuals, that is, one has in mind the direction in which
+When one distinguishes between intellectuals and non-intellectuals, one is referring in reality only to the immediate social function of the professional category of the intellectuals, that is, one has in mind the direction in which
 their specific professional activity is weighted, whether
 towards intellectual elaboration or towards muscular nervous effect. This means that although one can speak of intellectuals, one cannot speak of non- intellectuals, because
 non- intellectuals do not exist. But even the relationship
@@ -10972,7 +10972,7 @@ the best tools to gather evidence).
 75. Thanks to Kate Manne for discussion.
 76. Stanley, Knowledge and Practical Interests.
 77. Thanks to Kate Manne for the example.
-78. The ideology that society is a meritocracy, in a nonmeritocratic
+78. The ideology that society is a meritocracy, in a non-meritocratic
 society, plays a similar "epistemically disabling" role as Anderson attributes to the ideal of color- blindness. Anderson, The Imperative of
 Integration.
 

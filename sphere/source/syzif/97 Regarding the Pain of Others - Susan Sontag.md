@@ -1008,7 +1008,7 @@ exemplary show of photographs documenting the de
 struction of the World Trade Center that opened in
 storefront space in Manhattan's SoHo in late September
 2001. The organizers of Here Is New TMk, as the show was
-resonantly titled, had sent out a call inviting everyoneamateur and professional-who had images of the attack
+resonantly titled, had sent out a call inviting everyone amateur and professional-who had images of the attack
 and its aftermath to bring them in. There were more
 than a thousand responses in the first weeks, and from
 everyone who submitted photographs, at least one picture
@@ -4364,7 +4364,7 @@ human beings everywhere do terrible things to one an
 
 other.
 
-PARKED IN FRONT of the little screenstelevision, com
+PARKED IN FRONT of the little screen television, com
 
 puter, palmtop--we can surf to images and brief reports
 of disasters throughout the world. It seems as if there is a
@@ -4636,7 +4636,7 @@ Ascent (1977), by the Ukrainian director Larisa Shepitko,
 
 the most affecting film about the sadness of war I know,
 
-and an astoundingjapanese documentary, Kazuo Hara's
+and an astounding Japanese documentary, Kazuo Hara's
 
 The Emperor's Naked Army Marches On (1987), the portrait of
 
@@ -4861,10 +4861,10 @@ lished, in his Gettysburg: A Journey in Time (Scribner's, 1975), that
 
 Alexander Gardner must have changed the location of the body of a
 
-Acknowledgmeois
+Acknowledgments
 
 dead Confederate soldier for a photograph. The quote from Gustave
-Moynier comes from David Rieff, A Bui for the Nig/U: Humonilatianism
+Moynier comes from David Rieff, A Bui for the Nig/U: Humanitarianism
 in Crisis (Simon & Schuster, 2002).
 
 I continue to learn, as I have for many years, from conversations

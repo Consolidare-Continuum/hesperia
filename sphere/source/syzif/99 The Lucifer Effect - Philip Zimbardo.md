@@ -5999,7 +5999,7 @@ Sarge is not afraid of him and plays the game: "It's in my nature to be obedi
 
 ent, Mr. Correctional Officer."
 
-"You are a liar. You are a stinkin'' liar."
+"You are a liar. You are a stinkin''' liar."
 "If you say so, Mr. Correctional Officer."
 Hellmann becomes ever more obscene, maybe aroused by the previous sexual
 games: "What if I told you to get down on that floor and fuck the floor, what would
@@ -8528,7 +8528,7 @@ underwear beneath their smock-dresses.) Hellmann continues with obvious glee,
 "Now you two, you're male camels. Stand behind the female camels and hump
 them."
 
-Burdan giggles at this double double entendre. Although their bodies never touch,
+Burdan giggles at this double entendre. Although their bodies never touch,
 the helpless prisoners are simulating sodomy by making thrusting motions of
 humping. They are dismissed back to their cells as the guards retreat to their
 quarters, clearly feeling that they have earned their night's salary. My nightmare
@@ -22032,7 +22032,7 @@ And I said, "What do you mean?"
 
 He says, "Every time a bomb goes off outside the wire, or outside the
 
-fence, they come in, and they tell me, that's another American losin'' their
+fence, they come in, and they tell me, that's another American losin''' their
 
 life. And unless you help us, their blood's on your hands as well."49
 

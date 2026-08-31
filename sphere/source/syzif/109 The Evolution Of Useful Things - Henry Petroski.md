@@ -1222,7 +1222,7 @@ will behave at the hands of its intended, and perhaps unintended, users.
 
 The childproof bottle for prescription medicine is something that many people,
 especially older folks with arthritis, would agree could benet from some industrial
-redesign, but most would also no doubt concur that the focus should be on the humanengineering aspects of getting the top obefore the container gets an aesthetic
+redesign, but most would also no doubt concur that the focus should be on the human engineering aspects of getting the top obefore the container gets an aesthetic
 treatment, although that would also be welcome. The ideal prescription-medicine
 container would be human-engineered to perfection and yet attractive enough to
 
@@ -6853,7 +6853,7 @@ novel and useful features," he was optimistic that he would "have a good chance 
 obtain a valuable new patent."
 
 The potential value of a patent is not often far from the minds of inventors; nor is its
-cost. In addition to the expense of traveling to the Patent Oce or hiring a Washingtonbased patent agent to search the les for prior art, there are the ling and other costs,
+cost. In addition to the expense of traveling to the Patent Oce or hiring a Washington-based patent agent to search the les for prior art, there are the ling and other costs,
 which can amount to over $500 for an individual and about twice that for a large
 corporation. A patent search can be arduous, with or without an adjustable desk, for the
 incremental improvements in artifacts and processes recorded in the United States alone
@@ -7023,7 +7023,7 @@ packaging. (photo credit 13.1)
 
 Within a decade of its introduction, the clamshell began to be attacked as a symbol of
 wasteful packaging and a threat to the environment. Paper was still a problem, of
-course, but plastics were perceived to be a worse one. The chlorouorocarbons (CFCs)
+course, but plastics were perceived to be a worse one. The chlorofluorocarbons (CFCs)
 that were used in forming the plastic-foam container were implicated in the depletion of
 the earth's protective ozone layer. McDonald's showed itself to be responsive to
 environmental concerns by switching to plastic packaging made without CFCs, and the
@@ -7259,7 +7259,7 @@ anticipated situations wherein failure is envisioned.
 
 Ralph Caplan's book By Design is distinguished by the intriguing situation described in
 its subtitle: Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV. Caplan
-writes of the bathroom-door object lesson as "an ingenious example of the productsituation cycle" and as "the perfect fusion of product and circumstance, and a
+writes of the bathroom-door object lesson as "an ingenious example of the product situation cycle" and as "the perfect fusion of product and circumstance, and a
 demonstration of the design process at its best." His language is more that of the
 industrial designer than of the engineer, but the hotel problem that Caplan highlights is
 indeed a wonderful model for how designers must always look ahead, to the future

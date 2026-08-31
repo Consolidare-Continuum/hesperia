@@ -1494,10 +1494,10 @@ NIH Institute of Health
 NORAD American Aerospace Defense Command
 NRC Regulatory Commission
 NTSB Transportation Safety Board
-OSHAOccupational Safety and Health Administration
+OSHA Occupational Safety and Health Administration
 Acquisition Acquisition Radar Attack Characterization
 PORV-operated relief valve
-PRAprobabilistic risk analysis
+PRA probabilistic risk analysis
 PWR water reactor
 TCA control area
 TMI Mile Island
@@ -1835,7 +1835,7 @@ Lintem, Gavan. 1995. "Flight instruction: The Challenge From Situated Cognition.
 Lo, Andrew W. 1999. "The three P's of total risk management." Financial Analysts Journal (in press).
 Mahoney, David. 1993. "Large Property Damage Losses in the Hydrocarbon-Chemical Industries: A Thirty Year Review." Marsh & McLennan, New York.
 Maier, Mark. 1992. 'A major malfunction … The Story behind the Space Shuttle Challenger Disaster," vols. I—III. Albany, N.Y.: The Research Foundation of the State University of New York.
-March, James G., and Johan P. Olsen. 1979. Ambiguity and Choice in Organizations. Bergen, Norway: Universitesforleget.
+March, James G., and Johan P. Olsen. 1979. Ambiguity and Choice in Organizations. Bergen, Norway: Universitiesforleget.
 Marone, J. and E. J. Woodhouse. 1986. Averting Catastrophe: Strategies for Regulating Risky Technologies. Berkeley: University of California Press.
 Martin, Roleigh 1998. "Peripheral but Critical Issues with the NERC Report," www.y2k.Today, November 2.
 Matthews, Stuart. 1997. "Safety and Statistics: What the Numbers Tell Us About Aviation Safety at the End of the 20th Century." Flight Safety Foundation, Alexandria, Va.

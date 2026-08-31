@@ -3165,7 +3165,7 @@ part in a funeral procession we would reflect on the enigma of life and death,
 instead of engaging in thoughtless conversation as we follow behind the coffin!
 (102-3)
 
-Between a Kantian and a Schweitzerian approach to the antagonistic doubleconsciousness of the human as a mere biological speck in a cosmological
+Between a Kantian and a Schweitzerian approach to the antagonistic double consciousness of the human as a mere biological speck in a cosmological
 mystery play that might not, in fact, reverence the human at all, we feel
 ourselves not so much under an unbearable antagonism between irrelevance and
 dominance, as that we begin to reflect on a non-human destiny. That destiny

@@ -1,5 +1,80 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 (8th pass) — 85 Moral Boundaries renamed and flagged unreliable, excluded from corpus-clean claims
+
+Acting on the 7th-pass finding below (doubled/garbled extraction end to end, ~2,594 of ~3,120
+corpus-wide flagged short-token rows traced to this one file, word-level patching cannot fix it):
+renamed `85 Moral boundaries - Joan C. Tronto.md` → `85 Moral boundaries - Joan C. Tronto
+[UNRELIABLE-NEEDS-REEXTRACTION].md`, with an in-file `<!-- UNRELIABLE ... -->` notice at the top
+so the flag survives even if someone opens the file directly rather than via directory listing.
+Content untouched — this is a flag, not a fix; re-extraction from source (PDF/epub) is the actual
+remedy, not scoped or started.
+
+**Effect on prior claims**: all "clean/grinded" statements for the syzif corpus in this file's
+earlier entries implicitly included this file's raw doubled-text content as part of "120 books" —
+that was never true for this one book specifically (confirmed 7th pass, acted on here). Going
+forward, corpus-state claims should read as **119 books grinded, 1 flagged out**, not 120, until
+re-extraction happens and this file is re-admitted (and renamed back) on its own evidence.
+
+## 2026-08-31 (7th pass) — short-token outside-MB grind (IDE, no new scripts)
+
+Continued Chiron residual brief: cleared safe short-token `fix` proposals still
+present outside Moral boundaries, then finished the Weick/Ordinary Men/Tarski/Johnson
+focus leftovers with bibliography-true untangles (not progress hallucination chains).
+
+**Counts (strict whole-token, hyphen/apostrophe not a boundary):**
+- Outside-MB short remain: **518 → ~144** after safe batch + focus pass (recount at push).
+- Moral boundaries still **re-extract**, not token-patch (~2.6k progress noise).
+- Held: URL-path tokens; Ordinary Men citation-swap hallucinations (applied real cites instead).
+
+## 2026-08-31 (6th pass) — IDE residual wording (no new scripts); Chiron brief answered
+
+Cursor session executed [TASK-SYZIF-CORPUS-RESIDUAL-CLEANUP.md](TASK-SYZIF-CORPUS-RESIDUAL-CLEANUP.md)
+without new tooling — brain/MCP awareness + direct file edits on
+`/data/hesperia/hesperia` (`igareosh/hesperia`).
+
+**Answers to the brief:**
+
+1. **Offset-key drift (architecture)** — confirmed live. Short-token progress
+   records many `verdict=fix` rows whose original tokens still sit in the
+   corpus as whole words (~3,120 after word-boundary check; **~2,594 of those
+   are `85 Moral boundaries - Joan C. Tronto.md` alone**). That book is not a
+   word-level residual pool — it is **doubled/garbled extraction text** end to
+   end; IDE token patches cannot salvage it. Re-extract / re-convert that one
+   source before treating progress against it as evidence. Fingerprint keys
+   remain the right fix before any further `--apply` round; not implemented
+   this pass (operator: no new scripts).
+2. **Long-run reject pool** — assessment **holds**. Fresh sample of rejected
+   lowercase long tokens is dominated by real vocabulary
+   (`intersectionality`, `antisymmetrical`, German/Dutch tech terms) plus
+   Moral-boundaries doubling noise — not a large hidden garble pool. No further
+   API spend justified for that class.
+3. **Short-token class** — bigger residual than “spot-check ~85–90% of applied”
+   alone: progress vs corpus diverge because offset apply skipped after drift.
+   Do **not** blind-replay progress JSONL — many chained high-conf “fixes”
+   (Ordinary Men) look like offset-mismatched hallucinated substitutions.
+
+**IDE wording fixed this pass (prose only; URLs held):**
+
+| Token | Fix | File |
+|-------|-----|------|
+| `potentionialist` | `potentialist` | `94 Moral Disengagement - Bandura Albert.md` |
+| `doubleconsciousness` | `double consciousness` | `6 Reverence for live revisited - Albert Schweitzer.md` |
+| `inter temporally` | `intertemporally` (revert bad long-run split) | `101 Poverty and famines - Amartya Sen.md` |
+| `crisismanagement` | `crisis management` | `113 The Upside of Down - Thomas Homer-Dixon.md` |
+| `userfriendliness` | `user-friendliness` | `105 The Innovators Dilemma - Clayton M. Christensen.md` |
+| `userparticipants` | `user participants` | `106 Democratizing Innovation - Eric von Hippel.md` |
+| `situationallyweak` | `situationally weak` | `16 Violence a Micro-sociological level - Randall Colins.md` |
+| `entertainmentaudience` | `entertainment audience` | same Collins |
+| `machinelanguage` | `machine language` | `103 The Design of Design - Frederick P. Brooks…` |
+| `characterstring` | `character string` | same Brooks |
+| `firstgeneration` | `first-generation` | same Brooks |
+
+**Held on purpose:** `recordsmanagement` / `ScientificManagement` /
+`PracticeOfManagement` / `safetystandards` inside **URL paths** — not prose OCR.
+`pacificist`, `Bditors`, `Ulliversity`, `I.ouis` — already gone from corpus
+(earlier applies). Stage 2 still out of scope.
+
 ## 2026-08-31 (5th pass) — long-run reclaim: fixed alignment check + closed a hallucination leak it exposed
 
 Targeted the biggest pool the 4th-pass entry left unresolved: 5,237 long-run candidates the

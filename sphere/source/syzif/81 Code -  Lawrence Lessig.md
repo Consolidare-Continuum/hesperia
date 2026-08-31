@@ -283,7 +283,7 @@ These Americans came from a nation where constitutionalism had worked, yet appar
 The cen ter 's mission , h owever, was not to advi s e . We knew too little to guide .
 Our aim was to watch and ga t h er data abo ut the tra n s i ti ons and how they progressed. We wanted to understand the change, not direct it.
 
-What we saw was striking, if understandable. Those first moments after communism's collapse were filled with antigovernmental passion—with a surge of anger directed against the state and against state reg u l a ti on . Le ave us alon e , the peop l e
+What we saw was striking, if understandable. Those first moments after communism's collapse were filled with anti-governmental passion—with a surge of anger directed against the state and against state reg u l a ti on . Le ave us alon e , the peop l e
 s eem ed to say. Let the market and non govern m ental or ga n i z a ti ons—a new soc iety — t a ke govern m en t's place . Af ter gen era ti ons of com mu n i s m , this re acti on was
 completely understandable. What compromise could there be with the instrument
 of your repression?
@@ -9584,7 +9584,7 @@ s peak of the disaster of the West Coast sliding into the Pac i f i c , so too s
 speak of a disaster of code sliding us into another dark age. Neither can we do anything about, yet both are great topics for growing audiences.
 
 I 've advoc a ted a different re s pon s e . We need to think co ll ectively and sen s i bly
-about how this emerging reality will affect our lives. Do-do-nothingism is not an answer; something can and should be done.
+about how this emerging reality will affect our lives. Do-do-do-nothingism is not an answer; something can and should be done.
 
 I've argued this, but not with much hope. So central are the Declans in our political culture today that I confess I cannot see a way around them. I have sketched
 small steps;they seem very small.I've described a different ideal;it seems quite alien.

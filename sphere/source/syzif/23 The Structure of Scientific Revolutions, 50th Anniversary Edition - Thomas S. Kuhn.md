@@ -2975,7 +2975,7 @@ Examining selected discoveries in the rest of this section, we shall quickly
 
 find that they are not isolated events but extended episodes with a regularly
 recurrent structure. Discovery commences with the awareness of anomaly,
-i.e., with the recognition that nature has somehow violated the paradigminduced expectations that govern normal science. It then continues with a
+i.e., with the recognition that nature has somehow violated the paradigm-induced expectations that govern normal science. It then continues with a
 more or less extended exploration of the area of anomaly. And it closes only
 when the paradigm theory has been adjusted so that the anomalous has
 become the expected. Assimilating a new sort of fact demands a more than
@@ -5339,7 +5339,7 @@ even a hint of what a language able to do that would be like.
 Under these circumstances we may at least suspect that scientists are
 right in principle as well as in practice when they treat oxygen and
 pendulums (and perhaps also atoms and electrons) as the fundamental
-ingredients of their immediate experience. As a result of the paradigmembodied experience of the race, the culture, and, finally, the profession,
+ingredients of their immediate experience. As a result of the paradigm-embodied experience of the race, the culture, and, finally, the profession,
 the world of the scientist has come to be populated with planets and
 pendulums, condensers and compound ores, and other such bodies besides.
 Compared with these objects of perception, both meter stick readings and
@@ -5750,7 +5750,7 @@ answer to a question that first arose only within Newtonian theory and that
 that theory could answer from the body of information available before the
 question was asked?
 
-These questions are here asked about what appear as the piecemealdiscovered facts of a textbook presentation. But obviously, they have
+These questions are here asked about what appear as the piecemeal-discovered facts of a textbook presentation. But obviously, they have
 implications as well for what the text presents as theories. Those theories,
 of course, do "fit the facts," but only by transforming previously accessible
 information into facts that, for the preceding paradigm, had not existed at
@@ -6966,7 +6966,7 @@ province of any single scientific community. Both normal science and
 revolutions are, however, community-based activities. To discover and
 analyze them, one must first unravel the changing community structure of
 the sciences over time. A paradigm governs, in the first instance, not a
-subject matter but rather a group of practitioners. Any study of paradigmdirected or of paradigm-shattering research must begin by locating the
+subject matter but rather a group of practitioners. Any study of paradigm-directed or of paradigm-shattering research must begin by locating the
 responsible group or groups.
 
 When the analysis of scientific development is approached in that way,
@@ -7182,7 +7182,7 @@ To many readers of the preceding chapters, this characteristic of the
 operation of shared values has seemed a major weakness of my position.
 Because I insist that what scientists share is not sufficient to command
 uniform assent about such matters as the choice between competing
-theories or the distinction between an ordinary anomaly and a crisisprovoking one, I am occasionally accused of glorifying subjectivity and
+theories or the distinction between an ordinary anomaly and a crisis-provoking one, I am occasionally accused of glorifying subjectivity and
 even irrationality.9 But that reaction ignores two characteristics displayed
 by value judgments in any field. First, shared values can be important
 determinants of group behavior even though the members of the group do
@@ -7318,7 +7318,7 @@ when his training began. He has meanwhile assimilated a time-tested and
 group-licensed way of seeing.
 
 The role of acquired similarity relations also shows clearly in the history
-of science. Scientists solve puzzles by modeling them on previous puzzlesolutions, often with only minimal recourse to symbolic generalizations.
+of science. Scientists solve puzzles by modeling them on previous puzzle-solutions, often with only minimal recourse to symbolic generalizations.
 Galileo found that a ball rolling down an incline acquires just enough
 velocity to return it to the same vertical height on a second incline of any
 slope, and he learned to see that experimental situation as like the pendulum

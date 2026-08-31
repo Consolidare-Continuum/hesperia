@@ -249,7 +249,7 @@ and Model 90 things under construction out on the engineering
 floors were but Plato's shadows of the real System/360. The real
 System/360's most complete and faithful embodiment was not in
 silicon, copper, and steel, but in the prose and diagrams of IBM
-System/360 Principles of Operation, the programmer's machinelanguage manual.7
+System/360 Principles of Operation, the programmer's machine language manual.7
 
 I had a similar experience with the View/360 beach house
 (Chapter 21). Its Design Concept came to be real long before any
@@ -299,7 +299,7 @@ on one's version of the Design Concept. Some of the architects
 had implicit Design Concepts reflecting earlier scientific computers; others' implicit concepts reflected earlier business computers.
 System/360 was explicitly intended to serve both kinds of applications well.
 
-We chose to model the decimal datatype after the characterstring one, the one more familiar to the largest particular user
+We chose to model the decimal datatype after the character string one, the one more familiar to the largest particular user
 
 Thinking about the Design Process
 
@@ -2865,7 +2865,7 @@ where all the players cannot be physically present. Here telecollaboration comes
 
 When Collaboration Doesn't Work—for Design Itself
 
-The Fantasy Concept of Design Collaboration. The computersupported-collaborative-work literature is peppered with a fantasy version of collaborative design. This would be harmless,
+The Fantasy Concept of Design Collaboration. The computer-supported-collaborative-work literature is peppered with a fantasy version of collaborative design. This would be harmless,
 except that the fallacious concept focuses ever more elaborate
 academic research on ever less useful technological tools for
 collaboration.
@@ -4392,7 +4392,7 @@ artiStS' aPHoriSm
 I need four walls around me, to hold my
 life, and keep me from going astray.
 
-JameS taylor, "Bartender'S BlueS"
+JameS taylor, "Bartender's BlueS"
 
 A general-purpose product is harder to design
 well than a special-purpose one.
@@ -5296,7 +5296,7 @@ for. This again seems to justify architects in bringing past
 solutions and notions of style to bear on the search . . .
 
 Bill Hillier and alan Penn
-[1995], "can tHere Be a domainindePendent tHeory oF deSiGn?"
+[1995], "can tHere Be a domain-independent tHeory oF deSiGn?"
 
 Pages from a Palestrina Mass copy in Bach's own hand
 
@@ -8626,7 +8626,7 @@ of our organizations, alas, encourages or even forces this. Intention, nay, dete
 20. Where Do Great Designers Come From?
 
 Seymour Cray, the greatest supercomputer designer ever,
-furnished an inspiring example. Cray was a designer of firstgeneration vacuum-tube computers in the hotbed at St. Paul,
+furnished an inspiring example. Cray was a designer of first-generation vacuum-tube computers in the hotbed at St. Paul,
 Minnesota, first at Engineering Research Associates, and then at
 Control Data Corporation. To design the CDC 6600, he moved
 his team of "thirty-five people including the janitor" away

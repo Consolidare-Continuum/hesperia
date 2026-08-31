@@ -2947,7 +2947,7 @@ training base somewhere out in the boonies."
 As it turned out, Baldy's rumors were two-thirds accurate. The agency hired its own pilots from
 the ranks of the Air Force, but we put them on the books as Lockheed employees so that their payment
 came out of a special Lockheed account of laundered CIA money rather than straight government
-checks. The subterfuge was that the pilots were Lockheed employees involved in a governmentcontracted high-altitude weather and performance study.
+checks. The subterfuge was that the pilots were Lockheed employees involved in a government contracted high-altitude weather and performance study.
 
 Everything about this project was dark alley, cloak and dagger. Even the way they financed the
 operation was highly unconventional: using secret contingency funds, they back-backdoored payment to

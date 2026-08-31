@@ -4058,7 +4058,7 @@ experiment	 devised	 by	 S.	 F.	 Maier
 hypothesis.'`'	 The	 dogs	 in	 this	 experiment	 can	control	 the	 shock	 -	 but
 only	 by	 remaining	 completely	 still	 and	 passive.	The	 opponent's
 response-learning	hypothesis	makes	the	prediction	that	these	dogs	will
-later	prove	the	most	helpless	in	the	shuttle	box;	the	Seligman	learnedhelplessness	 hypothesis	 makes	 the	 prediction	 that	they	 will	 prove
+later	prove	the	most	helpless	in	the	shuttle	box;	the	Seligman	learned helplessness	 hypothesis	 makes	 the	 prediction	 that	they	 will	 prove
 capable	of	learning	just	like	other	dogs	who	have	learned	that	what	they
 choose
 to	 do	 makes	 a	 difference.	 The	 Seligman	hypothesis	 is
@@ -4451,7 +4451,7 @@ physiological	 processes	 that	 individuate	 one	 emotion	 from	 another.	 It
 would	he	rather	difficult	to	make	such	an	argument	in	the	case	of	rats,
 where	 we	have	 no	 independent	 way	 of	 labeling	 or	 categorizing	 the
 emotion	 and	thus	of	establishing	the	correlations	required.	But	even	if
-certain	 emotions	 in	 rats	 correlated	 exceptionlessly	 with	 a	 particular
+certain	 emotions	 in	 rats	 correlated	 exceptionless	 with	 a	 particular
 type	of	physiological	process,	and	this	could	be	soundly	established,	the
 human	 case	obviously	 offers	 possibilities	 of	 plasticity	 that	 make	 it
 unwise	to	generalize	to	it	prematurely	without	direct	evidence.	Even	in
@@ -4913,7 +4913,7 @@ discriminate	 threat	 from	 non-threat,	 the	 loved	 from	 the	 non-loved,
 without	 explicitly	 formulating	 this	 to	 ourselves	 in	 every	 case,	 or
 reflexively	scrutinizing	our	own	ascriptions.
 
-What	 about	 consciousness	 in	 the	 simpler	 sense	 of	 ordinary	 (nonselfreflexive)	 awareness	 of	 an	 experience?	 I	 have	 said	 that	 humane
+What	 about	 consciousness	 in	 the	 simpler	 sense	 of	 ordinary	 (non-self-reflexive)	 awareness	 of	 an	 experience?	 I	 have	 said	 that	 humane
 emotions	will	at	times	not	register	at	all	in	felt	experience.	Sometimes
 the	emotion	will	not	attain	consciousness	because	it	is	part	of	a	routine	,
 117	sometimes	 because	 it	 is	 a	 background,	 rather	 than	 a	 situational,
@@ -10060,7 +10060,7 @@ vaguer	than	literature:	indeed,	the	suggestion	is	that	it	may	have	a	more
 direct	and	powerful	access	to	the	depths	of	our	emotions	just	in	virtue
 of	its	"otherness."	But	it	does	not	represent	objects	or	tell	a	story	in	the
 way	 that	 a	 work	 of	 literature	 does;	 in	 consequence	 our	 responses	to	 it
-are	 the	 crystallizations	 of	 general	 forms	 of	 emotion,	 rather	 than
+are	 the	 crystallization	 of	 general	 forms	 of	 emotion,	 rather	 than
 reactions	to	the	doings	or	sufferings	of	characters	who	inhabit,	like	us,
 the	daily	world	of	space	and	time.	This	fact	seems	to	be	in	some	way
 connected	with	the	emotional	potency	of	music,	its	ability	"to	get	to	the

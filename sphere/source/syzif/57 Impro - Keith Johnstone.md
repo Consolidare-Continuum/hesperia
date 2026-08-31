@@ -1418,7 +1418,7 @@ when they agree to play status games together. If I take an acquaint
 ance an early morning cup of tea I might say 'Did you have a good
 night?' or something equally 'neutral', the status being established by
 voice and posture and eye contact and so on. If I take a cup of tea to a
-friend then I may say 'Get up, you old cow', or 'Your Highness'S tea',
+friend then I may say 'Get up, you old cow', or 'Your Highness's tea',
 pretending to raise or lower status. Once students understand that they
 already play status games with their friends, then they realise that
 they already know most of the status games I'm trying to teach them.
@@ -8353,7 +8353,7 @@ with the Mask, Grandfather stopped doing anything one could recog
 recognize as 'acting' and stared transfixed at the point of the scythe. It was
 just cardboard with aluminium foil covering it, but suddenly it seemed
 
-the most terrible instrument in the universe. Dick Kajsl Jr1Jr, who was
+the most terrible instrument in the universe. Dick Castle, who was
 playing Death, backed off. 'I can't kill him,' he said, very upset, as we
 all were. It took about an hour before we could try the scene again.
 

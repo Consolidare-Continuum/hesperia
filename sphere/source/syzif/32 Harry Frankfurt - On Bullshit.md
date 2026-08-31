@@ -65,7 +65,7 @@ misrepresentation is not merely inadvertent. In other words, it is GHOLEHURATE
 misrepresentation. Now if, as a matter of conceptual necessity, an intention to
 deceive is an invariable feature of humbug, then the property of being humbug
 depends at least in part upon the perpetrators state of mind. It cannot be identical,
-accordingly, with any propertieseither inherent or relationalbelonging just to
+accordingly, with any properties either inherent or relational belonging just to
 the utterance by which the humbug is perpetrated. In this respect, the property of
 being humbug is similar to that of being a lie, which is identical neither with the
 falsity nor with any of the other properties of the statement the liar makes, but
@@ -152,7 +152,7 @@ money I have, then I do not thereby make an H[SPECLIFIC assertion concerning my
 beliefs. Therefore, one might with some plausibility maintain that although in
 telling
 this
-misrepresentationas distinct from my misrepresentation of what is in my
+misrepresentation distinct from my misrepresentation of what is in my
 pocket not strictly speaking a lie at all. For I do not come right out with any
 statement whatever about what is in my mind. Nor does the statement I do affirm
 e.g., I have twenty dollars in my imply any statement that attributes

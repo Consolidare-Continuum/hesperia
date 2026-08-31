@@ -4252,7 +4252,7 @@ thought at that time, Kohlberg terms these three views of morality
 
 Concepts ofSelf and Mora/ity
 
-preconventionalt conventional, and postconventional, to reflect the
+preconventional conventional, and postconventional, to reflect the
 expansion in moral understanding from an individual to a societal
 to a universal point of view. In this scheme, conventional morality,
 or the equation of the right or good with the maintenance of exist
@@ -7926,7 +7926,7 @@ The biography of Dr. Carson illustrates his halting passage
 from identity to intimacy, through career consolidation, and,
 finally, into the capacity to care in its fullest sense .•• he had
 gone through divorce, remarriage, and a shift from research to
-private practice. His personallllttamorphosis had continuous
+private practice. His personal metamorphosis had continuous
 The mousy researcher had become a charming clinician •••
 suave, untroubled, kindly and in control .•. The vibrant en
 ergy that had characterized his adolescence had returned ..•

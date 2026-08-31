@@ -5683,7 +5683,7 @@ were using "handicraft methods," whereas the Bolsheviks operated as
 professional (modern, trained) revolutionaries.
 
 Peasant forms of production— not to m ention the peasants them ­
-selves—were, for Lenin, hopelessly backward. They were m ere historical vestiges that would undoubtedly be swept away, as the cottageindustry weavers had been, by the agrarian equivalent of large-scale
+selves—were, for Lenin, hopelessly backward. They were m ere historical vestiges that would undoubtedly be swept away, as the cottage industry weavers had been, by the agrarian equivalent of large-scale
 machine industry. "Two decades have passed," he wrote, "and m achinery has driven the small producer from still another of his last refuges,
 as if telling those who have ears to hear and eyes to see that the economist must always look forward, towards technical progress, or else be
 left behind at once, for he who will not look ahead turns his back on
@@ -6977,7 +6977,7 @@ m ore opaque, resistant, autonomous, and hostile than the one encountered by the
 
 Soviet Collectivization 205
 
-voked massive defiance and evasion in their "crude Muscovite tributecollecting m ethods" during World War I,39 there was every reason to
+voked massive defiance and evasion in their "crude Muscovite tribute-collecting m ethods" during World War I,39 there was every reason to
 suspect that the Bolsheviks would have an even harder time squeezing
 grain from the countryside.
 
@@ -7737,7 +7737,7 @@ in the wind was the conscription of nearly thirty thousand laborers
 for work on plantations (particularly sisal plantations) during the war.
 Postwar schemes, although they often had prewar ar precedents, were
 far more ambitious: a gigantic groundnut (peanut) scheme; various
-rice, tobacco, cotton, and cattle schemes; and, above all, elaborate soilconservation plans mandating a strict regimen of practices. Resettlement and mechanization were integral parts of many schemes.5 The
+rice, tobacco, cotton, and cattle schemes; and, above all, elaborate soil conservation plans mandating a strict regimen of practices. Resettlement and mechanization were integral parts of many schemes.5 The
 vast majority of these projects were neither popular nor successful. In
 fact, one of the standard explanations for the successes of t a n u in the
 
@@ -10338,7 +10338,7 @@ Just as the buzzing complexity and plasticity of custom ary land
 tenure practices cannot be satisfactorily represented in the straitjacket
 of modern freehold property law, so the complex motives and goals of
 cultivators and the land they farm cannot be effectively portrayed by
-the standardizations of scientific agriculture. The schematic representations so im portant for experimental work can and have produced important new knowledge, which, suitably adapted, has been incorporated into most agricultural routines. But such abstractions, again like
+the standardization of scientific agriculture. The schematic representations so im portant for experimental work can and have produced important new knowledge, which, suitably adapted, has been incorporated into most agricultural routines. But such abstractions, again like
 those of freehold tenure, are powerful misrepresentations that usually
 circle back to influence reality. They operate, at a minimum, to generate research and findings most applicable to farms that meet the description of their schematization: large, m onocropped, mechanized,
 commercial farms producing solely for the market. In addition, this
@@ -10657,7 +10657,7 @@ or after a specified date, such as May 20. In New England, at any rate,
 this advice would require considerable adjustm ent by latitude and altitude. A date that would serve for southern Connecticut would not suit
 Vermont; a date that worked in the valleys would not be right for the
 hills (especially the north-facing slopes); a date that worked near the
-coast would not work inland. And the alm anac's date is almost certainly
+coast would not work inland. And the alm almanac's date is almost certainly
 a fail-safe date, since the worst thing that could happen to an almanac
 publisher would be to have his or her advice lead to a crop failure. As a
 result of this commercial caution, some valuable growing time may
@@ -12570,7 +12570,7 @@ renegotiation, to treat the existing arrangement as fixed and sacrosanct.
 
 364 Notes to Pages 28-32
 
-in this connection, the evidence for a long decline in tithe payments in France: Emmanuel LeRoi Ladurie and Joseph Gay, Tithe and Agrarian H istory from the Fourteenth Century to the Nineteenth Century: An E Essay in Comparative History, trans.
+in this connection, the evidence for a long decline in tithe payments in France: Emmanuel Leroi Ladurie and Joseph Gay, Tithe and Agrarian H istory from the Fourteenth Century to the Nineteenth Century: An E Essay in Comparative History, trans.
 Susan Burke (Cambridge: Cambridge University Press, 1982), p. 27.
 
 44. Kula, Measures and Men, p. 150. In Lower Burma in the 1920s and '30s, the
@@ -14297,7 +14297,7 @@ also traces of many previous state "projects," each of which has laid down its p
 Process, vol. 1 of The H istory o f Manners, trans. Edmund Jephcott (New York: Pantheon, 1982), but it applies also, as we shall see, to the self-descriptions of the "modernizers" outside the West who have implemented these schem es. See also Elias's
 Power and Civility, the second volume of The H istory o f Manners.
 
-4. See Von Thiinen's Isolated State (1966), trans. Carla M. Wartenberg (Oxford:
+4. See Von Thünen's Isolated State (1966), trans. Carla M. Wartenberg (Oxford:
 Pergamon Press), and G. William Skinner, Marketing and Social Structure in China
 (Tucson: Association of Asian Studies, 1975). Walter Christaller was the founder of
 central place theory. That theory, elaborated in his thesis at the University of Erlangen in 1932, forms the premise of Skinner's work.
@@ -14445,7 +14445,7 @@ M agnitogorsk by Silicon Valley" ("Party in the Dock," Times Literary Supplement
 November 6, 1992, p. 7). For an industrial, cultural, and social history of M agnitogorsk, see Stephen Kotkin, Magnetic Mountain: Stalinism as a Civilization (Berkeley: University of California Press, 1995).
 
 6. An interesting parallel can be seen in the French countryside following the
-Revolution, when campaigns called for "de-Christianization" and offered associated secular rituals.
+Revolution, when campaigns called for "de-de-Christianization" and offered associated secular rituals.
 
 7. Stites, Revolutionary Dreams, p. 119. See also Vera Sandomirsky Dunham,
 In S talin's Time: M iddle-Class Values in Soviet Fiction (Cambridge: Cambridge
@@ -15863,7 +15863,7 @@ whether white, red, burr, or other variety, or the species of squirrel, which wa
 sumably the com m on gray squirrel. For the Native Americans, the context must
 have served to specify such details as these.
 
-6. I am ignoring, in my treatment of the alm anac's advice, the fact that European settlers quickly developed their own com parable rules of thumb, and like
+6. I am ignoring, in my treatment of the alm almanac's advice, the fact that European settlers quickly developed their own com parable rules of thumb, and like
 farmers everywhere, they were paying close attention to what other cultivators
 were doing. One usually does not want to be the first to plow and plant, nor does
 one want to be the last.

@@ -4212,7 +4212,7 @@ penalty	in	early	modern	society	would	not	have	been	what	it	was,	namely,	a	form
 of	 ritual	 killing.	 .	 .	 .	 The	 issue	 was	 purification,	 indeed	 the	 self-purification	 of
 society,"	as	if	society	itself	had	been	polluted	by	the	"crime"	that	was	committed
 in	its	midst.	"God's	disfavour	and	punishment	of	town	and	country	was	feared	if
-the	population	did	not	cleanse	itself	from	the	crime.	Sociomagical	and	religious
+the	population	did	not	cleanse	itself	from	the	crime.	sociomagical	and	religious
 notions
 
 Throughout	the	centuries,	the	penalty	for	rape	has	been	to	 destroy	the	organ
