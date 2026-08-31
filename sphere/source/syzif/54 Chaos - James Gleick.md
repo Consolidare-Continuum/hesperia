@@ -9169,7 +9169,7 @@ To push the earth's climate into the glaciated state would require a
 
 huge kick from some external source. But Lorenz described yet another
 
-plausible kind of behavior called "almost-intransitivity." An almostintransitive system displays one sort of average behavior for a very long
+plausible kind of behavior called "almost-intransitivity." An almost intransitive system displays one sort of average behavior for a very long
 
 time, fluctuating within certain bounds. Then, for no reason whatsoever,
 
@@ -9186,7 +9186,7 @@ planet. Then, to explain large changes in climate, they look for external
 
 causes—changes in the earth's orbit around the sun, for example. Yet it
 
-takes no great imagination for a climatologist to see that almostintransitivity might well explain why the earth's climate has drifted in
+takes no great imagination for a climatologist to see that almost intransitivity might well explain why the earth's climate has drifted in
 
 and out of long Ice Ages at mysterious, irregular intervals. If so, no
 
@@ -12420,7 +12420,7 @@ Phase transitions were matters of thresholds, and Peitgen and Richter
 
 looked at one of the best-studied kinds of phase transitions,
 
-magnetization and nonmagnetization in materials. Their pictures of such
+magnetization and non magnetization in materials. Their pictures of such
 
 boundaries displayed the peculiarly beautiful complexity that was coming
 to seem so natural, cauliflower shapes with progressively more tangled

@@ -73,16 +73,23 @@ contains, in order, with spaces restored. Rules:
 1. If a word is clearly duplicated back-to-back in the run (e.g. "poorpoor" -> "poor", "isis" -> \
 "is"), collapse it to ONE occurrence — that is not content loss, it's undoing the duplication \
 artifact.
-2. Do NOT drop, summarize, or omit any part of the run that is not an exact duplicate. If the run \
+2. This corpus's extraction pipeline also renders "of" as "off" (one extra "f") inside these \
+glued runs — e.g. "ooffCaring" is "of Caring", not "off Caring". Read "off" in this context as \
+"of" unless the surrounding words clearly need the real word "off" (e.g. "turnedofflights").
+3. Do NOT drop, summarize, or omit any part of the run that is not an exact duplicate. If the run \
 is "wranglingisisapoorpoorsubstitute", the correct output is "wrangling is a poor substitute" — \
 ALL five distinct words, not just "substitute". Losing real words is a serious error, worse than \
 rejecting.
-3. If you cannot confidently reconstruct the ENTIRE run this way — some part is genuinely unclear, \
+4. Do NOT add words, names, titles, or phrases that are not accounted for by the run's own \
+letters (after undoing duplication and the "off"/"of" pattern above) — even if you recognize the \
+book, author, or a famous quote/title being referenced, and could complete it from general \
+knowledge. Reconstruct only what the flagged letters actually spell; never extend beyond them.
+5. If you cannot confidently reconstruct the ENTIRE run this way — some part is genuinely unclear, \
 not just unfamiliar — reject rather than guess or give a partial/incomplete reconstruction. A \
 confident partial answer is not acceptable; it must be the whole run or a rejection.
-4. Only reject for genuine uncertainty about the *content* of the run, not because it is long — \
+6. Only reject for genuine uncertainty about the *content* of the run, not because it is long — \
 length alone is not a reason to reject.
-5. Confidence reflects how sure you are the reconstruction is complete and correct, not just \
+7. Confidence reflects how sure you are the reconstruction is complete and correct, not just \
 plausible.
 
 Return ONLY valid JSON: {"results": [{"i": <item index, int>, "verdict": "fix"|"reject", \
@@ -94,24 +101,79 @@ def letter_bag(s: str) -> Counter:
     return Counter(ch.lower() for ch in s if ch.isalpha())
 
 
-def collapse_immediate_dupes(bag_source: str) -> str:
-    """For coverage checking only: collapse a word immediately repeated in the
-    ORIGINAL flagged token (case-insensitive) to one instance, so a legitimate
-    de-duplication doesn't look like content loss when measuring coverage."""
-    import re
-
-    return re.sub(r"\b(\w+)(\1)\b", r"\1", bag_source, flags=re.IGNORECASE)
+def _lev(a: str, b: str, cap: int) -> int:
+    if abs(len(a) - len(b)) > cap:
+        return cap + 1
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i] + [0] * len(b)
+        for j, cb in enumerate(b, 1):
+            cost = 0 if ca == cb else 1
+            cur[j] = min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost)
+        prev = cur
+        if min(prev) > cap:
+            return cap + 1
+    return prev[-1]
 
 
 def coverage_ratio(original: str, correction: str) -> float:
-    orig_for_coverage = collapse_immediate_dupes(original)
-    orig_bag = letter_bag(orig_for_coverage)
-    corr_bag = letter_bag(correction)
-    total = sum(orig_bag.values())
-    if total == 0:
+    """Sequential alignment, not bag-of-letters. \\b(\\w+)(\\1)\\b (the old
+    approach) can never match a duplicate inside a no-space glued blob — there
+    is no word boundary between "RootsRoots" and the "ooffCaring" that follows
+    it, so a legitimate de-duplication like "RootsRootsooffCaring" ->
+    "Roots of Caring" scored 0.65 and got thrown out with genuine content-loss
+    cases. This walks the original blob using the CORRECTION's own word order:
+    for each word, try consuming it once, or (if the artifact doubled it)
+    twice consecutively, from the current position, with small per-word
+    fuzzy slack (<=1-2 edit distance) to absorb known noise like "of"
+    rendered as "off" in this corpus. Coverage = fraction of the original
+    blob's letters actually accounted for by this walk — a word the
+    correction can't find anywhere near the current position is exactly the
+    content-loss signal this check exists to catch; it isn't inferred from
+    aggregate letter counts, it's the literal unmatched remainder."""
+    orig = "".join(ch.lower() for ch in original if ch.isalpha())
+    words = [w.lower() for w in __import__("re").findall(r"[a-zA-Z]+", correction)]
+    if not orig:
         return 1.0
-    overlap = sum((orig_bag & corr_bag).values())
-    return overlap / total
+    pos = 0
+    consumed = 0
+    for w in words:
+        wl = len(w)
+        slack = 1 if wl <= 6 else 2
+        matched = 0
+        double = w + w
+        span2 = orig[pos : pos + len(double)]
+        if len(span2) == len(double) and _lev(span2, double, slack) <= slack:
+            matched = len(double)
+        else:
+            span1 = orig[pos : pos + wl]
+            if len(span1) == wl and _lev(span1, w, slack) <= slack:
+                matched = wl
+            else:
+                # word not found at the expected position — try a small
+                # lookahead in case an earlier word left extra unexplained
+                # noise, without letting the walk drift arbitrarily far
+                for lookahead in range(1, 4):
+                    span1 = orig[pos + lookahead : pos + lookahead + wl]
+                    if len(span1) == wl and _lev(span1, w, slack) <= slack:
+                        matched = wl
+                        pos += lookahead
+                        break
+        if matched == 0 and wl >= 3:
+            # this word of the correction has no home anywhere near the
+            # current position in the original — that's not content loss,
+            # it's the reverse: content ADDED that the flagged span never
+            # had (the model completing from its own background knowledge,
+            # e.g. "accountooffmoral" -> "account of moral development",
+            # "development" invented). Symmetric to the content-loss check
+            # this function exists for; short (<3-char) words are exempt so
+            # minor connector-word alignment jitter doesn't false-fail —
+            # the leaks actually observed were content words, not "a"/"in".
+            return 0.0
+        pos += matched
+        consumed += matched
+    total = len(orig)
+    return consumed / total if total else 1.0
 
 
 def call_batch(client, batch: list[dict]) -> list[dict]:
@@ -147,6 +209,12 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--apply", action="store_true", help="write fixes (default: report only)")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--progress", type=Path, default=ROOT / "ocr_llm_longrun_progress.jsonl")
+    ap.add_argument(
+        "--redo-unresolved",
+        action="store_true",
+        help="re-call the API (fresh, new prompt) for any suspect not already resolved by is_resolved() — "
+        "not just ones missing from progress. Use after a prompt/algorithm change to upgrade existing rejects.",
+    )
     args = ap.parse_args(argv)
 
     targets = [Path(f) for f in args.files] if args.files else sorted(ROOT.glob("*.md"))
@@ -176,8 +244,29 @@ def main(argv: list[str]) -> int:
 
     client = OpenAI(api_key=load_api_key())
 
-    pending = [s for s in suspects if f"{s['file']}:{s['start']}" not in done]
-    print(f"already done: {len(suspects) - len(pending)}  pending: {len(pending)}", flush=True)
+    def letters(s: str) -> int:
+        return sum(1 for c in s if c.isalpha())
+
+    def is_resolved(row: dict) -> bool:
+        if row.get("verdict") != "fix" or not row.get("correction"):
+            return False
+        if row.get("confidence", 0) < CONF_THRESHOLD:
+            return False
+        if row["word"].lower() == row["correction"].lower():
+            return False
+        if letters(row["correction"]) > letters(row["word"]) * 1.3 + 5:
+            return False
+        return coverage_ratio(row["word"], row["correction"]) >= COVERAGE_THRESHOLD
+
+    if args.redo_unresolved:
+        pending = [
+            s
+            for s in suspects
+            if f"{s['file']}:{s['start']}" not in done or not is_resolved(done[f"{s['file']}:{s['start']}"])
+        ]
+    else:
+        pending = [s for s in suspects if f"{s['file']}:{s['start']}" not in done]
+    print(f"already resolved: {len(suspects) - len(pending)}  pending: {len(pending)}", flush=True)
 
     batches = [pending[bi : bi + BATCH_SIZE] for bi in range(0, len(pending), BATCH_SIZE)]
     n_batches = len(batches)
@@ -203,6 +292,8 @@ def main(argv: list[str]) -> int:
                         if cov < COVERAGE_THRESHOLD:
                             verdict = "reject_content_loss"
                             content_loss_downgrades += 1
+                        elif letters(correction) > letters(s["word"]) * 1.3 + 5:
+                            verdict = "reject_over_completion"
                     row = {
                         "file": s["file"],
                         "start": s["start"],
@@ -219,33 +310,14 @@ def main(argv: list[str]) -> int:
                 completed += 1
                 print(f"  batch {completed}/{n_batches} done", flush=True)
 
-    def letters(s: str) -> int:
-        return sum(1 for c in s if c.isalpha())
-
-    over_completion = 0
-
-    def not_over_complete(v: dict) -> bool:
-        nonlocal over_completion
-        if letters(v["correction"]) > letters(v["word"]) * 1.3 + 5:
-            over_completion += 1
-            return False
-        return True
-
-    fixed = {
-        k: v
-        for k, v in done.items()
-        if v["verdict"] == "fix"
-        and v.get("confidence", 0) >= CONF_THRESHOLD
-        and v.get("correction")
-        and v["word"].lower() != (v.get("correction") or "").lower()
-        and not_over_complete(v)
-    }
+    suspect_keys = {f"{s['file']}:{s['start']}" for s in suspects}
+    fixed = {k: v for k, v in done.items() if k in suspect_keys and is_resolved(v)}
     print(
-        f"fix verdicts >= {CONF_THRESHOLD} conf, coverage >= {COVERAGE_THRESHOLD}, not over-complete: {len(fixed)} / {len(suspects)}",
+        f"resolved (conf >= {CONF_THRESHOLD}, coverage >= {COVERAGE_THRESHOLD}, not over-complete): "
+        f"{len(fixed)} / {len(suspects)}",
         flush=True,
     )
-    print(f"content-loss downgrades (model said fix, coverage check disagreed): {content_loss_downgrades}", flush=True)
-    print(f"over-completion exclusions (correction hallucinated content beyond the flagged span): {over_completion}", flush=True)
+    print(f"content-loss downgrades this run (model said fix, coverage check disagreed): {content_loss_downgrades}", flush=True)
 
     if not args.apply:
         print("report-only (pass --apply to write). Sample fixes:", flush=True)

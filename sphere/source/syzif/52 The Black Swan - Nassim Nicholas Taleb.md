@@ -813,7 +813,7 @@ we do know: we tend to learn the precise, not the general.
 What did people learn from the 9/11 episode? Did they learn that some
 
 events, owing to their dynamics, stand largely outside the realm of the predictable? No. Did they learn the built-in defect of conventional wisdom?
-No. What did they figure out? They learned precise rules for avoiding Islamic prototerrorists and tall buildings. Many keep reminding me that it
+No. What did they figure out? They learned precise rules for avoiding Islamic proto terrorists and tall buildings. Many keep reminding me that it
 is important for us to be practical and take tangible steps rather than to
 "theorize" about knowledge. The story of the Maginot Line shows how
 we are conditioned to be specific. The French, after the Great War, built a

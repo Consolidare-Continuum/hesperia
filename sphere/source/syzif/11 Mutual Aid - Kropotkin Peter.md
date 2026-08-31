@@ -107,7 +107,7 @@ All rights reserved. No part of this publication may be photocopied, reproduced,
 stored in a retrieval system, or transmitted in any form or by any means,
 electronic, mechanical, recording, or otherwise, without the written permission
 of the publisher or (for photocopying in Canada only) Access Copyright
-www.accesscopyright.ca.
+www.access copyright.ca.
 
 Canadian Cataloguing in Publication information available from Library and
 Archives Canada
@@ -4605,7 +4605,7 @@ jurisdiction, and themselves nominated six, seven, or twelve judges, who
 acted with the lord's judge, in the presence of the folkmote, as arbiters and
 sentence-finders. In most cases the official had nothing left to him but to
 confirm the sentence and to levy the customary fred. This precious right of
-self-jurisdiction, which, at that time, meant self-administration and selflegislation, had been maintained through all the struggles; and even the
+self-jurisdiction, which, at that time, meant self-administration and self legislation, had been maintained through all the struggles; and even the
 lawyers by whom Karl the Great was surrounded could not abolish it;
 they were bound to confirm it. At the same time, in all matters concerning the community's domain, the folkmote retained its supremacy and
 (as shown by Maurer) often claimed submission from the lord himself in
@@ -5071,7 +5071,7 @@ Mutual Aid in the
 Medieval City
 (continued)
 
-Likeness and diversity among the medieval cities.—The craft guilds: Stateattributes in each of them.—Attitude of the city towards the peasants; attempts
+Likeness and diversity among the medieval cities.—The craft guilds: State attributes in each of them.—Attitude of the city towards the peasants; attempts
 to free them.—The lords.—Results achieved by the medieval city: in arts, in
 learning.—Causes of decay.
 
@@ -6056,7 +6056,7 @@ middle of the eighteenth century. In Austria sheer force was used by the
 Government, in 1768, to compel the communes to divide their lands—a
 special commission being nominated two years later for that purpose. In
 Prussia Frederick the Second, in several of his ordinances (in 1752, 1763, 1765,
-and 1769), recommended to the Justizcollegien to enforce the division. In
+and 1769), recommended to the Justiz collegien to enforce the division. In
 Silesia a special resolution was issued to serve that aim in 1771. The same
 took place in Belgium, and, as the communes did not obey, a law was issued
 in 1847 empowering the Government to buy communal meadows in order
@@ -8271,7 +8271,7 @@ that country, so he accepted the invitation of a group of London-based
 anarchists to help found a newspaper to promote anarchist communism
 (Kropotkin would cofound Freedom in 1886).12 Anarchism was then gaining
 ground in the United Kingdom, and the involvement of a renowned figure
-already famous for his scientific work as well as a myriad of anarchistrelated books, pamphlets, articles, and journalistic contributions was cause
+already famous for his scientific work as well as a myriad of anarchist related books, pamphlets, articles, and journalistic contributions was cause
 for celebration. Within a few days of his arrival in early March, Kropotkin
 was invited to speak at an event organized by the Socialist League (1884–
 1901) honouring the Paris Commune (1871), and this is where he met Morris,

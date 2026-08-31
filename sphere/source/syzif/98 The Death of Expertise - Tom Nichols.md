@@ -870,7 +870,7 @@ and effectively." More disturbing is that Americans have done little
 in those intervening decades to remedy the gap between their own
 knowledge and the level of information required to participate in an
 advanced democracy. "The low level of political knowledge in the
-American electorate," Somin correctly notes, "is still one of the bestestablished findings in social science."3
+American electorate," Somin correctly notes, "is still one of the best established findings in social science."3
 
 SO IT'S NOT NEW. IS IT EVEN A PROBLEM?
 
@@ -2041,7 +2041,7 @@ lack of any trace that the conspiracy exists? Facts, the absence of facts,
 contradictory facts: everything is proof. Nothing can ever challenge
 the underlying belief.
 
-These kinds of overcomplicated explanations violate the famous
+These kinds of over complicated explanations violate the famous
 concept of "Occam's Razor" (sometimes spelled "Ockham"), named
 for the medieval monk who advocated the straightforward idea that
 we should always begin from the simplest explanation for anything

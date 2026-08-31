@@ -26,7 +26,7 @@ and Policy
 Douglass C. North, Institutions, Institutional Change, and Economic
 Perfomrance
 Charles Stewart III, Budget &/orm Politics: Tht Design of tbe
-Approl'riations Process in the House of RBpresentatives. 1865-1921
+Appropriations Process in the House of RBpresentatives. 1865-1921
 
 GOVERNING THE
 COMMONS

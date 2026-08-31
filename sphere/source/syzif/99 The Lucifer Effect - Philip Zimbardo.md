@@ -16154,7 +16154,7 @@ plicit, and especially explicit, social sanctions support such roles, people ten
 
 attracted to them who may not only derive satisfaction from the nature of their
 
-work but are quasiexecutioners in feeling as well as action."
+work but are quasi executioners in feeling as well as action."
 
 Steiner goes on to describe how roles can trump character traits: "[It] has be
 

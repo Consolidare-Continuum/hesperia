@@ -3516,7 +3516,7 @@ and other sources of en ti tle ment to vital commodities. This general
 point has become a part of uncontroversial mainstream analysis.
 The further step of thinking about disadvantage more generally
 in terms of capability failure, though a natural next move, has not
-always been taken, partly because the attraction of models that aggregate across elements of lives remains strong, as does the attraction of using income and wealth as proxies for the different lifeopportunities that people may or may not have. In Disadvantage,
+always been taken, partly because the attraction of models that aggregate across elements of lives remains strong, as does the attraction of using income and wealth as proxies for the different life opportunities that people may or may not have. In Disadvantage,
 Jonathan Wolff and Avner De- Shalit argue vigorously against reducing all the elements of lives to a single numerical scale. They show
 that any approach that aggregates across the diverse elements of
 

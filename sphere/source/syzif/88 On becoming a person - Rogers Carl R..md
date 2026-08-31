@@ -8069,7 +8069,7 @@ which is personally and socially constructive.* There is, in actuality
 then, no threatening entity o f " Science" which can in any w ay affect
 our destiny. There are only people. W hile many o f them are indeed
 
-delinquent adolescents was best predicted by a measure of their realistic selfunderstanding and self-acceptance. T h e instrument was a crude one, but it
+delinquent adolescents was best predicted by a measure of their realistic self understanding and self-acceptance. T h e instrument was a crude one, but it
 was a better predictor than measures o f fam ily environment, hereditary capacities, social milieu, and the like. A t that time I was simply not ready to believe
 such a finding, because my own belief, like that of most psychologists, was that
 such factors as the emotional climate in the family and the influence o f the
@@ -9366,7 +9366,7 @@ are listed below to give the reader something of the flavor of the
 Scale.
 
 Score
-1. S (subject) charactcristicallv appeals for help in the solution of
+1. S (subject) characteristically appeals for help in the solution of
 
 Item
 
@@ -9661,7 +9661,7 @@ or medical or psychological training, m ay be sufficient to stimulate
 a positive therapeutic process.
 
 Th is investigation is a pioneering one in still another respect. It
-is one o f the first explicitly designed to study the causative or changeproducing elements o f psychotherapy.
+is one o f the first explicitly designed to study the causative or change producing elements o f psychotherapy.
 In this respect theory has
 advanced sufficiently, and m ethodological sophistication as well, that
 we m ay look forw ard to an increasing number o f investigations into
@@ -9776,7 +9776,7 @@ significant changes in the client have to do with very subtle and
 subjective experiences — inner choices, greater oneness within the
 whole person, a different feeling about one's self. And in the therapist some o f the recent studies suggest that a warmly human and
 genuine therapist, interested only in understanding the moment-bymoment feelings o f this person who is com ing into being in the relationship with him, is the most effective therapist. Certainly there
-is nothing to indicate that the coldly intellectual analytical factuallyminded therapist is effective. It seems to be one of the paradoxes of
+is nothing to indicate that the coldly intellectual analytical factually minded therapist is effective. It seems to be one of the paradoxes of
 psychotherapy that to advance in our understanding of the field
 the individual must be willing to put his most passionate beliefs and
 firm convictions to the impersonal test of empirical research; but to
@@ -12291,7 +12291,7 @@ communication.
 Another point to be noted here is that his communication is
 actually ambiguous and unclear. In its w ords it is a setting forth
 of logic and fact. In its tone, and in the accom panying gestures, it
-is carrying a very different message — " I am angry at you." I believe this am biguity or contradictorincss o f communication is always
+is carrying a very different message — " I am angry at you." I believe this am biguity or contradictoriness o f communication is always
 present when a person who is at that moment incongruent endeavors
 to communicate.
 
@@ -12364,7 +12364,7 @@ T o conclude our definition o f this construct in a much more
 commonsense w ay, I believe all of us tend to recognize congruence
 or incongruence in individuals with whom we deal. W ith some individuals we realize that in m ost areas this person not only consciously means exactly w hat he says, but that his deepest feelings also
 match what he is expressing, whether it is anger or competitiveness
-or affection or cooperativcncss. W e feel that " we know exactly
+or affection or cooperativeness. W e feel that " we know exactly
 where he stands." W ith another individual we recognize that what
 he is saying is almost certainly a front, a facade. W e wonder what
 he really feels. W e w onder if he know s w hat he feels. W e tend to
@@ -13750,7 +13750,7 @@ Boston: Houghton Mifflin Co., 1955.
 
 10. Gough, H. E., and D. R. Peterson. The identification and measure­
 
-ment of prcdispositional factors in crime and delinquency. J. Consult.
+ment of predispositional factors in crime and delinquency. J. Consult.
 Psychol., 1952, 16, 207-212.
 
 T h e B e h a v io r a l S c i e n c e s a n d t h e P e r so n
@@ -14465,7 +14465,7 @@ behavioral sciences in w ays which will free, not control; which
 will bring about constructive variability, not conform ity; which will
 develop creativity, not contentment; which will facilitate each
 person in his self-directed process o f becom ing; which will aid
-individuals, groups, and even the concept o f science, to become selftranscending in freshly adaptive w ays o f meeting life and its problems. T h e choice is up to us, and the human race being what it is,
+individuals, groups, and even the concept o f science, to become self transcending in freshly adaptive w ays o f meeting life and its problems. T h e choice is up to us, and the human race being what it is,
 we are likely to stumble about, m aking at times some nearly disastrous value choices, and at other times highly constructive ones.
 If we choose to utilize our scientific know ledge to free men, then
 it will demand that we live openly and frankly with the great paradox o f the behavioral sciences. W e will recognize that behavior,

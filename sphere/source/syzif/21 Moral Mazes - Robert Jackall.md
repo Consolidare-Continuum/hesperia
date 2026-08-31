@@ -2917,7 +2917,7 @@ and down the corporate ladder adopt their public faces quite consciously;
 they are, in fact, the masks behind which the real struggles and moral issues
 of the corporation can be found.
 
-Karl Mannheim's conception of self-rationalization6 or selfstreamlining, that is, the systematic application of functional rationality to
+Karl Mannheim's conception of self-rationalization6 or self streamlining, that is, the systematic application of functional rationality to
 the self to attain certain individual ends, is useful in understanding one of
 
 the central social psychological processes of organizational life. In a world

@@ -10008,7 +10008,7 @@ the colored man."
 20. Central to Delany's argument is a lengthy case of the virtues of individual Black citizens, which he supports by providing many examples
 of impressive Black attainment in the face of large structural obstacles.
 21. Delany, The Condition, Elevation, Emigration, and Destiny, p. 87.
-22. http://www.blackyouthproject.com/2014/03/conversations-we
+22. http://www.black youth project.com/2014/03/conversations-we
 -are-not-having-a-black-youth-project-economic-justice-series-a-social
 -movement-not-self-improvement/.
 

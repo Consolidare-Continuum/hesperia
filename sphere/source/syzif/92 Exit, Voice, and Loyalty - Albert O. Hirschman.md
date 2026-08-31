@@ -684,7 +684,7 @@ For many (perhaps most) of these .
 ailments the
 morbid causes will be found not in the malfuilctioning of
 the life processes in the body economic, such as the low
-rate of savings, or the high level of prices, or the insufficient allocation of national resources to research and development, but in specific failures of its individual cellsmanagement, design, salesmanship, or the behavior of
+rate of savings, or the high level of prices, or the insufficient allocation of national resources to research and development, but in specific failures of its individual cells management, design, salesmanship, or the behavior of
 groups of labor.10
 
 I feel considerable kinship with this group of '\Writings
@@ -923,7 +923,7 @@ exclude the possibility that the two sets of forces could
 work at cross-purposes. But they leave room for a conjunction-which could quite possibly be inadequate-of
 these two forces, whereas both laissez-faire and interventionist doctrines have looked at market and nonmarket
 forces in a strictly Manichaean way, it being understood
-that the laissez-faire advocate's forces of good are the interventionist's forces of evil and vice versa.
+that the laissez-faire advocate's forces of good are the interventionist forces of evil and vice versa.
 
 A final point. Exit and voice, that is, market and nonmarket forces, that is, economic and political mechanisms,
 have been introduced as two principal actors of strictly
@@ -1041,7 +1041,7 @@ caused by quality decline is much simpler-and more damaging than that caused by 
 declines whenever the quality-elasticity of demand is greater than
 zero, whereas in the case of price increases total revenue falls of
 course only if price-elasticity of demand is greater than unity. ( Unit
-elasticity of demand has no precise meaning in the case of qualityelasticity. When the concept of "quality-elasticity of demand" is put
+elasticity of demand has no precise meaning in the case of quality elasticity. When the concept of "quality-elasticity of demand" is put
 together in analogy to price-elasticity, two different scales-some
 measure of quality and money-are divided into one another. Hence,
 any numerical measure other than zero and infinity is the result of
@@ -1799,7 +1799,7 @@ will therefore "raise hell." 1
 
 In Nigeria, then, I had encountered a situation where
 the combination of exit and voice was particularly noxious
-for any recovery : exit did not have its usual attentionfocusing effect because the loss of revenue \vas not a matter of the utmost gravity for management, while voice
+for any recovery : exit did not have its usual attention focusing effect because the loss of revenue \vas not a matter of the utmost gravity for management, while voice
 did not work as long as the most aroused and therefore
 the potentially most vocal customers were the first ones to
 abandon the railroads for the trucks. It is particularly this

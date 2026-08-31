@@ -3101,7 +3101,7 @@ subtle strategies to increase my Heavy Weapons training, went back and got
 the gun, and had great fun blasting robots with a single shot.)
 
 But choosing J. C's skill levels is not the only way in which you can develop
-him. As I said above, he is "nano-augmented." In fact, he has slots for nanoaugmentations distributed around his body. You begin the game with three
+him. As I said above, he is "nano-augmented." In fact, he has slots for nano augmentations distributed around his body. You begin the game with three
 nano-augmentations already installed: an Infolink that allows J. C. to receive
 real-time neural communications from commanders and allies; an IFF (Identification: Friend or Foe) system that analyzes people and tells J. C. whether they
 are hostile or not; and a Light that runs off J. C.'s own biological system.
@@ -4232,7 +4232,7 @@ language," though different varieties of academic language are associated
 with different content areas in school.
 
 Academic language, like the language in the Deus Ex booklet, is not really lucid or meaningful if one has no embodied experiences within which to
-situate its meanings in specific ways. For example, consider this academiclanguage quote from a high school science textbook:
+situate its meanings in specific ways. For example, consider this academic language quote from a high school science textbook:
 
 The destruction of a land surface by the combined effects of abrasion and
 

@@ -4089,7 +4089,7 @@ impregnated with theories. (Even a 'phenomenal' language permitting
 statements like 'now here red' would be impregnated with theories
 about time, space, and colour.)
 
-4 Weyl (op. cit., p. 83, English edition p. 116) writes: '. . . this pair of opposites, subjectiveabsolute and objective-relative seems to me to contain one of the most profound epistemological truths which can be gathered from the study of nature. Whoever wants the
+4 Weyl (op. cit., p. 83, English edition p. 116) writes: '. . . this pair of opposites, subjective absolute and objective-relative seems to me to contain one of the most profound epistemological truths which can be gathered from the study of nature. Whoever wants the
 absolute must get subjectivity—ego-centricity—into the bargain, and whoever longs for
 objectivity cannot avoid the problem of relativism.' And before this we find, 'What is
 immediately experienced is subjective and absolute . . . ; the objective world, on the other
@@ -4887,7 +4887,7 @@ necessary, corresponding to six points of the graph. We saw in section
 36 that q is more easily falsifiable than s: since all circles are ellipses, it
 was possible to base the comparison on the subclass relation. But the use
 of dimensions enables us to compare theories which previously we were
-unable to compare. For example, we can now compare a circlehypothesis with a parabola-hypothesis (which is four dimensional).
+unable to compare. For example, we can now compare a circle hypothesis with a parabola-hypothesis (which is four dimensional).
 Each of the words 'circle', 'ellipse', 'parabola' denotes a class or set of
 curves; and each of these sets has the dimension d if d points are necessary
 and sufficient to single out, or characterize, one particular curve of the
@@ -5828,7 +5828,7 @@ D. Sholl, and E. Rabinowitsch: Probability, Statistics and Truth, 1939; Wahrsche
 und ihre Anwendung in der Statistik und theoretischen Physik (Vorlesungen über angewandte Mathematik
 1), 1931.
 
-and which may be called the 'event-sequence' or the 'propertysequence'.
+and which may be called the 'event-sequence' or the 'property sequence'.
 
 As a simple example of a collective I choose what we may call an
 'alternative'. By this term we denote a sequence of events supposed to
@@ -8096,7 +8096,7 @@ probability 193
 as molecular collisions. Other typical cases (such as statistical fluctuations or the statistics of chance-like individual processes) can be
 reduced without much difficulty to this case.*3
 
-Let us take a macro effect of this type, described by a wellcorroborated law, which is to be reduced to random sequences of
+Let us take a macro effect of this type, described by a well corroborated law, which is to be reduced to random sequences of
 micro events. Let the law assert that under certain conditions a physical
 magnitude has the value p. We assume the effect to be 'precise', so that
 no measurable fluctuations occur, i.e. no deviations from p beyond that

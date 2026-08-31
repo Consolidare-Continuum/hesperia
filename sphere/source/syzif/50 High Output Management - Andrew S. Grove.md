@@ -2791,7 +2791,7 @@ Then why are they underutilized? Because of the
 awkwardness that managers feel about walking through an
 area without a specific task in mind. At Intel we combat this
 problem by using programmed visits meant to accomplish
-formal tasks, but which also set the stage for ad hoc minitransactions. For example, we ask our managers to
+formal tasks, but which also set the stage for ad hoc mini transactions. For example, we ask our managers to
 participate in "Mr. Clean" inspections, in which they go to a
 part of the company that they normally wouldn't visit. The
 managers examine the housekeeping, the arrangement of
@@ -3288,7 +3288,7 @@ time—has been
 techniques, which
 
 The most common approach to increasing a manager's
-timeproductivity—his output over
+time productivity—his output over
 the
 management
 denominator on both sides of this equation. Any number of
@@ -6815,7 +6815,7 @@ limit. Thus,
 its most
 
 Two inner forces can drive a person to use all of his
-capabilities. He can be competence-driven or achievementdriven. The former concerns itself with job or task mastery.
+capabilities. He can be competence-driven or achievement driven. The former concerns itself with job or task mastery.
 A virtuoso violinist who continues to practice day after day
 is obviously moved by something other than a need for
 esteem and recognition. He works to sharpen his own skill,

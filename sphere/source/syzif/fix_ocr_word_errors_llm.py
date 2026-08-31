@@ -252,10 +252,12 @@ def main(argv: list[str]) -> int:
                 completed += 1
                 print(f"  batch {completed}/{n_batches} done", flush=True)
 
+    suspect_keys = {f"{s['file']}:{s['start']}" for s in suspects}
     fixed = {
         k: v
         for k, v in done.items()
-        if v["verdict"] == "fix"
+        if k in suspect_keys
+        and v["verdict"] == "fix"
         and v.get("confidence", 0) >= CONF_THRESHOLD
         and v.get("correction")
         and v["word"].lower() != (v.get("correction") or "").lower()

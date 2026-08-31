@@ -20358,7 +20358,7 @@ within	national	boundaries	or	in	cross-national	samples,	are	all	matters	of	empi
 tension	between	agency	and	communion	is	a	basic	duality	of	human	existence	(Bakan,	1966)	in	our
 view.	How	it	is	calibrated	may	well	show	variability	across	cultures.	Some	societies	may	prioritize
 communion,	but	agency	is	not	thereby	neglected.	Other	societies	may	prioritize	agency,	but	the
-yearning	for	attachment,	communion,	and	bonding	is	never	absent.	Moreover,	how	agencycommunion	is	manifested	will	vary	within	the	life	course	of	the	self-same	individual,	depending	on
+yearning	for	attachment,	communion,	and	bonding	is	never	absent.	Moreover,	how	agency communion	is	manifested	will	vary	within	the	life	course	of	the	self-same	individual,	depending	on
 relational	status,	developmental	priorities,	or	life	circumstances.	However	the	compromise	is	struck
 between	agency	and	communion,	emerging	adulthood	is	the	developmental	period	during	which	the
 hard	bargaining	will	have	to	take	place,	with	important	implications	for	later	adjustment	in

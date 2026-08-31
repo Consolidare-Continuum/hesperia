@@ -71,7 +71,7 @@ II. Series.
 K5001.Z43 1990
 364.6dc20                                                       89-77873
 
- The paper used in this publication is recycled and meets the minimum requirements of American National Standard for Information SciencesPermanence of Paper for Printed Library Materials, ANSI Z39.48-1984.
+ The paper used in this publication is recycled and meets the minimum requirements of American National Standard for Information Sciences Permanence of Paper for Printed Library Materials, ANSI Z39.48-1984.
 
  Except when otherwise indicated, Scripture quotations are from the Holy, Bible, New International Version®, copyright © 1973, 1978, 1984 by International Bible Society, and used by permission of Zondervan Publishing House, all rights reserved.
 
@@ -325,9 +325,9 @@ Page 15
  Chapter 1
 A Vignette
 
- This book is about principles and ideals. It seeks perhaps presumptuouslyto identify and evaluate some of the basic assumptions we make about crime, about justice, about how we live together. It attempts to outline briefly how we came to have these assumptions and to suggest some alternatives.
+ This book is about principles and ideals. It seeks perhaps presumptuously to identify and evaluate some of the basic assumptions we make about crime, about justice, about how we live together. It attempts to outline briefly how we came to have these assumptions and to suggest some alternatives.
 
- Such an effort involves abstractions, but it cannot be limited to them. We must begin by entering into the actual experience of crime and of justice as deeply as we can. Only with a firm footing in such reality can we begin to understand what we do, why we do it, andhopefullywhat we might do differently.
+ Such an effort involves abstractions, but it cannot be limited to them. We must begin by entering into the actual experience of crime and of justice as deeply as we can. Only with a firm footing in such reality can we begin to understand what we do, why we do it, and hopefully what we might do differently.
 
  But an understanding of the experience of crime is not an easy undertaking, and it is not one that most of us approach willingly. To confront what it means to victimize or to be victimized by another person sparks intense emotions which are often frightening and which we would rather let lie. Unless we have experienced crime directly, we may find it difficult to empathize fully. Nevertheless, we must try, realizing that the attempt will be incomplete and perhaps painful.
 
@@ -2778,7 +2778,7 @@ Page 194
 
  Victims need reassurance, reparation, vindication, empowerment, but they especially need to find meaning. Remember Ignatieff's insight: justice provides a framework for meaning. Victims need to find answers to questions about what happened, why, and what is being done about it. They need to address the six questions which I suggested in chapter 1 that provide steps to recovery. Only the victims themselves can answer some of these questions, although it may be that we can help them in their search. However, some of these questions are questions of fact. Who did it, why, what kind of person are they, what is being done about it? At minimum, justice should provide such information.
 
- Thus victims often seek vindication. This vindication includes denunciation of the wrong, lament, truth-telling, deprivitization, and deminimization. They seek equity, including reparation, reconciliation, and forgiveness. They sense a need for empowerment, including participation and safety. Another need is reassurance, including support, "suffering with," safety, clarification of responsibility, and prevention. And they have a need for meaning, including information, fairness, answers, and a sense of proportion.
+ Thus victims often seek vindication. This vindication includes denunciation of the wrong, lament, truth-telling, deprivatization, and deminimization. They seek equity, including reparation, reconciliation, and forgiveness. They sense a need for empowerment, including participation and safety. Another need is reassurance, including support, "suffering with," safety, clarification of responsibility, and prevention. And they have a need for meaning, including information, fairness, answers, and a sense of proportion.
 
  Victims feel violated by crime, and these violations generate needs. Communities feel violated as well, however, and they have needs too. Since one cannot ignore the public dimensions of crime, the justice pro-
 

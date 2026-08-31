@@ -1101,7 +1101,7 @@ Chapter Four: Pestilence Conquers
 14. Sheldon Watts, Epidemics and History: Disease, Power and Imperialism (New Haven: Yale University Press, 1999), p. 89.
 15. Quoted in Hugh Thomas, Conquest: Cortés, Montezuma, and the Fall of Old Mexico (New York: Simon & Schuster, 2013).
 16. Quoted in Watts, Epidemics and History, p. 89.
-17. Las Casas, A Short Account of the Destruction of the Indes. Retrieved from http://nationalhumanitiescenter.org/pds/amerbegin/contact/text7/casas_destruction.pdf.
+17. Las Casas, A Short Account of the Destruction of the Indes. Retrieved from http://national humanities center.org/pds/amerbegin/contact/text7/casas_destruction.pdf.
 18. Mann, 1491: New Revelations of the Americas, p. 61.
 19. Ibid.
 20. Ibid.
@@ -1246,7 +1246,7 @@ Chapter Six: Cleaning Up
 42. Fabiana Santana, "The World's Most Expensive Restaurants." Retrieved from http://www.foxnews.com/leisure/2014/12/05/world-most-expensive-restaurants/.
 43. Menu retrieved from http://www.thomaskeller.com/sites/default/files/media/4.27.2016_dinner_tasting.pdf.
 44. Rande Iaboni, "Posh NYC Restaurant Roasted by Health Inspectors," CNN, March 4, 2014. Retrieved from http://www.cnn.com/2014/03/04/us/new-york-restaurant-health-inspection/.
-45. The Council of the City of New York, Hearing on the Fiscal Year 2014 Executive Budget for the Department of Sanitation, May 30, 2013. Retrieved from https://council.nyc.gov/budget/wp-content/uploads/sites/54/2013/06/fy2014-deptofsanitation.pdf.
+45. The Council of the City of New York, Hearing on the Fiscal Year 2014 Executive Budget for the Department of Sanitation, May 30, 2013. Retrieved from https://council.nyc.gov/budget/wp-content/uploads/sites/54/2013/06/fy2014-dept of sanitation.pdf.
 46. New York City, New York City's Wastewater Treatment System. Retrieved from https://www.researchgate.net/profile/Rafik_Karaman/post/How_does_government_control_WWTP_effluent/attachment/59d6340879197b8077991b44/AS%3A377579619012609%401467033404974/download/WWTP+NY+USA.pdf.
 47. Bureau of Labor Statistics, May 2015, "National Industry-Specific Occupational Employment and Wage Estimates, NAICS 325600—Soap, Cleaning Compound, and Toilet Preparation Manufacturing." Retrieved from https://www.bls.gov/oes/2016/may/naics4_325600.html.
 48. Stephan Talty, The Illustrious Dead: The Terrifying Story of How Typhus Killed Napoleon's Greatest Army (New York: Crown Publishers, 2009), p. 272.
@@ -1305,7 +1305,7 @@ Chapter Seven: Salvation by Needle
 39. Crawford, Deadly Companions, p. 222.
 40. Polio Global Eradication Initiative, "Remembering Ali Maalin," http://polioeradication.org/news-post/remembering-ali-maalin/.
 41. Source: the World Health Organization database. Retrieved from http://www.who.int/gho/database/en/.
-42. Data from the Polio Global Eradication Initiative: http://www.polioeradication.org/dataandmonitoring/poliothisweek.aspx.
+42. Data from the Polio Global Eradication Initiative: http://www.polioeradication.org/data and monitoring/poliothisweek.aspx.
 43. Vaccines list from the Centers for Disease Control, https://www.cdc.gov/vaccines/vpd/vaccines-list.html.
 44. James C. Riley, Rising Life Expectancy: A Global History (Cambridge, UK: Cambridge University Press, 2001).
 45. World Health Organization, "Miracle Cure for an Old Scourge: An Interview with Dr. Dilip Mahalanabis," http://www.who.int/bulletin/volumes/87/2/09-060209/en/, and Sumati Yengkhom, "Global Glory, but State Apathy for ORS Creator," Times of India May 13, 2013, http://timesofindia.indiatimes.com/city/kolkata/Global-glory-but-state-apathy-for-ORS-creator/articleshow/20022013.cms.
@@ -1327,9 +1327,9 @@ Chapter Seven: Salvation by Needle
 61. Under-five mortality data from www.gapminder.org.
 62. Yvonne Lefèber and Henk W. A. Voorhoeve, Indigenous Customs in Childbirth and Child Care (Assen, Netherlands: Uitgeverij Van Gorcum, 1998).
 63. Peter N. Stearns, Childhood in World History (Abingdon, UK: Routledge, 2010).
-64. Bill Gates, "Why Naming a Child Is a Revolutionary Act," Impatient Optimists blog http://www.impatientoptimists.org/Posts/2013/02/Why-Is-Naming-a-Child-a-Revolutionary-Act.
+64. Bill Gates, "Why Naming a Child Is a Revolutionary Act," Impatient Optimists blog http://www.impatient optimists.org/Posts/2013/02/Why-Is-Naming-a-Child-a-Revolutionary-Act.
 65. Max Roser, Life Expectancy (OurWorldInData.org, 2016). Retrieved from http://ourworldindata.org/data/population-growth-vital-statistics/life-expectancy/.
-66. Sources for 2016 GDP PPP per capita, poverty, and life expectancy are the World Bank's World Development Indicators (https://data.worldbank.org/) and PovcalNet (http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx). For England and Wales life expectancy, UK Office of National Statistics (https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howhaslifeexpectancychangedovertime/2015-09-09) and UK GDP PPP per capita, the MaddisonProject website (https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018).
+66. Sources for 2016 GDP PPP per capita, poverty, and life expectancy are the World Bank's World Development Indicators (https://data.worldbank.org/) and PovcalNet (http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx). For England and Wales life expectancy, UK Office of National Statistics (https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/life expectancies/articles/how has life expectancy changed over time/2015-09-09) and UK GDP PPP per capita, the Maddison project website (https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018).
 67. Shiyon Wang, P. Marquez, and John Langenbrunner, "Toward a Healthy and Harmonious Life in China: Stemming the Rising Tide of Non-Communicable Diseases," mimeo, the World Bank, 2011.
 68. Elizabeth Frankenberg, Jessica Y. Ho, and Duncan Thomas, Biological Health Risks and Economic Development, no. w21277, National Bureau of Economic Research, 2015.
 69. Adult obesity data from the Harvard School of Public Health, http://www.hsph.harvard.edu/obesity-prevention-source/obesity-trends/obesity-rates-worldwide/.
@@ -1360,7 +1360,7 @@ Chapter Eight: It's Good to Get Closer
 21. Julie Y. Huang, Alexandra Sedlovskaya, Joshua M. Ackerman, and John A. Bargh, "Immunizing Against Prejudice: Effects of Disease Protection on Attitudes Toward Out-Groups," Psychological Science 22, no. 12 (2011): 1550–1556.
 22. B. Dupont, A. Gandhi, and T. J. Weiss, The American Invasion of Europe: The Long Term Rise in Overseas Travel, 1820–2000, no. w13977, National Bureau of Economic Research, 2008.
 23. Data source: World Bank Databank, https://databank.worldbank.org/home.aspx.
-24. New America Economy Research Fund, "Immigrant Healthcare Workers Are Critical in the Fight Against Covid-19," https://research.newamericaneconomy.org/report/covid-19-immigrant-healthcare-workers/.
+24. New America Economy Research Fund, "Immigrant Healthcare Workers Are Critical in the Fight Against Covid-19," https://research.new american economy.org/report/covid-19-immigrant-healthcare-workers/.
 25. Data from Starbucks (http://www.starbucks.com/business/international-stores) and OECD statistics (https://data.oecd.org/fdi/fdi-stocks.htm).
 26. Angus Maddison, "The West and the Rest in the World Economy: 1000–2030," World Economics 9, no. 4 (2008): 75–99.
 27. Charles Kenny, The Upside of Down: Why the Rise of the Rest Is Good for the West (New York: Basic Books, 2014).
@@ -1465,13 +1465,13 @@ Chapter Ten: Abusing Our Best Defenses
 27. Susan V. Lynch et al., "Effects of Early-Life Exposure to Allergens and Bacteria on Recurrent Wheeze and Atopy in Urban Children," Journal of Allergy and Clinical Immunology 134, no. 3 (2014): 593–601.
 28. E. M. Rees Clayton, M. Todd, J. B. Dowd, and A. Aiello, "The Impact of Bisphenol A and Triclosan on Immune Parameters in the U.S. Population, NHANES 2003–2006," Environmental Health Perspectives 119, no. 3 (2011): 390–396.
 29. Katri Korpela et al., "Intestinal Microbiome Is Related to Lifetime Antibiotic Use in Finnish Pre-School Children," Nature Communications 7 (2016).
-30. Eisenhower's State of the Union Address. Retrieved from http://www.pbs.org/wgbh/americanexperience/features/primary-resources/eisenhower-state58/.
+30. Eisenhower's State of the Union Address. Retrieved from http://www.pbs.org/wgbh/american experience/features/primary-resources/eisenhower-state58/.
 31. Andrew Spielman and Michael d'Antonio, Mosquito: The Story of Man's Deadliest Foe (New York: Hyperion, 2002).
 32. Rosemary Drisdelle, Parasites: Tales of Humanity's Most Unwelcome Guests (Berkeley: University of California Press, 2010).
 33. Richard G. A. Feachem et al., "Shrinking the Malaria Map: Progress and Prospects," Lancet 376, no. 9752 (2010): 1566–1578.
 34. Shallo Daba Hamusse, Taye T. Balcha, and Tefera Belachew, "The Impact of Indoor Residual Spraying on Malaria Incidence in East Shoa Zone, Ethiopia," Global Health Action 5 (2012).
 35. There is the related issue of low-quality drugs. Around 30 percent of the world's public authorities have no drug regulation capacity or a capacity that barely functions. Gaurvika M. L. Nayyar et al., "Poor-Quality Antimalarial Drugs in Southeast Asia and Sub-Saharan Africa," Lancet Infectious Diseases 12, no. 6 (2012): 488–496.
-36. World Health Organization, Antimicrobial Resistance: Global Report on Surveillance, (Geneva: WHO, 2014) http://www.who.int/drugresistance/documents/surveillancereport/en/.
+36. World Health Organization, Antimicrobial Resistance: Global Report on Surveillance, (Geneva: WHO, 2014) http://www.who.int/drugresistance/documents/surveillance report/en/.
 37. Dean T. Jamison et al. (eds.), Disease Control Priorities in Developing Countries (Washington, DC: World Bank, 2006).
 38. Rachel Nugent, Emma Back, and Alexandra Beith, The Race Against Drug Resistance (Washington, DC: Center for Global Development, 2010).
 39. Fleming's Nobel Prize acceptance speech. Retrieved from https://www.nobelprize.org/uploads/2018/06/fleming-lecture.pdf.

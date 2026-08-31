@@ -5066,7 +5066,7 @@ have	 argued	 as	 follows,	 in	 a	 most	 obscure	 part	 of	 the	 Relu	 blic."
 Appetites	are	always	directed	toward	a	certain	sort	of	object	from	which
 they	 never	 diverge:	 thirst	 for	 drink,	 hunger	 for	 food	 -	 and	 the	appetite
 itself	does	not	contain	any	further	thought	of	the	value	or	goodness	of
-the	 object.	 They	 are,	 then,	 both	 object-fixated	 and	 valueindifferent.
+the	 object.	 They	 are,	 then,	 both	 object-fixated	 and	 value indifferent.
 Emotions	 contain'94	 internal	 to	 themselves,	 a	 thought	 of	 the	object's
 value	 or	 importance.	 And	 indeed,	 this	 thought	 of	 value	 is	 the	central
 way	 the	 emotion	 has	 of	 characterizing	 its	 object;	 in	 other	 respects,
@@ -5095,7 +5095,7 @@ These	differences	have	consequences	for	the	adaptivity	and	flexibility
 of	the	phenomena.	Because	they	are	pushes,	bodily	appetites	do	not	go
 away	 if	 there	 is	 no	 object	 of	 the	 right	 sort	 around.	 Hunger,	 to	 say	 the
 least,	 persists	 in	 the	 absence	 of	 food.	 Indeed,	 since	 they	 are
-valueindependent	 drives,	 they	 do	 not	 go	 away	 even	 if	 the	 person	 is
+value independent	 drives,	 they	 do	 not	 go	 away	 even	 if	 the	 person	 is
 convinced	that	an	object	of	the	appropriate	sort	is	actually	harmful:	if	I
 am	 thirsty	at	 sea,	 my	 knowledge	 of	 the	 danger	 of	 drinking	 salt	 water
 does	not	stop	me	from	wanting	to	drink	it.	Emotions,	by	contrast,	do	go
@@ -5337,7 +5337,7 @@ own	 control	 and	 mastery.	 If	 it	 thinks	 that	 all	 its	 voluntary	respondin
 will	 bring	 no	 change	 in	 its	 situation,	 depression	 and	 even	death	 will
 ensue.	 Never,	 however,	 does	 a	 nonhuman	 animal	 reach	 the	point	 that
 humans	 frequently	 reach,	 with	 or	 without	 the	 help	 of	 philosophy:	 of
-putting	 all	 their	 emotions	 "in	 the	 deep	 freeze,"	 to	 use	 Pitcher's	selfdescription,	 and	 believing	 that	 self-respect	 (or,	 perhaps,	 manly	pride)
+putting	 all	 their	 emotions	 "in	 the	 deep	 freeze,"	 to	 use	 Pitcher's	self description,	 and	 believing	 that	 self-respect	 (or,	 perhaps,	 manly	pride)
 requires	not	deeply	needing	or	trusting	anything	outside	oneself.
 
 By	 contrast,	 consider	 Lupa,	 with	 a	 history	 that	 justified	 Stoic
@@ -6098,7 +6098,7 @@ of	an	actual	sadness.	But	let	us	bypass	these	worries	and	stipulate	that
 the	 research	 does	 show	 what	 Ekman	 claims	 it	 does.	 What	would	 this
 itself	 show?	 It	 would	 show	 that	 there	 is	 probably	 some	underlying
 evolutionary	 basis	 to	 some	 emotional	 behavior	 and	 signalling.	 It	 does
-not	show,	of	course,	that	this	cross-cultural	part	is	central	to	emotionbehavior	in	a	given	culture,	or	that	a	person	could	not	be	recognized	as
+not	show,	of	course,	that	this	cross-cultural	part	is	central	to	emotion behavior	in	a	given	culture,	or	that	a	person	could	not	be	recognized	as
 having	the	emotion	in	question	without	it.	It	also	does	not	show	that	the
 tendency	in	the	direction	of	a	given	kind	of	facial	behavior	could	not	he
 effectively	 overridden	 by	 social	 teaching	 -	 as	 the	manifestations	 of

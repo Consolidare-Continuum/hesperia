@@ -7083,7 +7083,7 @@ their arms and thus simultaneously immobilizing them, catching them by
 surprise by coming up out of their field of vision, and avoiding having to
 look them in the face. One might argue that this is in order to avoid being
 recognized, but there is also an avoidance of confrontational tension/fear;
-as we have seen in the case of close military combat, and in executionkillings, seeing the victim's eyes is a deterrent to attack.8
+as we have seen in the case of close military combat, and in execution killings, seeing the victim's eyes is a deterrent to attack.8
 
 • 175
 
@@ -7104,7 +7104,7 @@ quickly turned the momentum of fear in the other direction.
 
 Interviews with muggers show that their chief concern is with selecting
 a weak victim, and with managing their own fear (Lejeune 1977; Lejeune
-and Alex 1973). In the preconfrontation stage, muggers reassure themselves by thinking of past successful muggings that they have carried out;
+and Alex 1973). In the pre confrontation stage, muggers reassure themselves by thinking of past successful muggings that they have carried out;
 they also derive a feeling of bravado from bragging and blustering in the
 presence of a group of peers—in effect, carrying over the emotional effervescence of their support group into their own energy to offset fear as
 they strike out as a small "crew." In the phase of actual confrontation,
@@ -7512,7 +7512,7 @@ It can be a dangerous game; in part because there is always the chance
 someone will fight back, and the robber will have to escalate; there is also
 the chance that he will not be able to dominate, that his technique will
 fail—an even more serious psychological challenge. In the background,
-no doubt, there is also the confrontational tension/fear of all violencethreatening situations; the mature armed robber is at some distance from
+no doubt, there is also the confrontational tension/fear of all violence threatening situations; the mature armed robber is at some distance from
 the fear-management techniques of the young mugger, but there is fear in
 the faces of robbers in the photos available from closed-circuit video cameras in banks, at ATMs, and other places.
 
@@ -8978,7 +8978,7 @@ or U.S. marshals. The most famous of the Western gunfights, the OK
 Corral fight in the Arizona territory in 1881, was fought not between two
 individual heroes in single combat, but between two organized forces: the
 U.S. marshal and three deputies, armed with both pistols and a shotgun;
-and five men belonging to the private household forces of a propertyaggrandizing rancher, armed with pistols and rifles (reprint of Tombstone
+and five men belonging to the private household forces of a property aggrandizing rancher, armed with pistols and rifles (reprint of Tombstone
 Epitaph, Oct. 1881).
 
 Guns disappeared from twentieth-century duels or single combats; instead, where the practice of staged fair fights continued, it was with other
@@ -10113,7 +10113,7 @@ in the enemy camp or in the eyes of the wider public. The looters themselves gen
 attitude of the looters. Tilly (2003) thus categorized these riots as only
 marginally racial protests that degenerated into opportunistically seeking
 private gain.7 But this is to omit the part that looting, along with arson,
-play in the dynamics of riots: looting is a mass-recruiter and a momentumsustainer. Without it, if the riot took nothing but the form of violent confrontations against the police, the riot could easily be dealt with by police
+play in the dynamics of riots: looting is a mass-recruiter and a momentum sustainer. Without it, if the riot took nothing but the form of violent confrontations against the police, the riot could easily be dealt with by police
 withdrawing until the crowd became bored, drifted away, and disassembled; or it could be put down by putting in overwhelming force against
 the inevitably small group that would actively confront it. Looters are the
 foot-soldiers of a riot; better put, they are the half-hearted hanging-back,
@@ -11411,7 +11411,7 @@ that began (in the late 1970s) the fad of body piercing, along with hair
 dyed in bright colors and cut into mohawks and other extreme styles, and
 the wearing of steel-studded leather straps and similar items. It is a cultural movement of disaffected middle-class youth; originating in part as
 one of the counter-cultures in high schools that were mobilized in the late
-decades of the twentieth century in opposition to the jocks-cheerleadersand-preppies who dominated high school sociability (Milner 2004). Its
+decades of the twentieth century in opposition to the jocks-cheerleaders and-preppies who dominated high school sociability (Milner 2004). Its
 rebellion has been successful insofar as it creates a separate enclave, with
 its alternate cultural standard of prestige, and its gatherings where members emanate their own collective effervescence. It is a youth culture segment that showily rejects middle-class respectability, without going all
 the way to lower-class gang-style street culture. Hence its central ritual is
@@ -11634,7 +11634,7 @@ the game. We reserve the term "sports violence" for violence that happens
 outside the rules; typically it brings play to a stop. There are overlaps,
 and some violence on the field of play is quasi-recognized by the rules;
 there are penalties for fouls, unnecessary roughness, and illicit hits. These
-make up a continuum from legitimate player force, to fouls, to gameinterrupting fights; emotional escalation goes up the continuum.
+make up a continuum from legitimate player force, to fouls, to game interrupting fights; emotional escalation goes up the continuum.
 
 Sports may be divided into three main types: staged combats, in which
 there is both offense and defense situations; parallel contests, in which
@@ -11930,7 +11930,7 @@ intermittent than in football or hockey. Rough base-running plays rarely
 lead to fights, in comparison to a hit by pitch, nor are they retaliated for
 by hitting by pitch. Partly this is because close base-running plays happen only occasionally and at unpredictable times, whereas the pitcher
 can at any time deliberately throw at a batter, just as a duel can be scheduled at will. Highly motivated violence needs to be dramatic violence;
-and dramatic staging takes tension buildup to an appropriate, wellanticipated moment.
+and dramatic staging takes tension buildup to an appropriate, well anticipated moment.
 
 Here again the exception or historical variant helps confirm the rule.
 Base-running was much more violent in the period before 1920, when

@@ -5978,7 +5978,7 @@ deployments be frequent.
 [5] "CWE-502: Deserialization of Untrusted Data," Common Weakness Enumeration, cwe.mitre.org, July 30, 2014.
 
 [6] Steve Breen: "What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and
-Your Application Have in Common? This Vulnerability," foxglovesecurity.com,
+Your Application Have in Common? This Vulnerability," foxglove security.com,
 November 6, 2015.
 
 [7] Patrick McKenzie: "What the Rails Security Issue Means for Your Startup," kalzumeus.com, January 31, 2013.
@@ -6127,7 +6127,7 @@ Report MSR-TR-2014-41, March 2014.
 Updating Data Structures," email thread on erlang-questions mailing list, erlang.com,
 October 29, 2007.
 
-[54] Fred Hebert: "Postscript: Maps," learnyousomeerlang.com, April 9, 2014.
+[54] Fred Hebert: "Postscript: Maps," learn you some erlang.com, April 9, 2014.
 
 |
 
@@ -6933,7 +6933,7 @@ In a single-leader configuration, every write must go over the internet to the
 datacenter with the leader. This can add significant latency to writes and might
 contravene the purpose of having multiple datacenters in the first place. In a
 multi-leader configuration, every write can be processed in the local datacenter
-and is replicated asynchronously to the other datacenters. Thus, the interdatacenter network delay is hidden from users, which means the perceived performance may be better.
+and is replicated asynchronously to the other datacenters. Thus, the inter datacenter network delay is hidden from users, which means the perceived performance may be better.
 
 Tolerance of datacenter outages
 
@@ -7923,7 +7923,7 @@ America, February 2013.
 [6] "Highly Available Queues," in RabbitMQ Server Documentation, Pivotal Software,
 Inc., 2014.
 
-[7] Yoshinori Matsunobu: "Semi-Synchronous Replication at Facebook," yoshinorimatsunobu.blogspot.co.uk, April 1, 2014.
+[7] Yoshinori Matsunobu: "Semi-Synchronous Replication at Facebook," yoshinori matsunobu.blogspot.co.uk, April 1, 2014.
 
 [8] Robbert van Renesse and Fred B. Schneider: "Chain Replication for Supporting
 High Throughput and Availability," at 6th USENIX Symposium on Operating System
@@ -19890,7 +19890,7 @@ to process recent updates, then how do you combine the two? The lambda architect
 The core idea of the lambda architecture is that incoming data should be recorded by
 appending immutable events to an always-growing dataset, similarly to event sourcing (see "Event Sourcing" on page 457). From these events, read-optimized views are
 derived. The lambda architecture proposes running two different systems in parallel:
-a batch processing system such as Hadoop MapReduce, and a separate streamprocessing system such as Storm.
+a batch processing system such as Hadoop MapReduce, and a separate stream processing system such as Storm.
 
 In the lambda approach, the stream processor consumes the events and quickly produces an approximate update to the view; the batch processor later consumes the
 same set of events and produces a corrected version of the derived view. The reasoning behind this design is that batch processing is simpler and thus less prone to bugs,
@@ -20228,7 +20228,7 @@ updating the definition of how the cache is populated and rebuilding the cache.
 The derivation function for a secondary index is so commonly required that it is built
 into many databases as a core feature, and you can invoke it by merely saying CREATE
 INDEX. For full-text indexing, basic linguistic features for common languages may be
-built into a database, but the more sophisticated features often require domainspecific tuning. In machine learning, feature engineering is notoriously applicationspecific, and often has to incorporate detailed knowledge about the user interaction
+built into a database, but the more sophisticated features often require domainspecific tuning. In machine learning, feature engineering is notoriously application specific, and often has to incorporate detailed knowledge about the user interaction
 and deployment of an application [35].
 
 When the function that creates a derived dataset is not a standard cookie-cutter function like creating a secondary index, custom code is required to handle the
@@ -21574,7 +21574,7 @@ think this relationship can be appropriately described with a word that has more
 Surveillance
 
 As a thought experiment, try replacing the word data with surveillance, and observe if
-common phrases still sound so good [93]. How about this: "In our surveillancedriven organization we collect real-time surveillance streams and store them in our
+common phrases still sound so good [93]. How about this: "In our surveillance driven organization we collect real-time surveillance streams and store them in our
 surveillance warehouse. Our surveillance scientists use advanced analytics and surveillance processing in order to derive new insights."
 
 This thought experiment is unusually polemic for this book, Designing Surveillance-
@@ -26345,7 +26345,7 @@ topics, 440
 strict serializability, 329
 strong consistency (see linearizability)
 strong one-copy serializability, 329
-subjects, predicates, and objects (in tripleaccessing external services within job, 474,
+subjects, predicates, and objects (in triple accessing external services within job, 474,
 
 stores), 55
 

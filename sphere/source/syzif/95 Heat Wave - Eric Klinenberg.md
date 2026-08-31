@@ -633,7 +633,7 @@ important scientific challenge. See Eric Klinenberg, "Blaming the Victims: Hears
 xxiv • • • preface to the second edition
 
 (otherwise known as Little Village), but my research included comparisons of adjacent neighborhoods in other parts of the city as well. Consider Englewood and Auburn Gresham, two adjacent neighborhoods
-on the hypersegregated South Side. Both were both 99 percent African
+on the hyper segregated South Side. Both were both 99 percent African
 American, with similar proportions of elderly residents. Both had high
 rates of poverty, unemployment, and violent crime. Englewood, like
 North Lawndale, proved to be one of the most perilous places during
@@ -893,7 +893,7 @@ and it's really just a matter of political will."
 
 But there are debates about the long-term efficacy of these barriers.
 "Barriers are at best an intermediate solution," Jacob insists. "They will
-require at least twenty years to build, because we'd need environmentalimpact reports, and buy-in from the federal government, the state
+require at least twenty years to build, because we'd need environmental impact reports, and buy-in from the federal government, the state
 governments of New York, New Jersey, and Connecticut, and probably
 also about three hundred municipalities. If all that happens, we'd get
 protection for perhaps a few decades. Walls will keep out storm surges,
@@ -1795,7 +1795,7 @@ and employees, social service workers, journalists, and research scientists, the
 Occasionally the accounts of social worker and scientist, state agent
 and single room occupancy resident, journalist and public official will
 appear incompatible or even contradictory. But together they will represent the range of positions and the diversity of viewpoints that constitute the heterogeneity of the modern city and account for the variations in the ways that the heat wave was managed and interpreted.16
-The counterposition of divergent views and different stories will help
+The counter position of divergent views and different stories will help
 to illustrate the relationships between action in one sphere of the city—
 the journalistic field, for example—and activity in others, such as the
 emergency response agencies of the local government or the informal
@@ -3920,7 +3920,7 @@ disaster, render these trends invisible.
 Sociological theories and qualitative research techniques make it
 possible to conduct a different kind of epidemiology. Rather than ending an investigation with individual-level information, we can add a
 layer of regional or social ecological analysis to the study of urban
-health—for both extreme events and everyday, typical situations. Demographers and geographers can use census tract or neighborhoodlevel data to assess the extent to which place-specific conditions—such
+health—for both extreme events and everyday, typical situations. Demographers and geographers can use census tract or neighborhood level data to assess the extent to which place-specific conditions—such
 as land-use and development patterns, segregation, violence, and microclimate—influence health risks in disasters. The geographer Karen
 Smoyer, for example, shows that in the 1980 St. Louis heat wave "low-mortality tracts were predominantly in the cooler, more affluent and
 more stable south and west sections of the city"; whereas the high-mortality tracts were concentrated around the relatively warm central
@@ -10650,7 +10650,7 @@ able to include them in the study. Our estimate of the significance of social
 isolation in the study is in fact an underestimate because we eliminated the
 most isolated people from the sample."
 
-4. According to Karen Smoyer (1998, 1813), "by focusing on populationrelated risk factors and by matching cases and controls by neighborhood of
+4. According to Karen Smoyer (1998, 1813), "by focusing on population related risk factors and by matching cases and controls by neighborhood of
 residence, [the design] cancelled out any observable effects of neighborhood
 characteristics and precluded the evaluation of environmental variables beyond the scale of the household."
 
@@ -11476,7 +11476,7 @@ work of effacing relationships among issues and events broadcast on television.
 7. Rosen 1999, 281.
 8. Boorstin 1961, 8.
 9. Michael Schudson (1978, 6) argues that the media "[tend] to subordinate news values to commercial values, and critics from various persuasions
-rightly worry about what CBS news anchor Dan Rather termed the 'showbizification' of news."
+rightly worry about what CBS news anchor Dan Rather termed the 'show biz ification' of news."
 
 10. For a study of investigative journalism focusing on best practices and
 featuring a Chicago Tribune reporter, see Ettema and Glasser (1998, 37–39, 171–
@@ -12279,7 +12279,7 @@ Leavitt, Jacqueline, and Susan Saegert. 1990. From abandonment
 to hope:
 
 Community-households in Harlem. New York: Columbia University Press.
-Lee, Mordecai. 1999. Reporters and bureaucrats: Public relations counterstrategies by public administrators in an era of media disinterest in government. Public Relations Review 25:451–563.
+Lee, Mordecai. 1999. Reporters and bureaucrats: Public relations counter strategies by public administrators in an era of media disinterest in government. Public Relations Review 25:451–563.
 
 Lev, Michael. 1995. Alone in life, unclaimed in death. Chicago Tribune, 30 July,
 
@@ -13241,7 +13241,7 @@ mortality in, 64, 65; poor condition
 of, 68–71; selling of, 66
 
 hotline, 225
-housing, public/governmentsubsidized, 73, 229. See also Chicago
+housing, public/government subsidized, 73, 229. See also Chicago
 Housing Authority; specific topics
 
 housing advocates, 66

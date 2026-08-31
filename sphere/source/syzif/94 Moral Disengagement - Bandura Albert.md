@@ -7848,7 +7848,7 @@ them. It also impairs the quality of life in the community at large. A few
 random shootings can strike fear in an entire community. Fear for their
 own safety permeates people's lives. Many people are arming themselves.
 They live behind bolted doors, avoid most downtown areas, and desert
-their streets at night. A district attorney describes in concrete terms the lifeconstricting effects of feared violence: "Gun violence is what makes people
+their streets at night. A district attorney describes in concrete terms the life constricting effects of feared violence: "Gun violence is what makes people
 afraid to go to the corner store at night" (Ludwig & Cook, 2003). Crime
 rates have been declining but, paradoxically, fear of criminal victimization
 is rising. A campaign to arm the populous requires high arousal of public
@@ -8988,7 +8988,7 @@ Ironically, heightened social concern over gun violence became an impetus for Co
 Tobacco, Firearms and Explosives to reduce gun violence. Members of the
 House and Senate appropriations committees added riders on appropriations
 bills to prohibit the agency from requiring gun dealers to conduct inventories for lost or stolen weapons or creating a federal registry for tracking illegal guns. The committees also required the agency to add a disclaimer that
-data about guns "cannot be used to draw broad conclusions about firearmsrelated crimes" (Steinhauer, 2013a). Because the appropriations bills concerned budgets that keep the government running, gun-reform advocates
+data about guns "cannot be used to draw broad conclusions about firearms related crimes" (Steinhauer, 2013a). Because the appropriations bills concerned budgets that keep the government running, gun-reform advocates
 were forced to compromise by accepting the attached gun riders.
 
 With the congressional ban on even interpreting gun-related data, the
@@ -9535,7 +9535,7 @@ his own company considered him expendable. In addressing the assembled
 managers, the chairman of the GE board of directors absolved corporate
 executives of any responsibility. He proclaimed, with righteous indignation,
 that any violators of federal antitrust law were on their own in defending
-themselves against criminal indictments. Herling (1962) described this selfexonerating meeting as one in which "[the chairman] sanctimoniously consigned the miserable sinners—whose sin was none of his knowledge—to the
+themselves against criminal indictments. Herling (1962) described this self exonerating meeting as one in which "[the chairman] sanctimoniously consigned the miserable sinners—whose sin was none of his knowledge—to the
 secular arm of government" (Herling, 1962).
 
 The corporations assumed that their antitrust violations would be handled in the customary, lenient way as "a gentleman's misdemeanor—and a
@@ -9665,7 +9665,7 @@ Bandura_1e_ch05.indd 210
 The Corporate World 211
 
 Keating was a notable example of the selective exercise of moral agency.
-As an ardent antipornography crusader, he served on the President's Commission on Obscenity and Pornography, testified at congressional hearings,
+As an ardent anti pornography crusader, he served on the President's Commission on Obscenity and Pornography, testified at congressional hearings,
 filed lawsuits against pornographers and spearheaded a national campaign
 against pornography. Dubbed "Mr. Clean," Keating founded Citizens for Decency through Law, an additional vehicle in this effort that enlisted a large
 national following. In ironic moral detachment from the suffering he caused
@@ -9773,7 +9773,7 @@ using this definition of a good person" (Wexler, 2006).
 
 If fraudsters turned out to be productive contributors in the workforce,
 organizations would likely forgive indiscretion on job applications. An apology with remorse would bring forgiveness. What sparked reexamination
-of the executives' résumés, whether their fraudulent behavior generalized to their work lives, and whether they lived up to their inflated selfpresentations remain unknown. They all found well-paying jobs in a short
+of the executives' résumés, whether their fraudulent behavior generalized to their work lives, and whether they lived up to their inflated self presentations remain unknown. They all found well-paying jobs in a short
 time but in different industries where their past transgressions would not
 haunt them. In applying for a new job, only one of the managers gave the
 reason for the job change; all continued to doctor their résumés. Apparently
@@ -9890,7 +9890,7 @@ head trip. . . . It feeds your ego." When they asked for facts about his financi
 operations, he told them, "You don't like it, take your money out. Which of
 course they never did."
 
-Madoff acknowledged his wrongdoings but found relief in moral selfexonerations. He explained that he benefited others by making money
+Madoff acknowledged his wrongdoings but found relief in moral self exonerations. He explained that he benefited others by making money
 for the earlier investors; only the latecomers bore costs. He tried to return
 funds to some individual clients when he realized that he could not extricate
 himself from his elaborate fraud. In advantageous comparison, he viewed
@@ -10198,7 +10198,7 @@ May 2015, they haven't been convicted. Both are citizens of other countries
 who will not extradite them. Both claim innocence of any wrongdoing
 (U.S. Securities and Exchange Commission, 2013).
 
-The problem of sheltered executive unaccountability for unlawful corporate practices is deeply rooted in the norms of how corporate offenses are
+The problem of sheltered executive un accountability for unlawful corporate practices is deeply rooted in the norms of how corporate offenses are
 prosecuted. This helps explain why a midlevel trader gets convicted of civil
 fraud, whereas the executives managing the fraudulent behavior get off
 scot-free.

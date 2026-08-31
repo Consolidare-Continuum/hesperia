@@ -4484,7 +4484,7 @@ Next, a key question and very far from the realms of the metaphysical: Who does 
 lifts
 this, who
 cognitions/volitions/emotions up in the consciousness? Not the subconscious/unconscious itself, if we assume that the mind cannot possibly be both subject and object at the
-same time of this process. Or, is that more of a conceptualllinguistical than a psychological problem? The answer preferred by the present author is to use a third category as a
+same time of this process. Or, is that more of a conceptual linguistic than a psychological problem? The answer preferred by the present author is to use a third category as a
 constituent of homo sapiens in addition to body and mind (personality, the seat of precognitions, volitions and emotions): the spirit. We can conceive of the spirit as the seat of
 reflection, on or over what goes on in body and mind, in soma and psyche.4 That reflective capacity starts working on A, B, and C, and the result is, in principle, a conflict image
 that is fully articulated, including in the consciousness of the actors.
@@ -4661,7 +4661,7 @@ The more complex the conflict image, the more openings for transformation - as w
 
 ,
 
-be explored later. This should argue in favor of complexijication, splitting up actors and
+be explored later. This should argue in favor of complexification, splitting up actors and
 goals into sub-actors and sub-goals and bringing in other actors and goals, transforming
 here and there, hoping for some roll-up effect.
 
@@ -5192,7 +5192,7 @@ a US and not a Soviet motive?
 
 Conflict Transformations
 
-3.1 The FormationffransformationlDeformation Dialectic
+3.1 The Formation transformation Deformation Dialectic
 
 In a conflict there is, somewhere, a contradiction. And in a contradiction there is, somewhere, dynamism. The Daoist idea of yin/yang, one waxing, one waning, in search of a
 harmony point is, as is said about causality, not a law but the form of a law. · At the very

@@ -398,7 +398,7 @@ novel breakthroughs. Examples include Lego.com, which encourages users to design
 Threadless, which allows anyone to design T-shirts. In each case,
 the best designs get produced and sold, with the designers sharing
 in the profits. Perhaps most germane to the subject of diversity,
-the Open Prosthetics Project (www.openprosthetics.org) enlists
+the Open Prosthetics Project (www.open prosthetics.org) enlists
 limbs. The amputees bring
 amputees to help design artificial
 perspectives to problems that limbed people do not possess, such
@@ -1131,7 +1131,7 @@ contributions to larger and more complex tasks. We change a few
 lines of code in a computer program or a few lines of dialogue
 in a movie. We pass ideas, proposals, and solutions back and
 forth with people who possess diverse cognitive skills. We work
-in Bletchley Parks. And more and more often, we see InnoCentivestyle opportunities.
+in Bletchley Parks. And more and more often, we see InnoCentive style opportunities.
 
 An Outline of the Book
 
@@ -1588,7 +1588,7 @@ B2 = C2), you'll be fine.18
 
 For those more mathematically inclined readers (hint: my
 professional colleagues), accept in advance this apology for the
-necessary overgeneralizations. Many of the claims in the book
+necessary over generalizations. Many of the claims in the book
 can be stated with greater clarity and precision. Those who want
 the details in more detail can peruse the academic papers that
 Lu Hong, Jenna Bednar, and I have written in the stark, cold

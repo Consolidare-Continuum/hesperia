@@ -128,10 +128,10 @@ Penguin Group (USA) Inc.
 Penguin Group (Canada), 90 Eglinton Avenue East, Suite 700,Toronto, Ontario M4P 2Y3,Canada
 (a division of Pearson Penguin Canada Inc.)
 Penguin BooksLtd., 80 Strand, London WC2R0RL, England
-PenguinGroupIreland,25St.Stephen's Green,Dublin2,Ireland (a division of PenguinBooks Ltd.)
+Penguin Group Ireland,25St.Stephen's Green,Dublin2,Ireland (a division of PenguinBooks Ltd.)
 Penguin Group (Australia),250 CamberwellRoad,Camberwell, Victoria3124,Australia
 ,(a division of Pearson Australia Group Pty.Ltd.)
-Penguin Books India Pvt. Ltd., 11CommunityCentre,PanchsheelPark, NewDelhi—110 017,India
+Penguin Books India Pvt. Ltd., 11Community Centre,PanchsheelPark, NewDelhi—110 017,India
 Penguin Group (NZ), 67 ApolloDrive,Rosedale, Auckland0632,New Zealand
 (a division of Pearson New Zealand Ltd.)
 Penguin Books (South Africa)(Pty.)Ltd., 24 Sturdee Avenue, Rosebank, Johannesburg2196,South
@@ -140,12 +140,12 @@ Africa
 Penguin BooksLtd, Registered Offices:, 80 Strand, London WC2R 0RL, England
 
 While the author has made every effort to provide accurate telephone numbers and Internet addresses
-at the time of publication,neither the publisher nor the author assumes any responsibilityfor errors,
+at the time of publication,neither the publisher nor the author assumes any responsibility for errors,
 or for changes that occur after publication.Further the publisher does not have any control over and
 does not assume any responsibility for author or third-party websites or their content.
 
-Grateful acknowledgmentis made for permission to reprint from Franco Moretti, Graphs, Maps,Trees:
-Abstract Modelsfor a LiteraryHistory. Verso, 2007. Copyright © Franco Moretti 2007. All rights
+Grateful acknowledgment is made for permission to reprint from Franco Moretti, Graphs, Maps,Trees:
+Abstract Modelsfor a Literary History. Verso, 2007. Copyright © Franco Moretti 2007. All rights
 reserved. Reproduced by permission.
 
 Copyright© 2010 by StevenJohnson
@@ -155,7 +155,7 @@ All rights reserved.
 No part of this book may be reproduced, scanned, or distributed in any printed or electronic form
 without permission. Please do not participate in or encourage piracy of copyrighted materials in
 violation of the author's rights. Purchase only authorized editions.
-RTVERHEAD is a registeredtrademark of Penguin Group(USA) Inc.
+RTVERHEAD is a registered trademark of Penguin Group(USA) Inc.
 The RIVERHEAD logo is a trademark of Penguin Group (USA)Inc.
 
 First Riverhead hardcover edition: October 2010
@@ -250,7 +250,7 @@ Darwin's Paradox
 
 April 4, 1836. Over the eastern expanse of the Indian Ocean, the
 
-reliable northeast winds of monsoonseasonhave begun to give way
+reliable northeast winds of monsoon season have begun to give way
 
 to the serene days of summer. On the Keeling Islands, two small
 
@@ -266,7 +266,7 @@ is so calm that Charles Darwin wades out, under the vast blue sky of
 
 the tropics, to the edge of the live coral reef that rings the island.
 
-For hours he stands and paddles among the crowdedpageantry
+For hours he stands and paddles among the crowded pageantry
 
 of the reef. Twenty-seven years old, seven thousand miles from Lon
 
@@ -373,7 +373,7 @@ with the Beagle's captain, Vice Admiral James FitzRoy, and there
 they watch massive waves crash against the coral's white barrier. An
 
 ordinary European spectator, accustomed to the calmer waters of the
-English Channel or the Mediterranean, would"be naturallydrawnto
+English Channel or the Mediterranean, would"be naturally drawn to
 
 the impressive crest of the surf. (The breakers, Darwin observes, are
 almost"equal in force [to] those during a gale of wind in the temper
@@ -542,7 +542,7 @@ Physicists were used to discovering beautiful equations like this
 
 lurking in the phenomena they studied, but mathematical elegance
 
-was a rarity in the comparativelymessy world of biology. But the
+was a rarity in the comparatively messy world of biology. But the
 
 more species Kleiber and his peers analyzed, the clearer the equation
 
@@ -605,7 +605,7 @@ were delighted to discover that Kleiber's negative quarter-power scaling-
 
 ing governed the energy and transportation growth of city living.
 
-The number of gasolinestations, gasolinesales, road surface area, the
+The number of gasoline stations, gasolinesales, road surface area, the
 
 length of electrical cables: all these factors follow the exact same
 
@@ -673,7 +673,7 @@ towns. But what was it?
 
 The 10/10 Rule
 
-The first national broadcast of a colortelevision program took place
+The first national broadcast of a color television program took place
 
 on January 1, 1954, when NBC aired an hour-long telecast of the
 
@@ -701,7 +701,7 @@ in RCA showrooms. Color programming would not become stan
 
 dard on prime-time shows until the late 1960s. After the advent of
 
-color, the basic conventionsthat defined the television image would
+color, the basic conventions that defined the television image would
 
 go unchanged for decades. The delivery mechanisms began to di
 
@@ -719,7 +719,7 @@ nently good idea that it was time to upgrade the video quality of
 
 broadcast television. Speeches were delivered, committees formed,
 
-experimental prototypesbuilt, but it wasn't until July 23,1996, that
+experimental prototypes built, but it wasn't until July 23,1996, that
 
 a Raleigh, North Carolina, CBS affiliate initiated the first public
 
@@ -1622,7 +1622,7 @@ environment, because it relies on a whole series of subsequent in
 
 novations that wouldn't evolve on earth for billions of years: chloroplasts to capture the sun's energy, vascular tissues to circulate
 
-resources through the plant, DNA molecules to pass on sunflowerbuilding instructions to the next generation.
+resources through the plant, DNA molecules to pass on sunflower building instructions to the next generation.
 
 The scientist Stuart Kauffman has a suggestive name for the
 
@@ -13051,7 +13051,7 @@ JUPITER'S MOONS (1610)
 
 With £heaid of a telescope, Galileo Galilei first observed the orbiting moons
 
-of Jupiter,thus proving the fundamentalprincipleof the Copernican system,
+of Jupiter,thus proving the fundamental principle of the Copernican system,
 
 that the universe did not revolve around earth. Another scientist, Simon
 
@@ -13097,7 +13097,7 @@ English physician William Harvey correctly theorized the movement of
 
 blood through the human body as pumped by the heart and cycled perpetu
 
-ally,dispelling earlierarguments forthe existence of two separate circulation
+ally,dispelling earlier arguments forthe existence of two separate circulation
 
 systems.
 
@@ -13143,7 +13143,7 @@ bodies fall faster than lighter ones, until Galileo devised several ingenious
 
 experiments and formulated a mathematical equation to describe what we
 
-now call uniform acceleration. While severalobservational account predates
+now call uniform acceleration. While several observational account predates
 
 Galileo's work, his account was the first definitive proof.
 
@@ -13327,7 +13327,7 @@ ics that explains the principlesof physics, Newton and Leibniz both lay claim
 
 to its invention, though history has since shown that both mathematicians
 
-arrived at many of the same conclusionsindependently, though with differ
+arrived at many of the same conclusions independently, though with differ
 
 ent systems of notation.
 
@@ -13346,7 +13346,7 @@ THREE LAWS OF MOTION AND ORBITS OF COMETS (1687, 1705)
 
 Newton's three laws of motion were first published in his groundbreaking
 
-Philosophiae NaturalisPrincipia Mathematica in July 1687. Newton's friend
+Philosophiae Naturalis Principia Mathematica in July 1687. Newton's friend
 and publisher, Edmund Halley, would then rely on those laws in producing
 
 the first accurate prediction of a comet's orbit around the earth. N
@@ -15127,7 +15127,7 @@ overview of how the human genetic mutation rate was calculated can be found in
 
 Elie Dolgin's Nature News article "Human Mutation Rate Revealed." For more on
 
-SusanRosenberg's research on stress andmutationrates, seeher essay "Microbiology
+Susan Rosenberg's research on stress and mutation rates, seeher essay "Microbiology
 and Evolution: Modulating Mutation Rates in the Wild" in Science. Formore on the
 "fail fast" movement, seeDougHall's BusinessWeek essay "FailFast, FailCheap"and
 Timothy Prestero's "Better by Design."
@@ -15144,7 +15144,7 @@ Google, see John Battelle's The Search Franco Moretti discusses cultural exaptat
 in his essay "On Literary Evolution," included in his Signs Taken for Wonders.
 Koestler's^rt of Creation contains many examples of exaptative thought, though he
 does not explicitly use the term, since the book predates Gould and Vrba's essay. For
-more on urban subcultures, seeClaudeFischer's essays "Toward a Subcultural Theory
+more on urban subcultures, see Claude Fischer's essays "Toward a Subcultural Theory
 
 of Urbanism" and "The Subcultural Theory of Urbanism: A Twentieth-Year
 Assessment." Jane Jacobs's Death and Life of GreatAmerican Cities and The Economy
@@ -15327,7 +15327,7 @@ Brown,John Seely, and Paul Duguid. The Social Life of Information. Boston: Harva
 
 Business School Press, 2002.
 
-Burt, Ronald S. "SocialContagion and Innovation: Cohesion Versus StructuralEquiv
+Burt, Ronald S. "Social Contagion and Innovation: Cohesion Versus Structural Equiv
 
 Equivalence." American Journalof Sociology92, no. 6 (1987): 1287.
 
@@ -15359,13 +15359,13 @@ feehouse. New Haven: Yale University Press, 2005.
 
 Cowan, Robin, and Nicolas Jonard. "The Dynamics of Collective Invention." Journal
 
-of EconomicBehaviorand Organization 52, no. 4 (2003): 513—32.
+of Economic Behavior and Organization 52, no. 4 (2003): 513—32.
 
 Csikszentmihalyi, Mihaly. Creativity: Flow and the Psychology of Discovery and In
 
 vention. New York: HarperPerennial, 1997.
 
-. Flow: The Psychology of OptimalExperience. New York: HarperPerennial,
+. Flow: The Psychology of Optimal Experience. New York: HarperPerennial,
 
 1991.
 
@@ -15389,7 +15389,7 @@ Darnton, Robert. "Extraordinary Commonplaces." New York Review of Books 47, no.
 
 Darwin, Charles. Voyage of the Beagle. Mineola, N.Y.: Dover Publications, 2002.
 
-Darwin, Charles, and Francis, Sir Darwin. TheAutobiography of CharlesDarwin.
+Darwin, Charles, and Francis, Sir Darwin. The Autobiography of CharlesDarwin.
 
 Amherst, N.Y.: Prometheus Books, 2000.
 
@@ -15397,11 +15397,11 @@ Darwin, Charles, and R. D. Keynes. CharlesDarwin'sBeagle Diary. Cambridge, UK:
 
 Cambridge University Press, 1988.
 
-De Forest, Lee. Fatherof Radio:TheAutobiographyof Lee de Forest. Chicago: Wilcox
+De Forest, Lee. Fatherof Radio:The Autobiography of Lee de Forest. Chicago: Wilcox
 
 &Follett, 1950.
 
-De Landa, Manuel. A Thousand Years of NonlinearHistory. New York: Zone Books,
+De Landa, Manuel. A Thousand Years of Nonlinear History. New York: Zone Books,
 
 1997.
 
@@ -15431,7 +15431,7 @@ Processes, edited by Thomas B. Ward, Stephen M. Smith, and Jyotsna Vaid,
 
 . "What Scientific Thinking Reveals About the Nature of Cognition." -In
 
-Designing for Science: Implicationsfrom Everyday, Classroom, and Professional
+Designing for Science: Implications from Everyday, Classroom, and Professional
 
 Settings, edited by Kevin Crowley, Christian D. Schunn, and Takeshi Okada,
 
@@ -15470,12 +15470,12 @@ Basic Books, 1993.
 
 Gay, Peter. The Enlightenment: An Interpretation. New York: W. W Norton, 1977.
 
-. TheEnlightenmentTheScience of Freedom. New York:W. W. Norton, 1977.
+. The Enlightenment The Science of Freedom. New York:W. W. Norton, 1977.
 Gertz,Bill.Breakdown: The Failure of American Intelligence to Defeat Global Terror.
 
 New York: Plume, 2003.
 
-Gladwell,Malcolm.Blink ThePowerof Thinking WithoutThinking. New York:Back
+Gladwell,Malcolm.Blink ThePowerof Thinking Without Thinking. New York:Back
 
 Bay Books, 2007.
 

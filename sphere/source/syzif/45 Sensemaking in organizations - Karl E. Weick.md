@@ -4327,7 +4327,7 @@ In Mandler's model, stress is an interruption that signals an emergency and
 draws attention to events in the environment.In the short run, this signaling
 is adaptive and improves coping. Autonomic activity alerts people to the
 existence of threatening events, but if the threat is not dealt with and the
-arousal continues, then it registers in consciousness and interferes with ongoing cognitive activity. Thus consciousnessbecomes the arena fortroubleshooting,
+arousal continues, then it registers in consciousness and interferes with ongoing cognitive activity. Thus consciousnessbecomes the arena for troubleshooting,
 but unless the diagnosis and coping is swift and the response being interrupted is weak in its organization, the troubleshooting consumes informationprocessing capacity, and this leads to the omission of important cues for task
 performance and an increase in cognitive inefficiency (Staw, Sandelands, &
 Dutton, 1981).
@@ -4341,7 +4341,7 @@ of cues for sensemaking in response to increased arousal has been well
 documented, often under the generalization that an increase in the level of
 arousal leads people to narrow and focus their attention on those aspects of
 the situation judged most important (e.g., Easterbrook, 1959;Wachtel, 1967;
-Weltman, Smith, & Egstrom ,197L).In the case of taskperformance, as arousal
+Weltman, Smith, & Egstrom ,197L).In the case of task performance, as arousal
 increases people invest more processing resources into whatever task becomes
 the focus of their attention, they speed up their rate of processing, and they
 ignore more cues on the periphery, all of which improve their performance.
@@ -4352,7 +4352,7 @@ drops. Refinements of these generalizations also suggest that cue loss and a
 drop in performance occur sooner on complex, difficult tasks than on simpler
 tasks. It takes less interruption and less arousal to make a complex task senseless
 than it does to make a simpler task senseless. Also, as arousal increases people
-tend to abandon recentlylearned responses and categoriesand fallback on earlier,
+tend to abandon recently learned responses and categoriesand fallback on earlier,
 overlearned, often simpler responses (Barthol &Ku, 1959; Weick, 1990b, p. 576).
 Carried to its extreme, these relationships can have profound effects. Holsti
 
@@ -4448,7 +4448,7 @@ Thc POint of tension in this system w`
 
 who knew less abOutthe techno10gy
 
-The techniciansthemselves did not
+The technicians themselves did not
 
 more abOut it than did the radi010gists.Investigators Of sensemaking are in…
 
@@ -4752,7 +4752,7 @@ borrowing. The failure to pay attention to the financial markets is not an
 "error." Instead, it reflects the operation of an ideological filter that simplifies.
 Trice and Beyer's description of the sources of ideology allows us to connect
 work on sensemaking with work on institutional theory. They show that the
-content of ideologies originates in such extraorganizational sources as transnational cultures (e.g., faith in science), national cultures (e.g., Peruvian workers
+content of ideologies originates in such extra organizational sources as transnational cultures (e.g., faith in science), national cultures (e.g., Peruvian workers
 value superiors who act authoritatively), regional and community cultures
 (e.g., fatalistic acceptance of one's own destiny in rural communities), industry ideologies (e.g., direct selling organizations such as Mary Kay Cosmetics
 discourage competition among distributors), organization sets (e.g., the generic recipe for survival as a Scottish manufacturer of classic knitwear), and
@@ -4842,7 +4842,7 @@ attack. In ordinary speech there is often confusion between the element of
 judgment in decision and the ethical element. This confusion is enhanced
 by the fact that the further the means-end chain is followed, i.e., the greater
 the ethical element, the more doubtful are the steps in the chain, and the
-greater is the element ofjudgment involved in determiningwhat means will
+greater is the element ofjudgment involved in determining what means will
 contribute to what ends. (p. 5l)
 
 What is interesting here is that the idea of a decision premise usually implies
@@ -5133,7 +5133,7 @@ Theories of action have additional properties aside from their affinity with
 the S-R paradigm. These additional properties are described by Argyris (1975):
 "People may be said to develop theories of action to guide their behavior, to
 make it more manageable, to make it more consistent, and thereby to maintain
-their sense ofbeingpersonallyresponsible<of being an origin of their behavior"
+their sense of being personally responsible<of being an origin of their behavior"
 (p. 3). By theory, Argyris means simply a set of interconnected propositions
 having an "if . . . then" form. For example, a counselor may have the following
 theory about how to counsel disruptive students: "It is necessary first to speak
@@ -6550,7 +6550,7 @@ and what it can do. Who we are as persons or organizations emerges from
 decisions, because we infer values from decisions (Brickman, 1987). If a
 person makes no decisions, then that person has onlythe vaguest sense of who
 he or she is as a person. The same is true of organizations. An organization that
-makes no decisions is a nonorganization; it is disorganized.It neither takes
+makes no decisions is a non organization; it is disorganized.It neither takes
 binding actions nor makes compelling reasons.
 
 Each person and organization chooses who it will be by first choosing what
@@ -6842,7 +6842,7 @@ for the concept of organizational design. Control is not a cause of action, as
 designers argue. Control is an effect of action. Actions create relationships that
 then become binding or releasing. When people choose their constraints,
 choice is the independent variable, and constraints, determinism, and control
-are the dependentvariables. For example, police officers in the field (Manning,
+are the dependent variables. For example, police officers in the field (Manning,
 1988, pp. 179- 189) take actions with respect to their supervisors and dispatchers that carve out wider latitude and discretion within which they can do their
 job. Dispatchers and supervisors may intend to control officer actions, but
 officers act to enlarge this area. It can be argued that the only way officers are
@@ -6858,7 +6858,7 @@ Beardsworth, Ford, and Keil ( 1987), Goodman ( 19S 1), Goodman and Goodman
 that others can see and interpret. Manipulation can create order and sensibleness incrementally, as was clear in Porac et al.'s (1989) description of the ways
 in which people create a 'cognitive' oligopoly''
 
-The point, then, of manipulation, is relatively straightfonrard' Manipulation is one of at least two sensemaking processes that begin with actions to
+The point, then, of manipulation, is relatively straightforward' Manipulation is one of at least two sensemaking processes that begin with actions to
 which beliefs accommodate. In commitment, the focus lE-ott the action itself
 and sense is made when beliefs justify taking that irrevocable action. In manipulation, the focus is on the meaningful consequences of the action, represented
 by stabilities such as daylight savings time, a toxic cloud, or coffee and companionship. Manipulation generates clearer outcomes in a puzzling world, and
@@ -7002,7 +7002,7 @@ semiotic analysis of shareholder letters to detect how CEOs define and make
 sense of the boundaries between themselves and the external world (Fiol'
 1989), dialectical analysis to show the effects of power on sensemaking in
 school districts (McGuire, 1986, 1992),field observation of the ways in which
-the "same" decision to change the format of a radio station fits differentlyinto
+the "same" decision to change the format of a radio station fits differently into
 the lives of the employees (Krieger, 1979),laboratory study of the ways managers
 interpret management accounting reports (Boland, 1993)' and participant
 observation of story-telling used for sensemaking (Boje' 1991).
@@ -7013,7 +7013,7 @@ characteristics.
 
 I . Investigators make an effort to preserve action that is situated in context. Where
 the context is simulated, attempts are made to retain the richness of the referent
-setting. Both approaches are complemented by explanations that imply Personsituation interactions or transactions.
+setting. Both approaches are complemented by explanations that imply Person situation interactions or transactions.
 
 2. Observers rely less on researcher-specified measures and more on what participants say and do in response to minimal prodding and prestructuring.
 Participants' texts are central.
@@ -7090,7 +7090,7 @@ make it easier to bind people to action should reduce the confusion more
 quickly than would interventions designed to deal with feelings of guilt.
 
 There are other questions that derive from earlier discussions. Consider, for
-example, the current movement away from hierarchy and the vertical organizationtoward projects,horizontal structuring, and self-managed teams.In the
+example, the current movement away from hierarchy and the vertical organization toward projects,horizontal structuring, and self-managed teams.In the
 language of this book, these changes raise doubts about the degree to which
 generic subjectivity remains a distinctive property of organizations. The
 routines, roles, and expectations that allow for generic subjectivity and interchangeability seem to be giving way to intimacy, discretion, close proximity
@@ -7162,7 +7162,7 @@ what happens to interpretation when these three sources of constraint vary.
 A related point is made by Burrell and Morgan (1979):
 
 If the phenomenologist is concerned to tackle the problem of ontology' it
-would seemthatitisnecessaryto studysituations in which people are typically
+would seemthatitisnecessaryto study situations in which people are typically
 regarded as having relatively linle italics added discretion discretion in the way in
 *hi.h they mold their reality. Up to now phenomenological research has
 focused upon what the functionalist theorists would regard as high-discretion roles,such as those of the receptionist, district attorney, police officer,
@@ -7205,9 +7205,9 @@ the canary in the coal mine alerting people to potential problems.
 Lanir (1989) raised the issue of the relationship between human judgment
 and the reasoning of military command, control, communication, and intelligence systems (C3I) consisting of distributed decision making and expert
 
-systems. Among the problems of such systems are that theyunderestimate the
-probabilities of multiple'conditional independent" occurrences (p.489)' and
-these underestimates can lead to disasters when the 'inconceivable'turns out
+systems. Among the problems of such systems are that they underestimate the
+probabilities of multiple conditional independent" occurrences (p.489)' and
+these underestimates can lead to disasters when the 'inconceivable turns out
 to be fairly common. These expert systems also are unable to reimpose new
 distinctions on the environment to observe what might be happening when
 the programmed distinctions break down (p. 491). C3I technology gives the
@@ -7253,10 +7253,10 @@ same pace and used the same categories and vernacular as did the humans
 making sense of unexpected shortages and windfalls. The quality of the work
 that flowed from other commands in the Persian Gulf where fuller use was
 made of information technology has begun to look much more uneven (e.g.,
-Atkinson, 1993). I mention this to illustrate the kind of comparativeworkthat
+Atkinson, 1993). I mention this to illustrate the kind of comparative work that
 needs to be done more systematically if we are to grasp what is lost and gained
-when information technologyprestructures what people come to treat as their
-world. At a minimum, information technologytightens the couplingbetween
+when information technology prestructures what people come to treat as their
+world. At a minimum, information technology tightens the coupling between
 events (e.9., Orlikowski, 1991, p. 36)<r as some people put it, reduces the
 "information float"-which increases the likelihood that interactive complexity and normal accidents (Perrow, 1984) will be more pervasive.
 
@@ -8592,8 +8592,8 @@ are known. Psychological Bulletin, I 07, 3 | | -327 .
 
 Heap, I. o975). What are sense making practices? Sociological Inquiry, 45, 107-115.
 
-Hedberg,B. (1981). Howorganizationslearn and unlearn.InP. C.Nystrom &W.H.Starbuck (Eds.),
-Handbook of organizationaldesign (Vol. l, pp.3-27). NewYork OxfordUniversityPress.
+Hedberg,B. (1981). How organizations learn and unlearn.InP. C.Nystrom &W.H.Starbuck (Eds.),
+Handbook of organizational design (Vol. l, pp.3-27). NewYork Oxford University Press.
 Hedberg, B.L.T., Nystrom, P. C., & Starbuck, W. H. (1976). Camping on seesaws: Prescriptions
 
 for a self-designing organization. Administrative Science Quarterly, 21, 4I-65.
@@ -8638,10 +8638,10 @@ approach. Academy of Management Review, 4,567-578.
 
 Huff, A. (Ed.). (1990). Mapping strategic thought. Chichester, UK: Wiley.
 Huff, A. S. ( 1988). Politics and argument as a means of coping with ambiguity and change. In
-L.R.Pondy,R.J.Boland,Jr.,&H.Thomas(Eds.), Managingambiguityandchange(pp.79-90).
+L.R.Pondy,R.J.Boland,Jr.,&H.Thomas(Eds.), Managing ambiguity and change(pp.79-90).
 New York fohn Wiley.
 
-Hurst, D. K., Rush,J. C., &White, R. E. (1989). Tiop management team and organizationalrenewal.
+Hurst, D. K., Rush,J. C., &White, R. E. (1989). Tiop management team and organizational renewal.
 
 Strategic Management J ournal, 10, 87- 105.
 
@@ -8656,7 +8656,7 @@ Isenberg, D. J. (1986). The structure and process of understanding: Implications
 action.In H. P. Sims, [r. & D. A. Gioia (Eds.), The thinking organimtion (pp. 238-262). San
 Francisco: fossey-Bass.
 
-Jackson, S. E., & Dutton, J. E. ( l9S8). Discerningthreats and opportunities. Administrative Science
+Jackson, S. E., & Dutton, J. E. ( l9S8). Discerning threats and opportunities. Administrative Science
 
 Quarterly, 33, 37 0-387 .
 
@@ -8669,7 +8669,7 @@ Iames, W. (1956). Is life worth living? In W. James , The will to believe (pp. 3
 Dover. (Original work published 1885)
 
 Janis, L R. (1982). Victims of groupthink(2nd ed.). Boston: Houghton Mifflin.
-faques, E. (1951). The changingculture of a factory. London: Tavistock
+faques, E. (1951). The changing culture of a factory. London: Tavistock
 Jeffcutt, P. (1994). The interpretation of organization: A contemporary analysis and critique.
 
 ]ournal of Management Studia, 31,225-250.
@@ -8780,7 +8780,7 @@ Maass, A., & Clark, R. D., III. (1984). Hidden impact of minorities: Fifteen yea
 
 influence research. Psychological Bulletin, 95, 428-450.
 
-Maass,A.,West,S. G., &Cialdini, R. B. (1987). Minorityinfluenceand conversion.In C.Hendrick
+Maass,A.,West,S. G., &Cialdini, R. B. (1987). Minority influence and conversion.In C.Hendrick
 
 (Ed.), Group processes (pp. 55-79). Newbury Park, CA: Sage.
 
@@ -8856,7 +8856,7 @@ Mead, G. H. ( 1956) . The social psychology of George Herbert Mead (A. M. Straus
 
 University of Chicago Press.
 
-Meredith,W.(1987). Partialaccounts:Nevvandselecteilpoems.NewYorkKnopf.
+Meredith,W.(1987). Partialaccounts:Nev and select eil poems.NewYorkKnopf.
 Merton, R. ( 1948). The self-fulfilling prophecy. Antioch Revinv, 8, 193-210.
 Merton, R. K. ( 1967) . On theoretical sociology, New York Free Press,
 Merton, R. K. (1972). Insiders and outsiders: A chapter in the sociology of knowledge. American
@@ -9176,7 +9176,7 @@ Cliffs, NJ: Prentice Hall,
 Selznick,P. (1949). TVA and the grass roofs. Berkeley: Universityof CaliforniaPress.
 Selznick, P. (1957). Leailership in administrator. NewYork Harper & Row.
 Shils, E. (1981). Tradition. Chicago: University of Chicago Press.
-Shotter,I.(1983)."Dualityofstructure"and"intentionality''inanecologicalpsychology. Journal
+Shotter,I.(1983)."Duality of structure"and"intentionality''in an ecological psychology. Journal
 
 for the Theory of Social Behaviour, 13, 19-43.
 

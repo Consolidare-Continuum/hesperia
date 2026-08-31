@@ -1278,7 +1278,7 @@ practice.
 Reinforcing	 loops	 are	 found	 wherever	 a	 system	 element	 has	 the	 ability	 to
 reproduce	 itself	 or	 to	 grow	 as	 a	 constant	 fraction	 of	 itself.	 Those	 elements
 
-include	 populations	 and	 economies.	 Remember	 the	 example	 of	 the	 interestbearing	bank	account?	The	more	money	you	have	in	the	bank,	the	more	interest
+include	 populations	 and	 economies.	 Remember	 the	 example	 of	 the	 interest bearing	bank	account?	The	more	money	you	have	in	the	bank,	the	more	interest
 you	earn,	which	is	added	to	the	money	already	in	the	bank,	where	it	earns	even
 more	interest.
 

@@ -15220,7 +15220,7 @@ national edition, 17 December 2003.
 34. Sallie Baliunas, "Warming up to the Truth: The Real Story about Climate
 Change," Heritage Lecture No. 758, August 22, 2002 (Washington, DC: The
 Heritage Foundation), available at http://www.heritage.org/Research/
-EnergyandEnvironment/HL758.cfm.
+Energy and Environment/HL758.cfm.
 
 35. Intergovernmental Panel on Climate Change, "Summary for Policymakers: A
 Report of Working Group I of the Intergovernmental Panel on Climate Change,"
@@ -15768,7 +15768,7 @@ prior to the 1990s and that these trends point to a "development crisis." See
 World Bank, Global Economic Prospects 2005, 21–22; Table 1, World Commission
 on the Social Dimension of Globalization, A Fair Globalization: Creating
 Opportunities for All (Geneva: International Labour Office, 2004), 36, available at
-http://www.ilo.org/public/english/fairglobalization/report/index.htm; and United
+http://www.ilo.org/public/english/fair globalization/report/index.htm; and United
 Nations Development Programme, Human Development Reported 2003.
 Millennium Development Goals: A Compact among Nations to End Human Poverty
 (New York: Oxford University Press, 2003), especially "Human Development
@@ -16154,7 +16154,7 @@ Conservative Manifesto (New York: Basic, 1999), 81.
 95. In their standard textbook, the economist Rudiger Dornbusch and his colleagues
 argue that a discussion of resource constraints is more appropriate for "a course in
 astrophysics, or perhaps theology, than for a course in economics," because "technical progress permits us to produce more using fewer resources." And writing in
-The Atlantic Monthly about the oil industry, and by extension about resourceextraction industries more generally, Jonathan Rauch proposes that "[in] every
+The Atlantic Monthly about the oil industry, and by extension about resource extraction industries more generally, Jonathan Rauch proposes that "[in] every
 sense except the one that is most literal and least important, the planet's resource
 base is growing larger, not smaller. Every day the planet becomes less an object
 and more an idea." See Rudiger Dornbusch, Stanley Fischer, and Richard Startz,
