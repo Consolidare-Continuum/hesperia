@@ -472,7 +472,7 @@ great	disappointment,	that	your	action	no	longer	works.	And	why	a	system	might
 suddenly,	and	without	warning,	jump	into	a	kind	of	behavior	you've	never	seen
 before.
 
-That	discussion	will	lead	us	to	look	at	the	common	problems	that	the	systemsthinking	community	has	stumbled	upon	over	and	over	again	through	working	in
+That	discussion	will	lead	us	to	look	at	the	common	problems	that	the	systems thinking	community	has	stumbled	upon	over	and	over	again	through	working	in
 corporations	 and	 governments,	 economies	 and	 ecosystems,	 physiology	 and
 psychology.	 "There's	 another	 case	 of	 the	 tragedy	 of	 the	 commons,"	 we	 find
 ourselves	saying	as	we	look	at	an	allocation	system	for	sharing	water	resource
@@ -1140,7 +1140,7 @@ stock.
 
 Stabilizing	Loops—Balancing	Feedback
 
-One	common	kind	of	feedback	loop	stabilizes	the	stock	level,	as	in	the	checkingaccount	example.	The	stock	level	may	not	remain	completely	fixed,	but	it	does
+One	common	kind	of	feedback	loop	stabilizes	the	stock	level,	as	in	the	checking account	example.	The	stock	level	may	not	remain	completely	fixed,	but	it	does
 stay	 within	 an	 acceptable	 range.	 What	 follows	 are	 some	 more	 stabilizing
 feedback	loops	that	may	be	familiar	to	you.	These	examples	start	to	detail	some
 of	the	steps	within	a	feedback	loop.
@@ -1228,7 +1228,7 @@ mechanism	works	well.	The	feedback	mechanism	may	not	be	strong	enough	to
 bring	 the	 stock	 to	 the	 desired	 level.	 Feedbacks—the	 interconnections,	 the
 information	 part	 of	 the	 system—can	 fail	 for	 many	 reasons.	 Information	 can
 arrive	too	late	or	at	the	wrong	place.	It	can	be	unclear	or	incomplete	or	hard	to
-interpret.	 The	 action	 it	 triggers	 may	 be	 too	 weak	 or	 delayed	 or	 resourceconstrained	 or	simply	 ineffective.	 The	 goal	of	the	feedback	 loop	may	 never	be
+interpret.	 The	 action	 it	 triggers	 may	 be	 too	 weak	 or	 delayed	 or	 resource constrained	 or	simply	 ineffective.	 The	 goal	of	the	feedback	 loop	may	 never	be
 reached	 by	 the	 actual	 stock.	 But	 in	 the	 simple	 example	 of	 a	 cup	 of	 coffee,	 the
 drink	eventually	will	reach	room	temperature.
 
@@ -3147,7 +3147,7 @@ check—nonlinearly.	 Over	 a	 wide	 range	 of	 conditions,	 greater	 budworm
 populations	 result	 in	 more	 rapid	 multiplication	 of	 budworm	 predators.	 But
 beyond	some	point,	the	predators	can	multiply	no	faster.	What	was	a	reinforcing
 relationship—more	 budworms,	 faster	 predator	 multiplication—becomes	 a
-nonrelationship—more	 budworms,	 no	 faster	 predator	 multiplication—and	 the
+non relationship—more	 budworms,	 no	 faster	 predator	 multiplication—and	 the
 
 budworms	take	off,	unimpeded.
 
@@ -3798,7 +3798,7 @@ Delays,	nonlinearities,	lack	of	firm	boundaries,	and	other	properties	of	systems
 that	 surprise	 us	 are	 found	 in	 just	 about	 any	 system.	 Generally,	 they	 are	 not
 properties	that	can	or	should	be	changed.	The	world	is	nonlinear.	Trying	to	make
 it	 linear	 for	 our	 mathematical	 or	 administrative	 convenience	 is	 not	 usually	 a
-good	idea	even	when	feasible,	and	it	is	rarely	feasible.	Boundaries	are	problemdependent,	evanescent,	and	messy;	they	are	also	necessary	for	organization	and
+good	idea	even	when	feasible,	and	it	is	rarely	feasible.	Boundaries	are	problem dependent,	evanescent,	and	messy;	they	are	also	necessary	for	organization	and
 clarity.	Being	less	surprised	by	complex	systems	is	mainly	a	matter	of	learning	to
 expect,	appreciate,	and	use	the	world's	complexity.
 
@@ -4651,7 +4651,7 @@ But	the	intervention	can	become	a	system	trap.	A	corrective	feedback	process
 within	the	system	is	doing	a	poor	(or	even	so-so)	job	of	maintaining	the	state	of
 the	 system.	 A	 well-meaning	 and	 efficient	 intervenor	 watches	 the	 struggle	 and
 steps	in	to	take	some	of	the	load.	The	intervenor	quickly	brings	the	system	to	the
-state	 everybody	 wants	 it	 to	 be	 in.	 Congratulations	 are	 in	 order,	 usually	 selfcongratulations	by	the	intervenor	to	the	intervenor.
+state	 everybody	 wants	 it	 to	 be	 in.	 Congratulations	 are	 in	 order,	 usually	 self congratulations	by	the	intervenor	to	the	intervenor.
 
 Then	the	original	problem	reappears,	since	nothing	has	been	done	to	solve	it	at
 its	 root	 cause.	 So	 the	 intervenor	 applies	 more	 of	 the	 "solution,"	 disguising	 the
@@ -6312,7 +6312,7 @@ Listen	to	the	Wisdom	of	the	System
 
 Aid	 and	 encourage	 the	 forces	 and	 structures	 that	 help	 the	 system	 run	 itself.
 Notice	 how	 many	 of	 those	 forces	 and	 structures	 are	 at	 the	 bottom	 of	 the
-hierarchy.	Don't	be	an	unthinking	intervenor	and	destroy	the	system's	own	selfmaintenance	capacities.	Before	you	charge	in	to	make	things	better,	pay	attention
+hierarchy.	Don't	be	an	unthinking	intervenor	and	destroy	the	system's	own	self maintenance	capacities.	Before	you	charge	in	to	make	things	better,	pay	attention
 to	the	value	of	what's	already	there.
 
 A	friend	of	mine,	Nathan	Gray,	was	once	an	aid	worker	in	Guatemala.	He	told
@@ -7412,7 +7412,7 @@ Bibliography	of	Systems	Resources
 In	addition	to	the	works	cited	in	the	Notes,	the	items	listed	here	are	jumping	off
 points—places	to	start	your	search	for	more	ways	to	see	and	learn	about	systems.
 The	fields	of	systems	thinking	and	system	dynamics	are	now	extensive,	reaching
-into	many	disciplines.	For	more	resources,	see	also	www.ThinkingInSystems.org
+into	many	disciplines.	For	more	resources,	see	also	www.Thinking In Systems.org
 
 Systems	Thinking	and	Modeling
 

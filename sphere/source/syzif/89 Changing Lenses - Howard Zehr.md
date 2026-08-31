@@ -341,7 +341,7 @@ Page 16
 
  The events leading up to this point make a sorry story. This young man (he was then 16) had used a knife to confront a young woman in a dark hallway. In the ensuing scuffle she lost an eye. Now his fate was to be decided.
 
- Although details are uncertain, something like this seems to have unfolded. The young man, who came from an unhappyprobably abusive home situation had decided to run away with his girl friend, but lacked the necessary money. He had no record of violence. But television apparently convinced him that if he threatened someone, they would hand over their money and his problem would be solved.
+ Although details are uncertain, something like this seems to have unfolded. The young man, who came from an unhappy probably abusive home situation had decided to run away with his girl friend, but lacked the necessary money. He had no record of violence. But television apparently convinced him that if he threatened someone, they would hand over their money and his problem would be solved.
 
  In choosing a victim, he picked a young woman he sometimes saw around town. On several occasions he had attempted to talk with her but had been rebuffed. Since he assumed her to be well off, she seemed a logical choice.
 
@@ -426,7 +426,7 @@ Page 23
 
  These reactions by friends and acquaintances are examples of what psychologists have termed "secondary victimization." When we hear of a crime, when we listen to a victim relate his or her story, we too experience some of the feelings of victimization. Those are painful feelings which we like to avoid. So we avoid the subject and we tend to blame. After all, if we can locate the cause for her troubles in something she did or is, we can distance ourselves from her situation. We can believe that such a thing is not likely to happen to us. That makes us feel more secure.
 
- She therefore had to fight for the right to grieve. Since her close friendsincluding perhaps a boy friend suffered with her, additional strain was caused by the fact that they grieved differently and less apparently. Divorce rates are high among parents of murdered children, for example, in part because partners grieve differently and have different ways of adjusting. If not identified and understood, differences in ways of grieving may drive people apart.
+ She therefore had to fight for the right to grieve. Since her close friends including perhaps a boy friend suffered with her, additional strain was caused by the fact that they grieved differently and less apparently. Divorce rates are high among parents of murdered children, for example, in part because partners grieve differently and have different ways of adjusting. If not identified and understood, differences in ways of grieving may drive people apart.
 
  The experience of being a crime victim can be highly intense, touching all areas of life. For this young woman, it affected her sleeping, her appetite, and her health. She turned to drugs and alcohol in order to cope. Medical costs became a significant burden. Her job performance deteriorated. Various experiences and special events continued to bring back painful memo-
 
@@ -561,7 +561,7 @@ The Offender
 
  I have suggested that the wounded victim in our opening story probably has not experienced justice. But what has been happening to the young offender who attacked her?
 
- He has been through an elaborate and lengthy process in which one professional a lawyer who is expected to represent his interests has been pitted against another professionalthe prosecutor who represents the state and its interests. This process is guided by an elaborate labyrinth of rules called "due process." These are designed to protect both his and society's (but not necessarily the victim's) rights. Through this process, a series of professionals (prosecutor, judge, probation officers, psychiatrists) have helped to decide that he is in fact guilty of the offense as defined by law. This has included a determination not only that he committed a legally defined offense, but that he intended to do so. The judge has also determined what should be done with him.
+ He has been through an elaborate and lengthy process in which one professional a lawyer who is expected to represent his interests has been pitted against another professional the prosecutor who represents the state and its interests. This process is guided by an elaborate labyrinth of rules called "due process." These are designed to protect both his and society's (but not necessarily the victim's) rights. Through this process, a series of professionals (prosecutor, judge, probation officers, psychiatrists) have helped to decide that he is in fact guilty of the offense as defined by law. This has included a determination not only that he committed a legally defined offense, but that he intended to do so. The judge has also determined what should be done with him.
 
  Throughout this process, the offender has been almost a bystander. His primary focus has been on his own situation and future. Almost inevitably he has become preoccupied by the various obstacles, decisions,
 
@@ -585,7 +585,7 @@ Page 35
 
  By now, this young man may well have become the victim of violence himself. What lesson is he learning? He will learn that conflict is normal, that violence is the great problem solver, that one must be violent in order to survive, that one responds to frustration with violence. That is, after all, normal in the distorted world of prison.
 
- This young man's age and small physical stature make it likely that he will become the victim of not just violence, but sexual violence. Homosexual rape of young men is frequent in prison, where older, patterned offenders are often mixed in with younger, less experienced, men. Such rape may reflect the prolonged sexual deprivation and frustration characteristic of prison life. More often, though, rape becomes a distorted means of asserting power over others by persons denied legitimate forms of power and meaning. Homosexual rape in prison is also a vehicle for expressing contempt, for degrading others. This in turn reflects disturbing but all-too-commonunderstandings of masculinity and femininity. Given this young man's apparent insecurity, it is likely that his sense of self-worth and manhood will be severely damaged and distorted by this experience.
+ This young man's age and small physical stature make it likely that he will become the victim of not just violence, but sexual violence. Homosexual rape of young men is frequent in prison, where older, patterned offenders are often mixed in with younger, less experienced, men. Such rape may reflect the prolonged sexual deprivation and frustration characteristic of prison life. More often, though, rape becomes a distorted means of asserting power over others by persons denied legitimate forms of power and meaning. Homosexual rape in prison is also a vehicle for expressing contempt, for degrading others. This in turn reflects disturbing but all-too-common understandings of masculinity and femininity. Given this young man's apparent insecurity, it is likely that his sense of self-worth and manhood will be severely damaged and distorted by this experience.
 
  So much, then, for the judge's hope that patterns of violence will be forgotten. On the contrary, the judge has ordered this offender to live for at least twenty years in an atmosphere which nourishes and teaches violence. Violence may become for him a way of coping, a way of solving problems, a way of communicating.
 
@@ -649,7 +649,7 @@ Page 40
 
  What Needs to Happen?
 
- When sentencing this young man, the judge spoke of the need to hold offenders accountable. Most of us would agree. Offenders do indeed need to be held accountable for their behavior. But what does accountability mean? For this judge, and for most people today, accountability for offenders means that the offender must experience punitive consequencesoften prison whether for deterrence or for punishment. "Making people accountable" means forcing people to "take their medicine"an odd metaphor for anything as damaging as prison.
+ When sentencing this young man, the judge spoke of the need to hold offenders accountable. Most of us would agree. Offenders do indeed need to be held accountable for their behavior. But what does accountability mean? For this judge, and for most people today, accountability for offenders means that the offender must experience punitive consequences often prison whether for deterrence or for punishment. "Making people accountable" means forcing people to "take their medicine"an odd metaphor for anything as damaging as prison.
 
  This is an extremely limited and abstract understanding of accountability. Without an intrinsic link between the act and the consequences, true accountability is hardly possible. And as long as consequences are decided for offenders, accountability will not involve responsibility.
 
@@ -659,7 +659,7 @@ Page 41
 
  surance will take care of any losses. They find ways to divert blame from themselves to other people and situations. They also employ stereotypes about victims and potential victims. Unconsciously or even consciously they work to insulate themselves from the victim. Some burglars even report that they turn photographs toward the wall in homes they burglarize so that they will not have to think of the victims.
 
- Nothing in our criminal justice process ever challenges these "misattributions." On the contrary, the process often encourages rationalizations and strengthens stereotypes. The adversarial nature of the process tends to harden stereotypes about victims and about society. The intricate, painful, nonparticipatory nature of the process encourages a tendency to focus on the wrongs experienced by the offender, diverting attention from the harm done to the victim. Many, if not most, offenders end up feeling that they have been treated badly (and they may well have!). This in turn helps them focus on their own plight rather than that of the victim. At minimum, because the criminal process is so complex and so offender-oriented, they are caught up entirely in their own legal situations.
+ Nothing in our criminal justice process ever challenges these "misattributions." On the contrary, the process often encourages rationalizations and strengthens stereotypes. The adversarial nature of the process tends to harden stereotypes about victims and about society. The intricate, painful, non participatory nature of the process encourages a tendency to focus on the wrongs experienced by the offender, diverting attention from the harm done to the victim. Many, if not most, offenders end up feeling that they have been treated badly (and they may well have!). This in turn helps them focus on their own plight rather than that of the victim. At minimum, because the criminal process is so complex and so offender-oriented, they are caught up entirely in their own legal situations.
 
  Consequently, offenders rarely are encouraged or allowed to see the real human costs of what they have done. What is it really like to have one's home burglarized or car stolen, to experience the fear and questions about who did this and why? What is it like to believe you are going to die and then to lose an eye? What kind of person is the victim? Nothing in an offender's experience with justice addresses those issues. Nothing forces him or her to face up to their rationalizations and stereotypes. In the case above, the offender made some attempt to understand what he did, but his understanding is incomplete and will soon
 
@@ -726,7 +726,7 @@ Page 46
 
  To forgive and be forgiven is not easy, and cannot be suggested glibly. Nor should those who cannot find it in themselves to forgive be encouraged to feel an extra burden of guilt. Real forgiveness cannot simply be willed or forced, but must come in its own time, with God's help.1 Forgiveness is a gift. It should not be made into a burden.2
 
- It is important to clarify our understanding of forgiveness. Often we think forgiveness means forgetting what happened, writing it off, perhaps letting the victimizer off the hook easily. But forgiveness does not mean forgetting what happened. This young woman will never and should nevercompletely forget her trauma and her loss. She should not be expected to. Nor does forgiveness mean redefining the offense as a nonoffense. It does not mean saying, "It wasn't so bad, it doesn't matter." It was bad, it does matter, and to deny that is to devalue both the experience of suffering
+ It is important to clarify our understanding of forgiveness. Often we think forgiveness means forgetting what happened, writing it off, perhaps letting the victimizer off the hook easily. But forgiveness does not mean forgetting what happened. This young woman will never and should never completely forget her trauma and her loss. She should not be expected to. Nor does forgiveness mean redefining the offense as a nonoffense. It does not mean saying, "It wasn't so bad, it doesn't matter." It was bad, it does matter, and to deny that is to devalue both the experience of suffering
 
  1 I have found Marie Marshall Fortune's work helpful on forgiveness. See, for example, Sexual Violence: The Unmentionable Sin (New York: Pilgrim Press, 1983), and "Justice-Making in the Aftermath of Woman-Battering," in Domestic Violence on Trial, ed. Daniel Sonkin (New York: Springer Publishers, 1987), pp. 237248. Cf. Jeffrie G. Murphy and Jean Hampton, Forgiveness and Mercy (Cambridge, England: Cambridge University Press, 1988) and Thomas R. Yoder Neufeld, "Forgiveness and the Dangerous Few: The Biblical Basis," address to the Christian Council for Reconciliation, Montreal, Quebec, November 18, 1983.
 Morton MacCullum-Paterson has suggested that forgiveness may involve a willingness to give up the intention to inflict vengeance. It may involve a willingness to turn the issue over to God for forgiveness. The root meaning of the word forgive in the New Testament, he points out, is to hand over or set aside. See Toward a Justice That Heals (Toronto: The United Church Publishing House, 1988), p. 56.
@@ -787,7 +787,7 @@ Page 50
 
 Page 51
 
- ness by God or by the victimeliminates the consequences of the offender's actions. Grace is not cheap. Responsibilities to the victim remain. Nevertheless, salvation and freedom are indeed possible.
+ ness by God or by the victim eliminates the consequences of the offender's actions. Grace is not cheap. Responsibilities to the victim remain. Nevertheless, salvation and freedom are indeed possible.
 
  The road to such salvation, according to many chaplains and prison visitors, lies in the recognition of one's utter sinfulness and worthlessness because sin is seen as rooted in self-love.6
 
@@ -983,7 +983,7 @@ Page 68
 
  The psychologist, for instance, may approach the concept of guilt in terms that are neither legal nor moral. In fact, she may avoid the concept altogether. Rather, she will look at what psychological factors led to this event, perhaps viewing the behavior as evidence of illness or serious dysfunction. Meanwhile, the sociologist will focus on patterns and causes in terms of social forces in the family, the community, and the larger society. While the jurist will treat the offender as an autonomous individual making more-or-less conscious choices, social and behavioral scientists will view the offender at least in part as responding to a variety of larger forces. This perspective raises questions about the extent to which the offender is personally responsible, and perhaps about the extent to which he is an offender rather than a victim.
 
- While specialists such as jurists and social scientists will consider the issue of guilt in their own ways, a third perspective will color most people's thinkingincluding many criminal justice officials. This concept is a more moralistic or "ascriptive" one. In the popular
+ While specialists such as jurists and social scientists will consider the issue of guilt in their own ways, a third perspective will color most people's thinking including many criminal justice officials. This concept is a more moralistic or "ascriptive" one. In the popular
 
  5 This discussion of guilt draws heavily upon Tom Yoder Neufeld, Guilt and Humanness: The Significance of Guilt for the Humanization of the Judicial-Correctional System (Kingston, Ontario: Queen's Theological College, 1982). Cf. McHugh, Christian Faith and Criminal Justice, Chapter 7, and Patrick Kerans, Punishment vs. Reconciliation: Retributive Justice and Social Justice in the Light of Social Ethics (Kingston, Ontario: Queen's Theological College, 1982).
 
@@ -1033,7 +1033,7 @@ Page 73
 
  variables. And since guilt is viewed in either-or terms, it encourages a simplistic view of the world which tends to see things as good and bad, them and us. Justice becomes a drama of guilt, a morality play that allows us to make simple sense of the world.
 
- But the legal concept of guilt operates alongside several other concepts. This fact in itself causes confusion for participants and may assist offenders in denying responsibility for action. Some of these assumptionssuch as the indelible quality of guilt have serious, long-term consequences for offenders.
+ But the legal concept of guilt operates alongside several other concepts. This fact in itself causes confusion for participants and may assist offenders in denying responsibility for action. Some of these assumptions such as the indelible quality of guilt have serious, long-term consequences for offenders.
 
  Offenders need to be held accountable for what they have done. One dimension of accountability is understanding and taking ownership for wrongdoing. Our concepts of guilt, however, at best fail to encourage such accountability, and at worse make it more difficult. The lack of a process for resolving guilt encourages the use of "exculpatory strategies" such as rationalization and stereotypes as a way of shielding oneself from the heavy burden of this guilt. Alternately, offenders may be encouraged to fulfill the prophecy inherent in the label.
 
@@ -1131,7 +1131,7 @@ Page 79
 
 Page 80
 
- professionals who represent offender and the state. This, in turn, removes the process of justice from the individuals and the communities which are affected. Victim and offender become bystanders, nonparticipants in their own cases. A huge bureaucracy with vested interests of its own is born. Our society's tendency to look to professionals to solve our problems is encouraged.
+ professionals who represent offender and the state. This, in turn, removes the process of justice from the individuals and the communities which are affected. Victim and offender become bystanders, non participants in their own cases. A huge bureaucracy with vested interests of its own is born. Our society's tendency to look to professionals to solve our problems is encouraged.
 
  We tend, then, to define justice as procedures for a battle or game.14 We emphasize the intent to treat people equally in the process, without regard to equity of circumstances and with less concern for equity of outcome. We find ourselves dependent upon proxy professionals in this complex process.
 
@@ -1187,7 +1187,7 @@ Page 82
 
  The sixth assumption we make, therefore, is perhaps most important: that the state is the real victim. The implications of that assumption are profound.
 
- Crime is an offense against the state. Justice consists of establishing blame and administering pain in a battle guided by rules. The process is assumed to be the responsibilityindeed, a monopoly of the state.
+ Crime is an offense against the state. Justice consists of establishing blame and administering pain in a battle guided by rules. The process is assumed to be the responsibility indeed, a monopoly of the state.
 
  Until we begin to question these assumptions, the changes we introduce may make little difference. Ours is essentially a retributive model of justice, and that model is at the root of many of our problems.
 
@@ -1400,7 +1400,7 @@ Page 100
 
  which, like the German word Geld, refers to payment.2 Offenses created liabilities. Justice demanded some steps to make losses right.
 
- The offender and the victim (or a representative of the victim in the case of murder) settled most disputes and wrongsincluding those we call criminaloutside of courts. They did this within the context of their kin and community. Church and community leaders often played central roles in negotiating or arbitrating settlements, registering agreements once they were made. The administration of justice was primarily a mediating and negotiating process rather than a process of applying rules and imposing decisions.
+ The offender and the victim (or a representative of the victim in the case of murder) settled most disputes and wrongs including those we call criminal outside of courts. They did this within the context of their kin and community. Church and community leaders often played central roles in negotiating or arbitrating settlements, registering agreements once they were made. The administration of justice was primarily a mediating and negotiating process rather than a process of applying rules and imposing decisions.
 
  Reflecting this understanding of the church's role, a French Reformed church elder in 1681 urged the church to "work diligently to reconcile any quarrels which may be known to members of the consistory."3 Such quarrels included offenses we would call crime. The elders thus decided to make a list of conflicts, to urge disputants to settle, and to suspend from Eucharist those who did not come to agreement. The French "acts of accommodation" represented such agreements which were registered before a notary.4
 
@@ -1809,7 +1809,7 @@ Page 129
 
  All of this may make the law codes in Leviticus or Deuteronomy look rather strange to us. As the preceding selection suggests, topics of concern which to us seem appropriate in a legal code, such as murder and theft, are mixed in with topics that do not (e.g., regulations about agriculture, food, clothing, marriage, worship). Some offenses and responses clearly have religious and cultic dimensions while others appear more straightforward.
 
- Because our worlds are so different, it can be quite problematic to apply biblicalparticularly Old Testament legal and judicial prescriptions to our own situations. Certainly it is not adequate simply to pick a law selectively and to ''plug it in" to our own situation. Nor is it accurate to take isolated concepts and to graft them on to other philosophic bases. As we shall see, that approach has in fact led to a perversion of important biblical ideas. Rather, we must attempt to understand underlying principles and intentions, then to move from them to concepts such as law and justice. As Christ suggested, we must grasp the spirit, not just the letter, of the law. Only after that can we begin to understand individual biblical "laws" to make contemporary applications.
+ Because our worlds are so different, it can be quite problematic to apply biblical particularly Old Testament legal and judicial prescriptions to our own situations. Certainly it is not adequate simply to pick a law selectively and to ''plug it in" to our own situation. Nor is it accurate to take isolated concepts and to graft them on to other philosophic bases. As we shall see, that approach has in fact led to a perversion of important biblical ideas. Rather, we must attempt to understand underlying principles and intentions, then to move from them to concepts such as law and justice. As Christ suggested, we must grasp the spirit, not just the letter, of the law. Only after that can we begin to understand individual biblical "laws" to make contemporary applications.
 
  These basic perspectives and directions are what we must try to unravel here. This is not the place for a
 
@@ -1992,7 +1992,7 @@ Page 143
 
  see justice as applying the law. The Bible does neither.
 
- The Ten Commandments, the most famous (though not necessarily the most characteristic) of biblical laws, provide one window into the nature and function of law. We tend to interpret such law from the perspective of our own law so we see them primarily as imperatives, prohibitions: "You must do this or else." But this collection of laws can be read in the future indicative. The Ten Commandments, like much biblical law, are like invitations, promises: "If you are really living as you should be, this is what life will be like. You will not kill. You will not steal. ..." The Ten Commandmentsand indeed the whole Torah are intended as a pattern for living in covenant, in shalom.13
+ The Ten Commandments, the most famous (though not necessarily the most characteristic) of biblical laws, provide one window into the nature and function of law. We tend to interpret such law from the perspective of our own law so we see them primarily as imperatives, prohibitions: "You must do this or else." But this collection of laws can be read in the future indicative. The Ten Commandments, like much biblical law, are like invitations, promises: "If you are really living as you should be, this is what life will be like. You will not kill. You will not steal. ..." The Ten Commandments and indeed the whole Torah are intended as a pattern for living in covenant, in shalom.13
 
  The Torah is thus a pattern for living in shalom under the old covenant. We misunderstand if we see it primarily as a set of imperatives, of rules that must not be broken. It is a promise, an invitation, an example of what life should be like.
 
@@ -2272,7 +2272,7 @@ An Experimental Plot
 
  But Dave Worth, coordinator of Voluntary Service workers for Mennonite Central Committee (MCC) in Kitchener, Ontario, would not let the idea go. Frustrated with the usual process and interested in making peacemaking practical, he announced, "I am ready for a pie-in-the-sky idea." Mark, also a Mennonite, had orig-
 
- 1 John Bender recounts this story in "Peace Section Newsletter," 16, No. 1 (JanuaryFebruary, 1986), pp. 15. So also does Dean Peachey, "The Kitchener Experiment," Mediation and Criminal Justice: Victims, Offenders and Community, eds. Martin Wright and Burt Galaway (London: Sage Publications Ltd., 1989), pp. 1426.
+ 1 John Bender recounts this story in "Peace Section Newsletter," 16, No. 1 (January February, 1986), pp. 15. So also does Dean Peachey, "The Kitchener Experiment," Mediation and Criminal Justice: Victims, Offenders and Community, eds. Martin Wright and Burt Galaway (London: Sage Publications Ltd., 1989), pp. 1426.
 
 Page 159
 
@@ -2294,7 +2294,7 @@ Page 160
 
  In its "classic" form as pioneered in Kitchener, Ontario, and Elkhart, Indiana, VORP is an independent organization outside the criminal justice system. But it works in cooperation this system.4 This VORP process
 
- 3 Some dimensions of this movement are suggested by essays in Heinz Messmer and Hans-Uwe Otto, eds., Restorative Justice on Trial: Pitfalls and Potentials of Victim-Offender MediationInternational Research Perspectives (Dordrecht: Kluwer Academic Publishers, 1992). See Select Bibliography for other titles. In recent years, the family group conferences in New Zealand and the sentencing circles in some aboriginal communities in Canada have suggested new possibilities for VORP. See appendix 4.
+ 3 Some dimensions of this movement are suggested by essays in Heinz Messmer and Hans-Uwe Otto, eds., Restorative Justice on Trial: Pitfalls and Potentials of Victim-Offender Mediation International Research Perspectives (Dordrecht: Kluwer Academic Publishers, 1992). See Select Bibliography for other titles. In recent years, the family group conferences in New Zealand and the sentencing circles in some aboriginal communities in Canada have suggested new possibilities for VORP. See appendix 4.
 
  4 A general overview of VORP may be found in Howard Zehr, Mediating the Victim-Offender Conflict (Akron, Pa.: Mennonite Central Committee, 1990) as well as many of the sources included in the bibliography.
 
@@ -2468,7 +2468,7 @@ Page 173
 
  not help but leave an impact. Often they left with new understandings of each other, sometimes with new, even friendly, relationships. Eventually the implications of all this began to sink in. VORP has become, for me, the agent of a transformation of my understanding of justice and a demonstration that such justice is not just theoretical but can be practical. Yet the implementation and spread of VORP has also posed important questions and raised some warning flags.
 
- When agriculturists want to solve certain problems in crops, they often experiment with new strains. To do that, they test by planting them in experimental plots. When such plots are successful, they may become demonstration plots to help persuade others to try. Since 1974, VORP has served as both an experimental and a demonstration plot.16 VORP's demonstration role is important: VORP serves as a reminder that there are other ways to understand and respond to crime that justice can repair. But the experimental role must not be abandoned. VORP itself must continue to experiment, to push out new boundaries. We need new experiments that go beyond VORPexperiments which will help develop and test new understandings of crime and justice.
+ When agriculturists want to solve certain problems in crops, they often experiment with new strains. To do that, they test by planting them in experimental plots. When such plots are successful, they may become demonstration plots to help persuade others to try. Since 1974, VORP has served as both an experimental and a demonstration plot.16 VORP's demonstration role is important: VORP serves as a reminder that there are other ways to understand and respond to crime that justice can repair. But the experimental role must not be abandoned. VORP itself must continue to experiment, to push out new boundaries. We need new experiments that go beyond VORP experiments which will help develop and test new understandings of crime and justice.
 
  In planting and nursing such plots, the church's role is critical. Although the VORP movement is well established in the world at large by now, the church played a pivotal role in its development and spread, and still remains deeply involved in many communities. That is as it should be. VORP embodies a vision of justice that is inherently biblical and thus provides an arena where the church can implement its vision.
 
@@ -2764,7 +2764,7 @@ Page 193
 
  Both retribution and restitution have to do with righting an imbalance. While both retribution and restoration have symbolic importance, however, restitution is a more concrete way to restore equity. Also, retribution seeks to right the balance by lowering the offender to the level to which the victim has been reduced. It tries to defeat the wrongdoer, annulling his or her claim to superiority and confirming the victim's sense of worth. Restitution, on the other hand, seeks to raise the victim to his or her previous level. It recognizes his or her moral worth and acknowledges the role of the offender and possibilities for repentance. It thereby acknowledges the moral worth of the offender as well.12
 
- Most of us assume that retribution is high on victims' agenda. Most surveys of victims, however, suggest a different picture. Victims are often open to nonincarcerative, reparative sentences more frequently, in fact, than is the public.13
+ Most of us assume that retribution is high on victims' agenda. Most surveys of victims, however, suggest a different picture. Victims are often open to non incarcerative, reparative sentences more frequently, in fact, than is the public.13
 
  Moreover, they often rank rehabilitation for the offender as an important value. Help for the offender, after all, is one way of addressing the problem of safety and the prevention of future wrongs.
 
@@ -2844,13 +2844,13 @@ Page 200
 
  In the story with which I opened this chapter, Ted needs to receive treatment. The legal system interprets his behavior as "sexual molestation." This behavior is part of a larger pattern of inadequacy and dysfunction. Left unattended, it will only get worse. Part of the treatment needed involves helping Ted recognize the impact of his actions on his young victim.
 
- Offenders have many needs, of course. They need to have their stereotypes and rationalizationstheir "mis-attributions"about the victim and the event challenged. They may need to learn to be more responsible. They may need to develop employment and interpersonal skills. They often need emotional support. They may need to learn to channel anger and frustration in more appropriate ways. They may need help to develop a positive and healthy self-image. And they often need help in dealing with guilt. Like victims, unless such needs are met, closure is impossible.
+ Offenders have many needs, of course. They need to have their stereotypes and rationalizations their "mis-attributions"about the victim and the event challenged. They may need to learn to be more responsible. They may need to develop employment and interpersonal skills. They often need emotional support. They may need to learn to channel anger and frustration in more appropriate ways. They may need help to develop a positive and healthy self-image. And they often need help in dealing with guilt. Like victims, unless such needs are met, closure is impossible.
 
  In the aftermath of crime, victims' needs form the starting point for restorative justice. But one must not neglect offender and community needs.
 
  A Matter of Accountability
 
- Needs and responsibilitiesit's a matter of accountability. When harm is done, offenders need to be accountable, and in ways that represent natural consequences of their actions. This accountability means un-
+ Needs and responsibilities it's a matter of accountability. When harm is done, offenders need to be accountable, and in ways that represent natural consequences of their actions. This accountability means un-
 
 Page 201
 
@@ -3207,7 +3207,7 @@ Page 217
 
  2 See Roger Matthews, ed., Informal Justice? (London: Sage Publications, 1988).
 
- 3 I have drawn upon an unpublished paper. "Mediation and Criminal Justice: The Japanese ModelConfession, Repentance, and Absolution," presented to the CLE Seminar "Creative Justice Through Mediation," Seattle, Washington, on October 29, 1988. See also John O. Haley, ''Victim-Offender Mediation: Lessons from the Japanese Experience." Mediation Quarterly, 12, no. 3 (special issue, spring 1995), pp. 233248.
+ 3 I have drawn upon an unpublished paper. "Mediation and Criminal Justice: The Japanese Model Confession, Repentance, and Absolution," presented to the CLE Seminar "Creative Justice Through Mediation," Seattle, Washington, on October 29, 1988. See also John O. Haley, ''Victim-Offender Mediation: Lessons from the Japanese Experience." Mediation Quarterly, 12, no. 3 (special issue, spring 1995), pp. 233248.
 
 Page 218
 
@@ -3271,7 +3271,7 @@ Page 222
 
  The history of change in the area of law and justice is not a hopeful one. Efforts at change have often been co-opted and diverted from their original visions, sometimes in perverse and harmful ways. The origin of prisons is a case at point, and must stand as a constant reminder and warning to those of us who think about change. Perhaps such "improvements" have gone wrong because they did not question fundamental assumptions, as I suggested earlier. But the issues are more complex than that.
 
- Sometimes so-called alternatives have used new language to clothe ideas that were not new.6 Often ideas have hidden implications which take time to emerge. And a variety of pressuresinternal and externaltend to sidetrack such efforts from their original directions. Sometimes they end up reshaping them so they serve interests and goals quite different from those projected.
+ Sometimes so-called alternatives have used new language to clothe ideas that were not new.6 Often ideas have hidden implications which take time to emerge. And a variety of pressures internal and externaltend to sidetrack such efforts from their original directions. Sometimes they end up reshaping them so they serve interests and goals quite different from those projected.
 
  Before we dream too grandly, then, we have an obligation to think through implications carefully. We must be as literate as possible about the dynamics of change and we must project how our dreams can go wrong.
 
@@ -3421,7 +3421,7 @@ Page 231
 
  3. Is the victim-offender relationship addressed?
 
- Is there opportunity for a meeting, if appropriateeither direct or therapeutic?
+ Is there opportunity for a meeting, if appropriate either direct or therapeutic?
 
  Is there opportunity and encouragement for an exchange of informationabout the event, about one another?
 
@@ -3590,7 +3590,7 @@ Page 240
 
  bibliography). Discuss what you think are the victim's basic needs. Who can and should provide what? What could you as an individual do? What could the church do? The "system"? The community?
 
- 5. Invite someone from the "system" to talk about the role of the victim in the legal processpreferably a victim advocate (victim assistance program, rape crisis center, etc.) or possibly a lawyer, prosecutor, or judge. What are the victim's rights? What is the victim's usual role? How is he or she usually treated? You might also invite a crime victim to share in this session.
+ 5. Invite someone from the "system" to talk about the role of the victim in the legal process preferably a victim advocate (victim assistance program, rape crisis center, etc.) or possibly a lawyer, prosecutor, or judge. What are the victim's rights? What is the victim's usual role? How is he or she usually treated? You might also invite a crime victim to share in this session.
 
  Chapter 3
 The Offender
@@ -3668,7 +3668,7 @@ Page 242
 
 Page 243
 
- 3. Invite members of the group or people from outside (e.g., a victim or offender) to talk about how they understand and have experienced or failed to experienceforgiveness.
+ 3. Invite members of the group or people from outside (e.g., a victim or offender) to talk about how they understand and have experienced or failed to experience forgiveness.
 
  Chapter 5
 Retributive Justice
@@ -3987,7 +3987,7 @@ Page 258
 
 Page 259
 
- The involvement of families in FGCs maximizes possibilities for what Australian criminologist John Braithwaite calls "reintegrative shame." In his pioneering book, Braithwaite notes that one of the most powerful forms of social control is shame, but there are two kinds of shamestigmatizing shame and reintegrative shame.2
+ The involvement of families in FGCs maximizes possibilities for what Australian criminologist John Braithwaite calls "reintegrative shame." In his pioneering book, Braithwaite notes that one of the most powerful forms of social control is shame, but there are two kinds of shame stigmatizing shame and reintegrative shame.2
 
  Our retributive justice approach embodies stigmatizing shame. It sends the message that not only are your behaviors bad, you are bad. There is really nothing you can do which will make up for it. It becomes very difficult, therefore, to be reintegrated into society. So people who offend feel permanently labeled as offenders and seek out other deviant people. Delinquent subcultures, differential association theory, labeling theory many criminological perspectives begin to come together through the concept of stigmatizing shame.
 
@@ -4005,7 +4005,7 @@ Page 260
 
  FGCs are not a panacea, of course, but the evidence so far is hopeful. In my visits to New Zealand, I have heard dramatic stories, often from players I would not expect to be easy converts, including judges, police officers, lawyers.
 
- Another set of lessons is emerging from Circle Sentencing being used in some Native Canadian communities. Like FGCs, Sentencing Circles provide a way to incorporate some traditional problem solving approaches in the overall context of a Western legal system. Here too case outcomesincluding court-based sentencing plans are developed through discussion and consensus. Compared to FGCs, however, more emphasis is placed on community involvement. Meetings or "circles" may be quite large, with many community members attending.
+ Another set of lessons is emerging from Circle Sentencing being used in some Native Canadian communities. Like FGCs, Sentencing Circles provide a way to incorporate some traditional problem solving approaches in the overall context of a Western legal system. Here too case outcomes including court-based sentencing plans are developed through discussion and consensus. Compared to FGCs, however, more emphasis is placed on community involvement. Meetings or "circles" may be quite large, with many community members attending.
 
  Judge Barry Stuart, in whose Yukon jurisdiction such circles often function, emphasizes that the community-building and community problem-solving dimension of this may be one of the most important outcomes of Circle Sentencing.3 When the community is left out, as it is in the traditional criminal justice process, important opportunities for growth and community building are missed. When conflicts are processed properly, however, they provide the means to build relationships between people and communities. Take this away, and you take away a
 

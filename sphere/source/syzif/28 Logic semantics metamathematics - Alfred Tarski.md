@@ -12527,7 +12527,7 @@ cases 'dv'M
 212 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES VIEt, § i
 
 expressions and axioms partly overlap one another, and in those
-oases in -which mathematioallogio, or a fragment of it, is the object
+oases in -which mathematical logic, or a fragment of it, is the object
 of investigation (as is the case with the caloulus of classes), they
 even combine to form one group.
 
@@ -13001,7 +13001,7 @@ category m ay be called pseudodefinitions.1
 1 This term we owe to Le&Leśniewski, who has drawn attention to the necessity
 of including pseudodefinitions among the axioms of the deductive sciences in
 those cases in which the formalization of the science does not admit the
-possibility of constructing'suitable definitions (of. p. 166, footnote). Pseudodefinitions can be regarded as a substitute for the axiom of reducibility of
+possibility of constructing suitable definitions (of. p. 166, footnote). Pseudodefinitions can be regarded as a substitute for the axiom of reducibility of
 Whitehead, A . N ., and Bussell, B. A . W . (90), vol. 1, pp. 55 ff. It would not
 be difficult to show the connexion between these sentences and a group of
 axioms adopted in Neumann, J. v. (54), p. 18.
@@ -13341,7 +13341,7 @@ variables Vlk and denote the result o f the operations b y the
 sym bols
 respectively, The list o f axiom s includes those which satisfy the condition (<x) o f D ef. 13 o f § 2,
 and pseudodefinitions which form a natural generalization o f
-the pseudodeftnitions from the logic o f tw o-term ed relations.
+the pseudodefinitions from the logic o f tw o-term ed relations.
 Their m ore detailed description seems to be unnecessary.
 
 The

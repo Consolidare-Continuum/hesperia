@@ -4182,7 +4182,7 @@ Corruption as a Cultural Problem
 
 Bribes, Patronage, and Gift Giving
 
-Corruption is the misuse of public power for private gain. 1 Agencyprincipal relationships in the public sector give rise to corrupt opportu
+Corruption is the misuse of public power for private gain. 1 Agency principal relationships in the public sector give rise to corrupt opportu
 nities. This definition, however, simply assumes that a distinction exists
 between one's public and private roles. In many societies no such clear
 distinction exists. In the private sector, gift giving is pervasive and highly
@@ -5431,7 +5431,7 @@ efficiently, those at the top have options that are themselves inefficient.
 They can increase the level of taxes and regulatory authority, grant
 exemptions in return for payoffs, and nationalize industries. They can
 introduce general protectionist policies that are beyond the reach of
-lower-level officials. They can propose expensive, complex, capitalintensive projects that can be used to generate bribes. 4 In Haiti, for
+lower-level officials. They can propose expensive, complex, capital intensive projects that can be used to generate bribes. 4 In Haiti, for
 
 4 Vito Tanzi and Hamid Davoodi (1997) show empirically that high levels of cor
 ruption are associated with high levels of public investment. However, their data,
@@ -5939,7 +5939,7 @@ to permit them to flourish. This is a particularly common pattern if the
 minority group is also wealthy and active in business. Such corruption
 raises a difficult problem especially if combined with patronage and close
 personal ties that cement monopoly business relationships. One might
-be tempted to excuse these payoffs as a way around the narrowmindedness of ordinary people. But the corruption scandals that come
+be tempted to excuse these payoffs as a way around the narrow mindedness of ordinary people. But the corruption scandals that come
 to light will only fuel ethnic prejudices, especially if bribes are paid not
 just to operate businesses but also to limit competition in the interest of
 maximizing the gains to be shared by political and business leaders. Here
@@ -6193,7 +6193,7 @@ Guardian, July 4,1997.
 tion they consider. 5 Although some applaud this development as a way
 of assuring independence from the executive, it creates obvious conflictof-interest problems when regulatory and tax laws are at issue.
 
-The problem is closely related to a familiar weakness of governmentowned enterprises. In some developing countries, cabinet ministers chair
+The problem is closely related to a familiar weakness of government owned enterprises. In some developing countries, cabinet ministers chair
 public enterprises' boards of directors, reducing their independence and
 creating conflicts of interest (World Bank 1991: 28-29). If China ever
 moves toward a more democratic government structure, it will need to
@@ -7989,7 +7989,7 @@ the effective use of their resources.
 • If countries wish to reform, aid agencies may directly support
 anticorruption efforts such as the reform of the civil service and
 of budgetary and financial management systems. If economic
-and financial crises have been exacerbated by a corruptionprone institutional structure, international aid can be made
+and financial crises have been exacerbated by a corruption prone institutional structure, international aid can be made
 conditional on reform even if the government is not eager for
 change.
 
@@ -9700,7 +9700,7 @@ important post offices and customs houses (ibid.: 105-107). However,
 national prosperity seems to have been unaffected by reform. Neither
 total nor per capita measures of gross national product were significantly
 associated with extension of the merit system at the federal level. This,
-however, appears to be the wrong level of analysis because a wellfunctioning national state would have a different impact on businesses
+however, appears to be the wrong level of analysis because a well functioning national state would have a different impact on businesses
 depending on how dependent they were on the post office and the
 customs service. Unlike many countries in the present day, the federal
 government had few regulatory and spending responsibilities.
@@ -10424,7 +10424,7 @@ to Know' Bows to the Bureaucracy," Stanford Journal of International Law 34:1-38
 Borcherding, Thomas, Werner Pommerehne, and Friedrich Schneider. 1982. "Comparing
 
 the Efficiency of Private and Public Production: The Evidence from Five Countries,"
-Zeitschrift fur Nationalokonomie 89:127-156.
+Zeitschrift fur National okonomie 89:127-156.
 
 Borner, Silvio, Aymo Brunetti, and Beatrice Weder. 1992. Institutional Obstacles to Latin
 
@@ -10628,7 +10628,7 @@ German Higher Civil Service," International Review of Administrative Sciences
 57:385-401.
 
 Dey, Harendra Kanti. 1989. "The Genesis and Spread of Economic Corruption:
-A Microtheoretical Interpretation," World Development 17:503-511.
+A Micro theoretical Interpretation," World Development 17:503-511.
 
 Dia, Mamadou. 1993. A Governance Approach to Civil Service Reform in Sub-Saharan
 
@@ -10926,7 +10926,7 @@ Kahn, Mushtaq H. 1996. "A Typology of Corrupt Transactions in Developing Countri
 IDS Bulletin 27(2):12-21 (April).
 
 Kaltefleiter, Werner, and Karl-Heinz NaBmacher. 1994. "Das Parteiengesetz 1994 -
-Reform der kleinen schritte," Zeitschrift fuer Parlamentsfragen 25:253-262.
+Reform der kleinen schritte," Zeitschrift fuer Parlaments fragen 25:253-262.
 Kaufmann, Daniel. 1997. "The Missing Pillar of a Growth Strategy for Ukraine:
 
 Institutional and Policy Reforms for Private Sector Development," in Peter K.
@@ -11646,9 +11646,9 @@ Rubinfeld, Daniel. 1997. "On Federalism and Economic Development," Virginia Law
 
 Review 83:1581-1592.
 
-Rudzio, Wolfgang. 1994. "Das Neue Parteienfinanazierungsmodell and seine
+Rudzio, Wolfgang. 1994. "Das Neue Parteien finanzierungsmodell and seine
 
-Auswirkungen," Zeitschrift fuer Parlamenentsfragen 25:390-401.
+Auswirkungen," Zeitschrift fuer Parteien finanzierungsmodell 25:390-401.
 
 Ruzindana, Augustine. 1995. "Combating Corruption in Uganda," in Petter Langseth,
 
@@ -13209,7 +13209,7 @@ firms, 213; no-bribery pacts, 181-2;
 obligations of, 187-90
 
 labor unions, as bribers of regulators, 25
-Latin American countries: anticorruptionrelated nonprofit organizations, 169;
+Latin American countries: anticorruption related nonprofit organizations, 169;
 civil service systems in, 78-9; executive
 in, 147; gamblers' payments to public
 officials, 23; judicial and legal systems in,

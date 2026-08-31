@@ -283,7 +283,7 @@ questions of the effectiveness of ideology and propaganda bear
 the characteristic hallmarks of philosophical problems.
 
 Perhaps most disturbingly for me, when I look upon
-my own discipline, the discipline of philosophy, I find egregious effects of ideology and propaganda. Philosophy is selfconsciously devoted to the ideal of objective truth. Yet philosophers from Aristotle to the present day have justified slavery
+my own discipline, the discipline of philosophy, I find egregious effects of ideology and propaganda. Philosophy is self consciously devoted to the ideal of objective truth. Yet philosophers from Aristotle to the present day have justified slavery
 and racism. And the philosopher whose works most drew me
 into the field, Gottlob Frege, was a virulent anti- Semite and
 devoted ideologue of Aryan supremacy.
@@ -795,7 +795,7 @@ Propaganda poses an equally obvious threat to the epistemic
 conception of democracy, championed by the philosopher
 David Estlund and the political scientist Hélène Landemore.13
 Epistemic democrats hold that democracy should be given an
-epistemic justification (perhaps in addition to its autonomyrelated justification), one that rests upon the superiority of
+epistemic justification (perhaps in addition to its autonomy related justification), one that rests upon the superiority of
 collective reasoning for deciding outcomes. On this view, democracy is the best form of government, because collective
 deliberation followed by majority rule is the most reliable way
 to make decisions. Propaganda poses an obvious problem for
@@ -999,7 +999,7 @@ reform laws are or would be corrupt, having the purpose of
 of improving the system.31 Similarly, in a statement on May 7,
 2001, from the Bush White House spokesperson Ari Fleisher,
 "in response to a question about whether the president
-would urge Americans to change their world- leading energyconsumption habits," he replied:
+would urge Americans to change their world- leading energy consumption habits," he replied:
 
 That's a big "no." The president believes that it's an American way of life, that it should be the goal of policy- makers
 to protect the American way of life. The American way of
@@ -1899,7 +1899,7 @@ something as propaganda. Claims that are propaganda are
 those that emerge from the ministry of propaganda. The problem in totalitarian societies lies in figuring out which pieces
 of propaganda are to be taken seriously.18 It is only natural in
 liberal democratic societies to take at least the news media seriously. The problem in democratic societies lies in figuring
-out which apparently nonpropagandistic claims are in fact
+out which apparently non propagandistic claims are in fact
 propaganda.
 
 I have given some examples of propaganda, together with
@@ -3364,7 +3364,7 @@ public political forums. Any normative ideal of public reason should be impartia
 words, "[divides] mankind into parties, [inflames] them with
 mutual animosity, and [renders] them much more disposed to
 vex and oppress each other than to co- operate for their common good." A norm of impartiality demands that the force of
-the reasons offered, and policies proposed, is not perspectivedependent. If someone is offering impartial reasons, their reasons "must be grounded in something that is independent of
+the reasons offered, and policies proposed, is not perspective dependent. If someone is offering impartial reasons, their reasons "must be grounded in something that is independent of
 their stance, namely what is the case believer- neutrally."13 This
 is the standpoint of the impartial observer. According to the
 ideal of impartiality, the claims politicians make in political
@@ -4381,7 +4381,7 @@ CHAPTER 4
 truth- conditional, cognitivist framework gives us an elegant
 account of what happens when communication works.
 
-What I will argue in this chapter is that the truthconditional, cognitivist picture also gives us an elegant account
+What I will argue in this chapter is that the truth conditional, cognitivist picture also gives us an elegant account
 of what happens when communication fails, due to propagandistic manipulation. Since the cognitivist, truth- conditional
 framework embodies an account of what happens when communication functions well, it allows us precise grasp of what
 happens when communications fails to function well. My
@@ -5591,7 +5591,7 @@ her by saying, "I am not angry." They are making claims about
 different people. This kind of context- dependence is due to
 the English first- person pronoun "I," which can contribute differently to the claims made by sentences in which it occurs, depending upon the context. The same is true of the first- person
 plural pronoun "we." Someone's use of "we" can refer to the
-people in this room, or it can refer to the inhabitants of Berlin, or the inhabitants of Europe. One can exploit the contextdependency of natural language to erode reasonableness.
+people in this room, or it can refer to the inhabitants of Berlin, or the inhabitants of Europe. One can exploit the context dependency of natural language to erode reasonableness.
 
 One kind of context- dependence in natural language is
 related to the quantifier words, such as "every" and "some." A
@@ -6202,7 +6202,7 @@ classic paper "The German Ideology." The one that is most useful for our purpose
 from there: "The ideas of the ruling class are in every epoch
 the ruling ideas: i.e., the class which is the ruling material force
 of society, is at the same time its ruling intellectual force."5 On
-this view, the ideological beliefs are the ruling classes' selflegitimation, or self- justification, of the expectations that make
+this view, the ideological beliefs are the ruling classes' self legitimation, or self- justification, of the expectations that make
 up their ideologies. Both Hume and Marx emphasize troubling epistemological features of ideological belief that arises
 from flawed sources. But Marx focuses on certain ideologies in
 particular, which are among the ones that I will argue are most
@@ -6944,7 +6944,7 @@ ideologically flawed belief. But it is possible for a concept to
 fail to be apt, even if it does denote a property.
 
 The nineteenth- and twentieth- century German logician
-Gottlob Frege is best thought of as an archrationalist. His philosophical goal is to show that analytic judgment alone, definitions and logic, could lead to fruitful extensions of our knowledge. In sketching out his rationalist program of showing how
+Gottlob Frege is best thought of as an arch rationalist. His philosophical goal is to show that analytic judgment alone, definitions and logic, could lead to fruitful extensions of our knowledge. In sketching out his rationalist program of showing how
 definitions could lead to genuine extensions of knowledge,
 Frege writes of "the really fruitful definitions in mathematics,"
 such as "that of the continuity of a function":
@@ -8354,7 +8354,7 @@ time. Let's call this consequence of (Knowledge- Action) the
 interest- relativism of knowledge (sometimes also called "pragmatic encroachment").
 
 The philosopher Ángel Pinillos conducted the following
-experiment, which nicely motivates the thesis of the interestrelativism of knowledge.55 The subjects were undergraduate
+experiment, which nicely motivates the thesis of the interest relativism of knowledge.55 The subjects were undergraduate
 students at Arizona State University: seventy- seven were presented with the first case below, (Typo- Low), and sixty- seven
 were presented with the second case below, (Typo- High):
 

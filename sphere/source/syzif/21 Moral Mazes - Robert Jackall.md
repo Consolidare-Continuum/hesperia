@@ -2280,7 +2280,7 @@ Underclassmen, surprised and bemused by the symbolic intrusion of the
 real world into their youth ghettoes, see seniors' capitulation to the norms
 of the managerial milieu as a callow moral compromise, as a first but
 ominous step toward deindividualizing conformity. Seniors, however,
-approach the crisis more pragmatically, though not without ironic selfdeprecation and biting sarcasm. They know that managers have to look the
+approach the crisis more pragmatically, though not without ironic self deprecation and biting sarcasm. They know that managers have to look the
 part and that all corporations are filled with well-groomed and
 conventionally well-dressed men and women. They consciously decide to
 
@@ -2721,7 +2721,7 @@ the contrary, bosses generally want pliable and agreeable subordinates,
 especially during periods of crisis. Clique leaders want dependable, loyal
 allies. Those who regularly raise objections to what a boss or a clique
 leader really desires run the risk of being considered problems themselves
-and of being labeled "outspoken," or "nonconstructive," or "doomsayers,"
+and of being labeled "outspoken," or "non constructive," or "doomsayers,"
 "naysayers," or "crepehangers."
 
 Organizations vary in this respect and some tolerate, and indeed
@@ -4218,7 +4218,7 @@ asset-reducing image to Wall Street. Several levels down the ladder,
 however, a new vice-president for a particular business in the chemical
 company found himself saddled with exorbitant operating costs when,
 during a reorganization, those plants purchasing gas from Grey at inflated
-prices came under his purview. The high costs helped to undercut the vicepresident's division's earnings and thus to erode his position in the
+prices came under his purview. The high costs helped to undercut the vice president's division's earnings and thus to erode his position in the
 hierarchy. The origin of the situation did not matter. All that counted was
 that the vice-president's division was steadily losing big money. In the end,
 he resigned to "pursue new opportunities."
@@ -6132,7 +6132,7 @@ makes him vulnerable to others evinces, of course, only a fundamental
 untrustworthiness, unless one's colleague has first betrayed oneself or
 others in some way—say, in one case, by burying important data and thus
 setting others up to be "sandbagged" or, in another, by revealing secret
-information to an opponent through what seems to be a compulsive selfdestructiveness parading as total openness and honesty. Moreover, even
+information to an opponent through what seems to be a compulsive self destructiveness parading as total openness and honesty. Moreover, even
 though the mistakes of other managerial groups are fair game, one must be
 judicious in pointing them out since no matter how elaborate one's
 cognitive map of an organization might be, the connections between
@@ -8194,7 +8194,7 @@ has just released its latest line of apparel featuring the new Egyptian look;
 receive newsletters from some of the thousands of organizations, public or
 private, politically conservative, liberal, or radical, eleemosynary,
 educational, or religious, that routinely manufacture official or
-counterofficial versions of reality suiting their needs; read in The Wall
+counter official versions of reality suiting their needs; read in The Wall
 Street Journal or The New York Times accounts of specific events or larger
 trends attributed to "informed sources," the code name for public relations
 men and women; or see in the same journals the results of the latest public
@@ -8249,7 +8249,7 @@ his staff and facilities to get the full story; comes to the public relations
 agency with trumped-up data and fake photographs—as happened, for
 instance, at Images Inc. when a client falsely claimed the efficacy of a
 product to remove tar from despoiled beaches—and ends up declaring
-bankruptcy, leaving the public relations agency liable for a multimilliondollar lawsuit; wants the public relations agency, as in the case of some
+bankruptcy, leaving the public relations agency liable for a multimillion dollar lawsuit; wants the public relations agency, as in the case of some
 single-party foreign governments, to put a good public face on practices
 like the "persuasion" and "elimination" of opponents; expects the public
 relations agency to be the "bag man" to pay off government officials or
@@ -9192,7 +9192,7 @@ becomes public-relations-mindedness, a circuitous institutional logic that
 makes placating various publics the principal and, at times, the only goal.
 Some years ago, Images Inc. came under vigorous journalistic and public
 assault for some questionable practices of its own. The firm's instinctive
-institutional response suggests the habit of mind that public-relationsmindedness creates. Executives at the firm held their own rehearsal to
+institutional response suggests the habit of mind that public-public relations mindedness creates. Executives at the firm held their own rehearsal to
 frame appropriate responses to the charges being made. As public pressure
 mounted, the public relations firm created a position and then appointed a
 director of public relations.
@@ -9669,7 +9669,7 @@ from one perspective may seem irresponsible or just plain venal from
 
 another angle. In fact, exercises in substantive rationality—the critical,
 reflective use of reason—are not only subject to infinite interpretations and
-counterinterpretations but also invite fantastic constructions of reality,
+counter interpretations but also invite fantastic constructions of reality,
 including attributions of conspiracy. Thus a major corporation provides a
 gift of $10 million to establish new foundations that will materially aid
 South African blacks and is promptly accused by a black American leader
@@ -9751,7 +9751,7 @@ agendas, or become the cross hairs of others' gun sights. One's best-laid
 
 plans are always subject to ambush by random events, fickle markets,
 recalcitrant or, worse, well-intentioned but incompetent subordinates, rival
-managers, or simply the weariness that work produces. One's bestintentioned schemes sometimes produce exactly the opposite of what one
+managers, or simply the weariness that work produces. One's best intentioned schemes sometimes produce exactly the opposite of what one
 wanted to achieve. One's best efforts at being fair, equitable, and generous
 with subordinates clash both with a logic that demands choices between
 people, inevitably producing hatred, envy and animosity, and with the plain
@@ -9829,7 +9829,7 @@ performances; they measure themselves constantly against others; and they
 plot out whatever self-transformations will help them achieve desired goals.
 On the other hand, over a period of time, psychic asceticism creates a
 
-curious sense of guilt, heightened as it happens by narcissistic selfpreoccupation. Such guilt, a regret at sustained self-abnegation and
+curious sense of guilt, heightened as it happens by narcissistic self preoccupation. Such guilt, a regret at sustained self-abnegation and
 deprivation, finds expression principally in one's private emotional life.
 One drinks too much; one is subject to pencil-snapping fits of alternating
 anxiety, depression, rage, and self-disgust for willingly submitting oneself
@@ -11349,7 +11349,7 @@ moral casuistry, a skill honed perhaps by the requirements of traditional
 female roles. In connection with this, it is worth noting that a very large and
 growing percentage of public relations practitioners, at least in public
 relations agencies, are women, a development that is causing some fear of
-female overrepresentation in executive circles in the field. In my own view,
+female over representation in executive circles in the field. In my own view,
 the question of whether women have a different morality than men can only
 be resolved with a systematic comparative analysis of women's actual
 occupational ethics in a variety of work settings—say, the academy,
@@ -11580,7 +11580,7 @@ Publishing Company, 1982), passim, but see especially pp. 85–103.
 Precisely because managers have such a sharply defined responsiveness to
 authoritatively established criteria evident to them in a given situation, they
 are often unconcerned with facts as facts are normally conceptualized. In
-one company, in which nonconfidential surveys of all sorts relating to
+one company, in which non confidential surveys of all sorts relating to
 business matters are regularly circulated, managers say that they often "pull
 numbers out of the air" to satisfy the perceived demands of higher-ups. This
 makes data from, say, surveys administered through hierarchies somewhat
@@ -11872,7 +11872,7 @@ Byssinosis in Two Cotton Mills in the United States," Journal of the
 American Medical Association, Vol. 177, No. 12 (September 23, 1961), pp.
 850–853.
 
-34. A few of the best known studies by independent or universityaffiliated researchers are A. Bouhuys, "Byssinosis in a Cotton Weaving
+34. A few of the best known studies by independent or university affiliated researchers are A. Bouhuys, "Byssinosis in a Cotton Weaving
 Mill," Archives of Environmental Health, 6 (1963), pp. 465–468; A.
 Bouhuys, L. J. Heaphy, Jr., R.S.F. Schilling, and J.W. Wellborn, "Byssinosis
 in the United States," New England Journal of Medicine, Vol. 277, No. 4
@@ -12693,7 +12693,7 @@ adjusting their selves to alter hospital staff's views of them are paradigms
 of the puzzles encountered by a great many men and women in our modern
 organizational society. Goffman also treats the theme of the chameleonic
 self in The Presentation of Self in Everyday Life (Garden City, N.Y.:
-Doubleday Anchor, 1959). Karl Mannheim's seminal treatment of selfrationalization, set in the context of a whole discussion of rationality and
+Doubleday Anchor, 1959). Karl Mannheim's seminal treatment of self rationalization, set in the context of a whole discussion of rationality and
 irrationality in modern life, is still very worthwhile. See Man and Society in
 an Age of Reconstruction (London: Paul [Kegan], Trench, Trubner Ltd.,
 1940, pp. 39–75). Few sociologists have written about the meaning of
@@ -13277,7 +13277,7 @@ and bureaucratic ethic, 205
 capriciousness of, 239
 government regulation of financial markets, 237
 and mobility panic, 71
-as nonpromotability, 69–71
+as non promotability, 69–71
 and old Protestant ethic, 205
 rules (-in-use), 239
 savings and loans crisis, 223, 231, 232

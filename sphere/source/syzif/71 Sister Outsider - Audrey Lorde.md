@@ -5723,7 +5723,7 @@ part of those who I define as my people? Insight must illuminate
 the particulars of our lives: who labors to make the bread we
 waste, or the energy it takes to make nuclear poisons which will
 not biodegrade for one thousand years; or who goes blind
-assembling the microtransistors in our inexpensive calculators?
+assembling the micro transistors in our inexpensive calculators?
 
 We are women trying to knit a future in a country where an
 Equal Rights Amendment was defeated as subversive legisla-

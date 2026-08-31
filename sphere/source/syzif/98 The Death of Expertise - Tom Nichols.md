@@ -2109,7 +2109,7 @@ old as the many legends of heroes themselves. American culture in
 particular is attracted to the idea of the talented amateur (as opposed,
 say, to the experts and elites) who can take on entire governments—
 or even bigger organizations— and win. James Bond didn't confront
-the evil superconspiracy of SPECTRE until the British author Ian
+the evil super conspiracy of SPECTRE until the British author Ian
 Fleming realized he needed something bigger than communism for
 Bond to fight when his novels started to move to the Hollywood
 screen for American audiences.
@@ -2978,7 +2978,7 @@ colleagues in the teaching profession who use this expression, I am
 compelled to say: if that's true, then you're not a very good teacher.)
 
 The solution to this reversal of roles in the classroom is for teachers to reassert their authority. To do so, however, would first require
-overturning the entire notion of education as client service. Tuitionconscious administrators would hardly welcome such a counterrevolution in the classroom, but in any case, it would likely be deeply
+overturning the entire notion of education as client service. Tuition conscious administrators would hardly welcome such a counterrevolution in the classroom, but in any case, it would likely be deeply
 unpopular with the clients.
 
 For many years, Father James Schall at Georgetown University
@@ -4440,7 +4440,7 @@ I READ IT IN THE PAPER
 
 Did you know that chocolate can help you lose weight? Sure you
 do. You read it in the paper. In fact, you might have read it in several papers, and woe to any expert, including a doctor, who might
-have told you otherwise. After all, hiding the miraculous weightdecreasing qualities of the tastiest thing in the world is just the kind
+have told you otherwise. After all, hiding the miraculous weight decreasing qualities of the tastiest thing in the world is just the kind
 of thing experts would do. Thankfully, a German scientist, Johannes
 Bohannon of the Institute of Diet and Health, wrote a paper that was
 published in a journal and then joyfully covered in press throughout
@@ -5383,7 +5383,7 @@ combat service is driving America's warriors to suicide, and a heartless governm
 
 When I first saw this statistic, I had a personal interest in pursuing
 the underlying studies. I work every day with military officers, many
-of whom have seen combat. I  am also a former certified suicideprevention counselor because of volunteer work I did briefly in my
+of whom have seen combat. I  am also a former certified suicide prevention counselor because of volunteer work I did briefly in my
 younger days. As someone with at least some experience in suicide
 prevention, I  was concerned about people killing themselves; as
 someone who works with military personnel, I  was worried about
@@ -6266,7 +6266,7 @@ The speaker was a woman named Dr. Helen Caldicott. She was
 not a doctor of physics or government or international affairs, but
 a pediatrician from Australia. Her concern about nuclear weapons,
 by her own recollection, stemmed from reading Nevil Shute 1956
-postapocalyptic novel On the Beach (which was set in her native
+post apocalyptic novel On the Beach (which was set in her native
 country). As she later put it, she saw no point in treating children
 
 for their illnesses when the world around them could be reduced to
@@ -7717,7 +7717,7 @@ John Allen Paulos, Innumeracy:  Mathematical Illiteracy and Its Consequences
 
 5. Michael Crichton, "Panic in the Sheets," Playboy, December 1991; archived at
 
-MichaelCrichton.com.
+Michael Crichton.com.
 
 6. There's an entire subject in statistics, called "Bayesian analysis," named for an
 eighteenth- century English mathematician, which deals with this question.

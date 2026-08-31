@@ -965,7 +965,7 @@ business data handling, or whatever.
 
 The copilot. He is the alter ego of the surgeon, able to do any
 part of the job, but is less experienced. His main function is to
-share in the design as a thinkerrdiscussant, and evaluator. The
+share in the design as a thinker discussant, and evaluator. The
 surgeon tries ideas on him, but is not bound by his advice. The
 copilot often represents his team in discussions of function and
 interface with other teams. He knows all the code intimately. He
@@ -1048,7 +1048,7 @@ way to use the language to do difficult, obscure, or tricky things.
 Often he will need to do small studies (two or three days) on good
 technique. One language lawyer can service two or three surgeons.
 
-This, then, is how 10 people might contribute in welldifferentiated and specialized roles on a programming team built
+This, then, is how 10 people might contribute in well differentiated and specialized roles on a programming team built
 on the surgical model.
 
 How It Works
@@ -2221,7 +2221,7 @@ office, saw to it that the phone in the new office was disconnected, and,
 as an afterthought, had a couch moved in there, too. "We'll install
 a projector, and a drafting machine and bookcases and other junk like
 that tonight, " he told Coster. "Just make a list of anything you need
-—to work on engineering." He went back to the nominal chiefengineer's office and got happily to work trying to figure where the
+—to work on engineering." He went back to the nominal chief engineer office and got happily to work trying to figure where the
 organization stood and what was wrong with it.
 
 Some four hours later he took Berkeley in to meet Coster. The chief
@@ -2295,7 +2295,7 @@ time, coding, component test, and system test. First, one must say
 that one does not estimate the entire task by estimating the coding
 portion only and then applying the ratios. The coding is only
 one-sixth or so of the problem, and errors in its estimate or in the
-ratios could lead to ridiculous'results.
+ratios could lead to ridiculous results.
 
 Second, one must say that data for building isolated small
 programs are not applicable to programming systems products. For
@@ -2961,7 +2961,7 @@ cussed than practiced. They include careful modularization, extensive subroutini
 intermodule interfaces, and complete documentation of these.
 Less obviously one wants standard calling sequences and table-driven techniques used wherever possible.
 
-Most important is the use of a high-level language and selfdocumenting techniques so as to reduce errors induced by
+Most important is the use of a high-level language and self documenting techniques so as to reduce errors induced by
 changes. Using compile-time operations to incorporate standard
 declarations helps powerfully in making changes.
 
@@ -3071,7 +3071,7 @@ the machine conks. It seems to start up all right and runs a few yards,
 and then it breaks down."1
 
 Systems program building is an entropy-decreasing process,
-hence inherently metastable. Program maintenance is an entropyincreasing process, and even its most skillful execution only delays
+hence inherently metastable. Program maintenance is an entropy increasing process, and even its most skillful execution only delays
 the subsidence of the system into unfixable obsolescence.
 
 Sharp Tools
@@ -4177,7 +4177,7 @@ A basic principle of data processing teaches the folly of trying to
 maintain independent files in synchronism. It is far better to combine them into one file with each record containing all the information both files held concerning a given key.
 
 Yet our practice in programming documentation violates
-our own teaching. We typically attempt to maintain a machinereadable form of a program and an independent set of humanreadable documentation, consisting of prose and flow charts.
+our own teaching. We typically attempt to maintain a machine readable form of a program and an independent set of humanreadable documentation, consisting of prose and flow charts.
 
 The results in fact confirm our teachings about the folly of
 separate files. Program documentation is notoriously poor, and its
@@ -4307,7 +4307,7 @@ certainly be incorporated into the source program as a comment,
 and that seems wise.
 
 To what extent are the techniques used above applicable to
-assembly language programs? I think the basic approach of selfdocumentation is thoroughly applicable. Space and formats are
+assembly language programs? I think the basic approach of self documentation is thoroughly applicable. Space and formats are
 less free, and thus cannot be so flexibly used. Names and structural
 declarations can surely be exploited. Macros can help a great deal.
 The extensive use of paragraph comments is good practice in any
@@ -4698,7 +4698,7 @@ The first definition has a sliding meaning. . . . Something can fit
 the definition of AI-1 today but, once we see how the program
 works and understand the problem, we will not think of it as AI
 anymore. . . . Unfortunately I cannot identify a body of technology
-that is unique to this field. . . . Most of the work is problemspecific, and some abstraction or creativity is required to see how to
+that is unique to this field. . . . Most of the work is problem specific, and some abstraction or creativity is required to see how to
 transfer
 
 it.5
@@ -4732,7 +4732,7 @@ deterministic logic.
 Such systems offer some clear advantages over programmed
 algorithms for arriving at the same solutions to the same problems:
 
-Inference engine technology is developed in an applicationindependent way, and then applied to many uses. One can
+Inference engine technology is developed in an application independent way, and then applied to many uses. One can
 justify much more effort on the inference engines. Indeed,
 that technology is well advanced.
 
@@ -4835,7 +4835,7 @@ In the first place, as I have argued elsewhere, the flow chart
 is a very poor abstraction of software structure.10 Indeed, it is
 best viewed as Burks, von Neumann, and Goldstine's attempt
 to provide a desperately needed high-level control language for
-their proposed computer. In the pitiful, multipage, connectionboxed form to which the flow chart has today been elaborated,
+their proposed computer. In the pitiful, multipage, connection boxed form to which the flow chart has today been elaborated,
 it has proved to be essentially useless as a design tool—programmers draw flow charts after, not before, writing the programs they describe.
 
 Second, the screens of today are too small, in pixels, to
@@ -6159,7 +6159,7 @@ lines of code (KLOC) per man-year to 10 KLOC/man-year
 as a function of the number of interactions among system
 parts.
 
-8.7 Harr's Bell Labs data show productivities on operatingsystems-type work to run about 0.6 KLOC/man-year and
+8.7 Harr's Bell Labs data show productivities on operating systems-type work to run about 0.6 KLOC/man-year and
 on compiler-type work about 2.2 KLOC/man-year for finished products.
 
 8.8 Brooks's OS/360 data agrees with Harr's: 0.6-0.8 KLOC/
@@ -6730,7 +6730,7 @@ Why has The Mythical Man-Month persisted? Why is it still
 seen to be relevant to software practice today? Why does it have
 a readership outside the software engineering community, generating reviews, citations, and correspondence from lawyers,
 doctors, psychologists, sociologists, as well as from software
-people? How can a book written 20 years ago about a softwarebuilding experience 30 years ago still be relevant, much less useful?
+people? How can a book written 20 years ago about a software building experience 30 years ago still be relevant, much less useful?
 
 One explanation sometimes heard is that the software development discipline has not advanced normally or properly.
 This view is often supported by contrasting computer software
@@ -7881,7 +7881,7 @@ divisions are given in Wolverton, R. W., "The cost of developing large-scale sof
 6 (June, 1974) pp. 615-636.
 
 3. Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter
-much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer,"
+much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus super programmer,"
 Infosystems (Dec.,
 1972), pp. 20-23.
 

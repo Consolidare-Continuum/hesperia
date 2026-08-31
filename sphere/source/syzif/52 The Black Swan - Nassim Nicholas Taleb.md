@@ -2614,7 +2614,7 @@ drinking only Evian, all the while reading the European edition of The
 
 Wall Street Journal. She kept trying to start a conversation in broken
 
-French, since she saw me reading a book (in French) by the sociologistphilosopher Pierre Bourdieu—which, ironically, dealt with the marks of
+French, since she saw me reading a book (in French) by the sociologist philosopher Pierre Bourdieu—which, ironically, dealt with the marks of
 
 social distinction. I informed her (in English) that I was a limousine driver,
 
@@ -4275,7 +4275,7 @@ terests and self-serving institutions in play.
 
 Algazel
 
-The third major thinker who dealt with the problem was the eleventhcentury Arabic-language skeptic Al-Ghazali, known in Latin as Algazel.
+The third major thinker who dealt with the problem was the eleventh century Arabic-language skeptic Al-Ghazali, known in Latin as Algazel.
 
 His name for a class of dogmatic scholars was ghabi, literally "the imbeciles­
 
@@ -5763,7 +5763,7 @@ Finally, information is costly to manipulate and retrieve.
 
 With so many brain cells—one hundred billion (and counting)—the
 
-attic is quite large, so the difficulties probably do not arise from storagecapacity limitations, but may be just indexing problems. Your conscious,
+attic is quite large, so the difficulties probably do not arise from storage capacity limitations, but may be just indexing problems. Your conscious,
 
 or working, memory, the one you are using to read these lines and make
 
@@ -6335,7 +6335,7 @@ matters. They too are human and get their attention from sensational mat­
 
 ters. The way to remedy this is through meta-analyses of scientific studies,
 
-in which an iiberresearcher peruses the entire literature, which includes
+in which an uber researcher peruses the entire literature, which includes
 
 the less-advertised articles, and produces a synthesis.
 
@@ -7306,7 +7306,7 @@ human species. We often hear the semi-lie that writers do not write for
 
 glory, that artists create for the sake of art, because the activity is "its own
 
-reward." True, these activities can generate a steady flow of autosatisfaction­
+reward." True, these activities can generate a steady flow of auto satisfaction­
 
 tion. But this does not mean that artists do not crave some form of atten­
 
@@ -8141,7 +8141,7 @@ Fukuyama, Schmukuyama, Trukuyama. He seems deep and knowledge­
 
 able, making sure that no attention lapse will make you forget that his ap­
 
-proach is "post-Marxist," "postdialectical," or post-something, whatever
+proach is "post-Marxist," "post dialectical," or post-something, whatever
 
 that means. Then you realize that a large part of what he is saying reposes
 
@@ -8363,7 +8363,7 @@ Illusions. Lucien de Rubempré (alias of Lucien Chardon), the penurious
 
 provincial genius, "goes up" to Paris to start a literary career. We are told
 
-that he is talented—actually he is told that he is talented by the semiaristocratic set in Angoulêmeême. But it is difficult to figure out whether this is
+that he is talented—actually he is told that he is talented by the semi aristocratic set in Angoulêmeême. But it is difficult to figure out whether this is
 
 due to his good looks or to the literary quality of his works—or even
 
@@ -8558,7 +8558,7 @@ out the nonsense in it since it was protected by cosmetic wrapping; the fol­
 
 lowing thought experiment will give the intuition. Assume that you're able
 
-to find a large, assorted population of rats: fat, thin, sickly, strong, wellproportioned, et cetera. (You can easily get them from the kitchens of
+to find a large, assorted population of rats: fat, thin, sickly, strong, well proportioned, et cetera. (You can easily get them from the kitchens of
 
 fancy New York restaurants.) With these thousands of rats, you build a
 
@@ -9202,7 +9202,7 @@ Once again, I am not dismissing the idea of risk taking, having been in­
 
 volved in it myself. I am only critical of the encouragement of uninformed
 
-risk taking. The uberpsychologist Danny Kahneman has given us evidence
+risk taking. The uber psychologist Danny Kahneman has given us evidence
 
 that we generally take risks not out of bravado but out of ignorance and
 
@@ -10568,7 +10568,7 @@ local population, with concomitant pressures on them to live by a sophis­
 
 ticated script (wine and opera). But I was not there to take a peek at the
 
-neosophisticates. I had come to look at the Sydney Opera House, a build­
+neo sophisticates. I had come to look at the Sydney Opera House, a build­
 
 ing that adorns every Australian tourist brochure. Indeed, it is striking,
 
@@ -17578,7 +17578,7 @@ This monstrosity called the Gaussian bell curve is not Gauss's doing.
 
 Although he worked on it, he was a mathematician dealing with a theoreti­
 
-cal point, not making claims about the structure of reality like statisticalminded scientists. G. H. Hardy wrote in "A Mathematician's Apology":
+cal point, not making claims about the structure of reality like statistical minded scientists. G. H. Hardy wrote in "A Mathematician's Apology":
 
 The "real" mathematics of the "real" mathematicians, the mathematics
 
@@ -18305,7 +18305,7 @@ Remember that if either of these two central assumptions is not met,
 
 your moves (or coin tosses) will not cumulatively lead to the bell curve.
 
-Depending on what happens, they can lead to the wild Mandelbrotianstyle scale-invariant randomness.
+Depending on what happens, they can lead to the wild Mandelbrotian style scale-invariant randomness.
 
 "The Ubiquity of the Gaussian"
 
@@ -22772,7 +22772,7 @@ History: Carr (1961), Hexter (1979), and Gaddis (2002). But I have trouble with 
 ans throughout, because they often mistake the forward and the backward processes.
 Mark Buchanan's Ubiquity and the quite confused discussion by Niall Ferguson
 in Nature. Neither of them seem to realize the problem of calibration with power
-laws. See also Ferguson, Why Did the Great War?, to gauge the extent of the forwardbackward problems.
+laws. See also Ferguson, Why Did the Great War?, to gauge the extent of the forward backward problems.
 
 For the traditional nomological tendency, i.e., the attempt to go beyond cause
 into a general theory, see Muqaddamah by Ibn Khaldoun. See also Hegel's Philosophy of History.
@@ -26819,7 +26819,7 @@ worked as a derivatives trader on his own and with Wall Street firms
 
 and as a floor trader in the Chicago pits before opting for more con­
 
-templative, and what he calls "nontransactional," pursuits. He has
+templative, and what he calls "non transactional," pursuits. He has
 
 an M.B.A. from the Wharton School and a Ph.D. from the University
 

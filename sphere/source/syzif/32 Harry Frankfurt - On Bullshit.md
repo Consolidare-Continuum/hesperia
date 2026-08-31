@@ -645,7 +645,7 @@ all parts of the world.
 The contemporary proliferation of bullshit also has deeper sources, in various
 forms of skepticism which deny that we can have any reliable access to an
 objective reality and which therefore reject the possibility of knowing how things
-truly are. These anti-realistdoctrines undermine confidence in the value of
+truly are. These anti-realist doctrines undermine confidence in the value of
 disinterested efforts to determine what is true and what is false, and even in the
 intelligibility of the notion of objective inquiry. One response to this loss of
 confidence has been a retreat from the discipline required by dedication to the
@@ -666,6 +666,6 @@ ourselves at all without knowing them. Moreover, there is nothing in theory, and
 certainly nothing in experience, to support the extraordinary judgment that it is
 the truth about himself that is the easiest for a person to know. Facts about
 ourselves are not peculiarly solid and resistant to skeptical dissolution. Our
-natures are, indeed, elusively insubstantialnotoriously less stable and less
+natures are, indeed, elusively insubstantial notoriously less stable and less
 inherent than the natures of other things. And insofar as this is the case, sincerity
 itself is bullshit.

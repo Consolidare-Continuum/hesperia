@@ -946,7 +946,7 @@ matched by an equal and opposite debit, and all transactions over $1,000 must be
 authorized by two managers"). A security target is a more detailed specification, which
 sets out the means by which a security policy will be implemented in a particular product—encryption and digital signature mechanisms, access controls, audit logs, and so
 on—and which will be used as the yardstick to evaluate whether the designers and
-implementers have done a proper job. Between these two levels we may find a protection profile, which is like a security target except written in a sufficiently deviceindependent way to allow comparative evaluations among different products and different versions of the same product. I'll elaborate on security policies, security targets,
+implementers have done a proper job. Between these two levels we may find a protection profile, which is like a security target except written in a sufficiently device independent way to allow comparative evaluations among different products and different versions of the same product. I'll elaborate on security policies, security targets,
 and protection profiles in Chapter 7 and Chapter 23. In general, the word protection
 will mean a property such as confidentiality or integrity, defined in a sufficiently abstract way for us to reason about it in the context of general systems rather than specific implementations.
 
@@ -1729,7 +1729,7 @@ as they force the designer to make everything explicit and thus confront difficu
 One problem is in the external assumptions we make. For example, we assumed that
 the key wasn't available to anyone who might use it in an unauthorized manner. In
 practice, this is not always true. Although the COPAC purse protocol is executed in
-tamper-resistant smartcards, their software can have bugs; and in any case the tamperresistance they offer is never complete. (I explain this in Chapter 14, "Physical Tamper
+tamper-resistant smartcards, their software can have bugs; and in any case the tamper resistance they offer is never complete. (I explain this in Chapter 14, "Physical Tamper
 Resistance.") So the system has various fallback mechanisms for detecting and reacting
 to card forgery, such as "shadow accounts," which track the amount of money that
 should be on each card and which are updated as transactions are cleared. It also has
@@ -1771,7 +1771,7 @@ the way encryption is used. If the protocol uses public key cryptography or digi
 
 Passwords are not always an adequate means of protection, especially if they have to
 be used more than once over an open communications channel. Simple authentication
-protocols, whether one-pass (e.g., using random nonces) or two-pass (challengeresponse) are appropriate in many cases, and are fielded in all sorts of systems from
+protocols, whether one-pass (e.g., using random nonces) or two-pass (challenge response) are appropriate in many cases, and are fielded in all sorts of systems from
 remote car-door locks through military IFF systems to authentication in distributed
 computer systems.
 
@@ -2573,7 +2573,7 @@ As we work up from the hardware through the operating system and middleware to
 the application layer, the controls become progressively more complex and less reliable. Most actual computer frauds involve staff accidentally discovering features of the
 application code that they can exploit in an opportunistic way, or just abusing features
 of the application that they were trusted not to. But in this chapter, we will focus on the
-fundamentals: access control at the hardware and operating system level. (Applicationlevel controls aren't different in principle, but I leave detailed discussion to Part 2 of
+fundamentals: access control at the hardware and operating system level. (Application level controls aren't different in principle, but I leave detailed discussion to Part 2 of
 this book.)
 
 As with the other building blocks discussed so far, access control makes sense only
@@ -5076,7 +5076,7 @@ Science (LNCS) series.
 
 The classic papers by Diffie and Hellman [248] and by Rivest, Shamir, and Adleman
 [649] are the closest to required reading on this subject. The most popular modern introduction is Bruce Schneier's Applied Cryptography [681], which covers a lot of
-ground at a level a nonmathematician can understand, and which has C source code for
+ground at a level a non mathematician can understand, and which has C source code for
 a number of algorithms. The Handbook of Applied Cryptography, by Alfred Menezes,
 Paul von Oorschot and Scott Vanstone [544], is the closest to a standard reference
 book on the mathematical detail.
@@ -6053,7 +6053,7 @@ specific implementation provides, and how they relate to a list of control objec
 (some but not all of which are typically derived from the policy model). The security
 target forms the basis for testing and evaluation of a product.
 
-A protection profile is like a security target but expressed in an implementationindependent way to enable comparable evaluations across products and versions. This
+A protection profile is like a security target but expressed in an implementation independent way to enable comparable evaluations across products and versions. This
 can involve the use of a semi-formal language or at least of suitable security jargon. A
 protection profile is a requirement for products that are to be evaluated under the
 Common Criteria [574] (I discuss the Common Criteria in Part 3; they are associated
@@ -12859,7 +12859,7 @@ number of cards may be compromised at little marginal cost.
 showing data dependency (courtesy of Andy Santoso). The upper half of the screen shows
 the clock signal; the lower shows the power consumption.
 
-The threat posed to smartcards by power analysis was brought forcefully to the industry's attention in 1998 with the development by Paul Kocher of a specific signalprocessing technique to extract the key bits used in a block cipher, such as DES, from a
+The threat posed to smartcards by power analysis was brought forcefully to the industry's attention in 1998 with the development by Paul Kocher of a specific signal processing technique to extract the key bits used in a block cipher, such as DES, from a
 collection of power curves, without knowing the implementation details of the card
 software. This technique, differential power analysis, works as follows [467].
 
@@ -13669,7 +13669,7 @@ jamming (though in theory it also includes stealth technology), and "electronic 
 16.4.1 Types of Radar
 
 A very wide range of systems are in use, including search radars, fire-control radars,
-terrain-following radars, counterbombardment radars, and weather radars. They have a
+terrain-following radars, counter bombardment radars, and weather radars. They have a
 wide variety of signal characteristics. For example, radars with a low RF and a low
 pulse repetition frequency (PRF) are better for search, while high-frequency, high PRF
 devices are better for tracking. A good textbook on the technology is by Schleher
@@ -13906,7 +13906,7 @@ Since the Gulf war, in which 25% of Allied troop casualties were caused by
 "friendly fire", a number of experimental systems have been developed that extend IFF
 to ground troops. One U.S. system combines laser and RF components. Shooters have
 lasers, and soldiers have transponders; when the soldier is illuminated with a suitable
-challenge, his equipment broadcasts a "don't shoot me" message using frequencyhopping radio [820]. An extension allows aircraft to broadcast targeting intentions on
+challenge, his equipment broadcasts a "don't shoot me" message using frequency hopping radio [820]. An extension allows aircraft to broadcast targeting intentions on
 millimeter wave radio. This system was due to be fielded in the year 2000. Britain is
 developing a cheaper system called MAGPIE, in which friendly vehicles carry a low-probability-of-intercept millimeter wave transmitter, and shooters carry a directional
 receiver [381]. (Dismounted British foot soldiers, unlike their American counterparts,
@@ -17391,7 +17391,7 @@ card driver software. The response to this is a modified sound card that grabs
 the deciphered data.
 
 • Second, the success of new hardware depends on the availability of software,
-and vice versa. To launch a new platform for audio, it had better be backwardcompatible with existing CDs and players. One trick that has been proposed is
+and vice versa. To launch a new platform for audio, it had better be backward compatible with existing CDs and players. One trick that has been proposed is
 to encrypt only the least significant bits of the music track, and decode them in
 the sound card driver in the PC operating system. This way, people with existing CD players can get music, and people with authorized copy protected
 equipment can get higher quality music. However, the quality is most important with classical tracks, which are not economically important, and in any
@@ -17728,7 +17728,7 @@ allow the kind of processors required to give serious tamper protection.
 
 Another set of problems came from the fact that the PC is an open platform. The
 DVD consortium's chosen method of dealing with this was that people producing DVD
-player software had to obfuscate their code so that it would be hard to reverseengineer. Papers duly appeared on tricks for systematic software obfuscation [58].
+player software had to obfuscate their code so that it would be hard to reverse engineer. Papers duly appeared on tricks for systematic software obfuscation [58].
 These tricks may have pushed up the cost of reverse engineering from a few days of
 effort to a few weeks, but once the CSS design was out, that was it.
 
@@ -17991,7 +17991,7 @@ or low-cost tamper-resistant processors, it's only a matter of time before the a
 gets out; then expect to see people writing quite effective unmarking software.
 
 .6 The Mosaic attack (courtesy Jet Photographic,
-http://www.jetphotographic.com).
+http://www.jet photographic.com).
 
 .7 The effect of Stirmark.
 
@@ -18221,7 +18221,7 @@ communications primitive on which services such as mail and Web access can be la
 which might conceivably be built on top of third-generation mobile services [312,
 419]. Indeed, the existence of anonymous communication channels greatly simplifies
 the design of more complex services with anonymity requirements, such as elections
-and digital cash [708]; and in the real world they can be usefully implemented by noncryptographic means such as broadcast by access tokens or other low-cost portable devices [732].
+and digital cash [708]; and in the real world they can be usefully implemented by non cryptographic means such as broadcast by access tokens or other low-cost portable devices [732].
 
 While anonymous communications based on remailers provide protection that depends on all sorts of aspects of the implementation—such as whether replay or other
 chosen-traffic attacks are possible—there is another stronger mechanism that is not so
@@ -19989,7 +19989,7 @@ must get right, such as the integrity of the systems used to record and tally vo
 elections.
 
 Technopolicy issues tend to involve a complex interplay between science, engineering,
-applied psychology, law and economics. There is altogether too little serious crossdisciplinary research; the apothegm at the head of this chapter captures well the problem that people from these different disciplines often talk at cross purposes. Debates on
+applied psychology, law and economics. There is altogether too little serious cross disciplinary research; the apothegm at the head of this chapter captures well the problem that people from these different disciplines often talk at cross purposes. Debates on
 issues such as key escrow are slowly building a body of people with experience in
 talking to both computer scientists and lawyers; and electronic commerce leads computer scientists to talk to economists. Initiatives that speed up this process are almost
 certainly a good thing; bringing in psychologists, historians of science, and others

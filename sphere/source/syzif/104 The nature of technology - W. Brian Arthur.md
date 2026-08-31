@@ -2711,7 +2711,7 @@ In the jet-engine case, other additions improved performance as the technology w
 added. To prevent the buildup of ice in the intake region, deicing assemblies were added. Specialized fuel systems, lubrication systems,
 variable exhaust-nozzle systems, engine-starting systems were added. All these in their turn further required control, sensor, and
 instrumentation systems and subsystems. Performance was indeed enhanced. Modern aircraft engines are 30 to 50 times more powerful than
-Whittle's original jet engine, but they are considerably more complicated. Whittle's turbojet prototype of 1936 had one moving compressorturbine combination and a few hundred parts; its modern equivalent has upwards of 22,000 parts.
+Whittle's original jet engine, but they are considerably more complicated. Whittle's turbojet prototype of 1936 had one moving compressor turbine combination and a few hundred parts; its modern equivalent has upwards of 22,000 parts.
 
 This process of improvement by structural deepening is slow. With the aircraft gas-turbine powerplant it took decades. The reason is that not
 only must the new assemblies and work-arounds be conceived of, they must be tested and proved, and the new system containing them must
@@ -3884,7 +3884,7 @@ The process took a hundred years or more to reach anything like completion.
 The reader might object that this makes structural change appear too simplistic—too mechanical. Technology A sets up a need for
 arrangements B; technology C fulfills this, but sets up further needs D and E; these are resolved by technologies F and G. Certainly such
 sequences do form the basis of structural change, but there is nothing simple about them. If we invoke recursion these new arrangements and
-technologies themselves call for subtechnologies and subarrangements. The factory system itself needed means of powering the new
+technologies themselves call for subtechnologies and sub arrangements. The factory system itself needed means of powering the new
 machinery, systems of ropes and pulleys for transmitting this power, means of acquiring and keeping track of materials, means of
 bookkeeping, means of management, means of delivery of the product. And these in turn were built from other components, and had their
 own needs. Structural change is fractal, it branches out at lower levels, just as an embryonic arterial system branches out as it develops into

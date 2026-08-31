@@ -141,7 +141,7 @@ having failed to disavow the final product in advance, will be nam ed
 here and, it is to be hoped, implicated.
 
 Some of my debts are to institutions. I spent the 1990-91 academic
-year at the Wissenschaftskolleg zu Berlin as a recipient of their hospitality and largesse. The tem ptation of living for a time in Berlin, just a
+year at the Wissenschaft kolleg zu Berlin as a recipient of their hospitality and largesse. The tem ptation of living for a time in Berlin, just a
 year after the Wall came down, proved irresistible. After physically laboring for six weeks on an ex-collective farm on the Mecklenburg Plain
 in eastern Germany (an alternative that I dream ed up to avoid sitting
 for six weeks in Goethe Institute classes with pimply teenagers), I
@@ -1029,7 +1029,7 @@ The result was that the state routinely relied on exceptional measures
 to overcome shortfalls in revenue or to pay for new expenses, particularly military campaigns. The crown exacted "forced loans" (rentes,
 droits alienes) in return for annuities that it might or might not honor;
 it sold offices and titles (vénalités d 'offices); it levied exceptional hearth
-taxes (fouages extraordinaires); and, worst of all, it billeted troops directly in communities, often ruining the towns in the process.35
+taxes (fouages extra ordinaires); and, worst of all, it billeted troops directly in communities, often ruining the towns in the process.35
 
 The billeting of troops, a common form of fiscal punishm ent, is to
 modern forms of systematic taxation as the drawing and quartering of
@@ -9127,7 +9127,7 @@ The breadth of hum an purposes has led not to a single, ideal cultivar of
 each species but rather to a great many varieties, each distinctive in
 some im portant way. Thus we have the varieties of barley grown for
 porridge, for bread, for beer, and for feeding livestock; and thus "sweet
-sorghum for chewing, white-seeded types for bread, small, dark, redseeded types for beer, and strong-stemmed, fibrous types for houseconstruction and basketry."7
+sorghum for chewing, white-seeded types for bread, small, dark, redseeded types for beer, and strong-stemmed, fibrous types for house construction and basketry."7
 
 The greatest selection pressure, however, came from the dom inant
 anxiety of cultivators: that they not starve. This most basic of existential concerns also led to a great variety of cultivars, term ed the "landraces" of the various crops. Landraces are genetically variable populations that respond differently to different soil conditions, levels of
@@ -9296,7 +9296,7 @@ existing crop diseases while creating new ones.26
 Just prior to the com leaf blight in the South in 1970, 71 percent of
 all acreage in corn was planted to only six hybrids. The specialists investigating the blight stressed the pressures of m echanization and
 product uniformity that led to a radically narrow er genetic crop base.
-"Uniformity," the report asserted, "is the key word."27 Most of the hybrids had been developed by the male-sterile method using "Texas cytoplasm." It was this uniformity that was attacked by the fungus Helminthosporium maydis; those hybrids created without Texas cytoplasm
+"Uniformity," the report asserted, "is the key word."27 Most of the hybrids had been developed by the male-sterile method using "Texas cytoplasm." It was this uniformity that was attacked by the fungus Helminthosporium maydis maydis; those hybrids created without Texas cytoplasm
 suffered only trivial damage. The pathogen was not new; in its report,
 the National Research Council committee imagined that it was probably in existence when Squanto showed the Pilgrims how to plant corn.
 While H. m aydis may have from time to time produced m ore virulent
@@ -10248,7 +10248,7 @@ selected a variant of rice with long awns (beard or bristles) and glumes
 (bracts). The textbook reasoning was probably that such varieties were
 lower yielding or that the awns and glumes would simply add more
 chaff that would have to be winnowed after threshing. The farmers' reasoning was that the long awns and glumes discouraged birds from eating the bulk of their rice before it ever made it to the threshing floor.
-These details about microirrigation and the damage caused by birds are
+These details about micro irrigation and the damage caused by birds are
 vital for local cultivators, but such details do not and cannot appear on
 the high-flying mapping of modern agricultural planning.
 
@@ -11561,7 +11561,7 @@ the intensity of the work and control the raw m aterials.77 To the degree
 that efficient production could still be organized on an artisanal basis
 (such as early woolen manufacturing and silk ribbon weaving, according to Marglin), to that degree was it difficult for the capitalist to appropriate the profits of a dispersed craft population.
 
-The genius of m odern m ass-production m ethods, Frederick Taylor, saw the issue of destroying metis and turning a resistant, quasiautonomous, artisan population into more suitable units, or "factory
+The genius of m odern m ass-production m ethods, Frederick Taylor, saw the issue of destroying metis and turning a resistant, quasi autonomous, artisan population into more suitable units, or "factory
 hands," with great clarity. "Under scientific m anagem ent. . . the m anagers assume . .. the burden of gathering together all of the traditional
 knowledge which in the past has been possessed by the workmen en and
 then of classifying, tabulating, and reducing this knowledge to rules,
@@ -11689,7 +11689,7 @@ m odernism or state simplifications per se or, to be sure, against epistemic kno
 
 grams, social security, transportation, communication, universal public education, and equality before the law are all powerfully influenced
 by state-created, high-modernist simplifications. I will go further and
-say that the initial land reforms in Bolshevik Russia and in postrevolutionaiy China were state-abetted simplifications that effectively enfranchised millions who had lived in virtual serfdom. Epistemic knowledge, though never separate in its practice from metis, has provided us
+say that the initial land reforms in Bolshevik Russia and in post revolutionary China were state-abetted simplifications that effectively enfranchised millions who had lived in virtual serfdom. Epistemic knowledge, though never separate in its practice from metis, has provided us
 with a knowledge of the world that, for all its darker aspects, few of us
 would w ant to surrender.
 
@@ -11959,7 +11959,7 @@ have nearly superseded the first, in roughly the same way that planned,
 suburban Levittowns have, after fifty years, become thoroughly different settings from what their designers envisioned.
 
 If our inquiry has taught us anything, it is that the first map, taken
-alone, is m isrepresentative and indeed nonsustainable. A same-age,
+alone, is m misrepresentative and indeed nonsustainable. A same-age,
 m onocropped forest with all the debris cleared is in the long run an
 ecological disaster. No Taylorist factory can sustain production without
 the unplanned improvisations of an experienced workforce. Planned
@@ -12359,7 +12359,7 @@ more closely resembles the stripped down, abstract image the lens had revealed.
 7. See Keith Tribe, Governing Economy: The Reformation o f German Economic
 Discourse, 1750-1840 (Cambridge: Cambridge University Press, 1988). The more
 general process of codifying the principles of state administration in seventeenth eighteenth-century Europe is exam ined by M ichel Foucault under the (misleading) heading of "police state" (from Polizeiwissenschaft) in his lectures on
-"governmcntality," delivered at the College de France. See Graham Burchell, Colin
+"governmentality," delivered at the College de France. See Graham Burchell, Colin
 Gordon, and Peter Miller, eds., The Foucault Effect: Studies in G ovem m entality
 (London: Harvester Wheatsheaf, 1991), especially chap. 4.
 
@@ -13273,7 +13273,7 @@ and the paper trail that it generated.
 European nation-state as the replacement of indirect rule with direct rule (Coercion, Capital, and European States, pp. 103-26).
 
 88. Donald Chisholm, Coordination Without Hierarchy: Inform al Structures in
-M ultiorganizational System s (Berkeley: University of California Press, 1989), p. 10.
+M multiorganizational System s (Berkeley: University of California Press, 1989), p. 10.
 89. This process is best described by Benedict Anderson: "Guided by its [the
 colonial states] imagined map, it organized the new educational, juridical, public health, police and immigration bureaucracies it was building on the principle of
 ethno-racial hierarchies which were, however, always understood in terms of parallel series. The flow of subject populations through the mesh of differential schools,

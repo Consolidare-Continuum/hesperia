@@ -22,7 +22,7 @@ Columbia, and Chicago and university professor at the graduate
 Faculty of the New School for Social Research. She was awarded
 a Guggenheim Fellowship in 1952 and won the annual Arts and
 Letters Grant of the National Institut? of Arts and Letters in 1954.
-Hannah Arendt's books include The Origins ofTotalitarianism,
+Hannah Arendt's books include The Origins of Totalitarianism,
 Crisis in the Republic, Men in Dark Times, Between Past and
 Future: Eight Exercises in Political Thought, and Eichmann in
 Jerusalem: A Report on the Banality o f Evil. She also edited two

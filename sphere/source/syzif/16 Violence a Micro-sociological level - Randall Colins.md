@@ -565,7 +565,7 @@ the criminal justice system, or upon interviews with convicted prisoners
 or other participants. Victim surveys are a step in the right direction, but
 they remain limited, not only by the issue of to what extent victims are
 telling the truth, but also by the problem that persons are generally not
-good observers of the details and contexts of dramatic events. Our ordinary discourse does not provide the language in which to describe microinteraction well; instead, it offers a set of cliche´s and myths that predetermine what people will say. This is true also of military violence, riots,
+good observers of the details and contexts of dramatic events. Our ordinary discourse does not provide the language in which to describe micro interaction well; instead, it offers a set of cliche´s and myths that predetermine what people will say. This is true also of military violence, riots,
 sports violence, or even ordinary quarrels; when participants talk about
 violent situations, they tend to give a very truncated, and by their own
 lights, idealized version of what went on.
@@ -12799,7 +12799,7 @@ and some of those present were spectators rather than participants.
 To a considerable extent, celebration riots attacking authority happen
 because of a lack of traditional potlatch-like festive destruction in a restricted setting, like old-fashioned goal-post smashing and bonfires. This
 lack of an institutionalized venue for moderately destructive moral holiday is one ingredient. It combines with heightened attention through the
-mass media on the team's own celebration. Such riots resemble boundaryexclusion fights that occur at parties; blocking enthusiasts from getting
+mass media on the team's own celebration. Such riots resemble boundary exclusion fights that occur at parties; blocking enthusiasts from getting
 into a prestigious carousing scene generates anger combined with ebullience, the formula for an energetic brawl.
 
 OFFSITE VIOLENCE AS SOPHISTICATED TECHNIQUE: SOCCER HOOLIGANS
@@ -13307,7 +13307,7 @@ way fans are organized. American teams lack hooligan firms; such firms
 
 328 • Chapter 8
 
-are a crucial link, the lack of which keeps the potential for fans' opponenttaunting rituals from generalizing to larger social conflicts and spilling
+are a crucial link, the lack of which keeps the potential for fans' opponent taunting rituals from generalizing to larger social conflicts and spilling
 over outside the sports grounds into movements in the larger society.
 
 REVOLT OF THE AUDIENCE IN THE ERA OF ENTERTAINERS' DOMINATION
@@ -16075,7 +16075,7 @@ TECHNIQUES OF INTERACTIONAL DOMINANCE
 
 The second-by-second phenomenology of being in a violent confrontation
 is a distortion of normal consciousness. For some antagonists, the distortions of their stream of consciousness are favorable, enabling them to
-dominate; for other persons, the distortions are disabling. Common distortions are tunnel vision and time-slowing. One becomes hyperconcentrated, focusing intensely on the point of danger, defocusing everything
+dominate; for other persons, the distortions are disabling. Common distortions are tunnel vision and time-slowing. One becomes hyper concentrated, focusing intensely on the point of danger, defocusing everything
 else as irrelevant.
 
 One of a pair of cops describes a barricaded hostage-taker coming out
@@ -17634,7 +17634,7 @@ professional hitmen. There is a particularly close fit with suicide bombers,
 who maintain a clandestine approach all the way up to the instant of their
 attack; like hitmen, they use a pretense of normalcy to penetrate defenses
 and get very close to their victims, so that the attack is highly reliable and
-does not miss its target as so often happens given the normal incompetence of most violence. Both use the tactic of sudden, confrontationminimizing attacks on unaware victims. The tactic not only makes for
+does not miss its target as so often happens given the normal incompetence of most violence. Both use the tactic of sudden, confrontation minimizing attacks on unaware victims. The tactic not only makes for
 effective violence; it also gives psychological support to the killer. In deceiving others, one also deceives oneself; the clandestine killer does not
 
 • 441
@@ -18792,7 +18792,7 @@ combat might be rather intermittent (Holmes 1985: 75–76).
 5. Glenn's data comprised two samples: infantry troops (mostly enlisted men)
 and officers at the combat level of platoon and company commanders.The response rate for the surveys was 52 percent of the troops, 70 percent of the officer
 sample. About half of the troop sample who replied were non-commissioned or
-commissioned officers; only 30 percent were combat riflemen or other weaponshandling troops. More than half of the troops sample were volunteers, not draftees (although the combat troops in the Vietnam war generally were highly skewed
+commissioned officers; only 30 percent were combat riflemen or other weapons handling troops. More than half of the troops sample were volunteers, not draftees (although the combat troops in the Vietnam war generally were highly skewed
 toward draftees). Virtually all those troops who had served additional combat
 tours in Vietnam beyond the one-year rotation—about one-fifth of those who
 responded to the survey—had enlisted as volunteers (Glenn 2000b: 7). Volunteers
@@ -19900,7 +19900,7 @@ were concentrated in the latter part of the 1961–68 period, especially in the 
 following the Martin Luther King assassination in April 1968. In the immediate
 aftermath of that heavily publicized event, cities experiencing a first outbreak had
 more severe violence and destruction (i.e., more looting and arson) than cities that
-were veterans of previous riots. In the remaining months of 1968, the more riotexperienced cities had a decline in severity. Myers (2000) found that riots in
+were veterans of previous riots. In the remaining months of 1968, the more riot experienced cities had a decline in severity. Myers (2000) found that riots in
 
 Notes to Chapter 7 • 493
 
@@ -20511,7 +20511,7 @@ to get the ball any way one can, whether it is rolling around or even handed ove
 by a field attendant; but there is special prestige in making a real catch on the fly.
 This is one way in which a fan can momentarily rise above his/her status, genuinely emulating one of the acts of the players. This always brings applause by the
 other fans. The phenomenon is similar to collecting autographs, another form of
-subservient contact with spectator idols for tokens of connection. The utilitarianminded will say that baseballs are sometimes worth a great deal of money on the
+subservient contact with spectator idols for tokens of connection. The utilitarian minded will say that baseballs are sometimes worth a great deal of money on the
 sports memorabilia market, as in the case of record-setting home runs. But this
 does not explain why ordinary baseballs are also treated with ritual respect; nor
 indeed why record-setting balls have such a market value. The more famous balls
@@ -20929,7 +20929,7 @@ such as drug squads or gang squads. Similarly, officers self-select to get on SW
 13. He fired his gun in three of these encounters, illustrating that even in the
 most dangerous situations police shoot only a small proportion of the time. A
 study of four big-city police departments found that police fired in only a "fraction" of the situations where law and policy would allow it (Scharf and Binder
-1983). Klinger (2004: 58) interprets such instances as reasonable restraint. Microinteractional detail, however, supports the point that those who shoot are those
+1983). Klinger (2004: 58) interprets such instances as reasonable restraint. Micro interactional detail, however, supports the point that those who shoot are those
 who are most energized in such confrontations. The prevalence of non-firing can
 also be interpreted as confrontational tension/fear, and as fitting the normal pattern of small numbers of violent activists.
 
@@ -23224,7 +23224,7 @@ Trotsky, Leon. 1930. History of the Russian Revolution. Reprint. New York:
 
 Pathfinder.
 
-Turner, J. C. 1999. "Some Current Issues in Research on Social Identity and Selfcategorization Theories." In Social Identity, edited by N. Ellemers, R. Spears,
+Turner, J. C. 1999. "Some Current Issues in Research on Social Identity and Self categorization Theories." In Social Identity, edited by N. Ellemers, R. Spears,
 and B. Doosje. Oxford: Blackwell.
 
 552 • References
@@ -23630,7 +23630,7 @@ entertainment, violence as, 242–81,
 entrainment, 19, 27, 79–82, 93–94, 130–
 
 31, 198–99, 242, 300–1, 316, 385, 390,
-448; asymmetrical, 102–4, 150–52; selfentrainment, 93, 151–54, 412, 456–57,
+448; asymmetrical, 102–4, 150–52; self entrainment, 93, 151–54, 412, 456–57,
 476n7
 
 ethnic violence, 23, 99, 112, 115–21, 128,

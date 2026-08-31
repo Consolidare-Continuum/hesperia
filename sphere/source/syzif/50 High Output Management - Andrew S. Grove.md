@@ -6876,7 +6876,7 @@ Moreover, if we want to cultivate achievement-driven
 motivation, we need to create an environment that values
 and emphasizes output. My first job was with a research
 and development laboratory, where a lot of people were
-very highly motivated but tended to be knowledgecentered. They were driven to know more, but not
+very highly motivated but tended to be knowledge centered. They were driven to know more, but not
 necessarily to know more in order to produce concrete
 results. Consequently, relatively little was actually achieved.
 The value system at Intel is completely the reverse. The
@@ -7499,7 +7499,7 @@ individually. It is also how we allocate the rewards—
 promotions, dollars, stock options, or whatever we may use.
 As we saw earlier, the review will influence a subordinate's
 performance—positively or negatively—for a long time,
-which makes the appraisal one of the manager's highestleverage activities. In short, the review is an extremely
+which makes the appraisal one of the manager's highest leverage activities. In short, the review is an extremely
 powerful mechanism, and it is little wonder that opinions
 and feelings about it are strong and diverse.
 
@@ -9081,7 +9081,7 @@ things like the objectives and value systems of your
 department, your plant, and your company. Ask the people
 working for you what they feel they need. They are likely to
 surprise you by telling you of needs you never knew existed.
-Having done this, take an inventory of the managerteachers and instructional materials available to help
+Having done this, take an inventory of the manager teachers and instructional materials available to help
 deliver training on items on your list. Then assign priorities
 among these items.
 
@@ -9228,7 +9228,7 @@ the organizations you can influence? List them in
 order of importance.
 
 Analyze your
-information- and knowledgegathering system. Is it properly balanced among
+information- and knowledge gathering system. Is it properly balanced among
 "headlines," "newspaper articles," and "weekly
 news magazines"? Is redundancy built in?
 

@@ -291,7 +291,7 @@ It is a feeling that makes you want to cry and laugh at the same time, to dance 
 
 yet fearful that it was too good to be true and that it just might all evaporate. You're on cloud
 
-nine. Maybe that is how people felt on VE and VJ days when the Allies roundlydefeated the
+nine. Maybe that is how people felt on VE and VJ days when the Allies roundly defeated the
 
 Nazis and the Japanese after World War II—people poured out into the streets of their
 
@@ -861,7 +861,7 @@ and the cops aren't going to turn overnight into paragons of respect for human
 
 rights. Their numbers and their expert management of deadly weapons remain
 
-significantfacts of life…. The soldiers and police may be biding their time,
+significant facts of life…. The soldiers and police may be biding their time,
 
 waiting and conspiring to return to power. They may be seeking to keep or win
 
@@ -1431,7 +1431,7 @@ his young son, who was killed in an ANC bomb blast. Mr. Smit is an Afrikaner, an
 
 conventional wisdom would have led us to expect that he would be bristling with anger and
 
-hostility against those the apartheid government propaganda made out to be Communistinspired terrorists. When Mr. Smit spoke about his son's death, what he said was quite
+hostility against those the apartheid government propaganda made out to be Communist inspired terrorists. When Mr. Smit spoke about his son's death, what he said was quite
 
 breathtaking. He said he was not angry. If he was angry at all it was against the apartheid
 
@@ -2585,7 +2585,7 @@ under way, while all this time perpetrators had been granted amnesty. One can ve
 
 understand the frustration and anger of disgruntled victims who came before the
 
-commission, as well as the cynicism of harsh critics who pooh-poohed the vaunted victimfriendliness of the TRC and claimed that the process was really perpetrator-friendly.
+commission, as well as the cynicism of harsh critics who pooh-poohed the vaunted victim friendliness of the TRC and claimed that the process was really perpetrator-friendly.
 
 We at the TRC have expressed our own dissatisfaction with this aspect of the law. As a
 
@@ -10374,7 +10374,7 @@ l maak 'n plan (make a plan)
 
 l metodes ander as aanhouding (methods other than detention)
 
-l onkonvensionele metodes (unconventional methods)
+l onkonvensionele metodes metodes (unconventional methods)
 
 In public, this was the kind of language apartheid leaders used:
 

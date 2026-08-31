@@ -22440,7 +22440,7 @@ It is also important to note that the danger of creating new bias by adjusting f
 wrong variables can threaten randomized trials as well. In such trials, investigators may
 wish to adjust for covariates despite the fact that, asymptotically, randomization neutralizes both measured and unmeasured confounders. Adjustment may be sought either
 to improve precision (Cox 1958, pp. 48–55), or to match imbalanced samples, or to
-obtain covariate-specific causal effects. Randomized trials are immune to adjustmentinduced bias when adjustment is restricted to pre-treatment covariates, but adjustment
+obtain covariate-specific causal effects. Randomized trials are immune to adjustment induced bias bias when adjustment is restricted to pre-treatment covariates, but adjustment
 for post-treatment variables may induce bias by the mechanism shown in .5 or,
 more severely, when correlation exists between the adjusted variable Z and some factor
 that affects outcome (e.g., e4 in .5).
@@ -22568,7 +22568,7 @@ The question arises, however, whether the variables Y(0) and Y(l) could be repre
 means, using d-separation. In other words, we seek a set W of nodes such that Z would
 d-separate X from W if and only if Z satisfies equation (11.4).
 
-The answer follows directly from the rules of translation between graphs and potenrepresents the
+The answer follows directly from the rules of translation between graphs and poten represents the
 tial outcome (Section 3.6.3). According to this translation,
 sum total of all exogenous variables, latent as well as observed, which can influence Y
 through paths that avoid X. The reason is as follows: according to the structural definition
@@ -23253,7 +23253,7 @@ In Section 3.6.4 we introduced the G-estimation formula (3.63), together with th
 (Y(x) Xk Lk, Xk1
 terfactual independency (3.62),
 which Robins proved to
-be a sufficient condition for (3.63). In general, condition (3.62) is both overrestrictive
+be a sufficient condition for (3.63). In general, condition (3.62) is both over restrictive
 and lacks intuitive basis. A more general and intuitive condition leading to (3.63) is
 derived in (4.5) (p. 122), which reads as follows:
 
@@ -23398,7 +23398,7 @@ We are interested in the probability distribution of a set of outcome variables 
 to the output of functions gi (known in
 a policy that sets the values of each
 advance) which pay attention to some set of prior variables Zi, as well as the previous
-At the same time, the variables Z i are themselves affected by preinterventions on
+At the same time, the variables Z i are themselves affected by pre interventions on
 vious interventions. To define this recursion appropriately, we use an inductive defini-
 Here the
 tion. The base case is
@@ -24507,7 +24507,7 @@ Dr. EX: Interesting. Now I understand why my statistician colleagues got so tota
 confused, mistrustful, even antagonistic, upon encountering SEM methodology (e.g.,
 Freedman 1987; Holland 1988; Wermuth 1992). One last question. You started talking
 about randomized experiments only after realizing that I am a statistician. How would
-you explain your SEM strategy to a nonstatistician?
+you explain your SEM strategy to a non statistician?
 
 You: I would use plain English and say: "If we have the physical means of fixing y
 at some constant y1, and of changing that constant from y1 to y2, then the observed
@@ -26188,7 +26188,7 @@ I similarly thank all reviewers of the first edition of the book and the editors
 helped bring these reviews to the attention of their readers. These include: Choice (Byerly
 2000), Structural Equation Modeling (Shipley 2000a), Chance (McDonald 2001),
 Technometrics (Zelterman 2001), Mathematical Reviews (Lawry 2001), Politische
-Vierteljahrsschrlft (Didelez and Pigeot 2001), Technological Forecasting & Social Change
+Vierteljahresschrift (Didelez and Pigeot 2001), Technological Forecasting & Social Change
 (Payson 2001), British Journal for the Philosophy of Science (Gillies 2001), Human
 Biology (Chakraborty 2001), The Philosophical Review (Hitchcock 2001), Intelligence
 (O'Rourke 2001), Journal of Marketing Research (Rigdon 2002), Tijdschrift Voor (Decock

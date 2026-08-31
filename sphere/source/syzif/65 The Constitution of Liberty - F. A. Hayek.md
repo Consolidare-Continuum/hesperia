@@ -5403,7 +5403,7 @@ down the claims of reason by the use of rational analysis."—Ed.] Cf. also Erne
 Mossner, Life of David Hume (Oxford: Clarendon Press, 1954), p. 125: "In the Age of Reason,
 Hume set himself apart as a systematic anti- rationalist."
 
-53 See Dietrich Schindler, Recht, Staat, Völkergemeinschaft: ausgewählte Schriften und Fragmente aus
+53 See Dietrich Schindler, Recht, Staat, VöVölkergemeinschaft: ausgewählte Schriften und Fragmente aus
 dem Nachlass (Zurich: Schulthess and Co ., 1948), p. 86: "Der Gesetzgeber gleicht eher dem Gär gärtner,
 
 inside this given whole, aim at piecemeal, rather than total, construction,54
@@ -5417,7 +5417,7 @@ all exclusive, monopolistic power to experiment in a particular field—power
 which brooks no alternative and which lays a claim to the possession of superior wisdom—and against the consequent preclusion of solutions better than
 the ones to which those in power have committed themselves.
 
-der mit dem v vorhandenen Erdreich und mit den Wachstumsbedingungen der Pf Pflanzen zu rechnen hat,
+der mit dem v vorhandenen Erdreich und mit den Wachstumsbedingungen Pflanzen der Pf Pflanzen zu rechnen hat,
 als dem Maler, der seiner Phantasie freies Spiel läßt." ["The legislator more closely resembles a gardener, who has to assess the soil and the conditions necessary for his plants' growth, than a
 painter who gives free rein to his imagination."—Ed.]
 
@@ -5474,7 +5474,7 @@ beings, and this seemed to eliminate the spontaneity of human action. It had,
 of course, to be admitted that there was no more than a general presumption
 that human actions were also subject to natural law and that we actually did
 
-and most subsequent editions contain, in addition to the play's text, the "Revolutionist's Handbook" and "Maxims for Revolutionists."—Ed.]). The theme has, of course, been treated fully
+and most subsequent editions contain, in addition to the play's text, the "Revolutionist's Handbook Handbook" and "Maxims for Revolutionists."—Ed.]). The theme has, of course, been treated fully
 in some of the novels of Fyodor Dostoevsky (especially in the Grand Inquisitor episode of The
 Brothers Karamazov), and there is not much that modern psychoanalysts and existentialist philosophers have been able to add to his psychological insight. But see Erich Fromm, Escape from
 Freedom (New York: Farrar and Rinehart, Inc., 1941; English edition entitled The Fear of Freedom
@@ -5956,7 +5956,7 @@ of those smaller communities of interest and of the feeling of isolation of the
 12 Cf. also the observation by Johan Huizinga, Incertitudes: Essai de diagnostic du mal dont suffre notre
 temps (Paris: Librairie de Médici, 1939), p. 216: "Dans chaque groupe collectif une partie du
 jugement de l'individu est absorbée avec une partie de sa responsibilité par le mot d'ordre collectif. Le sentiment d'être tous ensemble responsables de tout, accroît dans le monde actuel le
-danger de l'irresponsabilité absolue de l'action des masses." ["In each group, a portion of one's
+danger de l'irresponsabilitéé absolue de l'action des masses." ["In each group, a portion of one's
 judgment, and with it a part of one's responsibility, gets swallowed up in a series of catchwords.
 In today's world, the view that we are all responsible for each other results in the danger that all
 actions of the masses are completely lacking in responsibility."—Ed.]

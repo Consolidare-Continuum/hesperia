@@ -669,7 +669,7 @@ on	human	nature?
 Part	III	examines	the	rise	of	instrumentarian	power;	its	expression	in	a	ubiquitous	sensate,	networked,
 computational	 infrastructure	 that	 I	 call	 Big	 Other;	 and	 the	 novel	 and	 deeply	 antidemocratic	 vision	 of
 society	 and	 social	 relations	 that	 these	 produce.	 I	 argue	 that	 instrumentarianism	 is	 an	 unprecedented
-species	of	power	that	has	defied	comprehension	in	part	because	it	has	been	subjected	to	the	"horselesscarriage"	 syndrome.	 Instrumentarian	 power	 has	 been	 viewed	 through	 the	 old	 lenses	 of	 totalitarianism,
+species	of	power	that	has	defied	comprehension	in	part	because	it	has	been	subjected	to	the	"horseless carriage syndrome"	 syndrome.	 Instrumentarian	 power	 has	 been	 viewed	 through	 the	 old	 lenses	 of	 totalitarianism,
 obscuring	what	is	different	and	dangerous.	Totalitarianism	was	a	transformation	of	the	state	into	a	project
 of	total	possession.	Instrumentarianism	and	its	materialization	in	Big	Other	signal	the	transformation	of	the
 market	into	a	project	of	total	certainty,	an	undertaking	that	is	unimaginable	outside	the	digital	milieu	and
@@ -1961,7 +1961,7 @@ themselves	in	industrial	production:
 
 The	critical	factor	in	the	divergence	of	capitalism	from	all	other	forms	of	"commercial	society"	was	the	development	of	certain	social
 
-property	 relations	 that	 generated	 market	 imperatives	 and	 capitalist	 "laws	 of	 motion"…	 competitive	 production	 and	 profitmaximization,	the	compulsion	to	reinvest	surpluses,	and	the	relentless	need	to	improve	labour-productivity	associated	with	capitalism.
+property	 relations	 that	 generated	 market	 imperatives	 and	 capitalist	 "laws	 of	 motion"…	 competitive	 production	 and	 profit maximization,	the	compulsion	to	reinvest	surpluses,	and	the	relentless	need	to	improve	labour-productivity	associated	with	capitalism.
 
 …	Those	laws	of	motion	required	vast	social	transformations	and	upheavals	to	set	them	in	train.	They	required	a	transformation	in
 the	human	metabolism	with	nature,	in	the	provision	of	life's	basic	necessities.11
@@ -2472,7 +2472,7 @@ required	 exceptional	 adaptive	 measures.63	 The	 Google	 founders'	 response	 
 community	 effectively	 declared	 a	 "state	 of	 exception"	 in	 which	 it	 was	 judged	 necessary	 to	 suspend	 the
 values	and	principles	that	had	guided	Google's	founding	and	early	practices.
 
-Later,	 Sequoia's	 Moritz	 recalled	 the	 crisis	 conditions	 that	 provoked	 the	 firm's	 "ingenious"	 selfreinvention,	when	crisis	opened	a	fork	in	the	road	and	drew	the	company	in	a	wholly	new	direction.	He
+Later,	 Sequoia's	 Moritz	 recalled	 the	 crisis	 conditions	 that	 provoked	 the	 firm's	 "ingenious"	 self reinvention,	when	crisis	opened	a	fork	in	the	road	and	drew	the	company	in	a	wholly	new	direction.	He
 
 stressed	the	specificity	of	Google's	inventions,	their	origins	in	emergency,	and	the	180-degree	turn	from
 serving	 users	 to	 surveilling	 them.	 Most	 of	 all,	 he	 credited	 the	 discovery	 of	 behavioral	 surplus	 as	 the
@@ -2888,7 +2888,7 @@ day.6
 
 Social	 theorist	 David	 Harvey	 builds	 on	 Arendt's	 insight	 with	 his	 notion	 of	 "accumulation	 by
 dispossession":	 "What	 accumulation	 by	 dispossession	 does	 is	 to	 release	 a	 set	 of	 assets…	 at	 very	 low
-(and	in	some	instances	zero)	cost.	Overaccumulated	capital	can	seize	hold	of	such	assets	and	immediately
+(and	in	some	instances	zero)	cost.	Over accumulated capital	capital	can	seize	hold	of	such	assets	and	immediately
 turn	 them	 to	 profitable	 use."	 He	 adds	 that	 entrepreneurs	 who	 are	 determined	 to	 "join	 the	 system"	 and
 enjoy	"the	benefits	of	capital	accumulation"	are	often	the	ones	who	drive	this	process	of	dispossession
 into	new,	undefended	territories.7
@@ -3190,7 +3190,7 @@ universities,	 and	 cities…	 who	 asserted	 the	 right	 to	 rule	 themselves."
 been	"quick	to	see	the	possibilities	of	governmental	overreach,	but	much	less	willing	to	see	the	problems
 of	'private,'	let	alone	corporate,	power."45
 
-In	this	context,	surveillance	capitalists	vigorously	developed	a	"cyberlibertarian"	ideology	that	Frank
+In	this	context,	surveillance	capitalists	vigorously	developed	a	"cyber libertarian"	ideology	that	Frank
 Pasquale	 describes	 as	 "free	 speech	 fundamentalism."	 Their	 legal	 teams	 aggressively	 assert	 First
 Amendment	principles	to	fend	off	any	form	of	oversight	or	externally	imposed	constraints	that	either	limit
 the	 content	 on	 their	 platforms	 or	 the	 "algorithmic	 orderings	 of	 information"	 produced	 by	 their	 machine
@@ -5045,7 +5045,7 @@ behavior	 to	 amass	 "high	 precision/low	 false	 positive"	 data	 collected	 "i
 populations."	According	to	the	Washington	Post,	the	company	collected	17	trillion	location	markers	from
 10	 million	 smartphones	 in	 November	 2016	 alone,	 data	 that	 were	 sold	 to	 two	 university	 researchers,
 among	others,	for	a	detailed	study	of	political	influences	on	patterns	of	family	behavior	on	Thanksgiving
-Day	 that	 year.156	 Despite	 the	 widely	 employed	 euphemisms	 of	 "anonymization"	 and	 "deidentification,"
+Day	 that	 year.156	 Despite	 the	 widely	 employed	 euphemisms	 of	 "anonymization"	 and	 "de identification,"
 Safegraph	tracks	individual	devices	and	the	movement	of	their	owners	throughout	the	day,	producing	data
 that	are	sufficiently	granular	to	be	able	to	identify	individuals'	home	locations.
 
@@ -7945,7 +7945,7 @@ love,"	predict	the	likelihood	of	"liking	a	brand."72	In	a	Twitter	targeted-ad	ex
 could	 significantly	 increase	 click-through	 rates	 and	 "follow"	 rates	 by	 targeting	 individuals	 with	 high
 "openness"	and	low	"neuroticism"	scores	on	the	five-factor	personality	analysis.	In	another	study,	IBM
 rendered	 behavioral	 data	 from	 2,000	 Twitter	 users	 to	 establish	 metrics	 such	 as	 response	 rates,	 activity
-levels,	 and	 elapsed	 time	 between	 tweets,	 in	 addition	 to	 psycholinguistic	 analyses	 of	 tweets	 and	 five-factor	personality	analysis.	IBM	"trained"	its	predictive	model	by	asking	the	2,000	users	either	locationrelated	 or	 product-related	 questions.	 The	 findings	 showed	 that	 personality	 information	 predicted	 the
+levels,	 and	 elapsed	 time	 between	 tweets,	 in	 addition	 to	 psycholinguistic	 analyses	 of	 tweets	 and	 five-factor	personality	analysis.	IBM	"trained"	its	predictive	model	by	asking	the	2,000	users	either	location related	 or	 product-related	 questions.	 The	 findings	 showed	 that	 personality	 information	 predicted	 the
 likelihood	 of	 responses.	 People	 whom	 the	 machines	 rated	 as	 moral,	 trusting,	 friendly,	 extroverted,	 and
 agreeable	tended	to	respond,	compared	to	low	response	rates	from	people	rated	as	cautious	and	anxious.
 Many	of	the	characteristics	that	we	try	to	teach	our	children	and	model	in	our	own	behavior	are	simply
@@ -8307,7 +8307,7 @@ emotion	and	then	send	those	videos	or	images	to	us	to	get	powerful	emotion	metri
 The	 possibilities	 in	 the	 depth	 dimension	 seem	 endless,	 and	 perhaps	 they	 will	 be	 if	 Affectiva,	 its
 clients,	 and	 fellow	 travelers	 are	 free	 to	 plunder	 our	 selves	 at	 will.	 There	 are	 indications	 of	 more	 farreaching	 ambitions	 in	 which	 "emotion	 as	 a	 service"	 expands	 from	 observation	 to	 modification.
 "Happiness	as	a	service"	seems	to	be	within	reach.	"I	do	believe	that	if	we	have	information	about	your
-emotional	 experiences	 we	 can	 help	 you	 be	 in	 a	 positive	 mood,"	 Kaliouby	 says.	 She	 imagines	 emotionrecognition	 systems	 issuing	 reward	 points	 for	 happiness	 because,	 after	 all,	 happy	 customers	 are	 more
+emotional	 experiences	 we	 can	 help	 you	 be	 in	 a	 positive	 mood,"	 Kaliouby	 says.	 She	 imagines	 emotion recognition	 systems	 issuing	 reward	 points	 for	 happiness	 because,	 after	 all,	 happy	 customers	 are	 more
 "engaged."116
 
 IV.	When	They	Come	for	My	Truth
@@ -8681,7 +8681,7 @@ the	natural	empathy	present	in	its	population	of	users.
 The	Facebook	researchers	claimed	that	the	results	suggested	two	inferences.	First,	in	a	massive	and
 
 engaged	 population	 such	 as	 Facebook	 users,	 even	 small	 effects	 "can	 have	 large	 aggregated
-consequences."	Second,	the	authors	invited	readers	to	imagine	what	might	be	accomplished	with	moresignificant	manipulations	and	larger	experimental	populations,	noting	the	importance	of	their	findings	for
+consequences."	Second,	the	authors	invited	readers	to	imagine	what	might	be	accomplished	with	more significant	manipulations	and	larger	experimental	populations,	noting	the	importance	of	their	findings	for
 "public	health."
 
 Once	again,	public	outcry	was	substantial.	"If	Facebook	can	tweak	emotions	and	make	us	vote,	what
@@ -8897,7 +8897,7 @@ Okay	if	we	go	back	there	and	catch	it?"
 David's	doorbell	rang	four	more	times	that	evening:	perfect	strangers	eager	for	access	to	his	yard	and
 disgruntled	 when	 he	 asked	 them	 to	 leave.	 Throughout	 the	 days	 and	 evenings	 that	 followed,	 knots	 of
 Pokémon	 seekers	 formed	 on	 his	 front	 lawn,	 some	 of	 them	 young	 and	 others	 long	 past	 that	 excuse.	 They
-held	 up	 their	 phones,	 pointing	 and	 shouting	 as	 they	 scanned	 his	 house	 and	 garden	 for	 the	 "augmentedreality"	creatures.	Looking	at	this	small	slice	of	world	through	their	phones,	they	could	see	their	Pokémon
+held	 up	 their	 phones,	 pointing	 and	 shouting	 as	 they	 scanned	 his	 house	 and	 garden	 for	 the	 "augmented reality"	creatures.	Looking	at	this	small	slice	of	world	through	their	phones,	they	could	see	their	Pokémon
 prey	but	only	at	the	expense	of	everything	else.	They	could	not	see	a	family's	home	or	the	boundaries	of
 civility	 that	 made	 it	 a	 sanctuary	 for	 the	 man	 and	 woman	 who	 lived	 there.	 Instead,	 the	 game	 seized	 the
 house	and	the	world	around	it,	reinterpreting	all	of	it	in	a	vast	equivalency	of	GPS	coordinates.	Here	was
@@ -9030,7 +9030,7 @@ Pokémon	Go	was	first	unveiled	to	the	Wall	Street	Journal	in	September	2015,	sho
 spin-off	from	Google.	The	game	masters	told	the	reporter	that	the	game	would	not	include	ads.	Instead,
 revenues	would	accrue	from	"microtransactions,"	presumably	in-game	purchases	of	virtual	paraphernalia,
 
-although	 Niantic	 "declined	 to	 say"	 exactly	 what	 would	 be	 for	 sale.	 Niantic	 also	 promised	 a	 locationtracking	 bracelet	 that	 "vibrates	 and	 lights	 up"	 when	 a	 person	 approaches	 a	 Pokémon.	 It	 was	 clear	 that
+although	 Niantic	 "declined	 to	 say"	 exactly	 what	 would	 be	 for	 sale.	 Niantic	 also	 promised	 a	 location tracking	 bracelet	 that	 "vibrates	 and	 lights	 up"	 when	 a	 person	 approaches	 a	 Pokémon.	 It	 was	 clear	 that
 Pokémon	Go	would	at	least	be	a	fresh	source	of	surplus	for	refining	and	expanding	the	maps	upon	which
 the	game	depended.37
 
@@ -9230,7 +9230,7 @@ jeopardy,"	the	report	began.	It	also	noted	that	many	of	the	program's	activities
 rights	and	interests	of	US	citizens,	and	would	alienate	public	opinion.56
 
 Key	 to	 our	 interests	 is	 the	 growth	 and	 elaboration	 of	 behavioral	 modification	 as	 an	 extension	 of
-political	 power.	 To	 this	 end,	 CIA	 "demand"	 summoned	 an	 ever-more-audacious	 supply	 of	 behavioralmodification	research	and	practical	applications	from	academic	psychologists.	Scientists	from	the	fields
+political	 power.	 To	 this	 end,	 CIA	 "demand"	 summoned	 an	 ever-more-audacious	 supply	 of	 behavioral modification	research	and	practical	applications	from	academic	psychologists.	Scientists	from	the	fields
 of	 medicine	 and	 psychology	 set	 out	 to	 demystify	 Chinese	 brainwashing	 techniques,	 reinterpreting	 them
 through	the	established	frameworks	of	behavior	modification.
 
@@ -10921,7 +10921,7 @@ elude	 awareness	 as	 it	 replaces	 individual	 freedom	 with	 others'	 knowledg
 certainty.	 It	 does	 not	 confront	 democracy	 but	 rather	 erodes	 it	 from	 within,	 eating	 away	 at	 the	 human
 capabilities	and	self-understanding	required	to	sustain	a	democratic	life.
 
-The	 narratives	 of	 Facebook's	 experimental	 maneuvers,	 Pokémon	 Go's	 prototype	 of	 a	 behavioralfutures-market–dominated	society,	and	the	endless	examples	of	digital	innovation	crushed	under	the	heel
+The	 narratives	 of	 Facebook's	 experimental	 maneuvers,	 Pokémon	 Go's	 prototype	 of	 a	 behavioral futures-market–dominated	society,	and	the	endless	examples	of	digital	innovation	crushed	under	the	heel
 of	 the	 surveillance	 creed	 may	 be	 as	 close	 as	 we	 get	 to	 a	 public	 announcement	 of	 history-illuminating
 change	that	moves	through	us	and	among	us,	irreversibly	altering	life	as	we	have	known	it.	There	is	no
 violence	 here,	 only	 the	 steady	 displacement	 of	 the	 will	 to	 will	 that	 has	 been	 embodied	 in	 selfdetermination,	 expressed	 in	 the	 first-person	 voice,	 and	 nourished	 in	 the	 kind	 of	 sanctuary	 that	 depends
@@ -11871,7 +11871,7 @@ processes	 of	 the	 smart	 machines.	 This	 emulation	 is	 not	 intended	 as	 a	
 Taylorism	or	Chaplin's	hapless	worker	swallowed	by	the	mechanical	order.	Instead,	this	prescription	for
 symbiosis	takes	a	different	road	on	which	human	interaction	mirrors	the	relations	of	the	smart	machines	as
 
-individuals	learn	to	think	and	act	by	emulating	one	another,	just	like	the	self-driving	cars	and	the	policyworshipping	jackhammers.
+individuals	learn	to	think	and	act	by	emulating	one	another,	just	like	the	self-driving	cars	and	the	policy worshipping	jackhammers.
 
 In	 this	 way,	 the	 machine	 hive	 becomes	 the	 role	 model	 for	 a	 new	 human	 hive	 in	 which	 we	 march	 in
 peaceful	 unison	 toward	 the	 same	 direction	 based	 on	 the	 same	 "correct"	 understanding	 in	 order	 to
@@ -12084,7 +12084,7 @@ From	 the	 start,	 Pentland	 understood	 reality	 mining	 as	 the	 gateway	 to	 
 opportunities.	 In	 2004	 he	 asserted	 that	 cell	 phones	 and	 other	 wearable	 devices	 with	 "computational
 horsepower"	 would	 provide	 the	 "foundation"	 for	 reality	 mining	 as	 an	 "exciting	 new	 suite	 of	 business
 applications."	The	idea	was	always	that	businesses	could	use	their	privileged	grasp	of	"reality"	to	shape
-behavior	toward	maximizing	business	objectives.	He	describes	new	experimental	work	in	which	speechrecognition	technology	generated	"profiles	of	individuals	based	on	the	words	they	use,"	thus	 enabling	 a
+behavior	toward	maximizing	business	objectives.	He	describes	new	experimental	work	in	which	speech recognition	technology	generated	"profiles	of	individuals	based	on	the	words	they	use,"	thus	 enabling	 a
 manager	to	"form	a	team	of	employees	with	harmonious	social	behavior	and	skills."17
 
 In	their	2006	article,	Pentland	and	Eagle	explained	that	their	data	would	be	"of	significant	value	in	the
@@ -13220,7 +13220,7 @@ you?	How	could	you?	Today,	we	might	"like"	you!
 IV.	The	Next	Human	Nature
 
 A	growing	body	of	evidence	testifies	to	the	psychic	toll	of	life	in	the	hive,	where	surveillance	capital's
-behavioral	 engineering	 expertise	 collides	 with	 the	 centuries-in-the-making	 human	 impulse	 toward	 selfconstruction.	 Researchers	 are	 already	 providing	 answers	 to	 two	 key	 questions:	 What	 are	 the
+behavioral	 engineering	 expertise	 collides	 with	 the	 centuries-in-the-making	 human	 impulse	 toward	 self construction.	 Researchers	 are	 already	 providing	 answers	 to	 two	 key	 questions:	 What	 are	 the
 psychological	 processes	 that	 dominate	 the	 hive?	 What	 are	 the	 individual	 and	 societal	 consequences	 of
 these	processes?	According	to	the	302	most	significant	quantitative	research	studies	on	the	relationships
 between	 social	 media	 use	 and	 mental	 health	 (most	 of	 them	 produced	 since	 2013),	 the	 psychological
@@ -14021,7 +14021,7 @@ favor	of	the	uncontract's	radical	indifference,	the	paradise	of	effortless	conne
 of	 harried	 second-modernity	 individuals	 and	 transforms	 their	 lives	 into	 the	 means	 to	 others'	 ends,	 the
 plundering	of	the	self,	the	extinction	of	autonomous	moral	judgment	for	the	sake	of	frictionless	control,	the
 actuation	and	modification	that	quietly	drains	the	will	to	will,	the	forfeit	of	your	voice	in	the	first	person
-in	favor	of	others'	plans,	the	destruction	of	the	social	relations	and	politics	of	the	old	and	slow	and	stillunfulfilled	ideals	of	self-determining	citizens	bound	to	the	legitimate	authority	of	democratic	governance.
+in	favor	of	others'	plans,	the	destruction	of	the	social	relations	and	politics	of	the	old	and	slow	and	still unfulfilled	ideals	of	self-determining	citizens	bound	to	the	legitimate	authority	of	democratic	governance.
 
 Each	of	these	exquisite	unicorns	has	inspired	the	best	that	humanity	has	achieved,	however	imperfectly
 they	have	been	fulfilled.	But	every	unicorn	has	a	hunter,	and	the	ideals	that	have	nurtured	the	liberal	order
@@ -14310,7 +14310,7 @@ of	the	Great	Depression	than	either	Google	or	Facebook	employs	at	their	heights	
 The	GM	pattern	is	the	iconic	story	of	the	United	States	in	the	twentieth	century,	before	globalization,
 neoliberalism,	the	shareholder-value	movement,	and	plutocracy	unraveled	the	public	corporation	and	the
 institutions	of	the	double	movement.	Those	institutions	rationalized	GM's	employment	policies	with	fair
-labor	practices,	unionization,	and	collective	bargaining,	emblematic	of	stable	reciprocities	during	the	preglobalization	decades	of	the	twentieth	century.	In	the	1950s,	for	example,	80	percent	of	adults	said	that
+labor	practices,	unionization,	and	collective	bargaining,	emblematic	of	stable	reciprocities	during	the	pre globalization	decades	of	the	twentieth	century.	In	the	1950s,	for	example,	80	percent	of	adults	said	that
 "big	business"	was	a	good	thing	for	the	country,	66	percent	believed	that	business	required	little	or	no
 change,	and	60	percent	agreed	that	"the	profits	of	large	companies	help	make	things	better	for	everyone
 who	buys	their	products	or	services."12
@@ -15454,7 +15454,7 @@ https://www.reuters.com/brandfeatures/venture-capital/article?id=28096.
 
 6.	Ron	Amadeo,	"Nest	Is	Done	as	a	Standalone	Alphabet	Company,	Merges	with	Google,"	Ars
 
-Technica,	February	7,	2018,	https://arstechnica.com/gadgets/2018/02/nest-is-done-as-a-standalonealphabet-company-merges-with-google;	Leo	Kelion,	"Google-Nest	Merger	Raises	Privacy	Issues,"
+Technica,	February	7,	2018,	https://arstechnica.com/gadgets/2018/02/nest-is-done-as-a-standalone alphabet-company-merges-with-google;	Leo	Kelion,	"Google-Nest	Merger	Raises	Privacy	Issues,"
 BBC	News,	February	8,	2018,	http://www.bbc.com/news/technology-42989073.
 
 7.	Kelion,	"Google-Nest	Merger	Raises	Privacy	Issues."
@@ -16747,7 +16747,7 @@ http://natcath.org/NCR_Online/archives2/2002d/112902/112902d.htm.
 72.	See	Matt	Marshall,	"Spying	on	Startups,"	Mercury	News,	November	17,	2002.
 73.	Marshall,	"Spying	on	Startups."
 74.	Mark	Williams	Pontin,	"The	Total	Information	Awareness	Project	Lives	On,"	MIT	Technology
-Review,	April	26,	2006,	https://www.technologyreview.com/s/405707/the-total-informationawareness-project-lives-on.
+Review,	April	26,	2006,	https://www.technologyreview.com/s/405707/the-total-information awareness-project-lives-on.
 
 75.	John	Markoff,	"Taking	Spying	to	Higher	Level,	Agencies	Look	for	More	Ways	to	Mine	Data,"	New
 York	Times,	February	25,	2006,	http://www.nytimes.com/2006/02/25/technology/25data.html.
@@ -16766,12 +16766,12 @@ http://www.sfgate.com/business/article/Google-has-lots-to-do-with-intelligence-3
 
 80.	Ryan	Gallagher,	"The	Surveillance	Engine:	How	the	NSA	Built	Its	Own	Secret	Google,"	Intercept
 
-(blog),	August	25,	2014,	https://firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-googlecrisscross-proton.
+(blog),	August	25,	2014,	https://firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google crisscross-proton.
 
 81.	Robyn	Winder	and	Charlie	Speight,	"Untangling	the	Web:	An	Introduction	to	Internet	Research,"
 
 National	Security	Agency	Center	for	Digital	Content,	March	2013,
-http://www.governmentattic.org/8docs/UntanglingTheWeb-NSA_2007.pdf.
+http://www.governmentattic.org/8docs/Untangling the web-NSA_2007.pdf.
 
 82.	Richard	O'Neill,	Seminar	on	Intelligence,	Command,	and	Control	(Cambridge,	MA:	Highlands
 Forums	Press,	2001),	http://www.pirp.harvard.edu/pubs_pdf/o'neill/o'neill-i01-3.pdf;	Richard	P.
@@ -16884,7 +16884,7 @@ New	York	Times,	June	20,	2013,	https://www.nytimes.com/2013/06/23/magazine/the-o
 
 104.	Rutenberg,	"Data	You	Can	Believe	In."
 105.	Lillian	Cunningham,	"Google's	Eric	Schmidt	Expounds	on	His	Senate	Testimony,"	Washington	Post,
-September	30,	2011,	http://www.washingtonpost.com/national/on-leadership/googles-eric-schmidtexpounds-on-his-senate-testimony/2011/09/30/gIQAPyVgCL_story.html.
+September	30,	2011,	http://www.washingtonpost.com/national/on-leadership/googles-eric-schmidt expounds-on-his-senate-testimony/2011/09/30/gIQAPyVgCL_story.html.
 
 106.	"Google's	Revolving	Door	Explorer	(US),"	Google	Transparency	Project,	April	15,	2016,
 
@@ -16904,7 +16904,7 @@ http://www.washingtonpost.com/business/economy/as-obama-nears-close-of-his-tenur
 11,	2017,	https://www.investopedia.com/tech/what-are-tech-giants-lobbying-trump-era;	Brodkin,
 "Google	and	Facebook	Lobbyists";	Natasha	Lomas,	"Google	Among	Top	Lobbyists	of	Senior	EC
 Officials,"	TechCrunch	(blog),	June	24,	2015,	http://social.techcrunch.com/2015/06/24/google among-top-lobbyists-of-senior-ec-officials;	"Google's	European	Revolving	Door,"	Google
-Transparency	Project,	September	25,	2017,	http://googletransparencyproject.org/articles/googleseuropean-revolving-door.
+Transparency	Project,	September	25,	2017,	http://googletransparencyproject.org/articles/google european-revolving-door.
 
 109.	"Google	Enlisted	Obama	Officials	to	Lobby	States	on	Driverless	Cars,"	Google	Transparency
 
@@ -16946,7 +16946,7 @@ and	an	analysis	of	their	positions	and	research	agendas.
 
 115.	Mike	McIntire,	"ALEC,	a	Tax-Exempt	Group,	Mixes	Legislators	and	Lobbyists,"	New	York	Times,
 
-April	21,	2012,	https://www.nytimes.com/2012/04/22/us/alec-a-tax-exempt-group-mixeslegislators-and-lobbyists.html;	Nick	Surgey,	"The	Googlization	of	the	Far	Right:	Why	Is	Google
+April	21,	2012,	https://www.nytimes.com/2012/04/22/us/alec-a-tax-exempt-group-mixes legislators-and-lobbyists.html;	Nick	Surgey,	"The	Googlization	of	the	Far	Right:	Why	Is	Google
 Funding	Grover	Norquist,	Heritage	Action	and	ALEC?"	PR	Watch,	November	27,	2013,
 
 http://www.prwatch.org/news/2013/11/12319/google-funding-grover-norquist-heritage-action-alecand-more;	"What	Is	ALEC?—ALEC	Exposed,"	Center	for	Media	and	Democracy,	February	22,
@@ -17017,9 +17017,9 @@ Cars	and	Humanity	(Video),"	AllThingsD	(blog),	May	8,	2013,	http://allthingsd.co
 
 10.	See	Ameet	Sachdev,	"Skyhook	Sues	Google	After	Motorola	Stops	Using	Its	Location-Based
 Software,"	Chicago	Tribune,	August	19,	2011,	http://articles.chicagotribune.com/2011-08-
-19/business/ct-biz-0819-chicago-law-20110819_1_google-s-android-google-risks-googlespokesperson.	See	also	the	May	2011	in-depth	analysis	of	more	than	750	pages	of	unsealed	court
+19/business/ct-biz-0819-chicago-law-20110819_1_google-s-android-google-risks-google spokesperson.	See	also	the	May	2011	in-depth	analysis	of	more	than	750	pages	of	unsealed	court
 documents:	Nilay	Patel,	"How	Google	Controls	Android:	Digging	Deep	into	the	Skyhook	Filings,"
-Verge,	May	12,	2011,	http://www.theverge.com/2011/05/12/google-android-skyhook-lawsuitmotorola-samsung.
+Verge,	May	12,	2011,	http://www.theverge.com/2011/05/12/google-android-skyhook-lawsuit motorola-samsung.
 
 11.	"Complaint	of	Disconnect,	Inc.—Regarding	Google's	Infringement	of	Article	102	TFEU	Through
 Bundling	into	the	Android	Platform	and	the	Related	Exclusion	of	Competing	Privacy	and	Security
@@ -17171,7 +17171,7 @@ http://www.dailytech.com/ACLU+Fights+for+Answers+on+Police+Phone+Location+Data+T
 32.	Benjamin	Herold,	"Google	Under	Fire	for	Data-Mining	Student	Email	Messages,"	Education	Week,
 March	26,	2014,	http://www.edweek.org/ew/articles/2014/03/13/26google.h33.html;	Quinten
 Plummer,	"Google	Email	Tip-Off	Draws	Privacy	Concerns,"	Tech	Times,	August	5,	2014,
-http://www.techtimes.com/articles/12194/20140805/google-email-tip-off-draws-privacyconcerns.htm.
+http://www.techtimes.com/articles/12194/20140805/google-email-tip-off-draws-privacy concerns.htm.
 
 33.	Grant	Gross,	"French	Fine	Google	Over	Change	in	Privacy	Policy,"	PCWorld,	January	8,	2014,
 
@@ -17236,7 +17236,7 @@ gation_of_google_st.html;	Mark	A.	Chavez	and	Marc	Rotenberg,	"Brief	for	Amicus	C
 Electronic	Privacy	Information	Center	in	Support	of	Plaintiffs—In	Re	Google	Street	View	Electronic
 Communications	Litigation,	Case	No.	5:10-Md-02184-JW,"	US	District	Court	for	Northern	District
 of	California	San	Jose	Division,	April	11,	2011,
-https://epic.org/privacy/streetview/EPICStreetviewAmicus.pdf.
+https://epic.org/privacy/streetview/Epic streetview amicus.pdf.
 
 43.	See	Maija	Palmer	and	Lionel	Barber,	"Google	to	Hand	Over	Intercepted	Data,"	Financial	Times,
 
@@ -17259,7 +17259,7 @@ Governments	Street	View	Data,"	New	York	Times,	June	3,	2010,
 https://www.nytimes.com/2010/06/04/business/global/04google.html.
 
 51.	Alan	Eustace,	"Creating	Stronger	Privacy	Controls	Inside	Google,"	Google	Public	Policy	Blog,
-October	22,	2010,	https://publicpolicy.googleblog.com/2010/10/creating-stronger-privacycontrols.html.
+October	22,	2010,	https://publicpolicy.googleblog.com/2010/10/creating-stronger-privacy controls.html.
 
 52.	"Measures	(Guidance)	Concerning	Protection	of	'Secrecy	of	Communication'	to	Google	Inc.,"
 
@@ -18295,7 +18295,7 @@ https://www.sec.gov/Archives/edgar/data/1288776/000128877613000074/filename1.htm
 17.	See	Stacey	Higginbotham,	"Qualcomm	Has	Devised	New	Technology	That	Can	Help	Unlock	Your
 
 Smartphone	Using	Iris	Scans,"	MIT	Technology	Review,	March	29,	2017,
-https://www.technologyreview.com/s/603964/qualcomm-wants-your-smartphone-to-have-energyefficient-eyes.
+https://www.technologyreview.com/s/603964/qualcomm-wants-your-smartphone-to-have-energy efficient-eyes.
 
 18.	Ben	S.	Cook	et	al.,	"Only	Skin	Deep,"	IEEE	Microwave	Magazine,	May	2013.	Smart	skin	is	thus
 imagined,	an	innovation	that	"could	set	the	foundation	for	the	emergence	of	the	first	generation	of
@@ -18328,7 +18328,7 @@ http://onemarketmedia.com/2009/03/26/life-pattern-marketing-and-geo-targeting.
 Networks,	March	2009.
 
 26.	Monica	Anderson,	"6	Facts	About	Americans	and	Their	Smartphones,"	PewResearchCenter,	April
-1,	2015,	http://www.pewresearch.org/fact-tank/2015/04/01/6-facts-about-americans-and-theirsmartphones;	"Most	Smartphone	Owners	Use	Location-Based	Services—EMarketer,"	eMarketer,
+1,	2015,	http://www.pewresearch.org/fact-tank/2015/04/01/6-facts-about-americans-and-their smartphones;	"Most	Smartphone	Owners	Use	Location-Based	Services—EMarketer,"	eMarketer,
 April	22,	2016,	https://www.emarketer.com/Article/Most-Smartphone-Owners-Use-Location-
 Based-Services/1013863;	Chris	Smith,	"Why	Location	Data	Is	One	of	the	Most	Coveted	Details
 Apps	Collect	About	You,"	BGR,	March	25,	2015,	http://bgr.com/2015/03/25/smartphone-applocation-data.
@@ -18486,7 +18486,7 @@ http://scholarship.shu.edu/health-law-outlook/vol9/iss1/1.
 49.	"Mobile	Health	App	Developers:	FTC	Best	Practices,"	Federal	Trade	Commission,	April	2016,
 
 https://www.ftc.gov/tips-advice/business-center/guidance/mobile-health-app-developers-ftc-best practices;	"Mobile	Privacy	Disclosures:	Building	Trust	Through	Transparency,"	Federal	Trade
-Commission,	February	2013,	https://www.ftc.gov/sites/default/files/documents/reports/mobile privacy-disclosures-building-trust-through-transparency-federal-trade-commission-staff report/130201mobileprivacyreport.pdf;	Harrison	Kaminsky,	"FDA	States	It	Will	Not	Regulate
+Commission,	February	2013,	https://www.ftc.gov/sites/default/files/documents/reports/mobile privacy-disclosures-building-trust-through-transparency-federal-trade-commission-staff report/130201mobile privacy report.pdf;	Harrison	Kaminsky,	"FDA	States	It	Will	Not	Regulate
 Fitness	Trackers	and	Wellness	Apps,"	Digital	Trends,	July	31,	2016,
 http://www.digitaltrends.com/health-fitness/fda-will-not-regulate-fitness-wellness-apps.
 
@@ -18532,7 +18532,7 @@ https://www.publicintegrity.org/2018/04/10/21665/why-mark-zuckerbergs-senate-hea
 56.	Bennett,	"Saving	Face."
 57.	Yaniv	Taigman	et	al.,	"DeepFace:	Closing	the	Gap	to	Human-Level	Performance	in	Face
 
-Verification,"	Facebook	Research,	April	14,	2018,	https://research.fb.com/publications/deepfaceclosing-the-gap-to-human-level-performance-in-face-verification.
+Verification,"	Facebook	Research,	April	14,	2018,	https://research.fb.com/publications/deep face closing-the-gap-to-human-level-performance-in-face-verification.
 
 58.	Aviva	Rutkin,	"Facebook	Can	Recognise	You	in	Photos	Even	If	You're	Not	Looking,"	New	Scientist,
 April	14,	2018,	https://www.newscientist.com/article/dn27761-facebook-can-recognise-you-in photos-even-if-youre-not-looking.
@@ -18647,7 +18647,7 @@ Bloomberg	Businessweek,	December	13,	2016,	https://www.bloomberg.com/news/articl
 https://www.dailydot.com/debug/siri-google-now-cortana-conversations.
 21.	"Global	Smart	Appliances	Market	2016–2020,"	Technavio,	April	10,	2017,
 
-https://www.technavio.com/report/global-home-kitchen-and-large-appliances-global-smartappliances-market-2016-2020;	Adi	Narayan,	"Samsung	Wants	to	Put	Your	Home	on	a	Remote,"
+https://www.technavio.com/report/global-home-kitchen-and-large-appliances-global-smart appliances-market-2016-2020;	Adi	Narayan,	"Samsung	Wants	to	Put	Your	Home	on	a	Remote,"
 BusinessWeek:	Technology,	December	11,	2014.
 
 22.	Alex	Hern,	"Samsung	Rejects	Concern	over	'Orwellian'	Privacy	Policy,"	Guardian,	February	9,
@@ -18662,7 +18662,7 @@ BusinessWeek:	Technology,	December	11,	2014.
 
 https://epic.org/privacy/internet/ftc/samsung;	"Samsung	Privacy	Policy,"	Samsung,	February	10,
 2015,	http://www.samsung.com/us/common/privacy.html;	"Nuance	Communications,	Inc.	Privacy
-Policy	General	Information,"	Nuance,	December	2015,	https://www.nuance.com/about-us/companypolicies/privacy-policies.html.
+Policy	General	Information,"	Nuance,	December	2015,	https://www.nuance.com/about-us/company policies/privacy-policies.html.
 
 26.	Committee	on	Privacy	and	Consumer	Protection,	"Connected	Televisions,"	Pub.	L.	No.	1116,	§	35,
 
@@ -18964,10 +18964,10 @@ https://www.nytimes.com/2017/03/06/us/politics/cambridge-analytica.html;	Mary-An
 "Political	Revolution:	How	Big	Data	Won	the	US	Presidency	for	Donald	Trump,"	International
 Business	Times	UK,	January	20,	2017,	http://www.ibtimes.co.uk/political-revolution-how-big-datawon-us-presidency-donald-trump-1602269;	Grassegger	and	Krogerus,	"The	Data	That	Turned	the
 World	Upside	Down";	Carole	Cadwalladr,	"Revealed:	How	US	Billionaire	Helped	to	Back	Brexit,"
-Guardian,	February	25,	2017,	https://www.theguardian.com/politics/2017/feb/26/us-billionairemercer-helped-back-brexit;	Paul-Olivier	Dehaye,	"The	(Dis)Information	Mercenaries	Now
+Guardian,	February	25,	2017,	https://www.theguardian.com/politics/2017/feb/26/us-billionaire mercer-helped-back-brexit;	Paul-Olivier	Dehaye,	"The	(Dis)Information	Mercenaries	Now
 Controlling	Trump's	Databases,"	Medium,	January	3,	2017,	https://medium.com/personaldataio/the-dis-information-mercenaries-now-controlling-trumps-databases-4f6a20d4f3e7;	Harry	Davies,
 "Ted	Cruz	Using	Firm	That	Harvested	Data	on	Millions	of	Unwitting	Facebook	Users,"	Guardian,
-December	11,	2015,	https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-presidentcampaign-facebook-user-data.
+December	11,	2015,	https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-president campaign-facebook-user-data.
 
 75.	Concordia,	The	Power	of	Big	Data	and	Psychographics,	2016,	https://www.youtube.com/watch?
 
@@ -19014,7 +19014,7 @@ Democracy"	(SSRN	Scholarly	Paper,	Rochester,	NY:	Social	Science	Research	Network
 86.	Charlotte	McEleny,	"European	Commission	Issues	€3.6m	Grant	for	Tech	That	Measures	Content
 
 'Likeability,'"	CampaignLive.co.uk,	April	20,	2015,
-http://www.campaignlive.co.uk/article/european-commission-issues-€36m-grant-tech-measurescontent-likeability/1343366.
+http://www.campaignlive.co.uk/article/european-commission-issues-€36m-grant-tech-measures content-likeability/1343366.
 
 87.	"2016	Innovation	Radar	Prize	Winners,"	Digital	Single	Market,	September	26,	2016,
 
@@ -19117,7 +19117,7 @@ Emoshape	|	Emotions	Synthesis,	January	18,	2016,	http://emoshape.com/emoshape-an
 
 115.	Tom	Foster,	"Ready	or	Not,	Companies	Will	Soon	Be	Tracking	Your	Emotions,"	Inc.com,	June	21,
 
-2016,	https://www.inc.com/magazine/201607/tom-foster/lightwave-monitor-customeremotions.html;	"Emotion	as	a	Service,"	Affectiva,	March	30,	2017,
+2016,	https://www.inc.com/magazine/201607/tom-foster/lightwave-monitor-customer emotions.html;	"Emotion	as	a	Service,"	Affectiva,	March	30,	2017,
 http://www.affectiva.com/product/emotion-as-a-service;	"Affectiva	Announces	Availability	of
 Emotion	as	a	Service,	a	New	Data	Solution,	and	Version	2.0	of	Its	Emotion-Sensing	SDK,"	PR
 Newswire,	September	8,	2015,	http://www.prnewswire.com/news-releases/affectiva-announcesavailability-of-emotion-as-a-service-a-new-data-solution-and-version-20-of-its-emotion-sensingsdk-300139001.html.
@@ -19184,13 +19184,13 @@ Mobilization,"	Nature	489,	no.	7415	(2012):	295–98,	https://doi.org/10.1038/na
 http://andrewledvina.com/code/2014/07/04/10-ways-facebook-is-the-devil.html.
 
 8.	Jonathan	Zittrain,	"Facebook	Could	Decide	an	Election	Without	Anyone	Ever	Finding	Out,"	New
-Republic,	June	1,	2014,	http://www.newrepublic.com/article/117878/information-fiduciarysolution-facebook-digital-gerrymandering;	Jonathan	Zittrain,	"Engineering	an	Election,"	Harvard
+Republic,	June	1,	2014,	http://www.newrepublic.com/article/117878/information-fiduciary solution-facebook-digital-gerrymandering;	Jonathan	Zittrain,	"Engineering	an	Election,"	Harvard
 Law	Review	127	(June	20,	2014):	335;	Reed	Albergotti,	"Facebook	Experiments	Had	Few	Limits,"
 Wall	Street	Journal,	July	2,	2014,	http://www.wsj.com/articles/facebook-experiments-had-few limits-1404344378;	Charles	Arthur,	"If	Facebook	Can	Tweak	Our	Emotions	and	Make	Us	Vote,
 What	Else	Can	It	Do?"	Guardian,	June	30,	2014,
 https://www.theguardian.com/technology/2014/jun/30/if-facebook-can-tweak-our-emotions-andmake-us-vote-what-else-can-it-do;	Sam	Byford,	"Facebook	Offers	Explanation	for	Controversial
 News	Feed	Psychology	Experiment,"	Verge,	June	29,	2014,
-https://www.theverge.com/2014/6/29/5855710/facebook-responds-to-psychology-researchcontroversy;	Chris	Chambers,	"Facebook	Fiasco:	Was	Cornell's	Study	of	'Emotional	Contagion'	an
+https://www.theverge.com/2014/6/29/5855710/facebook-responds-to-psychology-research controversy;	Chris	Chambers,	"Facebook	Fiasco:	Was	Cornell's	Study	of	'Emotional	Contagion'	an
 Ethics	Breach?"	Guardian,	July	1,	2014,	https://www.theguardian.com/science/headquarters/2014/jul/01/facebook-cornell-study-emotional-contagion-ethics-breach.
 
 9.	Adam	D.	I.	Kramer,	Jamie	E.	Guillory,	and	Jeffrey	T.	Hancock,	"Experimental	Evidence	of	Massive-
@@ -19255,7 +19255,7 @@ Ads,"	Guardian,	May	2,	2017,	https://www.theguardian.com/technology/2017/may/02/
 
 Threats	to	Self-Regulation,"	in	APA	Handbook	of	Personality	and	Social	Psychology	(Washington,
 DC:	American	Psychological	Association,	2015),	805–42,
-https://pdfs.semanticscholar.org/2e62/15047e3a296184c3698f	3553255ffabd46c7.pdf	(italics
+https://pdfs.semantics scholar.org/2e62/15047e3a296184c3698f	3553255ffabd46c7.pdf	(italics
 mine);	William	M.	Kelley,	Dylan	D.	Wagner,	and	Todd	F.	Heatherton,	"In	Search	of	a	Human	Self-
 Regulation	System,"	Annual	Review	of	Neuroscience	38,	no.	1	(2015):	389–411,
 https://doi.org/10.1146/annurev-neuro-071013-014243.
@@ -19314,7 +19314,7 @@ Based	Prevention	Game	for	Youths,"	Journal	of	Technology	in	Human	Services	31,	n
 197–217,	https://doi.org/10.1080/15228835.2013.812512.
 
 35.	Yu-kai	Chou,	"A	Comprehensive	List	of	90+	Gamification	Cases	with	ROI	Stats,"	Yu-Kai	Chou:
-Gamification	&	Behavioral	Design,	January	23,	2017,	http://yukaichou.com/gamificationexamples/gamification-stats-figures.
+Gamification	&	Behavioral	Design,	January	23,	2017,	http://yukaichou.com/gamification examples/gamification-stats-figures.
 
 36.	Ian	Bogost,	"Persuasive	Games:	Exploitationware,"	Gamasutra,	May	3,	2011,
 
@@ -19327,7 +19327,7 @@ Alter,	Irresistible:	The	Rise	of	Addictive	Technology	and	the	Business	of	Keepin
 "'Pokémon	Go'	Wants	to	Take	Monster	Battles	to	the	Street,"	Wall	Street	Journal,	September	10,
 
 2015,	https://blogs.wsj.com/digits/2015/09/10/pokemon-go-wants-to-take-monster-battles-to-thestreet;	Patience	Haggin,	"Alphabet	Spinout	Scores	Funding	for	Augmented	Reality	Pokémon	Game,"
-Wall	Street	Journal,	February	26,	2016,	https://blogs.wsj.com/venture	capital/2016/02/26/alphabetspinout-scores-funding-for-augmented-reality-pokemon-game.
+Wall	Street	Journal,	February	26,	2016,	https://blogs.wsj.com/venture	capital/2016/02/26/alphabet spinout-scores-funding-for-augmented-reality-pokemon-game.
 
 38.	Joseph	Schwartz,	"5	Charts	That	Show	Pokémon	GO's	Growth	in	the	US,"	Similarweb	Blog,	July
 
@@ -19352,7 +19352,7 @@ Journal,	July	12,	2016,	https://blogs.wsj.com/moneybeat/2016/07/12/pokemon-mania
 44.	See	Bradshaw	and	Lewis,	"Advertisers	Set	for	a	Piece"	(italics	mine).
 45.	Jon	Russell,	"Pokémon	Go	Will	Launch	in	Japan	Tomorrow	with	Game's	First	Sponsored	Location,"
 
-TechCrunch,	July	19,	2016,	http://social.techcrunch.com/2016/07/19/pokemon-go-is-finallylaunching-in-japan-tomorrow;	Takashi	Mochizuki,	"McDonald's	Unit	to	Sponsor	'Pokémon	Go'	in
+TechCrunch,	July	19,	2016,	http://social.techcrunch.com/2016/07/19/pokemon-go-is-finally launching-in-japan-tomorrow;	Takashi	Mochizuki,	"McDonald's	Unit	to	Sponsor	'Pokémon	Go'	in
 Japan,"	Wall	Street	Journal,	July	19,	2016,	http://www.wsj.com/articles/mcdonalds-unit-to sponsor-pokemon-go-in-japan-1468936459;	Stephen	Wilmot,	"An	Alternative	Way	to	Monetize
 Pokémon	Go,"	Wall	Street	Journal,	July	29,	2016,	https://blogs.wsj.com/moneybeat/2016/07/29/analternative-way-to-monetize-pokemon-go;	"Pokémon	GO	Frappuccino	at	Starbucks,"	Starbucks
 Newsroom,	December	8,	2016,	https://news.starbucks.com/news/starbucks-pokemon-go;	Megan
@@ -19365,10 +19365,10 @@ Journal,	August	5,	2016.
 
 46.	See	Adam	Sherrill,	"Niantic	Believes	Pokémon	GO	Has	'Only	Just	Scratched	the	Surface'	of	AR
 
-Gameplay	Mechanics,"	Gamnesia,	May	5,	2017,	https://www.gamnesia.com/news/niantic-believespokemon-go-has-only-just-scratched-the-surface-of-ar.
+Gameplay	Mechanics,"	Gamnesia,	May	5,	2017,	https://www.gamnesia.com/news/niantic-believes pokemon-go-has-only-just-scratched-the-surface-of-ar.
 
 47.	Joseph	Bernstein,	"You	Should	Probably	Check	Your	Pokémon	Go	Privacy	Settings,"	BuzzFeed,	July
-11,	2016,	https://www.buzzfeed.com/josephbernstein/heres-all-the-data-pokemon-go-is-collecting from-your-phone.
+11,	2016,	https://www.buzzfeed.com/joseph bernstein/heres-all-the-data-pokemon-go-is-collecting from-your-phone.
 
 48.	Natasha	Lomas,	"Pokémon	Go	Wants	to	Catch	(Almost)	All	Your	App	Permissions,"	TechCrunch,
 July	16,	2016,	http://social.techcrunch.com/2016/07/11/pokemon-go-wants-to-catch-almost-all your-permissions.
@@ -19378,7 +19378,7 @@ July	16,	2016,	http://social.techcrunch.com/2016/07/11/pokemon-go-wants-to-catch
 July	22,	2016,	4,	https://epic.org/privacy/ftc/FTC-letter-Pokemon-GO-07-22-2016.pdf.
 
 50.	Al	Franken,	"Letter	to	John	Hanke,	CEO	of	Niantic,	Inc.	from	U.S.	Senator	Al	Franken,"	July	12,
-2016,	http://www.businessinsider.com/us-senator-al-franken-writes-to-Pokémon-go-developersniantic-privacy-full-letter2016-7.
+2016,	http://www.businessinsider.com/us-senator-al-franken-writes-to-Pokémon-go-developers niantic-privacy-full-letter2016-7.
 
 51.	Courtney	Greene	Power,	"Letter	to	U.S.	Senator	Al	Franken	from	General	Counsel	for	Niantic,	Inc.
 
@@ -19522,7 +19522,7 @@ Annenberg	School	for	Communication,	September	29,	2009,
 http://papers.ssrn.com/abstract=1478214;	Joseph	Turow,	Michael	Hennessy,	and	Nora	Draper,	"The
 Tradeoff	Fallacy:	How	Marketers	Are	Misrepresenting	American	Consumers	and	Opening	Them	Up
 to	Exploitation,"	Annenberg	School	for	Communication,	June	2015,
-https://www.asc.upenn.edu/news-events/publications/tradeoff-fallacy-how-marketers-aremisrepresenting-american-consumers-and;	Lee	Rainie,	"Americans'	Complicated	Feelings	About
+https://www.asc.upenn.edu/news-events/publications/tradeoff-fallacy-how-marketers-are misrepresenting-american-consumers-and;	Lee	Rainie,	"Americans'	Complicated	Feelings	About
 Social	Media	in	an	Era	of	Privacy	Concerns,"	Pew	Research	Center,	March	27,	2018,
 http://www.pewresearch.org/fact-tank/2018/03/27/americans-complicated-feelings-about-socialmedia-in-an-era-of-privacy-concerns.
 
@@ -19564,7 +19564,7 @@ September	19,	2014,	http://www.thetimes.co.uk/tto/technology/internet/article427
 Conferences,	Technological	Totalitarianism,	Politics	and	Democracy,	2016,	http://www.internethistory.info/media-library/mediaitem/2389-technological-totalitarianism-politics-and democracy.html;	Julian	Assange,	"The	Banality	of	'Don't	Be	Evil,'"	New	York	Times,	June	1,	2013,
 https://www.nytimes.com/2013/06/02/opinion/sunday/the-banality-of-googles-dont-be-evil.html;
 Julian	Assange,	"Julian	Assange	on	Living	in	a	Surveillance	Society,"	New	York	Times,	December	4,
-2014,	https://www.nytimes.com/2014/12/04/opinion/julian-assange-on-living-in-a-surveillancesociety.html;	Michael	Hirsh,	"We	Are	All	Big	Brother	Now,"	Politico,	July	23,	2015,
+2014,	https://www.nytimes.com/2014/12/04/opinion/julian-assange-on-living-in-a-surveillance society.html;	Michael	Hirsh,	"We	Are	All	Big	Brother	Now,"	Politico,	July	23,	2015,
 https://www.politico.com/magazine/story/2015/07/big-brother-technology-trial-120477.html;
 "Apple	CEO	Tim	Cook:	Apple	Pay	Is	Number	One,"	CBS	News,	October	28,	2014,
 http://www.cbsnews.com/news/apple-ceo-tim-cook-apple-pay-is-number-one;	Mathias	DöDöpfner,
@@ -19573,7 +19573,7 @@ http://www.faz.net/1.2900860;	Sigmar	Gabriel,	"Sigmar	Gabriel:	Political	Consequ
 Google	Debate,"	Frankfurter	Allgemeine	Zeitung,	May	20,	2014,
 http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/sigmar-gabriel-consequences-ofthe-google-debate-12948701-p6.html;	Cory	Doctorow,	"Unchecked	Surveillance	Technology	Is
 Leading	Us	Towards	Totalitarianism,"	International	Business	Times,	May	5,	2017,
-http://www.ibtimes.com/unchecked-surveillance-technology-leading-us-towards-totalitarianismopinion-2535230;	Martin	Schulz,	"Transcript	of	Keynote	Speech	at	Cpdp2016	on	Technological,
+http://www.ibtimes.com/unchecked-surveillance-technology-leading-us-towards-totalitarianism opinion-2535230;	Martin	Schulz,	"Transcript	of	Keynote	Speech	at	Cpdp2016	on	Technological,
 Totalitarianism,	Politics	and	Democracy,"	Scribd,	2016,
 https://www.scribd.com/document/305093114/Keynote-Speech-at-Cpdp2016-on-Technological-
 Totalitarianism-Politics-and-Democracy.
@@ -19777,7 +19777,7 @@ http://archive.org/details/cu31924031214442.
 61.	Skinner,	59.
 62.	"Gambling	Is	a	Feature	of	Capitalism—Not	a	Bug,"	Prospect,	April	2017,
 
-http://www.prospectmagazine.co.uk/magazine/gambling-is-a-feature-of-capitalism-not-a-bug;
+http://www.prospect magazine.co.uk/magazine/gambling-is-a-feature-of-capitalism-not-a-bug;
 Natasha	Dow	Schüll,	Addiction	by	Design:	Machine	Gambling	in	Las	Vegas	(Princeton,	NJ:
 Princeton	University	Press,	2014);	Howard	J.	Shaffer,	"Internet	Gambling	&	Addiction,"	Harvard
 Medical	School:	Division	on	Addictions,	Cambridge	Health	Alliance,	January	16,	2004;	Michael
@@ -19836,7 +19836,7 @@ glgvj2.html.
 11.	Menn,	"Facebook,	Twitter,	Google."	See	also	Jim	Kerstetter,	"Daily	Report:	Tech	Companies
 
 Pressured	on	Terrorist	Content,"	Bits	Blog,	December	8,	2015,
-https://bits.blogs.nytimes.com/2015/12/08/daily-report-tech-companies-pressured-on-terroristcontent;	Mark	Hosenbell	and	Patricia	Zengerle,	"Social	Media	Terrorist	Activity	Bill	Returning	to
+https://bits.blogs.nytimes.com/2015/12/08/daily-report-tech-companies-pressured-on-terrorist content;	Mark	Hosenbell	and	Patricia	Zengerle,	"Social	Media	Terrorist	Activity	Bill	Returning	to
 Senate,"	Reuters,	December	7,	2015,	http://www.reuters.com/article/us-usa-congress-socialmediaidUSKBN0TQ	2E520151207.
 
 12.	Dave	Lee,	"'Spell-Check	for	Hate'	Needed,	Says	Google's	Schmidt,"	BBC	News,	December	7,
@@ -19846,7 +19846,7 @@ Senate,"	Reuters,	December	7,	2015,	http://www.reuters.com/article/us-usa-congre
 13.	Danny	Yadron,	"Agenda	for	White	House	Summit	with	Silicon	Valley,"	Guardian,	January	7,	2016,
 https://www.theguardian.com/technology/2016/jan/07/white-house-summit-silicon-valley-techsummit-agenda-terrorism;	Danny	Yadron,	"Revealed:	White	House	Seeks	to	Enlist	Silicon	Valley	to
 'Disrupt	Radicalization,'"	Guardian,	January	8,	2016,
-http://www.theguardian.com/technology/2016/jan/07/white-house-social-media-terrorism-meetingfacebook-apple-youtube.
+http://www.theguardian.com/technology/2016/jan/07/white-house-social-media-terrorism-meeting facebook-apple-youtube.
 
 14.	Kashmir	Hill,	"The	Government	Wants	Silicon	Valley	to	Build	Terrorist-Spotting	Algorithms.	But	Is
 It	Possible?"	Fusion,	January	14,	2016,	http://fusion.net/story/255180/terrorist-spotting-algorithm.
@@ -19855,7 +19855,7 @@ It	Possible?"	Fusion,	January	14,	2016,	http://fusion.net/story/255180/terrorist
 January	11,	2017,	https://www.ft.com/content/bf7972f4-d759-11e6-944b-e7eb37a6aa8e.
 
 16.	John	Mannes,	"Facebook,	Microsoft,	YouTube	and	Twitter	Form	Global	Internet	Forum	to	Counter
-Terrorism,"	TechCrunch,	June	26,	2017,	http://social.techcrunch.com/2017/06/26/facebookmicrosoft-youtube-and-twitter-form-global-internet-forum-to-counter-terrorism;	"Partnering	to	Help
+Terrorism,"	TechCrunch,	June	26,	2017,	http://social.techcrunch.com/2017/06/26/facebook microsoft-youtube-and-twitter-form-global-internet-forum-to-counter-terrorism;	"Partnering	to	Help
 Curb	the	Spread	of	Terrorist	Content	Online,"	Google,	December	5,	2016,
 http://www.blog.google:443/topics/google-europe/partnering-help-curb-spread-terrorist-content online.
 
@@ -19875,7 +19875,7 @@ https://www.ft.com/content/e47782fa-4ac0-11e7-919a-1e14ce4af89b.
 20.	Spencer	Ackerman	and	Sam	Thielman,	"US	Intelligence	Chief:	We	Might	Use	the	Internet	of	Things
 
 to	Spy	on	You,"	Guardian,	February	9,	2016,
-http://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devicesgovernment-surveillance-james-clapper.
+http://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices government-surveillance-james-clapper.
 
 21.	Matt	Olsen,	Bruce	Schneier,	and	Jonathan	Zittrain,	"Don't	Panic:	Making	Progress	on	the	'Going
 Dark'	Debate,"	Berkman	Klein	Center	for	Internet	&	Society	at	Harvard,	February	1,	2016,	13.
@@ -20024,7 +20024,7 @@ http://www.bloomberg.com/news/articles/2012-10-04/face	book-the-making-of-1-bill
 12.	"Facebook's	(FB)	CEO	Mark	Zuckerberg	on	Q4	2014	Results."
 13.	"Facebook	(FB)	Mark	Elliot	Zuckerberg	on	Q1	2016	Results—Earnings	Call	Transcript,"	Seeking
 
-Alpha,	April	28,	2016,	https://seekingalpha.com/article/3968783-facebook-fb-mark-elliotzuckerberg-q1-2016-results-earnings-call-transcript.
+Alpha,	April	28,	2016,	https://seekingalpha.com/article/3968783-facebook-fb-mark-elliot zuckerberg-q1-2016-results-earnings-call-transcript.
 
 14.	Mark	Zuckerberg,	"Building	Global	Community,"	Facebook,	February	16,	2017,
 
@@ -20085,7 +20085,7 @@ https://www.edge.org/conversation/alex_sandy_pentland-the-human-strategy.
 
 3.	Maria	Konnikova,	"Meet	the	Godfather	of	Wearables,"	Verge,	May	6,	2014,
 
-http://www.theverge.com/2014/5/6/5661318/the-wizard-alex-pentland-father-of-the-wearablecomputer.
+http://www.theverge.com/2014/5/6/5661318/the-wizard-alex-pentland-father-of-the-wearable computer.
 
 4.	"Alex	Pentland,"	Wikipedia,	July	22,	2017,	https://en.wikipedia.org/w/index.php?
 
@@ -20172,7 +20172,7 @@ February	24,	2015,	http://social.techcrunch.com/2015/02/24/new-firm-combines-wea
 25.	Miller,	"New	Firm";	Alexandra	Bosanac,	"How	'People	Analytics'	Is	Transforming	Human
 
 Resources,"	Canadian	Business,	October	26,	2015,
-http://www.canadianbusiness.com/innovation/how-people-analytics-is-transforming-humanresources.
+http://www.canadian business.com/innovation/how-people-analytics-is-transforming-humanresources.
 
 26.	Pentland,	"The	Data-Driven	Society."
 27.	"Alex	Pentland	Homepage";	Endor.com,	December	23,	2017;	"Endor—Careers,"
@@ -20265,11 +20265,11 @@ Social	Network	(New	York:	Free	Press,	2012).
 
 3.	"Confusion,"	The	World	UNPLUGGED,	February	26,	2011,
 
-https://theworldunplugged.wordpress.com/emotion/confusion.
+https://the world unplugged.wordpress.com/emotion/confusion.
 
 4.	"College	Students	Spend	12	Hours/Day	with	Media,	Gadgets,"	Marketing	Charts,	November	30,
 
-2009,	https://www.marketingcharts.com/television-11195.
+2009,	https://www.marketing charts.com/television-11195.
 
 5.	Andrew	Perrin	and	Jingjing	Jiang,	"About	a	Quarter	of	U.S.	Adults	Say	They	Are	'Almost
 
@@ -20284,7 +20284,7 @@ http://3pur2814p18t46fuop22hvvu.wpengine.netdna-cdn.com/wpcontent/uploads/2017/0
 Generational-Kinetics.pdf.
 
 7.	Sarah	Marsh,	"Girls	Suffer	Under	Pressure	of	Online	'Perfection,'	Poll	Finds,"	Guardian,	August
-22,	2017,	http://www.theguardian.com/society/2017/aug/23/girls-suffer-under-pressure-of-onlineperfection-poll-finds.
+22,	2017,	http://www.theguardian.com/society/2017/aug/23/girls-suffer-under-pressure-of-online perfection-poll-finds.
 
 8.	For	an	early	and	insightful	theoretical	discussion	of	the	internet	as	a	zone	of	personal	objectification,
 
@@ -20572,7 +20572,7 @@ Circuit—Brief	of	Scholars	of	the	History	and	Original	Meaning	of	the	Fourth	Am
 Curiae	in	Support	of	Petitioner,"	Supreme	Court	of	the	United	States,	August	14,	2017;	David	Gray,
 The	Fourth	Amendment	in	an	Age	of	Surveillance	(New	York:	Cambridge	University	Press,	2017);
 David	Gray,	"The	Fourth	Amendment	Categorical	Imperative,"	Michigan	Law	Review,	2017,
-http://michiganlawreview.org/the-fourth-amendment-categorical-imperative.
+http://michigan law review.org/the-fourth-amendment-categorical-imperative.
 
 11.	See	Jennifer	Daskal,	"The	Un-territoriality	of	Data,"	Yale	Law	Journal	125,	no.	2	(2015):	326–98.
 12.	Andrew	Guthrie	Ferguson,	"The	Internet	of	Things	and	the	Fourth	Amendment	of	Effects,"
@@ -20610,7 +20610,7 @@ Change?	Enabling	Big	Data	Through	Europe's	New	Data	Protection	Regulation,"	Colu
 
 17.	Paul-Olivier	Dehaye,	e-mail	message	to	DCMS	Committee,	March	6,	2018,
 
-http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture media-and-sport-committee/fake-news/written/80117.html.
+http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidence document/digital-culture media-and-sport-committee/fake-news/written/80117.html.
 
 18.	Paul-Olivier	Dehaye,	e-mail	message	to	DCMS	Committee,	March	7,	2018,
 
@@ -20667,7 +20667,7 @@ Presentation.pdf,	2.
 
 28.	United	States	and	Canada:	"Facebook:	Quarterly	Revenue	in	U.S.	and	Canada	from	1st	Quarter	2010
 
-to	2nd	Quarter	2018,"	Statista,	2018,	https://www.statista.com/statistics/223280/facebooksquarterly-revenue-in-the-us-and-canada-by-segment/#0;	Europe:	"Facebook:	Quarterly	Revenue	in
+to	2nd	Quarter	2018,"	Statista,	2018,	https://www.statista.com/statistics/223280/facebook's quarterly-revenue-in-the-us-and-canada-by-segment/#0;	Europe:	"Facebook:	Quarterly	Revenue	in
 Europe	from	1st	Quarter	2010	to	2nd	Quarter	2018,"	Statista,	2018,
 https://www.statista.com/statistics/223279/facebooks-quarterly-revenue-in-europe/#0.
 
@@ -20682,7 +20682,7 @@ GDPR,"	Centre	for	Information	Policy	Leadership,	Hunton	and	Williams	LLP,	GDPR	I
 Project,	May	19,	2017.
 
 32.	"Exclusive:	Facebook	to	Put	1.5	Billion	Users	Out	of	Reach	of	New	EU	Privacy	Law,"	Reuters,
-April	19,	2018,	https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusivefacebook-to-change-user-terms-limiting-effect-of-eu-privacy-law-idUSKBN1HQ00P.
+April	19,	2018,	https://www.reuters.com/article/us-facebook-privacy-eu-exclusive/exclusive facebook-to-change-user-terms-limiting-effect-of-eu-privacy-law-idUSKBN1HQ00P.
 
 33.	Elizabeth	E.	Joh,	"Privacy	Protests:	Surveillance	Evasion	and	Fourth	Amendment	Suspicion,"
 
@@ -20691,7 +20691,7 @@ Trust,	and	the	Constitutional	Cost	of	Collective	Surveillance,"	Indiana	Law	Jour
 (2015),	http://papers.ssrn.com/abstract=2550934.
 
 34.	"How	to	Be	Invisible:	15	Anti-surveillance	Gadgets	&	Wearables,"	WebUrbanist,	November	28,
-2016,	http://weburbanist.com/2016/11/28/how-to-be-invisible-15-anti-surveillance-designsinstallations.	For	another	relevant	article,	see	"The	Role	of	Hackers	in	Countering	Surveillance	and
+2016,	http://weburbanist.com/2016/11/28/how-to-be-invisible-15-anti-surveillance-designs installations.	For	another	relevant	article,	see	"The	Role	of	Hackers	in	Countering	Surveillance	and
 Promoting	Democracy,"	April	29,	2018,	https://search-proquestcom.ezproxy.cul.columbia.edu/docview/1719239523?pq-originsite=gscholar.
 
 35.	See	Zach	Sokol,	"Hide	from	Surveillance	by	Wearing	a	Mask	of	This	Artist's	Face,"	Creators,	May
@@ -20870,7 +20870,7 @@ New	York	Times,	November	17,	2016,	http://www.nytimes.com/2016/11/18/technology/
 https://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebookreddit-censorship-free-speech.
 
 35.	Madeleine	Varner	and	Julia	Angwin,	"Facebook	Enabled	Advertisers	to	Reach	'Jew	Haters,'"
-ProPublica,	September	14,	2017,	https://www.propublica.org/article/facebook-enabledadvertisers-to-reach-jew-haters.
+ProPublica,	September	14,	2017,	https://www.propublica.org/article/facebook-enabled advertisers-to-reach-jew-haters.
 
 36.	See	the	instructive	discussion	in	Buni,	"The	Secret	Rules	of	the	Internet";	Nick	Hopkins,	"Revealed:
 
@@ -20894,7 +20894,7 @@ Everything,'"	BuzzFeed,	September	15,	2017,	https://www.buzzfeed.com/alexkantrow
 40.	Jack	Nicas,	"Big	Brands	Boost	Fake	News	Sites,"	Wall	Street	Journal,	December	9,	2016;	Olivia
 
 Solon,	"Google's	Bad	Week:	YouTube	Loses	Millions	as	Advertising	Row	Reaches	US,"	Guardian,
-March	25,	2017,	http://www.the	guardian.com/technology/2017/mar/25/google-youtube-advertisingextremist-content-att-verizon;	Alexi	Mostrous,	"YouTube	Hate	Preachers	Share	Screens	with
+March	25,	2017,	http://www.the	guardian.com/technology/2017/mar/25/google-youtube-advertising extremist-content-att-verizon;	Alexi	Mostrous,	"YouTube	Hate	Preachers	Share	Screens	with
 Household	Names,"	Times,	March	17,	2017,	https://www.thetimes.co.uk/article/youtube-hatepreachers-share-screens-with-household-names-kdmpm	kkjk;	Alexi	Mostrous,	"Advertising	Giant
 Drops	Google	in	Storm	Over	Extremist	Videos,"	Times,	March	18,	2017,
 http://www.thetimes.co.uk/article/advertising-giant-drops-google-in-storm-over-extremist-videos-
@@ -20940,7 +20940,7 @@ to	Congress,"	New	York	Times,	September	21,	2017,
 https://www.nytimes.com/2017/09/21/technology/face	book-russian-ads.html;	David	Cohen,	"Mark
 Zuckerberg	Seeks	Forgiveness	in	Yom	Kippur	Facebook	Post,"	Adweek,	October	2,	2017,
 http://www.adweek.com/digital/mark-zuckerberg-yom-kippur-facebook-post;	"Exclusive	Interview
-with	Facebook's	Sheryl	Sandberg,"	Axios,	October	12,	2017,	https://www.axios.com/exclusiveinterview-facebook-sheryl-sandberg-2495538841.html;	Kevin	Roose,	"Facebook's	Frankenstein
+with	Facebook's	Sheryl	Sandberg,"	Axios,	October	12,	2017,	https://www.axios.com/exclusive interview-facebook-sheryl-sandberg-2495538841.html;	Kevin	Roose,	"Facebook's	Frankenstein
 Moment,"	New	York	Times,	September	21,	2017,
 https://www.nytimes.com/2017/09/21/technology/face	book-frankenstein-sandberg-ads.html.
 
@@ -20970,13 +20970,13 @@ Hamza	Shaban,	"Mark	Zuckerberg	Vows	to	Remove	Violent	Threats	from	Facebook,"	Wa
 Post,	August	16,	2017,	https://www.washingtonpost.com/news/the-switch/wp/2017/08/16/markzuckerberg-vows-to-remove-violent-threats-from-facebook.	On	moves	to	quash	meaningful	reform,
 see	Hannah	Albarazi,	"Zuckerberg	Votes	Against	Shareholder	Push	for	Fake	News	Transparency,"
 
-CBS	SFBayArea,	June	2,	2017,	http://sanfrancisco.cbslocal.com/2017/06/02/zuckerbergshareholder-fake-news-transparency;	Ethan	Baron,	"Google	Parent	Alphabet	Gender-Pay	Proposal
+CBS	SFBayArea,	June	2,	2017,	http://sanfrancisco.cbslocal.com/2017/06/02/zuckerberg shareholder-fake-news-transparency;	Ethan	Baron,	"Google	Parent	Alphabet	Gender-Pay	Proposal
 Dead	on	Arrival,"	Mercury	News,	June	7,	2017.
 51.	"Facebook	Reports	First	Quarter	2018	Results."
 52.	Adam	Mosseri,	"News	Feed	FYI:	Bringing	People	Closer	Together,"	Facebook	Newsroom,	January
 11,	2018,	https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together.
 53.	Sapna	Maheshwari,	"As	Facebook	Changes	Its	Feed,	Advertisers	See	Video	Ambitions,"	New	York
-Times,	January	21,	2018,	https://www.nytimes.com/2018/01/21/business/media/facebook-videoadvertising.html.
+Times,	January	21,	2018,	https://www.nytimes.com/2018/01/21/business/media/facebook-video advertising.html.
 
 54.	Thomas	Paine,	The	Life	and	Works	of	Thomas	Paine,	ed.	William	M.	Van	der	Weyde	(New
 
@@ -20990,15 +20990,15 @@ Penguin,	2006),	99.
 https://www.facebook.com/notes/mark-zuckerberg/building-globalcommunity/10154544292806634.
 
 57.	Karissa	Bell,	"Zuckerberg	Removed	a	Line	About	Monitoring	Private	Messages	from	His	Facebook
-Manifesto,"	Mashable,	February	16,	2017,	http://mashable.com/2017/02/16/mark-zuckerbergmanifesto-ai.
+Manifesto,"	Mashable,	February	16,	2017,	http://mashable.com/2017/02/16/mark-zuckerberg manifesto-ai.
 
 58.	Heather	Kelly,	"Mark	Zuckerberg	Explains	Why	He	Just	Changed	Facebook's	Mission,"
 
-CNNMoney,	June	22,	2017,	http://money.cnn.com/2017/06/22/technology/facebook-zuckerberginterview/index.html.
+CNNMoney,	June	22,	2017,	http://money.cnn.com/2017/06/22/technology/facebook-zuckerberg interview/index.html.
 
 59.	Pippa	Norris,	"Is	Western	Democracy	Backsliding?	Diagnosing	the	Risks,"	Harvard	Kennedy
 
-School,	March	2017,	https://www.hks.harvard.edu/publications/western-democracy-backslidingdiagnosing-risks;	Erik	Voeten,	"Are	People	Really	Turning	Away	from	Democracy?"	(SSRN
+School,	March	2017,	https://www.hks.harvard.edu/publications/western-democracy-backsliding diagnosing risks-risks;	Erik	Voeten,	"Are	People	Really	Turning	Away	from	Democracy?"	(SSRN
 Scholarly	Paper,	Rochester,	NY:	Social	Science	Research	Network,	December	8,	2016),
 https://papers.ssrn.com/abstract=2882878;	Amy	C.	Alexander	and	Christian	Welzel,	"The	Myth	of
 Deconsolidation:	Rising	Liberalism	and	the	Populist	Reaction,"	Journal	of	Democracy,	April	28,
@@ -21024,7 +21024,7 @@ Skocpol	and	Vanessa	Williamson,	The	Tea	Party	and	the	Remaking	of	Republican	Con
 
 Research	Center's	Global	Attitudes	Project,	October	16,	2017,
 
-http://www.pewglobal.org/2017/10/16/globally-broad-support-for-representa	tive-and-directdemocracy.
+http://www.pewglobal.org/2017/10/16/globally-broad-support-for-representa	tive-and-direct democracy.
 
 62.	As	democracy	scholar	and	author	of	the	"democratic	recession"	thesis	Larry	Diamond	puts	it,	"It	is
 hard	to	overstate	how	important	the	vitality	and	self-confidence	of	U.S.	democracy	has	been	to	the
@@ -21537,7 +21537,7 @@ customers:	as	source	of	organic	capitalist	reciprocities,	31–32,	40,	501–504
 93–94,	96,	129
 
 customization.	See	personalization
-cyberlibertarianism,	109
+cyber libertarianism,	109
 
 Daily	Beast,	42
 dark	data,	210–211

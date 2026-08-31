@@ -1210,7 +1210,7 @@ occurrence of renewal through breakdown. So I found a label for it. I call
 it catagenesis, a word that combines the prefix cata, which means
 "down" in ancient Greek, with the root genesis, which means "birth."
 The word is used in some scientific fields—for instance, ecologists use
-catagenesis to refer to the evolution of a species toward a simpler, lessspecialized form.19 In my use of the term here, I retain the idea of a
+catagenesis to refer to the evolution of a species toward a simpler, less specialized form.19 In my use of the term here, I retain the idea of a
 collapse or breakdown to a simpler form, but I especially emphasize
 the "genesis"—the birth of something new, unexpected, and potentially
 good. In my view of it, whether the breakdown in question is psychological, technological, economic, political, or ecological—or some
@@ -1834,7 +1834,7 @@ Heat is a special type of kinetic energy. It's stored in a material like
 the walls of our house or the air around us by the vibrations and other
 motion of the atoms and molecules making up that material. We often
 use heat as an intermediary form of energy to run our machines. For
-example, when gasoline is ignited in the cylinders of a car engine, hightemperature gases are created, and the heat of these gases provides the
+example, when gasoline is ignited in the cylinders of a car engine, high temperature gases are created, and the heat of these gases provides the
 kinetic energy that drives the engine's pistons. Heat also drives our jet
 and rocket engines. Understanding the nature of heat can tell us important things about the flow of energy in natural and human-made systems,
 such as how much work a given system can do.
@@ -5504,7 +5504,7 @@ he claims environmentalists make.11 Critiques of his book by some of
 the world's leading demographers, biologists, climate scientists, and
 energy experts have generally been devastating.12 So why, then, should we
 pay attention to him? Surely we can just dismiss him as an often mistaken,
-sometimes incompetent, and occasionally deceitful advocate of an antienvironmentalist agenda.13
+sometimes incompetent, and occasionally deceitful advocate of an anti environmentalist agenda.13
 
 Unfortunately we can't. Lomborg's arguments and those of other
 skeptics are immensely seductive because they appeal to our natural
@@ -5871,7 +5871,7 @@ fact, half the nitrogen in Earth's green plant material, and about 40 percent of
 
 And why should we worry about all this excess nitrogen? For a
 number of reasons. It upsets the chemical balance of soil on land, contributes to the warming of the atmosphere (nitrous oxide, emitted by our
-fertilized fields, is a potent greenhouse gas), and appears to be overfertilizing forests around the world, increasing their vulnerability to climate
+fertilized fields, is a potent greenhouse gas), and appears to be over fertilizing forests around the world, increasing their vulnerability to climate
 extremes and to parasites.32 It also causes overabundant growth of algae
 and other aquatic plants in lakes and coastal waters. After these organisms die, they sink to the bottom and decay, sucking oxygen from the
 water, driving away fish and invertebrates, and killing many bottom-dwelling creatures. Oxygen-starved "dead" zones can now be found
@@ -6511,13 +6511,13 @@ every niche of business. Global warming, in other words, raises huge
 difficulties for laissez-faire versions of capitalism.
 
 As a result, in rich countries few recent public-policy issues have
-been so controversial, and none has so galvanized conservative antienvironmentalism. Business groups and corporations that benefit from
+been so controversial, and none has so galvanized conservative anti environmentalism. Business groups and corporations that benefit from
 the fossil-fuel status quo—and the politicians who represent them, like
 Inhofe—are eager to hear and promote skeptical views. Some of these
 groups have used their substantial resources to finance an effort to discredit mainstream climate scientists and even the entire scientific community.19 And, in the United States at least, the popular media have
 abetted the effort by insisting on presenting "both sides" of the issue.
 The media say that they're trying to give a "balanced" account, but by
-overrepresenting the views of a small minority of skeptical climate scientists, their reporting has paradoxically been biased toward the skeptical
+over representing the views of a small minority of skeptical climate scientists, their reporting has paradoxically been biased toward the skeptical
 view.20 That has helped create the impression that there's little scientific
 consensus on climate change, when in reality there's a lot.
 
@@ -7157,7 +7157,7 @@ recent decades seen chronic economic crisis and violence. Today, its
 government is feeble, and heavily armed rebels and gangs of young men
 intimidate the population.79 For many people, Hurricane Jeanne was the
 last straw. In the days following the storm, bandits plundered convoys of
-relief trucks, and thugs robbed women of their rations as they left fooddistribution centers. Said Medira Jarmis, a forty-five-year-old laborer
+relief trucks, and thugs robbed women of their rations as they left food distribution centers. Said Medira Jarmis, a forty-five-year-old laborer
 fleeing the city with eight family members, "There is no way to stay here
 anymore. There are so many deaths that the place stinks and there is
 nothing to eat and nothing to drink."80
@@ -8576,7 +8576,7 @@ countries we've created in our cities a physical space that is largely
 divorced from the natural environment—a self-referential human-scale
 bubble of artificial reality. This bubble allows us to ignore evidence that
 the climate is changing—that our winters are getting progressively
-shorter and our summers hotter—because we live in a largely climatecontrolled environment.4 Other changes, however, will be harder to
+shorter and our summers hotter—because we live in a largely climate controlled environment.4 Other changes, however, will be harder to
 avoid. If oil shortages become serious, we'll see the evidence every time
 we fill up our gas tank or pay our heating bill.
 

@@ -159,7 +159,7 @@ bottom	of	a	well,	so	they	thought	at	first	he	had	fallen	in	and	drowned.	But	the
 rancher's	relative	the	doctor	saw	at	once	that	the	youngster	had	been	dead	before
 he	arrived	at	the	bottom	of	the	well,	there	being	 no	water	in	his	lungs.	A	half-eaten	pie	in	the	kitchen	was	full	of	rat	poison,	as	was	the	dead	son's	body	when
 they	thought	to	examine	that,	too.	So	had	the	halfbreed	poisoned	her	own	son?
-But	 before	 a	 sheriff	 could	 be	 summoned	 to	 question	 her,	 she	 too	 disappearedvanished	as	completely	as	her	son	had,	as	her	own	parents	had	when	they	left	her
+But	 before	 a	 sheriff	 could	 be	 summoned	 to	 question	 her,	 she	 too	 disappeared vanished	as	completely	as	her	son	had,	as	her	own	parents	had	when	they	left	her
 alone	on	the	ranch,	and	were	never	seen	or	heard	from	again.	It	is	not	known	to
 this	day	what	happened	to	her,	whether	she	simply	ran	away	or	(as	seems	more
 likely	given	how	mothers	from	time	immemorial	have	behaved	after	sacrificing
@@ -205,7 +205,7 @@ I	have	chosen	to	begin	with	a	story	I	know-and	know	deeply-in	part,	because	this
 family	 story	 raises	 so	 many	 of	 the	 issues	 I	 will	 be	 discussing	 in	 this	 book:	 the
 themes	 of	 family	 violence;	 of	 relations	 between	 different	 nations	 and	 races;
 women	and	men,	young	and	old;	questions	about	justice	and	morality,	crime	and
-punishment,	guilt	and	innocence,	shame	and	pride,	victims	and	perpetrators,	andovershadowing	all	these	themes-the	sheer	human	tragedy	that	violence	always	is.
+punishment,	guilt	and	innocence,	shame	and	pride,	victims	and	perpetrators,	and overshadowing	all	these	themes-the	sheer	human	tragedy	that	violence	always	is.
 
 For	 a	 psychiatrist	 to	 begin	 a	 book	 on	 violence	 by	 telling	 a	 story	 of	 violence
 from	 his	 own	 family's	 history	 is	 to	 say,	 as	 plainly	 as	 I	 can,	 that	 violence,	 like
@@ -223,7 +223,7 @@ of	the	many	nonnatural	forms	of	death.
 
 Human	 violence	 is	 much	 more	 complicated,	 ambiguous	 and,	 most	 of	 all,
 tragic,	 than	 is	 commonly	 realized	 or	 acknowledged.	 Much	 of	 what	 has	 been
-written	 about	 violence,	 even	 by	 those	 experts	 who	 study	 itcriminologists,
+written	 about	 violence,	 even	 by	 those	 experts	 who	 study	 it criminologists,
 criminal	lawyers,	forensic	psychiatrists,	 moral	philosophers,	political	scientists,
 and	historians-comes	only	from	the	point	of	view	of	their	own	specialties,	which
 tend	 to	 preclude	 the	 tragic	 dimensions	 of	 violence.	 But	 those	 who	 deal	 with
@@ -643,7 +643,7 @@ speaking	 also	 of	 the	 motives	 that	 give	 rise	 to	 criminal	 violence	 itse
 say,	the	motives	that	cause	those	whom	we	have	come	to	think	of	as	"criminals"
 to	 commit	 their	 acts	 of	 violence,	 in	 the	 hope	 of	 attaining	 justice	 by	 punishing
 those	whom	they	feel	have	punished	them,	unjustly.	In	other	words,	the	motives
-and	goals	 that	 underlie	 crime	 are	 the	 same	 as	 those	 that	 underlie	 punishmentnamely,	 the	 pursuit	 of	 what	 the	 violent	 person	 considers	 "justice."	 What	 is
+and	goals	 that	 underlie	 crime	 are	 the	 same	 as	 those	 that	 underlie	 punishment namely,	 the	 pursuit	 of	 what	 the	 violent	 person	 considers	 "justice."	 What	 is
 conventionally	called	"crime"	is	the	kind	of	violence	that	the	legal	system	calls
 illegal,	and	"punishment"	is	the	kind	that	it	calls	legal.	But	the	motives	and	the
 goals	that	underlie	both	are	identical; they	both	aim	to	attain	justice	or	revenge	for
@@ -2458,7 +2458,7 @@ Attributing	 to	 others	 the	 fact	 that	 he	 was	 weak,	 unmanned,	 and	 contro
 seems	to	have	been	a	way	to	save	face;	for	Dennis	X.	could	only	feel	shame	over
 his	 own	 desire	 for	 others	 to	 take	 care	 of	 him.	 Only	 if	 those	 wishes	 were	 other
 peoples'-initially	his	mother's	and	sister's,	then	the	Devil's,	and	finally	the	legal
-and	psychiatric	authorities'would	he	not	need	to	feel	so	ashamed.
+and	psychiatric	authorities would	he	not	need	to	feel	so	ashamed.
 
 Murder	itself	was	part	of	his	defensive	system,	for	by	behaving	in	a	way	that
 was	 active,	 independent,	 powerful,	 and	 aggressive,	 Dennis	 X.	 felt	 he	 could
@@ -2900,7 +2900,7 @@ refers	 to	 an	 enormously	 complex,	 multidetermined	 range	 of	 phenomena.	 So
 of	the	data	concerning	violence	can	only	be	explained	in	biological	terms,	some
 in	 social,	 cultural,	 historical,	 and
 in	 psychological	 ones,	 and	 some
-socioeconomic	terms,	such	as	classstratification,	and	discrimination	on	the	basis
+socioeconomic	terms,	such	as	class stratification,	and	discrimination	on	the	basis
 of	age,	sex,	or	race.	No	theory	of	violence	could	be	considered	adequate	except
 to	the	extent	that	it	is	capable	of	integrating	all	three	levels	of	abstraction.
 
@@ -3904,7 +3904,7 @@ Suddenly,	 a	 few	 years	 ago,	 twice	 as	 many	 wives	 were	 being	 killed	 as
 husbands.	It	would	be	difficult	to	make	sense	of	this	paradoxical	finding-that	the
 proportion	 of	 women	 being	 killed,	 in	 spousal	 homicides,	 has	 actually	 doubled
 precisely	at	the	point	when,	for	the	first	time,	women	have	a	variety	of	ways	to
-leave	abusive,	 violent	 relationshipsexcept	 by	concluding	 that	a	wife's	ability	 to
+leave	abusive,	 violent	 relationships except	 by	concluding	 that	a	wife's	ability	 to
 leave	 her	 husband	 was	 being	 experienced	 by	 him	 as	 an	 intolerably	 threatening
 abandonment	 leading	to	murder.	But	 what	 is	so	 threatening	 to	 these	husbands?
 Could	it	be	their	secret,	hidden	dependency	on	their	wives?	Like	Walter	T.,	these
@@ -4094,7 +4094,7 @@ physical	or	mental	pain	or	injury	on	anyone	beyond	that	which	is	an	unavoidable
 consequence	 of	 keeping	 him	 from	 inflicting	 violence	 or	 pain	 on	 himself	 or
 others.
 
-From	my	preventive	medicine	perspective,	I	see	that	punishment	in	this	sensepunishment	 beyond	 what	 is	 necessary	 for	 restraint	 (the	 punishment	 of
+From	my	preventive	medicine	perspective,	I	see	that	punishment	in	this	sense punishment	 beyond	 what	 is	 necessary	 for	 restraint	 (the	 punishment	 of
 retribution,	 or	 vengeance)-is	 an	 ill-conceived,	 misdirected,	 societal	 crime	 for
 which	we	pay	dearly	in	lives,	suffering,	and	social	costs.	I	will	argue	that	some
 of	 the	 violent	 measures	 of	 legal	 punishment	 are	 a	 deadly	 counterpart	 to	 the
@@ -4161,7 +4161,7 @@ with	equally	concrete	logic,	some	parents	in	our	own	society	tell	children	that	
 they	say	dirty	words	they	will	wash	their	mouths	out	with	soap	(the	mouth	being
 the	 part	 of	 the	 body	 that	 committed	 the	 offense,	 dirty	 being	 the	 metaphorical
 expression	 for	 socially	 unacceptable,	 and	 soap	 being	 what	 we	 use	 to	 remove
-actual,	nonmetaphorical	dirt).
+actual,	non metaphorical	dirt).
 
 A	similar	conflation	of	categories	was	made	by	the	murderers	I	discussed	in
 the	last	chapter,	who	treated	a	metaphor	(being	shamed	"in	other	people's	eyes,"
@@ -4489,7 +4489,7 @@ self.	 Animals,	 by	 contrast,	 typically	 submit	 shamelessly	 and	 peacefully	
 they	realize	they	are	outmatched,	and	the	stronger	one	ceases	to	fight	as	well.
 
 Men	will	often	kill	or	assault	each	other	in	the	struggle	to	avoid	being	in	the
-submissive	position,	and	experience	an	almost	bottomless	sense	of	degradationwhen	they	do	submit-to	the	point	where,	effectively,	their	self	has	died.
+submissive	position,	and	experience	an	almost	bottomless	sense	of	degradation when	they	do	submit-to	the	point	where,	effectively,	their	self	has	died.
 
 But	 there	 is	 another	 arena	 in	 which	 this	 symbolism	 operates,	 namely,	 the
 "successful	 degradation	 ceremony,"	 as	 the	 sociologists	 and	 Goffman's	 have
@@ -4507,7 +4507,7 @@ fall	within	the	scope	of	the	sociology	of	moral	indignation,"	which	he	includes
 with	other	"social	affects"	such	as	"shame	and	guilt."
 
 The	behavioral	paradigm	of	shame	is	found	in	the	withdrawal	and	covering	of
-the	 portion	 of	 the	 body	 that	 socially	 defines	 one's	 public	 appearanceprominently,	at	least	in	our	society,	the	genitals	and	the	face:	"I	felt	I	had	been
+the	 portion	 of	 the	 body	 that	 socially	 defines	 one's	 public	 appearance prominently,	at	least	in	our	society,	the	genitals	and	the	face:	"I	felt	I	had	been
 caught	 with	 my	 pants	 down";	 "I	 wanted	 to	 fall	 through	 the	 floor."	 Shame
 motivates	people	to	conceal	or	hide	themselves	from	public	view,	to	save	the	self
 from	 further	 insult.	 So	 the	 forced	 exposure	 of	 the	 self,	 or	 of	 those	 parts	 of	 the
@@ -5089,7 +5089,7 @@ was	 "epidemic."	 Still,	 he	 found	 that	 only	 about	 three	 percent	 of	 the	
 1,000	sexual	assaults,	per	year,	that	he	uncovered	in	the	Philadelphia	jails	alone,
 were	ever	reported	to	his	office.14
 
-And	yet,	as	I	have	indicated,	the	rape	of	males	is	one	of	the	most	widespreadindeed,	virtually	universal-features	of	the	penal	system	as	I	have	observed	it,	and
+And	yet,	as	I	have	indicated,	the	rape	of	males	is	one	of	the	most	widespread indeed,	virtually	universal-features	of	the	penal	system	as	I	have	observed	it,	and
 as	 many	 others	 have	 confirmed.	 The	 findings	 are	 legion.	 I	 will	 cite	 some
 examples:	 when	 the	 Texas	 Department	 of	 Correction	 became	 the	 subject	 of	 an
 investigation,	 hearings,	 and	 a	 trial,	 the	 federal	 judge	 in	 the	 case,	 William	 W.
@@ -5720,7 +5720,7 @@ from	"natural"	causes	such	as	heart	disease	and	cancer,	but	at	rates	two	to	thre
 times	higher	than	those	experienced	by	the	white	population	in	this	country.	The
 authors	of	this	article	point	out	that	in	a	similar	study	of	Boston	the	number	of
 excess	 deaths	 in	 the	 poorest	 areas	 of	 the	 city	 was	 considerably	 larger	 than	 the
-number	of	deaths	in	places	that	the	U.S.	government	had	designated	as	naturaldisaster	areas.	They	made	the	reasonable	recommendation	that	the	black	innercity	 ghettos	 with	 high	 rates	 of	 poverty	 and	 excess	 mortality	 be	 given
+number	of	deaths	in	places	that	the	U.S.	government	had	designated	as	natural disaster	areas.	They	made	the	reasonable	recommendation	that	the	black	innercity	 ghettos	 with	 high	 rates	 of	 poverty	 and	 excess	 mortality	 be	 given
 "consideration	analogous	to	that	given	to	natural	disaster	areas."
 
 H.	 A.	 Bulhan;	 has	 formulated	 another	 description	 of	 the	 mechanism	 of
@@ -7009,7 +7009,7 @@ the	mouth	of	Father	Zossima,	we	then	would	recognize	that	"all	are	responsible
 for	all."
 
 We	 have	 a	 horror	 of	 dependency	 in	 this	 country-particularly	 dependency	 on
-the	part	of	men.	No	wonder	we	have	so	much	violenceespecially	male	violence.
+the	part	of	men.	No	wonder	we	have	so	much	violence especially	male	violence.
 For	the	horror	of	dependency	is	what	causes	violence.	The	emotion	that	causes
 the	 horror	 of	 dependency	 is	 shame.	 Men,	 much	 more	 than	 women,	 are	 taught
 that	to	want	love	or	care	from	others	is	to	be	passive,	dependent,	unaggressive
@@ -7047,7 +7047,7 @@ it
 For	 needs	 that	 are	 repressed	 do	 not	 get	 met,	 nor	 do	 they	 just	 disappear.	 The
 return	 of	 repressed	 needs,	 in	 unconscious,	 disguised	 form,	 is	 what	 the	 various
 symptoms	of	psychopathology	consist	of.	One	form	in	which	repressed	needs	for
-care	 return	 is	 chronic	 institutionalizationthat	 is,	 long-term	 imprisonment	 or
+care	 return	 is	 chronic	 institutionalization that	 is,	 long-term	 imprisonment	 or
 mental	 hospitalization-which	 allows	 us	 as	 a	 society	 to	 punish	 massively,	 while
 we	gratify	grudgingly,	those	needs	of	which	we	are	so	intolerant.
 
@@ -7732,7 +7732,7 @@ Much	is	written	about	"community	psychiatry,"	by	people	interested	in	social
 and	 preventive	 psychiatry.	 This	 trial	 exemplified	 for	 me	 how	 central	 a	 role
 non psychiatric	 institutions,	 such	 as	 the	 criminal	 justice	 system,	 can	 play	 in
 accomplishing	 tasks	 that	 help	 a	 whole	 population	 recover	 from	 its	 collectively
-experienced	 trauma,	 and	 to	 find	 nonpathological	 and	 nondestructive	 ways	 to
+experienced	 trauma,	 and	 to	 find	 non pathological	 and	 nondestructive	 ways	 to
 cope	 with	 it.	 Not	 all	 trials	 perform	 that	 function;	 some,	 in	 fact,	 may	 only
 exacerbate	 the	 pathology	 and	 destructiveness,	 by	 turning	 into	 exercises	 in
 collective	punitiveness,	sadism,	and	further	violence.	But	this	time	the	judge	and
@@ -8076,7 +8076,7 @@ disciplining	rule-breakers,	taking	revenge,	punishing	(indeed,	eliminating)	thos
 whom	one	does	not	like,	and	so	on.	As	Justice	Brandeis	said,	the	state,	whether
 we	like	it	or	not,	is	in	loco	parentis	and	serves	as	one	of	the	most	powerful	moral
 teachers	we	have;	and	it	teaches	by	example,	such	as	by	the	example	it	sets	by
-the	laws	it	passes	and-sometimes	literallyexecutes.
+the	laws	it	passes	and-sometimes	literally executes.
 
 As	 Brandeis	 put	 it:	 "Our	 government	 is	 the	 potent,	 the	 omnipresent	 teacher.
 For	good	or	ill,	it	teaches	the	whole	people	by	its	example.	Crime	is	contagious.
@@ -8924,7 +8924,7 @@ than	among	the	rich	in	every	nation	in	which	it	has	been	studied;	and	the	suicid
 rate,	 while	 it	 is	 sometimes	 elevated	 among	 the	 poorest	 and	 most	 miserable,
 desperate,	 and	 helpless	 of	 the	 poor,	 such	 as	 those	 who	 are	 sick	 and	 elderly,
 homeless,	or	"skid	row"	alcoholics,	is	consistently	so	overshadowed	by	the	much
-higher	 homicide	 rate	 among	 the	 poor	 that	 the	 homicidesuicide	 ratio	 is
+higher	 homicide	 rate	 among	 the	 poor	 that	 the	 homicide suicide	 ratio	 is
 significantly	 higher	 among	 the	 poor	 than	 among	 the	 rich	 in	 every	 nation	 in
 which	reliable	statistics	are	available.
 

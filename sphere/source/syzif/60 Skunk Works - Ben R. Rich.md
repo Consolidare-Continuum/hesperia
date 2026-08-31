@@ -328,7 +328,7 @@ took off to overfly Russia back in 1955, it was a svelte youngster at 17,000 pou
 ballooned in middle age to 40 percent over the original model and bent the scales at 40,000 pounds. I
 had been trying for years to get the Pentagon to update the U-2. In the 1960s, I had a meeting with
 Alain Enthoven, who was head of Secretary of Defense Bob McNamara's vaunted systems analysis
-group—the so-called Whiz Kids, many brought with him from Ford to work their competitive coldbloodedness on the Department of Defense. Enthoven asked, "Why should we buy more U-2s when
+group—the so-called Whiz Kids, many brought with him from Ford to work their competitive cold bloodedness on the Department of Defense. Enthoven asked, "Why should we buy more U-2s when
 we haven't lost any?" I explained that it was cheaper to buy and update the airplane now rather than
 wait for crashes or losses, because in ten years costs rise by a factor of ten. He just couldn't see the
 logic. So I told him the story of the kid who proudly tells his father that he saved a quarter by running
@@ -3431,7 +3431,7 @@ the way, there were no ejection seats in the early models of the airplane. Eject
 thirty pounds above a regular seat, so to save precious weight, the CIA decided to dispense with them
 altogether.
 
-U-2 pilots would be trained to fly 9-hour-and-40-minute missions, flying round-trip on deeppenetration flights over the Soviet Union. The pilot needed an iron butt for ten-hour flights. "I ran out
+U-2 pilots would be trained to fly 9-hour-and-40-minute missions, flying round-trip on deep penetration flights over the Soviet Union. The pilot needed an iron butt for ten-hour flights. "I ran out
 of ass before I ran out of gas," some U-2 drivers would later complain—and who could blame them?
 A pilot was jammed inside a cockpit smaller than the front seat of a VW Beetle, laced into a bulky
 partial-pressure suit, his head encased in a heavy helmet, hooked to an oxygen breathing tube, a urine
@@ -3813,7 +3813,7 @@ eternity for my airplane to cross directly over that tower. My heart was poundin
 just knew I was going to be evaporated in the next seconds.
 
 Five minutes later I was clear of the nuclear test site, laughing at myself for being so chicken.
-Three hours later I was over the city of Omsk, in central Russia, photographing a militaryindustrial complex of interest to SAC as a potential target; then I turned east to head for the
+Three hours later I was over the city of Omsk, in central Russia, photographing a military industrial complex of interest to SAC as a potential target; then I turned east to head for the
 missile test site—my principal target for the mission. I photographed the site, which bore
 evidence of a very recent test firing, then headed back to Pakistan.
 
@@ -5230,7 +5230,7 @@ will be more trouble than it's worth," Norm insisted. Kelly said, "You're probab
 Johnson sent back the $20 million that afternoon.
 
 But our biggest problem was about as easy to conceal from Norm as a pregnant pachyderm on top
-of a flagpole. Norm Nelson came aboard just as we were starting to build a mock-up of the fuselagecockpit section, which would contain more than six thousand parts, for heat testing inside an oven. To
+of a flagpole. Norm Nelson came aboard just as we were starting to build a mock-up of the fuselage cockpit section, which would contain more than six thousand parts, for heat testing inside an oven. To
 our horror, we discovered that the titanium we were trying to use was as brittle as glass. When one of
 the workers dropped a piece off his bench, it shattered in a dozen pieces. The trouble was diagnosed
 as poor quality-control procedures in the manufacturer's heat-treatment process—a problem that
@@ -5719,7 +5719,7 @@ the ten we were building for the CIA. They wanted a larger two-seater version, w
 
 and a navigator-electronics specialist called the Reconnaissance Systems Officer in a separate rear
 cockpit, working the routing, as well as operating all the special avionics for capturing enemy radar
-frequencies and electronic intercepts. We would also be receiving a contract for ten fighterinterceptor versions of the Blackbird and twenty-five tactical bombers. These orders would be worth
+frequencies and electronic intercepts. We would also be receiving a contract for ten fighter interceptor versions of the Blackbird and twenty-five tactical bombers. These orders would be worth
 hundreds of millions of dollars and seemed to defy the longtime Pentagon quasi-socialistic policy of
 never putting all their purchases in one manufacturer's shopping cart.
 
@@ -5814,7 +5814,7 @@ partial concession from McNamara, and we received a contract for six two-man rec
 versions of the Blackbird to be built exclusively for the Air Force. The plane would be ultimately
 
 designated as the SR-71. It was larger and heavier than the CIA one-pilot model that carried only
-cameras. The Air Force model would be packed with both cameras and supersophisticated electronic
+cameras. The Air Force model would be packed with both cameras and super sophisticated electronic
 eavesdropping equipment. The Skunk Works eventually would build thirty-one of them before this
 amazing airplane was finally, and some would say prematurely, retired in the winter of 1990.
 
@@ -8145,7 +8145,7 @@ Just one very practical problem about classification that any reader would immed
 understand: how do you transport from Burbank to Washington highly sensitive blueprints or
 performance studies stamped top secret? Do you call in Federal Express? Do you send them by
 registered mail? No. You use a special courier, who carries the material in a locked case handcuffed
-to his wrist. If the material is extremely sensitive, the means of transportation is usually governmentchartered flight or use of multiple couriers. So, secrecy classifications are not inconsequential but a
+to his wrist. If the material is extremely sensitive, the means of transportation is usually government chartered flight or use of multiple couriers. So, secrecy classifications are not inconsequential but a
 burden to all and horrendously expensive and time-consuming. If necessarily in the national interest,
 these expenses and inconveniences are worthwhile. But we ought to make damned sure that the
 secrecy stamp is absolutely appropriate before sealing up an operation inside the security cocoon.
@@ -8295,7 +8295,7 @@ self-propelled vehicles. As we proved in Desert Storm, the technology now exists
 computerized combat missions with tremendous accuracy so that our stealth fighters could fly by
 computer program precisely to their targets over Iraq. A stealthy drone is clearly the next step, and I
 anticipate that we are heading toward a future where combat aircraft will be pilotless drones. On the
-ground and at sea as well, remote-controlled tanks and missile launchers and unmanned computerprogrammed submarines and missile frigates will provide the military advantage to those possessing
+ground and at sea as well, remote-controlled tanks and missile launchers and unmanned computer programmed submarines and missile frigates will provide the military advantage to those possessing
 the most imaginative and reliable electronics and avionics. Field commanders can conduct battles and
 actually aim and fire weapons systems from the safety of control centers thousands of miles away—
 their targets sighted by the high-powered lenses aboard drone surveillance aircraft which they
@@ -8400,7 +8400,7 @@ of surveillance aircraft to replace the Blackbirds and U-2s—airplanes that are
 Skunk Works' genius—to attempt to deal with regional conflicts, or to find out whether anxiety causing military maneuvers in some trouble spot are not actually a prelude to a full-scale military
 engagement, or just to keep a sharp eye on what North Korea is really up to. And we can't do this
 
-vital job effectively just with overhead satellites. We need spy planes—whether manned or groundcontrolled drones.
+vital job effectively just with overhead satellites. We need spy planes—whether manned or ground controlled drones.
 
 But I am frankly concerned that Lockheed and other companies are looking to new civilian areas
 because there is no future in defense. General Dynamics is already out of the military aircraft
@@ -8576,7 +8576,7 @@ To receive special offers, bonus content, and news about our latest ebooks and a
 
 Sign Up
 
-Or visit us at hachettebookgroup.com/newsletters
+Or visit us at hachette book group.com/newsletters
 
 Contents
 

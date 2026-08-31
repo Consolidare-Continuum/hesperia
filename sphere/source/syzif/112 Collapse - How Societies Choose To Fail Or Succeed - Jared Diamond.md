@@ -2561,7 +2561,7 @@ public concern about loss of farmland that zoning regulations restrict or
 prohibit its conversion to commercial property, and voters would be especially horrified at the prospect of a theatre with lots of traffic next to a
 potentially sensitive biotechnology facility.
 
-Montanans are beginning to realize that two of their most cherished attitudes are in direct opposition: their pro-individual-rights anti-governmentregulation attitude, and their pride in their quality of life. That phrase
+Montanans are beginning to realize that two of their most cherished attitudes are in direct opposition: their pro-individual-rights anti-government regulation attitude, and their pride in their quality of life. That phrase
 "quality of life" has come up in virtually every conversation that I have had
 with Montanans about their future. The phrase refers to Montanans' being
 able to enjoy, every day of their lives, that beautiful environment which
@@ -9190,7 +9190,7 @@ and then sand by wind and running water into lakes. For instance, at the site
 of an abandoned Norse farm that I passed at the mouth of the Qoroq Fjord,
 downwind of a glacier, so much soil was blown away by high-velocity winds
 that only stones remained. Wind-blown sand is very common at Norse
-farms: some abandoned ones in the Vatnahverfiarea are covered by sand ten
+farms: some abandoned ones in the Vatnahverfi area are covered by sand ten
 feet deep.
 
 The other means besides soil erosion by which the Norse inadvertently
@@ -18247,7 +18247,7 @@ homeowners are being too cautious, waiting too long to call the fire
 department, and consequently losing their homes.
 
 By the same reasoning, we must expect some environmentalist warnings
-to turn out to be false alarms, otherwise we would know that our environconservative. The
+to turn out to be false alarms, otherwise we would know that our environ conservative. The
 mental warning
 multibillion-dollar costs of many environmental problems justify a moderate
 frequency of false alarms. In addition, the reason that alarms proved false is
@@ -18977,13 +18977,13 @@ www.bvchamber.com.
 Current information on some Montana problems discussed in my chapter can
 be obtained from Web sites and e-mail addresses of organizations concerned with
 these problems. Some of these organizations, and their addresses, are as follows:
-Bitterroot Land Trust: www.BitterRootLandTrust.org. Bitterroot Valley Chamber of
+Bitterroot Land Trust: www.Bitter Root Land Trust.org. Bitterroot Valley Chamber of
 Commerce:
 Forum:
 Bitterroot:
 Friends
 brwaterforum@bitter-root.mt.
-www.FriendsoftheBitterroot.org. Montana Weed Control Association:
+www.Friends of the Bitterroot.org. Montana Weed Control Association:
 www.mtweed.org. Plum Creek Timber: www.plumcreek.com. Trout Unlimited's
 Missoula office: montrout@montana.com. Whirling Disease Foundation:
 www.whirling-disease.org. Sonoran Institute: www.sonoran.org/ programs/si_se.

@@ -446,7 +446,7 @@ The cartoons on pp. I6, 32, 64, Io4, II8, 130, 146, I58, I72,
 I94, 2I4 and 230 are from www.CartoonStock.com. Grateful
 acknowledgement is given to them and to the following for per
 mission to reproduce cartoons: p. 2, copyright© Andy Singer, 2007,
-politicalcartoons.com; p. 48, copyright © The New Yorker collec
+political cartoons.com; p. 48, copyright © The New Yorker collec
 tion, I996, Peter Steiner, cartoonbank.com; p. 74, copyright ©
 Joseph Farris, cartoonbank.com; p. 88, copyright© The New Yorker
 collection, 200 5, Lee Lorenz, cartoonbank.com.

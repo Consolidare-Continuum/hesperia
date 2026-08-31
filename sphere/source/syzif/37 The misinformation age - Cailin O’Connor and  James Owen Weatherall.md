@@ -1201,7 +1201,7 @@ What Is Truth?
 
 competent to evaluate the work they were responding to. The authors argued that many of the arguments in the science studies literature were not just ill-informed but downright incoherent.
 One of the major themes of the science wars was an accusation
-that humanists writing on science were pseudointellectual poseurs.53
+that humanists writing on science were pseudointellectual poseurs poseurs.53
 But we want to focus on a second theme, which is suggested by the
 term "academic left" in the subtitle of Gross and Levitt's book.
 Their arguments suggested a deep intellectual connection between,
@@ -1674,7 +1674,7 @@ other possibility, also accepted by many doctors and scientists, was
 that stomach acid was the culprit. In the early twentieth century,
 scientists investigated both theories and found evidence in favor of
 each. But then, in 1954, the bacterial theory suffered a devastating
-setback. Gastroenterologist E. D. Palmer biopsied the stomachs of
+setback. Gastroenterologist E. D. Palmer E. D. Palmer biopsied the stomachs of
 more than one thousand patients and found no evidence of bacteria
 
 at all.25 The conclusion seemed to be that bacteria could not live
@@ -1911,7 +1911,7 @@ Two months later, white supremacists, neo-Nazis, and other nationalist and nativ
 
 Virginia, carrying torches and chanting anti-Semitic, racist, and
 pro-Trump slogans.50 Violence broke out between the "Unite the
-Right" crowd and counterprotesters, injuring fourteen people. The
+Right" crowd and counter protesters, injuring fourteen people. The
 following day, a twenty-year-old white supremacist named James
 Alex Fields Jr. drove his car into a counterprotest. He injured nineteen people and killed a thirty-two-year-old woman named Heather
 Heyer. In the month before the attack he reportedly had posted
@@ -2811,7 +2811,7 @@ journalists, politicians, and medical professionals; and even in testimony to Co
 Funding research benefited the industry in several ways. It provided concrete (if misleading) support for tobacco executives' claims
 that they cared about smokers' health. It gave the industry access to
 
-doctors who could then appear in legal proceedings or as industryfriendly experts for journalists to consult. And it produced data that
+doctors who could then appear in legal proceedings or as industry friendly experts for journalists to consult. And it produced data that
 could be used to fight regulatory efforts.
 
 It is hard to know what sorts of pressure the tobacco industry
@@ -6290,7 +6290,7 @@ Isaac and Wakabayashi 2017; Solon and Siddiqui 2017.
 52.
 53. For examples, see Tacchini et al. (2017); Figueira and Oliveira (2017); and
 Shao et al. 2017). For older proposals, see Gupta et al. (2013) and C. Chen
-et al. (2013). The website Fake News Challenge (fakenewschallenge.org)
+et al. (2013). The website Fake News Challenge (fake news challenge.org)
 encourages computer scientists to compete to identify the best algorithmic
 approaches to the fake news problem.
 
@@ -7368,7 +7368,7 @@ Moray, Robert. 1677. "A Relation Concerning Barnacles, by Sr. Robert Moray,
 Lately One of His Majesties Council for the Kingdom of Scotland." Philosophical Transactions 12 (137): 925–927. https://doi.org/10.1098/rstl.1677.0032.
 
 Morganroth, J., E. L. Michelson, L. N. Horowitz, M. E. Josephson, A. S. Pearlman,
-and W. B. Dunkman. 1978. "Limitations of Routine Long-Term Electrocardiographic Monitoring to Assess Ventricular Ectopic Frequency." Circulation 58
+and W. B. Dunkman. 1978. "Limitations of Routine Long-Term Electrocardiographic Monitoring Monitoring to Assess Ventricular Ectopic Frequency." Circulation 58
 (3): 408–414. https://doi.org/10.1161/01.CIR.58.3.408.
 
 Morton, Joseph. 2016. "WikiLeaks Offers $20,000 Reward for Help Finding
@@ -7431,7 +7431,7 @@ Public Opinion: A Dynamic Theory of Social Impact." Psychological Review 97
 
 NPR Staff. 2016. "The Reason Your Feed Became an Echo Chamber—And What
 to Do About It." National Public Radio, July 24, 2016. http://www.npr.org
-/sections/alltechconsidered/2016/07/24/486941582/the-reason-your-feed-be
+/sections/all tech considered/2016/07/24/486941582/the-reason-your-feed-be
 came-an-echo-chamber-and-what-to-do-about-it.
 
 NSF (National Science Foundation). 2014. Science and Engineering Indicators
@@ -7581,7 +7581,7 @@ Rosenthal, Robert. 1979. "The File Drawer Problem and Tolerance for Null Results
 Ross, Andrew. 1996. Science Wars. Durham, NC: Duke University Press.
 Rowland, F. Sherwood. 1989. "Chlorofluorocarbons and the Depletion of Stratospheric Ozone." American Scientist 77 (1): 36–45.
 
-Roxborough, Scott. 2017. "How Europe Is Fighting Back Against Fake News." Hollywood Reporter, August 21, 2017. http://www.hollywoodreporter.com/news/how
+Roxborough, Scott. 2017. "How Europe Is Fighting Back Against Fake News." Hollywood Reporter, August 21, 2017. http://www.hollywood reporter.com/news/how
 -europe-is-fighting-back-fake-news-1030837.
 
 RT American. 2016. "RT America—July 28, 2016." July 29, 2016. https://www.rt
@@ -7875,7 +7875,7 @@ York Newspapers." Journal of Mass Media Ethics 15 (2): 89–100. https://doi.org
 
 Time. 1953. "Medicine: Beyond Any Doubt." 1953. Time, November 30, 1953.
 Tobacco Institute, Inc. 1958. Tobacco and Health 1 (4), September–October 1958.
-https://www.industrydocumentslibrary.ucsf.edu/tobacco/docs/#id=jfhg0009.
+https://www.industry documents library.ucsf.edu/tobacco/docs/#id=jfhg0009.
 Tran, Mark. 2016. "WikiLeaks to Publish More Hillary Clinton Emails—Julian
 Assange." Guardian, June 12, 2016. http://www.theguardian.com/media/2016
 /jun/12/wikileaks-to-publish-more-hillary-clinton-emails-julian-assange.

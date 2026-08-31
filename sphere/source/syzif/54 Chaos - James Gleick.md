@@ -14168,7 +14168,7 @@ into distinguishable structures.
 
 Often three dimensions were necessary to see the structure, but that
 
-was no problem. The technique could easily be generalized to higherdimensional graph-making. Instead of plotting interval n against interval
+was no problem. The technique could easily be generalized to higher dimensional graph-making. Instead of plotting interval n against interval
 
 n +1, one could plot interval n against interval n + 1 against interval n + 2.
 
@@ -14885,7 +14885,7 @@ therefore, the touchstone of any approach to complexity is the human
 
 body. No object of study available to physicists offers such a cacophony of
 
-counterrhythmic motion on scales from macroscopic to microscopic:
+counter rhythmic motion on scales from macroscopic to microscopic:
 motion of muscles, of fluids, of currents, of fibers, of cells. No physical
 
 system has lent itself to such an obsessive brand of reductionism: every
@@ -16260,7 +16260,7 @@ to ice, energy bleeding away all the while. But thermodynamic entropy
 
 fails miserably as a measure of the changing degree of form and
 
-formlessness in the creation of amino acids, of microorganisms, of selfreproducing plants and animals, of complex information systems like the
+formlessness in the creation of amino acids, of microorganisms, of self reproducing plants and animals, of complex information systems like the
 
 brain. Certainly these evolving islands of order must obey the Second Law.
 

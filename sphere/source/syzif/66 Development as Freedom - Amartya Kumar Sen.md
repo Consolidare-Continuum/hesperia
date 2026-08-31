@@ -22692,7 +22692,7 @@ Johns Hopkins University Press, 1998).
 
 46. It won't help those who are too old, or too disabled� or too ill to work in that
 way, but as was mentioned earlier, such people can be easily identified in terms of
-these capability handicaps and supported through other-complementaryschemes. The possibility and actual experiences of such complementary programs
+these capability handicaps and supported through other-complementary schemes. The possibility and actual experiences of such complementary programs
 were discussed in Dreze and Sen, Hunger and Public Action (1989).
 
 4 7. On this see Sudhir Anand and Martin Ravalli on, "Human Development in
@@ -24085,7 +24085,7 @@ in Freedom, Social Choice and Responsibility: Arrow Lectures and Other Essays
 (Oxford: Clarendon Press, forthcoming).
 
 5. Development is seen here as the removal of shortfalls of substantive freedoms
-from what they can potentially achieve. While this provides a general perspectiveenough to characterize the nature of development in broad terms-there are a number of contentious issues that yield a class of somewhat different exact specifications
+from what they can potentially achieve. While this provides a general perspective enough to characterize the nature of development in broad terms-there are a number of contentious issues that yield a class of somewhat different exact specifications
 of the criteria of judgment. On this, see my Commodities and Capabilities (Amsterdam: North-Holland, 1985); Inequality Reexamined (1992.); and also Freedom,
 Rationality and Social Choice (forthcoming). The concentration on the removal of
 shortfalls in some specific dimensions has also been used in UNDP's annual Human
@@ -24763,7 +24763,7 @@ Lane, Timothy, 332n. 41
 Laslier, J. Fr., 309n. 40
 
 Lauterbach, Karl W., 3 r rn. 44
-Lavoisier, AntoinewLaurent, 25, 73
+Lavoisier, Antoine Laurent, 25, 73
 Layard,Richard, 3I7n. 24
 Lebow, Richard Ned, 17 4
 Lee, Jong�Wha, 328n. 4, 337n. 22, 341n.

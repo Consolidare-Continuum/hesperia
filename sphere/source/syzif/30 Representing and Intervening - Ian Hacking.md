@@ -7176,7 +7176,7 @@ doubts on the second by 1 7 39. In no way can particular facts
 provide ' good reason ' for more general statements or claims about
 the future . Popper agreed, and so in turn does Lakatos.
 
-Falsificationisms
+Falsificationism
 
 Lakatos truncates some history of methodology but expands others .
 
@@ -7683,7 +7683,7 @@ real-life crisis has little to do with philosophy.
 
 There is a current vogue among some philosophers of science,
 
-that Lakatos might have called ' the new j ustificationism ' . It
+that Lakatos might have called ' the new j justificationism ' . It
 produces whole books trying to show that a system of appraising
 
 theories can be built up out of rules of thumb . I t is even s uggested
@@ -9970,7 +9970,7 @@ refuting anything, but for exploring the universe.
 
 Theory- history
 
-It may seem that I have been overstating the way that theorydominated history and philosophy of science skew our perception of
+It may seem that I have been overstating the way that theory dominated history and philosophy of science skew our perception of
 
 experiment. I n fact it is understated. For example, I have related
 the story of three degrees j ust as it is told by Penzias and Wilson
@@ -13305,7 +13305,7 @@ today. The effect is accounted for physically - Kelvin style - by a
 local motion around the lines of force . But it is not a Kelvinian
 mysterious molecular rotation that j ust happens . It is a motion of
 
-electrons induced electromagneticall y.
+electrons induced electromagnetically y.
 
 Six levels of ' theory '
 

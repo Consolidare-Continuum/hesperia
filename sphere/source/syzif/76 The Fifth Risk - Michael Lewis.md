@@ -15,7 +15,7 @@ In	Memoriam
 
 Donald	J.	Trump
 
-@realDonaldTrump
+@real Donald Trump
 
 Very	organized	process	taking	place	as	I
 decide	on	Cabinet	and	many	other	positions.
@@ -3049,7 +3049,7 @@ sole	supplier	of	the	data	he	needed	if	he	was	going	to	get	his	PhD.	"The	only
 place	I	could	get	the	data	was	the	weather."
 
 Since	the	end	of	the	Second	World	War,	weather	data	collection	has	become	one
-of	the	greatest	illustrations	of	the	possibilities	of	global	collaboration	and	publicspiritedness.	Every	day	thousands	of	amateur	weather	observers	report	data	to
+of	the	greatest	illustrations	of	the	possibilities	of	global	collaboration	and	public spiritedness.	Every	day	thousands	of	amateur	weather	observers	report	data	to
 their	governments,	as	do	a	lot	of	experts	aboard	commercial	planes	in	the	sky
 and	on	ships	at	sea.	Every	day,	twice	a	day,	almost	nine	hundred	weather
 balloons	are	released	from	nine	hundred	different	spots	on	the	globe,	ninety-two

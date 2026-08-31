@@ -4436,7 +4436,7 @@ deterrent to the formation of character. In contemporary character we seem to be
 focused on production: creating in our children an understanding, awareness and
 appreciation of what character is and what it requires such that they will
 reproduce it in society at large. In this paper, I wish to address what I see as an
-important contradiction: our emphasis on producing character in a consumeroriented society. Specifically, I will consider whether Schweitzer's work and
+important contradiction: our emphasis on producing character in a consumer oriented society. Specifically, I will consider whether Schweitzer's work and
 life offers insights that may enable us to reconcile this inconsistency.
 
 My interest in applying Schweitzer's work to my research has evolved
@@ -4505,7 +4505,7 @@ degree on the spiritual side, is like a ship with a defective steering gear, whi
 becomes more unsteerable from moment to moment and so rushes on to
 catastrophe. (Civilization and Ethics, 1929: 2)
 
-Amidst our "hyperconsumption" the balance between the material and
+Amidst our "hyper consumption" the balance between the material and
 spiritual has been lost in contemporary America; Americans frequently incur
 high levels of debt to obtain their material desires (Ritzer, 2004). Ironically,
 overspending has been described as a coping mechanism for dealing with the
@@ -5726,7 +5726,7 @@ perhaps even more importantly, of ordinary citizens as well.
 The Arms Trade
 
 If you are interested in getting informed about this issue, please go to the
-Arms Trade Treaty website. The address is www.armstradetreaty.org. It has
+Arms Trade Treaty website. The address is www.arms trade treaty.org. It has
 critical information about the ATT, and if you find yourself convinced, follow
 the link to the online petition. Petitions are so important. Because nothing drives
 leaders to action like seeing that their people have taken action themselves. If so
@@ -6124,7 +6124,7 @@ use of technology, but techne, the art and skill of the physician, as an express
 of intellectual and moral traits of character in interaction with another person,
 that is the core of the act of medicine.
 
-Additionally, we argue that the medical relationship is not simply a sociallydefined contract. While both physician and patient may be autonomous agents,
+Additionally, we argue that the medical relationship is not simply a socially defined contract. While both physician and patient may be autonomous agents,
 their interaction is not one of equally empowered individuals. The inequity of
 power, knowledge and vulnerability within the medical relationship establish its
 personal, covenantal nature, and the necessity of its internal morality

@@ -1846,7 +1846,7 @@ and Company Commander7
 This document demonstrates many things: the desperate
 attempts of the deported Jews to escape the death train; the
 scanty manpower employed by the Germans (a mere 10 men to
-guard over 8,000 Jews); the unimaginably terrible conditionsforced marches over many miles, terrible heat, days without food
+guard over 8,000 Jews); the unimaginably terrible conditions forced marches over many miles, terrible heat, days without food
 and water, the packing of 200 Jews into each train car, etc.-that
 led to fully 25 percent of the deported Jews dying on the train
 from suffocation, heat prostration, and exhaustion (to say nothing
@@ -2342,7 +2342,7 @@ conceal their contempt for their commander as weak, unmilitary,
 and unduly interfering in the duties of his officers. 22
 
 The two police captains, who also held the eqUivalent SS rank
-of HauptsturmfUhrer, were young men in their late twenties.
+of Hauptsturmführer, were young men in their late twenties.
 Wolfgang Hoffmann, born in 1914, had joined the National
 Socialist Student Union (NS-Schiülerbund) in 1930 as a sixteen-year-old, the Hitler Youth in 1932 at eighteen, and the SS one
 year later, all before he had graduated from Gymnasium (a
@@ -2671,7 +2671,7 @@ resumed, the process of consolidating the victims in transit
 ghettos and camps could be. For most of the policemen of
 Reserve Police Battalion 101, the searing memory of the subsequent action in J6zef6w blotted out lesser events that had
 occurred during their four-week stay south of Lublin. However,
-a few did remember taking part in this consolidation processcollecting Jews in smaller settlements and moving them to larger
+a few did remember taking part in this consolidation process collecting Jews in smaller settlements and moving them to larger
 ghettos and camps. In some cases only so-called work Jews were
 seized, put on trucks, and sent to camps around Lublin. In other
 cases, the entire Jewish population was rounded up and put on
@@ -3008,7 +3008,7 @@ After the men of First Company departed for the woods,
 Second Company was left · to complete the roundup and load
 Jews onto the trucks. When the first salvo was heard from the
 woods, a terrible cry swept the marketplace as the collected Jews
-realized their fate .42 Thereafter, however, a quiet composureindeed, in the words of German witnesses, an "unbelievable"
+realized their fate .42 Thereafter, however, a quiet composure indeed, in the words of German witnesses, an "unbelievable"
 and "astonishing" composure-settled over the Jews. 43
 
 If the victims were composed, the German officers grew
@@ -5421,7 +5421,7 @@ In short, even before they were systematically deported to
 the death camps, the Jews of Poland were subject to summary
 execution outside the ghettos. This "shooting order," however,
 was loosely applied in the district of Lublin, for there-in
-the rest of the General Governmentcomparison
+the rest of the General Government comparison
 ghettoization was only partial. Jews living in the small towns
 and villages of northern Lublin were not concentrated in the
 transit ghettos of Mi�dzyrzec and Luk6w until September
@@ -6258,7 +6258,7 @@ army, but most made their way back to Germany as the Third
 1 4 4 l O R 0 I N A R Y M E N
 
 Many resumed their prewar occupations. For the two SS
-Hauptsturmruhrers, Hoffmann and Wohlauf, as well as twelve
+Hauptsturmführers, Hoffmann and Wohlauf, as well as twelve
 from the sample of thirty-two noncommissioned officers, this
 meant an ongoing career in the police. Another twelve policemen
 from the rank and file sample of 174 managed to put their reserve
@@ -6813,10 +6813,10 @@ I,
 Ordinary Men
 
 BY DID MOST MEN IN RESERVE POLICE BATTALION 101
-Iec<Jlme killers, while only a minority of perhaps 10 percentcertainly no more than 20 percent-did not? A number of
+Iec<Jlme killers, while only a minority of perhaps 10 percent certainly no more than 20 percent-did not? A number of
 explanations()lls have been invoked in the past to explain such
 il!h�behavior' wartime brutalization, racism, segmentation and route the task, special selection of the perpetrators,
-:an�fascism, obedience to orders, deference to authority, ideologindoctrination, and conformity. These factors are applicable
+:an�fascism, obedience to orders, deference to authority, ideological indoctrination, and conformity. These factors are applicable
 
 varying degrees, but none without qualification.
 Wars have invariably been accompanied by atrocities. As John
@@ -7165,7 +7165,7 @@ put to the test.
 situational.onal factors over individual psychological characteristics
 point to Philip Zimbardo's Stanford prison experiment. 16 Screening out everyone who scored beyond the nonnal
 ran�te on a battery of psychological tests, including one that
-measured "rigid adherence to conventional values and a submisuncritical attitude toward authority" (i. e. , the F-scale for
+measured "rigid adherence to conventional values and a submissive uncritical attitude toward authority" (i. e. , the F-scale for
 "authoritarian personality"), Zimbardo randomly divided his
 lODlOg;enleoLls "nonnal" test group into guards and prisoners and
 ·placed them in a simulated prison. Though outright physical

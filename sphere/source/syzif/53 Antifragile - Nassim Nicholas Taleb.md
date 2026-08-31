@@ -318,7 +318,7 @@ BOOK II:  MODERNITY AND THE DENIAL OF ANTIFRAGILITY
 
 THE PROCRUSTEAN BED
 CHAPTER 5. Two different randomness categories, seen through the profiles of two brothers. How Switzerland is not controlled from above. The difference between Mediocristan and Extremistan. The virtues of city-states, bottom-up political systems, and the stabilizing effect of municipal noise.
-CHAPTER 6. Systems that like randomness. Annealing inside and outside physics. Explains the effect of overstabilizing organisms and complex systems (political, economic, etc.). The defects of intellectualism. U.S. foreign policy, and pseudostabilization.
+CHAPTER 6. Systems that like randomness. Annealing inside and outside physics. Explains the effect of over stabilizing organisms and complex systems (political, economic, etc.). The defects of intellectualism. U.S. foreign policy, and pseudostabilization.
 CHAPTER 7. An introduction to naive intervention and iatrogenics, the most neglected product of modernity. Noise and signal and overintervening from noise.
 CHAPTER 8. Prediction as the child of modernity.
 BOOK III:  A NONPREDICTIVE VIEW OF THE WORLD
@@ -480,7 +480,7 @@ Third, the backup material with more elaborate arguments, all in the form of tec
 1 Outside of casinos and some narrowly defined areas such as man-made situations and constructions.
 2 Hayek did not take his idea about organic price formation into risk and fragility. For Hayek, bureaucrats were inefficient, not fragilistas. This discussion starts with fragility and antifragility, and gets us as a side discussion into organic price formation.
 3 The technical term I used for "hates volatility" was "short vega" or "short gamma," meaning "harmed should volatility increase," and "long vega" or "long gamma" for things that benefit. In the rest of the book we will use "short" and "long" to describe negative and positive exposures, respectively. It is critical that I never believed in our ability to forecast volatility, as I just focused on how things react to it.
-4 Once again, please, no, itisnotresilience. I am used to facing, at the end of a conference lecture, the question "So what is the difference between robust and antifragile?" or the more unenlightened and even more irritating "Antifragile is resilient, no?" The reaction to my answer is usually "Ah," with the look "Why didn't you say that before?" (of course I had said that before). Even the initial referee of the scientific article I wrote on defining and detecting antifragility entirely missed the point, conflating antifragility and robustness—and that was the scientist who pored over my definitions. It is worth re-explaining the following: the robust or resilient is neither harmed nor helped by volatility and disorder, while the antifragile benefits from them. But it takes some effort for the concept to sink in. A lot of things people call robust or resilient are just robust or resilient, the other half are antifragile.
+4 Once again, please, no, it is not resilience. I am used to facing, at the end of a conference lecture, the question "So what is the difference between robust and antifragile?" or the more unenlightened and even more irritating "Antifragile is resilient, no?" The reaction to my answer is usually "Ah," with the look "Why didn't you say that before?" (of course I had said that before). Even the initial referee of the scientific article I wrote on defining and detecting antifragility entirely missed the point, conflating antifragility and robustness—and that was the scientist who pored over my definitions. It is worth re-explaining the following: the robust or resilient is neither harmed nor helped by volatility and disorder, while the antifragile benefits from them. But it takes some effort for the concept to sink in. A lot of things people call robust or resilient are just robust or resilient, the other half are antifragile.
 
 APPENDIX: THE TRIAD, OR A MAP OF THE WORLD AND THINGS ALONG THE THREE PROPERTIES
 
@@ -3336,7 +3336,7 @@ Post-Traumatic Growth: Bonanno (2004), Tedeschi and Calhoun (1996), Calhoun and 
 Pilots abdicate responsibility to the system: FAA report: John Lowy, AP, Aug. 29, 2011.
 Lucretius Effect: Fourth Quadrant discussion in the Postscript of The Black Swan and empirical evidence in associated papers.
 High-water mark: Kahneman (2011), using as backup the works of the very insightful Howard Kunreuther, that "protective actions, whether by individuals or by governments, are usually designed to be adequate to the worst disaster actually experienced.… Images of even worse disaster do not come easily to mind."
-Psychologists and "resilience": Seery 2011, courtesy Peter Bevelin. "However, some theory and empirical evidence suggest that the experience of facing difficulties can also promote benefits in the form of greater propensity for resilience when dealing with subsequent stressful situations." They use resilience! Once again itsnotresilience.
+Psychologists and "resilience": Seery 2011, courtesy Peter Bevelin. "However, some theory and empirical evidence suggest that the experience of facing difficulties can also promote benefits in the form of greater propensity for resilience when dealing with subsequent stressful situations." They use resilience! Once again its not resilience.
 Danchin's paper: Danchin et al. (2011).
 Engineering errors and sequential effect on safety: Petroski (2006).
 Noise and effort: Mehta et al. (2012).
@@ -3480,7 +3480,7 @@ Strategic planning: Starbuck et al. (1992, 2008), Abrahamson and Freedman (2007)
 Entrepreneurship: Elkington and Hartigan (2008).
 Harvard Business School professors' pathological misunderstanding of small probabilities: This is not an empirical statement, but just to have fun: for an illustrative example of a sucker who misses ωB and ωC, always start looking in Harvard. Froot (2001), Pisano (2006a, 2006b). Froot: "Because managers of insurance companies purchase reinsurance at far above the fair price, they must believe that risk management adds considerable value." He thinks he knows the fair price.
 Le Goff: Le Goff (1985): "L'un est un professeur, saisi dans son enseignement, entouré d'élèves, assiégé par les bans, où se presse l'auditoire. L'autre est un savant solitaire, dans son cabinet tranquille, à l'aise au milieu de la pièce où se meuvent librement ses pensées. Ici c'est le tumulte des écoles, la poussière des salles, l'indifférence au décor du labeur collectif," "Là tout n'est qu'ordre et beauté / Luxe, calme, et volupté."
-Martignon: Geschlechtsspezifische Unterschiede im Gehirn und mögliche Auswirkungen auf den Mathematikunterricht. Wissenschaftliche Hausarbeit zur Ersten Staatsprüfung für das Lehramt an Realschulen nach der RPO I v. 16.12.1999. Vorgelegt von: Ulmer, Birgit. Erste Staatsprüfung im Anschluss an das Wintersemester 2004/05, Pädagogische Hochschule Ludwigsburg. Studienfach: Mathematik. Dozenten: Prof. Dr. Laura Martignon, Prof. Dr. Otto Ungerer.
+Martignon: Geschlechtsspezifische Unterschiede im Gehirn und mögliche Auswirkungen auf den Mathematik unterricht. Wissenschaftliche Hausarbeit zur Ersten Staatsprüfung für das Lehramt an Realschulen nach der RPO I v. 16.12.1999. Vorgelegt von: Ulmer, Birgit. Erste Staatsprüfung im Anschluss an das Wintersemester 2004/05, Pädagogische Hochschule Ludwigsburg. Studienfach: Mathematik. Dozenten: Prof. Dr. Laura Martignon, Prof. Dr. Otto Ungerer.
 Renan: Averroès et l'averroïsme, p. 323 (1852).
 Socrates: Conversation with Mark Vernon (Vernon, 2009), who believes that Socrates was more like Fat Tony. Wakefield (2009) a great context. Calder et al. (2002) presents portraits more or less hagiographic.
 Socratic Fallacy: Geach (1966).
@@ -3629,7 +3629,7 @@ Caloric restriction: Harrison (1984), Weindruch (1996), Pischon (2008).
 Intense exercise: Synthesis of the literature on the effect of episodic energy imbalance, in De Vany (2011), who also, as a bonus, examines powerlaw effects.
 Missing the point that pills are more speculative: Stip (2010) spends time on via positiva methods to extend life with complicated pharma stories.
 Glucose and willpower: Note the effect of glucose making people sharper and helping willpower from experiments by Baumeister, see Kahneman (2011), might only apply to metabolically unfit persons. See Kurzban (2011) for a look at the statistical tools.
-Cluster of ailments from lack of randomness, as presented in prologue: Yaffe and Blackwell (2004), Razay and Wilcock (1994); Alzheimer and hyperinsulenemia, Luchsinger, Tang, et al. (2004), Janson, Laedtke, et al. (2004).
+Cluster of ailments from lack of randomness, as presented in prologue: Yaffe and Blackwell (2004), Razay and Wilcock (1994); Alzheimer and hyper insulinemia, Luchsinger, Tang, et al. (2004), Janson, Laedtke, et al. (2004).
 Starvation and the brain: Stranahan and Mattson (2012). Long-held belief that the brain needed glucose, not ketones, and that the brain does not go through autophagy, progressively corrected.
 Ramadan and effect of fasting: Ramadan is not interesting because people fast for only about 12 hours, depending on the season (someone who fasts from dinner to lunch can get 17 hours without food, which is practiced by this author). Further, they gorge themselves at dawn, and load on carbohydrates with, in my experience, the sweets of Tripoli (Lebanon). Nevertheless, some significance. Trabelsi et al. (2012), Akanji et al. (2012).
 Benefits of stress: For the different effects of the two types of stressors, short and chronic, Dhabar (2009); for the benefits of stress on boosting immunity and cancer resistance, Dhabhar et al. (2010), Dhabhar et al. (2012).
@@ -3678,7 +3678,7 @@ Abrahamson, Eric, and David H. Freedman, 2007, A Perfect Mess: The Hidden Benefi
 Abramson, J., and J. Wright, 2007, "Are Lipid-Lowering Guidelines Evidence-Based?" Lancet 369(9557): 168–169.
 Acemoglu, Daron, and James A. Robinson, 2012, Why Nations Fail: The Origins of Power, Prosperity and Poverty. New York: Crown Books.
 ACCORD Study Group, 2007, "Action to Control Cardiovascular Risk in Diabetes (ACCORD) Trial: Design and Methods." American Journal of Cardiology 99 (suppl): 21i–33i.
-Akanji, A. O., O. A. Mojiminiyi, and N. Abdella, 2000, "Beneficial Changes in Serum Apo A-1 and Its Ratio to Apo B and HDL in Stable Hyperlipidaemic Subjects After Ramadan Fasting in Kuwait." European Journal of Clinical Nutrition 54(6): 508–13.
+Akanji, A. O., O. A. Mojiminiyi, and N. Abdella, 2000, "Beneficial Changes in Serum Apo A-1 and Its Ratio to Apo B and HDL in Stable Hyper lipidaemic Subjects After Ramadan Fasting in Kuwait." European Journal of Clinical Nutrition 54(6): 508–13.
 Allendy, René, 1937, Paracelse; le médecin maudit. Gallimard.
 Alter, A. L., D. M. Oppenheimer, et al., 2007, "Overcoming Intuition: Metacognitive Difficulty Activates Analytic Reasoning." Journal of Experimental Psychology: General 136(4): 569.
 Anderson, G., J. Foreyt, M. Sigman-Grant, and D. Allison, 2012, "The Use of Low-Calorie Sweeteners by Adults: Impact on Weight Management." Journal of Nutrition 142(6): 1163s–1169s.
@@ -3800,7 +3800,7 @@ Delon, Michel, ed., 1997, Dictionnaire européen des lumières. Presses Universi
 Deneubourg, J. L., S. Goss, N. Franks, and J. M. Pasteels, 1989, "The Blind Leading the Blind: Modelling Chemically Mediated Army Ant Raid Patterns." Journal of Insect Behavior 2: 719–725.
 Deneubourg, J. L., J. M. Pasteels, and J. C. Verhaeghe, 1983, "Probabilistic Behavior in Ants: A Strategy of Errors?" Journal of Theoretical Biology 105: 259–271.
 Derman, E., and N. N. Taleb, 2005, "The Illusions of Dynamic Replication." Quantitative Finance 5: 4.
-Dhabhar, F. S., 2009, "Enhancing Versus Suppressive Effects of Stress on Immune Function: Implications for Immunoprotection and Immunopathology." Neuroimmunomodulation 16(5): 300–317.
+Dhabhar, F. S., 2009, "Enhancing Versus Suppressive Effects of Stress on Immune Function: Implications for Immunoprotection and Immunopathology." Neuro immunomodulation 16(5): 300–317.
 Dhabhar, F. S., A. N. Saul, C. Daugherty, T. H. Holmes, D. M. Bouley, T. M. Oberyszyn, 2010, "Short-term Stress Enhances Cellular Immunity and Increases Early Resistance to Squamous Cell carcinoma." Brain, Behavior and Immunity 24(1): 127–137.
 Dhabhar, F. S., A. N. Saul, T. H. Holmes, C. Daugherty, E. Neri, J. M. Tillie, D. Kusewitt, T. M. Oberyszyn, 2012, "High-Anxious Individuals Show Increased Chronic Stress Burden, Decreased Protective Immunity, and Increased Cancer Progression in a Mouse Model of Squamous Cell Carcinoma." PLOS ONE 7(4): e33069.
 Diamond, Jared, 1988, "Why Cats Have Nine Lives." Nature, Vol. 332, April 14.
@@ -3980,7 +3980,7 @@ Lloyd, R., K. Hind, et al., 2010, "A Pilot Investigation of Load-Carrying on the
 Longo, V., and B. Kennedy, 2006, "Sirtuins in Aging and Age-Related Disease." Cell 126(2): 257–268.
 Longo, V., M. Lieber, and J. Vijg, 2008, "Turning Anti-Ageing Genes Against Cancer." National Review of Molecular Cell Biology 9(11): 903–910, 1471–1472.
 Longrigg, James, 1998, Greek Medicine from the Heroic to the Hellenistic Age: A Source Book. London: Routledge.
-Luchsinger, J. A., M. X. Tang, et al., 2004, "Hyperinsulinemia and Risk of Alzheimer Disease." Neurology 63(7): 1187–1192.
+Luchsinger, J. A., M. X. Tang, et al., 2004, "Hyper insulinemia and Risk of Alzheimer Disease." Neurology 63(7): 1187–1192.
 Luehrman, T. A., 1998, "Strategy as a Portfolio of Real Options." Harvard Business Review 76: 89–101.
 Lustick, I., B. Alcorn, et al., 2010, "From Theory to Simulation: The Dynamic Political Hierarchy in Country Virtualization Models." American Political Science Association.
 Machina, Mark, and Michael Rothschild, 2008, "Risk." In Steven N. Durlauf and Lawrence E. Blume, eds., The New Palgrave Dictionary of Economics, 2nd ed. London: Macmillan.
@@ -4090,7 +4090,7 @@ Raffaghello, L., F. Safdie, G. Bianchi, T. Dorff, L. Fontana, and V. Longo, 2010
 Rashed, Marwan, 2007, L'héritage aristotélien. Les Belles Lettres.
 Rattan, S.I.S., 2008, "Hormesis in aging." Ageing Research Reviews 7(1): 63–78.
 Rautava, E., M. Lehtonen-Veromaa, H. Kautiainen, S. Kajander, and O. J. Heinonen, 2007, "The Reduction of Physical Activity Reflects on the Bone Mass Among Young Females: A Follow-Up Study of 143 Adolescent Girls." Osteoporosis International (18)7: 915–922.
-Razay, G. and G. K. Wilcock, 1994, "Hyperinsulinaemia and Alzheimer's Disease." Age and Ageing 23(5): 396–399.
+Razay, G. and G. K. Wilcock, 1994, "Hyper insulinaemia and Alzheimer's Disease." Age and Ageing 23(5): 396–399.
 Read, D., S. Frederick, and M. Airoldi, 2012, "Four Days Later in Cincinnati: Longitudinal Tests of Hyperbolic Discounting." Acta Psychologica 140(2): 177–185, PMID: 22634266.
 Redberg, R. F., and M. H. Katz, 2012, "Healthy Men Should Not Take Statins." JAMA 307(14): 1491–1492.
 Rees, Martin, 2003, Our Final Century: Will Civilisation Survive the Twenty-First Century? Arrow Books.

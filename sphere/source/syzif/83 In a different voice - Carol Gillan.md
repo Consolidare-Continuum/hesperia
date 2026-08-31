@@ -1037,7 +1037,7 @@ about themselves. Halfway through that
 time, I began to hear a distinction in these
 voices, two ways of speaking about moral
 problems, two modes of describing the rela
-tionship between other and self. Differences represented in the psychologicalliterature as steps in a developmental progression sud
+tionship between other and self. Differences represented in the psychological literature as steps in a developmental progression sud
 denly appeared instead as a contrapuntal theme, woven into the
 cycle of life and recurring in varying forms in people's judgments,
 fantasies, and thoughts. The occasion for this observation was the
@@ -1844,7 +1844,7 @@ human being's right to do as he pleases, again without inter
 fering with somebody else's rights.
 
 [How have your views on morality changed since the last
-interview?] I think I am more aware of an in~ividual'srights
+interview?] I think I am more aware of an in~individual's rights
 now. I used to be looking at it strictly from my point of view,
 just for me. Now I think I am more aware of what the indi
 vidual has a right to.
@@ -1857,7 +1857,7 @@ with justice (fairness, rights, the Golden Rule), with recognition of
 the rights of others as these are defined naturally or intrinsically.
 The human's being right to do as he pleases without interfering
 with somebody else's rights is a formula defining rights prior to so
-ciallegislation" (pp. 29-3.0).
+social legislation" (pp. 29-3.0).
 
 The second response comes from a woman who participated
 
@@ -2353,7 +2353,7 @@ fall through the sieve of Kohlberg's scoring system, her responses
 appear from his perspective to lie outside the moral domain.
 
 Yet just as Jake reveals a sophisticated understanding of the
-logic ofjustification, so Amy is equally sophisticated in her under-
+logic of justification, so Amy is equally sophisticated in her under-
 
 I" a D!fferent Yolce
 
@@ -2682,7 +2682,7 @@ That other people are counting
 on you to do something, and
 you can't just decide, "Well, I'd
 rather do this or that." (Are
-there other kinds ofresponsibilily?) Well, to yourself. If something looks really fun but you
+there other kinds of responsibility?) Well, to yourself. If something looks really fun but you
 might hurt yourself doing it because you don't really know
 how to do it and your friends
 say, "Well, come on, you can
@@ -5201,7 +5201,7 @@ you want to do.
 Once obligation extends to include the self as well as others,
 the disparity between selfishness and responsibility dissolves. Al
 though the conflict between self and other remains, the moral prob
-lem is reconstructured in light of the realization that the occurrence
+lem is reconstructed in light of the realization that the occurrence
 of the dilemma itself precludes nonviolent resolution. The abortion
 decision comes to be seen as a "serious" choice affecting both self
 and others: "This is a life that I have taken, a conscious decision to
@@ -6680,7 +6680,7 @@ were gathered at a particular moment in history, the sample was
 small, and the women were not selected to represent a larger popu
 lation. These constraints preclude the possibility of generalization
 and leave to further research the task of sorting out the different
-variables of culture, time, occasion, and gender. Additionallongitu
+variables of culture, time, occasion, and gender. Additional longitudinal
 longitudinal studies of women's moral judgments are needed in order to
 refine and validate the sequence described. Studies of people's
 thinking about other real dilemmas are needed to clarify the special

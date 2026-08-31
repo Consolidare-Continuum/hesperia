@@ -743,7 +743,7 @@ reality, it does not seem to be appearance. As long as living a lie is
 not confronted with living the truth, the perspective needed to
 expose its mendacity is lacking. As soon as the alternative appears,
 however, it threatens the very existence of appearance and living a
-lie in terms of what they are, both their essence and their allinclusiveness. And at the same time, it is utterly unimportant how
+lie in terms of what they are, both their essence and their all inclusiveness. And at the same time, it is utterly unimportant how
 large a space this alternative occupies: its power does not consist in
 its physical attributes but in the light it casts on those pillars of the
 system and on its unstable foundations. After all, the greengrocer
@@ -2567,7 +2567,7 @@ of the laws and the responsibility for seeing that they are upheld is
 indirectly strengthened. That, of course, is only a specific instance of
 a far broader influence, the indirect pressure felt from living within
 the truth: the pressure created by free thought, alternative values
-and 'alternative behaviour', and by independent social selfrealization. The power structure, whether it wants to or not, must
+and 'alternative behaviour', and by independent social self realization. The power structure, whether it wants to or not, must
 always react to this pressure to a certain extent. Its response,
 however, is always limited to two dimensions: repression and
 adaptation. Sometimes one dominates, sometimes the other. For

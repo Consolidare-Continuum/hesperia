@@ -86,7 +86,7 @@ Digitized by the Internet Archive
 
 in 2012
 
-http://archive.org/details/linkednewscienceOObara
+http://archive.org/details/linked new science of networks
 
 Linked
 The New Science ofNetworks
@@ -131,7 +131,7 @@ First printing, April 2002
 
 Find Perseus Publishing on the World Wide Web at
 
-http://www.perseuspublishing.com
+http://www.perseus publishing.com
 
 Szuleimnek
 
@@ -1078,7 +1078,7 @@ mathematician and family friend but a well-known scientist with an
 
 international reputation.
 
-Erdos by then had already developed his trademark travelingmathematician lifestyle. He would show up at his colleagues'
+Erdos by then had already developed his trademark traveling mathematician lifestyle. He would show up at his colleagues'
 doorsteps and proclaim, "My brain is open," an invitation to join in
 
 his tireless pursuit of mathematical truth. His only permanent job offer came from the University of Notre Dame, in South Bend, Indiana.
@@ -2542,7 +2542,7 @@ unique role in bringing the small-world problem, a much investigated
 
 issue within sociology, to the attention of the physics and mathematics
 
-community. For a short time it seemed as if the more general, clusterfriendly model of Watts and Strogatz would replace the random universe of Erdos and Renyi. We could all relate to the simple picture of familiar local order sprinkled with a few distant links, offering a lucid
+community. For a short time it seemed as if the more general, cluster friendly model of Watts and Strogatz would replace the random universe of Erdos and Renyi. We could all relate to the simple picture of familiar local order sprinkled with a few distant links, offering a lucid
 
 explanation of the small worlds around us. The model offered an elegant compromise between the completely random world of Erdos and
 
@@ -4835,7 +4835,7 @@ node is called Microsoft.
 
 The most visible product of the Bill Gates and Paul Allen partnership
 
-is unquestionably Microsoft Windows. Its impact on our computerdominated world is almost impossible to quantify. It marked the beginning of a cultural divide: You either love Windows or you hate it. You
+is unquestionably Microsoft Windows. Its impact on our computer dominated world is almost impossible to quantify. It marked the beginning of a cultural divide: You either love Windows or you hate it. You
 
 cannot be in between. Regardless of which camp you are in, however,
 
@@ -10143,9 +10143,9 @@ tour of his mathematics and life, see the series of articles published soon afte
 
 (in Hungarian) in Matematikai Lapok 3-4 (1970): Turan Pal, "Renyi Alfred
 
-munkassaga," 199-210; Revesz Pal, "Renyi Alfred valoszinusegszamitasi munkassaga,"
+munkassaga," 199-210; Revesz Pal, "Renyi Alfred valoszinusegszamitas munkassaga,"
 
-211-231; Csiszar Imre, "Renyi Alfred informacioelmeleti munkassaga," 233-241; Katona Gyula and Tusnady Gabor, "Renyi Alfred pedagogiai munkassaga, 243-244; B.
+211-231; Csiszar Imre, "Renyi Alfred informacioelmelet munkassaga," 233-241; Katona Gyula and Tusnady Gabor, "Renyi Alfred pedagogiai munkassaga, 243-244; B.
 
 Meszaros Vilma, "Guibus Vivere est Cogitare," 245-248. Today he is remembered
 
@@ -11773,7 +11773,7 @@ maintained by Nouriel Roubini, associate professor of economics and internationa
 business at the Stern School of Business of New York University. The site, titled
 "Chronology of the Asian Currency Crisis and Its Global Contagion," is available at
 
-http://www.stern.nyu.edu/~roubini/asia/AsiaChronologyl.html. For a discussion of
+http://www.stern.nyu.edu/~roubini/asia/Asia Chronology.html. For a discussion of
 
 the origins of the crisis, see Giancarlo Corsetti, Paolo Pesenti, and Nouriel Roubini,
 "What Caused the Asian Currency and Financial Crisis?" Japan and the World Economy, Sept. 1999, 305-373.

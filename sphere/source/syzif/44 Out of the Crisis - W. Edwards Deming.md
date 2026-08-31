@@ -1767,7 +1767,7 @@ Buyers expect suppliers to be a reliable source of merchandise, to
 understand their needs and respond quickly to them, and to offer
 reliable after-sales service. The relationship depends heavily on these
 factors, to the exclusion of such economic considerations as lowest
-cost in the quality range required. Thus, although a firm customersupplier relationship is not intended to shut out competitive foreign
+cost in the quality range required. Thus, although a firm customer supplier relationship is not intended to shut out competitive foreign
 firms, working within the system can be frustrating. (Japan Economic
 Institute, Japan's Import Barriers: Analysis of Divergent Bilateral
 Views, Washington, 1982.)
@@ -4997,7 +4997,7 @@ contributions of production workers are severely limited.
 
 There is here [in Czechoslovakia] the same widespread unsupported
 assumption that the bulk of defects are operator-controllable, and that
-if the operators would only put their backs into it, the plant's qualityproblems would shrink materially. (Joseph M. Juran, Industrial Quality
+if the operators would only put their backs into it, the plant's quality problems would shrink materially. (Joseph M. Juran, Industrial Quality
 Control 22, May 1966: p. 624.)
 
 Only recently, the entire management of a large manufacturing concern
@@ -5493,7 +5493,7 @@ and challenging.
 For the first time in its history, the United States faces the job of
 managing economic growth with an increasing scarcity of capital, raw
 materials, energy sources, managerial skill, and market opportunities. There
-are strained business-government relations and antagonistic managementemployee relations. It is not going to be easy for the United States to learn
+are strained business-government relations and antagonistic management employee relations. It is not going to be easy for the United States to learn
 Japan's secret.
 
 1 Eugene L. Grant, interview in the journal Quality (Chicago), March 1984.
@@ -15210,7 +15210,7 @@ inspection constitute a system of grading.
 Further note on graphical presentation. The plan on presentation in
 Figs. 51 and 52 can be adapted readily to four or five inspectors. (Six
 inspectors create a problem in multiplicity of symbols.) I have also used the
-same plan to indicate with three symbols ( ● , ○ , ×) the qualitycharacteristics obtained at a later stage from material drawn off at (1) the
+same plan to indicate with three symbols ( ● , ○ , ×) the quality characteristics obtained at a later stage from material drawn off at (1) the
 beginning of a heat, (2) the middle, (3) the end. In an actual case, the three
 symbols appeared in the same vertical relationship over 12 heats, except for
 a tie between ○ and ×. This repeated relationship indicated the possibility
@@ -16569,7 +16569,7 @@ was written by top management.2 These men were out in the plants at work.
 
 Mr. Gohei Tanabe, president of Tanabe Pharmaceutical Company,
 reported that, through improvement of processes, his company was
-producing three times as much PAS (paraaminosalicylic acid) as they had
+producing three times as much PAS (para amino salicylic acid) as they had
 been getting earlier with the same people, same machines, same plant, same
 materials.
 

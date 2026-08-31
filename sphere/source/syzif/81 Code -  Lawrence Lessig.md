@@ -1485,7 +1485,7 @@ R E G U L A B I L I T Y
 This difference between the architectures of identity in real space and in cyberspace
 has profound consequences for the regulability of behavior in cyberspace. If regulation hangs upon identity—that is, on knowing at least something about the person
 being regulated—then in cyberspace, under TCP/IP's design, there is very little that
-the regulator would necessarily know. Unlike real space, cyberspace reveals no selfauthenticating facts about identity. In real space you reveal your sex, your age, how
+the regulator would necessarily know. Unlike real space, cyberspace reveals no self authenticating facts about identity. In real space you reveal your sex, your age, how
 you look, what language you speak, whether you can see, whether you can hear, how
 i n tell i gent you are . In cybers p ace you reveal on ly an ad d re s s , and one that has no
 necessary relationship to anything else about you.
@@ -10372,7 +10372,7 @@ February 24,1997,22.
 3 5 . L i t t l e , but not nothing. Th ro u gh con d i ti onal spending gra n t s , the govern m ent was
 quite effective initially in increasing Net participation,and it was effective in resisting the development of encryption technologies;see Whitfield Diffie and Susan Eva Landau, Privacy on
 the Line: The Pol i ti cs of Wi ret a pping and En crypti o n ( Ca m bri d ge , Ma s s . : MIT Pre s s , 1 9 9 8 ) .
-Steven Levy tells of a more direct intervention. When Richard Stallman refused to passwordprotect the MIT AI (artificial intelligence) machine,the Department of Defense threatened to
+Steven Levy tells of a more direct intervention. When Richard Stallman refused to password protect the MIT AI (artificial intelligence) machine,the Department of Defense threatened to
 t a ke the machine of f the Net unless the arch i tectu res were ch a n ged to re s tri ct acce s s . For
 Stallman,this was a matter of high principle; for the Department of Defense,it was business
 as usual;see Steven Levy, Hackers: Heroes of the Computer Revolution (Garden City, N.Y.: Anchor Press/Doubleday, 1984), 417–18.
@@ -10518,7 +10518,7 @@ January 31,1999,1.
 
 (Cambridge, Mass.: Harvard University Press,1995), 199–267.
 
-19. See CyberPromotions, Inc. v America Online, Inc., 948 FSupp 436 (EDPa 1996) (holding that a company has no free speech right under the United States, Pennsylvania, or Virginia
+19. See Cyber Promotions, Inc. v America Online, Inc., 948 FSupp 436 (EDPa 1996) (holding that a company has no free speech right under the United States, Pennsylvania, or Virginia
 Constitutions to send unsolicited e-mail over the Internet to a competitor's customers).
 
 2 0 . See Elizabeth Rei d ," Hi era rchy and Power: Social Con trol in Cybers p ace ," in Co m mu n i -
@@ -10869,7 +10869,7 @@ data structures used by"other layers; Hunt, TCP/IP: Network Administration, 9.
 building bl ock , and so the best approach was to define simple pro toco l s , e ach limited in
 scope, with the expectation that any of them might someday be joined or modified in various
 unanticipated ways. The protocol design philosophy adopted by the NWG [network working
-group] broke ground for what came to be widely accepted as the 'layered'approach to protocols"; Where Wizards Stay Up Late, 147.
+group] broke ground for what came to be widely accepted as the 'layered approach to protocols"; Where Wizards Stay Up Late, 147.
 
 7. The fights over encryption at the link level, for example,are fights over the TCP/IP protocols. Some within the network industry have proposed that encryption be done at the gateways ays , with a met h od for dumping plain text at the ga tew ays if t h ere were proper lega l
 authority—a kind of "private doorbell" for resolving the encryption controversy; see Elizabeth Kaufman and Roszel Thomsen II, "The Export of Certain Networking Encryption Produ cts Un der ELAs ," ava i l a ble at http : / / w w w. c i s co. com / w a rp / p u bl i c / 7 7 9 / gov t a f f / po l i c y / p a per /
@@ -11638,10 +11638,10 @@ has the right to separate incompatible uses). Not until the twentieth century we
 (1990):1,8–11, 19.
 
 35. In 1917 the Supreme Court outlawed racial zoning as a violation of the Fourteenth
-Amendment; see Buchanan v Warley, 245 US 60 (1917). However, "nonexclusionary" zoning
+Amendment; see Buchanan v Warley, 245 US 60 (1917). However, "non exclusionary" zoning
 reg u l a ti on was used to pre s erve re s i den tial segrega ti on ; even though fac i a lly neutral and
 based on economic factors (ostensibly to prevent property devaluation), various laws and regulations have resulted in de facto segregation; see Briffault, "Our Localism," 103–4; Meredith
-Lee Bryant, "Combating School Resegregation Through Housing: A Need for a R econceptualization of American Democracy and the Rights It Protects," Harvard BlackLetter Journal 13
+Lee Bryant, "Combating School Resegregation Through Housing: A Need for a R reconceptualization of American Democracy and the Rights It Protects," Harvard BlackLetter Journal 13
 (1997): 127, 131–32.
 
 3 6 . See Joel Ko s m a n , "Tow a rd an In clu s i on a ry Ju ri s pru den ce : A Recon ceptu a l i z a ti on of
@@ -12030,7 +12030,7 @@ Auctions Take Sixty-seven Years?," Journal of Law and Economics 41 (1998): 529; 
 and the Ori gins of the 1927 Radio Act : Com m en t ," Pu blic Choice 95 (1998): 2 7 7 ; " P hys i c a l
 Scarcity, Rent Seeking, and the First Amendment," Columbia Law Review 97 (1997):905; "The
 Rationality of U.S. Regulation of the Broadcast Spectrum," Journal of Law and Economics 33
-(1990): 133; Thomas W. Hazlett and David Sosa, "Was the Fairness Doctrine a 'Chilling Effect'?: Evidence from the Postderegulation Radio Market," Journal of Legal Studies 26 (1997):
+(1990): 133; Thomas W. Hazlett and David Sosa, "Was the Fairness Doctrine a 'Chilling Effect'?: Evidence from the Post deregulation Radio Market," Journal of Legal Studies 26 (1997):
 2 7 9 . For another historical acco u n t , s ee Morton I. Ha m burg and Stu a rt N. Bro tm a n , Co m -
 mu n i c a tions Law and Pra cti ce , vo l . 1 (New York : L aw Jo u rnal Sem i n a rs – Pre s s , 1 9 9 5 ) , 5 – 8 .
 Ithiel de Sola Pool was an early advocate of a position close to Hazlett's;see Technologies With -

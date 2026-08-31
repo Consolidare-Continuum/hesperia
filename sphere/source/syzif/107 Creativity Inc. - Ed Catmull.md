@@ -1130,7 +1130,7 @@ within	the	company	that	they	clung	to	their	newfound	status	by	stifling—not	en
 younger	talents.	Not	only	were	they	not	interested	in	the	ideas	of	their	fledgling	animators,
 they	exercised	a	sort	of	punitive	power.	They	were	seemingly	determined	that	those	beneath
 them	 not	 rise	 in	 the	 ranks	 any	 faster	 than	 they	 already	 had.	 John	 was	 almost	 immediately
-unhappy	in	this	noncollaborative	environment,	though	it	was	still	a	shock	when	he	got	fired.
+unhappy	in	this	non collaborative	environment,	though	it	was	still	a	shock	when	he	got	fired.
 No	wonder	he	was	so	eager	to	join	us	at	Lucasfilm.
 
 The	project	we	enlisted	John's	help	on	was	originally	going	to	be	called	My	Breakfast	with
@@ -1863,7 +1863,7 @@ artists	and	technical	people	treated	each	other	as	equals,	and	I	had	assumed	tha
 mutual	 respect	 would	 be	 afforded	 to	 those	 who	 managed	 the	 productions.	 I	 had	 assumed
 wrong.	Sure	enough,	when	I	checked	with	the	artists	and	technical	staff,	they	did	believe	that
 production	 managers	 were	 second-class	 and	 that	 they	 impeded—not	 facilitated—good
-filmmaking	 by	 overcontrolling	 the	 process,	 by	 micromanaging.	 Production	 managers,	 the
+filmmaking	 by	 over controlling	 the	 process,	 by	 micromanaging.	 Production	 managers,	 the
 folks	I	consulted	told	me,	were	just	sand	in	the	gears.
 
 My	total	ignorance	of	this	dynamic	caught	me	by	surprise.	My	door	had	always	been	open!
@@ -7804,7 +7804,7 @@ know."
 
 Among	 the	 ideas	 this	 group	 put	 on	 their	 exit	 forms:	 fostering	 more	 empathy	 between
 departments	through	a	job-swapping	program,	establishing	a	lunch	lottery	that	would	match
-people	 at	 random	 to	 encourage	 new	 connections	 and	 friendships,	 and	 holding	 crossdepartmental	mixers	designed	to	let	far-flung	colleagues	get	to	know	each	other	over	a	few
+people	 at	 random	 to	 encourage	 new	 connections	 and	 friendships,	 and	 holding	 cross departmental	mixers	designed	to	let	far-flung	colleagues	get	to	know	each	other	over	a	few
 beers.
 
 I	 chose	 to	 describe	 that	 session	 in	 part	 because	 it's	 broadly	 relatable—no	 matter	 what
@@ -8227,7 +8227,7 @@ away."	One	goal	that	mattered	enormously	to	him	was	to	roll	out	the	product	he'd
 us,	along	with	a	few	others	that	he	believed	would	ensure	Apple's	future.	The	second	was	to
 safeguard	 Pixar's	 continued	 success.	 And	 the	 third	 and	 most	 important	 was	 to	 set	 his	 three
 youngest	children	on	a	good	path.	I	remember	him	saying	that	he	hoped	he	would	be	around
-to	 watch	 his	 son	 Reed,	 then	 in	 8th	 grade,	 graduate	 from	 high	 school.	 To	 hear	 this	 onceunstoppable	 man	 scaling	 back	 his	 hopes	 and	 ambitions	 to	 a	 handful	 of	 last	 wishes	 was
+to	 watch	 his	 son	 Reed,	 then	 in	 8th	 grade,	 graduate	 from	 high	 school.	 To	 hear	 this	 once unstoppable	 man	 scaling	 back	 his	 hopes	 and	 ambitions	 to	 a	 handful	 of	 last	 wishes	 was
 heartbreaking,	of	course,	but	I	remember	thinking	that	when	Steve	said	it,	it	sounded	natural.
 It	felt	like	he	had	come	to	terms	with	the	inevitability	of	not	being	here.
 

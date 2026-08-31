@@ -2570,7 +2570,7 @@ mitigating factor in homicide.8 The disgust of judge or jury has frequently been
 where potentially aggravating factors are under consideration.
 
 On one view of these matters, the emotion of disgust is highly relevant to law and a valuable part of the legal process. For Devlin, society cannot defend itself without making law in response to its
-members' responses of disgust, and every society has the right to preserve itself.9 Every society, therefore, is entitled to translate the disgustreactions of its members into law. For Kass, disgust embodies a deep
+members' responses of disgust, and every society has the right to preserve itself.9 Every society, therefore, is entitled to translate the disgust reactions of its members into law. For Kass, disgust embodies a deep
 wisdom that "warn[s] us not to transgress what is unspeakably profound."10 If we do not heed that wisdom, we are in danger of losing
 our humanity. For Miller, a society's hatred of vice and impropriety
 necessarily involves disgust, and cannot be sustained without disgust.
@@ -3526,7 +3526,7 @@ no affectively strong adjective with which to express anger. ("That's
 outrageous!" seems pretty prissy and bland, so "that's disgusting !" sometimes substitutes.) In other cases, such as the Wilde case, the moralism seems to be a cloak for a quite familiar type of disgust, expressing
 contamination from the presence of an allegedly vile creature, an
 inhabitant of the human buffer zones that we shall discuss in section
-V. In other cases, a genuine moral judgment is linked to a disgustjudgment: thus a grisly murder will be found both very bad in the
+V. In other cases, a genuine moral judgment is linked to a disgust judgment: thus a grisly murder will be found both very bad in the
 damage sense, and disgusting because of the gore and blood. (I shall
 discuss this sort of case in chapter 3.) In still other cases, there probably is a genuine extension, but the idea of distancing oneself from
 a contaminant is still central. Thus, people who say that crooked
@@ -3921,9 +3921,9 @@ toilet stall in Finland has a sink with a spray nozzle inside the stall, to
 promote such washing.) So we don't seem to find a uniform advance
 in the direction of greater sensitivity to the bodily fluids.
 
-Normatively, it seems difficult to connect the kind of disgustsensitivity on which Miller focuses with any kind of genuine social advance. It seems plausible enough that as society advances it will
+Normatively, it seems difficult to connect the kind of disgust sensitivity on which Miller focuses with any kind of genuine social advance. It seems plausible enough that as society advances it will
 identify more things as physically dangerous, and so protect itself better against germs and bacteria, although one should note that such
-a policy is not always wise, excessive disinfecting being tentatively associated with a rise in asthma and other diseases with an immunedeficiency component. (Thus a child's resistance to finding dirty
+a policy is not always wise, excessive disinfecting being tentatively associated with a rise in asthma and other diseases with an immune deficiency component. (Thus a child's resistance to finding dirty
 things disgusting might confer a health advantage.) Miller's normative claim is not a claim about danger, however. His claim is that the
 magical thinking characteristic of disgust is itself a sign of social
 progress.
@@ -4763,7 +4763,7 @@ always make a showing of harm. Modeled on laws passed prior to
 Prohibition that allowed women to bring damage suits against the
 makers and distributors of alcohol if they could show that they had
 been abused by men in a way that involved alcohol as a crucial agent,
-these laws also bear a strong resemblance to more recent dangerousproduct damage suits against the tobacco and firearms industries.
+these laws also bear a strong resemblance to more recent dangerous product damage suits against the tobacco and firearms industries.
 MacKinnon and Dworkin have amply demonstrated that there are
 many cases where the relevant harms can be plausibly attributed to
 pornography.32 Nor should the critic demand an unreasonable level
@@ -4828,7 +4828,7 @@ the materials in the case and the periodical in general. "Hustler
 Magazine is a pornographic periodical. Much of its content consists
 of what we have recently described as 'disgusting and distasteful
 abuse.'" So the Features attacking Dworkin are "disgusting," and
-thus might have been candidates for obscenity had the politicalspeech issue not intervened. The question is, what is this disgust
+thus might have been candidates for obscenity had the political speech issue not intervened. The question is, what is this disgust
 about, and is it relevant to the serious issues in this case?
 
 On one reading—we may call it the Kahan reading—the disgust
@@ -4950,7 +4950,7 @@ is not that of sexual explicitness merely, and the alleged disgusting
 excitingness of that. Indeed, it would appear that disgust has nothing to do with the matter. To violations of the equality of a fellow
 citizen, the appropriate response is anger, not disgust. Kahan's progressive pro-disgust argument appears to hold that this anger is too
 fragile to survive without disgust.42 I believe that people tempted to
-this position should think harder about the ambiguity of the disgustresponse and its tendency to reinforce precisely those harms to which
+this position should think harder about the ambiguity of the disgust response and its tendency to reinforce precisely those harms to which
 anger responds.
 
 IV. Disgust as a Reason for Illegality:
@@ -6399,7 +6399,7 @@ extent for us all. Thus primitive shame and the aggression that accompanies its 
 shame, and may manifest itself in many forms, among them being
 the shaming of others.
 
-The immediate family is one very powerful agent of shamedevelopment, whether healthy or unhealthy. But the surrounding
+The immediate family is one very powerful agent of shame development, whether healthy or unhealthy. But the surrounding
 society is another. In B's case, the explanation for his hypertrophy of
 shame lay primarily in his parents' behavior. But societies vary also in
 the type of developmental pattern they hold up as normal. What
@@ -6932,7 +6932,7 @@ may often be simply to retreat and shut down. More generally, if
 what the self deeply wants is a kind of ideal symbiosis and completeness that is unattainable, the unattainability of this object, together
 with shame at one's incomplete human existence, produces a global
 sense of emptiness and meaninglessness. Alice Miller's extensive
-clinical study of the relationship between depression and narcissismshame argues (in a way reminiscent of B's case) that the patient
+clinical study of the relationship between depression and narcissism shame argues (in a way reminiscent of B's case) that the patient
 whose depression is linked to primitive narcissism is unlikely to improve without acquiring the ability to mourn: that is, to give up the
 illusion of perfect wholeness and perfect fusion with the caretaking
 object.100
@@ -8138,7 +8138,7 @@ evidence? If not, then the idea is obviously unacceptable. If so, we require a t
 that are not illegal. Etzioni is so unclear about what he is actually
 proposing that we really do not yet have a position to assess.
 
-The right direction, in thinking about nonimprisonment sanctions, seems to me to be Braithwaite's: whatever penalties we choose,
+The right direction, in thinking about non imprisonment sanctions, seems to me to be Braithwaite's: whatever penalties we choose,
 our focus should be on the future, on reform and reintegration.
 Community service is often valuable in this effort, precisely for the
 reason for which Kahan does not like it: it gives people something
@@ -9481,7 +9481,7 @@ other traits as proxies for (alleged) criminal intent or activity. There
 may be some instances in which national-security interests strongly
 support these policies. Thus, there are at least some cogent arguments supporting the recent profiling of Arab and Arab-American
 men, given the shortage of time and money for comprehensive airport searches, et cetera. Even then, this policy unfairly stigmatizes all
-members of a group, and probably encourages police and airportsecurity officers to behave badly toward these people, sending the
+members of a group, and probably encourages police and airport security officers to behave badly toward these people, sending the
 
 message that they are not fully equal citizens (or visitors). So I am opposed to profiling even in such cases. Far more clearly, it is both intrinsically objectionable and unwise policy to use race as a proxy for
 crime, as when traffic stops and searches of vehicles are triggered by

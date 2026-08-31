@@ -1323,7 +1323,7 @@ Other North River Press Books by
 
  "Oh, so that's what all this stuff with the measurements is about,'' he says. "Listen, Al, don't waste your time with all that. The system is the system. You want to know what's wrong? I'll tell you what the problem is.''
 
- And he does. For about an hour. Most of it I've heard before, it's the kind of thing everybody's heard: It's all the union's fault; if everybody would just work harder; nobody gives a damn about quality; look at foreign labor—we can't compete on costs alone; and so on, and so on. He even tells me what sorts of selfflagellation we should administer in order to chasten ourselves. Mostly Lou is blowing off steam. That's why I let him talk.
+ And he does. For about an hour. Most of it I've heard before, it's the kind of thing everybody's heard: It's all the union's fault; if everybody would just work harder; nobody gives a damn about quality; look at foreign labor—we can't compete on costs alone; and so on, and so on. He even tells me what sorts of self flagellation we should administer in order to chasten ourselves. Mostly Lou is blowing off steam. That's why I let him talk.
 
  But I sit there wondering. Lou actually is a bright guy. We're all fairly bright; UniCo has lots of bright, well-educated people on the payroll. And I sit here listening to Lou pronounce his opinions, which all sound good as they roll off his tongue, and I wonder why it is that we're slipping minute by minute toward oblivion, if we're really so smart.
 
@@ -9157,7 +9157,7 @@ Other North River Press Books by
 
  DW: Did you take your insights to other GM plants?
 
- KK: Yes. We demonstrated the process when central office management visited the plant, and it became apparent a lot of plants in GM weren't hitting their throughput targets. Eventually, I left DetroitHamtramck and went to a central office position to help start a divisional group to implement this solution. Seventeen years later, I'm an executive at GM who owns the process for all of the North American plants, and it has been expanded to include the simulation of future manufacturing designs.
+ KK: Yes. We demonstrated the process when central office management visited the plant, and it became apparent a lot of plants in GM weren't hitting their throughput targets. Eventually, I left Detroit Hamtramck and went to a central office position to help start a divisional group to implement this solution. Seventeen years later, I'm an executive at GM who owns the process for all of the North American plants, and it has been expanded to include the simulation of future manufacturing designs.
 
  DW: And this is all TOC related?
 

@@ -1207,7 +1207,7 @@ elastic system can be useful if load is highly unpredictable, but manually scale
 |
 
 While distributing stateless services across multiple machines is fairly straightforward, taking stateful data systems from a single node to a distributed setup can introduce a lot of additional complexity. For this reason, common wisdom until recently
-was to keep your database on a single node (scale up) until scaling cost or highavailability requirements forced you to make it distributed.
+was to keep your database on a single node (scale up) until scaling cost or high availability requirements forced you to make it distributed.
 
 As the tools and abstractions for distributed systems get better, this common wisdom
 may change, at least for some kinds of applications. It is conceivable that distributed
@@ -1503,7 +1503,7 @@ when we replaced physical server?" twitter.com, November 13, 2014.
 
 [20] Greg Linden: "Make Data Useful," slides from presentation at Stanford University Data Mining class (CS345), December 2006.
 
-[21] Tammy Everts: "The Real Cost of Slow Time vs Downtime," webperformancetoday.com, November 12, 2014.
+[21] Tammy Everts: "The Real Cost of Slow Time vs Downtime," web performance today.com, November 12, 2014.
 
 [22] Jake Brutlag: "Speed Matters for Google Web Search," googleresearch.blogspot.co.uk, June 22, 2009.
 
@@ -2271,7 +2271,7 @@ Imagine what life would be like if you had to use an imperative approach. In Jav
 Script, using the core Document Object Model (DOM) API, the result might look
 something like this:
 
-var liElements = document.getElementsByTagName("li");
+var liElements = document.get elements by tag name("li");
 for (var i = 0; i < liElements.length; i++) {
 if (liElements[i].className === "selected") {
 var children = liElements[i].childNodes;
@@ -3090,7 +3090,7 @@ SPARQL, and Datalog. We also touched on CSS and XSL/XPath, which aren't database
 Although we have covered a lot of ground, there are still many data models left
 unmentioned. To give just a few brief examples:
 
-• Researchers working with genome data often need to perform sequencesimilarity searches, which means taking one very long string (representing a
+• Researchers working with genome data often need to perform sequence similarity searches, which means taking one very long string (representing a
 
 |
 
@@ -3126,7 +3126,7 @@ ISBN: 978-0-262-69314-1
 [5] James Phillips: "Surprises in Our NoSQL Adoption Survey," blog.couchbase.com,
 February 8, 2012.
 
-[6] Michael Wagner: SQL/XML:2006 – Evaluierung der Standardkonformität ausgewäausgewählter Datenbanksysteme. Diplomica Verlag, Hamburg,
+[6] Michael Wagner: SQL/XML:2006 – Evaluierung der Standardkonformitätät ausgewäausgewählter Datenbanksysteme. Diplomica Verlag, Hamburg,
 ISBN:
 978-3-836-64609-3
 
@@ -3954,10 +3954,10 @@ The most common type of multi-column index is called a concatenated index, which
 simply combines several fields into one key by appending one column to another (the
 index definition specifies in which order the fields are concatenated). This is like an
 old-fashioned paper phone book, which provides an index from (lastname, firstname) to phone number. Due to the sort order, the index can be used to find all the
-people with a particular last name, or all the people with a particular lastnamefirstname combination. However, the index is useless if you want to find all the people with a particular first name.
+people with a particular last name, or all the people with a particular lastname firstname combination. However, the index is useless if you want to find all the people with a particular first name.
 
 Multi-dimensional indexes are a more general way of querying several columns at
-once, which is particularly important for geospatial data. For example, a restaurantsearch website may have a database containing the latitude and longitude of each restaurant. When a user is looking at the restaurants on a map, the website needs to
+once, which is particularly important for geospatial data. For example, a restaurant search website may have a database containing the latitude and longitude of each restaurant. When a user is looking at the restaurants on a map, the website needs to
 search for all the restaurants within the rectangular map area that the user is currently viewing. This requires a two-dimensional range query like the following:
 
 SELECT * FROM restaurants WHERE latitude > 51.4946 AND latitude < 51.5079
@@ -4521,7 +4521,7 @@ get a summary that has been reduced by one dimension (the sales by product regar
 
 In general, facts often have more than two dimensions. In -9 there are five
 dimensions: date, product, store, promotion, and customer. It's a lot harder to imagine what a five-dimensional hypercube would look like, but the principle remains the
-same: each cell contains the sales for a particular date-product-store-promotioncustomer combination. These values can then repeatedly be summarized along each
+same: each cell contains the sales for a particular date-product-store-promotion customer combination. These values can then repeatedly be summarized along each
 of the dimensions.
 
 The advantage of a materialized data cube is that certain queries become very fast
@@ -5598,7 +5598,7 @@ Moreover, a server can itself be a client to another service (for example, a typ
 app server acts as client to a database). This approach is often used to decompose a
 large application into smaller services by area of functionality, such that one service
 makes a request to another when it requires some functionality or data from that
-other service. This way of building applications has traditionally been called a serviceoriented architecture (SOA), more recently refined and rebranded as microservices
+other service. This way of building applications has traditionally been called a service oriented architecture (SOA), more recently refined and rebranded as microservices
 architecture [31, 32].
 
 In some ways, services are similar to databases: they typically allow clients to submit
@@ -5973,7 +5973,7 @@ deployments be frequent.
 
 [3] "The Python 3.4.3 Standard Library Reference Manual," docs.python.org, February 2015.
 
-[4] "EsotericSoftware/kryo," github.com, October 2014.
+[4] "Esoteric Software/kryo," github.com, October 2014.
 
 [5] "CWE-502: Deserialization of Untrusted Data," Common Weakness Enumeration, cwe.mitre.org, July 30, 2014.
 

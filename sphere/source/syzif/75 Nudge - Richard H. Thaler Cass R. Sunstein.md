@@ -2616,7 +2616,7 @@ do, they become more likely to act in accordance with their answers. This
 finding can be found in many contexts. If people are asked whether they
 intend to eat certain foods, to diet, or to exercise, their answers to the
 questions will affect
-the meremeasurement effect is a nudge, and it can be used by private or public
+the mere measurement effect is a nudge, and it can be used by private or public
 nudgers.
 
 their behavior.21 In our parlance,
@@ -3495,7 +3495,7 @@ government would not regulate how much issuers could charge for services,
 but it would regulate their disclosure practices. The central goal would be to
 inform customers of every kind of fee that currently exists. This would not
 be done by printing a long unintelligible document in fine print. Instead,
-issuers would be required to make public their fee schedule in a spreadsheetlike format that would include all relevant formulas. Suppose you are
+issuers would be required to make public their fee schedule in a spreadsheet like format that would include all relevant formulas. Suppose you are
 in Toronto and your cell phone rings. How much is it going to cost you to
 answer it? What if you download some email? All these prices would be
 embedded in the formulas. This is the price disclosure part of the
@@ -4334,7 +4334,7 @@ factors. (Examples: Are you in good health? Do you plan to keep working?
 If so, how much will you make? At what age did your parents die? How old
 is your spouse? Is she working?) Then it would be possible to give some
 
-sensible advice—and possibly even a default option. (Hint to financialservice companies: build such a calculator and put it on your Web site.)
+sensible advice—and possibly even a default option. (Hint to financial service companies: build such a calculator and put it on your Web site.)
 
 Saving for retirement is something that Humans find difficult. They
 have to solve a complicated mathematical problem to know how much to
@@ -6496,7 +6496,7 @@ people navigate. Choice architects need to incorporate these lessons.
 *Stand-alone plans are commonly purchased by individuals who already
 have separate health insurance coverage through traditional Medicare, a
 pension plan, or a private employer. Joint plans are for those enrolled in
-Medicare Advantage, a special series of privately operated plans (healthmaintenance organizations [hmos], preferred-provider organizations [ppos],
+Medicare Advantage, a special series of privately operated plans (health maintenance organizations [hmos], preferred-provider organizations [ppos],
 and private fee-for-service plans) that tend to provide more benefits than the
 traditional Medicare program but limit doctor choice.
 
@@ -9398,7 +9398,7 @@ For
 8.
 
 good
-http://www.dontmesswithtexas.org/history.php.
+http://www.dont mess with texas.org/history.php.
 9. Gilovich, Medvec, and Savitsky (2000).
 10.
 
@@ -9709,7 +9709,7 @@ but
 
 see
 
-http://www.povertyactionlab.com/projects/project.php?pid = 65.
+http://www.poverty action lab.com/projects/project.php?pid = 65.
 
 3. Brown, Saunders, and Dick (1999).
 
@@ -10075,7 +10075,7 @@ Coleman, Thomas F. "The High Cost of Being Single in America; or,
 The Financial Consequences of Marital Status Discrimination."
 Unmarried
 n.d.
-http://www.unmarriedamerica.org/cost-discrimination.htm.
+http://www.unmarried america.org/cost-discrimination.htm.
 
 America
 
@@ -10117,7 +10117,7 @@ and Coverage." Health Affairs 26 (2007): w1–12.
 Cuomo, Andrew. Testimony to the U.S. House of Representatives
 and Labor, April 25, 2007.
 Committee on Education
-http://edlabor.house.gov/testimony/042507AndrewCuomotestimony.
+http://edlabor.house.gov/testimony/042507Andrew Cuomo testimony.
 pdf.
 
 Daughety, Andrew, and Jennifer Reinganum. "Stampede to Judgment."
@@ -10810,7 +10810,7 @@ and
 
 Medicare Rights Center. "Part D 2007: Addressing Access Problems
 for Low Income People with Medicare." November 2006.
-http://www.medicarerights.org/policy brief_autoreenrollment.pdf.
+http://www.medicarerights.org/policy brief_auto reenrollment.pdf.
 Mello, Michelle, and Troyen Brennan. "Deterrence of Medical Errors:
 Theory and Evidence for Malpractice Reform." Texas Law Review
 80 (2002): 1595–1637.

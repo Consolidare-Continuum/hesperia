@@ -3274,7 +3274,7 @@ working-class and poor children, for Tyrec, contacts with kin—from
 large, extended family events on weekends to informal drop-ins on weekdays—are part of the fabric of daily life. His great-grandmother, several
 aunts, cousins, and both grandmothers live close by (three of his cousins
 live "around the corner, in the next block"). Two other cousins his age
-frequently stay overnight at Tyrec's house. He often helps his greatgrandmother with household chores on the weekend; when she needs
+frequently stay overnight at Tyrec's house. He often helps his great grandmother with household chores on the weekend; when she needs
 him, Tyrec is required to assist his great-grandmother before he begins
 playing with his friends.
 
@@ -13144,7 +13144,7 @@ with the term white. In sum, this book alternates among the terms "Black,"
 "Black American," "African American," and "white," with the understanding
 that "white" here refers to the subgroup of non-Hispanic whites.
 
-2. Some readers have expressed concern that this phrase, "the accomplishment of natural growth," underemphasizes all the labor that mothers and fathers
+2. Some readers have expressed concern that this phrase, "the accomplishment of natural growth," under emphasizes all the labor that mothers and fathers
 do to take care of children. They correctly note that working-class and poor parents themselves would be unlikely to use such a term to describe the process of
 caring for children. These concerns are important. As I stress in the text (especially in the chapter on Katie Brindle, Chapter 5) it does take an enormous
 amount of work for parents, especially mothers, of all classes to take care of children. But poor and working-class mothers have fewer resources with which to

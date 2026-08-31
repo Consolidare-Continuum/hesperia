@@ -9963,7 +9963,7 @@ Anil Kumar initially turned down the offer to become a tipster in exchange for p
 the profits from illegal trading, both of which he regarded as criminal. However, he agreed to the offer when he and Rajaratnam found a way to bundle
 the corrupt money with payments for lawful consulting services, thus adding
 a semblance of legitimacy to his activities. Masking the unlawful payment
-weakened restraint over transgressive conduct but did not diminish the selfdevaluative costs. Kumar ended up viewing himself as a "reluctant felon"
+weakened restraint over transgressive conduct but did not diminish the self devaluative costs. Kumar ended up viewing himself as a "reluctant felon"
 (Lattman & Ahmed, 2011).
 
 Others traded morality for substantial payments coupled with friendship. This was the case for Rajaratnam's business-school classmate Rajiv
@@ -12082,7 +12082,7 @@ trades of our fathers have all but disappeared" (Industrial Hygiene Foundation, 
 contemporary workplaces and is often misdiagnosed and ignored in retirees
 (Rosner & Markowitz, 1991).
 
-The head of the Mellon Institute for Industrial Research, a corporatefunded research group, suggested to industry leaders that they locate research on silicosis at the institute, using it as a proxy. That would enable
+The head of the Mellon Institute for Industrial Research, a corporate funded research group, suggested to industry leaders that they locate research on silicosis at the institute, using it as a proxy. That would enable
 individual corporations to sponsor research surreptitiously, thereby avoiding
 accusations of conflict of interest:
 
@@ -12367,7 +12367,7 @@ Bandura_1e_ch06.indd 271
 
 During his presidency, Reagan remained a stalwart advocate of the death
 penalty. He portrayed crime victims as maltreated by the criminal justice
-system and extended the death penalty to drug dealers who killed drugenforcement officers. Troubled by social unrest and the perceived erosion of
+system and extended the death penalty to drug dealers who killed drug enforcement officers. Troubled by social unrest and the perceived erosion of
 "family values," working-class Democrats defected to the Republican Party.
 These "Reagan Democrats," as they were called, were progun, pro–capital
 punishment, and antiabortion. They raised their voices in support of the
@@ -15874,7 +15874,7 @@ knowledge that this war has seen fewer tragic losses of civilian life than perha
 the commander of the U.S. Central Command, downplayed reports of civilian casualties in Afghanistan on the grounds that they were impossible to
 estimate reliably: "And so all of us have opted not to do that" (Lehrer, 2002).
 When questioned about the number of Iraqi soldiers killed, he replied,
-"We don't do body counts" (Broder, 2003). In the public view, precisionguided weapons spared the innocent. Rumsfeld also minimized the physical
+"We don't do body counts" (Broder, 2003). In the public view, precision guided weapons spared the innocent. Rumsfeld also minimized the physical
 abuse and humiliation in Abu Ghraib prison by contrasting the abuses with
 beheadings: "Does it rank up there with chopping off someone's head off
 on television? It doesn't. It doesn't. Was it done as a matter of policy? No"
@@ -16541,7 +16541,7 @@ Bandura_1e_ch07.indd 363
 on social media as a recruitment device and to frighten people from resisting
 the ISIS mission.
 
-The Iraqi army did not seem to have any allegiance to the Shiitedominated regime, fleeing and leaving military equipment behind when
+The Iraqi army did not seem to have any allegiance to the Shiite dominated regime, fleeing and leaving military equipment behind when
 faced with advancing ISIS forces. Once again the United States became
 entangled in an Iraqi civil war between Sunnis and Shiites that grew in
 scope and brutality. The interminable bloodshed in Iraq came with sanitized
@@ -16966,7 +16966,7 @@ In voicing his opposition to environmental protection measures, the
 Republican presidential candidate Rick Santorum trumpeted the anthropocentric view of human exclusivity: "We were put on this Earth as
 creatures of God to have dominion over the Earth, to use it wisely and
 steward it wisely, but for our benefit not for the Earth's benefit" (Hooper,
-2012). Mainstream Catholic leaders reject conservatives' antienvironmental stance but welcome their political clout. The Catholic hierarchy's
+2012). Mainstream Catholic leaders reject conservatives' anti environmental stance but welcome their political clout. The Catholic hierarchy's
 stern rebukes of liberal Catholics who promote stewardship for a sustainable environment often have raised questions about the church's commitment to alleviating global environmental problems. In a significant
 departure, Pope Francis's encyclical Laudato si' (Praise be to you; in English, On Care for Our Common Home) calls climate change a worldwide
 problem. He condemns industrialized nations' heedless destruction of the
@@ -17072,7 +17072,7 @@ exploitive extraction from weak colonies. Their low-level technologies could
 not do much ecological harm. Any detrimental environmental effects were,
 for the most part, locally situated. It is a different story in the current era,
 with teeming populations seeking a life beyond a mere subsistence level. A
-host of developing countries with increasing economic means to adopt highconsumption standards of living are now competing vigorously for declining
+host of developing countries with increasing economic means to adopt high consumption standards of living are now competing vigorously for declining
 
 Bandura_1e_ch08.indd 376
 
@@ -18299,7 +18299,7 @@ emissions. This relationship underscores the influential role played by populati
 Another common displacement strategy is disguising responsibility
 for subverting public policies designed to protect the environment. This is
 achieved through the creation of front organizations that masquerade under
-benevolent names and conceal their real purpose (Lutz, 1996). Industryfinanced "scientific skeptics" add further credibility to the deceptive schemes
+benevolent names and conceal their real purpose (Lutz, 1996). Industry financed "scientific skeptics" add further credibility to the deceptive schemes
 (Gelbspan, 1998). Typical scenarios for the front organizations depict concerned citizens fighting big government, with its voracious appetite for laws
 and regulations that work against the public interest. If front organizations
 are cloaked in a seeming grassroots campaign, they gain an even greater
@@ -20816,7 +20816,7 @@ Bartholomew [His All-Holiness the Ecumenical Patriarch of Constantinople]. [n.d.
 
 Quotes by His All-Holiness the Ecumenical Patriarchate [sic] of Constantinople
 on peace and the environment. Spiritual Ecology. Retrieved from
-http://spiritualecology.org
+http://spiritual ecology.org
 
 Bartlett, A. A. (1994). Reflections on sustainability, population growth, and the
 
@@ -21160,7 +21160,7 @@ Mahwah, NJ: Erlbaum.
 
 Buffett, W. E. (2003, February 21). Letter to shareholders. Berkshire Hathaway.
 
-Retrieved from http://www.berkshirehathaway.com
+Retrieved from http://www.berkshire hathaway.com
 
 Bullen, C., Howe, C., Laugesen, M., McRobbie, H., Parag, V., Williman, J., &
 
@@ -21313,7 +21313,7 @@ surgeon general's report. New York: Russell Sage Foundation.
 
 Catholics for Choice (20120). The Vatican at Rio +20—What's at stake? Catholics
 
-for Choice. Retrieved from http://www.catholicsforchoice.org
+for Choice. Retrieved from http://www.catholics for choice.org
 
 CBS (1964). A review and evaluation of recent studies on the impact of violence.
 
@@ -21328,7 +21328,7 @@ Chagnon, N. (1968). Yanomamö: The fierce people. New York: Holt, Rinehart and
 Winston.
 
 Chammah, M. (2014). Six reasons the death penalty is becoming more expensive.
-The Marshall Project. Retrieved from https://www.themarshallproject.org
+The Marshall Project. Retrieved from https://www.the marshall project.org
 
 Champlin, T. S. (1977). Self-deception: A reflexive dilemma. Philosophy, 52,
 
@@ -21455,7 +21455,7 @@ Confessore, N., Cooper, M., & Luo, M. (2012, December 18). Silent since shooting
 N.R.A. could face challenge to political power. The New York Times, p. A25.
 Cook, J. (2015). Global warming & climate change myths. Skeptical Science.
 
-Retrieved from https://www.skepticalscience.com
+Retrieved from https://www.skeptical science.com
 
 Bandura_1e_Ref.indd 12
 
@@ -21690,7 +21690,7 @@ Doomsday Flight: Serling regrets movie script. (1971). Palo Alto Times, p. 5.
 Dougherty, D. (2014, April 3). Keating's techniques were replicated by those who
 
 helped trigger the 2008 financial collapse. Phoenix New Times. Retrieved from
-http://www.phoenixnewtimes.com
+http://www.phoenix new times.com
 
 Drape, J. (2012, June 22). Sandusky convicted of sexual abuse of 10 young boys.
 
@@ -21705,7 +21705,7 @@ York Times, p. A1.
 
 Duca, J. V. (2013, November 22). Subprime mortgage crisis. Federal Reserve
 
-History. Retrieved from http://www.federalreservehistory.org
+History. Retrieved from http://www.federal reserve history.org
 
 Dugger, C. W. (2007, September 12). As prices soar, U.S. food aid is buying less. The
 
@@ -22103,7 +22103,7 @@ Germany, Brazil to propose anti-spying resolution at UN. (2013, October 25).
 Reuters. Retrieved from http://www.reuters.com
 
 Germany, K. B. (2010). Lyndon B. Johnson and civil rights: Introduction to the
-digital edition. Retrieved from http://presidentialrecordings.rotunda.upress
+digital edition. Retrieved from http://presidential recordings.rotunda.upress
 .virginia.edu
 
 Gertner, J. (2010, May 13). The rise and fall of the G.D.P. The New York Times
@@ -22615,7 +22615,7 @@ Hong, M. K., & Bero, L. A. (2002). How the tobacco industry responded to an infl
 Hooper, T. (2012, February 6). Santorum and Gingrich dismiss climate change,
 
 vow to dismantle the EPA. Colorado Independent. Retrieved from
-http://www.coloradoindependent.com
+http://www.colorado independent.com
 
 Hoover, K. (1994). Pro-smoking initiative on the ballot. San Francisco Chronicle, p.1.
 Horn, A. (2012, November 2). Was Hurricane Sandy a sign of the "new normal"?
@@ -22752,7 +22752,7 @@ Jennings, N. (2013, January 10). NRA "disappointed" by meeting with Biden. The
 John, S. (2015, July 11). World Population Day 2015: Top 10 inspirational quotes
 
 from famous personalities. International Business Times. Retrieved from
-http://www.ibtimes.co.uk/world-population-day-2015-top-10-inspirationalquotes-famous-personalities-1510371
+http://www.ibtimes.co.uk/world-population-day-2015-top-10-inspirational quotes-famous-personalities-1510371
 
 Johnson, B. (2011, December 5). Inhofe: Calling climate change "the greatest
 hoax ever" is "doing the Lord's work." Think Progress. Retrieved from

@@ -2373,7 +2373,7 @@ woods, and eat well. Every day, after we'd spent our mornings pondering life, sc
 reason for it all, we enjoyed a delectable lunch: say, duck breast served with polenta and glazed
 mushroom caps. Each lunch menu was accompanied by a wonderful dessert: ice cream, crème brûlée,
 New York cheesecake, triple chocolate cake with raspberry-crème filling. It was torturous,
-particularly for poor Dan, who had a powerful sweet tooth. Being a smart, rational, cholesterolically
+particularly for poor Dan, who had a powerful sweet tooth. Being a smart, rational, cholesterolically challenged
 challenged economist, Dan wanted dessert, but he also understood that eating dessert daily is not
 advisable.
 
@@ -4458,7 +4458,7 @@ or connected to the thesis of the paper. Of the many literary affronts, we found
 
 gems:
 
-Cheating by healers. Healing is different. There is harmless healing, when healerscheaters and wizards offer omens, lapels, damage to withdraw, the husband-wife back and
+Cheating by healers. Healing is different. There is harmless healing, when healers cheaters and wizards offer omens, lapels, damage to withdraw, the husband-wife back and
 
 stuff. We read in the newspaper and just smile. But these days fewer people believe in
 
@@ -4889,7 +4889,7 @@ their patients, they also more frequently recommend procedures that are in their
 financial interest. And long-term patients, for their part, are more likely to accept the
 dentist's advice based on the trust that their relationship has engendered.*
 
-The bottom line: there are clearly many benefits to continuity of care and ongoing patientprovider relationships. Yet, at the same time, we should also be aware of the costs these longterm relationships can have.
+The bottom line: there are clearly many benefits to continuity of care and ongoing patient provider relationships. Yet, at the same time, we should also be aware of the costs these longterm relationships can have.
 
 HERE'S WHAT WE'VE learned about collaborative cheating so far:
 

@@ -1591,7 +1591,7 @@ energy use and supply, global financial markets, the information
 revolution, advances in biotechnology, the future of NATO, ethnic
 conflicts and failing states, and difficulties with Russia and China.
 
-This need for a dramatic redesign of the United States' securityoriented institutional structures and processes became even more
+This need for a dramatic redesign of the United States' security oriented institutional structures and processes became even more
 important following the September 11, 2001, attacks. One analysis,
 the Princeton Project on National Security, succinctly described the
 situation: "While the Bush administration's 2002 National Security
@@ -2866,7 +2866,7 @@ inspires people to sacrifice (change) for the good of the organization,
 and (3) empowers people to accomplish the vision. Some experts
 place more emphasis on the moral qualities of the leader, others on
 commitment, and others on the leader being intellectually stimulating.
-This conceptual scheme has been hugely popular with collegeeducated people who have to manage other college-educated
+This conceptual scheme has been hugely popular with college educated people who have to manage other college-educated
 people. It satisfies their sense that organizations should somehow be
 forced to change and improve while also satisfying their contradictory
 sense that it is awkward to tell other people what to do.
@@ -2959,7 +2959,7 @@ Strategies:
 
 Fill in some aspirations/goals but call them strategies.
 For example, Dow's corporate strategies are
-"Preferentially invest in a portfolio of technologyintegrated, market-driven performance businesses that
+"Preferentially invest in a portfolio of technology integrated, market-driven performance businesses that
 create value for our shareholders and growth for our
 customers. Manage a portfolio of asset-integrated
 building block businesses to generate value for our
@@ -5632,7 +5632,7 @@ wielding a tightly coordinated competitive strategy.
 
 In our longing for immortality, we ask that these strategic upstarts
 
-extend their success forever—the aging businessperson's quixotic
+extend their success forever—the aging business person's quixotic
 search for sustained competitive advantage. But the incumbent laxity
 and inertia that gave these upstarts their openings applies to them as
 well. In time, most will loosen their tight integration and begin to rely
@@ -6976,7 +6976,7 @@ brand.
 
 Mark Zoradi's three guidelines are intended to help the company
 
-extend the Disney brand into the increasingly successful actionadventure genre without damaging the brand's value in its more
+extend the Disney brand into the increasingly successful action adventure genre without damaging the brand's value in its more
 traditional sector.
 
 Creating Higher Demand
@@ -11854,7 +11854,7 @@ head of the DOD's Office of Program Analysis and Evaluation.
 
 Planning for U.S. National Security: A Project Solarium for the
 21st Century," Princeton Project on National Security, 2005, 1,
-http://www.princeton.edu/~ppns/papers/interagencyQNSR.pdf.
+http://www.princeton.edu/~ppns/papers/interagency QNSR.pdf.
 
 3. Barry D. Watts, "Why Strategy? The Case for Taking It
 Seriously and Doing It Well," Center for Strategic and

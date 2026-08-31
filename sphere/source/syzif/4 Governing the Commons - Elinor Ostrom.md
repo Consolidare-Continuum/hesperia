@@ -8439,7 +8439,7 @@ panicipation of villagers from all walks of life in village governance and the
 consequent organizational skills that exist at the village level.
 lQ Many Muslims remained for a long time in the territories recaptured by the
 Spanish crown. As individual Muslim families departed, their land and homesteads were granted to Spanish families. Considerable effon was expended to
-determine how the irrigation systems worked and to maintain the waterdistribution procedures as they had operated prior to the reconquest. In 1244,
+determine how the irrigation systems worked and to maintain the water distribution procedures as they had operated prior to the reconquest. In 1244,
 for example, Don Peregrin, one of the knights of James I, ordered several
 Muslims who had been irrigation officials before the reconquest to appear and
 "take an oath on pain of their persons and goods" to "tell the truth about the
@@ -9259,7 +9259,7 @@ that they remain in effect until changed helps to clarify the final choice made
 in these situations at any particular time. That a set of status quo rules will stay
 in effect until changed also stabilizes the structure of operational situations. A
 new set of rules must be perceived as generating more benefits than costs to at
-least a minimum winning coalition (whatever that may be) in an institutionalchoice situation.
+least a minimum winning coalition (whatever that may be) in an institutional choice situation.
 6 This list is the result of my effon to understand what I have read in many case
 studies at a more general level. I presume that this list will be refined over time
 
@@ -10018,7 +10018,7 @@ Netting, R. McC. 1981. Balancing on an Alp. Cambridge University Press.
 Netting, R. McC. 1982. Territory, Property, and Tenure. In Behavioral and Social
 Science Research: A National Resource, eds. R. McC. Adams, N. J. Smelser, and
 D. J. Treiman, pp. 446-501. Washington, D.C.: National Academy Press.
-Niederer, A. 1956. Gemeinwerk im Walis: Bruerliche Geminschaftsarbeit in Vergangenheit and Gegenwart. Basel: G. Krebs.
+Niederer, A. 1956. Gemeinwerk im Walis: Bruerliche Gemeinschafts arbeit in Vergangenheit and Gegenwart. Basel: G. Krebs.
 Niskanen, W. 1971. Bureaucracy and Representative Government. Chicago: Aldine-Atherton.
 Nitzan, S., and E. Ostrom. 1989. The Nature and Severity of Inefficiency in
 Voluntary Provision of Mixed Public Goods. Bloomington: Indiana University,
@@ -10084,7 +10084,7 @@ Ecology. In The Global Predicament. Ecological Perspectives on World Order,
 eds. D. W. Orr and M. S. Soros, pp. 457-69. Chapel Hill: University of Nonh
 
 Carolina Press.
-Ostrom, E. 1965. Public Enterpreneurship: A Case Study in Ground Water Management. Ph.D. dis.'dissertation, University of California at Los Angeles.
+Ostrom, E. 1965. Public Entrepreneurship: A Case Study in Ground Water Management. Ph.D. dis.'dissertation, University of California at Los Angeles.
 Ostrom, E. 1985a. Are Successful Efforts to Manage Common-Pool Problems a
 Challenge to the Theories of Garrett Hardin and Mancur Olson? Working
 paper, Workshop in Political Theory and Policy Analysis, Indiana University.
@@ -10166,7 +10166,7 @@ Journal of lAw and Economics 23:1-53.
 Powers. R. B. 1987. Bringing the Commons into a Large University Classroom.
 
 Simulation and Games 18:443-57.
-Pradhan, P.P. 1980. Loeallnstitutions and People's Participation in Rural Public
+Pradhan, P.P. 1980. Local institutions and People's Participation in Rural Public
 Works in Nepal. Ithaca, N.Y.: Cornell University, Rural Development Committee.
 Pradhan, P. P. 1984. Chattis Mauja Irrigation System: Community Response in
 Resource Management. Paper for Social Science Research Council-Indian Institute of Management, Bangalore Seminar, January 4-7.
@@ -10238,7 +10238,7 @@ Schaaf, J. 1989. Governing a Monopoly Market Under Siege: Using Institutional
 Analysis to Understand Competitive Entry into Telecommunications Markets,
 1944-1982. Ph.D. dissertation, Indiana University.
 Scharpf, F. W. 1985. Ideological Conflict on the Public-Private Frontier: Some
-Exploratory Notes. Working paper, Wissenschftszentrum, Berlin.
+Exploratory Notes. Working paper, Wissenschaftszentrum, Berlin.
 Scharpf, F. W. 1987. A Game-Theoretical Explanation of Inflation and Unemployment in Western Europe. journal of Public Policy 7:227-58.
 Scharpf, F. W. 1988. The Joint Decision Trap: Lessons from German Federalism
 and European Integration. Public Administration 66:239-78.

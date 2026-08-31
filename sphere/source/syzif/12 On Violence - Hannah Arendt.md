@@ -1494,7 +1494,7 @@ of power-that is, on the organized sol idarity of the masters.73 Single men with
 
 taking place when .
 . everyone looks particularly good humoured,"
-but this is what usually happens in the beginning of revolutionsduring the early great ecstasy of fraternity.
+but this is what usually happens in the beginning of revolutions during the early great ecstasy of fraternity.
 
 .
 
@@ -1516,7 +1516,7 @@ the means of violence can become hel pless if confronted
 with an ill-equipped but well-organized opponent who is
 much more powerful . This lesson, to be sure, was there to
 be learned from the history of guerrilla warfare, which is
-at least as old as the defeat in Spain of Napoleon's stillunvanquished army.
+at least as old as the defeat in Spain of Napoleon's still unvanquished army.
 
 To switch for a moment to conceptual language: Power
 is indeed of the essence of all government, but violence is
@@ -1867,7 +1867,7 @@ precisely what the psychiatrists and polemologists concerned with human aggressi
 corresponds, alas, to certain moods and unreflecting attitudes in society at large. We all know, for example, that
 
 84 I am paraphrasing a sentence of Noam Chomsky (op. cit., p. 37 1),
-who is very good in exposing the "fa(fade of toughmindedness and
+who is very good in exposing the "fa(fade of tough mindedness and
 pseudoscience" and the intellectual "vacuity" behind it, especially
 in the debates about the war in Vietnam.
 
@@ -2430,7 +2430,7 @@ possible in discussing the German situation.
 
 Finally-to come back to Sorel 's and Pareto's earlier
 denunciation of the system as such-the greater the bu·
-reaucratization of public life, the greater will be the attraction of violence. In a fully developed bureaucracy}
+bureaucratization of public life, the greater will be the attraction of violence. In a fully developed bureaucracy}
 there is nobody left with whom one can argue, to whom
 one can present grievances, on whom the pressures of
 power can be exerted. Bureaucracy is the form of government in which everybody is deprived of political freedom,
@@ -2690,7 +2690,7 @@ departure is that "need and scarcity determined the Manicheistic
 basis of action and morals" in present history, "whose truth is based
 on scarcity [and] must manifest itself in an antagonistic reciprocity
 between classes." Aggression is the consequence of need in a world
-where "there is not enough for all." Under such circumstances, violence is no longer a marginal phenomenon. "Violence and counterviolence are perhaps conti ngencies, but they are contingent necessities, and the imperative consequence of any attempt to destroy this
+where "there is not enough for all." Under such circumstances, violence is no longer a marginal phenomenon. "Violence and counter violence are perhaps conti ngencies, but they are contingent necessities, and the imperative consequence of any attempt to destroy this
 inhumanity is that in destroying in the adversary the inhumanity of
 the contraman, I can only destroy in him the humanity of man, and
 realize in me his inhumanity. Whether I kill, torture, enslave .

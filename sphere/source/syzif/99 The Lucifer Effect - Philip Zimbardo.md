@@ -801,7 +801,7 @@ ture, in which are now centered the effective means of power and the
 wealth and celebrity which they enjoy.10
 
 As the interests of these diverse power brokers coalesce, they come to de
-fine our reality in ways that George Orwell prophesied in 1984. The militarycorporate-religious complex is the ultimate megasystem controlling much of the
+fine our reality in ways that George Orwell prophesied in 1984. The military corporate-religious complex is the ultimate megasystem controlling much of the
 resources and quality of life of many Americans today.
 
 It is when power is wedded to chronic fear that it becomes
@@ -5201,7 +5201,7 @@ oners learn to handle it."
 As we walk off the Yard, down the hall to my office, the priest tells me that the
 study is working like a real prison and specifically that he is seeing the typical
 "first-offender syndrome"—one filled with confusion, irritability, rage, depres
-sion, and overemotionalization. He assures me that such reactions change after a
+sion, and over emotionalization. He assures me that such reactions change after a
 
 week or so because it does not aid a prisoner's survival to be so effeminate. He
 adds that he thinks this situation is more real for 819 than the boy is willing to
@@ -8624,7 +8624,7 @@ back into his cell and forced to "make love" to his dinner sausages. Ceros order
 him to caress them, to hug them, and then to kiss them. Clay-416 does all that.
 Yet he is true to his word and never eats a single bite of them.
 
-Guard Vandy is upset at 416's defiance and also at his buddy's meanspiritedness. In his retrospective diary, Vandy said, "When 416 refused to eat I was once
+Guard Vandy is upset at 416's defiance and also at his buddy's mean spiritedness. In his retrospective diary, Vandy said, "When 416 refused to eat I was once
 again angered specifically, since there was no way to force the food down his
 throat, even though we let some other prisoners try. Andre [Ceros] made the pris
 oner hug and kiss and caress a day-old sausage after being made to sleep with it. I
@@ -9596,7 +9596,7 @@ As with the rare "good guards," so too, a few prisoners were able to stand up
 to the guards' domination. As we have seen, Clay-416, who should have been
 supported for his heroic passive resistance, instead was harassed by his fellow
 prisoners for being a "troublemaker." They adopted the narrow dispositional per
-spective provided by the guards rather than generate their own metaperspective
+spective provided by the guards rather than generate their own meta perspective
 on Clay's hunger strike as emblematic of a path for their communal resistance
 against blind obedience to authority.
 
@@ -9758,7 +9758,7 @@ guard. Packaged together, that syndrome characterizes the coolly efficient, me
 chanical, and detached behavior he showed throughout the study.
 
 While these findings suggest that personality measures do predict behavioral
-differences in some individual cases, we need to be cautious in overgeneralizing
+differences in some individual cases, we need to be cautious in over generalizing
 their utility in understanding individual behavior patterns in novel settings, such
 as this one. For example, based on all the measures we examined, Jerry-5486 was
 the most "supranormal" of the prisoners. However, second in line with person
@@ -10244,7 +10244,7 @@ causal attribution:
 
 We quickly seized on an explanation that felt as natural as it was
 reassuring—he must have broken down because he was weak or had
-some kind of defect in his personality that accounted for his oversensitivity
+some kind of defect in his personality that accounted for his over sensitivity
 and overreaction to the simulated prison conditions! In fact, we worried
 that there had been a flaw in our screening process that had allowed a
 "damaged" person somehow to slip through undetected. It was only later
@@ -12791,7 +12791,7 @@ When studying institutions, it also becomes apparent that time perspective
 
 plays a powerful, hidden role in shaping the minds of the those who become "in
 
-stitutionalized," whether in prisons, homes for the aged, or chronic care hospitals
+institutionalized," whether in prisons, homes for the aged, or chronic care hospitals
 
 tals. Endless routines and undifferentiated daily activities create a seeming
 
@@ -19126,7 +19126,7 @@ Other prisoners looked horrified as they seemed on the verge of being attacked b
 
 vicious-looking German shepherd dogs. On and on they went, like a pornographic
 
-slide show: naked prisoners were made to masturbate in front of a cigarettesmoking female soldier who stood giving a high-five approval salute; prisoners
+slide show: naked prisoners were made to masturbate in front of a cigarette smoking female soldier who stood giving a high-five approval salute; prisoners
 
 were made to simulate fellatio.
 
@@ -20211,7 +20211,7 @@ he has made up his mind. He does not like to be alone: he likes to be around oth
 
 ers, and he becomes depressed when he is alone for any length of time.
 
-Some of my research on shyness provides empirical support for this shynessconformity link. We have found that shy college students were likely to give in to
+Some of my research on shyness provides empirical support for this shyness conformity link. We have found that shy college students were likely to give in to
 
 and agree with others whose opinions were discrepant from their own when they
 
@@ -20991,7 +20991,7 @@ Corporation, who did the interrogation of those detainees suspected of having in
 
 formation about insurgency activities or knowledge of terrorist activities. They
 
-often required translators to assist them in their interactions with the detaineesuspects. FBI, CIA, and military intelligence personnel were also around at times
+often required translators to assist them in their interactions with the detainees suspects. FBI, CIA, and military intelligence personnel were also around at times
 
 for special interrogations.
 
@@ -26437,7 +26437,7 @@ A lot of frustration arose from expending so much effort for so few solid
 
 4 20
 
-results. That frustration also led to a lot of aggression, as the old frustrationaggression hypothesis would predict. Time was running; the insurgency was
+results. That frustration also led to a lot of aggression, as the old frustration aggression hypothesis would predict. Time was running; the insurgency was
 
 growing; pressure was building from the military commanders, who were feeling
 
@@ -29356,7 +29356,7 @@ from venal sins and small transgressions, such as cheating, lying, gossiping,
 
 spreading rumors, laughing at racist or sexist jokes, teasing, and bullying. They
 
-can become stepping-stones to more serious falls from grace. They serve as minifacilitators for thinking and acting destructively against your fellow creatures.
+can become stepping-stones to more serious falls from grace. They serve as mini facilitators for thinking and acting destructively against your fellow creatures.
 
 Second, moderate your in-group biases. That means accepting that your group is
 
@@ -32477,7 +32477,7 @@ I recently explored these themes in my acceptance speech for the Havel Foundatio
 97 Award that I received on October 5 , 2 0 0 5, on the birthday of Vaclav Havel, former pres
 ident of the Czech Republic and its heroic revolutionary leader. See Philip G. Zimbardo,
 "Liberation Psychology in a Time of Terror," Prague: Havel Foundation, 2 0 0 5. Online:
-www.zimbardo.com.havelawardlecture.pdf.
+www.zimbardo.com.havel award lecture.pdf.
 
 22. Rabindranath Tagore, Stray Birds (London: Macmillan, 1 9 1 6 ), p. 2 4.
 
@@ -33598,7 +33598,7 @@ Justice Conference, Washington. DC, October 2 0 0 4; Ariel Merari, "Israel Facin
 Israel Affairs 11 (2005): 2 2 3 - 3 7; Ariel Merari, "Suicidal Terrorism," in Assessment, Treat
 ment and Prevention of Suicidal Behavior, eds. R. I. Yufit and D. Lester (New York: Wiley, 2 0 0 5 ).
 5 0. M. Sageman, "Understanding Terrorist Networks," November 1, 2 0 0 4, available at
-www.fpri.org/enotes/20041101.middleeast.sageman.understandingterrornetworks
+www.fpri.org/enotes/20041101.middleeast.sageman.understanding terror networks
 .html. Also see M. Shermer, "Murdercide: Science Unravels the Myth of Suicide Bombers,"
 Scientific American, January 2 0 0 6, p. 33; A. B. Krueger, "Poverty Doesn't Create Terror
 ists," The New York Times, May 2 9, 2 0 0 3.
@@ -34151,7 +34151,7 @@ www.nowthatsfuckedup.com/bbs/ftopic41640.html.)
 
 56. www.armenocide.am.
 57. For more on Teddy Roosevelt's trophy photos with his son Kermit, see "On Safari with
-Theodore Roosevelt, 1 9 0 9 ," available at www.eyewitnesstohistory.com/tr/htm. Interest-
+Theodore Roosevelt, 1 9 0 9 ," available at www.eyewitness to history.com/tr/htm. Interest-
 
 ingly, although the expedition was billed as "collecting" a variety of animal species, it was
 actually a hunt-and-kill safari in which 512 animals were slain, among them 17 lions, 11
@@ -34250,7 +34250,7 @@ tices. Those guilty of administrative evil may be corporations, police and corre
 partments, or military and government centers, as well as radical revolutionary groups.
 
 As we saw some forty years ago in the calculated approach of Robert McNamara
-to the war in Vietnam, reliance on a scientific-analytic mind-set along with a technicalrational-legalistic approach to social and political problems enables an organization and its
+to the war in Vietnam, reliance on a scientific-analytic mind-set along with a technical rational-legalistic approach to social and political problems enables an organization and its
 members to engage in evil that is masked and ethically hidden. In one of its manifestations,
 the State sanctions its agents' engagement in actions ordinarily considered immoral, ille
 gal, and evil by recasting them as necessary for the defense of national security. Just as the

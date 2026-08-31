@@ -1271,7 +1271,7 @@ the unqualified term discontinuity, as used by Giovanni Dosi (see "Technological
 Technological Trajectories," Research Policy [11] 1982), Michael L. Tushman and Philip Anderson
 (see "Technological Discontinuities and Organizational Environments," Administrative Science
 Quarterly [31], 1986), and others. The innovations in head and disk technology described in .4
-represent positive discontinuities in an established technological trajectory, while the trajectorydisrupting technologies charted in .7 represent negative discontinuities. As will be shown
+represent positive discontinuities in an established technological trajectory, while the trajectory disrupting technologies charted in .7 represent negative discontinuities. As will be shown
 below, established firms seemed quite capable of leading the industry over positive discontinuities, but
 generally lost their industry lead when faced with negative discontinuities.
 8. This tendency consistently appears across a range of industries. Richard S. Rosenbloom and Clayton
@@ -1280,7 +1280,7 @@ Commitments," Industrial and Corporate Change [3], 1994, 655–685) suggest a mu
 industries in which leading firms may have been toppled by technologically straightforward disruptive
 innovations than is covered in this book.
 9. A summary of the data and procedures used to generate .7 is included in Appendix 1.1.
-10. The minicomputer market was not new in 1978, but it was a new application for Winchestertechnology disk drives.
+10. The minicomputer market was not new in 1978, but it was a new application for Winchester technology disk drives.
 11. This statement applies only to independent drive makers competing in the OEM market. Some of
 the vertically integrated computer makers, such as IBM, have survived across these generations with
 the benefit of a captive internal market. Even IBM, however, addressed the sequence of different
@@ -1290,7 +1290,7 @@ division in Rochester, MN, focused on mid-range computers and workstations. IBM 
 organization in Fujisawa, Japan, to produce drives for the desktop personal computer market.
 12. This result is very different from that observed by Rebecca M. Henderson (see The Failure of
 Established Firms in the Face of Technological Change: A Study of the Semiconductor
-Photolithographic Alignment Industry, dissertation, Harvard University, 1988), who found the newarchitecture aligners produced by the established manufacturers to be inferior in performance to those
+Photolithographic Alignment Industry, dissertation, Harvard University, 1988), who found the new architecture aligners produced by the established manufacturers to be inferior in performance to those
 produced by entrant firms. One possible reason for these different results is that the successful entrants
 in the photolithographic aligner industry studied by Henderson brought to the new product a welldeveloped body of technological knowledge and experience developed and refined in other markets. In
 the case studied here, none of the entrants brought such well-developed knowledge with them. Most, in
@@ -2487,7 +2487,7 @@ innovations is consistent with Professor Eric von Hippel's findings; see The Sou
 (New York: Oxford University Press, 1988).
 5. The companies that survived the invasion of hydraulics in this way found safe haven in a particular
 high-end market. Bucyrus Erie and Marion, for example, became the dominant makers of the huge
-stripping shovels used in strip mines. Marion's model 6360 stripping shovel was the largest frontwardscooping shovel ever built, able to heft 180 cubic yards in its bucket. (An advertisement showing Paul
+stripping shovels used in strip mines. Marion's model 6360 stripping shovel was the largest frontward scooping shovel ever built, able to heft 180 cubic yards in its bucket. (An advertisement showing Paul
 Bunyan standing aside the 6360 is one of the most stunning pieces of advertising art I have seen.)
 Harnischfeger is the world's largest maker of electric mining shovels, while Unit found a niche making
 the huge pedestal cranes used on offshore oil rigs. For a time, Northwest survived by making draglines

@@ -212,7 +212,7 @@ Entitlement relations accepted in a private ownership market economy typically i
 
 resources, or resources hired from willing parties meeting the agreed conditions of trade;
 
-(3) own-labour entitlement: one is entitled to one's own labour power, and thus to the trade-based and productionbased entitlements related to one's labour power;
+(3) own-labour entitlement: one is entitled to one's own labour power, and thus to the trade-based and production based entitlements related to one's labour power;
 
 (4) inheritance and transfer entitlement: one is entitled to own what is willingly given to one by another who legitimately
 
@@ -763,7 +763,7 @@ the poverty line?
 
 I would submit that the 'policy definition' is based on a fundamental confusion. It is certainly true that with economic
 development there are changes in the notion of what counts as deprivation and poverty, and there are changes also in
-the ideas as to what should be done. But while these two types of changes are interdependent and also intertemporally
+the ideas as to what should be done. But while these two types of changes are interdependent and also inter temporally
 correlated with each other, neither can be defined entirely in terms of the other. Oil-rich Kuwait may be 'more able to
 support their dependent citizens' with its new prosperity, but the notion of what is poverty may not go up immediately
 to the corresponding level. Similarly, the war-devastated Netherlands may keep up its standard of what counts as
@@ -1023,7 +1023,7 @@ alternatively, to convert the families into 'equivalent households'.42
 There tends to be a lot of arbitrariness in any such conversion. Much depends on the exact consumption pattern of the
 people involved, which varies from family to family and with age composition. Indeed, both the minimum needs of
 children as well as variations of consumption behaviour of families with variations of the number and age composition
-of children are complex fields for empirical investigation. The question of maldistribution within the family is also an
+of children are complex fields for empirical investigation. The question of mal distribution within the family is also an
 important issue requiring a good deal more attention than it has received so far.
 
 There are also different bases for deriving appropriate equivalence of needs.43 One approach is to take the nutritional
@@ -1425,7 +1425,7 @@ Famines can strike even when regular starvation is on firm decline.
 The food crisis of 1972 is a global example of this time contrast. Colin Tudge (1977) describes the development in
 dramatic terms:
 
-The 1960s brought good harvests, augmented by the Third World's 'green revolution', based on Americandeveloped dwarf strains of wheat and rice. The world's food problem was not shortage, apparently, but overproduction, leading to low prices and agricultural depression. The US took land out of production, and in the early
+The 1960s brought good harvests, augmented by the Third World's 'green revolution', based on American developed dwarf strains of wheat and rice. The world's food problem was not shortage, apparently, but overproduction, leading to low prices and agricultural depression. The US took land out of production, and in the early
 1970s both the US and Canada ran down their grain stores. Then the bad weather of 1972 brought dismal harvests
 to the USSR, China, India, Australia and the Sahel countries south of Sahara. Russia bought massively in the world
 grain markets before others, including the US, realized what was happening. By mid-1974 there was only enough
@@ -2009,7 +2009,7 @@ Bengal' provides the
 
 standard explanation of the famine. As Blyn notes in his authoritative account of 'agricultural trends in India' (1966),
 referring to the Report of the Famine Inquiry Commission and to the Census of India 1951:97 'In 1942–43 cyclones and
-floods reduced the Bengal rice crop by about a third; this, coupled with the absence of exports from Japanesecontrolled Burma, and inadequate relief, led to famines, epidemics (malaria, cholera and smallpox), aggravated by
+floods reduced the Bengal rice crop by about a third; this, coupled with the absence of exports from Japanese controlled Burma, and inadequate relief, led to famines, epidemics (malaria, cholera and smallpox), aggravated by
 widespread starvation' (p. 98).
 
 But is this explanation really supported by the facts—even by data to be found in the body of the Report of the Famine
@@ -5226,7 +5226,7 @@ guarantee schemes, can be considered in this context.
 
 But social security is not the only aspect of the problem. It is important to recognize the long-run changes in the
 Sahelian economy that have made the population of the dry Sahel region more vulnerable to droughts. One factor that
-has been noted is the increased vulnerability arising from the growing commericialization of the Sahelian economy.227
+has been noted is the increased vulnerability arising from the growing commercialization of the Sahelian economy.227
 As the Sahelian population has become more dependent on cash crops, there has been an increased dependence on
 markets for meeting its food requirements, and this has tended to supplement the variability arising from climatic
 fluctuations.228 In the light of the analysis of variation of entitlement relations with which this book has been much
@@ -6240,7 +6240,7 @@ The entitlement ratio fell by 58 per cent in Rangpur and Sylhet and by 70 per ce
 of decline in the entitlement to rice, labourers would be pushed firmly towards starvation and death. The over-all
 picture for all districts considered is a bit muddier, even though the rank correlation coefficient, while not high (.32), is
 positive and significant, and contrasts sharply with the significantly negative results we obtained with various versions
-of the FAD approach. The exchange entitlement approach—applied in the simple form of only looking at riceentitlement of wages—already provides a good bit of the explanation of destitution, even though it leaves room for
+of the FAD approach. The exchange entitlement approach—applied in the simple form of only looking at rice entitlement of wages—already provides a good bit of the explanation of destitution, even though it leaves room for
 other factors to be brought in.252
 
 Finally, the share of langarkhana destitutes accounted for by the three top-ranked states in terms of rice-entitlement
@@ -6417,7 +6417,7 @@ depends. The focus on population and food supply would have been innocuous but f
 realities that determine who can command how much food.
 
 Bangladesh remains a traditional rural economy in many significant respects. Nearly three-quarters of its population
-live on agriculture and about 90 per cent live in rural areas.257 Yet the economic organization is not one of marketindependent peasant agriculture. About a quarter of the rural population survive by exchanging labour at market wages
+live on agriculture and about 90 per cent live in rural areas.257 Yet the economic organization is not one of market independent peasant agriculture. About a quarter of the rural population survive by exchanging labour at market wages
 and commanding food with what they earn. For them a variation of the exchange relationships can spell ruin. There is,
 in fact, some evidence that in recent years in Bangladesh the wage system itself has moved more towards money wages,
 away from payments in kind—chiefly food.258 More modern, perhaps; more vulnerable, certainly.
@@ -6931,7 +6931,7 @@ affected population when what is required is the generation of food entitlement.
 Finally, the focus on entitlement has the effect of emphasizing
 
 286 When the fast progressing groups are themselves poor, the development of the famine may be accompanied by a reduction in the number of people below some general
-'poverty line', leading to a recorded reduction of poverty as it is conventionally measured, i.e. in terms of head-count ratio. The problem is less acute with distributionsensitive measures of poverty. See Appendix C.
+'poverty line', leading to a recorded reduction of poverty as it is conventionally measured, i.e. in terms of head-count ratio. The problem is less acute with distribution sensitive measures of poverty. See Appendix C.
 
 legal rights. Other relevant factors, for example market forces, can be seen as operating through a system of legal
 relations (ownership rights, contractual obligations, legal exchanges, etc.). The law stands between food availability and
@@ -7104,7 +7104,7 @@ as well.
 EXCHANGE ENTITLEMENT
 
 any equilibrium' (p. 59).289 But this is a very exacting assumption, and is violated by most of humanity in modern
-societies. While a peasant with his own land and other resources needed to grow food may indeed have tradeindependent security, an industrial worker with only his labour power to sell clearly does not. Nor would even the
+societies. While a peasant with his own land and other resources needed to grow food may indeed have trade independent security, an industrial worker with only his labour power to sell clearly does not. Nor would even the
 industrial capitalist, unless he happens to keep a large stock of food, since the strength of his position in terms of
 command over food arises from exchange and not from direct holding or of own-production entitlement.
 
@@ -8087,7 +8087,7 @@ the poverty line may still be among the relatively richer in the censured distri
 the mean and the median of that distribution. A reduction of his income will in an obvious sense reduce the extent of
 inequality in the censured distribution, but in an equally obvious sense the community must now be having more—not
 less—poverty. So the simplicity of the formulae used by Takayama (1979) and Hamada and Takayama (1978) is
-achieved at some real cost—to wit, dropping the monotonic relation between the poverty measure and vectordominance of deprivation of the poor.
+achieved at some real cost—to wit, dropping the monotonic relation between the poverty measure and vector dominance of deprivation of the poor.
 
 While P has certain unique advantages, which its axiomatization brings out, several of the variants are certainly
 permissible interpretations of the common conception of poverty.311 There is nothing defeatist or astonishing in the

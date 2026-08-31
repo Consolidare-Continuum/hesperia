@@ -999,7 +999,7 @@ formed and becomes entangled with the practice of the power to
 punish.
 
 This book is intended as a correlative history of the modern soul
-and of a new power to judge; a genealogy of the present scientificolegal complex from which the power to punish derives its bases,
+and of a new power to judge; a genealogy of the present scientific legal complex from which the power to punish derives its bases,
 justifications and rules, from which it extends its effects and by which
 it masks its exorbitant singularity.
 
@@ -1269,7 +1269,7 @@ methods of punishment, supervision and constraint. This real, noncorporal soul i
 articulated the effects of a certain type of power and the reference
 of a certain type of knowledge, the machinery by which the power
 relations give rise to a possible corpus of knowledge, and knowledge
-extends and reinforces the effects of this power. On this realityreference, various concepts have been constructed and domains of
+extends and reinforces the effects of this power. On this reality reference, various concepts have been constructed and domains of
 analysis carved out: psyche, subjectivity, personality, consciousness,
 
 etc.; on it have been built scientific techniques and discourses,
@@ -3709,7 +3709,7 @@ standpoint of the economy of the power to punish, and of the
 techniques by which one wishes to circulate throughout the social
 body precisely calibrated signs of punishment, with neither excesses
 nor loopholes, with neither a useless 'expenditure' of power nor with
-timidity, it becomes evident that the codification of the offencespunishments system and the modulation of the criminal-punishment dyad go side by side, each requiring the other. Individualization appears as the ultimate aim of a precisely adapted code.
+timidity, it becomes evident that the codification of the offences punishments system and the modulation of the criminal-punishment dyad go side by side, each requiring the other. Individualization appears as the ultimate aim of a precisely adapted code.
 
 But this individualization is very different in its nature from the
 modulations of punishment to be found in the old jurisprudence,
@@ -5963,7 +5963,7 @@ long been linked to a modality of power. With the new techniques
 of subjection, the 'dynamics' of continuous evolutions tends to replace the 'dynasties' of solemn events.
 .
 
-In any case, the small temporal continuum of individualitygenesis certainly seems to be, like the individuality-cell or the
+In any case, the small temporal continuum of individuality genesis certainly seems to be, like the individuality-cell or the
 individuality-organism, an effect and an object. of discipline. And, at
 the centre of this seriation of time, one finds a procedure that is, for
 it, what the drawing up of 'tables' was for the distribution of
@@ -6100,7 +6100,7 @@ numbers .
 when the soldiers have been separately instructed, they will carry it
 out two by two, and then change places alternately, so that the one
 on the left may learn to adapt himself to the one on the right'
-('Ordonnance . . . '). The body is constituted as a part of a multisegmentary machine.
+('Ordonnance . . . '). The body is constituted as a part of a multi segmentary machine.
 
 2. The various chronological series that discipline must combine
 to form a composite time are also pieces of machinery. The time of
@@ -10207,7 +10207,7 @@ and more' strict. It was against the new regime of landed property ­
 set up by a bourgeoisie that profited from the Revolution - that a
 whole peasant illegality developed. This no doubt assumed its most
 violent forms between Thermidor and the Consulate, but it did not
-disappear then; it was against the new system of the legal exploitation of labour that workers' illegalities at the beginning of the nineteenth century developed: from the most violent such as machinebreaking, or the most lasting such as the formation of associations,
+disappear then; it was against the new system of the legal exploitation of labour that workers' illegalities at the beginning of the nineteenth century developed: from the most violent such as machine breaking, or the most lasting such as the formation of associations,
 to the most everyday, such as absenteeism, abandoning work,
 vagabondage, pilfering raw materials, deception as to the quantity
 and quality of the work completed. A whole series of illegalities
@@ -12528,7 +12528,7 @@ siecles, I97 I .
 
 Molene, A . de, De l'humaniti des lois criminelles, 1 830.
 Monfalcon, J. B., Histoire des insurrections a Lyon, I 8J4.
-Montgommery, J. de, La Milicefranfaise, ed. I636.
+Montgommery, J. de, La Milice francaise, ed. I636.
 Moreau-Christophe, L., De Ia mortaliti et de Ia folie dans le regime
 
 penitentiaire, 1 839.

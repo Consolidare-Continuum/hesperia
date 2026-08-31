@@ -11,7 +11,7 @@ Thousand Oaks London New Delhi
 Copyright @ 1995 by Sage Publications,Inc.
 
 All rights reserved. No part of this book may be reproduce.d or utilized in any form or
-by *I means, electronic or mechanical, including photocopying, recording,or by-any information storage and retrieval system,without permission inwritingfromthe publisher.
+by *I means, electronic or mechanical, including photocopying, recording,or by-any information storage and retrieval system,without permission in writing from the publisher.
 
 For information address:
 
@@ -164,12 +164,12 @@ We have dl 'taught" in doctoral and junior faculty consortia prior to our profes
 that the rest of the meetings [paper sessions and symposia] were as informative."
 This observation got us thinking-Are our doctoral courses more like PaPer
 sessions or doctoral consortia? What type of course would constitute a learning
-experience analogous to attendingadoctoralconsortium? What materials would
+experience analogous to attending a doctoral consortium? What materials would
 we need to teach such a course? We hope that the books in this series have the
 "touch and feel" of a doctoral consortium workshop.
 We all have some exposure to the emerging "virtual university" in which faculty
 and students at major doctoral programs share their distinctive competencies,
-either through periodic jointlysponsored seminars or through distance learning
+either through periodic jointly sponsored seminars or through distance learning
 technology, and we would like to see these opportunities dispersed more broadly.
 We hope that reading our authors' accounts will be the next best thing to observing
 them in action.
@@ -184,10 +184,10 @@ institution by writing from the perspective of a seasoned teacher and mentor.
 Specifically,we encourage them to invite readers into their classroom (to gain
 an understanding of the past, present, and future of scholarship in a particular
 area from the perspective of their first-hand experience), as well as into their
-office and hallwayconversations (to gain insights into the subtlety and nuance
+office and hallway conversations (to gain insights into the subtlety and nuance
 of exemplary professional practice ).
 
-Byorplicitlyfocusingon an introductorydoctoral seminar setting,we encourage our authors to address the interests and needs of nonexpert students and
+By explicitly focusing on an introductory doctoral seminar setting,we encourage our authors to address the interests and needs of nonexpert students and
 colleagues who are looking for answers to questions such as the following: Why
 is this topic important? How did it originate and how has it evolved? How is
 it different from related topics? What do we actually know about this topic?
@@ -234,7 +234,7 @@ Xl
 
 xu
 
-from the book are still fresh arethesensemaking perspective in operation. The
+from the book are still fresh are the sensemaking perspective in operation. The
 sensemaking perspective is a frame of mind about frames of mind that is best
 treated as a set of heuristics rather than as an algorithm. That is why I have
 sketched it in the form of guides that allow the reader considerable latitude in
@@ -274,7 +274,7 @@ therefore, it isn't. Just such an event is the battered child syndrome.
 
 "The battered child syndrome consists of a pattern of injuries (usually to
 the head, arms, legs, and ribs) to a child, often a very young one, which the
-medical'history' offered by the parents is inadequate to explain. The pattern
+medical history' offered by the parents is inadequate to explain. The pattern
 of injuries is the result of assaults by parents who then either do not report
 the injuries as having occurred or pretend that they are the result of an
 accident" (Westrum,l982,p. 3S6). The injuries often can be seen only in X rays,
@@ -336,7 +336,7 @@ The Nature of Sensemaking
 
 antagonistic stance toward the events in question. One might well argue that
 part of the resistance of pediatricians to a diagnosis of parent-caused trauma
-was an inability to believe that their own evaluation of parents'dangerousness
+was an inability to believe that their own evaluation of parents dangerousness
 could be seriously in error" (p. 393). Thus BCS is an instance of sensemaking
 because it involves identiry retrospect, enactment, socid contact, ongoing
 events, cues, and plausibility, seven properties that will be explored further in
@@ -446,7 +446,7 @@ Some investigators (e.g., Gioia & Chittipeddi, 1991, p.aa$ view sensemaking as a
 define sensemaking as "a process in which individuals develop cognitive maPs
 of their environment' (p. 342). Having made sensemaking an individual
 
-activity, they use the term understandingto refer to mutual activity' a distinction that is clearly easier to ProPose than to implement:
+activity, they use the term understanding to refer to mutual activity' a distinction that is clearly easier to ProPose than to implement:
 
 We decided that whenever the written material or resPonses from individuals reflected an intention on their part to simply enhance their own perspective on a subject, then such actions were indicative of a sensemaking
 pro..rr. . . . On the other hand, when these kinds of activities were pursued
@@ -498,7 +498,7 @@ as a form of explanation that "requires special knowledge, imagination, sympathy
 ;presents more than intellectual difficulties as in a Poem, a dream" (p. 318)'
 A more compact definition of interpretation is Mailloux ( 1990) statement
 that interpretation is "acceptable and approximating translation'(p. 121). An
-"acceptable'reading is one that has some stature in a community. An "aPproximating" reading is one that attempts to caPture something, such as an
+"acceptable reading is one that has some stature in a community. An "aPproximating" reading is one that attempts to caPture something, such as an
 intention, that is presumed to be "there." And "translation" is an activity such
 as historicizing,allegorizing, or punning that gives form to the approximation.
 In short, interpretation literally means a rendering in which one word is
@@ -533,7 +533,7 @@ decisions and coping with the environment.
 
 What an interpretive reading consists of is summarized in the introduction
 to Porac, Thomas, and Baden-Fuller's ( 1989) study of 17 firms manufacturing
-high-qualitycashmere sweaters in the border region of Scotland. They ground
+high-quality cashmere sweaters in the border region of Scotland. They ground
 an interpretive study in four assumptions:
 
 Activities and structures of organizations are determined in part by micromomentary actions of their members.
@@ -714,7 +714,7 @@ Action shapes cognition, an idea that is a composite of Items 2,3,tnd4 above.
 
 All six of these strands can be found in dissonance theory in more recent
 ideas such as commitment, escalation, and enactment, and there are hints of
-these strands in ethnomethgdological accounts of decision making in everyday life (e.g., Handel, 1982; Heap, 1975; Gephart, 1993). Most important for
+these strands in ethnomethodological accounts of decision making in everyday life (e.g., Handel, 1982; Heap, 1975; Gephart, 1993). Most important for
 our purposes, all six are important in any account of sensemaking.
 
 To see this, think about the wonderfully compact account of sensem"kittg
@@ -758,7 +758,7 @@ hand, they look back to construct a plausible account of how they got there.
 During their deliberations they do the same thing, albeit in miniature. Deliberating primarily develops the meaning of prior deliberating rather than subsequent deliberating.Jurors literally deliberate to discover what they are talking
 about and what constitutes evidence. They look for meaningful consistencies
 in what has been said, and then revise those consistencies. Authoring and
-interpretation are interwoven. The concept of sensemakinghighlights the action,
+interpretation are interwoven. The concept of sensemaking highlights the action,
 activity, and creating that lays down the traces that are interpreted and then
 reinterpreted.
 
@@ -867,7 +867,7 @@ sensible. Sensemaking is to be understood literally, not metaphorically' Notice
 that Morgan et al. inadvertently acknowledge this when they describe the
 "metaphor' of sensemaking as "how individuals make sense of their situations." This error of logical WPing (Bateson, 1972) can be avoided if sensemaking is separated from the class of interpretive activities it names and set
 above this class as a higher level abstraction that includes them. Although the
-word sensemakingmayhave an informal, poetic flavor, that should not mask
+word sensemaking may have an informal, poetic flavor, that should not mask
 the fact that it is literally just what it says it is'
 
 of Sensemaking
@@ -1017,9 +1017,9 @@ occupying its facilities. The Port Authority, whose identity in the eyes of its
 employees was that of a professional, altruistic, can-do agency that acted like
 a family while delivering quality service, became the object of an increasingly
 negative set of images that members felt others held of the agency. Both the
-positive identity and the negative image affected members'interpretations of
+positive identity and the negative image affected members interpretations of
 who they were, what they felt, what they faced, and what they were doing. As
-Dutton and Dukerich (1991) put it, "Individuals'self-concepts and personal
+Dutton and Dukerich (1991) put it, "Individuals self-concepts and personal
 identities are formed and modified in part by how they believe others view
 the organization for which they work. . . . The close link between an individual's character and an organization's image implies that individuals are personally motivated to preserve a positive organizational image and repair a
 negative one through association and disassociation with actions on issues"
@@ -1298,7 +1298,7 @@ as its effects on remembering are traced through to answer the question of
 why people make the sense they do of their ongoing activity. If one person can
 be preoccupied with something in the here and nor4r, so can others. And
 whatever that preoccupation is, it can impose a figure-ground relationship on
-elapsed experience, therebyfacilitating sensemaking. "No lived experience can
+elapsed experience, thereby facilitating sensemaking. "No lived experience can
 be exhausted by a single interpretive scheme" (Schutz, L957, p. 85).
 
 If we bring this discussion closer to the present, recent discussions of
@@ -1325,7 +1325,7 @@ exactly the way they are remembered to have happened. Retrospective sensemaking 
 sequences that made it harder to accomplish the final outcome.
 
 But, if people want to complete their projects, if effort and motivation make
-a difference in completing those projects, and if the environment is malleable, then a reading of past indeterminacythat favors order and oversimplifies
+a difference in completing those projects, and if the environment is malleable, then a reading of past indeterminacy that favors order and oversimplifies
 causality (Reason, 1990, p. 9l) may make for more effective action, even if it
 
 Seven ProPerties of Sensemaking
@@ -1367,7 +1367,7 @@ the present. As a result, present decisions can be made meaningful in a larger
 context than they usually are and more of the past and future can be brought
 to bear to inform them.
 
-Finally, Staw (1975) provides an esPeciallyclean example of how retrospect
+Finally, Staw (1975) provides an especially clean example of how retrospect
 operates. He randomly assigned 60 students to 20 grouPs of 3 people each
 and had them study the 1969 annual rePort of a medium-sized electronics
 
@@ -1398,7 +1398,7 @@ properties of the "sensing" that is associated with sensemaking. Now I want
 to say more about the activity of "making" that which is sensed. This discussion has been anticipated at several points up to now. It was anticipated when
 I cited Thomas et al.'s (1993, p. 2) argument that the concept of sensemaking
 keeps action and cognition together; when I said that interpretation better
-explains how people cope with entities that already exist, whereas sensemakingbetter explains how entities get there in the first place; and when I implied
+explains how people cope with entities that already exist, whereas sensemaking better explains how entities get there in the first place; and when I implied
 that action is a precondition for sensemaking as, for example, when the action
 of saying makes it possible for people to then see what they think
 
@@ -1549,13 +1549,13 @@ living or dying when people confront diminishing resources.
 These several quotations from Follett's work combine action with retrospect and sensemaking with interpretation. People create their environments
 as those environments create them. A deep appreciation of this process, and
 of the incomplete rendering that occurs when we freeze moments and products in that process, allows us to address what many view as an occupational
-hazard when people studysensemaking.In the felicitous phrase of Burrell and
+hazard when people study sensemaking.In the felicitous phrase of Burrell and
 Morgan (1979), this hazard is 'ontological oscillation" (p.266). They argue
 that theorists who workwith the ideas of hermeneutics, phenomenology, and
 symbolic interactionism (although surprisingly not those who workwith the
 related positions of critical theory and conflict theory) often
 
-stress ahighlysubjectiviststancewhich denies the existence of socialstructures
+stress ahighlysubjectiviststancewhich denies the existence of social structures
 and concrete social reality of any form. Yet the attempt to operationalize
 their ideas within an empirical context frequently leads them to admit a
 more realist form of ontology through the back door. . . . [O]ntological
@@ -1618,7 +1618,7 @@ Theyactlike realists, forgettingthatthe nominalistinthem uses aprioribeliefs
 and expectations to *find"
 seams worth punctuating (Starbuck & Milliken,
 1988, p. 50). Czarniawska-|oerges (1992\ puts the point this way: "A stone
-exists independently of our cognition; but we enact it by a cognitivebtacketing,
+exists independently of our cognition; but we enact it by a cognitive bracketing,
 
 by concentrating our attention on it. Thus 'called to life,'or to attention, the
 stone must be socially constructed with the help of the concept of stone, its
@@ -1646,7 +1646,7 @@ The socially created world becomes a world that constrains actions and
 orientations. "What was once recognized as a socially constructed transaction
 takes on the form of an externally specified objective reality, where transacting
 parties play out preordained roles and 'action routines' " (Ring & Van de Ven,
-1989, p. 185). It is this institutionalizingof social constructions into the way
+1989, p. 185). It is this institutionalizing of social constructions into the way
 things are done, and the transmission of these products, that links ideas about
 sensemaking with those of institutional theory. Sensemaking is the feedstock
 for institutionalization.
@@ -1743,9 +1743,9 @@ shared meanings," "common language" and "social interaction.'
 
 Those who forget that sensemaking is a social process miss a constant
 substrate that shapes interpretations and interpreting. Conduct is contingent
-on the conduct of others,whetherthose others are imaginedor physicallypresent.
+on the conduct of others,whetherthose others are imaginedor physically present.
 The contingent quality of sensem"king is found in Allport's ( I 985 ) description
-of socialpsychologyas "an attemptto understand andexplain how the thought,
+of social psychology as "an attemptto understand andexplain how the thought,
 feeling, and behavior of individuals are influenced by the actual, imagined, or
 implied presence of others" (p. 3, italics added). Burns and Stalker (1961),
 focusing on organizations, say essentially the same thing:
@@ -1905,7 +1905,7 @@ from, the sharing of common values. The participants may fit their acts to
 one another in orderly joint actions on the basis of compromise, out of
 duress, because they may use one another in achieving their respective ends,
 because it is the sensible thing to do, or out of sheer necessity. . . . In very
-large measure, society becomes the formation of workablerelations. (p.76,
+large measure, society becomes the formation of workable relations. (p.76,
 italics added)
 
 Alignment is no less social than is sharing. But it does suggest a more varied
@@ -1989,7 +1989,7 @@ be labeled either a problem or a solution to justify some perceived choice, as
 
 Starbuck ( 1983) has argued. Eccles and Nohria (1992) describe the context of
 managing as the ongoing flow of actions and words in an organization, which
-is often punctuated by events such as a product launch, an off-site strategyplanning exercise, or a budget meeting. These events are important for several
+is often punctuated by events such as a product launch, an off-site strategy planning exercise, or a budget meeting. These events are important for several
 reasons. They
 
 focus and crystallize meanings in organizations. These events also serve as
@@ -2117,7 +2117,7 @@ In organizational settings, even though relationships may be short-lived,
 they are also often close, intense, and interdependent. In intense, short-lived
 organizational relationships, the likelihood of unexpected interruption and
 unexpected facilitation are both higher because partners know less about one
-another. This could mean that organizationallife generates stronger feelings,
+another. This could mean that organizational life generates stronger feelings,
 both positive and negative, than is true of other settings (recall the strong
 feelings at the Port Authority). People may cope with this volatile emotional
 environment by trying to become more self-contained and less dependent on
@@ -2200,7 +2200,7 @@ reference is an important source of power. To establish a point of reference for
 the density of its weave to infer value-is a consequential act.
 
 In the preceding paragraph, I intentionally used the metaphor of "seed" to
-capture the open-ended qualityof sensemakingwhen extracted cues are used.
+capture the open-ended qualityof sense making when extracted cues are used.
 When people act, for example, when they produce sentences, there is a duality
 of structure in what they produce (Shotter, 1983, pp.2S-3D. The partially
 completed sentence contains both content already specified and the means for
@@ -2264,7 +2264,7 @@ whereas noticing pict<s up major events and gross trends' Noticing determines
 whether people even consider responding to environmental events. If events
 are noticed, people make sense of them; and if events are not noticed, they are
 not available for sensemaking" (Starbuck & Milliken, 1988, P. 60)'They prefer
-the term noticing to scanningbecause the former term implies a more informal, more involuntary "beginning" to the process of sensemaking. scanning,
+the term noticing to scanning because the former term implies a more informal, more involuntary "beginning" to the process of sensemaking. scanning,
 by contrast, sounds more strategic, more conscious, more deliberate' more
 under the control of preconceptions, and less open to invention' Fiske and
 Taylor (1991), reviewing the social cognition literature, conclude that among
@@ -2402,7 +2402,7 @@ where they were and get some better idea of where they are and where they
 want to be.
 
 The soldiers were able to produce a good outcome from a bad map because
-theywere active, theyhadapurpose (get back to camp), and they had an image
+theywere active, they had a purpose (get back to camp), and they had an image
 of where they were and where they were going. They kept moving, they kept
 noticing cues, and they kept updating their sense of where they were. As a
 result, an imperfect map proved to be good enough. The cues they extracted
@@ -2513,7 +2513,7 @@ forming widely generalizable beliefs.In the case of interpersonal perception,
 for example, "the global accuracy of a belief will be high insofar as it enables
 the perceiver to predict the behavior of the target in the presence of all the
 perceivers that target encounters (transpersonal accuracy), across all the
-contexts that target enters (transcontextual accuracy), or across a fairly long
+contexts that target enters (transcontextual accuracy accuracy), or across a fairly long
 period of time (extended accuracy)" (swann, 1984, p. a6\. Global accuracy
 is what investigators usually attempt to tap when investigating the accuracy
 of executive perceptions.
@@ -2592,7 +2592,7 @@ and no longer exists.
 
 Bold action is also adaptive because it shapes that which is emerging (e.g.,
 Lanir et al., 1988). Events are shaped toward those capabilities the bold actor
-already has. With this twist, accuracybecomes reflexive. The actor who knows
+already has. With this twist, accuracy becomes reflexive. The actor who knows
 what he or she can do, and who shapes the environment so that it needs
 precisely these capabilities, comes close to perfect accuracy. People construct
 that which constructs them, except both constructions turn out to be one and
@@ -2609,7 +2609,7 @@ Many perceptual errors, perhaps the great majority, become erroneous only
 in retrospect" (Starbuck & Milliken, 1988, P.44).
 
 If accuracy is nice but not necessary in sensemaking, then what is necessary?
-The answer is, somethingthatpreserves plausibilityand coherence, something
+The answer is, something that preserves plausibility and coherence, something
 that is reasonable and memorable, something that embodies past experience
 and expectations, something that resonates with other people, something that
 
@@ -2620,7 +2620,7 @@ embellishment to fit current oddities, something that is fun to construct. In
 short, what is necessary in sensemaking is a good story.
 
 A good story holds disparate elements together long enough to energize
-and guide action, plausiblyenough to allow people to make retrospective sense
+and guide action, plausibly enough to allow people to make retrospective sense
 of whatever happens, and engagingly enough that others will contribute their
 own inputs in the interest of sensemaking. Stories will be discussed later
 (Chapter 5) in the context of the substance of sensemaking.
@@ -2635,7 +2635,7 @@ And a good story, like a workable cause mop, shows patterns that may already
 exist in the puzzles an actor now faces, or patterns that could be created anew
 in the interest of more order and sense in the future. The stories are templates.
 They are products of previous efforts at sensemaking. They explain. And they
-energize.And those are two important properties of sensemakingthatwe remain
+energize.And those are two important properties of sense making that we remain
 attentive to when we look for plausibility instead of accuracy.
 
 Summary
@@ -2665,7 +2665,7 @@ Social: What I say and single out and conclude are determined by who socialized
 me and how I was socialized, as well as by the audience I anticipate will audit
 the conclusions I reach.
 ongoing: My talking is spread across time, competes for attention with other
-ongoingprojects, and is reflected on after it is finished,which means my interests
+ongoing projects, and is reflected on after it is finished,which means my interests
 may already have changed.
 Extracted cues: The 'what" that I single out and embellish as the content of the
 thought is only a small portion of the utterance that becomes salient because of
@@ -2692,7 +2692,7 @@ one should give one's name or position or phone number when answering the
 phone in the office. Answering with the name of the unit suggests being a team
 player, whereas answering with one's own name suggests a willingness to take
 responsibility (p. 120). The point is not which one is right. The point is that
-this question never gets raised anynrherebutatworkAnd it gets raised frequently.
+this question never gets raised anywhere but at work and it gets raised frequently.
 It exemplifies how much of organizational life is fair game for continual negotiation, controlled information processing, and mindful attention and how
 much needs to be reaccomplished and how pervasive is the need for accounting, justification, and rationalizing. The only thing people do not do is take
 things for granted, which is what they spend most of their time doing everywhere else.
@@ -2911,7 +2911,7 @@ entry experience by seeking situation-specific interpretation schemes and cultur
 49。
 
 Pfeffer, l98l (A critical administrative action in systems of shared meanings is
-theconstructionandmaintenance ofbeliefqrctems,throughlanguage,symbolism,
+theconstructionandmaintenance ofbeliefqrctems,through language,symbolism,
 and ritual, that legitimate and rationalize decisions made on the basis of power
 and influence).
 Kiesler and Sproull, 1982 (Social cognition processes are analyzed for their
@@ -2929,7 +2929,7 @@ Daft and Weick, 1984 (Patterns of scanning, interpretation, and learning vary
 across organizations as a function of their willingness to act in order to learn
 and their willingness to accept that the environment is difficult to analyze).
 Smircich and Stubbart, 1985 (The environments within which strategies unfold
-are environments of the strategists'cwn making).
+are environments of the strategists' own making).
 Mintzberg and McHugh, 1985 (Ongoing retrospective sensemaking creates
 emergent strategies that differ from intended, deliberate strategies, suggesting
 that learning can substitute for rational decision making).
@@ -2998,7 +2998,7 @@ of organization three ways. First, there is the organization as rational system
 
 such as is found in the work of weber (1947) and Simon (19s7) and defined
 by Scott as 'collectivities oriented to the pursuit of relatively specific goals and
-exhibiting relativelyhighly formalized socid structures" (p.22).Second, there
+exhibiting relatively highly formalized socid structures" (p.22).Second, there
 is the organization as a natural system as is found in the work of Roethlisberger
 and Dickson (1939), Barnard (1938), or Parsons (1960) and defined by Scott
 as "collectivities whose participants share a common interest in the survival
@@ -3022,7 +3022,7 @@ who must we be in order to deal with both questions? It is the very openness
 associated with this perspective that makes distinctions between out there and
 in here inventions rather than discoveries, that results in people creating their
 own constraints, and that triggers the strange sequence in which outputs
-become the occasion to define retrospectivelywhat could have been plausible
+become the occasion to define retrospectively what could have been plausible
 inputs and throughputs. In short, as we move from that which is rational,
 through that which is natural, to that which is open, we concurrently move
 from structures, processes, and environments that are less ambiguous to
@@ -3088,19 +3088,19 @@ without a knowing subject. This is a level of symbolic reality such as we might
 associate with capitalism or mathematics, each viewed as a subjectless batch
 of culture. Something akin to the culture level is implied in Barley's (1986,
 p.82) discussion of the institutional realm. This realm is conceptualized as an
-abstract idealized frameworkderived from prior interaction. Viewed this way,
+abstract idealized framework derived from prior interaction. Viewed this way,
 the generic subjectivity of scripts becomes crucial because "scripts link the
 institutional realm to the realm of action" (p.33).
 
 Although Wiley does not invoke "organization" as a specific level,I would
-argue that organizing lies atop thatmovementbetween the intersubjective and
+argue that organizing lies atop that movement between the intersubjective and
 the generically subjective. By that I mean that organizingis a mixture of vivid,
 unique intersubjective understandings and understandings that can be picked
 up, perpetuated, and enlarged by people who did not participate in the
 original intersubjective construction. People can substitute for one another
 in organizations, but when they do, those substitutions are never complete.
 There is always some loss of joint understanding when the intersubjective is
-translated into the generic. But not all losses are equallyimportant for effective
+translated into the generic. But not all losses are equally important for effective
 coordination of action. As we have seen before, simplification and filtering
 are necessary for people to coordinate in the first place.
 
@@ -3151,7 +3151,7 @@ of computer screens filled with generic one-way communication, which relative st
 drives out innovation, organization becomes synonymous with control, and
 generic subjectivity becomes sealed off from any chance for reframing, learning, or comprehension of that which seems incomprehensible.
 
-A second description of organizationthat accommodates sensemaking and
+A second description of organization that accommodates sensemaking and
 coordination places more emphasis on routines and generic subjectivity
 than did Smircich and Stubbart. Frances Westley (1990) focuses on what
 
@@ -3159,7 +3159,7 @@ PreciPitates out and is retained from intersubjectivity when she notes that
 "organizations do not exist and cannot be imbued with action potential all
 organizations are in fact only a series of interlocking routines, habituated action
 patterns that bring the same people together around the same activities in
-the same time and places" (p. 339). A more recent definition by Czarniawskafoerges (1992) covers the same ground: "Organizations are nets of collective
+the same time and places" (p. 339). A more recent definition by Czarniawska Foerster (1992) covers the same ground: "Organizations are nets of collective
 action, undertaken in an effort to shape the world and human lives. The
 contents of the action are meanings and things (artifacts). One net of collective action is distinguishable from another by the kind of meanings and
 products socially attributed to a given organization" (p. 32).
@@ -3212,7 +3212,7 @@ A basic focus of organizing is the question, how does action become coordinated
 in the world of multiple realities?
 One answer to this question lies in a social form that generates vivid, unique,
 intersubjective understandings that can be picked up and enlarged by people
-who did notirarticipate in the original construction.
+who did not participate in the original construction.
 
 5。
 
@@ -3295,7 +3295,7 @@ appear to involve the root act of sensemaking. Recall that Starbuck and Milliken
 That is fine, but where do frameworks come from and how are they formed?
 Porac et al. have an answer. They suggest that a combination of enactment and
 selective perception among competitors produces what amounts to a "cognitive oligopoly''The oligopoly takes the form of a "limited set of competitive
-benchmarks that is mutuallydefined to simplify and make sense of the business
+benchmarks that is mutually defined to simplify and make sense of the business
 environment" (p. 413). These benchmarks are the frame within which identities and strategies materialize. But in a very real sense, the basic questions,
 "who am Ir" "who are they," and "who are 'we"' dominate attempts at
 sensemaking in Hawick, as well as elsewhere. And once a tentative answer is
@@ -3608,13 +3608,13 @@ or not, soldiers have just as much trouble with sensemaking as anyone else.
 This is clearly documented in Lanir's ( 1989) account of how the Israeli Air
 Force shot down a Libyan airliner they mistook for a hostile aircraft on February
 21,1973. Lanir describes this event as one compounded of a series of "inconceivable occurrences" (e.g., the pilot and engineer of the airliner were drinking
-wine and did not reattzntheywere 70 miles off course) that led to "the reasonable
+wine and did not reattune they were 70 miles off course) that led to "the reasonable
 choice of disaster," a phrase that is just as chilling as is Charles Perrow's (1984)
 "normal accident."
 
 Occasions for sensemaking are themselves constructed, after which they
 become a platform for further construction. There were hints of this earlier
-in John Caffey puzzlement over the discrepancybetween X-rays that revealed
+in John Caffey puzzlement over the discrepancy between X-rays that revealed
 
 injuries to children and parental accounts that failed to mention them. Caffey
 was not sure whether to construct this as something to Pursue, or to let it pass.
@@ -3676,7 +3676,7 @@ cues that increasingly mislead. This is clearly evident in Perrow's investigatio
 such systems are tightly coupled and involve complex transformation processes,
 unexpected sequences of events are commonplace. These accidents,which are
 "normal," considering the obscurity of the technology, are neither familiar
-nor easily solved. The combination of complextechnologyand limited expertise makes for incomprehensible events. The sensemaking dilemma inherent
+nor easily solved. The combination of complex technology and limited expertise makes for incomprehensible events. The sensemaking dilemma inherent
 in these technologies is captured in Perrow's ( 1984) observation that "warning
 of an incomprehensible and unimaginable event cannot be seen, because it
 cannot be believed" (p. 23).
@@ -3695,7 +3695,7 @@ defined as a combination of instability (frequency of change) and randomness
 because of the debate over whether organizations perform better in turbulent
 environments when they engage in comprehensive but time-consuming information processing, or when they rely more heavily on less comprehensive
 processes such as intuition, heuristics, and imitation (see Glick Miller, & Huber,
-1993, pp. 189-190 for a summary of this controversy). As with most controversies, the resolution depends on whose work you weigh more heavilyreactions to Eisenhardt's ( 1989, 1990; Eisenhardt & Bourgeois, 1988) research
+1993, pp. 189-190 for a summary of this controversy). As with most controversies, the resolution depends on whose work you weigh more heavily reactions to Eisenhardt's ( 1989, 1990; Eisenhardt & Bourgeois, 1988) research
 on high-velocity decision making will tip your reading one way or the other.
 Aside from that, a common observation among the various partisans is that
 as turbulence goes up, so too does the use of intuition and heuristics. If
@@ -3708,7 +3708,7 @@ noticing they know best (Lazarus & Folkman, 1984, p. 10a) and that are
 rewarded and practiced most often in their firms. That does not say much.
 But it does predict that as turbulence increases, occasions for sensemaking
 will be defined more idiosyncratically, meaning that microlevel predictions
-will be more accurate than macropredictions, unless there are strong, homogeneous organizational cultures or binding industry recipes (Spender, 1989).
+will be more accurate than macro predictions, unless there are strong, homogeneous organizational cultures or binding industry recipes (Spender, 1989).
 Aside from the work on perceived environmental uncertainty, previous
 discussions of problem definition (e.g., Cowan, 1985), especially the stimulating work of G. F. Smith ( 1988, 1989), suggests a different way to conceptualize occasions for sensemaking. Smith (1988) begins by noting that the term
 problem usually refers to some kind of gap, difference, or disparity between
@@ -3853,7 +3853,7 @@ highly complex she means that ,.a plet
 it difficult to comprehend in any simple way', (p. l3a). And by paradox she
 means "an argument that apparently derives contradictory corr.lusions by
 valid deduction from acceptable pre premises', (p. r3a). By means of this defini_
-tion, Martin underscores that ambiguity is subjectivelyperceived, interpreted,
+tion, Martin underscores that ambiguity is subjectively perceived, interpreted,
 and felt' People judge events to be ambiguous if those events seem to be unclear,
 highly complex, or paradoxical.
 
@@ -4048,7 +4048,7 @@ the future, the intensity with which these beliefs are held, and information
 about specific possibilities should produce variations in ignorance and a stronger
 or weaker tendency to construct and pursue an occasion of sensemaking.
 
-Second, Frances Milliken (1987) has made the important point that prevailing definitions of uncertaintylocate that uncertainty in one of three places.
+Second, Frances Milliken (1987) has made the important point that prevailing definitions of uncertainty locate that uncertainty in one of three places.
 People lack understanding of how components of the environment are changing (state uncertainty), or of the impact of environmental changes on the
 organization (effect uncertainty), or of the response options that are open to
 them (response uncertainty). Different capabilities are required to detect and
@@ -4063,7 +4063,7 @@ responses of others.
 
 Third, Stinchcombe (1990) extends Burns and Stalker suggestion that
 uncertainty about the future animates organizations and, using an information-processing perspective, argues that uncertainty is reduced by "the earliest
-available information thatwill showwhatdirection the actor ought to be going
+available information thatwill show what direction the actor ought to be going
 because of the way the future of the world is, evidently, turning out" (p. 2).
 Thus the organization is concerned with "news" that gives some cue about
 how things might turn out. An organization needs "to be where the news breaks,
@@ -5395,7 +5395,7 @@ of an automobile, the wrecking of an automobile or the erosion of a stone.
 (Scholes, 1981, p.205)
 
 Sequencing is a powerful heuristic for sensemaking. Because the essence of
-storytelling is sequencing, it is not surprising that stories are Powerful standalone contents for sensemaking. Stories allow the clarityachieved in one small
+storytelling is sequencing, it is not surprising that stories are Powerful standalone contents for sensemaking. Stories allow the clarity achieved in one small
 area to be extended to and imposed on an adjacent area that is less orderly.
 Given the proclivity of people to engage in induction, despite its "scandalous"
 reputation (Campbell, 1986) as a thinking operation, and given the relative
@@ -5419,7 +5419,7 @@ formulated and can enrich routines after those routines are formulated. Sixth,
 stories enable people to build a database of experience from which they can
 infer how things work. And seventh, stories transmit and reinforce third-order
 controls by conveying shared values and meaning (a script is a second-order
-controlthatworkslikeastandardoperatingprocedure;Wilkins,1983,pp.82, 84).
+control that works like a standard operating procedure;Wilkins,1983,pp.82, 84).
 Stories, in the last analysis, may be crucial for sensemaking because they
 facilitate diagnosis and reduce the disruption produced when projects are
 interrupted. Tlo see both of these possibilities, consider the following story.
@@ -5469,7 +5469,7 @@ probability that complex interactions will be set in motion in a system that is
 
 becoming increasingly tightly coupled. These interactions will spread more
 swiftly, in ways that are now incomprehensible. As pressure mounts, the first
-change is that loose coupling is replacedbytight coupling, andthe second change
+change is that loose coupling is replaced by tight coupling, andthe second change
 is that a linear transformation system is turned into an interactively complex
 transformation system.Both changes iue the product of a steady loss of information. And the culprit is just as much the limits on human resilience, attention,
 and sensemaking as it is the complexities in technology that are the focus of
@@ -5587,7 +5587,7 @@ the question, what does it mean? They cannot ignore the action because they
 B Belief- Driv en P ro cesses
 
 are resPonsible for it. Lnd because its occurrence was overdetermined, it is
-not immediatelyclear that any single thought or belief produced it. Therefore,
+not immediately clear that any single thought or belief produced it. Therefore,
 there is a search for explanations that are appropriate in that context and that
 also preserve self-esteem. Sensemaking processes that originate in action involve
 committing and manipulating. Committing involves interpretation focused
@@ -5637,7 +5637,7 @@ sensemaking recipe suggests. It is rare for organizational sensemaking to
 consist of acts of appreciation in "polite comPany where people engage in
 pretty talk ' (Billig, 1 989, p. 231\.Instead, the more common form of interaction is one in which "we are always arguing at particular moments in specific
 places to certain audiences" (Mailloux, 1990, p. 13a). Readers are urged to take
-note that arguing is commonplace in sensemakingbecause some authors (e.g.,
+note that arguing is commonplace in sensemaking because some authors (e.g.,
 Burrell & Morgan ,lg79,p. 3l) feel that conflict, domination, and contradiction
 play no part in an interpretive point of view. As we have seen already, divergent,
 antagonistic, imbalanced forces are woven throughout acts of sensemaking.
@@ -5704,7 +5704,7 @@ not simplybecause it shuts down communication but because it degrades the
 quantity of O. argumentation through narrowed attention as a result of heightened arousal.
 
 Among the clearest descriptions of the nature of argument, and its role in
-those of the late Wayne Brockriede. He proposedthatargument
+those of the late Wayne Brockriede. He proposed that argument
 sensemaking role ot€
 is a process by which people reason their way from one idea to the choice of
 another idea. His proposal suggests that arguments are distinguished by five
@@ -5822,7 +5822,7 @@ and validate them. Because little is clear-cut in these judgments and because
 B el ief- D r iv en P r o ces s e s
 
 "attitudes are essentially unfinished business" (Billig, 19g9, p.252),the examination Process continues even when one is alone again. And the impact of the
-minorityposition increases when individuals are no longer preoccupied with
+minority position increases when individuals are no longer preoccupied with
 listening to the majority. This can produce conversion, a greater change in
 private than in public responses.
 
@@ -5885,7 +5885,7 @@ attract greater attention and elicit deeper cognitive processing because
 
 (a) Minorities are more distinct, therefore they draw more attention, they
 are evaluated more extremely, and their message is remembered longer and
-more accurately. (b) Minorities have a lower a priori reilibilitybecause they
+more accurately. (b) Minorities have a lower a priori reliability because they
 are assumed to be wrong, people seem to have greater motivation to attend
 to the stimulus for nonsocial validation of their opinion. Finally, disagreement with a low credibility source is less stressful. Because people are only
 moderately aroused, they attend to a wider range of relevant cues. (c) Minorities are exposed to considerable social pressure from the majority; if they
@@ -5907,7 +5907,7 @@ Schwartzman's (1987, 1989) masterful study of meetings, we encounter the
 stunning proposal that meetings
 may be the form that generates and maintains the organization as an entity'(1989, p. s6).Earlier, she remarks that
 "meetings can both generate and maintain an organization by providing
-individuals with activityandwith a way to make sense of this activity and their
+individuals with activity and with a way to make sense of this activity and their
 relationship to each other" (1989, p. I l).A similar possibility was implied by
 Huff when she said that meetings generate "a common focus whidr is a prerequisite to organized activity." For Schwartzman, meetings arethatorganized
 activity. Theyare not a prerequisite. Quite the opposite. Those other organized
@@ -5918,7 +5918,7 @@ Meetings are defined as
 a communicative event that organizes interaction in distinctive ways. Most
 specifically a meeting is a gathering of three or more people who agree to
 assemble for a purpose ostensibly related to the functioning of an organization or group, for orample, to exchange ideas, or opinions, to develop policy
-and procedures, to solve a problem, to make a decision, to formulate recommendations, and the like. A meeting is characterizedby multiparty talk that
+and procedures, to solve a problem, to make a decision, to formulate recommendations, and the like. A meeting is characterized by multiparty talk that
 is episodic in nature, and participants develop or use specific conventions
 for regulating this talk . . . The meeting form frames the behavior that occurs
 within it as concerning the "business or "work' " of the group, or organization, or society. (Schwartzman, 1989, pp.6l-62)
@@ -6004,7 +6004,7 @@ We have already seen hints of this process in earlier discussions of faith and
 presumptions as tools of ontology. Expectations, compared with arguments,
 tend to be held more strongly. Furthermore, people tend to be more interested
 in confirming than in rebutting or contradicting them. The beliefs that are the
-focus of sensemakingbyexpectation resemble the singular, strongly felt, unqualified beliefs of action rationality (Brunsson, 1982) rather than the reasoned
+focus of sensemaking by expectation resemble the singular, strongly felt, unqualified beliefs of action rationality (Brunsson, 1982) rather than the reasoned
 qualified beliefs of decision rationality.
 
 In short, expectations are more directive than are arguments. Because expectations operate with a heavier hand, they tend to filter input more severely,
@@ -6055,8 +6055,8 @@ action and also frees attention for controlled processing.
 
 Bruner also notes that complex perceptual processes tend to assimilate
 whatever is seen to whatever is expected. Here is where the issues of accuracy
-and plausibilitybegin to be joined. Sensemaking is as much about plausibility
-andcoherenceasitisaboutaccuracy,whichiswhytheheavyhandofexpectations
+and plausibility begin to be joined. Sensemaking is as much about plausibility
+and coherence as it is about accuracy,which is why the heavy hand of expectations
 can be a blessing as well as a curse. To appreciate this point, listen to |ames's
 description of expectations. "Confident expectation of a certain intensity or
 quality of impression will often make us sensibly see or hear it in an object
@@ -6120,7 +6120,7 @@ in reviews by Darley and Fazio ( 1980), Jones (I977),and Snyder ( 1984, L992)'
 for instance.
 
 But the point that people keep missing is that self-fulfilling prophecies are
-a fundamental act of sensemaking. Prophecies, hypotheses, anticipationswhatever one chooses to call them-are starting points. They are minimal
+a fundamental act of sensemaking. Prophecies, hypotheses, anticipations whatever one chooses to call them-are starting points. They are minimal
 structures around which input can form as the result of some kind of active
 prodding. That prodding is often belief driven, and the beliefs that drive it are
 often expectations. People do not have much to start with when their goal is
@@ -6193,7 +6193,7 @@ teacher. Each becomes less of a puzzle to the other because the interaction is
 focused on cues of development. The other 80o/o of the students in the room
 may or may not be developing, but attention is not called to this aspect of
 them as targets. Instead, for all intents and purposes, theyare people forwhom
-all possible dimensions remain in play and equallyrelevant as theyear unfolds.
+all possible dimensions remain in play and equally relevant as theyear unfolds.
 Relative to the less structured 80o/o, the 20Vo structured by their potential for
 a growth spurt are more meaningful and predictable. But they have become
 so simply through the operation of a single exPectancy.
@@ -6242,7 +6242,7 @@ B elief-Dr iv en Pro processes
 
 l5l
 
-in the speed with which it unfolds, and to dominate as the prevailingdefinition
+in the speed with which it unfolds, and to dominate as the prevailing definition
 of the situation, because it is clearer, more meaningful, and more stable than
 the surrounding events that are more loosely coupled.
 
@@ -6375,7 +6375,7 @@ confirmation. Whatever expectations seem most compelling and to have most
 support at times of renewed instability are likely to trigger the next round of
 stabilization by means of behavioral confirmation. A socially constructed
 world is a stable world, made stable by behaviorally confirmed expectations.
-Both perceivers and targets collude in achieving this stability'because neither
+Both perceivers and targets collude in achieving this stability because neither
 of them welcome uncertainty. Different as their individual goals may be, they
 share this aim of stability in the service of sensemaking. If this stability can be
 accomplished by momentary convergence on an expectation, by both the
@@ -6392,7 +6392,7 @@ recurrent theme in the preceding analyses is the idea that the process of
 sensemaking involves enlarging small structures. The two structures
 examined so far, arguments and expectations, both involved beliefs. Beliefs
 were the anchor to which subsequent events, including additional beliefs and
-actions,were drawn.Inthe case of arguments,the connections involvedrelations
+actions,were drawn.Inthe case of arguments,the connections involved relations
 of contradiction. In the case of expectations, the connections involved relations of confirmation. Beliefs are an obvious anchor in organizational sensemaking because they are found in ideologies, cultures, scripts, and traditions.
 But actions are often just as plentiful as potential reference points for
 sensemaking. And the ways in which they guide sensemaking reflect themes
@@ -6404,7 +6404,7 @@ sensemaking can start at any point. Structures of mutual causality mock the
 language of independent and dependent variables. They invite, instead, description of those situations where beliefs can affect themselves through the
 
 mediation of action, and situations where actions can affect themselves through
-the mediation of beliefs. Earlier we saw how expectations pave the waybehaviorally to their own confirmation. Here we examine how actions pave the way
+the mediation of beliefs. Earlier we saw how expectations pave the way behaviorally to their own confirmation. Here we examine how actions pave the way
 cognitively to their own continuation.
 
 We examine two action-driven processes of sensemaking: behavioral commitment and manipulation. Both have been foreshadowed in the previous
@@ -6426,7 +6426,7 @@ Sensemaking as Committing
 The point of departure for our discussion of commitment is Kiesler's (197L)
 statement that "explicit behavior, like an irrevocable decision, provides the
 pillar around which the cognitive apparatus must be draped" (P. 17). Commitment, a clear example of the legacy of cognitive dissonance, is the Process
-that makes the explicitbehavior irrevocable. Once it becomes harder to change
+that makes the explicit behavior irrevocable. Once it becomes harder to change
 the behavior than to change the beliefs about that behavior, then beliefs are
 selectively mobilized to justify the act. The beliefs make sense of the irrevocable action and the circumstance within which it was generated' even if all of
 this was only vaguely clear when the action itself became irrevocable. It is the
@@ -6447,7 +6447,7 @@ beliefs that sustain the activities and his own involvement" (Salancik, 1977,
 p.62). Several factors are responsible for binding a person to an action, but
 typically, the same four are mentioned (Kiesler, l97l). Binding occurs when
 the behavior is explicit (there is clear evidence that the act occurred), public
-(importantpeople saw the act occur),and irrevocable (the act cannot be undone).
+(important people saw the act occur),and irrevocable (the act cannot be undone).
 These three factors combine to construct the reality that the action did occur.
 Now the question becomes, is the agent of that action responsible for it? If the
 behavior was done volitionally, with few external demands, for few extrinsic
@@ -6495,7 +6495,7 @@ Low tolerance for mistakes strengthens commitment by increasing the necessity to
 These macro ingredients are plentiful in most organizations. Most employees do things that others see, although this varies among positions (see "exposed
 jobs" in Stewart,I976).Accountability (Tetlock, 1991) binds people to consequences, but it also makes the actions leading to these consequences more
 visible, more volitional (goals are negotiated), and more irrevocable (resources
-are irreversiblyused up to generate consequences). Emplo)tees make decisions
+are irreversibly used up to generate consequences). Emplo)tees make decisions
 to participate and to produce (March & Simon, 1958). Once employed, people
 generate action (Starbuck 1983),which means that action rather than consequences is more salient as an ongoing object that needs to be explained. As
 Kiesler noted, once a behavior is frozen, cognition in the form of justification
@@ -6554,7 +6554,7 @@ makes no decisions is a nonorganization; it is disorganized.It neither takes
 binding actions nor makes compelling reasons.
 
 Each person and organization chooses who it will be by first choosing what
-actions, if any, it needs to explain, and second,bychoosingwhich explanations
+actions, if any, it needs to explain, and second,by choosing which explanations
 for these actions it will defend. An inability or unwillingness to choose, act,
 and justify leaves people with too many possibilities and too few certainties.
 Binding decisions affect the tasks we are attracted to, the reasons that move
@@ -6581,18 +6581,18 @@ Given the many occasions of visible, irrevocable choice in organized anarchies, 
 more sensibleness in these structures. We would expect to find less sensibleness in traditional bureaucracies where formalization, tradition, and centralization reduce the occasions of choice. Participants in bureaucracies inherit
 explanations of what they are doing rather than construct them continually.
 Inherited explanations tend to be dated, which means they often fail to explain
-current events.When there are fewer opportunities to take committingaction,
+current events.When there are fewer opportunities to take committing action,
 there are also fewer opportunities to build more current understanding in the
 form of justifications tailored to these newer actions. Thus, even though the
 superstructure of a bureaucracy would seem to be laced with meaning, the
-meanings that are available tend to be outof date. Thusthebureaucracymakes
+meanings that are available tend to be outof date. Thus the bureaucracy makes
 less sense.
 
 Action n- Dr driven Pro cesses
 
 Organized anarchies, however, do not suffer the same fate. Their sensemaking is continuous, current, and unencumbered by tradition or overlearned routines. Because they generate so many commitments and justifications, anarchies
 should make more sense to members than they do to observers. This explains
-the puzzle often remarked on by sociologist John Meyer (personal communication, March 2,1979) that people in organizndanarchies do not appear to be
+the puzzle often remarked on by sociologist John Meyer (personal communication, March 2,1979) that people in organizational anarchies do not appear to be
 anomic even though they live with chronic disorder. One reason anarchies are
 not anomic may be that their form generates considerable meaning.
 
@@ -7446,7 +7446,7 @@ have been decisive all along, although it may not have felt that way at the time
 Decisiveness, in a prospective sense, is usually unattainable. And being so, it
 can lead managers to look like hypocrites. Prospective decisiveness gets derailed over and over by unexpected events and unanticipated consequences
 of initial actions. Retrospective decisiveness erases those false starts and dead
-ends. Although all of this erasing may look like distortion, it is actuallynothing
+ends. Although all of this erasing may look like distortion, it is actually nothing
 but learning in reverse. Either people start out to be decisive, engage in lots of
 trial and error, learn from the errors, and finally achieve an outcome, or they
 start with the outcome and reconstruct a history that summarizes what they
@@ -7457,7 +7457,7 @@ decisive in the future. Even if people exaggerate the similarity between the
 streamlined past and the disorderly present, this very exaggeration may make
 them more confident. Confidence, you will recall, is a crucial determinant of
 environmental enactment. Confident people are more likely to put in place
-the environments theyexpectandcan dealwith. Decisive retrospect can facilitate
+the environments they expect and can deal with dealwith. Decisive retrospect can facilitate
 subsequent decisiveness by creating expectations and scripts that function like
 self-fulfilling prophecies.
 
@@ -7534,7 +7534,7 @@ of action-outcome linkages that include their multiple interpretations. The
 variety of data needed to pull off this difficult task are most available in
 variants of the face to face meeting.
 
-For those already overwhelmedwith meetings, and forwhom this implication sounds like something that could only be dreamed up in the ivory tower,
+For those already overwhelmed with meetings, and forwhom this implication sounds like something that could only be dreamed up in the ivory tower,
 I simply ask that you take a closer look at the meetings that now overwhelm
 you. My hunch is that many of them prove to be unproductive because they
 are directed at problems of uncertainty that are better handled by other media
@@ -7680,7 +7680,7 @@ descriptively. And if meaning is inferred from action, then the separate
 meanings may still be equivalent even if they are not similar. If I act on the
 basis of my understanding of that common experience, and you act on your
 different understanding of that same experience, we remain tied together by
-the common origin of those understandings.If each of us is quizzedseparately
+the common origin of those understandings.If each of us is quizzed separately
 as to why we did what we did, our answers flow from the same experience.
 That commonalty is what binds us together and makes it possible for each of
 us to understand the sense the other has made.
@@ -7705,7 +7705,7 @@ Many foundations and stable reference points in the preceding arguments
 consist of what people expect to find. Expectations filter. Expectations provide
 guidance, especially when people have to act quickly. Forceful or persistent
 expectations modify the actions of others in the direction of that which is
-expected. Confidence in one's expectations can modify even noninterpersonal
+expected. Confidence in one's expectations can modify even non interpersonal
 environments.
 
 €r
@@ -7743,7 +7743,7 @@ have been uncovered, people can now begin to reformulate them, practice the
 reformulation, and repeat the testing. They can experiment with the level of
 abstraction at which they state the expectation and the categories included in
 it. The postmortem should also dwell on how the expectations themselves
-mighthave steered the unfolding events toward or awayfromwhatwas expected,
+mighthave steered the unfolding events toward or away from what was expected,
 which represents an attempt to spot self-fulfilling prophecies.
 
 A Mindset for Sensemaking
@@ -7832,7 +7832,7 @@ example is one of the few poems ever published in the prestigious Academy of
 Management Review. The poem, written by Mary Van Sell (1977) when she
 was a doctoral student attending her first national meeting, is a moving account
 of sensemaking, newcomer socialization, strong feelings, surprise, inferences,
-and intersubjectiviry written by someone who took her work and life too
+and intersubjectivity written by someone who took her work and life too
 seriously to split them. Here is her account of the 1975 Academy of Management meeting in New Orleans:
 
 Nonlinear Retrospective:
@@ -7907,7 +7907,7 @@ Lou Pondy, at a much more advanced stage in his career, also took his life
 and his work too seriously to split them, as Mike Moch (1989) made clear in
 this insightful depiction of Lou's creativity and the difficulties it caused him:
 
-On some occasions he seemed intentionally-but perhaps unconsciouslyto engage in actions for the purpose of generating more data; experiences
+On some occasions he seemed intentionally-but perhaps unconsciously to engage in actions for the purpose of generating more data; experiences
 upon which he could feed his considerable intellectual appetite. And this
 perhaps was his dilemma. He seemed to need a diverse and continually
 changing set of experiences in order to grow; however, this led him to put
@@ -8024,7 +8024,7 @@ Airport,G.Ⅵ L(1985).ThehbtOridbackground
 
 ""
 
-hsocialPsychology.InGollindzey&EoAronson
+social psychology.InGollindzey&EoAronson
 (E4s。 ),Hadbookοοl orSο d"IPS/Chο lay(3rd ed。 ,Vol.1,pp.卜 46)。 NewYork:Random House.
 Anderson,K.J。 (1990)。 AЮcausal and the inverted― U hypothesis:A critique ofNeissヽ "reconcep‐
 
@@ -8032,7 +8032,7 @@ tualizing arousal Rμ 力。logird B" ル
 
 妨 I(z96‐ 1∞ .
 
-Anderson,RA。 (1983).DecisionmakingbyobicctiOnandtheCubanmissnecrisis.〃 爾:" ,strari"
+Anderson,RA。 (1983).Decision making by objection and the Cuban missile crisis.〃 爾:" ,strari"
 
 "
 
@@ -8071,7 +8071,7 @@ Asch,S.E。 (1952)。 Soriαα IP彎ふ ο109.Englcwood Ch鮨 ,NI PrentiCe Ha■
 Ashmos,Do R,&Hubett Go R(1987).The SyStems Paradip in organizadon theo7:Correcting
 the record and suggesting thc hture。 たαルリ arMa" aga"θ″セツ:叫 12607-621.
 
-AsdeypWI G。 ,&VandeVen,A.H。 (1983).Centralperspectivesanddebatesinorga― tion theory.
+AsdeypWI G。 ,&VandeVen,A.H。 (1983).Central perspectives and debates in organization theory― tion theory.
 
 ガ Fli"istra"″ Sciθ
 
@@ -8194,7 +8194,7 @@ Brickman, P. ( l9S7). commitment, conflict, and caring. Englewood Cliffs, NJ: Pr
 Bridges, w. ( 199 I ). Managing transitions. Reading, lvlA: Addison-wesley.
 Brockner, J., & Wiesenfeld, B. ( 1993 ). Living on thc edge of social and organizational psychology:
 The effects of job lapffs on those who remain.In J. K. Murnighan (Ed.), Social psychology in
-organizations:ltilvatesintlpory anilresearch(W.l19-140). EnglewoodCliffqM: PrenticeHall.
+organizations:ltilvatesintlpory anilresearch(W.l19-140). Englewood Cliffs: PrenticeHall.
 Brockriede, W. ( l97a). Rhetorical criticism as argument. Quarterly Journal of Speech,60, L65-174,
 Brown, J. S., & Duguid, P. (1991). Organizational learning and communities-of-practice: Toward
 
@@ -8230,7 +8230,7 @@ Buckley, W. (196S). Society ae a complex adopting System. In W. Buckley (Ed.), M
 
 research for the behavioral scientist (pP. 490-513). Chicago: Aldine.
 
-Burke,K. (1969). A grammar of motiva.BerkclepUniversityof CaliforniaPress.
+Burke,K. (1969). A grammar of motiva.Berkeley University of CaliforniaPress.
 Burns, T., & Stalkcr, G. M. (1961) .The management of innovation. London: Tavistock
 Burrell, G., & Morgan, G. (1979) . Sociological paradigms and organizational analysis. London:
 
@@ -8238,7 +8238,7 @@ Heinemann.
 
 Cdder, 8.1.0977).An attribution theory of leadership. In B. M. Staw & G. R Salancik (Eds.),
 
-New directions in organizntionalbehavior (pp. L79-2M). Chicago: St. Clair.
+New directions in organizational behavior (pp. L79-2M). Chicago: St. Clair.
 
 Campbell, D. T. ( 1986). Science's socid system of vdidity-enhancing collective belief change and
 the problems of thc social sciences. In D. W. Fiske & R A. Shweder (Eds .), Metatheory in social
@@ -8280,7 +8280,7 @@ Cole,M.(1991).Conclusion.InL.B.Resnick,J.M.Levine,&S.D.Teasley(Eds.),
 
 Perspectives on
 
-socially sharedcognition(pp.398-417).Washington,DC: AmericanPsychologicalAssociation.
+socially shared cognition(pp.398-417).Washington,DC: American Psychological Association.
 Collini, S. (Ed.). (1992).Interpretation and overinterpretation. Cambridge, UK: Cambridge University Press.
 
 Conant, R. C., & Ashby, R. W. (1970). Every good regulation of a system must be a good model
@@ -8317,7 +8317,7 @@ Daft, R. L. (1930). The evolution of organization analysis in ASQ, 1959-L979. Ai
 
 Science Quarterly, 25, 623 -636,
 
-Daft, R. L., & Lengel, R H. (1984).Information richness: A new approach to managerialbehavior
+Daft, R. L., & Lengel, R H. (1984).Information richness: A new approach to managerial behavior
 and organization design. In B. M. Staw & L. L. Cummings (Eds.), Research in organimtional
 behavior (Yol. 6, pp. L9l-233). Greenwich, CT: IAI.
 
@@ -8348,7 +8348,7 @@ of Management Review,
 
 4,179-t9t.
 
-Dalton, M. (1959). Men who manage: Fusions of feelingandtheory in administration. NewYork:
+Dalton, M. (1959). Men who manage: Fusions of feeling and theory in administration. NewYork:
 
 |John Wiley.
 
@@ -8377,7 +8377,7 @@ Dubin, R (1976). Theory building in applied areas. [n M. D. Dunnette (Ed.), Hani
 
 industrial and organizational psychology (pp.17-39), Chicago: Rand McNally.
 
-Dunbar,RL.M. (1981). Designs fororganizationdcontrol.
+Dunbar,RL.M. (1981). Designs for organizational control.
 
 [n P.C.].Laptrong &W. H.Starbuck (Eds.),
 Hanilbook of organimtional ilesign (Vol. 2, pp. 85- I l5). New York Oxford University Press.
@@ -8789,7 +8789,7 @@ Mailloux, S. (1990). Interpretation. In F. Lentricchia & T. Mclaughlin (Eds.), C
 
 literary study (pp. L2l-134). Chicago: University of Chicago Press.
 
-Mandler, G. (1982). Stressandthoughtprocesses.In L. Goldberger &S. Handbook (Eds.), Handbook
+Mandler, G. (1982). Stress and thought processes.In L. Goldberger &S. Handbook (Eds.), Handbook
 
 of stress (pp.88-lOa). NewYork: Free Press.
 
@@ -8957,7 +8957,7 @@ Attenuating the impact of negative expectancies.lournal of Personality and Socia
 
 Nisbet, R. A. (1962). Sociology as an art form. Pacific Sociological Review, 5,67'74.
 Noble, D. (1993). A model to support development of situation assessment aids. In G. A. Klein,
-I.Orasanu,R.Calderwood,&C.E.Zsambok(Eds.), Decisionmakinginaction(pp.287-305).
+I.Orasanu,R.Calderwood,&C.E.Zsambok(Eds.), Decision making in action(pp.287-305).
 Norwood, NJ: Ablex.
 
 Olsen, l.P. (1976). Choice in an organized anarchy. In J. G. March & J. P. Olsen, Ambiguity and
@@ -8973,7 +8973,7 @@ Orr, I. E. (1990). Sharing knowledge, celebrating identity: Community memory in 
 culture. In D. Middleton & D. Edwards (Eds.), C,ollective remembering (pp. 159-189).
 London: Sage.
 
-Pagonis, W. G. (1992) , Movingmountains. Cambridge, MA: Harvard Business School Press.
+Pagonis, W. G. (1992) , Moving mountains. Cambridge, MA: Harvard Business School Press.
 
 Parsons, T. ( 1960). Structure and process in modern societies. Glencoe, IL: Free Press.
 Pentland, B. T. (1992). Organizing moves in software supPort lines. Administrative Science
@@ -8999,7 +8999,7 @@ Boston: Little, Brown.
 Peters, T. J., & Waterman, R. H., Ir. (1982). In search of excellence. New York Harper & Row
 Pfeffer, J. (1981). Management as symbolic action. In L. L. Cummings & B. M. Staw (Eds.),
 
-Raearch in organimtionalbehavior (vol. 3, pp. l-52). Greenwich, cT: JAI.
+Raearch in organizational behavior (vol. 3, pp. l-52). Greenwich, cT: JAI.
 
 Pfeffer, J. (1981). Power in organizations. Marshfield, MA: Pitman'
 Pfeffer, l. (1982). organizations and organization theory. Boston: Pitman.
@@ -9014,13 +9014,13 @@ of NewYork Press.
 
 Pondy, L. R. (197S). Leadership is a language game. In M. W. McCall, Jr. & M. M. Lombardo
 (Eds.), Leailership: Where else can we go? (pp. 87-99). Durham, NC: Duke University Press.
-Pondy,L.R.,&Mitroff,l'l'(1979)'BepndoPens)'stemsmodelsoforganization'InB'M'Staw
+Pondy,L.R.,&Mitroff,l'l'(1979)'BepndoPens)'systems models of organization'M'Staw
 
 (Ed.), Research in organizational behavior (Vol. 1, pp. 3-39). Greenwich, CT: IAI.
 
 Popper, K. R. (1972). Epistemology without a knowing subject. In K. R. Popper, Objedive
 knowleilge: An a,evolutionary approach (pp. 106-152). London: O:Oxford University Press.
-Porac,J. F.,Thomas,H., &Baden-Fuller, C. (1989). Competitivegroupsascognitivecommunities:
+Porac,J. F.,Thomas,H., &Baden-Fuller, C. (1989). Competitive groups as cognitive communities:
 The case of Scottish knitwear manufacture rs. Iounal of Management Studies, 26' 397 -416.
 Powell, W. W. (1985). Getting into print: The decision-making process in scholarly publishing'
 
@@ -9165,7 +9165,7 @@ Schwartzman, H. B. (1987). The significance of meetings in an American mental he
 
 American Ethnologist, 1 4, 27 | -29 4.
 
-Schwartzman,H.B.(1989). ThemeetingGatheingsinorganizationsandcommunities.NewYork:
+Schwartzman,H.B.(1989). The meeting gatherings in organizations and communities.NewYork:
 
 Plenum.
 
@@ -9173,7 +9173,7 @@ Scott, W. R. (1987). Organimtions: RationaL naturaL and open systems (2nd ed.). 
 
 Cliffs, NJ: Prentice Hall,
 
-Selznick,P. (1949). TVAanilthegrass roofs. Berkeley: Universityof CaliforniaPress.
+Selznick,P. (1949). TVA and the grass roofs. Berkeley: Universityof CaliforniaPress.
 Selznick, P. (1957). Leailership in administrator. NewYork Harper & Row.
 Shils, E. (1981). Tradition. Chicago: University of Chicago Press.
 Shotter,I.(1983)."Dualityofstructure"and"intentionality''inanecologicalpsychology. Journal
@@ -9186,7 +9186,7 @@ Sills, D. L., & Merton, R. K. (Eds.). (1991). International encyclopedia of the 
 science quotations (Vol. l9). NewYork Macmillan.
 
 Silverman, D. ( 1970). The theory of organisations. New York: Basic Books.
-Simon, H. A. (1957). Mministrativebehavior (2nd ed.). NewYork Macmillan.
+Simon, H. A. (1957). Administrative behavior (2nd ed.). NewYork Macmillan.
 Singer, I. B. (1961). The Spinom of Market Street. NewYork: Farrar, Straus, Cudahy.
 Smircich, L. ( 1983). Organizations as shared meanings. In L. R. Pondy, P. J. Frost, G. Morgan, &
 

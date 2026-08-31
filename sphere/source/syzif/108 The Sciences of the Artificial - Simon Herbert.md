@@ -2339,7 +2339,7 @@ Possible search tree for DONALD + GERALD = ROBERT
 
 What is meant by searching for direct contradictions is something like this: after
 a new assignment has been made, those columns are examined where the newly
-substituted letter occurs. Each such column is solved, if possible, for a stillunassigned letter, and the solution checked to see whether this numeral remains
+substituted letter occurs. Each such column is solved, if possible, for a still unassigned letter, and the solution checked to see whether this numeral remains
 unassigned. If not, there is a contradiction.
 
 In place of brute-force search we have now substituted a combined system of
@@ -2597,7 +2597,7 @@ Beneath any approximate, even very rough, constancy, we can usually expect to
 find a genuine parameter whose value can be defined accurately once we know
 what conditions we must control during measurement.
 
-If the constancy simply reflected a parameter of Ebbinghausalbeit one that held
+If the constancy simply reflected a parameter of Ebbinghaus albeit one that held
 steady over several years it would be more interesting to biography than
 psychology. But that is not the case. When we examine some of the Hull-
 Hovland experiments of the 1930s, as reported, for ex-
@@ -3257,7 +3257,7 @@ serial architectures, and that the experimentally observed limits on concurrent
 cognitive activity can be represented in the connectionist models, the case for
 massive parallelism outside the sensory functions remains dubious.
 
-When we turn from tasks that exercise mainly the short-term memory and serialprocessing capabilities of the central nervous system to tasks that involve
+When we turn from tasks that exercise mainly the short-term memory and serial processing capabilities of the central nervous system to tasks that involve
 retrieval of stored information, we encounter new limits of adaptation, and
 through these limits we acquire new information about the organization of mind
 and brain. Studies of visual perception and of tasks requiring use of natural

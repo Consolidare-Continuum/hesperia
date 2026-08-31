@@ -934,7 +934,7 @@ withdrawal from battle into some untroubled heaven above it,
 whence it could be surveyed dispassionately by the self-sufficient
 philosopher, was not the only way out.17
 
-[187] If the pursuit of freedom by self-abnegation leads to selfannihilation, the pursuit of it by the removal of obstacles leads to
+[187] If the pursuit of freedom by self-abnegation leads to self annihilation, the pursuit of it by the removal of obstacles leads to
 wholly different results. Faced with obstacles to my will, I can yield
 before them and alter the direction of my will; but I can also
 transform them by using them as means to my ends. How can I

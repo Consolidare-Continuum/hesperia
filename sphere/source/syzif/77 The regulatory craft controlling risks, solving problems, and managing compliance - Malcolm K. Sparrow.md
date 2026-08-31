@@ -304,7 +304,7 @@ clearly toward a whole new model of regulatory conduct, one that reemphasizes th
 were created: to reduce risks, to eliminate hazards, and to solve some of
 society's thornier and more intractable problems. Professor Sparrow's
 analysis shows what it takes, in practice, for regulatory bureaucracies to
-deliver that kind of performance. Given the current pressure for resultsoriented government, this work could not have come at a better time.
+deliver that kind of performance. Given the current pressure for results oriented government, this work could not have come at a better time.
 
 Preface
 
@@ -352,7 +352,7 @@ them realize the benefits it brings.
 
 But why a new book, and what of Imposing Duties? If anything
 
-Imposing Duties was published too early, before the usefulness of crossprofessional discussions was generally accepted by regulatory practitioners and before the congressional assaults on key federal regulatory agencies (early in 1995) brought the issues of regulatory reform into such
+Imposing Duties was published too early, before the usefulness of cross professional discussions was generally accepted by regulatory practitioners and before the congressional assaults on key federal regulatory agencies (early in 1995) brought the issues of regulatory reform into such
 stark relief. Now, the challenges of regulatory reform confront government squarely and urgently and are seen by many as the major unresolved issue, both political and intellectual, within the realm of government reinvention.
 
 This book is not a reissue, nor an update, of Imposing Duties.
@@ -702,7 +702,7 @@ were similarly struggling with the problem of "regulatory unreasonableness," and
 inevitably play in any resolution:
 
 Much that is excessive about protective regulation springs, at one
-level, from the overinclusiveness of centrally formulated rules
+level, from the over inclusiveness of centrally formulated rules
 applied broadly to enterprises that differ in technology, attitudes,
 capabilities, potential for harm, and costs of abatement. In some
 degree this problem arises . . . from the sheer technical difficulty of
@@ -1273,7 +1273,7 @@ Given the strength of the U.S. public interest community, and the fact
 that as societies become wealthier they tend to face political pressure for
 greater environmental, health, and safety protections, the moral and ideological arguments are unlikely to subside anytime soon.17 Given their
 persistence—and the reluctance of industry groups to appear antihealth,
-antisafety, or antienvironment—the debate progresses to theme three.
+antisafety, or anti environment—the debate progresses to theme three.
 
 The Irrational Distribution of Regulatory Attention
 
@@ -1434,7 +1434,7 @@ recommendations with respect to regulatory practice. For example, consider Phili
 
 26 THE CHALLENGES OF REGULATION
 
-of excessive, overprescriptive regulatory law suffocating America, he
+of excessive, over prescriptive regulatory law suffocating America, he
 bores in on the central problem, which, he says, is the absence of one
 indispensable ingredient: the use of human judgment. He blames the
 absence of human judgment on the adopted credo "that government
@@ -1615,7 +1615,7 @@ this "regulating smarter," while the European Commission has
 announced "less action, but better action." In the longer term, the
 goal is to move governments from a culture of "control" to a culture of "client service."3
 
-For regulators, figuring out where these private sector, customerfocused, management techniques ought to be used, and where they
+For regulators, figuring out where these private sector, customer focused, management techniques ought to be used, and where they
 ought not, is important work. Chapters 4 and 5 address customer service and process improvement in detail. Regulators can neither ignore nor
 escape the substantial pressure to emulate private industry's use of these
 techniques in order to provide better service.
@@ -1869,7 +1869,7 @@ only of choosing an aggregate style for the times? Or at one time, for
 different agencies? Or can a single agency simultaneously apply different
 styles to different industries or regions? Or—working all the way
 down—can individual enforcement officers choose from a range of
-responses, conducting themselves in a semimilitaristic fashion with
+responses, conducting themselves in a semi militaristic fashion with
 respect to one problem and then brokering a negotiated settlement
 among multiple parties on the next? Ayres and Braithwaite clearly envisage the possibility of stylistic choices within an agency, as staff
 encounter differing motivations among industry associations and individuals: "We suggest that regulation be responsive to industry structure
@@ -2486,7 +2486,7 @@ more closely attends.
 The Internal Revenue Service
 
 It is remarkable how easily a genuine concern for mission accomplishment (expressed as a desire to improve compliance) can undergo this
-distortion, to the point at which the message becomes positively antienforcement. The IRS has teetered on the brink of this calamity for some
+distortion, to the point at which the message becomes positively anti enforcement. The IRS has teetered on the brink of this calamity for some
 time. In 1991 Commissioner Fred Goldberg began enunciating a new
 vision of compliance management, which he distinguished from the way
 the IRS operated at the time. Speaking of "a decade of fundamental
@@ -3976,7 +3976,7 @@ Assessing Progress
 
 Putting aside the pioneers and innovators for a moment, one should
 consider how far the regulatory and enforcement side of government in
-general has progressed with respect to the three core elements of reforming regulatory practice. Of the three, the third (investment in collaborative partnerships) seems the most advanced, perhaps because of its nonconfrontational nature and the way it fits the reinvention agenda. Even
+general has progressed with respect to the three core elements of reforming regulatory practice. Of the three, the third (investment in collaborative partnerships) seems the most advanced, perhaps because of its non confrontational nature and the way it fits the reinvention agenda. Even
 so, there now appears to be a gradual mutation under way (or a shift of
 resources from one kind of partnership to another), as regulators are
 forced to ask what benefits their partnership programs produce.
@@ -9919,7 +9919,7 @@ seven examples, the specific form of analysis that provided the insight had
 never been done before. And the specific form of analysis was, for each of
 the seven, different. Yet the contribution of analysis in all cases—despite
 the different settings, data sources, and analytic methods—is exactly the
-same: analysis revealed a concentration of the risk, or a previously undiscovered view of the problem, that indicated an opportunity for resourceefficient intervention. In one case, analysis revealed a role vulnerability
+same: analysis revealed a concentration of the risk, or a previously undiscovered view of the problem, that indicated an opportunity for resource efficient intervention. In one case, analysis revealed a role vulnerability
 (courier recruiters); in another, a concentration of the risk (deckhands
 falling overboard); in others, an opportunity to leverage scarce resources
 by acting through a relatively small subset of the regulated community
@@ -13430,7 +13430,7 @@ Innovations in American Government
 (competition): overview, 81-82,
 149; process-oriented reforms,
 82-83; risk analysis-oriented
-reforms, 89-97; risk reductionoriented reforms, 83-89
+reforms, 89-97; risk reduction oriented reforms, 83-89
 
 Innovativeness requirements (Behn),
 

@@ -2570,7 +2570,7 @@ Every such statement-function is transformed into a statement by the
 substitution of certain values for the blanks, x and y. The resulting
 statement will be either true or false, according to the values (or combination of values) substituted. Thus, in the first example, substitution
 of the word 'copper' or 'zinc' for 'x' yields a true statement, while
-other substitutions yield false ones. Now what I call a 'statementequation' is obtained if we decide, with respect to some statementfunction, to admit only such values for substitution as turn this
+other substitutions yield false ones. Now what I call a 'statement equation' is obtained if we decide, with respect to some statement function, to admit only such values for substitution as turn this
 function into a true statement. By means of this statement-equation a
 definite class of admissible value-systems is defined, namely the class of
 those which satisfy it. The analogy with a mathematical equation is
@@ -3340,7 +3340,7 @@ discuss it here in some detail.
 25 PERCEPTUAL EXPERIENCES AS EMPIRICAL
 BASIS: PSYCHOLOGISM
 
-The doctrine that the empirical sciences are reducible to senseperceptions, and thus to our experiences, is one which many accept as
+The doctrine that the empirical sciences are reducible to sense perceptions, and thus to our experiences, is one which many accept as
 obvious beyond all question. However, this doctrine stands or falls with
 inductive logic, and is here rejected along with it. I do not wish to deny
 that there is a grain of truth in the view that mathematics and logic are
@@ -3374,7 +3374,7 @@ course, the statements of science.
 
 Usually the problem is not explored as far as this. In the epistemologies of sensationalism and positivism it is taken for granted that
 empirical scientific statements 'speak of our experiences'.3 For how
-could we ever reach any knowledge of facts if not through senseperception? Merely by taking thought a man cannot add an iota to his
+could we ever reach any knowledge of facts if not through sense perception? Merely by taking thought a man cannot add an iota to his
 knowledge of the world of facts. Thus perceptual experience must be
 the sole 'source of knowledge' of all the empirical sciences. All we
 know about the world of facts must therefore be expressible in the

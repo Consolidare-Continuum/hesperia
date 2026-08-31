@@ -3290,7 +3290,7 @@ the IBM System/360 Computer Family, 1961–1965
 
 The initial seven IBM System/360 computers were concurrently
 developed in four locations across three countries: Poughkeepsie and Endicott, New York; Hursley, UK; Böblingen, Germany.
-These computers, the first upward-downward strictly binarycompatible family, pioneered the industry switch from 6-bit to
+These computers, the first upward-downward strictly binary compatible family, pioneered the industry switch from 6-bit to
 8-bit bytes. I was Project Manager. Chapter 24 is a case study of
 the architecture design for System/360. (The Model 20 wasn't
 downward-compatible—a mistake in the mind of architect William Wright, and in my view.)
@@ -3363,7 +3363,7 @@ For some of these, you would prefer email or telephone over
 walking (and time synchronizing); for others, you would gladly
 walk quite a distance.
 
-The most successful telecollaborations I have known have been
+The most successful tele collaborations I have known have been
 built on extensive face-time histories, and even these have required
 some face time during the ongoing telecollaboration. Absent such
 histories, travel is worth what it costs in money and time.
@@ -4311,7 +4311,7 @@ Track Publicly
 
 The whole team needs to know, continually, the current budget
 for the critical resource. In particular, each sub-team, each team
-member, must know how many chip milliwatts or transactionprocessing disk accesses their part of the design may use, how
+member, must know how many chip milliwatts or transaction processing disk accesses their part of the design may use, how
 many they control.
 
 Control Firmly
@@ -4706,7 +4706,7 @@ Revelations 22:16.
 
 3.
 
-http://www.blueridgeparkway.org/linncove.htm, accessed on
+http://www.blueridge parkway.org/linncove.htm, accessed on
 July 18, 2009.
 
 4.
@@ -5926,7 +5926,7 @@ and most for run time.
 
 Like S/360 Assembler in Syntax, Rather than a High-Level Language. Having mistakenly decided to have one schedule-time
 language, the designers chose the wrong one. As early as 1966,
-one year after the full OS/360 was up and running, assemblerlanguage jobs accounted for only about 1 percent of all jobs. A
+one year after the full OS/360 was up and running, assembler language jobs accounted for only about 1 percent of all jobs. A
 major paradigm shift had happened, and it wasn't recognized.
 
 But Not Exactly Like S/360 Assembler Syntax. Enough deviations crept into JCL that knowing S/360 Assembler syntax did
@@ -5983,7 +5983,7 @@ setting. In this case, following an exemplar brought disaster.
 The key thinkers on the oS/360 JCL had come to the oS/360
 project fresh from the highly successful IBM 1410/7010 Operating System (1963). In terms of function, the 1410/7010 OS was
 perhaps two orders of magnitude simpler than OS/360. It was
-strictly a batch operating system designed for classical filemaintenance applications, without teleprocessing. Scheduling
+strictly a batch operating system designed for classical file maintenance applications, without teleprocessing. Scheduling
 functions such as file names and I/O device assignments were
 specified by a few simple control cards placed before each job's
 deck as it was put into the punched-card reader, a technique dating from tape-based operating systems.
@@ -8453,7 +8453,7 @@ reason for formal education is continual retooling.
 
 I have personally found formal short courses an effective and
 economical method for retooling—I have averaged one per year.
-Why? Can't one keep up by journal-reading and conferencegoing? Indeed one can! But I am a believer in formal education—
+Why? Can't one keep up by journal-reading and conference going? Indeed one can! But I am a believer in formal education—
 a good teacher who carefully prepares a balanced overview of
 a subject can improve my learning efficiency by a factor of two
 or more and can quickly give a balance and perspective that
@@ -10801,7 +10801,7 @@ Few computer architectures have had their rationales so thoroughly discussed as 
 rationale discussions.1 This case-study essay will therefore hit
 only the high spots.
 
-In 1960 it was clear that IBM's second-generation (discretetransistor technology) computer product lines were running out
+In 1960 it was clear that IBM's second-generation (discrete transistor technology) computer product lines were running out
 of architectural gas (memory-addressing capacity, principally).
 IBM's existing mutually incompatible product lines, each with its
 own software and market support, were
@@ -10974,9 +10974,9 @@ and character-string operations for business data without compromising the cost 
 
 Broader Application Scope. A third major challenge was
 achieving the total systems diversity needed for new applications
-(especially communications and remote terminals), for computeintensive systems, and for data-processing-intensive systems.
+(especially communications and remote terminals), for compute intensive systems, and for data-processing-intensive systems.
 
-Conversion from Existing Systems. Conversion from secondgeneration systems was a nightmare that we didn't spend much
+Conversion from Existing Systems. Conversion from second generation systems was a nightmare that we didn't spend much
 effort thinking about during the first year of the design.
 
 Most Significant Design Decisions
@@ -11508,7 +11508,7 @@ installations showed that application programs written in assembler accounted fo
 
 From its inception in 1961 until mid-1965, I had the once-in-alifetime opportunity to manage the IBM System/360 Computer
 Family Project—first the hardware and then the Operating System/360 software package. This computer family, announced on
-April 7, 1964, and first shipped in February 1965, defined "thirdgeneration" computers and introduced (semi)-integrated-circuit
+April 7, 1964, and first shipped in February 1965, defined "third generation" computers and introduced (semi)-integrated-circuit
 technology into off-the-shelf computer products.
 
 Just as the first-generation operating systems were developed for second-generation computers, so OS/360 is the first of
@@ -11546,7 +11546,7 @@ It, too, evolved, and its descendants are alive today.
 The System/360 Computer Family
 
 Chapter 24 describes the market context for the computer family and gives its chief architectural properties. A radical conceptual innovation was that all of the models (except the cheapest,
-Model 20) would be logically identical, upward- and downwardcompatible implementations of a single architecture. Blaauw
+Model 20) would be logically identical, upward- and downward compatible implementations of a single architecture. Blaauw
 and I define a computer architecture to be precisely the set of
 computer properties visible to the programmer, not including
 speed.3 In software engineering terms, a computer architecture

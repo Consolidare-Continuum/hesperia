@@ -1305,7 +1305,7 @@ Nel Noddings focuses especially on the attitudes of caring that typically accomp
 thoughts of those cared for, and a skill in understanding a situation from that
 person's point of view, are central to caring for someone.2 Carers act in behalf
 of others' interests, but they also care for themselves, since without the maintenance of their own capabilities, they will not be able to continue to engage in
-care. To Noddings, the cognitive aspect of the carer's attitude is receptiveintuitive rather than objective-analytic, and understanding the needs of those
+care. To Noddings, the cognitive aspect of the carer's attitude is receptive intuitive rather than objective-analytic, and understanding the needs of those
 cared for depends more on feeling with them than on rational cognition. In
 the activity of care, abstract rules are of limited use. There can be a natural
 impulse to care for others, but to sustain this, persons need to make a moral

@@ -5359,7 +5359,7 @@ unconditional	love.	As	a	boy	he	had	learned	what	philosophical	systems
 frequently	 justify:	 that	 it	 is	 had	 to	 he	 incomplete.	 This	 led	 to	what	 he
 describes	as	a	"crippling	inability	to	feel	and	express	genuine	affection
 or	tenderness."	106	Lupa	cured	him	of	this	because	in	her	presence	he
-was	 able	 to	 be	 like	 her:	 to	 let	 mistrust	 give	 way	 to	 trust	and	 selfprotectiveness	to	devotion.	The	account	suggests	that	learning	to	he	in
+was	 able	 to	 be	 like	 her:	 to	 let	 mistrust	 give	 way	 to	 trust	and	 self protectiveness to devotion	to	devotion.	The	account	suggests	that	learning	to	he	in
 that	respect	more	like	Lupa	may	be	a	key	to	the	human	phenomenon	so
 often	called,	in	philosophy,	the	"ascent"	or	reform	of	love.	Part	III	will
 develop	this	suggestion.
@@ -10077,7 +10077,7 @@ dreams."'-	 We	 find	 the	 same	 comparison	 in	 Proust,	 who	 speaks	 of	 the
 Vinteuil	 sonata	 as	 embodying	 the	 "very	 essence"	 of	 an	 "intimate
 sadness,"	 in	 the	 form	 of	 "actual	 ideas,	 of	 another	 world,	 of	 another
 order,	ideas	 veiled	 in	 shadow,	 unknown,	 impenetrable	 to	 the	 human
-intel-	lect.-11	Like	Mahler,	he	connects	this	otherworldiness	in	music,
+intel-	lect.-11	Like	Mahler,	he	connects	this	other worldliness in music	in	music,
 its	difference	 from	 daily	 linguistic	 structures,	 to	 its	 ability	 to	 express
 the	depths	 of	 the	 emotional	 world:	 "I	 wondered	 whether	 music	 might
 not	be	the	unique	example	of	what	might	have	been	-	if	the	invention	of
@@ -10647,7 +10647,7 @@ view	of	the	music	is	throughout	the	point	of	view	of	the	grieving	parent,
 or,	 more	 generally,	 of	 a	 person	 who	 has	 suffered	 a	 great	 loss.	 His
 interpretation,	furthermore,	corresponds	to	a	plausible	interpretation	of
 the	 Ruckert	 text,	 as	 it	 would	 easily	 he	 heard	 in	 its	 Christian	context,
-where	 the	 parent	 would	 he	 seen	 as	 calling	 himself	 to	 the	 duty	of	 selfconsolation.	(Thus	Riickert	did	not	even	sec	fit	to	publish	the	poems	in
+where	 the	 parent	 would	 he	 seen	 as	 calling	 himself	 to	 the	 duty	of	 self consolation.	(Thus	Riickert	did	not	even	sec	fit	to	publish	the	poems	in
 his	lifetime.)	But	I	shall	argue	that	this	message	of	benign	consolation,
 satisfying	 though	 it	 may	 he,	 is	 not	 at	 all	 the	 emotional	message	 that
 these	two	songs	contain:	Mahler's	own	relation	to	grief,	shaped	by	the
@@ -12023,7 +12023,7 @@ epistemological	 aid	 to	 forming	 the	 eudaimonistic	 judgment	 -	 not
 necessary,	but	usually	very	important.
 
 Finally,	let	us	recall	that,	like	all	emotions	directed	at	living	beings,
-compassion	 frequently	 either	 contains	 or	 is	 closely	 linked	 to	 a	 noneudairnonistic	element	of	wonder	(see	Chapter	i,	section	V).	In	viewing
+compassion	 frequently	 either	 contains	 or	 is	 closely	 linked	 to	 a	 non eudaimonistic	element	of	wonder	(see	Chapter	i,	section	V).	In	viewing
 Philoctetes	 with	 compassion,	 as	 worthy	 of	 concern	 and	 help,	 I	 also
 consider	him	as	a	human	being,	and	I	see	that	humanity	itself	with	an
 emotion	that	is	likely	to	be,	at	least	in	part,	non-eudaimonistic;	but	the
@@ -12714,7 +12714,7 @@ producing	 two	 groups	 of	 subjects:	 a	 "high-empathy"	 group	 and	 a
 "low-empathy"	group.	Since	by	"empathy"	he	means	(as	he	tells	us)	what
 philosophers	typically	mean	by	"compassion,	tenderness,	and	the	like,"
 what	 he	 is	 really	 doing	 is	 producing	 a	 compassionate	 group	 and	 a
-noncompassionate	 group	 -	 and	 then	 seeing	 how	 the	 emotion	 affects
+non compassionate	 group	 -	 and	 then	 seeing	 how	 the	 emotion	 affects
 helping.	 But	 he	 does	 not	 define	 the	 emotion	 itself	 with	 any	 rigor,	 nor
 does	 he	 have	 altogether	 satisfactory	 ways	 of	 ascertaining	 its	 presence.
 Typically	he	asks	for	self-reports	of	emotional	states	-	as	he	is	aware,	a
@@ -26038,7 +26038,7 @@ erotic	 in	 the	 work	 we	 find	 the	 antiheroic	 doubleness	 I	 have	 already
 mentioned	 -	 when	 we	 discover	 in	 the	 Blooms'	 house	 a	 romantic	novel
 "which	 must	 have	 fallen	 down	 sufficiently	 appropriately	 beside	the
 domestic	 chamberpot"	 (653);	 when	 we	 notice	 that	 Bloom's	 haunting
-memory	 of	 Howth	 and	 the	 rhododendrons	 is	 followed	 by	 a	 lessthanromantic	vision:
+memory	 of	 Howth	 and	 the	 rhododendrons	 is	 followed	 by	 a	 less than romantic	vision:
 
 All	 quiet	 on	 Howth	 now.	 The	 distant	 hills	 seem.	 Where	 we.	 The
 rhododendrons.	 I	 am	 a	 fool	 perhaps.	 He	 gets	 the	 plums	 and	 I	 the
@@ -26381,7 +26381,7 @@ warmth,	 reminiscent	 of	 secular	families	 of	 curves	 of	 amplitude,
 insusceptible	of	moods	of	impression	or	of	contrarieties	of	expression,
 expressive	of	mute	immutable	mature	animality.
 
-The	visible	signs	of	antesatisfaction?
+The	visible	signs	of	ante satisfaction?
 
 An	approximate	erection:	a	solicitous	adversion:	a	gradual	elevation:
 
@@ -26946,7 +26946,7 @@ Killing,	and	Representation.	New	York:	Oxford	University	Press.
 Batson,	 C.	 D.
 
 ).	 The	 Altruism	 Question:	 Toward	 a
-SocialPsychological	 Answer.	 Hillsdale,	 NJ:	 Lawrence	 Erlbaum
+Social Psychological	 Answer.	 Hillsdale,	 NJ:	 Lawrence	 Erlbaum
 Associates.
 
 (,9

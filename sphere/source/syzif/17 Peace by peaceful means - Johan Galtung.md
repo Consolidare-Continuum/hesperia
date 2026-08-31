@@ -734,7 +734,7 @@ how conflicts can be transformed, both nonviolently and creatively. Obviously th
 definition is more dynamic than the former.
 
 Both definitions focus on human beings in a social setting. This makes peace studies a
-social science, and more particularly an applied social science, with ail explicit valueorientation.
+social science, and more particularly an applied social science, with ail explicit value orientation.
 
 Epistemologically, peace studies will share some assumptions with all scientific endeavors, some with other social sciences, and some with other applied sciences such as medical
 (health) studies, architecture, and engineering.
@@ -1336,7 +1336,7 @@ machinery'; both being peace mechanisms, and the Nordics have them.
 The explicans has a certain explanatory force. At the core of the explicans we find
 axioms, tenets of belief not in need of, or beyond, further explanation. In general we are
 talking about logical chains here, with the explicans in one context being the explicandum
-in another. An axiom has no explicans, being its own explanation. Rather than selfexplanatory, it is Self-explanatory.
+in another. An axiom has no explicans, being its own explanation. Rather than self-explanatory, it is Self-explanatory.
 
 But that gives to axioms godlike characteristics. They are self-contained, their own
 explanation like god being his/her own cause (causa sua). They are omniscient, in the
@@ -1513,7 +1513,7 @@ Peace Studies: Some B asic Paradigms
 2.1 Tbe Diagnosis-Prognosis-Therapy Triangle Again
 
 This language is obviously drawn from medical science, an applied science that took
-some centuries to get from the Scylla of under-recognition to the Charybdis of overrecognition. Peace studies has much to learn from all three stages. The non-recognition
+some centuries to get from the Scylla of under-recognition to the Charybdis of over recognition. Peace studies has much to learn from all three stages. The non-recognition
 took two basic forms easily captured in the analytical framework above: what is rejected ­
 the disease - should actually be desired because there is a meaning behind it, God's plan,
 difficult to grasp but the suffering will ennoble you; and sheer dogmatism, ordaining
@@ -1814,7 +1814,7 @@ Conceptualization in terms of geographical location - whether of the problem exp
 or of the author - runs contrary to the globalism of peace studies. And conceptualization
 according to discipline leads to systematics with psychological, economic-sociological-politological-anthropological, international relations-law approaches, which runs
 contrary to the holism of peace studies. The old disciplinary structure would carry over
-into a new discipline in search of its own perspectives, whether referred to as transdisciplinary or as a new discipline. MuItidisciplinarity, with an inner dialogue across
+into a new discipline in search of its own perspectives, whether referred to as transdisciplinary or as a new discipline. Multidisciplinarity, with an inner dialogue across
 disciplinary borders, is only an early phase.
 
 Another approach would be to ask researchers in the field how they themselves define
@@ -1981,7 +1981,7 @@ addition, there is also the horizontal structural violence of being too tightly 
 being too loosely or even unrelated. Structures can be too dominant (vertical), too tight
 (horizontal) too much (both/and), and too little (neither one, nor the other).
 
-Cultural violence divides by content: religion, law and ideology, language, art, empiricallformal science, cosmology (deep culture) and by carriers: schools, universities, media.
+Cultural violence divides by content: religion, law and ideology, language, art, empirical formal science, cosmology (deep culture) and by carriers: schools, universities, media.
 Intended violence can originate only in (human) persons, as individuals or inside collectivities, in social and world spaces; sometimes using natural, structural, and cultural
 violence. But the harmful effects of intended violence can be found everywhere - in
 humans, in sentient nature, in non-sentient nature, and in damaged structures and cultures, also as time violence. Violence also hurts and harms the non-sentient parts of the
@@ -2954,7 +2954,7 @@ for women's affairs, at Mannsmassan, Goteborg, 21 May 1 99 1 .
 
 8 . For the Inquisition, see Cecil Roth, The Spanish Inquisition (New York/London: w.w.
 Norton); and Robert Held, Inquisition-Inquisicion: a Bilingual Guide to the exhibition of torture
-instrumentsfrom the Middle Ages to the Industrial Era presented in various European cities in 1983-92,
+instruments from the Middle Ages to the Industrial Era presented in various European cities in 1983-92,
 (Florence: no publisher or year indicated). All texts and pictures attribute the violent roles to men,
 with women frequently among the victims.
 
@@ -4199,7 +4199,7 @@ To develop is to create. The same is true of peace, but peace also has that emph
 contradiction, something standing in the way of something else. A problem, in other
 words. And what could serve better as a force motrice for any actor, individual or collective, than a problem demanding to be solved?
 
-But somewhere a danger is also lurking, particularly if the problem is highly solutionresistant. ' Something standing in the way of something else.' I want something badly, but
+But somewhere a danger is also lurking, particularly if the problem is highly solution resistant. ' Something standing in the way of something else.' I want something badly, but
 so does somebody else. I want something badly, but I also want something else. These classical situations will be referred to as the elementary conflict formations or conflict atoms:
 
 Dispute: Two persons, or actors, pursuing the same scarce goal.
@@ -4268,7 +4268,7 @@ gradient. Somalia has no goals, nor does the USA; but certain elites in either o
 experience the gradient mentioned. We include all kinds of life, but exclude non-life
 from conflict.
 
-So conflict is about life, pointing straight to contradictions as life-creative and lifedestructive. A theory of conflict will have to be located at this level phenomenologically.
+So conflict is about life, pointing straight to contradictions as life-creative and life destructive. A theory of conflict will have to be located at this level phenomenologically.
 How close to the essence of life can be discussed, but this aspect should be ever-present
 in the discourses now to be developed about conflict. If conflict is essential in life, then life
 may also be essential for conflict. A conflict does not experience happiness-suffering. But
@@ -8702,7 +8702,7 @@ Synchronic
 diachronic
 solidarity
 
-Challengesharing
+Challenge sharing
 Equity main
 norm
 
@@ -9461,7 +9461,7 @@ saying this an ideology has actually been made explicit. The purpose of human ac
 including economic activity, is to enhance life - reducing dukkha and increasing sukha, in
 Buddhist parlance. 16 Economistic pain/pleasure does a poor job at that.17
 
-The shallow definitions of the externalities in these spaces spell out the general valuedimensions in a way that comes very close to these absolute values. 'Development' is
+The shallow definitions of the externalities in these spaces spell out the general value dimensions in a way that comes very close to these absolute values. 'Development' is
 given a negative aspect, to abolish misery; and a positive aspect, to meet and develop
 basic needs. 'Peace' and 'sustainability' extend this approach in space and time, as synchronic and diachronic solidarity, with those - human or non-human - suffering from
 needs deficits. There is also in that connection a violence vocabulary where development
@@ -10030,7 +10030,7 @@ expert, or the owner), technology (the technical manager) or the manager (the CE
 That person may share some of the challenge with others at the same level. The general effects remain inside the person challenged, who may change jobs and take those
 effects with him, as private property.
 In the Second (then Socialist) World, the challenge went to a very small group of
-planners who were over-challenged while the rest of the population remained underchallenged. The effects may have stayed within the state planning agencies, but not
+planners who were over-challenged while the rest of the population remained under challenged. The effects may have stayed within the state planning agencies, but not
 have been so positive, given the excessive level of challenge.
 In the Third World, the challenge very often goes to the outsider, the development
 assistance expert who finds the task stimulating, particularly if he has more power
@@ -10771,7 +10771,7 @@ the condition for arriving at that conclusion is one-dimensional thinking, a kin
 
 Much more complex typologies than that of Thesis No. I can be imagined. But the present typology has the advantage of accommodating relatively well the systems and
 schools existing in the present world. The Blue system, the market system, comes in two
-versions: a Center, high on degree of processing of raw materials and on communicationtransportation centrality, benefiting amply from the accumulative effect of positive
+versions: a Center, high on degree of processing of raw materials and on communication transportation centrality, benefiting amply from the accumulative effect of positive
 externalities; and a Periphery, low on degree of processing and on communication-transportation centrality; suffering from the accumulative effect of negative externalities. But,
 as also pointed out: Center and Periphery of the Blue (or of the Red and the Yellow for
 that matter: all of them are centralizing) are two sides of the same system.
@@ -10812,7 +10812,7 @@ social, cultural, political for that matter) eclecticism.
 
 Thesis No. 3
 
-A necessary condition for development of any kind is decentralized distribution of productionfactors to all, making everybody a potential participant in some production, not
+A necessary condition for development of any kind is decentralized distribution of production factors to all, making everybody a potential participant in some production, not
 only in consumption.
 
 The basic point is decentralization - meaningful within all systems, also the Red system.
@@ -11134,7 +11134,7 @@ system described in this chapter, Eclectic.
 398-41 3 in The True Worlds (New York: The Free Press, 1 980); 'Self-Reliance: Concepts, Practice
 and Rationale', in Johan Galtung, Peter O'Brien & Roy Preiswerk, eds, Self-reliance: a Strategy for
 Development (London: Bougie L'Ouverture, 1 980); and Self-Reliance, Beitriige zu einer alternativen
-Entwicklungsstrategie (Mir. A. Ferdowsi, ed.) (Munich: Minerva, 1 983).
+Entwicklungs strategie (Mir. A. Ferdowsi, ed.) (Munich: Minerva, 1 983).
 
 5. An extreme case, but not unrealistic in our world, is central power exercised by a foreign
 occupying force. The more centralized the system, the easier for them to control the country, as
@@ -12506,7 +12506,7 @@ I . 'Cultural violence' follows in the footsteps of the concept of 'structural v
 'Violence, Peace and Peace Research', Journal of Peace Research, vol. 6, no. 3, 1 969, pp. 167- 1 9 1 . For
 a more recent and very constructive critique and etTort to develop the idea further, see Michael Roth,
 'Strukturelle und personale Gewalt: Probleme der Operationalisierung des Gewaltbegriffs von lohan
-Galtung', HSFK Forschungsbericht, no. I , April, 1988. A similar concept is introduced in Hans
+Galtung', HSFK Forschungs bericht, no. I , April, 1988. A similar concept is introduced in Hans
 Saner, 'Personale, strukturelle und symbolische Gewalt', pp. 73-95 in Hoffnung und Gewalt. Zur
 Ferne des Friedens (Basel: Lenos & Z. Verlag, 1 982).
 
@@ -12562,7 +12562,7 @@ because of US failure to ratify one of the Covenants.
 
 cially parts I-III (Copenhagen: Ejlers, 1978).
 
-I I . Hence it is at this level that environmental degradation has to be counteracted, through deindustrializing and de-commercializing processes - not by converting one type of pol1ution or
+I I . Hence it is at this level that environmental degradation has to be counteracted, through de industrializing and de-commercializing processes - not by converting one type of pol1ution or
 depletion to another through patchwork approaches to this major global problem.
 
 1 2 . See Johan Galtung, Methodology and Ideology. Essays in Methodology, vol. I (Copenhagen:
@@ -13812,7 +13812,7 @@ for everybody. Benevolence in a war can manifest itself only through the assumpt
 war is being fought for some higher principle, far above the untold suffering on the battlefield and in the war aftermath. Such principles indeed exist: the Triumph of the Lord
 would be the religious version; the Fight for Freedom for the Glory of the Nation, or the
 Class, would be ideological versions. From such principles theories of just war, ius tum bellum, easily emerge, in the name of Occidental religion or ideology, be it of
-Judaism/ChristianitylIslam or of liberalism/Marxism.
+Judaism/Christianity islam or of liberalism/Marxism.
 
 At the same time, military organization is deeply vertical, except in the transitory nonhierarchical form of the guerrilla, which is usually disbanded after use. It is individualistic
 in the sense that there are great chances of rising high in these hierarchies, through risktaking, and even attaining eternal life as a monument in the Christian Occident, or in
@@ -14733,7 +14733,7 @@ But even so triumph is not guaranteed. Hence there is also the duty to sacrifice
 or rather ourSelves in plural. not only in singular. If the enemy wins. the world is not worthy of our presence. The Germans have not fulfilled their duty. hence their lives are not
 worth living. The Volk has betrayed the Fuhrer.
 
-Self-sacrifice. Opferbereitschalt. becomes an essential aspect of the total ideology. If the
+Self-sacrifice. Opferbereitschaft. becomes an essential aspect of the total ideology. If the
 goals are not obtained. the enemy not eradicated. expansionism not effectuated - then the
 sacrifice of ourselves follows. and not only as a result of the logic of warfare. Others have
 been sacrificed. Those headed for extermination. or at least subjugation as Untertanen for
@@ -15110,7 +15110,7 @@ a fundamentalist conceptualization of God, and democracy.
 During his Presidency, Ronald Reagan gave the United States a complete, American
 fundamentalist, ideology. Of course, he was never an ideologist in the sense of being an
 intellectual, but in the more important sense of using the right metaphors for the
-American people. Leading ideology in a very anti-intellectual country has itself to be antiintellectual. This is a country where intellectuals, mostly living in the Northeast, are
+American people. Leading ideology in a very anti-intellectual country has itself to be anti-intellectual. This is a country where intellectuals, mostly living in the Northeast, are
 marginalized on a social side-track, in a ghetto called campus, viewing what happens with
 fear, dismay, and to some extent also with awe.
 
@@ -15151,7 +15151,7 @@ Devil, because the Devil also talks about such matters. This makes Reaganism not
 anti-human, but intellectually rather ridiculous: and it was precisely for that reason that
 it was inconceivable that Reaganism would be dominant for a very long period.
 
-However, American fundamentalism, Homo americanusfundamentalis = Homo americanus in extremis, is a broader category than Reaganism, and was also to a large extent
+However, American fundamentalism, Homo americanus fundamentalis = Homo americanus in extremis, is a broader category than Reaganism, and was also to a large extent
 carried by his successor. It will remain as latent cosmology, and will probably manifest
 itself again, in periods of crisis.
 
@@ -15588,7 +15588,7 @@ How about kicking upstairs? This is exactly what the Western countries are doing
 with the United States! You are our leader - recognizing in the USA themselves in
 extremis, as a more powerful expression of their own inner yearnings.47 Could Nazi
 Germany have obtained the same recognition, had it exercised its violence only outside
-(Western) Europe, and retained parliamentarism?48
+(Western) Europe, and retained parlamentarismus?48
 
 Soma-therapies The US-led anti-Iraq coalition was an effort at lobotomy and electroshock combined, trying both to cut the C3I functions of that society, civilian as well as
 military, exorcising the evil, making them apathetic, punishing them for individual and
@@ -16408,7 +16408,7 @@ An alternative would be to keep the high entropy of living next to each other, b
 autonomy around one parliament for each national constituency, with a monopoly on the
 administration of the sacred points in space and time, on language, religion, ideology, and
 
-idiom (meaning most of education), on policing and courts for self-policing and selfadjudication, and for some aspects of the economy. The way US Democrats and
+idiom (meaning most of education), on policing and courts for self-policing and self adjudication, and for some aspects of the economy. The way US Democrats and
 Republicans do when voting in the primaries, or the Sami in Norway do when they vote
 for the Sami parliament.
 
@@ -16546,7 +16546,7 @@ ataraxia, 256. 259
 
 atomistic-deductive, 22
 Aubert, Vilhelm. 263 n 1 8
-autonomy-integration-solidarityparticipation, 94, 1 59
+autonomy-integration-solidarity participation, 94, 1 59
 
 Avatars, 2 1 7
 axioms, 20
@@ -16683,7 +16683,7 @@ deformation, 89, 90, 1 00, 1 04,
 
 consciousness formation­
 
-mobilization-confrontationstruggle 93-94, 257-258
+mobilization-confrontation struggle 93-94, 257-258
 
 consonance-dissonance. 10, I I
 contradiction-free, 1 6 1 , 2 1 3, 24 1
@@ -16858,7 +16858,7 @@ as economic growth, 129, 1 30,
 1 3 1
 
 homo-centric, 129
-homo-naturelbalanced, 129
+homo-nature balanced, 129
 human, 1 72
 as misery-abolition, 1 28
 nature-centered, 1 29, 1 37 n l 2
@@ -17027,7 +17027,7 @@ pan-, poly-theistic, 1 50
 Eigendynamik, 9 1
 electro-shock, 256
 empathy, 39, 46
-empiricism-criticismconstructivism, I I , 1 84 n I
+empiricism-criticism constructivism, I I , 1 84 n I
 
 empowerment, 94
 endorphins, 48 n29
@@ -17157,7 +17157,7 @@ God, 6, 82, 85, 1 22, 1 32, 2 1 4, 2 1 8,
 dead, alive, 85, 2 1 8
 His own cause, 1 32
 immanent, 7, 2 1 0 n 3 1
-omnipotent-omnipresentomniscient-benevolent, 20,
+omnipotent-omnipresent omniscient-benevolent, 20,
 228, 249
 
 State as successor, 203
@@ -17490,7 +17490,7 @@ basic human, 1 2 8
 -deprivation, 1 28
 ontogenetic-phylogenetic, 1 28
 -satisfiers, 128
-survival-wellbeing-freedomidentity, 30, 129, 197
+survival-wellbeing-freedom identity, 30, 129, 197
 
 ne�olonialism, 94
 neurological neighbors, 42
@@ -17620,7 +17620,7 @@ peace,
 
 culture, 266
 
-penetration-segmentationfragmentationmarginalization. 93-94, 158,
+penetration-segmentation fragmentation marginalization. 93-94, 158,
 197, 199
 penitence, 85
 people's communes, 1 7 1
@@ -17718,7 +17718,7 @@ Satan. 202. 213. 214, 216. 219,
 
 salori. 84. 258
 satya. 1 1 7
-satyagrahalsatyagrahi, 9 1 . 1 1 5.
+satyagraha satyagrahi, 9 1 . 1 1 5.
 
 123. 209 n34. 226
 
@@ -17822,12 +17822,12 @@ pathological, 94
 
 sufism, 202
 Sun Tzu-Clausewitz, 1 22
-sustainability-renewabilityreproducibility, 129, 1 59, 1 65
+sustainability-renewability reproducibility, 129, 1 59, 1 65
 
 symbiosis, 62
 swaraj, 9 1 , 1 1 7, 209 n34
 
-Tausendjiihriges Reich, 244
+Tausendjähriges Reich, 244
 tectonic, 60
 
 Ten Commandments (Judeo-
