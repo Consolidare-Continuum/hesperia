@@ -1,5 +1,54 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 — day close: syzif corpus grind, honest state, and one unresolved bug found in prod sync
+
+End-of-day summary for whoever reads this cold, dev or prod side. Full blow-by-blow is the 8
+dated entries below (newest first) — this is the roll-up, not a replacement for them.
+
+**What happened today, in order**: recovered/committed the 120-book syzif corpus and
+`repair_text.py` (this session's true start, before the entries below); mechanical cleanup;
+structural artifact grind (`clean_corpus_artifacts.py` — ligatures, glyph-ID leaks, running
+headers, page numbers, nav junk, and a soft/Unicode-hyphen join found only after a real bug in the
+same script silently dropped writes on some files, both fixed same pass); word-level OCR fixes via
+LLM with sentence context, in two size classes, each needing its own safety nets after real
+failure modes turned up on inspection (content-loss, then a hallucination leak the first coverage
+check didn't catch); a Cursor session picked up a written handoff brief and found the single
+biggest remaining problem — one book, *Moral Boundaries* (Tronto), isn't word-level-fixable at all,
+it's doubled/garbled extraction end to end — and flagged/renamed it rather than let it keep
+polluting progress-file signal.
+
+**Today's struggle, most honestly**: almost nothing in this pass worked correctly on the first
+try. Every stage — the structural script, the confusion-table word-fixer, the first LLM long-run
+prompt, its coverage check, that check's own duplicate-collapse logic — had a real bug or a real
+precision gap that only surfaced by actually sampling output broadly and reading it, not by
+trusting a summary stat. None of those bugs shipped silently; each is written up in its own entry
+below with what broke and how it was caught. That pattern held until the very last thing found
+today, still open:
+
+**Unresolved as of day close — prod sync can silently orphan files**: `mirror-atomic-to-cc-srl.sh`
+(brain repo `scripts/hesperia/deploy/`) syncs dev → CC via `git archive <tree> | tar -x` into the
+CC clone. `tar -x` only adds/overwrites — it never deletes a file that was renamed or removed on
+the dev side. Caught concretely today: renaming `85 Moral boundaries - Joan C. Tronto.md` to
+flag it unreliable synced correctly as an *add* of the new flagged name, but left the old,
+unflagged, doubled-garbled file still sitting in CC prod under its original name — exactly
+undoing the point of the flag, silently. **Not fixed tonight**: CC prod is deliberately
+receive-only (its own pre-commit hook blocks local commits without `CORPORATE_ALLOW_COMMIT=1` +
+explicit operator go — a real boundary, not bypassed), and a one-off manual delete there wouldn't
+fix the mechanism anyway — the next dev-side rename or delete would orphan another file the same
+way. Real fix is in the sync script itself (e.g. wipe-then-reextract preserving the existing
+`PRESERVE` list, or `rsync -a --delete`), owned by Grace/Abelard per that script's own header, not
+patched here. **Concrete consequence**: as of day close, CC prod (`Consolidare-Continuum/hesperia`)
+still carries the stale unflagged `85 Moral boundaries - Joan C. Tronto.md` alongside the correctly
+flagged copy — anyone reading straight from `sphere/source/syzif/` in CC prod should know that and
+prefer the `[UNRELIABLE-NEEDS-REEXTRACTION]` copy, ignore the bare-named one, until the sync
+mechanism is fixed and re-run.
+
+**State, plainly**: 119 of 120 books structurally and word-level grinded with documented, sampled,
+evidenced residual error rates per tier (none claimed perfect) — full detail in the entries below.
+1 book (*Moral Boundaries*) flagged unreliable, needs re-extraction, explicitly out of the "grinded"
+count. Stage 2 (term/family attribution, Dict A/B/C) untouched, waiting on this corpus being judged
+trustworthy enough — operator/Grace call, not this session's to make.
+
 ## 2026-08-31 (8th pass) — 85 Moral Boundaries renamed and flagged unreliable, excluded from corpus-clean claims
 
 Acting on the 7th-pass finding below (doubled/garbled extraction end to end, ~2,594 of ~3,120
