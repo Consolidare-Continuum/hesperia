@@ -1,5 +1,45 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 (4th pass) — OCR word-level errors closed via LLM (sentence-context, two safety nets), corpus now word-level grinded
+
+Closes the item the 3rd-pass entry below left open — that entry's two non-LLM attempts (dictionary
+edit-distance, confusion-table) are still accurate history, kept below unedited. What actually
+worked: sentence-context judgment via API, not pattern matching — the same lesson both non-LLM
+attempts pointed at (neither had context to tell real rare vocabulary from garbling).
+
+**Also found and fixed along the way, unrelated to the LLM work**: a silent write-skip bug in
+`clean_corpus_artifacts.py` (`8db1d00d`) — it compared cleaned output against an already-mutated
+intermediate variable instead of the true original, so a file needing only one fix stage had its
+write silently dropped even though stats counted the change correctly. Also added a **soft/Unicode
+hyphen line-wrap join** (`\xad`, U+2010, U+2011 — different codepoints from the ASCII `-`
+`repair_text.py` handles): 18,608 joins, found via `"chal\xad\nlenge"` for `"challenge"` surfacing
+during suspect review.
+
+**LLM approach** (`fix_ocr_word_errors_llm.py` + `fix_ocr_word_errors_llm_longrun.py`, gpt-4o-mini):
+sends book title, author, sentence context, and the flagged word/run; model either fixes with
+stated confidence >=0.70 or rejects — never guesses under threshold. Split by flagged-token length,
+different risk profile each:
+
+- **Short (<15 chars, single-word typos)**: 24,887 applied (`84b4c21f`). ~85-90% correct on a
+  100-item random sample; known residual defects accepted as "+- reliable" (operator's framing,
+  not silently absorbed): `ditTeren`->`differen` (not a real word), `automaticallylydelegitimized`
+  ->`automatically legitimized` (drops "de-", inverts meaning), `pacificist`->`pacifist` and
+  `accessary`->`accessory` (both real alternate spellings, not errors).
+- **Long (>=15 chars, glued/duplicated multi-word runs)**: needed a second, different prompt and
+  two independent deterministic checks the model's self-report couldn't be trusted alone for
+  (`f6b77efd`) — see that commit message for the concrete over-completion examples (hallucinated a
+  person's name, a full quote, a full canonical book title, all plausible-sounding and all
+  unverifiable from the actual corrupted span). 3,079 applied after both checks; 5,237 + 1,446
+  candidates the model proposed were rejected by the coverage/over-completion checks, not applied.
+
+**State**: dev `f6b77efd` / CC `11815b9`, both clean, both in sync. Structural grind
+(ligatures/cid/headers/pagenums/nav/soft-hyphens) plus word-level OCR correction (28,000+ real
+fixes total across both LLM passes) is now the corpus floor. Not claiming zero remaining defects —
+every accepted tier carries a stated, evidenced residual error rate, not silence. What's still
+genuinely open: the ~2,276 long-run tokens the model itself rejected (no attempt made), and the
+5,237+1,446 caught-and-excluded long-run candidates (never re-tried with a third strategy) —
+neither blocks Stage 2, both are just unresolved, not silently declared clean.
+
 ## 2026-08-31 (3rd pass, tried and rejected) — OCR word-level errors: confusion-table auto-fix is not safe, do not apply as-is
 
 Tried to close the item the 2nd-pass entry below left open. Two approaches, both dead-ended on
