@@ -1,5 +1,52 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 (2nd pass) — syzif corpus mechanical grind: ligatures/cid/headers/pagenums done, OCR word-errors still open
+
+Commit `0ff6d4c3` (dev, `igareosh/hesperia`), mirrored to CC (`Consolidare-Continuum/hesperia`
+`6f11f13`) same session. Follows directly on the entry below (same-day, same corpus) — that
+entry's mechanical `repair_text.py` pass (CRLF/mojibake/hyphen-join) was already committed;
+this pass adds five more artifact classes `repair_text.py` doesn't touch, found by direct
+inspection of the committed 120-book text, not assumed:
+
+- **Ligature-space breaks** — PDF `fi`/`fl`/`ffi`/`ffl` glyph extracted with a stray space:
+  `defi nite`→`definite`, `refl ect`→`reflect`, `diffi cult`→`difficult`. 2,649 joins, concentrated
+  in a few books (Hayek alone: 1,450). Verified no false-positive risk — no English word ends bare
+  in `fi`/`fl`/`ffi`/`ffl`, checked against real corpus context before applying, not assumed.
+- **`(cid:NN)` PDF glyph-ID leaks** — font `ToUnicode` map failed, literal placeholder token
+  survived instead of the character. 9,786 removed (Pearl's *Causality* alone: 3,390 → 0).
+  Unrecoverable without the original PDF/font — removed, not reconstructed.
+- **Running headers/footers** — book/chapter titles, and in at least one case (Hume, scraped from
+  `oll.libertyfund.org`) the source website's own header/URL/generator tag, repeated on every
+  printed page and now splitting sentences mid-paragraph in the flowing text. Detected by
+  in-file line-frequency (>=5 verbatim repeats, short, no sentence punctuation), first occurrence
+  kept as a structural trace, rest removed: 19,077 lines.
+- **Standalone page-number lines** (digit-only, strict-uppercase-roman-only): 1,863 removed.
+- **HTML/CD-ROM nav leftovers** (`[Click here]` etc., Peirce *Collected Papers* only — that source
+  was clearly an HTML/hyperlinked edition): 235 removed.
+
+104/120 files changed content. Tool: `sphere/source/syzif/clean_corpus_artifacts.py`
+(idempotent — safe to re-run; `--dry-run --json` re-audits without writing).
+
+**Deliberately not touched — needs a human/per-book call, not a blind regex**: per-chapter and
+end-of-book Notes/Bibliography/References/Index. 86/120 files carry candidate headings; several
+put real argument in chapter-end notes, not just citations — e.g. Sacks (`10 The Dignity of
+difference`) has four separate `NOTES` blocks at 22%/45%/60%/67% through the file, not one
+end-block, so a naive "truncate from first Notes heading" would have deleted ~80% of the book.
+Candidates (line number + text + %-position) are in `clean_corpus_artifacts.py --dry-run --json`
+under `"backmatter"` — not acted on here.
+
+**Second-pass inspection, still fully open** (per the entry below, spot-checked again just now on
+`4 Governing the Commons - Elinor Ostrom.md`: `Bditors`/`Ulliversity`/`I.ouis` for
+`Editors`/`University`/`Louis` are still there, untouched by this pass — different bug class,
+character-level OCR misreads, not spacing/glyph-ID/layout). This pass's regexes are structural —
+they can't and don't touch word-internal substitution errors. Options for that pass, not decided
+here: (a) dictionary/spellcheck-suggestion pass like the abandoned genesis `spellcheck_suggestions.py`
+(vowel-substitution variant generation + frequency lookup, narrower scope than full OCR redo), (b)
+vision-model re-OCR against original scans if they still exist, following the pattern already used
+once in `projects/olga-tfp-book-ocr/` (brain repo) for a single Russian book — not wired to this
+corpus. Whichever direction, this is the blocker named in the entry below before Stage 2 can trust
+the corpus as a term-attribution source.
+
 ## 2026-08-31 — default/core (not TFP): Stage 2, wire syzif book corpus in — sequenced after a text-quality grind pass
 
 Candidate, not started. This session (2026-08-31) recovered and committed `sphere/source/
