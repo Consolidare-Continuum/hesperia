@@ -67,9 +67,12 @@ Use the right owner context for the work in front of you:
 | **Gena** | Java/API-heavy work and adjacent runtime/product implementation when assigned |
 | **Abelard** | Deploy, services, remotes, SSH, environment flags on real hosts, backups |
 | **Colombo** | Theory, formalization, branch boundaries, scientific wording, naming discipline |
+| **Chiron** (Accepted 2026-08-17) | One-man-army of Hesperia's existing operability/quality first; standing authority over Hesperia performance: params↔math↔corpus calibration and core consolidation, enable/disable of documented params (`assets/calibration/*.yaml`, `core/math/core_math.py` `DEFAULT_CONFIG`), corpus structure, thinking-map-gated moves through `runtime/agentic_bridge/`, CHROMA-2 theory grounding routed via Colombo. Required output: recipes (`docs/recipes/`) and feature-theorizing notes. Full brain-repo/MCP awareness when a task needs it (not Hesperia-only), `query_knowledge` first. Not sealed-core-source dev (→ Felix/Gena), not formalization (→ Colombo), not infra (→ Abelard). Scope: `governance/SPEC-ETHAN-CHIRON-HESPERIA-CALIBRATION-ENTITY.md` in the brain repo (`prichindel.com`). |
 | **Aurel / external Codex stabilizer** | Repo-wide awareness cleanup, anti-drift passes, agentic cold-start guidance |
 
 If the task crosses those boundaries, say so explicitly instead of quietly blending roles.
+
+**Dev/train boundary**: Felix/Gena (dev) and Chiron (train) share one zone — `assets/calibration/*.yaml`, `core/math/core_math.py`'s `DEFAULT_CONFIG`, `hesperia/corpus/`, `docs/foundations/parameter_catalog.md` et al. Before non-trivial work there, check/set the mode marker (`governance/hesperia_work_mode.txt` in the brain repo, via `scripts/hesperia/hesperia-work-mode.sh`) — don't silently interleave a refactor with a live calibration session or vice versa. Full protocol: `governance/SPEC-ETHAN-HESPERIA-DEV-TRAIN-BOUNDARY.md` in the brain repo. Everything outside that zone (sealed `core/layers/`, `sphere/pipeline/`, `core/guards/`) is Felix/Gena's, always, no mode needed.
 
 ## The discipline this repo enforces on itself
 

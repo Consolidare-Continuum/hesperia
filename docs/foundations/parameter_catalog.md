@@ -22,8 +22,8 @@ the final artifact if this number changes." Values are read directly from the ca
 
 | Parameter | Value | Source | Meaning it gives the output |
 |---|---|---|---|
-| `activation_threshold` | 0.01 | `assets/specs/canon/activation_calibration.yaml` | The floor below which a concept hit is treated as noise, not signal — directly determines `active_sides`/`activeSides`, the denominator of nearly every downstream ratio (coherence, fragmentation). |
-| `area_active_threshold` | 0.05 | same | Same floor, one level up — determines whether an *area* counts as touched at all in coverage (`Φ`, `NodeCoverage`) calculations. |
+| `activation_threshold` | 0.01 | `assets/specs/canon/activation_calibration.yaml` → `hesperia.engine.calibration.activation_calibration` → live gate `hesperia.engine.kme.clinical_bridge` (CHI-B16-02) | The floor below which a concept hit is treated as noise, not signal — directly determines `active_sides`/`activeSides`, the denominator of nearly every downstream ratio (coherence, fragmentation). |
+| `area_active_threshold` | 0.05 | same chain | Same floor, one level up — determines whether an *area* counts as touched at all in coverage (`Φ`, `NodeCoverage`) calculations. |
 
 ## 2. Propagation weights — how far and how strongly a signal spreads
 
@@ -56,7 +56,25 @@ the final artifact if this number changes." Values are read directly from the ca
 | `w_decay`, `w_guard_obs`, `w_shadow_obs` | 0.50, 0.30, 0.20 | `metric_obstacle_score` (convex combination, CI-enforced to sum to 1.0) | Exact proportional attribution of the final "obstacle score" to energy loss vs. guard pressure vs. shadow cost — half the obstacle reading is always about energy loss, never less. |
 | `energy_conservation_tolerance` | 1e-6 | `check_conservation_pre_decay` | How strict the conservation-of-energy check is before an output is allowed to be trusted as a valid diffusion step at all. |
 
-## 4. Diagnostic rule thresholds (`assets/specs/canon/diagnostic_rules.yaml`) — what the output is allowed to call itself
+## 4. Diagnostic / logic rule thresholds — what the output is allowed to call itself
+
+**Live (canonical):** `assets/specs/canon/logic_rules.yaml` via `sphere/logic/rule_engine.py`
+(Layer-9), on `/product/tfp`, `/product/fingerprint`, `/product/llm-audit` — **not**
+`/product/interpret`. CHI-B16-03 / CHI-006.
+
+**Deprecated (do not tune as Tier B):** `assets/specs/canon/diagnostic_rules.yaml` +
+`sphere/diagnostics/` — unwired everywhere; see `sphere/diagnostics/README.md`.
+
+Live Layer-9 concepts (representative; declarative rules, not all former B6 keys):
+
+| Concept | Live rule (approx) | Meaning |
+|---|---|---|
+| Low entropy → monotony | `RULE_001`: `entropy < 0.35` | Structurally narrow discourse |
+| High curvature → instability | `RULE_003`: `curvature > 1.20` | Trajectory instability |
+| Low coverage | `RULE_004`: `coverage < 0.60` | Sparse / low-coverage flag |
+| Low stability | `RULE_005`: `stability_index < 0.25` | Volatile movement |
+
+Historical `diagnostic_rules.yaml` numeric table (orphaned — kept for archaeology only):
 
 | Parameter | Value | Meaning it gives the output |
 |---|---|---|
@@ -120,7 +138,7 @@ reachable.
 | HSPR Calibration Index (`calibration.py`) | 7 | 6 weighted components (`0.25/0.25/0.15/0.15/0.10/0.10` for stability/source-alignment/energy/contradiction/diffusion/resistance) + `source_alignment_kappa=1.0` | Grid-search fitness function for tuning the Phase-N thetas themselves — a meta-calibration score, not a runtime output value. |
 | Semantic Field v1 (`equations.py` / `semantic_field_v1.py`) | 11 | `alpha=0.15, beta=0.08, gamma=0.12, delta=0.25, mu=0.01, dt=0.05, epsilon=0.0001, tau=0.02, resistance_uniform=1.0, production_clip=true, signed_source_experimental=false` | A physically-styled diffusion-equation coefficient set (`E = (α/2)FᵀLF + (β/2)FᵀRF + (γ/2)FᵀCF − δSᵀF`) — **not the same constants** as the Phase-N thetas above despite sharing Greek letter names; gated separately behind `HESPERIA_SEMANTIC_FIELD_EQUATIONS_V1`. |
 | DLCR blend (`e2e_bridge.py`) | 1 | `dlcr_alpha=0.22` | Weight for lexical-concept-recovery hits blended into family injection; gated behind `HESPERIA_FIELD_DYNAMICS_DLCR`. |
-| `profiles_v1.json` hex reference (dead) | 5 | `alpha_H=0.12, beta_H=0.06, gamma_H=0.1, delta_H=0.22, dt=0.05` | Documentation-only values — not loaded by any live code path. Listed to close the count, not because they do anything. |
+| `profiles_v1.json` hex reference | — | *(removed CHI-014-02)* | Nested `hex_field_reference` deleted — was never loaded; sibling profile keys still live for Semantic Field. |
 
 ## How to use this file
 

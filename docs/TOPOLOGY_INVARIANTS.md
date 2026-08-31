@@ -84,11 +84,37 @@ changed.
   Prototyping, Refactoring, Synthesis, Pattern-language, User-experience, Renovation, Production,
   Growth, Art, Researching, Collaboration.
 
-## Operational split (10+2)
+## Default grain (core + default module)
 
-Per `invariant_catalog.py`'s own docstring: areas 0–9 (240 families) are **public/operational**;
-areas 10 and 11 (48 families) are **reserved service areas**, stateless. Family index `f` belongs
-to area `f // FAMILIES_PER_AREA` — arithmetic, not a separate lookup table.
+**Default = 12 areas.** `AREAS = 12` in `core/topology/invariant_catalog.py`. Sealed order:
+
+GOOD, CARE, ORDER, CONTROL, INDIFFERENCE, HARM, DESTRUCTION, CHAOS, FREEDOM, TRUTH,
+**CREATION**, **DECEIT**.
+
+Default USF / macro vectors are length **12** (`core.projection.default_twelve`).
+
+## Optional ten-area module (not default)
+
+Modules **may** declare a 10-area packing. **Classifier switch:**
+
+| Env | Effect |
+|-----|--------|
+| ``HESPERIA_AREA_MATH_GRAIN=12`` | Default — twelve-total math (macro length 12) |
+| ``HESPERIA_AREA_MATH_GRAIN=10`` | Ten-total math packing (macro length 10) |
+| ``HESPERIA_TEN_AREA_MODULE=1`` | Legacy alias → grain 10 |
+
+| Module | Role |
+|--------|------|
+| `core/projection/area_math_grain.py` | **Classifier** — `classify_area_math_grain` / `project_macro_for_grain` / slice helpers |
+| `core/projection/ten_area_module.py` | Ten-total math helpers |
+| `core/projection/default_twelve.py` | Twelve-total math helpers |
+| `core/projection/public_projection_layer.py` | **Grain-aware** remap/sanitize (follows classifier) |
+| `core/topology/reserve_loader.py` | Pack exclusion **only when grain=10** |
+| `assets/reserve/reserved_areas.json` | Indices 10–11 excluded **from the ten-area pack only** |
+| `assets/public/public_ontology_map.json` | Ten-area `macro_domain_0…9` map |
+
+Under ten-area packing, indices 10–11 are dropped from the pack; **core geometry stays 12**.
+Do not describe 10+2 as default core identity.
 
 ## Enforcement
 

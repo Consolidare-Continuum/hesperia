@@ -1,0 +1,35 @@
+# Hesperia output_views — altitudine (dev) user/system unit template
+# HES-TFP-100-83
+#
+# User-mode (no sudo):
+#   mkdir -p ~/.config/systemd/user
+#   cp tools/scripts/hesperia-output-views-altitudine.service ~/.config/systemd/user/
+#   systemctl --user daemon-reload
+#   systemctl --user enable --now hesperia-output-views-altitudine
+#
+# System-mode (sudo):
+#   sudo cp tools/scripts/hesperia-output-views-altitudine.service /etc/systemd/system/hesperia-output-views.service
+#   sudo systemctl daemon-reload && sudo systemctl enable --now hesperia-output-views
+#
+# URL: http://127.0.0.1:8010/inspector/<session_id>/
+# Analyze lane: http://127.0.0.1:18881
+
+[Unit]
+Description=Hesperia output_views Django (Session Inspector) — altitudine
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/data/workspaces/hesperia/output_views
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONPATH=/data/workspaces/hesperia
+Environment=DJANGO_SETTINGS_MODULE=config.settings
+Environment=DJANGO_DEBUG=True
+Environment=DJANGO_ALLOWED_HOSTS=127.0.0.1,localhost,altitudine.prichindel.local
+Environment=HESPERIA_FASTAPI_ANALYZE_URL=http://127.0.0.1:18881
+ExecStart=/data/workspaces/hesperia/.venv/bin/python manage.py runserver 127.0.0.1:8010
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

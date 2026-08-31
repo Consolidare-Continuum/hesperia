@@ -5,10 +5,14 @@
 # See LEGAL_NOTICE.md for full terms.
 
 """
-Reserve loader — structural reserve lock for 2 service areas (internal indices 10, 11).
-Loads reserved_areas.json, reserved_families_registry.json, reserved_hex_registry.json.
-Reserved (service) areas: space for special purposes; stateless for now (math unchanged).
-Internal use only. Used to exclude reserved indices from population and public output.
+Reserve loader — optional **ten-area module** packing helpers.
+
+Loads reserved_areas.json / reserved_families / reserved_hex for callers that opt into
+ten-area packing (indices 10–11 excluded from that pack).
+
+**Default core grain remains 12** (CREATION, DECEIT are first-class). Reserve exclusion
+applies only when the area-math classifier is grain **10**
+(``HESPERIA_AREA_MATH_GRAIN=10`` / legacy ``HESPERIA_TEN_AREA_MODULE=1``).
 """
 
 from __future__ import annotations
@@ -79,20 +83,43 @@ def _ensure_loaded() -> None:
         _reserved_side_range = load_reserved_side_id_range()
 
 
-def is_reserved_area(area_index: int) -> bool:
-    """True if area_index is one of the two reserved service areas (internal indices 10, 11)."""
+def is_reserved_area(area_index: int, *, grain: int | None = None) -> bool:
+    """
+    Ten-area pack exclusion for indices 10–11.
+
+    Under default grain 12, returns False (CREATION/DECEIT are first-class).
+    Pass ``grain=10`` to force pack exclusion regardless of env.
+    """
+    if grain is None:
+        from core.projection.area_math_grain import classify_area_math_grain
+
+        grain = classify_area_math_grain()
+    if grain == 12:
+        return False
     _ensure_loaded()
     return area_index in _reserved_areas if _reserved_areas else False
 
 
-def is_reserved_family(family_global_index: int) -> bool:
-    """True if family_global_index (0..287) is under a reserved area."""
+def is_reserved_family(family_global_index: int, *, grain: int | None = None) -> bool:
+    """Ten-area pack exclusion for families 240–287; grain 12 → never reserved."""
+    if grain is None:
+        from core.projection.area_math_grain import classify_area_math_grain
+
+        grain = classify_area_math_grain()
+    if grain == 12:
+        return False
     _ensure_loaded()
     return family_global_index in _reserved_families if _reserved_families else False
 
 
-def is_reserved_side_id(side_id: int) -> bool:
-    """True if side_id falls in the reserved hex/side range."""
+def is_reserved_side_id(side_id: int, *, grain: int | None = None) -> bool:
+    """Ten-area pack exclusion for reserved side range; grain 12 → never reserved."""
+    if grain is None:
+        from core.projection.area_math_grain import classify_area_math_grain
+
+        grain = classify_area_math_grain()
+    if grain == 12:
+        return False
     _ensure_loaded()
     if _reserved_side_range is None:
         return False
@@ -100,13 +127,25 @@ def is_reserved_side_id(side_id: int) -> bool:
     return lo <= side_id <= hi
 
 
-def get_reserved_area_indices() -> frozenset[int]:
-    """Return immutable set of reserved area indices."""
+def get_reserved_area_indices(*, grain: int | None = None) -> frozenset[int]:
+    """Reserved area indices for active grain; empty under grain 12."""
+    if grain is None:
+        from core.projection.area_math_grain import classify_area_math_grain
+
+        grain = classify_area_math_grain()
+    if grain == 12:
+        return frozenset()
     _ensure_loaded()
     return frozenset(_reserved_areas) if _reserved_areas else frozenset()
 
 
-def get_reserved_family_indices() -> frozenset[int]:
-    """Return immutable set of reserved family global indices."""
+def get_reserved_family_indices(*, grain: int | None = None) -> frozenset[int]:
+    """Reserved family indices for active grain; empty under grain 12."""
+    if grain is None:
+        from core.projection.area_math_grain import classify_area_math_grain
+
+        grain = classify_area_math_grain()
+    if grain == 12:
+        return frozenset()
     _ensure_loaded()
     return frozenset(_reserved_families) if _reserved_families else frozenset()

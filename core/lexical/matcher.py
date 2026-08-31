@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import Callable
 
 
 MATCH_RANK = {"exact": 0, "phrase": 1, "lemma": 2, "stem": 3, "pattern": 4}
@@ -53,17 +54,60 @@ def _overlaps_block(span_start: int, span_end: int, blocks: list[tuple[int, int]
     return False
 
 
+def _diversity_capped(
+    accepted: list[LexicalHit],
+    max_accepted: int,
+    diversity_key: Callable[[LexicalHit], str],
+) -> tuple[list[LexicalHit], list[LexicalHit]]:
+    """Round-robin across ``diversity_key`` groups (each in position order), then
+    re-sort survivors back to document order -- callers rely on ``accepted`` being
+    in span order (e.g. sequential-association boosts keyed on textual recency).
+    """
+    groups: dict[str, list[LexicalHit]] = {}
+    group_order: list[str] = []
+    for hit in accepted:
+        key = diversity_key(hit)
+        if key not in groups:
+            groups[key] = []
+            group_order.append(key)
+        groups[key].append(hit)
+
+    selected: list[LexicalHit] = []
+    while len(selected) < max_accepted:
+        progressed = False
+        for key in group_order:
+            if len(selected) >= max_accepted:
+                break
+            queue = groups[key]
+            if queue:
+                selected.append(queue.pop(0))
+                progressed = True
+        if not progressed:
+            break
+
+    selected_ids = {id(h) for h in selected}
+    overflow = [h for h in accepted if id(h) not in selected_ids]
+    selected.sort(key=_sort_key)
+    return selected, overflow
+
+
 def match_dict_a(
     canonical_text: str,
     entries: list[dict],
     *,
     max_accepted: int | None = None,
+    diversity_key: Callable[[LexicalHit], str] | None = None,
 ) -> tuple[list[LexicalHit], list[LexicalHit]]:
     """
     Find deterministic lexical hits and reject overlapping lower-priority hits.
 
     PO-03: sort prefers **longest span** at same start, then stronger ``match_type``.
     PO-04: optional ``max_accepted`` caps accepted hits (overflow appended to rejected).
+    PO-31: optional ``diversity_key`` makes the cap group-aware -- round-robins across
+    groups (in position order within each) instead of a flat position-order cut, so a
+    group that only appears late in the text still gets a fair share of the budget.
+    Without it, behavior is unchanged: a flat slice by document position. Selected hits
+    are always returned in document order regardless of which path was used.
     Entries with non-empty ``negative_patterns`` only contribute **blocked spans** (no LexicalHit).
     """
     blocks = _collect_negative_blocks(canonical_text, entries)
@@ -109,8 +153,11 @@ def match_dict_a(
             accepted.append(hit)
 
     if max_accepted is not None and max_accepted >= 0 and len(accepted) > max_accepted:
-        overflow = accepted[max_accepted:]
-        accepted = accepted[:max_accepted]
+        if diversity_key is not None:
+            accepted, overflow = _diversity_capped(accepted, max_accepted, diversity_key)
+        else:
+            overflow = accepted[max_accepted:]
+            accepted = accepted[:max_accepted]
         rejected.extend(overflow)
 
     return accepted, rejected

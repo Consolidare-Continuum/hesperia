@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+from functools import lru_cache
 from pathlib import Path
 from typing import Any
 
@@ -129,11 +130,56 @@ def trace_content_hash(trace: list[dict[str, Any]]) -> str:
     return hashlib.sha256(payload.encode("utf-8")).hexdigest()
 
 
+@lru_cache(maxsize=4)
+def _dlcr_dict_b_registry(repo_root_str: str) -> dict[str, dict[str, Any]]:
+    """Concept_id -> dict_b row (area_ids/family_ids/preferred_label).
+
+    Same default dict_b path list ``_analyze_internal`` uses (core/engine/lexical_concept/pipeline.py)
+    when ``dict_b_paths`` is not explicitly supplied — reused here, not reimplemented, so this stays
+    in lockstep with whatever DLCR itself considers canonical.
+    """
+    from core.engine.lexical_concept.pipeline import _merge_dict_b
+
+    repo_root = Path(repo_root_str)
+    base = repo_root / "assets" / "data" / "engine_dynamics_v060"
+    db_paths_default = [
+        base / "dict_b" / "dict_b_seed.jsonl",
+        base / "dict_b" / "dict_b_tfp_ru_v060.jsonl",
+        base / "dict_b" / "dict_b_tfp.jsonl",
+    ]
+    rows = _merge_dict_b([p for p in db_paths_default if p.exists()])
+    return {str(r.get("concept_id") or ""): r for r in rows if r.get("concept_id")}
+
+
+def _trace_from_dlcr_bundle(bundle: dict[str, Any], registry: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    """Trace steps from real DLCR concept resolution — one step per matched concept, real labels."""
+    weights = bundle.get("concept_weights") or {}
+    steps: list[dict[str, Any]] = []
+    for concept_id, weight in sorted(weights.items(), key=lambda kv: -float(kv[1])):
+        row = registry.get(concept_id) or {}
+        area_ids = row.get("area_ids") or ["A?"]
+        family_ids = row.get("family_ids") or ["F?"]
+        a = _clamp01(float(weight))
+        steps.append(
+            {
+                "area_id": str(area_ids[0]),
+                "family_id": str(family_ids[0]),
+                "concept_id": concept_id,
+                "label": str(row.get("preferred_label") or concept_id),
+                "activation": round(a, 6),
+                "confidence": round(a, 6),
+            }
+        )
+    return steps
+
+
 def build_engine_analyze_from_raw(
     raw: dict[str, Any],
     *,
     overlay_hint: dict[str, Any] | None = None,
     temp_relation_overlay: list[dict[str, Any]] | None = None,
+    dlcr_bundle: dict[str, Any] | None = None,
+    dlcr_registry: dict[str, dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
     from hesperia.engine.tfp_signal_calibration import AREA_IDS
 
@@ -143,16 +189,33 @@ def build_engine_analyze_from_raw(
     sample = interpret.get("marker_concept_sample") or []
     fav = [float(x) for x in (ms.get("family_activation_vector") or [])]
 
-    trace = _trace_from_marker_sample(
-        sample, fav, AREA_IDS, overlay_hint=overlay_hint, temp_relation_overlay=temp_relation_overlay
-    )
-    if not trace:
-        trace = _trace_from_family_vector(fav, AREA_IDS)
+    dlcr_trace: list[dict[str, Any]] = []
+    if dlcr_bundle is not None:
+        dlcr_trace = _trace_from_dlcr_bundle(dlcr_bundle, dlcr_registry or {})
+
+    if dlcr_trace:
+        # Real, input-differentiated DLCR concept resolution — strictly preferred over the
+        # sealed-core marker-sample/family-vector fallback below when it has something to say.
+        trace = dlcr_trace
+    else:
+        trace = _trace_from_marker_sample(
+            sample, fav, AREA_IDS, overlay_hint=overlay_hint, temp_relation_overlay=temp_relation_overlay
+        )
+        if not trace:
+            trace = _trace_from_family_vector(fav, AREA_IDS)
 
     dom_a, dom_f, dom_c = _dominants_from_trace(trace)
-    hspr = float(ms.get("hspr_index") or 0.0)
-    contradiction_p = float(ms.get("contradiction_pressure") or 0.0)
-    propagation = float(ms.get("propagation_strength") or 0.0)
+
+    if dlcr_bundle is not None:
+        # DLCR's own tension/loopability/stability are real per-input signal (see run_dlcr_pipeline) —
+        # prefer them over the sealed hspr-derived numbers when DLCR ran, empty match or not.
+        governance = float(dlcr_bundle.get("stability") or 0.0)
+        loopability_val = float(dlcr_bundle.get("loopability") or 0.0)
+        tension = float(dlcr_bundle.get("tension") or 0.0)
+    else:
+        governance = float(ms.get("hspr_index") or 0.0)
+        loopability_val = float(ms.get("propagation_strength") or 0.0)
+        tension = float(ms.get("contradiction_pressure") or 0.0)
 
     envelope: dict[str, Any] = {
         "contract_version": _CONTRACT_VERSION,
@@ -160,16 +223,19 @@ def build_engine_analyze_from_raw(
         "dominant_area_id": dom_a,
         "dominant_family_id": dom_f,
         "dominant_concept_id": dom_c,
-        "governance": round(_clamp01(hspr), 6),
-        "loopability": round(_clamp01(propagation), 6),
-        "tension_energy": round(_clamp01(contradiction_p), 6),
-        "obstacle_score": round(_clamp01(1.0 - hspr), 6),
+        "governance": round(_clamp01(governance), 6),
+        "loopability": round(_clamp01(loopability_val), 6),
+        "tension_energy": round(_clamp01(tension), 6),
+        "obstacle_score": round(_clamp01(1.0 - governance), 6),
         "contradiction_flags": [],
         "weak_signals": [],
         "overlay_hint_applied": bool(overlay_hint),
         "temp_relation_overlay_applied": bool(temp_relation_overlay),
         "trace_content_hash": trace_content_hash(trace),
     }
+    if dlcr_bundle is not None:
+        envelope["dlcr_source"] = "run_dlcr_pipeline"
+        envelope["dlcr_lexical_hits_accepted"] = dlcr_bundle.get("lexical_hits_accepted")
     # Additive KSI-Inspector (Class A core.domain.ksi) — default-off via HESPERIA_KSI_ENABLED.
     # Does not change sealed physics; attaches ``ksi`` only when flag is on.
     if temp_relation_overlay:
@@ -203,6 +269,29 @@ def run_engine_analyze(
         enable_domain_metrics=False,
         document_id="engine_analyze",
     )
+
+    dlcr_bundle: dict[str, Any] | None = None
+    dlcr_registry: dict[str, dict[str, Any]] | None = None
+    try:
+        from hesperia.system.capabilities import structural_dlcr_allowed
+
+        if structural_dlcr_allowed():
+            from core.engine.lexical_concept.pipeline import run_dlcr_pipeline
+
+            dlcr_bundle = run_dlcr_pipeline(text, repo_root=repo_root)
+            dlcr_registry = _dlcr_dict_b_registry(str(repo_root))
+    except Exception:
+        # Same discipline as the KSI attach below: DLCR augmentation is additive-only —
+        # any failure here must fall back to the sealed marker-sample/family-vector path,
+        # never break run_engine_analyze itself (HESPERIA_DLCR_STRUCTURAL stays default-off
+        # on the core/:18880 lane, so this branch is a no-op there regardless).
+        dlcr_bundle = None
+        dlcr_registry = None
+
     return build_engine_analyze_from_raw(
-        raw, overlay_hint=overlay_hint, temp_relation_overlay=temp_relation_overlay
+        raw,
+        overlay_hint=overlay_hint,
+        temp_relation_overlay=temp_relation_overlay,
+        dlcr_bundle=dlcr_bundle,
+        dlcr_registry=dlcr_registry,
     )

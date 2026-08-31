@@ -249,11 +249,16 @@ Corpus phrases (verbatim JSON array):
 Return JSON: {{"links": [{{"phrase": "verbatim from array", "concept_id": "must be in catalog", "confidence": 0.0}}]}}
 Hard rule: len(links) <= {_MAX_LINKS_PER_RESPONSE}.
 """
+    tag = (
+        f"pass{pass_num}/concepts={concept_rows[0]['concept_id']}.."
+        f"{concept_rows[-1]['concept_id']}/n_phrases={len(phrases)}"
+    )
     raw = chat_json(
         system=system,
         user=user,
         temperature=0.1 + 0.04 * pass_num,
         max_tokens=16384,
+        call_tag=tag,
     )
     links = raw.get("links") if isinstance(raw, dict) else None
     if not isinstance(links, list):
@@ -345,7 +350,12 @@ Corpus phrases (verbatim):
 
 Return JSON: {{"links": [{{"phrase": "verbatim from list", "concept_id": "from catalog", "confidence": 0.0}}]}}
 """
-    raw = chat_json(system=system, user=user, temperature=0.12 + 0.03 * pass_num)
+    raw = chat_json(
+        system=system,
+        user=user,
+        temperature=0.12 + 0.03 * pass_num,
+        call_tag=f"pass{pass_num}/phrase_chunk/n_phrases={len(phrases)}",
+    )
     links = raw.get("links") if isinstance(raw, dict) else None
     if not isinstance(links, list):
         raise ValueError("expected {{links: [...]}}")
@@ -548,6 +558,11 @@ def run_ru_tfp_corpus_align(
                 "concepts_with_zero_links": sum(1 for c in id_set if coverage.get(c, 0) == 0),
             },
         )
+        # Checkpoint the actual accumulated links after every pass, not just the summary
+        # counts -- `best` only lives in memory otherwise, so a kill between passes (session
+        # teardown, OOM, etc.) loses real paid-for API work with nothing recoverable. Cheap:
+        # this is the same rows write the end of the function already does, just per-pass too.
+        write_jsonl(workdir / f"pass_{pnum}_checkpoint.jsonl", _to_dict_a_rows(best))
 
     rows = _to_dict_a_rows(best)
     write_jsonl(workdir / "dict_a_tfp_ru_aligned.jsonl", rows)

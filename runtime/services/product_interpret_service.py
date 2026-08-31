@@ -9,6 +9,7 @@ import os
 from pathlib import Path
 from typing import Any, Literal
 
+from runtime.services.testing_params_emit import attach_testing_params_to_interpret
 from sphere.router.ground_truth import (  # noqa: F401 — GroundTruthMissingError re-exported facade
     GroundTruthMissingError,
     enforce_ground_truth,
@@ -86,12 +87,21 @@ def run_product_interpret(
     overlay_hint: dict[str, Any] | None = None,
     temp_relation_overlay: list[dict[str, Any]] | None = None,
     include_gap_report: bool = False,
+    include_tfp_field_dynamics: bool = False,
 ) -> dict[str, Any]:
-    """FPF-V7-12: sealed analyze → router envelope → interpretation."""
+    """FPF-V7-12: sealed analyze → router envelope → interpretation.
+    CHI-016: Layer-9 + hspr_index honesty always; TFP-FD only if flag+env.
+    """
+    from runtime.shipping.analyze_profile import attach_analyze_profile, resolve_analyze_profile
+    from runtime.shipping.tfp_mvp_context import merge_tfp_mvp_context
+
+    packet = context_packet
+    if resolve_analyze_profile() == "tfp":
+        packet = merge_tfp_mvp_context(context_packet, query_text=text)
     envelope = compile_router_envelope(
         text,
         assets_root,
-        context_packet=context_packet,
+        context_packet=packet,
         thinking_map_outcome=thinking_map_outcome,
         overlay_hint=overlay_hint,
         temp_relation_overlay=temp_relation_overlay,
@@ -170,4 +180,21 @@ def run_product_interpret(
     else:
         out["decision"] = "ALLOW"
         out["router_mode"] = mode_gov
+    out = attach_testing_params_to_interpret(out)
+    # CHI-016 first-class: Layer-9 SoT + live hspr_index; opt-in Class B TFP-FD.
+    from hesperia.modules.interpret.first_class_attach import (
+        attach_hspr_index_honesty,
+        attach_layer9_logic,
+        attach_tfp_field_dynamics_opt_in,
+    )
+
+    out = attach_layer9_logic(out, engine, assets_root=assets_root)
+    out = attach_hspr_index_honesty(out, engine)
+    out = attach_tfp_field_dynamics_opt_in(
+        out, include_tfp_field_dynamics=include_tfp_field_dynamics
+    )
+    if resolve_analyze_profile() == "tfp":
+        out = attach_analyze_profile(out)
+        if packet is not None:
+            out["tfp_context_snapshot_id"] = packet.get("corpus_snapshot_id")
     return out

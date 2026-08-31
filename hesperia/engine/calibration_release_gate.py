@@ -166,37 +166,52 @@ def evaluate_bundle(
 
     if isinstance(reconciliation, dict):
         rec_sessions = reconciliation.get("sessions") or []
-        rec0 = rec_sessions[0] if isinstance(rec_sessions, list) and rec_sessions else {}
-        lexical_support = rec0.get("lexical_support") or {}
-        ratio = float(lexical_support.get("contradictions_per_accepted_lexical_hit") or 0.0)
-        zero_lex_share = float(lexical_support.get("zero_lexical_evidence_share") or 0.0)
-        inferred_share = float(lexical_support.get("inferred_share") or 0.0)
+        if not isinstance(rec_sessions, list):
+            rec_sessions = []
+        canonical_source = reconciliation.get("canonical_source")
+        per_session_ratio: dict[str, float] = {}
+        per_session_zero_lex: dict[str, float] = {}
+        per_session_inferred: dict[str, float] = {}
+        source_mismatches: list[str] = []
+        for rec in rec_sessions:
+            if not isinstance(rec, dict):
+                continue
+            sid = str(rec.get("session_id") or "")
+            lexical_support = rec.get("lexical_support") or {}
+            per_session_ratio[sid] = float(lexical_support.get("contradictions_per_accepted_lexical_hit") or 0.0)
+            per_session_zero_lex[sid] = float(lexical_support.get("zero_lexical_evidence_share") or 0.0)
+            per_session_inferred[sid] = float(lexical_support.get("inferred_share") or 0.0)
+            rec_source = rec.get("canonical_source") or canonical_source
+            if rec_source != "12_topology_derived_contradictions":
+                source_mismatches.append(sid)
         checks.append(
             {
                 "check": "canonical_contradiction_source_locked",
-                "pass": rec0.get("canonical_source") == "12_topology_derived_contradictions",
-                "value": rec0.get("canonical_source"),
+                "pass": bool(rec_sessions) and not source_mismatches,
+                "value": {"canonical_source": canonical_source, "mismatched_sessions": source_mismatches},
             }
         )
         checks.append(
             {
                 "check": "contradiction_overproduction_guard",
-                "pass": ratio <= 5.0,
-                "value": ratio,
+                "pass": all(v <= 5.0 for v in per_session_ratio.values()),
+                "value": per_session_ratio,
             }
         )
         checks.append(
             {
                 "check": "contradiction_grounding_zero_lex_share",
-                "pass": zero_lex_share <= 0.6,
-                "value": zero_lex_share,
+                # Family-granularity share from 13_* lexical_support (coactivation graph grain).
+                "pass": all(v <= 0.6 for v in per_session_zero_lex.values()),
+                "value": per_session_zero_lex,
             }
         )
         checks.append(
             {
                 "check": "contradiction_grounding_inferred_share",
-                "pass": inferred_share <= 0.6,
-                "value": inferred_share,
+                # Both families ungrounded; same 0.6 bar, now distinct from zero_lex_share.
+                "pass": all(v <= 0.6 for v in per_session_inferred.values()),
+                "value": per_session_inferred,
             }
         )
 

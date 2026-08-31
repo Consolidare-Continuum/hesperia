@@ -124,7 +124,9 @@ def plot_area_trajectory(
     Build/save area trajectory plot (A2 → A3 → A4). state_sequence = ["A2","A3","A4",...].
     If path given and matplotlib available, save figure.
     """
-    area_order = area_order or ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10"]
+    area_order = area_order or [
+        "A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8", "A9", "A10", "A11", "A12",
+    ]
     indices = {a: i for i, a in enumerate(area_order)}
     y = [indices.get(s, 0) for s in state_sequence if s]
     x = list(range(len(y)))

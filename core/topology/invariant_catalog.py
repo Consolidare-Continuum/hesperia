@@ -11,8 +11,13 @@ Frozen constants only. No dynamic generation. No auto-correction.
 Source: 16_SPEC Structural Invariants, 18_SPEC Indexing and Coordinates,
 30_FAMILIES canonical.
 
-Operational split (10+2): 10 areas (0–9) and 240 families are public; 2 areas (10, 11)
-and 48 families are reserved service areas (stateless). See docs/TOPOLOGY_INVARIANTS.md.
+**Default core and default module grain = 12 areas** (``AREAS``), sealed names
+GOOD…DECEIT (incl. CREATION, DECEIT). Geometry is icosahedral; vectors length 12.
+
+Optional **ten-area module** packing (indices 0–9 only) is selected by
+``core.projection.area_math_grain`` (``HESPERIA_AREA_MATH_GRAIN=10``) —
+helpers in ``ten_area_module`` / grain-aware ``public_projection_layer``.
+Modules may declare 10 or 12; **default is 12**.
 """
 
 from __future__ import annotations
@@ -33,11 +38,24 @@ SIDES_PER_AREA = FAMILIES_PER_AREA * SIDES_PER_FAMILY  # 36_000
 
 # -----------------------------------------------------------------------------
 # Canonical area set (12 names; topology is icosahedral surface graph)
+# Sealed order kept from 0.7.0 — index = position in CANONICAL_AREA_ORDER.
 # -----------------------------------------------------------------------------
-CANONICAL_AREA_SET: frozenset[str] = frozenset({
-    "GOOD", "CARE", "ORDER", "CONTROL", "INDIFFERENCE", "HARM",
-    "DESTRUCTION", "CHAOS", "FREEDOM", "TRUTH", "CREATION", "DECEIT",
-})
+CANONICAL_AREA_ORDER: tuple[str, ...] = (
+    "GOOD",
+    "CARE",
+    "ORDER",
+    "CONTROL",
+    "INDIFFERENCE",
+    "HARM",
+    "DESTRUCTION",
+    "CHAOS",
+    "FREEDOM",
+    "TRUTH",
+    "CREATION",
+    "DECEIT",
+)
+
+CANONICAL_AREA_SET: frozenset[str] = frozenset(CANONICAL_AREA_ORDER)
 
 # -----------------------------------------------------------------------------
 # AREA_FAMILY_MAP: area name -> tuple of 24 family names (canonical order)
@@ -122,6 +140,8 @@ AREA_FAMILY_MAP: dict[str, tuple[str, ...]] = {
 
 # Ensure exactly 12 areas and 24 families per area
 assert len(CANONICAL_AREA_SET) == AREAS
+assert len(CANONICAL_AREA_ORDER) == AREAS
+assert set(CANONICAL_AREA_ORDER) == CANONICAL_AREA_SET
 for _area, _fams in AREA_FAMILY_MAP.items():
     assert _area in CANONICAL_AREA_SET
     assert len(_fams) == FAMILIES_PER_AREA

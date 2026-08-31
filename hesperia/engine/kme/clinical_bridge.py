@@ -20,7 +20,15 @@ from core.domain.models import (
     DomainNode,
     RelationCandidate,
 )
+from hesperia.engine.calibration.activation_calibration import (
+    get_activation_threshold,
+    get_area_active_threshold,
+    load_calibration_config,
+)
 from hesperia.ontology.dictB.loader import load_concept_nodes
+
+# Single SoT: assets/specs/canon/activation_calibration.yaml (CHI-B16-02 / CHI-012)
+load_calibration_config()
 
 _DICT_B_DIR = Path(__file__).resolve().parents[2] / "ontology" / "dictB"
 _RELATIONS_PATH = _DICT_B_DIR / "concept_relations.yaml"
@@ -204,11 +212,13 @@ def run_kme_from_activation(
 # LEVEL 14 — Hierarchical Clinical ActiveGraph (concept + family + area)
 # ---------------------------------------------------------------------------
 
-ACTIVATION_THRESHOLD = 0.01
-"""Do not create nodes/edges for activations below this (noise). Documented in LEVEL14 spec."""
-
-AREA_ACTIVE_THRESHOLD = 0.05
-"""Minimum area score to include in area-adjacency edges."""
+def __getattr__(name: str):
+    """Lazy aliases — live SoT is activation_calibration getters (CHI-B16-02)."""
+    if name == "ACTIVATION_THRESHOLD":
+        return get_activation_threshold()
+    if name == "AREA_ACTIVE_THRESHOLD":
+        return get_area_active_threshold()
+    raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
 
 # Graph sparsification (avoid dense graphs for KME)
 TOP_K_CONCEPTS = 60
@@ -287,11 +297,11 @@ def build_active_concept_nodes(
     concept_scores: dict[str, float],
     concept_nodes: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
-    """Build concept-level nodes from activation scores. Threshold: ACTIVATION_THRESHOLD."""
+    """Build concept-level nodes from activation scores (calibration activation_threshold)."""
     out: list[dict[str, Any]] = []
     by_id = {n.get("id"): n for n in concept_nodes if isinstance(n, dict) and n.get("id")}
     for cid, w in (concept_scores or {}).items():
-        if float(w) < ACTIVATION_THRESHOLD:
+        if float(w) < get_activation_threshold():
             continue
         area, family_id = _concept_to_area_family(cid)
         node_info = by_id.get(cid) or {}
@@ -308,10 +318,10 @@ def build_active_concept_nodes(
 
 
 def build_active_family_nodes(family_scores: dict[str, float]) -> list[dict[str, Any]]:
-    """Build family-level nodes. Threshold: ACTIVATION_THRESHOLD."""
+    """Build family-level nodes (calibration activation_threshold)."""
     out: list[dict[str, Any]] = []
     for fid, w in (family_scores or {}).items():
-        if float(w) < ACTIVATION_THRESHOLD:
+        if float(w) < get_activation_threshold():
             continue
         if "_" in fid and fid.split("_")[0].startswith("A"):
             area_id = fid.split("_")[0]
@@ -330,10 +340,10 @@ def build_active_family_nodes(family_scores: dict[str, float]) -> list[dict[str,
 
 
 def build_active_area_nodes(area_scores: dict[str, float]) -> list[dict[str, Any]]:
-    """Build area-level nodes. Threshold: ACTIVATION_THRESHOLD."""
+    """Build area-level nodes (calibration activation_threshold)."""
     out: list[dict[str, Any]] = []
     for aid, w in (area_scores or {}).items():
-        if float(w) < ACTIVATION_THRESHOLD:
+        if float(w) < get_activation_threshold():
             continue
         out.append({
             "id": aid,
@@ -355,10 +365,10 @@ def build_hierarchical_edges(
     """Create concept→family (belongs_to_family) and family→area (belongs_to_area) edges."""
     edges: list[dict[str, Any]] = []
     for cid, w in (concept_scores or {}).items():
-        if float(w) < ACTIVATION_THRESHOLD:
+        if float(w) < get_activation_threshold():
             continue
         _, family_id = _concept_to_area_family(cid)
-        if family_id and (family_scores or {}).get(family_id, 0) >= ACTIVATION_THRESHOLD:
+        if family_id and (family_scores or {}).get(family_id, 0) >= get_activation_threshold():
             edges.append({
                 "source": cid,
                 "target": family_id,
@@ -366,11 +376,11 @@ def build_hierarchical_edges(
                 "weight": round(float(w), 4),
             })
     for fid, w in (family_scores or {}).items():
-        if float(w) < ACTIVATION_THRESHOLD:
+        if float(w) < get_activation_threshold():
             continue
         if "_" in fid:
             area_id = fid.split("_")[0]
-            if (area_scores or {}).get(area_id, 0) >= ACTIVATION_THRESHOLD:
+            if (area_scores or {}).get(area_id, 0) >= get_activation_threshold():
                 edges.append({
                     "source": fid,
                     "target": area_id,
@@ -400,15 +410,15 @@ def build_concept_relation_edges(
             continue
         ws = float(concept_scores.get(src, 0) or 0)
         wt = float(concept_scores.get(tgt, 0) or 0)
-        if ws < ACTIVATION_THRESHOLD and wt < ACTIVATION_THRESHOLD:
+        if ws < get_activation_threshold() and wt < get_activation_threshold():
             continue
-        if ws >= ACTIVATION_THRESHOLD and wt >= ACTIVATION_THRESHOLD:
+        if ws >= get_activation_threshold() and wt >= get_activation_threshold():
             base = min(ws, wt)
         else:
             base = max(ws, wt) * 0.5
         mult = abs(float(rw.get(rel, default_mult)))
         weight = base * mult
-        if weight < ACTIVATION_THRESHOLD:
+        if weight < get_activation_threshold():
             continue
         edges.append({
             "source": src,
@@ -451,7 +461,7 @@ def build_family_topology_edges(
                     f2 = get_composite_family_id(area_id, local2)
                     w1 = (family_scores or {}).get(f1, 0) or 0
                     w2 = (family_scores or {}).get(f2, 0) or 0
-                    if w1 >= ACTIVATION_THRESHOLD and w2 >= ACTIVATION_THRESHOLD:
+                    if w1 >= get_activation_threshold() and w2 >= get_activation_threshold():
                         edges.append({
                             "source": f1,
                             "target": f2,
@@ -465,7 +475,7 @@ def build_family_topology_edges(
             continue
         w1 = (family_scores or {}).get(fr, 0) or 0
         w2 = (family_scores or {}).get(to, 0) or 0
-        if w1 >= ACTIVATION_THRESHOLD and w2 >= ACTIVATION_THRESHOLD:
+        if w1 >= get_activation_threshold() and w2 >= get_activation_threshold():
             edges.append({
                 "source": fr,
                 "target": to,
@@ -479,7 +489,7 @@ def build_area_topology_edges(
     area_scores: dict[str, float],
     area_structure: dict[str, Any],
 ) -> list[dict[str, Any]]:
-    """Create area_adjacent edges from area topology. Only areas with score >= AREA_ACTIVE_THRESHOLD."""
+    """Create area_adjacent edges from area topology. Only areas with score >= get_area_active_threshold()."""
     edges: list[dict[str, Any]] = []
     areas_list = (area_structure or {}).get("areas") or []
     area_index_to_id: dict[int, str] = {}
@@ -496,14 +506,14 @@ def build_area_topology_edges(
         aid = a.get("area_id")
         neighbors = a.get("area_neighbors") or []
         wa = float((area_scores or {}).get(str(aid), 0) or 0)
-        if wa < AREA_ACTIVE_THRESHOLD:
+        if wa < get_area_active_threshold():
             continue
         for ni in neighbors:
             nid = area_index_to_id.get(int(ni), "")
             if not nid:
                 continue
             wn = float((area_scores or {}).get(nid, 0) or 0)
-            if wn < AREA_ACTIVE_THRESHOLD:
+            if wn < get_area_active_threshold():
                 continue
             edges.append({
                 "source": str(aid),

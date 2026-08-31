@@ -73,3 +73,18 @@ rules:
         - fact: stability_index
           op: lt
           value: 0.25
+
+  # CHI-016 — ported from diagnostic_rules monotony.unique_areas_max (Layer-9 SoT; not B6 runtime).
+  - rule_id: RULE_006
+    name: low_diversity
+    description: Few unique areas indicate structurally narrow activation diversity.
+    enabled: true
+    priority: 55
+    severity: medium
+    diagnostic_code: LOW_DIVERSITY
+    diagnostic_message: Unique active areas at or below monotony unique_areas_max suggests low diversity.
+    conditions:
+      all:
+        - fact: unique_areas
+          op: lte
+          value: 2

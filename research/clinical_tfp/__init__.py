@@ -24,6 +24,9 @@ from research.clinical_tfp.session_topology import (
     detect_aggression_escalation,
     build_session_state_sequence,
     run_session_topology,
+    compute_areas_working,
+    TFP_WORKING_THEME_WARMUP_SEGMENTS,
+    TFP_WORKING_THEME_WARMUP_WEIGHT,
 )
 from research.clinical_tfp.safety_layer import (
     get_minimum_evidence_threshold,
@@ -108,6 +111,9 @@ __all__ = [
     "detect_aggression_escalation",
     "build_session_state_sequence",
     "run_session_topology",
+    "compute_areas_working",
+    "TFP_WORKING_THEME_WARMUP_SEGMENTS",
+    "TFP_WORKING_THEME_WARMUP_WEIGHT",
     "generate_session_summary",
     "describe_defense_patterns",
     "describe_object_relations",

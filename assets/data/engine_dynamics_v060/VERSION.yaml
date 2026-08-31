@@ -15,3 +15,9 @@ normalization: "v0.6.0"
 resolver_rules: "v0.6.0"
 hex_topology: "bounded_hx_map_v1"
 aggregation: "v0.6.0"
+
+# tfp_corpus (Postgres) structural wiring -- see hesperia/modules/tfp/data/tfp_v1/postgres/README.md
+# for the full status. Same v0.6.9 label covers both the Postgres wiring (Phase 3/4a) and the
+# sealed calibration pack (assets/calibration/dicts/v0_6_9/, see root VERSION.yaml
+# tfp_module_v1) -- one checkpoint, not scattered v052_5/v052_6 internal counters.
+tfp_postgres_wiring: "v0.6.9"  # Phase 3 (normalized_sentence) + Phase 4a (concept_link) + Phase 4b (ACB, sealed+live)

@@ -34,6 +34,7 @@ except ImportError:
 
 # -----------------------------------------------------------------------------
 # Config load (defaults from spec §14)
+# B3–B5 agentic addresses: docs/recipes/chiron_tweaks/CHIRON-126-ADDRESS-MAP-2026-08-21.md (items 69–85)
 # -----------------------------------------------------------------------------
 
 DEFAULT_CONFIG = {

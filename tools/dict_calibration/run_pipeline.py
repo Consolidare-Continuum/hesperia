@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import inspect
 import json
+import os
 import sys
 from pathlib import Path
 from typing import Any
@@ -533,11 +534,21 @@ def cmd_wave(args: argparse.Namespace) -> None:
     _write_wave_handoff(Path(workdir), n, args.corpus)
 
 
+def _default_call_ledger_to_workdir(workdir: str | Path) -> None:
+    """Point the per-call durability ledger (openai_json._ledger_path) at this run's own workdir
+    unless the caller already set HESPERIA_CALIB_CALL_LEDGER explicitly. Long/costly runs get
+    their ledger sitting right next to their other outputs instead of one shared repo-wide file.
+    """
+    if not os.environ.get("HESPERIA_CALIB_CALL_LEDGER", "").strip():
+        os.environ["HESPERIA_CALIB_CALL_LEDGER"] = str(Path(workdir) / "call_ledger.jsonl")
+
+
 def cmd_ru_tfp_align(args: argparse.Namespace) -> None:
     from tools.dict_calibration.env_defaults import assert_corpus_not_legacy_research
 
     assert_corpus_not_legacy_research(args.corpus)
     require_openai_key()
+    _default_call_ledger_to_workdir(args.workdir)
     mx = int(args.max_phrases)
     only = None
     if getattr(args, "only_zero_from", None):
@@ -615,6 +626,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
         from tools.dict_calibration.budget import apply_run_all_budget
 
         apply_run_all_budget(args)
+    _default_call_ledger_to_workdir(args.workdir)
     ns = argparse.Namespace(
         corpus=args.corpus,
         out=args.workdir,

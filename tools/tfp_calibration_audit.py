@@ -27,6 +27,7 @@ FINAL_AREA_COLLAPSE_MAX = 0.9
 FINAL_AREA_FLATNESS_ENTROPY = 2.2
 SEGMENT_LENGTH_SENSITIVITY_RATIO = 3.0
 MAX_CONTRADICTIONS_PER_LEXICAL_HIT = 5.0
+# Family/area grain (pipeline writes family share into these fields). Concept-level is diagnostic.
 MAX_ZERO_LEX_SHARE = 0.6
 MAX_INFERRED_SHARE = 0.6
 MIN_HEX_DELTA_L1_HARD = 0.01
@@ -121,7 +122,14 @@ def run_audit(bundle_dir: Path) -> dict[str, Any]:
             "areas_inhibited": stage_inhibited,
             "areas_final": stage_final,
         }
-        if st.get("activation_path_id") != "tfp_invariant_activation_v2":
+        # Matches hesperia/engine/calibration_release_gate.py's own _allowed_operator_ids: that
+        # gate already treats "engine_invariant_activation_v2" as a legitimate outcome (session-stage
+        # classification via analyze_session()/build_invariant_activation() calls load_engine_runtime_bundle()
+        # with no TFP-calibration override parameter, so it structurally can only ever emit that value,
+        # never "tfp_invariant_activation_v2"). Chiron, 2026-08-17: this check disagreed with the gate it
+        # feeds into (audit_operator_path_not_bypassed reads this alarm list) -- false INVARIANT_PATH_NOT_USED
+        # alarm on every TFP session-stage run. Widening to match, not narrowing the gate's own policy.
+        if st.get("activation_path_id") not in ("tfp_invariant_activation_v2", "engine_invariant_activation_v2"):
             suspects.append("stages.invariant_path_missing")
             alarms.append("INVARIANT_PATH_NOT_USED")
 
@@ -197,8 +205,11 @@ def run_audit(bundle_dir: Path) -> dict[str, Any]:
                 "delta_count": rec.get("delta_count"),
                 "lexical_hits_accepted": lexical.get("lexical_hits_accepted"),
                 "contradictions_per_accepted_lexical_hit": ratio,
+                "grounding_granularity": lexical.get("grounding_granularity") or "family",
                 "zero_lexical_evidence_share": zero_lex_share,
                 "inferred_share": inferred_share,
+                "zero_lexical_evidence_share_concept": lexical.get("zero_lexical_evidence_share_concept"),
+                "zero_area_lexical_evidence_share": lexical.get("zero_area_lexical_evidence_share"),
                 "segment_entropy": lexical.get("segment_entropy"),
             }
             if rec.get("canonical_source") != "12_topology_derived_contradictions":

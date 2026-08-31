@@ -19,6 +19,7 @@ from typing import Any
 
 from core.engine.hex_matrix_builders import HEXES_PER_FAMILY_CANON
 from core.engine.sealed_multiscale_stack import NUM_FAMILIES, run_sealed_multiscale_stack
+from core.projection.area_math_grain import area_math_classifier_meta, project_macro_for_grain
 from hesperia.system.version import calibration_profile_bundle_id
 
 
@@ -162,10 +163,8 @@ def build_structural_internal_from_multiscale(
         L1_out["CALIBRATION_FALLBACK_USED"] = l1_fallback_kind
 
     area = [float(x) for x in (sealed.get("area_activation_vector") or [])]
-    public_areas = [area[i] for i in range(min(10, len(area)))]
-    s = sum(public_areas) or 1.0
-    macro = [x / s for x in public_areas]
-    dom = max(range(len(macro)), key=lambda i: macro[i]) if macro else 0
+    macro, dom, grain_used = project_macro_for_grain(area)
+    grain_meta = area_math_classifier_meta(grain=grain_used)
     hspr = float(sealed.get("hspr_index") or 0.0)
     decision_code = 0
     # Align with legacy L7 vocabulary (HIGH / MED / LOW).
@@ -208,6 +207,8 @@ def build_structural_internal_from_multiscale(
             "raw_metrics": {
                 "macro_domain_vector": macro,
                 "dominant_macro_domain": dom,
+                "area_math_grain": grain_used,
+                "area_math_classifier": grain_meta,
             },
         },
         "multiscale_signals": {

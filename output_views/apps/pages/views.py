@@ -176,6 +176,22 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     metrics = params.get("metrics") if isinstance(params.get("metrics"), dict) else {}
     modules = params.get("modules") if isinstance(params.get("modules"), dict) else {}
     modules_json = mark_safe(json.dumps(modules, indent=2, ensure_ascii=False)) if modules else ""
+    tfp_profile = params.get("tfp_profile") if isinstance(params.get("tfp_profile"), dict) else {}
+    if not tfp_profile:
+        ext = ((modules.get("tfp") or {}).get("v1") or {}).get("analyze_extended") or {}
+        if isinstance(ext, dict):
+            tfp_profile = {
+                "grain": ext.get("grain"),
+                "pack": ext.get("pack"),
+                "dict_mode": ext.get("dict_mode"),
+                "structure": ext.get("structure"),
+            }
+    # also from bundle meta.analyze_profile
+    apm = meta.get("analyze_profile") if isinstance(meta.get("analyze_profile"), dict) else {}
+    tfp_grain = tfp_profile.get("grain") or apm.get("area_math") or apm.get("grain")
+    tfp_pack = tfp_profile.get("pack") or apm.get("pack_areas") or apm.get("pack")
+    tfp_dict_mode = tfp_profile.get("dict_mode") or apm.get("dict_mode")
+    tfp_structure = tfp_profile.get("structure") or apm.get("structure_map") or apm.get("structure")
 
     audit = current.get("audit") if isinstance(current.get("audit"), dict) else {}
     audit_iteration = audit.get("iteration") if isinstance(audit.get("iteration"), dict) else {}
@@ -202,7 +218,7 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
     try:
         export_segment = final_segment_for_bundle(bundle, int(current.get("order", 0)))
         validate_iteration_segment_openai_v1(export_segment)
-    except (KeyError, ValueError, TypeError) as e:
+    except (KeyError, ValueError, TypeError, OSError, FileNotFoundError) as e:
         logger.debug("export_segment unavailable session=%s err=%s", session_id, e)
         export_segment = None
 
@@ -232,6 +248,10 @@ def session_inspector(request: HttpRequest, session_id: str) -> HttpResponse:
             "metrics": metrics,
             "modules": modules,
             "modules_json": modules_json,
+            "tfp_grain": tfp_grain,
+            "tfp_pack": tfp_pack,
+            "tfp_dict_mode": tfp_dict_mode,
+            "tfp_structure": tfp_structure,
             "audit": audit,
             "audit_iteration": audit_iteration,
             "audit_planes": audit_planes,

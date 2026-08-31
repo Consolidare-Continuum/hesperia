@@ -47,6 +47,27 @@ _EMPTY_NARRATIVE: dict[str, Any] = {
 }
 
 
+def default_openai_model() -> str:
+    return os.environ.get(
+        "HESPERIA_OPENAI_MODEL",
+        os.environ.get("HESPERIA_LLM_INTERPRET_MODEL", "gpt-4o-mini"),
+    )
+
+
+def default_anthropic_model() -> str:
+    return os.environ.get("HESPERIA_ANTHROPIC_MODEL", "claude-sonnet-4-20250514")
+
+
+def _resolved_model(config: LlmInterpretConfig) -> str:
+    if config.model:
+        return config.model
+    if config.provider == "anthropic":
+        return default_anthropic_model()
+    if config.provider == "openai":
+        return default_openai_model()
+    return "mock"
+
+
 class LlmClient(Protocol):
     def complete_json(self, messages: list[dict[str, str]], schema: dict[str, Any]) -> dict[str, Any]:
         ...
@@ -71,13 +92,100 @@ def _config_from_env(cfg: LlmInterpretConfig | None) -> LlmInterpretConfig:
     retry_raw = os.environ.get("HESPERIA_LLM_MAX_RETRIES", "").strip()
     timeout = float(timeout_raw) if timeout_raw else base.timeout_seconds
     retries = int(retry_raw) if retry_raw else base.max_retries
+    provider = base.provider
+    env_provider = os.environ.get("HESPERIA_LLM_PROVIDER", "").strip().lower()
+    if (not cfg or cfg.provider == "mock") and env_provider in ("openai", "anthropic", "mock"):
+        provider = env_provider  # type: ignore[assignment]
+    model = base.model or (os.environ.get("HESPERIA_LLM_INTERPRET_MODEL") or "").strip() or None
     return LlmInterpretConfig(
-        provider=base.provider,
-        model=base.model,
+        provider=provider,  # type: ignore[arg-type]
+        model=model,
         max_output_tokens=base.max_output_tokens,
         timeout_seconds=max(0.1, timeout),
         max_retries=max(0, retries),
     )
+
+
+def _openai_client(cfg: LlmInterpretConfig) -> LlmClient:
+    from runtime.shipping.openai_key_load import ensure_openai_api_key
+
+    if not ensure_openai_api_key():
+        raise RuntimeError("Missing OPENAI_API_KEY")
+
+    from openai import OpenAI
+
+    model = cfg.model or default_openai_model()
+    client = OpenAI()
+
+    class _OpenAIClient:
+        def complete_json(self, messages: list[dict[str, str]], schema: dict[str, Any]) -> dict[str, Any]:
+            resp = client.responses.create(
+                model=model,
+                temperature=0,
+                max_output_tokens=cfg.max_output_tokens,
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "structural_narrative",
+                        "schema": schema,
+                        "strict": True,
+                    }
+                },
+                input=messages,
+            )
+            try:
+                parsed = json.loads(resp.output_text)
+            except json.JSONDecodeError as exc:
+                raise RuntimeError(f"OpenAI returned non-JSON output: {resp.output_text[:500]}") from exc
+            if not isinstance(parsed, dict):
+                raise RuntimeError("OpenAI JSON output must be an object")
+            return parsed
+
+    return _OpenAIClient()
+
+
+def _anthropic_client(cfg: LlmInterpretConfig) -> LlmClient:
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        raise RuntimeError("Missing ANTHROPIC_API_KEY")
+
+    import anthropic
+
+    model = cfg.model or default_anthropic_model()
+    client = anthropic.Anthropic()
+
+    class _AnthropicClient:
+        def complete_json(self, messages: list[dict[str, str]], schema: dict[str, Any]) -> dict[str, Any]:
+            system = next((m["content"] for m in messages if m["role"] == "system"), SYSTEM_PROMPT)
+            user_parts = [m["content"] for m in messages if m["role"] == "user"]
+            user_text = "\n\n".join(user_parts)
+            resp = client.messages.create(
+                model=model,
+                max_tokens=cfg.max_output_tokens,
+                temperature=0,
+                system=system,
+                messages=[{"role": "user", "content": user_text}],
+            )
+            text_blocks = [b.text for b in resp.content if getattr(b, "type", None) == "text"]
+            raw = "".join(text_blocks).strip()
+            try:
+                parsed = json.loads(raw)
+            except json.JSONDecodeError as exc:
+                raise RuntimeError(f"Anthropic returned non-JSON output: {raw[:500]}") from exc
+            if not isinstance(parsed, dict):
+                raise RuntimeError("Anthropic JSON output must be an object")
+            return parsed
+
+    return _AnthropicClient()
+
+
+def _client_for_provider(cfg: LlmInterpretConfig) -> LlmClient:
+    if cfg.provider == "mock":
+        return MockLlmClient()
+    if cfg.provider == "anthropic":
+        return _anthropic_client(cfg)
+    if cfg.provider == "openai":
+        return _openai_client(cfg)
+    raise ValueError(f"Unsupported provider: {cfg.provider}")
 
 
 def _output_hash(payload: Any) -> str:
@@ -92,7 +200,7 @@ def build_interpretation_messages(prompt_envelope: dict[str, Any]) -> list[dict[
         {
             "role": "user",
             "content": (
-                "Interpret this router prompt envelope into a bounded clinical narrative. "
+                "Interpret this router prompt envelope into a bounded structural narrative. "
                 "Respond with JSON only.\n\n" + PAYLOAD_PREFIX + payload
             ),
         },
@@ -169,7 +277,11 @@ def _invoke_with_retry(
                 config.timeout_seconds,
             )
             return narrative, attempt
-        except (LlmCallTimeout, OSError, RuntimeError) as exc:
+        except (LlmCallTimeout, OSError, RuntimeError, Exception) as exc:
+            # Provider SDKs raise typed HTTP errors (e.g. openai.AuthenticationError)
+            # that are not RuntimeError subclasses — still retry/fail cleanly.
+            if isinstance(exc, (KeyboardInterrupt, SystemExit)):
+                raise
             last_error = exc
             if attempt >= attempts:
                 break
@@ -185,7 +297,8 @@ def interpret_router_envelope(
 ) -> dict[str, Any]:
     """LLM call wrapper: prompt envelope → narrative + hashes + call metadata."""
     config = _config_from_env(cfg)
-    llm = client if client is not None else MockLlmClient()
+    llm = client if client is not None else _client_for_provider(config)
+    model_name = _resolved_model(config)
     input_hash = str(envelope.get("input_hash") or "")
     prompt_env = build_prompt_envelope(envelope)
     try:
@@ -193,7 +306,7 @@ def interpret_router_envelope(
     except PromptPolicyViolation as exc:
         result = {
             "provider": config.provider,
-            "model": config.model or "mock",
+            "model": model_name,
             "prompt_envelope": prompt_env,
             "narrative": dict(_EMPTY_NARRATIVE),
             "output_hash": _output_hash(_EMPTY_NARRATIVE),
@@ -204,7 +317,7 @@ def interpret_router_envelope(
             input_hash=input_hash,
             output_hash=result["output_hash"],
             provider=config.provider,
-            model=result["model"],
+            model=model_name,
             latency_ms=0.0,
             status="policy_violation",
             error=";".join(exc.violations),
@@ -226,14 +339,14 @@ def interpret_router_envelope(
             input_hash=input_hash,
             output_hash=out_hash,
             provider=config.provider,
-            model=config.model or "mock",
+            model=model_name,
             latency_ms=latency,
             status="ok",
             attempt=attempt,
         )
         return {
             "provider": config.provider,
-            "model": config.model or "mock",
+            "model": model_name,
             "prompt_envelope": prompt_env,
             "narrative": narrative,
             "output_hash": out_hash,
@@ -241,26 +354,32 @@ def interpret_router_envelope(
             "latency_ms": round(latency, 3),
             "attempt": attempt,
         }
-    except (LlmCallTimeout, OSError, RuntimeError) as exc:
+    except (LlmCallTimeout, OSError, RuntimeError, Exception) as exc:
+        if isinstance(exc, (KeyboardInterrupt, SystemExit)):
+            raise
         latency = timer.elapsed_ms()
         out_hash = _output_hash(_EMPTY_NARRATIVE)
+        err = str(exc)
+        # Never echo raw API keys from provider error payloads into responses.
+        if "sk-" in err:
+            err = "provider_auth_or_request_failed"
         log_llm_call(
             input_hash=input_hash,
             output_hash=out_hash,
             provider=config.provider,
-            model=config.model or "mock",
+            model=model_name,
             latency_ms=latency,
             status="failed",
-            error=str(exc),
+            error=err,
             attempt=config.max_retries + 1,
         )
         return {
             "provider": config.provider,
-            "model": config.model or "mock",
+            "model": model_name,
             "prompt_envelope": prompt_env,
             "narrative": dict(_EMPTY_NARRATIVE),
             "output_hash": out_hash,
             "call_status": "failed",
-            "call_error": str(exc),
+            "call_error": err,
             "latency_ms": round(latency, 3),
         }

@@ -91,7 +91,9 @@ def build_interpretation_messages(prompt_state: dict[str, Any]) -> list[dict[str
 
 
 def _openai_client(cfg: LlmInterpretConfig) -> LlmClient:
-    if not os.environ.get("OPENAI_API_KEY"):
+    from runtime.shipping.openai_key_load import ensure_openai_api_key
+
+    if not ensure_openai_api_key():
         raise RuntimeError("Missing OPENAI_API_KEY")
 
     from openai import OpenAI

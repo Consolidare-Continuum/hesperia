@@ -1,7 +1,8 @@
 {
   "version": "1",
-  "description": "Hex placement slots and side_id ranges for reserved (service) areas. Coordinates preserved; values nulled or sealed; stateless. Inaccessible to runtime population and public output. Internal use only.",
+  "description": "Hex placement slots and side_id ranges for ten-area pack exclusion (grain=10). Under default grain 12, reserve_loader.is_reserved_* returns false — CREATION/DECEIT are first-class.",
   "reserved_area_internal_indices": [10, 11],
+  "applies_when": "HESPERIA_AREA_MATH_GRAIN=10",
   "reserved_family_global_indices_range": { "start": 240, "end_inclusive": 287 },
   "hexes_per_family": 250,
   "sides_per_hex": 6,

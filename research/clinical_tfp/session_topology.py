@@ -24,7 +24,7 @@ from hesperia.extensions.triz.topology_contradiction_coupling import (
     compute_transition_pressure,
     segment_momentum_factors_from_loads,
 )
-from research.clinical_tfp.interpretation import DEFENSE_MAP, detect_defense_pattern
+from research.clinical_tfp.interpretation import DEFENSE_MAP, detect_defense_pattern, get_dominant_area
 
 
 def segment_session(text: str, window_size: int = 80) -> list[str]:
@@ -136,6 +136,47 @@ def normalize_areas_share_of_total(
     if total <= eps:
         return {str(key): 0.0 for key in (areas or {})}
     return {str(key): max(0.0, float(value)) / total for key, value in (areas or {}).items()}
+
+
+# CHI-003-02: TFP-native "session working theme" — dual-signal alongside areas_final
+# (invariant_activation.build_invariant_activation's whole-session cumulative softmax,
+# unchanged). Per CHI-003-01 (Colombo verdict): areas_final answers "what accumulated the
+# most mass all-session," which TFP_KERNBERG canon does not predict should be the ordinary
+# in-session working theme (A10 = treatment-process/frame, not default hour content).
+# areas_working down-weights the opening contract/frame-setting segments instead — a flat
+# two-tier weight, not a Field Dynamics decay (no exponential state, no untuned Phase1Theta
+# constants). Constants calibrated against the 14 real TFP sessions in
+# outputs/tfp/runs/tfp_gena_*_corpuscalib (tests/fixtures/chi003_areas_working_calibration.json);
+# see tests/test_areas_working_calibration.py for the calibration gate.
+TFP_WORKING_THEME_WARMUP_SEGMENTS = 2
+TFP_WORKING_THEME_WARMUP_WEIGHT = 0.25
+
+
+def compute_areas_working(
+    segment_results: list[dict[str, Any]],
+    *,
+    area_key: str = "areas",
+    warmup_segments: int = TFP_WORKING_THEME_WARMUP_SEGMENTS,
+    warmup_weight: float = TFP_WORKING_THEME_WARMUP_WEIGHT,
+) -> dict[str, float]:
+    """
+    Session working theme: per-segment area shares averaged across the session, with the
+    first ``warmup_segments`` segments (contract/frame-setting window) weighted by
+    ``warmup_weight`` instead of 1.0. Returns {} if there are no segments.
+    """
+    agg: dict[str, float] = {}
+    total_weight = 0.0
+    for i, seg in enumerate(segment_results or []):
+        weight = warmup_weight if i < warmup_segments else 1.0
+        for area_id, value in ((seg or {}).get(area_key) or {}).items():
+            try:
+                agg[str(area_id)] = agg.get(str(area_id), 0.0) + weight * float(value)
+            except (TypeError, ValueError):
+                continue
+        total_weight += weight
+    if total_weight <= 1e-12:
+        return {}
+    return {area_id: value / total_weight for area_id, value in agg.items()}
 
 
 def _float_or_skip(v: Any) -> float | None:

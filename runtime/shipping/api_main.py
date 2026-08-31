@@ -162,6 +162,8 @@ class InterpretBody(BaseModel):
     context_packet: dict[str, Any] | None = None
     # FPF-MWI-03 / BUII P7: optional GapReport attach — default off.
     include_gap_report: bool = False
+    # CHI-016: Class B TFP-FD opt-in — also requires HESPERIA_TFP_FIELD_DYNAMICS; never default.
+    include_tfp_field_dynamics: bool = False
 
     @field_validator("context_packet")
     @classmethod
@@ -199,12 +201,16 @@ def create_app():
 
     def _safe_response(data: dict | list):
         from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
+        from runtime.shipping.analyze_profile import attach_analyze_profile, resolve_analyze_profile
         from runtime.shipping.schema_guard import validate_against_public_schema
 
+        cal = default_calibration_profile()
+        if resolve_analyze_profile() == "tfp":
+            cal = "tfp_v1"
         if isinstance(data, dict):
             merged = attach_public_output_metadata(
                 data,
-                calibration_profile=default_calibration_profile(),
+                calibration_profile=cal,
                 pipeline_version=api_pipeline_version(),
                 execution_flow_version=api_pipeline_version(),
                 orchestration_mode="API_SYNC",
@@ -212,23 +218,29 @@ def create_app():
         else:
             merged = attach_public_output_metadata(
                 {},
-                calibration_profile=default_calibration_profile(),
+                calibration_profile=cal,
                 pipeline_version=api_pipeline_version(),
                 execution_flow_version=api_pipeline_version(),
                 orchestration_mode="API_SYNC",
             )
             merged["payload"] = data
         validate_against_public_schema(merged)
+        if isinstance(merged, dict):
+            merged = attach_analyze_profile(merged)
         return JSONResponse(content=merged, media_type="application/json")
 
     def _safe_response_with_engine(data: dict | list, engine_result: dict[str, Any]):
         from hesperia.system.version import attach_public_output_metadata, api_pipeline_version, default_calibration_profile
+        from runtime.shipping.analyze_profile import attach_analyze_profile, resolve_analyze_profile
         from runtime.shipping.schema_guard import validate_against_public_schema
 
+        cal = default_calibration_profile()
+        if resolve_analyze_profile() == "tfp":
+            cal = "tfp_v1"
         if isinstance(data, dict):
             merged = attach_public_output_metadata(
                 data,
-                calibration_profile=default_calibration_profile(),
+                calibration_profile=cal,
                 pipeline_version=api_pipeline_version(),
                 execution_flow_version=api_pipeline_version(),
                 orchestration_mode="API_SYNC",
@@ -236,14 +248,16 @@ def create_app():
         else:
             merged = attach_public_output_metadata(
                 {},
-                calibration_profile=default_calibration_profile(),
+                calibration_profile=cal,
                 pipeline_version=api_pipeline_version(),
                 execution_flow_version=api_pipeline_version(),
                 orchestration_mode="API_SYNC",
             )
             merged["payload"] = data
         validate_against_public_schema(merged)
-        merged["engine_result"] = engine_result
+        merged["engine_result"] = attach_analyze_profile(engine_result)
+        if isinstance(merged, dict):
+            merged = attach_analyze_profile(merged)
         return JSONResponse(content=merged, media_type="application/json")
 
     def _neutral_500() -> JSONResponse:
@@ -275,6 +289,19 @@ def create_app():
     def _startup_fingerprint():
         import sys
         try:
+            from runtime.shipping.openai_key_load import ensure_openai_api_key
+
+            ensure_openai_api_key()
+        except Exception as exc:
+            print(f"openai_key_load skipped: {exc}", file=sys.stderr)
+        try:
+            from runtime.shipping.analyze_profile import apply_analyze_profile_defaults, resolve_analyze_profile
+
+            prof = apply_analyze_profile_defaults()
+            print(f"analyze_profile: {prof}", file=sys.stderr)
+        except Exception as exc:
+            print(f"analyze_profile init skipped: {exc}", file=sys.stderr)
+        try:
             from runtime.shipping.env_guard import check_hesperia_env
 
             _strict = os.environ.get("HESPERIA_SHIPPING_ENV_STRICT", "").strip().lower() in (
@@ -303,8 +330,18 @@ def create_app():
         print("mode: sealed_evaluator", file=sys.stderr)
 
     @app.get("/health")
-    def health() -> dict[str, str]:
-        return {"status": "ok"}
+    def health() -> dict[str, Any]:
+        from runtime.shipping.analyze_profile import analyze_profile_meta, resolve_analyze_profile
+
+        meta = analyze_profile_meta()
+        return {
+            "status": "ok",
+            "analyze_profile": resolve_analyze_profile(),
+            "pack_areas": meta["pack_areas"],
+            "pack_families": meta["pack_families"],
+            "geometry_areas_lock": meta["geometry_areas_lock"],
+            "branch": meta["branch"],
+        }
 
     if expose_version_endpoint():
 
@@ -401,6 +438,7 @@ def create_app():
                 context_packet=context_packet or None,
                 thinking_map_outcome=thinking_map_outcome,
                 include_gap_report=interpret_body.include_gap_report,
+                include_tfp_field_dynamics=interpret_body.include_tfp_field_dynamics,
             )
         except GroundTruthMissingError as exc:
             # FPF-HSR-13: hard fail, not silent omit — never ship a response missing one of the

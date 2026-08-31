@@ -38,7 +38,9 @@ def project_dlcr_public_summary(dlcr_bundle: dict[str, Any]) -> dict[str, Any]:
         "domain_activation": dlcr_bundle.get("area_activation") or {},
         "policy_activation": dlcr_bundle.get("family_activation") or {},
         "degradation_markers": list(dlcr_bundle.get("degradation_flags") or []),
-        "top_concepts": [{"concept_id": k, "weight": round(float(v), 6)} for k, v in top_c],
+        "top_concepts": [
+            {"concept_label": k, "activation_mass": round(float(v), 6)} for k, v in top_c
+        ],
         "evidence": evidence,
         "segment_motion": dlcr_bundle.get("segment_trajectory") or {},
     }

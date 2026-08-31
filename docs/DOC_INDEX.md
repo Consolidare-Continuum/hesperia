@@ -1,13 +1,16 @@
 # Hesperia documentation index
 
-**Updated:** 2026-07-04 (fpf_bridge v7.2–v7.4 wave)
+**Updated:** 2026-08-17 (dev/train boundary)
 
 ## Agentic entry
 
 | Doc | Topic |
 |-----|--------|
 | [foundations/agentic_orientation.md](foundations/agentic_orientation.md) | Five-pass cold-start protocol for agentic work: branch naming, math posture, owner map, anti-drift rules |
-| [../AGENTS.md](../AGENTS.md) | Repo-local execution rules and Hesperia-specific behavior |
+| [../AGENTS.md](../AGENTS.md) | Repo-local execution rules and Hesperia-specific behavior — includes the dev/train mode-marker rule |
+| [recipes/README.md](recipes/README.md) | Task → Hesperia-capability recipes (Chiron's required output); shape + when a theorizing note replaces a recipe |
+| [recipes/params_combo/INDEX.md](recipes/params_combo/INDEX.md) | Addressable registry of multi-parameter combo recipes (`PC-NNN` IDs) — one place for recipes that tune more than one parameter at once |
+| [recipes/chiron_tweaks/INDEX.md](recipes/chiron_tweaks/INDEX.md) | Addressable registry of genuinely-usable new-capability tweaks (`CHI-NNN` IDs) — as opposed to tuning existing parameters |
 
 ## Layer 11 — fpf_bridge (LLM reasoning bridge) and its extensions
 
@@ -51,6 +54,8 @@ the top of each spec is authoritative, not this index.
 - **22_SPEC** — GCS + Interior Point of World View ([brain draft](https://github.com/igareosh/cursor/blob/main/user_documents/HESPERIA_ACADEMIA/HESPERIA-FORMALIZATION-GEODESIC-SPHERE-AND-INTERIOR-POINT-OF-WORLD-VIEW-v0_1.md))
 - **23_SPEC** — General Thought Propagation ([brain draft](https://github.com/igareosh/cursor/blob/main/user_documents/HESPERIA_ACADEMIA/HESPERIA-FORMALIZATION-GENERAL-THOUGHT-PROPAGATION-v0_1.md))
 - **Ethan ratification** — [SPEC-ETHAN-HESPERIA-METRIC-AND-DISTANCE](https://github.com/igareosh/cursor/blob/main/governance/SPEC-ETHAN-HESPERIA-METRIC-AND-DISTANCE.md)
+- **Chiron entity** — [SPEC-ETHAN-CHIRON-HESPERIA-CALIBRATION-ENTITY](https://github.com/igareosh/cursor/blob/main/governance/SPEC-ETHAN-CHIRON-HESPERIA-CALIBRATION-ENTITY.md) (Status: **Accepted**, 2026-08-17) — one-man-army of Hesperia's existing operability/quality, params↔math↔corpus calibration authority, recipes, feature theorizing for the gaps
+- **Dev/train boundary** — [SPEC-ETHAN-HESPERIA-DEV-TRAIN-BOUNDARY](https://github.com/igareosh/cursor/blob/main/governance/SPEC-ETHAN-HESPERIA-DEV-TRAIN-BOUNDARY.md) (Status: **Ratified**, 2026-08-17) — mode marker for the shared Felix/Gena-vs-Chiron zone; promote-gate awareness of which regime produced a change
 
 ## Concept-graph metric layer (BELL/KSI)
 

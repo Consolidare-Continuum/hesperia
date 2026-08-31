@@ -41,12 +41,46 @@ calibration:
 defaults:
   calibration_profile: "default_v1"
   # Pinned dict pack dir under assets/calibration/dicts/<name>/ (TFP-GATE-A0; validate_version_consistency checks existence).
-  active_calibration_dict_pack: "v0_6_0_clr_v052_5"
+  # Must match tfp_module_v1.pinned_calibration_dict_pack below (validator enforces it) -- kept in
+  # lockstep, updated 2026-08-20 to the same v0_6_9 promotion.
+  active_calibration_dict_pack: "v0_6_9"
 
 tfp_module_v1:
-  seal_requested: false
-  pinned_calibration_dict_pack: "v0_6_0_clr_v052_5"
+  # NOTE 2026-08-20: this block's YAML key and data_layout value both stay the literal string
+  # "tfp_v1" on purpose -- hesperia/modules/tfp/seal.py does doc.get("tfp_module_v1"), and
+  # tools/validate_version_consistency.py hard-asserts data_layout == "tfp_v1" (TFP-DATA-T17).
+  # Renaming either breaks real code, not just a label. The milestone/version fields below are
+  # the actual "TFP v2, 0.7.0" promotion -- see milestone_note.
+  milestone: "TFP v2"
+  milestone_version: "0.7.0"
+  seal_requested: true
+  pinned_calibration_dict_pack: "v0_6_9"
   data_layout: "tfp_v1"
+  milestone_note: >
+    2026-08-20: promoted to TFP v2 / 0.7.0 -- the v0_6_9 alignment+taxonomy-cleanup work below
+    is complete, verified, live, and stable across four same-day production cutovers with zero
+    regressions. This is the semantic project milestone; data_layout/the block key stay "tfp_v1"
+    as a structural identifier the validator and seal.py depend on, not a version claim.
+  # 2026-08-19/20: v0_6_9 = old v0_6_0_clr_v052_5 (10155 dict_a entries) + gpt-4o-mini ACB
+  # alignment (983 entries) + gpt-5-mini ACB alignment, confidence>=0.7 only (1853 of 2773 --
+  # the two runs disagreed on 78% of overlapping phrases, correlated cleanly with confidence,
+  # so only the reliable tier got merged) + collapsed the "aspect 2..5" taxonomy over-split
+  # (79 concepts removed, 283->204 remaining -- confirmed via dict_c/links/loose-dict_a
+  # provenance that the only "evidence" for these was either a synthetic self-referential row
+  # or a single word too generic to specifically indicate one sub-concept, not real
+  # distinguishing signal) + collapsed TFP_CLUSTER_005 (a duplicate-labeled lexical-cluster
+  # artifact, same class as the aspect-N case -- 204->203). Concept coverage 134 -> 187 ->
+  # 203/203 -- every concept in the current catalog has real lexical coverage. Live on
+  # hesperia-analyze-tfp (:18881) via systemd override + restart, verified via a real request
+  # after every cutover (four total). Full 11-session regression run before each cutover: 11/11
+  # pass every time, zero regressions across all four changes.
+  #
+  # Still open, deliberately not touched: 8 more duplicate-label concept groups (23 concepts,
+  # e.g. Изменения/Управление area variants, splitting/devaluation/idealization split across the
+  # TFP_*/C-NNNN naming schemes) -- unlike TFP_CLUSTER_005 these carry live-matched content, so
+  # collapsing needs individual review per group, not a blanket pass. See
+  # docs/recipes/chiron_tweaks/BACKLOG.md Phase 4e for the full list. Nothing broken, just
+  # redundant in these spots -- a real candidate for a future pass, not urgent.
 
 # Filled at runtime by hesperia.system.version (never commit secrets here)
 build:
@@ -62,7 +96,7 @@ apply:
     - add_edge
 
 archive:
-  github_release: "0.7.2"
+  github_release: "0.7.1"
   public_archive_placeholder_dict_pack: "archive_063_minimal"
   excludes_prod_dicts: true
   excludes_prod_corpus: true

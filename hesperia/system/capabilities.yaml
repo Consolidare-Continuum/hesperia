@@ -11,8 +11,9 @@ internal:
   dynamics: true
   triz: true
   calibration: true
-  # DLCR structural sidecar on analysis_service (dev / non-strict product only unless exposed).
-  dlcr: false
+  # DLCR structural sidecar on analysis_service — env HESPERIA_DLCR_STRUCTURAL still required.
+  # Enabled so TFP Class B lane (:18881) can attach full dict_*_tfp* stack; default core omits env.
+  dlcr: true
 
 # What may appear on external HTTP/CLI surfaces (product build).
 exposed:

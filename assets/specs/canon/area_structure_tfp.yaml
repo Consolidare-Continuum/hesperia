@@ -1,10 +1,11 @@
 # LEVEL 1 — Структура областей TFP / Кернберг. Язык: русский.
-# 10 операционных областей (индексы 0–9). Топология: икосаэдр (12 узлов).
+# 12 операционных областей (индексы 0–11). Топология: икосаэдр (12 узлов).
 # T1.1 Определение областей | T1.2 Цель области | T1.3 Смежность областей.
+# TFP-POLES-02 (2026-08-21): A11/A12 locked names; area_neighbors = full sphere 0–11.
 version: 1
 domain: TFP_KERNBERG
 language: ru
-public_area_count: 10
+public_area_count: 12
 
 areas:
   - area_id: A1
@@ -26,7 +27,7 @@ areas:
     exclusions:
       - чисто поведенческое описание без аффекта
       - когнитивное содержание без связи влечение/аффект
-    area_neighbors: [1, 5, 7]  # operational only (0–9); full topology 0→1,5,7,10,11
+    area_neighbors: [1, 5, 7, 10, 11]  # full topology (degree 5)
 
   - area_id: A2
     area_index: 1
@@ -64,7 +65,7 @@ areas:
       - примитивные защиты
     exclusions:
       - адаптивное совладание без защитного качества
-    area_neighbors: [3, 4, 6]
+    area_neighbors: [3, 4, 6, 10, 11]
 
   - area_id: A4
     area_index: 3
@@ -102,7 +103,7 @@ areas:
     exclusions:
       - нормативная сексуальность
       - неперверзный фетиш (клиническое различие)
-    area_neighbors: [2, 3, 5, 9]
+    area_neighbors: [2, 3, 5, 9, 11]  # bipolar peer of A11 via index+6 tension (not edge)
 
   - area_id: A6
     area_index: 5
@@ -121,7 +122,7 @@ areas:
       - регуляция самооценки
     exclusions:
       - здоровая самооценка
-    area_neighbors: [0, 1, 4, 9]
+    area_neighbors: [0, 1, 4, 9, 11]  # bipolar peer of A12 via index+6 tension (edge A6↔A12)
 
   - area_id: A7
     area_index: 6
@@ -139,7 +140,7 @@ areas:
       - зрелые объектные отношения
     exclusions:
       - только поверхностная социальная связь
-    area_neighbors: [2, 3, 7, 8]
+    area_neighbors: [2, 3, 7, 8, 10]
 
   - area_id: A8
     area_index: 7
@@ -158,7 +159,7 @@ areas:
       - диффузия идентичности
     exclusions:
       - только синдромальный диагноз (DSM) без структуры
-    area_neighbors: [0, 1, 6, 8]
+    area_neighbors: [0, 1, 6, 8, 10]
 
   - area_id: A9
     area_index: 8
@@ -197,17 +198,64 @@ areas:
       - фокус на одной сессии без процесса
     area_neighbors: [1, 3, 4, 5, 8]
 
-# T1.3 — Area distance (shortest path, operational subgraph 0–9). Diameter = 3.
-# Computed from icosahedral adjacency restricted to nodes 0–9. Used for propagation and metrics.
+  # --- Poles (indices 10–11). Locked names 2026-08-21. Core CREATION/DECEIT UI out. ---
+  - area_id: A11
+    area_index: 10
+    name: Integration / Sublimation
+    name_ru: Интеграция / сублимация
+    description: |
+      Генеративная связка: целостный объект, сублимированные решения влечений,
+      конструктивный синтез в поле сессии. Биполяр к A5 (Перверсии).
+    clinical_scope: |
+      Маркеры интеграции/сублимации vs перверзного слияния; отличие от «интеграция»
+      как процессуального ярлыка A10. Семейства/маркеры — TFP-POLES-05.
+    activation_signals:
+      - интеграция
+      - сублимация
+      - целостный объект
+      - конструктивный синтез
+      - зрелая связка
+    exclusions:
+      - перверзное слияние (→ A5)
+      - только процессуальный ярлык «интеграция» без объектной связки (→ A10)
+      - core CREATION как UI-ярлык TFP
+    area_neighbors: [0, 2, 6, 7, 11]  # hop-1: A1,A3,A7,A8,A12
+
+  - area_id: A12
+    area_index: 11
+    name: Mutual recognition / Anti-grandiosity
+    name_ru: Взаимное признание / анти-грандиозность
+    description: |
+      Способность видеть другого без всемогущества; нужда/зависимость без коллапса
+      в только-A7 «любовь». Биполяр к A6 (Нарциссизм).
+    clinical_scope: |
+      Маркеры взаимного признания и анти-грандиозности vs грандиозности A6;
+      отличие от A7-only реляционной способности. Семейства/маркеры — TFP-POLES-05.
+    activation_signals:
+      - взаимное признание
+      - анти-грандиозность
+      - признание другого
+      - нужда без всемогущества
+      - зависимость без коллапса
+    exclusions:
+      - грандиозность / обесценивание как ось A6
+      - только «любовь» без признания другого (→ A7)
+      - core DECEIT как UI-ярлык TFP
+    area_neighbors: [0, 2, 4, 5, 10]  # hop-1: A1,A3,A5,A6,A11
+
+# T1.3 — Area distance (shortest path, full icosahedron 0–11). Diameter = 3.
+# Source: assets/topology/area_adjacency_matrix.json · TFP-POLES-02 draft 2026-08-21.
 area_distance_matrix:
-  #     A1  A2  A3  A4  A5  A6  A7  A8  A9  A10
-  - [ 0,  1,  3,  3,  2,  1,  2,  1,  2,  2 ]  # A1
-  - [ 1,  0,  3,  2,  2,  1,  2,  1,  1,  1 ]  # A2
-  - [ 3,  3,  0,  1,  1,  2,  1,  2,  2,  2 ]  # A3
-  - [ 3,  2,  1,  0,  1,  2,  1,  2,  1,  1 ]  # A4
-  - [ 2,  2,  1,  1,  0,  1,  2,  3,  2,  1 ]  # A5
-  - [ 1,  1,  2,  2,  1,  0,  3,  2,  2,  1 ]  # A6
-  - [ 2,  2,  1,  1,  2,  3,  0,  1,  1,  2 ]  # A7
-  - [ 1,  1,  2,  2,  3,  2,  1,  0,  1,  2 ]  # A8
-  - [ 2,  1,  2,  1,  2,  2,  1,  1,  0,  1 ]  # A9
-  - [ 2,  1,  2,  1,  1,  1,  2,  2,  1,  0 ]  # A10
+  #     A1  A2  A3  A4  A5  A6  A7  A8  A9  A10 A11 A12
+  - [ 0,  1,  2,  3,  2,  1,  2,  1,  2,  2,  1,  1 ]  # A1
+  - [ 1,  0,  3,  2,  2,  1,  2,  1,  1,  1,  2,  2 ]  # A2
+  - [ 2,  3,  0,  1,  1,  2,  1,  2,  2,  2,  1,  1 ]  # A3
+  - [ 3,  2,  1,  0,  1,  2,  1,  2,  1,  1,  2,  2 ]  # A4
+  - [ 2,  2,  1,  1,  0,  1,  2,  3,  2,  1,  2,  1 ]  # A5
+  - [ 1,  1,  2,  2,  1,  0,  3,  2,  2,  1,  2,  1 ]  # A6
+  - [ 2,  2,  1,  1,  2,  3,  0,  1,  1,  2,  1,  2 ]  # A7
+  - [ 1,  1,  2,  2,  3,  2,  1,  0,  1,  2,  1,  2 ]  # A8
+  - [ 2,  1,  2,  1,  2,  2,  1,  1,  0,  1,  2,  3 ]  # A9
+  - [ 2,  1,  2,  1,  1,  1,  2,  2,  1,  0,  3,  2 ]  # A10
+  - [ 1,  2,  1,  2,  2,  2,  1,  1,  2,  3,  0,  1 ]  # A11
+  - [ 1,  2,  1,  2,  1,  1,  2,  2,  3,  2,  1,  0 ]  # A12

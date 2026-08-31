@@ -1,5 +1,6 @@
 # Default dev / CI install (surface embeddings + NLP stack)
 -r surface.txt
+-r tfp_corpus.txt
 PyYAML>=6.0,<7
 jsonschema>=4.19,<5
 networkx>=3.0

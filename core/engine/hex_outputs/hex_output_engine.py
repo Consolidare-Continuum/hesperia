@@ -22,6 +22,7 @@ from core.engine.hex_outputs.contradiction_front import compute_contradiction_fr
 from core.engine.hex_outputs.hotspot_map import compute_hotspot_map
 from core.engine.hex_outputs.multiscale_consistency import compute_family_multiscale_consistency
 from core.engine.hex_outputs.propagation_corridors import compute_propagation_corridors
+from core.projection.area_math_grain import active_family_count
 
 __all__ = [
     "HexOutputParams",
@@ -281,13 +282,15 @@ def attach_microstructure_analytics_public(
         params=params,
         serialize=True,
     )
+    fam_cap = active_family_count()  # 288 default; 240 when grain=10
     pc = full["propagation_corridors"]
     align = full["family_multiscale_consistency"]
-    align_pub = {k: v for k, v in align.items() if k.isdigit() and int(k) < 240}
+    align_pub = {k: v for k, v in align.items() if k.isdigit() and int(k) < fam_cap}
     return {
         "engine": full["engine"],
         "active_slot_count": full["n_hex_cells"],
-        "active_policy_families": [f for f in full["active_families"] if f < 240],
+        "active_policy_families": [f for f in full["active_families"] if f < fam_cap],
+        "area_math_grain_family_cap": fam_cap,
         "microstructure_hotspots": full["hex_hotspot_map"],
         "microstructure_tension_front": full["hex_contradiction_front"],
         "microstructure_propagation": {

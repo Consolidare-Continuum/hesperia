@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import os
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -140,6 +141,47 @@ def require_openai_key() -> None:
         raise RuntimeError("OPENAI_API_KEY not set — add to repo .env or export in shell")
 
 
+_LEDGER_DEFAULT = Path(__file__).resolve().parents[2] / "outputs" / "openai_call_ledger.jsonl"
+
+
+def _ledger_path() -> Path:
+    """Where every ``chat_json`` call gets appended, durably, one line per call.
+
+    Rule: docs/conventions/API-CALL-DURABILITY.md -- any code that calls a paid/rate-limited
+    API in a loop must persist each call's result before moving to the next one, so a crash
+    only ever costs the in-progress call, not the whole run. Override per-run with
+    ``HESPERIA_CALIB_CALL_LEDGER`` (e.g. point it at the run's own workdir) -- unset falls back
+    to a single repo-wide ledger, which is still durable, just less organized per-run.
+    """
+    raw = os.environ.get("HESPERIA_CALIB_CALL_LEDGER", "").strip()
+    return Path(raw) if raw else _LEDGER_DEFAULT
+
+
+def _append_ledger(*, model: str, call_tag: str | None, user_preview: str, content: str, usage: Any) -> None:
+    path = _ledger_path()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    row = {
+        "ts": datetime.now(timezone.utc).isoformat(),
+        "model": model,
+        "call_tag": call_tag,
+        "user_preview": user_preview[:200],
+        "content": content,
+        "usage": usage.model_dump() if hasattr(usage, "model_dump") else usage,
+    }
+    # Open-write-flush-close per call, not a held-open handle: the whole point is surviving a
+    # kill between calls, so nothing here can be buffered past the call it belongs to.
+    with path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        f.flush()
+        os.fsync(f.fileno())
+
+
+def _is_reasoning_family(model: str) -> bool:
+    """gpt-5 / o1 / o3 / o4 -- reasoning-tuned models with stricter Chat Completions params
+    (e.g. temperature locked to the default 1; max_completion_tokens instead of max_tokens)."""
+    return (model or "").lower().startswith(("gpt-5", "o1", "o3", "o4"))
+
+
 def _chat_completion_limit_kwargs(model: str, mt: int) -> dict[str, int]:
     """
     Some Chat Completions models reject ``max_tokens`` and require ``max_completion_tokens``.
@@ -151,8 +193,7 @@ def _chat_completion_limit_kwargs(model: str, mt: int) -> dict[str, int]:
         return {"max_completion_tokens": mt}
     if flag in ("0", "false", "no"):
         return {"max_tokens": mt}
-    m = (model or "").lower()
-    if m.startswith(("gpt-5", "o1", "o3", "o4")):
+    if _is_reasoning_family(model):
         return {"max_completion_tokens": mt}
     return {"max_tokens": mt}
 
@@ -164,8 +205,17 @@ def chat_json(
     model: str | None = None,
     temperature: float = 0.15,
     max_tokens: int | None = None,
+    call_tag: str | None = None,
 ) -> Any:
-    """Return parsed JSON from model (json_object mode). Large payloads: raise ``HESPERIA_CALIB_MAX_OUTPUT_TOKENS``."""
+    """Return parsed JSON from model (json_object mode). Large payloads: raise ``HESPERIA_CALIB_MAX_OUTPUT_TOKENS``.
+
+    Every call -- success or JSON-parse failure -- is appended to the call ledger (see
+    ``_ledger_path``) before this function returns or raises, durably, one line per call. This is
+    the repo-wide "save each call" rule (docs/conventions/API-CALL-DURABILITY.md): a crash between
+    calls costs at most the in-progress call, never the accumulated work of a whole run.
+    ``call_tag`` is an optional caller-supplied label (e.g. "pass2/concept_batch5/phrase_chunk3")
+    to make the ledger easier to read; omit it and a prompt preview is used instead.
+    """
     if calib_mock_openai():
         return _mock_chat_json(user)
 
@@ -176,17 +226,25 @@ def chat_json(
     if mt is None:
         mt = int(env_mt) if env_mt.isdigit() else 16384
     limit_kw = _chat_completion_limit_kwargs(model, mt)
+    temp_kw: dict[str, float] = {} if _is_reasoning_family(model) else {"temperature": temperature}
     resp = client.chat.completions.create(
         model=model,
-        temperature=temperature,
         response_format={"type": "json_object"},
         messages=[
             {"role": "system", "content": system},
             {"role": "user", "content": user},
         ],
+        **temp_kw,
         **limit_kw,
     )
     content = (resp.choices[0].message.content or "").strip()
+    _append_ledger(
+        model=model,
+        call_tag=call_tag,
+        user_preview=user,
+        content=content,
+        usage=resp.usage,
+    )
     try:
         return json.loads(content)
     except json.JSONDecodeError as e:

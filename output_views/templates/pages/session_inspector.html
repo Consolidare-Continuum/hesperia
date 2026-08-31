@@ -108,6 +108,15 @@
             <dt>metrics</dt><dd>{% if metrics %}{{ metrics|length }} keys{% else %}—{% endif %}</dd>
           </dl>
         </details>
+        <details class="param-details" open>
+          <summary>TFP profile (grain / pack / dict_mode / structure)</summary>
+          <dl class="kv">
+            <dt>grain</dt><dd>{{ tfp_grain|default:"—" }}</dd>
+            <dt>pack</dt><dd>{{ tfp_pack|default:"—" }}</dd>
+            <dt>dict_mode</dt><dd>{{ tfp_dict_mode|default:"—" }}</dd>
+            <dt>structure</dt><dd><code class="mono">{{ tfp_structure|default:"—" }}</code></dd>
+          </dl>
+        </details>
         {% if modules_json %}
         <details class="param-details" open>
           <summary>TFP module</summary>

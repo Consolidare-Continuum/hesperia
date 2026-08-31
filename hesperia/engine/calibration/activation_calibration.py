@@ -1,5 +1,6 @@
 # HESPERIA — Activation Threshold Calibration
 # Copyright © 2026 igareosh.com. See LEGAL_NOTICE.md.
+# B1 agentic addresses: docs/recipes/chiron_tweaks/CHIRON-126-ADDRESS-MAP-2026-08-21.md (items 61–62)
 """
 Адаптивные пороги активации. Реальные данные требуют калибровки;
 по умолчанию используются значения, совместимые с clinical_bridge.
@@ -17,11 +18,22 @@ DEFAULT_AREA_ACTIVE_THRESHOLD = 0.05
 _CALIBRATION: dict[str, float] = {}
 
 
+def _default_calibration_yaml() -> Path:
+    """Canon path: assets/specs/canon/activation_calibration.yaml (repo root)."""
+    return (
+        Path(__file__).resolve().parents[3]
+        / "assets"
+        / "specs"
+        / "canon"
+        / "activation_calibration.yaml"
+    )
+
+
 def load_calibration_config(path: Path | str | None = None) -> dict[str, float]:
     """Загрузить конфиг калибровки (activation_threshold, area_active_threshold) из YAML."""
     global _CALIBRATION
     if path is None:
-        spec = Path(__file__).resolve().parents[2] / "spec" / "activation_calibration.yaml"
+        spec = _default_calibration_yaml()
     else:
         spec = Path(path)
     if not spec.exists():

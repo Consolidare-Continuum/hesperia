@@ -55,14 +55,14 @@ the `SemanticFieldParamsV1` set are physical diffusion-equation coefficients
 (Core Math Contract, Phase-N Theta, Semantic Field v1) — a naming collision worth flagging the same
 way `provenance.md` flags the KSI/KSI-Inspector collision.
 
-`assets/calibration/profiles_v1.json`'s `hex_field_reference` block (`alpha_H, beta_H, gamma_H,
-delta_H, dt`) is a fourth near-namesake set, but it is **not loaded by any live code path** —
-documentation-only reference values, dead weight in the calibration assets directory.
+`assets/calibration/profiles_v1.json` formerly carried a `hex_field_reference` block
+(`alpha_H, beta_H, gamma_H, delta_H, dt`) — a fourth near-namesake set never loaded by any code
+path. **Removed CHI-014-02** (Felix); sibling top-level profile keys remain live for Semantic Field
+via `calibration_profile.py`.
 
-Total distinct named constants across the subsystem: **~47** (30 Phase-N theta fields + 4 xi-proxy
-constants + 7 HCI calibration-index weights + 11 semantic-field-v1 constants + 1 DLCR blend weight
-`dlcr_alpha=0.22`, minus the 5 dead `profiles_v1.json` reference values if those are excluded from a
-"live" count) — comfortably the "more than 40" gap flagged.
+Total distinct named constants across the subsystem: **~42** live/off-path (30 Phase-N theta fields
++ 4 xi-proxy + 7 HCI + 11 semantic-field-v1 + 1 DLCR `dlcr_alpha=0.22`) — the five dead hex-reference
+names are retired hygiene, not a live count.
 
 ## Output reachability — the part that actually matters for how to read this corner
 

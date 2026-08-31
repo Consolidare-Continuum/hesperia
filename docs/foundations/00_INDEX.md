@@ -163,9 +163,9 @@ pytest-backed audit artifact accompanying a release.
 **What gap forced the jump:** a guard checking shape or value bounds is only
 as good as the canon it checks against, and at this stage area/family geometry
 and calibration thresholds were still being established empirically, not yet
-locked into one governed, versioned bundle. `7722d013`'s "10+2 topology
-decision" (10 operational areas, 2 reserved) is the origin of the 12-area
-structure Sigma still enforces today.
+locked into one governed, versioned bundle. Historical note: `7722d013` recorded an
+early "10+2" packing idea; **current default core/module grain is 12** (optional
+ten-area module is separate — see `docs/TOPOLOGY_INVARIANTS.md`).
 
 **What got added:** the first pytest-backed, timestamped sealed-audit-bundle
 release process (`final_gate sealed=true` as a literal checked field); the

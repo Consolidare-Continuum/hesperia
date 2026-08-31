@@ -39,6 +39,7 @@ from core.state.semantic_state import SemanticState
 from hesperia.engine.calibration_dict_paths import calibration_manifest, resolve_dict_file
 from hesperia.engine.concept_dictionary.executor import apply_cd_phase1, default_cd_path
 from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
+from hesperia.extensions.triz.topology_activation_pipeline import concept_id_to_area_family
 
 _DEFAULT_STOPWORDS: frozenset[str] = frozenset(
     {"и", "в", "на", "с", "к", "по", "но", "а", "я", "он", "мы"}
@@ -115,6 +116,20 @@ def _load_jsonl(path: Path) -> list[dict[str, Any]]:
         if line.strip():
             out.append(json.loads(line))
     return out
+
+
+def _hit_family_diversity_key(hit: Any) -> str:
+    """Family key (``A10_F10``) for the hit's primary candidate concept, used to
+    round-robin ``dict_a_max_accepted`` across families instead of a flat position
+    cut. Falls back to ``entry_id`` for ids that don't parse (still deterministic,
+    just not family-grouped) so the cap never silently ignores hits it can't parse.
+    """
+    cids = hit.candidate_concept_ids
+    if cids:
+        parsed = concept_id_to_area_family(str(cids[0]))
+        if parsed:
+            return parsed[1]
+    return f"_unparsed:{hit.entry_id}"
 
 
 def _merge_dict_b(paths: list[Path]) -> list[dict[str, Any]]:
@@ -638,6 +653,7 @@ def _analyze_internal(
         max_acc = int(raw_max)
     else:
         max_acc = None
+    diversity_key = _hit_family_diversity_key if pol.get("dict_a_family_diversity") else None
     smooth_alpha = float(engine_cfg.get("hex_smoothing_alpha") or pol.get("hex_smooth_alpha") or 0.0)
     hex_decay = float(engine_cfg.get("hex_decay") or get_constant("operator.decay_default", 0.05))
     ctx_win = int(pol.get("resolver_context_window") or 48)
@@ -653,7 +669,9 @@ def _analyze_internal(
     pair_counts = pair_counts_from_canonical(norm["canonical_text"], window=cooc_window)
     top_pairs = sorted(pair_counts.items(), key=lambda x: (-x[1], x[0]))[:24]
 
-    hits, rejected = match_dict_a(norm["canonical_text"], dict_a, max_accepted=max_acc)
+    hits, rejected = match_dict_a(
+        norm["canonical_text"], dict_a, max_accepted=max_acc, diversity_key=diversity_key
+    )
     span_outputs: list[dict[str, Any]] = []
     recent_winners: list[str] = []
     for hit in hits:
@@ -753,7 +771,9 @@ def _analyze_internal(
     segment_state = SemanticState(position=dict(anchor_registry))
     for _s, _e, seg in segment_by_newlines(text):
         sn = normalize_text(seg)
-        sh, _ = match_dict_a(sn["canonical_text"], dict_a, max_accepted=max_acc)
+        sh, _ = match_dict_a(
+            sn["canonical_text"], dict_a, max_accepted=max_acc, diversity_key=diversity_key
+        )
         seg_cw: dict[str, float] = {}
         for hit in sh:
             if _drop_low_quality_token(
@@ -800,7 +820,7 @@ def _analyze_internal(
         seg_summaries.append({"dominant_slot": dom_slot, "mass": mass, "invariants": seg_invariants})
     traj = trajectory_over_segments(seg_summaries)
 
-    _ = (pins, top_pairs, cross_fam, hits, rejected, span_outputs, cw, concept_weights_raw, concept_weights_stabilized, state_raw, state_post, conc, disp, fam_raw, area_raw, hits_288, deg_proj, seg_persist)
+    _ = (pins, top_pairs, cross_fam, hits, rejected, span_outputs, cw, concept_weights_raw, concept_weights_stabilized, state_raw, state_post, conc, disp, fam_raw, area_raw, deg_proj, seg_persist)
     failure_flags = classify_failures(
         {
             "segment_trajectory": traj,
@@ -848,6 +868,8 @@ def _analyze_internal(
         "negated_concept_ratio": 0.0,
         "concept_negation_burden": {},
     }
+    # CHI-004: surface family-hits vector for Field Dynamics DLCR blend (e2e_bridge).
+    result["family_hits_288"] = [round(float(x), 6) for x in hits_288]
     apply_crossplane_contradiction_fields_to_dlcr_result(result, contradiction_package)
     return result
 

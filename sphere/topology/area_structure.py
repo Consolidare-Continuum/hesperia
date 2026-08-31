@@ -6,7 +6,7 @@
 
 """
 LEVEL 1 area structure loader (TFP / Kernberg domain).
-Loads spec/area_structure_tfp.yaml: 10 areas with purpose and adjacency.
+Loads spec/area_structure_tfp.yaml: 12 areas (A1–A12) with purpose and adjacency.
 Used for reporting, diagnostics, and domain labels; topology graph remains in topology_loader.
 """
 
@@ -40,7 +40,7 @@ def load_area_structure_tfp(path: str | Path | None = None) -> dict[str, Any]:
 
 
 def get_operational_area_neighbors(area_index: int, path: str | Path | None = None) -> list[int]:
-    """Return list of neighboring area indices (0–9) for the given area. From YAML area_neighbors."""
+    """Return list of neighboring area indices (0–11) for the given area. From YAML area_neighbors."""
     data = load_area_structure_tfp(path)
     for a in data["areas"]:
         if a.get("area_index") == area_index:
@@ -49,9 +49,12 @@ def get_operational_area_neighbors(area_index: int, path: str | Path | None = No
 
 
 def get_area_distance_matrix(path: str | Path | None = None) -> list[list[int]]:
-    """Return 10×10 shortest-path distance matrix (operational subgraph). From YAML."""
+    """Return 12×12 shortest-path distance matrix (full icosahedron 0–11). From YAML."""
     data = load_area_structure_tfp(path)
     matrix = data.get("area_distance_matrix")
-    if not matrix or len(matrix) != 10:
-        raise ValueError("Area structure must have area_distance_matrix with 10 rows")
+    expected = int(data.get("public_area_count") or 12)
+    if not matrix or len(matrix) != expected:
+        raise ValueError(
+            f"Area structure must have area_distance_matrix with {expected} rows"
+        )
     return [list(row) for row in matrix]

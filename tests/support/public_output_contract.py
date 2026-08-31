@@ -67,7 +67,8 @@ def assert_multiscale_magnitude_bounds(out: dict[str, Any]) -> None:
     usf = out.get("usf") or {}
     rm = usf.get("raw_metrics") or {}
     mdv = rm.get("macro_domain_vector")
-    if isinstance(mdv, list) and len(mdv) == 10:
+    # Default core = length 12; optional ten-area module = length 10.
+    if isinstance(mdv, list) and len(mdv) in (10, 12):
         for i, x in enumerate(mdv):
             assert isinstance(x, (int, float)), f"macro_domain_vector[{i}] must be numeric"
             xf = float(x)
@@ -76,7 +77,10 @@ def assert_multiscale_magnitude_bounds(out: dict[str, Any]) -> None:
         # Low-signal inputs may yield a near-zero vector; when mass is present it must be normalized.
         if s > 1e-6:
             assert 0.98 <= s <= 1.02, f"macro_domain_vector must sum to ~1.0 when non-trivial, got {s}"
-
+    elif isinstance(mdv, list):
+        raise AssertionError(
+            f"macro_domain_vector length must be 12 (default) or 10 (ten-area module), got {len(mdv)}"
+        )
 
 def assert_canonical_structural_json_contract(out: dict[str, Any]) -> None:
     """

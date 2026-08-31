@@ -17,6 +17,10 @@ Run TFP-oriented pipelines on one or more session texts from a file.
   - ``05_sealed_multiscale.json`` — ``run_sealed_multiscale_stack`` per session.
   - ``06_product_analyze.json`` — ``runtime.pipeline.analyze.analyze`` minimal + extended per session.
   - Optional: ``07_session_kme.json``, ``08_triz_complete.json``, ``09_session_topology.json`` (flags).
+    ``09_session_topology.json`` sessions carry both ``areas_final`` (whole-session cumulative mass,
+    unchanged) and ``areas_working`` (segment-weighted, opening contract/frame window down-weighted)
+    plus their ``*_dominant`` ids (CHI-003-02, per CHI-003-01 verdict). Product "dominant area" =
+    ``areas_working``; calibration/audit code should keep citing ``areas_final``.
   - With ``--with-topology``: flat ``12_<session_id>_<artifact>.json`` in ``--out-dir`` (coactivation, contradictions,
     metrics, sparse family weights, ``cross_plane_audit.json``; no subfolders) unless ``--skip-triz-activation``.
     Pipeline exits **3** on ``TRIZ_DEAD_LAYER`` / topology+activation write failure.
@@ -47,9 +51,14 @@ _REPO = Path(__file__).resolve().parents[2]
 if str(_REPO) not in sys.path:
     sys.path.insert(0, str(_REPO))
 
+from hesperia.extensions.triz.topology_activation_pipeline import concept_id_to_area_family
+from hesperia.engine.calibration_dict_paths import resolve_dict_file
+from hesperia.modules.tfp.data.tfp_v1.postgres.corpus_grounding import corpus_support
+
 CANONICAL_CONTRADICTION_SOURCE = "12_topology_derived_contradictions"
 MIN_CANONICAL_CONTRADICTION_SCORE = 0.15
 MAX_CANONICAL_CONTRADICTIONS_FOR_ACTIVATION = 250
+GROUNDING_GRANULARITY = "family"
 
 
 def _round_floats(obj: Any, ndigits: int = 6) -> Any:
@@ -155,6 +164,51 @@ def _concept_pair(row: dict[str, Any]) -> tuple[str, str]:
     return (left, right) if left <= right else (right, left)
 
 
+def _structural_family_key(concept_id: str) -> str:
+    parsed = concept_id_to_area_family(concept_id)
+    if parsed:
+        return parsed[1]
+    cid = str(concept_id or "").strip()
+    return cid or "_unparsed"
+
+
+def _structural_area_key(concept_id: str) -> str:
+    parsed = concept_id_to_area_family(concept_id)
+    if parsed:
+        return parsed[0]
+    cid = str(concept_id or "").strip()
+    return cid or "_unparsed"
+
+
+def _aggregate_structural_hits(lexical_concept_counts: dict[str, int]) -> tuple[dict[str, int], dict[str, int]]:
+    """Roll per-concept lexical hits up to family and area keys used by coactivation."""
+    family_hits: dict[str, int] = {}
+    area_hits: dict[str, int] = {}
+    for cid, n in lexical_concept_counts.items():
+        hits = int(n)
+        family_key = _structural_family_key(cid)
+        area_key = _structural_area_key(cid)
+        family_hits[family_key] = family_hits.get(family_key, 0) + hits
+        area_hits[area_key] = area_hits.get(area_key, 0) + hits
+    return family_hits, area_hits
+
+
+def _pair_family_hits(
+    left: str,
+    right: str,
+    family_hits: dict[str, int],
+) -> tuple[int, int]:
+    return (
+        int(family_hits.get(_structural_family_key(left), 0)),
+        int(family_hits.get(_structural_family_key(right), 0)),
+    )
+
+
+def _pair_family_grounded(left: str, right: str, family_hits: dict[str, int]) -> bool:
+    left_family_hits, right_family_hits = _pair_family_hits(left, right, family_hits)
+    return left_family_hits > 0 and right_family_hits > 0
+
+
 def _score_value(row: dict[str, Any]) -> float:
     raw = row.get("raw_contradiction_score", row.get("score", 0.0))
     try:
@@ -178,7 +232,23 @@ def _build_contradiction_reconciliation(
     topology_rows: list[dict[str, Any]],
     lexical_hits_accepted: int,
     lexical_concept_counts: dict[str, int],
+    dict_b_path: Path | None = None,
 ) -> dict[str, Any]:
+    """Reconcile direct TRIZ vs topology-derived contradictions.
+
+    Grounding for ``zero_lexical_evidence_share`` / ``inferred_share`` is family
+    granularity: topology pairs are family-expanded, so a never-hit sibling is
+    still grounded when another member of that family was lexically hit.
+    Concept-level shares stay in ``*_concept`` fields as diagnostics.
+
+    ``truth_point_accumulation`` (per-pair ``T = max(L, S*W)``, mean across the
+    session) is a second, additive signal, not a replacement for the family-grain
+    checks above and not wired into any gate yet: ``L`` is the existing family
+    grounding (0/1), ``S``/``W`` come from ``tfp_corpus`` (Postgres) trigram
+    support + corpus-document-redundancy weight -- see corpus_grounding.py. If
+    Postgres is unreachable, S=W=0 for everything and T reduces to L, so this
+    never changes pipeline behavior on its own, only reports.
+    """
     direct_ids: dict[str, dict[str, Any]] = {}
     topology_ids: dict[str, dict[str, Any]] = {}
     for idx, row in enumerate(direct_rows):
@@ -192,22 +262,56 @@ def _build_contradiction_reconciliation(
     canonical_count = len(topology_rows)
     ratio = float(canonical_count) / float(max(lexical_hits_accepted, 1))
 
+    family_hits, area_hits = _aggregate_structural_hits(lexical_concept_counts)
+    all_concept_ids: set[str] = set()
+    for row in topology_rows:
+        left, right = _concept_pair(row)
+        all_concept_ids.add(left)
+        all_concept_ids.add(right)
+    truth_support = corpus_support(all_concept_ids, dict_b_path) if all_concept_ids else {}
+
     per_contradiction_audit: list[dict[str, Any]] = []
     inferred_count = 0
     zero_lex_count = 0
+    zero_concept_count = 0
+    inferred_concept_count = 0
+    zero_area_count = 0
+    truth_sum = 0.0
     seg_counts: dict[str, int] = {}
     for idx, row in enumerate(topology_rows):
         left, right = _concept_pair(row)
         left_hits = int(lexical_concept_counts.get(left, 0))
         right_hits = int(lexical_concept_counts.get(right, 0))
         direct_support = left_hits + right_hits
+        left_family_key = _structural_family_key(left)
+        right_family_key = _structural_family_key(right)
+        left_area_key = _structural_area_key(left)
+        right_area_key = _structural_area_key(right)
+        left_family_hits, right_family_hits = _pair_family_hits(left, right, family_hits)
+        left_area_hits = int(area_hits.get(left_area_key, 0))
+        right_area_hits = int(area_hits.get(right_area_key, 0))
+        family_both = left_family_hits > 0 and right_family_hits > 0
+        area_both = left_area_hits > 0 and right_area_hits > 0
         segment_id = row.get("segment_id")
         if segment_id is not None:
             seg_key = str(segment_id)
             seg_counts[seg_key] = seg_counts.get(seg_key, 0) + 1
-        if direct_support <= 0:
-            inferred_count += 1
+        if not family_both:
             zero_lex_count += 1
+        if left_family_hits <= 0 and right_family_hits <= 0:
+            inferred_count += 1
+        if direct_support <= 0:
+            zero_concept_count += 1
+            inferred_concept_count += 1
+        if not area_both:
+            zero_area_count += 1
+        left_support = truth_support.get(left, {"S": 0.0, "W": 0.0, "status": "unavailable"})
+        right_support = truth_support.get(right, {"S": 0.0, "W": 0.0, "status": "unavailable"})
+        s_pair = min(float(left_support["S"]), float(right_support["S"]))
+        w_pair = min(float(left_support["W"]), float(right_support["W"]))
+        l_value = 1.0 if family_both else 0.0
+        truth_point = max(l_value, s_pair * w_pair)
+        truth_sum += truth_point
         per_contradiction_audit.append(
             {
                 "id": _contradiction_id(row, idx=idx),
@@ -217,10 +321,25 @@ def _build_contradiction_reconciliation(
                     "left_concept_hits": left_hits,
                     "right_concept_hits": right_hits,
                     "total_hits": direct_support,
+                    "left_family_key": left_family_key,
+                    "right_family_key": right_family_key,
+                    "left_family_hits": left_family_hits,
+                    "right_family_hits": right_family_hits,
+                    "left_area_key": left_area_key,
+                    "right_area_key": right_area_key,
+                    "left_area_hits": left_area_hits,
+                    "right_area_hits": right_area_hits,
                 },
-                "direct_vs_inferred": "direct" if direct_support > 0 else "inferred",
+                "direct_vs_inferred": "direct" if family_both else "inferred",
                 "confidence": round(_score_value(row), 6),
                 "provenance_class": row.get("triz_class") or "topology_derived",
+                "truth_point": {
+                    "L": l_value,
+                    "S": round(s_pair, 6),
+                    "W": round(w_pair, 6),
+                    "T": round(truth_point, 6),
+                    "corpus_status": [left_support.get("status"), right_support.get("status")],
+                },
             }
         )
 
@@ -253,8 +372,19 @@ def _build_contradiction_reconciliation(
             "canonical_contradiction_count": canonical_count,
             "contradictions_per_accepted_lexical_hit": round(ratio, 6),
             "suspicious_overproduction": bool(canonical_count > lexical_hits_accepted * 5),
+            "grounding_granularity": GROUNDING_GRANULARITY,
             "zero_lexical_evidence_share": round(float(zero_lex_count) / float(max(canonical_count, 1)), 6),
             "inferred_share": round(float(inferred_count) / float(max(canonical_count, 1)), 6),
+            "zero_lexical_evidence_share_concept": round(
+                float(zero_concept_count) / float(max(canonical_count, 1)), 6
+            ),
+            "inferred_share_concept": round(
+                float(inferred_concept_count) / float(max(canonical_count, 1)), 6
+            ),
+            "truth_point_accumulation": round(truth_sum / float(max(canonical_count, 1)), 6),
+            "zero_area_lexical_evidence_share": round(
+                float(zero_area_count) / float(max(canonical_count, 1)), 6
+            ),
             "segment_entropy": round(seg_entropy, 6),
         },
         "per_contradiction_audit": per_contradiction_audit,
@@ -269,16 +399,16 @@ def _filter_canonical_contradictions_for_activation(
     """
     Produce a conservative contradiction set for activation.
 
-    Goal: avoid centralizing topology-derived noise when lexical grounding is thin.
-    This is intentionally simple: prefer grounded rows, then score threshold, then cap.
+    Prefer family-grounded rows (same grain as coactivation), then score threshold, then cap.
     """
+    family_hits, _ = _aggregate_structural_hits(lexical_concept_counts)
     kept: list[dict[str, Any]] = []
     dropped: list[dict[str, Any]] = []
     for row in rows:
         left, right = _concept_pair(row)
-        support = int(lexical_concept_counts.get(left, 0)) + int(lexical_concept_counts.get(right, 0))
+        family_both = _pair_family_grounded(left, right, family_hits)
         score = _score_value(row)
-        if support > 0 or score >= MIN_CANONICAL_CONTRADICTION_SCORE:
+        if family_both or score >= MIN_CANONICAL_CONTRADICTION_SCORE:
             kept.append(row)
         else:
             dropped.append(row)
@@ -299,11 +429,7 @@ def _filter_canonical_contradictions_for_activation(
             1
             for r in dropped
             if _score_value(r) < MIN_CANONICAL_CONTRADICTION_SCORE
-            and (
-                int(lexical_concept_counts.get(_concept_pair(r)[0], 0))
-                + int(lexical_concept_counts.get(_concept_pair(r)[1], 0))
-                <= 0
-            )
+            and not _pair_family_grounded(*_concept_pair(r), family_hits)
         ),
         "dropped_by_cap": len(dropped_extra),
     }
@@ -458,7 +584,10 @@ def run_pipeline(
         CURVE_CALIBRATION_REFERENCE,
         DEFAULT_SESSION_TOPOLOGY_RUN_PARAMS,
         run_session_topology,
+        compute_areas_working,
     )
+    from research.clinical_tfp.interpretation import get_dominant_area
+    from research.clinical_tfp.pole_cascade import build_pole_cascade
     from hesperia.extensions.triz.contradiction_calibration import (
         build_calibration_snapshot,
         build_calibration_usage_trace,
@@ -694,6 +823,30 @@ def run_pipeline(
                         "_segments_truncated": True,
                         "_segments_total": len(segs),
                     }
+                # CHI-003-02: dual signal per CHI-003-01 verdict — areas_final (cumulative,
+                # unchanged) stays the calibration-audit figure; areas_working (segment-weighted,
+                # opening contract/frame window down-weighted) is the product "dominant area".
+                areas_final_here = (
+                    act_plain.get("areas_final") if isinstance(act_plain, dict) else None
+                ) or {}
+                areas_working = compute_areas_working(full.get("segments") or [])
+                # TFP-POLES-01: pole_cascade audit — seed/hop-1/hop-2/tension for A11/A12,
+                # from the pre-/post-inhibition vectors (act_plain), not areas_final/working
+                # (those are cumulative/segment-weighted, not the raw inhibition seed).
+                areas_raw_here = (
+                    act_plain.get("areas_raw") if isinstance(act_plain, dict) else None
+                ) or {}
+                areas_inhibited_here = (
+                    act_plain.get("areas_inhibited") if isinstance(act_plain, dict) else None
+                ) or {}
+                full = {
+                    **full,
+                    "areas_final": areas_final_here,
+                    "areas_final_dominant": get_dominant_area(areas_final_here) or None,
+                    "areas_working": areas_working,
+                    "areas_working_dominant": get_dominant_area(areas_working) or None,
+                    "pole_cascade": build_pole_cascade(areas_raw_here, areas_inhibited_here),
+                }
                 session_topo.append({"session_id": sid, "session_topology": full})
             except Exception as ex:  # noqa: BLE001
                 session_topo.append({"session_id": sid, "_error": str(ex)})
@@ -812,8 +965,15 @@ def run_pipeline(
                 from hesperia.engine.kme.clinical_bridge import run_session_kme_pipeline
                 from core.domain.pipeline import metric_report_to_dict
                 from core.projection import apply_public_projection
+                from hesperia.ontology.dictA import build_marker_to_concepts
 
-                report = run_session_kme_pipeline(t, source_id=sid)
+                # CHI-002-01: make the single-token marker channel explicit at this call site
+                # (verified: session_parser._get_marker_index() already resolves to the same
+                # build_marker_to_concepts() when marker_index is left None, so this is a
+                # no-behavior-change robustness/clarity pin, not a live-bug fix).
+                report = run_session_kme_pipeline(
+                    t, source_id=sid, marker_index=build_marker_to_concepts()
+                )
                 body = apply_public_projection(
                     {"session_id": sid, "input": _text_preview(t), "report": metric_report_to_dict(report)}
                 )
@@ -1006,6 +1166,7 @@ def run_pipeline(
         }
 
     # Explicit contradiction truth table (v0.5.9 authority-chain reconciliation).
+    dict_b_path = resolve_dict_file(_REPO, "dict_b.jsonl")
     for sid in sids:
         direct_rows = _extract_contradictions_from_08(out_dir / "08_triz_complete.json", sid)
         topology_rows = _extract_contradictions_from_12(out_dir, sid)
@@ -1017,6 +1178,7 @@ def run_pipeline(
                 topology_rows=topology_rows,
                 lexical_hits_accepted=int(lexical.get("lexical_hits_accepted") or 0),
                 lexical_concept_counts=dict(lexical.get("concept_counts") or {}),
+                dict_b_path=dict_b_path,
             )
         )
     p13 = out_dir / "13_contradiction_reconciliation.json"
@@ -1328,6 +1490,18 @@ def main() -> int:
     )
     args = ap.parse_args()
 
+    if args.with_topology and not args.with_triz:
+        print(
+            "WARNING: --with-topology without --with-triz uses a coarse synthetic "
+            "family-cluster fallback (synthetic_clusters_from_coactivation_edges), not real "
+            "TRIZ innovation_clusters. This can trip family_weights_sparsify's uniformity "
+            "gate (errors: ['triz_activation_write:...uniformity:...']) on real fixtures — "
+            "that's the fallback's coarse clustering, not a calibration regression. Pass "
+            "--with-triz too if you want the real cluster source. "
+            "See docs/foundations/parameter_synergies.md §7.",
+            file=sys.stderr,
+        )
+
     inp = args.input.resolve()
     if not inp.is_file():
         print(f"ERROR: input not a file: {inp}", file=sys.stderr)
@@ -1335,6 +1509,11 @@ def main() -> int:
 
     if not args.no_dlcr_domain_pack:
         os.environ["HESPERIA_DLCR_DOMAIN_PACK"] = "tfp"
+
+    # CHI-002-01: batch KME never called apply_analyze_profile_defaults(profile="tfp") like
+    # live /analyze does, so area_math_grain silently resolved to the core default (12) instead
+    # of TFP's own 10-area ontology. setdefault only — explicit HESPERIA_AREA_MATH_GRAIN still wins.
+    os.environ.setdefault("HESPERIA_AREA_MATH_GRAIN", "10")
 
     try:
         sessions = load_sessions(inp)
