@@ -1,5 +1,36 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 (5th pass) — long-run reclaim: fixed alignment check + closed a hallucination leak it exposed
+
+Targeted the biggest pool the 4th-pass entry left unresolved: 5,237 long-run candidates the
+coverage check had downgraded. Root cause confirmed: `\b(\w+)(\1)\b` needs a word boundary between
+the two repeats, which doesn't exist inside a no-space glued blob, so it could never actually
+collapse a duplicate like "RootsRoots" — a real de-dup ("RootsRootsooffCaring" -> "Roots of
+Caring") scored 0.65 and got thrown out with genuine content-loss cases. Replaced with sequential
+word-order alignment against the correction (allow each word once or twice consecutively, small
+fuzzy slack for the corpus's "of"->"off" rendering pattern). Free re-check against the existing
+pool (no API calls) reclaimed 2,655.
+
+Validating that on a broader sample surfaced a second, unanticipated leak: the alignment only
+checked one direction (original's content must survive in the correction) — it never checked that
+every word in the *correction* traces back to the original, so a handful of results had small
+hallucinated additions the length-ratio over-completion check was too coarse to catch:
+"accountooffmoral" -> "...moral **development**", "sharesomesomeooffthe" -> "...the
+**privileges**", "consequencesofofsuch" -> "...such **an ideology**" — each individually small
+enough to stay under the 1.3x length threshold. Fixed: any correction word (>=3 chars) unmatched
+anywhere in the walk now fails the check, symmetric to the content-loss direction. Also reinforced
+the prompt (explicit "off"=="of" rule, explicit no-addition rule) and redid all 9,391 long-run
+suspects fresh against both fixes together, rather than patch old-prompt corrections — 3,139
+applied (`f43aff8f`/CC `51d25bd`), on top of the 4th-pass entry's 3,079, for 6,218 long-run fixes
+total. All three flagged hallucination cases reverified as correctly excluded (still present,
+unfixed, in the corpus) before commit, not just assumed fixed.
+
+**Still open**: ~2,276 long-run suspects the model itself rejects outright (genuinely ambiguous,
+untried: bigger context window or a stronger model, both cheap given the small pool), and whatever
+fraction of the remaining content-loss/over-completion-excluded pool a further prompt/algorithm
+round could still reclaim — not attempted further this pass, diminishing-returns territory rather
+than a known gap.
+
 ## 2026-08-31 (4th pass) — OCR word-level errors closed via LLM (sentence-context, two safety nets), corpus now word-level grinded
 
 Closes the item the 3rd-pass entry below left open — that entry's two non-LLM attempts (dictionary
